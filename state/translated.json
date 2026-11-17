@@ -289024,5 +289024,276 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "CellStressDB：物理的ストレス要因に対する細胞応答のAI搭載データベース",
     "abstract_ja": "要旨物理的ストレス因子は、シグナル伝達、遺伝子発現、代謝、および細胞運命を調節する協調的なストレス応答プログラムを誘発することで、細胞挙動に多大な影響を及ぼす。本研究では、物理的ストレス因子に対する細胞応答を探索するためのAI搭載データベースであるCellStressDB（https://cellstressdb.omic.tech）を提案する。今回のリリースには、131件のトランスクリプトーム研究のデータが含まれており、9つの物理的ストレスクラスと21の組織カテゴリーにわたる、ヒトおよびマウスの細胞サンプル2,364,816件およびバルクサンプル1,205件の観測データが収録されている。データと解析結果は、詳細な曝露条件を保持したまま、71の標準的な種・組織・ストレスコンテキストにわたる2,848件のインデックス付き解析エントリとして整理されている。CellStressDBは、22種類の組織認識型分類器を通じてオントロジーに基づく細胞型アノテーションを提供し、コンテキスト固有のin silico摂動のための941件のGeneformerチェックポイントを組み込んでいる。解析項目には、ストレス応答プログラム、遺伝子発現変動、機能エンリッチメント、レギュロン活性、細胞型組成、および該当する場合は細胞間コミュニケーションが含まれ、候補化合物の優先順位付け、ダウンロード可能なデータセットおよびモデル、ならびにユーザー提供のトランスクリプトームデータの解析機能も備えている。アノテーション評価および既知因子の回収解析により、生物学的環境に応じた性能とカバレッジが示された。マウスの放射線照射腸管の例では、独立した実験的根拠に基づき、Stat1が放射線誘発性腸管損傷の候補調節因子として同定されている。総じて、CellStressDBは、物理的ストレス因子に対する細胞応答を探索・解釈し、検証可能な仮説を立案するための、統合的なAI搭載フレームワークを提供するものである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1986693",
+    "title": "Skin microbiota–T-cell immune crosstalk and disease progression in stasis dermatitis: from chronic inflammation to venous ulceration",
+    "abstract": "Stasis dermatitis (SD) is an inflammatory skin disorder associated with chronic venous disease, and some patients progress to venous leg ulcers (VLUs). In addition to persistent venous hypertension, interactions among the skin microbiota, T-cell immunity, barrier injury, and the tissue microenvironment may be involved in disease chronicity. This review integrates evidence from SD, chronic venous disease, VLU, and related skin and wound studies, focusing on bidirectional crosstalk between the skin microbiota and T-cell immunity. Microbial antigens, virulence factors, metabolites, and extracellular vesicles can regulate local T-cell responses, while T cells can reciprocally shape the microbial niche by influencing antimicrobial defense, the skin barrier, and tissue repair. Based on current evidence, we further propose a stage-specific model of progression from SD to VLU, in which venous hypertension and barrier injury, chronic inflammation and tissue remodeling, and persistent microbial colonization, biofilms, and repair failure successively become predominant. Future longitudinal and multi-omics studies are needed to clarify the causal roles of microbe–immune interactions and inform patient stratification and precision interventions.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1986693",
+    "date": "2026-11-17",
+    "authors": "Jian Che",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1986693",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbe",
+        "microbial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5053,
+    "collected_at": "2026-11-17T14:33:57.890691+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.3389/fmicb.2026.1986693"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c8c0bbfe4f37a0fa22518d039e0b9259341e6282325e647f39a47399138d92de",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:09:24.535690+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "346c1b6d1151bddd40af60873d0fa8d450cc9a94a81605f9ec1b17ef0173f0dc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:09:24.535690+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "うっ滞性皮膚炎における皮膚微生物叢－T細胞免疫クロストークと疾患進展：慢性炎症から静脈性潰瘍形成まで",
+    "abstract_ja": "皮膚うっ滞性皮膚炎（SD）は慢性静脈疾患に伴う炎症性皮膚疾患であり、一部の患者では下肢静脈性潰瘍（VLU）へと進展する。持続的な静脈性高血圧に加え、皮膚微生物叢、T細胞免疫、バリア損傷、および組織微小環境の相互作用が、疾患の慢性化に関与している可能性がある。本総説では、SD、慢性静脈疾患、VLU、および関連する皮膚・創傷研究のエビデンスを統合し、皮膚微生物叢とT細胞免疫の双方向的な相互作用に焦点を当てる。微生物抗原、病原因子、代謝産物、および細胞外小胞は局所的なT細胞応答を調節し得る一方、T細胞は抗菌防御、皮膚バリア、および組織修復に影響を及ぼすことで、相互に微生物ニッチを形成し得る。現在のエビデンスに基づき、我々はさらに、SDからVLUへの進展に関するステージ別モデルを提案する。このモデルでは、静脈性高血圧とバリア損傷、慢性炎症と組織リモデリング、および持続的な微生物定着、バイオフィルム、ならびに修復不全が順次優位となる。微生物と免疫の相互作用の因果的役割を解明し、患者の層別化および精密介入に役立てるためには、今後の縦断的研究およびマルチオミクス研究が必要である。"
+  },
+  {
+    "id": "10.1093/nar/gkag1183",
+    "title": "HIPPIE 3.0: expanding experimental evidence for mining and predicting protein interaction networks",
+    "abstract": "AbstractProtein–protein interactions (PPIs) are central to cellular function, disease gene identification, and therapeutic targeting. Human Integrated Protein–Protein Interaction rEference (HIPPIE) provides a confidence-scored reference network of experimentally supported human PPIs by integrating evidence from multiple resources and assigning reliability scores to individual interactions. Here, we present HIPPIE 3.0, a major update that substantially expands the scale and scope of the resource. HIPPIE now contains ~1.2 million experimentally supported PPIs, a fourfold increase since the last major release, including 71 000 isoform-specific interactions. Beyond interaction data, HIPPIE captures the underlying experimental search space by incorporating non-interacting protein pairs experimentally tested, and provides large-scale cross-species conservation annotations. This release expands the catalog of experimental methods, recalibrates confidence scores, and introduces a redesigned web interface that improves data access and exploration. To support machine learning applications, HIPPIE 3.0 provides high-confidence positive interactions and negative training datasets, together with tools for generating sequence-similarity- and degree-aware benchmark splits to reduce performance inflation caused by data leakage. By combining an expanded experimental interactome with benchmark-generation strategies tailored for PPI prediction, HIPPIE 3.0 serves as both a reference interactome and a platform for evaluating PPI prediction methods. HIPPIE 3.0 is freely available at hippie-db.net.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1183",
+    "date": "2026-11-17",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1183/9079901?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5044,
+    "collected_at": "2026-11-17T14:33:57.890691+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.1093/nar/gkag1183"
+    ],
+    "translation": {
+      "title": {
+        "hash": "56628547b11eba42d04ce566f0b8684098d96b9b34b20a2e3fa0b0f41a6551f0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:09:24.535690+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1f5780791037fa519fb6eebe237dd308fc041dc5fbfa28e8062e592564ccde6f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:09:24.535690+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "HIPPIE 3.0: タンパク質相互作用ネットワークのマイニングと予測に関する実験的根拠の拡充",
+    "abstract_ja": "要旨タンパク質間相互作用（PPI）は、細胞機能、疾患遺伝子の同定、および治療標的化において中核的な役割を担っている。Human Integrated Protein–Protein Interaction Reference（HIPPIE）は、複数のリソースからのエビデンスを統合し、個々の相互作用に信頼性スコアを付与することで、実験的に裏付けられたヒトPPIの信頼度スコア付きリファレンスネットワークを提供する。本稿では、本リソースの規模と範囲を大幅に拡大したメジャーアップデートであるHIPPIE 3.0を紹介する。HIPPIEには現在、前回のメジャーリリースから4倍に増加した約120万件の実験的に裏付けられたPPIが含まれており、そのうち7万1,000件はアイソフォーム特異的な相互作用である。相互作用データに加え、HIPPIEは実験的に検証された非相互作用タンパク質ペアを組み込むことで基礎となる実験的探索空間を捉え、大規模な種間保存アノテーションを提供している。本リリースでは、実験手法のカタログを拡充し、信頼度スコアを再較正するとともに、データアクセスと探索を向上させる再設計されたウェブインターフェースを導入した。機械学習アプリケーションをサポートするため、HIPPIE 3.0では信頼度の高い正の相互作用および負の学習データセットを提供するとともに、データリークによる性能インフレーションを抑制するため、配列類似度および次数を考慮したベンチマーク分割を生成するツールを提供している。拡張された実験的インタラクトームと、PPI予測に特化したベンチマーク生成戦略を組み合わせることで、HIPPIE 3.0はリファレンス・インタラクトームとして、またPPI予測手法を評価するためのプラットフォームとして機能する。HIPPIE 3.0はhippie-db.netにて無料で利用可能である。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1957908",
+    "title": "Advances in microbiome methods for plant-soil interactions in agricultural systems",
+    "abstract": "Research on plant-soil microbiomes increasingly relies on methods that go beyond characterizing microbial community composition to investigate microbial activity, ecological processes, and plant responses. Traditional cultivation techniques and early molecular fingerprinting laid the groundwork for microbial ecology, while advances in high-throughput sequencing, mass spectrometry, bioinformatics, and single-cell imaging have broadened the scope of microbiome research. Nevertheless, no single method can simultaneously characterize microbial identity, functional potential, actual activity, spatial organization, and effects on plant performance. Sequencing approaches can identify taxa and genes, but these findings alone cannot confirm gene expression or establish that microbial processes directly cause plant responses. Similarly, transcriptomic, proteomic, and metabolomic analyses each have specific sampling requirements, detection limitations, and interpretive challenges. This review examines key microbiome methods used in agricultural soils and plant-microbe research through an evidence-based framework that differentiates community composition, functional potential, molecular activity, spatially resolved processes, and host-level outcomes. It evaluates the strengths and limitations of sequencing, metaproteomics, metabolomics, bioinformatics, and single-cell techniques, highlighting situations in which complementary approaches can improve the reliability of scientific conclusions. The review also addresses challenges related to sample preparation, reference databases, methodological standardization, and multi-omics integration. Finally, it outlines research priorities for connecting microbial measurements with nutrient acquisition, pathogen suppression, stress responses, and agricultural productivity, emphasizing independent validation, reproducibility, and the careful application of microbiome findings to agricultural management.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1957908",
+    "date": "2026-11-17",
+    "authors": "Hafeez Noor",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1957908",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbe",
+        "microbial",
+        "microbiome",
+        "microbiomes"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5054,
+    "collected_at": "2026-11-17T14:33:57.890691+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.3389/fmicb.2026.1957908"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5bdb55ae96c283449f8638e3f373feb7b8266a23bfccbc6384ce013776e6a62f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:09:24.535690+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e70c148e3ce411583d635caaf99570be7c5bb254a859b4d905c7823fb679265f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:09:24.535690+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "農業システムにおける植物－土壌相互作用のマイクロバイオーム手法の進展",
+    "abstract_ja": "植物・土壌マイクロバイオームの研究では、微生物群集組成の特性評価にとどまらず、微生物活性、生態学的プロセス、および植物応答を調査する手法への依存度が高まっている。従来の培養技術と初期の分子フィンガープリント法が微生物生態学の基礎を築き、その後、ハイスループットシーケンシング、質量分析法、バイオインフォマティクス、およびシングルセルイメージングの進展により、マイクロバイオーム研究の範囲が拡大した。しかしながら、微生物の同定、機能的ポテンシャル、実際の活性、空間的組織化、および植物の生育成績への影響を同時に特性評価できる単一の手法は存在しない。シーケンシング手法では分類群や遺伝子を同定できるが、これらの知見だけでは遺伝子発現を確定したり、微生物プロセスが直接的に植物応答を引き起こすことを立証したりすることはできない。同様に、トランスクリプトーム解析、プロテオーム解析、およびメタボローム解析には、それぞれ固有のサンプリング要件、検出上の限界、および解釈上の課題がある。本総説では、農業土壌および植物・微生物研究で用いられる主要なマイクロバイオーム手法について、群集組成、機能的ポテンシャル、分子活性、空間的に分解されたプロセス、および宿主レベルの結果を区別するエビデンスに基づく枠組みを用いて検討する。また、シーケンシング、メタプロテオミクス、メタボロミクス、バイオインフォマティクス、およびシングルセル技術の強みと限界を評価し、相補的なアプローチによって科学的結論の信頼性を高められる状況を明らかにする。さらに、試料調製、リファレンスデータベース、手法の標準化、およびマルチオミクス統合に関連する課題についても取り上げる。最後に、微生物測定値を養分獲得、病原体抑制、ストレス応答、および農業生産性と結びつけるための研究優先事項を概説し、独立した検証、再現性、およびマイクロバイオームの知見を農業管理に慎重に適用することの重要性を強調する。"
+  },
+  {
+    "id": "10.1093/nar/gkag1130",
+    "title": "tRNA database 2026, extended compilation of tRNA sequences and tRNA genes",
+    "abstract": "AbstractThe tRNAdb database, published >15 years ago, originated as an extension of Mathias Sprinzl’s seminal collection of transfer RNA (tRNA) data dating back to the late 1970s. Throughout its lifespan, the tRNAdb has been used extensively, accumulating >1000 citations. Here, we present tRNAdb 2026, https://tdb.bioinf.uni-leipzig.de/, an updated version hosted at Leipzig University. The tRNAdb 2026 features an ~10-fold increase in data coverage, containing >500 000 new mitochondrial and nuclear tRNA sequences together with the unaltered legacy dataset. Importantly, identifiers and metadata of the legacy dataset remain consistent with the original database, ensuring that previously published references remain valid and findable. The expanded dataset integrates publicly available tRNA annotations and sequences generated using contemporary prediction pipelines followed by semiautomated curation to ensure annotation quality and consistency. In addition, cross-references to external resources such as gtRNAdb facilitate interoperability with existing tRNA annotation frameworks. A modern web-based frontend provides intuitive and efficient access to tRNAdb 2026, while an Application Programming Interface enables automated data retrieval and integration into bioinformatics workflows. To support transparent scientific documentation and reproducibility across future updates, we added a versioning system for both current and future database releases.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1130",
+    "date": "2026-11-17",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1130/9079897?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "database",
+        "gene",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5045,
+    "collected_at": "2026-11-17T14:33:57.890691+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.1093/nar/gkag1130"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d6dac0c0e31cb54b41995370b43bd7e40fc0e3af7f0e12d639583624dda1edf7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:09:24.535690+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3e737c4b60715860fce171f1e6544e269177f1b3b2333dd380d7a686b0e6b31e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:09:24.535690+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "tRNAデータベース2026、tRNA配列およびtRNA遺伝子の拡張版",
+    "abstract_ja": "要旨 15年以上前に公開されたtRNAdbデータベースは、1970年代後半にまで遡るMathias Sprinzlによる先駆的な転移RNA（tRNA）データコレクションを拡張したものである。その運用期間を通じて、tRNAdbは幅広く利用され、1,000件以上の引用実績を積み上げてきた。本稿では、ライプツィヒ大学がホストする更新版であるtRNAdb 2026（https://tdb.bioinf.uni-leipzig.de/）を紹介する。tRNAdb 2026では、データカバレッジが約10倍に拡大し、変更のないレガシーデータセットに加え、50万件以上の新たなミトコンドリアおよび核tRNA配列が収録されている。重要な点として、レガシーデータセットの識別子およびメタデータは元のデータベースと整合性が保たれており、既報の文献が引き続き有効であり、検索可能であることが保証されている。拡張されたデータセットには、公開されているtRNAアノテーションと、現代的な予測パイプラインを用いて生成された配列が統合されており、アノテーションの品質と一貫性を確保するために半自動キュレーションが行われている。さらに、gtRNAdbなどの外部リソースへの相互参照により、既存のtRNAアノテーションフレームワークとの相互運用性が促進される。モダンなウェブベースのフロントエンドにより、tRNAdb 2026への直感的かつ効率的なアクセスが可能となり、アプリケーションプログラミングインターフェース（API）によってデータの自動取得やバイオインフォマティクスワークフローへの統合が実現している。将来のアップデートにおける透明性の高い科学的ドキュメンテーションと再現性を支援するため、現行および将来のデータベースリリースの両方を対象としたバージョン管理システムを導入した。"
   }
 ]
