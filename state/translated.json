@@ -290738,5 +290738,309 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "分子分解能推論による転写プログラムの空間的構成の解明",
     "abstract_ja": "転写プログラムは細胞のアイデンティティと生理活性を符号化し、遺伝子調節を細胞表現型へと結びつける。空間トランスクリプトミクスは無傷の組織全体にわたって個々のRNA分子を測定するが、ほとんどの解析ではそれらを細胞やピクセル単位で集約するため、分子レベルの機能的動態が不明瞭になる。本研究では、セグメンテーションやビンニングを行わず、遺伝子アイデンティティと空間的コンテキストのみを用いて、個々の分子が生成される転写プログラムを推論する統計モデルFICTURE2を提案する。FICTURE2は、ミリメートルスケールの連続的な遷移からミクロンスケールの細胞内局在に至るまで、異なる空間分布を持つプログラムを学習し、それらが共存するパターンから、細胞のアイデンティティと生理活性の両方を統一的な解釈で明らかにする。FICTURE2は教師なし推論とリファレンスガイド付き推論の両方をサポートし、他の手法よりも数桁効率的である。様々な空間技術でプロファイリングされた多様な組織タイプのデータを用いて実証するように、大規模な空間データセットの体系的な解析を可能にする。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11275405/v1",
+    "title": "Mouse spatial transcriptomics implicates the thalamus and cortex in autism and schizophrenia",
+    "abstract": "Abstract    Background  The past decade has seen tremendous progress in the identification of genes associated with complex neuropsychiatric disorders, including autism spectrum disorder (ASD) and schizophrenia. Expression patterns of these genes in single cell data strongly implicate excitatory and inhibitory neurons; however, there are limited data on the brain regions involved - a critical question for neurobiology. Spatial transcriptomics provide an opportunity to perform systematic multi-regional analyses to provide insights into this question.  Methods  We have generated a spatial transcriptomics dataset encompassing the diverse anatomical territories of the adult mouse brain sagittal midsection. We compare neuropsychiatric gene enrichment by applying Gene Fraction Enrichment Score (GFES), a novel statistical method that controls for differing neuronal proportions across regions.  Results  ASD-associated genes identified by exome sequencing were most enriched in the thalamus followed by the cortex. Schizophrenia genes from genome-wide association studies were also enriched in the thalamus, along with the hippocampus and cortex.  Limitations  Our study is limited to adult mouse brain and the sampled sections do not include all brain regions. Additionally, the analysis assumes that greater expression of genes associated with a disorder reflects greater involvement in the disorder, which might not necessarily hold true.  Conclusions  These findings add to the evidence that the thalamus plays a major role in neuropsychiatric disorders whilst supporting roles for the cortex and hippocampus. The results highlight shared and distinct patterns for pleiotropic brain disorders that could elucidate common underlying mechanisms and circuitry.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11275405/v1",
+    "date": "2026-10-30",
+    "authors": "Young DM, Sharma R, Rohani N, Dema C, Liang L, Devlin B, Manoli DS, Sanders SJ.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1353782",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "gene",
+        "method"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4996,
+    "collected_at": "2026-11-17T14:23:16.206081+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.21203/rs.3.rs-11275405/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "197d96734ef4c46350eabcf4165c6bfd17bf5355c9d6e4eeacfcbf327c56164c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:30:04.910975+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1ebbf8704696e789be8aa633601c4b1784d7180b4d10091804f9d43f36a8b611",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:30:04.910975+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "マウスの空間トランスクリプトミクスにより、自閉症および統合失調症における視床と皮質の関与が示唆された",
+    "abstract_ja": "要旨    背景  過去10年間で、自閉スペクトラム症（ASD）や統合失調症を含む複雑な神経精神疾患に関連する遺伝子の同定において著しい進展が見られた。単一細胞データにおけるこれらの遺伝子の発現パターンは、興奮性および抑制性ニューロンが強く関与していることを示唆しているが、関与する脳領域に関するデータは限られており、これは神経生物学における極めて重要な課題である。空間トランスクリプトミクスは、この課題に対する知見を得るための、系統的な多領域解析を行う機会を提供する。  方法  我々は、成体マウス脳の矢状面中間部における多様な解剖学的領域を網羅する空間トランスクリプトミクスデータセットを構築した。領域間のニューロン比率の差異を制御する新規統計手法である遺伝子分画濃縮スコア（GFES）を適用し、神経精神疾患関連遺伝子の濃縮度を比較した。  結果  エクソームシーケンシングにより同定されたASD関連遺伝子は、視床で最も濃縮されており、次いで皮質であった。ゲノムワイド関連解析による統合失調症関連遺伝子も、視床ならびに海馬および皮質で濃縮されていた。  限界  本研究は成体マウス脳に限定されており、サンプリングした切片にはすべての脳領域が含まれているわけではない。さらに、本解析では、疾患に関連する遺伝子の発現量が多いほどその疾患への関与が深いと仮定しているが、必ずしもそうとは限らない。  結論  これらの知見は、視床が神経精神疾患において主要な役割を果たす一方で、皮質および海馬も補助的な役割を担っていることを裏付ける根拠となる。本結果は、多面的な脳疾患における共通および固有のパターンを浮き彫りにしており、共通の根底にあるメカニズムや回路を解明する可能性を示唆している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.27.762306",
+    "title": "Evaluation of Cross-slice Imputation for Spatial Proteomics",
+    "abstract": "Spatial single-cell protein profiling is at the forefront of translational medicine research efforts that try to decipher tissue heterogeneity. However, existing experimental approaches are limited in the number of biomarkers that they measure. This has motivated extensive research into the problem of protein imputation, where proteins or biomarkers not directly measured in a given slice of biopsy tissue are learned from those measured. In this work, we focus on the specific problem of cross–slice protein imputation (CSPI). In the CSPI problem, two sets of biomarker expressions at the single-cell level are known for physically adjacent slices of tissue. Each slice has its own known set of biomarkers, which overlaps with but does not subsume that of the adjacent. For each slice, we wish to learn the expressions of the proteins unique to the adjacent. Existing literature for protein imputation methodologies can be grouped in two categories: learning-based and alignment-based approaches. Learning-based approaches do not account for spatial and structural similarities between the training and the target sets. Alignment-based approaches aim to determine an association between cells in adjacent slices, but without the explicit goal of using this alignment for imputation. In this work, we evaluate several methods from both categories and their adaptibility to the cross-slice protein imputation problem. We provide a statistical analysis of all methods’ performance under varying conditions of implementation. We find that learning-based methods significantly outperform alignment-based methods at the task of cross-slice protein imputation, with the latter more suited to the task of inter-slice interpolation or 3D tissue reconstruction. Moreover, inter-patient imputation is far less accurate than intra-patient imputation for all methods evaluated.",
+    "journal": "",
+    "doi": "10.64898/2026.10.27.762306",
+    "date": "2026-10-29",
+    "authors": "Bondar GA, Bozorgui B, Korkut A, Halder A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1353392",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "imputation",
+        "proteomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "imputation",
+          "proteomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5004,
+    "collected_at": "2026-11-17T14:23:16.206081+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.64898/2026.10.27.762306"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a2b92733dbc48e3f0a1e5a0e756457679d9fece2db3d3402e9d6b459d4ce295d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:30:04.910975+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b9d46c373475bff40393aacce64c18b7e38da4bf1df661eeccc970902d00621a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:30:04.910975+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "空間プロテオミクスにおけるクロススライス・インピュテーションの評価",
+    "abstract_ja": "空間的な単一細胞タンパク質プロファイリングは、組織の不均一性の解明を目指すトランスレーショナル医学研究の最前線にある。しかし、既存の実験的手法では、測定可能なバイオマーカーの数に限界がある。こうした背景から、生検組織の特定のスライスで直接測定されていないタンパク質やバイオマーカーを、測定済みのものから学習させる「タンパク質インピュテーション」という課題について、広範な研究が行われてきた。本研究では、特にクロススライスタンパク質インピュテーション（CSPI）という課題に焦点を当てる。CSPIでは、物理的に隣接する組織スライスにおいて、単一細胞レベルでの2組のバイオマーカー発現が既知である。各スライスは固有のバイオマーカーセットを有しており、それは隣接するスライスのものと重複するが、それらを包含するものではない。各スライスについて、隣接するスライスに特有のタンパク質発現を学習させたいと考えている。タンパク質インピュテーション手法に関する既存の文献は、学習ベースのアプローチとアライメントベースのアプローチの2つのカテゴリーに分類できる。学習ベースのアプローチでは、訓練セットとターゲットセット間の空間的・構造的な類似性が考慮されない。アライメントベースのアプローチは、隣接するスライス間の細胞間の関連性を特定することを目的とするが、このアライメントをインピュテーションに利用するという明示的な目的は持たない。本研究では、これら両カテゴリーの複数の手法を評価し、クロススライスタンパク質インピュテーション課題への適用可能性を検証する。実装条件を変化させた際の全手法の性能について、統計的解析を行う。その結果、クロススライスタンパク質インピュテーションのタスクにおいては、学習ベースの手法がアライメントベースの手法を有意に上回ることが分かり、後者はスライス間補間や3次元組織再構築のタスクにより適していることが示された。さらに、評価したすべての手法において、患者間インピュテーションの精度は患者内インピュテーションよりも著しく低いことが明らかになった。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.28.758685",
+    "title": "Joint localization and testing reveals spatial context of differential expression",
+    "abstract": "Multi-subject spatial transcriptomics is increasingly used to identify molecular differences across individuals and conditions while resolving where in tissue those differences occur. Yet subject-level differential expression (DE) analyses commonly require spatial regions to be specified in advance, separating localization from testing. Here we present SpaceDX, a framework that uses gene-specific attention-based spatial weighting to jointly test differential expression and localize the spatial expression patterns contributing to these associations. In simulations, SpaceDX outperforms cluster-based DE methods when differential expression does not align with predefined spatial boundaries. Across two multi-subject mouse brain datasets, SpaceDX detected 45.8% more DE genes than regional DESeq2 pseudobulk in a chronic stress model, while in an Alzheimer’s disease model combining SpaceDX with DESeq2 increased discovery by 19.1% relative to DESeq2 alone. Across both datasets, the learned maps provided spatial context for condition-associated expression signals in addition to gene-level significance. In the chronic stress model, for example, oligodendrocyte- and myelin-associated genes showed shared localization to corresponding brain structures. Together, these results show that the spatial context of differential expression can be inferred jointly with gene-level associations, recovering signals obscured by regional aggregation without requiring the relevant tissue context to be defined in advance.",
+    "journal": "",
+    "doi": "10.64898/2026.10.28.758685",
+    "date": "2026-10-29",
+    "authors": "Stotzem N, Chang S, Cai N, Casale FP.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1353386",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5005,
+    "collected_at": "2026-11-17T14:23:16.206081+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.64898/2026.10.28.758685"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8cf68809a6411276a0309140a8c1de77fa519107764b4d0f9e02caddfa4a8e97",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:30:04.910975+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0e44943fab9bf68dc5a1fe315dceaa6c6cfda9db958b7e89cd278dec14e94337",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:30:04.910975+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "共局在化と検定により、発現変動の空間的コンテキストが明らかになる",
+    "abstract_ja": "多被験者空間トランスクリプトミクスは、個人間や条件間の分子的な差異を同定し、組織内のどこでそれらの差異が生じているかを解明するためにますます活用されている。しかし、被験者レベルの発現変動（DE）解析では通常、あらかじめ空間領域を指定する必要があり、局所的な局在化と検定を分離することになる。本研究では、遺伝子特異的なアテンションに基づく空間重み付けを用いて、発現変動の検定と、それらの関連性に寄与する空間的発現パターンの局在化を同時に行うフレームワーク「SpaceDX」を提案する。シミュレーションにおいて、発現変動があらかじめ定義された空間境界と一致しない場合、SpaceDXはクラスターベースのDE手法を上回る性能を示した。2つの多被験者マウス脳データセットにおいて、SpaceDXは慢性ストレスモデルにおいて領域ベースのDESeq2擬似バルクよりも45.8%多くのDE遺伝子を検出し、アルツハイマー病モデルではSpaceDXとDESeq2を組み合わせたことで、DESeq2単独の場合と比較して発見数が19.1%増加した。両データセットにおいて、学習されたマップは、遺伝子レベルの有意性に加えて、条件に関連する発現シグナルに空間的コンテキストを提供した。例えば慢性ストレスモデルでは、オリゴデンドロサイトおよびミエリン関連遺伝子が、対応する脳構造に対して共通の局在を示した。以上の結果は、発現変動の空間的コンテキストを遺伝子レベルの関連性と併せて推論できることを示しており、関連する組織コンテキストを事前に定義することなく、領域的な集約によって不明瞭になったシグナルを復元することが可能である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.26.762077",
+    "title": "A High-Sensitivity and High-Throughput LC-MS Workflow for Low-Input and Single-Cell Proteomics",
+    "abstract": "Single-cell proteomics (SCP) requires sample preparation that minimizes sample loss and highly sensitive LC–MS analysis because the amount of protein available from a single cell is extremely limited. Here, we developed an integrated workflow for low-input and single-cell proteomics based on single-cell proteomics by LMNG-assisted sample preparation (scpLASP), which enables microliter-scale sample preparation using standard laboratory consumables. Systematic optimization of peptide reconstitution conditions identified 0.01% n-dodecyl-β-D-maltoside (DDM) combined with 0.01% lauryl maltose neopentyl glycol (LMNG) as the condition yielding the highest number of identified peptides among those tested for low-input samples. Optimization of the LC mobile-phase composition identified 0.5% acetic acid with 1% dimethyl sulfoxide (DMSO) as the optimal condition, increasing the mean number of identified protein groups from 6,767 with 0.1% formic acid to 7,409 for 250 pg HeLa digests analyzed using an Orbitrap Astral Zoom. Shortening the LC gradient from 11 to 5.5 min enabled higher analytical throughput while maintaining mean identification counts of 6,558 and 7,088 protein groups from 100 and 250 pg HeLa digests, respectively, with median protein-level coefficients of variation of 9.20% and 6.99%. When the optimized workflow was applied to HEK293-derived Expi293F single cells using the same 5.5-min LC gradient, an effective analytical throughput of 135 samples per day was achieved with an injection volume of 4.5 µL, accounting for sample-loading time. This workflow identified a median of 5,655 protein groups per cell using an empirical spectral library generated from 20-cell samples. Overall, this study establishes a sensitive and high-throughput workflow for low-input and single-cell proteomics that combines low-loss microliter-scale sample preparation with optimized LC–MS analysis, achieving high proteome depth and analytical throughput without requiring specialized nanoliter-scale sample-preparation devices.",
+    "journal": "",
+    "doi": "10.64898/2026.10.26.762077",
+    "date": "2026-10-29",
+    "authors": "Okuda Y, Watanabe S, Endo Y, Konno R, Mitsui H, Nakajima D, Kodera Y, Ohara O, Higo D, Kawashima Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1353382",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "proteomic",
+        "workflow"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "proteomic",
+          "workflow"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5006,
+    "collected_at": "2026-11-17T14:23:16.206081+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.64898/2026.10.26.762077"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2d9a98c86867f1e39e814edfc84b20d64f6476fee3a466e2b7e58cae17087bd0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:30:04.910975+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2dc28eabcfcabf53a9b053ba1e5e30fa29304d30105f383f1c3daecbc082322e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:30:04.910975+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "低入力・単一細胞プロテオミクスのための高感度・高スループットLC-MSワークフロー",
+    "abstract_ja": "単一細胞プロテオミクス（SCP）では、単一細胞から得られるタンパク質量が極めて限られているため、サンプル損失を最小限に抑えるサンプル調製と、高感度なLC–MS解析が必要となる。本研究では、LMNG支援型サンプル調製（scpLASP）に基づく、低インプットおよび単一細胞プロテオミクスのための統合ワークフローを開発した。これにより、標準的な実験室用消耗品を用いてマイクロリットルスケールのサンプル調製が可能となる。ペプチド再構成条件の系統的な最適化により、低インプットサンプルで試験した条件の中で、0.01% n-ドデシル-β-D-マルトシド（DDM）と0.01%ラウリルマルトース・ネオペンチルグリコール（LMNG）の組み合わせが、最も多くのペプチドを同定する条件として特定された。LC移動相組成の最適化により、0.5%酢酸と1%ジメチルスルホキシド（DMSO）の組み合わせが最適条件として特定され、Orbitrap Astral Zoomを用いて解析した250 pg HeLa消化物における平均同定タンパク質群数は、0.1%ギ酸を用いた6,767から7,409へと増加した。LCグラジエントを11分から5.5分に短縮することで、平均同定数をそれぞれ100および250 pg HeLa消化物から6,558および7,088タンパク質群に維持しつつ、より高い解析スループットを実現でき、タンパク質レベルの変動係数の中央値はそれぞれ9.20%および6.99%であった。最適化したワークフローを、同一の5.5分LCグラジエントを用いたHEK293由来Expi293F単一細胞に適用したところ、サンプルローディング時間を考慮した注入量4.5 µLで、1日あたり135サンプルという実効的な解析スループットが達成された。本ワークフローでは、20細胞サンプルから生成した経験的スペクトルライブラリを用いて、1細胞あたり中央値5,655タンパク質群を同定した。総じて、本研究は、低損失のマイクロリットルスケールサンプル調製と最適化されたLC–MS解析を組み合わせた、低インプットおよび単一細胞プロテオミクスのための高感度かつハイスループットなワークフローを確立し、特殊なナノリットルスケールのサンプル調製装置を必要とせずに、高いプロテオーム深度と解析スループットを実現した。"
   }
 ]
