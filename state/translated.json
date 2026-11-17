@@ -291662,5 +291662,315 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "より豊富なデータベースコンテキストにより、LLM生成のEHRフェノタイピングアルゴリズムが向上する",
     "abstract_ja": "要旨  目的  大規模言語モデル（LLM）による2型糖尿病（T2DM）フェノタイピング用SQLの生成、およびデータベース実装コンテキストの影響を評価すること。材料および方法  公開されている8つのLLMベースのシステムを用い、Observational Medical Outcomes Partnership（OMOP）モデルに基づく合成データおよびノースカロライナ大学（UNC）ヘルスの電子健康記録（EHR）データを使用し、段階的に詳細なプロンプトを用いてSQLを生成した。出力結果を、SQLの実行可能性、F1値、陽性予測値（PPV）、および再現率を用いて、Electronic Medical Records and Genomics（eMERGE）のT2DMリファレンスフェノタイプと比較した。結果  限定的コンテキストの合成出力では55%未満しか修正なしに実行できず、UNC EHRの限定的コンテキスト出力では実行できなかった。詳細なコードブック（L3）により、実行可能性は合成OMOPで81.3%、UNC EHRで100%に向上し、サンプル行の追加（L4）により合成の実行可能性は100%に達した。限定的コンテキストの再現率は0.01まで低下したが、高コンテキスト出力では、合成L4で0.99以上、UNC L3で0.90を超える再現率を達成した。ただし、UNCのPPVは再現率よりも大幅に低いままであった。利用可能な最高コンテキストレベルにおいて、Beta F1値は合成OMOPで0.72～0.99、UNC EHRで0.57～0.68の範囲であり、すべてのUNCモデルが診断コードのベースライン（F1=0.54）を上回った。合成モデルの中で最も性能が高かったモデルでも、UNC EHRではF1=0.99から0.64へと低下した。考察  より詳細なデータベースコンテキストは、より一貫したSQLの実行可能性および再現率と関連していたが、モデルの順位はデータセットによって異なっていた。結論  LLMは、十分なデータベースコンテキストが提供されれば、臨床的に意義のあるT2DMフェノタイピング用SQLを生成できるが、実世界データにおけるPPVの低さは、ローカルバリデーションの必要性を浮き彫りにしている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.25.26366405",
+    "title": "VascFlux-GEO: Comparator selection and auditability in vascular transcriptome module prediction",
+    "abstract": "ABSTRACT  Background  Mathematical coupling and comparator selection are established concerns when a transcriptome response is defined as follow-up minus baseline. We assessed whether apparent within-cohort improvement survives matched constant-follow-up and scalar-shrinkage controls, and whether specified evaluation faults are detectable in an auditable vascular transcriptome benchmark. Results  Using eight frozen modules, 72 rosuvastatin pairs, 14 peripheral artery disease pairs, 20 repeated subject-held-out five-fold partitions, and 5,000 subject bootstrap draws of fixed losses, we compared 15 explicit specifications. Supporting post hoc analyses included 800 known-truth training/test simulations, annotation and input-ablation sensitivities, complete-tuning integrity checks, and an independent-source cross-sectional artery description. In GSE86216, nested follow-up ridge had lower observed repeated-CV mean absolute error than mean follow-up, 0.3280 versus 0.3405 (difference 0.0126; descriptive central 95% percentile range 0.0033–0.0224), while scalar shrinkage had lower observed error (0.3256). These ranges have no validated coverage guarantee. No full-matrix advantage was established; equivalence was not tested. In peripheral artery disease, nested ridge (0.3449) had slightly higher observed MAE than the median follow-up comparator (0.3409), and no advantage was established. Simulations illustrated how mean follow-up can outperform mean change without temporal signal, while the GSE281841 histological stenosis-grade description remained limited by anatomical imbalance, unconfirmed participant identity and an unresolved sample-count discrepancy. Conclusions  These retrospective, nonconfirmatory comparisons show modestly lower observed within-cohort error than constant-follow-up controls in one cohort, without established full-matrix advantage. They do not partition prediction into mathematical, technical and biological components. Independent longitudinal validation and clinical utility remain unestablished.",
+    "journal": "",
+    "doi": "10.64898/2026.10.25.26366405",
+    "date": "2026-10-28",
+    "authors": "You L, Peng Z, Guo Y, Shen L, Ge J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1352220",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "prediction",
+        "transcriptome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5020,
+    "collected_at": "2026-11-17T14:23:16.206081+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.64898/2026.10.25.26366405"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6e724ba6e88830574d542863cd6dc57375bcfec62342cdf36d846fab28a77a6c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:40:21.314928+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "69377e20eed1d0a06e4cb47926eacb55252ae63f3e66a2af4414b2e97254c8d5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:40:21.314928+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "VascFlux-GEO: 血管トランスクリプトームモジュール予測におけるコンパレータの選定と監査可能性",
+    "abstract_ja": "要旨  背景  トランスクリプトーム応答を「フォローアップからベースラインを引いた値」と定義した場合、数学的なカップリングおよびコンパレータの選択が課題となる。本研究では、コホート内で見られる見かけ上の改善が、定数フォローアップおよびスカラー縮小の対照条件下でも維持されるか、また、監査可能な血管トランスクリプトームベンチマークにおいて特定の評価上の欠陥が検出可能であるかを検証した。結果  8つの凍結モジュール、72組のロスバスタチンペア、14組の末梢動脈疾患ペア、20組の被験者除外型5分割、および5,000回の固定損失の被験者ブートストラップ抽出を用い、15の明示的な仕様を比較した。裏付けとなる事後解析には、既知の正解値を用いた800回の訓練・テストシミュレーション、アノテーションおよび入力アブレーションの感度分析、完全チューニングの整合性チェック、および独立した情報源による横断的な動脈記述が含まれた。GSE86216において、ネスト型フォローアップリッジの観測された反復CV平均絶対誤差は、平均フォローアップよりも低く（0.3280対0.3405、差 0.0126、記述的中央値95%パーセンタイル範囲 0.0033–0.0224）、一方でスカラー縮小の観測誤差も低かった（0.3256）。これらの範囲に検証済みのカバレッジ保証はない。フルマトリックスの優位性は確立されず、同等性の検証も行われなかった。末梢動脈疾患においては、ネスト型リッジ（0.3449）の観測MAEがフォローアップコンパレータの中央値（0.3409）よりもわずかに高く、優位性は確立されなかった。シミュレーションにより、平均フォローアップが時間的シグナルなしに平均変化を上回る可能性があることが示された一方、GSE281841の組織学的狭窄グレード記述は、解剖学的不均衡、未確認の被験者識別、および未解決のサンプル数の不一致によって制限されたままであった。結論  これらの後方視的かつ非確定的な比較により、あるコホートにおいて、定数フォローアップ対照群よりも観測されたコホート内誤差がわずかに低いことが示されたが、フルマトリックスの優位性は確立されなかった。これらの結果は、予測を数学的、技術的、および生物学的構成要素に分割するものではない。独立した縦断的検証および臨床的有用性は依然として確立されていない。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11485353/v1",
+    "title": "The Generalist Strikes Back:\\\\A General LLM Agent Outperforms Specialist Bioinformatics Agents on Free-Form, End-to-End Benchmark Analysis",
+    "abstract": "Abstract  Specialist agents such as Biomni, STELLA and ToolsGenie wrap large language models in curated tools and multi-agent scaffolds for bioinformatics. We asked whether a current frontier model in an off-the-shelf coding harness still needs them. Claude Opus 5.5 (high effort) in Claude Code solved all 244 tasks of PromptBio-Bench, whose free-form output files are scored against expert references. It was run with and without 667 bioinformatics Agent Skills (bioSkills, ClawBio). Under the original evaluation framework with GPT-5.6 judges, Claude with skills completed every task and reached 0.869 accuracy, against 0.758 for Biomni and ToolsGenie and 0.717 for STELLA (paired McNemar p ≤ 2 × 10−4). Its failures exposed eleven evaluator defects and several incorrect reference answers. With these defects fixed, Claude reached 0.918 to 0.926 with skills and 0.873 to 0.902 without, across GPT and Claude judges that agreed on 95 to 98% of tasks. Skills added only 2.5 to 4.5 points, yet transcripts showed the agent never invoked one; the gap traces to run-to-run variation in a few judgement calls. Of the 18 tasks still failed, 11 trace to defective references or unstated settings, and most of the rest are defensible alternatives to the reference. A general-purpose frontier model now matches or exceeds purpose-built bioinformatics agents on realistic analyses; benchmark reliability, not agent capability, has become the main limit on measuring progress.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11485353/v1",
+    "date": "2026-10-28",
+    "authors": "Zhang X.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1352092",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "benchmark",
+        "bioinformatics",
+        "gene"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5021,
+    "collected_at": "2026-11-17T14:23:16.206081+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.21203/rs.3.rs-11485353/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "94aaa81b41950ce9c9fd77060487ca8806d9b10deb787e9643e928e3a6f919ae",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:40:21.314928+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "bcf09e7055deda5bc86ae556e8285a944509b2ec805a3f68e1d882602133f7ea",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:40:21.314928+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ジェネラリストの逆襲：\\\\汎用LLMエージェントが、自由形式のエンドツーエンド・ベンチマーク分析においてバイオインフォマティクス特化型エージェントを凌駕する",
+    "abstract_ja": "要旨  Biomni、STELLA、ToolsGenieといった特化型エージェントは、大規模言語モデルを、バイオインフォマティクス向けに厳選されたツールやマルチエージェント・スキャフォールドでラップする。我々は、既製のコーディングハーネスにおける現在のフロンティアモデルに、依然としてこれらのツールが必要かどうかを検証した。Claude Code上のClaude Opus 5.5（高負荷）を用いて、自由形式の出力ファイルが専門家のリファレンスとスコアリングされるPromptBio-Benchの全244タスクを解かせた。本モデルは、667種類のバイオインフォマティクス・エージェントスキル（bioSkills、ClawBio）の有無にかかわらず実行した。GPT-5.6のジャッジを用いた元の評価フレームワークにおいて、スキルありのClaudeはすべてのタスクを完遂し、正解率0.869を記録した。これに対し、BiomniとToolsGenieは0.758、STELLAは0.717であった（対応のあるマクネマー検定 p ≤ 2 × 10⁻⁴）。失敗事例からは、11箇所の評価者の欠陥と複数の誤ったリファレンス回答が明らかになった。これらの欠陥を修正した結果、タスクの95～98%で一致したGPTおよびClaudeのジャッジ間において、スキルありのClaudeは0.918～0.926、スキルなしのClaudeは0.873～0.902の正解率に達した。スキルによる向上はわずか2.5～4.5ポイントにとどまったが、トランスクリプトによれば、エージェントがスキルを一度も呼び出していなかったことが判明した。この乖離は、少数の判定における実行ごとのばらつきに起因している。依然として失敗した18タスクのうち、11タスクは欠陥のあるリファレンスや明記されていない設定に起因しており、残りの大部分はリファレンスに対する妥当な代替案であった。汎用的なフロンティアモデルは、現実的な解析において専用のバイオインフォマティクスエージェントと同等か、あるいはそれを上回る性能を示すようになった。今や、エージェントの能力ではなく、ベンチマークの信頼性こそが、進展を測る上での主要な制約となっている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11195427/v1",
+    "title": "Genetic Algorithm-Based Three-Dimensional UAV Swarm Trajectory Design for Direction-of-Arrival Estimation",
+    "abstract": "Abstract  Unmanned aerial vehicle (UAV) swarms equipped with distributed antenna arrays provide a flexible approach to direction-of-arrival (DOA) estimation over large three-dimensional (3D) apertures. However, large inter-UAV separations, required by practical flight and collision-avoidance constraints, can introduce phase ambiguities and complicate coherent array processing. This study presents a simulation-based framework for the design and evaluation of a 3D UAV antenna array for two-dimensional DOA estimation. A constraint-aware genetic algorithm (GA) is used to optimize the spatial configuration and trajectories of the UAV-mounted antenna elements by minimizing a Cramér–Rao lower bound (CRLB)-based objective while satisfying inter-element separation and operational constraints. The optimized configuration is subsequently evaluated using interferometric phase-ambiguity resolution and MUSIC-based DOA estimation. Full-wave electromagnetic simulations in CST Studio Suite are used to assess the effects of UAV structural scattering, shadowing, mutual coupling, and radiation-pattern distortion. Monte Carlo simulations further quantify DOA estimation performance under different signal-to-noise ratios and phase and gain uncertainties. The results show that the optimized configuration provides lower estimation errors than the investigated reference configurations within the simulated conditions. The study demonstrates the importance of jointly considering array geometry, phase ambiguity, signal-processing performance, and electromagnetic effects when evaluating distributed UAV antenna arrays.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11195427/v1",
+    "date": "2026-10-28",
+    "authors": "Alikhani MT, Moradi G, Shirazi RS, Amiri R.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1352063",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "algorithm",
+        "gene",
+        "genetic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "algorithm",
+          "gene",
+          "genetic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5022,
+    "collected_at": "2026-11-17T14:23:16.206081+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.21203/rs.3.rs-11195427/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "963f76c7fdb1ccc87d1ad83d23d6352b9441e419268721e6b0802d6226da9b7b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:40:21.314928+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e076c89fb50c8cfe77b22a9d4edb68a91aeaff2c6d2b120be2ef6635e4a162c2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:40:21.314928+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "遺伝的アルゴリズムに基づく到来方向推定のための3次元UAV群航跡設計",
+    "abstract_ja": "要旨　分散アンテナアレイを備えた無人航空機（UAV）群は、大規模な三次元（3D）開口における到来方向（DOA）推定のための柔軟な手法を提供する。しかし、実用的な飛行および衝突回避の制約により求められるUAV間の大きな間隔は、位相曖昧性を生じさせ、コヒーレントアレイ処理を複雑にすることがある。本研究では、二次元DOA推定のための3D UAVアンテナアレイの設計および評価に向けた、シミュレーションベースのフレームワークを提案する。制約認識型遺伝的アルゴリズム（GA）を用い、素子間間隔および運用上の制約を満たしつつ、クラメール・ラオ下界（CRLB）に基づく目的関数を最小化することで、UAV搭載アンテナ素子の空間配置と軌道を最適化する。最適化された構成は、その後、干渉計位相曖昧性分解能およびMUSICベースのDOA推定を用いて評価される。CST Studio Suiteを用いた全波電磁シミュレーションにより、UAVの構造散乱、シャドウイング、相互結合、および放射パターン歪みの影響を評価する。さらに、モンテカルロシミュレーションにより、異なる信号対雑音比ならびに位相および利得の不確かさにおけるDOA推定性能を定量化する。その結果、シミュレーション条件下において、最適化された構成は検討した参照構成よりも推定誤差が小さいことが示された。本研究は、分散型UAVアンテナアレイを評価する際に、アレイ形状、位相曖昧性、信号処理性能、および電磁影響を総合的に考慮することの重要性を示すものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.24.761497",
+    "title": "Function-preserving CD8⁺ T Cell Immunogenicity minimization through protein design",
+    "abstract": "Rapid advances in protein design enable new approaches in adoptive cell therapy, but foreign proteins can elicit cytotoxic T cell responses, and hence there is considerable need for approaches which reduce immunogenicity without compromising protein function. Here, we develop a computational framework integrating structure-guided sequence design with MHC class I epitope prediction to efficiently tune protein immunogenicity while preserving function. Using a de novo-designed luciferase as a model, we demonstrate epitope elimination while preserving function across 5 common mouse alleles and extend our computational optimization to 25 common human MHC-I alleles. In mice immunized with mRNA-lipid nanoparticles, variants designed to have few MHC-I epitopes elicited little detectable CD8⁺ T cell response, whereas variants designed to include multiple epitopes induced robust responses. Together, these results demonstrate that the CD8⁺ T cell immunogenicity of designed proteins can be tuned while preserving function, opening the door to incorporation of designed proteins in a next generation of adoptive cell therapies.",
+    "journal": "",
+    "doi": "10.64898/2026.10.24.761497",
+    "date": "2026-10-27",
+    "authors": "Liu B, Mao T, Witwer MH, Morell O, Hacohen N, Baker D.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1351738",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "prediction",
+        "protein",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "framework",
+          "prediction",
+          "protein",
+          "sequence"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5032,
+    "collected_at": "2026-11-17T14:23:16.206081+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.64898/2026.10.24.761497"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2363f2f24cd64596e03d3aa340dd54f9a1deeffd4b701abb4f4f9409328f9d33",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:40:21.314928+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0d7e6f81054a57a0cfb4a8d6e84e95de69549071a874151604afc757ebcc74b7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:40:21.314928+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "タンパク質設計による機能保持型CD8⁺ T細胞免疫原性の最小化",
+    "abstract_ja": "タンパク質設計の急速な進展により、養子細胞療法における新たなアプローチが可能となっているが、外来タンパク質は細胞傷害性T細胞応答を惹起し得るため、タンパク質機能を損なうことなく免疫原性を低減させる手法が強く求められている。本研究では、構造ガイド型配列設計とMHCクラスIエピトープ予測を統合した計算フレームワークを開発し、機能を維持しつつタンパク質の免疫原性を効率的に調整する。de novo設計したルシフェラーゼをモデルとして、5つの一般的なマウスアレルにおいて機能を維持したままエピトープの除去を実証し、さらにこの計算最適化を25種類の一般的なヒトMHC-Iアレルへと拡張した。mRNA-脂質ナノ粒子で免疫したマウスにおいて、MHC-Iエピトープを少数持つように設計した変異体では検出可能なCD8⁺ T細胞応答がほとんど惹起されなかった一方、複数のエピトープを含むように設計した変異体では強固な応答が誘導された。以上の結果は、設計したタンパク質のCD8⁺ T細胞免疫原性を機能を維持したまま調整できることを示しており、次世代の養子細胞療法への設計タンパク質の導入への道を開くものである。"
   }
 ]
