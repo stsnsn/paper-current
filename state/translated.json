@@ -293548,5 +293548,290 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "大規模言語モデルと強化学習による配列編集を介した治療用抗体のマルチプロパティ最適化。",
     "abstract_ja": "複数の有益な特性を有する抗体の探索は、治療薬開発において不可欠であるが、実験的に同定された抗体にはさらなる最適化が必要である。配列空間が膨大であり、アノテーションが乏しく、特性間のトレードオフが一般的であるため、共同最適化は依然として困難な課題である。本報では、並列的なマルチサイト配列編集を通じて多特性抗体の最適化を行う強化学習フレームワーク「AbOptimizer」を提案する。AbOptimizerは、タンパク質言語モデルから変異を推奨する前に、有望な編集部位および編集アクション（「予約」、「置換」、ならびに任意の「挿入」または「欠失」）を特定し、サロゲート評価とパレート報酬によって方策の学習を導く。我々は、多特性、データ制限、およびインデル包含の最適化において、3種類の治療用抗体を用いてAbOptimizerを評価した。in silicoにおいて、AbOptimizerは最適化された特性を改善し、ベースライン手法を上回る性能を示した。in vitroでは、選定されたバリアントにより、エミベツズマブでは親和性・特異性の共最適化が、シルツキマブでは熱安定性をほぼ維持したまま親和性と特異性の向上が、そしてトラスツズマブではインデル包含の親和性最適化が認められた。これらの結果は、治療用抗体の最適化における実用的なフレームワークとしてAbOptimizerの有効性を裏付けるものである。"
+  },
+  {
+    "id": "10.1093/ismeco/ycag337",
+    "title": "A scalable genomic framework for programmable strain tagging in a diverse bacterial genus",
+    "abstract": "AbstractInserting DNA into bacterial genomes is important to introduce or alter function for research and biotechnological applications. Transposons are widely used for this purpose, but commonly used systems such as Tn7, Tn5, and Mariner do not hit custom targets. CRISPR-associated transposons (CASTs) can direct the insertion of a transposon to chosen sites with short guide sequences, but their application outside of E. coli is still limited. We adapted CAST technology for use in the widespread plant-associated genus Sphingomonas, uniquely barcoding genetically diverse strains in two or more different sites, and we demonstrate the utility of the tags for quantitative strain tracking along with background microbiota in complex host-associated bacterial populations. During this work, comparative genomics revealed the canonical Tn7 insertion site frequently disrupts genes – and not only in Sphingomonas – suggesting Tn7 insertions may be more problematic than widely appreciated. Therefore, we identified improved loci downstream of genus-wide conserved sites, such as rpoZ in Sphingomonas and pyrD in Pseudomonas, as neutral alternatives. We experimentally validated the rpoZ locus in Sphingomonas and then targeted it in a heterogeneous uncharacterized Sphingomonas population. To support scalable screening, we introduce tagTIMseq, a rapid transposon mapping method that can identify on- and off-target insertions directly from single colonies. Together, these advances accelerate the creation of fully tagged synthetic communities for the high-throughput study of fine-scale bacterial natural variation.",
+    "journal": "ISME Communications",
+    "doi": "10.1093/ismeco/ycag337",
+    "date": "2026-11-14",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://academic.oup.com/ismecommun/advance-article/doi/10.1093/ismeco/ycag337/9055622?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Pseudomonas",
+        "bacteria",
+        "bacterial",
+        "framework",
+        "genomic",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6596/advanceAccess_4180.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5099,
+    "collected_at": "2026-11-17T23:03:43.314334+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://academic.oup.com/rss/site_6596/advanceAccess_4180.xml"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.1093/ismeco/ycag337"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2cde48c3d9234743268fb100bb9c57ff8fb0bb74305a164274aa767b2cf8e579",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T23:37:20.913925+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2d666d885d0bff0d77692ba870bcfd5e68c210d61263ba0e5466965d2b5a517d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T23:37:20.913925+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "多様な細菌属におけるプログラム可能なストレインタギングのためのスケーラブルなゲノムフレームワーク",
+    "abstract_ja": "要旨 細菌ゲノムへのDNA挿入は、研究およびバイオテクノロジー応用における機能の導入や改変において重要である。トランスポゾンはこの目的に広く用いられているが、Tn7、Tn5、Marinerといった一般的なシステムでは、目的の標的を捕捉できない。CRISPR関連トランスポゾン（CASTs）は、短いガイド配列を用いてトランスポゾンの挿入を特定の部位へと誘導できるが、大腸菌（E. coli）以外での応用は依然として限定的である。我々は、広く分布する植物関連属であるスフィンゴモナス属（Sphingomonas）にCAST技術を適応させ、遺伝的に多様な株を2つ以上の異なる部位に独自にバーコーディングし、複雑な宿主関連細菌集団における背景微生物叢とともに、定量的な株追跡に対するタグの有用性を実証した。本研究において、比較ゲノミクスにより、典型的なTn7挿入部位が遺伝子を頻繁に破壊することが明らかになり、これはスフィンゴモナス属に限らず、Tn7挿入が一般に認識されているよりも問題となる可能性が示唆された。そこで、スフィンゴモナス属のrpoZやシュードモナス属のpyrDなど、属全体で保存された部位の下流に位置する改良された遺伝子座を、中立的な代替候補として同定した。我々はスフィンゴモナス属においてrpoZ遺伝子座を実験的に検証し、次いで、不均一で未特性解析のスフィンゴモナス集団を標的とした。スケーラブルなスクリーニングを支援するため、単一コロニーから直接オンターゲットおよびオフターゲット挿入を同定できる迅速なトランスポゾンマッピング手法であるtagTIMseqを導入した。これらの進展が相まって、微細なスケールの細菌自然変異をハイスループットに研究するための、完全にタグ付けされた合成コミュニティの構築が加速される。"
+  },
+  {
+    "id": "10.1038/s41579-026-01397-6",
+    "title": "A molecular switch rewires Salmonella enterica cell surface tropism",
+    "abstract": "This study shows that an amino acid substitution in a chemoreceptor determines how Salmonella enterica serovars navigate towards and invade human intestinal epithelium.",
+    "journal": "Nature Reviews Microbiology",
+    "doi": "10.1038/s41579-026-01397-6",
+    "date": "2026-11-17",
+    "authors": "Andrea Du Toit",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.nature.com/articles/s41579-026-01397-6",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.nature.com/nrmicro.rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5126,
+    "collected_at": "2026-11-17T23:03:43.314334+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://www.nature.com/nrmicro.rss"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.1038/s41579-026-01397-6"
+    ],
+    "translation": {
+      "title": {
+        "hash": "16ca69f620ba0b7e36f0745c29306fff942a8d74ae886ae2d47ceff9cc09abb1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T23:37:20.913925+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d47cd914a22546670abf48afc2224225f57516159e6a92e90853a446f9502663",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T23:37:20.913925+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "分子スイッチがサルモネラ属菌の腸管細胞表面指向性を再編する",
+    "abstract_ja": "本研究は、化学受容器におけるアミノ酸置換が、サルモネラ・エンテリカ血清型のヒト腸管上皮への接近および侵入様式を決定づけることを示している。"
+  },
+  {
+    "id": "10.1093/nar/gkag1152",
+    "title": "Live-cell imaging reveals two modes of TERRA association with telomeres and the dynamics of TERRA R-loops",
+    "abstract": "AbstractTelomeres are transcribed into TERRA long non-coding RNAs. When associating with telomeres, TERRA can regulate telomere maintenance by semiconservative DNA replication, telomerase and homology-directed repair (HDR). In addition, TERRA alters telomeric structure and protein composition. Yet, the molecular mechanisms and dynamics by which TERRA associates with telomeres remain elusive. To investigate TERRA-telomere interactions, we combine PP7 stem-loop TERRA tagging, genome editing and live-cell imaging. Using a deep-learning method for spot detection and single-particle tracking analysis, we demonstrate that TERRA associates with telomeres through two distinct modes. On one hand, TERRA interacts frequently and transiently with the telomeric shelterin protein TRF2. On the other hand, TERRA engages in long-lasting interactions which persist from seconds to several minutes forming R-loops with telomeric DNA. TERRA R-loops preferentially occur at short telomeres, and their formation requires factors involved in HDR, but not TRF2. Altogether, we reveal two parallel mechanisms of TERRA recruitment to telomeres, which differ substantially in their dynamics and structure, and we elucidate the dynamics of telomeric R-loops. Our findings provide a framework for understanding TERRA-triggered telomere functions during aging and carcinogenesis.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1152",
+    "date": "2026-11-17",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1152/9079908?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5119,
+    "collected_at": "2026-11-17T23:03:43.314334+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/3091.xml"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.1093/nar/gkag1152"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6c860ae8594e4ffa3c7f800b9d7aee820c4df34a7da64355878457c5b07d0c4e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T23:37:20.913925+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d58f51228998b4ebceb9335e424911a362b3f5c1ab64df714dbf703bce52fab1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T23:37:20.913925+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "生細胞イメージングにより明らかになったテロメアへのTERRA結合の2つの様式とTERRA Rループの動態",
+    "abstract_ja": "要旨テロメアはTERRA長鎖非コードRNAへと転写される。テロメアに結合すると、TERRAは半保存的DNA複製、テロメラーゼ、および相同組換え（HDR）を介してテロメアの維持を調節することができる。さらに、TERRAはテロメアの構造およびタンパク質組成を変化させる。しかしながら、TERRAがテロメアに結合する分子機構および動態は依然として解明されていない。TERRAとテロメアの相互作用を調査するため、我々はPP7ステムループTERRAタグ付け、ゲノム編集、および生細胞イメージングを組み合わせた。スポット検出および単粒子追跡解析のための深層学習手法を用い、TERRAが2つの異なる様式でテロメアに結合することを実証した。一方で、TERRAはテロメアのシェルターリンタンパク質TRF2と頻繁かつ一過性に相互作用する。他方で、TERRAは数秒から数分間持続する長期的な相互作用を形成し、テロメアDNAとRループを構築する。TERRA Rループは短いテロメアにおいて優先的に形成され、その形成にはHDRに関与する因子が必要であるが、TRF2は不要である。総じて、我々は動態と構造が大きく異なる、TERRAのテロメアへの動員に関する2つの並行的な機構を明らかにし、テロメアRループの動態を解明した。本知見は、加齢および発がん過程におけるTERRA誘導性のテロメア機能を理解するための枠組みを提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1073/pnas.2617730123",
+    "title": "Si-scRNA-seq: Enabling ambient-stable single-cell transcriptomics through spatially confined biosilicification.",
+    "abstract": "Single-cell RNA sequencing (scRNA-seq) is constrained by rapid RNA degradation during sample storage, necessitating cold-chain logistics. Here we present spatially confined biosilicification (SCB), wherein RNA is encapsulated within a nanoscopic layer of amorphous silicon dioxide, as a highly effective methodology enabling ambient-temperature preservation of single-cell transcriptomes. By judiciously incorporating a silicification inhibitor, SCB achieves spatiotemporal control over both intra- and extracellular silica deposition, preventing excessive crosslinking and cell aggregation while preserving RNA biointegrity and accessibility. scRNA-seq performed with biosilicified cells (Si-scRNA-seq) maintained high transcriptomic fidelity with fresh samples (R2 = 0.95 after 7 d) extending RNA half-life to 54.8 d at 25 °C, a 685-fold improvement compared to unprotected samples. Furthermore, Si-scRNA-seq confers robust resistance against oxidative and UV degradation. Compatible with mainstream platforms at ~0.1 RMB per sample, Si-scRNA-seq successfully resolves cellular heterogeneity in clinical lung, liver, and ovarian cancer specimens after extended room-temperature storage. Si-scRNA-seq provides a scalable and cold-chain-free solution for single-cell transcriptomics in research and clinical settings.",
+    "journal": "PNAS",
+    "doi": "10.1073/pnas.2617730123",
+    "date": "2026-10-23",
+    "authors": "Zhou L, Ruan T, He Y, Xie G, Qi J, Cao X, Brinker CJ, Liu Y, Zhu W.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42912787",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42912787",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "method",
+        "transcriptome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5066,
+    "collected_at": "2026-11-17T22:53:10.596689+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.1073/pnas.2617730123"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6dadbbd8a3ed0d207d00dd7344416578061c8de09aa9a6f3b584f41543a22a3a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T23:37:20.913925+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ebb2ade17ff407b0461e0e6163d952f4093664e2cc4db04fd70c2eb475976af6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T23:37:20.913925+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Si-scRNA-seq：空間的に限定されたバイオシリシフィケーションによる環境安定性の高いシングルセルトランスクリプトミクスの実現",
+    "abstract_ja": "単一細胞RNAシーケンシング（scRNA-seq）は、試料保存中の急速なRNA分解という制約があり、コールドチェーン物流を必要とする。本報では、RNAを非晶質二酸化ケイ素のナノスケール層内に封入する空間的に限定されたバイオシリシフィケーション（SCB）を、単一細胞トランスクリプトームの常温保存を可能にする極めて有効な手法として提示する。シリシフィケーション阻害剤を慎重に組み込むことで、SCBは細胞内外のシリカ沈着の時空間的制御を実現し、過剰な架橋や細胞凝集を防ぎつつ、RNAの生体完全性とアクセシビリティを維持する。バイオシリシフィケーションを施した細胞を用いて実施したscRNA-seq（Si-scRNA-seq）は、新鮮試料において高いトランスクリプトーム忠実度を維持し（7日後のR2 = 0.95）、25 °CにおいてRNAの半減期を54.8日まで延長させ、未保護試料と比較して685倍の向上を達成した。さらに、Si-scRNA-seqは酸化およびUV分解に対して強固な耐性を付与する。1試料あたり約0.1 RMBという主流のプラットフォームと互換性のあるSi-scRNA-seqは、室温での長期保存後においても、臨床的な肺癌、肝癌、および卵巣癌検体における細胞不均一性を正常に解析できる。Si-scRNA-seqは、研究および臨床現場における単一細胞トランスクリプトミクスのための、スケーラブルでコールドチェーンを必要としないソリューションを提供する。"
   }
 ]
