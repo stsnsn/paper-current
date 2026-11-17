@@ -294694,5 +294694,303 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "魚類ヒルのゲノム配列決定による遠縁の大型DNAウイルスの回収",
     "abstract_ja": "ヒルの腸管はウイルスのリザーバーとして知られており、そこではウイルスが長期的に生存し、外部の影響から保護される。したがって、ヒルは餌となる感受性宿主へのウイルス性疾患の伝播媒介者として機能し得る。それにもかかわらず、ウイルスの多様性やウイルス・ヒル・宿主間の相互作用については依然として大部分が不明であり、これまでヒルを宿主として利用するウイルスの同定を目的とした研究は行われてこなかった。本研究では、一般的な魚ヒルである Piscicola geometra (Linnaeus, 1761) のゲノム配列データから回収された、新規の大型DNAウイルス（Nucleocytoviricota門）の発見について報告する。ゲノム解析および系統解析を通じて、我々はこの系統が現在知られているウイルスから大きく分岐していることを明らかにした。予測されたタンパク質コード遺伝子の[~]95%が、既存のデータベースと識別可能な相同性を示さなかった。ヒルがこのウイルスの宿主であるのか、あるいは魚類種へ伝播させる媒介者であるのかは依然として不明である。本研究は、新規のウイルス系統を発見する上でのオフターゲット配列回収の有用性を強調するものであり、ヒル関連の大型DNAウイルスの分布と生物学に関する今後の研究の基盤を築くものである。"
+  },
+  {
+    "id": "10.64898/2026.11.14.766689",
+    "title": "Illumina MiSeq, MiSeq i100, and Element AVITI yield concordant ecological patterns for universal 16S and 18S rRNA gene amplicon sequencing",
+    "abstract": "Molecular microbiome analyses require high-resolution, comparable measurements, often obtained by sequencing marker genes such as the rRNA gene. Recently, new platforms and chemistries have promised to improve performance at lower cost relative to the commonly used Illumina MiSeq 2x300, but have not yet been systematically compared especially for rRNA gene amplicon studies. Here, we compared MiSeq 2x300, MiSeq 2x500, and AVITI 2x300 by sequencing mock communities and field samples via a 'universal' (16S + 18S) rRNA gene amplicons (V4-V5 region) approach. All platforms recovered similar community patterns (Mantel r > 0.93), with no major differences in recovered lineages. MiSeq 2x500 showed ~4.5-fold higher index hopping (5.9 +/- 3.8% vs. 1.3 +/- 1.5%). For 18S, MiSeq 2x500, despite longer reads overlapping the 18S V4-V5 region, only marginally improved taxonomic classification (+0.7% on average) and ASV resolution (+/-1.3%). Meanwhile, all platforms similarly biased against 18S due to its greater length, which we demonstrate can be offset by a gel-based size selection, with no apparent taxonomic bias. Overall the platforms yield ecologically similar results. We highlight platform-specific advantages to help guide decision-making and challenges that can be addressed through dedicated bioinformatic or wet-lab approaches.",
+    "journal": "",
+    "doi": "10.64898/2026.11.14.766689",
+    "date": "2026-11-17",
+    "authors": "D'Agostino, E., Needham, D.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.14.766689v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "18S rRNA",
+        "18s rrna",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "18S rRNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5109,
+    "collected_at": "2026-11-17T23:03:43.314334+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.64898/2026.11.14.766689"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9c5ab21fad1e8d3eda046c7cff8fdfa2364b93104c9f65e1467a316d06ac848a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T23:46:50.965409+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "599f6c4758cc67195f26c85cc5709f4bd8a22ac841a0fa7b2f3c99fd00f64cd1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T23:46:50.965409+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Illumina MiSeq、MiSeq i100、およびElement AVITIは、ユニバーサル16Sおよび18S rRNA遺伝子アンプリコンシーケンシングにおいて一致した生態学的パターンを示す。",
+    "abstract_ja": "分子マイクロバイオーム解析には、高解像度かつ比較可能な測定が必要であり、多くの場合、rRNA遺伝子などのマーカー遺伝子のシーケンシングによって得られる。近年、新たなプラットフォームや化学手法により、一般的に用いられているIllumina MiSeq 2x300と比較して低コストで性能向上が期待されているが、特にrRNA遺伝子アンプリコン研究における系統的な比較はまだ行われていない。本研究では、「ユニバーサル」（16S + 18S）rRNA遺伝子アンプリコン（V4-V5領域）を用いた手法により、モックコミュニティおよびフィールドサンプルをシーケンシングすることで、MiSeq 2x300、MiSeq 2x500、およびAVITI 2x300を比較した。すべてのプラットフォームで同様のコミュニティパターン（Mantel r > 0.93）が得られたほか、回収された系統樹に大きな違いは認められなかった。MiSeq 2x500では、インデックスホッピングが約4.5倍高かった（5.9 ± 3.8% vs. 1.3 ± 1.5%）。18Sについては、MiSeq 2x500は18S V4-V5領域に重なるリード長が長いにもかかわらず、分類学的分類（平均+0.7%）およびASV解像度（±1.3%）の改善はわずかであった。一方、すべてのプラットフォームは、18Sの長さがより長いことから同様に18Sに偏りが見られたが、これはゲルベースのサイズ選択によって相殺可能であり、明らかな分類学的バイアスは認められないことが示された。全体として、これらのプラットフォームは生態学的に類似した結果をもたらした。本稿では、意思決定の指針となるプラットフォーム固有の利点と、専用のバイオインフォマティクス手法やウェットラボアプローチによって対処可能な課題について強調する。"
+  },
+  {
+    "id": "10.64898/2026.11.14.766676",
+    "title": "A conserved MoxR-vWA chaperone complex drives starvation-induced protein degradation in bacteria",
+    "abstract": "Bacteria must quickly adapt to changes in their environment, notably including the sudden loss of nutrients. We previously showed that in glucose-starved E. coli, widespread starvation-induced protein degradation (SPD) fuels post-starvation proteome remodeling, degrading a wide swath of the proteome to supply the cell with energy and amino acids for synthesis of stress proteins. Here we demonstrate that SPD is mediated by a highly conserved complex of three proteins: the MoxR-type AAA+ ATPase SpdA, the von Willebrand factor A (vWA) domain protein SpdB, and the zinc metallopeptidase SpdC. Structural modeling and in vitro reconstitutions show that these proteins form a complex with 6:1:1 stoichiometry that resembles the widespread, but still poorly understood, family of MoxR-vWA chaperone complexes in bacteria and eukaryotes. Measurements of protein degradation in glucose-starved E. coli cells show that SpdA, SpdB, and SpdC work together to mediate the degradation of SPD substrates. Instead of directly degrading these substrates, our data suggest that limited structural perturbation and proteolysis \"softens\" SPD substrates and promotes their degradation by the cellular proteases ClpAP/ClpXP and Lon. Thus, SPD enables extensive proteome remodeling during starvation by expanding the pool of proteins accessible to cellular proteases, rather than by increasing protease abundance. Phylogenetic analysis shows that SpdA, SpdB, and SpdC are highly conserved across bacteria, with notable homologs including the well-characterized Bacillus subtilis sporulation factors PrkA (SpdA), YhbH (SpdB), and SpoVR (SpdC).",
+    "journal": "",
+    "doi": "10.64898/2026.11.14.766676",
+    "date": "2026-11-17",
+    "authors": "Okano, H., Ye, Q., Mori, M., Manzanarez, G., Zhang, Z., Hackbarth, F., Chambers, L. R., Balakrishnan, R., Kannan, H., Tian, E., Mendez-Diaz, F., Huo, J., Enustun, E., Ludwig, C., Hwa, T., Corbett, K. D.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.14.766676v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Bacillus",
+        "bacteria"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5110,
+    "collected_at": "2026-11-17T23:03:43.314334+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.64898/2026.11.14.766676"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6cbf75bf56715a04f961de181dddc286c8b6bbad3dd4e5cf9d3dde674e7a78f2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T23:46:50.965409+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "293dfe72fb99f57c548889e187db46bc20d40159262facc22d9bf44493d95808",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T23:46:50.965409+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "保存されたMoxR-vWAシャペロン複合体が、細菌における飢餓誘導性タンパク質分解を駆動する",
+    "abstract_ja": "細菌は、特に栄養素の急激な喪失を含む環境変化に迅速に適応しなければならない。我々は以前、グルコース飢餓状態の大腸菌において、広範な飢餓誘導性タンパク質分解（SPD）が飢餓後のプロテオームリモデリングを促進し、プロテオームの広範な領域を分解することで、ストレスタンパク質合成に必要なエネルギーとアミノ酸を細胞に供給することを明らかにした。本研究では、SPDが、MoxR型AAA+ ATPaseであるSpdA、von Willebrand因子A（vWA）ドメインタンパク質であるSpdB、および亜鉛メタロペプチダーゼであるSpdCという、高度に保存された3つのタンパク質からなる複合体によって媒介されることを示す。構造モデリングおよびin vitro再構成により、これらのタンパク質が、細菌および真核生物において広範に存在するが依然として十分に解明されていないMoxR-vWAシャペロン複合体ファミリーに類似した、6:1:1の化学量論比を持つ複合体を形成することが示された。グルコース飢餓状態の大腸菌細胞におけるタンパク質分解の測定により、SpdA、SpdB、およびSpdCが協調してSPD基質の分解を媒介することが示された。これらの基質を直接分解するのではなく、我々のデータは、限定的な構造摂動とタンパク質分解がSPD基質を「軟化」させ、細胞内プロテアーゼであるClpAP/ClpXPおよびLonによる分解を促進することを示唆している。したがって、SPDは、プロテアーゼの量を増やすのではなく、細胞内プロテアーゼが利用可能なタンパク質プールを拡大させることで、飢餓時の広範なプロテオームリモデリングを可能にする。系統解析により、SpdA、SpdB、およびSpdCは細菌間で高度に保存されており、よく特性解析されているBacillus subtilisの胞子形成因子であるPrkA（SpdA）、YhbH（SpdB）、およびSpoVR（SpdC）などの顕著な相同体が存在することが示された。"
+  },
+  {
+    "id": "10.64898/2026.11.15.766743",
+    "title": "An iron acquisition system promotes Bifidobacterium longum fitness in competitive early life gut communities",
+    "abstract": "Iron availability influences the composition of the gut microbiota, yet the mechanisms that enable beneficial bacteria to acquire iron and compete within iron-variable communities remain poorly understood. Here, we identify Fei (Fe import), an iron-responsive acquisition system that promotes the fitness of Bifidobacterium longum subsp. longum, a prevalent member of the early-life gut microbiota. Comparative profiling of 20 bifidobacterial strains revealed substantial inter- and intraspecies variation in growth under iron limitation, with multiple B. longum subsp. longum strains maintaining comparatively robust growth. Transcriptomic analysis identified a four-gene locus, feiMQOX, that was strongly induced during iron depletion and returned towards control expression following iron supplementation. The complete locus was highly conserved within B. longum subsp. longum but unevenly distributed across the wider genus. Disruption of individual Fei components impaired growth and reduced cell-associated iron under iron-restricted conditions, while metal-binding studies of purified FeiX demonstrated a physiological preference for Fe(II). FeiX also provided a pronounced fitness advantage during competition with an infant-derived Enterococcus faecalis isolate, particularly under iron limitation. Finally, analysis of longitudinal metagenomic data from Bangladeshi infants demonstrated that Fei is present within infant gut communities and that its abundance changes following iron supplementation. Together, these findings identify a lineage-associated iron-acquisition system that connects micronutrient availability with bifidobacterial physiology and competitive fitness. More broadly, our findings establish strain-level micronutrient acquisition as a potentially important determinant of beneficial bacterial fitness within the developing gut microbiota.",
+    "journal": "",
+    "doi": "10.64898/2026.11.15.766743",
+    "date": "2026-11-17",
+    "authors": "Acton, L., Soe, C. Z., Kujawska, M., Augustine, J., Senoo, D. K. J., Trivett, H., Caim, S., Shimpo, A., Clark, C., Friess, L., van Sinderen, D., Chivers, P. T., Hall, L. J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.15.766743v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "metagenom",
+        "metagenomic",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5111,
+    "collected_at": "2026-11-17T23:03:43.314334+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.64898/2026.11.15.766743"
+    ],
+    "translation": {
+      "title": {
+        "hash": "19c74b0d79a47c44c5f941d22c286addde1f2c4974f9b0b822a2a7f6dc91e2f2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T23:46:50.965409+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d5d05fb5b732e948ed767cbb409d6799e0d5fe665e6b5fb2a435fadc5075160f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T23:46:50.965409+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "鉄獲得系は、競争的な初期生体内腸内細菌群集においてBifidobacterium longumの適応度を高める。",
+    "abstract_ja": "鉄の利用可能性は腸内細菌叢の組成に影響を与えるが、有益な細菌が鉄を獲得し、鉄変動性のコミュニティ内で競合することを可能にするメカニズムについては、依然として十分に解明されていない。本研究では、初期生腸内細菌叢の主要な構成員であるBifidobacterium longum subsp. longumの適応度を高める、鉄応答性獲得システムであるFei（Fe import）を同定した。20株のビフィズス菌株の比較プロファイリングにより、鉄制限下における増殖に種間および種内での顕著な変動が認められ、複数のB. longum subsp. longum株が比較的旺盛な増殖を維持していた。トランスクリプトーム解析により、鉄枯渇時に強く誘導され、鉄補給後に対照レベルの発現に戻る4遺伝子座feiMQOXが同定された。この完全な遺伝子座はB. longum subsp. longum内で高度に保存されていたが、属全体では不均一に分布していた。個々のFei構成要素の破壊は、鉄制限条件下で増殖を阻害し、細胞関連鉄を減少させた一方、精製FeiXの金属結合研究では、Fe(II)に対する生理的な選好性が示された。また、FeiXは、特に鉄制限下において、乳児由来のEnterococcus faecalis分離株との競合において顕著な適応度上の優位性をもたらした。最後に、バングラデシュの乳児から得られた縦断的なメタゲノムデータの解析により、Feiが乳児の腸内コミュニティ内に存在し、鉄補給後にその存在量が変化することが示された。以上の知見を総合すると、微量栄養素の利用可能性をビフィズス菌の生理機能および競合適応度と結びつける、系統関連の鉄獲得システムが同定された。より広範には、本研究の結果は、発達途上の腸内細菌叢における有益な細菌の適応度の潜在的に重要な決定要因として、菌株レベルの微量栄養素獲得を確立するものである。"
+  },
+  {
+    "id": "10.64898/2026.11.15.766889",
+    "title": "Emergence of a Novel Bacteriophage of Toxigenic Vibrio cholerae in Haiti",
+    "abstract": "Toxigenic strains of Vibrio cholerae O1 are facultative pathogens that persist in estuaries and cause the secretory diarrheal disease cholera. Virulent bacteriophages (phages) can modulate pathogen density in both humans and aquatic reservoirs, thereby reducing cholera transmission. We report a novel phage, MAA01, isolated from cholera stool and environmental water samples collected in Haiti. The MAA01 genome is double-stranded DNA (31,507 base pairs) and contains 47 genes. Based on transmission electron microscopy morphology and phylogenetic analysis, we classify the novel phage as a member of the Caudoviricetes class. Its genome content is consistent with a temperate lifestyle, yet we observed a virulent phenotype in all strains tested, including toxigenic and non-toxigenic environmental O1 serogroup strains. Sequence analysis of spontaneous escape mutants of V. cholerae identified the O1 lipopolysaccharide antigen as the phage receptor. Using an infant mouse model of intestinal colonization, we showed that MAA01 can reduce V. cholerae load by 4-fold, indicating it can prey on its host in the small intestine.",
+    "journal": "",
+    "doi": "10.64898/2026.11.15.766889",
+    "date": "2026-11-17",
+    "authors": "Alam, M. T., Rebolledo Viveros, A., Sakib, S. N., Iballa, F. B. S., Morris, J. G., Camilli, A., Ali, A.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.15.766889v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Vibrio",
+        "bacteriophage",
+        "bacteriophages",
+        "phage",
+        "phages"
+      ],
+      "context": {
+        "marine": [
+          "aquatic"
+        ],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5112,
+    "collected_at": "2026-11-17T23:03:43.314334+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.64898/2026.11.15.766889"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b7c81fdbf551a7a6417567f7d242d865168170f6b475e19cd68e5bfed258d9b4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T23:46:50.965409+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f7b9906999739c2160d751af056a2630c5cf08eef6ae81b35223ea8420f8b13b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T23:46:50.965409+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ハイチにおける毒素産生性コレラ菌の新規バクテリオファージの出現",
+    "abstract_ja": "コレラ菌O1の毒素産生株は、河口域に生存し、分泌性下痢症であるコレラを引き起こす通性病原体である。強毒バクテリオファージ（ファージ）は、ヒトと水系リザーバーの両方において病原体密度を調節し、それによってコレラの伝播を減少させることができる。我々は、ハイチで採取されたコレラ便および環境水試料から単離した新規ファージMAA01について報告する。MAA01のゲノムは二本鎖DNA（31,507塩基対）であり、47個の遺伝子を含む。伝播電子顕微鏡形態および系統解析に基づき、我々はこの新規ファージをカウドウイルス綱の一員として分類する。そのゲノム内容は温帯的な生活様式と一致しているが、毒素産生株および非産生の環境O1血清群株を含む、試験したすべての株において強毒表現型が認められた。V. choleraeの自然逃避変異体の配列解析により、O1リポ多糖抗原がファージ受容体であることが同定された。腸管定着の仔マウスモデルを用いて、MAA01がV. choleraeの負荷を4分の1に減少させることができることを示し、小腸において宿主を捕食し得ることを明らかにした。"
   }
 ]
