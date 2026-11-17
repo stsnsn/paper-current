@@ -293243,5 +293243,310 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "MSI-3：MALDI-ToFスペクトルの真菌および細菌の両方の同定機能を備えた、MSIアプリケーションの改良版。",
     "abstract_ja": "マトリックス支援レーザー脱離イオン化飛行時間型質量分析法（MALDI-ToF MS）は、現在、日常的な診断において中核的な役割を果たしており、微生物種の正確な同定を可能にしている。本研究では、真菌に加えて細菌の同定にも対応した、無料オンライン質量分析同定（MSI）プラットフォームの最新リリースであるMSI-3の性能を評価した。MSI-3を、2つの真菌データセット（i）シーケンシング済み分離株669株のリファレンスパネル（パネル1）、および（ii）ユーザーから提出された実世界のスペクトルセット（パネル2）を用いて、MSI-2およびBruker MALDI Biotyperと比較検証した。MSI-3およびMSI-2は、パネル1のすべての真菌グループにおいて同等の性能を示し、種または種複合体レベルで97.8%（平均892/912）の一致率を記録した。また、糸状菌に関するBrukerデータベースと比較して、大幅な付加価値（約41%から約98%へ）を実現した。MSI-3はMSI-2よりも同定時間がわずかに長かったが（スペクトルあたり1.52秒対0.84秒）、リアルタイムのオンライン利用との互換性は維持されていた。同定時間の増加は、リファレンスデータベースの2倍への拡充とアルゴリズムの改良によって相殺された。パネル2において、MSI-3は細菌および酵母のスペクトルでBrukerと同等の性能を達成し、糸状菌、特にAspergillus属、Fusarium属、および皮膚糸状菌においてBrukerを上回る性能を示した。MSI-3では、混合スペクトルや品質の低いスペクトルの可能性を示す新たな「未解釈（uninterpretable）」カテゴリーが導入され、結果の解釈が容易になった。総じて、MSI-3は柔軟性、広範な分類学的カバー範囲、および人工知能（AI）への対応を統合した、MSIプラットフォームにおける大幅な進歩である。Brukerとの併用により診断性能が向上し、MSI-3は臨床および研究現場における微生物同定のための強力かつ拡張可能な標準として位置づけられる。重要性：本論文は、マトリックス支援レーザー脱離イオン化飛行時間型質量分析法（MALDI-ToF MS）を用いた微生物同定における重要な進歩として、MSI-3の極めて高い重要性を強調するものである。すでに確立されている真菌データベースおよび改良されたアルゴリズムに加え、細菌同定へとプラットフォームを拡張したことで、ユーザーは追加の試料処理やデータベースの切り替えを行うことなく、単一のワークフローで混合プロジェクトを解析することが可能となった。世界中で500人以上のユーザーに利用されているMSI-3は、特に糸状菌において診断性能を向上させており、臨床および研究微生物学の双方に柔軟で拡張可能なソリューションを提供している。"
+  },
+  {
+    "id": "10.1093/ismeco/ycag334",
+    "title": "The microbial footprint of Arctic tourism: An emerging research priority",
+    "abstract": "Microbial introductionMicrobial coalescenceMicrobial communitiesNon-native speciesArctic tourismGovernanceSustainable tourismEnvironmental Safety",
+    "journal": "ISME Communications",
+    "doi": "10.1093/ismeco/ycag334",
+    "date": "2026-11-14",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/ismecommun/advance-article/doi/10.1093/ismeco/ycag334/9055623?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6596/advanceAccess_4180.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5098,
+    "collected_at": "2026-11-17T23:03:43.314334+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://academic.oup.com/rss/site_6596/advanceAccess_4180.xml"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.1093/ismeco/ycag334"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2b6c1215549ee62a5c8aa01687a8ec88d91769c1fb87d7e1ea6afc74a21399e2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T23:34:31.677226+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c45754adabf9b62977b229994940094eb059504b771320b6bcaed2e87546f011",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T23:34:31.677226+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "北極圏観光の微生物フットプリント：新たな研究課題",
+    "abstract_ja": "微生物の導入微生物の融合微生物群集外来種北極圏観光ガバナンス持続可能な観光環境の安全性"
+  },
+  {
+    "id": "10.1007/s00248-026-02930-z",
+    "title": "Host-Driven Community Differentiation in Microalgal Microbiomes: Key Role of the Roseobacter Group within Alphaproteobacteria",
+    "abstract": "Microalgae and bacteria are ecologically dominant organisms in aquatic ecosystems that interact intimately within the phycosphere. Although host-specific bacterial communities are well documented, they have typically been analyzed as a whole, and it remains unknown whether host specificity is distributed evenly across resident bacteria or is concentrated within particular lineages with distinct ecological strategies. Here we characterized the bacterial communities of 11 microalgal species—nine dinoflagellates and two green algae, spanning marine and freshwater taxa—across three growth phases (lag, exponential, and stationary) using full-length 16​S rRNA gene sequencing, and used Bray–Curtis dissimilarity to decompose host-associated community structure by bacterial class. This revealed a bipartite architecture within the phycosphere. Gammaproteobacteria showed weakly host-associated patterns with high within-host variation (PERMDISP F = 10.755), whereas Alphaproteobacteria formed a stable, host-discriminating structural core: the PERMANOVA R² for Alphaproteobacteria alone (0.773) was nearly identical to that of the entire community (0.760), indicating that this single lineage captures the host-specificity signal as effectively as the whole community. Combined LEfSe and network hub analyses identified the Roseobacter group as the key taxa underpinning this core, and a Random Forest classifier trained on only four Roseobacter-group genera recovered host identity under group cross-validation (mean accuracy 0.787 ± 0.127). The Roseobacter group thus serves not merely as an abundant constituent but as a microbial signature that distinguishes phylogenetically diverse hosts. Our findings provide a structural perspective in which host specificity in the microalgal microbiome is concentrated within a single lineage rather than distributed evenly across the community.",
+    "journal": "Microbial Ecology",
+    "doi": "10.1007/s00248-026-02930-z",
+    "date": "2026-11-17",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://link.springer.com/article/10.1007/s00248-026-02930-z",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Roseobacter",
+        "bacteria",
+        "bacterial",
+        "dinoflagellate",
+        "microalgae",
+        "microalgal",
+        "microbial",
+        "microbiome",
+        "microbiomes"
+      ],
+      "context": {
+        "marine": [
+          "aquatic",
+          "freshwater",
+          "marine",
+          "roseobacter"
+        ],
+        "genomics": [
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=248",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5123,
+    "collected_at": "2026-11-17T23:03:43.314334+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=248"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.1007/s00248-026-02930-z"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4bf702357372ddd7485b2e1cfa729c86b7e882602e406f860ddc780d6b9a61de",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T23:34:31.677226+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4c62853a64ff66b32eac40fc52648ae1ae54d26c5bd8f1dc10d7902587bb3567",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T23:34:31.677226+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "微細藻類微生物叢における宿主駆動型コミュニティ分化：アルファプロテオバクテリア内におけるRoseobacter群の重要な役割",
+    "abstract_ja": "微細藻類と細菌は、植物圏において密接に相互作用する水圏生態系の生態学的に優占的な生物である。宿主特異的な細菌群集については十分に報告されているが、通常は全体として解析されており、宿主特異性が常在細菌全体に均等に分布しているのか、あるいは異なる生態戦略を持つ特定の系統に集中しているのかは依然として不明である。本研究では、海洋および淡水の分類群にわたる11種の微細藻類（渦鞭毛藻9種および緑藻2種）の細菌群集を、全長16S rRNA遺伝子シーケンシングを用いて3つの増殖相（ラグ期、指数増殖期、定常期）にわたって特性評価し、Bray–Curtis非類似度を用いて細菌綱別の宿主関連群集構造を分解した。これにより、植物圏における二部構成の構造が明らかになった。ガンマプロテオバクテリアは、宿主内での変動が大きい（PERMDISP F = 10.755）弱的な宿主関連パターンを示した一方、アルファプロテオバクテリアは安定した宿主識別的な構造コアを形成していた。アルファプロテオバクテリア単独のPERMANOVA R²（0.773）は群集全体のそれ（0.760）とほぼ同一であり、この単一系統が群集全体と同様に効果的に宿主特異性のシグナルを捉えていることが示された。LEfSeおよびネットワークハブ解析を組み合わせることで、Roseobacterグループがこのコアを支える主要な分類群として同定され、Roseobacterグループの4属のみで学習させたランダムフォレスト分類器は、グループ交差検証において宿主の同一性を復元した（平均正解率 0.787 ± 0.127）。したがって、Roseobacterグループは単なる豊富に存在する構成要素ではなく、系統的に多様な宿主を区別する微生物シグネチャーとして機能している。本研究の知見は、微細藻類マイクロバイオームにおける宿主特異性が、群集全体に均等に分布しているのではなく、単一の系統に集中しているという構造的な視点を提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/msphere.00329-26",
+    "title": "A novel technique to characterize <i>Klebsiella pneumoniae</i> populations indicates that mono-colonization is associated with risk of infection.",
+    "abstract": "Klebsiella pneumoniae and related species are a common cause of healthcare-associated infections. The gut is a major Klebsiella reservoir, and gut colonization is a risk factor for developing an extraintestinal Klebsiella infection. Patients can be colonized by multiple Klebsiella strains or even species in the gut simultaneously, and there is high concordance between the gut-colonizing and infection-causing strains. The detection and characterization of colonizing strains is critical for a better understanding of the progression to infection and for developing interventions for colonized patients. However, the association between mixed or mono-colonization and subsequent infection is unknown. In this study, we developed an amplicon-based sequencing method called wzi-Seq that enables the detection and quantification of Klebsiella strains from complex samples and mixtures using the conserved capsule gene wzi as a molecular barcode. This method is highly accurate and precise, with a sensitivity of 93% and specificity of 99.8% in mixtures containing as many as 58 unique wzi types, and 90.8% concordance with culture-based detection from archived rectal swab samples from an established case and control cohort. Adjudicating wzi-Seq with culture data, we determined that 63.2% (108/171) patients were mono-colonized with a single Klebsiella strain, while 36.8% (63/171) had mixed colonization with multiple Klebsiella strains. Controlling for patient variables in multivariate analysis, we determined that mono-colonization was significantly (P = 0.034) associated with infection. Characterization of Klebsiella colonizing populations could improve the accuracy of assessing infection risk and enable targeted interventions to prevent these healthcare-associated infections.IMPORTANCEKlebsiella gut colonization is a major risk factor for the development of extraintestinal Klebsiella infections in hospitalized settings. However, it is unknown if patients are colonized by one or multiple strains of Klebsiella and how the population structure of Klebsiella in the gut impacts infection risk. Here, we describe the development of a novel technique, wzi-Seq, to detect and quantify multiple Klebsiella strains from complex samples using standard techniques and rapid DNA sequencing. We applied wzi-Seq to rectal swabs from a well-characterized patient cohort and found that Klebsiella colonization with a single strain was more prevalent than colonization with multiple strains. Furthermore, mono-colonized patients had a significantly higher risk of developing a Klebsiella infection than mixed-colonized patients. This work validates a new tool to study Klebsiella populations and reveals that population structure in the gut influences the risk of healthcare-associated infections.",
+    "journal": "mSphere",
+    "doi": "10.1128/msphere.00329-26",
+    "date": "2026-10-22",
+    "authors": "Unverdorben LV, Mason S, Wu W, Noda M, Castaneda S, Vornhagen J, Snitkin ES, Rao K, Bachman MA.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42910930",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42910930",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "gene",
+        "method",
+        "sequencing"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5075,
+    "collected_at": "2026-11-17T22:53:10.596689+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.1128/msphere.00329-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "53bbbd19e19c45b896aaddb499eb44c8a843a6eeef9acad09bddc396f6288bd7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T23:34:31.677226+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "deed6d808da8896f6794150ee8b0e9b017ec569be561452d6cd45f03370ffaf5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T23:34:31.677226+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "<i>Klebsiella pneumoniae</i>集団を特性評価する新規手法により、単一菌叢定着が感染リスクと関連していることが示された。",
+    "abstract_ja": "Klebsiella pneumoniaeおよび近縁種は、医療関連感染症の一般的な原因である。腸管はKlebsiellaの主要なリザーバーであり、腸管定着は腸管外Klebsiella感染症発症のリスク因子となる。患者の腸内には、複数のKlebsiella株、あるいは異なる種が同時に定着していることがあり、腸管定着株と感染原因株との間には高い一致性が認められる。定着株の検出および特性解析は、感染への進展をより深く理解し、定着患者に対する介入策を策定する上で極めて重要である。しかし、混合定着または単一定着とその後の感染との関連性は不明である。本研究では、保存された莢膜遺伝子wziを分子バーコードとして用い、複雑な検体や混合物からKlebsiella株を検出・定量できるアンプリコンベースのシーケンシング法「wzi-Seq」を開発した。本手法は極めて高精度かつ精密であり、最大58種類の異なるwziを含む混合物において感度93%、特異度99.8%を示し、確定症例および対照コホートからアーカイブされた直腸スワブ検体を用いた培養ベースの検出法と90.8%の一致性を示した。wzi-Seqを培養データと照らし合わせた結果、患者の63.2%（108/171）が単一のKlebsiella株による単一定着であり、36.8%（63/171）が複数のKlebsiella株による混合定着であることが判明した。多変数解析において患者変数を制御した結果、単一定着は感染と有意に（P = 0.034）関連していることが示された。Klebsiella定着集団の特性解析は、感染リスク評価の精度を向上させ、これらの医療関連感染症を予防するための標的を絞った介入を可能にする可能性がある。重要性Klebsiellaの腸管定着は、入院環境における腸管外Klebsiella感染症発症の主要なリスク因子である。しかし、患者が単一のKlebsiella株に定着しているのか、あるいは複数の株に定着しているのか、また腸管内のKlebsiella集団構造が感染リスクにどのように影響するのかは不明である。本研究では、標準的な手法と迅速DNAシーケンシングを用いて、複雑な検体から複数のKlebsiella株を検出・定量する新規技術「wzi-Seq」の開発について報告する。特性解析が十分になされた患者コホートの直腸スワブにwzi-Seqを適用したところ、単一株によるKlebsiella定着が複数株による定着よりも多く認められた。さらに、単一定着の患者は、混合定着の患者よりもKlebsiella感染症を発症するリスクが有意に高かった。本研究は、Klebsiella集団を研究するための新たなツールの有効性を検証し、腸管内の集団構造が医療関連感染症のリスクに影響を与えることを明らかにした。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research support, non-u.s. gov't",
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1038/s41467-026-78533-6",
+    "title": "Multiproperty optimization of therapeutic antibodies through sequence editing via large language model and reinforcement learning.",
+    "abstract": "Discovering antibodies with multiple beneficial properties is essential for therapeutic drug development, but experimentally identified antibodies require further optimization. Joint optimization remains challenging because sequence space is vast, annotations are sparse and property tradeoffs are common. Herein, we propose AbOptimizer, a reinforcement learning framework for multiproperty antibody optimization through parallel multisite sequence editing. AbOptimizer identifies promising editing sites and edit actions, including 'reservation', 'substitution' and optional 'insertion' or 'deletion', before recommending mutations from protein language models, while surrogate evaluation and Pareto rewards shape policy training. We evaluate AbOptimizer on three therapeutic antibodies across multiproperty, data-limited and indel-inclusive optimization. In silico, AbOptimizer improves optimized properties and outperforms baseline methods. In vitro, selected variants show affinity-specificity co-optimization for emibetuzumab, improved affinity and specificity with largely maintained thermal stability for siltuximab, and indel-inclusive affinity optimization for trastuzumab. These results validate AbOptimizer as a practical framework for therapeutic antibody optimization.",
+    "journal": "Nature Communications",
+    "doi": "10.1038/s41467-026-78533-6",
+    "date": "2026-10-26",
+    "authors": "Qiu M, Wang Z, Liu X, Wang H, Hua Q, Shu Q, Luo S, Niu M, Ma F, Huang F, Wang Y, Xiong Z, Zhang W.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42934313",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13710857",
+    "pmid": "42934313",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5042,
+    "collected_at": "2026-11-17T22:53:10.596689+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.1038/s41467-026-78533-6"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e1a5c94548d9e6ef83a8c942c218bdf123d6378817fb0915926edc87fe28e584",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T23:34:31.677226+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c30490d231ec0a6fa4200c6ab60166505c388b38d46166187348a0df6001215e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T23:34:31.677226+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "大規模言語モデルと強化学習による配列編集を介した治療用抗体のマルチプロパティ最適化。",
+    "abstract_ja": "複数の有益な特性を有する抗体の探索は、治療薬開発において不可欠であるが、実験的に同定された抗体にはさらなる最適化が必要である。配列空間が膨大であり、アノテーションが乏しく、特性間のトレードオフが一般的であるため、共同最適化は依然として困難な課題である。本報では、並列的なマルチサイト配列編集を通じて多特性抗体の最適化を行う強化学習フレームワーク「AbOptimizer」を提案する。AbOptimizerは、タンパク質言語モデルから変異を推奨する前に、有望な編集部位および編集アクション（「予約」、「置換」、ならびに任意の「挿入」または「欠失」）を特定し、サロゲート評価とパレート報酬によって方策の学習を導く。我々は、多特性、データ制限、およびインデル包含の最適化において、3種類の治療用抗体を用いてAbOptimizerを評価した。in silicoにおいて、AbOptimizerは最適化された特性を改善し、ベースライン手法を上回る性能を示した。in vitroでは、選定されたバリアントにより、エミベツズマブでは親和性・特異性の共最適化が、シルツキマブでは熱安定性をほぼ維持したまま親和性と特異性の向上が、そしてトラスツズマブではインデル包含の親和性最適化が認められた。これらの結果は、治療用抗体の最適化における実用的なフレームワークとしてAbOptimizerの有効性を裏付けるものである。"
   }
 ]
