@@ -285867,5 +285867,306 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "早産の機械学習予測に向けたコホート横断的腟内マイクロバイオームデータの系統学的調和",
     "abstract_ja": "要旨　腟内マイクロバイオームは早産（PTB）と関連しているが、単一施設予測モデルはサンプルサイズによる制約を受ける可能性があり、公開されている16S rRNAデータセットは可変領域やプロトコルが異なる。我々は、系統的配置に基づく調和化（MaLiAmPi）を用いて、韓国の単一施設コホート（EUMC; n = 235）とMicrobiome Preterm Birth DREAM Challenge（DC; 1,268名由来の3,578サンプル）を統合した。プールデータ評価において、AUCはLASSOロジスティック回帰で0.657から0.731に、CatBoostでは0.57から0.81に上昇した。DCでは子宮頸管長（CL）が利用できなかったため、短頸管（sCL;"
+  },
+  {
+    "id": "10.1186/s42523-026-00659-1",
+    "title": "The microbiome of the sea louse Caligus rogercresseyi reveals sex-associated taxa and predicted functional differences",
+    "abstract": "Sea lice (Caligus rogercresseyi) pose a significant challenge to salmon aquaculture in Chile, yet their associated microbiota remains poorly understood. We used full-length 16S rRNA amplicon sequencing and functional prediction analyses to compare the whole-body and intestinal microbiota of adult male and female sea lice. Alpha-diversity analyses showed significantly higher Shannon diversity in females in both whole-body and intestinal samples, whereas Chao1 richness was significantly higher only in female intestinal samples. Whole-body bacterial community composition differed between sexes according to PERMANOVA, whereas the difference between male and female intestinal communities was not statistically significant. Taxonomic analyses nevertheless revealed sex-associated patterns in specific bacterial taxa, with Aliivibrio and Tenacibaculum among the dominant genera in female and male whole-body samples, respectively, while Vibrio dominated the intestinal microbiota of both sexes. Several identified genera include species of recognized importance in salmon aquaculture, although pathogenicity and transmission were not evaluated in this study. Functional prediction further indicated sex-associated differences in bacterial metabolic potential: male-associated microbiota showed a higher predicted representation of anabolic pathways related to amino acid, lipid, and nucleotide biosynthesis, whereas female-associated microbiota showed a higher predicted representation of catabolic and energy-related pathways, including β-oxidation, glycolysis, and amino acid degradation. These results indicate that sex is associated with differences in the diversity, taxonomic composition, and predicted functional potential of the C. rogercresseyi microbiota, highlighting the importance of considering biological sex in future studies of sea louse microbial ecology and host–parasite–microbe interactions.",
+    "journal": "Animal Microbiome",
+    "doi": "10.1186/s42523-026-00659-1",
+    "date": "2026-11-17",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s42523-026-00659-1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "Vibrio",
+        "bacteria",
+        "bacterial",
+        "microbe",
+        "microbial",
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "16S rRNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=42523",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5002,
+    "collected_at": "2026-11-17T04:40:38.259930+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=42523"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.1186/s42523-026-00659-1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "52288d3e0f2a606f67b52c5104f3259032a75970434763f9cd5f27ccf753e8f3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T05:02:15.598716+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "86866a79b593de2f1df9dadbf8e2d88a8773bbae8f3e167c79b58b1020804d8b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T05:02:15.598716+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ウミジラミ Caligus rogercresseyi のマイクロバイオームから明らかになった性関連分類群と予測される機能的差異",
+    "abstract_ja": "ウミジラミ（Caligus rogercresseyi）はチリにおけるサケ養殖において重大な課題となっているが、それに伴う微生物叢については依然として十分に解明されていない。本研究では、全長16S rRNAアンプリコンシーケンシングおよび機能予測解析を用いて、成体の雄および雌のウミジラミの全身および腸管微生物叢を比較した。アルファ多様性解析の結果、全身および腸管の両サンプルにおいて、雌のシャノン多様性が有意に高いことが示された一方、Chao1リッチネスは雌の腸管サンプルにおいてのみ有意に高かった。PERMANOVA解析によれば、全身の細菌群集組成は雌雄間で異なっていたが、雌雄の腸管群集間の差は統計的に有意ではなかった。しかしながら、分類学的解析により、特定の細菌分類群において性に関連したパターンが認められた。雌および雄の全身サンプルでは、それぞれAliivibrio属とTenacibaculum属が優占属であったのに対し、腸管微生物叢では両性ともにVibrio属が優占していた。同定された属の中には、サケ養殖において重要とされる種が含まれていたが、本研究では病原性および伝播性の評価は行われなかった。さらに機能予測解析により、細菌の代謝能に性差があることが示された。雄由来の微生物叢では、アミノ酸、脂質、およびヌクレオチドの生合成に関連する同化経路の予測割合が高かったのに対し、雌由来の微生物叢では、β酸化、解糖系、およびアミノ酸分解を含む異化経路およびエネルギー関連経路の予測割合が高かった。これらの結果は、C. rogercresseyiの微生物叢の多様性、分類学的組成、および予測される機能能に性差が関連していることを示しており、今後のウミジラミの微生物生態学および宿主・寄生虫・微生物間相互作用に関する研究において、生物学的性を考慮することの重要性を浮き彫りにしている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.3389/fmicb.2026.1958679",
+    "title": "Nutritional intervention trial of yeast mannans derived from baker's yeast enriches <i>Bacteroides</i> and <i>Parabacteroides</i> with concurrent reduction of <i>Klebsiella pneumoniae</i>.",
+    "abstract": "IntroductionSupplementation with a yeast cell wall fraction rich in mannans is well tolerated in adults without gastrointestinal disease; however, limited research has examined its selective utilization by the gut microbiota and associated health benefits. The aim of this analysis was to investigate the specific effects of yeast mannans on the composition and metabolic function of the gut microbiota.MethodsFecal samples from an open-label study of adults consuming 15 g of yeast mannans per day were profiled for fecal microbiota composition using whole metagenome sequencing, and fecal and urine metabolomics were analyzed by direct infusion and liquid chromatography-tandem mass spectrometry (DI-MS/MS and LC-MS/MS).ResultsDifferential abundance testing identified 46 species whose relative abundances increased with the yeast mannan intervention, primarily in the genera Bacteroides and Parabacteroides. Thomasclavelia spiroformis showed the largest fold increase. Four species decreased in relative abundance, with a greater-than-2-fold decrease in Klebsiella pneumoniae, with 45% of participants showing no detection following the yeast mannan intervention. Minor metabolomic changes were noted, including increased urinary excretion of N-acetylalanine, alanine, and caproic acid, and decreases in fecal concentrations of ether-linked phosphatidylcholines C36:4 and C40:1.DiscussionYeast mannan supplementation selectively enriched several Bacteroides and Parabacteroides, saccharolytic commensals that may outcompete Klebsiella pneumoniae, an opportunistic pathobiont capable of causing extraintestinal infections.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1958679",
+    "date": "2026-10-30",
+    "authors": "Moreno ML, Taft DH, Tompkins TA, Dahl WJ.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43032102",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43032102",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenome",
+        "microbiota",
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4987,
+    "collected_at": "2026-11-17T04:29:57.739573+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.3389/fmicb.2026.1958679"
+    ],
+    "translation": {
+      "title": {
+        "hash": "84583c8735428e2d56a01f6e21f3c7b0bd8df54d4c3a4f416e2f4d433386378a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T05:02:15.598716+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6335175b5c5d74875e101aa231088a6bc1861d12093ee4469363a1f082b03cfe",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T05:02:15.598716+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "パン酵母由来マンナンの栄養介入試験により、<i>Bacteroides</i>および<i>Parabacteroides</i>が増菌すると同時に、<i>Klebsiella pneumoniae</i>が減少した。",
+    "abstract_ja": "はじめにマンナンを豊富に含む酵母細胞壁画分の補給は、消化器疾患のない成人において耐容性が良好である。しかしながら、腸内細菌叢による選択的な利用およびそれに伴う健康上の利点に関する研究は限られている。本解析の目的は、酵母マンナンが腸内細菌叢の組成および代謝機能に及ぼす特異的な影響を検討することであった。方法1日15gの酵母マンナンを摂取した成人を対象としたオープンラベル試験の糞便検体について、全メタゲノムシーケンシングを用いて糞便微生物叢の組成を解析し、糞便および尿のメタボロミクスを直接注入法および液体クロマトグラフィー-タンデム質量分析法（DI-MS/MSおよびLC-MS/MS）により解析した。結果差異存在量解析により、酵母マンナンの介入に伴い相対存在量が増加した46種が同定され、主にBacteroides属およびParabacteroides属に認められた。Thomasclavelia spiroformisで最大の増加倍率を示した。4種で相対存在量が減少し、特にKlebsiella pneumoniaeでは2倍を超える減少が認められた。また、参加者の45%において酵母マンナンの介入後に検出が認められなかった。N-アセチルアラニン、アラニン、およびカプロン酸の尿中排泄量の増加、ならびにエーテル結合型ホスファチジルコリンC36:4およびC40:1の糞便中濃度の低下など、軽微なメタボロームの変化が認められた。考察酵母マンナンの補給により、いくつかのBacteroides属およびParabacteroides属が選択的に増殖した。これらは、腸管外感染症を引き起こし得る日和見性病原共生菌であるKlebsiella pneumoniaeに対して競争的に優位に立つ可能性のある、糖分解性共生菌である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1093/nar/gkag1047",
+    "title": "LoGIC: a cross-species local gene-cluster integrative catalog.",
+    "abstract": "Homologous genes, especially those sharing close genomic locations and forming gene clusters, often have compensatory roles, therefore pose remarkable challenges for deciphering the functions and relationships of these genes. A comprehensive database of local homologous gene clusters with multimodal information would greatly facilitate such research. Here, we present LoGIC (https://omicslab.genetics.ac.cn/LoGIC/), a Local Gene-cluster Integrative Catalog that includes 20 306 local gene clusters identified from 30 representative eukaryotic species. In addition to the basic genomic features of each gene cluster, LoGIC also allows users to examine the sequence similarity of gene members within a cluster, the functional preference of clustered genes within a species, and the cross-species conservation of gene clusters. Information of tissue-wide expression profile and relationship with chromatin Hi-C structure is also available for human gene clusters. Together, LoGIC can facilitate studies of tandem gene duplication, paralog functional divergence, lineage-specific gene-family expansion, and evolutionary conservation or remodelling of homologous gene clusters across-species.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1047",
+    "date": "2026-10-31",
+    "authors": "Song L, Liu D, Wang XJ.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42963948",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42963948",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genomic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 4985,
+    "collected_at": "2026-11-17T04:29:57.739573+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.1093/nar/gkag1047"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2958bec4284947614801ee2d42ae404883a102e4762e63f8bad64e9f612d747d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T05:02:15.598716+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "593adb3e7650bf547ae1bd37d3614345a917c8f48d368304a18c69bb336e19a3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T05:02:15.598716+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "LoGIC：種横断的な局所遺伝子クラスター統合カタログ。",
+    "abstract_ja": "相同遺伝子、特にゲノム上の近接した位置に存在し遺伝子クラスターを形成する遺伝子は、しばしば相補的な役割を担っているため、これらの遺伝子の機能や関係性を解明する上で極めて大きな課題となっている。マルチモーダル情報を備えた局所的な相同遺伝子クラスターの包括的なデータベースがあれば、こうした研究は大幅に促進されるだろう。本稿では、30種の代表的な真核生物から同定された20 306個の局所遺伝子クラスターを収録したLocal Gene-cluster Integrative CatalogであるLoGIC（https://omicslab.genetics.ac.cn/LoGIC/）を紹介する。LoGICでは、各遺伝子クラスターの基本的なゲノム特性に加え、クラスター内の遺伝子メンバー間の配列類似性、種内におけるクラスター遺伝子の機能的選好性、および遺伝子クラスターの種間保存性を調べることができる。ヒト遺伝子クラスターについては、組織全体の発現プロファイルやクロマチンHi-C構造との関連性に関する情報も利用可能である。総じて、LoGICは、タンデム遺伝子重複、パラログの機能的分化、系統特異的な遺伝子ファミリーの拡大、および種間における相同遺伝子クラスターの進化的保存またはリモデリングに関する研究を促進することができる。"
+  },
+  {
+    "id": "10.64898/2026.11.15.766819",
+    "title": "A de novo FtsA binder blocks late divisome recruitment, unmasking a hidden constriction mechanism",
+    "abstract": "Bacterial cytokinesis requires assembly of a multiprotein divisome complex, but the molecular event triggering its midcell recruitment and activity remains unclear. Recent work suggests a transition in the oligomeric structure of the conserved actin homolog FtsA may activate the divisome complex in Escherichia coli. Here, we test this model using a de novo designed protein binder, L125, predicted to block longitudinal FtsA oligomerization. L125 localizes to the Z-ring and inhibits cell division by blocking recruitment of late divisome proteins while enhancing recruitment of early division proteins. These findings implicate the FtsA longitudinal oligomerization interface in late divisome recruitment. Unexpectedly, L125-treated cells form broad, shallow constrictions that fail to complete division. These constrictions occur despite loss of detectable late-divisome localization and are consistent with ZipA-dependent preseptal cell-wall synthesis, previously not known to cause constrictions. This alternative constriction pathway may reinforce the future division site before activation of the canonical division machinery.",
+    "journal": "",
+    "doi": "10.64898/2026.11.15.766819",
+    "date": "2026-11-16",
+    "authors": "Mannik, J., Mehta, J. J., Parks, J. M., Mannik, J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.15.766819v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5003,
+    "collected_at": "2026-11-17T04:40:38.259930+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.64898/2026.11.15.766819"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4254f1bba02360c3addf31292637f99af51d5b43a57b7260e4ff80c90bfa12b4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T05:02:15.598716+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "150b8e103c85a766017f45348c6f9f6a6f5972ac82f671bba24cd859f6e8d509",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T05:02:15.598716+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "de novo FtsAバインダーが後期二倍体のリクルートを阻害し、隠れた抑制機構を明らかにする",
+    "abstract_ja": "細菌の細胞質分裂には多タンパク質からなる分裂小体複合体の構築が必要であるが、その細胞中心部への動員と活性化を誘発する分子事象は依然として不明である。近年の研究では、保存されたアクチンホモログFtsAのオリゴマー構造の遷移が、大腸菌において分裂小体複合体を活性化させる可能性が示唆されている。本研究では、縦方向のFtsAオリゴマー化を阻害すると予測されるde novo設計のタンパク質バインダーL125を用いて、このモデルを検証した。L125はZリングに局在し、後期分裂小体タンパク質の動員を阻害する一方で、前期分裂小体タンパク質の動員を促進することで、細胞分裂を抑制する。これらの知見は、FtsAの縦方向オリゴマー化界面が後期分裂小体の動員に関与していることを示唆している。予想外なことに、L125処理細胞では幅広で浅いくびれが形成され、分裂を完了できなくなる。これらのくびれは、検出可能な後期分裂小体の局在喪失にもかかわらず生じ、従来はくびれの原因とは知られていなかったZipA依存的な前隔壁細胞壁合成と整合する。この代替的なくびれ形成経路は、正統的な分裂機構が活性化する前に、将来の分裂部位を補強している可能性がある。"
   }
 ]
