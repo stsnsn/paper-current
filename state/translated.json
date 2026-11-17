@@ -288760,5 +288760,269 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "酵母における大規模絶対定量プロテオミクスにより明らかになった細胞内区画間のタンパク質資源配分",
     "abstract_ja": "複雑な膜結合型オルガネラ内における細胞内区画化は、真核生物の生命の顕著な特徴であり、空間的分離を通じて代謝の特化を可能にする。本研究では、多様な実験条件下における2種の酵母について、これまでで最大規模となる300件の絶対定量プロテオームを網羅したデータセットを構築した。ビッグデータ解析、数式フィッティング、および機械学習を活用し、タンパク質量、資源配分、および細胞表現型の間の定量的な相関関係をシステムレベルで解明した。その結果、細胞内資源の分布は極めて不均一であり、特定の増殖速度と共変することが明らかになった。具体的には、特定の増殖速度が高い場合、特定の区画（例：核）からのタンパク質質量分率（PMF）が一貫して低下し、これはリボソームからのタンパク質資源需要の増加と一致する。一方、栄養制限は、ストレス適応を維持するために特定の区画（例：液胞）内のタンパク質資源をアップレギュレートすることで、資源のリサイクルを誘導する可能性がある。重要な点として、我々の統合解析により、少数の細胞内区画（例：核およびリボソーム）からのPMFが酵母の生理学的パラメータ（例：特定増殖速度、酸素取り込み速度）を正確に予測できること、また限定的なタンパク質セット（≥ 23）を用いて7つの主要な細胞内区画における資源配分の変動を捉えられることが示された。さらに、条件間におけるCrabtree陽性種とCrabtree陰性種の比較解析により、細胞内資源配分が複数の要因によって形成され得ること、ならびにこれら2種が環境摂動に対する頑健性において著しく異なることが示された。要約すると、酵母種の高品質な定量プロテオームデータセットは、細胞内資源配分の根底にある一般原理を理解するための前例のない機会を提供し、合成生物学における細胞工場の精密工学の基礎を築くものである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1990271",
+    "title": "Energy metabolism and persistent colonization in Helicobacter pylori: regulatory integration, metabolic plasticity, and therapeutic vulnerabilities",
+    "abstract": "Helicobacter pylori (H. pylori) establishes lifelong gastric colonization despite acidity, fluctuating oxygen tension, nutrient limitation, metal stress, and host immune pressure. Increasing antimicrobial resistance further highlights the need to identify physiological vulnerabilities beyond conventional antibiotic targets. This review focuses on the bacterial energy-metabolic mechanisms that support persistent colonization, including amino-acid utilization, noncanonical central carbon metabolism, respiratory flexibility, hydrogen utilization, acid acclimation, and metal-dependent regulation. We further examine how regulatory systems such as ArsRS, CrdRS, Fur, NikR, HP1021, and HsrA connect environmental sensing with metabolic and stress-adaptive outputs. Current evidence supports partially overlapping regulatory axes that converge functionally on acid acclimation, membrane energetics, respiratory metabolism, metal homeostasis, nutrient utilization, motility, and resistance to host antimicrobial stress, rather than a universally demonstrated synergistic network. Host metabolic remodeling is discussed separately from bacterial exploitation of host-derived substrates; direct evidence for host-to-bacterium metabolic support is strongest for L-lactate utilization, whereas many other host metabolic changes remain associative. Finally, we discuss metabolism-associated therapeutic vulnerabilities, including the shikimate and coenzyme A biosynthetic pathways. Together, these findings support regulatory integration and functional convergence as a framework for understanding H. pylori persistence and for identifying new intervention targets.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1990271",
+    "date": "2026-11-17",
+    "authors": "Baoning Wang",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1990271",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "bacterium"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5051,
+    "collected_at": "2026-11-17T14:33:57.890691+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.3389/fmicb.2026.1990271"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7a2b3264e5743a3494d45803d195ff854064e50b102d8c565a998d31656bb1c0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:06:22.805888+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "44b89a2e689f068667c6c4c6550a0c6ab698e12aa4742718e262bb8876b9b26e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:06:22.805888+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ヘリコバクター・ピロリにおけるエネルギー代謝と持続的定着：調節統合、代謝可塑性、および治療上の脆弱性",
+    "abstract_ja": "ヘリコバクター・ピロリ（H. pylori）は、酸性度、酸素分圧の変動、栄養制限、金属ストレス、および宿主の免疫圧にもかかわらず、生涯にわたる胃内定着を確立する。薬剤耐性の増大は、従来の抗生物質標的を超えた生理学的脆弱性を特定する必要性をさらに浮き彫りにしている。本総説では、アミノ酸利用、非正準的な中心炭素代謝、呼吸の柔軟性、水素利用、酸順化、および金属依存性調節を含む、持続的な定着を支える細菌のエネルギー・代謝機構に焦点を当てる。さらに、ArsRS、CrdRS、Fur、NikR、HP1021、およびHsrAといった調節系が、環境感知と代謝およびストレス適応的な出力をどのように結びつけているかを検討する。現在の知見は、普遍的に実証された相乗的なネットワークではなく、酸順化、膜エネルギー論、呼吸代謝、金属恒常性、栄養利用、運動能、および宿主の薬剤ストレス耐性へと機能的に収束する、部分的に重複する調節軸を支持している。宿主の代謝リモデリングについては、宿主由来基質の細菌による利用とは区別して論じる。宿主から細菌への代謝的支援に関する直接的な証拠はL-乳酸利用において最も強力である一方、他の多くの宿主代謝変化は依然として随伴的なものである。最後に、シキミ酸およびコエンザイムA生合成経路を含む、代謝に関連する治療上の脆弱性について論じる。これらの知見を総合すると、調節の統合と機能的収束が、H. pyloriの持続性を理解し、新たな介入標的を特定するための枠組みとして支持される。"
+  },
+  {
+    "id": "10.1093/nar/gkag1178",
+    "title": "miRPathDB 2027: an updated multi-species atlas of microRNA–pathway associations",
+    "abstract": "AbstractPathway enrichment helps interpret the many genes targeted by microRNAs (miRNAs), but comparisons across organisms are complicated by differences in target evidence and functional annotation. Here, we present miRPathDB 2027, which extends miRPathDB from human and mouse to rat and rhesus macaque. Its retained enrichment profiles span 5701 miRNA entries and 28 044 pathway and ontology accessions from Gene Ontology, Reactome, and WikiPathways. Three cumulative evidence tiers allow users to examine how associations change as broader experimental records and computational predictions are included. Cross-species views align curated miRNA families, separated by mature arm, with corresponding pathway terms and indicate unavailable comparisons; a prespecified analysis tests whether orthologous miRNA profiles agree more than expected from matched random target sets. Interactive miRNA and pathway profiles, heat maps, versioned downloads, and programmatic access connect these patterns to the underlying targets and evidence. miRPathDB 2027 supports exploration of miRNA function and prioritization of associations for experimental follow-up. The database web interface is freely available without registration at https://web.ccb.uni-saarland.de/mirpathdb/.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1178",
+    "date": "2026-11-17",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1178/9079903?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5042,
+    "collected_at": "2026-11-17T14:33:57.890691+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.1093/nar/gkag1178"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d6fac333d1defbb1e754ba1b8720ea6477add39358b7270706600f4d006a3322",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:06:22.805888+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "50d371905f13c4bce844b133affb2c56f2a4bf7191ec31541fe4e905f16f7955",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:06:22.805888+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "miRPathDB 2027: マイクロRNA–パスウェイ関連性の更新版多種アトラス",
+    "abstract_ja": "AbstractPathwayのエンリッチメントは、マイクロRNA（miRNA）が標的とする数多くの遺伝子の解釈に役立つが、標的エビデンスや機能アノテーションの相違により、生物種間の比較は困難である。本報では、miRPathDBをヒトおよびマウスからラットおよびアカゲザルへと拡張したmiRPathDB 2027を提案する。保持されているエンリッチメントプロファイルは、5,701件のmiRNAエントリーと、Gene Ontology、Reactome、およびWikiPathwaysからの28,044件のパスウェイおよびオントロジーアクセッションを網羅している。3段階の累積エビデンスティアにより、より広範な実験記録や計算予測が組み込まれるにつれて、関連性がどのように変化するかをユーザーが検証できる。種間ビューでは、成熟アームで区分されたキュレート済みmiRNAファミリーを対応するパスウェイ用語と整合させ、利用不可能な比較を示す。あらかじめ設定された解析により、オーソログmiRNAプロファイルが、マッチングされたランダムな標的セットから期待される以上に一致するかどうかを検証できる。インタラクティブなmiRNAおよびパスウェイプロファイル、ヒートマップ、バージョン管理されたダウンロード、およびプログラムによるアクセスにより、これらのパターンを基盤となる標的およびエビデンスへと結びつける。miRPathDB 2027は、miRNA機能の探索や、実験的フォローアップに向けた関連性の優先順位付けを支援する。データベースのウェブインターフェースは、登録不要で https://web.ccb.uni-saarland.de/mirpathdb/ から無料で利用可能である。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1929962",
+    "title": "Fluorescence in situ hybridization in infectious disease diagnostics: from analytic positivity to tissue causality and clinical actionability",
+    "abstract": "Culture-negative infections and biofilm-associated disease challenge diagnostic methods that identify microbial material without preserving its location. We critically reviewed fluorescence in situ hybridization (FISH), peptide nucleic acid FISH (PNA-FISH), combined FISH and 16S rRNA-gene sequencing (FISHseq), and selected multiplex variants across clinical specimen matrices. This narrative review uses targeted literature searching and study-level evidence mapping; it does not claim systematic-review completeness or pooled diagnostic accuracy. Defined probes can expedite identification from growth-positive blood cultures, whereas direct FISH has limited value as a first-line test for microscopy-negative cerebrospinal fluid. In selected surgical heart-valve series, FISHseq increased reported organism identification relative to valve culture, although imperfect reference standards, selected populations and discrepancies in reported data limit interpretation. Vaginal, urinary, implant-associated and oral/intestinal studies show spatial insights but heterogeneous degrees of clinical validation. Results depend on probe design, biomass, processing, tissue matrix and panel coverage; an rRNA-FISH signal neither establishes viability nor proves etiologic causality. We propose Analytic Positivity → Etiologic Plausibility → Clinical Actionability (AP → EP → CA) as an interpretive aid that also accommodates polymicrobial communities and indeterminate findings. The framework is not externally clinically validated. FISH is best positioned as a matrix-specific adjunct, with predefined quality control, orthogonal testing and clinically meaningful implementation criteria rather than as a universal alternative to culture, nucleic-acid amplification or sequencing.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1929962",
+    "date": "2026-11-17",
+    "authors": "Nina I. Starovoitova",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1929962",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5052,
+    "collected_at": "2026-11-17T14:33:57.890691+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.3389/fmicb.2026.1929962"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a655c3701933aa05113c91714f23f234bf06eee2ac031877fcc3690f5ff0fe38",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:06:22.805888+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0b75ad458ba4a6c2a15fc99de4511f7ca66a70c691e55759a9f357e68f25df97",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:06:22.805888+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "感染症診断における蛍光in situハイブリダイゼーション：解析的陽性から組織的因果関係および臨床的活用へ",
+    "abstract_ja": "培養陰性感染症およびバイオフィルム関連疾患は、微生物物質の所在を特定せずに同定する診断法にとっての課題となっている。本稿では、蛍光in situハイブリダイゼーション（FISH）、ペプチド核酸FISH（PNA-FISH）、FISHと16S rRNA遺伝子シーケンシングの併用（FISHseq）について批判的に検討し、臨床検体マトリックスにおける複数のバリアントを選定した。本ナラティブレビューでは、標的を絞った文献検索と研究レベルのエビデンスマッピングを用いており、システマティックレビューの網羅性やプールされた診断精度を主張するものではない。定義済みのプローブを用いれば、増殖陽性の血液培養からの同定を迅速化できる一方、顕微鏡検査陰性の脳脊髄液に対する第一選択検査としての直接FISHの有用性は限定的である。選定した外科的心臓弁シリーズにおいて、FISHseqは弁培養と比較して報告された微生物同定数を増加させたが、不完全な参照標準、選定された集団、および報告データの不一致が解釈を制限している。腟、尿、インプラント関連、および口腔・腸管の研究では、空間的な知見が得られるものの、臨床的妥当性の程度にはばらつきがある。結果はプローブ設計、バイオマス、処理、組織マトリックス、およびパネルカバレッジに依存しており、rRNA-FISHシグナルは生存能を立証するものでも、病因的な因果関係を証明するものでもない。我々は、多菌種コミュニティや判定不能な所見にも対応可能な解釈補助手段として、「分析的陽性性 → 病因的妥当性 → 臨床的実行可能性（AP → EP → CA）」を提案する。本フレームワークは、外部的に臨床的に検証されたものではない。FISHは、培養、核酸増幅、またはシーケンシングに代わる普遍的な代替手段というよりも、あらかじめ定義された品質管理、直交的検査、および臨床的に意義のある実装基準を備えた、マトリックス特異的な補助手段として位置づけるのが最適である。"
+  },
+  {
+    "id": "10.1093/nar/gkag1193",
+    "title": "CellStressDB: an AI-powered database of cellular responses to physical stressors",
+    "abstract": "AbstractPhysical stressors profoundly influence cellular behavior by triggering coordinated stress-response programs that regulate signaling, gene expression, metabolism, and cell fate. Here, we present CellStressDB (https://cellstressdb.omic.tech), an AI-powered database for exploring cellular responses to physical stressors. The current release contains data from 131 transcriptomic studies, with 2 364 816 cell and 1205 bulk sample observations from human and mouse across nine physical-stress classes and 21 tissue categories. Data and analyses are organized into 2848 indexed analysis entries across 71 canonical species-tissue-stress contexts with detailed exposure conditions retained. CellStressDB provides ontology-guided cell-type annotation through 22 tissue-aware classifiers and incorporates 941 Geneformer checkpoints for context-specific in silico perturbation. Analyses include stress-response programs, differential gene expression, functional enrichment, regulon activity, cell-type composition, and cell–cell communication where applicable, with candidate compound prioritization, downloadable datasets and models, and analysis of user-provided transcriptomic data. Annotation evaluation and known-factor recovery analyses indicated context-dependent performance and coverage across biological settings. The mouse radiation-intestine example identifies Stat1 as a candidate regulator of radiation-induced intestinal injury supported by independent experimental evidence. Overall, CellStressDB provides an integrated, AI-enabled framework for exploring and interpreting cellular responses to physical stressors and generating testable hypotheses.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1193",
+    "date": "2026-11-17",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1193/9079902?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5043,
+    "collected_at": "2026-11-17T14:33:57.890691+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.1093/nar/gkag1193"
+    ],
+    "translation": {
+      "title": {
+        "hash": "cfd198dca8fc16cf6fe6b676db490825fafdd181b12683751504084c18628acd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:06:22.805888+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "cbd12333a4bcd6e5786a3a109548194873b7ff46c41c3201eaf6f7075c6900aa",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:06:22.805888+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "CellStressDB：物理的ストレス要因に対する細胞応答のAI搭載データベース",
+    "abstract_ja": "要旨物理的ストレス因子は、シグナル伝達、遺伝子発現、代謝、および細胞運命を調節する協調的なストレス応答プログラムを誘発することで、細胞挙動に多大な影響を及ぼす。本研究では、物理的ストレス因子に対する細胞応答を探索するためのAI搭載データベースであるCellStressDB（https://cellstressdb.omic.tech）を提案する。今回のリリースには、131件のトランスクリプトーム研究のデータが含まれており、9つの物理的ストレスクラスと21の組織カテゴリーにわたる、ヒトおよびマウスの細胞サンプル2,364,816件およびバルクサンプル1,205件の観測データが収録されている。データと解析結果は、詳細な曝露条件を保持したまま、71の標準的な種・組織・ストレスコンテキストにわたる2,848件のインデックス付き解析エントリとして整理されている。CellStressDBは、22種類の組織認識型分類器を通じてオントロジーに基づく細胞型アノテーションを提供し、コンテキスト固有のin silico摂動のための941件のGeneformerチェックポイントを組み込んでいる。解析項目には、ストレス応答プログラム、遺伝子発現変動、機能エンリッチメント、レギュロン活性、細胞型組成、および該当する場合は細胞間コミュニケーションが含まれ、候補化合物の優先順位付け、ダウンロード可能なデータセットおよびモデル、ならびにユーザー提供のトランスクリプトームデータの解析機能も備えている。アノテーション評価および既知因子の回収解析により、生物学的環境に応じた性能とカバレッジが示された。マウスの放射線照射腸管の例では、独立した実験的根拠に基づき、Stat1が放射線誘発性腸管損傷の候補調節因子として同定されている。総じて、CellStressDBは、物理的ストレス因子に対する細胞応答を探索・解釈し、検証可能な仮説を立案するための、統合的なAI搭載フレームワークを提供するものである。"
   }
 ]
