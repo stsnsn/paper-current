@@ -292650,5 +292650,306 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "生成的連続時間モデルがタンパク質進化におけるエピスタシスのシグネチャーを明らかにする",
     "abstract_ja": "要旨タンパク質の進化は、変異の効果が配列コンテキストに依存するエピスタシスによって根本的に規定されている。標準的な系統発生手法は独立して進化する部位を前提としているため、適応度ランドスケープの正確な推定に基づく、より複雑なモデルが必要とされている。ポッツモデルのような現代的な生成モデルは、エピスタシス効果をうまく捉えており、有力な候補となる。しかし、生成進化モデルに関する近年の研究では通常、離散時間が用いられており、進化生物学における標準的なフレームワークとの統合が困難である。本研究では、ギレスピー・アルゴリズムを用い、生成ポッツモデルでパラメータ化した連続時間配列進化モデルを提案する。このアプローチにより、現実的なファミリー固有の進化軌跡をシミュレーションすることが可能となり、独立部位モデルとの直接的な比較も行える。驚くべきことに、エピスタシスは進化速度を著しく低下させる一方で、個々の部位における平均進化速度は変化させないことが明らかになった。これは、コンテキスト依存性に起因する速度の不均一性によって説明される。具体的には、一部の部位における速度はコンテキストに応じてゼロから高い値まで変動する一方、他の部位は実質的にコンテキストに依存しないことを示す。最後に、エピスタシスが配列間の進化距離の推定において、系統的な過小評価バイアスを引き起こすことを示す。総じて、本研究は現実的なタンパク質進化をシミュレーションするための新たなツールを提供するとともに、エピスタシスと進化ダイナミクスの複雑な相互作用に関する新たな知見をもたらすものである。"
+  },
+  {
+    "id": "10.1111/1758-2229.70470",
+    "title": "Geographic Structuring of Gut‐Content Bacterial Communities in Invasive Blackchin Tilapia (Sarotherodon melanotheron) Across Thailand: Site‐Level Environmental Associations and Implications for Invasion Ecology",
+    "abstract": "Geographic variation in gut microbiota of invasive blackchin tilapia across Thailand is primarily driven by environmental filtering, particularly salinity, pH, and orthophosphate gradients, while parasite pressure remains minimal, supporting a dual‐assembly framework linking microbiome plasticity to invasion success.\n\nABSTRACT\nThe blackchin tilapia (Sarotherodon melanotheron) has rapidly expanded across Thailand, but how environmental conditions relate to its gut microbiota during invasion remains unclear. We examined gut‐content bacterial communities at six sampling sites along the Gulf of Thailand using full‐length 16S rRNA gene sequencing of 68 fish, alongside site‐level water analyses (one composite sample per site; n = 6) and helminth screening. Communities showed spatial structuring, with significant differences in alpha and beta diversity among locations. Distinct assemblages included dominance of Enterovibrio nigricans in Rayong and Cetobacterium somerae in Chumphon. Predicted metabolic functions showed site‐specific enrichment. Taxon‐covariation networks revealed location‐associated patterns. Location explained 65% of community variation; pH, salinity, and orthophosphate together corresponded to about half of among‐site variation. Aeromonas spp. and Photobacterium damselae showed positive associations with salinity, but these trends were not significant after multiple‐testing correction. Helminths were almost entirely absent, with only incidental ingestion of free‐living nematodes. Gut‐content bacterial communities varied among locations and covaried with site‐level water conditions. However, because environmental variables were measured at only six sites, their effects cannot be separated from other location‐specific factors. These findings are consistent with a dual‐assembly framework in which environmental microbial pools and host filtering shape gut‐content bacterial communities during invasion.\n\nGeographic variation in gut microbiota of invasive blackchin tilapia across Thailand is primarily driven by environmental filtering, particularly salinity, pH, and orthophosphate gradients, while parasite pressure remains minimal, supporting a dual-assembly framework linking microbiome plasticity to invasion success.\n\nABSTRACT\nThe blackchin tilapia (Sarotherodon melanotheron) has rapidly expanded across Thailand, but how environmental conditions relate to its gut microbiota during invasion remains unclear. We examined gut-content bacterial communities at six sampling sites along the Gulf of Thailand using full-length 16S rRNA gene sequencing of 68 fish, alongside site-level water analyses (one composite sample per site; n = 6) and helminth screening. Communities showed spatial structuring, with significant differences in alpha and beta diversity among locations. Distinct assemblages included dominance of Enterovibrio nigricans in Rayong and Cetobacterium somerae in Chumphon. Predicted metabolic functions showed site-specific enrichment. Taxon-covariation networks revealed location-associated patterns. Location explained 65% of community variation; pH, salinity, and orthophosphate together corresponded to about half of among-site variation. Aeromonas spp. and Photobacterium damselae showed positive associations with salinity, but these trends were not significant after multiple-testing correction. Helminths were almost entirely absent, with only incidental ingestion of free-living nematodes. Gut-content bacterial communities varied among locations and covaried with site-level water conditions. However, because environmental variables were measured at only six sites, their effects cannot be separated from other location-specific factors. These findings are consistent with a dual-assembly framework in which environmental microbial pools and host filtering shape gut-content bacterial communities during invasion.",
+    "journal": "Environmental Microbiology Reports",
+    "doi": "10.1111/1758-2229.70470",
+    "date": "2026-11-17",
+    "authors": "Vorthon Sawaswong, \nWattanapol Nuangjakjoy, \nVachirapong Charoennitiwat, \nSila Viriyautsahakul, \nSuthida Visedthorn, \nToemthip Poolpak, \nSakonwan Kuhaudomlarp, \nNisamanee Charoenchon, \nSunchai Payungporn, \nUrusa Thaenkham, \nNapat Ratnarathorn",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1758-2229.70470?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "bacteria",
+        "bacterial",
+        "microbial",
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://onlinelibrary.wiley.com/feed/17582229/most-recent",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5125,
+    "collected_at": "2026-11-17T23:03:43.314334+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://onlinelibrary.wiley.com/feed/17582229/most-recent"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.1111/1758-2229.70470"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8f6976017c08f3c50cf21bbbc6c5da14a0053dcc2bc3447cfcfea21a869a8f12",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T23:28:25.181120+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "994e5a90799a230bdc80d323e0693c6d9b3f3f41a26c36f0b5dc87ee171372ea",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T23:28:25.181120+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "タイ全土における外来種ブラックチンティラピア（Sarotherodon melanotheron）の腸内容物細菌群集の地理的構造：地点レベルの環境関連性と侵入生態学への示唆",
+    "abstract_ja": "タイ全土における侵入種ブラックチンティラピアの腸内細菌叢の地理的変異は、主に環境フィルタリング、特に塩分濃度、pH、およびオルトリン酸勾配によって駆動されており、一方で寄生虫圧は最小限にとどまっている。このことは、微生物叢の可塑性と侵入の成功を結びつけるデュアル・アセンブリ・フレームワークを支持するものである。\n\n要旨\nブラックチンティラピア（Sarotherodon melanotheron）はタイ全土で急速に分布を拡大しているが、侵入時に環境条件が腸内細菌叢にどのように関連しているかは依然として不明である。我々は、タイ湾沿いの6つのサンプリング地点において、68匹の魚を用いた全長16S rRNA遺伝子シーケンシングに加え、地点レベルの水質分析（1地点につき1つの複合サンプル；n = 6）および蠕虫スクリーニングを用いて、腸内細菌群集を調査した。群集には空間的な構造が認められ、地点間でアルファ多様性およびベータ多様性に有意な差が認められた。特徴的な群集としては、ラヨーンではEnterovibrio nigricansが、チュンポンではCetobacterium someraeが優占していた。予測された代謝機能には、地点特異的な濃縮が認められた。分類群共変ネットワークからは、地点に関連するパターンが明らかになった。群集変異の65%は地点によって説明され、pH、塩分濃度、およびオルトリン酸の合計は、地点間変異の約半分に相当した。Aeromonas spp.およびPhotobacterium damselaeは塩分濃度と正の関連を示したが、多重検定による補正後、これらの傾向は有意ではなかった。蠕虫はほぼ完全に認められず、自由生活性線虫の偶発的な摂取のみが認められた。腸内細菌群集は地点間で異なり、地点レベルの水質条件と共変していた。しかし、環境変数が6地点でしか測定されなかったため、それらの影響を他の地点特異的な要因から分離することはできない。これらの知見は、環境中の微生物プールと宿主によるフィルタリングが、侵入時の腸内細菌群集を形成するというデュアル・アセンブリ・フレームワークと整合している。\n\nタイ全土における侵入種ブラックチンティラピアの腸内細菌叢の地理的変異は、主に環境フィルタリング、特に塩分濃度、pH、およびオルトリン酸勾配によって駆動されており、一方で寄生虫圧は最小限にとどまっている。このことは、微生物叢の可塑性と侵入の成功を結びつけるデュアル・アセンブリ・フレームワークを支持するものである。\n\n要旨\nブラックチンティラピア（Sarotherodon melanotheron）はタイ全土で急速に分布を拡大しているが、侵入時に環境条件が腸内細菌叢にどのように関連しているかは依然として不明である。我々は、タイ湾沿いの6つのサンプリング地点において、68匹の魚を用いた全長16S rRNA遺伝子シーケンシングに加え、地点レベルの水質分析（1地点につき1つの複合サンプル；n = 6）および蠕虫スクリーニングを用いて、腸内細菌群集を調査した。群集には空間的な構造が認められ、地点間でアルファ多様性およびベータ多様性に有意な差が認められた。特徴的な群集としては、ラヨーンではEnterovibrio nigricansが、チュンポンではCetobacterium someraeが優占していた。予測された代謝機能には、地点特異的な濃縮が認められた。分類群共変ネットワークからは、地点に関連するパターンが明らかになった。群集変異の65%は地点によって説明され、pH、塩分濃度、およびオルトリン酸の合計は、地点間変異の約半分に相当した。Aeromonas spp.およびPhotobacterium damselaeは塩分濃度と正の関連を示したが、多重検定による補正後、これらの傾向は有意ではなかった。蠕虫はほぼ完全に認められず、自由生活性線虫の偶発的な摂取のみが認められた。腸内細菌群集は地点間で異なり、地点レベルの水質条件と共変していた。しかし、環境変数が6地点でしか測定されなかったため、それらの影響を他の地点特異的な要因から分離することはできない。これらの知見は、環境中の微生物プールと宿主によるフィルタリングが、侵入時の腸内細菌群集を形成するというデュアル・アセンブリ・フレームワークと整合している。"
+  },
+  {
+    "id": "10.1093/femsre/fuag058",
+    "title": "Phage–Host Dynamics in Food Systems: Rethinking the “Lytic” and “Temperate” Paradigm",
+    "abstract": "AbstractPhage–host dynamics are central to food systems because bacteriophages can threaten microbial stability while serving as tools for microbial control. In fermentations, phages compromise starter culture performance and product consistency, whereas in foods, animal production, and processing environments they are increasingly used as biocontrol agents against foodborne pathogens. Temperate phages may also influence virulence, tolerance, competition, and horizontal gene transfer, including antimicrobial resistance gene mobilization, placing phage ecology within a One Health framework. These roles have traditionally been interpreted through a binary model in which virulent phages lyse and temperate phages persist. However, reports of pseudolysogeny, carrier state, and delayed lysis have long suggested that this distinction is incomplete. Recent large-scale studies showing that virulent phages can persist through colony purification and bacterial genome assembly workflows provide the central motivation for this review. These findings suggest that long-term non-lysogenic association may be more widespread than appreciated and challenge the assumption that “lytic” phages necessarily cause immediate host elimination. In food systems, this has implications for fermentation reliability, biocontrol, surveillance, and One Health interpretation. We argue that food systems are informative settings for reassessing phage lifestyle categories, and that “lytic” should be understood as infection potential rather than guaranteed ecological outcome.",
+    "journal": "FEMS Microbiology Reviews",
+    "doi": "10.1093/femsre/fuag058",
+    "date": "2026-11-17",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/femsre/advance-article/doi/10.1093/femsre/fuag058/9080685?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "bacteriophage",
+        "bacteriophages",
+        "microbial",
+        "phage",
+        "phages"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5386/advanceAccess_3247.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5105,
+    "collected_at": "2026-11-17T23:03:43.314334+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://academic.oup.com/rss/site_5386/advanceAccess_3247.xml"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.1093/femsre/fuag058"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e9c7e3bdcd070c789fb8dc8cd0e2be3880e2448201650c6cb0efe769002caa55",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T23:28:25.181120+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f0c88ed71ff3d47f0d5e4988bddb7d006ca0341688df70e4c217063c13402b85",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T23:28:25.181120+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "食料システムにおけるファージ－宿主動態：「溶菌性」および「温度調節性」パラダイムの再考",
+    "abstract_ja": "要旨：ファージと宿主の動態は、バクテリオファージが微生物制御の手段として機能する一方で、微生物の安定性を脅かす可能性があるため、食品システムにおいて極めて重要である。発酵においては、ファージはスターター培養の性能や製品の一貫性を損なうが、食品、畜産、および加工環境においては、食品由来病原体に対する生物制御剤としてますます利用されるようになっている。温性ファージはまた、病原性、耐性、競合、および水平遺伝子伝達（薬剤耐性遺伝子の動員を含む）に影響を及ぼす可能性があり、これによりファージの生態学はワンヘルス（One Health）の枠組みに位置づけられる。これらの役割は従来、病原性ファージは溶菌し、温性ファージは生存するという二元的なモデルで解釈されてきた。しかし、擬溶菌性、キャリア状態、および遅延溶菌に関する報告により、この区別は不完全であることが長らく示唆されてきた。病原性ファージがコロニー精製や細菌ゲノムアセンブリのワークフローを通じて生存し得ることを示した近年の大規模研究が、本総説の中心的な動機となっている。これらの知見は、長期的な非溶菌性の共存が認識されているよりも広く見られる可能性を示唆しており、「溶菌性」ファージが必ずしも即座に宿主を排除するという前提に疑問を投げかけるものである。食品システムにおいて、このことは発酵の信頼性、生物制御、サーベイランス、およびワンヘルスの解釈に影響を及ぼす。我々は、食品システムがファージの生活様式カテゴリーを再評価するための有益な場であり、「溶菌性」は保証された生態学的結果ではなく、感染能として理解されるべきであると主張する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1093/gbe/evag264",
+    "title": "Evolutionary rates provide genomic insights into convergent and lineage-specific evolution in carnivorous plants.",
+    "abstract": "Carnivorous plants (CPs) are striking examples of convergent evolution across ecological, morphological, and molecular scales, making them ideal systems for investigating genomic adaptation to extreme environments. While genomic studies have shown that gene family expansion and functional recruitment underlie key carnivorous traits, the effects of these transitions on rates of sequence evolution remain incompletely understood. Here, we present a comparative framework to examine evolutionary rate shifts across 30 carnivorous and non-carnivorous eudicots in over 12,000 gene families. After normalizing for genome-wide background effects, analysis of branch-lengths and evolutionary rate covariation (ERC) detected both lineage-specific and convergent acceleration in CPs for genes associated with stress response, stimulus signaling, and light perception. Accelerated genes often belong to expanded families and show relaxation of purifying selection pressure. Despite the limited number of specific genes or gene families showing convergent acceleration across CP lineages, we find strong convergence at the functional level. Distinct sets of accelerated genes in each CP lineage are enriched for similar functional pathways, particularly light and hormone responses. ERC network analysis identifies a stress- and stimulus-responsive gene community with lineage-specific acceleration in Sarraceniaceae species and moderate acceleration in other CP lineages. Hub genes in this network are also co-expressed in a distantly related non-CP model system, suggesting repeated co-option of an ancestral regulatory module for carnivorous functions. Together, our results show that convergent genomic rate accelerations in CPs primarily involve functionally equivalent or similar but lineage-distinct genes, shaped by gene duplication, relaxed selection, and co-option of stress-response networks.",
+    "journal": "Genome Biology and Evolution",
+    "doi": "10.1093/gbe/evag264",
+    "date": "2026-10-26",
+    "authors": "Liu S, Forsythe ES, Sloan DB.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42933847",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42933847",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 5043,
+    "collected_at": "2026-11-17T22:53:10.596689+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.1093/gbe/evag264"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6d6079e9abe5c397bd410ad5a33efc870a3a4d22c4ce21e7ed0af8574148d738",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T23:28:25.181120+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "554104fe2253ead54a4a90377e8693e75c4b476f52a94b782023ffd6b16ad315",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T23:28:25.181120+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "進化速度は、食虫植物における収斂進化および系統特異的な進化に関するゲノム上の知見をもたらす。",
+    "abstract_ja": "食虫植物（CPs）は、生態学的、形態学的、および分子スケールにわたる収斂進化の顕著な例であり、極限環境へのゲノム適応を調査する上で理想的な系である。ゲノム研究により、遺伝子ファミリーの拡大と機能的リクルートが食虫植物の主要な形質の基盤となっていることが示されているが、これらの遷移が配列進化速度に及ぼす影響については依然として十分に解明されていない。本研究では、12,000以上の遺伝子ファミリーにわたる30種の食虫植物および非食虫植物の真正双子葉植物を対象に、進化速度のシフトを検証するための比較フレームワークを提示する。ゲノムワイドな背景効果を正規化した後、分岐長および進化速度共変量（ERC）の解析により、ストレス応答、刺激シグナル伝達、および光知覚に関連する遺伝子において、CPs内で系統特異的および収斂的な加速の両方が検出された。加速した遺伝子は多くの場合、拡大したファミリーに属しており、浄化選択圧の緩和が認められる。CP系統間で収斂的な加速を示す特定の遺伝子や遺伝子ファミリーの数は限られているものの、機能的レベルでは強い収斂が見られる。各CP系統における加速した遺伝子の明確なセットは、特に光およびホルモン応答といった類似した機能経路に富んでいる。ERCネットワーク解析により、サラセニア科の種では系統特異的な加速が、その他のCP系統では中程度の加速が見られる、ストレスおよび刺激応答性遺伝子コミュニティが同定された。このネットワークにおけるハブ遺伝子は、遠縁の非CPモデル系においても共発現しており、食虫機能のための祖先的な調節モジュールが繰り返し共選択されたことが示唆される。以上の結果を総合すると、CPsにおける収斂的なゲノム速度加速には、主に機能的に同等または類似しつつも系統的に異なる遺伝子が関与しており、それらが遺伝子重複、選択圧の緩和、およびストレス応答ネットワークの共選択によって形成されたことが示される。"
+  },
+  {
+    "id": "10.1093/ismeco/ycag338",
+    "title": "Potential cost and combinatorial effects of commensal gut microbes on survival of individual honey bees",
+    "abstract": "AbstractGut microbiota can provide substantial benefits to their hosts, but maintaining microbial communities may also impose physiological costs. How these costs and benefits emerge from interactions among microbial species remains poorly understood. Using a gnotobiotic honey bee system, we here systematically examined the effects of all 32 possible combinations of the five core gut bacterial species on host survival. Across all treatments, colonization by core microbiota generally reduced host lifespan relative to microbiota-depleted controls under controlled laboratory conditions, revealing that microbial colonization imposes a previously underappreciated baseline cost on the host. This negative effect was observed even in simple communities and became more pronounced with increasing community complexity. Accelerated failure time models showed that both individual species and higher-order interactions significantly influenced lifespan. Notably, interaction terms followed an alternating pattern: two- and four-species combinations exhibited positive effects, whereas three- and five-species combinations had negative effects. This qualitative trend was independently recapitulated in an external dataset from fruit flies, suggesting generality across host-microbe systems. Mathematical modeling suggested that competitive interactions among microbes generate the alternating odd-even pattern by reducing species abundances: density-dependent weakening of individual negative effects produces positive pairwise effects. Together, our results demonstrate that the effects of commensal gut bacteria on host survival depend strongly on microbial community context and highlight microbial competition as a potential mechanism underlying higher-order effects in host–microbiome systems.",
+    "journal": "ISME Communications",
+    "doi": "10.1093/ismeco/ycag338",
+    "date": "2026-11-17",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/ismecommun/advance-article/doi/10.1093/ismeco/ycag338/9080701?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "microbe",
+        "microbes",
+        "microbial",
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6596/advanceAccess_4180.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5096,
+    "collected_at": "2026-11-17T23:03:43.314334+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://academic.oup.com/rss/site_6596/advanceAccess_4180.xml"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.1093/ismeco/ycag338"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0075b66ae7cee41972af3d4838ae5f876c81fa2e5fc2420418409288121ca7d9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T23:28:25.181120+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f2e2e6410f205b6844eb4887edc2c84ca5b62e8377353d0261e7eb88de153adf",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T23:28:25.181120+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "共生腸内微生物が個々のミツバチの生存に及ぼし得るコストと組合せ論的効果",
+    "abstract_ja": "要旨 腸内微生物叢は宿主に多大な利益をもたらし得るが、微生物群集の維持は生理的なコストを伴う可能性もある。こうしたコストと利益が微生物種間の相互作用からどのように生じるのかについては、依然として十分に解明されていない。本研究では、gnotobioticミツバチ系を用い、5種の主要な腸内細菌種の考えられる全32通りの組み合わせが宿主の生存に及ぼす影響を系統的に検討した。すべての処理条件において、制御された実験室条件下では、コア微生物叢による定着は、微生物叢を除去した対照群と比較して一般に宿主の寿命を短縮させた。この結果は、微生物の定着が、これまで十分に認識されてこなかったベースラインコストを宿主に課すことを明らかにしている。この負の影響は単純な群集においても観察され、群集の複雑性が増すにつれてより顕著になった。加速故障時間モデルにより、個々の種および高次相互作用の双方が寿命に有意な影響を及ぼすことが示された。特筆すべきは、相互作用項が交互のパターンを示した点である。すなわち、2種および4種の組み合わせでは正の効果が見られた一方、3種および5種の組み合わせでは負の効果が見られた。この定性的な傾向は、ショウジョウバエの外部データセットにおいても独立して再現され、宿主-微生物系全般にわたる一般性が示唆された。数理モデリングにより、微生物間の競争的相互作用が種の存在量を減少させることで、この交互の奇偶パターンを生成することが示唆された。すなわち、個々の負の効果の密度依存的な減弱が、正のペアワイズ効果をもたらすのである。以上の結果を総合すると、共生腸内細菌が宿主の生存に及ぼす影響は微生物群集のコンテキストに強く依存することが示され、宿主-マイクロバイオーム系における高次効果の潜在的なメカニズムとして微生物間競争が浮き彫りとなった。"
   }
 ]
