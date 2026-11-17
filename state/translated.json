@@ -292280,5 +292280,81 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "生成型映画推薦における人気バイアス軽減のための大規模言語モデルの多段階アライメント",
     "abstract_ja": "要旨  大規模言語モデル（LLM）は推薦タスクにおいて強い人気バイアスを示し、主流のアイテムを過剰に推薦する一方で、ユーザーの嗜好に合致しつつも人気の低いコンテンツを十分に推薦しないことが多い。この限界に対処するため、我々はLLMベースの映画推薦システムのバイアスを除去するための多段階アライメントパイプラインを提案する。本パイプラインは、ユーザー履歴からの嗜好抽出、行動グラウンディングのための教師ありファインチューニング（SFT）、および、人気は低いがトピック的に関連性の高いアイテムへのバイアス補正アライメントのための直接嗜好最適化（DPO）で構成される。グラウンディングとバイアス補正を明示的に分離することで、本フレームワークはエクスポージャーの公平性を安定的かつ制御可能な形で向上させる。本質的なアライメントに加え、人気度を考慮したリランキングを含む従来の事後的バイアス除去手法と本アプローチを体系的に比較し、推薦品質とエクスポージャーバランスのトレードオフを検討する。MovieLens、Netflix、およびFlickscoreを用いた実験により、多段階アライメントが競争力のある精度を維持しつつ、新規性とカタログカバレッジにおいて大幅な向上を実現し、より単純なエクスポージャー調整ベースラインよりも優れた性能を示すことが実証された。これらの結果は、多段階LLMアライメントが、生成型推薦システムにおける人気バイアスを軽減するための、原理に基づいたスケーラブルな戦略であることを示している。本コードは https://github.com/krishnakantx/debiased-llm-recsys で公開されている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202610.2636.v1",
+    "title": "MeteoSynth: A Python Package for Non-Parametric Stochastic Weather Series Generation in Renewable Energy and Building Performance Simulations",
+    "abstract": "Evaluating renewable energy system performance and building energy demand typically relies on single-year historical profiles or Typical Meteorological Years (TMYs). However, deterministic weather series fail to capture inter-annual variability, extreme operational events, and provide distributions information necessary for performance assessment, control optimization, and Global Sensitivity Analysis (GSA). To address these limitations, this paper introduces MeteoSynth, an open-source Python package designed for high-throughput, non-parametric generation of physically consistent synthetic time series for individual environmental variables. The package is variable-agnostic: any continuous hourly series can be modelled once its physical support and units are declared. This paper, like the package defaults, focuses on solar irradiance, air temperature, and wind speed. These three were chosen mainly because their physical constraints differ: temperature may take negative values, wind speed is non-negative, and irradiance is non-negative and also collapses to a degenerate zero state every night. Together they show how the generator handles each of these cases in general, and the limitations that remain are also examined. A second, practical reason is that PVGIS supplies all three. Each variable is simulated independently, with multi-variable coupling reserved for future releases. MeteoSynth models diurnal weather dynamics using time-inhomogeneous first-order Markov chains governed by two-dimensional Kernel Density Estimation (2D KDE). To ensure physical validity and calendar continuity, the framework incorporates supports features such as prevention of non-physical negative values with minimal domain distortion, a robust degenerate state classification engine to handle zero-variance night-time solar irradiance, a climatological circular rolling-window calendar (366-day calendar) that eliminates New Year boundary jumps while accommodating leap years, and date-aligned cross-midnight transition models ensuring multi-day series continuity. It additionally offers optional integration with the PVGIS database, a user-friendly API supporting both rapid monthly subsetting and high-accuracy rolling-window training, and an optimized ensemble engine capable of generating thousands of synthetic weather realizations in a single calendar walk; such that generating a single synthetic year and large ensembles of 1,000 to 100,000 years takes virtually the same amount of execution time due to internal model-reuse optimizations.",
+    "journal": "",
+    "doi": "10.20944/preprints202610.2636.v1",
+    "date": "2026-10-27",
+    "authors": "Papadakis NC.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1350586",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "gene",
+        "simulation"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "gene",
+          "simulation"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5037,
+    "collected_at": "2026-11-17T14:23:16.206081+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.20944/preprints202610.2636.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a8489cc20345b3c12e0ec4b13393cd00aa8e839c0898985c0ded409b2d0afd78",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:46:33.347928+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6529508b005a844e49e8ea8795d2812a3624184ae42967167d14a4603ecd44e1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:46:33.347928+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "MeteoSynth: 再生可能エネルギーおよび建物性能シミュレーションにおける非パラメトリック確率的気象系列生成のためのPythonパッケージ",
+    "abstract_ja": "再生可能エネルギーシステムの性能評価および建物のエネルギー需要評価では、通常、単年度の履歴プロファイルや典型気象年（TMYs）が用いられる。しかし、決定論的な気象系列では、年ごとの変動や極端な運用事象を捉えきれず、性能評価、制御最適化、および全球感度解析（GSA）に必要な分布情報を提供するに至っていない。こうした限界に対処するため、本論文では、個々の環境変数に対して物理的に整合した合成時系列をハイスループットかつ非パラメトリックに生成するために設計されたオープンソースのPythonパッケージ「MeteoSynth」を提案する。本パッケージは変数に依存せず、物理的な根拠と単位が定義されていれば、あらゆる連続的な1時間ごとの系列をモデル化できる。本論文では、パッケージのデフォルト設定と同様に、日射量、気温、および風速に焦点を当てる。これら3つの変数を選択した主な理由は、物理的制約が異なるためである。すなわち、気温は負の値を取り得るが、風速は非負であり、日射量は非負であるとともに、毎晩退化状態のゼロへと収束する。これらを通じて、生成器が一般的にこれらの各ケースをどのように処理するかを示し、依然として残る限界についても検討する。第二の実用的な理由は、PVGISがこれら3つの変数すべてを提供している点にある。各変数は独立してシミュレーションされ、多変数結合機能は今後のリリースに向けて確保されている。MeteoSynthは、2次元カーネル密度推定（2D KDE）によって制御される時間不均質な1次マルコフ連鎖を用いて、日周的な気象ダイナミクスをモデル化する。物理的妥当性と暦の連続性を確保するため、本フレームワークには、ドメイン歪みを最小限に抑えつつ非物理的な負値を防止する機能、ゼロ分散の夜間日射量を処理するための堅牢な退化状態分類エンジン、閏年に対応しつつ新年の境界ジャンプを排除する気候学的な円形ローリングウィンドウ暦（366日暦）、および複数日系列の連続性を保証する日付整合型の日付横断中夜遷移モデルなどの機能が組み込まれている。さらに、PVGISデータベースとのオプション統合、迅速な月次サブセット化と高精度なローリングウィンドウ学習の両方をサポートするユーザーフレンドリーなAPI、および単一の暦ウォークで数千通りの合成気象実現を生成可能な最適化アンサンブルエンジンを提供している。これにより、内部的なモデル再利用の最適化により、単一の合成年および1,000年から100,000年までの大規模なアンサンブルを生成する際の実行時間は、実質的に同等となる。"
   }
 ]
