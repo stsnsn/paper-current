@@ -290441,5 +290441,302 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "糖代替物は、う蝕原性および非う蝕原性歯科細菌におけるフッ化物耐性の進化的軌跡を変化させる。",
     "abstract_ja": "齲蝕は、酸産生性バイオフィルムが発酵可能な食事性糖類を栄養源として増殖しながらエナメル質を溶解することによって生じる。齲蝕制御には歯磨き粉や歯科用製品に含まれるフッ化物が広く用いられているが、一部の歯科微生物叢に対して抑制効果を持つ糖代替物（例：エリスリトールやキシリトール）は、むしろ食品の齲蝕原性を低下させ、しばしばフッ化物と併用してプレバイオティクスとして作用することで齲蝕の進行を抑制する。こうした糖代替物の普及が進んでいるにもかかわらず、糖代替物への曝露頻度が、口腔細菌が直面する進化的圧力にどのような影響を及ぼすかは解明されていない。本研究では、炭素源（グルコース、ソルビトール、エリスリトール、またはキシリトール）が、進化するフッ化物耐性齲蝕原性（S. mutans）集団および非齲蝕原性（S. gordonii）集団の進化様式と有効性に及ぼす影響を検証した。S. gordoniiにおいては、グルコース条件下で進化した集団は、糖代替物（エリスリトール、ソルビトール、キシリトール）条件下で進化した集団と比較して、非同義変異が有意に多かったが、フッ化物耐性の劇的な増加は認められなかった。対照的に、齲蝕原性S. mutansでは、発酵性糖類の存在下で進化させた結果、フッ化物耐性が著しく高まったが、非発酵性糖類の存在下で進化した集団の分離株に見られるものと比較して、置換数の増加は見られなかった。我々は、炭素条件間でこれまで報告されていなかったフッ化物耐性変異を観察し、その中にはフッ化物および多様な糖代替物が存在する環境で進化したS. mutans分離株における、ヒストン様結合タンパク質（smu_589）の並行進化の事例が含まれていた。以上の結果を総合すると、一般的に使用されている糖代替物が、フッ化物のような広範なストレッサーに対する歯科微生物叢の進化的軌跡を形成し得ることが示される。"
+  },
+  {
+    "id": "10.64898/2026.11.16.766249",
+    "title": "Efficient Method for Estimating the Frequency of Plasmidless Cell Generation per Cell Division",
+    "abstract": "Plasmids are self-replicating pieces of DNA that play a major role in the evolution and spread of adaptive genes in bacteria. Plasmids tend to form stable associations with their hosts, including plasmids such as small, multicopy plasmids that typically lack specialized partition and horizontal transfer systems. Using a ColE1 plasmid model, we present a method that quantifies the frequency of plasmid loss over a short, defined time window. This method is based on the transient survival of plasmidless cells in the presence of selecting antibiotic and it has two main advantages over plasmid visualization approaches: (1) it does not require modifications in plasmid sequence, preventing artifactual results linked to sequence alteration, and (2) it can unambiguously resolve plasmidless cells relative to cells with a low plasmid copy number. Thus, our approach is ideal for the study of the stability of naturally-occurring small, multicopy plasmids or for the identification of modulators of stability. Using our method, we describe a mutant whose long-term stability is exclusively dependent on increased accurate segregation. Finally, we report that moderate sequence manipulations (outside ori sequence) do not have a major impact on early plasmid loss, which is relevant for the design of plasmid tagging approaches.",
+    "journal": "",
+    "doi": "10.64898/2026.11.16.766249",
+    "date": "2026-11-17",
+    "authors": "Egami, C., Arora, V., Camps, M.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.16.766249v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "gene",
+        "method"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5071,
+    "collected_at": "2026-11-17T14:33:57.890691+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.64898/2026.11.16.766249"
+    ],
+    "translation": {
+      "title": {
+        "hash": "de2de7299143af2d0b50d7629cfdf30ccb6aca772138f6d4eaa6b26cb9e86f22",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:26:56.325023+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8739e350b80ea1de55ae6b033c327234b2a2ba1e4840f3b10520a4f1f9383c0a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:26:56.325023+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "細胞分裂あたりのプラスミド非保有細胞生成頻度の効率的な推定法",
+    "abstract_ja": "プラスミドは、細菌における適応遺伝子の進化と拡散において重要な役割を果たす自己複製性のDNA断片である。プラスミドは、通常、特殊な分配系や水平伝播系を欠く小型の多コピープラスミドを含む、宿主との安定した複合体を形成する傾向がある。本研究では、ColE1プラスミドモデルを用い、短期間の規定された時間窓におけるプラスミド喪失頻度を定量化する手法を提示する。本手法は、選択抗生物質存在下におけるプラスミド欠損細胞の一過性の生存に基づいており、プラスミド可視化法と比較して主に2つの利点がある。(1) プラスミド配列の改変を必要としないため、配列改変に起因するアーティファクト的な結果を防ぐことができる点、および (2) プラスミドコピー数の少ない細胞と比較して、プラスミド欠損細胞を一義的に識別できる点である。したがって、本アプローチは、天然に存在する小型の多コピープラスミドの安定性研究や、安定性調節因子の同定に最適である。本手法を用いて、長期的な安定性が正確な分離能の向上にのみ依存する変異体について報告する。最後に、中程度の配列操作（オリゴ配列外）が初期のプラスミド喪失に大きな影響を及ぼさないことを報告する。これは、プラスミドタギング手法の設計において重要である。"
+  },
+  {
+    "id": "10.64898/2026.11.16.766355",
+    "title": "Unravelling bacteriochlorophyll biosynthesis in the uncultured Roseilinea",
+    "abstract": "Filamentous anoxygenic phototrophs (FAPs) of the Chloroflexota phylum are abundant members of microbial mat communities. All isolated and culturable FAPs are found in a single class within this phylum, but metagenomic studies of hot spring communities from around the world have indicated that phototrophic members of an additional class may exist, which have so far eluded cultivation for study in the laboratory. Metagenome-assemble genomes (MAGs) of these \"Candidatus Roseilinea\" species all lack genes encoding the central enzymes of bacteriochlorophyll biosynthesis common to all FAPs and to the seven other diverse phyla of anoxygenic phototrophs, which could indicate that these organisms are no longer phototrophic or that they employ a novel set of enzymes to generate chlorophyllide from magnesium protoporphyrin IX. Here we demonstrate that the five terminal enzymes of bacteriochlorophyll biosynthesis encoded in the MAG of Japanese hot spring-dwelling \"Ca. Roseilinea sp. NK_OTU-006\" are active and restore pigment production and phototrophic growth in a set of mutants of the model purple phototrophic bacterium Rhodobacter sphaeroides. While many organisms are known to require exogenous supply of metabolically costly modified tetrapyrroles such as vitamin B12 for growth, the retained function of the tested Roseilinea enzymes and the restriction of these species to dense microbial mats leads us to hypothesise that these organisms may be the first examples of bacteriochlorophyll auxotrophs. We suggest that Roseilinea scavenge pigment precursors and/or breakdown products excreted by other members of the mat to generate the mature bacteriochlorophyll they require to perform phototrophy, an exchange that we demonstrate can occur between Rhodobacter sphaeroides mutants. We further suggest that future attempts to isolate Roseilinea species should employ the exogenous supplementation of (bacterio)chlorophyllide into culture medium.",
+    "journal": "",
+    "doi": "10.64898/2026.11.16.766355",
+    "date": "2026-11-17",
+    "authors": "Rudling, N. M., Namoon, D., Thiel, V., Canniffe, D. P.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.16.766355v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacterium",
+        "metagenom",
+        "metagenome",
+        "metagenomic",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "metagenom",
+          "metagenome",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5072,
+    "collected_at": "2026-11-17T14:33:57.890691+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.64898/2026.11.16.766355"
+    ],
+    "translation": {
+      "title": {
+        "hash": "abbe967b58b0b191656789cc4e06fd4b12d22157efe34fee7f901dcedef6dbed",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:26:56.325023+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5b955ccd6c6187765e3a8fd37076a46d495b0658a7a0bccbf9ad68449358b7ba",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:26:56.325023+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "未培養Roseilineaにおけるバクテリオクロロフィル生合成の解明",
+    "abstract_ja": "Chloroflexota門の糸状無酸素光栄養生物（FAP）は、微生物マット群集の豊富な構成員である。単離および培養可能なすべてのFAPは、本門内の単一の綱に分類されるが、世界各地の温泉群集を対象としたメタゲノム研究により、追加の綱に属する光栄養生物が存在する可能性が示されており、これらはこれまで、研究室での培養研究の対象となっていない。これらの「Candidatus Roseilinea」種のメタゲノムアセンブルゲノム（MAG）には、すべてのFAPおよび他の7つの多様な無酸素光栄養生物門に共通する、バクテリオクロロフィル生合成の中核酵素をコードする遺伝子がいずれも欠如しており、このことは、これらの生物がもはや光栄養性ではないこと、あるいはマグネシウムプロトポルフィリンIXからクロロフィリドを生成するために新規の酵素セットを利用していることを示唆している可能性がある。本研究では、日本の温泉に生息する「Ca. Roseilinea sp. NK_OTU-006」のMAGにコードされたバクテリオクロロフィル生合成の5つの末端酵素が活性を有しており、モデルとなる紫色光栄養細菌Rhodobacter sphaeroidesの変異株において色素産生と光栄養成長を回復させることを実証する。多くの生物が、成長のためにビタミンB12などの代謝コストの高い修飾テトラピロールの外因性供給を必要とすることが知られているが、試験したRoseilinea酵素の機能が保持されていること、およびこれらの種が高密度の微生物マットに限定して生息していることから、我々は、これらの生物がバクテリオクロロフィル要求性生物の最初の例である可能性を仮説として立てている。我々は、Roseilineaがマット内の他の構成員が排出する色素前駆体および／または分解産物を回収し、光栄養活動に必要な成熟型バクテリオクロロフィルを生成していると考えており、この交換がRhodobacter sphaeroidesの変異株間で起こり得ることを実証した。さらに、今後のRoseilinea種の単離の試みにおいては、培養液への（バクテリオ）クロロフィリドの外因性添加を採用すべきであると提案する。"
+  },
+  {
+    "id": "10.64898/2026.11.14.766613",
+    "title": "Expanding the human T cell receptor germline reference through population-scale pangenome analysis using the gAIRR Suite version 2",
+    "abstract": "The germline gene set encoding the adaptive immune receptor repertoire (gAIRR) defines the allele space from which the expressed repertoire (exprAIRR) is assembled, so an incomplete gAIRR reference propagates errors into T cell receptor (TR) annotation and genotyping and is also a barrier to studying inherited TR variation in its own right. Human TR gAIRR diversity remains incompletely characterized because the loci resist short-read resolution and because locus-resolved cohorts have been small. We developed gAIRR Suite version 2, in which each gAIRR-annotate query carries 50 bp of germline sequence on either side of the allele core and a call is reported only when the assembly supports the core together with both flanks, and in which gAIRR-call genotypes from Element AVITI libraries whose 500-bp Read 1 spans a complete V core with its flanking anchors. Applying this framework to Human Pangenome Reference Consortium Release 2 (464 haplotype-resolved assemblies from 232 individuals across five superpopulations), we identified 531 novel TR alleles (486 TRV, 45 TRJ), each observed in the targeted-sequencing reads of at least one carrier, of which 298 were absent from our 47-individual Release 1 catalogue. In 216 individuals, targeted genotyping with gAIRR-seq and gAIRR-call recovered 99.985% of the 61,628 evaluated alleles found in the corresponding assemblies, with a precision of 99.995%. Release 2 added few common alleles but many rare ones: 407 of the 531 were restricted to a single superpopulation, and African-ancestry individuals accounted for 51.1% of these (46.0% {+/-} 2.1% after downsampling to equal group size) while comprising 30.2% of the cohort. Population-scale pangenome analysis therefore extends the TR gAIRR reference chiefly by recovering variation that smaller or less diverse cohorts would miss.",
+    "journal": "",
+    "doi": "10.64898/2026.11.14.766613",
+    "date": "2026-11-17",
+    "authors": "Yang, Y.-H., Lin, Y.-H., Huang, K.-T., Lin, M.-J., Hsu, J. S., Chen, P.-L.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.14.766613v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "assembly",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "assemblies",
+          "assembly",
+          "pangenom",
+          "pangenome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5073,
+    "collected_at": "2026-11-17T14:33:57.890691+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.64898/2026.11.14.766613"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3a52617882aaf397bc46ade8207a5bf8d333adbcce2cb71786c0fcf6c65a3c62",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:26:56.325023+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e20d85be07748359ab8748c2aed3595eff8fc9d75bfa9e4e49475e4559fd23f2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:26:56.325023+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "gAIRR Suite version 2を用いた集団規模のパンゲノム解析によるヒトT細胞受容体生殖細胞系列リファレンスの拡充",
+    "abstract_ja": "適応免疫受容体レパートリーをコードする生殖細胞系列遺伝子セット（gAIRR）は、発現レパートリー（exprAIRR）が構築されるアレル空間を規定する。そのため、不完全なgAIRRリファレンスは、T細胞受容体（TR）のアノテーションやジェノタイピングにエラーを伝播させるだけでなく、それ自体が遺伝性TR変異の研究における障壁となる。ヒトTR gAIRRの多様性が十分に解明されていないのは、遺伝子座がショートリードの解析解像度に耐えられないこと、および遺伝子座レベルで解析されたコホートの規模が小さかったためである。我々はgAIRR Suiteバージョン2を開発した。このバージョンでは、各gAIRR-annotateクエリがアレルコアの両側に50 bpの生殖細胞系列配列を含み、アセンブリがコアとその両隣接領域の両方をサポートした場合にのみコールが報告される。また、500 bpのRead 1が完全なVコアとその隣接アンカーをカバーするElement AVITIライブラリ由来のgAIRR-callジェノタイプも採用している。このフレームワークをHuman Pangenome Reference Consortium Release 2（5つのスーパーポピュレーションにわたる232個体から得られた464のハプロタイプ解析済みアセンブリ）に適用した結果、531個の新規TRアレル（TRV 486個、TRJ 45個）を同定した。これらはそれぞれ少なくとも1人のキャリアのターゲットシーケンシングリードで観察され、そのうち298個は我々の47個体からなるRelease 1カタログに含まれていなかった。216個体において、gAIRR-seqおよびgAIRR-callを用いたターゲットジェノタイピングにより、対応するアセンブリで見つかった評価対象アレル61,628個の99.985%を、精度99.995%で回収した。Release 2では共通アレルの追加は少なかったが、希少アレルが多く追加された。531個のうち407個は単一のスーパーポピュレーションに限定されており、アフリカ系個体がこれらのうち51.1%（グループサイズを等しくするためのダウンサンプリング後では46.0% {+/-} 2.1%）を占め、コホート全体では30.2%を構成していた。したがって、集団規模のパンゲノム解析は、主に小規模または多様性の低いコホートでは見逃される変異を回収することで、TR gAIRRリファレンスを拡張するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.29.762960",
+    "title": "Molecule-resolved inference reveals the spatial organization of transcriptional programs",
+    "abstract": "Transcriptional programs encode cellular identity and physiological activity, linking gene regulation to cellular phenotypes. Although spatial transcriptomics measures individual RNA molecules across intact tissues, most analyses aggregate them into cells or pixels, obscuring molecular level functional dynamics. We introduce FICTURE2, a statistical model that infers the transcriptional program from which each individual molecule is generated, using gene identity and spatial context alone without segmentation or binning. FICTURE2 learns programs with distinct spatial distributions, ranging from millimeter-scale continuous transition to micron-scale subcellular localization, the coexisting patterns of which then reveal both cellular identity and physiological activity with unified interpretations. FICTURE2 supports both unsupervised and reference-guided inference and is orders of magnitude more efficient than alternative approaches, enabling systematic analysis of large-scale spatial datasets as we demonstrate in data across diverse tissue types profiled by various spatial technologies.",
+    "journal": "",
+    "doi": "10.64898/2026.10.29.762960",
+    "date": "2026-10-30",
+    "authors": "Si Y, Lee C, Cheng W, Sweeney M, Yun JH, Kim M, Jun G, Lee JH, Kang HM.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354245",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "binning",
+        "gene"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "binning",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4995,
+    "collected_at": "2026-11-17T14:23:16.206081+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.64898/2026.10.29.762960"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8e3c9df5a0c7f74a8544a79a1ba7a707799982d7de06aefdb5ff2b7d4e415419",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:26:56.325023+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9a8b4e2482b39f7260f37ad397e3d784a7bc928417c06e0eaa2386be78a7ca78",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:26:56.325023+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "分子分解能推論による転写プログラムの空間的構成の解明",
+    "abstract_ja": "転写プログラムは細胞のアイデンティティと生理活性を符号化し、遺伝子調節を細胞表現型へと結びつける。空間トランスクリプトミクスは無傷の組織全体にわたって個々のRNA分子を測定するが、ほとんどの解析ではそれらを細胞やピクセル単位で集約するため、分子レベルの機能的動態が不明瞭になる。本研究では、セグメンテーションやビンニングを行わず、遺伝子アイデンティティと空間的コンテキストのみを用いて、個々の分子が生成される転写プログラムを推論する統計モデルFICTURE2を提案する。FICTURE2は、ミリメートルスケールの連続的な遷移からミクロンスケールの細胞内局在に至るまで、異なる空間分布を持つプログラムを学習し、それらが共存するパターンから、細胞のアイデンティティと生理活性の両方を統一的な解釈で明らかにする。FICTURE2は教師なし推論とリファレンスガイド付き推論の両方をサポートし、他の手法よりも数桁効率的である。様々な空間技術でプロファイリングされた多様な組織タイプのデータを用いて実証するように、大規模な空間データセットの体系的な解析を可能にする。"
   }
 ]
