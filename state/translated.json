@@ -289295,5 +289295,280 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "tRNAデータベース2026、tRNA配列およびtRNA遺伝子の拡張版",
     "abstract_ja": "要旨 15年以上前に公開されたtRNAdbデータベースは、1970年代後半にまで遡るMathias Sprinzlによる先駆的な転移RNA（tRNA）データコレクションを拡張したものである。その運用期間を通じて、tRNAdbは幅広く利用され、1,000件以上の引用実績を積み上げてきた。本稿では、ライプツィヒ大学がホストする更新版であるtRNAdb 2026（https://tdb.bioinf.uni-leipzig.de/）を紹介する。tRNAdb 2026では、データカバレッジが約10倍に拡大し、変更のないレガシーデータセットに加え、50万件以上の新たなミトコンドリアおよび核tRNA配列が収録されている。重要な点として、レガシーデータセットの識別子およびメタデータは元のデータベースと整合性が保たれており、既報の文献が引き続き有効であり、検索可能であることが保証されている。拡張されたデータセットには、公開されているtRNAアノテーションと、現代的な予測パイプラインを用いて生成された配列が統合されており、アノテーションの品質と一貫性を確保するために半自動キュレーションが行われている。さらに、gtRNAdbなどの外部リソースへの相互参照により、既存のtRNAアノテーションフレームワークとの相互運用性が促進される。モダンなウェブベースのフロントエンドにより、tRNAdb 2026への直感的かつ効率的なアクセスが可能となり、アプリケーションプログラミングインターフェース（API）によってデータの自動取得やバイオインフォマティクスワークフローへの統合が実現している。将来のアップデートにおける透明性の高い科学的ドキュメンテーションと再現性を支援するため、現行および将来のデータベースリリースの両方を対象としたバージョン管理システムを導入した。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.2029235",
+    "title": "Fluorescence polarization serology for veterinary brucellosis: anti-O-polysaccharide antibody biology, assay comparability, and decision-rule validation",
+    "abstract": "Fluorescence polarization assays (FPAs) rapidly detect antibodies to the O-polysaccharide (OPS) of smooth Brucella lipopolysaccharide for veterinary brucellosis surveillance. Interpretation depends on both antibody biology and the measurement procedure. This focused narrative review links the biological target and operational measurand to the reported result, assay classification, and diagnostic interpretation. It draws on antibody and tracer research, veterinary validation studies, and a human multistage-screening example to examine assay comparison and decision-rule validation. OPS-FPA measures the host immunological response, whereas PCR detects Brucella DNA. Smooth vaccination and cross-reactive carbohydrate antigens limit the infection specificity of OPS reactivity. Camel evidence illustrates model-dependent accuracy estimates, and experimental elk findings show that antibody responses can decline despite persistent infection. The proposed risk-based framework matches validation evidence to the change assessed. Documented minor changes warrant focused verification and/or paired comparability studies proportionate to risk; changes in result definition or scale require justified bridging and decision-rule reassessment; and changes in biological target, host, specimen matrix, or intended use require diagnostic revalidation in the new setting. Exact unit conversion alone does not create a new assay. Priorities are decision-boundary specimens, well-characterized reference panels, uncertainty assessment, and independent evaluation of the complete serological–molecular pathway. Selected-subgroup accuracy and assay agreement alone cannot establish the performance of a deployed diagnostic strategy.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.2029235",
+    "date": "2026-11-17",
+    "authors": "Mingchun Gao",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.2029235",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5056,
+    "collected_at": "2026-11-17T14:33:57.890691+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.3389/fmicb.2026.2029235"
+    ],
+    "translation": {
+      "title": {
+        "hash": "cbbaeba97178b38e41d6bab9855800709ba9ce237d357c35b53ef823568d79c8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:12:19.964561+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "fb3f74d8a715e2aede7fbe5c091dd3feee63a4af5ed1bddcbf6fd451bbf6d1ee",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:12:19.964561+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "獣医ブルセラ症の蛍光偏光血清学的検査：抗O-多糖類抗体の生物学、アッセイの比較可能性、および判定ルールの妥当性検証",
+    "abstract_ja": "蛍光偏光法（FPA）は、獣医学的ブルセラ症サーベイランスにおいて、平滑型ブルセラリポ多糖のO-多糖類（OPS）に対する抗体を迅速に検出する。その解釈は、抗体の生物学的特性と測定手順の双方に依存する。本重点的ナラティブレビューでは、生物学的標的および運用上の測定対象を、報告された結果、アッセイの分類、および診断的解釈に結びつけて考察する。抗体およびトレーサーの研究、獣医学的バリデーション試験、およびヒトの多段階スクリーニングの事例に基づき、アッセイ間の比較と判定ルールの妥当性検証を検討する。OPS-FPAは宿主の免疫応答を測定するのに対し、PCRはブルセラDNAを検出する。平滑型ワクチンおよび交差反応性糖質抗原は、OPS反応性の感染特異性を制限する。ラクダを用いたエビデンスはモデル依存的な精度推定を示し、エルクを用いた実験結果は、持続感染下でも抗体応答が低下し得ることを示している。提案するリスクベースのフレームワークは、バリデーションエビデンスを評価対象の変化に合致させる。記録された軽微な変更については、リスクに応じた重点的な検証および／またはペア比較研究が必要である。結果の定義やスケールの変更には、正当な根拠に基づく橋渡しと判定ルールの再評価が必要となる。また、生物学的標的、宿主、検体マトリックス、または意図された用途の変更には、新たな環境下での診断的再検証が求められる。単なる単位換算だけでは、新しいアッセイが創出されるわけではない。優先事項は、判定境界検体、十分に特性評価されたリファレンスパネル、不確実性評価、および血清学的・分子生物学的経路全体の独立した評価である。特定のサブグループにおける精度やアッセイ間の一致度だけでは、導入された診断戦略の性能を立証することはできない。"
+  },
+  {
+    "id": "10.1093/nar/gkag1081",
+    "title": "Database resources of the National Genomics Data Center, China National Center for Bioinformation in 2027",
+    "abstract": "AbstractThe National Genomics Data Center (NGDC), as part of the China National Center for Bioinformation (CNCB), provides a family of database resources and web services to both academic and industrial communities worldwide. Given the rapid growth of multi-omics data and the intrinsic dependence of artificial intelligence on high-quality curated data, CNCB–NGDC continues to enhance data integrity, usability, and accessibility, facilitate knowledge discovery, and support data-driven research. Over the past year, CNCB–NGDC has expanded and updated its core database resources and strengthened data exchange and sharing with international collaborators. Thirteen new resources have been released, covering genome and variation (HLA and NMVR), health and disease (PWAS Atlas, CoVAR-KG, HONOR, IBDkb, and MTB-ImmunogenKG), biodiversity and biosynthesis (iCellOmics, iPangolin, SesbaniaOmics, and Vita Taxonomy), and tools (π-OmicsKit and DeepSeMS). All resources and services are publicly accessible at https://ngdc.cncb.ac.cn.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1081",
+    "date": "2026-11-17",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1081/9079896?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "database",
+        "genomic",
+        "resource"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5046,
+    "collected_at": "2026-11-17T14:33:57.890691+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.1093/nar/gkag1081"
+    ],
+    "translation": {
+      "title": {
+        "hash": "71acc936420e171791d735569b5c1700abcf50de6dc6e2f319a3a13073050567",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:12:19.964561+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ac6d298a9f241e5ddc8accf8b56873683f71e0e8697d9ada7aba3ce34be4e4a5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:12:19.964561+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "2027年における中国国家生物情報センター国立ゲノムデータセンターのデータベースリソース",
+    "abstract_ja": "要旨 中国国家生物情報センター（CNCB）傘下の国家ゲノミクスデータセンター（NGDC）は、世界中の学術界および産業界に対し、一連のデータベースリソースとウェブサービスを提供している。マルチオミクスデータの急速な増加と、人工知能が高品質なキュレーション済みデータに本質的に依存している現状を踏まえ、CNCB–NGDCはデータの完全性、ユーザビリティ、およびアクセシビリティの向上を継続し、知見の発見を促進し、データ駆動型研究を支援している。過去1年間で、CNCB–NGDCは中核となるデータベースリソースの拡充と更新を行い、国際的な共同研究者とのデータ交換および共有を強化した。新たに13のリソースが公開され、ゲノムと変異（HLAおよびNMVR）、健康と疾患（PWAS Atlas、CoVAR-KG、HONOR、IBDkb、MTB-ImmunogenKG）、生物多様性と生合成（iCellOmics、iPangolin、SesbaniaOmics、Vita Taxonomy）、およびツール（π-OmicsKit、DeepSeMS）を網羅している。すべてのリソースとサービスは、https://ngdc.cncb.ac.cn で一般に公開されている。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1990283",
+    "title": "Effects of a synbiotic combination of a levan-based prebiotic and Limosilactobacillus reuteri CACC607 on fecal short-chain fatty acid concentrations and microbiota composition in weaned piglets",
+    "abstract": "This study integrated the in vitro functional characterization of the newly isolated Limosilactobacillus reuteri CACC607, a levan-based prebiotic, and their combined administration with an in vivo evaluation of intestinal microbial fermentation in weaned piglets. CACC607 exhibited acid and bile tolerance, adhesion to IPEC-J2 cells, and a non-hemolytic phenotype, demonstrating desirable probiotic-relevant characteristics. In addition, CACC607 alone (Pro) and its combination with purified levan (Syn) attenuated LPS-induced increases in IL-1β, IL-6, and TNF-α mRNA expression. Whole-genome analysis identified antimicrobial-resistance determinants, including plasmid-associated erm(B) and chromosomal tet(W), indicating the need for further safety assessment. A total of 68 piglets, with 17 piglets per treatment and one pen assigned to each dietary condition, were allocated to four dietary treatments for 33 days: Con, basal diet with excipient; Pre, basal diet supplemented with a levan-based prebiotic preparation containing 3% (w/w) levan; Pro, basal diet supplemented with an L. reuteri CACC607; and Syn, basal diet supplemented with the combined pre–pro formulation. The Pro and Syn formulations were prepared to achieve a target CACC607 concentration of approximately 1.0 × 109 CFU/g of the final additive. All formulations were incorporated into the basal diet at 0.5% (w/w). At day 33, the Syn group showed higher mean fecal concentrations of acetic acid, propionic acid, butyric acid, and isovaleric acid than the Con group. Although no broad treatment-related changes in overall microbial diversity were observed, the relative abundances of selected taxa, including Lachnospiraceae UCG-010, Succinivibrionaceae UCG-001, and an unclassified taxon of the family Methanomethylophilaceae, were higher in the Syn group. Exploratory correlation analyses also identified associations between selected taxa and fecal acetic acid and propionic acid concentrations. Collectively, these observations support an exploratory association between combined supplementation with CACC607 and the levan-based prebiotic and an altered fecal fermentation profile. This pattern was associated with changes in fermentation-related gut microbial taxa, and this combination warrants further evaluation as a functional feed-additive candidate for weaned piglets.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1990283",
+    "date": "2026-11-17",
+    "authors": "Yangseon Kim",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1990283",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5057,
+    "collected_at": "2026-11-17T14:33:57.890691+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.3389/fmicb.2026.1990283"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3d8743557444c311506576039b6a175459b02ded85c3ff5841039c8476c433e6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:12:19.964561+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2b58d09f4cc8c42ef7243368f5b90adb383d93afa73544ff4587038f9c5ff214",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:12:19.964561+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "離乳後子豚の糞便中短鎖脂肪酸濃度および微生物叢組成に及ぼすレバン系プレバイオティクスとLimosilactobacillus reuteri CACC607の共生的併用効果",
+    "abstract_ja": "本研究では、新たに単離したレバン系プレバイオティクスであるLimosilactobacillus reuteri CACC607のin vitroにおける機能的特性評価および同菌の併用投与を、離乳後子豚における腸管内微生物発酵のin vivo評価と統合して行った。CACC607は、酸および胆汁耐性、IPEC-J2細胞への接着性、および非溶血性表現型を示し、プロバイオティクスとして望ましい特性を有していた。さらに、CACC607単独（Pro）および精製レバンとの併用（Syn）は、LPS誘発性のIL-1β、IL-6、およびTNF-α mRNA発現の増加を抑制した。全ゲノム解析により、プラスミド関連erm(B)や染色体tet(W)を含む薬剤耐性決定因子が同定され、さらなる安全性評価の必要性が示された。計68頭の子豚（各処置群17頭、各飼料条件に1ペンずつ割り当て）を対象に、33日間にわたり4つの飼料処置を実施した：Con（賦形剤配合の基本飼料）、Pre（3% (w/w) のレバンを含むレバン系プレバイオティクス製剤を添加した基本飼料）、Pro（L. reuteri CACC607を添加した基本飼料）、およびSyn（プレ・プロ併用製剤を添加した基本飼料）。ProおよびSyn製剤は、最終添加剤として約1.0 × 10⁹ CFU/gのCACC607濃度を達成するように調製した。すべての製剤を0.5% (w/w) の割合で基本飼料に配合した。33日目において、Syn群はCon群と比較して、酢酸、プロピオン酸、酪酸、およびイソ吉草酸の平均糞便中濃度が高かった。微生物多様性全体にわたる広範な処置関連の変化は認められなかったが、Lachnospiraceae UCG-010、Succinivibrionaceae UCG-001、およびMethanomethylophilaceae科の未分類分類群を含む特定の分類群の相対存在量は、Syn群で高かった。探索的相関解析により、特定の分類群と糞便中の酢酸およびプロピオン酸濃度との関連も認められた。総じて、これらの観察結果は、CACC607とレバン系プレバイオティクスの併用添加と、糞便発酵プロファイルの変化との間の探索的な関連性を支持するものである。このパターンは発酵関連の腸内微生物分類群の変化と関連しており、この組み合わせは、離乳後子豚向けの機能的飼料添加剤候補としてさらなる評価に値する。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1978482",
+    "title": "Beyond glycolysis: bacterial enolase as a localization-dependent moonlighting protein in physiology and pathogenesis",
+    "abstract": "Bacterial enolase couples a conserved glycolytic reaction to diverse, localization-dependent interactions. In addition to catalyzing the Mg2+-dependent conversion of 2-phosphoglycerate to phosphoenolpyruvate, it participates in RNA-degradation assemblies and can bind extracellular host ligands. The mechanistic basis for these non-catalytic functions remains inconsistent. High cytosolic abundance, limited cell lysis and reassociation with bacterial envelopes complicate the interpretation of extracellular detection. This critical narrative review evaluates enolase through three linked variables: molecular interface, subcellular localization and physiological context. Evidence from Escherichia coli and Bacillus subtilis supports recruitment to RNA-degradation networks, whereas studies in streptococci, staphylococci and other bacteria support species-dependent interactions with plasminogen, extracellular matrix proteins and complement regulators. Structural and mutational studies show that oligomeric state and membrane association influence ligand accessibility; preserved growth alone, however, does not establish preserved catalytic function. We replace a strict evidence hierarchy with seven complementary criteria covering prediction, detection, localization, binding, cellular perturbation, functional separation and host relevance. This framework distinguishes biochemical plausibility from causal evidence in the relevant compartment and host. We also assess selective release, vesicle carriage, reassociation, biofilm participation and translational strategies. Current findings support a conserved catalytic core combined with lineage-specific and condition-dependent interaction surfaces, rather than a universal virulence program. Progress requires quantitative localization, controlled separation-of-function genetics and host-compatible validation, together with explicit reporting of the limitations of each experimental system.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1978482",
+    "date": "2026-11-17",
+    "authors": "Kang Zheng",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1978482",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Bacillus",
+        "Escherichia",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assemblies"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5058,
+    "collected_at": "2026-11-17T14:33:57.890691+00:00",
+    "collected_date": "2026-11-17",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.3389/fmicb.2026.1978482"
+    ],
+    "translation": {
+      "title": {
+        "hash": "01109ba17219be31c24c551c464fc5c74142cd2292edaeeda5f73a48d8bd1af6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:12:19.964561+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ac496f42bb13c241a7235c2bb231453a77c171890c1d994d568fc05f25b4d078",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T15:12:19.964561+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "解糖系を超えて：生理学および病態形成における局在依存性ムーンライティングタンパク質としての細菌エノラーゼ",
+    "abstract_ja": "細菌性エノラーゼは、保存された解糖系反応を、局在依存的な多様な相互作用と結びつけている。2-ホスホグリセリン酸からホスホエノールピルビン酸へのMg2+依存的な変換を触媒するだけでなく、RNA分解アセンブリに関与し、細胞外の宿主リガンドに結合することができる。これらの非触媒的機能の機構的基盤については、依然として見解が一致していない。細胞質における高い存在量、限定的な細胞溶解、および細菌外膜との再会合が、細胞外検出の解釈を困難にしている。本クリティカル・ナラティブ・レビューでは、分子界面、細胞内局在、および生理学的コンテキストという3つの関連変数を通じてエノラーゼを評価する。大腸菌（Escherichia coli）および枯草菌（Bacillus subtilis）からの証拠は、RNA分解ネットワークへの動員を支持する一方、連鎖球菌、ブドウ球菌およびその他の細菌における研究は、プラスミノーゲン、細胞外マトリックスタンパク質、および補体調節因子との種依存的な相互作用を支持している。構造解析および変異解析により、オリゴマー状態と膜結合がリガンドのアクセシビリティに影響を与えることが示されているが、増殖能の維持だけでは、触媒機能の維持は立証されない。我々は、厳格な証拠階層に代わり、予測、検出、局在、結合、細胞摂動、機能的分離、および宿主関連性を網羅する7つの補完的な基準を導入した。この枠組みにより、関連するコンパートメントおよび宿主における生化学的な妥当性と、因果的な証拠を区別することができる。また、選択的放出、小胞輸送、再会合、バイオフィルムへの関与、および翻訳戦略についても評価する。現在の知見は、普遍的な病原性プログラムではなく、保存された触媒コアと、系統特異的かつ条件依存的な相互作用表面との組み合わせを支持している。今後の進展には、定量的な局在化、制御された機能分離遺伝学、および宿主適合性の検証に加え、各実験系の限界に関する明示的な報告が必要である。"
   }
 ]
