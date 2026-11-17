@@ -287717,5 +287717,158 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ペルー・アマゾンの原生林種Ceiba属からのゲノムDNA単離のための改良型CTAB法",
     "abstract_ja": "Ceiba属は生態学的および経済的に重要なアマゾン熱帯雨林の在来樹種であるが、本属に関する遺伝情報は依然として限られている。ゲノムタイピング・バイ・シーケンシング（GBS）などのゲノム解析手法には高品質なDNAが必要であり、葉組織からこれを得ることは困難な場合がある。本研究では、ペルー・アマゾンのロレト、ウカヤリ、およびマドレ・デ・ディオス地域で採取したCeiba属のシリカゲル保存葉から、高品質なゲノムDNAを抽出するためのプロトコルを開発し、評価することを目的とした。ソルビトール緩衝液による前洗浄を組み込んだ改良型セチルトリメチルアンモニウムブロミド（CTAB）プロトコルを用い、20検体からゲノムDNAを抽出した。DNA量および品質は、マイクロボリューム分光光度法およびQubit蛍光光度法により評価した。A260/A280比は1.70～1.99（平均1.84）の範囲であり、分光光度法によるDNA濃度は220.8～1294.1 ng/µL（平均696.5 ng/µL）の範囲であった。Qubit測定の結果、すべての検体において検出可能な二本鎖DNAが認められたが、測定値の半数（10/20）は使用したアッセイ範囲の上限を超えていた。ポリメラーゼ連鎖反応（PCR）へのDNAの適性は、ユニバーサルプライマーを用いてrbcL遺伝子を増幅させることで評価し、20検体すべてで増幅産物が得られた。本プロトコルにより得られたゲノムDNAは、後続の分子生物学的応用に適した品質特性を有しており、さらなる検証を条件として、今後のGBS研究を支援する可能性がある。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.19.760129",
+    "title": "StoichRNA: A Scalable Framework to Map and Optimize Combinatorial RNA Systems at Single-Cell Resolution",
+    "abstract": "ABSTRACT  RNA-based genetic cargos have emerged as versatile tools in both fundamental research and translational medicine, with growing applications in regenerative medicine, gene therapy, cell therapy, and vaccination. As the field advances beyond single-RNA delivery, coordinated engineering of multiple RNA species is enabling increasingly sophisticated and combinatorial biological functions. However, this shift raises a fundamental challenge: what combination and stoichiometry of RNA species should be delivered together to achieve a desired cellular function? As the number of RNA components increases, the design space expands combinatorially, making conventional optimization strategies labor-intensive and poorly scalable. Here, we introduce StoichRNA, a framework for scalable exploration of multi-RNA stoichiometry in a single experiment. Individual RNA species are delivered independently, each coupled to a distinct fluorescent marker that reports its intracellular abundance. Because uptake is stochastic, each cell acquires a unique combination and copy number of RNA components. Across a sufficiently large population, cells collectively sample a broad stoichiometric landscape, allowing single-cell readouts such as flow cytometry to quantitatively map system output as a function of intracellular RNA composition. We first establish the conceptual validity of this approach by showing that StoichRNA-derived single-cell data can recover and predict the behavior of fixed-ratio RNA formulations. We then apply this framework to representative RNA circuits, demonstrating that StoichRNA can reveal design principles and identify improved stoichiometries that would be difficult to uncover through conventional workflows. Finally, we extend StoichRNA optimization to translationally relevant settings, including control of cell-state engineering in human induced pluripotent stem cells and tuning of RNA-based logic circuits for precision medicine applications. Together, these results establish StoichRNA as a generalizable strategy for engineering combinatorial RNA systems and provide a scalable solution to a central bottleneck in RNA circuit design.",
+    "journal": "",
+    "doi": "10.64898/2026.10.19.760129",
+    "date": "2026-10-20",
+    "authors": "Liu Q, Wang L.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1346319",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "framework"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "RNA",
+          "framework"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4855,
+    "collected_at": "2026-11-16T02:43:58.908326+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.64898/2026.10.19.760129"
+    ],
+    "translation": {
+      "title": {
+        "hash": "04616f107e0e8099c9cd71a0827c9347855702291acf9a111b6cb66e1438b140",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T05:20:58.958790+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4b28a615e2f18ecbb7c1eedb8f020f2c6e1c8866d40a68c95481fcc502dc2208",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T05:20:58.958790+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "StoichRNA: 単一細胞解像度で組合せ論的RNAシステムをマッピング・最適化するスケーラブルなフレームワーク",
+    "abstract_ja": "要旨　RNAベースの遺伝的カーゴは、基礎研究とトランスレーショナル医学の双方において汎用性の高いツールとして台頭しており、再生医療、遺伝子治療、細胞治療、およびワクチン分野への応用が拡大している。この分野が単一RNAデリバリーの域を超えて進展するにつれ、複数のRNA種の協調的なエンジニアリングにより、より精緻かつ組み合わせ的な生物学的機能の実現が可能になりつつある。しかし、この転換は根本的な課題を提起している。すなわち、所望の細胞機能を達成するためには、どのようなRNA種の組み合わせと化学量論で同時にデリバリーすべきかということである。RNA構成成分の数が増えるにつれ、設計空間は組み合わせ的に拡大し、従来の最適化戦略は多大な労力を要し、拡張性にも乏しいものとなる。本研究では、単一実験でマルチRNAの化学量論をスケーラブルに探索するためのフレームワークであるStoichRNAを提案する。個々のRNA種は独立してデリバリーされ、それぞれが細胞内存在量を報告する固有の蛍光マーカーと結合している。取り込みは確率的であるため、各細胞はRNA構成成分の固有の組み合わせとコピー数を獲得する。十分に大規模な集団において、細胞は集団的に広範な化学量論的ランドスケープをサンプリングし、フローサイトメトリーなどのシングルセルリードアウトによって、細胞内RNA組成の関数としてシステム出力を定量的にマッピングすることが可能となる。まず、StoichRNAから得られたシングルセルデータが、固定比率のRNA製剤の挙動を復元および予測できることを示すことで、本アプローチの概念的な妥当性を確立する。次に、このフレームワークを代表的なRNA回路に適用し、StoichRNAが設計原理を明らかにし、従来のワークフローでは発見が困難な改良された化学量論を特定できることを示す。最後に、StoichRNAの最適化を、ヒト人工多能性幹細胞における細胞状態エンジニアリングの制御や、精密医療応用のためのRNAベースの論理回路のチューニングなど、トランスレーショナル医学に関連する設定へと拡張する。以上の結果を総合すると、StoichRNAは組み合わせ的RNAシステムをエンジニアリングするための汎用的な戦略として確立され、RNA回路設計における中心的なボトルネックに対するスケーラブルな解決策を提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.20.760290",
+    "title": "NLGN3-tagging system for Evaluating Membrane Localization Applied to Drug Screening",
+    "abstract": "Aberrant membrane localization of proteins often results in functional impairment, contributing to the development of pathological conditions. Neuroligin  - 3 (NLGN3) is a rare but recurrent genetic risk factor for autism spectrum disorder (ASD). Comparing surface localization across NLGN3 variants requires that surface signal be referenced to expression level in the same cell. Using NLGN3 as a model, we developed I-CLiQ, a live-cell method in which the target coding sequence is introduced at a single site of a fixed vector backbone and DsRed is co-encoded as an internal expression reference, based on a 2A peptide of Perina nuda virus modified to abolish ribosomal skipping. Combining I-CLiQ with AlphaFold/AlphaMissense analysis, we evaluated ASD-associated NLGN3 variants. Structural modeling predicted steric clashes for p.R451C, p.P514S, and p.R597W. I-CLiQ-based flow cytometry confirmed that these variants significantly decrease surface expression. Furthermore, as a proof-of-concept application, we used I-CLiQ to evaluate two compounds, 4-phenylbutyrate (4  - PBA) and 3-amino-1-propanesulfonic acid (3  - APS); 4  - PBA partially restored the surface expression of p.R451C and p.R597W. These findings establish I-CLiQ as a quantitative tool for analyzing membrane trafficking defects and demonstrate its applicability to compound screening for variants associated with conformational diseases.",
+    "journal": "",
+    "doi": "10.64898/2026.10.20.760290",
+    "date": "2026-10-20",
+    "authors": "Tominaga N, Tominaga K, Okada R, Yamamoto T.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1346305",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "method",
+        "sequence",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "method",
+          "sequence"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 4856,
+    "collected_at": "2026-11-16T02:43:58.908326+00:00",
+    "collected_date": "2026-11-16",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-16",
+    "related_dois": [
+      "10.64898/2026.10.20.760290"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ad42e2f4f354580f483ddd46274fca53ca68527bbc102a67fb09399bc2714585",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T05:20:58.958790+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0c0cfe11ead4975c4e72152ca1494245bd68409ebada4c58c1a3e24504ea6b72",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-17T05:20:58.958790+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "創薬スクリーニングに応用する膜局在評価のためのNLGN3タグ付けシステム",
+    "abstract_ja": "タンパク質の膜局在異常はしばしば機能障害を引き起こし、病態の発症に寄与する。ニューロリギン-3（NLGN3）は、自閉スペクトラム症（ASD）における稀ではあるが反復性の遺伝的リスク因子である。NLGN3変異体間の表面局在を比較するには、表面シグナルを同一細胞内の発現レベルに照らして評価する必要がある。我々はNLGN3をモデルとして、リボソームスキッピングを消失させるように改変したPerina nudaウイルスの2Aペプチドに基づき、標的コーディング配列を固定ベクターバックボーンの単一部位に導入し、DsRedを内部発現リファレンスとして共符号化する生細胞法「I-CLiQ」を開発した。I-CLiQとAlphaFold/AlphaMissense解析を組み合わせることで、ASD関連のNLGN3変異体を評価した。構造モデリングにより、p.R451C、p.P514S、およびp.R597Wにおいて立体衝突が予測された。I-CLiQを用いたフローサイトメトリーにより、これらの変異体が表面発現を有意に低下させることが確認された。さらに、概念実証的な応用として、I-CLiQを用いて4-フェニルブチレート（4-PBA）および3-アミノ-1-プロパンスルホン酸（3-APS）の2つの化合物を評価したところ、4-PBAはp.R451Cおよびp.R597Wの表面発現を部分的に回復させた。これらの知見は、I-CLiQを膜輸送異常を解析するための定量的ツールとして確立するものであり、コンフォメーション異常疾患に関連する変異体の化合物スクリーニングへの適用可能性を示すものである。"
   }
 ]
