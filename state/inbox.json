@@ -423623,5 +423623,278 @@
     "related_dois": [
       "10.1038/s41522-026-01199-x"
     ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "review",
+      "journal article"
+    ],
+    "id": "10.1128/mmbr.00145-26",
+    "title": "Impact of ESKAPE pathogens on the One Health framework considering epidemiology and environmental occurrence.",
+    "abstract": "SUMMARYThe ESKAPE group of pathogens represents one of the most critical threats to global health due to their capacity to evade antimicrobial treatments. This review provides a structured synthesis of the literature addressing antimicrobial resistance mechanisms, epidemiological relevance, clinical impact, and emerging strategies for containment within a One Health framework. Relevant studies and surveillance reports were analyzed to characterize the global distribution and burden of these organisms across human, animal, and environmental settings. The evidence indicates that ESKAPE pathogens remain leading causes of healthcare-associated infections while increasingly being identified in non-clinical reservoirs, highlighting the interconnected nature of antimicrobial resistance. Recent findings point to sustained high morbidity and mortality associated with these pathogens, driven by the expansion of multidrug-resistant lineages, and the limited effectiveness of current therapeutic options. Key challenges identified include gaps in surveillance integration, the spread of resistance determinants across sectors, and variability in infection control practices. Addressing these issues requires coordinated strategies that integrate surveillance, antimicrobial stewardship, infection prevention, and the development of novel therapeutics within a comprehensive One Health approach.",
+    "journal": "Microbiology and Molecular Biology Reviews",
+    "doi": "10.1128/mmbr.00145-26",
+    "date": "2026-10-28",
+    "authors": "Silva C, de Sousa T, Igrejas G, Nunes FM, Poeta P.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42949286",
+    "preprint": false,
+    "review": true,
+    "pmcid": "",
+    "pmid": "42949286",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5119,
+    "collected_at": "2026-11-18T21:56:18.128716+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.1128/mmbr.00145-26"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 4",
+        "query": "(JOURNAL:\"Infection and Immunity\" OR JOURNAL:\"Antimicrobial Agents and Chemotherapy\" OR JOURNAL:\"Journal of Clinical Microbiology\" OR JOURNAL:\"Microbiology Resource Announcements\" OR JOURNAL:\"Nature\" OR JOURNAL:\"Nature Microbiology\" OR JOURNAL:\"Nature Ecology & Evolution\" OR JOURNAL:\"Nature Communications\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1038/s41564-026-02512-2",
+    "title": "Turning a Staphylococcus aureus virulence factor into an antibacterial therapy.",
+    "abstract": "",
+    "journal": "Nature Microbiology",
+    "doi": "10.1038/s41564-026-02512-2",
+    "date": "2026-11-01",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42963397",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42963397",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5124,
+    "collected_at": "2026-11-18T21:56:18.128716+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "Europe PMC journals 4"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.1038/s41564-026-02512-2"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 4",
+        "query": "(JOURNAL:\"Infection and Immunity\" OR JOURNAL:\"Antimicrobial Agents and Chemotherapy\" OR JOURNAL:\"Journal of Clinical Microbiology\" OR JOURNAL:\"Microbiology Resource Announcements\" OR JOURNAL:\"Nature\" OR JOURNAL:\"Nature Microbiology\" OR JOURNAL:\"Nature Ecology & Evolution\" OR JOURNAL:\"Nature Communications\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1038/s41564-026-02506-0",
+    "title": "Acute infection as a driver of chronic diseases and the unsung benefits of vaccination.",
+    "abstract": "",
+    "journal": "Nature Microbiology",
+    "doi": "10.1038/s41564-026-02506-0",
+    "date": "2026-11-01",
+    "authors": "Cheon IS, Esser MT, Sun J.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42888287",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42888287",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5125,
+    "collected_at": "2026-11-18T21:56:18.128716+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "Europe PMC journals 4"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.1038/s41564-026-02506-0"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 4",
+        "query": "(JOURNAL:\"Infection and Immunity\" OR JOURNAL:\"Antimicrobial Agents and Chemotherapy\" OR JOURNAL:\"Journal of Clinical Microbiology\" OR JOURNAL:\"Microbiology Resource Announcements\" OR JOURNAL:\"Nature\" OR JOURNAL:\"Nature Microbiology\" OR JOURNAL:\"Nature Ecology & Evolution\" OR JOURNAL:\"Nature Communications\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1038/s41564-026-02495-0",
+    "title": "Translating soil microbiome knowledge into agricultural decisions.",
+    "abstract": "",
+    "journal": "Nature Microbiology",
+    "doi": "10.1038/s41564-026-02495-0",
+    "date": "2026-11-01",
+    "authors": "da Silva VLC, de Alvarenga BCNS, Dini-Andreote F, Pylro VS.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42736435",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42736435",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5126,
+    "collected_at": "2026-11-18T21:56:18.128716+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "Europe PMC journals 4"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.1038/s41564-026-02495-0"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 6",
+        "query": "(JOURNAL:\"Microbial Genomics\" OR JOURNAL:\"Microbiology\" OR JOURNAL:\"Aquatic Microbial Ecology\" OR JOURNAL:\"PNAS\" OR JOURNAL:\"PLOS Biology\" OR JOURNAL:\"PLOS Genetics\" OR JOURNAL:\"Genome Research\" OR JOURNAL:\"Genome Biology\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1099/mgen.0.001802",
+    "title": "Whole-genome characterization of <i>Candidozyma auris</i> isolates from a Korean tertiary care centre: clade II predominance, partly unexplained fluconazole resistance and a clade I isolate.",
+    "abstract": "In South Korea, Candidozyma auris is dominated by ear-associated clade II isolates, but institution-based genomic data remain limited. We analysed 35 archived isolates from 29 patients at a tertiary care centre between 2017 and 2023 using antifungal susceptibility testing and whole-genome sequencing. Thirty-four isolates belonged to clade II, and one urine isolate recovered after inter-hospital transfer belonged to subclade Ib. Serial clade II isolates from the same patient clustered together and had lower pairwise SNP distances than different-patient pairs (median, 8.5 versus 181). Among the first isolates from 29 patients, 14 (48.3%) were fluconazole resistant. In first clade II isolates, recurrent curated coding variation was concentrated in TAC1B and ERG11; TAC1B F214S and W198C and ERG11 K143R occurred only in resistant isolates, but recognized coding variants did not account for all resistant isolates. Clade II isolates shared a broadly conserved subtelomeric deletion backbone, with variable chromosome 6 loss of selected glycosylphosphatidylinositol-anchor genes. The clade Ib isolate carried ERG11 Y132F, TAC1B A583S and a CDR1 V704L/E709D-like change and met CDC tentative breakpoints for resistance to fluconazole, amphotericin B and caspofungin. These findings refine the genomic profile of Korean clade II isolates and highlight the potential introduction of a distinct clade I lineage through healthcare transfer.",
+    "journal": "Microbial Genomics",
+    "doi": "10.1099/mgen.0.001802",
+    "date": "2026-11-01",
+    "authors": "Park JH, Lee JS, Chae SW, Kim TS, Seong MW.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42975947",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13730534",
+    "pmid": "42975947",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5130,
+    "collected_at": "2026-11-18T21:56:18.128716+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "Europe PMC journals 6"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.1099/mgen.0.001802"
+    ]
   }
 ]
