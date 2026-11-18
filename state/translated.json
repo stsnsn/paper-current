@@ -301983,5 +301983,236 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "混合集団における遺伝子発現予測のためのファインチューニング済みDNA配列言語モデル：バリアントベース手法との比較",
     "abstract_ja": "全ゲノムシーケンシングデータからの遺伝子発現予測は、調節機構の解明や、非コード変異が複雑な疾患に及ぼす機能的影響の解釈において不可欠である。従来の手法は変異ベースの線形モデルに依存しているが、全ゲノムシーケンシングデータから直接調節特徴を学習できる能力を持つ、DNA配列ベースの言語モデルがますます普及している。これまでの研究ではEnformerなどのモデルが評価されてきたが、BorzoiやAlphaGenomeを含むより新しい配列から機能へのモデルは、特に非欧州系および混血集団における個体レベルの遺伝子発現予測に関して、まだ十分に解明されていない。本研究では、Hispanic Community Health Study/Study of Latinos (HCHS/SOL) の全血RNA-seqデータとペアにした個人ゲノムを用いて、BorzoiおよびAlphaGenomeの評価とファインチューニングを行った。ファインチューニングにより、両配列ベースモデルの性能は事前学習済みバージョンと比較して大幅に向上したが、その性能は変異ベースの線形モデルと同程度に留まった。HCHS/SOLの祖先多様性を活用することで、BorzoiおよびAlphaGenomeは、アメリカ先住民、欧州系、およびアフリカ系エンリッチド集団において同様の性能を示すことが明らかになった。ファインチューニング済みのBorzoi、ファインチューニング済みのAlphaGenome、およびelastic netは、同一の祖先エンリッチド集団で学習および評価を行った場合に、わずかに高い性能を示した。最後に、予測性能を向上させるための戦略を検討した結果、予測されたエピジェネティック特徴を組み込むことで、プロモーター領域近傍の予測精度が向上することが分かった。配列ベースモデルの潜在能力を最大限に引き出すには、依然として大幅な進展が必要である。より生物学的知見に基づいた学習アプローチを取り入れることが、性能向上に寄与する可能性がある。"
+  },
+  {
+    "id": "10.64898/2026.11.16.767209",
+    "title": "De novo Genome Assembly and Annotation of the Seep Tubeworm Lamellibrachia satsuma using Oxford Nanopore Sequencing",
+    "abstract": "The tubeworm Lamelllibrachia satsuma inhabits seep region by forming a mutualistic symbiotic relationship with chemosynthetic bacteria residing in its trophosome. Genomic and symbiotic studies have been extensively conducted, primarily from a bacterial perspective. But rarely vice versa. Here we present a high-quality draft genome assembly of L. satsuma and its tissue-specific transcriptome data. This genome will be valuable for further understanding the mechanisms of adaptation in cold seep environments, host-microbe interactions, as well as genome variation among tubeworms. We generated ~103 Gb of genomic sequencing data using Illumina and Oxford Nanopore platforms, which assembled in a 665 Mb draft genome. The assembled genome consisted of 6,320 scaffolds with 95.7% genome completeness. Among 32,394 predicted protein-coding genes, 1,063 gene families have expanded, and 1,385 gene families were contracted. Among the expanded gene families, multiple copies of leukocyte elastase inhibitor, reverse transcriptase, arylesterase, and xanthine dehydrogenase/oxidase genes were found. Molecular clock analysis based on the phylogenomic dataset revealed that L. sastuma and L. luymesi were diverged from their common ancestor during the Early Cenozoic era, approximately 13 million years ago.",
+    "journal": "",
+    "doi": "10.64898/2026.11.16.767209",
+    "date": "2026-11-18",
+    "authors": "Patra, A. K. K., Kwon, Y. M., Won, Y.-J., Yang, Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.16.767209v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "annotation",
+        "assembly",
+        "bacteria",
+        "bacterial",
+        "genome",
+        "microbe",
+        "sequencing"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "assembly",
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5241,
+    "collected_at": "2026-11-18T22:06:59.860731+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.64898/2026.11.16.767209"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ed1344f0cfe5471fad5ed7680cfd1815394de710adabf3334f09bf88e1972ff6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T22:47:43.509636+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "32a7fb07d10fc36496b9a2726f585ac7107b861f8bc2fbde05c729067c7cc20b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T22:47:43.509636+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Oxford Nanopore Sequencingを用いたシープチューブワームLamellibrachia satsumaの新規ゲノムアセンブリおよびアノテーション",
+    "abstract_ja": "チューブワームのLamelllibrachia satsumaは、トロフォソームに生息する化学合成細菌と相利共生関係を築くことで、湧出域に生息している。ゲノムおよび共生に関する研究は、主に細菌の視点から広範に行われてきた。しかし、その逆のアプローチがなされることは稀である。本報では、L. satsumaの高品質なドラフトゲノムアセンブリと、その組織特異的なトランスクリプトームデータを提示する。このゲノムは、寒冷な湧出環境における適応機構や宿主と微生物の相互作用、さらにはチューブワーム間のゲノム変異をさらに理解する上で有用である。我々はIlluminaおよびOxford Nanoporeプラットフォームを用いて約103 Gbのゲノムシーケンシングデータを生成し、665 Mbのドラフトゲノムをアセンブルした。アセンブルされたゲノムは6,320個のスキャフォールドからなり、ゲノム完全性は95.7%であった。予測された32,394個のタンパク質コード遺伝子のうち、1,063個の遺伝子ファミリーが拡張し、1,385個の遺伝子ファミリーが縮小した。拡張した遺伝子ファミリーの中には、白血球エラスターゼ阻害因子、逆転写酵素、アリルエステラーゼ、およびキサンチン脱水素酵素／酸化酵素遺伝子の複数コピーが認められた。フィロゲノミックデータセットに基づく分子時計解析により、L. satsumaとL. luymesiは、約1,300万年前の新生代初期に共通祖先から分岐したことが明らかになった。"
+  },
+  {
+    "id": "10.64898/2026.11.17.765926",
+    "title": "Robust Cluster Typing, a computationally accessible tool for species designation from whole genome data, exemplified with the genus Campylobacter",
+    "abstract": "Bacterial genomic analysis is a cornerstone of modern epidemiology. Many genomic typing methods exist, and most are designed to work within a given species in a hierarchical fashion. However, designation of bacterial species can be problematic, making the higher resolution level of hierarchical typing difficult. Using the universally present ribosomal proteins, we have developed a pipeline for a robust typing system which can be used to assign an unknown organism to a species-level cluster or, sometimes, a sub-species cluster. As proof of principle, we have used bacterial genomes from the genus Campylobacter, the most common cause of human bacterial gastroenteritis within which new strains, and new species (C. infantis), are reported. Species assignment, of all but the two most common species C. jejuni and C. coli, is beyond the ability of most microbiology laboratories. Outbreak investigation, even with genomic data, is difficult and so a robust typing scheme would be useful. Using available sequence-based typing schemes, we attempted to differentiate between 39 published Campylobacter species; we determined that the ribosomal 16S sequence typing and SNP typing did not discriminate all 39 but a single gene phylogeny method (GyrA), BUSCO, Mash, Panaroo and use of the Hugg proteins differentiated all 39. We assessed computational accessibility (important for implementation) and biological applicability (one universal typing scheme is easier to validate). The application of Hugg proteins proved computationally efficient and should be widely applicable. We developed a workflow in snakemake and Python, capable of clustering thousands of bacterial genomes. This Robust Cluster (RC) typing workflow was made accessible via the Terra platform, with usage instructions provided through an online training course on YouTube. Ninety-eight Campylobacter isolates from Bangladesh were sequenced and analysed using the Terra workflow, resulting in the identification of several novel clusters not previously found among publicly available genomes. Our work establishes the availability of RC typing and demonstrates its capacity to identify new Campylobacter lineages, thereby facilitating reporting and supporting future research initiatives.",
+    "journal": "",
+    "doi": "10.64898/2026.11.17.765926",
+    "date": "2026-11-18",
+    "authors": "Crossman, L. C., Hill, C. C., Tanmoy, A. M., Sarker, N., Rahman, H., Felgate, H. M., Janecko, N., Djeghout, B., Roess, A., Saha, S., Wain, J.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.17.765926v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "clustering",
+        "genome",
+        "microbiology",
+        "tool",
+        "workflow"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogeny"
+        ],
+        "evolution": [
+          "phylogeny"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5242,
+    "collected_at": "2026-11-18T22:06:59.860731+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.64898/2026.11.17.765926"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9588f90f01b3319a9ea20400ad1c9f83e2f5e973ff6662b5df4c19f34c7958ec",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T22:47:43.509636+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0e9f499983fe793b2a7db330a03420009bdb89857e2afa3c4254074891333363",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T22:47:43.509636+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "全ゲノムデータからの種同定のための計算機的に利用可能なツール「Robust Cluster Typing」――Campylobacter属を例に",
+    "abstract_ja": "細菌ゲノム解析は、現代疫学の根幹をなすものである。数多くのゲノムタイピング手法が存在し、その多くは特定の種内で階層的な形式で機能するように設計されている。しかし、細菌種の同定には困難が伴うことがあり、階層的タイピングにおけるより高解像度なレベルの解析を困難にしている。我々は、普遍的に存在するリボソームタンパク質を用いて、未知の生物を種レベルのクラスター、あるいは場合によっては亜種クラスターに割り当てることができる堅牢なタイピングシステムのパイプラインを開発した。原理実証として、ヒト細菌性胃腸炎の最も一般的な原因であり、新たな菌株や新種（C. infantis）が報告されているCampylobacter属の細菌ゲノムを用いた。最も一般的な2種であるC. jejuniおよびC. coliを除くすべての種の種同定は、ほとんどの微生物学研究室の能力を超えている。ゲノムデータを用いたとしてもアウトブレイクの調査は困難であり、そのため堅牢なタイピングスキームが有用である。利用可能な配列ベースのタイピングスキームを用いて、既報のCampylobacter属39種の判別を試みた。その結果、リボソーム16S配列タイピングおよびSNPタイピングでは39種すべてを判別できなかったが、単一遺伝子系統解析法（GyrA）、BUSCO、Mash、Panaroo、およびHuggタンパク質の使用により、39種すべてを判別できた。我々は、計算上の実装可能性（実装において重要）と生物学的適用性（単一の汎用的なタイピングスキームの方が検証が容易である）を評価した。Huggタンパク質の適用は計算効率が高く、広く適用可能であることが判明した。我々は、数千の細菌ゲノムをクラスタリング可能なworkflowをsnakemakeおよびPythonで開発した。このRobust Cluster (RC) タイピングworkflowはTerraプラットフォームを通じて利用可能とし、使用方法はYouTubeのオンライントレーニングコースで提供した。バングラデシュ産のCampylobacter分離株98株をTerraワークフローを用いて配列決定および解析した結果、公開されているゲノムではこれまで見出されていなかった複数の新規クラスターが同定された。本研究は、RCタイピングの利用可能性を確立し、新たなCampylobacter系統を同定する能力を実証することで、報告を容易にし、今後の研究イニシアチブを支援するものである。"
+  },
+  {
+    "id": "10.64898/2026.11.17.767002",
+    "title": "No detectable DNA methylation in the kelps (Laminariales): a conversion-free test of a predicted loss",
+    "abstract": "Kelps (Laminariales) dominate temperate and polar rocky coasts and support a fast-growing aquaculture sector. Breeding and restoration programs need to know whether a line's performance follows its genotype or its culture history. DNA methylation has been reported in kelps, with differences by life stage, thermal history and population of origin now underpinning a literature on conditioning and priming in seaweed breeding. Recent comparative genomics work predicts otherwise, because brown algae lack the canonical DNA methyltransferases and should therefore carry little or no DNA methylation. We tested the prediction with native-DNA nanopore sequencing, which requires neither bisulfite conversion nor methylation-dependent digestion, in seven kelp datasets spanning three genera, four species and four S. latissima life stages. Nuclear 5-methylcytosine stayed at the measurement background in every sequence context (CG 0.021-0.034% of sites, against 0.023% on PCR copies that carry no methyl group by construction), while the same pipeline returned 58% of CG sites methylated in a diatom and recovered the transposon-targeted distribution a functioning system predicts. In native reads, thirteen of the fourteen best-covered chloroplast positions that bisulfite sequencing placed above 2% carry at most one methylated call, and those published levels track each library's conversion efficiency rather than its tissue. Gene content and direct measurement agree, so the heritable effects reported in cultivated kelp require a carrier other than DNA methylation: chromatin modifications or non-coding RNA.",
+    "journal": "",
+    "doi": "10.64898/2026.11.17.767002",
+    "date": "2026-11-18",
+    "authors": "Sleith, R. S., Lindell, S., Lomas, M. W., Molano, G., Price, N. N., Quigley, C. T. C., Countway, P. D.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.17.767002v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Diatom",
+        "diatom"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5243,
+    "collected_at": "2026-11-18T22:06:59.860731+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.64898/2026.11.17.767002"
+    ],
+    "translation": {
+      "title": {
+        "hash": "fc5d1a5a38d9fdb71336ce4e857e44228e4f12f7caae90acba0cfc2217840be7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T22:47:43.509636+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4ca6070392c0fe79b840998197d5e6bab6c4af636b095e0c85df428419ac2915",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T22:47:43.509636+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ケルプ類（Laminariales）におけるDNAメチル化の検出：予測される消失の変換フリー試験",
+    "abstract_ja": "ケルプ（Laminariales）は温帯および極地の岩礁海岸に優占し、急速に成長する養殖産業を支えている。育種および復元プログラムにおいては、系統の性能が遺伝子型に従うのか、あるいは栽培履歴に従うのかを把握する必要がある。ケルプではDNAメチル化が報告されており、生活史、熱史、および起源集団による差異が、海藻育種におけるコンディショニングとプライミングに関する文献の基盤となっている。近年の比較ゲノミクス研究はこれとは異なる予測を示しており、褐藻類は標準的なDNAメチルトランスフェラーゼを欠いているため、DNAメチル化をほとんど、あるいは全く持たないはずであるとしている。我々は、亜硫酸塩変換やメチル化依存的な消化を必要としないネイティブDNAナノポアシーケンシングを用いて、3属4種、およびS. latissimaの4つの生活史にわたる7つのケルプデータセットでこの予測を検証した。核内5-メチルシトシンは、あらゆるシーケンシングコンテキストにおいて測定バックグラウンドに留まり（サイトの0.021～0.034%のCGに対し、設計上メチル基を持たないPCRコピーでは0.023%）、一方で同一のパイプラインではCGサイトの58%が珪藻においてメチル化されており、機能的なシステムが予測するトランスポゾン標的分布が再現された。ネイティブリードでは、亜硫酸塩シーケンシングで2%超と判定された最もカバー率の高い14箇所の葉緑体位置のうち、13箇所でメチル化コールは最大1つにとどまり、報告されたレベルは組織ではなく各ライブラリの変換効率を反映していた。遺伝子内容と直接測定の結果は一致しており、したがって栽培ケルプで報告されている遺伝的効果には、DNAメチル化以外の担体、すなわちクロマチン修飾または非コードRNAが必要である。"
   }
 ]
