@@ -300489,5 +300489,310 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "熱水噴出孔および鯨類の落下における高濃度硫化水素への対処に向けた多毛類腸内細菌叢の機能的役割と適応進化",
     "abstract_ja": "要旨深海熱水噴出孔や鯨滝は、動物を潜在的に毒性のある硫化水素（H₂S）にさらす。多くの深海無脊椎動物は特殊な共生器官を有するが、多毛類は機能的な消化系を保持しており、その腸内微生物叢が環境適応に果たす寄与については依然として不明である。本研究では、Archinome jasoniおよびNereis sp.において、腸内に豊富に存在する主要な系統としてSulfurovaceaeを同定した。これらの細菌は硫化物-キノン酸化還元酵素（sqr）をコード・発現しており、硫化物酸化能を支えている。腸管組織で検出された元素硫黄および黄鉄鉱と併せ、これらの知見は、硫黄沈着および潜在的な硫化物解毒への微生物の寄与を示唆している。高親和性のcbb₃型酸化酵素および硝酸還元酵素（narGHIおよびnapAB）は、酸素制限下の腸管条件下において呼吸の柔軟性をもたらす。多様な糖質活性酵素およびATP結合カセットトランスポーターは、宿主由来の有機基質が関与する混合栄養能を示唆している。アンキリンおよびカドヘリンドメインを含む真核生物様タンパク質は、宿主との相互作用および接着の潜在的な能力を示している。走化性メチルトランスフェラーゼCheRおよびOmpR–EnvZ二成分系に関連する遺伝子ファミリーの拡張は、定着時の環境感知を強化する可能性があり、一方でGGDEFおよびEALドメイン含有ファミリーの縮小は、環状ジGMP調節のリモデリングを示唆している。これらの代謝的・ゲノム的特徴は総じて、宿主関連の腸管ニッチへの特化と整合している。本研究の知見は、腸管関連のSulfurovaceaeが、硫化物に富む環境における多毛類の生存に寄与する潜在的な因子であることを浮き彫りにし、深海化学合成生態系における微生物の代謝柔軟性と腸管適応を、宿主にもたらし得る利益へと結びつける枠組みを提示するものである。"
+  },
+  {
+    "id": "10.1093/ismeco/ycag311",
+    "title": "Placozoan microbiomes reveal divergent trajectories of host dependence among the largely parasitic Rickettsiales",
+    "abstract": "AbstractRickettsiales are an enigmatic clade of strictly host-associated bacteria with common phylotypes in aquatic habitats. Despite amplicon- and metagenomic sequencing-based observations, the roles of these aquatic Rickettsiales are still unknown, as their genomes contain beneficial and parasitic traits. In placozoans, microscopy-based observations of intracellular Rickettsia-like organisms point to Rickettsiales as common and abundant symbionts. We systematically studied the microbiomes of placozoans to understand the eco-evolutionary dynamics of their associated Rickettsiales. Single-animal metagenomics revealed a widespread association of placozoans with Rickettsiales from three clades of ‘Ca. Midichloriaceae’, which were present in all but two placozoan lineages. A comparative phylogenetic analysis of placozoans and their Rickettsiales symbionts suggested host species-specific switches among Rickettsiales clades in several placozoan lineages. Our combination of evolutionary analyses, genome annotations, and gene expression data indicates different functional roles of these Rickettsiales clades, likely reflecting varying degrees of host dependence. Some lineages even show indications of reduced reliance on host derived ATP, a hallmark feature of Rickettsiales parasitism. One of the placozoan lineages that lacked ‘Ca. Midichloriaceae’ was instead associated with Rickettsiaceae symbionts, while another was completely devoid of Rickettsiales symbionts. Our imaging data of fiber cells entirely free of Rickettsiales underscore previously unrecognized variation in placozoan–microbe associations. Early-branching invertebrates, including placozoans and corals, are gaining increasing traction as emerging models across the life sciences. Our data and analyses show that it is important to consider the specific endosymbiont groups and their ecology in a given host, as these symbionts likely influence the hosts’ cellular and organismal biology.",
+    "journal": "ISME Communications",
+    "doi": "10.1093/ismeco/ycag311",
+    "date": "2026-11-18",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://academic.oup.com/ismecommun/advance-article/doi/10.1093/ismeco/ycag311/9089885?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "metagenom",
+        "metagenomic",
+        "metagenomics",
+        "microbe",
+        "microbiome",
+        "microbiomes"
+      ],
+      "context": {
+        "marine": [
+          "aquatic"
+        ],
+        "genomics": [
+          "annotation",
+          "evolution",
+          "genom",
+          "genome",
+          "metagenom",
+          "metagenomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6596/advanceAccess_4180.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5177,
+    "collected_at": "2026-11-18T22:06:59.860731+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "https://academic.oup.com/rss/site_6596/advanceAccess_4180.xml"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.1093/ismeco/ycag311"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6b89c8c7c0ca1eb29fea10066695e35cd28829919d2c30ddbe73dbb4df1e4cb9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T22:32:29.429692+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2790728292933cdd94fdc346e1a0f8232dee4fa0722c605dceeddfc8ad14e904",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T22:32:29.429692+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "プラコゾア微生物叢が明かす、主に寄生性であるリケッチア目における宿主依存性の分岐的軌跡",
+    "abstract_ja": "要旨リケッチア目は、水圏生息環境において共通の系統型を示す、厳密に宿主に特異的な細菌からなる謎めいたクレードである。アンプリコンおよびメタゲノムシーケンシングに基づく観察にもかかわらず、そのゲノムに有益形質と寄生形質の両方が含まれているため、これら水圏リケッチア目の役割は依然として不明である。プラコゾア類においては、細胞内リケッチア様生物の顕微鏡観察により、リケッチア目が一般的かつ豊富に存在する共生体であることが示唆されている。我々は、共生するリケッチア目の生態進化動態を解明するため、プラコゾア類のマイクロバイオームを系統的に解析した。単一個体のメタゲノミクス解析により、プラコゾア類が「Ca. Midichloriaceae」の3つのクレードに属するリケッチア目と広範に共生していることが明らかになり、これらは2つの系統を除くすべてのプラコゾア類系統に認められた。プラコゾア類とそのリケッチア目共生体の比較系統解析の結果、いくつかのプラコゾア類系統において、リケッチア目のクレード間で宿主種特異的な切り替えが生じることが示唆された。進化解析、ゲノムアノテーション、および遺伝子発現データを組み合わせた解析結果は、これらのリケッチア目クレードが異なる機能的役割を担っていることを示しており、これは宿主依存性の程度の違いを反映している可能性が高い。一部の系統では、リケッチア目の寄生における特徴的な性質である、宿主由来ATPへの依存度の低下を示す兆候さえ認められた。「Ca. Midichloriaceae」を欠くプラコゾア類系統の一つは代わりにRickettsiaceaeの共生体と共生しており、別の系統ではリケッチア目の共生体が完全に欠如していた。リケッチア目が全く存在しない繊維細胞のイメージングデータは、プラコゾア類と微生物の共生関係における、これまで認識されていなかった多様性を浮き彫りにしている。プラコゾア類やサンゴを含む初期分岐無脊椎動物は、生命科学分野における新たなモデルとしてますます注目を集めている。我々のデータと解析結果は、特定の内共生体グループとその生態を、個々の宿主において考慮することが重要であることを示している。なぜなら、これらの共生体は宿主の細胞レベルおよび個体レベルの生物学的特性に影響を及ぼす可能性が高いためである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 6",
+        "query": "(JOURNAL:\"Microbial Genomics\" OR JOURNAL:\"Microbiology\" OR JOURNAL:\"Aquatic Microbial Ecology\" OR JOURNAL:\"PNAS\" OR JOURNAL:\"PLOS Biology\" OR JOURNAL:\"PLOS Genetics\" OR JOURNAL:\"Genome Research\" OR JOURNAL:\"Genome Biology\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1099/mgen.0.001802",
+    "title": "Whole-genome characterization of <i>Candidozyma auris</i> isolates from a Korean tertiary care centre: clade II predominance, partly unexplained fluconazole resistance and a clade I isolate.",
+    "abstract": "In South Korea, Candidozyma auris is dominated by ear-associated clade II isolates, but institution-based genomic data remain limited. We analysed 35 archived isolates from 29 patients at a tertiary care centre between 2017 and 2023 using antifungal susceptibility testing and whole-genome sequencing. Thirty-four isolates belonged to clade II, and one urine isolate recovered after inter-hospital transfer belonged to subclade Ib. Serial clade II isolates from the same patient clustered together and had lower pairwise SNP distances than different-patient pairs (median, 8.5 versus 181). Among the first isolates from 29 patients, 14 (48.3%) were fluconazole resistant. In first clade II isolates, recurrent curated coding variation was concentrated in TAC1B and ERG11; TAC1B F214S and W198C and ERG11 K143R occurred only in resistant isolates, but recognized coding variants did not account for all resistant isolates. Clade II isolates shared a broadly conserved subtelomeric deletion backbone, with variable chromosome 6 loss of selected glycosylphosphatidylinositol-anchor genes. The clade Ib isolate carried ERG11 Y132F, TAC1B A583S and a CDR1 V704L/E709D-like change and met CDC tentative breakpoints for resistance to fluconazole, amphotericin B and caspofungin. These findings refine the genomic profile of Korean clade II isolates and highlight the potential introduction of a distinct clade I lineage through healthcare transfer.",
+    "journal": "Microbial Genomics",
+    "doi": "10.1099/mgen.0.001802",
+    "date": "2026-11-01",
+    "authors": "Park JH, Lee JS, Chae SW, Kim TS, Seong MW.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42975947",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13730534",
+    "pmid": "42975947",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5130,
+    "collected_at": "2026-11-18T21:56:18.128716+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "Europe PMC journals 6"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.1099/mgen.0.001802"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6c89205b34df06f31bc6c5755700fda8b9e9daf1da8f3e86711757b3a9bf6db4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T22:32:29.429692+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d403a4d947349de6c25e09cc1d53e186dbcac704d3bd8b9651ddb9eadcc3e6b5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T22:32:29.429692+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "韓国の三次医療機関由来の<i>Candidozyma auris</i>分離株の全ゲノム解析：クレードIIの優位性、一部未解明のフルコナゾール耐性、およびクレードI分離株。",
+    "abstract_ja": "韓国では、Candidozyma aurisは耳関連のクレードII分離株が主体となっているが、施設ベースのゲノムデータは依然として限られている。我々は、2017年から2023年にかけて三次医療機関の患者29例から得られたアーカイブ分離株35株を対象に、抗真菌薬感受性試験および全ゲノムシーケンシングを用いて解析を行った。34株がクレードIIに属し、病院間転院後に回収された尿中分離株1株はサブクレードIbに属していた。同一患者由来の連続したクレードII分離株は互いにクラスターを形成し、異なる患者間のペアよりもペアワイズSNP距離が短かった（中央値：8.5 対 181）。患者29例の初回分離株のうち、14株（48.3%）がフルコナゾール耐性であった。初回クレードII分離株において、反復して認められたキュレート済みコーディング変異はTAC1BおよびERG11に集中していた。TAC1BのF214SおよびW198C、ならびにERG11のK143Rは耐性分離株にのみ認められたが、同定されたコーディング変異がすべての耐性分離株に共通していたわけではなかった。クレードII分離株は、広範に保存されたサブテロメア欠失バックボーンを共有しており、選択されたグリコシルホスファチジルイノシトールアンカー遺伝子の第6染色体上における欠損にばらつきが認められた。クレードIb分離株は、ERG11 Y132F、TAC1B A583S、およびCDR1 V704L/E709D様の変異を有し、フルコナゾール、アンフォテリシンB、およびカスポファンギンに対する耐性のCDC暫定ブレイクポイントを満たしていた。これらの知見は、韓国のクレードII分離株のゲノムプロファイルを精緻化するとともに、医療施設間の転院を通じて、独立したクレードI系統が導入される可能性を浮き彫りにしている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "review",
+      "journal article"
+    ],
+    "id": "10.1128/mmbr.00145-26",
+    "title": "Impact of ESKAPE pathogens on the One Health framework considering epidemiology and environmental occurrence.",
+    "abstract": "SUMMARYThe ESKAPE group of pathogens represents one of the most critical threats to global health due to their capacity to evade antimicrobial treatments. This review provides a structured synthesis of the literature addressing antimicrobial resistance mechanisms, epidemiological relevance, clinical impact, and emerging strategies for containment within a One Health framework. Relevant studies and surveillance reports were analyzed to characterize the global distribution and burden of these organisms across human, animal, and environmental settings. The evidence indicates that ESKAPE pathogens remain leading causes of healthcare-associated infections while increasingly being identified in non-clinical reservoirs, highlighting the interconnected nature of antimicrobial resistance. Recent findings point to sustained high morbidity and mortality associated with these pathogens, driven by the expansion of multidrug-resistant lineages, and the limited effectiveness of current therapeutic options. Key challenges identified include gaps in surveillance integration, the spread of resistance determinants across sectors, and variability in infection control practices. Addressing these issues requires coordinated strategies that integrate surveillance, antimicrobial stewardship, infection prevention, and the development of novel therapeutics within a comprehensive One Health approach.",
+    "journal": "Microbiology and Molecular Biology Reviews",
+    "doi": "10.1128/mmbr.00145-26",
+    "date": "2026-10-28",
+    "authors": "Silva C, de Sousa T, Igrejas G, Nunes FM, Poeta P.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42949286",
+    "preprint": false,
+    "review": true,
+    "pmcid": "",
+    "pmid": "42949286",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5119,
+    "collected_at": "2026-11-18T21:56:18.128716+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.1128/mmbr.00145-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8e5c41317977a1bad2a03aa29be4272674132579e60407baea716e83e10210ef",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T22:32:29.429692+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "75e9382929e244d705d65cdd4d54dc13353212b1854ef533e97c24b2ea76264b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T22:32:29.429692+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "疫学および環境中での出現を考慮した、ESKAPE病原体のワンヘルス・フレームワークへの影響",
+    "abstract_ja": "要旨 ESKAPE群の病原体は、抗菌薬治療を回避する能力を有するため、世界的な公衆衛生に対する最も重大な脅威の一つとなっている。本総説では、薬剤耐性メカニズム、疫学的関連性、臨床的影響、およびワンヘルス（One Health）の枠組みにおける封じ込めのための新たな戦略に関する文献を体系的に整理して提示する。関連する研究およびサーベイランス報告書を分析し、ヒト、動物、および環境におけるこれらの微生物の世界的な分布と負荷状況を明らかにした。得られた知見は、ESKAPE病原体が依然として医療関連感染症の主要な原因である一方で、非臨床リザーバーにおいても同定される事例が増加していることを示しており、薬剤耐性の相互関連性を浮き彫りにしている。近年の知見では、多剤耐性系統の拡大と現行の治療選択肢の有効性の限界により、これらの病原体に関連する罹患率および死亡率が高水準で持続していることが指摘されている。特定された主要な課題には、サーベイランス統合の不備、セクターを横断した耐性決定因子の拡散、および感染管理手法のばらつきが含まれる。これらの課題に対処するには、包括的なワンヘルス・アプローチの中で、サーベイランス、抗菌薬適正使用、感染予防、および新規治療薬の開発を統合した協調的な戦略が必要である。"
+  },
+  {
+    "id": "10.1038/d41586-026-03436-x",
+    "title": "Poxviruses probably evolved in the digestive system of animals",
+    "abstract": "Large and giant DNA viruses that infect unicellular eukaryotes are abundant in the environment but have rarely been found in the gut microbiome. The discovery of such viruses that prevail in the digestive system of humans and animals exposes a long-overlooked facet of the gut microbiome that clarifies the origin of poxviruses.",
+    "journal": "Nature",
+    "doi": "10.1038/d41586-026-03436-x",
+    "date": "2026-11-18",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.nature.com/articles/d41586-026-03436-x",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbiome",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.nature.com/nature.rss",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5180,
+    "collected_at": "2026-11-18T22:06:59.860731+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "https://www.nature.com/nature.rss"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.1038/d41586-026-03436-x"
+    ],
+    "translation": {
+      "title": {
+        "hash": "fabdfcaa5f748d0bc629f056bbae168707db913eab0a98e036ded7a8cff04f56",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T22:32:29.429692+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5dbee7e12e0694af51368e6fe5e61db43d9464d34e3463a98dd779ebfff4bfd0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T22:32:29.429692+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ポックスウイルスはおそらく動物の消化器系で進化した。",
+    "abstract_ja": "単細胞真核生物に感染する大型および巨大DNAウイルスは環境中に豊富に存在するが、腸内微生物叢から検出されることは稀であった。ヒトや動物の消化管に優占するこうしたウイルスの発見は、腸内微生物叢の長らく見過ごされてきた側面を明らかにし、ポックスウイルスの起源を解明するものである。"
   }
 ]
