@@ -296528,5 +296528,316 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "コミュニティベンチマークにより、マウスの社会行動をラボ横断的に高解像度で定量化することが可能となる。",
     "abstract_ja": "社会的行動は脳状態の感度の高い指標であるが、げっ歯類の社会的行動を大規模に定量化するには、個別の研究室に特化したサイロ化されたツールに依存してきた。我々は、15の研究室にわたる33種類の社会的・単独行動を網羅し、手動でアノテーションされた動画およびポーズトラッキングのベンチマークである「Days of our Mice (DooM)」を構築し、コミュニティ向けの行動分類チャレンジを開催した。このチャレンジの解答を基に、学習時に未見の研究室にも汎化し、研究室をまたいだ移動特徴を学習する行動分類ツール「High-Dimensional Rodent Annotator (HiDRA)」を開発した。実験データに再学習なしで適用したHiDRAは、高い汎化性能と再現性を備え、ライン固有や状態依存的な行動フィンガープリントを解明し、高解像度で共有可能な社会的フェノタイピングを、脳および内部状態のスケーラブルな指標として確立した。我々は、DooMデータセットとHiDRA分類器をオープンリソースとして公開する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.19.26365876",
+    "title": "An interpretable whole-blood transcriptomic model for Parkinson’s disease identification and molecular profiling",
+    "abstract": "Background  Sporadic Parkinson’s disease (PD) lacks a molecular taxonomy that stratifies patients by dominant molecular drivers, limiting enrollment for disease-modifying trials, especially anti-inflammatory agents targeting NLRP3/NF-κB. Methods  We developed ORIGIN-PD, an interpretable whole-blood transcriptomic classifier comprising 34 gene-level features and a composite low-expression score, with gene-level contributions organized into eight prespecified functional modules: midbrain dopaminergic (mDA) neuron identity/development, pathway-related, oxidative/mitochondrial, proteostasis, inflammation/ immunity, microglia, ncRNA, and other. Using LASSO regression on stringently quality-controlled whole-blood RNA-seq data from the Parkinson’s Progression Markers Initiative (PPMI) (Training Set: 204 PD and 92 controls; Locked Test Set: 51 PD and 23 controls), we assigned each patient a module-contribution profile. Module dominance was defined as >30% of total score. Results  ORIGIN-PD discriminated PD from controls with high accuracy (Locked Test Set AUC 0.944, sensitivity 0.843, specificity 0.913). Among 255 sporadic PD patients, 49.4% exhibited a dominant module-contribution pattern—most frequently mDA neuron identity/development (22.0%), followed by pathway-related (11.8%), microglia/glial (7.5%), and inflammation/immunity (3.5%). Among the 50.6% with multi-module contributions, mDA neuron identity/development ranked in the top three in 62.8% of patients versus 35.7% for inflammation/immunity, indicating broader involvement of mDA neuron identity genes than inflammatory genes. The model showed high specificity against Alzheimer’s disease, ALS, and inflammatory controls. Conclusions  ORIGIN-PD enables rational enrichment for NLRP3/NF-κB inhibitor trials by identifying patients with inflammatory involvement. In addition, the predominant contribution of the mDA neuron identity/development module, centred on  WNT1 ,  MSX1 ,  NPM1 , and  LMX1B , identifies a larger patient subgroup with altered expression of mDA neuron identity module genes, suggesting that ORIGIN-PD may also be useful for patient enrichment in future trials of Wnt/β-catenin pathway agonists. This dual-purpose framework provides a transparent, interpretable basis for pathogenic subtyping and precision enrichment in sporadic PD, with the aim of guiding disease-modifying therapy.",
+    "journal": "",
+    "doi": "10.64898/2026.10.19.26365876",
+    "date": "2026-10-20",
+    "authors": "Li Y, Yu X, Peng C.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1346383",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "gene",
+        "method",
+        "transcriptomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5091,
+    "collected_at": "2026-11-17T22:53:10.596689+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.64898/2026.10.19.26365876"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b18a434349701115a294bf0ec4e08c77fd8393a3f2c2f3907534a10c0fb3c228",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T00:02:47.878393+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8376beb9178364f7a487485ce0b8db0e046c34289464858cd7b8144409d2c763",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T00:02:47.878393+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "パーキンソン病の同定および分子プロファイリングのための解釈可能な全血トランスクリプトームモデル",
+    "abstract_ja": "背景  孤発性パーキンソン病（PD）には、主要な分子ドライバーに基づいて患者を層別化する分子分類体系が存在せず、疾患修飾性試験、特にNLRP3/NF-κBを標的とした抗炎症薬の被験者登録を制限する要因となっている。方法  我々は、34の遺伝子レベルの特徴量と複合低発現スコアからなる、解釈可能な全血トランスクリプトーム分類器「ORIGIN-PD」を開発した。遺伝子レベルの寄与度は、中脳ドーパミン作動性（mDA）ニューロンのアイデンティティ/発達、パスウェイ関連、酸化/ミトコンドリア、プロテオスタシス、炎症/免疫、ミクログリア、ncRNA、およびその他の8つの事前定義された機能モジュールに分類されている。Parkinson’s Progression Markers Initiative（PPMI）の厳格に品質管理された全血RNA-seqデータ（トレーニングセット：PD 204例、対照群 92例；ロック済みテストセット：PD 51例、対照群 23例）を用いてLASSO回帰分析を行い、各患者にモジュール寄与プロファイルを割り当てた。モジュールの優位性は、総スコアの30%超と定義した。結果  ORIGIN-PDは、高い精度でPD患者と対照群を判別した（ロック済みテストセットのAUC 0.944、感度 0.843、特異度 0.913）。255例の孤発性PD患者のうち、49.4%に優位なモジュール寄与パターンが認められ、最も頻度が高かったのはmDAニューロンのアイデンティティ/発達（22.0%）で、次いでパスウェイ関連（11.8%）、ミクログリア/グリア（7.5%）、炎症/免疫（3.5%）であった。複数モジュールの寄与が認められた50.6%の患者のうち、mDAニューロンのアイデンティティ/発達が上位3位に入った割合は62.8%であったのに対し、炎症/免疫は35.7%であり、炎症性遺伝子よりもmDAニューロンアイデンティティ遺伝子がより広範に関与していることが示された。本モデルは、アルツハイマー病、ALS、および炎症性対照群に対して高い特異度を示した。結論  ORIGIN-PDは、炎症性関与を有する患者を特定することで、NLRP3/NF-κB阻害薬試験における合理的なエンリッチメントを可能にする。さらに、WNT1、MSX1、NPM1、およびLMX1Bを中心とするmDAニューロンアイデンティティ/発達モジュールの優位な寄与は、mDAニューロンアイデンティティモジュール遺伝子の発現が変化しているより広範な患者サブグループを特定するものであり、これはORIGIN-PDが将来のWnt/β-カテニンパスウェイ作動薬試験における患者エンリッチメントにも有用である可能性を示唆している。このデュアルパーパス・フレームワークは、疾患修飾療法の指針とすることを目的として、孤発性PDにおける病原性サブタイピングおよび精密エンリッチメントのための、透明性が高く解釈可能な基盤を提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.15.26365681",
+    "title": "Disentangling phenotype scale, amplification, and effect heterogeneity underlying polygenic GxE architecture of complex traits",
+    "abstract": "While polygenic gene-by-environment (G×E) signals are increasingly detected in biobank data, it is often unclear whether they reflect the phenotype’s measurement scale or one of two biologically distinct mechanisms: heterogeneous genetic effects across environmental strata (  effect heterogeneity ) or systematically larger but correlated effects in one stratum (  amplification ). We introduce REGENA (Robust Estimator of Gene-ENvironment Architectures), a variance-component method that disentangles these contributions at biobank scale by learning a phenotype transformation that minimizes scale-induced G×E, thereby assessing scale-dependence while jointly estimating the cross-environment genetic correlation and environment-specific genetic variances. In simulations, REGENA is well-calibrated and powerful while recovering the transformation underlying scale-dependent G×E. Applied to 43 quantitative traits and seven environmental exposures in 291,273 UK Biobank individuals, REGENA finds that roughly half of trait-environment pairs with significant G×E are scale-dependent. Among the remaining scale-independent trait-environment pairs, G×E heritability accounted for an average of 15% of additive heritability and was driven primarily by effect heterogeneity (accounting for 71% of G×E heritability on average) although there was substantial variation in its relative contribution across trait-environment pairs. Environment-specific effects tend to make a larger contribution at lower allele frequencies, accounting for 6% of genetic variance in low-frequency variants versus 3.9% at common variants (signed test  p = 1.7 × 10  −24 ). Modeling these distinctions improves environment-specific polygenic prediction (14% on average), with the largest gains for pairs whose genetic effects are least correlated across environments (  p = 4.0 × 10  −3 ; 3.8-fold for testosterone stratified by sex and 2.32-fold for waist-hip ratio stratified by alcohol consumption). Further, environment-stratified GWAS detects 174 loci missed by pooled GWAS with 67 having opposite-signed effects across strata.",
+    "journal": "",
+    "doi": "10.64898/2026.10.15.26365681",
+    "date": "2026-10-20",
+    "authors": "Liu Z, Anand A, Qie X, Costantino M, Jeong M, Gorla A, Zaitlen N, Dahl A, Sankararaman S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1346378",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "gene",
+        "genetic",
+        "method"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "gene",
+          "genetic",
+          "method"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5092,
+    "collected_at": "2026-11-17T22:53:10.596689+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.64898/2026.10.15.26365681"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7685b45f7f414f6c4b3e02dce587a7900e614cab239aede0c516cdfdad1360e0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T00:02:47.878393+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1570059cc0f5454a6c5c00cdd84068790e814e7385c5225c386800d63c1bd469",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T00:02:47.878393+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "複雑な形質の多遺伝子性GxEアーキテクチャの基盤となる表現型スケール、増幅、および効果の不均一性の解明",
+    "abstract_ja": "バイオバンクデータにおいて多遺伝子の遺伝子-環境（G×E）シグナルの検出例が増えているが、それらが表現型の測定スケールを反映しているのか、あるいは、環境層間における遺伝的効果の不均一性（効果の不均一性）、または単一層における系統的に大きいが相関のある効果（増幅）という、生物学的に異なる2つのメカニズムのいずれかを反映しているのかは、しばしば不明確である。本研究では、スケールに起因するG×Eを最小化する表現型変換を学習することで、バイオバンクスケールにおけるこれらの寄与を分離し、スケール依存性を評価しつつ、環境間の遺伝的相関と環境特異的な遺伝的分散を同時に推定する分散成分法であるREGENA（Robust Estimator of Gene-Environment Architectures）を提案する。シミュレーションにおいて、REGENAは適切にキャリブレーションされており強力であるとともに、スケール依存的なG×Eの根底にある変換を復元した。UKバイオバンクの291,273名を対象に、43の量的形質と7つの環境曝露に適用した結果、有意なG×Eを示す形質-環境ペアの約半分がスケール依存的であることが判明した。残りのスケール非依存的な形質-環境ペアにおいて、G×Eの遺伝率は加法的遺伝率の平均15%を占めており、主に効果の不均一性によって駆動されていた（平均してG×E遺伝率の71%を説明）が、その相対的な寄与度は形質-環境ペア間で相当なばらつきがあった。環境特異的な効果は、アレル頻度が低いほど寄与が大きくなる傾向があり、低頻度変異では遺伝的分散の6%を占めるのに対し、共通変異では3.9%であった（符号付き検定 p = 1.7 × 10 −24）。これらの差異をモデル化することで、環境特異的な多遺伝子予測が向上し（平均14%）、特に環境間で遺伝的効果の相関が最も低いペアで最大の改善が見られた（p = 4.0 × 10 −3；性別で層別化したテストステロンでは3.8倍、アルコール摂取量で層別化したウエスト・ヒップ比では2.32倍）。さらに、環境層別GWASでは、プールGWASで見逃されていた174個の遺伝子座が検出され、そのうち67個は層間で符号が逆の効果を示していた。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.14.759147",
+    "title": "Lowly polymorphic pathogen proteins may not be under evolutionary constraint",
+    "abstract": "A central challenge in infectious disease biology is anticipating whether pathogen proteins targeted by vaccines, drugs, or diagnostics can evolve in ways that reduce intervention efficacy. Evolutionary constraint is therefore relevant to selecting targets likely to remain effective after deployment. Yet low diversity in contemporary pathogen populations is often interpreted as evidence of evolutionary constraint, an inference that can be misleading. In this Personal View, we use  Plasmodium falciparum malaria to illustrate how contemporary population diversity and longer-term cross-species divergence can inform assessments of evolutionary constraint. A severe population bottleneck reduced diversity across the  P. falciparum genome, meaning that low diversity in a particular protein-coding gene does not necessarily indicate unusual constraint. We place gene-level diversity in its genome-wide context, compare it with divergence across related ape-infecting malaria parasites, and examine how both relate to experimental essentiality. We then examine diversity and divergence along vaccine, drug, and diagnostic targets, considering them in relation to known resistance-associated mutations and other routes of evolutionary escape. We introduce PEEP (Protein Evolution Explorer for Plasmodium), a public interactive resource for exploring diversity and divergence across  P. falciparum protein-coding genes and along individual proteins. Although our analyses focus on  P. falciparum malaria, the implications extend across pathogens: low diversity alone is insufficient evidence of evolutionary constraint, and assessments of intervention durability should consider constraint alongside potential routes of evolutionary escape.",
+    "journal": "",
+    "doi": "10.64898/2026.10.14.759147",
+    "date": "2026-10-20",
+    "authors": "Pinharanda A, Perkins SA, Early AM, Neafsey DE.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1346248",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "protein",
+        "resource"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 5093,
+    "collected_at": "2026-11-17T22:53:10.596689+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.64898/2026.10.14.759147"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0691e7fcb1013a74e53894b5f8eae44b6ccad98db8e3e315240762ed900864d3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T00:02:47.878393+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3928e3d4dbe4ede970f76b3709becf2330849882a0e8416ef307cd11b278c305",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T00:02:47.878393+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "低次多形性病原体タンパク質は、進化的制約を受けていない可能性がある。",
+    "abstract_ja": "感染症生物学における中心的な課題は、ワクチン、薬剤、あるいは診断薬が標的とする病原体タンパク質が、介入の有効性を低下させる形で進化し得るかどうかを予測することにある。したがって、進化的制約は、導入後も有効性を維持すると考えられる標的を選定する上で重要となる。しかし、現代の病原体集団における多様性の低さは、しばしば進化的制約の証拠として解釈されるが、この推論は誤解を招く可能性がある。本Personal Viewでは、熱帯熱マラリア原虫（Plasmodium falciparum）を用いて、現代の集団多様性と長期的な種間分岐が、進化的制約の評価にどのように寄与し得るかを示す。深刻な集団ボトルネックがP. falciparumのゲノム全体の多様性を低下させたため、特定のタンパク質符号化遺伝子における多様性の低さが、必ずしも特異な制約を示すとは限らない。我々は、遺伝子レベルの多様性をゲノム全体の文脈に位置づけ、近縁な類人猿感染性マラリア原虫間の分岐と比較し、両者が実験的な必須性とどのように関連しているかを検討する。次に、ワクチン、薬剤、および診断薬の標的に沿った多様性と分岐について、既知の耐性関連変異やその他の進化的逃避経路との関連を考慮して検討する。我々は、P. falciparumのタンパク質符号化遺伝子間および個々のタンパク質に沿った多様性と分岐を探索するための公開インタラクティブリソースであるPEEP（Protein Evolution Explorer for Plasmodium）を紹介する。本解析はP. falciparumマラリアに焦点を当てているが、その示唆は病原体全般に及ぶ。多様性の低さだけでは進化的制約の十分な証拠とはならず、介入の持続性を評価する際には、潜在的な進化的逃避経路と併せて制約を考慮すべきである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.19.760176",
+    "title": "IRE1α undergoes a dynamic filament assembly cycle governed by unfolded proteins and BiP",
+    "abstract": "The endoplasmic reticulum is a major hub of protein synthesis, modification and trafficking that relies on the Unfolded Protein Response (UPR) to balance its folding capacity. IRE1, the most conserved of the UPR sensors, undergoes a change in oligomeric state upon activation that propagates the stress signal from the ER lumen to its cytoplasmic kinase/RNase domains. Here we show that opposing inputs from unfolded proteins and the ER chaperone machinery govern a dynamic cycle of IRE1 assembly. A  bona fide unfolded ER client directly binds the IRE1 lumenal domain (LD) and promotes higher-order oligomerization. Model peptides further reveal that full assembly into LD filaments depends on ligand length, sequence, and IRE1’s oligomerization interfaces. The ER Hsp70, BiP, counterbalances this process through two distinct mechanisms: i) an ATP-independent interaction via BiP’s nucleotide-binding domain buffers early IRE1 assembly by engaging its oligomerization interface, whereas ii) ATP-regulated BiP/ERDJ machinery actively dismantles assembled filaments. Together, our findings reconcile direct unfolded protein recognition with BiP-mediated regulation to establish LD oligomerization as a point of integration through which unfolded protein load and chaperone availability dynamically regulate IRE1 assembly state and signalling.",
+    "journal": "",
+    "doi": "10.64898/2026.10.19.760176",
+    "date": "2026-10-20",
+    "authors": "Méndez-Moran M, Le-Vasseur M, Itzhak DN, Sadowska W, Karagöz GE, Walter P, Agard DA.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1346244",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "assembly",
+        "protein"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5094,
+    "collected_at": "2026-11-17T22:53:10.596689+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-17",
+    "related_dois": [
+      "10.64898/2026.10.19.760176"
+    ],
+    "translation": {
+      "title": {
+        "hash": "72252cbb6c388216ce2f28fb470970a1c56c40348efe772b85bb0befe615f4b9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T00:02:47.878393+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8b8ad7b6e3db1f5569e510a6455725263d7c33d3bd69392c6d17b27ba32cb369",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T00:02:47.878393+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "IRE1αは、未フォールディングタンパク質とBiPによって制御される動的なフィラメント形成サイクルを経る。",
+    "abstract_ja": "小胞体は、タンパク質の合成、修飾、および輸送の主要なハブであり、そのフォールディング能のバランスを保つために未フォールディングタンパク質応答（UPR）に依存している。UPRセンサーの中で最も保存性の高いIRE1は、活性化に伴いオリゴマー状態へと変化し、ストレスシグナルを小胞体腔から細胞質のキナーゼ/RNaseドメインへと伝播させる。本研究では、未フォールディングタンパク質と小胞体シャペロン機構からの相反する入力が、IRE1アセンブリの動的なサイクルを制御していることを示す。真正な未フォールディング小胞体クライアントがIRE1の腔内ドメイン（LD）に直接結合し、高次オリゴマー化を促進する。モデルペプチドを用いた解析により、LDフィラメントへの完全なアセンブリは、リガンドの長さ、配列、およびIRE1のオリゴマー化界面に依存することがさらに明らかになった。小胞体Hsp70（BiP）は、2つの異なるメカニズムを通じてこのプロセスを相殺している。すなわち、i) BiPのヌクレオチド結合ドメインを介したATP非依存的な相互作用が、オリゴマー化界面に結合することで初期のIRE1アセンブリを緩衝し、一方で ii) ATP調節型のBiP/ERDJ機構がアセンブリ済みフィラメントを能動的に解体する。以上の知見を総合すると、未フォールディングタンパク質の直接的な認識とBiP介在性調節が整合し、LDオリゴマー化が、未フォールディングタンパク質の負荷とシャペロンの利用可能性によってIRE1のアセンブリ状態とシグナル伝達を動的に調節する統合点として確立される。"
   }
 ]
