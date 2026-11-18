@@ -297433,5 +297433,325 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "KORUS: バリアントコールを超えた確率的祖先推定",
     "abstract_ja": "祖先推定は通常、バリアントコールと事前定義された集団ラベルに依存している。本稿では、クエリゲノムに対する明示的なバリアントコールを必要とせず、祖先情報を含むリファレンスバリアントを用いて構築され、ブルームフィルタにエンコードされたシーケンシング由来のk-mer表現から祖先を推定する確率的フレームワーク「KORUS」を提案する。KORUSはゲノム特徴表現と祖先デコーディングを分離することで、統一的なフレームワーク内で教師あり分類、分数的祖先推定、および教師なしの集団構造発見を可能にする。リファレンスモデルは、1000 Genomes ProjectおよびSimons Genome Diversity Projectの643ゲノムから構築された。22例の全ゲノムシーケンシングサンプルからなる独立したコホートを用いた評価において、ntRoot、SNVstory、およびADMIXTUREとの比較を行った結果、大陸規模の集団構造の復元が示され、教師あり分類の正解率は72.7～81.8%、祖先分数の一致度はADMIXTUREに対してR2 = 0.844～0.993、ntRootに対してR2 = 0.665～0.983であった。祖先推定値は、異なるk-mer表現間でも一貫していた。古代人類および古人類のゲノム解析により、確率的投影は必ずしも現代の大陸系祖先を示すのではなく、学習された特徴空間への親和性を定量化することが示された。KORUSは、シーケンシング由来の表現から直接祖先を推定する統一的なアプローチを提供し、GPLv3ライセンスの下で https://github.com/BirolLab/korus にて無償で利用可能である。"
+  },
+  {
+    "id": "10.64898/2026.11.16.765329",
+    "title": "The pangenome of the Arctic picoeukaryote Micromonas polaris resolves cryptic ecotypes and identifies a polar-specific gene repertoire",
+    "abstract": "Micromonas polaris is the dominant picoeukaryote of the Arctic Ocean, where it sustains primary production across habitats from sea ice to open water to the subsurface chlorophyll maximum. How a single species maintains this ecological breadth has remained unclear. Standard phylogenetic markers such as 18S rRNA are nearly invariant within M. polaris and conceal any internal genomic heterogeneity the species may possess. Here we present a pangenome of 14 M. polaris strains spanning the Arctic basin, integrated with Tara Oceans metagenomes, that resolves the species into two diverged ecotypes invisible to 18S rRNA but recovered consistently by prp8, genome-wide SNPs, ANI, and orthogroup-based phylogenies. The two ecotypes coexist sympatrically, with one lineage consistently enriched deeper in the water column across the basin. M. polaris carries 990 polar-specific hierarchical orthogroups absent from temperate Micromonas, organised around one-carbon metabolism, endocytosis, transmembrane transport, and photo-oxidative stress response. Several components show phylogenetic signatures of horizontal acquisition from co-occurring marine taxa. Atlantification is bringing temperate Micromonas into Arctic margins seasonally, but the polar night likely limits their year-round persistence. M. polaris and its polar-specific toolkit appear positioned to persist through the dark season, suggesting Arctic margins will undergo seasonal turnover rather than stable replacement.",
+    "journal": "",
+    "doi": "10.64898/2026.11.16.765329",
+    "date": "2026-11-17",
+    "authors": "Jackson, V. L. N., Harrison, K., Derelle, E., Chambouvet, A., Lovejoy, C., Monier, A.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.16.765329v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "18s rrna",
+        "metagenom",
+        "metagenomes"
+      ],
+      "context": {
+        "marine": [
+          "marine",
+          "ocean"
+        ],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic",
+          "metagenom",
+          "metagenome",
+          "pangenom",
+          "pangenome",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5137,
+    "collected_at": "2026-11-18T04:29:26.571529+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.64898/2026.11.16.765329"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f94f6afa768d9d19eb85802a7ab216af10bc112c4ad83c76dcb96d50578b0a45",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T04:55:32.648637+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e9091b51bc9a7ec8ed6e358e4cf09684f8be2c34db5619f5fcf187d63f3adf13",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T04:55:32.648637+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "北極圏のピコ真核生物Micromonas polarisのパンゲノムは、隠蔽的な生態型を解明し、極域特有の遺伝子レパートリーを同定する。",
+    "abstract_ja": "Micromonas polarisは北極海における優占的なピコ真核生物であり、海氷から外洋、さらには亜表層のクロロフィル極大域に至るまで、多様な生息環境において一次生産を支えている。単一の種がいかにしてこの生態学的な広がりを維持しているのかは、これまで不明であった。18S rRNAなどの標準的な系統マーカーはM. polaris内でほぼ不変であり、本種が有し得る内部的なゲノム不均一性を覆い隠している。本研究では、北極海盆にわたる14株のM. polarisのパンゲノムを、Tara Oceansのメタゲノムと統合して提示する。これにより、本種を18S rRNAでは判別不能だが、prp8、ゲノムワイドSNP、ANI、およびオルソグループに基づく系統解析によって一貫して検出される2つの分岐したエコタイプに区分した。これら2つのエコタイプは同所的に共存しており、一方の系統は海盆全域において水柱のより深い層で一貫して濃縮されている。M. polarisは、温帯のMicromonasには見られない990個の極域特異的な階層的オルソグループを保持しており、これらは一炭素代謝、エンドサイトーシス、膜貫通輸送、および光酸化ストレス応答を中心に構成されている。いくつかの構成要素は、共存する海洋分類群からの水平獲得の系統学的シグネチャーを示している。アトランティフィケーションにより、温帯のMicromonasが季節的に北極海縁へと流入しているが、極夜が通年の存続を制限している可能性が高い。M. polarisとその極域特異的なツールキットは、暗期を通じて存続できる態勢にあると考えられ、このことは北極海縁が安定した置換ではなく、季節的な入れ替わりを経ることを示唆している。"
+  },
+  {
+    "id": "10.64898/2026.11.16.766985",
+    "title": "Vertical transmission and community turnover in seed-borne microbiomes: lessons from an aMAIZEing model system",
+    "abstract": "The seed microbiome represents a specialized ecological niche, governed by assembly processes that are only partially coupled to the surrounding soil community. While environmental recruitment and vertical transmission from the maternal plant are both recognized sources of seed-associated microorganisms, the mechanisms that determine their relative contributions and whether these contributions shift across generations remain poorly understood. Here, we used long-read metagenomic sequencing to track seed-borne bacterial community dynamics across a founding seed pool and two subsequent generations in two divergent maize (Zea mays L.) varieties exposed to contrasting organic and mineral fertilisation regimes. We recovered 112 medium- or high-quality metagenome-assembled genomes and combined MAG-level taxonomic and functional analyses with genus-level community profiling to characterize persistence and turnover dynamics within the seed microbiome. While soil taxonomic diversity was high, seed-associated communities showed a near-complete compositional disconnect from soil-dominant assemblages taxa, with a persistent Firmicutes core maintained across generations, consistent with vertical transmission. Priority effects remain a possible explanation for these patterns but were not directly tested. Genus-level source attribution suggested greater environmental recruitment under organic fertilization, with more diverse soil communities and a stronger contribution from the preceding seed generation under mineral fertilization. Seed-associated MAGs also carried genes associated with plant growth-promoting potential, although these detections could not be consistently linked to specific transmission routes. In contrast, maize genotype had no detectable effect on seed microbiome composition. Intergenerational persistence and environmental recruitment jointly shape seed-derived communities under contrasting fertilization regimes. Their relative contributions remain inferred from taxonomic overlap, and the effects of microbial source-pool diversity cannot be separated from the accompanying differences in soil chemistry in this design.",
+    "journal": "",
+    "doi": "10.64898/2026.11.16.766985",
+    "date": "2026-11-17",
+    "authors": "Henaut Jacobs, S., Sangi, S., Matos, J. P., Chaves Ribeiro, R., Petroceli-Mota, G., da Costa Rodrigues, B., Jario de Lima, V., Kamphorst, S. H., Alves de Oliveira, U., Nunes-da-Fonseca, R., Lopes Olivares, F., S. Etienne, R., M. Venancio, T.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.16.766985v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "metagenom",
+        "metagenome",
+        "metagenome-assembled genome",
+        "metagenomic",
+        "microbial",
+        "microbiome",
+        "microbiomes",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "genom",
+          "genome",
+          "metagenom",
+          "metagenome",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5138,
+    "collected_at": "2026-11-18T04:29:26.571529+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.64898/2026.11.16.766985"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d620cd2f4a662a7fffdc3d66d986f2a055e139dc389c2f4e344e4269b58ae4e4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T04:55:32.648637+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "23076c04afab47010991998fb5732acb8bdc5a87ac89af54f8867ceb9c61b1a5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T04:55:32.648637+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "種子媒介性微生物叢における垂直伝播と群集ターンオーバー：aMAIZEingモデルシステムから得られる知見",
+    "abstract_ja": "種子マイクロバイオームは、周囲の土壌群集と部分的にしか連関していないアセンブリ過程によって制御される、特殊な生態的ニッチである。環境からのリクルートと母本植物からの垂直伝播は、いずれも種子関連微生物の供給源として認識されているが、それらの相対的な寄与度や、世代間でその寄与が変化し得るかを決定づけるメカニズムについては、依然として十分に解明されていない。本研究では、ロングリードメタゲノムシーケンシングを用いて、対照的な有機および無機施肥条件に曝露された2つの異なるトウモロコシ（Zea mays L.）品種において、創始種子プールおよびその後の2世代にわたる種子由来細菌群集の動態を追跡した。その結果、中品質または高品質のメタゲノムアセンブルゲノムを112件回収し、MAGレベルの分類学的・機能的解析と属レベルの群集プロファイリングを組み合わせることで、種子マイクロバイオーム内における持続性とターンオーバーの動態を特性評価した。土壌の分類学的多様性は高かったものの、種子関連群集は土壌優位のアセンブラージュ分類群とはほぼ完全に組成上の乖離を示し、世代を超えてFirmicutesコアが維持されていたことから、垂直伝播と整合する結果が得られた。優先効果はこれらのパターンの説明候補となり得るが、直接的に検証は行われなかった。属レベルの供給源帰属解析からは、有機施肥下では環境からのリクルートがより多く、無機施肥下では土壌群集がより多様で、前世代の種子による寄与がより強いことが示唆された。種子関連MAGは植物成長促進能に関連する遺伝子も保持していたが、これらの検出結果を特定の伝播経路に一貫して結びつけることはできなかった。対照的に、トウモロコシの遺伝子型は種子マイクロバイオームの組成に検出可能な影響を及ぼさなかった。対照的な施肥条件下において、世代間の持続性と環境からのリクルートが共同して種子由来群集を形成している。それらの相対的な寄与度は分類学的な重複から推定されており、本設計においては、微生物供給源プールの多様性による影響を、それに伴う土壌化学的差異から切り離して考えることはできない。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202611.1031.v1",
+    "title": "GQR: Generalised Q Analysis in R for Computational Analysis of Multidimensional Preferences",
+    "abstract": "Q methodology identifies shared patterns in how respondents evaluate sets of statements, but analysis is limited to a few respondents whose number should be lower than that of statements. Moreover, the process can become cumbersome when respondents rank many statements and difficult to reproduce when methodological choices span data preparation, component extraction and interpretation. Generalised Q (GQ) analysis addresses these limitations by constructing synthetic combined statements from smaller sets of constituent statements. Here, we introduce GQR (Generalised Q Analysis in R), an open-source R package implementing the GQ workflow through both a programmatic interface and an interactive Shiny application.GQR supports unrestricted full binary, one-per-group, and random-pattern designs, data transformation and respondent filtering, construction of synthetic evaluation matrices, ordinary and SPSS-compatible principal component analysis (PCA), and regression-based interpretation of both component content and respondent associations. For large ordinary-PCA problems, GQR provides an exact compact method that avoids materialising the synthetic evaluation matrix. The Shiny application uses the same analytical core and can export executable R code recording the current analysis and settings.Computational benchmarks showed that compact PCA reproduced materialised-matrix solutions to numerical precision while reducing runtime and memory requirements by orders of magnitude as the number of synthetic statements and respondents increased. Using the built-in Central and Eastern European gardening dataset, we further demonstrate how GQ analysis can identify multidimensional response patterns and relate them to respondent and garden characteristics. GQR therefore provides an accessible, reproducible and computationally efficient implementation of GQ analysis for multidimensional preference and survey data.",
+    "journal": "",
+    "doi": "10.20944/preprints202611.1031.v1",
+    "date": "2026-11-10",
+    "authors": "Pozsgai G, Varga-Szilay Z, Dentinho TP.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1363958",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "gene",
+        "workflow"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "gene",
+          "workflow"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5103,
+    "collected_at": "2026-11-18T04:18:52.253006+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.20944/preprints202611.1031.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "eb08565597eeb5101c6d00b40561803f0aef49cd8e2937d2f7a71b168227300a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T04:55:32.648637+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "33e3ecb4fed1f20f13d59afb51217e8d19034dc377a38259c87f23f49e644cd5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T04:55:32.648637+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "GQR: 多次元選好の計算論的解析のためのRによる一般化Q分析",
+    "abstract_ja": "Q法は、回答者が一連の記述を評価する際の共通パターンを特定する手法であるが、分析対象が少数の回答者に限定されており、その人数は記述数よりも少ないはずである。さらに、回答者が多数の記述を順位付けする場合、プロセスが煩雑になる傾向があり、また手法の選択がデータ準備、成分抽出、および解釈に及ぶ場合、再現が困難となる。一般化Q（GQ）分析は、より小規模な構成記述の集合から合成複合記述を構築することで、これらの限界に対処する。本稿では、プログラムインターフェースとインタラクティブなShinyアプリケーションの両方を通じてGQワークフローを実装するオープンソースのRパッケージ、GQR（Generalised Q Analysis in R）を紹介する。GQRは、制限のない完全二値設計、グループあたり1つの記述設計、およびランダムパターン設計、データ変換と回答者フィルタリング、合成評価行列の構築、通常の主成分分析およびSPSS互換の主成分分析（PCA）、ならびに成分内容と回答者の関連性の両方に関する回帰ベースの解釈をサポートしている。大規模な通常PCA問題に対して、GQRは合成評価行列の実体化を回避する、厳密かつコンパクトな手法を提供する。Shinyアプリケーションは同一の分析コアを使用しており、現在の分析内容と設定を記録した実行可能なRコードをエクスポートできる。計算ベンチマークの結果、コンパクトなPCAは実体化行列による解を数値精度で再現しつつ、合成記述数と回答者数の増加に伴い、実行時間とメモリ要件を数桁削減できることが示された。組み込みの中東欧園芸データセットを用いて、GQ分析がいかにして多次元的な回答パターンを特定し、それらを回答者および庭園の特性に関連付けられるかをさらに実証する。したがって、GQRは、多次元的な選好データおよび調査データに対する、アクセスしやすく、再現可能で、計算効率の高いGQ分析の実装を提供する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11240936/v1",
+    "title": "Comparative analysis of plasma sample preparation methods for high-throughput mass spectrometry-based proteomics and application to colorectal cancer",
+    "abstract": "Abstract    Background  In recent years, multiple methods for high-throughput plasma proteome sample preparation have emerged. This study aimed to compare four scalable and affordable plasma sample preparation approaches coupled to mass spectrometry-based profiling and evaluate their applicability to clinical samples.  Methods  The following plasma sample preparation methods were included: in-solution digestion (ISD), suspension trapping (S-Trap), perchloric acid precipitation (perCA), and extracellular vesicle (EV) enrichment using hyper-porous strong-anion exchange magnetic microparticles (Mag-Net). Aliquots from a pooled human plasma sample were analyzed in workflow triplicate using data-independent acquisition mass spectrometry. Furthermore, a plasma cohort of patients with colorectal cancer was processed using ISD and Mag-Net to evaluate their clinical applicability.  Results  Mag-Net achieved the greatest proteome depth (~1000 proteins per sample) and the highest protein identification reproducibility (data completeness = 87.4%), whereas global plasma proteomics by ISD showed the best quantitative reproducibility (CV = 8.5%). Across all workflows, 1130 proteins were identified in all three technical replicates of at least one workflow, of which 399 were shared by all four workflows. Functional analyses revealed differential enrichment of largely overlapping functions. In line with previous work, Mag-Net enriched for extracellular vesicles. Two workflows, Mag-Net (best in-depth workflow) and ISD (best global workflow), were subsequently applied to a cohort of 30 colorectal cancer (CRC) patients and 29 healthy controls. Both workflows successfully distinguished CRC from healthy samples and recovered known CRC-associated proteins. Pathway and functional analyses revealed CRC-associated biological hallmarks: MYC targets, MTORC1 signalling and mitotic spindle. Random forest analysis identified workflow-specific candidate biomarker panels, with combined top 20 protein models achieving Area Under Curve (AUC) values of 0.985 and 0.964 for Mag-Net and ISD, respectively. Importantly, multiple top ranked biomarker candidates were supported by external CRC tissue and plasma proteomics datasets.  Conclusions  Together, our findings demonstrate that both global (ISD) and in-depth plasma proteomics (Mag-Net) are suitable, reproducible workflows for clinical applications that warrant further exploration for biomarker discovery in disease.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11240936/v1",
+    "date": "2026-10-20",
+    "authors": "Liu J, Almeida-Marques C, Gagestein B, Stalidzane L, Xu L, Pham TV, Knol JC, Piersma SR, Bijnsdorp IV, Li KW, Jimenez CR.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1345719",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "method",
+        "proteomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "method",
+          "proteomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5095,
+    "collected_at": "2026-11-18T04:18:52.253006+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.21203/rs.3.rs-11240936/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d20a5a5c5b1ae163866818ca273e7a79bad4a10a4f375ba3ee87aae1aad8d12b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T04:55:32.648637+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5194d264ec7905828da6da572e9f660028e578695f9b9126acfec6b8faed4f54",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T04:55:32.648637+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ハイスループット質量分析法に基づくプロテオミクスのための血漿試料調製法の比較解析と大腸癌への応用",
+    "abstract_ja": "要旨    背景  近年、ハイスループットな血漿プロテオーム試料調製のための複数の手法が登場している。本研究では、質量分析法に基づくプロファイリングと組み合わせた、スケーラブルかつ低コストな4つの血漿試料調製手法を比較し、臨床試料への適用可能性を評価することを目的とした。  方法  以下の血漿試料調製手法を対象とした：溶液内消化（ISD）、懸濁液トラッピング（S-Trap）、過塩素酸沈殿（perCA）、および超多孔性強アニオン交換磁気微粒子（Mag-Net）を用いた細胞外小胞（EV）濃縮。プールしたヒト血漿試料の分取液を、データ非依存型取得質量分析法を用いてワークフローの3連反復で解析した。さらに、大腸癌患者の血漿コホートをISDおよびMag-Netを用いて処理し、臨床的な適用可能性を評価した。  結果  Mag-Netは最大のプロテオーム深度（試料あたり約1,000タンパク質）と最高のタンパク質同定再現性（データ完全性 = 87.4%）を達成した一方、ISDによるグローバル血漿プロテオミクスは最高の定量的再現性（CV = 8.5%）を示した。すべてのワークフローにおいて、少なくとも1つのワークフローの3つのテクニカルリピートすべてで1,130個のタンパク質が同定され、そのうち399個は4つのワークフローすべてで共通していた。機能解析の結果、大部分が重複する機能の差異的な濃縮が認められた。先行研究と同様に、Mag-Netは細胞外小胞を濃縮した。続いて、Mag-Net（最適な詳細ワークフロー）とISD（最適なグローバルワークフロー）の2つのワークフローを、大腸癌（CRC）患者30例および健常対照群29例のコホートに適用した。両ワークフローともに、CRC試料と健常試料の判別に成功し、既知のCRC関連タンパク質を回収した。パスウェイおよび機能解析により、CRCに関連する生物学的特徴（バイオマーカー）として、MYC標的、MTORC1シグナル伝達、および有糸分裂紡錘体が明らかになった。ランダムフォレスト解析により、ワークフロー固有の候補バイオマーカーパネルが同定され、統合した上位20個のタンパク質モデルの曲線下面積（AUC）値は、Mag-Netで0.985、ISDで0.964であった。重要な点として、上位にランクされた複数のバイオマーカー候補は、外部のCRC組織および血漿プロテオミクスデータセットによっても支持された。  結論  以上の知見を総合すると、グローバル（ISD）および詳細血漿プロテオミクス（Mag-Net）の双方が、臨床応用に適した再現性のあるワークフローであり、疾患におけるバイオマーカー探索のためにさらなる検討に値することが示された。"
   }
 ]
