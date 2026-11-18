@@ -6522,6 +6522,7 @@
   {
     "name": "Nature Ecology & Evolution",
     "scope": [
+      "ecology",
       "genomics",
       "microbiology"
     ]
