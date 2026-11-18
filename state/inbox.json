@@ -420513,5 +420513,597 @@
     "related_dois": [
       "10.20944/preprints202611.1031.v1"
     ]
+  },
+  {
+    "id": "10.1093/bioinformatics/btag825",
+    "title": "TAFFISH: shell-native command-level reproducibility for bioinformatics",
+    "abstract": "AbstractSummaryBioinformatics analyses often rely on shell commands and small shell scripts whose executable context is difficult to preserve, inspect and reuse. TAFFISH addresses this gap by packaging command-line tool calls and lightweight shell flows as installable, versioned and inspectable executable units. Through a curated public Hub, TAFFISH indexes command interfaces, execution backends, platform constraints, release metadata and smoke-test/validation records. Together, these components provide a command-level reproducibility layer that works directly in ordinary shells and can also be invoked from existing workflow systems.Availability and ImplementationTAFFISH is implemented in Common Lisp and released under Apache-2.0. TAFFISH version 0.10.1, together with the source code, documentation and public Hub resources, is available at https://github.com/taffish/taffish, https://taffish.com, https://taffish.github.io and https://github.com/taffish/. The submitted software release, frozen Hub snapshot, test data, command logs, checksums and reproducibility package are archived at https://doi.org/10.5281/zenodo.21054185. The authors will maintain the software and public resources for at least two years after publication.Supplementary informationSupplementary data are available at Bioinformatics online.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag825",
+    "date": "2026-11-17",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag825/9081218?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5129,
+    "collected_at": "2026-11-18T04:29:26.571529+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.1093/bioinformatics/btag825"
+    ]
+  },
+  {
+    "id": "10.1186/s13059-026-04324-3",
+    "title": "STRUCT: a statistical approach to detect conserved RNA secondary structures from raw sequencing data without multiple sequence alignment",
+    "abstract": "Covariation among orthologous sequences is an established evolutionary signal of conserved RNA secondary structures. We present STRUCT (Statistical Testing of RNA Units with Covariation Traits), a covariation-based statistical test that applies to raw sequencing data, bypassing assembly and multiple sequence alignment required by existing covariation methods. Simulations demonstrate false discovery rate control and high power under matched model assumptions. STRUCT rediscovers known HIV structural elements in provirus sequences, identifies conserved rRNA structures, and prioritizes putative viral RNA structures in metatranscriptomics samples. STRUCT offers a novel approach for high-throughput detection of conserved RNA structures and hypothesis generation for viral discovery.",
+    "journal": "Genome Biology",
+    "doi": "10.1186/s13059-026-04324-3",
+    "date": "2026-11-17",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s13059-026-04324-3",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "alignment",
+        "assembly",
+        "metatranscriptom",
+        "metatranscriptomics",
+        "method",
+        "sequence",
+        "sequencing",
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "evolution"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=13059",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5130,
+    "collected_at": "2026-11-18T04:29:26.571529+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=13059"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.1186/s13059-026-04324-3"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.16.766924",
+    "title": "A host-pathogen tug-of-war over migrasome biogenesis in Vibrio cholerae infection",
+    "abstract": "Migrasomes are extracellular organelles implicated in cell communication and immune signaling, yet their induction by bacterial toxins and functional consequences during infection remains unknown. Here, we show that Vibrio cholerae infection induces non-canonical migracytosis in multiple cell types through the MARTX toxin. The actin cross-linking domain (ACD) promotes cell contraction and retraction fiber formation, while the /{beta}-hydrolase domain (ABH) collaborates with actin-polymerization machinery to support migrasome maturation. The Rho inactivation domain (RID) covalently modifies multiple Rho/Ras GTPases, and its absence yields oversized membrane blebs (large vesicles) enriched in endoplasmic reticulum, lipid droplets, and pro-inflammatory chemokines compared with wild-type migrasomes. In an infant mouse model, RID-deficient V. cholerae exhibits impaired intestinal colonization and elevated host chemokine transcription. These findings establish that MARTX-driven migrasome formation is not merely a byproduct of cytoskeleton damage, but represents a coordinated, domain-specific reprogramming of host membrane dynamics with implications for host-pathogen interplay.",
+    "journal": "",
+    "doi": "10.64898/2026.11.16.766924",
+    "date": "2026-11-17",
+    "authors": "Xia, P., Wang, R., Liu, M., Tang, J., Zhang, S., Wang, Z., Zhang, Y., Yan, S., Guo, H., Xiang, Q., Wang, H., Wang, H., Tian, M., Fu, Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.16.766924v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Vibrio",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5131,
+    "collected_at": "2026-11-18T04:29:26.571529+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.64898/2026.11.16.766924"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.17.767251",
+    "title": "The dynamic expressome of Pseudomonas putida: condition-dependent remodelling of the RNA polymerase interactome",
+    "abstract": "As in many bacteria, the 2{beta}{beta}'{omega} core RNA polymerase (RNAP) of Pseudomonas putida interacts in vivo with sigma factors, transcriptional regulators and auxiliary proteins whose relative abundance varies with the physiological state. Here, we used an in vivo immunocapture approach to examine condition-dependent changes in the RNAP interactome of P. putida KT2440. His-, Myc- and E-tags were separately introduced at the C-terminus of RpoC ({beta}'), a permissive, surface-exposed site accessible to cognate antibodies. Myc-tagged RNAP complexes were immunocaptured with magnetic beads and analyzed by LC-ESI-MS/MS and computational methods. The results revealed condition-dependent association of the RNAP core (RpoA, RpoB, RpoC and RpoZ) with distinct pools of sigma factors, as well as ribosomal proteins, RNA-processing factors and metabolic enzymes. Nutrient starvation, nutrient-rich growth and high temperature altered the composition and relative representation of RNAP-associated proteins. Despite the limited physiological conditions examined, our results support a model in which RNAP acts as a dynamic organizational hub of the bacterial expressome, integrating transcription with translation, RNA maturation and central metabolism.",
+    "journal": "",
+    "doi": "10.64898/2026.11.17.767251",
+    "date": "2026-11-17",
+    "authors": "Pitarch, B., Pazos, F., de Lorenzo, V., Tas, H.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.17.767251v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Pseudomonas",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5132,
+    "collected_at": "2026-11-18T04:29:26.571529+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.64898/2026.11.17.767251"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.16.766873",
+    "title": "Taxogenomic resolution of the 16SrIII (X-disease) group: elevation of Candidatus Phytoplasma pruni-related strains to species rank and proposal of three novel Candidatus species Candidatus Phytoplasma caryae sp. nov., Candidatus Phytoplasma conii sp. nov. and Candidatus Phytoplasma lactucae sp. nov.",
+    "abstract": "Alongside the proposal of the taxon Candidatus Phytoplasma pruni for 16SrIII (X-Disease) group, the designation Candidatus Phytoplasma pruni-related strains was proposed for strains that were closely related to the taxon based on multilocus sequence characterization. However, recent genome-based studies have created taxonomic ambiguity by either assigning related strains directly to the taxon Ca. P. pruni or separating them into more than one genomic cluster without formal taxonomic classification or proposing new taxon for new divergent strains. In this study, we sequenced genomes of the pecan bunchy top phytoplasma (PBT), previously designated a Ca. P. pruni-related strain, initially to confirm the pathogen in an Oklahoma pecan orchard. Phylogenomic comparisons with previously sequenced Candidatus Phytoplasma pruni strains revealed four well-supported taxonomic groups based on average nucleotide identity, digital DNA-DNA hybridization, and phylogenetic analyses, with different host ecologies consistent with International Research Programme on Comparative Mycoplasmology (IRPCM) guidelines for assigning new taxon. Accordingly, we propose a reclassification of Ca. P. pruni and related strains into four species: Candidatus Phytoplasma pruni, representing the taxon associated with X-disease phytoplasma; three proposed new Candidatus species including Candidatus Phytoplasma caryae sp. nov, Candidatus Phytoplasma conii sp. nov and Candidatus Phytoplasma lactucae sp. nov. The study provides comparative-genomic insights into these taxonomic groups that support their evolution.",
+    "journal": "",
+    "doi": "10.64898/2026.11.16.766873",
+    "date": "2026-11-17",
+    "authors": "Rabiu, U. B., Wallace, S., Murphy, C. L., Walker, N. R., Marek, S., Ochoa-Corona, F. M., Jibrin, M. O.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.16.766873v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_genome_method",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "average nucleotide identity"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "evolution",
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenetic",
+          "phylogenomic"
+        ],
+        "evolution": [
+          "evolution",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5133,
+    "collected_at": "2026-11-18T04:29:26.571529+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.64898/2026.11.16.766873"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.16.766945",
+    "title": "Three novel deep-branching orphan protist lineages from the marine rare biosphere",
+    "abstract": "Metabarcoding has transformed our view of marine protist communities, yet many sequences in environmental surveys are not assigned confident taxonomic identity. These taxonomically ambiguous sequences may include lineages that are not within any known eukaryotic supergroup, which we refer to here as orphan lineages. These orphan lineages matter beyond taxonomy-based community analyses, because they can help us understand early eukaryotic evolution. Here we used phylogenetic inferences and sequence similarity networks (SSNs) of long-read metabarcoding data of the ribosomal operon (18S-28S rDNA) to identify three novel phylum-level orphan lineages. We designate these lineages Deep Orphan Lineages 1-3 (DEEPOLs) and show that they are exclusively marine and part of the rare biosphere, yet ecologically distinct: DEEPOL1 is a cosmopolitan generalist, DEEPOL2 a conditionally rare lineage capable of local polar blooms, and DEEPOL3 a non-polar lineage with a tendency toward the dark ocean. For DEEPOL2, lineage-specific digital PCR (dPCR) combined with catalyzed reporter deposition fluorescence in situ hybridization (CARD-FISH) provides the first in situ visualization of these cells, revealing small, flagellated, and morphologically inconspicuous protists. Together, our results show that substantial diversity remains hidden among rare lineages, and that long-read sequencing combined with targeted molecular and microscopy approaches offers a first step toward linking orphan sequences to organisms and their evolution and ecological roles.",
+    "journal": "",
+    "doi": "10.64898/2026.11.16.766945",
+    "date": "2026-11-17",
+    "authors": "Pohl, N., Mendez Sandin, M., Tuovinen Nogerius, V., Burki, F.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.16.766945v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "protist",
+        "protists"
+      ],
+      "context": {
+        "marine": [
+          "marine",
+          "ocean"
+        ],
+        "genomics": [
+          "evolution",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "evolution",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5134,
+    "collected_at": "2026-11-18T04:29:26.571529+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.64898/2026.11.16.766945"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.16.767035",
+    "title": "Single-cell genomics reveals genomic and functional differentiation between freshwater and saline Achromatium populations.",
+    "abstract": "Giant sulfur bacteria of the genus Achromatium reportedly contain extensive genomic diversity within individual cells. Most genomic data (35 assemblies) come from freshwater populations obtained from Lake Stechlin, Germany, alongside four single-cell genomes from a salt marsh and saline mineral springs. Here, we characterize marine Achromatium from mangrove sediments in Guadeloupe and compare them with freshwater and saline references. Microscopy, elemental mapping, and Raman spectroscopy revealed calcium-rich inclusions, and intracellular elemental sulfur as previously described for this genus. Scanning electron microscopy revealed two cell-size morphotypes. We generated eleven single-cell, four mixed-cell, and two metagenomic binned assemblies from Guadeloupe mangrove. Divergent copies of conserved marker genes revealed extensive intracellular genomic diversity in individual cells of both morphotypes. Multigene phylogenies provided separation between freshwater references and most genomes from saline environments, including the Guadeloupe population. Gene presence-absence analyses further revealed differences in functional potential between Guadeloupe and Stechlin cells across five functional annotation categories including PFAM, KEGG Orthologs, and CAZymes. Differences in genes associated with osmotic regulation, ion transport, carbohydrate degradation, and secretion systems suggest variation in functional potential related to environmental adaptation, interactions and resource utilization. No significant differences in functional potential between Guadeloupe morphotypes were found. Together, these marine genomes reveal genomic and functional differentiation from freshwater populations and suggest that intracellular diversity does not erase freshwater/saline population boundaries.",
+    "journal": "",
+    "doi": "10.64898/2026.11.16.767035",
+    "date": "2026-11-17",
+    "authors": "Remy, P. H., Ionescu, D., Gros, O., Heidig, S.-L., Woyke, T., Schiable, G., Volland, J.-M.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.16.767035v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "metagenom",
+        "metagenomic"
+      ],
+      "context": {
+        "marine": [
+          "freshwater",
+          "lake",
+          "marine"
+        ],
+        "genomics": [
+          "annotation",
+          "assemblies",
+          "genom",
+          "genome",
+          "genomic",
+          "metagenom",
+          "metagenomic",
+          "phylogen"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5135,
+    "collected_at": "2026-11-18T04:29:26.571529+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.64898/2026.11.16.767035"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.16.767070",
+    "title": "KORUS: probabilistic ancestry inference beyond variant calls",
+    "abstract": "Ancestry inference typically relies on variant calling and predefined population labels. We present KORUS, a probabilistic framework that infers ancestry from sequencing-derived k-mer representations constructed using ancestry-informative reference variants and encoded in Bloom filters, without requiring explicit variant calls for query genomes. KORUS separates genomic feature representation from ancestry decoding, enabling supervised classification, fractional ancestry inference, and unsupervised population structure discovery within a unified framework. Reference models were constructed from 643 genomes from the 1000 Genomes Project and the Simons Genome Diversity Project. Evaluation on an independent cohort of 22 whole-genome sequencing samples, with comparisons to ntRoot, SNVstory, and ADMIXTURE, showed recovery of continental-scale population structure, with supervised classification accuracy of 72.7-81.8% and ancestry-fraction concordance of R2 = 0.844-0.993 relative to ADMIXTURE and R2 = 0.665-0.983 relative to ntRoot. Ancestry estimates were consistent across alternative k-mer representations. Analyses of ancient human and archaic hominin genomes demonstrated that probabilistic projections quantify affinity to the learned feature space rather than necessarily indicating modern continental ancestry. KORUS provides a unified approach to ancestry inference directly from sequencing-derived representations and is freely available under the GPLv3 license at https://github.com/BirolLab/korus.",
+    "journal": "",
+    "doi": "10.64898/2026.11.16.767070",
+    "date": "2026-11-17",
+    "authors": "Warren, R. L., Coombe, L., Birol, I.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.16.767070v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "genome",
+        "sequencing"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5136,
+    "collected_at": "2026-11-18T04:29:26.571529+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.64898/2026.11.16.767070"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.16.765329",
+    "title": "The pangenome of the Arctic picoeukaryote Micromonas polaris resolves cryptic ecotypes and identifies a polar-specific gene repertoire",
+    "abstract": "Micromonas polaris is the dominant picoeukaryote of the Arctic Ocean, where it sustains primary production across habitats from sea ice to open water to the subsurface chlorophyll maximum. How a single species maintains this ecological breadth has remained unclear. Standard phylogenetic markers such as 18S rRNA are nearly invariant within M. polaris and conceal any internal genomic heterogeneity the species may possess. Here we present a pangenome of 14 M. polaris strains spanning the Arctic basin, integrated with Tara Oceans metagenomes, that resolves the species into two diverged ecotypes invisible to 18S rRNA but recovered consistently by prp8, genome-wide SNPs, ANI, and orthogroup-based phylogenies. The two ecotypes coexist sympatrically, with one lineage consistently enriched deeper in the water column across the basin. M. polaris carries 990 polar-specific hierarchical orthogroups absent from temperate Micromonas, organised around one-carbon metabolism, endocytosis, transmembrane transport, and photo-oxidative stress response. Several components show phylogenetic signatures of horizontal acquisition from co-occurring marine taxa. Atlantification is bringing temperate Micromonas into Arctic margins seasonally, but the polar night likely limits their year-round persistence. M. polaris and its polar-specific toolkit appear positioned to persist through the dark season, suggesting Arctic margins will undergo seasonal turnover rather than stable replacement.",
+    "journal": "",
+    "doi": "10.64898/2026.11.16.765329",
+    "date": "2026-11-17",
+    "authors": "Jackson, V. L. N., Harrison, K., Derelle, E., Chambouvet, A., Lovejoy, C., Monier, A.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.16.765329v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "18s rrna",
+        "metagenom",
+        "metagenomes"
+      ],
+      "context": {
+        "marine": [
+          "marine",
+          "ocean"
+        ],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic",
+          "metagenom",
+          "metagenome",
+          "pangenom",
+          "pangenome",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5137,
+    "collected_at": "2026-11-18T04:29:26.571529+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.64898/2026.11.16.765329"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.16.766985",
+    "title": "Vertical transmission and community turnover in seed-borne microbiomes: lessons from an aMAIZEing model system",
+    "abstract": "The seed microbiome represents a specialized ecological niche, governed by assembly processes that are only partially coupled to the surrounding soil community. While environmental recruitment and vertical transmission from the maternal plant are both recognized sources of seed-associated microorganisms, the mechanisms that determine their relative contributions and whether these contributions shift across generations remain poorly understood. Here, we used long-read metagenomic sequencing to track seed-borne bacterial community dynamics across a founding seed pool and two subsequent generations in two divergent maize (Zea mays L.) varieties exposed to contrasting organic and mineral fertilisation regimes. We recovered 112 medium- or high-quality metagenome-assembled genomes and combined MAG-level taxonomic and functional analyses with genus-level community profiling to characterize persistence and turnover dynamics within the seed microbiome. While soil taxonomic diversity was high, seed-associated communities showed a near-complete compositional disconnect from soil-dominant assemblages taxa, with a persistent Firmicutes core maintained across generations, consistent with vertical transmission. Priority effects remain a possible explanation for these patterns but were not directly tested. Genus-level source attribution suggested greater environmental recruitment under organic fertilization, with more diverse soil communities and a stronger contribution from the preceding seed generation under mineral fertilization. Seed-associated MAGs also carried genes associated with plant growth-promoting potential, although these detections could not be consistently linked to specific transmission routes. In contrast, maize genotype had no detectable effect on seed microbiome composition. Intergenerational persistence and environmental recruitment jointly shape seed-derived communities under contrasting fertilization regimes. Their relative contributions remain inferred from taxonomic overlap, and the effects of microbial source-pool diversity cannot be separated from the accompanying differences in soil chemistry in this design.",
+    "journal": "",
+    "doi": "10.64898/2026.11.16.766985",
+    "date": "2026-11-17",
+    "authors": "Henaut Jacobs, S., Sangi, S., Matos, J. P., Chaves Ribeiro, R., Petroceli-Mota, G., da Costa Rodrigues, B., Jario de Lima, V., Kamphorst, S. H., Alves de Oliveira, U., Nunes-da-Fonseca, R., Lopes Olivares, F., S. Etienne, R., M. Venancio, T.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.16.766985v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "metagenom",
+        "metagenome",
+        "metagenome-assembled genome",
+        "metagenomic",
+        "microbial",
+        "microbiome",
+        "microbiomes",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "genom",
+          "genome",
+          "metagenom",
+          "metagenome",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5138,
+    "collected_at": "2026-11-18T04:29:26.571529+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.64898/2026.11.16.766985"
+    ]
   }
 ]
