@@ -301692,5 +301692,296 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "テングタケのゲノムアセンブリ",
     "abstract_ja": "Amanita muscariaは、カリスマ性に富み、広く分布するキノコ形成菌である。Amanita muscariaは種複合体を構成しており、ゲノム資源の分布に偏りがあるため、同種複合体の遺伝学的・ゲノム学的研究にバイアスが生じる可能性がある。本研究では、ニュージーランド産の標本から高品質なハイブリッドゲノムアセンブリを作製した。系統解析の結果、これはAmanita muscaria var. muscariaに属することが示された。"
+  },
+  {
+    "id": "10.64898/2026.11.10.765552",
+    "title": "Computable Genomes: A Layered Computational Framework for Non-Coding DNA and Cellular Behavior",
+    "abstract": "Genome-wide association studies have catalogued tens of thousands of trait-associated loci, most of them in non-coding DNA, yet for most loci the path from nucleotide to phenotype remains correlational. We propose a layered computational decomposition of the genome as a complement to data-driven approaches: sequence as formal language, sequence as information-bearing signal, mobile elements as runtime, compilation to interaction networks through thermodynamic and rule-based models, and execution as cellular and multicellular dynamics. Each layer is defined by its inputs, outputs and formalisms, and we set out where the frame breaks down, including the looseness of algorithmic-information estimates, the triviality of universality results and the failure of string grammars at the chromatin level. Synthetic-biology platforms serve as tests of whether the layers compose, and genomic foundation models and the AlphaGenome Atlas, which predicts effects for all nine billion possible single-nucleotide variants, serve as oracles whose coverage and limits we map onto the framework. We state five falsifiable predictions and test the first, that sequence compressibility carries information about regulatory function beyond composition and conservation, on 38,556 single-nucleotide variants from a saturation-mutagenesis reporter assay of 21 regulatory elements. In a pooled model, local compressibility is associated with measured effect size (standardized {beta} = -0.030, p = 0.0014). The association roughly halves under full control for base composition, loses significance when composition, motif and noise adjustments are combined under locus-level inference (wild cluster bootstrap p = 0.11), and averages zero within loci (random-effects {beta} = -0.0003, p = 0.90). The prediction is therefore not supported at the variant level in these data, which bound the effect a genome-wide test should expect. The argument is not that the genome \"is\" a program, but that treating it as one supplies formal tools whose predictions can be checked.",
+    "journal": "",
+    "doi": "10.64898/2026.11.10.765552",
+    "date": "2026-11-18",
+    "authors": "Sevilla, A. M., Pan, L.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.10.765552v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "DNA",
+        "framework",
+        "genome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5237,
+    "collected_at": "2026-11-18T22:06:59.860731+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.64898/2026.11.10.765552"
+    ],
+    "translation": {
+      "title": {
+        "hash": "333ad823edc1909801bdf36c4904086538ed83e9d5b4c5eba826470631bf08ee",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T22:44:37.712785+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0b4d324d86003cc5e00a7fc0a44a01875fdba67e441b6bd96b02a429ab59e8cc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T22:44:37.712785+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "計算可能なゲノム：非コードDNAと細胞挙動のための階層的計算フレームワーク",
+    "abstract_ja": "ゲノムワイド関連解析により、数万もの形質関連遺伝子座がカタログ化されてきた。その大部分は非コードDNAに存在するが、ほとんどの遺伝子座において、ヌクレオチドから表現型に至る経路は依然として相関的なものに留まっている。我々は、データ駆動型アプローチを補完するものとして、ゲノムの階層的な計算分解を提案する。すなわち、配列を形式言語として、配列を情報担体シグナルとして、可動要素をランタイムとして、熱力学的およびルールベースモデルを通じてコンパイルを相互作用ネットワークへと、そして実行を細胞および多細胞ダイナミクスとして捉えるものである。各階層はその入力、出力、および定式化によって定義されており、我々は、アルゴリズムによる情報推定の不確実性、普遍性結果の自明性、およびクロマチンレベルでの文字列文法の破綻など、枠組みが破綻する箇所を明らかにする。合成生物学プラットフォームは各階層が構成可能であるかを検証するテストとして機能し、ゲノム基盤モデルおよび、考えられる90億通りの単一ヌクレオチド変異すべてについて影響を予測するAlphaGenome Atlasは、そのカバレッジと限界を本フレームワーク上にマッピングするオラクルとして機能する。我々は反証可能な5つの予測を提示し、そのうちの第1の予測――すなわち、配列の圧縮性が、構成や保存を超えて調節機能に関する情報を保持しているという点――を、21の調節エレメントを対象とした飽和変異導入レポーターアッセイによる38,556個の単一ヌクレオチド変異を用いて検証した。プールモデルにおいて、局所的な圧縮性は測定された効果量と関連していた（標準化{beta} = -0.030, p = 0.0014）。この関連は、塩基構成の完全制御下では概ね半減し、遺伝子座レベルの推論において構成、モチーフ、およびノイズの調整を組み合わせた場合には有意性を失い（野生クラスターブートストラップ p = 0.11）、遺伝子座内では平均ゼロとなった（ランダム効果 {beta} = -0.0003, p = 0.90）。したがって、これらのデータにおいてこの予測は変異レベルでは支持されず、ゲノムワイドな検定が期待すべき効果の範囲を限定する結果となった。ここでの主張は、ゲノムが「プログラムである」ということではなく、ゲノムをプログラムとして扱うことで、その予測を検証可能な形式的ツールが提供されるということである。"
+  },
+  {
+    "id": "10.64898/2026.11.17.767248",
+    "title": "A de novo reference genome of the red seaweed Furcellaria lumbricalis",
+    "abstract": "Furcellaria lumbricalis is a red seaweed that occurs across a broad salinity gradient, ranging from the saline waters of the NE Atlantic to the brackish Baltic Sea. In the Baltic Sea, natural populations of F. lumbricalis are harvested commercially, primarily for furcellaran extraction, a sulphated polysaccharide used as a stabilizing, thickening, and gelling agent. Genomic resources for this species remain absent, constraining evolutionary, ecological, and applied research. Here, we present a de novo reference genome assembly of the seaweed Furcellaria lumbricalis using PacBio Hifi and Oxford Nanopore Technologies long-read sequencing. The final assembly, consisting of 149 contigs spanning 918.2 Mb, contains a high proportion of repetitive elements (90.5%), and has an N50 of 15,5 Mb. We further integrated RNA-seq data, protein homology evidence, and ab initio gene prediction to build a genome annotation comprising 6100 genes, of which 82.6% has a functional annotation. This genomic evidence contributes to a steadily growing body of genomic resources of red algae, with often expanded and highly repetitive genomes, and helps facilitate the study of genetic adaptation to their unique environments.",
+    "journal": "",
+    "doi": "10.64898/2026.11.17.767248",
+    "date": "2026-11-18",
+    "authors": "Noyen, L., Van de Vloet, A., Leliaert, F., D'hondt, S., Morcillo Baeza, J., De Pooter, T., Strazisar, M., Knoop, J., Audenaert, K., De Clerck, O.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.17.767248v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "assembly",
+        "genome",
+        "sequencing"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "assembly",
+          "evolution",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5238,
+    "collected_at": "2026-11-18T22:06:59.860731+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.64898/2026.11.17.767248"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0d77781b9a4d681871d014ba03b07ecbe94b7c2d7388f6a88a027114a15eeeb8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T22:44:37.712785+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5e60e207269d6e8e6e04817fffc74334484f4f8f02d0157db2ba61f299fbde3c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T22:44:37.712785+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "紅藻 Furcellaria lumbricalis のde novoリファレンスゲノム",
+    "abstract_ja": "Furcellaria lumbricalisは、北東大西洋の塩水域から汽水域であるバルト海に至るまで、広範な塩分勾配にわたって分布する紅藻である。バルト海では、主に安定化剤、増粘剤、およびゲル化剤として用いられる硫酸化多糖類であるフルセラランの抽出を目的として、F. lumbricalisの天然個体群が商業的に採取されている。本種に関するゲノムリソースは依然として不足しており、進化、生態、および応用研究の制約となっている。本研究では、PacBio HifiおよびOxford Nanopore Technologiesのロングリードシーケンシングを用いて、紅藻Furcellaria lumbricalisのde novoリファレンスゲノムアセンブリを提示する。918.2 Mbにわたる149個のコンティグからなる最終的なアセンブリは、反復配列の割合が高く（90.5%）、N50は15.5 Mbである。さらに、RNA-seqデータ、タンパク質相同性の証拠、およびab initio遺伝子予測を統合し、6,100個の遺伝子からなるゲノムアノテーションを構築した。このうち82.6%に機能アノテーションが付与されている。これらのゲノムエビデンスは、しばしば拡張され高度に反復的なゲノムを持つ紅藻の、着実に増加しつつあるゲノムリソースに寄与し、固有の環境への遺伝的適応の研究を促進する一助となる。"
+  },
+  {
+    "id": "10.64898/2026.11.17.767007",
+    "title": "Regulatory grammar design of tissue-specific enhancers across species",
+    "abstract": "Enhancers encode tissue-specific gene expression through the combinatorial identity, number, and arrangement of transcription factor motifs, collectively known as regulatory grammar. However, existing deep-learning methods directly optimize nucleotide sequences, leaving enhancer regulatory grammar implicit. Here we introduce REgulatory Grammar Architecture via reinforcement Learning (REGAL), a framework that explicitly programs enhancer grammar under sequence-to-function oracles. REGAL generated tissue-specific enhancers across species using the same placement architecture with interchangeable oracles and motif vocabularies. Experimental validation and perturbation revealed that tissue specificity requires coordinated target-tissue activation and off-target repression, depends on both motif composition and spatial organization, and employs distinct regulatory strategies across tissues. REGAL-designed enhancers drove predicted lineage-specific expression in transgenic mouse embryos, outperformed a nucleotide-level optimizer in human cells, and matched or exceeded leading designs in zebrafish and Drosophila at notably shorter length. Together, these findings establish regulatory grammar as a programmable and experimentally testable substrate underlying enhancer design and specificity.",
+    "journal": "",
+    "doi": "10.64898/2026.11.17.767007",
+    "date": "2026-11-18",
+    "authors": "Yao, L., Tran, M. N., Ruffus, A. S., Xiong, L., Jana, A., Bhuleshkar, S., Conlon, R. A., Sakaguchi, T. F., Xie, L.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.17.767007v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5239,
+    "collected_at": "2026-11-18T22:06:59.860731+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.64898/2026.11.17.767007"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4d4db112210a68d5b9b3f605e60130cfd726aa593b2a0eb5359d4c46e816d84e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T22:44:37.712785+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7ac0e85ab59e8a5d8020f64e8c3b48adb0536f1e22e3e03eea956572d7f9bdb7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T22:44:37.712785+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "種間における組織特異的エンハンサーの規制文法設計",
+    "abstract_ja": "エンハンサーは、調節文法と総称される転写因子モチーフの組み合わせ上の同一性、数、および配置を通じて、組織特異的な遺伝子発現をコードする。しかし、既存の深層学習手法はヌクレオチド配列を直接最適化するため、エンハンサーの調節文法は暗黙的なものに留まっている。本研究では、シーケンスから機能へのオラクルの下でエンハンサー文法を明示的にプログラムするフレームワーク、REgulatory Grammar Architecture via reinforcement Learning (REGAL) を提案する。REGALは、相互交換可能なオラクルとモチーフ語彙を用い、同一の配置アーキテクチャによって種を横断して組織特異的なエンハンサーを生成した。実験的検証および摂動解析により、組織特異性には標的組織の協調的な活性化とオフターゲット抑制が必要であり、モチーフ組成と空間的構成の両方に依存し、さらに組織ごとに異なる調節戦略が用いられていることが明らかになった。REGALで設計されたエンハンサーは、トランスジェニックマウス胚において予測された系統特異的な発現を誘導し、ヒト細胞ではヌクレオチドレベルのオプティマイザを凌駕し、ゼブラフィッシュおよびショウジョウバエでは著しく短い長さで先行設計と同等またはそれを上回る結果を示した。以上の知見を総合すると、調節文法はエンハンサーの設計と特異性の基盤となる、プログラム可能かつ実験的に検証可能な基質であることが立証される。"
+  },
+  {
+    "id": "10.64898/2026.11.17.767377",
+    "title": "Fine-tuned DNA sequence language models for predicting gene expression in admixed population: A comparison with variant-based methods",
+    "abstract": "Predicting gene expression from whole genome sequencing data is essential for elucidating regulatory mechanisms and interpreting functional consequences of non-coding variants to complex diseases. While traditional approaches rely on variant-based linear models, DNA sequence-based language models have gained increasing popularity for their ability to learn regulatory features directly from whole genome sequence data. Previous studies have evaluated models such as Enformer, but newer sequence-to-function models, including Borzoi and AlphaGenome, remain less well characterized for individual-level gene expression prediction, particularly in non-European and admixed populations. Here, we evaluated and fine-tuned Borzoi and AlphaGenome using personal genomes paired with whole-blood RNA-seq data from the Hispanic Community Health Study/Study of Latinos (HCHS/SOL). Fine-tuning substantially improved the performance of both sequence-based models compared with their pretrained versions; however, their performances remained similar to that of the variant-based linear models. Leveraging the ancestral diversity of HCHS/SOL, we found that Borzoi and AlphaGenome showed similar performance across Amerindian-, European-, and African-enriched groups. Fine-tuned Borzoi, fine-tuned AlphaGenome and elastic net performed modestly better when trained and evaluated in the same ancestry-enriched group. Finally, we explored strategies to improve prediction performance and found that incorporating predicted epigenetic features improved prediction near the promoter region. Significant progress remains needed before the full potential of sequence-based models is attained. Incorporating more biology-guided training approaches could be helpful to achieving better performance.",
+    "journal": "",
+    "doi": "10.64898/2026.11.17.767377",
+    "date": "2026-11-18",
+    "authors": "Liu, X., Huang, Y.-J., Lu, J., Lin, J., Perera, M., North, K., Justice, A. E., Lin, X., Sofer, T.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.17.767377v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "DNA",
+        "gene",
+        "method",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5240,
+    "collected_at": "2026-11-18T22:06:59.860731+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.64898/2026.11.17.767377"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d72d49ae4350a29250b8f9e9c4e83175e360795c8a4cf3b4405dd0153e698152",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T22:44:37.712785+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f30f58dbda3016179e767d868934099ba7a669eae38bb00f8954d7709e8f3f28",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T22:44:37.712785+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "混合集団における遺伝子発現予測のためのファインチューニング済みDNA配列言語モデル：バリアントベース手法との比較",
+    "abstract_ja": "全ゲノムシーケンシングデータからの遺伝子発現予測は、調節機構の解明や、非コード変異が複雑な疾患に及ぼす機能的影響の解釈において不可欠である。従来の手法は変異ベースの線形モデルに依存しているが、全ゲノムシーケンシングデータから直接調節特徴を学習できる能力を持つ、DNA配列ベースの言語モデルがますます普及している。これまでの研究ではEnformerなどのモデルが評価されてきたが、BorzoiやAlphaGenomeを含むより新しい配列から機能へのモデルは、特に非欧州系および混血集団における個体レベルの遺伝子発現予測に関して、まだ十分に解明されていない。本研究では、Hispanic Community Health Study/Study of Latinos (HCHS/SOL) の全血RNA-seqデータとペアにした個人ゲノムを用いて、BorzoiおよびAlphaGenomeの評価とファインチューニングを行った。ファインチューニングにより、両配列ベースモデルの性能は事前学習済みバージョンと比較して大幅に向上したが、その性能は変異ベースの線形モデルと同程度に留まった。HCHS/SOLの祖先多様性を活用することで、BorzoiおよびAlphaGenomeは、アメリカ先住民、欧州系、およびアフリカ系エンリッチド集団において同様の性能を示すことが明らかになった。ファインチューニング済みのBorzoi、ファインチューニング済みのAlphaGenome、およびelastic netは、同一の祖先エンリッチド集団で学習および評価を行った場合に、わずかに高い性能を示した。最後に、予測性能を向上させるための戦略を検討した結果、予測されたエピジェネティック特徴を組み込むことで、プロモーター領域近傍の予測精度が向上することが分かった。配列ベースモデルの潜在能力を最大限に引き出すには、依然として大幅な進展が必要である。より生物学的知見に基づいた学習アプローチを取り入れることが、性能向上に寄与する可能性がある。"
   }
 ]
