@@ -301377,5 +301377,320 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "MARRI: 基盤モデルを用いたRNA-RNA相互作用のメカニズム認識型学習",
     "abstract_ja": "RNA-RNA相互作用（RRI）は転写後調節の中核をなすが、その予測には配列相補性のみならず、構造的なアクセシビリティや分子間の塩基対形成を考慮する必要がある。事前学習済みのRNA基盤モデルは個々のRNAの表現を提供するが、これらの表現を相互作用予測へと変換するには、相互作用認識に関する機構的な知見が必要となる。本研究では、学習済み表現とドメイン知識を結合させるメカニズム認識型マルチモーダルフレームワークMARRIを提案する。本フレームワークは、学習されたオープニングペナルティとハイブリダイゼーションゲインを双方向のクロスRNAアテンションに組み込む。MARRIは、最強のベースラインと比較してROC--AUCおよびPR--AUCをそれぞれ12.20%および10.25%向上させ、未知のRNAパートナーシップや相互作用領域に対しても高い識別能を維持する。摂動解析およびリピートコンテキスト解析により、予測に関連する配列領域を同定する。MARRIから導出された相互作用傾向を疾患関連発現プロファイルと統合することで、分子レベルの予測を、疾患進行やネットワークリモデリングのシステムレベルモデルへと結びつける。したがって、MARRIは、分子基盤モデルとドメイン知識を結合させ、根拠に基づいた予測、解釈、およびシステムレベルの仮説生成を支援する知識誘導型戦略を提示するものである。"
+  },
+  {
+    "id": "10.64898/2026.11.17.767448",
+    "title": "Comparative metagenomics reveals diversity and metabolic heterogeneity of sediment microbes from the Great Barrier Reef",
+    "abstract": "Microbial communities in coral reefs are highly connected through benthic-pelagic coupling. Pelagic and host-associated microbiomes have recently been characterised via genome-resolved metagenomics. However, similar characterisation of sediment communities has lagged behind due to their higher complexity. Here, using short- and long-read shotgun sequence data, we characterised sediment microbial communities of Australia's Great Barrier Reef. From 191 samples across 48 broadly distributed sites, we recovered 2,698 prokaryotic metagenome-assembled genomes (MAGs) representing 1,201 species-level clusters, most of which are novel. Compared against their sympatric counterparts in seawater, sediment MAGs exhibited greater phylogenetic diversity and flexibility in metabolic potential, implicating diverse respiration strategies and cycling of nitrogen, sulphur, and hydrogen. They also encode more abundant and novel biosynthetic capabilities, likely reflecting competition and adaptation to intermittent fluctuations in nutrient regimes, and between oxic and anoxic conditions. Our results provide foundational genomic resources for reef sediment microbes, uncovering biodiversity and function that together with planktonic microbes shape the ecological success and stability of coral reef ecosystems.",
+    "journal": "",
+    "doi": "10.64898/2026.11.17.767448",
+    "date": "2026-11-18",
+    "authors": "Ishida, H., Robbins, S. J., Bell, S. C., Lim, J. Y., Terzin, M., Webster, N., Bourne, D. G., Laffy, P. W., Hugenholtz, P., Yeoh, Y. K., Chan, C. X.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.17.767448v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenome",
+        "metagenomics",
+        "microbe",
+        "microbes",
+        "microbial",
+        "microbiome",
+        "microbiomes",
+        "prokaryotic"
+      ],
+      "context": {
+        "marine": [
+          "plankton",
+          "seawater"
+        ],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic",
+          "metagenom",
+          "metagenome",
+          "metagenomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5233,
+    "collected_at": "2026-11-18T22:06:59.860731+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.64898/2026.11.17.767448"
+    ],
+    "translation": {
+      "title": {
+        "hash": "1219036922ba792d6256225b75786443826216afbe21f168c15618f7e83d5ea2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T22:41:38.890923+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "cd1566a6c193198ad2373e585e1dcbe937aa4ea5bdfcc1440168bdb600d0a175",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T22:41:38.890923+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "比較メタゲノミクスにより明らかになったグレートバリアリーフ産堆積微生物の多様性と代謝不均一性",
+    "abstract_ja": "サンゴ礁の微生物群集は、底生・浮遊域連関を通じて密接に結びついている。近年、ゲノム解析によるメタゲノミクスを用いて、浮遊域および宿主関連の微生物叢の特性解析が行われてきた。しかし、堆積物群集の同様の特性解析は、その複雑性の高さから遅れをとっていた。本研究では、ショートリードおよびロングリードのショットガンシーケンシングデータを用い、オーストラリアのグレートバリアリーフにおける堆積物微生物群集の特性解析を行った。広域に分布する48地点から得られた191サンプルから、1,201の種レベルのクラスターを代表する2,698個の原核生物メタゲノムアセンブルドゲノム（MAG）を回収し、その大部分は新規であった。海水中の同所的対応群と比較して、堆積物MAGはより大きな系統的多様性と代謝ポテンシャルの柔軟性を示しており、これは多様な呼吸戦略ならびに窒素、硫黄、水素の循環を示唆している。また、より豊富かつ新規の生合成能を有しており、これは栄養塩レジームの断続的な変動や、好気的条件と嫌気的条件の間の競争および適応を反映している可能性が高い。本研究の結果は、サンゴ礁堆積物微生物の基礎的なゲノムリソースを提供するものであり、プランクトン性微生物とともにサンゴ礁生態系の生態学的成功と安定性を形作る生物多様性と機能を明らかにするものである。"
+  },
+  {
+    "id": "10.64898/2026.11.11.765878",
+    "title": "Target-enrichment sequencing reveals intergenotypic reassortment of infectious salmon anaemia virus in Atlantic Canada",
+    "abstract": "Infectious salmon anaemia virus (ISAV) causes severe disease and substantial economic losses in farmed Atlantic salmon (Salmo salar). The virus has an eight-segment, negative-sense single-stranded RNA (ssRNA) genome and is divided into European and North American genotypes. Despite their co-circulation in locations such as the Atlantic coast of Canada, reassortment between these genotypes has never been observed. However, routine diagnostic and sequence-based surveillance often target individual genome segments and may therefore fail to identify reassortant viruses or accurately resolve their genomic ancestry. In this study, we developed a probe panel targeting both genotypes and applied Oxford Nanopore sequencing to 37 ISAV-positive samples collected from 14 farm sites in the Bay of Fundy, New Brunswick, Canada. Twenty-seven samples yielded 29 consensus genomes, including separate viral consensuses recovered from two mixed infections. Segment-specific phylogenies identified 24 viruses with a previously unreported intergenotypic genomic constellation comprising a European-genotype segment 3 and North American-genotype segments 1, 2 and 4 - 8. Their consistent monophyletic clustering across segment-specific phylogenies supports a single ancestral reassortment event followed by onward circulation of the reassortant lineage. A time-scaled phylogeny of segment 3 estimated the posterior mean time to the most recent common ancestor (tMRCA) of the sampled reassortant cluster as September 2016 (95% HPD: March 2013-June 2019), indicating that this segment 3 lineage pre-dated its first sampling in 2021. Five additional viruses represented several distinct EU-genotype lineages. To our knowledge, this is the first documented reassortment between the European and North American ISAV genotypes. These findings identify an intergenotypic reassortant lineage detected across multiple farms in the Bay of Fundy and demonstrate the value of whole-genome sequencing for detecting reassortment, mixed infections and epidemiologically relevant viral diversity.",
+    "journal": "",
+    "doi": "10.64898/2026.11.11.765878",
+    "date": "2026-11-18",
+    "authors": "Zhao, M., O'Brien, J., Hawkins, L., Da Silva Filipe, A., Smollett, K., Soares, S., Ness, M., Solheim, M. A., Steine, N., Karlsen, M., Hill, S. C.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.11.765878v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogeny"
+        ],
+        "evolution": [
+          "phylogeny"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5234,
+    "collected_at": "2026-11-18T22:06:59.860731+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.64898/2026.11.11.765878"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9858d6fec9fd44d7b414e8f5b4e2a98a7519e538900fe842175b003de69daad5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T22:41:38.890923+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d7c7b0cae9a4b406b6c23530a95b1ded2d8deab03ea95674cab37e0ddca269e3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T22:41:38.890923+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "標的濃縮シーケンシングにより明らかになったカナダ大西洋岸における感染性サケ貧血ウイルスの遺伝子型間再集合",
+    "abstract_ja": "伝染性サケ貧血ウイルス（ISAV）は、養殖大西洋サケ（Salmo salar）に重篤な疾患を引き起こし、多大な経済的損失をもたらす。本ウイルスは8セグメントの負鎖一本鎖RNA（ssRNA）ゲノムを有し、欧州型と北米型の遺伝子型に分けられる。カナダの大西洋沿岸などの地域で共存しているものの、これらの遺伝子型間の再集合はこれまで観察されていない。しかし、ルーチンの診断および配列に基づくサーベイランスでは、個々のゲノムセグメントが標的となることが多く、そのため再集合ウイルスの特定や、そのゲノム系統の正確な解明に至らない場合がある。本研究では、両遺伝子型を標的としたプローブパネルを開発し、カナダ・ニューブランズウィック州ファンディ湾の14の養殖場から採取した37検体のISAV陽性検体に対してOxford Nanoporeシーケンシングを適用した。27検体から29のコンセンサスゲノムが得られ、これには2例の混合感染から回収された個別のウイルスコンセンサスが含まれていた。セグメント特異的な系統樹により、欧州型セグメント3と北米型セグメント1、2、4からなる、これまで報告例のない遺伝子型間のゲノム構成を持つ24種類のウイルスが同定された（8）。セグメント特異的な系統樹においてこれらが一貫して単系統群を形成していることは、単一の祖先再集合イベントが発生し、その後に再集合系統が拡散したことを支持している。セグメント3の時間スケール系統樹を用いた解析により、採取された再集合クラスターの最近共通祖先までの事後平均時間（tMRCA）は2016年9月（95% HPD：2013年3月～2019年6月）と推定され、このセグメント3系統が2021年の初回サンプリングよりも前から存在していたことが示された。さらに5種類のウイルスが、複数の異なるEU型系統を構成していた。我々の知る限り、欧州型と北米型のISAV遺伝子型間での再集合が記録されたのは今回が初めてである。これらの知見は、ファンディ湾の複数の養殖場で検出された遺伝子型間の再集合系統を特定するものであり、再集合、混合感染、および疫学的に重要なウイルス多様性を検出する上での全ゲノムシーケンシングの有用性を実証するものである。"
+  },
+  {
+    "id": "10.64898/2026.11.17.767085",
+    "title": "ChIMe-seq enables multimodal epigenetic profiling in single molecules and single cells",
+    "abstract": "Recent advances in single-cell and single-molecule sequencing have enabled high-resolution characterization of epigenetic states. However, methods that jointly measure multiple layers of epigenetic regulation within the same molecules and cells remain limited. Here, we developed Chromatin Immuno-Methylation sequencing (ChIMe-seq), a multimodal approach that simultaneously profiles histone modifications, DNA methylation, and nucleosome positioning genome-wide in single molecules and single cells. In contrast to recent approaches that rely on enzymatic fragmentation, ChIMe-seq preserves long DNA molecules by using a methyltransferase to deposit exogenous methylation marks that report on proximal histone modifications. This enables integration of multiple epigenetic features within individual molecules and supports short-read, long-read, and single-cell sequencing. These multimodal measurements are integrated into a novel mathematical framework that captures the coupling between nucleosome positioning, histone modifications, and DNA methylation. Both single-molecule and single-cell analyses reveal that DNA methylation is linked to nucleosome density in a manner modulated by local histone modifications, whilst differences in nucleosome:DNA structures are observed depending on epigenetic context and cell-type. Together, these results establish ChIMe-seq as a framework to investigate multifaceted epigenetic coordination across scales, from single-nucleotide resolution to long-range chromatin organization in single molecules and single cells.",
+    "journal": "",
+    "doi": "10.64898/2026.11.17.767085",
+    "date": "2026-11-18",
+    "authors": "Verity-Legg, J., Joly-Smith, E., Straver, R., Mourragui, S., Clark, S., Bhardwaj, V., Blotenburg, M., Mattiroli, F., Torres-Garcia, S., Reik, W., de Ridder, J., Zeller, P., van Oudenaarden, A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.17.767085v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "DNA",
+        "framework"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5235,
+    "collected_at": "2026-11-18T22:06:59.860731+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.64898/2026.11.17.767085"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6f78eba6b6fb2dd44a01670aa93e7c67f419cc0f9aa96b2269912cd81c1d8fde",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T22:41:38.890923+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0cfd6ac4877abd709f9738179118a81232d26587a282e6b70bd24c3ac9d795dc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T22:41:38.890923+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ChIMe-seqにより、単一分子および単一細胞におけるマルチモーダルエピジェネティックプロファイリングが可能となる。",
+    "abstract_ja": "単一細胞および単一分子シーケンシングの近年の進展により、エピジェネティック状態の高解像度な特性解析が可能となった。しかし、同一分子および同一細胞内におけるエピジェネティック制御の多層的なメカニズムを同時に測定する手法は依然として限られている。本研究では、単一分子および単一細胞において、ゲノムワイドにヒストン修飾、DNAメチル化、およびヌクレオソーム配置を同時にプロファイリングするマルチモーダルアプローチであるクロマチン免疫メチル化シーケンシング（ChIMe-seq）を開発した。酵素による断片化に依存する近年の手法とは異なり、ChIMe-seqはメチルトランスフェラーゼを用いて近傍のヒストン修飾を標識する外因性メチル化マークを付加することで、長いDNA分子を保持する。これにより、個々の分子内で複数のエピジェネティック特徴を統合することが可能となり、ショートリード、ロングリード、および単一細胞シーケンシングをサポートする。これらのマルチモーダル測定は、ヌクレオソーム配置、ヒストン修飾、およびDNAメチル化の連関を捉える新たな数学的フレームワークに統合されている。単一分子および単一細胞の解析の双方により、DNAメチル化が局所的なヒストン修飾によって調節される形でヌクレオソーム密度と関連していること、また、エピジェネティックなコンテキストや細胞種に応じてヌクレオソーム：DNA構造に差異が認められることが明らかになった。以上の結果を総合すると、ChIMe-seqは、単一ヌクレオチド分解能から単一分子および単一細胞における長距離クロマチン組織化に至るまで、スケールを横断して多面的なエピジェネティック協調を調査するためのフレームワークとして確立される。"
+  },
+  {
+    "id": "10.64898/2026.11.17.767403",
+    "title": "Genome assembly for Amanita muscaria var. muscaria",
+    "abstract": "Amanita muscaria is a charismatic and widely distributed mushroom-forming fungus. Amanita muscaria comprises a species complex, and genomic resources are unevenly distributed, which may bias genetic and genomic study of the species complex. This study produces a high quality hybrid genome assembly of a specimen from New Zealand. Phylogenetic analysis shows that this belongs to Amanita muscaria var. muscaria.",
+    "journal": "",
+    "doi": "10.64898/2026.11.17.767403",
+    "date": "2026-11-18",
+    "authors": "Turley, L., Larcombe, M., Bryant, D., Chen, A., Lord, J., Nilsen, A., Orlovich, D., Dutoit, L.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.17.767403v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "assembly",
+        "genome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5236,
+    "collected_at": "2026-11-18T22:06:59.860731+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.64898/2026.11.17.767403"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8e86e4cbe518243df51731691758c4174c7a8be6f3e4796e5e1788ce7450350e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T22:41:38.890923+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2c9e4ed98fa6f44d22b5cdddfebd28f46c51343722d1e572c33a14a13361f485",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T22:41:38.890923+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "テングタケのゲノムアセンブリ",
+    "abstract_ja": "Amanita muscariaは、カリスマ性に富み、広く分布するキノコ形成菌である。Amanita muscariaは種複合体を構成しており、ゲノム資源の分布に偏りがあるため、同種複合体の遺伝学的・ゲノム学的研究にバイアスが生じる可能性がある。本研究では、ニュージーランド産の標本から高品質なハイブリッドゲノムアセンブリを作製した。系統解析の結果、これはAmanita muscaria var. muscariaに属することが示された。"
   }
 ]
