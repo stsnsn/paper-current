@@ -299388,5 +299388,289 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ベトナム・メコンデルタのトウガラシおよびバラ由来Xanthomonas euvesicatoria株の比較ゲノミクス",
     "abstract_ja": "Xanthomonas euvesicatoriaによる細菌性斑点病は、作物生産にとって深刻な脅威である。本研究では、ベトナムのメコンデルタ地域で採取したX. euvesicatoriaの2株（トウガラシ由来のXP10およびバラ由来のXR13）を単離・特性解析し、病原性試験および全ゲノム解析を用いて、その病原性ポテンシャル、遺伝的多様性、分泌系、およびCAZymeレパートリーを調査した。両株ともに典型的な葉斑症状を誘発し、トウガラシ、トマト、およびバラに交差感染したことから、ナス科およびバラ科にわたる宿主に感染する能力を有することが示された。さらに、in vitro生化学的アッセイでは、いずれの株においてもペクト溶解活性は検出されなかった。アミロー分解活性およびタンパク質分解活性はXR13でのみ検出され、XP10では認められなかった一方、脂質分解活性およびセルロース分解活性は両株で検出された。一方、全ゲノムシーケンシング、98%を超えるANI値、およびコアゲノム系統解析により、両株がともにX. euvesicatoriaに属することが確認された。しかし、これらの解析により、XP10とXR13は種内の異なる系統に属していることが明らかになり、XP10はX. euvesicatoria pv. euvesicatoriaとクラスターを形成するのに対し、XR13はX. euvesicatoria pv. rosaと最も親和性の高い、別個のX. euvesicatoria系統であることが示された。パンゲノム解析では、3,791の遺伝子ファミリーからなる大規模な保存コアが同定され、一方で補助遺伝子分画は、分泌、細胞包膜の生合成、防御、および調節またはストレス応答に関連する機能に富んでいた。さらに、分泌および運動性に関連する遺伝子は、XP10の175個からXR13の191個に及び、主要な分泌および運動性系を網羅していた。T4bPおよびプラスミド符号化pT4SSi関連遺伝子の存在、ならびにXR13におけるT1SSの増強は、接着能および競争適応度の可能性を示唆しており、一方でXP10のpT4SStは水平遺伝子伝達を支持している可能性がある。特筆すべきは、CAZymeレパートリーの規模は同程度であったが機能的には分岐しており、XP10におけるα-アミラーゼ遺伝子およびPF13688メタロプロテアーゼ遺伝子のフレームシフト駆動型擬遺伝子化が、その非アミロー分解・非タンパク質分解表現型の要因である可能性が考えられる。総じて、ベトナムのトウガラシおよびバラ由来のX. euvesicatoria株は、保存された病原性の骨格を共有しながらも微細な機能的多様化を示しており、混作体系におけるゲノム情報に基づくマルチホスト病管理の有用性を浮き彫りにしている。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1937178",
+    "title": "Lactobacillus acidophilus combined with Akkermansia muciniphila increased intestinal barrier with SOCS3 activation in drug-induced liver injury",
+    "abstract": "BackgroundAcetaminophen (APAP) overdose is a significant clinical issue, often resulting in drug-induced liver injury (DILI). Lactobacillus acidophilus, a traditional probiotic, has demonstrated efficacy in mitigating DILI. In contrast, Akkermansia muciniphila represents an emerging next-generation probiotic with potential hepatoprotective benefits. This investigation focused on whether L. acidophilus could protect the liver under antibiotic-induced microbiota depletion and if its combination with A. muciniphila would further strengthen this protection.MethodsThe experiment involved fifty male BALB/c mice, allocated into five groups of ten: normal, model, ATB (antibiotic cocktail), ATB + LA (L. acidophilus), and ATB + LA + AKK (A. muciniphila). Pseudo-germ-free mice were successfully constructed using ATB water and then challenged with APAP to induce DILI. The evaluation of liver damage involved measuring the activities of serum alanine aminotransferase (ALT) and aspartate aminotransferase (AST), along with hematoxylin and eosin (H&E) staining. Intestinal flora was examined using quantitative real-time PCR and 16S rRNA sequencing. The intestinal barrier integrity was evaluated through colonic H&E and PAS staining, ZO-1 expression analysis, and measurement of serum lipopolysaccharide (LPS) levels. Hepatic transcriptomics and immunohistochemistry (IHC) confirmed key protein expression. Spearman’s and co-inertia analyses were performed to assess correlations between hepatic molecules and microbial abundances.ResultsLactobacillus acidophilus group alleviated DILI under antibiotic-induced microbiota depletion. Moreover, the combination with A. muciniphila exhibited better efficacy than L. acidophilus alone. Then, L. acidophilus combined with A. muciniphila reduced F/B ratio and increased relative abundance of A. muciniphila and L. acidophilus in gut. Furthermore, combination treatment reduced intestinal inflammation and increased goblet cell numbers and ZO-1 expression. Mechanistically, L. acidophilus combined with A. muciniphila increased the SOCS3 expression. Finally, A. muciniphila were positively correlated with SOCS3 expression level.ConclusionUnder antibiotic-induced microbiota depletion, L. acidophilus enhanced intestinal barrier function and protected the liver; this effect was further augmented when combined with A. muciniphila. Additionally, the combination of L. acidophilus and A. muciniphila upregulated the expression of SOCS3. This study could provide a novel approach for APAP-induced liver injury treatment.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1937178",
+    "date": "2026-11-18",
+    "authors": "Xinli Shi",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1937178",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "microbial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5154,
+    "collected_at": "2026-11-18T14:07:39.788433+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.3389/fmicb.2026.1937178"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f1574e4accb499c5dfde13f40d2ca981ada9c134d79cc6102efae28d83ed05ef",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T14:46:23.371396+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "74eca55a0882ab507616f4e6f338e6e83883ad5c7abbb7fb1637ef41e612cc4a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T14:46:23.371396+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Lactobacillus acidophilusとAkkermansia muciniphilaの併用は、薬剤性肝障害においてSOCS3の活性化を介して腸管バリア機能を亢進させた。",
+    "abstract_ja": "背景アセトアミノフェン（APAP）の過量投与は重大な臨床的問題であり、しばしば薬剤性肝障害（DILI）を引き起こす。伝統的なプロバイオティクスであるLactobacillus acidophilusは、DILIの軽減に有効性を示している。対照的に、Akkermansia muciniphilaは、肝保護効果を有する可能性を秘めた次世代のプロバイオティクスとして注目されている。本研究では、抗生物質誘発性の微生物叢枯渇下においてL. acidophilusが肝臓を保護し得るか、また、A. muciniphilaとの併用によってこの保護作用がさらに強化されるかに焦点を当てた。方法本実験では、50匹の雄BALB/cマウスを用い、正常、モデル、ATB（抗生物質カクテル）、ATB + LA（L. acidophilus）、およびATB + LA + AKK（A. muciniphila）の5群（各10匹）に振り分けた。ATB水を用いて擬似無菌マウスを作製し、その後APAPを投与してDILIを誘発した。肝障害の評価では、血清アラニンアミノトランスフェラーゼ（ALT）およびアスパラギン酸アミノトランスフェラーゼ（AST）の活性測定に加え、ヘマトキシリン・エオジン（H&E）染色を行った。腸内フローラは、定量リアルタイムPCRおよび16S rRNAシーケンシングを用いて解析した。腸管バリアの完全性は、結腸のH&EおよびPAS染色、ZO-1発現解析、ならびに血清リポ多糖（LPS）濃度の測定により評価した。肝トランスクリプトミクスおよび免疫組織化学（IHC）により、主要なタンパク質の発現が確認された。肝分子と微生物量の相関を評価するため、スピアマン分析および共慣性分析を実施した。結果Lactobacillus acidophilus群は、抗生物質誘発性の微生物叢枯渇下においてDILIを軽減した。さらに、A. muciniphilaとの併用は、L. acidophilus単独よりも優れた有効性を示した。また、L. acidophilusとA. muciniphilaの併用により、F/B比が低下し、腸管内におけるA. muciniphilaおよびL. acidophilusの相対的存在量が増加した。さらに、併用療法により腸管炎症が軽減し、杯細胞数およびZO-1発現が増加した。機序として、L. acidophilusとA. muciniphilaの併用によりSOCS3の発現が増加した。最後に、A. muciniphilaはSOCS3の発現レベルと正の相関を示した。結論抗生物質誘発性の微生物叢枯渇下において、L. acidophilusは腸管バリア機能を強化し肝臓を保護した。この効果は、A. muciniphilaとの併用によりさらに増強された。また、L. acidophilusとA. muciniphilaの併用はSOCS3の発現を亢進させた。本研究は、APAP誘発性肝障害の治療に向けた新たなアプローチを提供し得る。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1946254",
+    "title": "Agaricus arvensis fairy rings link to enhanced Leymus chinensis productivity and potential microbial phosphorus mobilization in a typical steppe of Inner Mongolia",
+    "abstract": "InroductionFairy rings are concentric bands of vegetation that develop as soil fungi expand radially. Although fairy rings are known to enhance plant productivity, the mechanisms linking soil microorganisms, nutrient availability, and plant quality in grassland ecosystems remain insufficiently understood.MethodsThis study focuses on Agaricus arvensis fairy rings in Xilingol League, Inner Mongolia, with the aim of exploring whether fairy ring-associated changes in soil microorganisms and phosphorus availability are linked to the yield and quality of the dominant grass species Leymus chinensis. Vegetation characteristics, soil physicochemical properties, and high-throughput sequencing were integrated to resolve these mechanisms.ResultsFairy rings significantly altered plant community composition by markedly increasing the importance value of L. chinensis. These changes were associated with shifts in soil microbial community structure, particularly bacterial communities in the 10-30 cm soil layer. Fairy ring soils exhibited elevated concentrations of organic acids, including oxalic, lactic, maleic and fumaric acids, which was positively correlated with the mobilization of soil phosphorus and higher soil AP. As a consequence, aboveground biomass and forage quality of L. chinensis were significantly improved, with crude protein content increasing by 24-43%. Correlation analyses showed that bacterial community variation was more closely associated with organic acid accumulation and phosphorus availability than fungal variation, suggesting that bacteria may contribute to the observed differences in plant yield and quality.ConclusionThis study suggests a potential pathway in which fairy rings are associated with microbial shifts, organic acid accumulation, and increased phosphorus availability, which together may contribute to improved plant growth and forage quality. These findings deepen our understanding of microbe-plant interactions in grassland ecosystems and provides data to support the potential agricultural value of developing fairy rings.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1946254",
+    "date": "2026-11-18",
+    "authors": "Shixian Sun",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1946254",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "fungal",
+        "fungi",
+        "microbe",
+        "microbial",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5155,
+    "collected_at": "2026-11-18T14:07:39.788433+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.3389/fmicb.2026.1946254"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f476baab03b4c62f2a738df1a338bc687a916b073e3e2260a2c256d4286e3f99",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T14:46:23.371396+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b34750cf9e8cbc4977729ce9e55d0574a46b1563c277ebd2b2164c2642bf7104",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T14:46:23.371396+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "内モンゴルの典型的なステップ地帯において、Agaricus arvensisのフェアリーリングは、Leymus chinensisの生産性向上および潜在的な微生物によるリン動員に関連している。",
+    "abstract_ja": "序論フェアリーリングとは、土壌菌類が放射状に拡大することで形成される同心円状の植生帯である。フェアリーリングが植物の生産性を向上させることは知られているが、草原生態系における土壌微生物、養分利用可能性、および植物品質を結びつけるメカニズムについては、依然として十分に解明されていない。方法本研究では、内モンゴル自治区シリンゴル盟のAgaricus arvensisのフェアリーリングに着目し、フェアリーリングに伴う土壌微生物およびリン利用可能性の変化が、優占草種であるLeymus chinensisの収量および品質に関連しているかどうかを検討した。これらのメカニズムを解明するため、植生特性、土壌物理化学的特性、およびハイスループットシーケンシングを統合的に解析した。結果フェアリーリングは、L. chinensisの重要度を著しく高めることで、植物群集組成を有意に変化させた。これらの変化は、土壌微生物群集構造、特に土壌層10～30 cmにおける細菌群集のシフトに関連していた。フェアリーリング土壌では、シュウ酸、乳酸、マレイン酸、およびフマル酸を含む有機酸濃度の上昇が認められ、これは土壌リンの遊離および土壌pHの上昇と正の相関を示した。その結果、L. chinensisの地上部バイオマスおよび飼料品質が有意に向上し、粗タンパク質含有量は24～43%増加した。相関解析の結果、細菌群集の変動は、菌類の変動よりも有機酸の蓄積およびリン利用可能性とより密接に関連していることが示され、細菌が観察された植物収量および品質の差異に寄与している可能性が示唆された。結論本研究は、フェアリーリングが微生物のシフト、有機酸の蓄積、およびリン利用可能性の向上に関連し、これらが相まって植物の生育および飼料品質の向上に寄与するという潜在的な経路を示唆している。これらの知見は、草原生態系における微生物と植物の相互作用に関する理解を深めるとともに、フェアリーリングの育成が持つ潜在的な農業的価値を裏付けるデータを提供するものである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.2018361",
+    "title": "Association between oral microbiota and inflammatory bowel disease: a systematic review and meta-analysis",
+    "abstract": "Alterations in the oral microbiome have been increasingly reported in patients with inflammatory bowel disease (IBD), but findings have been inconsistent across studies. Consequently, the association between oral microbiome alterations and IBD remains incompletely characterized. Therefore, it is important to synthesize the available evidence on alterations in the oral microbiome of patients with IBD. This systematic review and meta-analysis retrieved pertinent studies on the changes in the oral microbiota of IBD patients in the databases of PubMed, Embase, Web of Science, and the Cochrane Library. Fixed-effect or random-effects models were applied to assess the alpha diversity (α-diversity) between IBD patients and the controls. Qualitative analysis was applied to assess the beta diversity (β-diversity) and relative abundance of microbial taxa. Among the 24 included studies, α-diversity data were obtained from 18 studies. The Shannon (SMD = −0.23; 95% CI: −0.40 to −0.05; p = 0.0097) and Chao1 indices (SMD = −0.33; 95% CI: −0.52 to −0.14; p = 0.0005) were significantly lower in patients with IBD than in controls. The β-diversity differed significantly between patients with IBD and controls in 12 of 23 studies. At the genus level, Veillonella was increased in IBD and CD, Haemophilus was decreased in IBD, CD, and UC, and Neisseria was decreased in CD. The available evidence suggests an association between oral microbiota dysbiosis and IBD. However, the observed microbiota alterations varied substantially across studies and appeared to be largely non-specific. Further studies on microbial communities and related metabolic pathways should be conducted to determine whether oral microbial signatures have diagnostic or monitoring relevance in IBD.Systematic review registrationhttps://www.crd.york.ac.uk/PROSPERO/view/CRD420261300437, identifier CRD420261300437.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.2018361",
+    "date": "2026-11-18",
+    "authors": "Bo Cao",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.2018361",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial",
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5156,
+    "collected_at": "2026-11-18T14:07:39.788433+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.3389/fmicb.2026.2018361"
+    ],
+    "translation": {
+      "title": {
+        "hash": "59d31ad93430d4ba86454c1b7aa9ab40b636558d4667b68f6d19fc843926b1d5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T14:46:23.371396+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "387e5243dad2cfc07df3f82e213477b78669d29defdb95283fcd1baf78017395",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T14:46:23.371396+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "口腔微生物叢と炎症性腸疾患の関連：システマティックレビューおよびメタ解析",
+    "abstract_ja": "炎症性腸疾患（IBD）患者において口腔マイクロバイオームの変動が報告される事例が増えているが、研究結果には一貫性が認められない。そのため、口腔マイクロバイオームの変動とIBDとの関連については、いまだ十分に解明されていない。したがって、IBD患者の口腔マイクロバイオームの変動に関する既存のエビデンスを統合することが重要である。本システマティックレビューおよびメタ解析では、PubMed、Embase、Web of Science、およびCochrane Libraryのデータベースから、IBD患者の口腔微生物叢の変化に関する関連研究を抽出した。IBD患者と対照群間のα多様性（α-diversity）を評価するため、固定効果モデルまたはランダム効果モデルを適用した。微生物分類群のβ多様性（β-diversity）および相対存在量を評価するため、質的解析を適用した。組み入れられた24件の研究のうち、18件からα多様性のデータが得られた。Shannon指数（SMD = −0.23; 95% CI: −0.40 to −0.05; p = 0.0097）およびChao1指数（SMD = −0.33; 95% CI: −0.52 to −0.14; p = 0.0005）は、対照群よりもIBD患者において有意に低値であった。23件の研究のうち12件において、IBD患者と対照群の間でβ多様性に有意な差が認められた。属レベルでは、Veillonella属がIBDおよびCDで増加し、Haemophilus属がIBD、CD、およびUCで減少し、Neisseria属がCDで減少した。得られたエビデンスは、口腔微生物叢のディスバイオーシスとIBDとの関連を示唆している。しかし、観察された微生物叢の変動は研究間で大きく異なり、その多くは非特異的であると考えられた。口腔微生物シグネチャーがIBDにおいて診断的またはモニタリング上の意義を持つかどうかを判断するため、微生物群集および関連する代謝経路に関するさらなる研究を実施すべきである。システマティックレビュー登録https://www.crd.york.ac.uk/PROSPERO/view/CRD420261300437, 識別子 CRD420261300437."
+  },
+  {
+    "id": "10.64898/2026.11.16.766933",
+    "title": "Resistome-based machine learning source attribution of a superbug",
+    "abstract": "Many bacterial human pathogens infect not only humans but also other species, and source attribution has been very useful for studying transmission among the different sources. Yet, critical pathogens such as Acinetobacter baumannii have not been studied using source attribution approaches. Here, we conducted machine source attribution using the resistome of almost 1200 A. baumannii genomes from four sources: humans, companion animals , soil, and white storks. Of note, no other study has used the resistome as input data before. First, we selected the best model among 168 parameter combinations, which was Random Forest, with 5-fold cross-validation and chi2 for feature selection. The model shows a reasonably good accuracy with an F1 weighted score = 0.744, yet class accuracy was dependent on the source. Whereas for companion animals and humans, 93% and 86% of the predictions were correct, respectively; the other two categories (soil and white stork) show correct predictions below 50%. Yet, a core phylogeny and ST assignment reveal that the wrong predictions are associated with multi-host lineages. Finally, we identify the most important ARGs contributing to each class prediction and, in the case of companion animals, tetgenes, which confer resistance to tetracycline, were among the top contributors. Our study shows the resistome's potential for developing models to predict source associations. More broadly, this study shows how integrating machine learning and phylogenomics can help us understand multi-host transmission dynamics.",
+    "journal": "",
+    "doi": "10.64898/2026.11.16.766933",
+    "date": "2026-11-18",
+    "authors": "Mendez, C., Vargas-Peralta, D., Rendon, L. A., Castillo-Ramirez, S.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.16.766933v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "phylogen",
+          "phylogenomic",
+          "phylogeny"
+        ],
+        "evolution": [
+          "phylogeny"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5159,
+    "collected_at": "2026-11-18T14:07:39.788433+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.64898/2026.11.16.766933"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e3c6132c78d5118ca44683bc58edeaf38303165a5b85cb9e50607e7d0d97c8e8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T14:46:23.371396+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0ce6a4264e7bcded3e92c2b481a8fca1e7ba587227a231d4aa4ae7a066956024",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T14:46:23.371396+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "レジストームに基づくスーパーバグの機械学習による発生源特定",
+    "abstract_ja": "ヒトの病原性細菌の多くはヒトだけでなく他の種にも感染しており、感染源の特定は異なる感染源間の伝播を研究する上で非常に有用であった。しかし、Acinetobacter baumanniiのような重要病原体については、感染源特定の手法を用いた研究は行われてこなかった。本研究では、ヒト、伴侶動物、土壌、およびシロコウノトリという4つの感染源由来の、ほぼ1,200株のA. baumanniiゲノムのレジストームを用いて、機械学習による感染源特定を行った。特筆すべきは、レジストームを入力データとして用いた研究はこれまで他に存在しない点である。まず、168通りのパラメータ組み合わせの中から最適なモデルとしてランダムフォレストを選択し、5分割交差検証と特徴量選択のためのカイ二乗検定を実施した。このモデルはF1加重スコア0.744という概ね良好な精度を示したが、クラス精度は感染源に依存していた。伴侶動物とヒトでは、予測の93%および86%がそれぞれ正しかった一方、他の2つのカテゴリー（土壌およびシロコウノトリ）では正解率が50%を下回った。しかし、コア系統樹およびST割り当ての解析により、誤った予測はマルチホスト系統に関連していることが明らかになった。最後に、各クラスの予測に寄与する最も重要なARGを特定したところ、伴侶動物においては、テトラサイクリン系への耐性を付与するtet遺伝子が主要な寄与因子の一つであった。本研究は、感染源の関連性を予測するモデル開発におけるレジストームの可能性を示すものである。より広範には、機械学習と系統ゲノミクスを統合することで、マルチホスト伝播の動態の理解にどのように寄与できるかを明らかにした。"
   }
 ]
