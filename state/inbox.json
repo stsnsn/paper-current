@@ -421105,5 +421105,646 @@
     "related_dois": [
       "10.64898/2026.11.16.766985"
     ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 4",
+        "query": "(JOURNAL:\"Infection and Immunity\" OR JOURNAL:\"Antimicrobial Agents and Chemotherapy\" OR JOURNAL:\"Journal of Clinical Microbiology\" OR JOURNAL:\"Microbiology Resource Announcements\" OR JOURNAL:\"Nature\" OR JOURNAL:\"Nature Microbiology\" OR JOURNAL:\"Nature Ecology & Evolution\" OR JOURNAL:\"Nature Communications\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1038/s41559-026-03210-2",
+    "title": "Extrapolation challenges in global biodiversity modelling.",
+    "abstract": "",
+    "journal": "Nature Ecology & Evolution",
+    "doi": "10.1038/s41559-026-03210-2",
+    "date": "2026-11-10",
+    "authors": "Schipper AM.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43009523",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43009523",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5105,
+    "collected_at": "2026-11-18T13:57:07.538279+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "Europe PMC journals 4"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.1038/s41559-026-03210-2"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 4",
+        "query": "(JOURNAL:\"Infection and Immunity\" OR JOURNAL:\"Antimicrobial Agents and Chemotherapy\" OR JOURNAL:\"Journal of Clinical Microbiology\" OR JOURNAL:\"Microbiology Resource Announcements\" OR JOURNAL:\"Nature\" OR JOURNAL:\"Nature Microbiology\" OR JOURNAL:\"Nature Ecology & Evolution\" OR JOURNAL:\"Nature Communications\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1038/s41559-026-03238-4",
+    "title": "Potential risks from automation of biodiversity credits.",
+    "abstract": "",
+    "journal": "Nature Ecology & Evolution",
+    "doi": "10.1038/s41559-026-03238-4",
+    "date": "2026-11-10",
+    "authors": "Millard J, Barzin S, McCann P, Dicks LV.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43009522",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43009522",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5106,
+    "collected_at": "2026-11-18T13:57:07.538279+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "Europe PMC journals 4"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.1038/s41559-026-03238-4"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 4",
+        "query": "(JOURNAL:\"Infection and Immunity\" OR JOURNAL:\"Antimicrobial Agents and Chemotherapy\" OR JOURNAL:\"Journal of Clinical Microbiology\" OR JOURNAL:\"Microbiology Resource Announcements\" OR JOURNAL:\"Nature\" OR JOURNAL:\"Nature Microbiology\" OR JOURNAL:\"Nature Ecology & Evolution\" OR JOURNAL:\"Nature Communications\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1038/s41559-026-03224-w",
+    "title": "Pale pavement plumage.",
+    "abstract": "",
+    "journal": "Nature Ecology & Evolution",
+    "doi": "10.1038/s41559-026-03224-w",
+    "date": "2026-11-01",
+    "authors": "Harold S.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42869946",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42869946",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5108,
+    "collected_at": "2026-11-18T13:57:07.538279+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "Europe PMC journals 4"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.1038/s41559-026-03224-w"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 4",
+        "query": "(JOURNAL:\"Infection and Immunity\" OR JOURNAL:\"Antimicrobial Agents and Chemotherapy\" OR JOURNAL:\"Journal of Clinical Microbiology\" OR JOURNAL:\"Microbiology Resource Announcements\" OR JOURNAL:\"Nature\" OR JOURNAL:\"Nature Microbiology\" OR JOURNAL:\"Nature Ecology & Evolution\" OR JOURNAL:\"Nature Communications\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1038/s41559-026-03194-z",
+    "title": "Three ways that international financial architecture reform matters for biodiversity.",
+    "abstract": "",
+    "journal": "Nature Ecology & Evolution",
+    "doi": "10.1038/s41559-026-03194-z",
+    "date": "2026-11-01",
+    "authors": "Dempsey J, Irvine-Broque A.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42855495",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42855495",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5109,
+    "collected_at": "2026-11-18T13:57:07.538279+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "Europe PMC journals 4"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.1038/s41559-026-03194-z"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 4",
+        "query": "(JOURNAL:\"Infection and Immunity\" OR JOURNAL:\"Antimicrobial Agents and Chemotherapy\" OR JOURNAL:\"Journal of Clinical Microbiology\" OR JOURNAL:\"Microbiology Resource Announcements\" OR JOURNAL:\"Nature\" OR JOURNAL:\"Nature Microbiology\" OR JOURNAL:\"Nature Ecology & Evolution\" OR JOURNAL:\"Nature Communications\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1038/s41559-026-03168-1",
+    "title": "A tsunami of genome reshuffling.",
+    "abstract": "",
+    "journal": "Nature Ecology & Evolution",
+    "doi": "10.1038/s41559-026-03168-1",
+    "date": "2026-11-01",
+    "authors": "Hunnicutt KE.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42791312",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42791312",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5110,
+    "collected_at": "2026-11-18T13:57:07.538279+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "Europe PMC journals 4"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.1038/s41559-026-03168-1"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 4",
+        "query": "(JOURNAL:\"Infection and Immunity\" OR JOURNAL:\"Antimicrobial Agents and Chemotherapy\" OR JOURNAL:\"Journal of Clinical Microbiology\" OR JOURNAL:\"Microbiology Resource Announcements\" OR JOURNAL:\"Nature\" OR JOURNAL:\"Nature Microbiology\" OR JOURNAL:\"Nature Ecology & Evolution\" OR JOURNAL:\"Nature Communications\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1038/s41559-026-03192-1",
+    "title": "Protecting the deep ocean under mining threat by connecting existing reserves.",
+    "abstract": "",
+    "journal": "Nature Ecology & Evolution",
+    "doi": "10.1038/s41559-026-03192-1",
+    "date": "2026-11-01",
+    "authors": "",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42919918",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42919918",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [
+          "ocean"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 5111,
+    "collected_at": "2026-11-18T13:57:07.538279+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "Europe PMC journals 4"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.1038/s41559-026-03192-1"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 4",
+        "query": "(JOURNAL:\"Infection and Immunity\" OR JOURNAL:\"Antimicrobial Agents and Chemotherapy\" OR JOURNAL:\"Journal of Clinical Microbiology\" OR JOURNAL:\"Microbiology Resource Announcements\" OR JOURNAL:\"Nature\" OR JOURNAL:\"Nature Microbiology\" OR JOURNAL:\"Nature Ecology & Evolution\" OR JOURNAL:\"Nature Communications\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1038/s41559-026-03232-w",
+    "title": "Didactic dicynodont.",
+    "abstract": "",
+    "journal": "Nature Ecology & Evolution",
+    "doi": "10.1038/s41559-026-03232-w",
+    "date": "2026-11-01",
+    "authors": "Ward DL.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42888273",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42888273",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5112,
+    "collected_at": "2026-11-18T13:57:07.538279+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "Europe PMC journals 4"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.1038/s41559-026-03232-w"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 4",
+        "query": "(JOURNAL:\"Infection and Immunity\" OR JOURNAL:\"Antimicrobial Agents and Chemotherapy\" OR JOURNAL:\"Journal of Clinical Microbiology\" OR JOURNAL:\"Microbiology Resource Announcements\" OR JOURNAL:\"Nature\" OR JOURNAL:\"Nature Microbiology\" OR JOURNAL:\"Nature Ecology & Evolution\" OR JOURNAL:\"Nature Communications\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "editorial"
+    ],
+    "id": "10.1038/s41559-026-03231-x",
+    "title": "Countries not on track to halt nature loss.",
+    "abstract": "",
+    "journal": "Nature Ecology & Evolution",
+    "doi": "10.1038/s41559-026-03231-x",
+    "date": "2026-11-01",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42888272",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42888272",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5113,
+    "collected_at": "2026-11-18T13:57:07.538279+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "Europe PMC journals 4"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.1038/s41559-026-03231-x"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 4",
+        "query": "(JOURNAL:\"Infection and Immunity\" OR JOURNAL:\"Antimicrobial Agents and Chemotherapy\" OR JOURNAL:\"Journal of Clinical Microbiology\" OR JOURNAL:\"Microbiology Resource Announcements\" OR JOURNAL:\"Nature\" OR JOURNAL:\"Nature Microbiology\" OR JOURNAL:\"Nature Ecology & Evolution\" OR JOURNAL:\"Nature Communications\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "interview"
+    ],
+    "id": "10.1038/s41559-026-03217-9",
+    "title": "Patchy global progress to nature recovery.",
+    "abstract": "",
+    "journal": "Nature Ecology & Evolution",
+    "doi": "10.1038/s41559-026-03217-9",
+    "date": "2026-11-01",
+    "authors": "Turner M, Affinito F, Nicholson E.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42875518",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42875518",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5114,
+    "collected_at": "2026-11-18T13:57:07.538279+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "Europe PMC journals 4"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.1038/s41559-026-03217-9"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 4",
+        "query": "(JOURNAL:\"Infection and Immunity\" OR JOURNAL:\"Antimicrobial Agents and Chemotherapy\" OR JOURNAL:\"Journal of Clinical Microbiology\" OR JOURNAL:\"Microbiology Resource Announcements\" OR JOURNAL:\"Nature\" OR JOURNAL:\"Nature Microbiology\" OR JOURNAL:\"Nature Ecology & Evolution\" OR JOURNAL:\"Nature Communications\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1038/s41559-026-03237-5",
+    "title": "Tiny ciliate introns.",
+    "abstract": "",
+    "journal": "Nature Ecology & Evolution",
+    "doi": "10.1038/s41559-026-03237-5",
+    "date": "2026-11-01",
+    "authors": "Bhaumik V.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42918844",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42918844",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5115,
+    "collected_at": "2026-11-18T13:57:07.538279+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "Europe PMC journals 4"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.1038/s41559-026-03237-5"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 4",
+        "query": "(JOURNAL:\"Infection and Immunity\" OR JOURNAL:\"Antimicrobial Agents and Chemotherapy\" OR JOURNAL:\"Journal of Clinical Microbiology\" OR JOURNAL:\"Microbiology Resource Announcements\" OR JOURNAL:\"Nature\" OR JOURNAL:\"Nature Microbiology\" OR JOURNAL:\"Nature Ecology & Evolution\" OR JOURNAL:\"Nature Communications\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1038/s41559-026-03236-6",
+    "title": "Grazing cements kelp collapse.",
+    "abstract": "",
+    "journal": "Nature Ecology & Evolution",
+    "doi": "10.1038/s41559-026-03236-6",
+    "date": "2026-11-01",
+    "authors": "Turner M.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42918843",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42918843",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5116,
+    "collected_at": "2026-11-18T13:57:07.538279+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "Europe PMC journals 4"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.1038/s41559-026-03236-6"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 4",
+        "query": "(JOURNAL:\"Infection and Immunity\" OR JOURNAL:\"Antimicrobial Agents and Chemotherapy\" OR JOURNAL:\"Journal of Clinical Microbiology\" OR JOURNAL:\"Microbiology Resource Announcements\" OR JOURNAL:\"Nature\" OR JOURNAL:\"Nature Microbiology\" OR JOURNAL:\"Nature Ecology & Evolution\" OR JOURNAL:\"Nature Communications\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1038/s41559-026-03233-9",
+    "title": "OECMs contribute to strengthening existing networks of conservation areas.",
+    "abstract": "",
+    "journal": "Nature Ecology & Evolution",
+    "doi": "10.1038/s41559-026-03233-9",
+    "date": "2026-11-03",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42977783",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42977783",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5117,
+    "collected_at": "2026-11-18T13:57:07.538279+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "Europe PMC journals 4"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.1038/s41559-026-03233-9"
+    ]
   }
 ]
