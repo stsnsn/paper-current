@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-18T14:49:23.019466+00:00",
+  "updated_at": "2026-11-18T14:52:11.798209+00:00",
   "phase": "translating",
   "last_batch": {
-    "translated": 4,
+    "translated": 3,
     "cached": 0,
     "failed": 0,
     "deferred": 0,
     "skipped": 0,
-    "requests": 8
+    "requests": 6
   },
-  "pending": 3
+  "pending": 0
 }

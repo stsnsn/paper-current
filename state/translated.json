@@ -299952,5 +299952,232 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "生体内架橋およびクライオ電子顕微鏡解析は、接合性ピルス形成の改訂モデルを示唆している。",
     "abstract_ja": "細菌の接合には、IV型分泌システム（T4SS）として知られる膜内輸送機構による接合性ピルスの構築が必要である。近年の構造解析により、T4SSのStalkのVirB6-baseからピルスが組み立てられ、一方でVirB5-apexがピルス先端に突出するという接合性ピルスの生合成モデルが示唆された。本研究では、R388 T4SS内におけるこれら2つのStalkセグメントのin vivo架橋が、接合伝達効率に及ぼす影響はわずかであり、ピルス構築時にこれらが分離するという説とは矛盾することを示す。相同なpKM101 T4SSのクライオ電子顕微鏡解析と併せることで、我々は、T4SSの六回対称な内膜複合体が五回対称なピルスの組み立ての基部として直接的に機能するという改訂モデルを提案する。これにより生じる対称性の不一致は、新生ピルスの基部において連続的に再配置されるギャップに、ピルスサブユニットが順次組み込まれることで解消される。この改訂モデルは、水平遺伝子伝達の基盤となる細菌接合の極めて重要な過程において、T4SSがいかにして中心的な対称性の不一致を収容しているのかという長年の疑問に答えるものである。"
+  },
+  {
+    "id": "10.64898/2026.11.16.767130",
+    "title": "pbzarr: cohort-scale storage and analysis of per-base genomic data with Zarr",
+    "abstract": "Genomic assays now produce per-base signals for cohorts comprising thousands of samples. However, existing genomic data storage formats (e.g., D4, bigWig) were designed primarily for single samples or individual datasets. Consequently, cohort-scale analyses across samples, populations, or species require opening, reading, and merging thousands of files before proceeding to downstream computational analyses. Here, we present pbzarr, a format and toolkit that stores per-base genomic data from many samples and assays as a single Zarr store. Across multiple datasets, pbzarr simplified cohort construction to a single command and created cohort-scale datasets up to 2.1x faster than existing approaches while simultaneously using 5-6x less memory. More importantly, pbzarr compresses signal tracks to only a fraction of the input data size, using only 3.3% of the input size to store per-base coverage for 1,024 short-read genomes. Despite this smaller storage footprint, pbzarr maintains fast access to underlying genomic data: region-based queries complete 61x faster than D4 and 6x faster than bigWig, and full-genome scans are as fast or faster than existing formats. Finally, because pbzarr stores are native Zarr arrays, it integrates directly with widely used array libraries (e.g., Xarray and Dask), allowing cohort-scale analyses to be expressed in a single line of Python code using standard array operations instead of a complex, custom pipeline. Together, our results suggest that pbzarr is dramatically smaller, substantially simpler, and faster than competing formats for biobank-scale analysis. pbzarr is open source and available at https://github.com/pbzarr/pbzarr.",
+    "journal": "",
+    "doi": "10.64898/2026.11.16.767130",
+    "date": "2026-11-18",
+    "authors": "Mirchandani, C., Meyer, W., Garretson, A., Quinlan, A. R., Vollger, M. R.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.16.767130v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "genomic",
+        "tool"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5165,
+    "collected_at": "2026-11-18T14:07:39.788433+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.64898/2026.11.16.767130"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0f4ccd2b813caa448d8d76a09a0b8f433e1fe1f51504bf47f6e01d33b4372c95",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T14:52:34.391780+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0d5f7a52d95393a5eef85856e862bcd870154b78219c830a562e336562ec9cc2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T14:52:34.391780+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "pbzarr: Zarrを用いたコホート規模のストレージおよび塩基単位ゲノムデータの解析",
+    "abstract_ja": "ゲノムアッセイでは、現在、数千のサンプルからなるコホートの塩基単位シグナルが生成されている。しかし、既存のゲノムデータストレージフォーマット（例：D4、bigWig）は、主に単一サンプルまたは個別のデータセット向けに設計されていた。そのため、サンプル、集団、または種を横断するコホート規模の解析では、後続の計算解析に進む前に、数千のファイルを開いて読み取り、マージする必要がある。本報では、多数のサンプルおよびアッセイからの塩基単位ゲノムデータを単一のZarrストアとして保存するフォーマットおよびツールキットであるpbzarrを提案する。複数のデータセットにわたり、pbzarrはコホート構築を単一のコマンドに簡素化し、既存の手法よりも最大2.1倍高速にコホート規模のデータセットを作成しつつ、同時にメモリ使用量を5〜6分の1に削減した。さらに重要なことに、pbzarrはシグナルトラックを入力データサイズのわずか一部まで圧縮し、1,024本のショートリードゲノムの塩基単位カバレッジを保存するのに入力サイズのわずか3.3%しか使用しない。このようなストレージフットプリントの縮小にもかかわらず、pbzarrは基盤となるゲノムデータへの高速なアクセスを維持している。領域ベースのクエリはD4より61倍、bigWigより6倍高速に完了し、全ゲノムスキャンは既存のフォーマットと同等かそれ以上の速度で実行される。最後に、pbzarrのストアはネイティブなZarrアレイであるため、広く利用されているアレイライブラリ（例：XarrayやDask）と直接統合でき、複雑なカスタムパイプラインの代わりに標準的なアレイ操作を用いて、Pythonコードの1行でコホート規模の解析を表現できる。以上の結果から、pbzarrはバイオバンク規模の解析において、競合するフォーマットよりも劇的に小さく、大幅にシンプルで、高速であることが示唆される。pbzarrはオープンソースであり、https://github.com/pbzarr/pbzarr で入手可能である。"
+  },
+  {
+    "id": "10.64898/2026.11.16.767129",
+    "title": "Contrasting plasmid-host associations shape the distribution of enterotoxigenic E. coli (ETEC) colonization factors",
+    "abstract": "Enterotoxigenic Escherichia coli (ETEC) causes a substantial burden of diarrhoeal disease, but how its virulence plasmids spread across E. coli populations remains unclear. We generated 479 complete ETEC genomes and combined them with 56 publicly available assemblies to produce the largest plasmid-resolved ETEC collection to date. Clustering of 903 virulence plasmids identified distinct plasmid lineages associated with individual colonization factors (CFs). Some CFs were carried by plasmids confined to a single ETEC lineage, consistent with long-term vertical maintenance, whereas others, including CS23 and CS12, were found on closely related conjugative plasmids distributed across multiple lineages, indicating horizontal transfer. Screening the AllTheBacteria dataset confirmed these patterns and revealed additional plasmid diversity for several CFs. Finally, we identified eight previously undescribed putative adhesion operons on toxin plasmids that may explain CF-negative ETEC isolates. These findings showed that plasmids, rather than bacterial lineages alone, shape the evolution and dissemination of ETEC virulence.",
+    "journal": "",
+    "doi": "10.64898/2026.11.16.767129",
+    "date": "2026-11-18",
+    "authors": "Garcias, B., Grimmer, M., Frolova, D., Iqbal, Z., Dougan, S., Joffre, E., Varghese, J., Evans, R., Baker, D., Le Viet, T., Page, A., von Mentzer, A.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.16.767129v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assemblies",
+          "evolution",
+          "genom",
+          "genome"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5166,
+    "collected_at": "2026-11-18T14:07:39.788433+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.64898/2026.11.16.767129"
+    ],
+    "translation": {
+      "title": {
+        "hash": "81071a704c0f46fd9a8d7a3e7d33a9c7fa15fa02d72191dca7e9a54f088da7f1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T14:52:34.391780+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "16154b65bac116fa4d18e0c03fa9187861945397d87d66430640beab00b6193c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T14:52:34.391780+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "対照的なプラスミド－宿主間の相互作用が、腸管毒素原性大腸菌（ETEC）の定着因子の分布を規定する",
+    "abstract_ja": "腸管毒素原性大腸菌（ETEC）は下痢性疾患の大きな負担となっているが、その病原性プラスミドが大腸菌集団内でどのように伝播するのかは依然として不明である。我々は、479個の完全なETECゲノムを作製し、公開されている56個のアセンブリと組み合わせることで、これまでで最大規模のプラスミド解析済みETECコレクションを構築した。903個の病原性プラスミドをクラスタリングした結果、個々の定着因子（CF）に関連する異なるプラスミド系統が同定された。一部のCFは単一のETEC系統に限定されたプラスミドによって保持されており、これは長期的な垂直維持と一致していた。一方、CS23やCS12を含む他のCFは、複数の系統に分散した近縁の接合性プラスミド上で検出され、水平伝播が示唆された。AllTheBacteriaデータセットのスクリーニングによりこれらのパターンが確認され、さらにいくつかのCFにおいて追加的なプラスミド多様性が明らかになった。最後に、毒素プラスミド上に、CF陰性のETEC分離株を説明し得る、これまで記載されていなかった8つの推定接着オペロンを同定した。これらの知見は、細菌系統のみではなく、プラスミドがETECの病原性の進化と拡散を形作っていることを示している。"
+  },
+  {
+    "id": "10.64898/2026.11.17.763165",
+    "title": "Modular evolution and functional divergence of the Pseudomonas Fit toxin locus",
+    "abstract": "The insecticidal Fit toxin is well known for its role in insect interactions in plant-associated Pseudomonas. However, its presence in non-entomopathogenic Pseudomonas, including the marine fish pathogen Pseudomonas baetica, raises questions about its evolutionary history and functional diversification. Here, we investigate the fit locus across the Pseudomonas fluorescens species complex using comparative genomic, structural, and functional approaches. Phylogenomic analyses support several ancient acquisitions of the fit gene cluster, followed by Pseudomonas subgroup-specific chromosomal integration and diversification of the toxin FitD and the sensor kinase FitF. Although P. baetica carries a fit operon, it showed no oral toxicity toward insect larvae. This lack of toxicity is associated with resistance to gut colonization by the commensal Enterobacter sp. Direct hemolymph injection also failed to reveal toxicity and the Fit activity in P. baetica is limited by the absence of fit promoter activation in insect hemolymph. Finally, in a zebrafish model, FitD is dispensable for P. baetica, which causes severe systemic infection through other virulence mechanisms. Nonetheless, FitD contributes to the virulence of P. protegens CHA0 in zebrafish, thereby extending its effects from insects to vertebrate hosts. Together, these findings highlight the evolutionary and regulatory plasticity of the fit locus and show how an ancestral toxin system can acquire different functional roles in bacteria adapted to distinct ecological niches.",
+    "journal": "",
+    "doi": "10.64898/2026.11.17.763165",
+    "date": "2026-11-17",
+    "authors": "Vacheron, J., Jim, K. K., Menoud, G., Heiman, C. M., Garrido-Sanz, D., Veening, J.-W., Keel, C.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.17.763165v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Pseudomonas",
+        "bacteria"
+      ],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genomic",
+          "phylogen",
+          "phylogenomic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5164,
+    "collected_at": "2026-11-18T14:07:39.788433+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.64898/2026.11.17.763165"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b1b4d5ba7354f0bb2acfe0c0f5946cbef8e2e40d965f0c957a22ee315cc23208",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T14:52:34.391780+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "623aa42f1c9b9dec70aa519837aab32c7277bbc3f9c17dde6b47bb08d1df6f84",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T14:52:34.391780+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Pseudomonas Fit毒素遺伝子座のモジュール進化と機能的分化",
+    "abstract_ja": "殺虫性Fit毒素は、植物共生性Pseudomonasにおける昆虫との相互作用において果たす役割でよく知られている。しかし、海洋魚類病原菌Pseudomonas baeticaを含む非昆虫病原性Pseudomonasにおける同毒素の存在は、その進化史と機能的多様化に関する疑問を投げかけている。本研究では、比較ゲノム学的、構造的、および機能的アプローチを用いて、Pseudomonas fluorescens種複合体におけるfit遺伝子座を調査した。系統ゲノム解析により、fit遺伝子クラスターの数回にわたる古代の獲得と、それに続く毒素FitDおよびセンサーキナーゼFitFのPseudomonasサブグループ特異的な染色体組み込みと多様化が支持された。P. baeticaはfitオペロンを保有しているが、昆虫幼虫に対する経口毒性は認められなかった。この毒性の欠如は、共生菌であるEnterobacter sp.による腸内定着への耐性に関連している。直接血リンパ注入においても毒性は認められず、P. baeticaにおけるFit活性は、昆虫血リンパ中でのfitプロモーター活性化の欠如によって制限されている。最後に、ゼブラフィッシュモデルにおいて、FitDはP. baeticaにとって必須ではなく、同菌は他の病原性機構を介して重篤な全身性感染症を引き起こす。それにもかかわらず、FitDはゼブラフィッシュにおけるP. protegens CHA0の病原性に寄与しており、これによりその影響を昆虫から脊椎動物宿主へと拡大させている。これらの知見を総合すると、fit遺伝子座の進化的および調節的な可塑性が浮き彫りになり、祖先的な毒素システムが、異なる生態的ニッチに適応した細菌においていかにして異なる機能的役割を獲得し得るかが示される。"
   }
 ]
