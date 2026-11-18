@@ -296839,5 +296839,287 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "IRE1αは、未フォールディングタンパク質とBiPによって制御される動的なフィラメント形成サイクルを経る。",
     "abstract_ja": "小胞体は、タンパク質の合成、修飾、および輸送の主要なハブであり、そのフォールディング能のバランスを保つために未フォールディングタンパク質応答（UPR）に依存している。UPRセンサーの中で最も保存性の高いIRE1は、活性化に伴いオリゴマー状態へと変化し、ストレスシグナルを小胞体腔から細胞質のキナーゼ/RNaseドメインへと伝播させる。本研究では、未フォールディングタンパク質と小胞体シャペロン機構からの相反する入力が、IRE1アセンブリの動的なサイクルを制御していることを示す。真正な未フォールディング小胞体クライアントがIRE1の腔内ドメイン（LD）に直接結合し、高次オリゴマー化を促進する。モデルペプチドを用いた解析により、LDフィラメントへの完全なアセンブリは、リガンドの長さ、配列、およびIRE1のオリゴマー化界面に依存することがさらに明らかになった。小胞体Hsp70（BiP）は、2つの異なるメカニズムを通じてこのプロセスを相殺している。すなわち、i) BiPのヌクレオチド結合ドメインを介したATP非依存的な相互作用が、オリゴマー化界面に結合することで初期のIRE1アセンブリを緩衝し、一方で ii) ATP調節型のBiP/ERDJ機構がアセンブリ済みフィラメントを能動的に解体する。以上の知見を総合すると、未フォールディングタンパク質の直接的な認識とBiP介在性調節が整合し、LDオリゴマー化が、未フォールディングタンパク質の負荷とシャペロンの利用可能性によってIRE1のアセンブリ状態とシグナル伝達を動的に調節する統合点として確立される。"
+  },
+  {
+    "id": "10.1093/bioinformatics/btag825",
+    "title": "TAFFISH: shell-native command-level reproducibility for bioinformatics",
+    "abstract": "AbstractSummaryBioinformatics analyses often rely on shell commands and small shell scripts whose executable context is difficult to preserve, inspect and reuse. TAFFISH addresses this gap by packaging command-line tool calls and lightweight shell flows as installable, versioned and inspectable executable units. Through a curated public Hub, TAFFISH indexes command interfaces, execution backends, platform constraints, release metadata and smoke-test/validation records. Together, these components provide a command-level reproducibility layer that works directly in ordinary shells and can also be invoked from existing workflow systems.Availability and ImplementationTAFFISH is implemented in Common Lisp and released under Apache-2.0. TAFFISH version 0.10.1, together with the source code, documentation and public Hub resources, is available at https://github.com/taffish/taffish, https://taffish.com, https://taffish.github.io and https://github.com/taffish/. The submitted software release, frozen Hub snapshot, test data, command logs, checksums and reproducibility package are archived at https://doi.org/10.5281/zenodo.21054185. The authors will maintain the software and public resources for at least two years after publication.Supplementary informationSupplementary data are available at Bioinformatics online.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag825",
+    "date": "2026-11-17",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag825/9081218?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5129,
+    "collected_at": "2026-11-18T04:29:26.571529+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.1093/bioinformatics/btag825"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e5b29c0b22262af6bb33fd1238c5d2c9b9eb420ed46231eede3784f81c58e84d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T04:50:45.414775+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "58c4ccef919ebf4e7d36e8a17063aa95dc08f23725ffcca2bbd546e3e1b8d7dd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T04:50:45.414775+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "TAFFISH: バイオインフォマティクスのためのシェルネイティブなコマンドレベルの再現性",
+    "abstract_ja": "概要バイオインフォマティクス解析では、シェルコマンドや小規模なシェルスクリプトが頻繁に用いられるが、それらの実行コンテキストを保存・検証・再利用することは困難である。TAFFISHは、コマンドラインツールの呼び出しや軽量なシェルフローを、インストール可能でバージョン管理および検証が可能な実行可能ユニットとしてパッケージ化することで、この課題を解決する。厳選された公開Hubを通じて、TAFFISHはコマンドインターフェース、実行バックエンド、プラットフォーム制約、リリースメタデータ、およびスモークテスト／検証レコードをインデックス化する。これらのコンポーネントが一体となって、通常のシェルで直接動作し、既存のワークフローシステムからも呼び出せるコマンドレベルの再現性レイヤーを提供する。利用可能性と実装TAFFISHはCommon Lispで実装されており、Apache-2.0の下でリリースされている。TAFFISHバージョン0.10.1は、ソースコード、ドキュメント、および公開Hubリソースとともに、https://github.com/taffish/taffish、https://taffish.com、https://taffish.github.io、およびhttps://github.com/taffish/で入手可能である。提出済みのソフトウェアリリース、凍結済みHubスナップショット、テストデータ、コマンドログ、チェックサム、および再現性パッケージは、https://doi.org/10.5281/zenodo.21054185にアーカイブされている。著者らは、公開後少なくとも2年間、ソフトウェアおよび公開リソースのメンテナンスを行う。補足情報補足データはBioinformatics onlineで入手可能である。"
+  },
+  {
+    "id": "10.1186/s13059-026-04324-3",
+    "title": "STRUCT: a statistical approach to detect conserved RNA secondary structures from raw sequencing data without multiple sequence alignment",
+    "abstract": "Covariation among orthologous sequences is an established evolutionary signal of conserved RNA secondary structures. We present STRUCT (Statistical Testing of RNA Units with Covariation Traits), a covariation-based statistical test that applies to raw sequencing data, bypassing assembly and multiple sequence alignment required by existing covariation methods. Simulations demonstrate false discovery rate control and high power under matched model assumptions. STRUCT rediscovers known HIV structural elements in provirus sequences, identifies conserved rRNA structures, and prioritizes putative viral RNA structures in metatranscriptomics samples. STRUCT offers a novel approach for high-throughput detection of conserved RNA structures and hypothesis generation for viral discovery.",
+    "journal": "Genome Biology",
+    "doi": "10.1186/s13059-026-04324-3",
+    "date": "2026-11-17",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s13059-026-04324-3",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "alignment",
+        "assembly",
+        "metatranscriptom",
+        "metatranscriptomics",
+        "method",
+        "sequence",
+        "sequencing",
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "evolution"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=13059",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5130,
+    "collected_at": "2026-11-18T04:29:26.571529+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=13059"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.1186/s13059-026-04324-3"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ce2476312d3c607bea996f2a7d2dc4173e71662c40ac8d9698ff3ef80e5f8766",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T04:50:45.414775+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "58b15f077d6ab64eee8dc53cdc3f22c0322635f0ae439581ad30e1efa4b13648",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T04:50:45.414775+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "STRUCT: 多重配列アライメントを用いずに生のシーケンシングデータから保存されたRNA二次構造を検出する統計的手法",
+    "abstract_ja": "直交配列間の共変動は、保存されたRNA二次構造の確立された進化的シグナルである。本研究では、既存の共変動手法で必要とされるアセンブリや多重配列アライメントを介さず、生のシーケンシングデータに適用可能な共変動ベースの統計検定「STRUCT（Statistical Testing of RNA Units with Covariation Traits）」を提案する。シミュレーションにより、マッチドモデルの仮定下における偽発見率の制御と高い検出力が実証された。STRUCTは、プロウイルス配列における既知のHIV構造要素を再同定し、保存されたrRNA構造を同定するとともに、メタトランスクリプトミクスサンプルにおける推定ウイルスRNA構造の優先順位付けを行う。STRUCTは、保存されたRNA構造のハイスループット検出およびウイルス発見のための仮説立案に向けた新たなアプローチを提供する。"
+  },
+  {
+    "id": "10.64898/2026.11.16.766924",
+    "title": "A host-pathogen tug-of-war over migrasome biogenesis in Vibrio cholerae infection",
+    "abstract": "Migrasomes are extracellular organelles implicated in cell communication and immune signaling, yet their induction by bacterial toxins and functional consequences during infection remains unknown. Here, we show that Vibrio cholerae infection induces non-canonical migracytosis in multiple cell types through the MARTX toxin. The actin cross-linking domain (ACD) promotes cell contraction and retraction fiber formation, while the /{beta}-hydrolase domain (ABH) collaborates with actin-polymerization machinery to support migrasome maturation. The Rho inactivation domain (RID) covalently modifies multiple Rho/Ras GTPases, and its absence yields oversized membrane blebs (large vesicles) enriched in endoplasmic reticulum, lipid droplets, and pro-inflammatory chemokines compared with wild-type migrasomes. In an infant mouse model, RID-deficient V. cholerae exhibits impaired intestinal colonization and elevated host chemokine transcription. These findings establish that MARTX-driven migrasome formation is not merely a byproduct of cytoskeleton damage, but represents a coordinated, domain-specific reprogramming of host membrane dynamics with implications for host-pathogen interplay.",
+    "journal": "",
+    "doi": "10.64898/2026.11.16.766924",
+    "date": "2026-11-17",
+    "authors": "Xia, P., Wang, R., Liu, M., Tang, J., Zhang, S., Wang, Z., Zhang, Y., Yan, S., Guo, H., Xiang, Q., Wang, H., Wang, H., Tian, M., Fu, Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.16.766924v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Vibrio",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5131,
+    "collected_at": "2026-11-18T04:29:26.571529+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.64898/2026.11.16.766924"
+    ],
+    "translation": {
+      "title": {
+        "hash": "56f52aca7881afd6e4211a2ba5d356d7b6523ce62f1a48954271eea640cbd909",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T04:50:45.414775+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d3c27ee4d93c627a49ffb8f320c9ec8d634f89fd43b2baafee6d749e8979acc8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T04:50:45.414775+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "コレラ菌感染におけるミグラソーム生合成をめぐる宿主と病原体の綱引き",
+    "abstract_ja": "ミグラソームは、細胞間コミュニケーションや免疫シグナル伝達に関与する細胞外オルガネラであるが、細菌毒素による誘導や感染時の機能的帰結については依然として不明である。本研究では、Vibrio cholerae感染がMARTX毒素を介して、複数の細胞種において非正準的なミグラサイトーシスを誘導することを示す。アクチン架橋ドメイン（ACD）は細胞の収縮および退縮線維の形成を促進する一方、/{beta}-ヒドロラーゼドメイン（ABH）はアクチン重合機構と連携してミグラソームの成熟を支える。Rho不活性化ドメイン（RID）は複数のRho/Ras GTPaseを共有結合的に修飾し、その欠損により、野生型ミグラソームと比較して、小胞体、脂質滴、および炎症性ケモカインに富む過大な膜ブレブ（大型小胞）が形成される。幼若マウスモデルにおいて、RID欠損型V. choleraeは腸管定着能の低下と宿主ケモカイン転写の亢進を示す。これらの知見は、MARTX駆動によるミグラソーム形成が単なる細胞骨格損傷の副産物ではなく、宿主膜動態の協調的かつドメイン特異的なリプログラミングであり、宿主と病原体の相互作用に影響を及ぼすものであることを立証している。"
+  },
+  {
+    "id": "10.64898/2026.11.17.767251",
+    "title": "The dynamic expressome of Pseudomonas putida: condition-dependent remodelling of the RNA polymerase interactome",
+    "abstract": "As in many bacteria, the 2{beta}{beta}'{omega} core RNA polymerase (RNAP) of Pseudomonas putida interacts in vivo with sigma factors, transcriptional regulators and auxiliary proteins whose relative abundance varies with the physiological state. Here, we used an in vivo immunocapture approach to examine condition-dependent changes in the RNAP interactome of P. putida KT2440. His-, Myc- and E-tags were separately introduced at the C-terminus of RpoC ({beta}'), a permissive, surface-exposed site accessible to cognate antibodies. Myc-tagged RNAP complexes were immunocaptured with magnetic beads and analyzed by LC-ESI-MS/MS and computational methods. The results revealed condition-dependent association of the RNAP core (RpoA, RpoB, RpoC and RpoZ) with distinct pools of sigma factors, as well as ribosomal proteins, RNA-processing factors and metabolic enzymes. Nutrient starvation, nutrient-rich growth and high temperature altered the composition and relative representation of RNAP-associated proteins. Despite the limited physiological conditions examined, our results support a model in which RNAP acts as a dynamic organizational hub of the bacterial expressome, integrating transcription with translation, RNA maturation and central metabolism.",
+    "journal": "",
+    "doi": "10.64898/2026.11.17.767251",
+    "date": "2026-11-17",
+    "authors": "Pitarch, B., Pazos, F., de Lorenzo, V., Tas, H.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.17.767251v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Pseudomonas",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5132,
+    "collected_at": "2026-11-18T04:29:26.571529+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.64898/2026.11.17.767251"
+    ],
+    "translation": {
+      "title": {
+        "hash": "430d910e518c2aa33ae5e9fcb98c5730d66413014d8c968e834bb85fa41eeb2a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T04:50:45.414775+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "169fa78f59d067cc7b4e6a93c4aba6e2a9757397461421cc3a2316697b583b4d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T04:50:45.414775+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Pseudomonas putidaの動的エクスプレソーム：条件依存的なRNAポリメラーゼインタラクトームのリモデリング",
+    "abstract_ja": "多くの細菌と同様に、Pseudomonas putidaの2{beta}{beta}'{omega}コアRNAポリメラーゼ（RNAP）は、生体内でシグマ因子、転写調節因子、および生理的状態に応じて相対存在量が変化する補助タンパク質と相互作用する。本研究では、in vivo免疫キャプチャ法を用いて、P. putida KT2440のRNAPインタラクトームにおける条件依存的な変化を検討した。cognate抗体がアクセス可能な許容性の表面露出部位であるRpoC（{beta}'）のC末端に、His、Myc、およびEタグをそれぞれ導入した。Mycタグ標識RNAP複合体を磁気ビーズで免疫キャプチャし、LC-ESI-MS/MSおよび計算手法を用いて解析した。その結果、RNAPコア（RpoA、RpoB、RpoC、およびRpoZ）が、異なるシグマ因子プール、ならびにリボソームタンパク質、RNAプロセシング因子、および代謝酵素と条件依存的に結合することが明らかになった。栄養飢餓、栄養豊富な生育、および高温は、RNAP関連タンパク質の組成および相対的な存在比を変化させた。検討した生理的条件は限定的であったが、本結果は、RNAPが細菌エクスプレソームの動的な組織化ハブとして機能し、転写と翻訳、RNA成熟、および中心代謝を統合するというモデルを支持するものである。"
   }
 ]
