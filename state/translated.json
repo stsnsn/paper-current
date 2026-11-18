@@ -300179,5 +300179,315 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "Pseudomonas Fit毒素遺伝子座のモジュール進化と機能的分化",
     "abstract_ja": "殺虫性Fit毒素は、植物共生性Pseudomonasにおける昆虫との相互作用において果たす役割でよく知られている。しかし、海洋魚類病原菌Pseudomonas baeticaを含む非昆虫病原性Pseudomonasにおける同毒素の存在は、その進化史と機能的多様化に関する疑問を投げかけている。本研究では、比較ゲノム学的、構造的、および機能的アプローチを用いて、Pseudomonas fluorescens種複合体におけるfit遺伝子座を調査した。系統ゲノム解析により、fit遺伝子クラスターの数回にわたる古代の獲得と、それに続く毒素FitDおよびセンサーキナーゼFitFのPseudomonasサブグループ特異的な染色体組み込みと多様化が支持された。P. baeticaはfitオペロンを保有しているが、昆虫幼虫に対する経口毒性は認められなかった。この毒性の欠如は、共生菌であるEnterobacter sp.による腸内定着への耐性に関連している。直接血リンパ注入においても毒性は認められず、P. baeticaにおけるFit活性は、昆虫血リンパ中でのfitプロモーター活性化の欠如によって制限されている。最後に、ゼブラフィッシュモデルにおいて、FitDはP. baeticaにとって必須ではなく、同菌は他の病原性機構を介して重篤な全身性感染症を引き起こす。それにもかかわらず、FitDはゼブラフィッシュにおけるP. protegens CHA0の病原性に寄与しており、これによりその影響を昆虫から脊椎動物宿主へと拡大させている。これらの知見を総合すると、fit遺伝子座の進化的および調節的な可塑性が浮き彫りになり、祖先的な毒素システムが、異なる生態的ニッチに適応した細菌においていかにして異なる機能的役割を獲得し得るかが示される。"
+  },
+  {
+    "id": "10.1186/s40793-026-00987-4",
+    "title": "Vegetation cover shapes community structure and metabolic genetic potential of high-alpine soil microbiomes",
+    "abstract": "Background\n                     Alpine permafrost-affected soils, particularly in the European Alps, remain poorly understood despite rapid warming and projected vegetation increase at higher elevations. We investigated how vegetation cover and physicochemical soil properties structure microbial communities across ten high-altitude alpine permafrost-affected sites.\n                  \n                     Results\n                     Soil parameters (pH, soil water content, temperature, and total C and N contents) varied significantly between sites and revealed pH and C: N ratio as key drivers modulated by vegetation cover, highlighting its indirect role in shaping soil environments. Microbial community composition differed significantly across sites, and functional gene profiles mirrored taxonomic patterns, indicating strong coupling between community structure and functional gene potential, with reduced functional redundancy. Microbial abundance increased with vegetation cover, whereas taxonomic and functional gene diversity plateaued at intermediate vegetation cover, suggesting that the presence of vegetation primarily enhances microbial abundance rather than diversity. Genome-resolved metagenomics revealed a shift from generalist-dominated communities in barren soils to increased prevalence of specialist taxa in vegetated soils. Functional gene abundances, particularly for C cycling, were higher in vegetated soils, while N and S cycling gene potentials were associated with soil temperature and water content. A microcosm experiment measuring ex situ CO₂ and CH₄ fluxes from incubated summer soils, identified vegetated soils as modest CO₂ sources. Vegetated soils exhibited lower, pH and C: N ratio, shaping a more abundant microbial community with more specialist members and higher C cycling gene potential.\n                  \n                     Conclusion\n                     Overall, our findings indicate that alpine greening is associated with microbial community turn-over via vegetation-mediated changes in soil properties, with implications for biogeochemical cycling and C emissions under climate warming.",
+    "journal": "Environmental Microbiome",
+    "doi": "10.1186/s40793-026-00987-4",
+    "date": "2026-11-18",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s40793-026-00987-4",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomics",
+        "microbial",
+        "microbiome",
+        "microbiomes"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=40793",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5227,
+    "collected_at": "2026-11-18T22:06:59.860731+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=40793"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.1186/s40793-026-00987-4"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4e1376f77268f7a44cb91c91ec1f05f74f2b3a7f4fa26ff05a8050dc81a949b2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T22:28:39.633066+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "82357a24d8c030a98527644a526adce359e0e1d09efdcf22c212023b7a7bde8a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T22:28:39.633066+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "植生被覆は高山帯土壌微生物叢の群集構造と代謝遺伝的ポテンシャルを規定する",
+    "abstract_ja": "背景\n                     アルプス山脈、特に欧州アルプスにおける永久凍土の影響を受けた土壌は、急速な温暖化と高標高地での植生増加の予測にもかかわらず、依然として十分に解明されていない。本研究では、標高の高いアルプスの永久凍土影響地10地点において、植生被覆と土壌の物理化学的特性が微生物群集の構造にどのように影響するかを調査した。\n                  \n                     結果\n                     土壌パラメータ（pH、土壌水分量、温度、および総C・N含有量）は地点間で有意に異なり、pHおよびC:N比が植生被覆によって調節される主要な駆動要因であることが明らかとなり、土壌環境の形成における植生被覆の間接的な役割が浮き彫りとなった。微生物群集の組成は地点間で有意に異なり、機能遺伝子プロファイルは分類学的パターンを反映していた。これは、群集構造と機能遺伝子ポテンシャルの間に強い連関があり、機能的な冗長性が低下していることを示している。微生物量は植生被覆の増加に伴い増加したが、分類学的および機能的遺伝子の多様性は中程度の植生被覆で頭打ちとなり、植生の存在が多様性よりも主に微生物量を増加させることが示唆された。ゲノム解像度のメタゲノミクス解析により、不毛土壌におけるジェネラリスト主体の群集から、植生土壌におけるスペシャリスト分類群の割合の増加へのシフトが明らかになった。機能遺伝子の量、特にC循環に関するものは植生土壌でより多く、一方でNおよびS循環の遺伝子ポテンシャルは土壌温度および水分量と関連していた。夏季の培養土壌からex situのCO₂およびCH₄フラックスを測定したマイクロコスム実験により、植生土壌が緩やかなCO₂供給源であることが特定された。植生土壌はより低いpHおよびC:N比を示し、よりスペシャリストな構成員を多く含み、C循環遺伝子ポテンシャルの高い、より豊富な微生物群集を形成していた。\n                  \n                     結論\n                     総じて、本研究の知見は、アルプスの緑化が、植生を介した土壌特性の変化による微生物群集のターンオーバーに関連しており、気候温暖化下における生物地球化学的循環およびC排出量に影響を及ぼすことを示している。"
+  },
+  {
+    "id": "10.1093/femsmc/xtag058",
+    "title": "Virus-associated DNA sequences in the gut metagenome of the citrus root weevil Diaprepes abbreviatus reveal Eupolintoviridae and Caudoviricetes as predominant groups",
+    "abstract": "AbstractThe citrus root weevil (Diaprepes abbreviatus) is a major agricultural pest affecting citrus and other crops in the Caribbean and southern United States. While previous studies have characterized the gut bacterial microbiome of D. abbreviatus, little is known about virus-associated DNA sequences in its gut metagenome. Here, we present a preliminary analysis of virus-associated DNA sequences within the gut metagenome of D. abbreviatus, aimed at identifying taxonomic diversity and putative functional sequences. Adult gut samples were sequenced, assembled, and analyzed using geNomad and Cenote-Taker 3. Results revealed that virus-associated DNA sequences identified in the gut of D. abbreviatus were predominantly assigned to the Eupolintoviridae family and Caudoviricetes class. Functional annotation of virus-associated DNA sequences identified a high prevalence of adenovirus endoprotease-like and adenain-like genes, consistent with eupolintoviral genomic signatures. The only predicted high-quality viral-associated metagenome-assembled genome with 100% completeness displayed a genome length of ~38.2 kbp, and hallmark features of a temperate phage-like sequence associated with Lactococcus. These findings suggest that the gut of D. abbreviatus harbors diverse virus-associated DNA sequences, including those associated to both eukaryotic and prokaryotic hosts. This pilot study provides insights into virus-related DNA sequences in the gut metagenome of D. abbreviatus, opening the opportunity to understand their biological significance and potential ecological implications.",
+    "journal": "FEMS Microbes",
+    "doi": "10.1093/femsmc/xtag058",
+    "date": "2026-11-18",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/femsmicrobes/advance-article/doi/10.1093/femsmc/xtag058/9090159?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "metagenom",
+        "metagenome",
+        "microbiome",
+        "phage",
+        "prokaryotic",
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "annotation",
+          "genom",
+          "genome",
+          "genomic",
+          "metagenom",
+          "metagenome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6274/advanceAccess_4057.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5178,
+    "collected_at": "2026-11-18T22:06:59.860731+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "https://academic.oup.com/rss/site_6274/advanceAccess_4057.xml"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.1093/femsmc/xtag058"
+    ],
+    "translation": {
+      "title": {
+        "hash": "cd02edbbbe8be68a0fa118fad51e3e12ec6f3f8fe1647aece0e49abc38395e9c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T22:28:39.633066+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "71ec7f59601e3ef99706e7a2c1053f245133f479644e1fd814a7b20488261355",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T22:28:39.633066+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "カンキツ根ゾウムシ Diaprepes abbreviatus の腸内メタゲノムにおけるウイルス関連DNA配列から、Eupolintoviridae と Caudoviricetes が主要なグループであることが明らかになった。",
+    "abstract_ja": "要旨 カンキツ根ゾウムシ（Diaprepes abbreviatus）は、カリブ海地域および米国南部のカンキツ類やその他の作物に影響を及ぼす主要な農業害虫である。これまでの研究でD. abbreviatusの腸内細菌マイクロバイオームの特性解析は行われてきたが、その腸内メタゲノムにおけるウイルス関連DNA配列についてはほとんど解明されていない。本研究では、分類学的多様性および推定される機能配列の同定を目的として、D. abbreviatusの腸内メタゲノムにおけるウイルス関連DNA配列の予備的解析結果を報告する。成虫の腸内サンプルをシーケンシングし、geNomadおよびCenote-Taker 3を用いてアセンブルおよび解析を行った。その結果、D. abbreviatusの腸内で同定されたウイルス関連DNA配列は、主にEupolintoviridae科およびCaudoviricetes綱に分類された。ウイルス関連DNA配列の機能アノテーションにより、アデノウイルスエンドプロテアーゼ様遺伝子およびアデニン様遺伝子が高い頻度で認められたが、これはユーポリントウイルスのゲノムシグネチャーと一致していた。100%の完全性を有すると予測された唯一の高品質なウイルス関連メタゲノムアセンブルゲノムは、約38.2 kbpのゲノム長を示し、Lactococcusに関連する温帯ファージ様配列の特徴的な形態を示した。これらの知見は、D. abbreviatusの腸内に、真核生物および原核生物の両方の宿主に関連するものを含む、多様なウイルス関連DNA配列が存在することを示唆している。本パイロット研究は、D. abbreviatusの腸内メタゲノムにおけるウイルス関連DNA配列に関する知見を提供するものであり、それらの生物学的意義および潜在的な生態学的影響を理解する機会を切り拓くものである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1997942",
+    "title": "Pangenome analysis of the Neisseria subflava-associated group reveals variation in accessory gene content and tet(M) carriage",
+    "abstract": "BackgroundMembers of the Neisseria subflava-associated group are common constituents of the human upper-respiratory micro biota. However, taxonomic uncertainty and repeated sampling complicate efforts to characterize genomic diversity and resistance-gene carriage within this group.MethodsPublicly available genome assemblies were curated through source verification, quality assessment and de replication. Operational group assignments were assessed using reference-based average nucleotide identity and core-genome phylogeny, supplemented by digital DNA–DNA hybridization for boundary genomes. Pangenome variation was analyzed alongside resistance genes, tet (M) sequence diversity and genomic context, predicted mobile genetic elements (MGEs), and defense systems.ResultsThe final cohort comprised 152 genomes, including 144 in three operational ANI assignment classes corresponding to N. subflava (n = 23), N. perflava (n = 114) and N. flavescens (n = 7). Eight genomes remained taxonomically unresolved, clustered near N. perflava in the core-genome phylogeny and were excluded from primary group comparisons. The pangenome contained 13,215 gene clusters, including 1,347 core clusters present in ≥99% of genomes and 11,654 shell or cloud clusters. The pooled pangenome accumulation curve did not reach a plateau within the sampled range. Accessory-gene profiles showed group-associated variation and unequal within-group dispersion, with 180 distinct group-associated clusters identified. The most frequently detected resistance determinant, tet (M), occurred in 38/152 genomes (25.0%): 35 assigned to N. perflava and three with unresolved species status. Seven nucleotide sequence types were identified among 52 full-length tet (M) sequences. In pooled analyses, only cloud clusters showed significant MGE-overlap enrichment relative to within-contig randomization. Of 1,091 predicted genomic islands, 39.0% intersected local MGE regions. Complete defense systems occurred in every genome, with abundance and composition differing among reference groups. Nineteen candidate nutrient-acquisition and host-interaction homologs were detected, including FbpABC homologs confined to N. flavescens and a ctrD homolog enriched in N. perflava.ConclusionWithin this curated public-genome cohort, accessory-gene repertoires differed among operational ANI assignment classes. tet (M) carriage was concentrated in N. perflava genomes, with additional carriers among species-unresolved genomes. The phenotypic implications of these genomic differences require validation.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1997942",
+    "date": "2026-11-18",
+    "authors": "Li Feng",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1997942",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "average nucleotide identity"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "assemblies",
+          "genom",
+          "genome",
+          "genomic",
+          "pangenom",
+          "pangenome",
+          "phylogen",
+          "phylogeny"
+        ],
+        "evolution": [
+          "phylogeny"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5179,
+    "collected_at": "2026-11-18T22:06:59.860731+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.3389/fmicb.2026.1997942"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0d7ac4f74902665495deeeeb4afc9ec9785e8643b54dff2f0c5ec79ae19f563a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T22:28:39.633066+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d0aca3384096b9615800dcef3081dc32b21254c4f6a37ca51b8700338e3e4ec1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T22:28:39.633066+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Neisseria subflava関連群のパンゲノム解析により明らかになった補助遺伝子内容とtet(M)保有の多様性",
+    "abstract_ja": "背景Neisseria subflava関連群のメンバーは、ヒト上気道微生物叢の一般的な構成要素である。しかし、分類学的な不確実性と反復的なサンプリングにより、本群におけるゲノム多様性および耐性遺伝子の保有状況を特性評価する取り組みは困難となっている。方法公開されているゲノムアセンブリは、ソース検証、品質評価、およびデレプリケーションを通じてキュレーションされた。運用上のグループ割り当ては、リファレンスに基づく平均ヌクレオチド同一性およびコアゲノム系統樹を用いて評価され、境界ゲノムについてはデジタルDNA-DNAハイブリダイゼーションによって補完された。パンゲノムの変異は、耐性遺伝子、tet (M) 配列の多様性とゲノムコンテキスト、予測された可動性遺伝要素（MGEs）、および防御システムと併せて解析された。結果最終的なコホートは152個のゲノムで構成され、そのうち144個は、N. subflava (n = 23)、N. perflava (n = 114)、およびN. flavescens (n = 7) に対応する3つの運用上のANI割り当てクラスに属していた。8個のゲノムは分類学的に未解決のままであり、コアゲノム系統樹においてN. perflavaの近傍にクラスターを形成していたため、主要なグループ間比較から除外された。パンゲノムには13,215個の遺伝子クラスターが含まれており、そのうち1,347個のコアクラスターは99%以上のゲノムに認められ、11,654個のシェルまたはクラウドクラスターが存在した。プールされたパンゲノムの蓄積曲線は、サンプリング範囲内でプラトーに達しなかった。アクセサリー遺伝子プロファイルでは、グループ関連の変異とグループ内での不均等な分散が認められ、180個の明確なグループ関連クラスターが同定された。最も頻繁に検出された耐性決定因子であるtet (M) は、152個のゲノムのうち38個（25.0%）に認められ、35個がN. perflavaに、3個が種のステータス未解決であった。52個の全長tet (M) 配列のうち、7種類のヌクレオチド配列タイプが同定された。プール解析において、コンティグ内ランダム化と比較して有意なMGEオーバーラップ濃縮を示したのはクラウドクラスターのみであった。予測された1,091個のゲノムアイランドのうち、39.0%が局所的なMGE領域と交差していた。完全な防御システムはすべてのゲノムに認められ、その存在量と構成はリファレンスグループ間で異なっていた。19個の栄養獲得および宿主相互作用の候補ホモログが検出され、これにはN. flavescensに限定されたFbpABCホモログや、N. perflavaで濃縮されたctrDホモログが含まれていた。結論このキュレーションされた公開ゲノムコホートにおいて、アクセサリー遺伝子レパートリーは運用上のANI割り当てクラス間で異なっていた。tet (M) の保有はN. perflavaのゲノムに集中しており、種のステータスが未解決のゲノムにも追加の保有者が認められた。これらのゲノム差異が表現型に及ぼす影響については、検証が必要である。"
+  },
+  {
+    "id": "10.1093/ismeco/ycag336",
+    "title": "Functional Roles and Adaptive Evolution of Polychaete Gut Microbiome in Coping with High Hydrogen Sulfide in Hydrothermal Vent and Whale Fall",
+    "abstract": "AbstractDeep-sea hydrothermal vents and whale falls expose animals to potentially toxic hydrogen sulfide (H₂S). Although many deep-sea invertebrates possess specialized symbiotic organs, polychaetes retain functional digestive systems, yet the contribution of their gut microbiota to environmental adaptation remains unclear. Here, we identify Sulfurovaceae as a prominent, gut-enriched lineage in Archinome jasoni and Nereis sp. These bacteria encode and express sulfide:quinone oxidoreductase (sqr), supporting sulfide-oxidation potential. Together with elemental sulfur and pyrite detected in intestinal tissues, these findings suggest a microbial contribution to sulfur deposition and potential sulfide detoxification. High-affinity cbb₃-type oxidases and nitrate reductases (narGHI and napAB) provide respiratory flexibility across oxygen-limited intestinal conditions. Diverse carbohydrate-active enzymes and ATP-binding cassette transporters suggest mixotrophic capacities involving host-derived organic substrates. Eukaryotic-like proteins containing ankyrin and cadherin domains indicate potential capacities for host interaction and adhesion. Expansions of gene families associated with the chemotaxis methyltransferase CheR and the OmpR–EnvZ two-component system may enhance environmental sensing during colonization, whereas contractions of GGDEF- and EAL-domain-containing families suggest remodeling of cyclic di-GMP regulation. Together, these metabolic and genomic features are consistent with specialization to host-associated intestinal niches. Our findings highlight gut-associated Sulfurovaceae as potential contributors to polychaete persistence in sulfide-rich environments and provide a framework linking microbial metabolic flexibility and intestinal adaptation to possible host benefits in deep-sea chemosynthetic ecosystems.",
+    "journal": "ISME Communications",
+    "doi": "10.1093/ismeco/ycag336",
+    "date": "2026-11-18",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://academic.oup.com/ismecommun/advance-article/doi/10.1093/ismeco/ycag336/9089886?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "microbial",
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genomic"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6596/advanceAccess_4180.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5176,
+    "collected_at": "2026-11-18T22:06:59.860731+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "https://academic.oup.com/rss/site_6596/advanceAccess_4180.xml"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.1093/ismeco/ycag336"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a08fbfdc66acf128c9aedea93a4cd8805d4ee7015ccbbeb1b408aa6569eedb57",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T22:28:39.633066+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a53edd8f5634396bb0a85a5a6c8688f4c31fb0f3a74800e01bd871701eb5e16b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T22:28:39.633066+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "熱水噴出孔および鯨類の落下における高濃度硫化水素への対処に向けた多毛類腸内細菌叢の機能的役割と適応進化",
+    "abstract_ja": "要旨深海熱水噴出孔や鯨滝は、動物を潜在的に毒性のある硫化水素（H₂S）にさらす。多くの深海無脊椎動物は特殊な共生器官を有するが、多毛類は機能的な消化系を保持しており、その腸内微生物叢が環境適応に果たす寄与については依然として不明である。本研究では、Archinome jasoniおよびNereis sp.において、腸内に豊富に存在する主要な系統としてSulfurovaceaeを同定した。これらの細菌は硫化物-キノン酸化還元酵素（sqr）をコード・発現しており、硫化物酸化能を支えている。腸管組織で検出された元素硫黄および黄鉄鉱と併せ、これらの知見は、硫黄沈着および潜在的な硫化物解毒への微生物の寄与を示唆している。高親和性のcbb₃型酸化酵素および硝酸還元酵素（narGHIおよびnapAB）は、酸素制限下の腸管条件下において呼吸の柔軟性をもたらす。多様な糖質活性酵素およびATP結合カセットトランスポーターは、宿主由来の有機基質が関与する混合栄養能を示唆している。アンキリンおよびカドヘリンドメインを含む真核生物様タンパク質は、宿主との相互作用および接着の潜在的な能力を示している。走化性メチルトランスフェラーゼCheRおよびOmpR–EnvZ二成分系に関連する遺伝子ファミリーの拡張は、定着時の環境感知を強化する可能性があり、一方でGGDEFおよびEALドメイン含有ファミリーの縮小は、環状ジGMP調節のリモデリングを示唆している。これらの代謝的・ゲノム的特徴は総じて、宿主関連の腸管ニッチへの特化と整合している。本研究の知見は、腸管関連のSulfurovaceaeが、硫化物に富む環境における多毛類の生存に寄与する潜在的な因子であることを浮き彫りにし、深海化学合成生態系における微生物の代謝柔軟性と腸管適応を、宿主にもたらし得る利益へと結びつける枠組みを提示するものである。"
   }
 ]
