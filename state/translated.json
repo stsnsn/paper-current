@@ -298832,5 +298832,280 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "完全に改変されたSpyCas9ガイドRNAは、細胞内および生体内で堅牢なゲノム編集を可能にする。",
     "abstract_ja": "要旨CRISPR/Cas9構成要素の精密工学により、ゲノム編集は治療応用に向けて進展してきた。完全に化学修飾されたガイドRNA（gRNA）は、安定性を向上させ、治療デリバリー戦略を拡大させる可能性を秘めている。しかし、CRISPRガイドの広範な化学修飾は、gRNA–Cas9相互作用を阻害することで、ゲノム編集活性を損なう恐れがある。本研究では、反復的な構造ガイド型最適化戦略を用い、SpyCas9 gRNA全体にわたる化学修飾を系統的に評価した。一般的に用いられるヌクレオチド修飾にとどまらず、2′-アミノRNA、4′-チオRNA、および拡張ヌクレ酸（exNA）を導入し、ヌクレオチドの90%～100%が糖またはバックボーン修飾されたgRNAを作製した。個々の修飾パターンの性能は標的配列によって異なっていたが、in vitroおよびin vivoで堅牢なゲノム編集を可能にするガイドのレパートリーを確立した。総じて、これらの知見は、非ウイルス性CRISPRゲノム編集に向けて、多様なヌクレオチド化学手法を用いて高度かつ完全に修飾されたgRNAを合理的に設計するための系統的な枠組みを提供するものである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1963513",
+    "title": "Altered gut virome composition in patients with pulmonary tuberculosis",
+    "abstract": "BackgroundPulmonary tuberculosis (PTB), caused by Mycobacterium tuberculosis, remains the leading cause of death from a single infectious disease worldwide. While previous studies have linked gut bacterial dysbiosis to PTB, the role of the gut virome has not been systematically investigated.Methodswe reanalyzed the fecal metagenomic dataset from 46 patients with PTB and 31 healthy controls. Gut viral communities were profiled using the Chinese Gut Virome Catalog with >93,000 viral operational taxonomic units (vOTUs), functional annotations were performed using KEGG Ortholog (KO), and the bacterium–virus co-abundance networks were constructed. Random forest models were applied to evaluate the predictive value of microbial features for PTB classification.ResultsPTB patients showed significantly reduced gut viral α-diversity and a small group-associated difference in virome composition, with the latter interpreted cautiously because multivariate dispersion also differed between groups. Control-enriched families included Fervensviridae and Phycodnaviridae, whereas PTB-enriched vOTUs were dominated by Microviridae and Winoviridae. Viruses linked to butyrate-producing bacteria (Gemmiger, Lachnospira, Roseburia) were enriched in controls, while PTB-enriched viruses mainly targeted Bacteroides and Parabacteroides. The PTB patients and healthy controls showed 1,182 and 922 significant bacterium–virus co-abundance relationships, respectively, with differences in the highly connected taxa identified in the group-specific network. Functional comparisons showed that K01356 (repressor LexA) was more frequently present in PTB-enriched than HC-enriched vOTUs after multiple-testing correction. In the initial non-nested analysis of the discovery cohort, the virus-only, bacteria-only, and combined models achieved AUCs of 91.5%, 90.6%, and 91.0%, respectively. Supplementary fully nested cross-validation yielded mean AUCs of 83.4%, 81.9%, and 83.1%, respectively. In the independent external cohort, the corresponding AUCs were 89.4%, 95.0%, and 89.5%, respectively.Conclusionsthis study provides a systematic characterization of gut virome alterations associated with PTB. PTB-associated virome signatures were characterized by altered viral diversity, differences in predicted phage–host associations, and enrichment of predicted viral functions potentially related to stress responses. Importantly, gut viral features showed comparable predictive capability to bacterial features, supporting their potential as candidate non-invasive biomarkers that warrant further validation.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1963513",
+    "date": "2026-11-18",
+    "authors": "Jijun Yang",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1963513",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "bacterium",
+        "metagenom",
+        "metagenomic",
+        "microbial",
+        "phage",
+        "viral",
+        "virome",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5149,
+    "collected_at": "2026-11-18T14:07:39.788433+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.3389/fmicb.2026.1963513"
+    ],
+    "translation": {
+      "title": {
+        "hash": "49873cfbbef9062a3358f23a50a71919946767654a828c7b976ccb9f9c1d44f4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T14:40:06.767981+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "45f094b8c5134ee3f9a569186e45c23c72ea3671732118eb066182a60462567e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T14:40:06.767981+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "肺結核患者における腸管ウイルス叢組成の変化",
+    "abstract_ja": "背景Mycobacterium tuberculosis（PTB）による肺結核（PTB）は、依然として世界における単一の感染症による死因の第1位である。これまでの研究では、腸内細菌叢の乱れがPTBに関連していることが示されてきたが、腸内ウイルス叢の役割については体系的に調査されてこなかった。方法PTB患者46例および健常対照群31例の糞便メタゲノムデータセットを再解析した。93,000を超えるウイルス運用分類単位（vOTU）を含むChinese Gut Virome Catalogを用いて腸内ウイルス群集のプロファイリングを行い、KEGG Ortholog（KO）を用いて機能アノテーションを実施し、細菌・ウイルス共存在ネットワークを構築した。ランダムフォレストモデルを適用し、PTB分類における微生物特徴量の予測能を評価した。結果PTB患者では腸内ウイルスのα多様性が有意に低下しており、ウイルス叢組成において群間のわずかな差異が認められたが、多変数散布図においても群間で差異が見られたため、後者の解釈には慎重を要する。対照群で濃縮された科にはFervensviridaeおよびPhycodnaviridaeが含まれていた一方、PTBで濃縮されたvOTUではMicroviridaeおよびWinoviridaeが支配的であった。酪酸産生菌に関連するウイルス（Gemmiger, Lachnospira, Roseburia）は対照群で濃縮されていたが、PTBで濃縮されたウイルスは主にBacteroidesおよびParabacteroidesを標的としていた。PTB患者と健常対照群では、それぞれ1,182例および922例の有意な細菌・ウイルス共存在関係が認められ、群特異的ネットワークにおいて高度に連結した分類群に差異が認められた。機能比較の結果、多重検定補正後において、K01356（リプレッサーLexA）はHCで濃縮されたvOTUよりもPTBで濃縮されたvOTUに高頻度で認められた。探索コホートの初期非ネスト解析において、ウイルスのみ、細菌のみ、および複合モデルのAUCは、それぞれ91.5%、90.6%、91.0%であった。補足的な完全ネスト交差検証では、平均AUCはそれぞれ83.4%、81.9%、83.1%であった。独立した外部コホートにおける対応するAUCは、それぞれ89.4%、95.0%、89.5%であった。結論本研究は、PTBに関連する腸内ウイルス叢の変化を体系的に特性評価したものである。PTB関連のウイルス叢シグネチャーは、ウイルス多様性の変化、予測されるファージ・宿主関連の差異、およびストレス応答に関連する可能性のある予測ウイルス機能の濃縮によって特徴づけられた。重要な点として、腸内ウイルスの特徴量は細菌の特徴量と同等の予測能を示しており、さらなる検証に値する非侵襲的なバイオマーカー候補としての可能性が支持された。"
+  },
+  {
+    "id": "10.1093/nar/gkag1176",
+    "title": "Differential roles of tRNA m2G10 mediated by TRMT11–TRMT112 in cytoplasmic and mitochondrial translation",
+    "abstract": "AbstractMitochondrial transfer RNAs (mt-tRNAs) harbor diverse types of posttranscriptional modifications. The enzyme responsible for N2-methylguanosine (m2G) formation at position 10 in mammalian mt-tRNAs remains unidentified, and the cellular function and biological significance of mitochondrial m2G10 remain poorly understood. Here, we find that a fraction of TRMT11 and TRMT112 is localized in mitochondria. Leveraging genetic, biochemical, and mass spectrometry approaches, we demonstrate that TRMT11 and TRMT112 jointly catalyze m2G10 biogenesis in mt-tRNAs. Critical residues in both proteins essential for complex formation and enzymatic activity are identified. The deletion of TRMT11 has little effect on cytoplasmic translation velocity and other tRNA modifications, with marginal suppression in decoding limited codons. Although mitochondrial m2G10 deficiency has little impact on the abundance, charging, and other modifications of mt-tRNAs, it causes a migration shift of multiple mt-tRNAs in native gels, indicating an altered mt-tRNA architecture. Consistently, the decoding efficiency of MT-ND3, MT-ND6, MT-CO1, MT-CO2, and MT-CO3 messenger RNAs (mRNAs) is significantly impaired, causing changes in mitochondrial structure and function. Trmt11 knockout mice show no defects in development, growth, or functions in the heart, muscle, and spermatogenesis. Collectively, our results establish that TRMT11–TRMT112 is the mitochondrial m2G10 methyltransferase and reveal the differential roles of m2G10 on cytoplasmic and mitochondrial translation.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1176",
+    "date": "2026-11-18",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1176/9089559?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5171,
+    "collected_at": "2026-11-18T14:07:39.788433+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/3091.xml"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.1093/nar/gkag1176"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8412488a3a62f7499becd172d6e5021f57de2ea18dca2ff75cb751e49d1a35ea",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T14:40:06.767981+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "06ec327063158d2fc2e1793a14cf5b803b2fb287cb380aba975c85cdd7e28f8f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T14:40:06.767981+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "細胞質およびミトコンドリア翻訳におけるTRMT11–TRMT112を介したtRNA m2G10の異なる役割",
+    "abstract_ja": "要旨ミトコンドリア転移RNA（mt-tRNA）には、多様な種類の転写後修飾が存在する。哺乳類mt-tRNAの10位におけるN2-メチルグアノシン（m2G）形成を担う酵素は未同定であり、ミトコンドリアm2G10の細胞機能および生物学的意義については十分に解明されていない。本研究では、TRMT11およびTRMT112の一部がミトコンドリアに局在することを見出した。遺伝学的、生化学的、および質量分析学的手法を用いて、TRMT11とTRMT112が共同してmt-tRNAにおけるm2G10生合成を触媒することを実証した。複合体形成および酵素活性に不可欠な両タンパク質の重要残基を同定した。TRMT11の欠失は、細胞質翻訳速度や他のtRNA修飾にほとんど影響を及ぼさず、限定的なコドンのデコーディングをわずかに抑制するにとどまった。ミトコンドリアm2G10欠損は、mt-tRNAの量、チャージング、およびその他の修飾にほとんど影響を与えないが、天然ゲルにおいて複数のmt-tRNAの移動シフトを引き起こし、mt-tRNAの構造変化を示唆している。同様に、MT-ND3、MT-ND6、MT-CO1、MT-CO2、およびMT-CO3メッセンジャーRNA（mRNA）のデコーディング効率が著しく低下し、ミトコンドリアの構造と機能に変化が生じる。Trmt11ノックアウトマウスでは、発生、成長、あるいは心臓、筋肉、および精子形成における機能に欠陥は認められない。以上の結果を総合すると、TRMT11–TRMT112がミトコンドリアm2G10メチルトランスフェラーゼであることが立証され、細胞質およびミトコンドリア翻訳におけるm2G10の役割の相違が明らかになった。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1933134",
+    "title": "Integrated genomic and metabolomic analysis reveals the anti-inflammatory potential of Bifidobacterium animalis subsp. lactis BGI-N3 in DSS-induced colitis",
+    "abstract": "Probiotics offer a promising therapeutic avenue for inflammatory bowel disease (IBD), yet their efficacy is highly strain-specific and mechanistically complex. To address this, this study integrated complete genome sequencing, in vitro assays, and in vivo metabolomics to elucidate the anti-inflammatory mechanisms of Bifidobacterium animalis subsp. lactis BGI-N3. Genomic analysis confirmed the presence of gene clusters associated with stress tolerance and immunomodulation. Functionally, BGI-N3 suppressed LPS-induced pro-inflammatory cytokines in monocytes and significantly alleviated DSS-induced colitis in mice by restoring mucosal architecture. Crucially, untargeted metabolomics demonstrated that BGI-N3 intervention restructured the gut metabolic landscape, specifically enriching anti-inflammatory metabolites, including ergocalciferol, vanillin, and dihomo-gamma-linolenic acid (DGLA). These metabolites correlated positively with IL-10 levels and negatively with pro-inflammatory markers. Collectively, these findings provided genomic validation and insights into metabolic changes associated with the protective effects of BGI-N3, highlighting its potential as a functional probiotic for alleviating intestinal inflammation.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1933134",
+    "date": "2026-11-18",
+    "authors": "Yiyi Zhong",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1933134",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5150,
+    "collected_at": "2026-11-18T14:07:39.788433+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.3389/fmicb.2026.1933134"
+    ],
+    "translation": {
+      "title": {
+        "hash": "357376b91e076467677f03545bfceeabf023591ce8a9de1812556d4b6f1f4a1b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T14:40:06.767981+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5c68443815e630408e1bbf5fc2c756cd12122017874b78b9b7b87e4c03d07135",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T14:40:06.767981+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ゲノム・メタボローム統合解析により明らかになったDSS誘発性大腸炎におけるBifidobacterium animalis subsp. lactis BGI-N3の抗炎症能",
+    "abstract_ja": "プロバイオティクスは炎症性腸疾患（IBD）に対する有望な治療手段となるが、その有効性は菌株に強く依存し、機序的にも複雑である。この課題に対処するため、本研究では全ゲノムシーケンシング、in vitroアッセイ、およびin vivoメタボロミクスを統合し、Bifidobacterium animalis subsp. lactis BGI-N3の抗炎症機序を解明した。ゲノム解析により、ストレス耐性および免疫調節に関連する遺伝子クラスターの存在が確認された。機能的には、BGI-N3は単球におけるLPS誘導性の炎症性サイトカインを抑制し、粘膜構造を回復させることで、マウスにおけるDSS誘導性大腸炎を有意に軽減した。極めて重要な点として、非標的メタボロミクスにより、BGI-N3の介入が腸管代謝ランドスケープを再構築し、特にエルゴカルシフェロール、バニリン、およびジホモ-γ-リノレン酸（DGLA）を含む抗炎症性代謝物を濃縮させることが示された。これらの代謝物は、IL-10レベルと正の相関を、炎症性マーカーと負の相関を示した。総じて、これらの知見はBGI-N3の保護効果に関連する代謝変化のゲノム学的検証と洞察を提供し、腸管炎症の軽減における機能性プロバイオティクスとしての可能性を浮き彫りにした。"
+  },
+  {
+    "id": "10.1093/nar/gkag1221",
+    "title": "Disrupting the MYB–TAL1 oncogenic axis via direct intracellular delivery of synthetic zinc finger proteins",
+    "abstract": "AbstractT-cell acute lymphocytic leukemia (T-ALL) protein 1 (TAL1) is an important transcription factor in the specification of myeloid cells and positively regulates the differentiation of red blood cells. Aberrant, high-level expression of TAL1, mediated by insertions of short DNA sequences that recruit the transcription factor MYB and establish the formation of super-enhancers, causes T-ALL. Synthetic zinc finger (ZF) DNA-binding proteins targeting the MYB binding site (ZF-Myb) in Jurkat cells, a T-ALL cell line harboring the TAL1-associated mutation, bind the DNA with high affinity and efficiently outcompete MYB. Expression of ZF-Myb reduced expression of TAL1 and cell proliferation in Jurkat cells. Inclusion of a Krüppel-associated Box (KRAB) increased the ZF-Myb DNA-binding affinity four-fold and conferred more efficient reduction of TAL1 expression and Jurkat cell growth. Direct KRAB-ZF-Myb protein delivery was strongly enhanced by novel peptides (CATCH: Co-Assembling Tags based on CHarge complementarity) that form protein granules. Transcriptomic analysis revealed that downregulation of TAL1 using the synthetic KRAB-ZF-Myb protein disrupts the TAL1-MYB oncogenic axis and induces expression of pro-apoptotic genes. In summary, using a novel and highly efficient direct protein delivery system, synthetic ZF proteins targeting a single site in a super-enhancer disrupt oncogenic pathways in T-ALL.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1221",
+    "date": "2026-11-18",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1221/9089558?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5172,
+    "collected_at": "2026-11-18T14:07:39.788433+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/3091.xml"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.1093/nar/gkag1221"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9d27171c943e2d9b24907f1c5535be16ab3d9dd7e4022ebdc5db971a530e7ba5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T14:40:06.767981+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "eda81e81be7cf6df14a964c847fc4e4197b3ad393444fc99d5ce3226a22e300d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T14:40:06.767981+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "合成ジンクフィンガータンパク質の細胞内直接送達によるMYB–TAL1発がん軸の撹乱",
+    "abstract_ja": "要旨 T細胞急性リンパ性白血病（T-ALL）タンパク質1（TAL1）は、骨髄系細胞の分化における重要な転写因子であり、赤血球の分化を正に制御する。転写因子MYBをリクルートし、スーパーエンハンサーの形成をもたらす短鎖DNA配列の挿入を介したTAL1の異常かつ高レベルな発現が、T-ALLを引き起こす。TAL1関連変異を有するT-ALL細胞株であるJurkat細胞において、MYB結合部位を標的とする合成亜鉛フィンガー（ZF）DNA結合タンパク質（ZF-Myb）は、高い親和性でDNAに結合し、MYBを効率的に競合的に抑制する。ZF-Mybの発現は、Jurkat細胞におけるTAL1の発現および細胞増殖を低下させた。Krüppel関連ボックス（KRAB）の導入により、ZF-MybのDNA結合親和性が4倍に向上し、TAL1の発現およびJurkat細胞の増殖がより効率的に抑制された。KRAB-ZF-Mybタンパク質の直接送達は、タンパク質顆粒を形成する新規ペプチド（CATCH: Co-Assembling Tags based on CHarge complementarity）によって著しく増強された。トランスクリプトーム解析により、合成KRAB-ZF-Mybタンパク質を用いたTAL1の発現抑制が、TAL1-MYB発がん軸を破綻させ、アポトーシス促進遺伝子の発現を誘導することが明らかになった。要約すると、新規かつ極めて効率的な直接タンパク質送達システムを用い、スーパーエンハンサーの単一部位を標的とする合成ZFタンパク質が、T-ALLにおける発がん経路を破綻させる。"
   }
 ]
