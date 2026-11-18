@@ -298559,5 +298559,278 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "大韓民国におけるアカイエカ複合微生物叢のWolbachia優占と宿主形態に整合した地理的構造",
     "abstract_ja": "蚊のマイクロバイオームは、宿主の遺伝的背景と環境によって形成されるが、野生集団において両者を分離することは困難であり、特に単一の内共生体がシーケンシングされたコミュニティを支配している場合にはその傾向が顕著である。本研究では、大韓民国におけるCulex pipiens複合体マイクロバイオームの、初の全国規模かつ複合体特異的な調査報告を行う。具体的には、2022年8月1日から15日にかけて22の監視地域の23地点で採取した、韓国の2つの宿主形態であるCx. pipiens pallens (cpp) および Cx. pipiens form molestus (cpm) の29プールについて、16S rRNA遺伝子（V3–V4）アンプリコンシーケンシングを実施した。Wolbachiaは細菌コミュニティの平均45.1%（個別プールでは最大94.7%）を占め、存在量重み付きオードネーションの第1軸となった。この支配的状態の下では、済州島と本土の蚊は、組成、系統的多様性、および均一性において異なる、それぞれ固有の細菌コミュニティを保持していた。この島と本土の対比は、データにおけるWolbachiaの有無による対数比（Aitchison）および存在・不在距離によって検出され、Wolbachiaの存在量を考慮した存在量重み付き距離においてより明確となり、両宿主形態間で一貫しており、またプールサイズ、地理座標、および試薬または脊椎動物由来の可能性がある114属の除外に対しても頑健であった。対照的に、2つの宿主形態は、吸血宿主選好性、自殖性、および休眠において顕著な差異があるにもかかわらず、5つの距離指標のうち4つにおいて検出可能な組成上の差は認められず、どの系統が存在するかという点においてのみわずかな差が見られた。Wolbachiaの支配は、残りのコミュニティの豊かさを損なうことなく、見かけ上の均一性を低下させた。宿主形態と地域が部分的に交絡しており、陰性対照のシーケンシングが行われなかったため、形態間の比較および低存在量分類群のステータスは暫定的なものであり、一方で地理的な対比はいずれにも依存しない。これらの結果は、韓国におけるCulex pipiens複合体マイクロバイオームが宿主形態よりも地理的要因によって構造化されていること、および、支配的な内共生体が存在量重み付き解析において生物地理学的構造を覆い隠し得るが、対数比、存在・不在、および共変量調整解析ではそれが復元されることを示している。シーケンシングデータは、NCBI BioProject PRJNA1479552で公開されている。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1967866",
+    "title": "Rice-fish symbiosis farmed mode enhances muscle quality of yellow catfish (Pelteobagrus fulvidraco): integrated analysis from the microbiome and metabolome data",
+    "abstract": "The rice-fish symbiosis is an ecological aquaculture model, which can improve aquatic product quality and farming sustainability. To clarify the effects of rice-fish symbiosis farmed mode (RFFM) on flesh quality, muscle nutritional composition, intestinal microbiota composition and hepatic metabolic profiles of yellow catfish (Pelteobagrus fulvidraco), this study compared the muscle nutritional composition, intestinal microbial community and hepatic metabolic phenotype of yellow catfish between rice-fish symbiosis farmed mode (RY) and traditional pond culture system (TY). The results showed that on a dry-weight basis, the RY group had higher contents of essential amino acids, umami amino acids, and functional fatty acids such as DHA in muscle, which may contribute to higher nutritional value. However, muscle moisture, crude protein, and crude lipid were not measured. 16S rDNA sequencing revealed that α-diversity of intestinal microbiota was higher in the RY group, with higher abundances of taxa that have been reported to be potentially beneficial (e.g., Firmicutes, Fusobacteria, Cetobacterium, and Clostridium), and lower abundance of potential opportunistic pathogens. Metabolomic analysis revealed that RFFM was associated with distinct hepatic metabolic profiles, including changes in amino acid biosynthesis and glycerophospholipid metabolism pathways. Correlation analysis showed associations between intestinal microbiota and hepatic metabolites, which is consistent with a potential involvement of the gut–liver axis. However, these correlations are exploratory and do not establish causality. In conclusion, in this specific sampling context, rice-fish co-culture was associated with differences in muscle nutritional composition, intestinal microbiota, and metabolic profiles of yellow catfish. However, environmental variables and natural food availability were not systematically measured, and fish were not physically restricted to the ditch. These associations may therefore partly reflect unmeasured environmental and habitat differences between the rice-field and pond systems and cannot be attributed solely to farming mode. Further studies with systematic environmental monitoring are needed to confirm the potential of RFFM for producing high-quality aquatic products.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1967866",
+    "date": "2026-11-18",
+    "authors": "Erlong Wang",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1967866",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rdna",
+        "microbial",
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [
+          "aquatic"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5147,
+    "collected_at": "2026-11-18T14:07:39.788433+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.3389/fmicb.2026.1967866"
+    ],
+    "translation": {
+      "title": {
+        "hash": "1457eff137edc606307a87f7a1485cbef180db7a1df90584c53a2cb9756c2bb0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T14:37:04.197184+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f5ed582bef148af49d1064ecd7c7c1239d33b1362a091cbfebdab0b0de87ad1b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T14:37:04.197184+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "イネ魚共生養殖モードによるイエローキャットフィッシュ（Pelteobagrus fulvidraco）の筋肉質向上：マイクロバイオームおよびメタボロームデータに基づく統合解析",
+    "abstract_ja": "稲魚共生は生態学的水産養殖モデルであり、水産物の品質向上と養殖の持続可能性の改善に寄与し得る。稲魚共生養殖方式（RFFM）がイエローキャットフィッシュ（Pelteobagrus fulvidraco）の身質、筋肉の栄養組成、腸内微生物叢の組成、および肝代謝プロファイルに及ぼす影響を明らかにするため、本研究では、稲魚共生養殖方式（RY）と従来の池養殖システム（TY）におけるイエローキャットフィッシュの筋肉の栄養組成、腸内微生物群集、および肝代謝表現型を比較した。その結果、乾物重量換算で、RY群の筋肉には必須アミノ酸、うま味アミノ酸、およびDHAなどの機能性脂肪酸の含有量が高く、これが栄養価の向上に寄与している可能性が示された。ただし、筋肉の水分、粗タンパク質、および粗脂質は測定されなかった。16S rDNAシーケンシングにより、腸内微生物叢のα多様性はRY群で高く、有益である可能性が報告されている分類群（例：Firmicutes、Fusobacteria、Cetobacterium、Clostridium）の存在量が多く、潜在的な日和見病原体の存在量は少ないことが明らかになった。メタボローム解析の結果、RFFMは、アミノ酸生合成やグリセロリン脂質代謝経路の変化を含む、特徴的な肝代謝プロファイルと関連していることが示された。相関解析では、腸内微生物叢と肝代謝物との間に関連が認められ、これは腸-肝軸の関与の可能性と一致している。ただし、これらの相関は探索的なものであり、因果関係を立証するものではない。結論として、本特定のサンプリング条件下において、稲魚共養殖はイエローキャットフィッシュの筋肉の栄養組成、腸内微生物叢、および代謝プロファイルの差異と関連していた。しかし、環境変数や天然餌資源の利用可能性は系統的に測定されておらず、また魚類を物理的に溝内に限定して飼育していたわけではなかった。したがって、これらの関連性は、水田システムと池システム間の未測定の環境的・生息環境的な差異を部分的に反映している可能性があり、養殖方式のみに起因するものとは言えない。高品質な水産物を生産するためのRFFMの可能性を確認するには、系統的な環境モニタリングを伴うさらなる研究が必要である。"
+  },
+  {
+    "id": "10.1093/nar/gkag1175",
+    "title": "Conformationally heterogeneous RNA stem-loops enable dimerization-assisted assembly of SARS-CoV-2 Nsp9",
+    "abstract": "AbstractSARS-CoV-2 non-structural protein 9 (Nsp9) is an essential RNA-binding protein, yet the physical principles governing its RNA recognition remain poorly defined. Using NMR spectroscopy, small-angle X-ray scattering, dynamic light scattering, cell imaging, and viral yield-reduction assays, we show that Nsp9 preferentially engages conformationally heterogeneous RNA stem-oops and assembles through dimerization-assisted, multivalent interactions. Structured stem-loops with well-defined conformations and extended single-stranded RNAs exhibit only weak, localized binding. In contrast, the stem-loop-rich host 7SL S domain engages an extended interaction surface across the Nsp9 dimer. A 20-nt RNA hairpin bearing phosphorothioate and 2′-O-methyl modifications recapitulates this binding behaviour and promotes concentration-dependent formation of higher-order Nsp9 assemblies. NMR analysis indicates that this RNA retains stem-loop structure while populating a broader conformational ensemble than its unmodified counterpart. Disrupting the conserved GxxxG dimerization motif weakens binding and reduces assembly formation, demonstrating that dimerization assists integration of multiple weak RNA contacts into a cooperative interface. In cells, the modified RNA colocalizes with Nsp9 in cytoplasmic puncta and inhibits SARS-CoV-2 replication with nanomolar potency. Together, these results identify RNA conformational ensembles as important determinants of Nsp9 recognition, and suggest that RNA backbone modification can be used to engineer RNA-protein interactions through control of RNA conformational behaviour.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1175",
+    "date": "2026-11-18",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1175/9089567?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "assembly",
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assemblies",
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5169,
+    "collected_at": "2026-11-18T14:07:39.788433+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/3091.xml"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.1093/nar/gkag1175"
+    ],
+    "translation": {
+      "title": {
+        "hash": "716d5500e7ca29980d47b5355b888e479c293fca6b762418d01343c1deb0e593",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T14:37:04.197184+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "158d6598f56b26b4d2a30e15aca19a76b4c745bdd8e691e3392839ac4b051cb2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T14:37:04.197184+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "コンフォメーション的に不均一なRNAステムループにより、SARS-CoV-2 Nsp9の二量体化を介したアセンブリが促進される",
+    "abstract_ja": "要旨SARS-CoV-2非構造タンパク質9（Nsp9）は必須のRNA結合タンパク質であるが、そのRNA認識を支配する物理的原理は依然として十分に解明されていない。本研究では、NMR分光法、小角X線散乱法、動的光散乱法、細胞イメージング、およびウイルス収量減少アッセイを用いて、Nsp9がコンフォメーション的に不均一なRNAステムループに優先的に結合し、二量体化を介した多価相互作用によって集合することを示す。コンフォメーションが明確に定義された構造化ステムループおよび伸長した一本鎖RNAは、弱く局所的な結合しか示さない。対照的に、ステムループを豊富に含む宿主7SL Sドメインは、Nsp9二量体を横断する伸長した相互作用表面を介して結合する。ホスホロチオエートおよび2′-O-メチル修飾を有する20 nt RNAヘアピンは、この結合挙動を再現し、濃度依存的な高次Nsp9集合体の形成を促進する。NMR解析により、このRNAはステムループ構造を保持しつつ、未修飾の対応物よりも広範なコンフォメーションアンサンブルを有することが示された。保存されたGxxxG二量体化モチーフを破壊すると結合が弱まり、集合体形成が減少することから、二量体化が複数の弱いRNA接触部位の協同的界面への統合を補助することが実証された。細胞内において、修飾RNAは細胞質点においてNsp9と共局在し、ナノモルの効力でSARS-CoV-2の複製を阻害する。以上の結果を総合すると、RNAコンフォメーションアンサンブルがNsp9認識の重要な決定因子であることが特定され、RNAコンフォメーション挙動の制御を通じてRNA-タンパク質相互作用を設計するために、RNAバックボーンの修飾を利用できることが示唆される。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1953444",
+    "title": "Muscle-to-fat ratio and the genus Alistipes in the gut microbiota of children and adolescents with metabolic dysfunction-associated steatotic liver disease: an exploratory multicenter study",
+    "abstract": "BackgroundMetabolic dysfunction-associated steatotic liver disease (MASLD), previously termed non-alcoholic fatty liver disease, is becoming increasingly prevalent in children and adolescents; however, the influence of body composition on its pathophysiology remains unclear. Evidence suggests that the gut microbiota mediates interactions between skeletal muscle and hepatic metabolism through the gut–muscle–liver axis. This multicenter study investigated the relationship between the skeletal muscle-to-fat ratio (MFR) and gut microbiota composition in pediatric patients with MASLD to explore microbial taxa associated with body composition.MethodsChildren and adolescents (aged 6–18 years) with MASLD and elevated ALT at initial diagnosis were enrolled from seven university hospitals in South Korea (N = 105). Anthropometric, biochemical, and bioelectrical impedance analyses were performed to determine the MFR. Fecal samples were subjected to 16S ribosomal RNA gene sequencing and bioinformatics analysis. Microbial diversity and taxon-level differences were compared across MFR tertiles, with false discovery rate (FDR) correction across all taxa and multivariable regression adjusted for age, sex, and center; correlations between key taxa and metabolic parameters were also assessed.ResultsGlobal microbial diversity did not differ across MFR tertiles. Mean relative abundance of the genus Alistipes, particularly A. senegalensis, increased across MFR tertiles (linear-trend p = 0.030 for the genus; p = 0.021 for A. senegalensis), although median abundance did not increase monotonically. These trends did not remain significant after FDR correction (q = 0.67 and 0.62) and were attenuated after adjustment for age, sex, and center (p = 0.060 and 0.114). The correlation between Alistipes abundance and MFR (Pearson r = 0.22, p = 0.021) depended on a single participant, and associations with ALT, triglycerides, HDL-C, and BMI were not significant.ConclusionIn this exploratory analysis, a higher MFR showed a nominal association with Alistipes abundance that did not withstand multiple-testing correction or covariate adjustment. Alistipes may be considered a hypothesis-generating candidate for body composition–related microbial variation in pediatric MASLD, to be tested in larger studies with prespecified hypotheses.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1953444",
+    "date": "2026-11-18",
+    "authors": "Su Jin Jeong",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1953444",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s ribosomal",
+        "microbial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5148,
+    "collected_at": "2026-11-18T14:07:39.788433+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.3389/fmicb.2026.1953444"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5cadb0347a437665fd351970620bb9164dad8ab72788ad651867a6857d6658ad",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T14:37:04.197184+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "387b64ca4068d70403a98cfe03cf609499b81a95846ed70eb4224679a0401e02",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T14:37:04.197184+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "代謝機能障害に伴う脂肪性肝疾患を有する小児・思春期患者の腸内細菌叢における筋脂肪比とAlistipes属：探索的多施設共同研究",
+    "abstract_ja": "背景代謝機能障害関連脂肪性肝疾患（MASLD）は、従来は非アルコール性脂肪性肝疾患と呼ばれていたが、小児および青少年において罹患率が増加している。しかし、その病態生理に対する体組成の影響は依然として不明である。腸内細菌叢が腸－筋－肝軸を介して、骨格筋と肝代謝の相互作用を媒介していることが示唆されている。本多施設共同研究では、小児MASLD患者における骨格筋対脂肪比（MFR）と腸内細菌叢組成の関係を検討し、体組成に関連する微生物分類群を探索した。方法初回診断時にALT上昇を認めたMASLDの小児および青少年（6～18歳）を、韓国の7つの大学病院から登録した（N = 105）。MFRを算出するため、身体計測、生化学的解析、および生体電気インピーダンス解析を実施した。便検体に対して16SリボソームRNA遺伝子シーケンシングおよびバイオインフォマティクス解析を行った。MFRの三分位群間で微生物多様性および分類群レベルの差異を比較し、全分類群で偽発見率（FDR）補正を行い、さらに年齢、性別、および施設で調整した多変数回帰分析を実施した。また、主要分類群と代謝パラメータとの相関についても評価した。結果全体的な微生物多様性は、MFRの三分位群間で差が認められなかった。Alistipes属、特にA. senegalensisの平均相対存在量は、MFRの三分位群間で増加したが（同属で線形傾向 p = 0.030、A. senegalensisで p = 0.021）、存在量の中央値は単調に増加しなかった。これらの傾向はFDR補正後も有意ではなく（q = 0.67および0.62）、年齢、性別、および施設で調整した後も減弱した（p = 0.060および0.114）。Alistipes属の存在量とMFRとの相関（Pearson r = 0.22, p = 0.021）は単一の被験者に依存しており、ALT、トリグリセリド、HDL-C、およびBMIとの関連は有意ではなかった。結論本探索的解析において、MFRが高いほどAlistipes属の存在量と名目上の関連が認められたが、これは多重検定補正や共変量調整に耐えうるものではなかった。Alistipes属は、小児MASLDにおける体組成関連の微生物変動に関する仮説生成候補と考えられ、あらかじめ設定された仮説を用いたより大規模な研究で検証されるべきである。"
+  },
+  {
+    "id": "10.1093/nar/gkag1105",
+    "title": "Fully modified SpyCas9 guide RNAs enable robust genome editing in cells and in vivo",
+    "abstract": "AbstractPrecision engineering of CRISPR/Cas9 components has advanced genome editing toward therapeutic applications. Fully chemically modified guide RNAs (gRNAs) have the potential to improve stability and broaden therapeutic delivery strategies. However, extensive chemical modification of CRISPR guides can compromise genome editing activity by disrupting gRNA–Cas9 interactions. Here, we employed an iterative, structure-guided optimization strategy to systematically evaluate chemical modifications throughout SpyCas9 gRNAs. Extending beyond commonly used nucleotide modifications, we incorporated 2′-amino-RNA, 4′-thio-RNA, and extended nucleic acid (exNA) to generate gRNAs in which 90%–100% of nucleotides are sugar- or backbone-modified. Although the performance of individual modification patterns varied among target sequences, we established a repertoire of guides that support robust genome editing in vitro and in vivo. Collectively, these findings provide a systematic framework for rational engineering of heavily and fully modified gRNAs using diverse nucleotide chemistries for nonviral CRISPR genome editing.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1105",
+    "date": "2026-11-18",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1105/9089566?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5170,
+    "collected_at": "2026-11-18T14:07:39.788433+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/3091.xml"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.1093/nar/gkag1105"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5297f8df98afc1cf0325bc7118fb5771448f2db1891427e2babc0fa4be59a6f0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T14:37:04.197184+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "570c8c37ba1fcc2be5aeb728db882620a8806936b717235a2ac4576c246abc00",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T14:37:04.197184+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "完全に改変されたSpyCas9ガイドRNAは、細胞内および生体内で堅牢なゲノム編集を可能にする。",
+    "abstract_ja": "要旨CRISPR/Cas9構成要素の精密工学により、ゲノム編集は治療応用に向けて進展してきた。完全に化学修飾されたガイドRNA（gRNA）は、安定性を向上させ、治療デリバリー戦略を拡大させる可能性を秘めている。しかし、CRISPRガイドの広範な化学修飾は、gRNA–Cas9相互作用を阻害することで、ゲノム編集活性を損なう恐れがある。本研究では、反復的な構造ガイド型最適化戦略を用い、SpyCas9 gRNA全体にわたる化学修飾を系統的に評価した。一般的に用いられるヌクレオチド修飾にとどまらず、2′-アミノRNA、4′-チオRNA、および拡張ヌクレ酸（exNA）を導入し、ヌクレオチドの90%～100%が糖またはバックボーン修飾されたgRNAを作製した。個々の修飾パターンの性能は標的配列によって異なっていたが、in vitroおよびin vivoで堅牢なゲノム編集を可能にするガイドのレパートリーを確立した。総じて、これらの知見は、非ウイルス性CRISPRゲノム編集に向けて、多様なヌクレオチド化学手法を用いて高度かつ完全に修飾されたgRNAを合理的に設計するための系統的な枠組みを提供するものである。"
   }
 ]
