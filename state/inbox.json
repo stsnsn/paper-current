@@ -420033,5 +420033,485 @@
     "related_dois": [
       "10.1093/gbe/evag281"
     ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11240936/v1",
+    "title": "Comparative analysis of plasma sample preparation methods for high-throughput mass spectrometry-based proteomics and application to colorectal cancer",
+    "abstract": "Abstract    Background  In recent years, multiple methods for high-throughput plasma proteome sample preparation have emerged. This study aimed to compare four scalable and affordable plasma sample preparation approaches coupled to mass spectrometry-based profiling and evaluate their applicability to clinical samples.  Methods  The following plasma sample preparation methods were included: in-solution digestion (ISD), suspension trapping (S-Trap), perchloric acid precipitation (perCA), and extracellular vesicle (EV) enrichment using hyper-porous strong-anion exchange magnetic microparticles (Mag-Net). Aliquots from a pooled human plasma sample were analyzed in workflow triplicate using data-independent acquisition mass spectrometry. Furthermore, a plasma cohort of patients with colorectal cancer was processed using ISD and Mag-Net to evaluate their clinical applicability.  Results  Mag-Net achieved the greatest proteome depth (~1000 proteins per sample) and the highest protein identification reproducibility (data completeness = 87.4%), whereas global plasma proteomics by ISD showed the best quantitative reproducibility (CV = 8.5%). Across all workflows, 1130 proteins were identified in all three technical replicates of at least one workflow, of which 399 were shared by all four workflows. Functional analyses revealed differential enrichment of largely overlapping functions. In line with previous work, Mag-Net enriched for extracellular vesicles. Two workflows, Mag-Net (best in-depth workflow) and ISD (best global workflow), were subsequently applied to a cohort of 30 colorectal cancer (CRC) patients and 29 healthy controls. Both workflows successfully distinguished CRC from healthy samples and recovered known CRC-associated proteins. Pathway and functional analyses revealed CRC-associated biological hallmarks: MYC targets, MTORC1 signalling and mitotic spindle. Random forest analysis identified workflow-specific candidate biomarker panels, with combined top 20 protein models achieving Area Under Curve (AUC) values of 0.985 and 0.964 for Mag-Net and ISD, respectively. Importantly, multiple top ranked biomarker candidates were supported by external CRC tissue and plasma proteomics datasets.  Conclusions  Together, our findings demonstrate that both global (ISD) and in-depth plasma proteomics (Mag-Net) are suitable, reproducible workflows for clinical applications that warrant further exploration for biomarker discovery in disease.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11240936/v1",
+    "date": "2026-10-20",
+    "authors": "Liu J, Almeida-Marques C, Gagestein B, Stalidzane L, Xu L, Pham TV, Knol JC, Piersma SR, Bijnsdorp IV, Li KW, Jimenez CR.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1345719",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "method",
+        "proteomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "method",
+          "proteomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5095,
+    "collected_at": "2026-11-18T04:18:52.253006+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.21203/rs.3.rs-11240936/v1"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1158/1940-6207.capr-25-0480",
+    "title": "Federated Learning for Early Cancer Detection: Opportunities, Challenges, and Future Directions.",
+    "abstract": "Early detection of cancer remains one of the most effective strategies to reduce cancer mortality. Artificial intelligence (AI) can enhance existing cancer screening across modalities by improving testing performance (e.g., accuracy, sensitivity, specificity), reducing false positives and negatives, automating workflows, and enabling risk-based care. However, accurate, robust, generalizable AI requires large, diverse, well-annotated datasets that are difficult to centralize because of privacy regulations, institutional governance, and heterogeneous infrastructure. Federated learning (FL) addresses this constraint by training models across institutions without transferring patient data. Through secure aggregation and differential privacy, FL preserves confidentiality while enabling collaboration. Early studies in breast, lung, and cervical screening report that FL can approach centralized performance and improve cross-site generalization; however, most rely on simulated clients, few participating sites, and limited external validation, so these findings should be regarded as preliminary rather than established. Critically, FL is not a shortcut to rigorous results, and heterogeneous, variably curated data demand intensive cleaning and quality control, which are central barriers to reliable implementation. In this review, we synthesize the state of FL for early cancer detection across imaging, digital pathology, multi-omics, and clinical data; outline core FL concepts and privacy technologies; and summarize applications by cancer type. We critically examine regulatory, operational, and translational barriers that currently limit clinical adoption. Finally, we propose a practical roadmap, which is centered on multimodal and longitudinal FL, foundation-model-enabled adaptation, prospective evaluation within clinical workflows, and equitable participation of community and low-resource sites, to advance privacy-preserving, generalizable AI for population-scale cancer screening.",
+    "journal": "Cancer prevention research (Philadelphia, Pa.)",
+    "doi": "10.1158/1940-6207.capr-25-0480",
+    "date": "2026-10-30",
+    "authors": "Koutsoubis N, Ajami H, Hartsock I, Sivaram S, Yilmaz Y, Templeton JM, Schabath MB, Rasool G, Waqas A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42960413",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42960413",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "gene",
+        "resource",
+        "workflow"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "gene",
+          "resource",
+          "workflow"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5096,
+    "collected_at": "2026-11-18T04:18:52.253006+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.1158/1940-6207.capr-25-0480"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.molp.2026.10.021",
+    "title": "Three α-crystallin domain proteins drive stress granule assembly through phase separation to confer thermotolerance in Arabidopsis.",
+    "abstract": "Thermotolerance relies on the rapid assembly of stress granules (SGs), yet the molecular triggers and regulators of this process in plants remain elusive. Here, we identify three Arabidopsis α-crystallin domain (ACD) proteins, Zhurong 1 (ZR1), ZR2, and ZR3, as plant-specific SG components that promote efficient SG assembly under heat stress. The ZRs associate with SGs through interactions with core SG components. Upon heat stress, their expression is transcriptionally induced, and the proteins undergo heat-triggered liquid-liquid phase separation (LLPS) in vivo and in vitro to promote SG assembly. Deletion of a short intrinsically disordered fragment or mutation of a conserved amino acid (P182) within the ACD impairs ZR1's capacity to undergo LLPS and promote SG assembly, demonstrating the critical function of the ACD. Within SGs, the ZR proteins prevent heat-induced aggregation of their client SG components, thereby maintaining proteostasis. As a result, loss of ZR function disrupts SG dynamics and compromises thermotolerance. In summary, our study characterizes a class of plant-specific ACD proteins that drive SG formation through LLPS, linking the chaperone-like activity of ACD proteins to the formation of membraneless organelles in thermotolerance.",
+    "journal": "Molecular plant",
+    "doi": "10.1016/j.molp.2026.10.021",
+    "date": "2026-11-04",
+    "authors": "Wang T, Li E, Zhu Q, Zhang X, Xu M, Zhu R, Zhang W, Fu Y, Qin G, Yin Q, Fan L, Chen Y, Wang J, Zhong B, Yan X, Qian W.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42984177",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42984177",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "assembly",
+        "protein"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5097,
+    "collected_at": "2026-11-18T04:18:52.253006+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.1016/j.molp.2026.10.021"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "review",
+      "journal article"
+    ],
+    "id": "10.3390/foods15213893",
+    "title": "Algal-Bacterial Symbiotic Systems for Resource Recovery and High-Value Product Generation from Ammonia-Rich Food Wastewater: A Review.",
+    "abstract": "The global food processing industry generates substantial volumes of wastewater characterized by elevated ammonia nitrogen concentrations, presenting both significant environmental challenges and opportunities for nutrient recovery. Conventional biological treatment consumes substantial energy for aeration and sludge handling. Algal-bacterial symbiosis represents a promising circular-economy strategy that combines wastewater purification with biomass production. This review synthesizes current knowledge on the application of algal-bacterial consortia for treating ammonia-rich food wastewater, with emphasis on the synergistic mechanisms underpinning nitrogen removal, biomass production, and the generation of high-value products. It examines microalgae-bacteria interactions-mediated by oxygen-carbon dioxide exchange, nutrient conversion, extracellular polymeric substance dynamics, and quorum sensing signaling. Among these mechanisms, quorum sensing acts as one of several key regulatory pathways, modulating microbial community succession, biofilm formation, metabolic pathway expression, and stress tolerance, thereby contributing to pollutant removal efficiency and biomass resource quality, together with gas exchange, nutrient assimilation, and microbial metabolism. The review also evaluates recent advances in reactor configurations that facilitate scalable implementation. Furthermore, it discusses the valorization of harvested biomass into aquafeed, biofertilizers, biofuels, and bioactive compounds, alongside the principal barriers to commercialization. Finally, it highlights emerging research directions involving synthetic biology, artificial intelligence-assisted process control, and a biorefinery that may accelerate the transition of algal-bacterial symbiosis systems from laboratory research toward practical food wastewater treatment and resource recovery applications.",
+    "journal": "Foods (Basel, Switzerland)",
+    "doi": "10.3390/foods15213893",
+    "date": "2026-10-30",
+    "authors": "Ma M, Li R, Guo B, Zhao Z, Sun T, Gao X, Yao L.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43027524",
+    "preprint": false,
+    "review": true,
+    "pmcid": "",
+    "pmid": "43027524",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "gene",
+        "microalgae",
+        "microbial",
+        "resource"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "gene",
+          "resource"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5098,
+    "collected_at": "2026-11-18T04:18:52.253006+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.3390/foods15213893"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.3390/ani16213330",
+    "title": "Standardized Ileal Amino Acid Digestibilities in Different Corn Sources for Medium-Growing Yellow-Feathered Broilers and Their Prediction Models.",
+    "abstract": "The present study first aimed to analyze the chemical compositions and amino acid (AA) profiles in 10 different sources of corn samples, then determine the SIAADs of these corn samples in medium-growing yellow-feathered broilers and establish rapid prediction equations for SIAADs based on their chemical compositions and AA profiles, and finally preliminarily assess their predictive performance. Broilers (n = 276; medium-growing yellow-feathered broilers; 63 days of age) were randomly allocated to 11 dietary treatments based on initial body weight. The experimental groups consisted of one nitrogen-free diet (NFD) control and 10 corn diet groups, and each experimental group consisted of 6 replicates, with 6 chickens per replicate in the control group and 4 chickens per replicate in each corn diet group. The experimental period was 5 days. At 67 days of age, ileal digesta samples were collected. Both apparent ileal amino acid digestibilities (AIAADs) and SIAADs in corn were evaluated. Predictive equations for corn SIAAD values were constructed via stepwise regression based on 9 corn samples. One independent corn sample was randomly selected to provide a preliminary assessment of predictive performance of the SIAAD models. The results showed that corn sources affected (p R2 = 0.559 to 0.883, p ≤ 0.021). Among the established prediction models, the model for the SID of Trp showed the best fit (R2 = 0.883, p R2 = 0.559, p = 0.021). Except for the SID prediction model for Trp, which showed poor predictive accuracy, the other 5 SIAAD prediction models provided preliminary evidence supporting the potential applicability of these models. Therefore, these established prediction equations can provide an important reference for the rapid prediction of the SIDs of these AAs in corn samples for medium-growing yellow-feathered broilers in the future. Owing to the small sample size in this study, further independent external validation is necessary to verify the accuracy of the derived SIAAD prediction equations.",
+    "journal": "Animals : an open access journal from MDPI",
+    "doi": "10.3390/ani16213330",
+    "date": "2026-10-22",
+    "authors": "Chen W, Yuan Q, Du X, Long J, Zhang L, Wang S, Cui X, Luo X.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43027065",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43027065",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "amino acid",
+        "prediction"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "amino acid",
+          "prediction"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5099,
+    "collected_at": "2026-11-18T04:18:52.253006+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.3390/ani16213330"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.3390/foods15213942",
+    "title": "Metabolic Changes in Minnan Pickled Radish During Long-Term Aging Revealed by Widely Targeted Metabolomics.",
+    "abstract": "Minnan pickled radish is a traditional aged fermented food with significant cultural and traditional value. In this study, we employed widely targeted metabolomics to characterize the dynamic metabolic profiles of Minnan pickled radish across five aging stages (0 to 8 years). Among the 339 core set, amino acids and their derivatives, alkaloids, and lipids were depleted at every aging stage relative to MPR0, whereas phenolic acids and organic acids responded divergently, with the upregulated subset accumulating progressively and peaking at MPR8. KEGG pathway analysis revealed pronounced carbon metabolic reprogramming at year 8: upregulated metabolites were primarily enriched in pyruvate metabolism and related pathways, whereas downregulated metabolites were associated with starch and sucrose degradation. Based on these findings, we proposed a metabolomics-driven model that establishes a conceptual framework linking carbohydrate catabolism to metabolic remodeling, providing a foundation for quality control of traditional fermented vegetables.",
+    "journal": "Foods (Basel, Switzerland)",
+    "doi": "10.3390/foods15213942",
+    "date": "2026-11-03",
+    "authors": "Xie J, Deng X, Hong J, Chen Y, Zheng Y, Li Z, Pang J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43027573",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43027573",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "metabolomic",
+        "quality control"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "framework",
+          "metabolomic",
+          "quality control"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5100,
+    "collected_at": "2026-11-18T04:18:52.253006+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.3390/foods15213942"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "video-audio media",
+      "journal article"
+    ],
+    "id": "10.3791/74263",
+    "title": "Bacteroid Isolation and Staining Techniques for Single-Cell Super-Resolution Microscopy.",
+    "abstract": "In legume-rhizobium symbiosis, rhizobial bacteria enter root cells via infection threads and are hosted intracellularly as nitrogen-fixing endosymbionts called bacteroids, which undergo extensive physiological changes. In some cases, including the Medicago sativa-Sinorhizobium meliloti symbiosis, bacteroids undergo terminal differentiation, marked by loss of cell division and polyploidy. Only a few morphological characteristics of the differentiated bacteroid have been described, namely its elongated and branched shape. However, the subcellular architecture of these differentiated endosymbionts with highly altered physiology remains largely unexplored. Bacteroids have primarily been visualized by electron and confocal microscopy of nodule sections and by epifluorescence microscopy with nucleic acid stains. Nevertheless, nodule sections make subcellular changes difficult to resolve due to bacteroid cell crowding within nodule cells, while epifluorescence-based DNA labeling lacks the resolution needed to observe cytosolic components or nucleoid morphology. As a result, single-cell characterization of the bacteroid cell remains incomplete. This study presents a simple, inexpensive protocol to isolate bacteroids while removing plant material and maintaining native cell morphology, allowing cells to be examined live or fixed for downstream applications. Optimized methods for staining the nucleoid using permeabilization with lysozyme and commercial nucleic acid dyes are included. Additionally, cytosolic endogenous biotin was tagged via immunolabeling, yielding high signal intensity suitable for Structured Illumination Microscopy (SIM). Using this super-resolution approach in S. meliloti bacteroids, the subcellular localization of DNA and cytosolic components was resolved in both differentiated and undifferentiated cells. This method enables detailed observation of these features. This protocol provides a framework for visualizing subcellular components of the bacteroid at high resolution, a feature not previously explored. Moreover, the isolation, immunolabeling, and imaging techniques developed can be readily extended to other legume-rhizobial systems to label and study any protein of interest within bacteroids.",
+    "journal": "Journal of visualized experiments : JoVE",
+    "doi": "10.3791/74263",
+    "date": "2026-11-10",
+    "authors": "Pinto-Nogales E, Sage S, Huang S, Yu Z, Kroesen A, Sankari S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43042880",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43042880",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5102,
+    "collected_at": "2026-11-18T04:18:52.253006+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.3791/74263"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202611.1031.v1",
+    "title": "GQR: Generalised Q Analysis in R for Computational Analysis of Multidimensional Preferences",
+    "abstract": "Q methodology identifies shared patterns in how respondents evaluate sets of statements, but analysis is limited to a few respondents whose number should be lower than that of statements. Moreover, the process can become cumbersome when respondents rank many statements and difficult to reproduce when methodological choices span data preparation, component extraction and interpretation. Generalised Q (GQ) analysis addresses these limitations by constructing synthetic combined statements from smaller sets of constituent statements. Here, we introduce GQR (Generalised Q Analysis in R), an open-source R package implementing the GQ workflow through both a programmatic interface and an interactive Shiny application.GQR supports unrestricted full binary, one-per-group, and random-pattern designs, data transformation and respondent filtering, construction of synthetic evaluation matrices, ordinary and SPSS-compatible principal component analysis (PCA), and regression-based interpretation of both component content and respondent associations. For large ordinary-PCA problems, GQR provides an exact compact method that avoids materialising the synthetic evaluation matrix. The Shiny application uses the same analytical core and can export executable R code recording the current analysis and settings.Computational benchmarks showed that compact PCA reproduced materialised-matrix solutions to numerical precision while reducing runtime and memory requirements by orders of magnitude as the number of synthetic statements and respondents increased. Using the built-in Central and Eastern European gardening dataset, we further demonstrate how GQ analysis can identify multidimensional response patterns and relate them to respondent and garden characteristics. GQR therefore provides an accessible, reproducible and computationally efficient implementation of GQ analysis for multidimensional preference and survey data.",
+    "journal": "",
+    "doi": "10.20944/preprints202611.1031.v1",
+    "date": "2026-11-10",
+    "authors": "Pozsgai G, Varga-Szilay Z, Dentinho TP.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1363958",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "gene",
+        "workflow"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "gene",
+          "workflow"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5103,
+    "collected_at": "2026-11-18T04:18:52.253006+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.20944/preprints202611.1031.v1"
+    ]
   }
 ]
