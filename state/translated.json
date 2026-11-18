@@ -300794,5 +300794,304 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ポックスウイルスはおそらく動物の消化器系で進化した。",
     "abstract_ja": "単細胞真核生物に感染する大型および巨大DNAウイルスは環境中に豊富に存在するが、腸内微生物叢から検出されることは稀であった。ヒトや動物の消化管に優占するこうしたウイルスの発見は、腸内微生物叢の長らく見過ごされてきた側面を明らかにし、ポックスウイルスの起源を解明するものである。"
+  },
+  {
+    "id": "10.1038/d41586-026-03766-w",
+    "title": "Meet ‘egoviruses’: the surprise microbes living in the guts of millions of people",
+    "abstract": "Egoviruses could be the evolutionary missing link between giant viruses that infect single-celled organisms and those that can infect people.",
+    "journal": "Nature",
+    "doi": "10.1038/d41586-026-03766-w",
+    "date": "2026-11-18",
+    "authors": "Rachel Fieldhouse",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.nature.com/articles/d41586-026-03766-w",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbe",
+        "microbes",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.nature.com/nature.rss",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5181,
+    "collected_at": "2026-11-18T22:06:59.860731+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "https://www.nature.com/nature.rss"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.1038/d41586-026-03766-w"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2400cf434473172a3de5193c10f86672631fe61407cb543bbfa8445f02a96905",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T22:35:28.414451+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f486cc22ea06800f4d2da221aed6959e780db25dff81649a2dc3d84bd6f0d7fe",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T22:35:28.414451+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "「エゴウイルス」を紹介しよう：数百万人もの腸内に生息する意外な微生物",
+    "abstract_ja": "エゴウイルスは、単細胞生物に感染する巨大ウイルスと、ヒトに感染しうるウイルスとの間の進化上のミッシングリンクである可能性がある。"
+  },
+  {
+    "id": "10.1093/ismejo/wrag287",
+    "title": "Fungal lignocellulose-degradation potential is associated with bacterial metabolic dysbiosis in the human gut",
+    "abstract": "AbstractFungi encode diverse carbohydrate-processing functions, yet the genomic basis of their lignocellulose-degradation potential and its relevance to the human gut remain poorly understood. Here, we experimentally assessed cellulase-, xylanase-, and laccase-associated activities across 762 environmentally derived fungal isolates and sequenced 170 representative strains, retaining 160 genomes for genome–phenotype analyses. By integrating functional annotations with orthogroup presence–absence variation and machine-learning models, we identified lignocellulose-degradation-associated genomic features that improved phenotype prediction beyond conventional annotation alone. We then applied this framework to 2,116 publicly available fungal genomes and 704 cultivated gut fungal genomes from a previously published collection to construct a non-redundant catalogue of lignocellulose-degradation-associated genes (LDAGs), comprising canonical degradative enzymes, annotated phenotype-associated features, and candidate orthogroups. Across fungal lineages, xylanase-associated potential was broadly distributed, cellulase-associated potential showed an intermediate pattern, whereas laccase-associated oxidative potential was concentrated in a more restricted subset of taxa. Analysis of approximately 1,500 publicly available human gut metagenomes identified disease-associated differences in LDAG profiles in atherosclerotic cardiovascular disease (ACVD), inflammatory bowel disease (IBD), and obesity. Under stringent read-remapping criteria, total LDAG abundance differences remained significant in ACVD and IBD but were attenuated in obesity, whereas compositional differences persisted across all three cohorts with modest effect sizes. These fungal genomic signatures covaried with bacterial taxa, including Escherichia coli, and pathways involved in central carbon and carbohydrate metabolism. Together, our findings establish a phenotype-informed genomic framework for resolving fungal lignocellulose-degradation potential and reveal its consistent association with disease-related bacterial and metabolic configurations in the human gut.",
+    "journal": "The ISME Journal",
+    "doi": "10.1093/ismejo/wrag287",
+    "date": "2026-11-18",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/ismej/advance-article/doi/10.1093/ismejo/wrag287/9089884?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "bacteria",
+        "bacterial",
+        "fungal",
+        "metagenom",
+        "metagenomes"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "genom",
+          "genome",
+          "genomic",
+          "metagenom",
+          "metagenome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6594/advanceAccess_4179.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5175,
+    "collected_at": "2026-11-18T22:06:59.860731+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "https://academic.oup.com/rss/site_6594/advanceAccess_4179.xml"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.1093/ismejo/wrag287"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b274546e8348eaa298ef35fd14f23d8d471cb77331dcd07003983f79f8435fc2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T22:35:28.414451+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7e46746386d9f67b64ef0274e8c169281998592812043ed1c1a524e620b72abe",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T22:35:28.414451+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "真菌のリグノセルロース分解能は、ヒト腸内における細菌の代謝叢の乱れと関連している",
+    "abstract_ja": "要旨真菌は多様な糖処理機能を有しているが、そのリグノセルロース分解能のゲノム基盤およびヒト腸内における関連性については、依然として十分に解明されていない。本研究では、環境由来の真菌分離株762株を対象に、セルラーゼ、キシラナーゼ、およびラッカーゼに関連する活性を実験的に評価し、代表的な170株をシーケンシングして、ゲノム－表現型解析用に160株のゲノムを保存した。機能アノテーションをオルソグループの有無による変動および機械学習モデルと統合することで、従来のアノテーション単独よりも表現型予測精度を向上させるリグノセルロース分解関連のゲノム特徴を同定した。次いで、このフレームワークを、公開されている2,116株の真菌ゲノムおよび既報のコレクションから得られた704株の培養腸内真菌ゲノムに適用し、古典的な分解酵素、アノテーション済みの表現型関連特徴、および候補オルソグループからなる、非冗長なリグノセルロース分解関連遺伝子（LDAGs）カタログを構築した。真菌系統間において、キシラナーゼ関連能は広く分布し、セルラーゼ関連能は中間的なパターンを示した一方、ラッカーゼ関連の酸化能は、より限定的な分類群に集中して認められた。公開されている約1,500件のヒト腸内メタゲノムの解析により、動脈硬化性心血管疾患（ACVD）、炎症性腸疾患（IBD）、および肥満におけるLDAGプロファイルの疾患関連の差異が同定された。厳格なリードリマッピング基準の下では、総LDAG量の差異はACVDおよびIBDにおいて有意であったが、肥満では減弱し、一方で組成上の差異は3つのコホートすべてにおいて認められたが、その効果量は限定的であった。これらの真菌ゲノムシグネチャーは、大腸菌（Escherichia coli）を含む細菌分類群や、中枢炭素・糖代謝に関与する経路と共変していた。以上の知見を総合すると、真菌のリグノセルロース分解能を解明するための表現型情報に基づくゲノムフレームワークが確立され、ヒト腸内における疾患関連の細菌的・代謝的構成との一貫した関連性が明らかになった。"
+  },
+  {
+    "id": "10.1038/s41586-026-11283-z",
+    "title": "Closest relatives of poxviruses prevail in human and animal guts worldwide",
+    "abstract": "A diversified group of DNA viruses with large linear genomes is discovered, egoviruses, that comprise a putative viral order most closely related to animal-infecting poxviruses, and prevail in the animal digestive system.",
+    "journal": "Nature",
+    "doi": "10.1038/s41586-026-11283-z",
+    "date": "2026-11-18",
+    "authors": "Tom O. Delmont",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.nature.com/articles/s41586-026-11283-z",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.nature.com/nature.rss",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5182,
+    "collected_at": "2026-11-18T22:06:59.860731+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "https://www.nature.com/nature.rss"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.1038/s41586-026-11283-z"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5842fb9c41182b923ed66483359282e30986829a49d2926aba79985eed700800",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T22:35:28.414451+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "dc37daa6aa620630fefbe0827c113fd6a0dd5ebaf6f289f3bdc37f834c2e19ca",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T22:35:28.414451+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ポックスウイルスの近縁種は、世界中のヒトおよび動物の腸内に優占している。",
+    "abstract_ja": "大型の線状ゲノムを有する多様なDNAウイルス群であるエゴウイルス群が発見された。これらは動物感染性ポックスウイルスに最も近縁とされる仮想的なウイルス目を構成し、動物の消化系に普遍的に存在する。"
+  },
+  {
+    "id": "10.64898/2026.11.18.767454",
+    "title": "Pioneering Hybrid Genome Assemblies of Fusarium graminearum and Fusarium avenaceum from Indian Wheat: Insights into Virulence Frameworks and Genome Evolution",
+    "abstract": "Fusarium head blight (FHB), primarily caused by various species of Fusarium, is a destructive disease of wheat that reduces yield and contaminates grain with mycotoxins. The present study reports high-quality hybrid genome assemblies for two Indian wheat isolates, Fusarium graminearum strain TNW1 and Fusarium avenaceum strain DMW8, representing the first genome-scale comparative study of FHB associated Fusarium isolates infectious on wheat from India. Both Indian isolates retained conserved Fusarium secondary metabolite clusters, including aurofusarin, chrysogine, clavaric acid, koraiol, orcinol/orsellinic acid, and oxyjavanicin, while exhibiting distinct species-associated biosynthetic profiles. TNW1 contained zearalenone and DON-related biosynthetic clusters, whereas DMW8 contained beauvericin and other species -associated clusters, highlighting differences in predicted biosynthetic potential between the two Fusarium species. Notably, both genomes showed relatively low transposable-element (TE) content compared with their respective species groups, with TEs occupying 0.96% of the TNW1 genome and 1.55% of the DMW8 genome. RIP-associated genomic coverage was also comparatively low, at 20.01% and 22.38%, respectively. TE insertion analysis identified predominantly reference-associated insertions, with two candidate non-reference insertions detected in DMW8. Gene-family analyses revealed greater duplication and expansion contraction dynamics in DMW8 than in TNW1. Together, these findings highlight differences in predicted genomic features, secondary metabolite biosynthetic potential, and gene family composition between the two Indian isolates, providing genomic resources for future investigations of Fusarium biology and wheat pathogen interactions.",
+    "journal": "",
+    "doi": "10.64898/2026.11.18.767454",
+    "date": "2026-11-18",
+    "authors": "Choppadandi, G., KJ, Y., Navathe, S.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.18.767454v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "genome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assemblies",
+          "evolution",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5228,
+    "collected_at": "2026-11-18T22:06:59.860731+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.64898/2026.11.18.767454"
+    ],
+    "translation": {
+      "title": {
+        "hash": "1ad63f8d09a864ecfb863c24fb2d3892577017b7f83183b2203682b8d7ab817f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T22:35:28.414451+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5ae2202fd078751dc1af8e61f4b4f681d2dbf816539825de1f4aeb3f1ddd4990",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T22:35:28.414451+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "インド産小麦におけるFusarium graminearumおよびFusarium avenaceumの先駆的なハイブリッドゲノムアセンブリ：病原性フレームワークとゲノム進化に関する知見",
+    "abstract_ja": "主に各種フザリウム属菌によって引き起こされるフザリウム頭部枯死病（FHB）は、収量を減少させ、穀粒をマイコトキシンで汚染する小麦の破壊的病害である。本研究では、インド産小麦のFHB関連フザリウム分離株に関する初のゲノムスケールの比較研究として、2つのインド産小麦分離株、Fusarium graminearum株TNW1およびFusarium avenaceum株DMW8の高品質なハイブリッドゲノムアセンブリを報告する。両インド産分離株は、アウロフザリン、クリソジン、クラバル酸、コライオール、オルシノール／オルセリニン酸、およびオキシジャバニシンを含む保存されたフザリウム二次代謝物クラスターを保持しつつ、種に特有の生合成プロファイルを示した。TNW1はゼアラレノンおよびDON関連の生合成クラスターを含んでいたのに対し、DMW8はボーベルシンおよびその他の種特有のクラスターを含んでおり、これら2つのフザリウム種間で予測される生合成能に差異があることが浮き彫りとなった。特筆すべきは、両ゲノムともそれぞれの種群と比較して転移因子（TE）含有量が比較的低く、TEが占める割合はTNW1ゲノムで0.96%、DMW8ゲノムで1.55%であったことである。RIP関連のゲノムカバー率もそれぞれ20.01%および22.38%と比較的低かった。TE挿入解析では、主にリファレンス関連の挿入が同定され、DMW8では2つの非リファレンス候補挿入が検出された。遺伝子ファミリー解析の結果、DMW8ではTNW1よりも複製および拡大収縮の動態が大きいことが明らかになった。以上の知見は、2つのインド産分離株間における予測ゲノム特性、二次代謝物生合成能、および遺伝子ファミリー構成の相違を浮き彫りにするものであり、今後のフザリウムの生物学および小麦病原菌との相互作用に関する研究のためのゲノムリソースを提供するものである。"
   }
 ]
