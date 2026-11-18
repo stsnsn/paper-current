@@ -297121,5 +297121,317 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "Pseudomonas putidaの動的エクスプレソーム：条件依存的なRNAポリメラーゼインタラクトームのリモデリング",
     "abstract_ja": "多くの細菌と同様に、Pseudomonas putidaの2{beta}{beta}'{omega}コアRNAポリメラーゼ（RNAP）は、生体内でシグマ因子、転写調節因子、および生理的状態に応じて相対存在量が変化する補助タンパク質と相互作用する。本研究では、in vivo免疫キャプチャ法を用いて、P. putida KT2440のRNAPインタラクトームにおける条件依存的な変化を検討した。cognate抗体がアクセス可能な許容性の表面露出部位であるRpoC（{beta}'）のC末端に、His、Myc、およびEタグをそれぞれ導入した。Mycタグ標識RNAP複合体を磁気ビーズで免疫キャプチャし、LC-ESI-MS/MSおよび計算手法を用いて解析した。その結果、RNAPコア（RpoA、RpoB、RpoC、およびRpoZ）が、異なるシグマ因子プール、ならびにリボソームタンパク質、RNAプロセシング因子、および代謝酵素と条件依存的に結合することが明らかになった。栄養飢餓、栄養豊富な生育、および高温は、RNAP関連タンパク質の組成および相対的な存在比を変化させた。検討した生理的条件は限定的であったが、本結果は、RNAPが細菌エクスプレソームの動的な組織化ハブとして機能し、転写と翻訳、RNA成熟、および中心代謝を統合するというモデルを支持するものである。"
+  },
+  {
+    "id": "10.64898/2026.11.16.766873",
+    "title": "Taxogenomic resolution of the 16SrIII (X-disease) group: elevation of Candidatus Phytoplasma pruni-related strains to species rank and proposal of three novel Candidatus species Candidatus Phytoplasma caryae sp. nov., Candidatus Phytoplasma conii sp. nov. and Candidatus Phytoplasma lactucae sp. nov.",
+    "abstract": "Alongside the proposal of the taxon Candidatus Phytoplasma pruni for 16SrIII (X-Disease) group, the designation Candidatus Phytoplasma pruni-related strains was proposed for strains that were closely related to the taxon based on multilocus sequence characterization. However, recent genome-based studies have created taxonomic ambiguity by either assigning related strains directly to the taxon Ca. P. pruni or separating them into more than one genomic cluster without formal taxonomic classification or proposing new taxon for new divergent strains. In this study, we sequenced genomes of the pecan bunchy top phytoplasma (PBT), previously designated a Ca. P. pruni-related strain, initially to confirm the pathogen in an Oklahoma pecan orchard. Phylogenomic comparisons with previously sequenced Candidatus Phytoplasma pruni strains revealed four well-supported taxonomic groups based on average nucleotide identity, digital DNA-DNA hybridization, and phylogenetic analyses, with different host ecologies consistent with International Research Programme on Comparative Mycoplasmology (IRPCM) guidelines for assigning new taxon. Accordingly, we propose a reclassification of Ca. P. pruni and related strains into four species: Candidatus Phytoplasma pruni, representing the taxon associated with X-disease phytoplasma; three proposed new Candidatus species including Candidatus Phytoplasma caryae sp. nov, Candidatus Phytoplasma conii sp. nov and Candidatus Phytoplasma lactucae sp. nov. The study provides comparative-genomic insights into these taxonomic groups that support their evolution.",
+    "journal": "",
+    "doi": "10.64898/2026.11.16.766873",
+    "date": "2026-11-17",
+    "authors": "Rabiu, U. B., Wallace, S., Murphy, C. L., Walker, N. R., Marek, S., Ochoa-Corona, F. M., Jibrin, M. O.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.16.766873v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_genome_method",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "average nucleotide identity"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "evolution",
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenetic",
+          "phylogenomic"
+        ],
+        "evolution": [
+          "evolution",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5133,
+    "collected_at": "2026-11-18T04:29:26.571529+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.64898/2026.11.16.766873"
+    ],
+    "translation": {
+      "title": {
+        "hash": "1ce8a2abbdbab158de8d2a72137232500f7ea2ee65509b28e6b6d17986578aad",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T04:52:56.386632+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6d7683f036034a78ecde76828579887015a2da931807f4473622c15875b8cd17",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T04:52:56.386632+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "16SrIII（X病）群の分類学的解明：Candidatus Phytoplasma pruni関連株の種への格上げと、3種の新規Candidatus属菌（Candidatus Phytoplasma caryae sp. nov.、Candidatus Phytoplasma conii sp. nov.、Candidatus Phytoplasma lactucae sp. nov.）の提唱",
+    "abstract_ja": "16SrIII（X-Disease）群の分類群としてCandidatus Phytoplasma pruniが提唱されるとともに、多遺伝子座配列の特性解析に基づき、同分類群に近縁な系統株に対してCandidatus Phytoplasma pruni関連株という呼称が提案された。しかし、近年のゲノムに基づく研究では、関連株をCa. P. pruniに直接帰属させるか、あるいは正式な分類学的分類を行わずに複数のゲノムクラスターに分離したり、新たな分岐株に対して新分類群を提案したりするなど、分類学的な曖昧さが生じている。本研究では、オクラホマ州のピーカンナッツ園における病原体を確認するため、当初Ca. P. pruni関連株とされていたピーカン・バンチー・トップ・ファイトプラズマ（PBT）のゲノム配列を解読した。既報のCandidatus Phytoplasma pruni株との系統ゲノム比較により、平均塩基同一性、デジタルDNA-DNAハイブリダイゼーション、および系統解析に基づき、十分な根拠を持つ4つの分類群が認められ、これらは異なる宿主生態を有しており、これは比較マイコプラズマ学国際研究プログラム（IRPCM）の新分類群割り当てガイドラインと一致していた。したがって、我々はCa. P. pruniおよび関連株を、X-Diseaseファイトプラズマに関連する分類群を表すCandidatus Phytoplasma pruniと、Candidatus Phytoplasma caryae sp. nov、Candidatus Phytoplasma conii sp. nov、およびCandidatus Phytoplasma lactucae sp. novを含む3つの新提案Candidatus種の計4種に再分類することを提案する。本研究は、これらの分類群の進化を裏付ける比較ゲノム学的知見を提供するものである。"
+  },
+  {
+    "id": "10.64898/2026.11.16.766945",
+    "title": "Three novel deep-branching orphan protist lineages from the marine rare biosphere",
+    "abstract": "Metabarcoding has transformed our view of marine protist communities, yet many sequences in environmental surveys are not assigned confident taxonomic identity. These taxonomically ambiguous sequences may include lineages that are not within any known eukaryotic supergroup, which we refer to here as orphan lineages. These orphan lineages matter beyond taxonomy-based community analyses, because they can help us understand early eukaryotic evolution. Here we used phylogenetic inferences and sequence similarity networks (SSNs) of long-read metabarcoding data of the ribosomal operon (18S-28S rDNA) to identify three novel phylum-level orphan lineages. We designate these lineages Deep Orphan Lineages 1-3 (DEEPOLs) and show that they are exclusively marine and part of the rare biosphere, yet ecologically distinct: DEEPOL1 is a cosmopolitan generalist, DEEPOL2 a conditionally rare lineage capable of local polar blooms, and DEEPOL3 a non-polar lineage with a tendency toward the dark ocean. For DEEPOL2, lineage-specific digital PCR (dPCR) combined with catalyzed reporter deposition fluorescence in situ hybridization (CARD-FISH) provides the first in situ visualization of these cells, revealing small, flagellated, and morphologically inconspicuous protists. Together, our results show that substantial diversity remains hidden among rare lineages, and that long-read sequencing combined with targeted molecular and microscopy approaches offers a first step toward linking orphan sequences to organisms and their evolution and ecological roles.",
+    "journal": "",
+    "doi": "10.64898/2026.11.16.766945",
+    "date": "2026-11-17",
+    "authors": "Pohl, N., Mendez Sandin, M., Tuovinen Nogerius, V., Burki, F.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.16.766945v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "protist",
+        "protists"
+      ],
+      "context": {
+        "marine": [
+          "marine",
+          "ocean"
+        ],
+        "genomics": [
+          "evolution",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "evolution",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5134,
+    "collected_at": "2026-11-18T04:29:26.571529+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.64898/2026.11.16.766945"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e4506c1ed003163210dd2fd4ac3a97eebfcd0f9bc6be82de3bf25ffb165c4068",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T04:52:56.386632+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "aa6e1c61726cc018cbd01cc4db1f1d0fd2c5d1f2949def6734e33e1ecfb5a4d8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T04:52:56.386632+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "海洋希少生物圏由来の3つの新規深層分岐孤児原生生物系統",
+    "abstract_ja": "メタバーコーディングは海洋原生生物群集に対する我々の見方を一変させたが、環境調査における多くの配列には、確実な分類学的同定がなされていない。こうした分類学的に曖昧な配列には、既知のいかなる真核生物スーパーグループにも属さない系統が含まれることがあり、我々はこれらを「オーファン系統」と呼ぶ。これらのオーファン系統は、分類学に基づく群集解析にとどまらず、初期真核生物の進化を理解する上で有用である。本研究では、リボソームオペロン（18S-28S rDNA）のロングリード・メタバーコーディングデータの系統推定および配列類似性ネットワーク（SSN）を用いて、3つの新規な門レベルのオーファン系統を同定した。我々はこれらの系統をDeep Orphan Lineages 1-3（DEEPOLs）と呼称し、これらが専ら海洋に生息し希少生物圏の一部でありながら、生態学的には異なることを示す。すなわち、DEEPOL1は汎世界的なジェネラリストであり、DEEPOL2は局所的な極域ブルームを起こし得る条件的に希少な系統であり、DEEPOL3は暗黒海洋に分布する傾向を持つ非極域系統である。DEEPOL2については、系統特異的なデジタルPCR（dPCR）と触媒型レポーター沈着蛍光in situハイブリダイゼーション（CARD-FISH）を組み合わせることで、これらの細胞を初めてin situで可視化し、小型で鞭毛を持ち、形態的に目立たない原生生物を明らかにした。以上の結果を総合すると、希少な系統の間には依然として相当な多様性が潜んでおり、ロングリードシーケンシングと標的を絞った分子生物学的・顕微鏡的手法を組み合わせることが、オーファン配列を生物体およびその進化と生態学的役割に結びつけるための第一歩となることが示された。"
+  },
+  {
+    "id": "10.64898/2026.11.16.767035",
+    "title": "Single-cell genomics reveals genomic and functional differentiation between freshwater and saline Achromatium populations.",
+    "abstract": "Giant sulfur bacteria of the genus Achromatium reportedly contain extensive genomic diversity within individual cells. Most genomic data (35 assemblies) come from freshwater populations obtained from Lake Stechlin, Germany, alongside four single-cell genomes from a salt marsh and saline mineral springs. Here, we characterize marine Achromatium from mangrove sediments in Guadeloupe and compare them with freshwater and saline references. Microscopy, elemental mapping, and Raman spectroscopy revealed calcium-rich inclusions, and intracellular elemental sulfur as previously described for this genus. Scanning electron microscopy revealed two cell-size morphotypes. We generated eleven single-cell, four mixed-cell, and two metagenomic binned assemblies from Guadeloupe mangrove. Divergent copies of conserved marker genes revealed extensive intracellular genomic diversity in individual cells of both morphotypes. Multigene phylogenies provided separation between freshwater references and most genomes from saline environments, including the Guadeloupe population. Gene presence-absence analyses further revealed differences in functional potential between Guadeloupe and Stechlin cells across five functional annotation categories including PFAM, KEGG Orthologs, and CAZymes. Differences in genes associated with osmotic regulation, ion transport, carbohydrate degradation, and secretion systems suggest variation in functional potential related to environmental adaptation, interactions and resource utilization. No significant differences in functional potential between Guadeloupe morphotypes were found. Together, these marine genomes reveal genomic and functional differentiation from freshwater populations and suggest that intracellular diversity does not erase freshwater/saline population boundaries.",
+    "journal": "",
+    "doi": "10.64898/2026.11.16.767035",
+    "date": "2026-11-17",
+    "authors": "Remy, P. H., Ionescu, D., Gros, O., Heidig, S.-L., Woyke, T., Schiable, G., Volland, J.-M.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.16.767035v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "metagenom",
+        "metagenomic"
+      ],
+      "context": {
+        "marine": [
+          "freshwater",
+          "lake",
+          "marine"
+        ],
+        "genomics": [
+          "annotation",
+          "assemblies",
+          "genom",
+          "genome",
+          "genomic",
+          "metagenom",
+          "metagenomic",
+          "phylogen"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5135,
+    "collected_at": "2026-11-18T04:29:26.571529+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.64898/2026.11.16.767035"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d0f7bce6b162795199f8d68396389efd7fa2d8840aee3afd13006eacaab85d1b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T04:52:56.386632+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c083142f8abfd6bcf3fcae6529c4b0929d86cfb3193976f5303e14d77dcd52d1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T04:52:56.386632+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "単一細胞ゲノミクスにより、淡水型と塩水型のAchromatium集団間におけるゲノムおよび機能の分化が明らかになった。",
+    "abstract_ja": "Achromatium属の巨大硫黄細菌は、個々の細胞内で広範なゲノム多様性を有することが報告されている。ゲノムデータの大部分（35アセンブリ）は、ドイツのシュテヒリン湖から得られた淡水個体群に由来し、併せて塩沼および塩水鉱泉由来の単一細胞ゲノム4例が含まれている。本研究では、グアドループのマングローブ堆積物由来の海洋性Achromatiumを特性解析し、淡水および塩水のリファレンスと比較した。顕微鏡観察、元素マッピング、およびラマン分光法により、カルシウムに富む包有体と、本属で既報の細胞内元素硫黄が認められた。走査型電子顕微鏡観察により、細胞サイズの異なる2つの形態型が明らかになった。グアドループのマングローブから、単一細胞アセンブリ11例、混合細胞アセンブリ4例、およびメタゲノムビンニングアセンブリ2例を作製した。保存マーカー遺伝子の分岐コピーにより、両形態型の個々の細胞において広範な細胞内ゲノム多様性が認められた。多遺伝子系統樹により、淡水リファレンスと、グアドループ個体群を含む塩水環境由来のほとんどのゲノムとの区別が可能となった。遺伝子の有無解析により、PFAM、KEGGオーソログ、およびCAZymesを含む5つの機能アノテーションカテゴリーにおいて、グアドループ細胞とシュテヒリン細胞の間で機能的ポテンシャルの差異がさらに明らかになった。浸透圧調節、イオン輸送、炭水化物分解、および分泌系に関連する遺伝子の差異は、環境適応、相互作用、および資源利用に関連した機能的ポテンシャルの変動を示唆している。グアドループの形態型間において、機能的ポテンシャルに有意な差は認められなかった。これらの海洋性ゲノムを総合すると、淡水個体群とのゲノム的および機能的な分化が明らかになり、細胞内多様性が淡水／塩水個体群の境界を消失させるものではないことが示唆される。"
+  },
+  {
+    "id": "10.64898/2026.11.16.767070",
+    "title": "KORUS: probabilistic ancestry inference beyond variant calls",
+    "abstract": "Ancestry inference typically relies on variant calling and predefined population labels. We present KORUS, a probabilistic framework that infers ancestry from sequencing-derived k-mer representations constructed using ancestry-informative reference variants and encoded in Bloom filters, without requiring explicit variant calls for query genomes. KORUS separates genomic feature representation from ancestry decoding, enabling supervised classification, fractional ancestry inference, and unsupervised population structure discovery within a unified framework. Reference models were constructed from 643 genomes from the 1000 Genomes Project and the Simons Genome Diversity Project. Evaluation on an independent cohort of 22 whole-genome sequencing samples, with comparisons to ntRoot, SNVstory, and ADMIXTURE, showed recovery of continental-scale population structure, with supervised classification accuracy of 72.7-81.8% and ancestry-fraction concordance of R2 = 0.844-0.993 relative to ADMIXTURE and R2 = 0.665-0.983 relative to ntRoot. Ancestry estimates were consistent across alternative k-mer representations. Analyses of ancient human and archaic hominin genomes demonstrated that probabilistic projections quantify affinity to the learned feature space rather than necessarily indicating modern continental ancestry. KORUS provides a unified approach to ancestry inference directly from sequencing-derived representations and is freely available under the GPLv3 license at https://github.com/BirolLab/korus.",
+    "journal": "",
+    "doi": "10.64898/2026.11.16.767070",
+    "date": "2026-11-17",
+    "authors": "Warren, R. L., Coombe, L., Birol, I.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.16.767070v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "genome",
+        "sequencing"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5136,
+    "collected_at": "2026-11-18T04:29:26.571529+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.64898/2026.11.16.767070"
+    ],
+    "translation": {
+      "title": {
+        "hash": "47cd71250209bbd5372dd995f51782517765bf2c27407d2e634bc166968c7750",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T04:52:56.386632+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b944d3dc31d2c86e2a4a4cb108fd90239a4b81f9c65a533ad8debde5e887be9c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T04:52:56.386632+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "KORUS: バリアントコールを超えた確率的祖先推定",
+    "abstract_ja": "祖先推定は通常、バリアントコールと事前定義された集団ラベルに依存している。本稿では、クエリゲノムに対する明示的なバリアントコールを必要とせず、祖先情報を含むリファレンスバリアントを用いて構築され、ブルームフィルタにエンコードされたシーケンシング由来のk-mer表現から祖先を推定する確率的フレームワーク「KORUS」を提案する。KORUSはゲノム特徴表現と祖先デコーディングを分離することで、統一的なフレームワーク内で教師あり分類、分数的祖先推定、および教師なしの集団構造発見を可能にする。リファレンスモデルは、1000 Genomes ProjectおよびSimons Genome Diversity Projectの643ゲノムから構築された。22例の全ゲノムシーケンシングサンプルからなる独立したコホートを用いた評価において、ntRoot、SNVstory、およびADMIXTUREとの比較を行った結果、大陸規模の集団構造の復元が示され、教師あり分類の正解率は72.7～81.8%、祖先分数の一致度はADMIXTUREに対してR2 = 0.844～0.993、ntRootに対してR2 = 0.665～0.983であった。祖先推定値は、異なるk-mer表現間でも一貫していた。古代人類および古人類のゲノム解析により、確率的投影は必ずしも現代の大陸系祖先を示すのではなく、学習された特徴空間への親和性を定量化することが示された。KORUSは、シーケンシング由来の表現から直接祖先を推定する統一的なアプローチを提供し、GPLv3ライセンスの下で https://github.com/BirolLab/korus にて無償で利用可能である。"
   }
 ]
