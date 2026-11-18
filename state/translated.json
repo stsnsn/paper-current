@@ -299107,5 +299107,286 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "合成ジンクフィンガータンパク質の細胞内直接送達によるMYB–TAL1発がん軸の撹乱",
     "abstract_ja": "要旨 T細胞急性リンパ性白血病（T-ALL）タンパク質1（TAL1）は、骨髄系細胞の分化における重要な転写因子であり、赤血球の分化を正に制御する。転写因子MYBをリクルートし、スーパーエンハンサーの形成をもたらす短鎖DNA配列の挿入を介したTAL1の異常かつ高レベルな発現が、T-ALLを引き起こす。TAL1関連変異を有するT-ALL細胞株であるJurkat細胞において、MYB結合部位を標的とする合成亜鉛フィンガー（ZF）DNA結合タンパク質（ZF-Myb）は、高い親和性でDNAに結合し、MYBを効率的に競合的に抑制する。ZF-Mybの発現は、Jurkat細胞におけるTAL1の発現および細胞増殖を低下させた。Krüppel関連ボックス（KRAB）の導入により、ZF-MybのDNA結合親和性が4倍に向上し、TAL1の発現およびJurkat細胞の増殖がより効率的に抑制された。KRAB-ZF-Mybタンパク質の直接送達は、タンパク質顆粒を形成する新規ペプチド（CATCH: Co-Assembling Tags based on CHarge complementarity）によって著しく増強された。トランスクリプトーム解析により、合成KRAB-ZF-Mybタンパク質を用いたTAL1の発現抑制が、TAL1-MYB発がん軸を破綻させ、アポトーシス促進遺伝子の発現を誘導することが明らかになった。要約すると、新規かつ極めて効率的な直接タンパク質送達システムを用い、スーパーエンハンサーの単一部位を標的とする合成ZFタンパク質が、T-ALLにおける発がん経路を破綻させる。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.2013280",
+    "title": "Integron integrase can catalyze the circularization of free double-stranded linear gene cassettes transformed into bacteria",
+    "abstract": "Integrons are prevalent mobile genetic elements in bacteria that drive the dissemination of antibiotic resistance genes. Integron integrase can mediate the excision of gene cassettes through attC×attC recombination. In this study, a plasmid rescue assay was developed to determine whether class 1 integron integrase (IntI1) can catalyze the circularization of free double-stranded linear gene cassettes transformed into bacteria. Four linear deoxyribonucleic acid (DNA) fragments with attC at one end or both ends, together without attC, were constructed. All fragments harbored a chloramphenicol resistance gene (cat) and the p15A replication origin. These fragments were transformed into Escherichia coli DH5α expressing IntI1 or into IntI1-negative strains, respectively, and plasmid rescue clones were enumerated and subsequently analyzed. The circularization index (CI) for the DNA fragment flanked by two attC sites in E. coli DH5α expressing IntI1 was approximately 25-fold and 47-fold higher than that in E. coli DH5α containing an IntI1-negative plasmid and in E. coli DH5α, respectively. In IntI1-expressing E. coli DH5α, only the DNA fragment flanked by two attC sites yielded a markedly elevated CI, which was more than 10-fold higher than those of the other fragments, and 70% (21 out of 30) of circularization events occurred precisely at the conserved 5’-AAC-3′ triplet on the top strand of the attC site. To the best of our knowledge, this is the first report that IntI1 can recognize and catalyze the circularization of free double-stranded linear gene cassettes that enter bacteria. Although the efficiency and specificity require further optimization, a potential method for linear DNA cyclization has been preliminarily established.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.2013280",
+    "date": "2026-11-18",
+    "authors": "Quhao Wei",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.2013280",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "bacteria"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5151,
+    "collected_at": "2026-11-18T14:07:39.788433+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.3389/fmicb.2026.2013280"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c7bb1015662249510c26a7b7bfd38d432c47594aee13f2c378f510809fc95555",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T14:43:09.012694+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ea0a91af544286dec634f5bfdf25f0b7039f9414dd20dc2fd7fd6583bcf1e10d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T14:43:09.012694+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "インテグロンインテグラーゼは、細菌に形質転換された遊離の二本鎖線状遺伝子カセットの環状化を触媒することができる。",
+    "abstract_ja": "インテグロンは、抗生物質耐性遺伝子の拡散を促進する、細菌に普遍的に存在する可動性遺伝因子である。インテグロンインテグラーゼは、attC×attC組換えによる遺伝子カセットの切除を媒介することができる。本研究では、クラス1インテグロンインテグラーゼ（IntI1）が、細菌に形質転換された遊離の二本鎖線状遺伝子カセットの環状化を触媒できるかどうかを判定するためのプラスミドレスキューアッセイを開発した。一端または両端にattCを有する4つの線状デオキシリボ核酸（DNA）断片と、attCを含まない断片をそれぞれ作製した。すべての断片は、クロラムフェニコール耐性遺伝子（cat）およびp15A複製起点を保有していた。これらの断片を、それぞれ大腸菌DH5α発現IntI1またはIntI1陰性株に形質転換し、プラスミドレスキュークローンを計数して解析した。大腸菌DH5α発現IntI1において、2つのattC部位に挟まれたDNA断片の環状化指数（CI）は、IntI1陰性プラスミドを含む大腸菌DH5αおよび大腸菌DH5αにおけるCIよりも、それぞれ約25倍および47倍高かった。IntI1発現大腸菌DH5αでは、2つのattC部位に挟まれたDNA断片のみが顕著に上昇したCIを示し、これは他の断片の10倍以上であり、環状化事象の70%（30例中21例）が、attC部位の上位鎖にある保存された5’-AAC-3′トリプレットで正確に起こった。我々の知る限り、IntI1が細菌内に侵入した遊離の二本鎖線状遺伝子カセットを認識し、その環状化を触媒できるという報告はこれが初めてである。効率と特異性についてはさらなる最適化が必要であるが、線状DNAの環状化の潜在的な手法が予備的に確立された。"
+  },
+  {
+    "id": "10.1093/nar/gkag1188",
+    "title": "Transcriptomic data and biomedical literature synergize in finding pharmacologic gene regulators",
+    "abstract": "AbstractMost disorders caused by a deficiency or excess of one gene product lack targeted therapies. Since these disorders can be modeled with a gene overexpression, knockout, or knockdown, drugs that oppose the transcriptomic effects of such perturbations may be promising therapeutic candidates. RNA-sequencing (RNA-seq) studies can fuel this drug-prioritization, but their labels, written in plain language, must be annotated manually. Hence, we introduce Signature-based Networks from Automatically Curated Knockout, Knockdown, and Small-molecule Studies (SNACKKSS), which automatically curates gene-disruption and drug-treatment studies from the Gene Expression Omnibus and, in partnership with uniformly computed read count datasets, feeds the labels and RNA-seq data directly into regulatory relationship predictions. Through cross-validation, we show that the predictions from SNACKKSS (specifically, from a variant called “SA4”) make a unique contribution to finding protein-inhibiting compounds, even alongside existing predictors. We demonstrate the benefit of aggregating multiple predictive tools, and provide this powerful ensemble alongside SNACKKSS. Importantly, we advise researchers to test complex machine learning models on multiple devices, since the hardware architecture can affect their output. Nonetheless, our findings support the value of integrating automatically curated RNA-seq signatures with literature- and co-expression-based predictors for drug-repurposing prioritization.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1188",
+    "date": "2026-11-18",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1188/9089546?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "gene",
+        "prediction"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5173,
+    "collected_at": "2026-11-18T14:07:39.788433+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/3091.xml"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.1093/nar/gkag1188"
+    ],
+    "translation": {
+      "title": {
+        "hash": "633a930f374e930b957e4f7cfe9528fe02d2f29e787d1c0f614a45bc38753030",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T14:43:09.012694+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c59e9a75bd96510abb53987f61b9526235538afe04f61fe7c5e1f96ed4f1c443",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T14:43:09.012694+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "トランスクリプトームデータと生物医学文献が相乗的に作用し、薬理学的遺伝子調節因子を同定する。",
+    "abstract_ja": "要旨：単一の遺伝子産物の欠乏または過剰によって引き起こされる疾患の多くには、標的治療法が存在しない。これらの疾患は、遺伝子の過剰発現、ノックアウト、またはノックダウンによってモデル化できるため、こうした摂動によるトランスクリプトームへの影響に拮抗する薬剤が、有望な治療候補となり得る。RNAシーケンシング（RNA-seq）研究はこの薬剤優先順位付けを促進することができるが、平易な言葉で記述されたそのラベルは手動でアノテーションされる必要がある。そこで我々は、Gene Expression Omnibusから遺伝子破壊および薬剤治療研究を自動的にキュレートし、統一的に算出されたリードカウントデータセットと連携して、ラベルとRNA-seqデータを規制関係予測に直接入力する「Signature-based Networks from Automatically Curated Knockout, Knockdown, and Small-molecule Studies (SNACKKSS)」を提案する。交差検証を通じて、SNACKKSSによる予測（具体的には「SA4」と呼ばれるバリアントによるもの）が、既存の予測因子と併せることで、タンパク質阻害化合物の探索に独自の貢献を果たすことを示す。我々は、複数の予測ツールを集約することの利点を実証し、この強力なアンサンブルをSNACKKSSと共に提供する。重要な点として、ハードウェアアーキテクチャが出力に影響を及ぼす可能性があるため、研究者は複数のデバイスで複雑な機械学習モデルをテストすることを推奨する。とはいえ、我々の知見は、薬剤リパーパシングの優先順位付けにおいて、自動的にキュレートされたRNA-seqシグネチャーを、文献および共発現に基づく予測因子と統合することの有用性を裏付けるものである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.2001122",
+    "title": "Genomic linkage and plasmid variation among ST393 extended-spectrum β-lactamase-producing Escherichia coli isolates from a mother–preterm-infant pair",
+    "abstract": "BackgroundMaternal carriage of extended-spectrum β-lactamase-producing Escherichia coli (ESBL EC) can seed neonatal infection, but strain relatedness and short-timescale plasmid variation across maternal and neonatal anatomical sites are rarely resolved. We analyzed four isolates from a mother–preterm infant pair using antimicrobial susceptibility testing, serum survival and biofilm assays, and whole-genome-based chromosomal and plasmid comparisons.ResultsThe mother experienced preterm prelabour rupture of membranes at 30 + 6 weeks, and the 1.40-kg infant developed early septic shock but recovered following meropenem treatment. All four isolates belonged to ST393, shared 100.00% pairwise chromosomal average nucleotide identity, differed by 20–44 single-nucleotide polymorphisms (SNPs) in pairwise assembly alignments, and carried an identical 90-gene virulence profile. Thirteen of 14 categorical antimicrobial susceptibility results were conserved across isolates. Serum survival rates declined from approximately 13–29% at 2 h to no more than 3.1% at 4 h, and all clinical isolates formed less biofilm biomass than ATCC 25922 in the presence of 1% glucose LB medium and TSB medium. Comparative plasmid analysis identified a shared 82,341-bp IncFIA/IncFIB(pB171) backbone and a 6,661-bp module carrying sul2, aph(3′′)-Ib, aph(6)-Id and tet(A). This module was located within an 89,002-bp assembly, but was partitioned alongside a second 40,442-bp plasmid-like sequence in the neonatal isolate.ConclusionHerein, phenotypic and genomic analysis of four archived ESBL-producing ST393 E. coli isolates from a mother-preterm infant pair revealed conserved antimicrobial susceptibility profiles and close genomic relatedness, supporting a perinatal transmission link.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.2001122",
+    "date": "2026-11-18",
+    "authors": "Zhenwen Zhou",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.2001122",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5152,
+    "collected_at": "2026-11-18T14:07:39.788433+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.3389/fmicb.2026.2001122"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d574047a2c3fd6aa4ff1aad1cae1e4d71fa97204518edb38ef99515906ed3d97",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T14:43:09.012694+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "af5805a09c5cfedd088a2d75783927413389f31d8e3d0917e06d21d2d07e8fd7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T14:43:09.012694+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "母子ペア由来のST393広域β-ラクタマーゼ産生大腸菌分離株におけるゲノム連鎖とプラスミド変異",
+    "abstract_ja": "背景 広域β-ラクタマーゼ産生大腸菌（ESBL EC）の母体保有は新生児感染の起点となり得るが、菌株間の関連性や、母体および新生児の解剖学的部位における短期間のプラスミド変異が解明されることは稀である。本研究では、母体・早産児ペア由来の4株の分離株について、薬剤感受性試験、血清生存率およびバイオフィルムアッセイ、ならびに全ゲノムに基づく染色体およびプラスミドの比較解析を行った。結果 母体は30週6日で前期破水を起こし、体重1.40 kgの新生児は早期敗血症性ショックを呈したが、メロペネム投与により回復した。4株すべての分離株はST393に属し、ペアワイズ染色体平均塩基同一性は100.00%であり、ペアワイズアセンブリアライメントにおける一塩基多型（SNP）の差は20～44個で、同一の90遺伝子病原性プロファイルを有していた。14件のカテゴリー別薬剤感受性試験結果のうち、13件が分離株間で保存されていた。血清生存率は、2時間時点で約13～29%から4時間時点では3.1%以下に低下し、すべての臨床分離株は、1%グルコースLB培地およびTSB培地存在下において、ATCC 25922よりも少ないバイオフィルム量を形成した。比較プラスミド解析により、共通の82,341 bpのIncFIA/IncFIB(pB171)バックボーンと、sul2、aph(3′′)-Ib、aph(6)-Idおよびtet(A)を含む6,661 bpのモジュールが同定された。このモジュールは89,002 bpのアセンブリ内に位置していたが、新生児分離株では2つ目の40,442 bpのプラスミド様配列と共に分画されていた。結論 本研究において、母体・早産児ペア由来の保存されたESBL産生ST393大腸菌4株の表現型およびゲノム解析を行った結果、保存された薬剤感受性プロファイルと密接なゲノム関連性が明らかとなり、周産期伝播の関連性が支持された。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1815845",
+    "title": "Comparative genomics of Xanthomonas euvesicatoria strains from pepper and rose in the Mekong Delta, Vietnam",
+    "abstract": "Bacterial spot caused by Xanthomonas euvesicatoria is a serious threat to crop production. This study isolated and characterized two X. euvesicatoria strains, XP10 from pepper and XR13 from rose, collected in the Mekong Delta, Vietnam, using pathogenicity assays and whole-genome analysis to investigate their virulence potential, genetic diversity, secretion systems, and CAZyme repertoires. Both strains induced typical leaf spot symptoms and cross-infected pepper, tomato, and rose, indicating their ability to infect hosts across the Solanaceae and Rosaceae. In addition, in vitro biochemical assays detected no pectolytic activity in either strain. Amylolytic and proteolytic activities were detected only in XR13 and were absent in XP10, whereas lipolytic and cellulolytic activities were detected in both strains. Meanwhile, whole-genome sequencing, ANI values above 98%, and core-genome phylogenomic analysis confirmed the assignment of both strains to X. euvesicatoria. However, these analyses also revealed that XP10 and XR13 belong to distinct intraspecific lineages, with XP10 clustering with X. euvesicatoria pv. euvesicatoria, whereas XR13 represents a distinct X. euvesicatoria lineage with the closest affinity to X. euvesicatoria pv. rosa. Pangenome analysis identified a large conserved core of 3,791 gene families, while accessory gene fractions were enriched in functions related to secretion, cell-envelope biogenesis, defense, and regulation or stress response. Furthermore, genes associated with secretion and motility ranged from 175 in XP10 to 191 in XR13 and encompassed major secretion and motility systems. The presence of T4bP- and plasmid-encoded pT4SSi-associated genes, with an enhanced T1SS in XR13, suggests potential for adhesion and competitive fitness, whereas pT4SSt in XP10 may support horizontal gene transfer. Notably, CAZyme repertoires were similar in size but functionally divergent, and frameshift-driven pseudogenization of an alpha-amylase gene and a PF13688 metalloprotease gene in XP10 may account for its non-amylolytic, non-proteolytic phenotype. Overall, X. euvesicatoria strains from pepper and rose in Vietnam share a conserved virulence backbone yet display fine-scale functional diversification, highlighting the value of genome-informed, multi-host disease management in mixed-cropping systems.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1815845",
+    "date": "2026-11-18",
+    "authors": "Luu Phuc Loi",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1815845",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic",
+          "pangenom",
+          "pangenome",
+          "phylogen",
+          "phylogenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5153,
+    "collected_at": "2026-11-18T14:07:39.788433+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.3389/fmicb.2026.1815845"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0aad3f59d6d6a30daf6f6f6fec260e61b03d728cacc6630803477c3c7fe7de54",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T14:43:09.012694+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "98a6635b3827e7e495747b256eb429cc783013a44110ace3dbbf1581512c6588",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T14:43:09.012694+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ベトナム・メコンデルタのトウガラシおよびバラ由来Xanthomonas euvesicatoria株の比較ゲノミクス",
+    "abstract_ja": "Xanthomonas euvesicatoriaによる細菌性斑点病は、作物生産にとって深刻な脅威である。本研究では、ベトナムのメコンデルタ地域で採取したX. euvesicatoriaの2株（トウガラシ由来のXP10およびバラ由来のXR13）を単離・特性解析し、病原性試験および全ゲノム解析を用いて、その病原性ポテンシャル、遺伝的多様性、分泌系、およびCAZymeレパートリーを調査した。両株ともに典型的な葉斑症状を誘発し、トウガラシ、トマト、およびバラに交差感染したことから、ナス科およびバラ科にわたる宿主に感染する能力を有することが示された。さらに、in vitro生化学的アッセイでは、いずれの株においてもペクト溶解活性は検出されなかった。アミロー分解活性およびタンパク質分解活性はXR13でのみ検出され、XP10では認められなかった一方、脂質分解活性およびセルロース分解活性は両株で検出された。一方、全ゲノムシーケンシング、98%を超えるANI値、およびコアゲノム系統解析により、両株がともにX. euvesicatoriaに属することが確認された。しかし、これらの解析により、XP10とXR13は種内の異なる系統に属していることが明らかになり、XP10はX. euvesicatoria pv. euvesicatoriaとクラスターを形成するのに対し、XR13はX. euvesicatoria pv. rosaと最も親和性の高い、別個のX. euvesicatoria系統であることが示された。パンゲノム解析では、3,791の遺伝子ファミリーからなる大規模な保存コアが同定され、一方で補助遺伝子分画は、分泌、細胞包膜の生合成、防御、および調節またはストレス応答に関連する機能に富んでいた。さらに、分泌および運動性に関連する遺伝子は、XP10の175個からXR13の191個に及び、主要な分泌および運動性系を網羅していた。T4bPおよびプラスミド符号化pT4SSi関連遺伝子の存在、ならびにXR13におけるT1SSの増強は、接着能および競争適応度の可能性を示唆しており、一方でXP10のpT4SStは水平遺伝子伝達を支持している可能性がある。特筆すべきは、CAZymeレパートリーの規模は同程度であったが機能的には分岐しており、XP10におけるα-アミラーゼ遺伝子およびPF13688メタロプロテアーゼ遺伝子のフレームシフト駆動型擬遺伝子化が、その非アミロー分解・非タンパク質分解表現型の要因である可能性が考えられる。総じて、ベトナムのトウガラシおよびバラ由来のX. euvesicatoria株は、保存された病原性の骨格を共有しながらも微細な機能的多様化を示しており、混作体系におけるゲノム情報に基づくマルチホスト病管理の有用性を浮き彫りにしている。"
   }
 ]
