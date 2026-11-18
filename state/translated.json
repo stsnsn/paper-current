@@ -298284,5 +298284,280 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "二重らせんを超えて：創薬標的および治療薬としての非正準核酸構造",
     "abstract_ja": "要旨 核酸は、代表的な二重らせん以外にも、G-四重鎖、i-モチーフ、三重鎖、R-ループ、Z-DNA/Z-RNA、ジャンクションといった多彩な非正準構造を有しており、これらはゲノムの安定性、転写、複製、および翻訳において役割を果たしている。しかし、これらの立体構造に関する生物学的根拠は、直接的なin vivo検証から主に間接的な生化学的推論まで多岐にわたる。本総説では、特徴的な治療的二面性に着目して考察を展開する。すなわち、非正準構造は低分子化合物、ペプチド、および核酸ベースの調節剤の分子標的となり得る一方で、それ自体が治療薬として設計されているものもある。各構造クラスについて、構造原理、生物学的根拠、および検出法を批判的に評価し、直接的なin vivo検証と細胞ベースおよび生化学的な観察を明確に区別するとともに、現行の検出戦略の限界についても指摘する。標的対薬剤という視点からクラス間の翻訳的成熟度を比較することで、非正準核酸構造の治療的ポテンシャルを最大限に引き出すために解決すべき主要な課題――構造選択性、機構的帰属、標的結合、およびデリバリー――を明らかにする。"
+  },
+  {
+    "id": "10.1093/bioinformatics/btag840",
+    "title": "TMCells: A topic-based probabilistic framework for interpretable metacell construction in single-cell data",
+    "abstract": "AbstractMotivationMetacells have emerged as an important analytical strategy for addressing the computational barriers posed by the scale and complexity of large-scale single-cell omics data, while preserving biologically relevant information and improving analytical interpretability. However, existing metacell inference methods usually have limited biological interpretability, rely on deterministic assignments that insufficiently capture continuous state transitions, and may lose potential biological signals due to prior feature selection or dimensionality reduction.ResultsWe propose TMCells, an interpretable metacell identification algorithm based on a probabilistic generative framework. TMCells introduces the concept of topic modeling and uses a Gaussian mixture model as the prior for topic distribution, defining metacells as statistical distribution centers in the latent topic space. By modeling the cell generation process, TMCells enables the simultaneous learning of topic representations and metacell partitions in an end-to-end manner, capturing the continuity and uncertainty in cell state transitions. TMCells effectively identifies high-quality metacells, eliminating technical noise while preserving the original biological heterogeneity, thereby enhancing downstream analyses such as differential expression, rare cell type identification, and trajectory inference. Furthermore, TMCells provides an intuitive interpretation of cellular heterogeneity through latent topics associated with biologically meaningful regulatory programs, offering a generative perspective for dissecting regulatory dynamics during cell-state transitions.Availability and implementationThe TMCells along with detailed documentation is freely available at https://github.com/Jinsl-lab/TMCells with DOI: 10.5281/zenodo.24198840.Supplementary InformationSupplementary data are available at Bioinformatics online.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag840",
+    "date": "2026-11-17",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag840/9081850?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5142,
+    "collected_at": "2026-11-18T14:07:39.788433+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.1093/bioinformatics/btag840"
+    ],
+    "translation": {
+      "title": {
+        "hash": "315274fdf5059f05da29d96569f741156607ebf672a11c08998dd7677f5072c0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T14:33:38.152144+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9327af407110e644c15176e9786922279a844ae1eaff9f3b72d1908cfe29f50c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T14:33:38.152144+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "TMCells: シングルセルデータにおける解釈可能なメタセル構築のためのトピックベースの確率的フレームワーク",
+    "abstract_ja": "要旨動機Meta細胞は、生物学的に関連のある情報を保持しつつ解析的な解釈可能性を向上させ、大規模シングルセルオミクスデータの規模と複雑さに起因する計算上の障壁に対処するための重要な解析戦略として台頭してきた。しかし、既存のメタセル推論手法は通常、生物学的な解釈可能性が限られており、連続的な状態遷移を十分に捉えきれない決定論的な割り当てに依存しているほか、事前の特徴量選択や次元削減によって潜在的な生物学的シグナルが失われる可能性がある。結果確率的生成フレームワークに基づく解釈可能なメタセル同定アルゴリズムであるTMCellsを提案する。TMCellsはトピックモデリングの概念を導入し、トピック分布の事前分布としてガウス混合モデルを用いることで、メタセルを潜在トピック空間における統計的分布中心として定義する。細胞生成プロセスをモデル化することで、TMCellsはトピック表現とメタセル分割の同時学習をエンドツーエンドで実現し、細胞状態遷移における連続性と不確実性を捉える。TMCellsは、元の生物学的不均一性を保持しつつ技術的ノイズを排除し、高品質なメタセルを効果的に同定することで、発現変動解析、希少細胞種の同定、トラジェクトリ推論などのダウンストリーム解析を強化する。さらに、TMCellsは、生物学的に意味のある調節プログラムに関連付けられた潜在トピックを通じて細胞不均一性の直感的な解釈を提供し、細胞状態遷移時の調節ダイナミクスを解析するための生成的な視点を提示する。利用可能性と実装TMCellsおよび詳細なドキュメントは、https://github.com/Jinsl-lab/TMCells（DOI: 10.5281/zenodo.24198840）にて無料で公開されている。補足情報補足データはBioinformatics onlineで入手可能である。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1919879",
+    "title": "Clonal diversity and hypervirulence in ESBL- and carbapenemase-producing Klebsiella pneumoniae species complex in a low-endemic hospital setting",
+    "abstract": "BackgroundThe Klebsiella pneumoniae species complex (KpSC) comprises important opportunistic pathogens capable of acquiring and disseminating antimicrobial resistance genes. The emergence of hypervirulent lineages that cause severe community-acquired disease represents an increasing public health threat. In low-endemic hospital settings, the population structure and the distribution of hypervirulence-associated determinants remain poorly characterized. Therefore, we aimed to characterize these features in extended-spectrum β-lactamase- and carbapenemase-producing (ESBL/CPE) and non-ESBL/non-CPE KpSC isolates from a low-endemic hospital in Norway.MethodsA total of 91 KpSC isolates from 90 patients, collected in 2024 at Akershus University Hospital, Norway were subjected to whole-genome sequencing (WGS) using Oxford Nanopore Technologies. The collection comprised 52 ESBL/CPE isolates from screening and clinical samples and 39 non-ESBL/non-CPE from blood cultures. Isolates were analyzed using Solu Genomics for species identification, multi-locus sequence typing (MLST), capsular polysaccharide locus (KL) and lipopolysaccharide O-antigen (O) locus typing, acquired antimicrobial resistance genes, hypervirulence-associated determinants, and plasmid characterization. Hypervirulence was assessed using both the Kleborate virulence score and the Russo biomarker panel.ResultsKlebsiella pneumoniae sensu stricto was dominant in both the ESBL/CPE and non-ESBL/non-CPE groups, with minimal overlap in clonal composition between the groups. The ESBL/CPE group was dominated by the globally disseminated high-risk clones ST307 and ST147, which had conserved KL and O-antigen types. The non-ESBL/non-CPE group was almost entirely polyclonal. Hypervirulence-associated determinants were confined to K. pneumoniae sensu stricto and were present in both the ESBL/CPE and non-ESBL/non-CPE groups. Plasmid characterization identified three putative hybrid resistance-virulence plasmids (one IncFIB/IncHI1B and two IncHI1B), carrying both antimicrobial resistance genes and hypervirulence-associated determinants. All three shared segments with high similarity to a previously described hypervirulence plasmid in K. pneumoniae.ConclusionIn this low-endemic hospital setting in Norway, ESBL/CPE KpSC isolates were dominated by high-risk clones, with limited clonal overlap between the ESBL/CPE and non-ESBL/non-CPE groups. This highlights the distinct population structures of the two groups. Hypervirulence-associated determinants were present in both ESBL/CPE and non-ESBL/non-CPE isolates, indicating a broader distribution than expected. Plasmid characterization identified three putative hybrid plasmids, carrying both antimicrobial resistance genes and hypervirulence-associated determinants.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1919879",
+    "date": "2026-11-18",
+    "authors": "Hege Vangstein Aamot",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1919879",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5145,
+    "collected_at": "2026-11-18T14:07:39.788433+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.3389/fmicb.2026.1919879"
+    ],
+    "translation": {
+      "title": {
+        "hash": "afc7d390c648b7790c8a4e556f5995ad706ca2169959ab76e17b1226af5385fe",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T14:33:38.152144+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b76cdf133459ea41ded56fed06459a40ff184b3bd3f724eadd2a95aeee31e9cf",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T14:33:38.152144+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "低流行地域の病院におけるESBLおよびカルバペネマーゼ産生Klebsiella pneumoniae種複合体のクローン多様性と超強毒性",
+    "abstract_ja": "背景Klebsiella pneumoniae種複合体（KpSC）は、抗菌薬耐性遺伝子を獲得・伝播させる能力を持つ重要な日和見病原体である。重症の市中獲得感染症を引き起こす超強毒性系統の出現は、公衆衛生上の脅威として増大している。低流行地域の病院環境においては、集団構造および超強毒性関連決定因子の分布が十分に解明されていない。そこで本研究では、ノルウェーの低流行地域の病院から得られた、広域β-ラクタマーゼおよびカルバペネマーゼ産生（ESBL/CPE）および非ESBL/非CPEのKpSC分離株におけるこれらの特徴を明らかにすることを目的とした。方法2024年にノルウェーのアケルスフス大学病院で採取された患者90例由来の計91株のKpSC分離株を対象に、Oxford Nanopore Technologiesを用いて全ゲノムシーケンシング（WGS）を実施した。採取検体は、スクリーニングおよび臨床検体由来のESBL/CPE分離株52株と、血液培養由来の非ESBL/非CPE分離株39株で構成されていた。分離株の解析には、Solu Genomicsを用い、種同定、マルチローカスシーケンスタイピング（MLST）、莢膜多糖体遺伝子座（KL）およびリポ多糖O抗原（O）遺伝子座のタイピング、獲得抗菌薬耐性遺伝子、超強毒性関連決定因子、およびプラスミド特性解析を行った。超強毒性は、Kleborate virulence scoreおよびRussoバイオマーカーパネルの両方を用いて評価した。結果Klebsiella pneumoniae sensu strictoは、ESBL/CPE群および非ESBL/非CPE群の双方で優位であり、群間のクローン組成の重複は最小限であった。ESBL/CPE群は、世界的に分布する高リスククローンであるST307およびST147が優位であり、これらは保存されたKLおよびO抗原型を有していた。非ESBL/非CPE群は、ほぼ完全にポリクローナルであった。超強毒性関連決定因子はK. pneumoniae sensu strictoに限定されており、ESBL/CPE群および非ESBL/非CPE群の双方に認められた。プラスミド特性解析により、抗菌薬耐性遺伝子と超強毒性関連決定因子の両方を保持する3つの推定ハイブリッド耐性・毒性プラスミド（IncFIB/IncHI1B 1株、IncHI1B 2株）が同定された。これら3株はいずれも、K. pneumoniaeにおいて既報の超強毒性プラスミドと高い類似性を示すセグメントを共有していた。結論ノルウェーのこの低流行地域の病院環境において、ESBL/CPE KpSC分離株は高リスククローンが優位であり、ESBL/CPE群と非ESBL/非CPE群の間でのクローン重複は限定的であった。このことは、両群の集団構造が異なることを浮き彫りにしている。超強毒性関連決定因子はESBL/CPE分離株および非ESBL/非CPE分離株の双方に認められ、予想よりも広範に分布していることが示された。プラスミド特性解析により、抗菌薬耐性遺伝子と超強毒性関連決定因子の両方を保持する3つの推定ハイブリッドプラスミドが同定された。"
+  },
+  {
+    "id": "10.1093/nar/gkag1220",
+    "title": "Timing of ribosomal RNA modification during eukaryotic ribosome biogenesis",
+    "abstract": "AbstractRibosomal RNA (rRNA) modifications are critical for ribosome function, influencing rRNA stability, structure, and interactions with ribosomal proteins and transfer RNA. However, the precise timing of modification during the complex process of ribosome biogenesis remains unknown. We address this knowledge gap by analyzing Saccharomyces cerevisiae precursor rRNA (pre-rRNA) through purification of RNA polymerase I and III and Nanopore direct RNA sequencing. Using quantitative RNA modification analyses of distinct pre-rRNA intermediates along the rRNA maturation pathway, we discover the timing of rRNA modifications mediated by small nucleolar ribonucleoproteins (snoRNPs) and other enzymes. All H/ACA snoRNPs act co-transcriptionally to form pseudouridines before 20S and 27SA2 pre-rRNAs are separated, and the same is true for C/D snoRNPs generating 2′-O-methylations. Most modifications, particularly those at the 5′ end of 18S rRNA, are fully installed already in 35S pre-rRNA, however certain modifications in the central and 3′ regions of 18S rRNA are only completed in later stages of ribosome assembly. These observations indicate that snoRNPs can continue to act on selected sites in pre-rRNA during subsequent pre-ribosome maturation steps. In conclusion, we provide detailed insights into the timing of rRNA modification during the early stages of rRNA maturation and the molecular choreography of eukaryotic ribosome biogenesis.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1220",
+    "date": "2026-11-18",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1220/9089568?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "18s rrna",
+        "Saccharomyces"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5168,
+    "collected_at": "2026-11-18T14:07:39.788433+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/3091.xml"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.1093/nar/gkag1220"
+    ],
+    "translation": {
+      "title": {
+        "hash": "607a2731755e0181f2271c9edb864ac0dd4d0b9c69cbdfecddc860a7c2d15150",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T14:33:38.152144+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f8d22c29dfb4ac2a1885716de44e79e896d216b49bfea464f60f058f5752bb33",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T14:33:38.152144+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "真核リボソーム生合成におけるリボソームRNA修飾のタイミング",
+    "abstract_ja": "要旨リボソームRNA（rRNA）修飾はリボソーム機能において極めて重要であり、rRNAの安定性、構造、およびリボソームタンパク質や転移RNAとの相互作用に影響を及ぼす。しかし、リボソーム生合成という複雑な過程における修飾の正確なタイミングは依然として不明である。本研究では、RNAポリメラーゼIおよびIIIの精製ならびにナノポア直接RNAシーケンシングを用いてSaccharomyces cerevisiaeの前駆体rRNA（pre-rRNA）を解析することで、この知見の空白を埋める。rRNA成熟経路に沿った異なるpre-rRNA中間体の定量的RNA修飾解析により、小型核小体リボ核タンパク質（snoRNPs）およびその他の酵素が媒介するrRNA修飾のタイミングを明らかにした。すべてのH/ACA snoRNPsは、20Sおよび27SA2 pre-rRNAが分離される前に共転写的に作用してシュードウリジンを形成し、2′-O-メチル化を生成するC/D snoRNPsについても同様である。ほとんどの修飾、特に18S rRNAの5′末端における修飾は、35S pre-rRNAの段階で既に完全に付加されているが、18S rRNAの中央領域および3′領域における特定の修飾は、リボソーム組み立ての後段階になって初めて完了する。これらの観察結果は、snoRNPsがその後のpre-リボソーム成熟段階においても、pre-rRNAの選択された部位に作用し得ることを示している。結論として、我々はrRNA成熟の初期段階におけるrRNA修飾のタイミングと、真核リボソーム生合成の分子的な振り付けに関する詳細な知見を提示する。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1984743",
+    "title": "Wolbachia dominance and host-form-consistent geographic structuring of the Culex pipiens complex microbiome across the Republic of Korea",
+    "abstract": "Mosquito microbiomes are shaped by host genetic background and by the environment, but separating the two in wild populations is difficult, particularly when a single endosymbiont dominates the sequenced community. We present the first nationwide, complex-specific survey of the Culex pipiens complex microbiome in the Republic of Korea: 16S rRNA gene (V3–V4) amplicon sequencing of 29 pools of the two Korean host forms, Cx. pipiens pallens (cpp) and Cx. pipiens form molestus (cpm), collected between 1 and 15 August 2022 from 23 sites in 22 surveillance regions. Wolbachia accounted for 45.1% of the bacterial community on average (up to 94.7% in individual pools) and set the first axis of abundance-weighted ordinations. Beneath this dominance, mosquitoes from Jeju Island and from the mainland harbored distinct bacterial communities, differing in composition, phylogenetic diversity and evenness. This island–mainland contrast was detected by log-ratio (Aitchison) and presence/absence distances with or without Wolbachia in the data, became clearer in abundance-weighted distances once Wolbachia abundance was accounted for, was consistent across both host forms, and was robust to pool size, geographic coordinates and the removal of 114 genera of potential reagent or vertebrate origin. In contrast, the two host forms, despite marked differences in blood-host preference, autogeny and diapause, showed no detectable compositional difference in four of five distance metrics, with only a modest difference in which lineages were present. Wolbachia dominance depressed the apparent evenness of the remaining community without reducing its richness. Because host form and region were partly confounded and no negative controls were sequenced, the form comparison and the status of low-abundance taxa remain provisional, whereas the geographic contrast does not depend on either. These results show that the Cx. pipiens complex microbiome in Korea is structured more by geography than by host form, and that a dominant endosymbiont can obscure biogeographic structure in abundance-weighted analyses, which log-ratio, presence/absence and covariate-adjusted analyses recover. Sequence data are available under NCBI BioProject PRJNA1479552.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1984743",
+    "date": "2026-11-18",
+    "authors": "Hyung-Wook Kwon",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1984743",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "bacteria",
+        "bacterial",
+        "microbiome",
+        "microbiomes"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5146,
+    "collected_at": "2026-11-18T14:07:39.788433+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.3389/fmicb.2026.1984743"
+    ],
+    "translation": {
+      "title": {
+        "hash": "985f3f57ec0730007925aba074729b195b03c5f7e2a0a56308b16de0d57eac6a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T14:33:38.152144+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "44c3354a960993a3bd6cf03f4909c0ced8e76be760bd583e51a9e278294b452e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T14:33:38.152144+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "大韓民国におけるアカイエカ複合微生物叢のWolbachia優占と宿主形態に整合した地理的構造",
+    "abstract_ja": "蚊のマイクロバイオームは、宿主の遺伝的背景と環境によって形成されるが、野生集団において両者を分離することは困難であり、特に単一の内共生体がシーケンシングされたコミュニティを支配している場合にはその傾向が顕著である。本研究では、大韓民国におけるCulex pipiens複合体マイクロバイオームの、初の全国規模かつ複合体特異的な調査報告を行う。具体的には、2022年8月1日から15日にかけて22の監視地域の23地点で採取した、韓国の2つの宿主形態であるCx. pipiens pallens (cpp) および Cx. pipiens form molestus (cpm) の29プールについて、16S rRNA遺伝子（V3–V4）アンプリコンシーケンシングを実施した。Wolbachiaは細菌コミュニティの平均45.1%（個別プールでは最大94.7%）を占め、存在量重み付きオードネーションの第1軸となった。この支配的状態の下では、済州島と本土の蚊は、組成、系統的多様性、および均一性において異なる、それぞれ固有の細菌コミュニティを保持していた。この島と本土の対比は、データにおけるWolbachiaの有無による対数比（Aitchison）および存在・不在距離によって検出され、Wolbachiaの存在量を考慮した存在量重み付き距離においてより明確となり、両宿主形態間で一貫しており、またプールサイズ、地理座標、および試薬または脊椎動物由来の可能性がある114属の除外に対しても頑健であった。対照的に、2つの宿主形態は、吸血宿主選好性、自殖性、および休眠において顕著な差異があるにもかかわらず、5つの距離指標のうち4つにおいて検出可能な組成上の差は認められず、どの系統が存在するかという点においてのみわずかな差が見られた。Wolbachiaの支配は、残りのコミュニティの豊かさを損なうことなく、見かけ上の均一性を低下させた。宿主形態と地域が部分的に交絡しており、陰性対照のシーケンシングが行われなかったため、形態間の比較および低存在量分類群のステータスは暫定的なものであり、一方で地理的な対比はいずれにも依存しない。これらの結果は、韓国におけるCulex pipiens複合体マイクロバイオームが宿主形態よりも地理的要因によって構造化されていること、および、支配的な内共生体が存在量重み付き解析において生物地理学的構造を覆い隠し得るが、対数比、存在・不在、および共変量調整解析ではそれが復元されることを示している。シーケンシングデータは、NCBI BioProject PRJNA1479552で公開されている。"
   }
 ]
