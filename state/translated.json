@@ -297753,5 +297753,279 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ハイスループット質量分析法に基づくプロテオミクスのための血漿試料調製法の比較解析と大腸癌への応用",
     "abstract_ja": "要旨    背景  近年、ハイスループットな血漿プロテオーム試料調製のための複数の手法が登場している。本研究では、質量分析法に基づくプロファイリングと組み合わせた、スケーラブルかつ低コストな4つの血漿試料調製手法を比較し、臨床試料への適用可能性を評価することを目的とした。  方法  以下の血漿試料調製手法を対象とした：溶液内消化（ISD）、懸濁液トラッピング（S-Trap）、過塩素酸沈殿（perCA）、および超多孔性強アニオン交換磁気微粒子（Mag-Net）を用いた細胞外小胞（EV）濃縮。プールしたヒト血漿試料の分取液を、データ非依存型取得質量分析法を用いてワークフローの3連反復で解析した。さらに、大腸癌患者の血漿コホートをISDおよびMag-Netを用いて処理し、臨床的な適用可能性を評価した。  結果  Mag-Netは最大のプロテオーム深度（試料あたり約1,000タンパク質）と最高のタンパク質同定再現性（データ完全性 = 87.4%）を達成した一方、ISDによるグローバル血漿プロテオミクスは最高の定量的再現性（CV = 8.5%）を示した。すべてのワークフローにおいて、少なくとも1つのワークフローの3つのテクニカルリピートすべてで1,130個のタンパク質が同定され、そのうち399個は4つのワークフローすべてで共通していた。機能解析の結果、大部分が重複する機能の差異的な濃縮が認められた。先行研究と同様に、Mag-Netは細胞外小胞を濃縮した。続いて、Mag-Net（最適な詳細ワークフロー）とISD（最適なグローバルワークフロー）の2つのワークフローを、大腸癌（CRC）患者30例および健常対照群29例のコホートに適用した。両ワークフローともに、CRC試料と健常試料の判別に成功し、既知のCRC関連タンパク質を回収した。パスウェイおよび機能解析により、CRCに関連する生物学的特徴（バイオマーカー）として、MYC標的、MTORC1シグナル伝達、および有糸分裂紡錘体が明らかになった。ランダムフォレスト解析により、ワークフロー固有の候補バイオマーカーパネルが同定され、統合した上位20個のタンパク質モデルの曲線下面積（AUC）値は、Mag-Netで0.985、ISDで0.964であった。重要な点として、上位にランクされた複数のバイオマーカー候補は、外部のCRC組織および血漿プロテオミクスデータセットによっても支持された。  結論  以上の知見を総合すると、グローバル（ISD）および詳細血漿プロテオミクス（Mag-Net）の双方が、臨床応用に適した再現性のあるワークフローであり、疾患におけるバイオマーカー探索のためにさらなる検討に値することが示された。"
+  },
+  {
+    "id": "10.1093/bioinformatics/btag843",
+    "title": "Multi-Granularity Cross-Attention Mixture-of-Experts for Protein–Ligand Dissociation Kinetics Prediction",
+    "abstract": "AbstractMotivationDrug–target affinity prediction is pivotal in drug discovery. However, most existing computational methods focus primarily on binding affinity and do not explicitly model dissociation kinetics (Koff). Accurately predicting Koff therefore remains both important and challenging for kinetics-guided drug screening and residence-time optimization.ResultsTo address this challenge, we propose MGCA, a multi-granularity cross-attention framework for Koff prediction. MGCA represents proteins using multi-depth ESM2 features and ligands using multi-radius Morgan fingerprints. It integrates these representations through gated expert fusion, low-rank bidirectional cross-attention, and protein-anchored residual fusion. Across the Zhao dissociation-kinetics dataset and the KinetX benchmark, MGCA achieved the lowest mean squared error (MSE) in all warm-start and protein cold-start evaluations. Notably, MGCA reduced protein cold-start MSE by 42.5% and 12.1% relative to the recent kinetics-specific BiCoA-Net model on Zhao and KinetX, respectively. Under matched hardware, MGCA also trained substantially faster than BiCoA-Net and MoE-Kinetic. Ablation and case-study analyses further showed that MGCA effectively integrates protein, ligand, and interaction information, supporting cross-target generalization, within-target compound ranking, and feature-level interpretation. Together, these results establish MGCA as an accurate, efficient, and interpretable framework for protein–ligand dissociation kinetics prediction.Availability and implementationThe source code and datasets are available at https://github.com/CSUBioGroup/MGCA-koff and https://doi.org/10.5281/zenodo.22932383.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag843",
+    "date": "2026-11-18",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag843/9089736?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "prediction",
+        "protein"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "prediction",
+          "protein"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5140,
+    "collected_at": "2026-11-18T14:07:39.788433+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.1093/bioinformatics/btag843"
+    ],
+    "translation": {
+      "title": {
+        "hash": "970b8325e0ceb980c9ce1007b679865b3bcbe4ed166dd8a485e2b5f0917007bb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T14:29:09.934957+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6adb7c312b01b17eb9ea49511b4e5427f5b18ce66db02f67dfa91ef1464a2acf",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T14:29:09.934957+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "タンパク質－リガンド解離速度論予測のための多粒度クロスアテンション混合エキスパートモデル",
+    "abstract_ja": "要旨動機創薬において、薬物－標的親和性の予測は極めて重要である。しかし、既存の計算手法の多くは主に結合親和性に焦点を当てており、解離速度論（Koff）を明示的にモデル化していない。したがって、速度論に基づいた薬物スクリーニングや滞留時間最適化において、Koffを正確に予測することは重要であると同時に困難な課題である。結果この課題に対処するため、我々はKoff予測のためのマルチ粒度クロスアテンションフレームワークであるMGCAを提案する。MGCAは、タンパク質を多深度ESM2特徴量で、リガンドを多半径Morganフィンガープリントで表現する。これらの表現を、ゲート付きエキスパート融合、低ランク双方向クロスアテンション、およびタンパク質アンカー型残差融合を通じて統合する。Zhao解離速度論データセットおよびKinetXベンチマークにおいて、MGCAはすべてのウォームスタートおよびタンパク質コールドスタート評価で最小の平均二乗誤差（MSE）を達成した。特筆すべきは、MGCAがZhaoおよびKinetXにおいて、最近の速度論特化型モデルであるBiCoA-Netと比較して、タンパク質コールドスタートのMSEをそれぞれ42.5%および12.1%低減させた点である。同一のハードウェア条件下において、MGCAはBiCoA-NetおよびMoE-Kineticよりも大幅に高速に学習した。アブレーション解析およびケーススタディ分析により、MGCAがタンパク質、リガンド、および相互作用情報を効果的に統合し、ターゲット間汎化、ターゲット内化合物ランキング、および特徴量レベルの解釈をサポートしていることがさらに示された。以上の結果により、MGCAはタンパク質－リガンド解離速度論予測のための、正確かつ効率的で解釈可能なフレームワークであることが実証された。利用可能性および実装ソースコードおよびデータセットは、https://github.com/CSUBioGroup/MGCA-koff および https://doi.org/10.5281/zenodo.22932383 で公開されている。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1981989",
+    "title": "Therapeutic effects of Shexiang Huayu Xingnao granules on intracerebral hemorrhage and its concomitant colonic injury in rats",
+    "abstract": "Intracerebral hemorrhage (ICH) is the most devastating subtype of stroke associated with high mortality and morbidity, as well as a persistently unfavorable prognosis. However, currently available clinical interventions have limited efficacy. Shexiang Huayu Xingnao granules (SX granules) are a traditional Chinese medicine formulation with promising therapeutic efficacy in managing ICH. However, the underlying molecular mechanisms remain incompletely elucidated. This study aimed to determine the therapeutic effects of SX granules on intracerebral hemorrhage and its concomitant colonic injury in rat model. The results showed that SX granules significantly attenuated cerebral hemorrhage, improved neurological deficits in rats with ICH. Moreover, hematoxylin–eosin staining revealed that SX granules ameliorated colonic histopathological damage. The 16S ribosomal RNA and internal transcribed spacer sequencing demonstrated that SX granules ameliorated intestinal microbiota dysbiosis in rats with ICH. These findings suggested that the therapeutic effects of SX granules in ICH were mediated, probably through modulation of the microbiota composition, providing a mechanistic foundation for the beneficial impact of SX granules on functional recovery and neurological outcomes.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1981989",
+    "date": "2026-11-18",
+    "authors": "Zhangyong Song",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1981989",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s ribosomal",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5143,
+    "collected_at": "2026-11-18T14:07:39.788433+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.3389/fmicb.2026.1981989"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e0451f45f737103bad2fe17296f72c59e279ac2e5a8887e257b936d13e495951",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T14:29:09.934957+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c8453638b8a6f5ec4bb506a03729bbeccc940b7d521c21643db3f8630c2373d9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T14:29:09.934957+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ラットの脳内出血およびそれに伴う結腸損傷に対する蛇香華玉興諾顆粒の治療効果",
+    "abstract_ja": "脳内出血（ICH）は、高い死亡率および罹患率に加え、一貫して不良な予後を伴う、脳卒中の中で最も重篤な亜型である。しかし、現在利用可能な臨床的介入の有効性は限定的である。蛇香華玉辛茴顆粒（SX顆粒）は、ICHの管理において有望な治療効果を示す中薬製剤である。しかし、その根底にある分子機序は未だ十分に解明されていない。本研究では、ラットモデルを用いて、SX顆粒が脳内出血およびそれに伴う結腸損傷に及ぼす治療効果を明らかにすることを目的とした。その結果、SX顆粒はICHラットにおける脳出血を有意に軽減し、神経学的欠損を改善した。さらに、ヘマトキシリン・エオジン染色により、SX顆粒が結腸の組織病理学的損傷を軽減することが示された。16SリボソームRNAおよび内部転写スペーサーのシーケンシングにより、SX顆粒がICHラットにおける腸内細菌叢のディスバイオーシスを改善することが実証された。これらの知見は、ICHにおけるSX顆粒の治療効果が、おそらく微生物叢組成の調節を介して発揮されることを示唆しており、機能的回復および神経学的転帰に対するSX顆粒の有益な影響の機序的基盤となるものである。"
+  },
+  {
+    "id": "10.1093/nargab/lqag139",
+    "title": "ORBIT: annotation-aware empirical enrichment and semantic reranking for interpretable functional-class recovery",
+    "abstract": "AbstractTo address the long, redundant result tables produced by standard gene-set enrichment tools, we developed the Ontology-Ranked Biological Interpretation Tool (ORBIT), which combines annotation-aware empirical enrichment, semantic reranking, and representative-term selection to generate compact functional summaries linked to supporting genes. On a curated 45-set internal functional-class benchmark, ORBIT achieved a mean reciprocal rank of 0.913 and top-1 recovery of 0.889. Component ablations identified query-level functional consensus as the strongest individual semantic contributor, while coefficient perturbations showed stable recovery across the tested range. Vocabulary controls showed that internal functional labels contributed to benchmark recovery. A GPCR case study demonstrated redundancy reduction, and applications to PBMC3K, IFNB-stimulated immune cells, and TCGA-BRCA recovered cell-identity, interferon-response, and breast-cancer subtype programs. ORBIT integrates enrichment statistics, functional prioritization, and supporting evidence within a single workflow, enabling users to review concise biological summaries while retaining access to the complete results.",
+    "journal": "NAR Genomics and Bioinformatics",
+    "doi": "10.1093/nargab/lqag139",
+    "date": "2026-11-18",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nargab/article/doi/10.1093/nargab/lqag139/9089553?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "annotation",
+        "gene",
+        "tool"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6220/4033.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5139,
+    "collected_at": "2026-11-18T14:07:39.788433+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://academic.oup.com/rss/site_6220/4033.xml"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.1093/nargab/lqag139"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e2c2c46eba7715c59b7d68850c09882007587b8829ee74f17c324b252df2a0c5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T14:29:09.934957+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ab8ea5cb5ab531e85303db4ec8a9f1f77fe9e6abfcb3ced9aee30ffa55d5630b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T14:29:09.934957+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ORBIT: 解釈可能な機能クラス復元のためのアノテーションを考慮した経験的エンリッチメントと意味的リランキング",
+    "abstract_ja": "要旨：標準的な遺伝子セットエンリッチメントツールによって生成される、冗長で膨大な結果テーブルに対処するため、我々はOntology-Ranked Biological Interpretation Tool（ORBIT）を開発した。本ツールは、アノテーションを考慮した経験的エンリッチメント、意味的リランキング、および代表用語の選定を組み合わせることで、支持遺伝子に紐付けられた簡潔な機能的サマリーを生成する。キュレーション済みの45セットからなる内部機能クラスベンチマークにおいて、ORBITは平均逆順位0.913、トップ1リカバリー0.889を達成した。コンポーネントのアブレーション解析により、クエリレベルの機能的コンセンサスが個々の意味的寄与因子として最も強力であることが特定され、係数摂動解析ではテスト範囲全体で安定したリカバリーが示された。語彙制御の結果、内部機能ラベルがベンチマークのリカバリーに寄与することが示された。GPCRのケーススタディでは冗長性の低減が実証され、PBMC3K、IFNB刺激免疫細胞、およびTCGA-BRCAへの適用により、細胞アイデンティティ、インターフェロン応答、および乳がんサブタイププログラムがリカバリーされた。ORBITは、エンリッチメント統計、機能的優先順位付け、および支持根拠を単一のワークフローに統合しており、ユーザーが完全な結果へのアクセスを維持しつつ、簡潔な生物学的サマリーを確認することが可能となる。"
+  },
+  {
+    "id": "10.1038/s41467-026-79174-5",
+    "title": "A revised genome annotation of the model cyanobacterium Synechocystis based on start and stop codon-enriched ribosome profiling and proteogenomics",
+    "abstract": "Information on protein-coding segments in a genome is frequently incomplete and genes encoding very short proteins are often overlooked. Here, the authors present a riboproteogenomic approach. The results support the existence of many additional protein-coding sequences in a model cyanobacterium.",
+    "journal": "Nature Communications",
+    "doi": "10.1038/s41467-026-79174-5",
+    "date": "2026-11-18",
+    "authors": "Wolfgang R. Hess",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.nature.com/articles/s41467-026-79174-5",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "annotation",
+        "genome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.nature.com/ncomms.rss",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5157,
+    "collected_at": "2026-11-18T14:07:39.788433+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://www.nature.com/ncomms.rss"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.1038/s41467-026-79174-5"
+    ],
+    "translation": {
+      "title": {
+        "hash": "cc739ba483c5e33901059a7de695d5299a0271b4fb99616faa0d5282709bcbed",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T14:29:09.934957+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "58a12f26c51b3501d5e3f7026a1c8b57dc40744b6f6712006cf9d0e421a6fa11",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T14:29:09.934957+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "スタートコドンおよびストップコドン濃縮リボソームプロファイリングとプロテオゲノミクスに基づくモデルシアノバクテリアSynechocystisのゲノムアノテーションの改訂",
+    "abstract_ja": "ゲノムにおけるタンパク質コード領域に関する情報は不完全なことが多く、極めて短いタンパク質をコードする遺伝子は見落とされがちである。本報で著者らは、リボプロテオゲノミクス的手法を提示する。その結果は、モデルシアノバクテリアに多くの追加的なタンパク質コード配列が存在することを裏付けている。"
   }
 ]
