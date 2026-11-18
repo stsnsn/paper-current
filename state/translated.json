@@ -299672,5 +299672,285 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "レジストームに基づくスーパーバグの機械学習による発生源特定",
     "abstract_ja": "ヒトの病原性細菌の多くはヒトだけでなく他の種にも感染しており、感染源の特定は異なる感染源間の伝播を研究する上で非常に有用であった。しかし、Acinetobacter baumanniiのような重要病原体については、感染源特定の手法を用いた研究は行われてこなかった。本研究では、ヒト、伴侶動物、土壌、およびシロコウノトリという4つの感染源由来の、ほぼ1,200株のA. baumanniiゲノムのレジストームを用いて、機械学習による感染源特定を行った。特筆すべきは、レジストームを入力データとして用いた研究はこれまで他に存在しない点である。まず、168通りのパラメータ組み合わせの中から最適なモデルとしてランダムフォレストを選択し、5分割交差検証と特徴量選択のためのカイ二乗検定を実施した。このモデルはF1加重スコア0.744という概ね良好な精度を示したが、クラス精度は感染源に依存していた。伴侶動物とヒトでは、予測の93%および86%がそれぞれ正しかった一方、他の2つのカテゴリー（土壌およびシロコウノトリ）では正解率が50%を下回った。しかし、コア系統樹およびST割り当ての解析により、誤った予測はマルチホスト系統に関連していることが明らかになった。最後に、各クラスの予測に寄与する最も重要なARGを特定したところ、伴侶動物においては、テトラサイクリン系への耐性を付与するtet遺伝子が主要な寄与因子の一つであった。本研究は、感染源の関連性を予測するモデル開発におけるレジストームの可能性を示すものである。より広範には、機械学習と系統ゲノミクスを統合することで、マルチホスト伝播の動態の理解にどのように寄与できるかを明らかにした。"
+  },
+  {
+    "id": "10.64898/2026.11.16.766804",
+    "title": "Host HSP90 mimicry by a parasite effector triggers mitochondrial membrane shedding",
+    "abstract": "The outer mitochondrial membrane mediates critical host defenses against intracellular pathogens. How microbes manipulate this compartment remains poorly understood. Here, we found that the human parasite Toxoplasma gondii remodels host mitochondrial membranes through molecular mimicry of HSP90 chaperones. Cryo-electron microscopy analyses showed that the parasite effector TgMAF1 binds the same specialized clamp domain of the mitochondrial import receptor TOM70 as chaperones of the HSP70/90 family. Biochemical and comparative genomics analyses demonstrate that this mimicry arose through the neofunctionalization of the TgMAF1 C-terminus from an ancestral paralog incapable of TOM70 binding. In molecular dynamics simulations, complexed TgMAF1-TOM70 triggered the formation of higher order assemblies that induced local membrane curvature. These findings uncover a previously unknown host subversion strategy and establish molecular mimicry of a chaperone as a mechanism for pathogen-driven remodeling of the host OMM.",
+    "journal": "",
+    "doi": "10.64898/2026.11.16.766804",
+    "date": "2026-11-18",
+    "authors": "Straub, J., Kreimendahl, S., Schaefer, J.-H., Babu, S. Y. D., den Brave, F., Prichard, A., Heredia, M., Chao, K. W., Stillger, K., Ojha, H., Muqit, M., Amunts, A., Becker, T., Lander, G. C., Rouse, S. L., Grotjahn, D., Pernas, L.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.16.766804v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbe",
+        "microbes"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assemblies",
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5160,
+    "collected_at": "2026-11-18T14:07:39.788433+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.64898/2026.11.16.766804"
+    ],
+    "translation": {
+      "title": {
+        "hash": "128ba6d5ab0f77420fa37e43e9f5183a979c19be64c16be2f4a77e6f28e8420b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T14:49:45.566225+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8fb39c623a40e3541fc43bc126d6f01aa870c3e3b616a9095150746d347a544f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T14:49:45.566225+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "寄生虫エフェクターによる宿主HSP90模倣がミトコンドリア膜の脱落を誘発する",
+    "abstract_ja": "ミトコンドリア外膜は、細胞内病原体に対する宿主の重要な防御機構を媒介している。微生物がこの区画をどのように操作しているかについては、依然として十分に解明されていない。本研究において、我々は、ヒト寄生虫Toxoplasma gondiiがHSP90シャペロンの分子模倣を通じて宿主のミトコンドリア膜をリモデリングすることを見出した。クライオ電子顕微鏡解析により、寄生虫エフェクターTgMAF1が、HSP70/90ファミリーのシャペロンと同様に、ミトコンドリア取り込み受容体TOM70の同一の特殊化クランプドメインに結合することが示された。生化学的解析および比較ゲノミクス解析により、この模倣機構は、TOM70結合能を持たない祖先パラログからTgMAF1のC末端がネオファンクショナライゼーションされることで生じたことが実証された。分子動力学シミュレーションでは、複合体を形成したTgMAF1-TOM70が、局所的な膜曲率を誘導する高次アセンブリの形成を誘発した。これらの知見は、これまで知られていなかった宿主のサブバージョン戦略を明らかにするとともに、シャペロンの分子模倣が病原体主導の宿主OMMリモデリングのメカニズムであることを立証するものである。"
+  },
+  {
+    "id": "10.64898/2026.11.15.766776",
+    "title": "Tissue-specific genomic and transcriptomic dynamics of the OsHV-1 lytic cycle in the Pacific oyster Magallana gigas revealed by long-read sequencing",
+    "abstract": "Ostreid herpesvirus 1 (OsHV-1) causes recurrent mass mortality of juvenile Pacific oysters (Magallana gigas) worldwide, yet its lytic cycle remains poorly characterized in vivo. In the absence of a permissive cell line, most studies have relied on intramuscular injection, which bypasses the natural route of infection, or on primary haemocyte cultures, which cannot capture tissue-level host-virus interactions. In addition, gene expression studies have relied on short-read sequencing, which fragments transcription units and cannot resolve complex transcriptional architectures. Long-read sequencing has recently revealed abundant overlapping, antisense and polycistronic transcripts in other herpesviruses, but whether OsHV-1 shares this complexity, and how its transcriptional program varies across host tissues during natural infection, remains unknown. Here, we exposed naive oysters to OsHV-1 by bath exposure and combined long-read genomic and transcriptomic sequencing of gills, mantle, digestive gland and adductor muscle at increasing levels of infection. OsHV-1 genomes were assembled directly from infected tissues, and intra-host viral diversity was structured by host rather than tissue. We identified 410 unspliced viral transcripts, including overlapping, antisense and polycistronic transcripts. The viral transcriptional program was largely conserved across tissues and resembled that previously described in haemocytes in vitro. In the host, infection triggered a response shared by all tissues, but earlier and stronger in the gills and mantle. Together, these results provide the first long-read view of the OsHV-1 lytic cycle in its natural host.",
+    "journal": "",
+    "doi": "10.64898/2026.11.15.766776",
+    "date": "2026-11-18",
+    "authors": "Dotto-Maurel, A., MORGA, B., Arzul, I., Chevignon, G.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.15.766776v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5161,
+    "collected_at": "2026-11-18T14:07:39.788433+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.64898/2026.11.15.766776"
+    ],
+    "translation": {
+      "title": {
+        "hash": "183875616ebef52925aeec951957c2bb7a73750e219cbd47e8af6ac9804248ed",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T14:49:45.566225+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4484501a73e49f38f092ccf4fc93fecdc5702d5d7c546819705fcfcf11fadab6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T14:49:45.566225+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ロングリードシーケンシングにより明らかになった太平洋牡蠣 Magallana gigas における OsHV-1 溶菌サイクルの組織特異的なゲノム・トランスクリプトーム動態",
+    "abstract_ja": "オストライドヘルペスウイルス1（OsHV-1）は、世界中で太平洋ガキ（Magallana gigas）の幼体に反復的な大量死を引き起こすが、その溶菌サイクルは生体内（in vivo）において十分に解明されていない。許容細胞株が存在しないため、ほとんどの研究では、自然な感染経路をバイパスする筋肉内注射、あるいは組織レベルでの宿主・ウイルス間相互作用を捉えられない一次血球培養に依拠してきた。さらに、遺伝子発現解析では短リードシーケンシングが用いられてきたが、これは転写単位を断片化するため、複雑な転写構造を解明することはできない。近年、ロングリードシーケンシングにより、他のヘルペスウイルスにおいて重複、アンチセンス、およびポリシストロン転写産物が豊富に存在することが明らかになったが、OsHV-1も同様の複雑性を有するのか、また自然感染時にその転写プログラムが宿主組織間でどのように異なるのかは依然として不明である。本研究では、稚貝を浴漬によりOsHV-1に曝露させ、感染レベルを段階的に上げながら、鰓、外套膜、消化腺、および閉殻筋のロングリードゲノムおよびトランスクリプトームシーケンシングを組み合わせた。OsHV-1ゲノムは感染組織から直接アセンブルされ、宿主内におけるウイルス多様性は組織ではなく宿主によって構造化されていた。我々は、重複、アンチセンス、およびポリシストロン転写産物を含む410種類の未スプライシングウイルス転写産物を同定した。ウイルスの転写プログラムは組織間で概ね保存されており、in vitroで血球において以前に報告されたものと類似していた。宿主においては、感染はすべての組織で共有される応答を誘発したが、鰓と外套膜ではより早期に、かつ強く認められた。以上の結果を総合すると、天然宿主におけるOsHV-1の溶菌サイクルに関する初のロングリード解析結果が得られたことになる。"
+  },
+  {
+    "id": "10.64898/2026.11.16.767154",
+    "title": "Genomic reassessment of Enterobacter species and subspecies",
+    "abstract": "Enterobacter species are opportunistic pathogens whose identification is complicated by closely related lineages and changing species nomenclature. We reassessed 1,074 public genomes using average nucleotide identity (ANI), type-strain comparisons and phylogenies based on conserved markers, genome alignments and k-mers. Among 1,070 genomes included in the classification comparison, 123 changed species or subspecies membership relative to NCBI labels, 499 changed names following revisions to species boundaries or ranks, and 69 previously unnamed genomes received species assignments. The oharae, steigerwaltii, xiangfangensis and hoffmannii lineages formed an expanded Enterobacter xiangfangensis, separate from the lineage containing the E. hormaechei type. We propose five transferred combinations: E. xiangfangensis subsp. oharae comb. nov., E. xiangfangensis subsp. steigerwaltii comb. nov., E. xiangfangensis subsp. hoffmannii comb. nov., E. roggenkampii subsp. quasiroggenkampii comb. nov. and E. chengduensis subsp. rongchengensis comb. nov. We also describe the corresponding type subspecies, E. xiangfangensis subsp. xiangfangensis comb. nov., E. roggenkampii subsp. roggenkampii comb. nov. and E. chengduensis subsp. chengduensis comb. nov., and emend the descriptions of E. xiangfangensis and E. hormaechei. E. dykesii and E. quasimori are treated as later heterotypic synonyms of E. asburiae and E. mori, respectively. Within E. xiangfangensis subsp. hoffmannii, we define 25 genomic groups (genomovars) at 99.5% ANI. Conflicting tree relationships leave the position of E. ludwigii and the branching order of the hoffmannii-associated types unresolved. We developed Pterobacter to apply the revised classifications to assemblies, using alignment-based ANI near the species boundary and withholding assignments when the reference evidence is insufficient.",
+    "journal": "",
+    "doi": "10.64898/2026.11.16.767154",
+    "date": "2026-11-18",
+    "authors": "Clifton, M., Hume, J., Hall, M. B., Roberts, L. W.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.16.767154v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_genome_method",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "average nucleotide identity"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assemblies",
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5162,
+    "collected_at": "2026-11-18T14:07:39.788433+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.64898/2026.11.16.767154"
+    ],
+    "translation": {
+      "title": {
+        "hash": "018eaa468ff8e0a7eb83e4cbd3525fb168ac25e8c5acf40d8fa0cbdb547e088f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T14:49:45.566225+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e0bf544cf2740a924665ee5e051a37617e521bd49b3c9ea120c021e763a48607",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T14:49:45.566225+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "腸内細菌科の種および亜種のゲノム再評価",
+    "abstract_ja": "Enterobacter属の菌種は日和見性病原体であり、近縁な系統群や種の命名法の変遷により、同定が困難となっている。本研究では、平均塩基同一性（ANI）、型・株間比較、および保存マーカー、ゲノムアライメント、k-merに基づく系統樹を用いて、1,074件の公開ゲノムを再評価した。分類比較に含まれた1,070件のゲノムのうち、123件はNCBIのラベルに対して種または亜種の所属が変更され、499件は種の境界やランクの改訂に伴い名称が変更され、69件の未命名ゲノムに種の割り当てが行われた。oharae、steigerwaltii、xiangfangensis、およびhoffmanniiの系統群は、E. hormaecheiの型を含む系統群とは別に、拡張されたEnterobacter xiangfangensisを形成した。我々は、E. xiangfangensis subsp. oharae comb. nov.、E. xiangfangensis subsp. steigerwaltii comb. nov.、E. xiangfangensis subsp. hoffmannii comb. nov.、E. roggenkampii subsp. quasiroggenkampii comb. nov.、およびE. chengduensis subsp. rongchengensis comb. nov.の5つの移譲組み合わせを提案する。また、対応する型亜種であるE. xiangfangensis subsp. xiangfangensis comb. nov.、E. roggenkampii subsp. roggenkampii comb. nov.、およびE. chengduensis subsp. chengduensis comb. nov.について記述し、E. xiangfangensisおよびE. hormaecheiの記載を訂正した。E. dykesiiおよびE. quasimoriは、それぞれE. asburiaeおよびE. moriの後続の異型同義語として扱う。E. xiangfangensis subsp. hoffmannii内では、ANI 99.5%において25のゲノムグループ（genomovars）を定義した。系統樹上の関係に矛盾があるため、E. ludwigiiの位置付けおよびhoffmannii関連型の分岐順序は未解決のままである。我々は、種境界付近のアライメントに基づくANIを用い、参照根拠が不十分な場合には割り当てを行わないという手法で、改訂された分類をアセンブリに適用するためのPterobacterを開発した。"
+  },
+  {
+    "id": "10.64898/2026.11.16.767151",
+    "title": "In vivo crosslinking and cryo-EM analyses suggest a revised model of conjugative pilus biogenesis",
+    "abstract": "Bacterial conjugation requires elaboration of a conjugative pilus by membrane-embedded transport machineries known as Type IV Secretion Systems (T4SSs). Recent structural findings suggested a model of conjugative pilus biogenesis in which the pilus is assembled from the VirB6-base of the T4SS Stalk, while the VirB5-apex is projected at the pilus tip. In this study, we show that in vivo crosslinking of these two Stalk segments within the R388 T4SS has only a modest effect on conjugative transfer efficiency, inconsistent with them separating during pilus elaboration. Combined with cryo-electron microscopy analyses of the homologous pKM101 T4SS, this leads us to propose a revised model, in which the sixfold-symmetrical inner membrane complex of the T4SS serves directly as a base for assembly of the fivefold-symmetrical pilus. The resulting symmetry mismatch is resolved by the sequential incorporation of pilus subunits at a continuously repositioning gap at the base of the nascent pilus. This revised model answers the long-standing question of how T4SSs accommodate a central symmetry mismatch during a crucial process of bacterial conjugation underpinning horizontal gene transfer.",
+    "journal": "",
+    "doi": "10.64898/2026.11.16.767151",
+    "date": "2026-11-18",
+    "authors": "Bloch, M., Vadakeppat, A., Zenezini Chiozzi, R., Thalassinos, K., Waksman, G.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.16.767151v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5163,
+    "collected_at": "2026-11-18T14:07:39.788433+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.64898/2026.11.16.767151"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4310307e052e36aa1097c295d3556a7ea8e14d97fbf6f40f6d360346e5004551",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T14:49:45.566225+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "749ce3825332ce2d0b57ece858d2ecf4e3012479697ea32226ecdf9d4e8b45c9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T14:49:45.566225+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "生体内架橋およびクライオ電子顕微鏡解析は、接合性ピルス形成の改訂モデルを示唆している。",
+    "abstract_ja": "細菌の接合には、IV型分泌システム（T4SS）として知られる膜内輸送機構による接合性ピルスの構築が必要である。近年の構造解析により、T4SSのStalkのVirB6-baseからピルスが組み立てられ、一方でVirB5-apexがピルス先端に突出するという接合性ピルスの生合成モデルが示唆された。本研究では、R388 T4SS内におけるこれら2つのStalkセグメントのin vivo架橋が、接合伝達効率に及ぼす影響はわずかであり、ピルス構築時にこれらが分離するという説とは矛盾することを示す。相同なpKM101 T4SSのクライオ電子顕微鏡解析と併せることで、我々は、T4SSの六回対称な内膜複合体が五回対称なピルスの組み立ての基部として直接的に機能するという改訂モデルを提案する。これにより生じる対称性の不一致は、新生ピルスの基部において連続的に再配置されるギャップに、ピルスサブユニットが順次組み込まれることで解消される。この改訂モデルは、水平遺伝子伝達の基盤となる細菌接合の極めて重要な過程において、T4SSがいかにして中心的な対称性の不一致を収容しているのかという長年の疑問に答えるものである。"
   }
 ]
