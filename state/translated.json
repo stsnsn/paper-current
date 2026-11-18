@@ -301093,5 +301093,289 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "インド産小麦におけるFusarium graminearumおよびFusarium avenaceumの先駆的なハイブリッドゲノムアセンブリ：病原性フレームワークとゲノム進化に関する知見",
     "abstract_ja": "主に各種フザリウム属菌によって引き起こされるフザリウム頭部枯死病（FHB）は、収量を減少させ、穀粒をマイコトキシンで汚染する小麦の破壊的病害である。本研究では、インド産小麦のFHB関連フザリウム分離株に関する初のゲノムスケールの比較研究として、2つのインド産小麦分離株、Fusarium graminearum株TNW1およびFusarium avenaceum株DMW8の高品質なハイブリッドゲノムアセンブリを報告する。両インド産分離株は、アウロフザリン、クリソジン、クラバル酸、コライオール、オルシノール／オルセリニン酸、およびオキシジャバニシンを含む保存されたフザリウム二次代謝物クラスターを保持しつつ、種に特有の生合成プロファイルを示した。TNW1はゼアラレノンおよびDON関連の生合成クラスターを含んでいたのに対し、DMW8はボーベルシンおよびその他の種特有のクラスターを含んでおり、これら2つのフザリウム種間で予測される生合成能に差異があることが浮き彫りとなった。特筆すべきは、両ゲノムともそれぞれの種群と比較して転移因子（TE）含有量が比較的低く、TEが占める割合はTNW1ゲノムで0.96%、DMW8ゲノムで1.55%であったことである。RIP関連のゲノムカバー率もそれぞれ20.01%および22.38%と比較的低かった。TE挿入解析では、主にリファレンス関連の挿入が同定され、DMW8では2つの非リファレンス候補挿入が検出された。遺伝子ファミリー解析の結果、DMW8ではTNW1よりも複製および拡大収縮の動態が大きいことが明らかになった。以上の知見は、2つのインド産分離株間における予測ゲノム特性、二次代謝物生合成能、および遺伝子ファミリー構成の相違を浮き彫りにするものであり、今後のフザリウムの生物学および小麦病原菌との相互作用に関する研究のためのゲノムリソースを提供するものである。"
+  },
+  {
+    "id": "10.64898/2026.11.17.767340",
+    "title": "Effect of neuB deletion on biofilm formation and extracellular electron transfer in Geobacter sulfurreducens",
+    "abstract": "The extracellular matrix of Geobacter sulfurreducens biofilms is primarily composed of proteins and exopolysaccharides. The extracellular polymeric substances (EPS) matrix provides the structural scaffold necessary to facilitate extracellular electron transfer (EET); however, the specific role of its carbohydrate components remains unexplored. Sialic acids are a class of carbohydrate derivates that can modulate extracellular matrix stability in bacteria. N-acetylneuraminic acid (Neu5Ac), the most common sialic acid, is primarily synthesized by NeuB. We hypothesized that the neuB gene homolog in G. sulfurreducens (gsu1970), putatively involved in Neu5Ac synthesis, plays a key role in EPS organization and EET performance. Deletion of neuB reduced insoluble Fe(III) oxide reduction by approximately 91%. Furthermore, confocal laser scanning microscopy (CLSM) revealed that the {Delta}neuB strain formed significantly less dense EPS matrices on both hematite and fluorine-doped tin oxide (FTO) electrodes. Interestingly, bioelectrochemical analysis of FTO anodes showed that the mutant produced a 3-fold higher current density and exhibited a more negative open-circuit potential than the wild-type strain. It is important to mention that this enhanced performance on FTO is linked to a significant upregulation of omcS, however, more specific experiments need to be performed to establish a definitive causal relationship between omcS transcription levels and the observed bioelectrochemical enhancement. This transcriptional change was not observed during growth on hematite. Our results suggest that neuB expression contributes to maintaining the structural integrity of the WGA-reactive glycoconjugates within the EPS matrix during insoluble iron reduction. Conversely, its absence is associated with a compensatory upregulation of omcS on FTO electrodes. Overall, this study highlights the potential importance of putative sialic acids-related biosynthetic pathways in Desulfuromonadia, showing that alteration of EPS carbohydrate biosynthetic genes can markedly influence both iron reduction and the performance of electroactive biofilms behavior.",
+    "journal": "",
+    "doi": "10.64898/2026.11.17.767340",
+    "date": "2026-11-18",
+    "authors": "Jaramillo-Rodriguez, B., Gomez-Escorza, E., Huerta-Miranda, G., Hernandez-Eligio, A., Juarez, K.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.17.767340v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5229,
+    "collected_at": "2026-11-18T22:06:59.860731+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.64898/2026.11.17.767340"
+    ],
+    "translation": {
+      "title": {
+        "hash": "df9cfff9b2b280011b2ace91fd7aa606c49c52436436a86c0a182e5aedcf81f0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T22:38:13.231475+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8accd8bae5c0711b088069d155812a2001c22982faf3e53178a68836894f0b45",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T22:38:13.231475+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Geobacter sulfurreducensにおけるneuB欠損がバイオフィルム形成および細胞外電子伝達に及ぼす影響",
+    "abstract_ja": "Geobacter sulfurreducensのバイオフィルムの細胞外マトリックスは、主にタンパク質とエキソ多糖類で構成されている。細胞外高分子物質（EPS）マトリックスは、細胞外電子伝達（EET）を促進するために必要な構造的足場を提供するが、その糖成分の具体的な役割については未解明である。シアル酸は、細菌の細胞外マトリックスの安定性を調節し得る糖誘導体の一種である。最も一般的なシアル酸であるN-アセチルニューラミン酸（Neu5Ac）は、主にNeuBによって合成される。我々は、Neu5Ac合成に関与すると推定されるG. sulfurreducensのneuB遺伝子ホモログ（gsu1970）が、EPSの組織化およびEET性能において重要な役割を果たすという仮説を立てた。neuBの欠損により、不溶性Fe(III)酸化物の還元が約91%低下した。さらに、共焦点レーザー走査顕微鏡（CLSM）により、{Delta}neuB株はヘマタイトおよびフッ素ドープ酸化スズ（FTO）電極の双方において、著しく低密度のEPSマトリックスを形成することが明らかになった。興味深いことに、FTOアノードの生物電気化学的解析により、この変異株は野生型株よりも3倍高い電流密度を示し、より負の開路電位を示した。FTOにおけるこの性能向上がomcSの著しい発現上昇に関連していることは重要であるが、omcSの転写レベルと観察された生物電気化学的向上との間の確定的な因果関係を確立するには、より特異的な実験を行う必要がある。このような転写変化は、ヘマタイト上での増殖中には観察されなかった。我々の結果は、不溶性鉄還元過程において、neuBの発現がEPSマトリックス内のWGA反応性糖抱合体の構造的完全性の維持に寄与していることを示唆している。逆に、その欠損はFTO電極におけるomcSの代償的な発現上昇に関連している。総じて、本研究はDesulfuromonadiaにおけるシアル酸関連と考えられる生合成経路の潜在的な重要性を浮き彫りにし、EPS糖生合成遺伝子の改変が鉄還元と電気活性バイオフィルムの挙動の両方に顕著な影響を及ぼし得ることを示している。"
+  },
+  {
+    "id": "10.64898/2026.11.17.767327",
+    "title": "A metacommunity of complex microbial communities shows high spatial synchrony, ecological memory, gradual succession and invasion resistance",
+    "abstract": "Complex microbial communities are increasingly applied in biotechnological and health-related environments, yet maintaining their diversity and relative community composition over extended periods remains challenging. While dispersal can counteract the divergence of spatially separated communities, it remains unclear whether controlled mass transfer can sustain compositional synchrony in highly diverse communities over extended periods, whether this synchrony persist after dispersal is interrupted, and how robust such communities are to invasion. Here, we investigate these questions using a loop-design reactor (LDR) comprising five local wastewater microbial communities connected by controlled mass transfer. The experiment covered multiple rounds of alternating mass transfer and insular phases over a time frame of 318 days, different mass transfer intensities, and the introduction of defined microbial invaders. Community dynamics were monitored at a high temporal resolution by single-cell flow cytometry and complemented by metagenomic analyses of selected samples to characterize taxonomic compositions and functional potential. A Bray-Curtis-based Synchrony Index revealed that controlled mass transfer established high compositional synchrony among five local communities, which persisted for more than 150 generations. Although the community structures underwent gradual succession, the local communities remained synchronized, demonstrating parallel rather than divergent temporal trajectories. Interruption of dispersal initially promote divergence, whereas during later insular phases high compositional similarity persisted in the absence of mass transfer, consistent with ecological memory. Introduced microbial species failed to establish within resident communities, indicating high invasion resistance. Community functional potential remained largely stable throughout the experiment, although phosphorus accumulation failed during phases of high mass transfer. Together, these findings demonstrate that controlled mass transfer can maintain long-term spatial synchrony of complex microbial communities while allowing gradual community succession. Repeated connectivity promoted compositional similarity beyond periods of active dispersal while maintaining invasion resistance and functional stability, highlighting controlled dispersal as a promising community-level strategy for managing complex microbial communities.",
+    "journal": "",
+    "doi": "10.64898/2026.11.17.767327",
+    "date": "2026-11-18",
+    "authors": "Gao, R., Abbaszade, G., Li, S., Schattenberg, F., Suering, C., Stueckrath, K., Schoenfelder, E., Grimm, V., Mueller, S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.17.767327v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomic",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5230,
+    "collected_at": "2026-11-18T22:06:59.860731+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.64898/2026.11.17.767327"
+    ],
+    "translation": {
+      "title": {
+        "hash": "1e658004799a411b25680dd420fe3cdd2382544b5620aae4671cb395161ab084",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T22:38:13.231475+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7308a985dd7d2e649b7c15d820ddab83008c337c4150a0ced92f48117571738c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T22:38:13.231475+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "複雑な微生物群集のメタコミュニティは、高い空間的同期性、生態学的記憶、漸進的な遷移、および侵入抵抗性を示す。",
+    "abstract_ja": "複雑な微生物群集は、バイオテクノロジーやヘルスケア関連の環境でますます活用されているが、その多様性と相対的な群集組成を長期間にわたって維持することは依然として困難な課題である。分散は空間的に分離した群集間の分化を打ち消すことができるが、制御された物質移動が、多様性の高い群集において組成の同期を長期間維持できるか、分散が中断された後もこの同期が持続するか、そしてこうした群集が侵入に対してどの程度頑健であるかは依然として不明である。本研究では、制御された物質移動によって接続された5つの局所的な下水微生物群集からなるループ設計リアクター（LDR）を用いて、これらの問いを検証した。実験では、318日間にわたる物質移動と島嶼相の交互サイクルを複数回実施し、異なる物質移動強度を用い、定義された微生物侵入種を導入した。群集動態は、単一細胞フローサイトメトリーにより高い時間分解能でモニタリングされ、さらに選定したサンプルのメタゲノム解析を併用して、分類学的組成と機能的ポテンシャルを特性評価した。Bray-Curtis法に基づく同期指数により、制御された物質移動が5つの局所群集間に高い組成同期を確立し、それが150世代以上にわたって持続したことが明らかになった。群集構造は漸進的な遷移を辿ったものの、局所群集は同期状態を維持しており、分化的な時間軌跡ではなく平行な時間軌跡を示した。分散の中断は当初分化を促進したが、その後の島嶼相においては、物質移動がない状態でも高い組成的類似性が持続しており、これは生態学的記憶と整合していた。導入された微生物種は在来群集内に定着できず、侵入耐性が高いことが示された。群集の機能的ポテンシャルは実験期間を通じて概ね安定していたが、物質移動が活発な相ではリンの蓄積が起こらなかった。以上の知見を総合すると、制御された物質移動は、複雑な微生物群集の漸進的な群集遷移を可能にしつつ、長期的な空間的同期を維持できることが示された。反復的な接続性は、侵入耐性と機能的安定性を維持しながら、活発な分散期を超えて組成的類似性を促進した。このことは、制御された分散が、複雑な微生物群集を管理するための有望な群集レベルの戦略であることを浮き彫りにしている。"
+  },
+  {
+    "id": "10.64898/2026.11.18.767316",
+    "title": "The assembly and annotation of a new reference genome for the eastern mosquitofish (Gambusia holbrooki) reveal a new sex chromosome system in its invasive range",
+    "abstract": "Gambusia species, especially eastern mosquitofish - Gambusia holbrooki - are of broad relevance to evolutionary biologists aiming at understanding genomic bases of adaptation during biological invasions and rapid response to selection to heterogeneous environments including pollution. Here we used HiFi and HiC to assemble a new, high quality, chromosome scale, genome sequence for G. holbrooki in its invasive range. Both haplotypes of the nuclear genome were assembled, comprising 657.64 Mb and 651.75 Mb respectively, in 24 chromosomes and had N50s of 28.97 Mb and 28.25 Mb. They had 94.87% and 94.29% BUSCO scores, illustrating a high completeness. Genome annotation yielded 25146 genes, which is comparable to other recent genome annotations of poecilid fish species. Repeat content was 25.69%, similar to what was previously reported for this species and for G. affinis. Synteny was highly conserved between the G. holbrooki assembly and the reference genome for G. affinis and Xiphophorus maculatus, shown here to be a genetically close species, with very few inter-chromosomal and little intra-chromosomal rearrangements. Mapping of resequenced males and females to the reference genome provided genomic evidence for a newly evolved homomorphic sex chromosome pair (W and Z, hence with female heterogamety) in G. holbrooki's invaded range, which is unlike the XY system of its native range. Also, the new sex chromosomes are homologous to the ZW sex chromosome pair (chromosome 1) of the sister species G. affinis. This assembly provides a high quality reference genome for Gambusia holbrooki, in its invasive range in Europe, that is serving as a key resource for research on the genomics of invasion and of rapid adaptation to environmental change, pollution adaptation and sex determination evolution.",
+    "journal": "",
+    "doi": "10.64898/2026.11.18.767316",
+    "date": "2026-11-18",
+    "authors": "Cormier, A., Du, K., Cornette, F., Fraimout, A., Blondeau-Bidet, E., Estoup, A., Schartl, M., Farcy, E., Perrier, C., Reisser, C. M.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.18.767316v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "annotation",
+        "assembly",
+        "genome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "assembly",
+          "evolution",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5231,
+    "collected_at": "2026-11-18T22:06:59.860731+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.64898/2026.11.18.767316"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3c26c38b9049f41c4d6c8e29dbd902a188cb733b6501614db2c613225e5f6d3a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T22:38:13.231475+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "11098618811d4695634edf213e4a94fb2c4d5cb89c0334b5bbe6afa3793d34e7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T22:38:13.231475+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "東部蚊魚（Gambusia holbrooki）の新規リファレンスゲノムの構築とアノテーションにより、その侵入分布域における新たな性染色体系が明らかになった。",
+    "abstract_ja": "ガンブシア属、特に東部モスキートフィッシュ（Gambusia holbrooki）は、生物学的侵入時における適応のゲノム基盤や、汚染を含む不均一な環境への迅速な選択応答の解明を目指す進化生物学者にとって広範な意義を持つ。本研究では、HiFiおよびHiCを用いて、侵入分布域におけるG. holbrookiの新たな高品質かつ染色体スケールのゲノム配列をアセンブルした。核ゲノムの両ハプロタイプ（それぞれ657.64 Mbおよび651.75 Mb）を24本の染色体にわたってアセンブルしたところ、N50はそれぞれ28.97 Mbおよび28.25 Mbであった。BUSCOスコアは94.87%および94.29%であり、高い完全性が示された。ゲノムアノテーションの結果、25,146個の遺伝子が得られ、これは他の近縁なポエシル科魚類の最近のゲノムアノテーション結果と同等であった。リピート含有量は25.69%であり、本種およびG. affinisについて既報の値と同様であった。G. holbrookiのアセンブル配列と、遺伝的に近縁であることが示されているG. affinisおよびXiphophorus maculatusのリファレンスゲノムとの間では、シンテニーが高度に保存されており、染色体間の再編成は極めて少なく、染色体内の再編成もほとんど認められなかった。再シーケンシングされた雄および雌をリファレンスゲノムにマッピングした結果、G. holbrookiの侵入分布域において、本来の分布域のXY系とは異なる、新たに進化した相同性性染色体対（WおよびZ、したがって雌は異数性）が存在することがゲノムレベルで実証された。また、新たな性染色体は、姉妹種であるG. affinisのZW性染色体対（第1染色体）と相同であった。本アセンブル配列は、ヨーロッパの侵入分布域におけるGambusia holbrookiの高品質なリファレンスゲノムを提供するものであり、侵入のゲノミクス、環境変化への迅速な適応、汚染適応、および性決定の進化に関する研究の重要なリソースとなる。"
+  },
+  {
+    "id": "10.64898/2026.11.17.767455",
+    "title": "MARRI: Mechanism-Aware Learning of RNA-RNA Interactions with Foundation Models",
+    "abstract": "RNA-RNA interactions (RRIs) are central to post-transcriptional regulation, yet their prediction requires accounting for structural accessibility and intermolecular base pairing beyond sequence complementarity. Pretrained RNA foundation models provide representations of individual RNAs, but translating these representations into interaction predictions requires mechanistic knowledge of interaction recognition. Here, we introduce MARRI, a mechanism-aware multimodal framework that couples pretrained representations with domain knowledge by embedding learned opening penalties and hybridization gains into bidirectional cross-RNA attention. MARRI improves ROC--AUC and PR--AUC over the strongest baseline by 12.20% and 10.25%, respectively, and maintains strong discrimination for unseen RNA partnerships and interaction regions. Perturbation and repeat-context analyses identify prediction-relevant sequence regions. Integrating MARRI-derived interaction propensities with disease-associated expression profiles links molecular prediction to systems-level models of disease progression and network remodeling. MARRI thus illustrates a knowledge-guided strategy for coupling molecular foundation models with domain knowledge to support grounded prediction, interpretation and systems-level hypothesis generation.",
+    "journal": "",
+    "doi": "10.64898/2026.11.17.767455",
+    "date": "2026-11-18",
+    "authors": "Wang, B., Luo, H., Meng, Z., Chen, G., Wang, X., Chen, Y., Song, J., Loscalzo, J., Xu, H.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.17.767455v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "framework"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5232,
+    "collected_at": "2026-11-18T22:06:59.860731+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.64898/2026.11.17.767455"
+    ],
+    "translation": {
+      "title": {
+        "hash": "80a96e1f8218889a1f435e8daccd27aec3364f2be898036252c22a03e12010b0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T22:38:13.231475+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "fa233480fb0bffa860d4017e6a8780e6c9861ad48b20611716c1f1fdba2379e3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T22:38:13.231475+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "MARRI: 基盤モデルを用いたRNA-RNA相互作用のメカニズム認識型学習",
+    "abstract_ja": "RNA-RNA相互作用（RRI）は転写後調節の中核をなすが、その予測には配列相補性のみならず、構造的なアクセシビリティや分子間の塩基対形成を考慮する必要がある。事前学習済みのRNA基盤モデルは個々のRNAの表現を提供するが、これらの表現を相互作用予測へと変換するには、相互作用認識に関する機構的な知見が必要となる。本研究では、学習済み表現とドメイン知識を結合させるメカニズム認識型マルチモーダルフレームワークMARRIを提案する。本フレームワークは、学習されたオープニングペナルティとハイブリダイゼーションゲインを双方向のクロスRNAアテンションに組み込む。MARRIは、最強のベースラインと比較してROC--AUCおよびPR--AUCをそれぞれ12.20%および10.25%向上させ、未知のRNAパートナーシップや相互作用領域に対しても高い識別能を維持する。摂動解析およびリピートコンテキスト解析により、予測に関連する配列領域を同定する。MARRIから導出された相互作用傾向を疾患関連発現プロファイルと統合することで、分子レベルの予測を、疾患進行やネットワークリモデリングのシステムレベルモデルへと結びつける。したがって、MARRIは、分子基盤モデルとドメイン知識を結合させ、根拠に基づいた予測、解釈、およびシステムレベルの仮説生成を支援する知識誘導型戦略を提示するものである。"
   }
 ]
