@@ -298027,5 +298027,262 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "スタートコドンおよびストップコドン濃縮リボソームプロファイリングとプロテオゲノミクスに基づくモデルシアノバクテリアSynechocystisのゲノムアノテーションの改訂",
     "abstract_ja": "ゲノムにおけるタンパク質コード領域に関する情報は不完全なことが多く、極めて短いタンパク質をコードする遺伝子は見落とされがちである。本報で著者らは、リボプロテオゲノミクス的手法を提示する。その結果は、モデルシアノバクテリアに多くの追加的なタンパク質コード配列が存在することを裏付けている。"
+  },
+  {
+    "id": "10.1093/bioinformatics/btag836",
+    "title": "CiliaHub: an updated gold-standard catalogue of ciliary genes with integrated ciliopathy data",
+    "abstract": "AbstractMotivationCilia are specialised cell-surface extensions central to signalling and sensation, and their dysfunction causes ciliopathies, a clinically heterogeneous group of disorders. Progress in the field has been held back by the lack of an updated and expanded gold-standard gene set.ResultsWe present CiliaHub, an open-access platform centered on an expert-curated catalog of over 2,500 ciliary and cilia-associated genes that significantly expands upon the scope of the SYSCILIA Gold Standard v2. For each gene, CiliaHub brings together subcellular localization, protein-complex information, domain architecture, cross-species orthology, functional-screen results, expression profiles, and ClinVar variants, as well as a dedicated ciliopathy module covering over 70 ciliopathies and over 400 disease genes. The data are queried through a rule-based question-answering assistant (CiliAI), gene-list analysis tools, a phenotype-driven search, and open static-JSON endpoints, supporting screen interpretation, variant prioritization, and ciliopathy research from a single point of access.AvailabilityCiliaHub is freely available at https://ciliahub.org without registration. Source code is available on https://github.com/theCiliaHub/theCiliaHub.github.io and archived at Zenodo version 3 (DOI: 10.5281/zenodo.23257334). All figures and counts in this manuscript refer to CiliaHub release v9.2 (frozen October 2026). The versions of every external data source used in that release are listed in Supplementary Table S6Supplementary Table S6, and the release version, freeze date and data file are stated at https://ciliahub.org/about.html.Supplementary informationSupplementary data are available at Zenodo online and static-JSON API endpoints (https://ciliahub.org/api.html).",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag836",
+    "date": "2026-11-17",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag836/9081851?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5141,
+    "collected_at": "2026-11-18T14:07:39.788433+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.1093/bioinformatics/btag836"
+    ],
+    "translation": {
+      "title": {
+        "hash": "50b6e8219dc7f79f4e48fa25ee1acf34892675fe39c37e3458bf63d4efc1ff7f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T14:31:19.576479+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8353b638011938ed84dc9bb9cd00252236acec3cc910a29873e3e210804b5761",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T14:31:19.576479+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "CiliaHub：繊毛病データを組み込んだ、最新のゴールドスタンダードとなる繊毛遺伝子カタログ",
+    "abstract_ja": "要旨動機繊毛は、シグナル伝達と感覚において中核的な役割を担う特殊な細胞表面の伸長構造であり、その機能不全は、臨床的に多様な疾患群である繊毛病症を引き起こす。本分野における進展は、最新かつ拡充されたゴールドスタンダード遺伝子セットの欠如によって妨げられてきた。結果我々は、専門家がキュレーションした2,500以上の繊毛および繊毛関連遺伝子のカタログを中心としたオープンアクセスプラットフォーム「CiliaHub」を提案する。これはSYSCILIA Gold Standard v2の範囲を大幅に拡張するものである。各遺伝子について、CiliaHubは細胞内局在、タンパク質複合体情報、ドメイン構造、種間オーソロジー、機能スクリーニング結果、発現プロファイル、およびClinVarバリアントに加え、70以上の繊毛病症と400以上の疾患遺伝子を網羅する専用の繊毛病症モジュールを提供している。データは、ルールベースの質問応答アシスタント（CiliAI）、遺伝子リスト解析ツール、表現型駆動型検索、およびオープンな静的JSONエンドポイントを通じてクエリ可能であり、単一のアクセスポイントからスクリーニングの解釈、バリアントの優先順位付け、および繊毛病症研究を支援する。利用可能性CiliaHubは、登録不要でhttps://ciliahub.orgにて無料で利用可能である。ソースコードはhttps://github.com/theCiliaHub/theCiliaHub.github.ioで公開されており、Zenodoバージョン3（DOI: 10.5281/zenodo.23257334）にアーカイブされている。本原稿におけるすべての図およびカウント値は、CiliaHubリリースv9.2（2026年10月凍結）を参照している。当該リリースで使用されたすべての外部データソースのバージョンは補足表S6に記載されており、リリースバージョン、凍結日、およびデータファイルはhttps://ciliahub.org/about.htmlに記載されている。補足情報補足データは、Zenodoオンラインおよび静的JSON APIエンドポイント（https://ciliahub.org/api.html）で利用可能である。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1922292",
+    "title": "Porphyromonas species in chronic disease: a systematic review of evidence beyond oral infection",
+    "abstract": "Porphyromonas has traditionally been regarded as an oral pathogen, yet increasing evidence suggests a broader role in systemic chronic disease. We conducted a systematic review to synthesize evidence linking Porphyromonas species to systemic disease, with particular attention to the predominance of P. gingivalis and emerging evidence for other members of the genus. Five databases (MEDLINE, EMBASE, CENTRAL, CDSR, and Scopus) were searched through June 6, 2025. Following independent screening and data extraction, 194 human, animal, and in vitro studies met the inclusion criteria. Because of substantial heterogeneity, findings were synthesized narratively. Across studies, Porphyromonas species were associated with metabolic, cardiovascular, neurological, inflammatory, gynecologic, and cancer-related diseases. Human studies consistently reported greater detection or abundance of Porphyromonas in diseased tissues compared with healthy controls, while experimental models demonstrated immune dysregulation, inflammatory signaling, epithelial barrier disruption, metabolic alterations, and tissue injury following exposure. P. gingivalis predominated across most disease contexts, whereas species such as P. somerae emerged as potential contributors to gynecologic disease and endometrial cancer. Collectively, the evidence demonstrates associations between Porphyromonas and systemic disease phenotypes in humans, while experimental models provide biological plausibility for potential contributions to disease-related pathways beyond periodontitis. Current evidence is limited by methodological heterogeneity and predominantly observational, detection-based studies, restricting causal inference. Future longitudinal and mechanistic investigations are needed to determine the diagnostic, prognostic, and therapeutic significance of Porphyromonas species in systemic disease.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1922292",
+    "date": "2026-11-18",
+    "authors": "Marina R. S. Walther-Antonio",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1922292",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5144,
+    "collected_at": "2026-11-18T14:07:39.788433+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.3389/fmicb.2026.1922292"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6b86046196823c26d20c1fbf0495992a3d981627ec36c3181ed7e035e7a468a5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T14:31:19.576479+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "77344ca34ad96103655b3c00f15cb4cb12ef2dda14b6f2964594cd46a93b8426",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T14:31:19.576479+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "慢性疾患におけるポルフィロモナス属菌：経口感染以外のエビデンスに関する系統的レビュー",
+    "abstract_ja": "Porphyromonasは従来、口腔病原体とみなされてきたが、全身性慢性疾患においてより広範な役割を担っていることを示唆するエビデンスが蓄積されつつある。本研究では、Porphyromonas属菌と全身性疾患との関連を示すエビデンスを統合するため、系統的レビューを実施し、特にP. gingivalisの優占性および同属の他菌種に関する新たなエビデンスに着目した。2025年6月6日まで、5つのデータベース（MEDLINE、EMBASE、CENTRAL、CDSR、Scopus）を検索した。独立したスクリーニングおよびデータ抽出の結果、ヒト、動物、およびin vitro研究194件が組み入れ基準を満たした。著しい異質性が認められたため、知見はナラティブ形式で統合された。研究横断的に、Porphyromonas属菌は代謝、心血管、神経、炎症、婦人科、およびがん関連疾患と関連していた。ヒトを対象とした研究では、健常対照群と比較して、疾患組織においてPorphyromonasの検出率または存在量が高いことが一貫して報告されており、一方で実験モデルでは、曝露後の免疫調節不全、炎症性シグナル伝達、上皮バリアの破綻、代謝変化、および組織損傷が認められた。ほとんどの疾患状況においてP. gingivalisが優占していたが、P. someraeなどの菌種は、婦人科疾患および子宮内膜がんの潜在的な寄与因子として浮上した。総じて、これらのエビデンスは、ヒトにおけるPorphyromonasと全身性疾患表現型との関連性を示しており、同時に実験モデルは、歯周炎を超えた疾患関連経路への潜在的な寄与について生物学的な妥当性を提示している。現在のエビデンスは、方法論的な異質性や、主に観察的かつ検出ベースの研究に限定されており、因果推論を制限する要因となっている。全身性疾患におけるPorphyromonas属菌の診断的、予後的、および治療的な意義を明らかにするためには、今後の縦断的および機序的な調査が必要である。"
+  },
+  {
+    "id": "10.1038/s41522-026-01199-x",
+    "title": "Toward a phytobiome health index: a predictive framework for plant disease management",
+    "abstract": "Toward a phytobiome health index: a predictive framework for plant disease management",
+    "journal": "npj Biofilms and Microbiomes",
+    "doi": "10.1038/s41522-026-01199-x",
+    "date": "2026-11-17",
+    "authors": "Xinhua Ding",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.nature.com/articles/s41522-026-01199-x",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.nature.com/npjbiofilms.rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5174,
+    "collected_at": "2026-11-18T14:07:39.788433+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://www.nature.com/npjbiofilms.rss"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.1038/s41522-026-01199-x"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f9aa1e25c0c346253fa573ed2b400b24314ece593f0f1e54bb11cf5994950de6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T14:31:19.576479+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f9aa1e25c0c346253fa573ed2b400b24314ece593f0f1e54bb11cf5994950de6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T14:31:19.576479+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "フィトバイオーム健康指標に向けて：植物病害管理のための予測フレームワーク",
+    "abstract_ja": "フィトバイオーム健康指標に向けて：植物病害管理のための予測フレームワーク"
+  },
+  {
+    "id": "10.1093/nar/gkag1016",
+    "title": "Beyond the double-helix: non-canonical nucleic acid structures as drug targets and therapeutics",
+    "abstract": "AbstractNucleic acids adopt a rich repertoire of non-canonical structures beyond the iconic double helix — G-quadruplexes, i-motifs, triplexes, R-loops, Z-DNA/Z-RNA, and junctions — with roles in genome stability, transcription, replication, and translation. Yet the biological evidence for these conformations varies widely, from direct in vivo validation to largely indirect biochemical inference. We organize this review around a distinctive therapeutic duality: non-canonical structures may serve as molecular targets for small molecules, peptides, and nucleic acid-based modulators, while some are also engineered as therapeutic agents in their own right. For each structural class, we critically assess structural principles, biological evidence, and detection methods, explicitly distinguishing direct in vivo validation from cell-based and biochemical observations and noting the limitations of current detection strategies. Comparing translational maturity across classes through the lens of target versus agent, we identify key challenges — structural selectivity, mechanistic attribution, target engagement, and delivery — that must be resolved to fully realize the therapeutic potential of non-canonical nucleic acid structures.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1016",
+    "date": "2026-11-18",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1016/9089569?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5167,
+    "collected_at": "2026-11-18T14:07:39.788433+00:00",
+    "collected_date": "2026-11-18",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/3091.xml"
+    ],
+    "first_seen": "2026-11-18",
+    "related_dois": [
+      "10.1093/nar/gkag1016"
+    ],
+    "translation": {
+      "title": {
+        "hash": "935dba33831c896971f9ebe8d6b72daa9c7ece263c73864294c773863b03865f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T14:31:19.576479+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "eb8b52a95f86f65c1485d042a45ba4c660b10af9ca9e5e67067d55e5d9f47b91",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-18T14:31:19.576479+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "二重らせんを超えて：創薬標的および治療薬としての非正準核酸構造",
+    "abstract_ja": "要旨 核酸は、代表的な二重らせん以外にも、G-四重鎖、i-モチーフ、三重鎖、R-ループ、Z-DNA/Z-RNA、ジャンクションといった多彩な非正準構造を有しており、これらはゲノムの安定性、転写、複製、および翻訳において役割を果たしている。しかし、これらの立体構造に関する生物学的根拠は、直接的なin vivo検証から主に間接的な生化学的推論まで多岐にわたる。本総説では、特徴的な治療的二面性に着目して考察を展開する。すなわち、非正準構造は低分子化合物、ペプチド、および核酸ベースの調節剤の分子標的となり得る一方で、それ自体が治療薬として設計されているものもある。各構造クラスについて、構造原理、生物学的根拠、および検出法を批判的に評価し、直接的なin vivo検証と細胞ベースおよび生化学的な観察を明確に区別するとともに、現行の検出戦略の限界についても指摘する。標的対薬剤という視点からクラス間の翻訳的成熟度を比較することで、非正準核酸構造の治療的ポテンシャルを最大限に引き出すために解決すべき主要な課題――構造選択性、機構的帰属、標的結合、およびデリバリー――を明らかにする。"
   }
 ]
