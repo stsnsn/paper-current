@@ -206,7 +206,7 @@
       },
       "Europe PMC journals 3": {
         "ok": false,
-        "retrieved": 20,
+        "retrieved": 30,
         "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
         "publication_start": "2026-10-20"
       },
@@ -224,7 +224,7 @@
       },
       "Europe PMC journals 6": {
         "ok": false,
-        "retrieved": 45,
+        "retrieved": 85,
         "query": "(JOURNAL:\"Microbial Genomics\" OR JOURNAL:\"Microbiology\" OR JOURNAL:\"Aquatic Microbial Ecology\" OR JOURNAL:\"PNAS\" OR JOURNAL:\"PLOS Biology\" OR JOURNAL:\"PLOS Genetics\" OR JOURNAL:\"Genome Research\" OR JOURNAL:\"Genome Biology\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
         "publication_start": "2026-10-20"
       },
@@ -242,21 +242,37 @@
       },
       "Europe PMC journals 9": {
         "ok": false,
-        "retrieved": 0,
+        "retrieved": 5,
         "query": "(JOURNAL:\"Briefings in Bioinformatics\" OR JOURNAL:\"Briefings in Functional Genomics\" OR JOURNAL:\"BMC Genomics\" OR JOURNAL:\"BMC Bioinformatics\" OR JOURNAL:\"GigaScience\" OR JOURNAL:\"Database\" OR JOURNAL:\"DNA Research\" OR JOURNAL:\"PLOS Computational Biology\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
         "publication_start": "2026-10-20"
       },
       "Europe PMC journals 10": {
         "ok": false,
-        "retrieved": 30,
-        "accepted": 2,
+        "retrieved": 50,
         "query": "(JOURNAL:\"Scientific Data\" OR JOURNAL:\"Limnology and Oceanography\" OR JOURNAL:\"Limnology and Oceanography Letters\" OR JOURNAL:\"Annual Review of Marine Science\" OR JOURNAL:\"Trends in Ecology & Evolution\" OR JOURNAL:\"iScience\" OR JOURNAL:\"Current Biology\" OR JOURNAL:\"Cell Reports\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
         "publication_start": "2026-10-20"
+      },
+      "Europe PMC journals 11": {
+        "ok": false,
+        "retrieved": 0,
+        "query": "(JOURNAL:\"Cell Reports Methods\" OR JOURNAL:\"Communications Biology\" OR JOURNAL:\"Communications Earth & Environment\" OR JOURNAL:\"Scientific Reports\" OR JOURNAL:\"eLife\" OR JOURNAL:\"PNAS Nexus\" OR JOURNAL:\"BMC Biology\" OR JOURNAL:\"PLOS ONE\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "publication_start": "2026-10-20"
+      },
+      "Europe PMC journals 12": {
+        "ok": false,
+        "retrieved": 0,
+        "query": "(JOURNAL:\"PeerJ\" OR JOURNAL:\"Nature Methods\" OR JOURNAL:\"Nature Biotechnology\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "publication_start": "2026-10-20"
+      },
+      "bioRxiv": {
+        "ok": false,
+        "retrieved": 30,
+        "query": "details/biorxiv/2026-10-20/2026-11-10"
       }
     },
     "collection_exit_code": -9,
     "budget_exhausted": true,
-    "updated_at": "2026-11-19T03:35:57.450376+00:00"
+    "updated_at": "2026-11-19T13:13:00.212946+00:00"
   },
   "last_publication_slot": "2026-11-19T09:12:00+09:00"
 }

@@ -427749,5 +427749,257 @@
     "related_dois": [
       "10.64898/2026.11.17.767431"
     ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 6",
+        "query": "(JOURNAL:\"Microbial Genomics\" OR JOURNAL:\"Microbiology\" OR JOURNAL:\"Aquatic Microbial Ecology\" OR JOURNAL:\"PNAS\" OR JOURNAL:\"PLOS Biology\" OR JOURNAL:\"PLOS Genetics\" OR JOURNAL:\"Genome Research\" OR JOURNAL:\"Genome Biology\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1099/mgen.0.001887",
+    "title": "Karmii: a Kraken-based approach for robust microbial isolate identification.",
+    "abstract": "Accurate microbial isolate identification and confirmation of culture purity are fundamental prerequisites for generating reproducible research outcomes and ensuring the long-term reliability of microbial collections. Genomic data provide an ideal means of achieving high-quality and robust results concerning isolate taxonomic identification and purity assessment, particularly when other analytical methods cannot identify an organism. However, analyses based on assembled sequences, whether through marker genes or ANI, may overlook contamination present only in unassembled reads or discarded contigs. Here, we present Karmii, a Kraken 2-based workflow designed to confirm species identification and purity of sequenced isolates from short- or long-read data. The specificity of the method is to query single-isolate reads in a two-step process, first against a generic database to generate a shortlist of candidate species and second towards the pre-selected single-species databases. Having reads classified against only one species would strongly support purity and robust identification. Results are summarized in an intuitive plot showing the proportion of classified reads across all tested species as classification stringency increases. Thresholds are used to guide decision-making. To obtain reliable results, the composition of the reference database is crucial and must maximize represented diversity while excluding inconsistent taxonomic annotations. We therefore also describe a procedure for building a resource-efficient, comprehensive and curated reference database to support the analysis. A Nextflow implementation of this workflow for prokaryotic isolate analysis is provided with this article.",
+    "journal": "Microbial Genomics",
+    "doi": "10.1099/mgen.0.001887",
+    "date": "2026-11-01",
+    "authors": "Seppey M, Rincón C, Ngom-Bru C, Barretto C.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43049509",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43049509",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial",
+        "prokaryotic",
+        "sequence",
+        "workflow"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5143,
+    "collected_at": "2026-11-19T13:02:39.396497+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "Europe PMC journals 6"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.1099/mgen.0.001887"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 6",
+        "query": "(JOURNAL:\"Microbial Genomics\" OR JOURNAL:\"Microbiology\" OR JOURNAL:\"Aquatic Microbial Ecology\" OR JOURNAL:\"PNAS\" OR JOURNAL:\"PLOS Biology\" OR JOURNAL:\"PLOS Genetics\" OR JOURNAL:\"Genome Research\" OR JOURNAL:\"Genome Biology\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1099/mgen.0.001891",
+    "title": "Metabologenomic assessment of biosynthetic capabilities in the genus <i>Salinibacterium</i>: untapped bioactive chemistry produced by marine strain AL4.1 isolated in the Chilean Patagonia.",
+    "abstract": "Antimicrobial resistance represents one of the most critical global public health challenges. Increasing evidence suggests that rare actinomycetes can harbour novel biosynthetic diversity to produce antimicrobial compounds. This work explores the capabilities for the biosynthesis of antimicrobial natural products of Salinibacterium sp. AL4.1, in contrast with those of Salinibacterium sp. VpJ6, through a comparative metabologenomic approach. Comparative bioactivity tests using both Salinibacterium strains AL4.1 and VpJ6 revealed antimicrobial bioactivity of crude extracts from strain AL4.1 against Staphylococcus aureus. Liquid chromatography coupled with tandem mass spectrometry was performed on the tested samples, allowing for metabolite dereplication as well as identification of bioactivity-associated features. This revealed the presence of potential aromatic polyketides structurally related to known bioactive compounds such as phloretin, for which bacterial production had not been reported to date, as well as other potentially novel alkaloids and peptides. The genomes of both strains were sequenced and mined for their biosynthetic capabilities and further compared to those of other Salinibacterium strains with available genomic data. Phylogenomic studies suggested that both strains AL4.1 and VpJ6 could represent potentially new species. A mainly phylogeny-dependent distribution of biosynthetic gene clusters (BGCs) was observed, emphasizing the presence of a widely distributed type III polyketide synthase BGC, which could be linked to the bioactive compounds. These results suggest that Salinibacterium sp. AL4.1 can produce novel bioactive natural products, and the genus Salinibacterium holds relevant and underexplored biosynthetic potential.",
+    "journal": "Microbial Genomics",
+    "doi": "10.1099/mgen.0.001891",
+    "date": "2026-11-01",
+    "authors": "Sánchez-Carvajal E, Serna-Cardona N, Claverías FP, Vargas N, Dacal-Barahona T, González V, González-Sanabria M, Parra J, Cámara B.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43049511",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43049511",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenomic",
+          "phylogeny"
+        ],
+        "evolution": [
+          "phylogeny"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 5144,
+    "collected_at": "2026-11-19T13:02:39.396497+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "Europe PMC journals 6"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.1099/mgen.0.001891"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 10",
+        "query": "(JOURNAL:\"Scientific Data\" OR JOURNAL:\"Limnology and Oceanography\" OR JOURNAL:\"Limnology and Oceanography Letters\" OR JOURNAL:\"Annual Review of Marine Science\" OR JOURNAL:\"Trends in Ecology & Evolution\" OR JOURNAL:\"iScience\" OR JOURNAL:\"Current Biology\" OR JOURNAL:\"Cell Reports\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.isci.2026.117879",
+    "title": "Ovarian function via gut microbiota-driven serotonin dysregulation in zebrafish.",
+    "abstract": "Ciprofloxacin (CIP) is frequently detected in aquatic environments, yet its effects on reproduction through gut microbiota-mediated pathways remain unclear. Adult female zebrafish were exposed to 5,000 ng/L CIP for 30 days and evaluated using histology, hormone assays, metagenomics, metabolomics, transcriptomics, and fecal microbiota transplantation (FMT). CIP impaired folliculogenesis, reduced follicle-stimulating hormone, luteinizing hormone, and estradiol levels, and disrupted intestinal barrier integrity. Multi-omics analyses revealed gut dysbiosis and altered microbial metabolism, including increased serotonin (5-HT) and indole-3-lactic acid associated with Cetobacterium and Plesiomonas shigelloides. Brain transcriptomics showed suppressed hormone signaling and elevated 5-HT, consistent with hypothalamic-pituitary-gonadal axis disruption. FMT from CIP-exposed donors reproduced hormonal and ovarian abnormalities in microbiota-depleted recipients. This study underscores the need to integrate microbiota-host interactions into the risk assessment of emerging aquatic contaminants and highlights the broader implications of environmental exposures for reproductive and endocrine health in both aquatic organisms and potentially humans.",
+    "journal": "iScience",
+    "doi": "10.1016/j.isci.2026.117879",
+    "date": "2026-11-10",
+    "authors": "Wang N, Dong T, Yu K, Qiu Y, Lyu D, Li B, Yu X, Jing CH, Jiao X.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43036710",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43036710",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomics",
+        "microbial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [
+          "aquatic"
+        ],
+        "genomics": [
+          "metagenom",
+          "metagenomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5145,
+    "collected_at": "2026-11-19T13:02:39.396497+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "Europe PMC journals 10"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.1016/j.isci.2026.117879"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "bioRxiv",
+        "query": "details/biorxiv/2026-10-20/2026-11-10",
+        "scope": "candidate"
+      }
+    ],
+    "id": "10.64898/2026.10.13.758966",
+    "doi": "10.64898/2026.10.13.758966",
+    "title": "Decision benchmarking reveals when protein foundation models add experimental value",
+    "abstract": "Protein engineering is shifting from model-based variant scoring to deciding what to measure next. This exposes a limitation of fixed-dataset benchmarks, which rank predictors without showing when their advantage survives as evidence accumulates. We therefore introduce decision benchmarking across 217 ProteinGym assays, 2.47 million variants and 95 predictors to evaluate whether models and measurements improve decisions at matched cost. Zero-shot accuracy explained less than one-fifth of the variation in discovery after calibration. Calibrated priors exceeded budget-matched additivity at 20-100 measurements, but the advantage narrowed as component measurements accumulated. Measured additivity then overtook zero-shot models after 50-100 measurements for top-variant discovery and around 500 for global ranking. The same principle showed that double-mutant measurements improved prediction in models using mutation identity, whereas prediction-guided acquisition improved discovery. Evidence-based routing improved strategy selection. Decision benchmarking thus identifies which strategy adds value given the information already available and the decision that follows.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.10.13.758966"
+    ],
+    "date": "2026-10-20",
+    "authors": "Ding, W.; Lu, C.; Li, Y.; Gong, H.; Wang, Z.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.13.758966v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "benchmark",
+        "protein"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "benchmark",
+          "protein"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5146,
+    "collected_at": "2026-11-19T13:02:39.396497+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-19"
   }
 ]
