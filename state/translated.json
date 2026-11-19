@@ -307284,5 +307284,312 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "動的な細胞状態にわたる単一細胞摂動応答の非もつれ型生成モデリング",
     "abstract_ja": "要旨　単一細胞摂動研究は、複雑な多条件の生物学的システムを対象にますます実施されるようになっており、介入が細胞状態や分子プログラムをどのように再形成するかを理解する上で強力な視点を提供している。しかし、標準的な計算モデルでは単一細胞プロファイルが統一的な表現へと圧縮されるため、処理効果が細胞分裂、系譜の進展、ドナー変異、および細胞ストレスによって覆い隠されてしまう。本研究では、ベースラインの分裂期、細胞状態、およびバッチ効果を処理誘発性のシフトから分離し、直交する異常空間において異常なオフマニフォールド応答を単離する深層生成モデル「Disentangled Variational Inference for Perturbation Response (PertVI)」を提案する。この構造化された設計は、(1) 処理誘発性の細胞状態組成の変化の定量化、および (2) 処理に対する状態ゲート型の転写変化の推論という、相互に絡み合った2つの課題に取り組む。シミュレーションによるベンチマークにおいて、PertVIは結合した生物学的軸を正確に分離し、弱い処理シグネチャーを復元する。ヒト初代CD8+およびCD4+ T細胞の条件付き化学的・遺伝的スクリーニングにおいて、PertVIはメモリー前駆体アジュバントを毒性フェノコピーから分離し、共クラスター化した調節因子を、標準的なワークフローでは不明瞭となる方向性のある速度論的軌跡や二相性のリバウンダーへと分解し、さらに処理誘発性の表現型シフトが広範な転写摂動応答から切り離されており、代わりに状態特異的なインパルスによって制御されていることを明らかにする。総じて、PertVIは単一細胞摂動応答モデリングに独自の機構的粒度をもたらし、動的な細胞システムにおける生物学的知見に基づいた構造誘導型の分散分離の原理実証となる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11652582/v1",
+    "title": "Deep Volumetric Classification of Pore Morphology in 3D Micro-Computed Tomography of Additively Manufactured Metallic Components",
+    "abstract": "Abstract    Internal porosity represents a critical factor governing mechanical fatigue and failure in metal additive manufacturing (AM). In fracture mechanics, void geometry dictates local stress intensity factors; acute and elongated geometries concentrate mechanical stress significantly more than spherical voids. Consequently, automated categorization of volumetric defects into Spherical, Elongated, and Irregular morphologies from 3D X-ray micro-computed tomography (micro-CT) is essential for non-destructive evaluation. Due to experimental acquisition constraints and extreme class imbalance in physical scans (837 labeled voids: 6.45% spherical, 44.80% elongated, 48.75% irregular), we developed a procedural 3D synthetic pore generation framework to train deep convolutional architectures. While an initial 3D Convolutional Neural Network (3D CNN) achieved 99.89% validation accuracy on synthetic data, zero-shot transfer on physical scans collapsed completely to the elongated class due to detector attenuation polarity inversion and a large-void size cutoff. Recalibrating synthetic data with scanner point-spread function (PSF) blur, noise, and sub-voxel micro-radii yielded 97.83% synthetic accuracy, yet exhibited a secondary mode collapse on physical scans due to ambient background air saturation along hollow tube boundaries. Kernel Density Estimation (KDE) diagnostics identified an order-of-magnitude volume scale mismatch between synthetic models (mean 67.51 voxels) and real defects (mean 6.76 voxels). A controlled 5-experiment ablation benchmark (Exp A–E) on a locked real held-out test set (N = 126, seed = 42) demonstrated that synthetic pretraining yielded no performance gain (42.86%) relative to training from scratch on physical scans (45.24%). Conversely, a classical Random Forest trained on mathematical geometric descriptors achieved 99.21% accuracy, confirming ground-truth label separability and establishing that raw-voxel 3D CNNs are fundamentally constrained by spatial discretization limits (53.6 μm/voxel). We propose a hybrid multi-modal feature fusion architecture bridging raw volumetric representations with classical geometric invariants for robust industrial deployment.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11652582/v1",
+    "date": "2026-11-10",
+    "authors": "Paliwal D, Goswami M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1363274",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "framework",
+          "gene"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5151,
+    "collected_at": "2026-11-19T21:31:24.770122+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.21203/rs.3.rs-11652582/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a1f5c06bead073233c1504253573983b21bcdd2d630d7481e1ae4d7210756472",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T22:18:19.708849+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "50c7b0e418c92bf715321985705c9b6736f56844fc5862d1cbc1dfe524a49b5b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T22:18:19.708849+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "積層造形金属部品の3次元マイクロCTにおける細孔形態の深層体積分類",
+    "abstract_ja": "要旨    内部空隙率は、金属積層造形（AM）における機械的疲労および破壊を支配する決定的な要因である。破壊力学において、空隙形状は局所的な応力強度係数を規定し、鋭角的かつ細長い形状は、球形空隙よりも著しく機械的応力を集中させる。したがって、非破壊評価においては、3D X線マイクロコンピュータ断層撮影（micro-CT）に基づき、体積欠陥を球形、細長い形状、および不規則形状へと自動的に分類することが不可欠である。実験データの取得制約および物理スキャンにおける極端なクラス不均衡（ラベル付き空隙 837個：球形 6.45%、細長い形状 44.80%、不規則形状 48.75%）のため、我々は深層畳み込みアーキテクチャを学習させるための手続き的な3D合成空隙生成フレームワークを開発した。初期の3D畳み込みニューラルネットワーク（3D CNN）は合成データにおいて99.89%の検証精度を達成したが、物理スキャンへのゼロショット転移では、検出器の減衰極性反転および大空隙サイズのカットオフにより、完全に細長い形状クラスへと崩壊した。スキャナーの点広がり関数（PSF）によるぼかし、ノイズ、およびサブボクセル微小半径を用いて合成データを再較正したところ、合成精度は97.83%となったが、中空チューブ境界に沿った周囲背景空気の飽和により、物理スキャンにおいて二次的なモード崩壊が認められた。カーネル密度推定（KDE）診断により、合成モデル（平均 67.51 ボクセル）と実欠陥（平均 6.76 ボクセル）との間に、オーダーで異なる体積スケールの不一致があることが特定された。ロックされた実データのホールドアウトテストセット（N = 126, seed = 42）を用いた制御された5実験のアブレーションベンチマーク（Exp A–E）では、物理スキャンを用いたゼロからの学習（45.24%）と比較して、合成事前学習による性能向上は見られなかったことが示された（42.86%）。対照的に、数学的幾何学記述子を用いて学習させた古典的なランダムフォレストは99.21%の精度を達成し、正解ラベルの分離可能性が確認されたとともに、生ボクセル3D CNNが空間離散化の限界（53.6 μm/ボクセル）によって根本的に制約されていることが立証された。我々は、堅牢な産業展開に向けて、生の体積表現と古典的な幾何学的不変量を橋渡しするハイブリッド・マルチモーダル特徴融合アーキテクチャを提案する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.06.764853",
+    "title": "DIALECT: DNA-Programmable Synthetic Cells Communicate with Mammalian Cells through Synthetic Receptors",
+    "abstract": "Synthetic cells can regulate mammalian signalling through the controlled release of diffusible protein ligands, but coupling programmable synthetic-cell senders to orthogonal, engineered mammalian receptors remains challenging. Here we present  DIALECT (DNA-Instructed Assembly of Ligands for Engineered Cellular Transduction), a platform in which proteinosome-based synthetic cells translate sequence-defined DNA inputs into coiled-coil signalling ligand outputs for engineered mammalian receptors. DNA–ligand conjugates are localized within semipermeable proteinosomes through DNA hybridization and released by toehold-mediated DNA strand displacement (TMSD). The released ligands diffuse to neighbouring mammalian cells and activate cognate CC–GEMS receptors, inducing JAK/STAT3 signalling and reporter activation, with a higher response in cognate than non-cognate receiver cells under activation conditions. We further implement distributed Boolean AND logic using two independently programmed proteinosome populations that respond to distinct DNA inputs and release complementary ligand components. Simultaneous addition of both inputs produces substantially higher reporter activity than the respective single-input conditions, consistent with extracellular assembly of an active receptor agonist.  DIALECT thus establishes a modular interface linking DNA-based molecular computation in synthetic cells to orthogonal signalling pathways in mammalian cells, providing a foundation for hybrid artificial–biological communication networks.",
+    "journal": "",
+    "doi": "10.64898/2026.11.06.764853",
+    "date": "2026-11-09",
+    "authors": "Lentjes J, Makri Pistikou A, Bögels BWA, Yelleswarapu M, Yang S, Gräwe A, van Veldhuisen TW, Eduati F, Merkx M, van Hest JCM, Mann S, de Greef TFA.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1363819",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "DNA",
+        "assembly",
+        "protein",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5155,
+    "collected_at": "2026-11-19T21:31:24.770122+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.64898/2026.11.06.764853"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3c41705409a7afe6b32a08366986aac8408a47fa42ca452ff3f42175256ffa7b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T22:18:19.708849+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5e1ec423aa635f26c3f4587d8bd832b195db325991face3695b9545f4965c50b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T22:18:19.708849+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "DIALECT: DNAプログラム可能な合成細胞は合成受容体を介して哺乳類細胞とコミュニケーションをとる",
+    "abstract_ja": "合成細胞は、拡散性タンパク質リガンドの制御放出を通じて哺乳類のシグナル伝達を調節できるが、プログラム可能な合成細胞センダーを、直交する工学的哺乳類受容体に結合させることは依然として困難な課題である。本報では、プロテオソームベースの合成細胞が、配列定義されたDNA入力を、工学的哺乳類受容体向けのコイルドコイル型シグナル伝達リガンド出力へと翻訳するプラットフォーム「DIALECT（DNA-Instructed Assembly of Ligands for Engineered Cellular Transduction）」を提案する。DNA–リガンド共役体は、DNAハイブリダイゼーションによって半透性プロテオソーム内に局在し、トーホールド媒介型DNA鎖置換（TMSD）によって放出される。放出されたリガンドは隣接する哺乳類細胞へと拡散し、コグネイトCC–GEMS受容体を活性化してJAK/STAT3シグナル伝達およびレポーター活性化を誘導し、活性化条件下では、非コグネイト受容体細胞よりもコグネイト受容体細胞においてより高い応答を示す。さらに、異なるDNA入力に応答し、相補的なリガンド成分を放出する、独立してプログラムされた2つのプロテオソーム集団を用いて、分散型ブールAND論理を実装した。両方の入力を同時に加えた場合、それぞれの単一入力条件よりも著しく高いレポーター活性が得られ、これは活性型受容体アゴニストの細胞外アセンブリと整合する。したがって、DIALECTは、合成細胞におけるDNAベースの分子計算と哺乳類細胞における直交するシグナル伝達経路を連結するモジュール式インターフェースを確立し、ハイブリッド人工–生体通信ネットワークの基盤を提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202611.0798.v1",
+    "title": "Molecular Landscape and Therapeutic Strategies in Neuroblastoma",
+    "abstract": "Neuroblastoma (NB) is the most common extracranial solid tumor in children, accounting for approximately 15% of all pediatric cancer-related deaths. While clinical staging systems provide a foundation for therapeutic decision-making, they fail to fully capture the complex interplay of genetic alterations, oncogenic signaling pathways, tumor microenvironmental dynamics, and developmental biology that collectively shape NB progression. Genomic profiling has identified recurrent driver events, including MYCN amplification, ALK mutations, ATRX and TERT dysregulation, and segmental chromosomal aberrations, which contribute to tumor aggressiveness, treatment resistance, and telomere maintenance mechanisms. Emerging therapeutic strategies are increasingly designed to target these molecular and cellular vulnerabilities. Ongoing clinical trials are evaluating ALK inhibitors, anti-GD2 antibodies, CAR-T cell therapies, and agents directed against NTRK, ROS1, KRAS, EGFR, and B7-H3, reflecting a paradigm shift toward precision medicine in NB. In this review, we provide a comprehensive overview of NB, encompassing classification systems, genetic and molecular pathogenesis, microenvironmental contributions, mechanisms of spontaneous regression, and current treatment strategies, which frame the rationale for novel, biology-driven clinical interventions.",
+    "journal": "",
+    "doi": "10.20944/preprints202611.0798.v1",
+    "date": "2026-11-09",
+    "authors": "Batur T, Batu E, Sevinin M, Zangur EŞ, Yaprak İ, Özalp İM, İşcan E, Özbek U.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1362797",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "classification",
+        "gene",
+        "genetic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5156,
+    "collected_at": "2026-11-19T21:31:24.770122+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.20944/preprints202611.0798.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6d6e84be350edc0d578317336c70795925d6af3ce56412c5309c54edd8d3170f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T22:18:19.708849+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d948921842a47b44d5b849e453fc8684b6b47d7e59103e83bd8e89cc4cbe177d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T22:18:19.708849+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "神経芽細胞腫における分子ランドスケープと治療戦略",
+    "abstract_ja": "神経芽細胞腫（NB）は小児における最も頻度の高い頭蓋外固形腫瘍であり、小児がん関連死全体の約15%を占めている。臨床病期分類システムは治療方針決定の基盤となるが、遺伝的変異、発がん性シグナル伝達経路、腫瘍微小環境の動態、および発生生物学が複雑に相互作用してNBの進行を形作るという実態を十分に捉えきれていない。ゲノムプロファイリングにより、MYCN増幅、ALK変異、ATRXおよびTERTの調節異常、ならびに分節的染色体異常といった反復的なドライバー事象が同定されており、これらは腫瘍の悪性度、治療抵抗性、およびテロメア維持機構に寄与している。新たな治療戦略は、こうした分子・細胞レベルの脆弱性を標的とするように設計されつつある。現在進行中の臨床試験では、ALK阻害薬、抗GD2抗体、CAR-T細胞療法、ならびにNTRK、ROS1、KRAS、EGFR、およびB7-H3を標的とした薬剤が評価されており、これはNBにおける精密医療へのパラダイムシフトを反映している。本総説では、分類体系、遺伝的・分子的病態形成、微小環境の寄与、自然退縮の機序、および現在の治療戦略を網羅的に概説し、これらを生物学的根拠に基づく新規臨床介入の理論的枠組みとして提示する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202611.0839.v1",
+    "title": "Agentic Image Processing: A Systematic Review of Closed-Loop Image Transformation Systems",
+    "abstract": "Image restoration, enhancement, editing, and controllable generation are increasingly performed by systems in which a controller diagnoses the image, decomposes the request, selects and configures tools, inspects intermediate results, and revises or stops. The word agent is applied to systems with very different degrees of runtime control, and the literature is spread across communities. This review defines agentic image processing by behavior: an identifiable controller uses observations of the input or of an intermediate image to choose later processing actions. We systematically search the literature and analyze representative systems in terms of task, controller, observation, action, feedback, memory, organization, training, and autonomy. We propose a four-axis taxonomy and an A0–A4 autonomy scale, describe a common perceive plan–act–verify–remember architecture, and compare restoration, retouching, editing, closed loop generation, workflow composition, and applications. Three quarters of these systems appeared in 2025 or 2026, driven by multimodal large language models that perceive images, plan, and call tools. Controllers are moving toward reinforcement learning, and nearly all systems rely on learned judges whose errors propagate through the loop. We introduce a six layer evaluation framework covering image quality, goal satisfaction, decisions, trajectories, efficiency, and human-centered reliability, a reporting checklist, design guidelines, and open problems.",
+    "journal": "",
+    "doi": "10.20944/preprints202611.0839.v1",
+    "date": "2026-11-09",
+    "authors": "Sun S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1362754",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "gene",
+        "workflow"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "gene",
+          "workflow"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5157,
+    "collected_at": "2026-11-19T21:31:24.770122+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.20944/preprints202611.0839.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "380ec165768c7ca9b65fd325803ddf7de0aa19680188a40042ae3173dcb23858",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T22:18:19.708849+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "39c3ca88a79e3d33640a636b9b43105e2357bed0eadd582a729c2a59590cda65",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T22:18:19.708849+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "エージェント型画像処理：閉ループ画像変換システムに関する系統的レビュー",
+    "abstract_ja": "画像の復元、補正、編集、および制御可能な生成は、コントローラが画像を診断し、リクエストを分解し、ツールを選択して設定し、中間結果を検査し、修正または停止を行うシステムによってますます行われるようになっている。「エージェント」という言葉は、実行時制御の度合いが大きく異なるシステムに適用されており、その文献はさまざまなコミュニティに分散している。本総説では、振る舞いに基づいてエージェント型画像処理を定義する。すなわち、識別可能なコントローラが、入力または中間画像の観測結果を用いて、後続の処理アクションを選択するというものである。我々は文献を体系的に調査し、タスク、コントローラ、観測、アクション、フィードバック、メモリ、組織化、学習、および自律性の観点から代表的なシステムを分析する。4軸の分類体系とA0–A4の自律性尺度を提案し、共通の「知覚・計画・実行・検証・記憶」アーキテクチャを記述するとともに、復元、レタッチ、編集、クローズドループ生成、ワークフロー構成、および応用について比較する。これらのシステムの4分の3は、画像を知覚し、計画を立て、ツールを呼び出すマルチモーダル大規模言語モデルによって推進され、2025年または2026年に登場した。コントローラは強化学習へと移行しつつあり、ほぼすべてのシステムが、ループを通じて誤差が伝播する学習済みジャッジに依存している。我々は、画像品質、目標充足、意思決定、軌跡、効率性、および人間中心の信頼性を網羅する6層の評価フレームワーク、報告用チェックリスト、設計ガイドライン、および未解決課題を提示する。"
   }
 ]
