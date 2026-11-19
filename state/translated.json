@@ -304843,5 +304843,291 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "scCVD：脳血管疾患の包括的なシングルセルオミクスアトラス",
     "abstract_ja": "要旨 脳血管疾患（CVD）は、世界的に死因および障害の主要な原因となっている。CVDの病理は最初に脳血管系に障害を及ぼし、内皮細胞および壁細胞、アストロサイト、ミクログリア、ニューロン、ならびに血管周囲線維芽細胞や浸潤性の末梢免疫細胞を含む神経血管系全体に及ぶ。CVDに関する単一細胞研究からは、膨大かつ散在し、アノテーションも不均一なアトラスが数多く作成されてきたが、体系的な可視化や統合的な解析を補完するものにはなっていない。本研究では、CVDのscRNA-seqおよびscATAC-seqデータの統合単一細胞データベースであるscCVD（https://scportal.cn/sccvd）を提案する。本データベースは、多様な細胞種および疾患ステージにわたるCVD関連遺伝子の発現パターンとクロマチンアクセシビリティを特性評価する。今回のリリースでは、4種（ヒト、マウス、ラット、マーモセット）から得られた701個の高品質なサンプル（468万個以上の細胞）が含まれている。すべてのデータセットは手動でキュレーションおよび標準化されており、疾患状態と対照状態、疾患のタイムポイント、および実験的介入を網羅する調和済みのメタデータが付与されている。scCVDは、差次的発現、機能的エンリッチメント、トラジェクトリ推論、細胞間コミュニケーション、転写因子調節ネットワーク、およびクロマチンアクセシビリティの解析モジュールを、インタラクティブな可視化機能とともに提供する。さらに、scCVDは便利なデータブラウジングと検索、カスタマイズ可能なオンライン解析およびバッチダウンロードをサポートしており、CVDにおける細胞不均一性と分子調節機構の系統的な調査を容易にする。"
+  },
+  {
+    "id": "10.1093/nar/gkag1231",
+    "title": "The mOTUs-db in 2027: linking taxonomy, genome-encoded function, and biogeography across environments",
+    "abstract": "AbstractA molecular understanding of microbial communities requires linking taxonomic composition to the genome-resolved functional potential of member taxa. However, this integration remains challenging since representative genomes from cultivated strains are unavailable. Here, we present a new release of the mOTUs database, which extends genome coverage of underexplored environments and enriches its 3.9 million genome collection with functional annotations. Samples are annotated with a new hierarchical environmental ontology and geographic coordinates, supporting customizable sample grouping and biogeographic analyses, while links to MicrobeAtlas provide further insight into global taxon distributions. The web interface has new features for interactive exploration of samples, studies, and taxon abundances on a map. The integrated mOTUs command-line tool enables taxonomic profiling of metagenomes, comparison of user genomes with marker gene-based operational species-level taxonomic units (mOTUs) represented in the database, and retrieval of genomes based on identifiers, taxonomic labels, and functional annotations. A new API enables high-throughput programmatic retrieval of user-tailored subsets. Taken together, mOTUs provides a foundation for advancing microbial ecology through systematic integration of taxonomic composition, functional potential, and environmental distribution of taxa within one framework. The database is available at https://motus-db.org.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1231",
+    "date": "2026-11-19",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1231/9097191?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "annotation",
+        "database",
+        "genome",
+        "metagenom",
+        "metagenomes",
+        "microbe",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "genom",
+          "genome",
+          "metagenom",
+          "metagenome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5254,
+    "collected_at": "2026-11-19T13:13:10.696023+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.1093/nar/gkag1231"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6d9c1dea2d725f25be008704002d05b4eb4acbd29014db0e97f040d0373d9c06",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T13:59:50.403258+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5fe98cf103cfd67be18d3a9f228d6bf331bc84e1fd7c5563e274fd1b905ad754",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T13:59:50.403258+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "2027年におけるmOTUs-db：環境を横断した分類学、ゲノム符号化機能、および生物地理学の連携",
+    "abstract_ja": "要旨 微生物群集の分子レベルでの理解には、分類学的組成を、構成分類群のゲノムレベルで解明された機能的ポテンシャルと結びつけることが不可欠である。しかし、培養株の代表的なゲノムが入手できないため、この統合は依然として困難な課題となっている。本報では、十分に探索されていない環境のゲノムカバレッジを拡大し、390万件のゲノムコレクションに機能的アノテーションを付与したmOTUsデータベースの新リリースを提示する。サンプルには新たな階層的環境オントロジーと地理座標が付与されており、カスタマイズ可能なサンプルグループ化や生物地理学的解析を可能にするとともに、MicrobeAtlasへのリンクを通じて、世界的な分類群の分布に関するさらなる知見を提供する。ウェブインターフェースには、マップ上でサンプル、研究、および分類群の存在量をインタラクティブに探索できる新機能が導入されている。統合されたmOTUsコマンドラインツールにより、メタゲノムの分類学的プロファイリング、ユーザーゲノムとデータベースに表現されたマーカー遺伝子に基づく運用上の種レベル分類単位（mOTUs）との比較、および識別子、分類学的ラベル、機能的アノテーションに基づくゲノムの検索が可能となる。新たなAPIにより、ユーザー向けにカスタマイズされたサブセットのハイスループットなプログラムによる検索が可能となった。総じて、mOTUsは、分類学的組成、機能的ポテンシャル、および分類群の環境分布を単一のフレームワーク内で体系的に統合することで、微生物生態学を発展させるための基盤を提供する。本データベースは https://motus-db.org で利用可能である。"
+  },
+  {
+    "id": "10.1093/nar/gkag1217",
+    "title": "PRGdb 5.0: a multi-layered resource for plant resistance gene discovery and exploration",
+    "abstract": "AbstractPlant Resistance Genes database (PRGdb) 5.0 (https://prgdb.org/prgdb5/) is a major update of the PRGdb, designed to expand plant disease resistance gene resources within a unified web platform. The release incorporates predictions for 97 plant proteomes and adds 288, 315 new putative resistance-associated proteins, bringing the database to 874,967 candidate resistance proteins from 279 plant proteomes. The curated reference collection increased from 199 to 462 experimentally supported resistance proteins. To complement domain-based classification, the platform introduces an AI-assisted prioritization layer powered by the Deep Resistance gene Evaluator Model (DREM), a deep learning model that evaluates amino acid sequences to predict resistance-associated features. DREM provides an overall resistance score, domain-level probabilities, a Structural Confidence Score, and a composite prioritization score, assigning proteins to five prioritization categories. Furthermore, PRGdb 5.0 bridges genomic sequences with functional data by transforming gene entries into connected evidence hubs. Through dynamic API integrations, individual gene pages embed real-time external data, including STRING protein interaction networks, Reactome pathways, Expression Atlas tissue profiles, and standardized Gene Ontology annotations. A redesigned interface supports multicriteria searches with Boolean operators, bulk downloads, and a live literature news feed. Together, these updates provide a scalable platform supporting the workflow from sequence analysis to target protein identification.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1217",
+    "date": "2026-11-19",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1217/9097190?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "gene",
+        "resource"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5255,
+    "collected_at": "2026-11-19T13:13:10.696023+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.1093/nar/gkag1217"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8d9c6405f119097bfbe6fede9fb763719d08570c2bc7fc0b5524ff26183ae1c9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T13:59:50.403258+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a0deecd47e7a709323d5c73005abc750646a4370e0bda246cbd1b76d15451985",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T13:59:50.403258+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "PRGdb 5.0: 植物抵抗性遺伝子の発見と探索のための多層的リソース",
+    "abstract_ja": "概要：Plant Resistance Genes database (PRGdb) 5.0 (https://prgdb.org/prgdb5/) は、統一されたウェブプラットフォーム内で植物の病害抵抗性遺伝子リソースを拡充するために設計された、PRGdbのメジャーアップデートである。本リリースでは、97種類の植物プロテオームの予測結果が組み込まれたほか、288,315種類の新たな抵抗性関連推定タンパク質が追加され、データベースは279種類の植物プロテオームからなる874,967種類の抵抗性候補タンパク質を擁することとなった。キュレーション済みのリファレンスコレクションは、実験的に裏付けられた抵抗性タンパク質が199種類から462種類へと増加した。ドメインベースの分類を補完するため、本プラットフォームでは、アミノ酸配列を評価して抵抗性関連の特徴を予測する深層学習モデルであるDeep Resistance gene Evaluator Model (DREM) を活用したAI支援型の優先順位付けレイヤーを導入した。DREMは、総合抵抗性スコア、ドメインレベルの確率、構造信頼度スコア、および複合優先順位スコアを提供し、タンパク質を5つの優先順位カテゴリーに分類する。さらに、PRGdb 5.0は、遺伝子エントリを連結されたエビデンスハブに変換することで、ゲノム配列と機能データを橋渡しする。動的なAPI連携により、個々の遺伝子ページには、STRINGタンパク質相互作用ネットワーク、Reactomeパスウェイ、Expression Atlas組織プロファイル、および標準化されたGene Ontologyアノテーションを含むリアルタイムの外部データが埋め込まれる。刷新されたインターフェースは、ブール演算子を用いた多基準検索、一括ダウンロード、およびライブ文献ニュースフィードをサポートしている。これらのアップデートが相まって、配列解析から標的タンパク質の同定に至るワークフローを支える、スケーラブルなプラットフォームが提供される。"
+  },
+  {
+    "id": "10.1093/nar/gkag1181",
+    "title": "DIANA-miTED v2: an expanded microRNA tissue expression database with an integrated healthy-tissue reference atlas",
+    "abstract": "AbstractMicroRNAs (miRNAs) are post-transcriptional regulators of gene expression that exhibit tissue- and condition-associated expression patterns. Interpreting their abundance in disease or experimental contexts requires a physiological reference. DIANA-miTED v2 expands its uniformly processed and manually curated collection from 15 183 to 49 630 human small RNA-sequencing profiles spanning healthy tissues, cell lines, and disease states. To our knowledge, this is the largest such collection of human miRNA expression profiles assembled to date. It adds 16 746 Genotype-Tissue Expression V10 profiles and expands the Sequence Read Archive collection from 4142 to 21 843, alongside the existing The Cancer Genome Atlas collection. Expression is quantified for 2656 mature miRNAs, with harmonized metadata covering 96 tissues or organs, 437 cell lines, and 503 diseases. Healthy-donor coverage increases from 709 to 23 281, with 1471 tumour-adjacent-normal profiles classified separately. The database distinguishes primary tissues and biofluids from cultured and derived preparations. A redesigned tissue-centric interface provides a body-map picker, sublocation refinement, multi-miRNA and multi-tissue querying, cohort summaries, and descriptive longitudinal browsing. Co-expression capabilities include pairwise Spearman correlation and precomputed WGCNA modules, with 263 overview and 105 source/project-specific reference networks. Quantified counts, reads per million values, metadata, and query results are available through downloads and a REST API. DIANA-miTED v2 is freely available, without registration, at http://microrna.gr/mitedv2.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1181",
+    "date": "2026-11-19",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1181/9097189?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5256,
+    "collected_at": "2026-11-19T13:13:10.696023+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.1093/nar/gkag1181"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9ad2c4ac57e1600f3575102cb8d624de674eac0e7cc1339e07fb5fe9cac358ca",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T13:59:50.403258+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "91eef7444b2d0a4669f73d882eb624e6eb80893b872a827cea1a79ac3e7db656",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T13:59:50.403258+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "DIANA-miTED v2：正常組織リファレンスアトラスを統合した拡張型マイクロRNA組織発現データベース",
+    "abstract_ja": "要旨マイクロRNA（miRNA）は、組織や病態に関連した発現パターンを示す遺伝子発現の転写後調節因子である。疾患や実験条件下におけるその存在量を解釈するには、生理学的な基準が必要となる。DIANA-miTED v2は、均一に処理され手動でキュレーションされたコレクションを、健常組織、細胞株、および疾患状態にわたる15,183件から49,630件のヒト小分子RNAシーケンシングプロファイルへと拡充した。我々の知る限り、これはこれまでに構築されたヒトmiRNA発現プロファイルのコレクションとして最大規模である。本バージョンでは、16,746件のGenotype-Tissue Expression V10プロファイルが追加され、既存のThe Cancer Genome Atlasコレクションと併せて、Sequence Read Archiveコレクションが4,142件から21,843件へと拡充された。2,656種類の成熟miRNAについて発現量が定量されており、96の組織または臓器、437の細胞株、および503の疾患を網羅する整合化されたメタデータが提供されている。健常ドナーのカバー範囲は709件から23,281件に増加し、1,471件の腫瘍隣接正常プロファイルが個別に分類されている。本データベースでは、一次組織および生体液を、培養および誘導調製物と区別している。再設計された組織中心のインターフェースにより、ボディマップピッカー、サブロケーションの精緻化、マルチmiRNAおよびマルチ組織クエリ、コホートサマリー、および記述的な経時的ブラウジング機能が提供されている。共発現機能には、ペアワイズ・スピアマン相関および事前計算済みのWGCNAモジュールが含まれ、263の概要ネットワークと105のソース/プロジェクト固有のリファレンスネットワークが提供されている。定量化されたカウント数、100万リードあたりの値、メタデータ、およびクエリ結果は、ダウンロードおよびREST APIを通じて利用可能である。DIANA-miTED v2は、登録不要で http://microrna.gr/mitedv2 にて無料で提供されている。"
+  },
+  {
+    "id": "10.1093/nar/gkag1205",
+    "title": "P2CS-Web: an updated resource for comparative exploration of prokaryotic two-component systems",
+    "abstract": "AbstractP2CS-Web (https://www.p2cs.org) links genome-wide two-component system (TCS) repertoires to protein domain architectures, genomic neighbourhoods, and sequence-identity clusters. The current release covers 392 075 bacterial genomes and 25 663 653 TCS-associated genes, including 12 517 906 encoding histidine kinases (HKs) and 12 774 395 encoding response regulators (RRs). HK and RR protein sequences are grouped into 2 931 715 and 2 479 169 sequence clusters, respectively, each represented by a single sequence. Genome, gene, and cluster pages combine these annotations with member taxonomy and local gene organization. An additional annotation layer applies 18 HisKA-like profile HMMs to HK candidates whose primary annotation lacks a HisKA domain. The resulting matches can be inspected against the original classification and domain coordinates. Genome and cluster comparisons, representative-sequence alignments, configurable exports, and a versioned API allow users to examine TCS diversity and download sequences and associated annotations for subsequent analyses.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1205",
+    "date": "2026-11-19",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1205/9097188?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "prokaryotic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5257,
+    "collected_at": "2026-11-19T13:13:10.696023+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.1093/nar/gkag1205"
+    ],
+    "translation": {
+      "title": {
+        "hash": "630722dd8fcdab4d307c82e517803db9f9c6b0b09af5543dde18d146940bc469",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T13:59:50.403258+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "269e63c7145fa9ccc31b921bded2cd3b69bd8f96067acde0e7fc9d4d1dfa08c8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T13:59:50.403258+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "P2CS-Web: 原核生物の二成分系の比較探索のための更新版リソース",
+    "abstract_ja": "概要P2CS-Web (https://www.p2cs.org) は、ゲノムワイドな2成分系（TCS）レパートリーを、タンパク質ドメイン構造、ゲノム近傍領域、および配列同一性クラスターに紐付ける。今回のリリースでは、392,075件の細菌ゲノムと、25,663,653件のTCS関連遺伝子を網羅しており、その中にはヒスチジンキナーゼ（HK）をコードする12,517,906件と、応答調節因子（RR）をコードする12,774,395件が含まれる。HKおよびRRタンパク質配列は、それぞれ2,931,715件および2,479,169件の配列クラスターにグループ化されており、各クラスターは単一の配列で表される。ゲノム、遺伝子、およびクラスターの各ページでは、これらのアノテーションにメンバー分類および局所的な遺伝子構成が組み合わされている。さらに、一次アノテーションにHisKAドメインが欠如しているHK候補に対し、18種類のHisKA様プロファイルHMMを適用するアノテーションレイヤーが設けられている。得られたマッチ結果は、元の分類およびドメイン座標と照合して確認できる。ゲノムおよびクラスターの比較、代表配列アライメント、設定可能なエクスポート機能、およびバージョン管理されたAPIにより、ユーザーはTCSの多様性を調査し、後続の解析のために配列および関連アノテーションをダウンロードすることが可能である。"
   }
 ]
