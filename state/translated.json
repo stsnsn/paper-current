@@ -302578,5 +302578,302 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "古代マイクロバイオームにおける抗菌ペプチドの予測・探索に向けた機械学習手法のベンチマーク",
     "abstract_ja": "薬剤耐性という世界的な脅威が高まる中、抗菌ペプチド（AMP）は、従来の抗生物質に代わる有望な選択肢となっている。AMPの探索を拡大するには、候補ペプチドを正確に同定するための効果的な計算ツールと、新規AMPを保有している可能性のある未開拓の生物学的リソースへのアクセスの両方が必要である。しかし、既存の計算手法の比較性能については十分に解明されておらず、一方で古代マイクロバイオームはAMPの潜在的なリザーバーとしてほとんど注目されてこなかった。本研究では、8つのキュレート済みAMPデータセットを用い、統一的なフレームワークの下で、配列、構造、およびタンパク質言語モデルの特徴量にわたる12種類の特徴量構成について、6つの機械学習手法を体系的にベンチマーク評価した。最も性能の高い手法を、ヒトの腸管（考古学的糞便堆積物）、ヒトの口腔（歯石）、およびマンモス関連コミュニティ（歯、頭蓋骨、皮膚）を代表する3つの古代メタゲノムデータセットに適用した。並行して、強化学習を用いて、現代のAMPラベルに依存することなく、古代配列プールから直接候補ペプチドを選択した。ベンチマーク評価の結果、タンパク質言語モデルの埋め込み表現が最も情報量の多い特徴量であり、畳み込み型、トランスフォーマーベース、およびリカレントアーキテクチャを含む深層学習モデルが、従来の手法を上回る性能を示すことが明らかになった。これらのモデルを古代マイクロバイオームに適用したところ、AMPに特徴的な物理化学的空間を占める候補が同定されたが、これらは現代のマイクロバイオームカタログから予測された候補とは異なっていた。ネアンデルタール人の腸管、古代口腔、およびマンモス関連コミュニティから、それぞれ111個、76個、50個の高信頼度の候補AMPを同定した。強化学習は、現代のAMPデータベースで訓練されたモデルが予測したものとは異なる特性を持つ追加の候補AMPを選択した。以上の知見を総合すると、本研究はAMP予測のための体系的なベンチマークを確立し、古代マイクロバイオームが未開拓の抗菌ペプチド候補源であることを浮き彫りにした。教師あり機械学習と強化学習を統合することで、本研究はAMPの探索を現代のマイクロバイオームカタログの枠を超えて拡大し、潜在的に新規なAMPを同定する新たな機会を提供するものである。"
+  },
+  {
+    "id": "10.1111/1462-2920.70500",
+    "title": "The Positive and Negative Selective Pressures Driving Polylysogeny",
+    "abstract": "Polylysogeny can benefit host bacteria by conferring resistance against heterologous phages. It also benefits prophages via shared induction pathways that enable simultaneous activation or hybrid phage formation. Multiple prophages engage in cooperative and antagonistic interactions, which can either boost host mortality through preemptive lytic induction or shape the stable polylysogenic state.\n\nABSTRACT\nProphages are widespread genetic elements dormant in bacterial genomes and fundamental to bacterial physiology, evolution, and ecosystem processes. Recent evidence reveals that lysogeny can generate benefits for both prophages and bacterial hosts, against other phages infection, host adaptation, and ecological process. Many bacteria harbour multiple prophages, yet most prior studies have emphasised single‐prophage effects and have not fully captured the evolutionary and mechanistic complexity of polylysogeny. Here, we aim to elucidate the major evolutionary forces and mechanistic determinants underlying polylysogeny. Because the behaviour of individual prophages underlies the emergence of polylysogeny, we first focus on the lysogenic decision and the stable coexistence of multiple prophages within a single bacterial host. Moreover, interactions among multiple prophages, ranging from cooperation (e.g., shared induction pathway and mutual stabilisation) to antagonism (e.g., competition and interference), collectively define polylysogenic states and their stability. Understanding these dynamics provides a framework for interpreting prophage‐driven bacterial evolution and for leveraging prophage biology in microbiome and microbial ecosystem research.\n\nPolylysogeny can benefit host bacteria by conferring resistance against heterologous phages. It also benefits prophages via shared induction pathways that enable simultaneous activation or hybrid phage formation. Multiple prophages engage in cooperative and antagonistic interactions, which can either boost host mortality through preemptive lytic induction or shape the stable polylysogenic state.\n\nABSTRACT\nProphages are widespread genetic elements dormant in bacterial genomes and fundamental to bacterial physiology, evolution, and ecosystem processes. Recent evidence reveals that lysogeny can generate benefits for both prophages and bacterial hosts, against other phages infection, host adaptation, and ecological process. Many bacteria harbour multiple prophages, yet most prior studies have emphasised single-prophage effects and have not fully captured the evolutionary and mechanistic complexity of polylysogeny. Here, we aim to elucidate the major evolutionary forces and mechanistic determinants underlying polylysogeny. Because the behaviour of individual prophages underlies the emergence of polylysogeny, we first focus on the lysogenic decision and the stable coexistence of multiple prophages within a single bacterial host. Moreover, interactions among multiple prophages, ranging from cooperation (e.g., shared induction pathway and mutual stabilisation) to antagonism (e.g., competition and interference), collectively define polylysogenic states and their stability. Understanding these dynamics provides a framework for interpreting prophage-driven bacterial evolution and for leveraging prophage biology in microbiome and microbial ecosystem research.",
+    "journal": "Environmental Microbiology",
+    "doi": "10.1111/1462-2920.70500",
+    "date": "2026-11-18",
+    "authors": "Kesu Wang, \nXia Shu, \nRuifu Zhang, \nYunpeng Liu",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.70500?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "microbial",
+        "microbiome",
+        "phage",
+        "phages"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://onlinelibrary.wiley.com/feed/14622920/most-recent",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5271,
+    "collected_at": "2026-11-19T13:13:10.696023+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "https://onlinelibrary.wiley.com/feed/14622920/most-recent"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.1111/1462-2920.70500"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b4926e96ecba896dd626c5b851361c207db6c6fdf17360faae77485855d7c1c2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T13:34:48.111896+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0c91f4c29e3befe179650eb9d49b51b50853eb5e81b1082c965ed3ef64b79145",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T13:34:48.111896+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ポリリソゲニーを駆動する正および負の選択圧",
+    "abstract_ja": "ポリリソジェネーシスは、異種ファージに対する耐性を付与することで、宿主細菌に利益をもたらし得る。また、同時活性化やハイブリッドファージの形成を可能にする共通の誘導経路を介して、プロファージにも利益をもたらす。複数のプロファージは協調的および拮抗的な相互作用を展開し、先制的な溶菌誘導を通じて宿主の致死率を高めるか、あるいは安定したポリリソジェニック状態を形成する。\n\n要旨\nプロファージは、細菌ゲノム内に休眠状態にある広範な遺伝要素であり、細菌の生理機能、進化、および生態系プロセスにおいて不可欠なものである。近年の知見により、リソジェネーシスが他のファージ感染、宿主適応、および生態学的プロセスに対して、プロファージと細菌宿主の双方に利益をもたらし得ることが明らかになっている。多くの細菌は複数のプロファージを保持しているが、これまでの研究の多くは単一プロファージの効果に重点を置いており、ポリリソジェネーシスの進化的・機構的な複雑性を十分に捉えきれていない。本研究では、ポリリソジェネーシスの根底にある主要な進化的要因と機構的決定因子を解明することを目的とする。個々のプロファージの挙動がポリリソジェネーシスの出現の基盤となるため、まずリソジェニックな意思決定と、単一の細菌宿主内における複数のプロファージの安定した共存に焦点を当てる。さらに、協調（例：共通の誘導経路や相互安定化）から拮抗（例：競争や干渉）に至るまで、複数のプロファージ間の相互作用が相まって、ポリリソジェニック状態とその安定性を規定する。これらの動態を理解することは、プロファージ駆動型の細菌進化を解釈するための枠組みを提供するとともに、マイクロバイオームおよび微生物生態系研究においてプロファージ生物学を活用するための基盤となる。\n\nポリリソジェネーシスは、異種ファージに対する耐性を付与することで、宿主細菌に利益をもたらし得る。また、同時活性化やハイブリッドファージの形成を可能にする共通の誘導経路を介して、プロファージにも利益をもたらす。複数のプロファージは協調的および拮抗的な相互作用を展開し、先制的な溶菌誘導を通じて宿主の致死率を高めるか、あるいは安定したポリリソジェニック状態を形成する。\n\n要旨\nプロファージは、細菌ゲノム内に休眠状態にある広範な遺伝要素であり、細菌の生理機能、進化、および生態系プロセスにおいて不可欠なものである。近年の知見により、リソジェネーシスが他のファージ感染、宿主適応、および生態学的プロセスに対して、プロファージと細菌宿主の双方に利益をもたらし得ることが明らかになっている。多くの細菌は複数のプロファージを保持しているが、これまでの研究の多くは単一プロファージの効果に重点を置いており、ポリリソジェネーシスの進化的・機構的な複雑性を十分に捉えきれていない。本研究では、ポリリソジェネーシスの根底にある主要な進化的要因と機構的決定因子を解明することを目的とする。個々のプロファージの挙動がポリリソジェネーシスの出現の基盤となるため、まずリソジェニックな意思決定と、単一の細菌宿主内における複数のプロファージの安定した共存に焦点を当てる。さらに、協調（例：共通の誘導経路や相互安定化）から拮抗（例：競争や干渉）に至るまで、複数のプロファージ間の相互作用が相まって、ポリリソジェニック状態とその安定性を規定する。これらの動態を理解することは、プロファージ駆動型の細菌進化を解釈するための枠組みを提供するとともに、マイクロバイオームおよび微生物生態系研究においてプロファージ生物学を活用するための基盤となる。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1999988",
+    "title": "Early YAP–β-catenin activation influences liver colonization of Helicobacter pylori-infected gastric cancer cells",
+    "abstract": "BackgroundHelicobacter pylori infection is a major risk factor for gastric cancer, yet the early molecular events linking infection to subsequent liver colonization remain poorly understood. Here, we investigated the role of Yes-associated protein (YAP), a core effector of the Hippo pathway, and its crosstalk with the Wnt/β-catenin signaling pathway in H. pylori-infected gastric cancer cells.MethodsThe contributions of YAP and Wnt/β-catenin signaling were investigated in H. pylori-infected gastric cancer cells. YAP overexpression and the Wnt/β-catenin inhibitor XAV939 were employed to evaluate their effects on cellular functions and mitochondrial stress responses. Liver colonization-related outcomes were evaluated using a tail-vein xenograft model, while a mouse model of gastritis was used to examine the involvement of YAP in H. pylori-induced gastric inflammation and Wnt/β-catenin activation.ResultsHelicobacter pylori infection induced nuclear translocation of YAP and β-catenin within 6 h, with corresponding increases in their nuclear and total protein levels. YAP overexpression partially reversed the infection-induced suppression of HGC-27 cell proliferation, migration, and invasion, whereas inhibition of Wnt/β-catenin signaling with XAV939 attenuated these effects. Moreover, YAP overexpression was associated with partial preservation of mitochondrial membrane potential and cellular ATP levels under H. pylori-induced stress, whereas XAV939 treatment attenuated these effects. In the tail-vein model, YAP overexpression combined with prior H. pylori exposure was associated with altered liver histological and proliferative outcomes, accompanied by changes in β-catenin-related gene expression. XAV939 treatment attenuated several of these changes. In the gastritis mouse model, YAP deficiency attenuated H. pylori-induced gastric inflammation and Wnt/β-catenin activation without affecting bacterial colonization.ConclusionCollectively, these findings suggest that early YAP–β-catenin activation is associated with cellular stress responses and subsequent liver colonization-related outcomes in H. pylori-exposed gastric cancer cells. The YAP–β-catenin axis may contribute to cellular stress adaptation and the preservation of mitochondrial membrane potential under acute bacterial stress, highlighting its potential relevance to H. pylori-associated gastric cancer progression.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1999988",
+    "date": "2026-11-19",
+    "authors": "Ying Zhang",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1999988",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5260,
+    "collected_at": "2026-11-19T13:13:10.696023+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.3389/fmicb.2026.1999988"
+    ],
+    "translation": {
+      "title": {
+        "hash": "af14a122bb0390b41c7e3471dbb1ce77c6b88b16a6bf4a1f6f223343e0128ee3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T13:34:48.111896+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a70f2f1423df3681f1c27869e8f21039902f6047325bda2f36e7a288eaa7b87a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T13:34:48.111896+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "早期のYAP–β-カテニン活性化は、ヘリコバクター・ピロリ感染胃癌細胞の肝定着に影響を及ぼす。",
+    "abstract_ja": "背景ヘリコバクター・ピロリ感染は胃癌の主要なリスク因子であるが、感染からその後の肝定着に至る初期の分子事象については十分に解明されていない。本研究では、H. pylori感染胃癌細胞において、Hippo経路の中核エフェクターであるYes関連タンパク質（YAP）の役割と、Wnt/β-カテニンシグナル伝達経路とのクロストークについて検討した。方法H. pylori感染胃癌細胞において、YAPおよびWnt/β-カテニンシグナル伝達の寄与を検討した。YAPの過剰発現およびWnt/β-カテニン阻害剤XAV939を用いて、細胞機能およびミトコンドリアストレス応答への影響を評価した。肝定着に関連する転帰については尾静脈異種移植モデルを用いて評価し、胃炎マウスモデルを用いて、H. pylori誘発性胃炎症およびWnt/β-カテニン活性化におけるYAPの関与を検討した。結果ヘリコバクター・ピロリ感染により、6時間以内にYAPおよびβ-カテニンの核内移行が誘導され、それに伴い核内および総タンパク質レベルが上昇した。YAPの過剰発現は、感染によって誘導されたHGC-27細胞の増殖、遊走、および浸潤の抑制を部分的に解除したが、XAV939によるWnt/β-カテニンシグナル伝達の阻害はこれらの効果を軽減した。さらに、YAPの過剰発現は、H. pylori誘発性ストレス下におけるミトコンドリア膜電位および細胞内ATPレベルの部分的な維持と関連していたが、XAV939処理はこれらの効果を軽減した。尾静脈モデルにおいて、YAPの過剰発現と事前のH. pylori曝露の併用は、β-カテニン関連遺伝子発現の変化を伴う、肝組織学的および増殖学的転帰の変化と関連していた。XAV939処理は、これらの変化のいくつかを軽減した。胃炎マウスモデルにおいて、YAP欠損は細菌の定着に影響を与えることなく、H. pylori誘発性胃炎症およびWnt/β-カテニン活性化を軽減した。結論総合的に、これらの知見は、H. pylori曝露胃癌細胞において、初期のYAP–β-カテニン活性化が細胞ストレス応答およびその後の肝定着に関連する転帰と関連していることを示唆している。YAP–β-カテニン軸は、急性細菌ストレス下における細胞ストレス適応およびミトコンドリア膜電位の維持に寄与している可能性があり、H. pylori関連胃癌の進展における潜在的な関連性が浮き彫りとなった。"
+  },
+  {
+    "id": "10.1186/s13059-026-04349-8",
+    "title": "Benchmarking computational tools for locus-specific analysis of transposable elements in single-cell RNA-seq datasets",
+    "abstract": "Background\n                     Transposable elements (TEs) are increasingly recognized as regulators of gene expression and cellular identity. Single-cell RNA-sequencing (scRNA-seq) enables the analysis of their transcription at cellular resolution, but the repetitive nature of TEs and their frequent overlap with genes create substantial mapping ambiguity. Although several tools quantify TE expression, few support locus-specific analysis, and their performance in single-cell data has not been systematically evaluated.\n                  \n                     Results\n                     We present a comprehensive, scalable benchmarking framework written in Snakemake for locus-level TE quantification in short-read scRNA-seq data, combining real datasets with simulations that provide read-level ground truth. Our simulations show that sequence-diverged insertions can be quantified with relatively high accuracy, whereas young TEs remain difficult to resolve due to unreliable assignment of multi-mapping reads. We observe pronounced family-specific biases and identify gene-TE disambiguation as a major unresolved challenge. Across the evaluated methods, incorporating multi-mapping reads generally increased false-positive calls without substantially improving locus-level accuracy. When loci of all ages were analyzed together, SoloTE in unique-mapper mode achieved the highest detection accuracy.\n                  \n                     Conclusions\n                     Our benchmark delineates the fundamental limits imposed by short-read scRNA-seq on locus-specific TE quantification, providing practical guidance for prospective users. Suggested best practices include focusing locus-level analyses on older insertions, applying unique-mapper strategies to improve precision, aggregating counts at the subfamily level for young TEs, and explicitly checking for gene-TE overlaps. Our workflow is reproducible and extensible, providing a foundation for evaluating emerging methods aimed at resolving TE transcription at single-locus resolution.",
+    "journal": "Genome Biology",
+    "doi": "10.1186/s13059-026-04349-8",
+    "date": "2026-11-19",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s13059-026-04349-8",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "benchmark",
+        "tool"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=13059",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5273,
+    "collected_at": "2026-11-19T13:13:10.696023+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=13059"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.1186/s13059-026-04349-8"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2301e1c9ad5aa5483c3adc115495be51db0989fec8f5275791fc52b10f11dde9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T13:34:48.111896+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6bc3711c8b926b1154f5442d1f423882f68b897b03e781187c57c6df9e4f8f20",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T13:34:48.111896+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "単一細胞RNA-seqデータセットにおける転移因子の遺伝子座特異的解析に向けた計算ツールのベンチマーク",
+    "abstract_ja": "背景\n                     転移因子（TE）は、遺伝子発現および細胞アイデンティティの調節因子としてますます認識されるようになっている。シングルセルRNAシーケンシング（scRNA-seq）により、細胞レベルでの転写解析が可能となったが、TEの反復的な性質と遺伝子との頻繁な重複により、マッピングにおける大きな曖昧性が生じている。TE発現を定量化するツールはいくつか存在するものの、遺伝子座特異的な解析をサポートするものは少なく、シングルセルデータにおける性能は体系的に評価されていない。\n                  \n                     結果\n                     本研究では、ショートリードscRNA-seqデータにおける遺伝子座レベルのTE定量化を目的として、Snakemakeで実装された包括的かつスケーラブルなベンチマークフレームワークを提案する。本フレームワークでは、実データセットと、リードレベルのグラウンドトゥルースを提供するシミュレーションを組み合わせている。シミュレーションの結果、配列分岐した挿入配列は比較的高い精度で定量化できる一方、若いTEはマルチマッピングリードの割り当てが信頼性に欠けるため、依然として解析が困難であることが示された。また、顕著なファミリー特異的なバイアスが認められ、遺伝子-TEの曖昧性解消が未解決の主要な課題として特定された。評価した手法全般において、マルチマッピングリードを組み込むことは、遺伝子座レベルの精度を大幅に向上させることなく、一般的に偽陽性コールを増加させた。あらゆる年代の遺伝子座をまとめて解析した場合、ユニークマッパーモードにおけるSoloTEが最高の検出精度を達成した。\n                  \n                     結論\n                     本ベンチマークは、ショートリードscRNA-seqが遺伝子座特異的なTE定量化に課す根本的な限界を明らかにし、今後の利用者に実用的な指針を提供するものである。推奨されるベストプラクティスとしては、遺伝子座レベルの解析を古い挿入配列に重点的に行うこと、精度向上のためにユニークマッパー戦略を適用すること、若いTEについてはサブファミリーレベルでカウントを集約すること、および遺伝子-TEの重複を明示的に確認することが挙げられる。本ワークフローは再現性と拡張性を備えており、単一遺伝子座レベルでのTE転写解析を目的とした新興手法を評価する上での基盤となる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 10",
+        "query": "(JOURNAL:\"Scientific Data\" OR JOURNAL:\"Limnology and Oceanography\" OR JOURNAL:\"Limnology and Oceanography Letters\" OR JOURNAL:\"Annual Review of Marine Science\" OR JOURNAL:\"Trends in Ecology & Evolution\" OR JOURNAL:\"iScience\" OR JOURNAL:\"Current Biology\" OR JOURNAL:\"Cell Reports\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.isci.2026.117879",
+    "title": "Ovarian function via gut microbiota-driven serotonin dysregulation in zebrafish.",
+    "abstract": "Ciprofloxacin (CIP) is frequently detected in aquatic environments, yet its effects on reproduction through gut microbiota-mediated pathways remain unclear. Adult female zebrafish were exposed to 5,000 ng/L CIP for 30 days and evaluated using histology, hormone assays, metagenomics, metabolomics, transcriptomics, and fecal microbiota transplantation (FMT). CIP impaired folliculogenesis, reduced follicle-stimulating hormone, luteinizing hormone, and estradiol levels, and disrupted intestinal barrier integrity. Multi-omics analyses revealed gut dysbiosis and altered microbial metabolism, including increased serotonin (5-HT) and indole-3-lactic acid associated with Cetobacterium and Plesiomonas shigelloides. Brain transcriptomics showed suppressed hormone signaling and elevated 5-HT, consistent with hypothalamic-pituitary-gonadal axis disruption. FMT from CIP-exposed donors reproduced hormonal and ovarian abnormalities in microbiota-depleted recipients. This study underscores the need to integrate microbiota-host interactions into the risk assessment of emerging aquatic contaminants and highlights the broader implications of environmental exposures for reproductive and endocrine health in both aquatic organisms and potentially humans.",
+    "journal": "iScience",
+    "doi": "10.1016/j.isci.2026.117879",
+    "date": "2026-11-10",
+    "authors": "Wang N, Dong T, Yu K, Qiu Y, Lyu D, Li B, Yu X, Jing CH, Jiao X.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43036710",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43036710",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomics",
+        "microbial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [
+          "aquatic"
+        ],
+        "genomics": [
+          "metagenom",
+          "metagenomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5145,
+    "collected_at": "2026-11-19T13:02:39.396497+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "Europe PMC journals 10"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.1016/j.isci.2026.117879"
+    ],
+    "translation": {
+      "title": {
+        "hash": "da2743d1aee1e03683869f98c88dd100095e924d76c835a20477987c60e48f83",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T13:34:48.111896+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d9be0769d11494e58b90f29e30d59e56249f5117f51d9bfa5ce031bd86c6229c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T13:34:48.111896+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ゼブラフィッシュにおける腸内細菌叢を介したセロトニン調節による卵巣機能。",
+    "abstract_ja": "シプロフロキサシン（CIP）は水圏環境で頻繁に検出されるが、腸内細菌叢を介した経路による生殖への影響は依然として不明である。成体雌ゼブラフィッシュに5,000 ng/LのCIPを30日間曝露し、組織学、ホルモン測定、メタゲノミクス、メタボロミクス、トランスクリプトミクス、および糞便微生物叢移植（FMT）を用いて評価した。CIPは卵胞形成を阻害し、卵胞刺激ホルモン、黄体形成ホルモン、およびエストラジオールの濃度を低下させ、腸管バリアの完全性を損なった。マルチオミクス解析により、腸内細菌叢の乱れと、CetobacteriumおよびPlesiomonas shigelloidesに関連するセロトニン（5-HT）およびインドール-3-乳酸の増加を含む微生物代謝の変化が明らかになった。脳トランスクリプトミクスでは、ホルモンシグナル伝達の抑制と5-HTの上昇が認められ、視床下部-下垂体-性腺軸の破綻と一致していた。CIP曝露ドナーからのFMTは、微生物叢が枯渇したレシピエントにおいてホルモンおよび卵巣の異常を再現した。本研究は、新興の水圏汚染物質のリスク評価に微生物叢と宿主の相互作用を組み込む必要性を強調するとともに、水圏生物および潜在的にヒトにおける生殖および内分泌系の健康に対する環境曝露のより広範な影響を浮き彫りにしている。"
   }
 ]
