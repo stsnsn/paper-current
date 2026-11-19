@@ -305407,5 +305407,221 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "意思決定ベンチマークにより、タンパク質基盤モデルが実験的価値を付加するタイミングが明らかになる",
     "abstract_ja": "タンパク質工学は、モデルベースのバリアントスコアリングから、次に何を測定すべきかを決定する手法へと移行しつつある。この流れにより、予測器を順位付けするものの、エビデンスが蓄積されてもその優位性が維持されるかを示さない固定データセット・ベンチマークの限界が露呈している。そこで我々は、217種類のProteinGymアッセイ、247万個のバリアント、および95種類の予測器を用いた意思決定ベンチマークを導入し、モデルと測定のどちらが同等のコストで意思決定を改善できるかを評価した。ゼロショット精度で説明できるのは、キャリブレーション後の探索における変動の5分の1未満であった。キャリブレーション済みの事前分布は、20〜100回の測定において予算整合型の相加性を上回ったが、構成要素の測定が蓄積されるにつれてその優位性は縮小した。その後、トップバリアントの探索では50〜100回の測定後、グローバルランキングでは約500回の測定後に、測定による相加性がゼロショットモデルを上回った。同様の原理により、二重変異体測定は変異の同一性を用いるモデルの予測精度を向上させた一方、予測誘導型取得は探索精度を向上させた。エビデンスに基づくルーティングは、戦略選択を改善した。したがって、意思決定ベンチマークは、既に利用可能な情報とその後の意思決定に照らして、どの戦略が価値を付加するかを特定するものである。"
+  },
+  {
+    "id": "10.64898/2026.11.17.767315",
+    "title": "Persistence of Non-industrial Gut Microbiota Discriminates Health and Disease States in Industrial Populations",
+    "abstract": "Industrialization has sharply reduced gut microbial diversity, possibly affecting human health. To isolate the effects of industrialization, we assembled 18,075 human metagenomes spanning hunter-gatherer, agro-pastoral, and industrial lifestyles. We confirmed individual-level diversity reductions in industrial populations, but also found that nearly all known human-associated microbes exhibit population-level persistence. Previously hypothesized 'vanishing' microbes are reduced from high prevalence in non-industrial populations to above-median prevalence in industrial populations. Species-level signatures in industrial case-control cohorts suggest that harboring 'vanishing' taxa can be associated with health or pathology, depending on the condition. Controlling for background prevalence, 'vanishing' microbes were more likely associated with cases than controls in obesity, both 'vanishing' microbes and those now 'blossoming' in industrialized populations were associated with glucose intolerance, while 'blossoming' taxa were associated with inflammatory bowel disease. We conclude that most microbes have not gone extinct under industrialization, and that the health effects of lifestyle-associated taxa are context-dependent.",
+    "journal": "",
+    "doi": "10.64898/2026.11.17.767315",
+    "date": "2026-11-19",
+    "authors": "Ibata, N. G. O., Sarkar, A., Brielle, E. S., Penumarthi, L. R., Moeller, A. H., Carmody, R. N.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.17.767315v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomes",
+        "microbe",
+        "microbes",
+        "microbial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5278,
+    "collected_at": "2026-11-19T13:13:10.696023+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.64898/2026.11.17.767315"
+    ],
+    "translation": {
+      "title": {
+        "hash": "897eecad3647fa36465a1959b434556af44d7dbf71c5977aac5942d91c7e9d6a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T14:04:52.912413+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4c5295d1e830bf567cc2d4eae48d40463c226afa177ffc77afa415c1dfc2b6fb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T14:04:52.912413+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "非産業的腸内細菌叢の持続性が産業集団における健康状態と疾患状態を判別する",
+    "abstract_ja": "工業化は腸内微生物の多様性を著しく低下させており、ヒトの健康に影響を及ぼしている可能性がある。工業化の影響を単離するため、我々は狩猟採集民、農牧民、および工業化社会のライフスタイルにわたる18,075件のヒトメタゲノムをアセンブルした。工業化集団において個体レベルの多様性の低下が確認された一方で、既知のヒト関連微生物のほぼすべてが集団レベルでの持続性を示すことも判明した。従来「消失」すると仮説立てられていた微生物は、非工業化集団における高い有病率から、工業化集団における中央値を上回る有病率へと低下している。工業化集団の症例対照コホートにおける種レベルのシグネチャーは、「消失」しつつある分類群を保有していることが、疾患の状態に応じて健康または病理に関連し得ることを示唆している。背景有病率を制御した結果、肥満においては「消失」しつつある微生物は対照群よりも症例群に関連している傾向が強く、「消失」しつつある微生物および工業化集団で現在「繁栄」している微生物の双方が耐糖能異常に関連していた一方、「繁栄」している分類群は炎症性腸疾患に関連していた。我々は、工業化の下でほとんどの微生物が絶滅したわけではなく、ライフスタイル関連分類群による健康への影響は文脈に依存すると結論付ける。"
+  },
+  {
+    "id": "10.64898/2026.11.09.765220",
+    "title": "Persistence of commensal Escherichia coli strains and plasmid transfer in a healthy adult",
+    "abstract": "Little is known about the ecological dynamics of Escherichia coli strains in the healthy human intestinal tract. Here, the composition of commensal E. coli in a healthy adult was tracked over 700 days. 100 E. coli isolates recovered directly from each of 21 faecal samples collected at monthly intervals were characterised. In total 15 strains were recovered; five were resistant to one or more antibiotics. Five \"persistent\" strains were found in multiple samples spanning 1- to 5-month periods. The relative abundance of persistent strains ranged from 1-100% of E. coli per sample, but they were dominant (>80%) in 14/21 samples and the only strain in 12. Complete genomes were determined for all strains, including isolates of persistent strains from their first and last appearances. Persistent strains belonged to phylogroups B2 (ST1236 and ST420), A (ST10 and ST93), or D (ST362). Single-sample strains were phylogroup A, B1, B2, D or F. Confirming extended survival in the gut, only minor changes were detected in the chromosomes of persistent strains over their residence periods. However, one lost a plasmid and two gained plasmids, providing evidence for horizontal gene transfer in the gut. A Z-type multidrug resistance plasmid moved from one persistent strain to the next and exchanged a small backbone region with a plasmid in the recipient. An M-type arsenic resistance plasmid was acquired by two different strains and transferred to laboratory E. coli with two co-resident plasmids. All persistent strains, but only 2/10 single-sample strains, carried one or more plasmid-borne bacteriocin determinants.",
+    "journal": "",
+    "doi": "10.64898/2026.11.09.765220",
+    "date": "2026-11-19",
+    "authors": "Moran, R. A., Hall, R. M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.09.765220v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5279,
+    "collected_at": "2026-11-19T13:13:10.696023+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.64898/2026.11.09.765220"
+    ],
+    "translation": {
+      "title": {
+        "hash": "71dd2852857dca05ef8b4ad3b7201ff24f9823524c62dce33597d82aec3f1168",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T14:04:52.912413+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b2e93449d34755180db6b851c0a741e2a8fed431c154324a5ce7026ebaed1d22",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T14:04:52.912413+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "健常成人における共生大腸菌株の持続性とプラスミド転移",
+    "abstract_ja": "健康なヒト腸管内における大腸菌（Escherichia coli）株の生態学的動態については、ほとんど解明されていない。本研究では、健康な成人における常在性大腸菌の組成を700日間にわたって追跡した。月単位で採取した21検体の糞便サンプルからそれぞれ直接回収した100株の大腸菌分離株を特性解析した。計15株が回収され、そのうち5株は1種類以上の抗生物質に耐性を示した。1～5か月の期間にわたる複数のサンプルにおいて、5株の「持続性」株が認められた。持続性株の相対存在量はサンプルあたり大腸菌の1～100%の範囲であったが、21検体中14検体で優位（>80%）であり、12検体では唯一の株であった。持続性株の分離株について、初回および最終出現時のものを含む全株の全ゲノムを決定した。持続性株は、フィログループB2（ST1236およびST420）、A（ST10およびST93）、またはD（ST362）に属していた。単一サンプル株は、フィログループA、B1、B2、DまたはFであった。腸内での長期生存が確認されたが、持続性株の染色体には、滞在期間を通じてわずかな変化しか検出されなかった。しかし、1株はプラスミドを喪失し、2株はプラスミドを獲得しており、これは腸内での水平遺伝子伝達の証拠となった。Z型多剤耐性プラスミドがある持続性株から別の持続性株へと移行し、受容株のプラスミドと小さなバックボーン領域を交換した。M型ヒ素耐性プラスミドは2つの異なる株によって獲得され、共在する2つのプラスミドとともに実験室の大腸菌へと移行した。すべての持続性株、および単一サンプル株の10株中2株のみが、1つ以上のプラスミド媒介性バクテリオシン決定因子を保有していた。"
+  },
+  {
+    "id": "10.64898/2026.11.18.767480",
+    "title": "History of coadaptation to the cag pathogenicity island in Helicobacter pylori",
+    "abstract": "Most Helicobacter pylori strains use genes encoded on the cag pathogenicity island (cagPAI) to inject the CagA oncoprotein into human cells, where it alters cell signalling and morphology to promote bacterial colonization. However, cag- H. pylori strains are found worldwide. Here, we use a global sample of >9,000 Helicobacter genomes to investigate how strains adapt to cag status. We identified variants genome-wide associated with cagPAI presence, including many in vacA and hopQ, as well as in genes not previously linked to cag. We use these variants to construct a cag polygenic coadaptation score, allowing us to systematically explore the dynamics and evolutionary history of the island. Score distribution is bimodal in many populations, showing there is a stable adaptive strategy associated with cag- status. However, these cag- coadapted variants have historically been unavailable to strains in East Asia, providing a potential explanation for the low frequency of cag- strains in this region. We also infer that the cagPAI arrived in H. pylori before the human populations which colonized Australia and Papua New Guinea split from other groups 50,000-70,000 years ago. Adaptation to the island in other populations was achieved in part by using existing variants from the Hardy ecospecies. Our study illustrates how gene coadaptation shapes pathogen evolution after import of a major virulence factor and highlights genetic configurations that may predict increased or decreased disease risk, informing eradication strategies.",
+    "journal": "",
+    "doi": "10.64898/2026.11.18.767480",
+    "date": "2026-11-19",
+    "authors": "Zang, X., Svensson, S. L., Falush, D.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.18.767480v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5280,
+    "collected_at": "2026-11-19T13:13:10.696023+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.64898/2026.11.18.767480"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0346a9cbbbefedf7c9fec70361059cfdad19d1e374880c1533a791c84c0d3c61",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T14:04:52.912413+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "00ea02480863142b593476158518465c84a15a1606d7b95b58348183cf07e722",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T14:04:52.912413+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ヘリコバクター・ピロリの病原性アイランドへの共適応の歴史",
+    "abstract_ja": "ほとんどのヘリコバクター・ピロリ菌株は、Cag病原性アイランド（cagPAI）にコードされた遺伝子を用いてCagAオンコタンパク質をヒト細胞に注入し、そこで細胞シグナル伝達や形態を変化させることで細菌の定着を促進する。しかし、cag-H. pylori菌株は世界中で検出されている。本研究では、9,000を超えるヘリコバクターゲノムのグローバルサンプルを用い、菌株がcag状態にどのように適応するかを調査した。我々は、in vacAやhopQの多くを含む、cagPAIの存在に関連するゲノムワイドな変異体に加え、これまでcagとの関連が指摘されていなかった遺伝子における変異体を同定した。これらの変異体を用いてcagポリジェニック共適応スコアを構築し、同アイランドの動態と進化史を系統的に解析した。スコアの分布は多くの集団において二峰性を示しており、cag状態に関連した安定した適応戦略が存在することが示された。しかし、これらのcag共適応変異体は、歴史的に東アジアの菌株には存在しておらず、これが同地域におけるcag菌株の出現頻度の低さを説明する潜在的な要因となっている。また、オーストラリアおよびパプアニューギニアに定着したヒト集団が他の集団から50,000～70,000年前に分岐する前に、cagPAIがH. pyloriに導入されたと推察される。他の集団における同アイランドへの適応は、一部にはハーディ生態種の既存の変異体を利用することで達成された。本研究は、主要な病原性因子の導入後に遺伝子共適応が病原体の進化をどのように形作るかを明らかにするとともに、疾患リスクの増減を予測し根絶戦略に資する可能性のある遺伝的構成を浮き彫りにした。"
   }
 ]
