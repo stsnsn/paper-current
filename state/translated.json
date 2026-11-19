@@ -302507,5 +302507,76 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "<i>Staphylococcus aureus</i>の謎の解明：今後のMRSAワクチン開発の指針となる知見",
     "abstract_ja": "要旨 抗生物質の広範な使用は、有症状および無症状で保菌している病原細菌における耐性の獲得を招く。抗生物質耐性菌（本総説では黄色ブドウ球菌に焦点を当てる）は、著しい罹患率および死亡率を引き起こし、世界的な医療体制に多大な負荷をかけている。ワクチン接種を受けた個人では、抗生物質で治療を受けた個人と比較して細菌が耐性機構を発達させる可能性が低く、抗生物質の使用を節約するための潜在的な手法が示唆される。しかし、1世紀以上にわたる研究にもかかわらず、黄色ブドウ球菌ワクチン候補はいまだ第III相臨床試験の段階を脱しておらず、成功する黄色ブドウ球菌ワクチンを開発するには、これまでの試みの不備に対する批判的な分析が必要である。最も成功した5つの黄色ブドウ球菌ワクチンプログラムを検討した結果、本総説では、今後の試みにおいて(i) 免疫逃避を回避するための多価性、(ii) 不適応性記憶を回避するための慎重に選定された抗原、(iii) 包括的な免疫応答を提供するためのT細胞標的化、(iv) 事前曝露モデルにおける複数の前臨床有効性評価指標の活用、および(v) 対象集団に適したワクチン製剤を含む、検討された臨床試験デザインを採用すべきであることが明らかになった。エピトープベースまたはナノ粒子ワクチンといった形態でこれらの特性を組み合わせることで、従来のワクチンプログラムの失敗を招いた問題を回避し、細菌がすべての抗生物質治療に耐性を持つ未来の到来から世界の人々を守る、有望な黄色ブドウ球菌ワクチンの開発の展望が開かれている。"
+  },
+  {
+    "id": "10.64898/2026.11.17.767431",
+    "title": "Benchmarking Machine Learning Methods for Antimicrobial Peptide Prediction and Discovery in Ancient Microbiomes",
+    "abstract": "Antimicrobial peptides (AMPs) offer a promising alternative to conventional antibiotics amid the growing global threat of antimicrobial resistance. Expanding AMP discovery requires both effective computational tools to accurately identify candidate peptides and access to underexplored biological resources that may harbor novel AMPs. However, the comparative performance of existing computational methods remains poorly understood, while ancient microbiomes have received limited attention as potential reservoirs of AMPs. Here, we systematically benchmarked six machine learning methods across with twelve feature configurations spanning sequence, structural, and protein language model features under a unified framework using eight curated AMP datasets. The best-performing methods were subsequently applied to three ancient metagenomic datasets representing the human gut (archaeological fecal sediments), human oral cavity (dental calculus), and mammoth-associated communities (teeth, skulls, and skin). In parallel, we employed reinforcement learning to select candidate peptides directly from ancient sequence pools without relying on modern AMP labels. Our benchmarking shows that protein language model embeddings provide the most informative features, and deep learning models, including convolutional, transformer-based, and recurrent architectures, outperform classical methods. Applying these models to ancient microbiomes identified candidates occupied the physicochemical space characteristic of AMPs but differed from those of candidates predicted from modern microbiome catalogs. We identified 111, 76, and 50 high-confidence candidate AMPs from the Neanderthal gut, ancient oral, and mammoth-associated communities, respectively. Reinforcement learning selected additional candidate AMPs with distinct properties compared with those predicted by models trained on modern AMP databases. Together, these findings establish a systematic benchmark for AMP prediction and highlight ancient microbiomes as an untapped source of antimicrobial peptide candidates. By integrating supervised machine learning with reinforcement learning, this study expands AMP discovery beyond modern microbiome catalogs and provides new opportunities to identify potentially novel AMPs.",
+    "journal": "",
+    "doi": "10.64898/2026.11.17.767431",
+    "date": "2026-11-18",
+    "authors": "Zhao, Q., Ma, Q., Luo, J., Chen, C., Ke, S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.17.767431v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomic",
+        "microbiome",
+        "microbiomes"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5245,
+    "collected_at": "2026-11-19T03:36:07.515198+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.64898/2026.11.17.767431"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ae5980eee3ba3d33d8c053ad436e4c16d617d8d462e5587da43486f051268d00",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T04:00:16.363554+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5a11944b5a150bd6af7bd7cfb5723600b9fde4f549856febf2b8eead247d35fb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T04:00:16.363554+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "古代マイクロバイオームにおける抗菌ペプチドの予測・探索に向けた機械学習手法のベンチマーク",
+    "abstract_ja": "薬剤耐性という世界的な脅威が高まる中、抗菌ペプチド（AMP）は、従来の抗生物質に代わる有望な選択肢となっている。AMPの探索を拡大するには、候補ペプチドを正確に同定するための効果的な計算ツールと、新規AMPを保有している可能性のある未開拓の生物学的リソースへのアクセスの両方が必要である。しかし、既存の計算手法の比較性能については十分に解明されておらず、一方で古代マイクロバイオームはAMPの潜在的なリザーバーとしてほとんど注目されてこなかった。本研究では、8つのキュレート済みAMPデータセットを用い、統一的なフレームワークの下で、配列、構造、およびタンパク質言語モデルの特徴量にわたる12種類の特徴量構成について、6つの機械学習手法を体系的にベンチマーク評価した。最も性能の高い手法を、ヒトの腸管（考古学的糞便堆積物）、ヒトの口腔（歯石）、およびマンモス関連コミュニティ（歯、頭蓋骨、皮膚）を代表する3つの古代メタゲノムデータセットに適用した。並行して、強化学習を用いて、現代のAMPラベルに依存することなく、古代配列プールから直接候補ペプチドを選択した。ベンチマーク評価の結果、タンパク質言語モデルの埋め込み表現が最も情報量の多い特徴量であり、畳み込み型、トランスフォーマーベース、およびリカレントアーキテクチャを含む深層学習モデルが、従来の手法を上回る性能を示すことが明らかになった。これらのモデルを古代マイクロバイオームに適用したところ、AMPに特徴的な物理化学的空間を占める候補が同定されたが、これらは現代のマイクロバイオームカタログから予測された候補とは異なっていた。ネアンデルタール人の腸管、古代口腔、およびマンモス関連コミュニティから、それぞれ111個、76個、50個の高信頼度の候補AMPを同定した。強化学習は、現代のAMPデータベースで訓練されたモデルが予測したものとは異なる特性を持つ追加の候補AMPを選択した。以上の知見を総合すると、本研究はAMP予測のための体系的なベンチマークを確立し、古代マイクロバイオームが未開拓の抗菌ペプチド候補源であることを浮き彫りにした。教師あり機械学習と強化学習を統合することで、本研究はAMPの探索を現代のマイクロバイオームカタログの枠を超えて拡大し、潜在的に新規なAMPを同定する新たな機会を提供するものである。"
   }
 ]
