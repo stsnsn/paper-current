@@ -306146,5 +306146,276 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "細菌とウイルスが連携し、藻類の大量発生の終息を早める。",
     "abstract_ja": "藻類の大発生は、炭素固定を促進し、海洋の食物網を支える重要な生態学的現象である。ウイルス感染によって、こうした発生が突如として終息することが多い。一部の細菌は感染した藻類細胞を感知し、ウイルスと相乗的に作用することで、大発生の崩壊を加速させることがある。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1963416",
+    "title": "Clinical characterization of the tongue-coating mycobiome in gout across clinical statuses",
+    "abstract": "BackgroundThe tongue-coating mycobiome remains poorly characterized in gout, particularly across different clinical statuses. This study aimed to characterize tongue-coating fungal communities in patients with gout and examine their associations with clinical status.MethodsIn this cross-sectional study, tongue-coating samples from 101 patients with gout and 14 healthy controls underwent fungal ITS1 sequencing. Patients were classified as having gout flare, intercritical gout, or chronic gouty arthritis. Fungal diversity, differential abundance, and clinical associations were evaluated using multivariable models and compositional sensitivity analyses. Exploratory functional prediction and random forest classification were also performed.ResultsOverall fungal diversity was largely comparable between patients with gout and healthy controls, with only small differences in community composition. Saccharomyces showed lower relative abundance in gout after false-discovery-rate correction (q = 0.012) and multivariable adjustment (q = 0.008). A random forest model based on Saccharomyces yielded an apparent AUC of 0.73, with a mean test-fold AUC of 0.784 under nested cross-validation. Exploratory functional prediction suggested differences in carbohydrate-processing and fungal cell-wall-related pathways. Across gout clinical statuses, alpha diversity remained similar, whereas community composition varied modestly. Candida was associated with clinical status after multivariable adjustment, including medication use, while Fusarium showed a flare-associated signal in the demographic-adjusted model.ConclusionTongue-coating fungal communities in gout exhibited selective genus-level associations despite limited overall community differences. Saccharomyces and Candida emerged as candidate fungal features associated with gout and clinical status, respectively. These findings provide a clinical basis for further investigation of tongue-coating mycobiome variation in gout.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1963416",
+    "date": "2026-11-19",
+    "authors": "Min Xiao",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1963416",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Candida",
+        "Saccharomyces",
+        "fungal"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5292,
+    "collected_at": "2026-11-19T21:41:59.717804+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.3389/fmicb.2026.1963416"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0640846a1ff56696d83649d5e598ff1e3d755e11f27c328e974733768254dc10",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T22:08:21.995834+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ded63093a03d9d9d997d88f2aa8a6ca3ea3643ec841cfef457e185fe1e7abc47",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T22:08:21.995834+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "臨床状態別の痛風における舌被覆菌叢の臨床的特性解析",
+    "abstract_ja": "背景 痛風における舌被覆菌叢は、特に異なる臨床状態間において十分に解明されていない。本研究では、痛風患者における舌被覆真菌群集を特性評価し、それらと臨床状態との関連性を検討することを目的とした。方法 本横断的研究では、痛風患者101例および健常対照群14例から採取した舌被覆検体に対し、真菌ITS1シーケンシングを実施した。患者は、痛風再燃期、間欠期痛風、または慢性痛風性関節炎に分類した。真菌の多様性、存在量差、および臨床的関連性を、多変数モデルおよび組成感度解析を用いて評価した。また、探索的機能予測およびランダムフォレスト分類も実施した。結果 全体的な真菌多様性は、痛風患者と健常対照群の間で概ね同等であり、群集組成の差はわずかであった。Saccharomycesは、偽発見率補正（q = 0.012）および多変数調整（q = 0.008）後において、痛風患者群で相対存在量が低いことが示された。Saccharomycesに基づくランダムフォレストモデルでは、見かけのAUCは0.73であり、入れ子型交差検証における平均テストフォールドAUCは0.784であった。探索的機能予測では、糖処理経路および真菌細胞壁関連経路に差異があることが示唆された。痛風の臨床状態にかかわらず、アルファ多様性は同程度であった一方、群集組成にはわずかな変動が認められた。多変数調整後、Candidaは薬剤使用を含む臨床状態と関連していたのに対し、Fusariumは人口統計学的調整モデルにおいて再燃に関連するシグナルを示した。結論 痛風における舌被覆真菌群集は、全体的な群集差は限定的であるものの、属レベルでの選択的な関連性を示した。SaccharomycesおよびCandidaは、それぞれ痛風および臨床状態に関連する真菌の特徴候補として浮上した。これらの知見は、痛風における舌被覆菌叢の多様性に関するさらなる調査のための臨床的根拠となるものである。"
+  },
+  {
+    "id": "10.1038/s41467-026-79487-5",
+    "title": "Disturbance increases soil microbiome functional redundancy but decreases capacity for insurance via winnowed environmental responsiveness",
+    "abstract": "More redundancy doesn’t always mean more resilience. Here, the authors use seven-year-long metagenomics data from soils above Centralia’s coal seam fire to show that heat disturbance increases microbial functional redundancy but narrows environmental responsiveness, potentially lowering insurance against future stress.",
+    "journal": "Nature Communications",
+    "doi": "10.1038/s41467-026-79487-5",
+    "date": "2026-11-19",
+    "authors": "Ashley Shade",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.nature.com/articles/s41467-026-79487-5",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomics",
+        "microbial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.nature.com/ncomms.rss",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5296,
+    "collected_at": "2026-11-19T21:41:59.717804+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "https://www.nature.com/ncomms.rss"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.1038/s41467-026-79487-5"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0d79339d20bd1d6dff24ccec27318a23a7cbfac0b8a0be725db6261f24064f12",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T22:08:21.995834+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "acf60326d3522029f5e1c9f02055fb2253dea9416b85e1f099e31acba7679909",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T22:08:21.995834+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "撹乱は土壌微生物叢の機能的冗長性を高める一方で、淘汰された環境応答性を介して保険機能を低下させる。",
+    "abstract_ja": "冗長性が高ければ必ずしもレジリエンスが高まるとは限らない。本研究において、著者らはセントラリアの炭層火災後の土壌から得られた7年間にわたるメタゲノミクスデータを用い、熱攪乱が微生物の機能的冗長性を高める一方で環境応答性を低下させ、将来のストレスに対する耐性を低下させる可能性があることを示した。"
+  },
+  {
+    "id": "10.1038/s41579-026-01398-5",
+    "title": "A new path to sporulation",
+    "abstract": "In this study, Ramirez Carbo and colleagues uncover a new regulatory mechanism of sporulation in non-Firmicutes involving peptidoglycan degradation.",
+    "journal": "Nature Reviews Microbiology",
+    "doi": "10.1038/s41579-026-01398-5",
+    "date": "2026-11-19",
+    "authors": "Agustina Taglialegna",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.nature.com/articles/s41579-026-01398-5",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.nature.com/nrmicro.rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5341,
+    "collected_at": "2026-11-19T21:41:59.717804+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "https://www.nature.com/nrmicro.rss"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.1038/s41579-026-01398-5"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9594b4fc3a53ddea715d8b817254e0ede75724859f7d8a1fda05967cb43a63a9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T22:08:21.995834+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d24bf77fefea575cfc416a2439aa900c78e1943204f93f85749d147b57e41d30",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T22:08:21.995834+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "胞子形成への新たな経路",
+    "abstract_ja": "本研究において、Ramirez Carboらは、ペプチドグリカン分解が関与する非フィルミクテス門における胞子形成の新たな調節機構を明らかにした。"
+  },
+  {
+    "id": "10.1038/s41522-026-01197-z",
+    "title": "Metagenomic characterization of supragingival and salivary microbiotas during initiation and resolution of experimental gingivitis",
+    "abstract": "Metagenomic characterization of supragingival and salivary microbiotas during initiation and resolution of experimental gingivitis",
+    "journal": "npj Biofilms and Microbiomes",
+    "doi": "10.1038/s41522-026-01197-z",
+    "date": "2026-11-19",
+    "authors": "Daniel Belstrøm",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.nature.com/articles/s41522-026-01197-z",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomic",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.nature.com/npjbiofilms.rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5339,
+    "collected_at": "2026-11-19T21:41:59.717804+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "https://www.nature.com/npjbiofilms.rss"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.1038/s41522-026-01197-z"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a8a090612ed33e512de0ef03c76de08c14075daf012f152f6803d797c1998c0d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T22:08:21.995834+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a8a090612ed33e512de0ef03c76de08c14075daf012f152f6803d797c1998c0d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T22:08:21.995834+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "実験的歯肉炎の発症および消失過程における歯肉上および唾液中微生物叢のメタゲノム特性解析",
+    "abstract_ja": "実験的歯肉炎の発症および消失過程における歯肉上および唾液中微生物叢のメタゲノム特性解析"
   }
 ]
