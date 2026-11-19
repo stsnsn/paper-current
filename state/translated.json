@@ -303699,5 +303699,307 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "Karmii：頑健な微生物分離株同定のためのKrakenベースの手法。",
     "abstract_ja": "微生物分離株の正確な同定および培養純度の確認は、再現性のある研究成果を導き出し、微生物コレクションの長期的な信頼性を確保するための不可欠な前提条件である。ゲノムデータは、特に他の解析手法では生物種を同定できない場合において、分離株の分類学的同定および純度評価に関する高品質かつ堅牢な結果を得るための理想的な手段となる。しかし、マーカー遺伝子やANIを用いたアセンブル済み配列に基づく解析では、未アセンブルのリードや破棄されたコンティグにのみ存在するコンタミネーションが見落とされる可能性がある。本稿では、短リードまたは長リードデータからシーケンシングされた分離株の種同定および純度を確認するために設計された、Kraken 2ベースのワークフロー「Karmii」を提案する。本手法の特筆すべき点は、2段階のプロセスで単一分離株のリードをクエリすることにある。まず汎用データベースに対してクエリを行い、候補種のショートリストを作成し、次に事前に選定した単一種データベースに対してクエリを行う。リードを単一の種のみに分類することで、純度と堅牢な同定を強く裏付けることができる。結果は、分類の厳密度が高まるにつれて、テストした全種における分類済みリードの割合を示す直感的なプロットにまとめられる。意思決定の指針として閾値が用いられる。信頼性の高い結果を得るためには、リファレンスデータベースの構成が極めて重要であり、矛盾する分類学的アノテーションを排除しつつ、表現される多様性を最大化しなければならない。そこで本稿では、解析を支援するための、リソース効率が高く包括的かつキュレーション済みのリファレンスデータベースを構築する手順についても説明する。プロカリオート分離株解析のための本ワークフローのNextflow実装を、本稿に付随して提供する。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.2012855",
+    "title": "Preliminary serological evidence of exposure to relapsing fever-associated Borrelia among individuals with persistent or recurrent febrile illness in Sokoto state, Nigeria",
+    "abstract": "BackgroundRelapsing fever (RF) is a neglected vector-borne disease caused by diverse Borrelia species and is characterized by recurrent febrile episodes that are often misdiagnosed as malaria and other common febrile illnesses. Despite ecological conditions favorable for tick-borne pathogen transmission, data on human exposure to RF Borrelia in Nigeria remain scarce. This study investigated the seroprevalence of anti-Borrelia antibodies among individuals in Sokoto State, Nigeria.MethodsIn this cross-sectional study, 445 plasma samples collected in Sokoto State, Nigeria, were screened for anti-Borrelia IgM and IgG antibodies using an evaluated ELISA based on CihC and GlpQ antigens. Data were analyzed using appropriate statistical methods, with associations between sociodemographic characteristics and serological status assessed using the chi-square or Fisher’s exact tests, followed by multivariable binary logistic regression.ResultsOf 445 participants, 70 (15.7%) were anti-Borrelia IgM-positive and 26 (5.8%) were IgG-positive. Four participants were positive for both antibody classes. IgM status was significantly associated with age (p = 0.038), while IgG status was associated with age (p = 0.004), occupation (p = 0.003), housing type (p < 0.001), and recruitment site (p < 0.001). Adjusted analyses showed lower IgM positivity odds among participants aged ≤14 years (aOR = 0.189, p = 0.004) and housewives (aOR = 0.300, p = 0.024). Mud-house residents had lower adjusted odds of IgG positivity (aOR = 0.167, p < 0.001).ConclusionThis study provides the first serological evidence of human exposure to RF Borrelia in Nigeria. The findings indicate both recent and past exposure within the study population and highlight the need for improved surveillance, diagnostic capacity, and further epidemiological studies to clarify the burden of relapsing fever in the country.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.2012855",
+    "date": "2026-11-19",
+    "authors": "Peter Kraiczy",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.2012855",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5264,
+    "collected_at": "2026-11-19T13:13:10.696023+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.3389/fmicb.2026.2012855"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b2014fe67b97c16934f711c77ba845519f589e0ed3bfd5e6969308bf41874937",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T13:48:48.809256+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a6a02b34135cefd84742061d7b89a159bf4f58d10d14ebcbbc7de48bad443e21",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T13:48:48.809256+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ナイジェリア・ソコト州における持続性または再発性の発熱性疾患を有する患者における、回帰熱関連ボレリアへの曝露を示す血清学的予備的所見",
+    "abstract_ja": "背景再発熱（RF）は、多様なボレリア属菌によって引き起こされる顧みられない媒介生物感染症であり、反復性の発熱エピソードを特徴とする。これらのエピソードは、マラリアやその他の一般的な発熱性疾患と誤診されることが多い。マダニ媒介性病原体の伝播に好適な生態学的条件が整っているにもかかわらず、ナイジェリアにおけるRFボレリアへのヒトの曝露に関するデータは依然として乏しい。本研究では、ナイジェリアのソコト州の住民を対象に、抗ボレリア抗体の血清有病率を調査した。方法本横断的研究では、ナイジェリアのソコト州で採取された445検体の血漿を用い、CihCおよびGlpQ抗原に基づく評価済みELISA法により抗ボレリアIgMおよびIgG抗体のスクリーニングを行った。データは適切な統計手法を用いて解析し、社会人口統計学的特性と血清学的状態との関連をカイ二乗検定またはフィッシャーの正確確率検定で評価した後、多変数二値ロジスティック回帰分析を行った。結果参加者445例のうち、70例（15.7%）が抗ボレリアIgM陽性、26例（5.8%）がIgG陽性であった。4例は両抗体クラスで陽性であった。IgMの状態は年齢と有意に関連しており（p = 0.038）、IgGの状態は年齢（p = 0.004）、職業（p = 0.003）、住居形態（p < 0.001）、および募集場所（p < 0.001）と関連していた。調整解析の結果、14歳以下の参加者（aOR = 0.189, p = 0.004）および主婦（aOR = 0.300, p = 0.024）において、IgM陽性の調整オッズが低かった。泥小屋の居住者では、IgG陽性の調整オッズが低かった（aOR = 0.167, p < 0.001）。結論本研究は、ナイジェリアにおけるRFボレリアへのヒトの曝露に関する初の血清学的証拠を提供するものである。本知見は、研究対象集団における最近および過去の曝露の両方を示しており、国内における再発熱の負担を明らかにするための、サーベイランス、診断能力の向上、およびさらなる疫学研究の必要性を強調するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 6",
+        "query": "(JOURNAL:\"Microbial Genomics\" OR JOURNAL:\"Microbiology\" OR JOURNAL:\"Aquatic Microbial Ecology\" OR JOURNAL:\"PNAS\" OR JOURNAL:\"PLOS Biology\" OR JOURNAL:\"PLOS Genetics\" OR JOURNAL:\"Genome Research\" OR JOURNAL:\"Genome Biology\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1099/mgen.0.001891",
+    "title": "Metabologenomic assessment of biosynthetic capabilities in the genus <i>Salinibacterium</i>: untapped bioactive chemistry produced by marine strain AL4.1 isolated in the Chilean Patagonia.",
+    "abstract": "Antimicrobial resistance represents one of the most critical global public health challenges. Increasing evidence suggests that rare actinomycetes can harbour novel biosynthetic diversity to produce antimicrobial compounds. This work explores the capabilities for the biosynthesis of antimicrobial natural products of Salinibacterium sp. AL4.1, in contrast with those of Salinibacterium sp. VpJ6, through a comparative metabologenomic approach. Comparative bioactivity tests using both Salinibacterium strains AL4.1 and VpJ6 revealed antimicrobial bioactivity of crude extracts from strain AL4.1 against Staphylococcus aureus. Liquid chromatography coupled with tandem mass spectrometry was performed on the tested samples, allowing for metabolite dereplication as well as identification of bioactivity-associated features. This revealed the presence of potential aromatic polyketides structurally related to known bioactive compounds such as phloretin, for which bacterial production had not been reported to date, as well as other potentially novel alkaloids and peptides. The genomes of both strains were sequenced and mined for their biosynthetic capabilities and further compared to those of other Salinibacterium strains with available genomic data. Phylogenomic studies suggested that both strains AL4.1 and VpJ6 could represent potentially new species. A mainly phylogeny-dependent distribution of biosynthetic gene clusters (BGCs) was observed, emphasizing the presence of a widely distributed type III polyketide synthase BGC, which could be linked to the bioactive compounds. These results suggest that Salinibacterium sp. AL4.1 can produce novel bioactive natural products, and the genus Salinibacterium holds relevant and underexplored biosynthetic potential.",
+    "journal": "Microbial Genomics",
+    "doi": "10.1099/mgen.0.001891",
+    "date": "2026-11-01",
+    "authors": "Sánchez-Carvajal E, Serna-Cardona N, Claverías FP, Vargas N, Dacal-Barahona T, González V, González-Sanabria M, Parra J, Cámara B.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43049511",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43049511",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenomic",
+          "phylogeny"
+        ],
+        "evolution": [
+          "phylogeny"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 5144,
+    "collected_at": "2026-11-19T13:02:39.396497+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "Europe PMC journals 6"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.1099/mgen.0.001891"
+    ],
+    "translation": {
+      "title": {
+        "hash": "fdc3782271e3837797f379d786e1a66f149b9a92597fc40e38c74f86f5e5314f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T13:48:48.809256+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "807133dafafe26af320b4698af34e11d0284b83a761559a987ac9cff580f879d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T13:48:48.809256+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "<i>Salinibacterium</i>属における生合成能のメタボロミクス解析：チリ・パタゴニアで分離された海洋株AL4.1が産生する未開拓の生物活性化学。",
+    "abstract_ja": "薬剤耐性は、世界的に最も重大な公衆衛生上の課題の一つである。希少な放線菌が新規の生合成多様性を有し、抗菌化合物を産生し得ることを示唆する証拠が増えつつある。本研究では、比較メタボロゲノミック手法を用いて、Salinibacterium sp. AL4.1における抗菌天然物の生合成能を、Salinibacterium sp. VpJ6のものと対比して検討した。Salinibacterium株AL4.1およびVpJ6の両方を用いた比較生物活性試験により、株AL4.1の粗抽出液が黄色ブドウ球菌に対して抗菌生物活性を有することが明らかとなった。試験サンプルに対して液体クロマトグラフィーとタンデム質量分析法を組み合わせた解析を行い、代謝物の脱レプリケーションおよび生物活性に関連する特徴の同定を行った。その結果、フロレチンなどの既知の生物活性化合物と構造的に関連し、これまで細菌による産生が報告されていなかった潜在的な芳香族ポリケチドのほか、その他の潜在的な新規アルカロイドやペプチドの存在が明らかになった。両株のゲノムを配列決定して生合成能を解析し、さらにゲノムデータが利用可能な他のSalinibacterium株と比較した。系統ゲノム学的研究により、株AL4.1およびVpJ6の双方が潜在的な新種である可能性が示唆された。生合成遺伝子クラスター（BGC）の分布は主に系統に依存していることが観察され、生物活性化合物に関連し得る、広く分布するタイプIIIポリケチド合成酵素BGCの存在が強調された。これらの結果は、Salinibacterium sp. AL4.1が新規の生物活性天然物を産生し得ること、およびSalinibacterium属が関連性が高く、かつ十分に探索されていない生合成能を有していることを示唆している。"
+  },
+  {
+    "id": "10.1186/s40168-026-02576-6",
+    "title": "STMetaDB: an integrated spatial metatranscriptomics web server and database for microbiome and host-microbe interactions",
+    "abstract": "Background\n                     The mammalian body harbors trillions of microbes that interact dynamically with host tissues, shaping health and disease. However, methodological constraints limit spatial insights into these host-microbe interactions, a gap that hinders progress in understanding microbiota-driven biological processes.\n                  \n                     Results\n                     STMetaDB (https://stmetadb.jflab.ac.cn:8084) is an integrated database and web server for spatial metatranscriptomics, enabling systematic exploration of microbiome composition and host–microbe molecular interactions within tissue microenvironments. It integrates 643 validated spatial transcriptomic datasets across multiple human and mouse tissues, identifying diverse microbial genera and their spatial links to host transcriptional programs. Key features include differential gene expression analysis in microbial-enriched regions, cross-tissue colonization pattern mapping, and knowledge graphs linking microbial-associated genes to protein mutations, pathways, and diseases.\n                  \n                     Conclusions\n                     STMetaDB fills the spatial insight gap, providing a transformative platform to investigate microbiota-driven spatial heterogeneity in cancer progression, immune microenvironment modulation, and precision therapeutic strategies.\n                     \nVideo Abstract",
+    "journal": "Microbiome",
+    "doi": "10.1186/s40168-026-02576-6",
+    "date": "2026-11-19",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s40168-026-02576-6",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metatranscriptom",
+        "metatranscriptomics",
+        "microbe",
+        "microbes",
+        "microbial",
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=40168",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5270,
+    "collected_at": "2026-11-19T13:13:10.696023+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=40168"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.1186/s40168-026-02576-6"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c0bd6639539b8c9cafbeee62a4d38ec5ff91692d7c6e83bec75c2b1c12207ca7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T13:48:48.809256+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "32560ff89f2a80c7e67a10ef16fe4bcfa0a43f1e39676be6c2cfcb5f8da556a4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T13:48:48.809256+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "STMetaDB：マイクロバイオームと宿主・微生物間相互作用のための統合型空間メタトランスクリプトミクスウェブサーバーおよびデータベース",
+    "abstract_ja": "背景\n                     哺乳類の体内には数兆個もの微生物が存在し、宿主組織と動的に相互作用することで健康と疾患を規定している。しかし、手法上の制約からこうした宿主－微生物間相互作用に関する空間的な知見を得ることは困難であり、このギャップが微生物叢主導の生物学的プロセスの解明における進展を妨げている。\n                  \n                     成果\n                     STMetaDB (https://stmetadb.jflab.ac.cn:8084) は、空間メタトランスクリプトミクスのための統合データベースおよびウェブサーバーであり、組織微小環境におけるマイクロバイオーム組成と宿主－微生物間の分子相互作用の系統的な探索を可能にする。本データベースは、ヒトおよびマウスの複数の組織にわたる643件の検証済み空間トランスクリプトームデータセットを統合しており、多様な微生物属と、それらと宿主の転写プログラムとの空間的な関連性を同定している。主な特徴として、微生物濃縮領域における遺伝子発現変動解析、組織間コロニー形成パターンのマッピング、および微生物関連遺伝子をタンパク質変異、パスウェイ、疾患に結びつけるナレッジグラフが挙げられる。\n                  \n                     結論\n                     STMetaDBは空間的知見のギャップを埋めるものであり、がんの進行、免疫微小環境の調節、および精密治療戦略における微生物叢主導の空間的不均一性を調査するための革新的なプラットフォームを提供する。\n                     \nビデオ抄録"
+  },
+  {
+    "id": "10.1093/nar/gkag1078",
+    "title": "PlanMine 4.0: an updated database for planarian genomics and transcriptomics",
+    "abstract": "AbstractPlanMine is a web-based resource designed to facilitate bioinformatics analyses of genome, transcriptome, and gene expression datasets from planarians, free-living flatworms most well known for their large population of adult stem cells and extraordinary regenerative capabilities. This update incorporates high-quality genome sequences and annotations for multiple species in the widely studied Schmidtea genus, including both sexual and asexual strains of the model planarian Schmidtea mediterranea, while also expanding coverage of transcriptomes across the phylum Platyhelminthes (flatworms) to 70 species. New expression studies and tools are added to aid in the visualization and analysis of both bulk and single-cell RNA-seq data. Together, these resources will further empower complementary mechanistic studies in S. mediterranea and comparative approaches exploring the evolution of regeneration, parasitism, and other traits for which this increasingly tractable phylum represents an ideal model system. The PlanMine 4.0 database is freely accessible at https://planmine-v4.mpinat.mpg.de.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1078",
+    "date": "2026-11-19",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1078/9097199?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "database",
+        "genomic",
+        "transcriptomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "evolution",
+          "genom",
+          "genome",
+          "genomic",
+          "transcript"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5246,
+    "collected_at": "2026-11-19T13:13:10.696023+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.1093/nar/gkag1078"
+    ],
+    "translation": {
+      "title": {
+        "hash": "68a126a2336a4c29896d437760d6aaca53c7d553d4b4c2e8489cd7a003f1c201",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T13:48:48.809256+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "397dd7ac98452318be3e1450d44987a1ae890e72eb3eb19c88ca4cf2df9c3481",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T13:48:48.809256+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "PlanMine 4.0：プラナリアのゲノミクスおよびトランスクリプトミクスのための更新版データベース",
+    "abstract_ja": "概要PlanMineは、成体幹細胞の膨大な集団と驚異的な再生能力で知られる自由生活性扁形動物であるプラナリアの、ゲノム、トランスクリプトーム、および遺伝子発現データセットのバイオインフォマティクス解析を容易にするために設計されたウェブベースのリソースである。本アップデートでは、広く研究されているSchmiedtea属の複数種（モデルプラナリアであるSchmiedtea mediterraneaの有性株および無性株の両方を含む）の高品質なゲノム配列とアノテーションを組み込んだほか、扁形動物門（Platyhelminthes）全体のトランスクリプトームのカバー範囲を70種まで拡大した。また、バルクおよびシングルセルRNA-seqデータの可視化と解析を支援するため、新たな発現解析研究とツールを追加した。これらのリソースを統合することで、S. mediterraneaにおける相補的な機構研究や、再生、寄生、およびその他の形質の進化を探究する比較アプローチがさらに促進される。この門は、取り扱いがますます容易になっており、理想的なモデル系となっている。PlanMine 4.0データベースは、https://planmine-v4.mpinat.mpg.de で無料で利用可能である。"
   }
 ]
