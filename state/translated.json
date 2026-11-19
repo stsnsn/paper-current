@@ -305129,5 +305129,283 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "P2CS-Web: 原核生物の二成分系の比較探索のための更新版リソース",
     "abstract_ja": "概要P2CS-Web (https://www.p2cs.org) は、ゲノムワイドな2成分系（TCS）レパートリーを、タンパク質ドメイン構造、ゲノム近傍領域、および配列同一性クラスターに紐付ける。今回のリリースでは、392,075件の細菌ゲノムと、25,663,653件のTCS関連遺伝子を網羅しており、その中にはヒスチジンキナーゼ（HK）をコードする12,517,906件と、応答調節因子（RR）をコードする12,774,395件が含まれる。HKおよびRRタンパク質配列は、それぞれ2,931,715件および2,479,169件の配列クラスターにグループ化されており、各クラスターは単一の配列で表される。ゲノム、遺伝子、およびクラスターの各ページでは、これらのアノテーションにメンバー分類および局所的な遺伝子構成が組み合わされている。さらに、一次アノテーションにHisKAドメインが欠如しているHK候補に対し、18種類のHisKA様プロファイルHMMを適用するアノテーションレイヤーが設けられている。得られたマッチ結果は、元の分類およびドメイン座標と照合して確認できる。ゲノムおよびクラスターの比較、代表配列アライメント、設定可能なエクスポート機能、およびバージョン管理されたAPIにより、ユーザーはTCSの多様性を調査し、後続の解析のために配列および関連アノテーションをダウンロードすることが可能である。"
+  },
+  {
+    "id": "10.1093/nar/gkag1234",
+    "title": "The International Nucleotide Sequence Database Collaboration (INSDC): sustaining open sequence data at global scale",
+    "abstract": "AbstractThe International Nucleotide Sequence Database Collaboration (INSDC; http://www.insdc.org/) provides global infrastructure for the collection, preservation, and dissemination of nucleotide sequence data through its three member organizations. As the collaboration approaches four decades of three-way data exchange, continued growth in both the volume and geographic distribution of data is creating new challenges. Cumulative volume now stands at over 75 PB, having doubled approximately every 2.5 years over the past decade. Data reuse is extensively demonstrated by the 39 055 publications citing INSDC records in the 12 months to August 2026. The INSDC has established a new governance structure and a formal pathway for membership, supported by minimal technical specifications that enable independently developed systems to interoperate. Prospect members are now progressing through this pathway. The collaboration is also responding to an evolving policy landscape, which needs to be balanced with its founding commitment to free and unrestricted access. Looking ahead, the INSDC is exploring more scalable approaches to data storage and federation, strengthening approaches to attribution and reuse, and considering applications of artificial intelligence for metadata enrichment and submission support. Altogether, these developments aim to sustain an open, global, and interoperable nucleotide sequence archive.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1234",
+    "date": "2026-11-19",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1234/9097187?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "database",
+        "nucleotide",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "database",
+          "nucleotide",
+          "sequence"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5258,
+    "collected_at": "2026-11-19T13:13:10.696023+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.1093/nar/gkag1234"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5ec4954bceaf56bf900e62423d36178692805cb61d3d87efd154aba1b0f15ba1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T14:02:23.935065+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "14ec6458cb68c9e660b7d8ab93e84cbb7cb11032e77dece6dede31d75577f5d2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T14:02:23.935065+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "国際塩基配列データベース共同利用機関（INSDC）：世界規模でのオープン配列データの維持",
+    "abstract_ja": "要旨 国際塩基配列データベース・コラボレーション（INSDC; http://www.insdc.org/）は、3つの加盟組織を通じて、塩基配列データの収集、保存、および普及のためのグローバルなインフラストラクチャを提供している。本コラボレーションが3者間のデータ交換において40年を迎えようとする中、データ量と地理的分布の双方が拡大し続けており、新たな課題が生じている。累積データ量は現在75 PBを超えており、過去10年間にわたり約2.5年ごとに倍増してきた。データの再利用は、2026年8月までの12か月間にINSDCのレコードを引用した39,055件の論文によって広く実証されている。INSDCは、独自に開発されたシステム間の相互運用を可能にする最小限の技術仕様に裏打ちされた、新たなガバナンス体制と正式なメンバーシップ・パスウェイを構築した。現在、プロスペクトメンバーはこのパスウェイの手続きを進めている。また、本コラボレーションは、自由かつ無制限なアクセスという設立時の理念とのバランスを図る必要がある、変化し続ける政策環境にも対応している。今後、INSDCはデータストレージとフェデレーションに関するよりスケーラブルなアプローチを模索し、帰属表示と再利用の手法を強化するとともに、メタデータの拡充および提出支援への人工知能の活用を検討している。総じて、これらの取り組みは、オープンでグローバル、かつ相互運用可能な塩基配列アーカイブの維持を目的としている。"
+  },
+  {
+    "id": "10.1093/nar/gkag1199",
+    "title": "MetaboLights in 2027: public metabolomics data at scale",
+    "abstract": "AbstractOpen data policies and data sharing in the metabolomics field continue to increase. MetaboLights (https://www.ebi.ac.uk/metabolights) is a global, open-access data repository for metabolomics and related fields such as lipidomics and exposomics, hosting experimental data and associated metadata across species, methodologies, and domains. Here we describe significant developments in MetaboLights over the past 3 years to improve data submission, access, and discovery, and strengthen integration of public metabolomics data with other omics data types. As of September 2026, the number of completed submissions to MetaboLights reached ~6900, and of those ~3400 were publicly released. Overall, 91% of datasets were generated using mass spectrometry and 7% using nuclear magnetic resonance spectroscopy. A new submission workflow has been introduced along with significant improvements in infrastructure, such as a new data transfer protocol for very large datasets (Globus), a new home page, and an automated study validation framework, among others. We also describe current trends in reuse of MetaboLights datasets and in the field as a whole. Finally, we outline future plans towards better data submission and metadata capture, the coordination with other metabolomics data resources through MetabolomicsHub, and the planned activities related to AI (artificial intelligence).",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1199",
+    "date": "2026-11-19",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1199/9097186?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5259,
+    "collected_at": "2026-11-19T13:13:10.696023+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.1093/nar/gkag1199"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3cd4c5b00612273842d3155be1d7106b94df4956137b35bbbe6f369e1ba78b3a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T14:02:23.935065+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c7fc720505b9046d50ecea5efa8937019d8a11c7c9755a86fc838195af2b5f5c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T14:02:23.935065+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "2027年のMetaboLights：大規模な公開メタボロミクスデータ",
+    "abstract_ja": "要旨 メタボロミクス分野におけるオープンデータポリシーとデータ共有は拡大し続けている。MetaboLights（https://www.ebi.ac.uk/metabolights）は、メタボロミクスおよびリピドミクスやエクスポミクスなどの関連分野を対象としたグローバルなオープンアクセスデータリポジトリであり、種、手法、ドメインを横断して実験データおよび関連メタデータをホストしている。本稿では、データの投稿、アクセス、および探索の改善、ならびに公開メタボロミクスデータと他のオミクスデータタイプとの統合強化に向けて、過去3年間にMetaboLightsで実現した重要な進展について述べる。2026年9月時点で、MetaboLightsへの投稿完了数は約6,900件に達し、そのうち約3,400件が一般公開された。全体として、データセットの91%が質量分析法を用いて、7%が核磁気共鳴分光法を用いて生成された。新たな投稿ワークフローが導入されたほか、超大規模データセット向けの新しいデータ転送プロトコル（Globus）、新しいホームページ、自動研究検証フレームワークなど、インフラストラクチャの大幅な改善が行われた。また、MetaboLightsデータセットおよび分野全体における再利用の現状の動向についても述べる。最後に、より優れたデータ投稿とメタデータ取得に向けた今後の計画、MetabolomicsHubを通じた他のメタボロミクスデータリソースとの連携、およびAI（人工知能）に関連する計画的な活動について概説する。"
+  },
+  {
+    "id": "10.64898/2026.11.17.767253",
+    "title": "EFFECT OF A LACTOBACILLUS POSTBIOTIC ON DIGESTIVE HEALTH IN DOGS RAISED IN CONDITIONS AT RISK OF GIARDIA DUODENALIS INFECTION",
+    "abstract": "Giardia duodenalis infection is associated with diarrhea and dysbiosis in dogs, while metronidazole treatment can further disrupt the microbiota. We evaluated adjunctive LB fermentate HF (LBHF), a Lactobacillus-derived postbiotic, in a randomized, blinded, placebo-controlled study of 30 naturally infected dogs (Terriers). Animals received metronidazole (50 mg/kg/day) with LBHF (50 mg/kg/day) or microcrystalline cellulose placebo (70 mg/kg/day) for 21 days. Clinical outcomes, fecal biomarkers, canine dysbiosis index, and cyst shedding were monitored over 45 days. Fecal shotgun metagenomics was performed at baseline and day 45. After baseline covariate adjustment, LBHF was associated with significantly lower Giardia burdens during treatment, particularly at days 10 and 20, improved fecal consistency, and reduced odor. No significant effects were found for fecal calprotectin, secretory IgA, blood biomarkers of digestive function, or canine dysbiosis index. Overall microbiome turnover was similar between groups, but multivariate analyses identified distinct treatment-associated community trajectories. LBHF was associated with increased Bacteroidota representation and functional capacity for plant polysaccharide degradation, alongside depletion of gene sets involved in flagellar assembly, quorum sensing, biofilm formation, and epithelial-cell signaling. Baseline microbiome composition also predicted Giardia burden, highlighting an association between parasite load and bacterial community structure. Adjunctive LBHF supplementation was associated with faster resolution of canine giardiasis, improved fecal quality, and coordinated microbiome remodeling. Further mechanistic studies are needed to establish whether the observed microbiome functional changes contribute to parasite clearance and recovery of intestinal health.",
+    "journal": "",
+    "doi": "10.64898/2026.11.17.767253",
+    "date": "2026-11-19",
+    "authors": "Eckhardt, E., Andreu-Sanchez, S., van den berg, M. A., Boucard, A.-S., Tamasi, B., Klein, B., Pagani, E., Espuche, D., Chevilot, A., Kurtz, M., Lagofun, B., Deshuillers, P. L., Le Roux, D., Cochet-Faivre, N., Polack, B., Mammeri, M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.17.767253v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "metagenom",
+        "metagenomics",
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5277,
+    "collected_at": "2026-11-19T13:13:10.696023+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.64898/2026.11.17.767253"
+    ],
+    "translation": {
+      "title": {
+        "hash": "85b2cc55ca548d4ec4aafa581463a97aa58fa11e6943c4ed7183790354eaf451",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T14:02:23.935065+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8994107138faaf107b23bd0d54a733dac49e4a22844531a6a657164ce3abba51",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T14:02:23.935065+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ジアルジア・ドゥオデナリ感染のリスクがある環境で飼育されたイヌにおけるラクトバチルス属ポストバイオティクスが消化器系の健康に及ぼす影響",
+    "abstract_ja": "Giardia duodenalis感染は犬において下痢やディスバイオーシスに関連しており、メトロニダゾール治療はさらに微生物叢を乱す可能性がある。我々は、自然感染した犬（テリア種）30頭を対象としたランダム化盲検プラセボ対照試験において、ラクトバチルス由来のポストバイオティクスであるLB発酵物HF（LBHF）の併用効果を評価した。動物には、メトロニダゾール（50 mg/kg/日）にLBHF（50 mg/kg/日）または微結晶セルロースプラセボ（70 mg/kg/日）を併用して21日間投与した。臨床転帰、糞便バイオマーカー、犬のディスバイオーシス指数、および嚢胞排出を45日間にわたりモニタリングした。ベースライン時および45日目に糞便ショットガンメタゲノミクスを実施した。ベースライン時の共変量調整後、LBHFは治療中、特に10日目および20日目において、Giardia負荷量の有意な低下、糞便性状の改善、および臭気の軽減に関連していた。糞便カルプロテクチン、分泌型IgA、消化機能の血液バイオマーカー、および犬のディスバイオーシス指数については、有意な影響は認められなかった。全体的なマイクロバイオームのターンオーバーは群間で同様であったが、多変数解析により、治療に関連した明確なコミュニティ・トラジェクトリが同定された。LBHFは、バクテロイデス門の割合増加および植物多糖類分解能の向上に関連しており、同時に、鞭毛形成、クオラムセンシング、バイオフィルム形成、および上皮細胞シグナル伝達に関与する遺伝子セットの枯渇が認められた。ベースライン時のマイクロバイオーム組成もGiardia負荷量を予測し、寄生虫負荷と細菌コミュニティ構造との関連性が浮き彫りとなった。LBHFの併用投与は、犬のジアルジア症のより迅速な消失、糞便質の改善、および協調的なマイクロバイオームリモデリングに関連していた。観察されたマイクロバイオームの機能的変化が、寄生虫の排除および腸管健康の回復に寄与しているかどうかを解明するには、さらなる機序研究が必要である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "bioRxiv",
+        "query": "details/biorxiv/2026-10-20/2026-11-10",
+        "scope": "candidate"
+      }
+    ],
+    "id": "10.64898/2026.10.13.758966",
+    "doi": "10.64898/2026.10.13.758966",
+    "title": "Decision benchmarking reveals when protein foundation models add experimental value",
+    "abstract": "Protein engineering is shifting from model-based variant scoring to deciding what to measure next. This exposes a limitation of fixed-dataset benchmarks, which rank predictors without showing when their advantage survives as evidence accumulates. We therefore introduce decision benchmarking across 217 ProteinGym assays, 2.47 million variants and 95 predictors to evaluate whether models and measurements improve decisions at matched cost. Zero-shot accuracy explained less than one-fifth of the variation in discovery after calibration. Calibrated priors exceeded budget-matched additivity at 20-100 measurements, but the advantage narrowed as component measurements accumulated. Measured additivity then overtook zero-shot models after 50-100 measurements for top-variant discovery and around 500 for global ranking. The same principle showed that double-mutant measurements improved prediction in models using mutation identity, whereas prediction-guided acquisition improved discovery. Evidence-based routing improved strategy selection. Decision benchmarking thus identifies which strategy adds value given the information already available and the decision that follows.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.10.13.758966"
+    ],
+    "date": "2026-10-20",
+    "authors": "Ding, W.; Lu, C.; Li, Y.; Gong, H.; Wang, Z.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.13.758966v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "benchmark",
+        "protein"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "benchmark",
+          "protein"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5146,
+    "collected_at": "2026-11-19T13:02:39.396497+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-19",
+    "translation": {
+      "title": {
+        "hash": "a77fdcdb8a10c9b8a3684511e09695d71618f5c7aefccca15a212883e181301a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T14:02:23.935065+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6e126da7da4f8d7400c9cf20f282896f09033b4bf20cb6a60d7c4be1bfc87f85",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T14:02:23.935065+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "意思決定ベンチマークにより、タンパク質基盤モデルが実験的価値を付加するタイミングが明らかになる",
+    "abstract_ja": "タンパク質工学は、モデルベースのバリアントスコアリングから、次に何を測定すべきかを決定する手法へと移行しつつある。この流れにより、予測器を順位付けするものの、エビデンスが蓄積されてもその優位性が維持されるかを示さない固定データセット・ベンチマークの限界が露呈している。そこで我々は、217種類のProteinGymアッセイ、247万個のバリアント、および95種類の予測器を用いた意思決定ベンチマークを導入し、モデルと測定のどちらが同等のコストで意思決定を改善できるかを評価した。ゼロショット精度で説明できるのは、キャリブレーション後の探索における変動の5分の1未満であった。キャリブレーション済みの事前分布は、20〜100回の測定において予算整合型の相加性を上回ったが、構成要素の測定が蓄積されるにつれてその優位性は縮小した。その後、トップバリアントの探索では50〜100回の測定後、グローバルランキングでは約500回の測定後に、測定による相加性がゼロショットモデルを上回った。同様の原理により、二重変異体測定は変異の同一性を用いるモデルの予測精度を向上させた一方、予測誘導型取得は探索精度を向上させた。エビデンスに基づくルーティングは、戦略選択を改善した。したがって、意思決定ベンチマークは、既に利用可能な情報とその後の意思決定に照らして、どの戦略が価値を付加するかを特定するものである。"
   }
 ]
