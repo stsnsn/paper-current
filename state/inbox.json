@@ -427417,5 +427417,228 @@
     "related_dois": [
       "10.64898/2026.11.17.767002"
     ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "review",
+      "journal article"
+    ],
+    "id": "10.1128/cmr.00119-26",
+    "title": "Hepatitis E virus infections in immunocompromised patients.",
+    "abstract": "SUMMARYHepatitis E virus (HEV) is an important cause of viral hepatitis globally. Historically considered an acute and self-limiting illness, HEV has emerged as a significant pathogen in various immunocompromised patient groups in the last 15 years. Vulnerable patients include transplant recipients, people living with advanced HIV infection, and patients with hematological malignancies, rheumatological disorders, or autoimmune diseases. These individuals are vulnerable to chronic hepatitis and extrahepatic manifestations due to HEV. These risks are also relevant to emerging modalities of immunosuppression such as new targeted drug therapies and chimeric antigen receptor T-cell therapies. Besides unique clinical implications, immunocompromised hosts have also been at the center of new developments in the hepatitis E field on zoonotic reservoirs, transmission routes, disease models, and pathogenesis. In this review, we present a comprehensive integrative summary of the epidemiology, clinical manifestations, pathogenesis, diagnosis, and management strategies of HEV infections in immunocompromised hosts.",
+    "journal": "Clinical Microbiology Reviews",
+    "doi": "10.1128/cmr.00119-26",
+    "date": "2026-10-26",
+    "authors": "Sridhar S, Ma X, Ho SFS.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42929522",
+    "preprint": false,
+    "review": true,
+    "pmcid": "",
+    "pmid": "42929522",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5137,
+    "collected_at": "2026-11-19T03:25:36.884070+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.1128/cmr.00119-26"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "review",
+      "journal article"
+    ],
+    "id": "10.1128/cmr.00112-26",
+    "title": "Solving the <i>Staphylococcus aureus</i> puzzle: lessons to guide future MRSA vaccine development.",
+    "abstract": "SUMMARYThe broad-spectrum use of antibiotics allows for the development of resistance in symptomatically and asymptomatically carried pathogenic bacteria. Antibiotic-resistant bacteria, with this review focusing on Staphylococcus aureus, cause significant morbidity and mortality and put considerable strain on the global healthcare system. In a vaccinated individual, bacteria are less likely to develop resistance mechanisms compared to an individual treated with antibiotics, highlighting a potential method for conserving antibiotic use. However, despite over a century of research, a S. aureus vaccine candidate is yet to progress past phase III clinical trials, and to develop a successful S. aureus vaccine, the shortcomings of previous attempts require critical analysis. After consideration of the five most successful S. aureus vaccine programs, it is identified in this review that future attempts should (i) be polyvalent to circumvent immune evasion, (ii) include carefully chosen antigens to avoid maladaptive memory, (iii) include T cell targeting to provide a comprehensive immune response, (iv) utilize multiple measures of preclinical efficacy in pre-exposed models, and (v) implement considered clinical study design, including appropriate vaccine formulation for the target population. By combining these attributes, such as in the form of epitope-based or nanoparticle vaccines, there is a promising future for the development of S. aureus vaccines that circumvent the issues that caused the downfall of previous vaccine programs, thereby protecting the global population from development toward a future where bacteria are resistant to all antibiotic treatments.",
+    "journal": "Clinical Microbiology Reviews",
+    "doi": "10.1128/cmr.00112-26",
+    "date": "2026-10-21",
+    "authors": "Mills E, Del Borgo MP, O'Keeffe M.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42904685",
+    "preprint": false,
+    "review": true,
+    "pmcid": "",
+    "pmid": "42904685",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5138,
+    "collected_at": "2026-11-19T03:25:36.884070+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.1128/cmr.00112-26"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/msphere.00482-26",
+    "title": "An antibiotic-treated mouse model reveals the progression of intestinal botulism.",
+    "abstract": "Intestinal botulism, including infant botulism and adult intestinal toxemia botulism, is a life-threatening disease caused by intestinal infection with Clostridium botulinum (Cb) spores. Infants are particularly susceptible to Cb infection because of their immature gut microbiota, whereas healthy adults are generally protected by gut microbiota-mediated colonization resistance. Thus, immature gut microbiota or gut dysbiosis is thought to permit Cb colonization. However, the mechanisms underlying colonization resistance and disease progression remain poorly characterized. Here, using adult mice with antibiotic-induced dysbiosis, we established a model for studying Cb infection and characterized intestinal colonization, bacterial expansion, botulinum neurotoxin (BoNT) accumulation, and disease progression during intestinal botulism. Intestinal botulism developed in antibiotic-treated mice after intragastric administration of strain 62A spores, whereas untreated adult mice showed no symptoms. In antibiotic-treated mice, Cb expanded over time in fecal samples, followed by accumulation of serotype A BoNT (BoNT/A), which correlated with the progression of botulism symptoms. Cb growth and BoNT/A accumulation occurred mainly in the cecum and colon, but not in the small intestine. Furthermore, this mouse model was applicable to the analysis of intestinal botulism caused by other Cb strains, including 7I03-H, Okra, and Osaka05. Taken together, our findings clarify key aspects of intestinal botulism pathogenesis. This mouse model may provide a useful platform for elucidating the mechanisms underlying intestinal botulism, including infant botulism, and for developing novel therapeutic strategies.ImportanceBotulism is a life-threatening disease caused by botulinum neurotoxin, one of the most powerful toxins known. In intestinal botulism, Clostridium botulinum spores enter the intestine, grow there, and release toxin inside the body. However, the detailed process by which intestinal botulism develops remains poorly understood. In this study, we established a mouse model that allows the progression of intestinal botulism to be examined over time. Using this model, we showed that bacterial growth in the intestine, accumulation of biologically active toxins, and worsening of symptoms are closely linked. We also identified the cecum and colon as the main sites of bacterial colonization and toxin accumulation. This model can be used to analyze multiple C. botulinum strains with different characteristics and provides a useful tool for understanding how intestinal botulism develops and for guiding future preventive and therapeutic strategies.",
+    "journal": "mSphere",
+    "doi": "10.1128/msphere.00482-26",
+    "date": "2026-11-10",
+    "authors": "Matsumura T, Kobayashi N, Amatsu S, Saito K, Yamaguchi A, Iwata K, Fujinaga Y.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43006869",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43006869",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5139,
+    "collected_at": "2026-11-19T03:25:36.884070+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.1128/msphere.00482-26"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 10",
+        "query": "(JOURNAL:\"Scientific Data\" OR JOURNAL:\"Limnology and Oceanography\" OR JOURNAL:\"Limnology and Oceanography Letters\" OR JOURNAL:\"Annual Review of Marine Science\" OR JOURNAL:\"Trends in Ecology & Evolution\" OR JOURNAL:\"iScience\" OR JOURNAL:\"Current Biology\" OR JOURNAL:\"Cell Reports\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "editorial"
+    ],
+    "id": "10.1016/j.tree.2026.10.007",
+    "title": "Trends at 50: a mission that matters.",
+    "abstract": "",
+    "journal": "Trends in Ecology & Evolution",
+    "doi": "10.1016/j.tree.2026.10.007",
+    "date": "2026-11-05",
+    "authors": "Trends Editorial Team. Electronic address: tree@cell.com.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42988682",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42988682",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5140,
+    "collected_at": "2026-11-19T03:25:36.884070+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "Europe PMC journals 10"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.1016/j.tree.2026.10.007"
+    ]
   }
 ]
