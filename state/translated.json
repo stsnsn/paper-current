@@ -305846,5 +305846,305 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ヨーロッパの山地森林生息地における細菌多様性パターンとその環境予測因子",
     "abstract_ja": "要旨森林の落葉層と土壌は対照的な資源環境を提供するが、生息環境の文脈が広域的な細菌α多様性パターンをどの程度規定しているかは依然として不明である。地理的な多様性パターンは、環境フィルタリング、あるいはミッドドメイン効果のような幾何学的な空間的制約のいずれかを反映している可能性がある。これまでの研究では、緯度および標高勾配に沿った細菌多様性が検討されてきたが、その多くは個々の山岳系内または限定的な地理的領域内の土壌に焦点を当てており、森林落葉層への注目は著しく少なかった。本研究では、欧州全域の17の山岳地域から得られた土壌と落葉層のペアサンプルを用い、標高および緯度勾配に沿った細菌α多様性パターンを調査し、各生息環境に関連する環境予測因子を特定した。細菌群集の特性評価にはDNAメタバーコーディングを用いた。その結果、明確な生息環境特異的なα多様性パターンが同定され、土壌は落葉層よりも高い細菌多様性を有することが明らかになった。落葉層の細菌多様性は緯度の上昇に伴い有意に低下した一方、土壌の細菌多様性は標高によって変動した。いずれのパターンも環境条件によって媒介されており、気候と土壌特性の複合的な影響を考慮した後では、地理的勾配による有意な影響は認められなかった。門レベルの解析により、ほとんどの門が群集全体の傾向に従っていた一方で、いくつかの門はそこから逸脱していたが、気候と土壌特性の複合的な影響を考慮した後では、いずれの門においても残留的な地理的影響は検出されなかった。ランダムフォレスト解析により、生息環境特異的な環境予測因子が明らかになった。すなわち、落葉層では林冠植生組成が支配的であったのに対し、土壌ではCaやpHを含む気候および土壌変数が支配的であった。総じて、本研究の結果は、山岳森林における細菌多様性が空間的な勾配のみよりも環境条件によって強く規定されており、これらの影響が生息環境特異的であることを示している。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1955738",
+    "title": "Xiaoyao San ameliorates depressive-like behaviors and colonic inflammation in stress-colitis composite mice through the microbiota-gut-brain axis",
+    "abstract": "IntroductionChronic psychological stress and intestinal inflammation may interact through the microbiota-gut-brain axis. Xiaoyao San (XYS), a classical traditional Chinese medicine formula, has long been used to alleviate gastrointestinal and emotional disorders, but the contribution of the gut microbiota to its effects remains unclear.MethodsIn this study, a chronic restraint stress combined with dextran sulfate sodium-induced stress-colitis composite mouse model was used to evaluate XYS with and without antibiotic-mediated microbiota depletion. Behavioral tests, histopathology, ELISA, immunofluorescence, Western blotting, LC-MS, molecular docking, and 16S rRNA sequencing were performed.ResultsXYS alleviated depressive-like behaviors, reduced serum corticosterone levels, attenuated colonic injury and inflammation, improved intestinal barrier-associated features, and ameliorated hippocampal inflammation and microglial activation. XYS also reduced NLRP3-related protein expression in both the colon and hippocampus and altered gut microbiota composition, with specific bacterial taxa associated with intestinal, behavioral, neuroendocrine, and neuroinflammatory indices. Notably, compared with the Antibiotic group, Antibiotic-XYS treatment further reduced colonic inflammatory cytokines and colonic NLRP3-related protein expression, indicating that part of the local anti-inflammatory effect of XYS was retained under antibiotic treatment. In contrast, the effects of XYS on intestinal barrier-associated features, depressive-like behaviors, serum corticosterone, hippocampal inflammation, microglial activation, and hippocampal NLRP3-related protein expression were markedly attenuated following antibiotic treatment.DiscussionThese differential responses indicate that improvement of local colonic inflammation alone is insufficient to account for the full intestinal and neurobehavioral effects of XYS. Overall, these findings support an important contribution of the gut microbiota to the intestinal and neurobehavioral actions of XYS along the microbiota-gut-brain axis.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1955738",
+    "date": "2026-11-19",
+    "authors": "Xueqin Chen",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1955738",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "bacteria",
+        "bacterial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5291,
+    "collected_at": "2026-11-19T21:41:59.717804+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.3389/fmicb.2026.1955738"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ec26b7ac0693fac5b550707c30955692b7bf0f5c2307be90e6c36780a1daa7c3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T22:05:56.038424+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ded730605f8cc4bf72ae63b70e1892ae280f755dadbd25e4de5d62efd59c2619",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T22:05:56.038424+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Xiaoyao Sanは、微生物叢-腸脳軸を介してストレス性大腸炎複合マウスのうつ様行動および結腸炎症を改善する。",
+    "abstract_ja": "はじめに慢性的な心理的ストレスと腸管炎症は、微生物叢-腸-脳軸を介して相互作用する可能性がある。中医学の古典的処方である逍遥散（XYS）は、古くから消化器系および情動障害の緩和に用いられてきたが、その効果に対する腸内微生物叢の寄与については依然として不明である。方法本研究では、慢性拘束ストレスとデキストラン硫酸ナトリウム誘発性ストレスを併用した大腸炎複合マウスモデルを用い、抗生物質による微生物叢枯渇の有無におけるXYSの効果を評価した。行動試験、組織病理学的解析、ELISA、免疫蛍光法、ウェスタンブロッティング、LC-MS、分子ドッキング、および16S rRNAシーケンシングを実施した。結果XYSは、抑うつ様行動を緩和し、血清コルチコステロン値を低下させ、結腸の損傷および炎症を軽減し、腸管バリア関連の特徴を改善し、海馬の炎症およびミクログリア活性化を軽減した。また、XYSは結腸および海馬の双方においてNLRP3関連タンパク質の発現を減少させ、腸内微生物叢の組成を変化させた。特定の細菌分類群は、腸管、行動、神経内分泌、および神経炎症指標と関連していた。特筆すべきは、抗生物質投与群と比較して、抗生物質-XYS併用投与では結腸の炎症性サイトカインおよび結腸のNLRP3関連タンパク質発現がさらに減少したことであり、これはXYSの局所的な抗炎症効果の一部が抗生物質投与下でも維持されたことを示している。対照的に、腸管バリア関連の特徴、抑うつ様行動、血清コルチコステロン、海馬の炎症、ミクログリア活性化、および海馬のNLRP3関連タンパク質発現に対するXYSの効果は、抗生物質投与後に著しく減弱した。考察これらの差異的な反応は、結腸の局所的な炎症の改善だけでは、XYSの腸管および神経行動学的効果のすべてを説明するには不十分であることを示している。総じて、これらの知見は、微生物叢-腸-脳軸に沿ったXYSの腸管および神経行動学的作用に対する腸内微生物叢の重要な寄与を支持するものである。"
+  },
+  {
+    "id": "10.1093/ismeco/ycag340",
+    "title": "Phylogeny-Informed Reclassification and Lineage-Specific Quantification Reveal the Ecological Niche of Candidatus Nitrosomaritimum in Coastal Wetlands",
+    "abstract": "AbstractCandidatus Nitrosomaritimum is a widespread genus of ammonia-oxidizing archaea (AOA) in coastal and marine sediments. However, its ecological distribution remains poorly resolved because it is not represented as a distinct genus in the widely used 16S rRNA gene reference databases and lineage-specific quantification tools are lacking. Here, we combined SILVA 16S rRNA gene sequences with sequences extracted from GTDB genomes and metagenome-assembled genomes to reconstruct a refined phylogeny of the family Nitrosopumilaceae. Genus-associated lineages were conservatively delineated as monophyletic clades anchored by GTDB-derived sequences with genome-based genus assignments. This phylogeny identified a monophyletic Nitrosomaritimum clade and corrected the mis-annotation of approximately 15% of SILVA reference sequences previously assigned to Nitrosopumilus, enabling development of a refined 16S rRNA gene classifier with improved genus-level performance. We also designed and validated the lineage-specific amoA primer set AOAnm3bF-AOAnm3aR for qPCR quantification of Nitrosomaritimum amoA gene copies. Application of these tools to intertidal wetland samples revealed previously overlooked niche differentiation between Nitrosomaritimum and Nitrosopumilus AOA. Nitrosopumilus predominated in oxygenated coastal seawater and intertidal groundwater, whereas Nitrosomaritimum was consistently enriched in deeper, low-oxygen sediment-associated habitats. Together, the refined 16S rRNA gene classifier, updated global amoA gene classifier, and lineage-specific qPCR quantification form an integrated toolkit that corrects a systematic marker-gene classification bias and enables complementary assessment of the diversity and distribution of Nitrosomaritimum across habitats at both the AOA and broader prokaryotic community levels. This framework provides a practical reference for analogous refinement of marker-gene classifiers and lineage-specific assays for recently defined prokaryotic taxa.",
+    "journal": "ISME Communications",
+    "doi": "10.1093/ismeco/ycag340",
+    "date": "2026-11-19",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://academic.oup.com/ismecommun/advance-article/doi/10.1093/ismeco/ycag340/9103311?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "Nitrosopumilus",
+        "archaea",
+        "metagenom",
+        "metagenome",
+        "metagenome-assembled genome",
+        "prokaryotic"
+      ],
+      "context": {
+        "marine": [
+          "marine",
+          "seawater"
+        ],
+        "genomics": [
+          "annotation",
+          "genom",
+          "genome",
+          "metagenom",
+          "metagenome",
+          "phylogen",
+          "phylogeny"
+        ],
+        "evolution": [
+          "phylogeny"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6596/advanceAccess_4180.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5287,
+    "collected_at": "2026-11-19T21:41:59.717804+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "https://academic.oup.com/rss/site_6596/advanceAccess_4180.xml"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.1093/ismeco/ycag340"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b8d3cef50a63b4280b5cec55ca5524ea068669f184d3758f3a3d7fd0c8015aab",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T22:05:56.038424+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c37b894e10967d02119fb1c9a6cc7fb7ad3ef083b6bcdc67681f71537e4d7efa",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T22:05:56.038424+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "系統情報に基づく再分類と系統特異的定量化が明かす沿岸湿地におけるCandidatus Nitrosomaritimumの生態的ニッチ",
+    "abstract_ja": "要旨Candidatus Nitrosomaritimumは、沿岸および海洋堆積物に広く分布するアンモニア酸化古細菌（AOA）の一属である。しかし、広く利用されている16S rRNA遺伝子リファレンスデータベースにおいて独立した属として記載されておらず、系統特異的な定量ツールも欠如しているため、その生態学的分布は十分に解明されていない。本研究では、SILVA 16S rRNA遺伝子配列と、GTDBゲノムおよびメタゲノムアセンブルゲノムから抽出した配列を組み合わせ、Nitrosopumilaceae科の精緻な系統樹を再構築した。属に関連付けられた系統は、GTDB由来の配列とゲノムに基づく属割り当てを根拠として、保守的に単系統群として画定された。この系統樹により、単系統のNitrosomaritimumクレードが特定され、従来Nitrosopumilusに割り当てられていたSILVAリファレンス配列の約15%における誤アノテーションが修正されたことで、属レベルの性能が向上した精緻な16S rRNA遺伝子分類器の開発が可能となった。また、NitrosomaritimumのamoA遺伝子コピーをqPCRで定量するための系統特異的amoAプライマーセットAOAnm3bF-AOAnm3aRを設計し、検証した。これらのツールを潮間帯湿地試料に適用したところ、NitrosomaritimumとNitrosopumilus AOAの間で、これまで見落とされていたニッチ分化が明らかになった。Nitrosopumilusは酸素化された沿岸海水および潮間帯地下水で優占していたのに対し、Nitrosomaritimumはより深い低酸素の堆積物関連生息地において一貫して濃縮されていた。精緻化された16S rRNA遺伝子分類器、更新されたグローバルamoA遺伝子分類器、および系統特異的qPCR定量法は合わせて、系統的なマーカー遺伝子分類バイアスを是正し、AOAレベルおよびより広範な原核生物群集レベルの両方において、生息地を横断したNitrosomaritimumの多様性と分布の相補的な評価を可能にする統合ツールキットを構成する。このフレームワークは、近年定義された原核生物分類群におけるマーカー遺伝子分類器および系統特異的アッセイの同様の精緻化のための実用的なリファレンスとなる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/mra.01075-26",
+    "title": "Secretome proteomic data set of <i>Filobasidium magnum</i> PLANB_3024 cultured with poly(lactic acid).",
+    "abstract": "We report a liquid chromatography-tandem mass spectrometry data set of extracellular proteins from Filobasidium magnum PLANB_3024 cultured with poly(lactic acid). Spectra were searched against a genome-derived protein database. The data set includes peptide evidence for a cutinase-family protein and supports investigation of extracellular proteins under poly(lactic acid)-containing conditions.",
+    "journal": "Microbiology Resource Announcements",
+    "doi": "10.1128/mra.01075-26",
+    "date": "2026-11-09",
+    "authors": "Kwon YW, Lee PC.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43001790",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43001790",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5163,
+    "collected_at": "2026-11-19T21:31:24.770122+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.1128/mra.01075-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "56273ef4f54624329923581e7ce2320e9bf5896a879db8148be7623497050f0b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T22:05:56.038424+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "162a54ed01311a46f1ce23030f0cf4e596e29fdd4366fc2dd7ff460ef7a6d822",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T22:05:56.038424+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ポリ乳酸で培養した<i>Filobasidium magnum</i> PLANB_3024のセクレトームプロテオームデータセット",
+    "abstract_ja": "ポリ乳酸で培養したFilobasidium magnum PLANB_3024由来の細胞外タンパク質について、液体クロマトグラフィー-タンデム質量分析によるデータセットを報告する。スペクトルをゲノム由来のタンパク質データベースと照合した。本データセットにはクチナーゼファミリータンパク質のペプチド証拠が含まれており、ポリ乳酸含有条件下における細胞外タンパク質の解析を裏付けるものである。"
+  },
+  {
+    "id": "10.1038/d41586-026-03606-x",
+    "title": "Bacteria and viruses team up to hasten the demise of algal blooms",
+    "abstract": "Algal blooms are important ecological phenomena that drive carbon fixation and fuel the marine food web. Viral infection often ends them abruptly. Some bacteria can sense infected algal cells and then act in synergy with viruses to expedite a bloom’s collapse.",
+    "journal": "Nature",
+    "doi": "10.1038/d41586-026-03606-x",
+    "date": "2026-11-19",
+    "authors": "",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://www.nature.com/articles/d41586-026-03606-x",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.nature.com/nature.rss",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5295,
+    "collected_at": "2026-11-19T21:41:59.717804+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "https://www.nature.com/nature.rss"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.1038/d41586-026-03606-x"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9eaf2bf53ffe3512824da7642224ca640569dee16c3a01ccc6aac0057c7297cb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T22:05:56.038424+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "61d68c45b5386d180e69995070cb68e331e08b236bd20a1fe14b7140382f618e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T22:05:56.038424+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "細菌とウイルスが連携し、藻類の大量発生の終息を早める。",
+    "abstract_ja": "藻類の大発生は、炭素固定を促進し、海洋の食物網を支える重要な生態学的現象である。ウイルス感染によって、こうした発生が突如として終息することが多い。一部の細菌は感染した藻類細胞を感知し、ウイルスと相乗的に作用することで、大発生の崩壊を加速させることがある。"
   }
 ]
