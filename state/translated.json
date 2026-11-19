@@ -306417,5 +306417,291 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "実験的歯肉炎の発症および消失過程における歯肉上および唾液中微生物叢のメタゲノム特性解析",
     "abstract_ja": "実験的歯肉炎の発症および消失過程における歯肉上および唾液中微生物叢のメタゲノム特性解析"
+  },
+  {
+    "id": "10.3389/fmicb.2026.2002711",
+    "title": "Genomic insights into nitrogen metabolism of the heterotrophic nitrifying and aerobic denitrifying bacterium Achromobacter xylosoxidans pf1",
+    "abstract": "The rapid expansion of aquaculture has exacerbated nitrogen pollution, underscoring the critical need for effective and sustainable nitrogen removal methods. In this study, a heterotrophic nitrification and aerobic denitrification (HNAD) bacterium, designated strain pf1, was isolated from aquaculture pond water and identified as Achromobacter xylosoxidans based on 16S rRNA gene sequencing and phylogenetic analysis. Under aerobic conditions, strain pf1 achieved exceptional removal efficiencies of 99.86% for NH4+-N, 99.30% for NO2--N, and 99.87% for NO3--N. Nitrogen balance analysis revealed that assimilation was the primary nitrogen removal pathway, accounting for the majority of nitrogen conversion, with gaseous nitrogen loss also contributing substantially. Whole-genome sequencing identified 72 nitrogen metabolism genes, encompassing three core pathways: denitrification (NO3-N → NO2-N → NO → N2O → N2), ammonia assimilation (NH4+-N → Glu → Gln), and dissimilatory nitrate reduction to ammonium (DNRA; NO3--N → NO2--N → NH4+-N). Notably, the presence of the nosZ gene indicates the capacity to reduce N2O to N2, highlighting its environmental friendliness. In greenhouse turtle breeding wastewater, strain pf1 removed 98.57% of NH4+-N, demonstrating strong practical potential. Collectively, strain pf1 emerges as a promising candidate for the bioremediation of nitrogen-polluted aquaculture wastewater, offering both a theoretical foundation and application prospects for the development of sustainable microbial agent.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.2002711",
+    "date": "2026-11-19",
+    "authors": "Yangyang Liang",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.2002711",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "bacterium",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5293,
+    "collected_at": "2026-11-19T21:41:59.717804+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.3389/fmicb.2026.2002711"
+    ],
+    "translation": {
+      "title": {
+        "hash": "72e633b23a0e456da364fb1b7ac2955efa39a6981c97f684ec6264d9b7e2f451",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T22:10:08.038411+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "bca1eebdd30fb5d6df56c8befeef0ccf10ea25da7773fa987da0598da7822819",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T22:10:08.038411+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "従属栄養性硝化・好気性脱窒細菌Achromobacter xylosoxidans pf1の窒素代謝に関するゲノム学的知見",
+    "abstract_ja": "水産養殖の急速な拡大により窒素汚染が深刻化しており、効果的かつ持続可能な窒素除去手法の必要性が極めて高まっている。本研究では、水産養殖池の水から従属栄養性硝化・好気性脱窒（HNAD）細菌（指定株pf1）を単離し、16S rRNA遺伝子配列解析および系統解析に基づき、Achromobacter xylosoxidansと同定した。好気的条件下において、株pf1はNH4+-Nで99.86%、NO2--Nで99.30%、NO3--Nで99.87%という極めて高い除去効率を示した。窒素バランス解析の結果、同化が主要な窒素除去経路であり、窒素変換の大部分を占めているとともに、ガス状窒素の喪失も相当に寄与していることが明らかとなった。全ゲノム配列解析により、脱窒（NO3-N → NO2-N → NO → N2）、アンモニア同化（NH4+-N → Glu → Gln）、および異化型硝酸還元によるアンモニウム化（DNRA; NO3--N → NO2--N → NH4+-N）という3つの主要経路を含む72個の窒素代謝遺伝子が同定された。特筆すべきは、nosZ遺伝子の存在がN2OをN2に還元する能力を示しており、その環境親和性を裏付けている点である。温室ガメ飼育廃水において、株pf1はNH4+-Nの98.57%を除去し、高い実用的可能性を示した。総じて、株pf1は窒素汚染された水産養殖廃水のバイオレメディエーションにおける有望な候補であり、持続可能な微生物剤の開発に向けた理論的基盤と応用の展望の双方を提供するものである。"
+  },
+  {
+    "id": "10.1038/s41522-026-01202-5",
+    "title": "SMC influences cell wall morphology and interspecies competitiveness in Streptococcus mutans",
+    "abstract": "SMC influences cell wall morphology and interspecies competitiveness in Streptococcus mutans",
+    "journal": "npj Biofilms and Microbiomes",
+    "doi": "10.1038/s41522-026-01202-5",
+    "date": "2026-11-19",
+    "authors": "Lei Lei",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.nature.com/articles/s41522-026-01202-5",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.nature.com/npjbiofilms.rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5340,
+    "collected_at": "2026-11-19T21:41:59.717804+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "https://www.nature.com/npjbiofilms.rss"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.1038/s41522-026-01202-5"
+    ],
+    "translation": {
+      "title": {
+        "hash": "fa47e194dfa871ec45e5f1e334d517c145c9f4844014e7121c839635e77025ab",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T22:10:08.038411+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "fa47e194dfa871ec45e5f1e334d517c145c9f4844014e7121c839635e77025ab",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T22:10:08.038411+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "SMCはStreptococcus mutansの細胞壁形態と種間競争力に影響を与える",
+    "abstract_ja": "SMCはStreptococcus mutansの細胞壁形態と種間競争力に影響を与える"
+  },
+  {
+    "id": "10.1093/ismejo/wrag290",
+    "title": "Carbon allocation under elevated CO2 shapes the fate of phytoplankton-derived ocean carbon",
+    "abstract": "ABSTRACTPhytoplankton carbon allocation is a major pathway regulating atmospheric CO2 transfer into exportable particulate organic carbon (POC) and long-lived dissolved organic carbon (DOC) reservoirs. Yet, how elevated CO2 restructures taxon-specific carbon allocation remains poorly constrained. Here, we integrated growth experiments, operational carbon fractionation, FT-ICR MS molecular characterization, microbial degradation assays, and scenario-based global projections to investigate how elevated CO2 alters carbon fate across major phytoplankton taxa. We found that rising CO2 promoted phytoplankton carbon allocation toward residual POC (r-POC) in most phytoplankton groups, with r-POC allocation increasing by an average of 39.3% across non-diatom groups at 1370 ppm CO2. This shift was accompanied by pronounced carbohydrate enrichment within cell-associated extracellular organic carbon. Concurrently, elevated CO2 enhanced the accumulation of persistence-associated compounds, with carboxyl-rich alicyclic molecules increasing by 1.29 ± 0.22-fold. These molecules were accompanied by increases in the nominal oxidation state of carbon (NOSC). Microbial degradation experiments further demonstrated a negative relationship between NOSC and microbial carbon removal (R2 = 0.48). Scenario-based projections indicated that carbon-pool reallocation contributed more strongly than biomass enhancement to the projected r-POC response: under highest CO2, r-POC increased by 46.6%, of which approximately 67% was attributable to carbon reallocation compared with only 18% from biomass enhancement. Finally, incorporating global phytoplankton functional-type distributions revealed that Haptophyta was the dominant contributor to projected r-POC pool. These findings suggest that elevated CO2 may reshape future ocean carbon sequestration through carbon-pool reallocation, with Haptophyta contributing substantially to projected r-POC responses and the formation of potentially persistent organic compounds.",
+    "journal": "The ISME Journal",
+    "doi": "10.1093/ismejo/wrag290",
+    "date": "2026-11-19",
+    "authors": "",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://academic.oup.com/ismej/advance-article/doi/10.1093/ismejo/wrag290/9103310?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Diatom",
+        "diatom",
+        "microbial"
+      ],
+      "context": {
+        "marine": [
+          "ocean",
+          "phytoplankton"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6594/advanceAccess_4179.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5285,
+    "collected_at": "2026-11-19T21:41:59.717804+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "https://academic.oup.com/rss/site_6594/advanceAccess_4179.xml"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.1093/ismejo/wrag290"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9875b68132f339841d261a0875aeccc7c35c2ee2e198cc2b2d656ef77bbd2014",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T22:10:08.038411+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "41b48f8e803436c96632a6e7480dbdefb93018ac06f460b67357acc6b95c0219",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T22:10:08.038411+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "CO2濃度上昇下における炭素配分が、植物プランクトン由来の海洋炭素の運命を決定づける",
+    "abstract_ja": "要旨 植物プランクトンの炭素配分は、輸出可能な粒子状有機炭素（POC）および長寿命の溶存有機炭素（DOC）リザーバーへの大気中CO2輸送を調節する主要な経路である。しかし、CO2濃度の上昇が分類群固有の炭素配分をどのように再構成するかについては、依然として十分に解明されていない。本研究では、成長実験、操作的炭素分画、FT-ICR MSによる分子特性解析、微生物分解アッセイ、およびシナリオに基づく全球予測を統合し、CO2濃度の上昇が主要な植物プランクトン分類群における炭素運命をどのように変化させるかを調査した。その結果、CO2濃度の上昇は、ほとんどの植物プランクトン群において炭素配分を残留POC（r-POC）へと促進し、CO2濃度1370 ppmにおいて、非珪藻群ではr-POC配分が平均39.3%増加することが明らかになった。このシフトに伴い、細胞関連の細胞外有機炭素において顕著な炭水化物の濃縮が認められた。同時に、CO2濃度の上昇は持続性関連化合物の蓄積を増強し、カルボキシル基に富む脂環式分子が1.29 ± 0.22倍に増加した。これらの分子の増加に伴い、炭素の名目酸化状態（NOSC）も上昇した。微生物分解実験では、NOSCと微生物による炭素除去との間に負の相関があることがさらに示された（R2 = 0.48）。シナリオに基づく予測では、予測されるr-POC応答に対して、バイオマスの増加よりも炭素プールの再配分がより強く寄与していることが示された。最高CO2濃度条件下では、r-POCが46.6%増加し、そのうち約67%が炭素再配分に起因したのに対し、バイオマス増加による寄与はわずか18%であった。最後に、全球的な植物プランクトンの機能型分布を組み込んだ結果、Haptophytaが予測されるr-POCプールの主要な寄与因子であることが明らかになった。これらの知見は、CO2濃度の上昇が炭素プールの再配分を通じて将来の海洋炭素隔離を再構築する可能性を示唆しており、Haptophytaが予測されるr-POC応答および潜在的に持続的な有機化合物の形成に大きく寄与することが示された。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1939609",
+    "title": "Recurrent sublethal RNA viral challenges drive common and virus-specific microbiota shifts in fish: zebrafish (Danio rerio) and turbot (Scophthalmus maximus) as model species",
+    "abstract": "BackgroundHost-associated microbiota play a central role in maintaining physiological homeostasis and regulating host immune responses. In aquatic organisms, this relationship is particularly dynamic due to continuous exposure to the surrounding environment. While acute viral infections are known to induce dysbiosis, the effects of recurrent sublethal exposures, which better reflect conditions in aquaculture and natural environments, remain poorly understood.MethodsHere, we investigated how recurrent exposure to viral particles shifts the whole-body microbiota of the freshwater zebrafish (Danio rerio) and the intestinal microbiota of the marine turbot (Scophthalmus maximus). Fish were subjected to recurrent exposure to sublethal doses of four RNA viruses belonging to three different viral families of aquaculture relevance: the rhabdoviruses spring viremia of carp virus (SVCV) or viral hemorrhagic septicemia virus (VHSV) in zebrafish and turbot, respectively, the birnavirus infectious pancreatic necrosis virus (IPNV), and the nodavirus red-spotted grouper nervous necrosis virus (RGNNV) in both species. Microbial communities were characterized using 16S rRNA gene sequencing, and diversity, co-occurrence networks, and predicted functional profiles were analyzed.ResultsOur results demonstrate that recurrent sublethal viral exposure in fish induces microbiota alterations that combine both conserved and virus-specific alterations. In zebrafish, Ralstonia was consistently enriched across viral exposures, whereas in turbot, changes in bacterial taxa varied among virus-exposed groups. Nevertheless, some genera showed a shared pattern of enrichment, including Polaribacter 4 and Aestuariicella in both VHSV- and IPNV-exposed groups. In contrast, RGNNV-exposed groups exhibited the most pronounced dysbiosis, including the virus-specific near disappearance of Plesiomonas, the most abundant taxa in the zebrafish control group.DiscussionThis underscores the importance of host-virus interplay in shaping microbiota dynamics, accompanied by changes in predicted metabolic functions. Together, these results emphasize the need to consider microbiota dynamics in disease progression and support the potential of microbial indicators as tools for monitoring fish health.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1939609",
+    "date": "2026-11-19",
+    "authors": "Beatriz Novoa",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1939609",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "bacteria",
+        "bacterial",
+        "microbial",
+        "microbiota",
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [
+          "aquatic",
+          "freshwater",
+          "marine"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5294,
+    "collected_at": "2026-11-19T21:41:59.717804+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.3389/fmicb.2026.1939609"
+    ],
+    "translation": {
+      "title": {
+        "hash": "cb84feeb4f07ae1328b3498cc0131e8edcf5910c8714114f8f0e361a961036a5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T22:10:08.038411+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b891024de919472629ce09dbf062d98074d4e63d33a0441ef5939ab85e6aacf3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T22:10:08.038411+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "反復的な亜致死性RNAウイルス負荷が魚類の共通的およびウイルス特異的な微生物叢の変化を誘発する：モデル種としてのゼブラフィッシュ（Danio rerio）およびターボット（Scophthalmus maximus）",
+    "abstract_ja": "背景宿主関連微生物叢は、生理的恒常性の維持および宿主の免疫応答の調節において中心的な役割を果たす。水生生物においては、周囲環境への継続的な曝露により、この関係は特に動的である。急性ウイルス感染がディスバイオーシスを誘発することは知られているが、養殖および自然環境の条件をより適切に反映する反復的な亜致死量曝露の影響については、依然として十分に解明されていない。方法本研究では、ウイルス粒子への反復曝露が、淡水ゼブラフィッシュ（Danio rerio）の全身微生物叢および海水ターボット（Scophthalmus maximus）の腸管微生物叢をどのように変化させるかを検討した。魚類に対し、養殖において重要な3つの異なるウイルス科に属する4種類のRNAウイルスの亜致死量に反復曝露させた。具体的には、ゼブラフィッシュおよびターボットにおいて、それぞれラブドウイルスのspring viremia of carp virus (SVCV) または viral hemorrhagic septicemia virus (VHSV)、birnavirusのinfectious pancreatic necrosis virus (IPNV)、およびnodavirusのred-spotted grouper nervous necrosis virus (RGNNV) を用いた。16S rRNA遺伝子シーケンシングを用いて微生物群集を特性評価し、多様性、共起ネットワーク、および予測機能プロファイルを解析した。結果本研究の結果、魚類における反復的な亜致死量ウイルス曝露は、保存的な変化とウイルス特異的な変化の両方を伴う微生物叢の変化を誘発することが示された。ゼブラフィッシュでは、ウイルス曝露群間でRalstoniaが一貫して濃縮されていたのに対し、ターボットでは、ウイルス曝露群間で細菌分類群の変化にばらつきが認められた。それにもかかわらず、VHSV曝露群とIPNV曝露群の両方において、Polaribacter 4およびAestuariicellaを含む一部の属に共通の濃縮パターンが認められた。対照的に、RGNNV曝露群では最も顕著なディスバイオーシスが認められ、これにはゼブラフィッシュ対照群で最も豊富に存在する分類群であるPlesiomonasの、ウイルス特異的なほぼ消失が含まれていた。考察本結果は、予測される代謝機能の変化を伴う微生物叢ダイナミクスの形成において、宿主とウイルスの相互作用が重要であることを強調するものである。これらの結果を総合すると、疾患の進行における微生物叢ダイナミクスを考慮する必要性が浮き彫りになり、魚類の健康状態をモニタリングするためのツールとしての微生物指標の可能性が支持される。"
   }
 ]
