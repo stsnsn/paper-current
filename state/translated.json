@@ -304001,5 +304001,291 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "PlanMine 4.0：プラナリアのゲノミクスおよびトランスクリプトミクスのための更新版データベース",
     "abstract_ja": "概要PlanMineは、成体幹細胞の膨大な集団と驚異的な再生能力で知られる自由生活性扁形動物であるプラナリアの、ゲノム、トランスクリプトーム、および遺伝子発現データセットのバイオインフォマティクス解析を容易にするために設計されたウェブベースのリソースである。本アップデートでは、広く研究されているSchmiedtea属の複数種（モデルプラナリアであるSchmiedtea mediterraneaの有性株および無性株の両方を含む）の高品質なゲノム配列とアノテーションを組み込んだほか、扁形動物門（Platyhelminthes）全体のトランスクリプトームのカバー範囲を70種まで拡大した。また、バルクおよびシングルセルRNA-seqデータの可視化と解析を支援するため、新たな発現解析研究とツールを追加した。これらのリソースを統合することで、S. mediterraneaにおける相補的な機構研究や、再生、寄生、およびその他の形質の進化を探究する比較アプローチがさらに促進される。この門は、取り扱いがますます容易になっており、理想的なモデル系となっている。PlanMine 4.0データベースは、https://planmine-v4.mpinat.mpg.de で無料で利用可能である。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.2003253",
+    "title": "Frequency of hepatitis B virus mutations associated with resistance to current and emerging drugs for functional cure in publicly available hepatitis B virus sequences",
+    "abstract": "BackgroundHepatitis B virus (HBV) remains an immense global health challenge. Despite the availability of antiviral therapies, no curative treatment exists. Only a small proportion of individuals with chronic hepatitis B (CHB) achieve a functional cure. Resistance and vaccine escape mutations (EMs) may compromise current nucleos(t)ide analogs, vaccines and emerging therapies, leading to treatment failure. The present study aimed to assess the frequency of these HBV mutations in >17,000 publicly available patient-derived HBV sequences.MethodsFold-change (FC) data and resistance/escape-associated mutations were retrieved from literature searches. HBV sequences were retrieved from the NCBI Nucleotide and NCBI Virus databases. Human HBV isolates were genotyped using the HBVdb and Stanford HBVseq tools and GenBank data. Genotype-specific alignments were generated using MAFFT v7 and mutations were analyzed across reverse transcriptase (RT), core (C), surface (S) and X regions using in-house Python scripts.ResultsFrom 19,192 sequence identifiers retrieved, 17,012 genotyped sequences were analyzed. Genotypes C, B, D and A comprised approximately 85% of the dataset. RT-mutations, L180M + M204V and M204I, were frequent in certain genotypes like A, G, H, AG, and G, respectively. C-mutations, Y38F, I105T, and T109M, were identified in common genotypes. In the S-protein, G145R, E164G, and E164D mutations were the most common and these mutations are known to alter the effectiveness of monoclonal antibodies (mAbs). In general, S-mutations toward the studied mAbs occurred at low-to-moderate frequency. Some substitutions previously suggested to be vaccine escape-associated mutations were highly prevalent, however, these substitutions may be polymorphisms specific to certain genotypes requiring further validation. X-region mutations relevant for treatment based on antisense oligonucleotides (ASOs) were uncommon overall.ConclusionHBV isolates with resistance and vaccine escape-associated mutations are present globally and might be genotype-dependent. Therefore, genotype and resistance assessment are crucial before initiating therapy for a favorable outcome in patients, especially when new drugs are introduced to achieve functional cure.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.2003253",
+    "date": "2026-11-19",
+    "authors": "Johan Lennerstrand",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.2003253",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5265,
+    "collected_at": "2026-11-19T13:13:10.696023+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.3389/fmicb.2026.2003253"
+    ],
+    "translation": {
+      "title": {
+        "hash": "1d3d6d11b23dfc766f1cf6ed6dbb14dece576406394e5f676c2297739b762003",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T13:51:31.971806+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "26b103a5be9f5f56f348f57776521356bad44552354137bcd22bfb1b067e4162",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T13:51:31.971806+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "公開されているB型肝炎ウイルス配列における、機能的治癒を目的とした現行薬および新規薬への耐性に関連するB型肝炎ウイルス変異の頻度",
+    "abstract_ja": "背景B型肝炎ウイルス（HBV）は、依然として世界的な重大な保健課題となっている。抗ウイルス療法が利用可能であるにもかかわらず、根治的な治療法は存在しない。慢性B型肝炎（CHB）患者のうち、機能的治癒に至るのはごく一部である。耐性およびワクチン逃避変異（EM）は、現行のヌクレオシド類似体、ワクチン、および新興治療法を無効化し、治療の失敗を招く可能性がある。本研究では、公開されている17,000件以上の患者由来HBV配列において、これらのHBV変異の頻度を評価することを目的とした。方法フォールドチェンジ（FC）データおよび耐性・逃避関連変異を文献検索から抽出した。HBV配列はNCBI NucleotideおよびNCBI Virusデータベースから取得した。ヒトHBV分離株は、HBVdbおよびStanford HBVseqツールならびにGenBankデータを用いてジェノタイピングを行った。MAFFT v7を用いてジェノタイプ特異的なアライメントを生成し、院内のPythonスクリプトを用いて、逆転写酵素（RT）、コア（C）、表面（S）、およびX領域にわたる変異を解析した。結果抽出した19,192個の配列識別子のうち、17,012個のジェノタイピング済み配列を解析した。ジェノタイプC、B、D、およびAがデータセットの約85%を占めていた。RT変異であるL180M + M204VおよびM204Iは、それぞれA、G、H、AG、およびGなどの特定のジェノタイプで頻繁に認められた。C変異であるY38F、I105T、およびT109Mは、一般的なジェノタイプで同定された。Sタンパク質においては、G145R、E164G、およびE164D変異が最も一般的であり、これらの変異はモノクローナル抗体（mAb）の有効性を変化させることが知られている。一般に、検討対象としたmAbに対するS変異の頻度は低～中程度であった。以前にワクチン逃避関連変異として示唆されていた一部の置換は非常に高頻度に認められたが、これらの置換は特定のジェノタイプに特異的な多型である可能性があり、さらなる検証が必要である。アンチセンスオリゴヌクレオチド（ASO）に基づく治療に関連するX領域変異は、全体として稀であった。結論耐性およびワクチン逃避関連変異を有するHBV分離株は世界的に存在しており、ジェノタイプに依存している可能性がある。したがって、患者において良好な転帰を得るために治療を開始する前、特に機能的治癒を達成するための新薬が導入される場合には、ジェノタイプおよび耐性の評価が極めて重要である。"
+  },
+  {
+    "id": "10.1093/nar/gkag1191",
+    "title": "DGIdb in 2026: an interoperable resource for the druggable genome",
+    "abstract": "AbstractThe Drug–Gene Interaction Database (DGIdb; https://dgidb.org) is an open-access aggregate knowledgebase that normalizes and centralizes drug–gene interaction and gene annotation data from diverse therapeutic and biomedical sources. Since its previous update, DGIdb has expanded its data content and added new tooling to better support programmatic access and local deployment. This release updates existing sources and incorporates three new sources of interaction data, including annotation data from the Molecular Oncology Almanac, the PRISM Repurposing Dataset, and the Broad Institute Drug Repurposing Hub. To streamline data access for computational workflows, we have developed dgiPy and dgiR, Python and R client libraries that provide standardized access to the DGIdb API. We additionally now provide versioned Docker images and a public data repository containing current and historical DGIdb data releases in TSV and SQL formats. Together with continued improvements to the web interface, these new resources expand FAIR, transparent, and reproducible access to drug-gene interaction data in the bioinformatics community.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1191",
+    "date": "2026-11-19",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1191/9097198?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "genome",
+        "resource"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5247,
+    "collected_at": "2026-11-19T13:13:10.696023+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.1093/nar/gkag1191"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c2df40771788d3a1781505e6c89ceaf01e835f00e30ed6239b0a111051bbd7c7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T13:51:31.971806+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2f6b82efdb95b55a1479db99b5a0ee2f831ceedae5ad6721793e43ba9c9f7abd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T13:51:31.971806+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "2026年のDGIdb：創薬可能なゲノムのための相互運用可能なリソース",
+    "abstract_ja": "概要 薬物-遺伝子相互作用データベース（DGIdb; https://dgidb.org）は、多様な治療および生物医学分野の情報源から得られる薬物-遺伝子相互作用および遺伝子アノテーションデータを正規化し、一元管理するオープンアクセスの集約ナレッジベースである。前回のアップデート以降、DGIdbはデータ内容を拡充し、プログラムによるアクセスやローカルへのデプロイをより適切に支援するための新たなツールを追加した。本リリースでは、既存の情報源を更新するとともに、Molecular Oncology Almanac、PRISM Repurposing Dataset、およびBroad Institute Drug Repurposing Hubのアノテーションデータを含む、3つの新たな相互作用データソースを組み込んだ。計算ワークフローにおけるデータアクセスを効率化するため、DGIdb APIへの標準化されたアクセスを提供するPythonおよびRクライアントライブラリであるdgiPyとdgiRを開発した。さらに、バージョン管理されたDockerイメージと、TSVおよびSQL形式の最新および過去のDGIdbデータリリースを格納した公開データリポジトリを提供した。ウェブインターフェースの継続的な改善と合わせ、これらの新たなリソースにより、バイオインフォマティクスコミュニティにおける薬物-遺伝子相互作用データへのFAIRで透明性が高く、再現性のあるアクセスが拡大する。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.2040092",
+    "title": "Genome mining, characterization, catalytic mechanism and immobilization of a novel GH26 β-1, 4-mannanase from Enterobacter ludwigii",
+    "abstract": "To reduce mannooligosaccharides (MOS) production costs, a novel GH26 β-1,4-mannanase ElMan from Enterobacter ludwigii was identified via EnzymeMiner. As a single-domain enzyme, ElMan exhibited an optimal pH of 5.0, remained catalytically active across pH 3.0–8.0, and retained more than 70% of its maximal activity after incubation at pH 5.0–8.5, a pH adaptability superior to most reported bacterial β-mannanases. Its specific activity was 17.0% higher than that of the well-characterized Bacillus subtilis 168 mannanase. Furthermore, ElMan also exhibits a certain degree of hydrolysis of xanthan gum. Structural modeling, site-directed mutagenesis, molecular docking and dynamics simulations suggested that H182, E183 and E282 are the core catalytic residues, and that D50, R77, K133 and D317 participate in substrate binding. Fermentation optimization by response surface methodology achieved an enzyme activity of 1672.35 U/mL. Sodium alginate–glutaraldehyde immobilization further enhanced its thermostability, storage stability and reusability. Combining favorable pH adaptability, a clarified catalytic mechanism, high-level production and improved operational stability, ElMan is a cost-effective biocatalyst for MOS production.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.2040092",
+    "date": "2026-11-19",
+    "authors": "Vincenza Dolce",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.2040092",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Bacillus",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5266,
+    "collected_at": "2026-11-19T13:13:10.696023+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.3389/fmicb.2026.2040092"
+    ],
+    "translation": {
+      "title": {
+        "hash": "04b6dcde6ac2cb302125b0d1c7589db6c37b5c903cea4eec32d855d379f8e8e0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T13:51:31.971806+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "989fe106dd2b3a98c30562a402619835f043959d4151d9a3a33286996c89ffa0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T13:51:31.971806+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Enterobacter ludwigii由来の新規GH26 β-1, 4-マンナナーゼのゲノムマイニング、特性解析、触媒機構および固定化",
+    "abstract_ja": "マンノオリゴ糖（MOS）の生産コストを低減するため、EnzymeMinerを用いてEnterobacter ludwigii由来の新規GH26 β-1,4-マンナーゼElManを同定した。単一ドメイン酵素であるElManは、至適pH 5.0を示し、pH 3.0～8.0の範囲で触媒活性を維持し、pH 5.0～8.5でのインキュベーション後も最大活性の70%以上を保持した。このpH適応性は、既報のほとんどの細菌由来β-マンナーゼを上回る。比活性は、十分に特性解析されているBacillus subtilis 168マンナーゼよりも17.0%高かった。さらに、ElManはキサンタンガムに対しても一定程度の加水分解能を示す。構造モデリング、部位特異的変異導入、分子ドッキングおよびダイナミクスシミュレーションにより、H182、E183およびE282が中核的な触媒残基であり、D50、R77、K133およびD317が基質結合に関与していることが示唆された。応答曲面法による発酵最適化により、1672.35 U/mLの酵素活性が得られた。アルギン酸ナトリウム－グルタルアルデヒド固定化により、熱安定性、保存安定性および再利用性がさらに向上した。良好なpH適応性、解明された触媒機構、高レベルの生産能力、および向上した運転安定性を兼ね備えたElManは、MOS生産における費用対効果の高いバイオ触媒である。"
+  },
+  {
+    "id": "10.1093/nar/gkag1213",
+    "title": "ERV Navigator: a unified evolutionary reference resource for human endogenous retroviruses",
+    "abstract": "AbstractEndogenous retroviruses (ERVs) are genomic remnants of ancient retroviral infections that provide a record of host–virus evolution and contribute to the structure, regulation, and function of host genomes. ERV Navigator addresses a longstanding challenge in ERV research: the absence of a unified, evolutionarily informed framework that reconciles existing annotation systems, nomenclatures, and classification schemes. Existing resources provide complementary views of human ERVs (HERVs), reflecting different discovery strategies, biological objectives, and historical conventions, making comparisons across studies and integration of evolutionary and functional data difficult. ERV Navigator integrates major HERV annotation resources within a single, non-redundant reference framework centered on genomic loci and their evolutionary relationships. The database organizes information hierarchically, linking retroviral taxonomy, lineage-level reference sequences, and genomic insertions through stable, phylogenetically informed identifiers. Historical nomenclatures and annotations are preserved through explicit cross-references, enabling seamless navigation between legacy resources and the unified framework. The web interface supports taxonomic browsing, phylogenetic visualization, lineage and locus pages, genome browser integration, sequence alignments, and search tools. By combining evolutionary classification with genomic, structural, and functional annotations, ERV Navigator enables reproducible comparison of HERV loci while providing a flexible platform for comparative, functional, and disease-associated data. ERV Navigator is freely available at https://ervnavigator.fredhutch.org/",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1213",
+    "date": "2026-11-19",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1213/9097197?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "evolution",
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5248,
+    "collected_at": "2026-11-19T13:13:10.696023+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.1093/nar/gkag1213"
+    ],
+    "translation": {
+      "title": {
+        "hash": "cf3861981764ca8525f6de73d86421a94a18952b9b468fca01646bc67722b2a5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T13:51:31.971806+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "98730727ff964320cd183670773ac7d3bcdeccee865764440c402d26802f9109",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T13:51:31.971806+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ERV Navigator: ヒト内在性レトロウイルスの統合的進化リファレンスリソース",
+    "abstract_ja": "要旨内因性レトロウイルス（ERV）は、古代のレトロウイルス感染のゲノム遺残体であり、宿主とウイルスの進化の記録を提供するとともに、宿主ゲノムの構造、調節、および機能に寄与している。ERV Navigatorは、ERV研究における長年の課題、すなわち、既存のアノテーション体系、命名法、および分類体系を整合させる、統一的かつ進化論的知見に基づいたフレームワークの欠如という問題に対処するものである。既存のリソースは、異なる発見戦略、生物学的目的、および歴史的な慣例を反映したヒトERV（HERV）の相補的な視点を提供しており、研究間の比較や進化的・機能的データの統合を困難にしている。ERV Navigatorは、主要なHERVアノテーションリソースを、ゲノム遺伝子座とその進化的関係を中心とした、単一の非冗長なリファレンスフレームワークに統合する。本データベースは情報を階層的に整理し、レトロウイルスの分類体系、系統レベルのリファレンス配列、およびゲノム挿入を、安定した系統学的知見に基づく識別子を通じて結びつける。歴史的な命名法やアノテーションは明示的な相互参照によって保持されており、レガシーリソースと統一フレームワーク間のシームレスなナビゲーションが可能となっている。ウェブインターフェースは、分類学的ブラウジング、系統学的可視化、系統および遺伝子座ページ、ゲノムブラウザ連携、配列アライメント、および検索ツールをサポートしている。進化的分類をゲノム、構造、および機能的アノテーションと組み合わせることで、ERV NavigatorはHERV遺伝子座の再現可能な比較を可能にするとともに、比較、機能、および疾患関連データのための柔軟なプラットフォームを提供する。ERV Navigatorは、https://ervnavigator.fredhutch.org/ にて無料で利用可能である。"
   }
 ]
