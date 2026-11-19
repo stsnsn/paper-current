@@ -305564,5 +305564,287 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ヘリコバクター・ピロリの病原性アイランドへの共適応の歴史",
     "abstract_ja": "ほとんどのヘリコバクター・ピロリ菌株は、Cag病原性アイランド（cagPAI）にコードされた遺伝子を用いてCagAオンコタンパク質をヒト細胞に注入し、そこで細胞シグナル伝達や形態を変化させることで細菌の定着を促進する。しかし、cag-H. pylori菌株は世界中で検出されている。本研究では、9,000を超えるヘリコバクターゲノムのグローバルサンプルを用い、菌株がcag状態にどのように適応するかを調査した。我々は、in vacAやhopQの多くを含む、cagPAIの存在に関連するゲノムワイドな変異体に加え、これまでcagとの関連が指摘されていなかった遺伝子における変異体を同定した。これらの変異体を用いてcagポリジェニック共適応スコアを構築し、同アイランドの動態と進化史を系統的に解析した。スコアの分布は多くの集団において二峰性を示しており、cag状態に関連した安定した適応戦略が存在することが示された。しかし、これらのcag共適応変異体は、歴史的に東アジアの菌株には存在しておらず、これが同地域におけるcag菌株の出現頻度の低さを説明する潜在的な要因となっている。また、オーストラリアおよびパプアニューギニアに定着したヒト集団が他の集団から50,000～70,000年前に分岐する前に、cagPAIがH. pyloriに導入されたと推察される。他の集団における同アイランドへの適応は、一部にはハーディ生態種の既存の変異体を利用することで達成された。本研究は、主要な病原性因子の導入後に遺伝子共適応が病原体の進化をどのように形作るかを明らかにするとともに、疾患リスクの増減を予測し根絶戦略に資する可能性のある遺伝的構成を浮き彫りにした。"
+  },
+  {
+    "id": "10.1093/femsre/fuag062",
+    "title": "Plant pathogenic continuum in the microbiome era",
+    "abstract": "AbstractPlant pathology has traditionally relied on a binary distinction between pathogens and non-pathogens, or between harmful and beneficial microorganisms. However, this distinction is becoming increasingly difficult to maintain in the microbiome era. For many plant-associated microorganisms, pathogenicity is not a fixed property but varies along a gradient depending on host physiology, microbial strain, environmental conditions, resident microbiota, and time. This review discusses a plant pathogenicity continuum as a framework for interpreting this fluidity. Within this continuum, we discuss four interconnected positions: true or near-deterministic pathogens, context-dependent pathogens, opportunistic pathogens, and pathobiome- or dysbiosis-associated disease states. These positions should not be treated as rigid categories, but as reference points that help compare how strongly disease depends on the host, environment and microbiome interactions. We also discuss the strain-level problem in plant pathology, because species or pathovar-level detection often does not capture real differences in virulence and host range. Finally, we consider the diagnostic implications of this continuum, especially where pathogen detection alone is not sufficient. This continuum-based view may help plant pathology move from naming pathogens toward interpreting disease states.",
+    "journal": "FEMS Microbiology Reviews",
+    "doi": "10.1093/femsre/fuag062",
+    "date": "2026-11-19",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/femsre/advance-article/doi/10.1093/femsre/fuag062/9103339?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial",
+        "microbiome",
+        "microbiota",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5386/advanceAccess_3247.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5288,
+    "collected_at": "2026-11-19T21:41:59.717804+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "https://academic.oup.com/rss/site_5386/advanceAccess_3247.xml"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.1093/femsre/fuag062"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0d176b02f87bd5b680a378cfc58d2677022199e79487c78fa7526a2ca6171e4a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T22:03:37.841004+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3ffe6221f22f0d2ae4b68b02849f262e9d6fb2ad6de28825e6fc8a7dc8850086",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T22:03:37.841004+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "マイクロバイオーム時代における植物病原性連続体",
+    "abstract_ja": "要旨 植物病理学では従来、病原体と非病原体、あるいは有害微生物と有益微生物という二項対立に依拠してきた。しかし、マイクロバイオーム時代において、こうした区別を維持することはますます困難になりつつある。多くの植物関連微生物にとって、病原性は固定的な特性ではなく、宿主の生理機能、微生物株、環境条件、常在微生物叢、および時間に応じて勾配的に変化する。本総説では、この流動性を解釈するための枠組みとして、植物病原性の連続体について論じる。この連続体の中で、真の、あるいはほぼ決定論的な病原体、文脈依存的な病原体、日和見的病原体、およびパソバイオームまたはディスバイオーシスに関連する病徴という、相互に関連する4つの位置付けについて考察する。これらの位置付けは厳格なカテゴリーとして扱うべきではなく、病徴が宿主、環境、およびマイクロバイオームの相互作用にどの程度強く依存しているかを比較するための参照点として捉えるべきである。また、種や病原変種レベルでの検出では、病原性や宿主範囲の実際の差異を捉えきれないことが多いため、植物病理学における株レベルの問題についても論じる。最後に、特に病原体の検出だけでは不十分な場合における、この連続体の診断上の意義について考察する。この連続体に基づく視点は、植物病理学が病原体の命名から病徴の解釈へと移行する一助となる可能性がある。"
+  },
+  {
+    "id": "10.1093/femsyr/foag064",
+    "title": "Fungal laccases: a double-edged sword linking environmental adaptation and pathogenicity",
+    "abstract": "AbstractLaccases (EC 1.10.3.2) are multicopper oxidases that oxidize diverse phenolic and non-phenolic compounds while reducing oxygen to water. Despite their highly conserved catalytic architectures, fungal laccases perform diverse biological functions depending on ecological context. In saprophytic fungi, they contribute to lignin degradation, nutrient acquisition, carbon cycling, and pollutant detoxification, supporting their application in bioremediation, wastewater treatment, biofuel production, and green chemistry. In certain pathogenic fungi, laccases contribute to lineage-specific processes associated with host adaptation and virulence, including melanization and resistance to host-derived stresses, as particularly well characterized in Cryptococcus neoformans. This functional duality highlights fungal laccases as a molecular double-edged sword linking environmental adaptation and pathogenicity. Here, we integrate current knowledge of their evolutionary distribution, structural conservation, regulatory mechanisms, and biological functions with comparative phylogenomic, domain, structural, and protein language model analyses. We propose that divergent laccase functions may arise from regulatory diversification, substrate availability, and ecological context rather than major changes in catalytic architecture. We also discuss advances in recombinant production, protein engineering, and laccase-targeted antifungal strategies, together with challenges limiting industrial implementation. This integrated perspective provides a framework for developing sustainable laccase-based biocatalysts and anti-virulence therapies.",
+    "journal": "FEMS Yeast Research",
+    "doi": "10.1093/femsyr/foag064",
+    "date": "2026-11-19",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://academic.oup.com/femsyr/advance-article/doi/10.1093/femsyr/foag064/9103347?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungal",
+        "fungi"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "phylogen",
+          "phylogenomic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5387/advanceAccess_3248.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5289,
+    "collected_at": "2026-11-19T21:41:59.717804+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "https://academic.oup.com/rss/site_5387/advanceAccess_3248.xml"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.1093/femsyr/foag064"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6c58ed77e35589c2b8d3831b080a5d270997942f802df4ee38dcda0230657434",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T22:03:37.841004+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "386a21ad79a2af8acc27c8517009e54e50937d1f27b160fb846a9bdf6c78ce5b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T22:03:37.841004+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "真菌ラッカゼ：環境適応と病原性をつなぐ諸刃の剣",
+    "abstract_ja": "要旨ラクケース（EC 1.10.3.2）は、酸素を水に還元しつつ、多様なフェノール性および非フェノール性化合物を酸化する多銅酸化酵素である。その触媒構造は極めて保存性が高いにもかかわらず、真菌ラクケースは生態学的文脈に応じて多様な生物学的機能を果たす。腐生性真菌においては、リグニン分解、栄養獲得、炭素循環、および汚染物質の解毒に寄与しており、バイオレメディエーション、廃水処理、バイオ燃料生産、およびグリーンケミストリーへの応用を支えている。特定の病原性真菌において、ラクケースはメラニン化や宿主由来ストレスへの耐性など、宿主適応および病原性に関連する系統特異的なプロセスに寄与しており、これは特にCryptococcus neoformusにおいて詳細に解明されている。この機能的二面性は、真菌ラクケースが環境適応と病原性を結びつける分子レベルの「諸刃の剣」であることを浮き彫りにしている。本研究では、進化的分布、構造保存性、調節機構、および生物学的機能に関する現在の知見を、比較系統ゲノミクス、ドメイン、構造、およびタンパク質言語モデル解析と統合する。我々は、異なるラクケース機能が、触媒構造の重大な変化ではなく、調節機構の多様化、基質の利用可能性、および生態学的文脈から生じている可能性を提案する。また、組換え生産、タンパク質工学、およびラクケース標的型抗真菌戦略における進展とともに、産業実装を制限する課題についても論じる。この統合的な視点は、持続可能なラクケースベースの生体触媒および抗病原性治療法を開発するための枠組みを提供するものである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.2016613",
+    "title": "Ecological fitness in postharvest biocontrol: yeasts and yeast-based synthetic microbial communities",
+    "abstract": "Biocontrol yeasts offer alternatives or complements to synthetic fungicides for managing postharvest fungal diseases. Despite promising antagonistic activity under laboratory conditions, inconsistent performance under practical conditions remains a major limitation. Here, we use ecological fitness operationally to describe a biocontrol yeast’s ability to establish, recover from environmental stress, and persist on fruit under specified handling and storage conditions. We develop a framework that combines ecological assessment with biocontrol functions and technological and product robustness to guide strain selection and product development. We discuss ecological bottlenecks involving early colonization, stress recovery, nutrient acquisition, and interactions with resident microbiota, and examine how cultivation, pretreatment, formulation, and combined treatments can address them. We emphasize rationally designed yeast-based synthetic microbial communities, for which functional complementarity, ecological compatibility, and population persistence must be considered together with manufacturing feasibility and regulatory requirements. This framework proposes measurable criteria for evaluating the reliability of single strains and microbial communities under commercially relevant handling and storage conditions.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.2016613",
+    "date": "2026-11-19",
+    "authors": "Hao Ji",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.2016613",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungal",
+        "fungi",
+        "microbial",
+        "microbiota",
+        "yeast",
+        "yeasts"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5290,
+    "collected_at": "2026-11-19T21:41:59.717804+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.3389/fmicb.2026.2016613"
+    ],
+    "translation": {
+      "title": {
+        "hash": "cd437df8bfe090147e1c156318d2af7ef04d8bf14875861bfc813644cdc0c58e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T22:03:37.841004+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5cf869f5544003ac37760c374c741304f71f27f3ece57187c02d67105f11a028",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T22:03:37.841004+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "収穫後生物防除における生態的適応度：酵母および酵母由来の合成微生物群集",
+    "abstract_ja": "生物制御酵母は、収穫後の真菌病害管理において、合成殺菌剤に代わる選択肢や補完手段となり得る。実験室条件下では有望な拮抗活性を示すものの、実用条件下における性能のばらつきが依然として大きな制約となっている。本研究では、生態学的適応度を操作的に用いることで、規定の取り扱いおよび貯蔵条件下において、生物制御酵母が果実に定着し、環境ストレスから回復し、かつ生存し続ける能力について記述する。我々は、生態学的評価に生物制御機能ならびに技術的・製品的な堅牢性を組み合わせたフレームワークを構築し、菌株の選定および製品開発の指針とする。初期定着、ストレス回復、栄養獲得、および常在微生物叢との相互作用に関わる生態学的ボトルネックについて論じ、培養、前処理、製剤化、および複合処理がこれらにどのように対処し得るかを検討する。特に、機能的相補性、生態学的適合性、および個体群の持続性を、製造上の実現可能性や規制要件と併せて考慮する必要がある、合理的に設計された酵母ベースの合成微生物群集を強調する。本フレームワークは、商業的に重要な取り扱いおよび貯蔵条件下における単一菌株および微生物群集の信頼性を評価するための、測定可能な基準を提案するものである。"
+  },
+  {
+    "id": "10.1093/ismeco/ycag341",
+    "title": "Bacterial Diversity Patterns and Their Environmental Predictors in European Mountain Forest Habitats",
+    "abstract": "AbstractForest litter and soil provide contrasting resource environments, but the extent to which habitat context shapes broad-scale bacterial α-diversity patterns remains unclear. Geographic diversity patterns may reflect either environmental filtering or geometric spatial constraints such as the mid-domain effect. Previous studies have examined bacterial diversity along latitudinal and elevational gradients, but most have focused on soil within individual mountain systems or limited geographic regions, with considerably less attention given to forest litter. Using paired soil and litter samples from 17 mountain areas across Europe, this study investigated bacterial α-diversity patterns along elevational and latitudinal gradients and identified environmental predictors associated with each habitat. Bacterial communities were characterized using DNA metabarcoding. A clear habitat-specific α-diversity pattern was identified, with soil harboring higher bacterial diversity than litter. While litter bacterial diversity declined significantly with increasing latitude, soil bacterial diversity varied with elevation. Both patterns were mediated by environmental conditions, with geographic gradients having no significant effect after accounting for combined climate and soil properties. Phylum-level analyses revealed that while most phyla followed the overall community trends, several deviated, though no residual geographic effect was detected for any phylum after accounting for combined climate and soil properties. Random forest analyses revealed habitat-specific environmental predictors: canopy vegetation composition was dominant in litter, whereas climate and soil variables, including Ca and pH, predominated in soil. Overall, our results demonstrate that bacterial diversity in mountain forests is shaped more by environmental conditions than by spatial gradients alone, with these effects being habitat-specific.",
+    "journal": "ISME Communications",
+    "doi": "10.1093/ismeco/ycag341",
+    "date": "2026-11-19",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/ismecommun/advance-article/doi/10.1093/ismeco/ycag341/9103312?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6596/advanceAccess_4180.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5286,
+    "collected_at": "2026-11-19T21:41:59.717804+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "https://academic.oup.com/rss/site_6596/advanceAccess_4180.xml"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.1093/ismeco/ycag341"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2f02ab7330a5b0288ee4c5f70ae50c379f241ddaca1c560b261086221f915f69",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T22:03:37.841004+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2d2820259bfede4e041baf75631f837a4879ddd2bad209111f8951e44c7f0602",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T22:03:37.841004+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ヨーロッパの山地森林生息地における細菌多様性パターンとその環境予測因子",
+    "abstract_ja": "要旨森林の落葉層と土壌は対照的な資源環境を提供するが、生息環境の文脈が広域的な細菌α多様性パターンをどの程度規定しているかは依然として不明である。地理的な多様性パターンは、環境フィルタリング、あるいはミッドドメイン効果のような幾何学的な空間的制約のいずれかを反映している可能性がある。これまでの研究では、緯度および標高勾配に沿った細菌多様性が検討されてきたが、その多くは個々の山岳系内または限定的な地理的領域内の土壌に焦点を当てており、森林落葉層への注目は著しく少なかった。本研究では、欧州全域の17の山岳地域から得られた土壌と落葉層のペアサンプルを用い、標高および緯度勾配に沿った細菌α多様性パターンを調査し、各生息環境に関連する環境予測因子を特定した。細菌群集の特性評価にはDNAメタバーコーディングを用いた。その結果、明確な生息環境特異的なα多様性パターンが同定され、土壌は落葉層よりも高い細菌多様性を有することが明らかになった。落葉層の細菌多様性は緯度の上昇に伴い有意に低下した一方、土壌の細菌多様性は標高によって変動した。いずれのパターンも環境条件によって媒介されており、気候と土壌特性の複合的な影響を考慮した後では、地理的勾配による有意な影響は認められなかった。門レベルの解析により、ほとんどの門が群集全体の傾向に従っていた一方で、いくつかの門はそこから逸脱していたが、気候と土壌特性の複合的な影響を考慮した後では、いずれの門においても残留的な地理的影響は検出されなかった。ランダムフォレスト解析により、生息環境特異的な環境予測因子が明らかになった。すなわち、落葉層では林冠植生組成が支配的であったのに対し、土壌ではCaやpHを含む気候および土壌変数が支配的であった。総じて、本研究の結果は、山岳森林における細菌多様性が空間的な勾配のみよりも環境条件によって強く規定されており、これらの影響が生息環境特異的であることを示している。"
   }
 ]
