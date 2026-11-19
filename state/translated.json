@@ -306703,5 +306703,296 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "反復的な亜致死性RNAウイルス負荷が魚類の共通的およびウイルス特異的な微生物叢の変化を誘発する：モデル種としてのゼブラフィッシュ（Danio rerio）およびターボット（Scophthalmus maximus）",
     "abstract_ja": "背景宿主関連微生物叢は、生理的恒常性の維持および宿主の免疫応答の調節において中心的な役割を果たす。水生生物においては、周囲環境への継続的な曝露により、この関係は特に動的である。急性ウイルス感染がディスバイオーシスを誘発することは知られているが、養殖および自然環境の条件をより適切に反映する反復的な亜致死量曝露の影響については、依然として十分に解明されていない。方法本研究では、ウイルス粒子への反復曝露が、淡水ゼブラフィッシュ（Danio rerio）の全身微生物叢および海水ターボット（Scophthalmus maximus）の腸管微生物叢をどのように変化させるかを検討した。魚類に対し、養殖において重要な3つの異なるウイルス科に属する4種類のRNAウイルスの亜致死量に反復曝露させた。具体的には、ゼブラフィッシュおよびターボットにおいて、それぞれラブドウイルスのspring viremia of carp virus (SVCV) または viral hemorrhagic septicemia virus (VHSV)、birnavirusのinfectious pancreatic necrosis virus (IPNV)、およびnodavirusのred-spotted grouper nervous necrosis virus (RGNNV) を用いた。16S rRNA遺伝子シーケンシングを用いて微生物群集を特性評価し、多様性、共起ネットワーク、および予測機能プロファイルを解析した。結果本研究の結果、魚類における反復的な亜致死量ウイルス曝露は、保存的な変化とウイルス特異的な変化の両方を伴う微生物叢の変化を誘発することが示された。ゼブラフィッシュでは、ウイルス曝露群間でRalstoniaが一貫して濃縮されていたのに対し、ターボットでは、ウイルス曝露群間で細菌分類群の変化にばらつきが認められた。それにもかかわらず、VHSV曝露群とIPNV曝露群の両方において、Polaribacter 4およびAestuariicellaを含む一部の属に共通の濃縮パターンが認められた。対照的に、RGNNV曝露群では最も顕著なディスバイオーシスが認められ、これにはゼブラフィッシュ対照群で最も豊富に存在する分類群であるPlesiomonasの、ウイルス特異的なほぼ消失が含まれていた。考察本結果は、予測される代謝機能の変化を伴う微生物叢ダイナミクスの形成において、宿主とウイルスの相互作用が重要であることを強調するものである。これらの結果を総合すると、疾患の進行における微生物叢ダイナミクスを考慮する必要性が浮き彫りになり、魚類の健康状態をモニタリングするためのツールとしての微生物指標の可能性が支持される。"
+  },
+  {
+    "id": "10.64898/2026.11.19.767798",
+    "title": "Not all plant-based diets are alike: intake of minimally processed plant foods is associated with gut microbial richness among vegetarians and vegans.",
+    "abstract": "Plant-based diets are usually defined by what they exclude, overlooking which plant foods are eaten and how processed they are. Here we examine whether this overlooked dimension is related to the gut microbiome. In a cross-sectional study of 172 omnivorous, lacto-ovo-vegetarian and vegan adults profiled by shotgun metagenomics, vegetarians and vegans harboured fewer gut species than omnivores. Within this group, however, each standard deviation increase in minimally processed plant-food intake was associated with 27 additional species (p = 0.001), independently of fibre intake, and richness in participants with the highest intake approached that of omnivores. No such association was seen among omnivores. Higher intake was also linked to more species previously associated with favourable cardiometabolic health and to better health-related quality of life. Dietary labels alone may therefore conceal meaningful variation in the gut microbiome, and characterising how plant foods are processed may help in understanding how plant-based diets relate to health.",
+    "journal": "",
+    "doi": "10.64898/2026.11.19.767798",
+    "date": "2026-11-19",
+    "authors": "Mendez-Hurtado, A., Coleto-Checa, D., Alvarez, A., Marcos-Pasero, H., Calderon, A., Maestri, A., Perez-Cuervo, A., Blanco-Rivero, A., Lacruz-Pleguezuelos, B., Cardenas-Roig, N., Carrasco-Guijarro, L., Martin-Segura, A., Aguilar-Aguilar, E., Marcos-Zambrano, L. J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.19.767798v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomics",
+        "microbial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5332,
+    "collected_at": "2026-11-19T21:41:59.717804+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.64898/2026.11.19.767798"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c6bc74f5b908208c7f4e437e270bb86de25b3ea4a2c424425780902f7f2fe9e8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T22:12:56.917349+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4eb48557d1c571429db31256db3da8a70fe1dd001e0dd2beef0373c44b500c11",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T22:12:56.917349+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "植物性食品中心の食事はすべて同じというわけではない。最小限の加工を施した植物性食品の摂取は、ベジタリアンやヴィーガンにおける腸内細菌の多様性と関連している。",
+    "abstract_ja": "植物性食品中心の食事は通常、何を排除するかによって定義され、どのような植物性食品を摂取し、それらがどの程度加工されているかという点は見落とされがちである。本稿では、この見落とされがちな側面が腸内マイクロバイオームと関連しているかどうかを検討する。ショットガンメタゲノミクスを用いて解析した、雑食性、ラクト・オボ・ベジタリアン、およびヴィーガンの成人172名を対象とした横断的研究において、ベジタリアンおよびヴィーガンは雑食者よりも腸内細菌種の数が少ないことが明らかになった。しかし、このグループ内では、食物繊維の摂取量とは独立して、最小限の加工しか施されていない植物性食品の摂取量が1標準偏差増加するごとに、27種の細菌種が追加で認められた（p = 0.001）。また、摂取量が最も多い参加者における細菌種の豊富さは、雑食者のそれに近かった。雑食者の間では、このような関連性は認められなかった。摂取量の多さは、良好な心代謝系の健康と関連していると従来考えられてきたより多くの細菌種の存在や、健康に関連する生活の質の向上とも結びついていた。したがって、食品ラベルだけでは腸内マイクロバイオームの有意な変動が隠されている可能性があり、植物性食品がどのように加工されているかを明らかにすることは、植物性食品中心の食事が健康にどのように関連しているかを理解する一助となる可能性がある。"
+  },
+  {
+    "id": "10.64898/2026.11.18.767582",
+    "title": "Depth-partitioned oxidation of atmospheric hydrogen, carbon monoxide and methane in a glacier forefield soil",
+    "abstract": "Glacier forefields are model systems for pioneer ecosystem assembly under extreme oligotrophy. Their microbial communities carry widespread genomic potential to oxidize atmospheric trace gases, yet whether this potential is transcribed in situ, and by which lineages, remains largely untested. Here we combined depth-resolved profiling of hydrogen (H2), carbon monoxide (CO) and methane (CH4) at ten locations in the Wildstrubel glacier forefield, Swiss Alps, with mesocosm experiments, long-read metagenomics, and genome-resolved metatranscriptomics. Soils were consistent net sinks for atmospheric H2 and CH4, with fluxes ~2-fold and ~6-fold higher, respectively, in older than in younger terrain. H2 uptake was concentrated in the upper 20 cm, whereas CH4 uptake extended deeper. In the field, CO uptake was masked by apparent subsurface production, but in mesocosms lacking this source both CO and H2 were drawn below atmospheric concentrations. Although 57% of metagenome-assembled genomes encoded trace-gas oxidation enzymes, topsoil transcription was dominated by Group 1h [NiFe]-hydrogenases from a few Actinomycetota populations, in which the CO dehydrogenase coxL was transcribed 20- to 35-fold less. The second most transcribed marker was smoX, most closely related to C2-C6 alkane monooxygenases, suggesting the use of short-chain alkanes of possible subsurface origin. Mobile genetic elements were widely transcribed, matching host transcription, but a 104-kb plasmid-borne coxMSL operon was largely silent. Acetylene perturbation induced no detectable switching between trace-gas pathways. Together, these data suggest that trace-gas metabolism is partitioned across soil depth: atmospheric H2 scavenging dominates topsoil transcription, whereas methanotrophy and CO production occur deeper. Net surface fluxes, particularly for CO, therefore, underestimate gross trace-gas turnover.",
+    "journal": "",
+    "doi": "10.64898/2026.11.18.767582",
+    "date": "2026-11-19",
+    "authors": "Herbert, J., Dede, B., Koschitz, L., Sarbach, J., Schroth, M. H., Schoelmerich, M. C.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.18.767582v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenome",
+        "metagenomics",
+        "metatranscriptom",
+        "metatranscriptomics",
+        "methanotroph",
+        "methanotrophy",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "genom",
+          "genome",
+          "genomic",
+          "metagenom",
+          "metagenome",
+          "metagenomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5333,
+    "collected_at": "2026-11-19T21:41:59.717804+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.64898/2026.11.18.767582"
+    ],
+    "translation": {
+      "title": {
+        "hash": "bd417dd92f3123129b4d7470c044e3a198747c3ae7e5eca582c51406c306fdb5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T22:12:56.917349+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "138d57938efb36a818f23da339b6c398fc543bc88302d50837b3c2d09d89a20d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T22:12:56.917349+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "氷河前縁土壌における大気中の水素、一酸化炭素およびメタンの深度依存的酸化",
+    "abstract_ja": "氷河前縁域は、極端な貧栄養条件下における先駆的生態系形成のモデル系である。その微生物群集は、大気中の微量ガスを酸化させる広範なゲノムポテンシャルを有しているが、このポテンシャルがその場（in situ）で転写されるのか、またどの系統によって転写されるのかについては、ほとんど検証されていない。本研究では、スイス・アルプスのヴィルトシュトルーベル氷河前縁域10地点における水素（H2）、一酸化炭素（CO）、およびメタン（CH4）の深度分解プロファイリングを、メソコスム実験、ロングリードメタゲノミクス、およびゲノム分解メタトランスクリプトミクスと組み合わせた。土壌は大気中のH2およびCH4の一貫した正味の吸収源となっており、フラックスは若い地形よりも古い地形でそれぞれ約2倍および約6倍高かった。H2の取り込みは上部20 cmに集中していたのに対し、CH4の取り込みはより深い層まで及んでいた。野外ではCOの取り込みは見かけ上の地下生成によって遮蔽されていたが、この供給源を欠くメソコスムでは、COとH2の両方が大気濃度以下まで取り込まれていた。メタゲノムから構築されたゲノムの57%が微量ガス酸化酵素をコードしていたが、表土の転写は、少数の放線菌門（Actinomycetota）集団由来のグループ1h [NiFe]-ヒドロゲナーゼが支配的であり、その中でCO脱水素酵素coxLの転写量は20〜35分の1であった。2番目に多く転写されたマーカーはsmoXであり、C2-C6アルカンモノオキシゲナーゼに最も近縁であったことから、地下起源の可能性がある短鎖アルカンの利用が示唆された。可動性遺伝要素は宿主の転写と一致して広く転写されていたが、104 kbのプラスミド担体coxMSLオペロンはほとんど転写されていなかった。アセチレン摂動による微量ガス経路間の検出可能な切り替えは認められなかった。以上のデータは、微量ガス代謝が土壌深度に応じて分かれていることを示唆している。すなわち、大気中H2のスカベンジングが表土の転写を支配する一方で、メタン酸化およびCO生成はより深い層で起こっている。したがって、特にCOにおける正味の地表フラックスは、総微量ガスターンオーバーを過小評価していることになる。"
+  },
+  {
+    "id": "10.64898/2026.11.18.767602",
+    "title": "Flow Virometry-Based Profiling of Viral Population Diversity",
+    "abstract": "Viruses exhibit great phenotypic heterogeneity. Flow virometry enables high-throughput analysis of phenotypic diversity in viral populations, while flow-based sorting allows subpopulations to be isolated for separate characterization. Despite their advantages, flow virometry and sorting have not yet been widely adopted in virology partly because of limited protocols and underexplored applications. Here, we provide a practical guide for analyzing and quantifying virus particles from diverse families using flow virometry enhanced by fluorescence labeling. We further explore applications beyond basic and static characterization of virus populations. We demonstrate that flow virometry can report on interactions between virions and binding partners, as well as between virions. It provides a particle denominator that, combined with genome copy measurements, enables estimation of viral population ploidy. We also show how dynamic processes, such as viral membrane fusion, can be measured in real time. Finally, we demonstrate the feasibility of sorting virions based on their intrinsic properties, such as morphology, for downstream study. This practical guide provides a roadmap for wider implementation of flow virometry in virology, while the applications illustrated here demonstrate potential to address a variety of questions about virion properties, interactions, and dynamics at the single-particle level.",
+    "journal": "",
+    "doi": "10.64898/2026.11.18.767602",
+    "date": "2026-11-19",
+    "authors": "Liu, T., Berg, N., Donahue, C. J., Planitzer, S. D., Santos-Peral, A., Partlow, E. A., Motsa, B. B., Ivanovic, T.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.18.767602v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virome",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5334,
+    "collected_at": "2026-11-19T21:41:59.717804+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.64898/2026.11.18.767602"
+    ],
+    "translation": {
+      "title": {
+        "hash": "faaec31b3edb7d6f18916f88934ed19119e1a5796d02555aad4585a39b20d2e7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T22:12:56.917349+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6ba1d5e640a61d543ebfae13c476a656dc1bd2da5ed72d04f62bfd133c9f543e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T22:12:56.917349+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "フローウイルス計測法に基づくウイルス集団多様性のプロファイリング",
+    "abstract_ja": "ウイルスは表現型の多様性が極めて大きい。フローウイルスメトリーは、ウイルス集団における表現型の多様性のハイスループット解析を可能にする一方、フローベースのソーティングにより、サブ集団を分離して個別に特性解析することが可能となる。こうした利点があるにもかかわらず、フローウイルスメトリーおよびソーティングは、プロトコルが限られていることや応用例が十分に検討されていないことなどが一因となり、ウイルス学においてまだ広く普及していない。本報では、蛍光標識によって強化されたフローウイルスメトリーを用いて、多様なファミリーに属するウイルス粒子を解析・定量するための実用的なガイドを提示する。さらに、ウイルス集団の基本的かつ静的な特性解析を超えた応用についても検討する。フローウイルスメトリーにより、ビリオン間およびビリオンと結合パートナーとの相互作用を報告できることを実証する。また、粒子分母を提供することで、ゲノムコピー数の測定と組み合わせたウイルス集団の倍数性の推定を可能にする。さらに、ウイルス膜融合などの動的プロセスをリアルタイムで測定する方法を示す。最後に、下流の研究に向けて、形態などの固有の特性に基づいてビリオンをソーティングすることの実現可能性を実証する。本実用ガイドは、ウイルス学におけるフローウイルスメトリーのより広範な実装に向けたロードマップとなるものであり、ここで示した応用例は、単一粒子レベルでのビリオンの特性、相互作用、および動態に関する多様な疑問に対処できる可能性を示すものである。"
+  },
+  {
+    "id": "10.64898/2026.11.17.767333",
+    "title": "Single-cell transcriptomics of human astrovirus VA1-infected intestinal organoids reveals cell-type-specific responses and a requirement for cholesterol biosynthesis during infection",
+    "abstract": "Human astroviruses are prevalent but understudied enteric viruses that cause gastroenteritis and neurological disease, particularly in children and immunocompromised individuals. No vaccines or antivirals are available, partly because their biology and pathogenesis remain poorly understood. Here, we used single-cell RNA sequencing to characterize transcriptional responses to VA1, a non-classical human astrovirus associated with the majority of extraintestinal disease cases, in fetal ileum-derived human intestinal organoids. VA1 altered epithelial cell-type proportions and progressively spread through the organoids. Differential gene expression analysis of enterocytes and progenitor cells, the cells most prevalent in the organoid model, revealed shared antiviral responses, including interferon signaling, as well as cell-type-specific responses. Enterocytes exhibited a broader early transcriptional response and specifically upregulated cholesterol metabolism and biosynthesis pathways at 1 dpi. By 3 dpi, progenitor cell-specific genes suggested inflammatory and epithelial-defense responses. In two different intestinal epithelial cell lines, T84 and Caco-2 cells, limiting extracellular lipid availability did not alter replication but increased VA1 binding in Caco-2 cells. Pharmacologic inhibition of cholesterol biosynthesis and 25-hydroxycholesterol treatment reduced VA1 replication, while disrupting intracellular cholesterol transport had no detectable effect. Together, these findings expand our knowledge on HAstV biology by defining shared and cell-type-specific epithelial responses to VA1 infection and identifying cholesterol biosynthesis as an important host pathway for successful VA1 replication.",
+    "journal": "",
+    "doi": "10.64898/2026.11.17.767333",
+    "date": "2026-11-19",
+    "authors": "Ruiz, A. R., Cieza, R. J., Almeshagbeh, A., McConnachie, M., Sexton, J., SoRelle, E. D., Wobus, C. E.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.17.767333v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5335,
+    "collected_at": "2026-11-19T21:41:59.717804+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.64898/2026.11.17.767333"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7ef49a9b2814c7f8e580a90344e95fdccb08fc7af0eee23c3eb91e73deae3e54",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T22:12:56.917349+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "19f5a5c71cf6be1c898a539872db2bc0c5b3ee66e59121407dc4a40ae107bd1d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T22:12:56.917349+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ヒトアストロウイルスVA1感染腸管オルガノイドのシングルセルトランスクリプトミクスにより、細胞種特異的な応答と感染時のコレステロール生合成の必要性が明らかとなった",
+    "abstract_ja": "ヒトアストロウイルスは、特に小児や免疫不全者において胃腸炎や神経疾患を引き起こす、広く分布しながらも研究が進んでいない腸管ウイルスである。その生物学的特性や病態形成が十分に解明されていないこともあり、ワクチンや抗ウイルス薬は存在しない。本研究では、単一細胞RNAシーケンシングを用いて、腸管外疾患症例の大部分に関連する非古典的ヒトアストロウイルスであるVA1に対する転写応答を、胎児回腸由来のヒト腸管オルガノイドにおいて解析した。VA1は上皮細胞型の比率を変化させ、オルガノイド内を漸次的に拡散した。オルガノイドモデルで最も豊富に存在する細胞である腸細胞および前駆細胞の差異的遺伝子発現解析により、インターフェロンシグナル伝達を含む共通の抗ウイルス応答と、細胞型特異的な応答の両方が明らかになった。腸細胞はより広範な初期転写応答を示し、1 dpi時点でコレステロール代謝および生合成経路を特異的に亢進させた。3 dpiまでには、前駆細胞特異的な遺伝子が炎症性および上皮防御応答を示唆した。2種類の異なる腸上皮細胞株（T84細胞およびCaco-2細胞）において、細胞外脂質の利用可能性を制限しても複製は変化しなかったが、Caco-2細胞ではVA1の結合が増加した。コレステロール生合成の薬理学的阻害および25-ヒドロキシコレステロール投与はVA1の複製を減少させたが、細胞内コレステロール輸送の阻害には検出可能な影響は認められなかった。以上の知見を総合すると、VA1感染に対する共通および細胞型特異的な上皮応答を定義し、コレステロール生合成をVA1複製成功のための重要な宿主経路として同定したことで、HAstVの生物学に関する知見が拡大した。"
   }
 ]
