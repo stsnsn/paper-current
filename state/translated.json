@@ -302875,5 +302875,277 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ゼブラフィッシュにおける腸内細菌叢を介したセロトニン調節による卵巣機能。",
     "abstract_ja": "シプロフロキサシン（CIP）は水圏環境で頻繁に検出されるが、腸内細菌叢を介した経路による生殖への影響は依然として不明である。成体雌ゼブラフィッシュに5,000 ng/LのCIPを30日間曝露し、組織学、ホルモン測定、メタゲノミクス、メタボロミクス、トランスクリプトミクス、および糞便微生物叢移植（FMT）を用いて評価した。CIPは卵胞形成を阻害し、卵胞刺激ホルモン、黄体形成ホルモン、およびエストラジオールの濃度を低下させ、腸管バリアの完全性を損なった。マルチオミクス解析により、腸内細菌叢の乱れと、CetobacteriumおよびPlesiomonas shigelloidesに関連するセロトニン（5-HT）およびインドール-3-乳酸の増加を含む微生物代謝の変化が明らかになった。脳トランスクリプトミクスでは、ホルモンシグナル伝達の抑制と5-HTの上昇が認められ、視床下部-下垂体-性腺軸の破綻と一致していた。CIP曝露ドナーからのFMTは、微生物叢が枯渇したレシピエントにおいてホルモンおよび卵巣の異常を再現した。本研究は、新興の水圏汚染物質のリスク評価に微生物叢と宿主の相互作用を組み込む必要性を強調するとともに、水圏生物および潜在的にヒトにおける生殖および内分泌系の健康に対する環境曝露のより広範な影響を浮き彫りにしている。"
+  },
+  {
+    "id": "10.1111/1462-2920.70502",
+    "title": "Keystone Microbial Taxa Regulate Nitrification and Denitrification Processes in Riverine Wetlands Across Eastern and Central China",
+    "abstract": "In riverine wetlands, rhizosphere soils are hotspots of nitrogen removal. The composition of keystone microbial taxa explains nitrification and denitrification better than keystone‐taxon richness or whole‐community attributes, with keystone taxa acting through direct functional effects and network‐mediated regulation.\n\nABSTRACT\nExcess nitrogen (N) inputs threaten riverine wetlands worldwide, where microbially mediated nitrification and denitrification are key pathways for N transformation and removal. Although microbial communities are known to regulate riverine N cycling, the contribution of keystone microbial species remains unclear. Here, we combined high‐throughput sequencing of archaeal and bacterial amoA, nirK, and nirS genes with measurements of potential nitrification and denitrification rates in channel sediments, riparian rhizosphere soils, and riparian bulk soils across 30 riverine wetlands in eastern and central China. Habitat type and latitudinal zone significantly shaped nitrification and denitrification rates, with rhizosphere soils serving as hotspots of N removal. Local environmental factors, particularly total N and iron availability, strongly influenced these processes. Keystone species composition explained spatial variation in nitrification and denitrification more effectively than keystone species richness or whole‐community attributes. Moreover, keystone species regulated N removal through both direct functional effects and indirect, network‐mediated pathways. These findings highlight the critical role of keystone microbial species in sustaining N removal functions across riverine wetlands and provide new insights into microbiome‐informed management of nutrient‐enriched river ecosystems.\n\nIn riverine wetlands, rhizosphere soils are hotspots of nitrogen removal. The composition of keystone microbial taxa explains nitrification and denitrification better than keystone-taxon richness or whole-community attributes, with keystone taxa acting through direct functional effects and network-mediated regulation.\n\nABSTRACT\nExcess nitrogen (N) inputs threaten riverine wetlands worldwide, where microbially mediated nitrification and denitrification are key pathways for N transformation and removal. Although microbial communities are known to regulate riverine N cycling, the contribution of keystone microbial species remains unclear. Here, we combined high-throughput sequencing of archaeal and bacterial amoA, nirK, and nirS genes with measurements of potential nitrification and denitrification rates in channel sediments, riparian rhizosphere soils, and riparian bulk soils across 30 riverine wetlands in eastern and central China. Habitat type and latitudinal zone significantly shaped nitrification and denitrification rates, with rhizosphere soils serving as hotspots of N removal. Local environmental factors, particularly total N and iron availability, strongly influenced these processes. Keystone species composition explained spatial variation in nitrification and denitrification more effectively than keystone species richness or whole-community attributes. Moreover, keystone species regulated N removal through both direct functional effects and indirect, network-mediated pathways. These findings highlight the critical role of keystone microbial species in sustaining N removal functions across riverine wetlands and provide new insights into microbiome-informed management of nutrient-enriched river ecosystems.",
+    "journal": "Environmental Microbiology",
+    "doi": "10.1111/1462-2920.70502",
+    "date": "2026-11-18",
+    "authors": "Xiang Xiong, \nWeihong Zhang, \nXiaoliang Jiang, \nHui Liu, \nLing Li, \nDaoliang Shi, \nWenzhi Liu",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.70502?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "archaea",
+        "archaeal",
+        "bacteria",
+        "bacterial",
+        "microbial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [
+          "river"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://onlinelibrary.wiley.com/feed/14622920/most-recent",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5272,
+    "collected_at": "2026-11-19T13:13:10.696023+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "https://onlinelibrary.wiley.com/feed/14622920/most-recent"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.1111/1462-2920.70502"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0ac0c0e742edb9f8baf48a58bf4a0459d3a7b49e7393289a457bee5aab0d2324",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T13:38:06.880938+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6a34df801bd8717f8bc7db7ee584ecff593c61e7d8bdd6af43043947e196b5a1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T13:38:06.880938+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "中国東部および中部の河川湿地におけるキーストーン微生物分類群が硝化・脱窒プロセスを調節する",
+    "abstract_ja": "河川湿地において、根圏土壌は窒素除去のホットスポットとなっている。キーストーン微生物分類群の組成は、キーストーン分類群の豊富さや群集全体の特性よりも、硝化および脱窒をより適切に説明しており、キーストーン分類群は直接的な機能的効果とネットワークを介した調節の両方を通じて作用している。\n\n要旨\n過剰な窒素（N）の投入は世界中の河川湿地にとって脅威となっており、そこでは微生物を介した硝化および脱窒がNの変換と除去の主要な経路となっている。微生物群集が河川のN循環を調節することは知られているが、キーストーン微生物種の寄与については依然として不明である。本研究では、古細菌および細菌のamoA、nirK、nirS遺伝子のハイスループットシーケンシングと、中国東部および中部の30か所の河川湿地における河道堆積物、河畔根圏土壌、および河畔バルク土壌での潜在的な硝化・脱窒速度の測定を組み合わせた。生息地タイプと緯度帯が硝化および脱窒速度に有意な影響を及ぼしており、根圏土壌がN除去のホットスポットとして機能していた。局所的な環境要因、特に全Nおよび鉄の利用可能性が、これらのプロセスに強く影響していた。キーストーン種の組成は、キーストーン種の豊富さや群集全体の特性よりも、硝化および脱窒の空間的変動をより効果的に説明した。さらに、キーストーン種は直接的な機能的効果と間接的なネットワーク介在経路の両方を通じてN除去を調節していた。これらの知見は、河川湿地全体におけるN除去機能の維持におけるキーストーン微生物種の極めて重要な役割を浮き彫りにし、栄養塩が富化した河川生態系のマイクロバイオーム情報に基づく管理に新たな知見を提供するものである。\n\n河川湿地において、根圏土壌は窒素除去のホットスポットとなっている。キーストーン微生物分類群の組成は、キーストーン分類群の豊富さや群集全体の特性よりも、硝化および脱窒をより適切に説明しており、キーストーン分類群は直接的な機能的効果とネットワークを介した調節の両方を通じて作用している。\n\n要旨\n過剰な窒素（N）の投入は世界中の河川湿地にとって脅威となっており、そこでは微生物を介した硝化および脱窒がNの変換と除去の主要な経路となっている。微生物群集が河川のN循環を調節することは知られているが、キーストーン微生物種の寄与については依然として不明である。本研究では、古細菌および細菌のamoA、nirK、nirS遺伝子のハイスループットシーケンシングと、中国東部および中部の30か所の河川湿地における河道堆積物、河畔根圏土壌、および河畔バルク土壌での潜在的な硝化・脱窒速度の測定を組み合わせた。生息地タイプと緯度帯が硝化および脱窒速度に有意な影響を及ぼしており、根圏土壌がN除去のホットスポットとして機能していた。局所的な環境要因、特に全Nおよび鉄の利用可能性が、これらのプロセスに強く影響していた。キーストーン種の組成は、キーストーン種の豊富さや群集全体の特性よりも、硝化および脱窒の空間的変動をより効果的に説明した。さらに、キーストーン種は直接的な機能的効果と間接的なネットワーク介在経路の両方を通じてN除去を調節していた。これらの知見は、河川湿地全体におけるN除去機能の維持におけるキーストーン微生物種の極めて重要な役割を浮き彫りにし、栄養塩が富化した河川生態系のマイクロバイオーム情報に基づく管理に新たな知見を提供するものである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1942102",
+    "title": "Toxoplasma gondii SRS34A mRNA vaccine elicits protective immune response against toxoplasmosis in mice",
+    "abstract": "Toxoplasmosis is a prevalent zoonotic parasitic disease caused by Toxoplasma gondii, which infects nearly all warm-blooded animals including humans. It causes substantial economic losses to the livestock industry and poses a considerable threat to public health. Currently, therapeutic options for toxoplasmosis remain highly limited, and no safe and effective vaccine is widely licensed for human use. In this study, we developed a LNP encapsulated mRNA vaccine encoding SRS34A, a surface localized protein highly expressed across developmental stages of T. gondii. ICR mice (n = 5 per group) were intramuscularly immunized three times at a dose of 10 μg per mouse with the SRS34A-mRNA-LNP vaccine. Vaccination elicited a balanced Th1/Th2 immune response, as evidenced by high SRS34A-specific IgG titers and significantly elevated levels of both Th1-type cytokines (IL-12, TNF-α, IFN-γ) and the Th2-type cytokine IL-4. Challenge assays showed that vaccination conferred partial protection against T. gondii infection. In the chronic infection model with 100 type II ME49 tachyzoites (i.p.), vaccinated mice achieved an 80% survival rate versus 60% in controls, although the survival difference was not statistically significant. Meanwhile, both the number of brain cysts in vaccinated mice were significantly reduced compared with controls. For acute infection with the virulent type I RH strain, vaccination significantly prolonged mouse survival at a challenge dose of 100 tachyzoites (i.p.), and markedly reduced peritoneal parasite burden in a separate experiment with 105 RH tachyzoites. In conclusion, the SRS34A-mRNA-LNP vaccine effectively induces SRS34A-specific humoral immunity and a balanced Th1/Th2 cytokine response, and confers partial protection against both acute and chronic T. gondii infection in mice. These findings support SRS34A as a promising candidate for further development of mRNA vaccines against toxoplasmosis.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1942102",
+    "date": "2026-11-19",
+    "authors": "Cuiqin Huang",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1942102",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5261,
+    "collected_at": "2026-11-19T13:13:10.696023+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.3389/fmicb.2026.1942102"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ce46fa225687e11ccba3c8c6e783448f72e7dadd41030464cf4c96a9a963e76d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T13:38:06.880938+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "856f39081844750fb4a2e4305fb0939006df6d76e905340ca528f9367c5025b1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T13:38:06.880938+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "トキソプラズマ gondii SRS34A mRNAワクチンは、マウスにおいてトキソプラズマ症に対する防御的な免疫応答を誘導する。",
+    "abstract_ja": "トキソプラズマ症は、Toxoplasma gondiiによって引き起こされる一般的な人獣共通寄生虫疾患であり、ヒトを含むほぼすべての温血動物に感染する。本疾患は畜産業に多大な経済的損失をもたらし、公衆衛生に対しても重大な脅威となる。現在、トキソプラズマ症の治療選択肢は極めて限られており、ヒトへの使用が広範に承認された安全かつ有効なワクチンは存在しない。本研究では、T. gondiiの発育段階を通じて高発現する表面局在性タンパク質であるSRS34AをコードするLNP封入mRNAワクチンを開発した。ICRマウス（各群n = 5）に対し、SRS34A-mRNA-LNPワクチンを1匹あたり10 μgの用量で3回筋肉内接種した。ワクチン接種により、高いSRS34A特異的IgG力価、およびTh1型サイトカイン（IL-12、TNF-α、IFN-γ）とTh2型サイトカインIL-4の両レベルの有意な上昇が示され、バランスの取れたTh1/Th2免疫応答が誘導された。チャレンジアッセイにより、ワクチン接種がT. gondii感染に対する部分的な保護効果を付与することが示された。100個のII型ME49タキゾイト（i.p.）を投与した慢性感染モデルにおいて、ワクチン接種群の生存率は80%であったのに対し、対照群では60%であったが、生存率の差は統計的に有意ではなかった。一方、ワクチン接種群では対照群と比較して、脳嚢胞数が有意に減少した。強毒型I型RH株による急性感染において、100個のタキゾイト（i.p.）のチャレンジ用量でのワクチン接種は、マウスの生存期間を有意に延長させ、また105個のRHタキゾイトを用いた別の実験では、腹腔内寄生虫負荷を著しく減少させた。結論として、SRS34A-mRNA-LNPワクチンは、SRS34A特異的な液性免疫およびバランスの取れたTh1/Th2サイトカイン応答を効果的に誘導し、マウスにおいて急性および慢性のT. gondii感染の両方に対する部分的な保護効果を付与する。これらの知見は、トキソプラズマ症に対するmRNAワクチンのさらなる開発において、SRS34Aが有望な候補であることを支持するものである。"
+  },
+  {
+    "id": "10.1186/s13059-026-04354-x",
+    "title": "Dynamic changes in mRNA isoform usage during human retinal organoid development",
+    "abstract": "Background\n                     Alternative mRNA splicing is a key mechanism for generating isoform diversity in eukaryotic cells. However, the extent of the splicing changes that occur during complex regulatory processes like neurodevelopment are still incompletely characterized.\n                  \n                     Results\n                     We perform nanopore-based long-read RNA sequencing on differentiating human stem cell-derived retinal organoids to identify temporal patterns of isoform usage across developmental stages. We find that retinal organoids undergo dynamic shifts in isoform usage throughout differentiation, which are not necessarily accompanied with changes in overall gene expression, as is observed for many genes involved in the regulation of mRNA splicing itself. Further analysis of human stem cell-derived retinal ganglion cells uncovers neuron-specific splicing signatures. Additionally, allele-specific gene expression analysis reveals extensive allelic imbalance in induced pluripotent stem cell-derived organoid cultures.\n                  \n                     Conclusions\n                     By combining direct long-read RNA sequencing with human stem cell retinal models we develop a comprehensive database of isoform-level changes in differentiating human retinal organoid cells during development. These results uncover dynamic shifts in transcript usage during retinal differentiation, adding to our knowledge base of post-transcriptional RNA processing in the developing central nervous system and human in vitro culture systems.",
+    "journal": "Genome Biology",
+    "doi": "10.1186/s13059-026-04354-x",
+    "date": "2026-11-19",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s13059-026-04354-x",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "database",
+        "sequencing"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=13059",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5274,
+    "collected_at": "2026-11-19T13:13:10.696023+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=13059"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.1186/s13059-026-04354-x"
+    ],
+    "translation": {
+      "title": {
+        "hash": "20219c9354d07184f0207853be3e3b421fb57cd04d20cb158b7659f10805568d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T13:38:06.880938+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3e417e4cb526bb6d17f327edc555560da5fd4522b5befff57333eb8742460a86",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T13:38:06.880938+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ヒト網膜オルガノイドの発生過程におけるmRNAアイソフォーム利用の動的変化",
+    "abstract_ja": "背景\n                     代替mRNAスプライシングは、真核細胞においてアイソフォーム多様性を生み出す重要な機構である。しかし、神経発達のような複雑な調節過程において生じるスプライシング変化の程度については、いまだ十分に解明されていない。\n                  \n                     結果\n                     我々は、分化過程にあるヒト幹細胞由来網膜オルガノイドに対し、ナノポアベースのロングリードRNAシーケンシングを実施し、発生段階におけるアイソフォーム利用の時間的パターンを同定した。その結果、網膜オルガノイドは分化過程を通じてアイソフォーム利用の動的な変化を示すが、mRNAスプライシング自体の調節に関与する多くの遺伝子で見られるように、それが必ずしも全体的な遺伝子発現の変化を伴うわけではないことが明らかになった。さらに、ヒト幹細胞由来網膜神経節細胞の解析により、ニューロン特異的なスプライシングシグネチャーが明らかになった。また、アレル特異的な遺伝子発現解析により、誘導多能性幹細胞由来オルガノイド培養細胞において広範なアレル不均衡が存在することが判明した。\n                  \n                     結論\n                     直接的なロングリードRNAシーケンシングとヒト幹細胞網膜モデルを組み合わせることで、発生過程における分化中のヒト網膜オルガノイド細胞のアイソフォームレベルの変化に関する包括的なデータベースを構築した。これらの結果は、網膜分化過程における転写産物利用の動的な変化を明らかにするものであり、発達中の中枢神経系およびヒトin vitro培養系における転写後RNAプロセシングに関する知見を深めるものである。"
+  },
+  {
+    "id": "10.1111/1751-7915.70488",
+    "title": "Engineering a Thermostable Cytochrome P450 Enzyme from Thermomonospora catenispora for the Hydrogen Peroxide‐Driven Terminal Hydroxylation of Farnesol and Fatty Acids",
+    "abstract": "Genome mining of the thermophilic bacterium Thermomonospora catenispora identified CYP124B23 as a potential biocatalyst for terminal methyl oxidation. Site‐directed mutagenesis of the conserved acid–base residues in the I‐helix converted this monooxygenase into an H2O2‐driven peroxygenase. The engineered variants catalysed the selective terminal hydroxylation of farnesol.\n\nABSTRACT\nCytochrome P450 enzymes of the CYP124 family, as exemplified by the CYP124A enzymes from mycobacterial species, catalyse the oxidation of methyl‐branched lipids and steroids. Their function in other actinobacteria remains largely unexplored. We report the isolation and characterisation of a new CYP124 enzyme, CYP124B23, from the thermophilic bacterium Thermomonospora catenispora. The absorbance maximum of the Soret band in the as‐purified enzyme was 392 nm, indicative of a ferric high‐spin state. Site‐directed mutagenesis of the conserved I‐helix glutamic acid‐threonine (ET) pair to glutamine‐glutamic acid (QE) conferred peroxygenase activity on the enzyme. Substrate‐binding assays with the mutant enzyme revealed that fatty acids and farnesol bound with the latter having high affinity (Kd = 1.4 ± 0.1 μM). The enzyme catalysed terminal (ω) and ω‐1 hydroxylation of saturated and methyl‐branched fatty acids including phytanic acid. The oxidation of farnesol was selective for the terminal methyl group, generating 12‐hydroxyfarnesol and an aldehyde further oxidation product, with total turnover numbers in excess of 2,000. The enzyme retained catalytic activity following incubation at 60°C for 30 min, highlighting its thermostability. We demonstrate that CYP124B23 is a resilient biocatalyst for the regioselective terminal hydroxylation of farnesol, with considerable promise for application in synthetic reactions.\n\nGenome mining of the thermophilic bacterium Thermomonospora catenispora identified CYP124B23 as a potential biocatalyst for terminal methyl oxidation. Site-directed mutagenesis of the conserved acid–base residues in the I-helix converted this monooxygenase into an H2O2-driven peroxygenase. The engineered variants catalysed the selective terminal hydroxylation of farnesol.\n\nABSTRACT\nCytochrome P450 enzymes of the CYP124 family, as exemplified by the CYP124A enzymes from mycobacterial species, catalyse the oxidation of methyl-branched lipids and steroids. Their function in other actinobacteria remains largely unexplored. We report the isolation and characterisation of a new CYP124 enzyme, CYP124B23, from the thermophilic bacterium Thermomonospora catenispora. The absorbance maximum of the Soret band in the as-purified enzyme was 392 nm, indicative of a ferric high-spin state. Site-directed mutagenesis of the conserved I-helix glutamic acid-threonine (ET) pair to glutamine-glutamic acid (QE) conferred peroxygenase activity on the enzyme. Substrate-binding assays with the mutant enzyme revealed that fatty acids and farnesol bound with the latter having high affinity (Kd = 1.4 ± 0.1 μM). The enzyme catalysed terminal (ω) and ω-1 hydroxylation of saturated and methyl-branched fatty acids including phytanic acid. The oxidation of farnesol was selective for the terminal methyl group, generating 12-hydroxyfarnesol and an aldehyde further oxidation product, with total turnover numbers in excess of 2,000. The enzyme retained catalytic activity following incubation at 60°C for 30 min, highlighting its thermostability. We demonstrate that CYP124B23 is a resilient biocatalyst for the regioselective terminal hydroxylation of farnesol, with considerable promise for application in synthetic reactions.",
+    "journal": "Microbial Biotechnology",
+    "doi": "10.1111/1751-7915.70488",
+    "date": "2026-11-19",
+    "authors": "Gashaw G. Dagnaw, \nMaya L. Doyle, \nOghenesivwe Osiebe, \nJoel H. Z. Lee, \nStephen G. Bell",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1751-7915.70488?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacterium"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://onlinelibrary.wiley.com/feed/17517915/most-recent",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5283,
+    "collected_at": "2026-11-19T13:13:10.696023+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "https://onlinelibrary.wiley.com/feed/17517915/most-recent"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.1111/1751-7915.70488"
+    ],
+    "translation": {
+      "title": {
+        "hash": "1eddfbc107addb66348bcd09ef5cd1f366133f7f10128d8b4a4b9feeeb141949",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T13:38:06.880938+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1f0ad6ca5b986ab5c31e3017fabc446c5b37687b1b47266dbcded84714176347",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T13:38:06.880938+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ファーネソールおよび脂肪酸の過酸化水素駆動型末端水酸化反応に向けた、Thermomonospora catenispora由来の耐熱性シトクロムP450酵素の工学的設計",
+    "abstract_ja": "好熱性細菌Thermomonospora catenisporaのゲノムマイニングにより、末端メチル酸化の潜在的な生体触媒としてCYP124B23が同定された。Iヘリックスの保存された酸・塩基残基に対する部位特異的変異導入により、このモノオキシゲナーゼはH2O2駆動型ペルオキシゲナーゼへと変換された。改変変異体は、ファルネソールの選択的末端水酸化を触媒した。\n\n要旨\nマイコバクテリア種由来のCYP124A酵素に代表されるCYP124ファミリーのシトクロムP450酵素は、メチル分岐脂質およびステロイドの酸化を触媒する。他の放線菌におけるこれらの酵素の機能については、大部分が未解明のままである。本報では、好熱性細菌Thermomonospora catenisporaから、新規CYP124酵素CYP124B23の単離および特性解析について報告する。精製酵素におけるソレトバンドの吸光度極大は392 nmであり、三価鉄のハイスピン状態であることが示された。保存されたIヘリックスのグルタミン酸－トレオニン（ET）対をグルタミン－グルタミン酸（QE）へと部位特異的変異導入したところ、本酵素にペルオキシゲナーゼ活性が付与された。変異酵素を用いた基質結合アッセイにより、脂肪酸とファルネソールが結合し、特にファルネソールが高い親和性（Kd = 1.4 ± 0.1 μM）を示すことが明らかとなった。本酵素は、フィタン酸を含む飽和脂肪酸およびメチル分岐脂肪酸の末端（ω）およびω-1水酸化を触媒した。ファルネソールの酸化は末端メチル基に対して選択的であり、12-ヒドロキシファルネソールとさらなる酸化生成物であるアルデヒドを生成し、総ターンオーバー数は2,000を超えた。本酵素は60°Cで30分間のインキュベーション後も触媒活性を保持しており、その熱安定性が示された。我々は、CYP124B23がファルネソールの位置選択的末端水酸化における頑健な生体触媒であり、合成反応への応用に大きな可能性を有していることを実証した。\n\n好熱性細菌Thermomonospora catenisporaのゲノムマイニングにより、末端メチル酸化の潜在的な生体触媒としてCYP124B23が同定された。Iヘリックスの保存された酸・塩基残基に対する部位特異的変異導入により、このモノオキシゲナーゼはH2O2駆動型ペルオキシゲナーゼへと変換された。改変変異体は、ファルネソールの選択的末端水酸化を触媒した。\n\n要旨\nマイコバクテリア種由来のCYP124A酵素に代表されるCYP124ファミリーのシトクロムP450酵素は、メチル分岐脂質およびステロイドの酸化を触媒する。他の放線菌におけるこれらの酵素の機能については、大部分が未解明のままである。本報では、好熱性細菌Thermomonospora catenisporaから、新規CYP124酵素CYP124B23の単離および特性解析について報告する。精製酵素におけるソレトバンドの吸光度極大は392 nmであり、三価鉄のハイスピン状態であることが示された。保存されたIヘリックスのグルタミン酸－トレオニン（ET）対をグルタミン－グルタミン酸（QE）へと部位特異的変異導入したところ、本酵素にペルオキシゲナーゼ活性が付与された。変異酵素を用いた基質結合アッセイにより、脂肪酸とファルネソールが結合し、特にファルネソールが高い親和性（Kd = 1.4 ± 0.1 μM）を示すことが明らかとなった。本酵素は、フィタン酸を含む飽和脂肪酸およびメチル分岐脂肪酸の末端（ω）およびω-1水酸化を触媒した。ファルネソールの酸化は末端メチル基に対して選択的であり、12-ヒドロキシファルネソールとさらなる酸化生成物であるアルデヒドを生成し、総ターンオーバー数は2,000を超えた。本酵素は60°Cで30分間のインキュベーション後も触媒活性を保持しており、その熱安定性が示された。我々は、CYP124B23がファルネソールの位置選択的末端水酸化における頑健な生体触媒であり、合成反応への応用に大きな可能性を有していることを実証した。"
   }
 ]
