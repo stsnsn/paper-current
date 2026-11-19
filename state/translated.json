@@ -59928,65 +59928,6 @@
     "discovery": []
   },
   {
-    "id": "10.1038/s41467-026-76823-7",
-    "title": "CD11b agonist GB1275 potentiates oncolytic bacterial therapy against pancreatic cancer in mouse tumor models.",
-    "abstract": "Oncolytic bacteria are microorganisms with cytotoxic activity capable of lysing cancer cells while simultaneously activating both innate and adaptive immune responses to exert anti-tumor effects. However, the innate immune activation targeting oncolytic bacteria within the tumor microenvironment (TME) is a limiting factor. Here we find that the CD11b-targeting agonist GB1275 can modulate bacteria-immune interaction and inhibit the infiltration of CD11b⁺ innate immune cells such as neutrophils and macrophages, thereby suppressing the antimicrobial immune defenses in the TME in mice. This then avoids the clearance of oncolytic bacteria and increases the efficacy of bacteria-mediated tumor immunotherapy. Furthermore, the gemcitabine-loaded bacteria combined with GB1275 treatment activate innate immune responses in tumor, as mediated by Toll-like receptors (TLR), NOD-like receptors (NLR) and cGAS-STING pathways, while simultaneously enhancing dendritic cell (DC)-dependent antigen cross-presentation; this then upregulates the adaptive anti-tumor immune response and inhibits the growth of both subcutaneous and in situ pancreatic cancers in mouse tumor models. Our results therefore demonstrate that modulating innate immune responses while subsequently strengthening adaptive immune activation can significantly improve the efficacy of bacteria-mediated tumor immunotherapy.",
-    "journal": "Nature Communications",
-    "doi": "10.1038/s41467-026-76823-7",
-    "date": "2026-08-21",
-    "authors": "Zhang B, Guan M, Xie XT, Zou JH, Cheng K, Zhao YD, Liu B, Fan JX, Xu QR.",
-    "tags": [
-      "微生物学"
-    ],
-    "source_url": "https://europepmc.org/article/MED/42869883",
-    "preprint": false,
-    "review": false,
-    "abstract_source": "Europe PMC",
-    "topic_filter": {
-      "accepted": true,
-      "reason": "microbial_evidence",
-      "version": "microbial-rules-v1",
-      "matched": [
-        "bacteria",
-        "bacterial",
-        "microorganisms"
-      ],
-      "context": {
-        "marine": [],
-        "genomics": [],
-        "evolution": []
-      },
-      "tags": [
-        "微生物学"
-      ]
-    },
-    "sources": [
-      "Europe PMC journals 4"
-    ],
-    "first_seen": "2026-11-06",
-    "related_dois": [
-      "10.1038/s41467-026-76823-7"
-    ],
-    "translation": {
-      "title": {
-        "hash": "9cb1c044c5c8f027ec191542a99481c93313d11be2fcc954657475282fb3bd61",
-        "model": "plamo-3-translate-2b",
-        "date": "2026-11-06T13:18:47.586093+00:00",
-        "format": "pfml3-ja-v1"
-      },
-      "abstract": {
-        "hash": "ebb331f5acbb5311cb89fd00a0de1d4fe56b0a7e05dcc760871ed89de2a1f109",
-        "model": "plamo-3-translate-2b",
-        "date": "2026-11-06T13:18:47.586093+00:00",
-        "format": "pfml3-ja-v1"
-      }
-    },
-    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
-    "title_ja": "CD11bアゴニストGB1275は、マウス腫瘍モデルにおいて膵癌に対する腫瘍溶解性細菌療法を増強する。",
-    "abstract_ja": "腫瘍溶解性細菌は、がん細胞を溶解すると同時に、自然免疫および獲得免疫応答の両方を活性化して抗腫瘍効果を発揮できる細胞傷害活性を有する微生物である。しかし、腫瘍微小環境（TME）内での腫瘍溶解性細菌を標的とした自然免疫活性化が制限要因となっている。本研究において、我々はCD11b標的アゴニストGB1275が、細菌－免疫相互作用を調節し、好中球やマクロファージなどのCD11b⁺自然免疫細胞の浸潤を抑制することで、マウスTMEにおける抗菌免疫防御を抑制することを見出した。これにより、腫瘍溶解性細菌の除去が回避され、細菌介在性腫瘍免疫療法の有効性が高まる。さらに、ゲムシタビン担持細菌とGB1275併用治療は、Toll様受容体（TLR）、NOD様受容体（NLR）およびcGAS-STING経路を介し、腫瘍における自然免疫応答を活性化すると同時に、樹状細胞（DC）依存性抗原クロスプレゼンテーションを強化する。これにより、獲得性抗腫瘍免疫応答が亢進し、マウス腫瘍モデルにおいて皮下がんおよびin situ膵がんの両方の増殖が抑制される。したがって、我々の結果は、自然免疫応答を調節しつつその後に獲得免疫活性化を強化することで、細菌介在性腫瘍免疫療法の有効性を大幅に向上させることができることを示している。",
-    "discovery": []
-  },
-  {
     "id": "10.1038/s41586-026-11121-2",
     "title": "5-oxoETE links redox control of epithelial damage detection and resilience.",
     "abstract": "Organisms harness oxidative stress to rapidly attract white blood cells to wound sites and to kill pathogens1-3. To this end, host tissues increase their own oxidative stress resilience and repair capacity via adaptive redox signalling4-6. Here, using live zebrafish and human cells, we identify a metabolic redox signalling mechanism that integrates oxidative immune defence with tissue adaptation. We demonstrate that DHRS7, an orphan short-chain fatty acid dehydrogenase-reductase, generates or consumes the pro-inflammatory lipid 5-oxoETE as a function of cytoplasmic NADP+/NADPH ratio. At wounds, where oxidative stress and NADP+ are high, 5-oxo-eicosatetraenoic acid (5-oxoETE) production by DHRS7 rapidly alerts antimicrobial white blood cells through the G-protein-coupled receptor OXER1. In undamaged tissue, where NADP+ is low, DHRS7 quenches unnecessary inflammation. Notably, we find that 5-oxoETE also supports epithelial redox resilience; OXER1-deficient zebrafish exhibit intestinal apoptosis, barrier disruption and microbial inflammation. Mechanistically, 5-oxoETE induces the expression of NUDIX hydrolases, which protect the cytoplasmic nucleotide pool from oxidation and prevent apoptosis in zebrafish and human intestinal cells. Thus, our data reveal a conserved mode of redox sensing and signalling-beyond classic thiol oxidation-that leverages NADPH metabolism to orchestrate the antimicrobial and pro-resilience functions of oxidative stress.",
