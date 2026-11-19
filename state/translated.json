@@ -303422,5 +303422,282 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "人工膜給餌はコクシエラ優位の細菌シグネチャーを維持するが、Haemaphysalis longicornisにおける細菌多様性の低下と関連している。",
     "abstract_ja": "人工的なマダニ給餌システムは、宿主給餌に代わる制御された手法としてますます利用されているが、マダニ関連細菌群集への影響については依然として十分に解明されていない。本研究では、94検体の16S rRNA遺伝子アンプリコンシーケンシングを用いて、in vitro由来、動物由来、および牧草地由来のHaemaphysalis longicornisの細菌群集を比較し、2,315種類の細菌アンプリコン配列バリアントを得た。すべての由来群においてCoxiella関連の細菌シグネチャーが優位に認められ、全体の平均相対存在量の69.8%を占め、in vitro由来のマダニにおいても顕著であった。しかし、より広範な細菌群集は由来群間で著しく異なっていた。in vitro由来のマダニは、動物由来および牧草地由来のマダニよりもアンプリコン配列バリアントの豊富度が低く、属レベルの多様性も狭く、検出された属数はそれぞれ106属、236属、247属であった。一方、シャノン多様性は、多重検定補正後においても、in vitro由来のマダニと自然由来のいずれの群との間でも有意な差は認められなかった。存在量差解析の結果、存在量の少ないいくつかの属が自然由来のマダニで濃縮されていた一方で、Brevibacteriumはin vitro由来のマダニでより豊富であった。由来、生活史段階、および吸血状態は細菌群集構造と関連していたが、これらの因子は完全に独立していたわけではなかった。探索的に推定された細菌関連ネットワークも、in vitro由来のマダニにおいてより単純であった。総じて、in vitro由来のH. longicornisはCoxiella関連の優位なプロファイルを保持していたが、自然曝露されたマダニのような広範な細菌的複雑性は備えていなかった。これらの知見は、実験マダニ生物学、病原体獲得、ワクチン、および殺ダニ剤研究において膜給餌マダニを用いる際の微生物学的境界を規定するものである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1954765",
+    "title": "Identification of novel sources of resistance to dry root rot caused by Macrophomina phaseolina in sesame",
+    "abstract": "Dry root rot (DRR), caused by Macrophomina phaseolina, has recently emerged as a destructive sesame disease and poses an increasing threat, especially under high temperature and low soil moisture conditions. Development of disease-resistant cultivars is considered an effective and economical strategy for disease management. The present study aimed to identify new sources of resistance against DRR through sequential screening under controlled and field conditions and to elucidate the biochemical mechanisms associated with resistance. A total of 100 sesame accessions were evaluated by the paper towel method. Of these, 16 were subsequently evaluated under artificial inoculation in pot and field experiments during the 2024 and 2025 cropping seasons, alongside a susceptible check. Field evaluations identified EC347078 as consistently resistant, whereas IC500861, IC511141, IC204259, and IC205669 exhibited comparatively low disease incidence across the seasons. Disease reactions in the field were highly consistent across years (Spearman’s ρ = 0.97, p < 0.001). The resistant accessions showed higher levels of accumulation of hydrogen peroxide, proline, total soluble sugar, total phenol, peroxidase, polyphenol oxidase, phenylalanine ammonia lyase, and soluble protein than susceptible accessions. Correlation, hierarchical clustering, and principal component analyses consistently distinguished resistant accessions from susceptible ones based on their biochemical defence responses. The identified resistant accession and those with low disease incidence represent valuable genetic resources for breeding dry root rot-resistant sesame cultivars and provide insights into the biochemical basis of resistance against M. phaseolina.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1954765",
+    "date": "2026-11-19",
+    "authors": "Bandar M. A. Al-Munqedhi",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1954765",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5263,
+    "collected_at": "2026-11-19T13:13:10.696023+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.3389/fmicb.2026.1954765"
+    ],
+    "translation": {
+      "title": {
+        "hash": "23116142dccbfe6d099622be4ecaf3a004b83a9e705faac0997fcf51e667954c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T13:46:11.807495+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "00eca6f3ff4412cbfe0b001d17dd5ad16d705595d5653e7fd34e81f53f65a8af",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T13:46:11.807495+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ゴマのMacrophomina phaseolinaによる乾枯根腐病の新規抵抗性源の同定",
+    "abstract_ja": "Macrophomina phaseolinaによって引き起こされる乾根腐病（DRR）は、近年、ゴマの破壊的な病害として顕在化しており、特に高温・低土壌水分条件下において脅威が増大している。病害抵抗性品種の開発は、病害管理における効果的かつ経済的な戦略と考えられている。本研究では、管理下および圃場条件下での逐次スクリーニングを通じてDRRに対する新たな抵抗性源を同定し、抵抗性に関連する生化学的メカニズムを解明することを目的とした。計100系統のゴマについて、ペーパータオル法を用いて評価を行った。このうち16系統について、2024年および2025年の作付けシーズンに、感受性系統との対照試験と併せて、ポットおよび圃場実験による人工接種評価を実施した。圃場評価の結果、EC347078が一貫して抵抗性を示すことが判明した一方、IC500861、IC511141、IC204259、およびIC205669は、シーズンを通じて病害発生率が相対的に低かった。圃場における病害反応は、年をまたいで極めて一貫していた（Spearman’s ρ = 0.97, p < 0.001）。抵抗性系統は、感受性系統と比較して、過酸化水素、プロリン、総可溶性糖、総フェノール、ペルオキシダーゼ、ポリフェノールオキシダーゼ、フェニルアラニンアンモニアリアーゼ、および可溶性タンパク質の蓄積レベルが高かった。相関分析、階層的クラスタリング、および主成分分析により、生化学的防御応答に基づいて抵抗性系統と感受性系統が一貫して区別された。同定された抵抗性系統および病害発生率の低い系統は、乾根腐病抵抗性ゴマ品種の育種における貴重な遺伝資源となり、M. phaseolinaに対する抵抗性の生化学的基盤に関する知見を提供するものである。"
+  },
+  {
+    "id": "10.1186/s13059-026-04350-1",
+    "title": "SPiCe: integrative spatial modelling of cellular plasticity using graph neural networks and geostatistics",
+    "abstract": "Cellular plasticity, the ability of cells to change phenotype in response to intrinsic and environmental cues, is central to development and disease, yet remains difficult to quantify. We present SPiCe, a framework that integrates graph neural networks and spatial regression models to predict and explain cell state variation in spatial transcriptomics data. Applied to epithelial-mesenchymal plasticity (EMP) in breast cancer, SPiCe shows that mesenchymal states are stabilised by copy number alterations and microenvironmental cues, whereas hybrid states remain unpredictable, and uncovers long-range myofibroblast influences on EMP. Together, these analyses provide a framework for quantifying cellular plasticity and its spatial determinants.",
+    "journal": "Genome Biology",
+    "doi": "10.1186/s13059-026-04350-1",
+    "date": "2026-11-19",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s13059-026-04350-1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "transcriptomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=13059",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5276,
+    "collected_at": "2026-11-19T13:13:10.696023+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=13059"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.1186/s13059-026-04350-1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6fbcd1392573f1b87fcb8cf03ea3c618c491029911551a487bf7fcda42b69d97",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T13:46:11.807495+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b2cc0116da4597fccc897c7d33f74dfef17a3196530df6d78d4689c0668d9035",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T13:46:11.807495+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "SPiCe: グラフニューラルネットワークと地理統計学を用いた細胞可塑性の統合的空間モデリング",
+    "abstract_ja": "細胞可塑性、すなわち内因性および環境的シグナルに応じて細胞が表現型を変化させる能力は、発生と疾患の中核をなすが、依然として定量化が困難である。本研究では、グラフニューラルネットワークと空間回帰モデルを統合し、空間トランスクリプトミクスデータにおける細胞状態の変動を予測・説明するフレームワーク「SPiCe」を提案する。乳がんにおける上皮間葉可塑性（EMP）に適用した結果、SPiCeは、間葉系状態がコピー数の変化や微小環境シグナルによって安定化される一方で、ハイブリッド状態は予測不能であることを示し、EMPに対する長距離の筋線維芽細胞の影響を明らかにした。これらの解析を総合することで、細胞可塑性とその空間的決定要因を定量化するためのフレームワークが提供される。"
+  },
+  {
+    "id": "10.1007/s00248-026-02929-6",
+    "title": "Host Species Identity and Wolbachia Infection are the Dominant Correlates of Bacterial Community Structure in Co-occurring Mosquitoes from Two South Korean Wetlands",
+    "abstract": "The mosquito-associated microbiome comprises gut-associated bacteria and intracellular endosymbionts, but in the field the contributions of host and environment are confounded because species are usually collected from different habitats. Using a co-occurring-species design, we profiled the whole-body-associated bacterial communities of 11 mosquito species collected at two South Korean wetlands by 16 S rRNA gene amplicon sequencing of 39 species-specific pools. Host species was the strongest correlate of community structure under every distance measure, explaining about 60% of the variance in abundance-weighted metrics (26–31% on compositional distances) and 68–77% within each site, where replicated species shared the same environment. Collection site explained 4–11% and was detected consistently only in metrics sensitive to rare taxa. Wolbachia relative abundance separated the species into two non-overlapping groups and accounted for much of the species’ signal, although host species still outweighed site after Wolbachia was excluded. Wolbachia-dominated species harbored fewer accompanying bacterial taxa even at equal sequencing depth. Removing the compositional dominance of Wolbachia revealed an Acinetobacter-dominated component present in all 11 species, overlain by host-specific genera such as Gibbsiella in Armigeres subalbatus and Serratia in Aedes vexans. This study provides, to our knowledge, the first microbiome profiles of Culex bitaeniorhynchus, Aedes lineatopennis, Mansonia uniformis and Coquillettidia ochracea, and a pool-level baseline of native Wolbachia status for symbiont-based vector control in temperate East Asia.",
+    "journal": "Microbial Ecology",
+    "doi": "10.1007/s00248-026-02929-6",
+    "date": "2026-11-19",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://link.springer.com/article/10.1007/s00248-026-02929-6",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=248",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5282,
+    "collected_at": "2026-11-19T13:13:10.696023+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=248"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.1007/s00248-026-02929-6"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ef7b07128848787ccb541801124b463837b3cbda0363da2d9740bc31169ea31a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T13:46:11.807495+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c93ff6d2a665a11b4a10334b8ae243e57f0fb8f6ff4bb490d79e75f70c0534de",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T13:46:11.807495+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "韓国の2つの湿地に共存する蚊における宿主種の同定とウォルバキア感染は、細菌群集構造の主要な相関因子である",
+    "abstract_ja": "蚊に関連するマイクロバイオームは、腸内細菌および細胞内エンドシンビオンから構成されるが、野外では通常、異なる生息地から種が採集されるため、宿主と環境の寄与が複雑に絡み合っている。共起種設計を用い、韓国の2か所の湿地で採集した11種の蚊について、39種特異的プールの16S rRNA遺伝子アンプリコンシーケンシングにより、全身関連細菌群集のプロファイル解析を行った。あらゆる距離指標において、宿主種が群集構造の最も強い相関因子であり、存在量加重指標の分散の約60%（組成距離では26–31%）、および、反復された種が同一環境を共有していた各地点内では68–77%を説明した。採集地点が説明したのは4–11%であり、稀な分類群に感度の高い指標においてのみ一貫して検出された。Wolbachiaの相対存在量により、種は重複しない2つのグループに区分され、種のシグナルの大部分を説明したが、Wolbachiaを除外した後でも、依然として宿主種が地点よりも大きな影響を及ぼしていた。Wolbachiaが優占する種では、シーケンシング深度が同等であっても、随伴する細菌分類群が少なかった。Wolbachiaの組成的優位性を取り除くと、11種すべてにAcinetobacterが優占する構成要素が存在することが明らかになり、その上にArmigeres subalbatusのGibbsiellaやAedes vexansのSerratiaといった宿主特異的な属が重なっていた。本研究は、我々の知る限り、Culex bitaeniorhynchus、Aedes lineatopennis、Mansonia uniformis、およびCoquillettidia ochraceaの初のマイクロバイオームプロファイルと、温帯東アジアにおける共生体ベースの媒介生物制御のための在来Wolbachiaの状態に関するプールレベルのベースラインを提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 6",
+        "query": "(JOURNAL:\"Microbial Genomics\" OR JOURNAL:\"Microbiology\" OR JOURNAL:\"Aquatic Microbial Ecology\" OR JOURNAL:\"PNAS\" OR JOURNAL:\"PLOS Biology\" OR JOURNAL:\"PLOS Genetics\" OR JOURNAL:\"Genome Research\" OR JOURNAL:\"Genome Biology\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1099/mgen.0.001887",
+    "title": "Karmii: a Kraken-based approach for robust microbial isolate identification.",
+    "abstract": "Accurate microbial isolate identification and confirmation of culture purity are fundamental prerequisites for generating reproducible research outcomes and ensuring the long-term reliability of microbial collections. Genomic data provide an ideal means of achieving high-quality and robust results concerning isolate taxonomic identification and purity assessment, particularly when other analytical methods cannot identify an organism. However, analyses based on assembled sequences, whether through marker genes or ANI, may overlook contamination present only in unassembled reads or discarded contigs. Here, we present Karmii, a Kraken 2-based workflow designed to confirm species identification and purity of sequenced isolates from short- or long-read data. The specificity of the method is to query single-isolate reads in a two-step process, first against a generic database to generate a shortlist of candidate species and second towards the pre-selected single-species databases. Having reads classified against only one species would strongly support purity and robust identification. Results are summarized in an intuitive plot showing the proportion of classified reads across all tested species as classification stringency increases. Thresholds are used to guide decision-making. To obtain reliable results, the composition of the reference database is crucial and must maximize represented diversity while excluding inconsistent taxonomic annotations. We therefore also describe a procedure for building a resource-efficient, comprehensive and curated reference database to support the analysis. A Nextflow implementation of this workflow for prokaryotic isolate analysis is provided with this article.",
+    "journal": "Microbial Genomics",
+    "doi": "10.1099/mgen.0.001887",
+    "date": "2026-11-01",
+    "authors": "Seppey M, Rincón C, Ngom-Bru C, Barretto C.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43049509",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43049509",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial",
+        "prokaryotic",
+        "sequence",
+        "workflow"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5143,
+    "collected_at": "2026-11-19T13:02:39.396497+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "Europe PMC journals 6"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.1099/mgen.0.001887"
+    ],
+    "translation": {
+      "title": {
+        "hash": "96183acef82d8e6385950f8a86de043019135b0c57f516686e388aecb8609605",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T13:46:11.807495+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1970629f5b280e7cdd33cd060677a2aa2ed080eaf76747d15267546de8b7ddb3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T13:46:11.807495+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Karmii：頑健な微生物分離株同定のためのKrakenベースの手法。",
+    "abstract_ja": "微生物分離株の正確な同定および培養純度の確認は、再現性のある研究成果を導き出し、微生物コレクションの長期的な信頼性を確保するための不可欠な前提条件である。ゲノムデータは、特に他の解析手法では生物種を同定できない場合において、分離株の分類学的同定および純度評価に関する高品質かつ堅牢な結果を得るための理想的な手段となる。しかし、マーカー遺伝子やANIを用いたアセンブル済み配列に基づく解析では、未アセンブルのリードや破棄されたコンティグにのみ存在するコンタミネーションが見落とされる可能性がある。本稿では、短リードまたは長リードデータからシーケンシングされた分離株の種同定および純度を確認するために設計された、Kraken 2ベースのワークフロー「Karmii」を提案する。本手法の特筆すべき点は、2段階のプロセスで単一分離株のリードをクエリすることにある。まず汎用データベースに対してクエリを行い、候補種のショートリストを作成し、次に事前に選定した単一種データベースに対してクエリを行う。リードを単一の種のみに分類することで、純度と堅牢な同定を強く裏付けることができる。結果は、分類の厳密度が高まるにつれて、テストした全種における分類済みリードの割合を示す直感的なプロットにまとめられる。意思決定の指針として閾値が用いられる。信頼性の高い結果を得るためには、リファレンスデータベースの構成が極めて重要であり、矛盾する分類学的アノテーションを排除しつつ、表現される多様性を最大化しなければならない。そこで本稿では、解析を支援するための、リソース効率が高く包括的かつキュレーション済みのリファレンスデータベースを構築する手順についても説明する。プロカリオート分離株解析のための本ワークフローのNextflow実装を、本稿に付随して提供する。"
   }
 ]
