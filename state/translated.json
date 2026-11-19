@@ -303147,5 +303147,280 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ファーネソールおよび脂肪酸の過酸化水素駆動型末端水酸化反応に向けた、Thermomonospora catenispora由来の耐熱性シトクロムP450酵素の工学的設計",
     "abstract_ja": "好熱性細菌Thermomonospora catenisporaのゲノムマイニングにより、末端メチル酸化の潜在的な生体触媒としてCYP124B23が同定された。Iヘリックスの保存された酸・塩基残基に対する部位特異的変異導入により、このモノオキシゲナーゼはH2O2駆動型ペルオキシゲナーゼへと変換された。改変変異体は、ファルネソールの選択的末端水酸化を触媒した。\n\n要旨\nマイコバクテリア種由来のCYP124A酵素に代表されるCYP124ファミリーのシトクロムP450酵素は、メチル分岐脂質およびステロイドの酸化を触媒する。他の放線菌におけるこれらの酵素の機能については、大部分が未解明のままである。本報では、好熱性細菌Thermomonospora catenisporaから、新規CYP124酵素CYP124B23の単離および特性解析について報告する。精製酵素におけるソレトバンドの吸光度極大は392 nmであり、三価鉄のハイスピン状態であることが示された。保存されたIヘリックスのグルタミン酸－トレオニン（ET）対をグルタミン－グルタミン酸（QE）へと部位特異的変異導入したところ、本酵素にペルオキシゲナーゼ活性が付与された。変異酵素を用いた基質結合アッセイにより、脂肪酸とファルネソールが結合し、特にファルネソールが高い親和性（Kd = 1.4 ± 0.1 μM）を示すことが明らかとなった。本酵素は、フィタン酸を含む飽和脂肪酸およびメチル分岐脂肪酸の末端（ω）およびω-1水酸化を触媒した。ファルネソールの酸化は末端メチル基に対して選択的であり、12-ヒドロキシファルネソールとさらなる酸化生成物であるアルデヒドを生成し、総ターンオーバー数は2,000を超えた。本酵素は60°Cで30分間のインキュベーション後も触媒活性を保持しており、その熱安定性が示された。我々は、CYP124B23がファルネソールの位置選択的末端水酸化における頑健な生体触媒であり、合成反応への応用に大きな可能性を有していることを実証した。\n\n好熱性細菌Thermomonospora catenisporaのゲノムマイニングにより、末端メチル酸化の潜在的な生体触媒としてCYP124B23が同定された。Iヘリックスの保存された酸・塩基残基に対する部位特異的変異導入により、このモノオキシゲナーゼはH2O2駆動型ペルオキシゲナーゼへと変換された。改変変異体は、ファルネソールの選択的末端水酸化を触媒した。\n\n要旨\nマイコバクテリア種由来のCYP124A酵素に代表されるCYP124ファミリーのシトクロムP450酵素は、メチル分岐脂質およびステロイドの酸化を触媒する。他の放線菌におけるこれらの酵素の機能については、大部分が未解明のままである。本報では、好熱性細菌Thermomonospora catenisporaから、新規CYP124酵素CYP124B23の単離および特性解析について報告する。精製酵素におけるソレトバンドの吸光度極大は392 nmであり、三価鉄のハイスピン状態であることが示された。保存されたIヘリックスのグルタミン酸－トレオニン（ET）対をグルタミン－グルタミン酸（QE）へと部位特異的変異導入したところ、本酵素にペルオキシゲナーゼ活性が付与された。変異酵素を用いた基質結合アッセイにより、脂肪酸とファルネソールが結合し、特にファルネソールが高い親和性（Kd = 1.4 ± 0.1 μM）を示すことが明らかとなった。本酵素は、フィタン酸を含む飽和脂肪酸およびメチル分岐脂肪酸の末端（ω）およびω-1水酸化を触媒した。ファルネソールの酸化は末端メチル基に対して選択的であり、12-ヒドロキシファルネソールとさらなる酸化生成物であるアルデヒドを生成し、総ターンオーバー数は2,000を超えた。本酵素は60°Cで30分間のインキュベーション後も触媒活性を保持しており、その熱安定性が示された。我々は、CYP124B23がファルネソールの位置選択的末端水酸化における頑健な生体触媒であり、合成反応への応用に大きな可能性を有していることを実証した。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1851928",
+    "title": "Salvianolic acid C from the traditional Chinese medicine Salvia miltiorrhiza Bunge: a potential drug targeting influenza virus neuraminidase",
+    "abstract": "BackgroundInfluenza viruses remain a formidable global health challenge, characterized by rapid genetic mutation, antigenic drift, and pandemic potential. Seasonal outbreaks impose substantial socioeconomic burdens, highlighting the urgent need for novel antiviral strategies beyond existing neuraminidase inhibitors, which are increasingly compromised by drug resistance and limited efficacy. While oseltamivir is a key treatment, the rise of drug-resistant variants highlights the urgent need for new therapeutic options.MethodsThis study first evaluated Xuebijing injection (XBJ) and its component herb S. miltiorrhiza for anti-influenza activity, followed by chemical profiling and compound prioritization. Salvianolic acid C was subsequently selected for detailed antiviral and mechanistic characterization, using qRT-PCR, Western blotting, plaque reduction assays, and immunofluorescence. Further, we evaluated its antiviral effects against other subtypes, including H3N2, H9N2, and influenza B virus. The therapeutic efficacy of salvianolic acid C was assessed in a murine model of lethal H1N1 infection by evaluating survival rates, lung viral loads, lung histopathology, and cytokine profiles. Administration and time-of-addition assays were conducted to determine the stage-specific inhibitory effects of salvianolic acid C in the viral life cycle. The interaction between salvianolic acid C and the NA protein was investigated using Bio-Layer Interferometry, cellular thermal shift assays, drug affinity responsive target stability assays, and neuraminidase inhibition assays.ResultsXuebijing injection and Salvia miltiorrhiza Bunge exhibited clear anti-influenza activity. Salvianolic acid C displayed potent in vitro anti-influenza activity against multiple subtypes (H1N1, H3N2, H9N2) with favorable EC50 and SI values, inhibiting viral NP/NA expression and progeny virus release. In vivo, salvianolic acid C improved the survival rate, reduced the lung index and viral load, and alleviated lung pathological damage in H1N1/PR8-infected mice. Mechanistically, salvianolic acid C acted at the stage of viral release without affecting viral RNA synthesis. BLI analysis showed that salvianolic acid C bound to NA with a KD of 1.49 μM, and it inhibited NA enzymatic activity.ConclusionSAC was identified as a promising anti-influenza compound that interacts with viral NA, inhibits NA enzymatic activity, and predominantly interferes with the late stage of the viral life cycle.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1851928",
+    "date": "2026-11-19",
+    "authors": "Geng Li",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1851928",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5262,
+    "collected_at": "2026-11-19T13:13:10.696023+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.3389/fmicb.2026.1851928"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6047e972162fa713c63d987ab755dbd16d5f92af93084c941e01de1e34839171",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T13:42:29.715916+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6f9bb9ba8558fde2a5c4a39494a17abbfe95c8ccda24f05a3d084fab02ec5328",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T13:42:29.715916+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "漢方薬サルビア・ミルティオリザ（Salvia miltiorrhiza Bunge）由来のサルビアノール酸C：インフルエンザウイルスノイラミニダーゼの潜在的な薬物標的",
+    "abstract_ja": "背景インフルエンザウイルスは、急速な遺伝子変異、抗原ドリフト、およびパンデミック発生の可能性を特徴とする、依然として深刻な世界的な保健課題である。季節的な流行は多大な社会経済的負担をもたらしており、薬剤耐性や有効性の限界により効果が低下しつつある既存のノイラミニダーゼ阻害薬に代わる、新たな抗ウイルス戦略が急務となっている。オセルタミビルは主要な治療薬であるが、薬剤耐性変異株の出現は、新たな治療選択肢の緊急な必要性を浮き彫りにしている。方法本研究では、まずXuebijing注射液（XBJ）およびその構成生薬であるS. miltiorrhizaの抗インフルエンザ活性を評価し、続いて化学的プロファイリングおよび化合物の優先順位付けを行った。その後、qRT-PCR、ウェスタンブロッティング、プラーク減少アッセイ、および免疫蛍光法を用いて、サルビアノール酸Cの詳細な抗ウイルス活性および作用機序の解析を行った。さらに、H3N2、H9N2、およびB型インフルエンザウイルスを含む他の亜型に対する抗ウイルス効果を評価した。サルビアノール酸Cの治療効果は、致死性H1N1感染マウスモデルにおいて、生存率、肺内ウイルス量、肺組織病理学的所見、およびサイトカインプロファイルの評価により検証した。ウイルスライフサイクルにおけるサルビアノール酸Cのステージ特異的な抑制効果を明らかにするため、投与および添加時期アッセイを実施した。サルビアノール酸CとNAタンパク質の相互作用については、バイオレイヤー干渉法、細胞熱シフトアッセイ、薬物親和性応答性標的安定性アッセイ、およびノイラミニダーゼ阻害アッセイを用いて検討した。結果Xuebijing注射液およびSalvia miltiorrhiza Bungeは、明確な抗インフルエンザ活性を示した。サルビアノール酸Cは、複数の亜型（H1N1、H3N2、H9N2）に対して良好なEC50およびSI値を示す強力なin vitro抗インフルエンザ活性を示し、ウイルスのNP/NA発現および子孫ウイルスの放出を抑制した。in vivoにおいて、サルビアノール酸CはH1N1/PR8感染マウスの生存率を改善し、肺指標およびウイルス量を減少させ、肺の病理学的損傷を軽減した。作用機序として、サルビアノール酸CはウイルスRNA合成に影響を与えることなく、ウイルス放出の段階で作用した。BLI解析により、サルビアノール酸CはKD 1.49 μMでNAに結合し、NAの酵素活性を阻害することが示された。結論SACは、ウイルスNAと相互作用し、NAの酵素活性を阻害し、主にウイルスライフサイクルの後期段階を妨げる有望な抗インフルエンザ化合物として同定された。"
+  },
+  {
+    "id": "10.1186/s13059-026-04347-w",
+    "title": "scDCF: detecting disease-associated cells from scRNA-seq using GWAS findings and healthy reference panels",
+    "abstract": "Genome-wide association studies identify disease-risk genes, but linking these signals to disease-relevant cells remains difficult. We present scDCF, a software framework that integrates disease-prioritized genes with single-cell RNA sequencing using library-size–matched healthy reference cells and expression-matched control genes. Across simulations and cohorts of systemic lupus erythematosus, Sjögren’s syndrome, and chronic kidney disease, scDCF localizes genetic risk to disease-enriched cell populations and transcriptional programs while controlling for baseline variation.",
+    "journal": "Genome Biology",
+    "doi": "10.1186/s13059-026-04347-w",
+    "date": "2026-11-19",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s13059-026-04347-w",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "framework",
+        "gene",
+        "sequencing",
+        "software"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=13059",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5275,
+    "collected_at": "2026-11-19T13:13:10.696023+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=13059"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.1186/s13059-026-04347-w"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d2933f6146e301a42f456e97cfff171b2b0136f5b0db31cc869d15322940faf7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T13:42:29.715916+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b543562b557d0cd2f3ff6432771145ccc506a93b740cc6a1f51ec38b4781c72b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T13:42:29.715916+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "scDCF: GWASの知見と健常者リファレンスパネルを用いたscRNA-seqからの疾患関連細胞の検出",
+    "abstract_ja": "ゲノムワイド関連解析により疾患リスク遺伝子が同定されるが、これらのシグナルを疾患関連細胞へと結びつけることは依然として困難である。本研究では、ライブラリサイズを一致させた健常参照細胞および発現を一致させた対照遺伝子を用い、疾患優先遺伝子とシングルセルRNAシーケンシングを統合するソフトウェアフレームワーク「scDCF」を提案する。全身性エリテマトーデス、シェーグレン症候群、および慢性腎臓病のシミュレーションおよびコホートにおいて、scDCFはベースラインの変動を制御しつつ、遺伝的リスクを疾患濃縮細胞集団および転写プログラムへと局在化させる。"
+  },
+  {
+    "id": "10.1111/1751-7915.70489",
+    "title": "Slightly Alkaline Growth Conditions Promote Magnetite Nucleation in Magnetospirillum gryphiswaldense",
+    "abstract": "Controlled bioreactor cultivation reveals that extracellular pH modulates the balance between biomass formation and magnetite biomineralization in Magnetospirillum gryphiswaldense. Slightly alkaline conditions promote magnetite nucleation, providing a mechanistic basis for rational pH control in magnetosome bioprocess optimization.\n\nABSTRACT\nThe magnetotactic bacterium Magnetospirillum gryphiswaldense MSR‐1 is a promising microbial platform for the biosynthesis of membrane‐enclosed magnetite (Fe3O4) nanoparticles, termed magnetosomes. Their highly controlled formation requires the coordinated regulation of cellular physiology, magnetosome biogenesis, and mineral chemistry. Although magnetite formation is thermodynamically favoured under alkaline conditions, magnetosome production in M. gryphiswaldense is commonly performed at near‐neutral culture pH. This raises the question of how extracellular pH affects the balance between biomass formation and magnetite nanoparticle biosynthesis. Here, we cultivated MSR‐1 in controlled bioreactor systems across a defined range of extracellular pH values and quantified growth, substrate uptake, and magnetosome formation. While optimal biomass formation occurred close to neutral pH, slightly alkaline growth conditions at pH 7.5 increased the number of magnetite crystals per cell. Western immunoblot analyses further revealed pH‐dependent changes in the abundance of several magnetosome‐associated proteins, whereas fluorescence microscopy showed no corresponding increase in magnetosome chain length at pH 7.5. These findings indicate that slightly alkaline growth conditions primarily enhance magnetite nucleation rather than increasing the number of magnetosome vesicles. Our results reveal a clear trade‐off between biomass production and magnetosome biomineralization and show that extracellular pH influences magnetosome formation at both physicochemical and biological levels. From a biotechnological perspective, this highlights extracellular pH as a critical process parameter for optimizing magnetosome yield and tailoring bacterial magnetic nanoparticle production in controlled cultivation systems.\n\nControlled bioreactor cultivation reveals that extracellular pH modulates the balance between biomass formation and magnetite biomineralization in Magnetospirillum gryphiswaldense. Slightly alkaline conditions promote magnetite nucleation, providing a mechanistic basis for rational pH control in magnetosome bioprocess optimization.\n\nABSTRACT\nThe magnetotactic bacterium Magnetospirillum gryphiswaldense MSR-1 is a promising microbial platform for the biosynthesis of membrane-enclosed magnetite (Fe3O4) nanoparticles, termed magnetosomes. Their highly controlled formation requires the coordinated regulation of cellular physiology, magnetosome biogenesis, and mineral chemistry. Although magnetite formation is thermodynamically favoured under alkaline conditions, magnetosome production in M. gryphiswaldense is commonly performed at near-neutral culture pH. This raises the question of how extracellular pH affects the balance between biomass formation and magnetite nanoparticle biosynthesis. Here, we cultivated MSR-1 in controlled bioreactor systems across a defined range of extracellular pH values and quantified growth, substrate uptake, and magnetosome formation. While optimal biomass formation occurred close to neutral pH, slightly alkaline growth conditions at pH 7.5 increased the number of magnetite crystals per cell. Western immunoblot analyses further revealed pH-dependent changes in the abundance of several magnetosome-associated proteins, whereas fluorescence microscopy showed no corresponding increase in magnetosome chain length at pH 7.5. These findings indicate that slightly alkaline growth conditions primarily enhance magnetite nucleation rather than increasing the number of magnetosome vesicles. Our results reveal a clear trade-off between biomass production and magnetosome biomineralization and show that extracellular pH influences magnetosome formation at both physicochemical and biological levels. From a biotechnological perspective, this highlights extracellular pH as a critical process parameter for optimizing magnetosome yield and tailoring bacterial magnetic nanoparticle production in controlled cultivation systems.",
+    "journal": "Microbial Biotechnology",
+    "doi": "10.1111/1751-7915.70489",
+    "date": "2026-11-19",
+    "authors": "Sophia Tessaro, \nMarkus Schüritz, \nValérie Jérôme, \nRuth Freitag, \nRené Uebe",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1751-7915.70489?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "bacterium",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://onlinelibrary.wiley.com/feed/17517915/most-recent",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5284,
+    "collected_at": "2026-11-19T13:13:10.696023+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "https://onlinelibrary.wiley.com/feed/17517915/most-recent"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.1111/1751-7915.70489"
+    ],
+    "translation": {
+      "title": {
+        "hash": "239ad41b6b21d52743b6577e532665a901e3180227410c3e82e76f286cf16bbe",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T13:42:29.715916+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e56ac82646147c55425c6b4f427e8dad980586c8feb8b06eace1af6e88fd2916",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T13:42:29.715916+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "弱アルカリ性の生育条件がMagnetospirillum gryphiswaldenseの磁鉄鉱核形成を促進する",
+    "abstract_ja": "制御バイオリアクター培養により、細胞外pHがMagnetospirillum gryphiswaldenseにおけるバイオマス形成と磁鉄鉱の生物鉱物化のバランスを調節することが明らかになった。弱アルカリ性条件は磁鉄鉱の核形成を促進し、マグネトソームバイオプロセスの最適化における合理的なpH制御の機構的基盤となる。\n\n要旨\n磁性細菌Magnetospirillum gryphiswaldense MSR‐1は、マグネトソームと呼ばれる膜封入型磁鉄鉱（Fe3O4）ナノ粒子の生合成における有望な微生物プラットフォームである。その高度に制御された形成には、細胞生理学、マグネトソーム生合成、および鉱物化学の協調的な調節が必要である。磁鉄鉱の形成はアルカリ性条件下で熱力学的に有利であるが、M. gryphiswaldenseにおけるマグネトソームの産生は通常、中性に近い培養pHで行われる。このことは、細胞外pHがバイオマス形成と磁鉄鉱ナノ粒子の生合成のバランスにどのように影響するかという問いを提起する。本研究では、制御バイオリアクターシステムを用いてMSR‐1を規定の細胞外pH範囲にわたって培養し、増殖、基質取り込み、およびマグネトソーム形成を定量した。最適なバイオマス形成は中性に近いpHで認められたが、pH 7.5の弱アルカリ性増殖条件では、細胞あたりの磁鉄鉱結晶数が増加した。ウェスタン免疫ブロット解析により、いくつかのマグネトソーム関連タンパク質の存在量にpH依存的な変化があることがさらに明らかになった一方、蛍光顕微鏡観察では、pH 7.5においてマグネトソーム鎖長の対応する増加は認められなかった。これらの知見は、弱アルカリ性増殖条件がマグネトソーム小胞の数を増やすのではなく、主に磁鉄鉱の核形成を促進することを示している。我々の結果は、バイオマス産生とマグネトソームの生物鉱物化との間に明確なトレードオフが存在することを明らかにし、細胞外pHが物理化学的および生物学的レベルの両方でマグネトソーム形成に影響を与えることを示している。バイオテクノロジーの観点からは、これは制御培養システムにおけるマグネトソーム収量の最適化および細菌による磁性ナノ粒子産生の調整において、細胞外pHが重要なプロセスパラメータであることを浮き彫りにしている。\n\n制御バイオリアクター培養により、細胞外pHがMagnetospirillum gryphiswaldenseにおけるバイオマス形成と磁鉄鉱の生物鉱物化のバランスを調節することが明らかになった。弱アルカリ性条件は磁鉄鉱の核形成を促進し、マグネトソームバイオプロセスの最適化における合理的なpH制御の機構的基盤となる。\n\n要旨\n磁性細菌Magnetospirillum gryphiswaldense MSR-1は、マグネトソームと呼ばれる膜封入型磁鉄鉱（Fe3O4）ナノ粒子の生合成における有望な微生物プラットフォームである。その高度に制御された形成には、細胞生理学、マグネトソーム生合成、および鉱物化学の協調的な調節が必要である。磁鉄鉱の形成はアルカリ性条件下で熱力学的に有利であるが、M. gryphiswaldenseにおけるマグネトソームの産生は通常、中性に近い培養pHで行われる。このことは、細胞外pHがバイオマス形成と磁鉄鉱ナノ粒子の生合成のバランスにどのように影響するかという問いを提起する。本研究では、制御バイオリアクターシステムを用いてMSR-1を規定の細胞外pH範囲にわたって培養し、増殖、基質取り込み、およびマグネトソーム形成を定量した。最適なバイオマス形成は中性に近いpHで認められたが、pH 7.5の弱アルカリ性増殖条件では、細胞あたりの磁鉄鉱結晶数が増加した。ウェスタン免疫ブロット解析により、いくつかのマグネトソーム関連タンパク質の存在量にpH依存的な変化があることがさらに明らかになった一方、蛍光顕微鏡観察では、pH 7.5においてマグネトソーム鎖長の対応する増加は認められなかった。これらの知見は、弱アルカリ性増殖条件がマグネトソーム小胞の数を増やすのではなく、主に磁鉄鉱の核形成を促進することを示している。我々の結果は、バイオマス産生とマグネトソームの生物鉱物化との間に明確なトレードオフが存在することを明らかにし、細胞外pHが物理化学的および生物学的レベルの両方でマグネトソーム形成に影響を与えることを示している。バイオテクノロジーの観点からは、これは制御培養システムにおけるマグネトソーム収量の最適化および細菌による磁性ナノ粒子産生の調整において、細胞外pHが重要なプロセスパラメータであることを浮き彫りにしている。"
+  },
+  {
+    "id": "10.1007/s00248-026-02932-x",
+    "title": "Artificial Membrane Feeding Preserves a Coxiella-Dominated Bacterial Signature but is Associated with Lower Bacterial Richness in Haemaphysalis longicornis",
+    "abstract": "Artificial tick-feeding systems are increasingly used as controlled alternatives to host feeding, but their effects on tick-associated bacterial communities remain poorly resolved. We compared bacterial communities from in vitro-derived, animal-associated and pasture-derived Haemaphysalis longicornis using 16​S rRNA gene amplicon sequencing of 94 samples, yielding 2,315 bacterial amplicon sequence variants. A dominant Coxiella-associated bacterial signature was detected across all source groups, accounting for 69.8% mean relative abundance overall and remaining prominent in in vitro-derived ticks. However, the broader bacterial community differed markedly among sources. In vitro-derived ticks showed lower amplicon sequence variant richness than animal-associated and pasture-derived ticks and had a narrower genus-level breadth, with 106 genera detected compared with 236 and 247 genera, respectively. Shannon diversity, however, did not differ significantly between in vitro-derived ticks and either naturally derived group after multiple-testing correction. Differential-abundance analysis indicated that several lower-abundance genera were enriched in naturally derived ticks, whereas Brevibacterium was more abundant in in vitro-derived ticks. Source, life stage and engorgement status were associated with bacterial community structure, although these factors were not fully independent. Exploratory inferred bacterial association networks were also simpler in in vitro-derived ticks. Overall, in vitro-derived H. longicornis retained a dominant Coxiella-associated profile but not the broader bacterial complexity of naturally exposed ticks. These findings define microbiological boundaries for using membrane-fed ticks in experimental tick biology, pathogen-acquisition, vaccine and acaricide studies.",
+    "journal": "Microbial Ecology",
+    "doi": "10.1007/s00248-026-02932-x",
+    "date": "2026-11-19",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://link.springer.com/article/10.1007/s00248-026-02932-x",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "microbiological"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=248",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5281,
+    "collected_at": "2026-11-19T13:13:10.696023+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=248"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.1007/s00248-026-02932-x"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8638ffb1cbc2ec5cc583a827dbba54b9a4d63f164593b636b7ebb827298507a1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T13:42:29.715916+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "92a1ea4429493ffeaaa0dfcb0b290367f609c1debfc9240f01aee1eb551b4db6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T13:42:29.715916+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "人工膜給餌はコクシエラ優位の細菌シグネチャーを維持するが、Haemaphysalis longicornisにおける細菌多様性の低下と関連している。",
+    "abstract_ja": "人工的なマダニ給餌システムは、宿主給餌に代わる制御された手法としてますます利用されているが、マダニ関連細菌群集への影響については依然として十分に解明されていない。本研究では、94検体の16S rRNA遺伝子アンプリコンシーケンシングを用いて、in vitro由来、動物由来、および牧草地由来のHaemaphysalis longicornisの細菌群集を比較し、2,315種類の細菌アンプリコン配列バリアントを得た。すべての由来群においてCoxiella関連の細菌シグネチャーが優位に認められ、全体の平均相対存在量の69.8%を占め、in vitro由来のマダニにおいても顕著であった。しかし、より広範な細菌群集は由来群間で著しく異なっていた。in vitro由来のマダニは、動物由来および牧草地由来のマダニよりもアンプリコン配列バリアントの豊富度が低く、属レベルの多様性も狭く、検出された属数はそれぞれ106属、236属、247属であった。一方、シャノン多様性は、多重検定補正後においても、in vitro由来のマダニと自然由来のいずれの群との間でも有意な差は認められなかった。存在量差解析の結果、存在量の少ないいくつかの属が自然由来のマダニで濃縮されていた一方で、Brevibacteriumはin vitro由来のマダニでより豊富であった。由来、生活史段階、および吸血状態は細菌群集構造と関連していたが、これらの因子は完全に独立していたわけではなかった。探索的に推定された細菌関連ネットワークも、in vitro由来のマダニにおいてより単純であった。総じて、in vitro由来のH. longicornisはCoxiella関連の優位なプロファイルを保持していたが、自然曝露されたマダニのような広範な細菌的複雑性は備えていなかった。これらの知見は、実験マダニ生物学、病原体獲得、ワクチン、および殺ダニ剤研究において膜給餌マダニを用いる際の微生物学的境界を規定するものである。"
   }
 ]
