@@ -307591,5 +307591,312 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "エージェント型画像処理：閉ループ画像変換システムに関する系統的レビュー",
     "abstract_ja": "画像の復元、補正、編集、および制御可能な生成は、コントローラが画像を診断し、リクエストを分解し、ツールを選択して設定し、中間結果を検査し、修正または停止を行うシステムによってますます行われるようになっている。「エージェント」という言葉は、実行時制御の度合いが大きく異なるシステムに適用されており、その文献はさまざまなコミュニティに分散している。本総説では、振る舞いに基づいてエージェント型画像処理を定義する。すなわち、識別可能なコントローラが、入力または中間画像の観測結果を用いて、後続の処理アクションを選択するというものである。我々は文献を体系的に調査し、タスク、コントローラ、観測、アクション、フィードバック、メモリ、組織化、学習、および自律性の観点から代表的なシステムを分析する。4軸の分類体系とA0–A4の自律性尺度を提案し、共通の「知覚・計画・実行・検証・記憶」アーキテクチャを記述するとともに、復元、レタッチ、編集、クローズドループ生成、ワークフロー構成、および応用について比較する。これらのシステムの4分の3は、画像を知覚し、計画を立て、ツールを呼び出すマルチモーダル大規模言語モデルによって推進され、2025年または2026年に登場した。コントローラは強化学習へと移行しつつあり、ほぼすべてのシステムが、ループを通じて誤差が伝播する学習済みジャッジに依存している。我々は、画像品質、目標充足、意思決定、軌跡、効率性、および人間中心の信頼性を網羅する6層の評価フレームワーク、報告用チェックリスト、設計ガイドライン、および未解決課題を提示する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.05.764699",
+    "title": "MorphoANOVA: Dissecting Histology–Gene Expression Relationships in Spatial Transcriptomics",
+    "abstract": "Spatial transcriptomics (ST) measures the expression of hundreds to thousands of genes within tissue architecture, often accompanied by histology images. However, it remains challenging to systematically characterize which genes exhibit associations with tissue morphology, whether these associations vary spatially, and which genes show additional spatial expression patterns beyond those captured by morphology. Here we introduce MorphoANOVA, a gene-wise statistical framework for characterizing morphology– expression relationships across genes measured by ST. Using nested spatially varying coefficient models and sequential ANOVA, MorphoANOVA assesses slide-wide associations with an H&E-derived morphology feature, location-specific changes in these associations, and additional spatial variation after accounting for the selected feature. The resulting statistics enable gene prioritization and pathway enrichment analysis, while spatial component maps support the interpretation of individual genes. Simulations demonstrate MorphoANOVA’s ability to distinguish the modeled components and recover their spatial patterns. Applications to human cortex and breast cancer identify biological programs associated with different morphology–expression patterns and reveal distinct relationships with cell composition. Across three HER2-positive breast cancer patients, invasive-cancer marker genes consistently exhibit stronger evidence of location-specific morphology associations. MorphoANOVA thus provides a framework for systematically interpreting spatial gene-expression patterns in relation to tissue morphology.",
+    "journal": "",
+    "doi": "10.64898/2026.11.05.764699",
+    "date": "2026-11-09",
+    "authors": "Chen P, Yan G, Yu S, Li JJ.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1362594",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5165,
+    "collected_at": "2026-11-19T21:31:24.770122+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.64898/2026.11.05.764699"
+    ],
+    "translation": {
+      "title": {
+        "hash": "1b7abc9dc98128d4b4b2044734dab444062f22127850fd7e90f106a1310bd37b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T22:20:55.959850+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6764a237b19e7f8d82a0b290a26557662c068e0cb137cffc3ca58a97eea12630",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T22:20:55.959850+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "MorphoANOVA：空間トランスクリプトミクスにおける組織学と遺伝子発現の関係の解析",
+    "abstract_ja": "空間トランスクリプトミクス（ST）は、組織構造内における数百から数千の遺伝子の発現を測定する手法であり、多くの場合、組織像画像を伴う。しかし、どの遺伝子が組織形態との関連を示すのか、これらの関連が空間的に変動するのか、そして形態学的解析で捉えられたパターン以外に、どのような遺伝子が追加的な空間的発現パターンを示すのかを体系的に特性評価することは、依然として困難な課題である。本研究では、STによって測定された遺伝子間の形態－発現関係を特性評価するための、遺伝子レベルの統計的フレームワークであるMorphoANOVAを提案する。入れ子型の空間変動係数モデルと逐次ANOVAを用いることで、MorphoANOVAは、H&E由来の形態学的特徴に対するスライド全体の関連性、これらの関連性の部位特異的な変化、および選択した特徴を考慮した後の追加的な空間変動を評価する。得られた統計量は、遺伝子の優先順位付けやパスウェイエンリッチメント解析を可能にする一方、空間成分マップは個々の遺伝子の解釈を支援する。シミュレーションにより、MorphoANOVAがモデル化された成分を識別し、その空間的パターンを復元できる能力があることが実証された。ヒト皮質および乳がんへの適用により、異なる形態－発現パターンに関連する生物学的プログラムが特定され、細胞組成との明確な関連性が明らかになった。3例のHER2陽性乳がん患者において、浸潤がんマーカー遺伝子は、部位特異的な形態関連のより強い証拠を一貫して示している。したがって、MorphoANOVAは、組織形態に関連して空間的な遺伝子発現パターンを体系的に解釈するためのフレームワークを提供する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.29.761548",
+    "title": "RCDome: A Multi-Database Human Gene Atlas of Regulated Cell Death",
+    "abstract": "ABSTRACT  Introduction  Regulated cell death (RCD) governs tissue homeostasis, development, and disease, and is executed or regulated by specific genes. Yet for the researcher asking which genes execute or regulate a given RCD form, the answer is rarely simple: gene lists for the same form rarely agree across databases, many associations carry no traceable source, and most have never been systematically checked against primary literature. We built RCDome to answer the most basic question a researcher can ask: where did this gene-RCD association come from, and what is the evidence? Methods  RCDome is a multi-database human gene atlas built through a staged architecture integrating multi-source compilation, literature validation and evidence recovery, mechanistic classification, human-governed ontological adjudication, and web deployment. Five complementary evidence channels—PubMed Boolean search, curated databases, AI-assisted screening, manual curation, and Elicit systematic review—were integrated from 20 public databases into a unified matrix. Sixty-two original name strings were canonicalized into 53 RCD-related entities with curator-adjudicated operational definitions and ontological levels. Gene-RCD associations were systematically evaluated through an independent DeepSeek two-call LLM validation, Europe PMC full-text recovery and deep evidence extraction, an independent Consensus literature-search channel, and GPT-4o arbitration of disagreements. Source-grounding controls rejected extracted evidence not found verbatim in the source document, while the governance contract was enforced as executable code. Results  The compendium holds 22,473 association rows spanning 9,265 unique HGNC-validated genes (21,568 unique gene-RCD pairs). Evidence-first adjudication resolved 5,138 pairs (23.8%) as mechanistically involved; across the 4,775 role-resolved pairs, 225 (4.7%) are executors, 4,455 (93.3%) are regulators, and 95 are markers, revealing a small death-executing core embedded in a vast regulatory network. Under a separate seven-class mechanistic criterion applied to all 22,473 rows, only 3,063 (13.6%) were mechanistically confirmed and 286 (1.3%) were database-only with no verifiable paper trail. Conclusion  RCDome makes the RCD evidence landscape measurable and traceable, showing that AI-assisted curation can be verifiable, human-governed, and explicit about uncertainty. It is delivered as a Shiny web application that lets any researcher query the atlas and inspect the evidence behind each association. Availability  RCDome is freely available at  https://rcdome.org/ (source code and data at  https://github.com/BioCancerInformatics/RCDome ).",
+    "journal": "",
+    "doi": "10.64898/2026.10.29.761548",
+    "date": "2026-11-09",
+    "authors": "Rodrigues de Souza E, dos Santos Lopes V, Almeida Cordeiro Nogueira H, Medina-Acosta E.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1362438",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "database",
+        "gene"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "database",
+          "gene"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5168,
+    "collected_at": "2026-11-19T21:31:24.770122+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.64898/2026.10.29.761548"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c2c958c3ebd03245bc6f261528517d1ac393a17338724049c611496d674878e4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T22:20:55.959850+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b491dcc02738d628c7cf23b0807d00bede5a49bcd2540a245e4a2ffda8ffb58b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T22:20:55.959850+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "RCDome: 制御性細胞死のマルチデータベースヒト遺伝子アトラス",
+    "abstract_ja": "要旨  はじめに  制御性細胞死（RCD）は、組織の恒常性、発生、および疾患を司っており、特定の遺伝子によって実行または制御されている。しかし、あるRCD形態を実行または制御する遺伝子を問う研究者にとって、その答えは単純であることは稀である。同一形態の遺伝子リストはデータベース間で一致することが稀であり、多くの関連性には追跡可能な出典がなく、その大半は一次文献との体系的な照合が行われたことがない。我々は、研究者が抱く最も基本的な問い――この遺伝子-RCD関連性はどこから来たのか、その根拠は何か――に答えるためにRCDomeを構築した。手法  RCDomeは、マルチソースの集約、文献検証および根拠の回収、機構的分類、人間によるオントロジー裁定、およびウェブ展開を統合した段階的アーキテクチャを通じて構築された、マルチデータベース対応のヒト遺伝子アトラスである。PubMedのブール検索、キュレート済みデータベース、AI支援スクリーニング、手動キュレーション、およびElicitによる系統的レビューという5つの補完的な根拠チャネルを、20の公開データベースから統合マトリクスへと組み込んだ。62の元の名称文字列は、キュレーターが裁定した運用定義とオントロジーレベルを備えた53のRCD関連エンティティへと正規化された。遺伝子-RCD関連性は、独立したDeepSeek 2-call LLM検証、Europe PMCの全文回収および深層根拠抽出、独立したコンセンサス文献検索チャネル、およびGPT-4oによる不一致の裁定を通じて体系的に評価された。ソースグラウンディング・コントロールにより、ソース文書に逐語的に記載されていない抽出根拠は排除され、ガバナンス契約は実行可能なコードとして適用された。結果  本コンペンディウムには、9,265個の固有のHGNC検証済み遺伝子にわたる22,473件の関連性行（21,568組の固有の遺伝子-RCDペア）が収録されている。根拠優先の裁定により、5,138組（23.8%）が機構的に関与していると判定された。役割が特定された4,775組のうち、225組（4.7%）が実行因子、4,455組（93.3%）が制御因子、95組がマーカーであり、広大な制御ネットワークに組み込まれた少数の死実行コアの存在が明らかになった。全22,473行に適用された別の7クラスの機構的基準に基づき、機構的に確認されたのは3,063行（13.6%）のみであり、286行（1.3%）は検証可能な論文の痕跡がないデータベースのみのデータであった。結論  RCDomeは、RCDの根拠状況を測定可能かつ追跡可能にし、AI支援キュレーションが検証可能で、人間によって管理され、不確実性が明示的であり得ることを示す。本ツールはShinyウェブアプリケーションとして提供されており、あらゆる研究者がアトラスをクエリし、各関連性の背後にある根拠を精査することができる。利用可能性  RCDomeは https://rcdome.org/ で無料で利用可能である（ソースコードおよびデータは https://github.com/BioCancerInformatics/RCDome ）。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11242334/v1",
+    "title": "Improving Genomic Prediction of Late Blight Resistance in Potato by Incorporating Indirect Genetic Effects and Foliage Maturity–Corrected Breeding Values",
+    "abstract": "Abstract    Late blight of potato (  Phytophthora infestans  ) remains a persistent threat to global potato production. Due to the pathogen’s ability to rapidly overcome race-specific resistance genes, modern potato breeding must focus on durable quantitative resistance, including the use of genomic selection approaches. In this study, several genomic prediction models for late blight resistance were evaluated, differing in their treatment of spatial effects and incorporation of indirect genetic effects (IGEs) from neighbors. The optimal model was subsequently extended to a bivariate formulation to derive maturity-corrected genomic breeding values, effectively removing the confounding influence of foliage maturity on late blight resistance. Our results showed that additive genetic variance for late blight resistance accounted for a substantial proportion of total variance (h² = 0.32±0.02) and IGEs from neighboring plots were significant based on a standard likelihood ratio test. Although IGEs explained only a small portion of total variances, their inclusion markedly improved model prediction accuracy. We also observed a relatively high genetic correlation between foliage maturity and late blight score (0.56± 0.09), indicating that late-maturing lines tend to exhibit higher levels of durable resistance to late blight. After correcting for the confounding influence of foliage maturity, the narrow-sense heritability of the residual breeding value remained moderate (h² = 0.26), suggesting that meaningful genetic gain through selection is still possible. From a breeder’s perspective, selection based on total late blight resistance could unintentionally favor late-maturing genotypes, due to the positive genetic correlation between two traits. However, with residual breeding value, it is possible to get a response to selection for late blight resistance without affecting foliage maturity type.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11242334/v1",
+    "date": "2026-11-09",
+    "authors": "Kafle S, Chu TT, Bagge M, Christiansen MT, Tost M, Bürstmayr H, Jensen J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1362000",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "gene",
+        "genetic",
+        "genomic",
+        "prediction"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5169,
+    "collected_at": "2026-11-19T21:31:24.770122+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.21203/rs.3.rs-11242334/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "23b3d6fae350acadf11ef96987336704e72eae8f89e431d4f46d755f39c9b6f4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T22:20:55.959850+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4e5f118cdefddd8d296a4c16f99d986842f466e50a56e826e3e7057075740ef1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T22:20:55.959850+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "間接的遺伝効果と葉成熟補正育種価の導入によるジャガイモ晩期枯死病抵抗性のゲノム予測の高度化",
+    "abstract_ja": "要旨    ジャガイモの晩枯病（Phytophthora infestans）は、世界的なジャガイモ生産にとって依然として根強い脅威となっている。本病原体が品種固有の抵抗性遺伝子を迅速に克服する能力を有するため、現代のジャガイモ育種では、ゲノム選抜手法の活用を含め、持続的な量的抵抗性の獲得に重点を置く必要がある。本研究では、晩枯病抵抗性に関する複数のゲノム予測モデルを評価し、空間的影響の取り扱いおよび隣接区画からの間接的遺伝効果（IGEs）の組み込み方の違いを検証した。その後、最適なモデルを二変数定式化へと拡張して成熟度補正済みゲノム育種価を導出することで、葉の成熟度が晩枯病抵抗性に及ぼす交絡影響を効果的に除去した。その結果、晩枯病抵抗性の加法的遺伝分散が全分散の相当な割合を占めており（h² = 0.32±0.02）、標準尤度比検定に基づき、隣接区画からのIGEsは有意であることが示された。IGEsが全分散に占める割合はわずかであったが、その導入によりモデルの予測精度が著しく向上した。また、葉の成熟度と晩枯病スコアとの間に比較的高い遺伝的相関（0.56± 0.09）が観察され、晩熟系統は晩枯病に対してより高いレベルの持続的な抵抗性を示す傾向があることが示された。葉の成熟度による交絡影響を補正した後でも、残差育種価の狭義遺伝率は中程度（h² = 0.26）に留まり、選抜による有意義な遺伝的利益の獲得が依然として可能であることが示唆された。育種家の視点からは、2つの形質間に正の遺伝的相関があるため、全晩枯病抵抗性に基づく選抜は、意図せず晩熟型の遺伝子型を有利にする可能性がある。しかし、残差育種価を用いることで、葉の成熟度タイプに影響を与えることなく、晩枯病抵抗性の選抜に対する応答を得ることが可能である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11144010/v1",
+    "title": "GenEdXR: A Generative AI-Driven Extended Reality Framework for Adaptive Educational Entertainment Ecosystems",
+    "abstract": "Abstract  Generative artificial intelligence and extended reality (XR) offer unprecedented opportunities for adaptive educational entertainment, yet existing systems suffer from static content pipelines and weak integration between immersive interaction and intelligent adaptation. Here we introduce GenEdXR, a framework that unifies a transformer-based deep knowledge tracing (DKT) module, a large-language-model content synthesis pipeline, a proximal-policy-optimisation adaptive orchestration engine, and multi-modal XR rendering within a closed-loop architecture. These components are bound through a scaled dot-product cross-modal attention fusion mechanism that integrates semantic, cognitive and temporal representations. We evaluated GenEdXR through a large-scale simulation protocol involving 33,510 replayed learner trajectories from three complementary public datasets --- ASSISTments 2009--2010, the Open University Learning Analytics Dataset, and KDD Cup 2010 Algebra 2005--2006 --- spanning question-level, session-level and step-level interaction granularities. Under five-fold cross-validation across four framework configurations, GenEdXR-Full attained the highest normalised learning gain (M = 0.523; Cohen's d = 2.71 versus baseline), highest engagement and flow-zone membership, and lowest cognitive-load proxy. Ablation and pairwise-comparison analyses demonstrated that neither the generative content channel nor the immersive rendering channel alone recovered the full performance profile, revealing a synergistic integration effect. Runtime characterisation confirms deployability on a single commodity XR headset paired with an A100-class GPU. GenEdXR offers an empirically grounded architectural blueprint for next-generation adaptive educational entertainment ecosystems.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11144010/v1",
+    "date": "2026-11-09",
+    "authors": "Xie T, Guo N, Zheng C.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1361979",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene",
+        "pipeline"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "framework",
+          "gene",
+          "pipeline"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5170,
+    "collected_at": "2026-11-19T21:31:24.770122+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.21203/rs.3.rs-11144010/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "149f4e54f082710be2d04a4da060b81b5be717339b016c03b94a968ee9c8cf73",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T22:20:55.959850+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "090b084f8f95e7953340b26588c9c7083b8ef205c6ba4f8154952803d6206c28",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T22:20:55.959850+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "GenEdXR：適応型教育エンターテインメント・エコシステムのための生成AI駆動型拡張現実フレームワーク",
+    "abstract_ja": "要旨　生成型人工知能と拡張現実（XR）は、適応型教育エンターテインメントに前例のない機会をもたらすが、既存のシステムは静的なコンテンツパイプラインや、没入型インタラクションと知的適応との間の連携不足という課題を抱えている。本研究では、Transformerベースの深層知識トレーシング（DKT）モジュール、大規模言語モデルによるコンテンツ合成パイプライン、近接方策最適化（proximal-policy-optimisation）適応型オーケストレーションエンジン、およびマルチモーダルXRレンダリングをクローズドループアーキテクチャ内で統合したフレームワーク「GenEdXR」を提案する。これらのコンポーネントは、意味的、認知的、および時間的表現を統合するスケーリングされた内積クロスモーダルアテンション融合機構によって結び付けられている。我々は、質問レベル、セッションレベル、およびステップレベルのインタラクション粒度にわたる、3つの補完的な公開データセット――ASSISTments 2009--2010、Open University Learning Analytics Dataset、およびKDD Cup 2010 Algebra 2005--2006――から得られた33,510件のリプレイ済み学習者軌跡を用いた大規模なシミュレーションプロトコルを通じて、GenEdXRを評価した。4つのフレームワーク構成にわたる5分割交差検証の結果、GenEdXR-Fullは最高の正規化学習利得（M = 0.523; Cohen's d = 2.71 対ベースライン）、最高のエンゲージメントおよびフローゾーン帰属率、そして最小の認知負荷プロキシを達成した。アブレーション分析およびペアワイズ比較分析により、生成コンテンツチャネルまたは没入型レンダリングチャネルのいずれも単独では完全なパフォーマンスプロファイルを回復できず、相乗的な統合効果があることが示された。ランタイム特性評価により、A100クラスのGPUと組み合わせた単一の汎用XRヘッドセットへのデプロイ可能性が確認された。GenEdXRは、次世代の適応型教育エンターテインメントエコシステムに向けた、実証的に根拠のあるアーキテクチャ設計図を提供するものである。"
   }
 ]
