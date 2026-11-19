@@ -55768,5 +55768,369 @@ window.PAPER_RECENT_DATA = [
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "インド産小麦におけるFusarium graminearumおよびFusarium avenaceumの先駆的なハイブリッドゲノムアセンブリ：病原性フレームワークとゲノム進化に関する知見",
     "abstract_ja": "主に各種フザリウム属菌によって引き起こされるフザリウム頭部枯死病（FHB）は、収量を減少させ、穀粒をマイコトキシンで汚染する小麦の破壊的病害である。本研究では、インド産小麦のFHB関連フザリウム分離株に関する初のゲノムスケールの比較研究として、2つのインド産小麦分離株、Fusarium graminearum株TNW1およびFusarium avenaceum株DMW8の高品質なハイブリッドゲノムアセンブリを報告する。両インド産分離株は、アウロフザリン、クリソジン、クラバル酸、コライオール、オルシノール／オルセリニン酸、およびオキシジャバニシンを含む保存されたフザリウム二次代謝物クラスターを保持しつつ、種に特有の生合成プロファイルを示した。TNW1はゼアラレノンおよびDON関連の生合成クラスターを含んでいたのに対し、DMW8はボーベルシンおよびその他の種特有のクラスターを含んでおり、これら2つのフザリウム種間で予測される生合成能に差異があることが浮き彫りとなった。特筆すべきは、両ゲノムともそれぞれの種群と比較して転移因子（TE）含有量が比較的低く、TEが占める割合はTNW1ゲノムで0.96%、DMW8ゲノムで1.55%であったことである。RIP関連のゲノムカバー率もそれぞれ20.01%および22.38%と比較的低かった。TE挿入解析では、主にリファレンス関連の挿入が同定され、DMW8では2つの非リファレンス候補挿入が検出された。遺伝子ファミリー解析の結果、DMW8ではTNW1よりも複製および拡大収縮の動態が大きいことが明らかになった。以上の知見は、2つのインド産分離株間における予測ゲノム特性、二次代謝物生合成能、および遺伝子ファミリー構成の相違を浮き彫りにするものであり、今後のフザリウムの生物学および小麦病原菌との相互作用に関する研究のためのゲノムリソースを提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "review",
+      "journal article"
+    ],
+    "id": "10.1128/cmr.00112-26",
+    "title": "Solving the <i>Staphylococcus aureus</i> puzzle: lessons to guide future MRSA vaccine development.",
+    "abstract": "SUMMARYThe broad-spectrum use of antibiotics allows for the development of resistance in symptomatically and asymptomatically carried pathogenic bacteria. Antibiotic-resistant bacteria, with this review focusing on Staphylococcus aureus, cause significant morbidity and mortality and put considerable strain on the global healthcare system. In a vaccinated individual, bacteria are less likely to develop resistance mechanisms compared to an individual treated with antibiotics, highlighting a potential method for conserving antibiotic use. However, despite over a century of research, a S. aureus vaccine candidate is yet to progress past phase III clinical trials, and to develop a successful S. aureus vaccine, the shortcomings of previous attempts require critical analysis. After consideration of the five most successful S. aureus vaccine programs, it is identified in this review that future attempts should (i) be polyvalent to circumvent immune evasion, (ii) include carefully chosen antigens to avoid maladaptive memory, (iii) include T cell targeting to provide a comprehensive immune response, (iv) utilize multiple measures of preclinical efficacy in pre-exposed models, and (v) implement considered clinical study design, including appropriate vaccine formulation for the target population. By combining these attributes, such as in the form of epitope-based or nanoparticle vaccines, there is a promising future for the development of S. aureus vaccines that circumvent the issues that caused the downfall of previous vaccine programs, thereby protecting the global population from development toward a future where bacteria are resistant to all antibiotic treatments.",
+    "journal": "Clinical Microbiology Reviews",
+    "doi": "10.1128/cmr.00112-26",
+    "date": "2026-10-21",
+    "authors": "Mills E, Del Borgo MP, O'Keeffe M.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42904685",
+    "preprint": false,
+    "review": true,
+    "pmcid": "",
+    "pmid": "42904685",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5138,
+    "collected_at": "2026-11-19T03:25:36.884070+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.1128/cmr.00112-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "eb5f8fd267b4796f752ea78cd83cbb52ab1ee5b3bda531aa760cc9aac0ffce6c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T03:57:37.961868+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "da1c4bc134338e2b473650bc665d298716c6abaa718490c45e217ad4ec928895",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T03:57:37.961868+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "<i>Staphylococcus aureus</i>の謎の解明：今後のMRSAワクチン開発の指針となる知見",
+    "abstract_ja": "要旨 抗生物質の広範な使用は、有症状および無症状で保菌している病原細菌における耐性の獲得を招く。抗生物質耐性菌（本総説では黄色ブドウ球菌に焦点を当てる）は、著しい罹患率および死亡率を引き起こし、世界的な医療体制に多大な負荷をかけている。ワクチン接種を受けた個人では、抗生物質で治療を受けた個人と比較して細菌が耐性機構を発達させる可能性が低く、抗生物質の使用を節約するための潜在的な手法が示唆される。しかし、1世紀以上にわたる研究にもかかわらず、黄色ブドウ球菌ワクチン候補はいまだ第III相臨床試験の段階を脱しておらず、成功する黄色ブドウ球菌ワクチンを開発するには、これまでの試みの不備に対する批判的な分析が必要である。最も成功した5つの黄色ブドウ球菌ワクチンプログラムを検討した結果、本総説では、今後の試みにおいて(i) 免疫逃避を回避するための多価性、(ii) 不適応性記憶を回避するための慎重に選定された抗原、(iii) 包括的な免疫応答を提供するためのT細胞標的化、(iv) 事前曝露モデルにおける複数の前臨床有効性評価指標の活用、および(v) 対象集団に適したワクチン製剤を含む、検討された臨床試験デザインを採用すべきであることが明らかになった。エピトープベースまたはナノ粒子ワクチンといった形態でこれらの特性を組み合わせることで、従来のワクチンプログラムの失敗を招いた問題を回避し、細菌がすべての抗生物質治療に耐性を持つ未来の到来から世界の人々を守る、有望な黄色ブドウ球菌ワクチンの開発の展望が開かれている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "review",
+      "journal article"
+    ],
+    "id": "10.1128/cmr.00119-26",
+    "title": "Hepatitis E virus infections in immunocompromised patients.",
+    "abstract": "SUMMARYHepatitis E virus (HEV) is an important cause of viral hepatitis globally. Historically considered an acute and self-limiting illness, HEV has emerged as a significant pathogen in various immunocompromised patient groups in the last 15 years. Vulnerable patients include transplant recipients, people living with advanced HIV infection, and patients with hematological malignancies, rheumatological disorders, or autoimmune diseases. These individuals are vulnerable to chronic hepatitis and extrahepatic manifestations due to HEV. These risks are also relevant to emerging modalities of immunosuppression such as new targeted drug therapies and chimeric antigen receptor T-cell therapies. Besides unique clinical implications, immunocompromised hosts have also been at the center of new developments in the hepatitis E field on zoonotic reservoirs, transmission routes, disease models, and pathogenesis. In this review, we present a comprehensive integrative summary of the epidemiology, clinical manifestations, pathogenesis, diagnosis, and management strategies of HEV infections in immunocompromised hosts.",
+    "journal": "Clinical Microbiology Reviews",
+    "doi": "10.1128/cmr.00119-26",
+    "date": "2026-10-26",
+    "authors": "Sridhar S, Ma X, Ho SFS.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42929522",
+    "preprint": false,
+    "review": true,
+    "pmcid": "",
+    "pmid": "42929522",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5137,
+    "collected_at": "2026-11-19T03:25:36.884070+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.1128/cmr.00119-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "76db5cec4b652a520e757de84ba9f573d60e2c4f1b64e13c3a45543a6542d4cf",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T03:57:37.961868+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e2f44cda4bde2c9c0c35a78c0f33692398ba74c8a233e01150beae07fbd1fa4b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T03:57:37.961868+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "免疫不全患者におけるE型肝炎ウイルス感染症。",
+    "abstract_ja": "要旨 エ型肝炎ウイルス（HEV）は、世界的にウイルス性肝炎の重要な原因となっている。従来は急性かつ自然治癒性の疾患と考えられてきたが、過去15年間で、HEVはさまざまな免疫不全患者群における重大な病原体として台頭してきた。脆弱な患者には、移植レシピエント、進行したHIV感染症を有する人々、ならびに血液悪性腫瘍、リウマチ性疾患、または自己免疫疾患を有する患者が含まれる。これらの人々は、HEVによる慢性肝炎や肝外症状の発症リスクが高い。こうしたリスクは、新たな標的薬物療法やキメラ抗原受容体T細胞療法といった、登場しつつある免疫抑制法にも関連している。特有の臨床的意義に加え、免疫不全宿主は、人獣共通感染リザーバー、伝播経路、疾患モデル、および病態形成に関するエ型肝炎分野の新たな進展の中心となってきた。本総説では、免疫不全宿主におけるHEV感染症の疫学、臨床症状、病態形成、診断、および管理戦略について、包括的かつ統合的な要約を提示する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/msphere.00482-26",
+    "title": "An antibiotic-treated mouse model reveals the progression of intestinal botulism.",
+    "abstract": "Intestinal botulism, including infant botulism and adult intestinal toxemia botulism, is a life-threatening disease caused by intestinal infection with Clostridium botulinum (Cb) spores. Infants are particularly susceptible to Cb infection because of their immature gut microbiota, whereas healthy adults are generally protected by gut microbiota-mediated colonization resistance. Thus, immature gut microbiota or gut dysbiosis is thought to permit Cb colonization. However, the mechanisms underlying colonization resistance and disease progression remain poorly characterized. Here, using adult mice with antibiotic-induced dysbiosis, we established a model for studying Cb infection and characterized intestinal colonization, bacterial expansion, botulinum neurotoxin (BoNT) accumulation, and disease progression during intestinal botulism. Intestinal botulism developed in antibiotic-treated mice after intragastric administration of strain 62A spores, whereas untreated adult mice showed no symptoms. In antibiotic-treated mice, Cb expanded over time in fecal samples, followed by accumulation of serotype A BoNT (BoNT/A), which correlated with the progression of botulism symptoms. Cb growth and BoNT/A accumulation occurred mainly in the cecum and colon, but not in the small intestine. Furthermore, this mouse model was applicable to the analysis of intestinal botulism caused by other Cb strains, including 7I03-H, Okra, and Osaka05. Taken together, our findings clarify key aspects of intestinal botulism pathogenesis. This mouse model may provide a useful platform for elucidating the mechanisms underlying intestinal botulism, including infant botulism, and for developing novel therapeutic strategies.ImportanceBotulism is a life-threatening disease caused by botulinum neurotoxin, one of the most powerful toxins known. In intestinal botulism, Clostridium botulinum spores enter the intestine, grow there, and release toxin inside the body. However, the detailed process by which intestinal botulism develops remains poorly understood. In this study, we established a mouse model that allows the progression of intestinal botulism to be examined over time. Using this model, we showed that bacterial growth in the intestine, accumulation of biologically active toxins, and worsening of symptoms are closely linked. We also identified the cecum and colon as the main sites of bacterial colonization and toxin accumulation. This model can be used to analyze multiple C. botulinum strains with different characteristics and provides a useful tool for understanding how intestinal botulism develops and for guiding future preventive and therapeutic strategies.",
+    "journal": "mSphere",
+    "doi": "10.1128/msphere.00482-26",
+    "date": "2026-11-10",
+    "authors": "Matsumura T, Kobayashi N, Amatsu S, Saito K, Yamaguchi A, Iwata K, Fujinaga Y.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43006869",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43006869",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5139,
+    "collected_at": "2026-11-19T03:25:36.884070+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.1128/msphere.00482-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "efe22b9fae62ca6c25e9ebaa268daddcb57a6d8071218a6daf9d253dc5254762",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T03:57:37.961868+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "00c1506617d294c1d4abc0a71173b82138d7fb4f3612c82af68c1e28b32dee0a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T03:57:37.961868+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "抗生物質投与マウスモデルにより、腸管ボツリヌス症の進行が明らかとなった。",
+    "abstract_ja": "乳児ボツリヌス症や成人腸管毒素血症ボツリヌス症を含む腸管ボツリヌス症は、Clostridium botulinum（Cb）芽胞による腸管感染によって引き起こされる生命を脅かす疾患である。乳児は腸管微生物叢が未成熟であるためCb感染に対して特に感受性が高く、一方で健康な成人は一般に腸管微生物叢を介した定着抵抗性によって保護されている。したがって、未成熟な腸管微生物叢または腸管ディスバイオーシスがCbの定着を可能にすると考えられている。しかし、定着抵抗性と疾患進行の根底にある機序は十分に解明されていない。本研究では、抗生物質誘発性ディスバイオーシスを惹起した成体マウスを用いてCb感染研究モデルを構築し、腸管ボツリヌス症における腸管定着、細菌の増殖、ボツリヌス神経毒素（BoNT）の蓄積、および疾患進行を特性評価した。抗生物質投与マウスでは、62A株の芽胞を胃内投与した後に腸管ボツリヌス症が発症したが、未投与の成体マウスでは症状は認められなかった。抗生物質投与マウスでは、糞便検体中のCbが経時的に増殖し、続いて血清型A BoNT（BoNT/A）が蓄積し、これがボツリヌス症症状の進行と相関していた。Cbの増殖とBoNT/Aの蓄積は主に盲腸および結腸で認められたが、小腸では認められなかった。さらに、このマウスモデルは、7I03-H、Okra、Osaka05を含む他のCb株による腸管ボツリヌス症の解析にも適用可能であった。以上の知見を総合すると、腸管ボツリヌス症の病態形成における重要な側面が明らかになった。本マウスモデルは、乳児ボツリヌス症を含む腸管ボツリヌス症の根底にある機序を解明し、新たな治療戦略を開発するための有用なプラットフォームとなり得る。重要性ボツリヌス症は、既知の最も強力な毒素の一つであるボツリヌス神経毒素によって引き起こされる生命を脅かす疾患である。腸管ボツリヌス症では、Clostridium botulinumの芽胞が腸管に侵入して増殖し、体内で毒素を放出する。しかし、腸管ボツリヌス症が発症する詳細なプロセスは十分に解明されていない。本研究では、腸管ボツリヌス症の進行を経時的に検討できるマウスモデルを構築した。このモデルを用いて、腸管内での細菌増殖、生物学的に活性な毒素の蓄積、および症状の悪化が密接に関連していることを示した。また、細菌の定着および毒素蓄積の主要な部位として盲腸および結腸を同定した。本モデルは、異なる特性を持つ複数のC. botulinum株の解析に利用でき、腸管ボツリヌス症がどのように発症するかを理解し、将来の予防および治療戦略を導くための有用なツールとなる。"
+  },
+  {
+    "id": "10.1038/s41467-026-79513-6",
+    "title": "The evolutionary plateau of efflux-mediated drug resistance in mycobacteria",
+    "abstract": "Multidrug efflux pumps are major drivers of antimicrobial resistance in bacteria. Here, Sharma et al. use experimental evolution in mycobacteria and show that, after prolonged selection, drug resistance achieved through efflux pump overexpression reaches a stable level, apparently due to exhaustion of cellular energy.",
+    "journal": "Nature Communications",
+    "doi": "10.1038/s41467-026-79513-6",
+    "date": "2026-11-19",
+    "authors": "Sarika Mehra",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.nature.com/articles/s41467-026-79513-6",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.nature.com/ncomms.rss",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5244,
+    "collected_at": "2026-11-19T03:36:07.515198+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "https://www.nature.com/ncomms.rss"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.1038/s41467-026-79513-6"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b534d8e5249584e5cc24cf967d6ddecf6ac748746036fbef95765e2cfae17773",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T03:57:37.961868+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "06cb0965f81ebdc1547e19ffd1861ba4f8d36362f84f6cc6b6683d613a11d68f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T03:57:37.961868+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "マイコバクテリアにおける排出介在性薬剤耐性の進化的プラトー",
+    "abstract_ja": "多剤排出ポンプは、細菌における薬剤耐性の主要な要因である。本研究において、Sharmaらはマイコバクテリアにおける実験的進化を用い、長期にわたる選択の結果、排出ポンプの過剰発現によって獲得された薬剤耐性が、細胞エネルギーの枯渇によりと思われる安定した水準に達することを示した。"
+  },
+  {
+    "id": "10.64898/2026.11.17.767431",
+    "title": "Benchmarking Machine Learning Methods for Antimicrobial Peptide Prediction and Discovery in Ancient Microbiomes",
+    "abstract": "Antimicrobial peptides (AMPs) offer a promising alternative to conventional antibiotics amid the growing global threat of antimicrobial resistance. Expanding AMP discovery requires both effective computational tools to accurately identify candidate peptides and access to underexplored biological resources that may harbor novel AMPs. However, the comparative performance of existing computational methods remains poorly understood, while ancient microbiomes have received limited attention as potential reservoirs of AMPs. Here, we systematically benchmarked six machine learning methods across with twelve feature configurations spanning sequence, structural, and protein language model features under a unified framework using eight curated AMP datasets. The best-performing methods were subsequently applied to three ancient metagenomic datasets representing the human gut (archaeological fecal sediments), human oral cavity (dental calculus), and mammoth-associated communities (teeth, skulls, and skin). In parallel, we employed reinforcement learning to select candidate peptides directly from ancient sequence pools without relying on modern AMP labels. Our benchmarking shows that protein language model embeddings provide the most informative features, and deep learning models, including convolutional, transformer-based, and recurrent architectures, outperform classical methods. Applying these models to ancient microbiomes identified candidates occupied the physicochemical space characteristic of AMPs but differed from those of candidates predicted from modern microbiome catalogs. We identified 111, 76, and 50 high-confidence candidate AMPs from the Neanderthal gut, ancient oral, and mammoth-associated communities, respectively. Reinforcement learning selected additional candidate AMPs with distinct properties compared with those predicted by models trained on modern AMP databases. Together, these findings establish a systematic benchmark for AMP prediction and highlight ancient microbiomes as an untapped source of antimicrobial peptide candidates. By integrating supervised machine learning with reinforcement learning, this study expands AMP discovery beyond modern microbiome catalogs and provides new opportunities to identify potentially novel AMPs.",
+    "journal": "",
+    "doi": "10.64898/2026.11.17.767431",
+    "date": "2026-11-18",
+    "authors": "Zhao, Q., Ma, Q., Luo, J., Chen, C., Ke, S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.17.767431v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomic",
+        "microbiome",
+        "microbiomes"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5245,
+    "collected_at": "2026-11-19T03:36:07.515198+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.64898/2026.11.17.767431"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ae5980eee3ba3d33d8c053ad436e4c16d617d8d462e5587da43486f051268d00",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T04:00:16.363554+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5a11944b5a150bd6af7bd7cfb5723600b9fde4f549856febf2b8eead247d35fb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T04:00:16.363554+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "古代マイクロバイオームにおける抗菌ペプチドの予測・探索に向けた機械学習手法のベンチマーク",
+    "abstract_ja": "薬剤耐性という世界的な脅威が高まる中、抗菌ペプチド（AMP）は、従来の抗生物質に代わる有望な選択肢となっている。AMPの探索を拡大するには、候補ペプチドを正確に同定するための効果的な計算ツールと、新規AMPを保有している可能性のある未開拓の生物学的リソースへのアクセスの両方が必要である。しかし、既存の計算手法の比較性能については十分に解明されておらず、一方で古代マイクロバイオームはAMPの潜在的なリザーバーとしてほとんど注目されてこなかった。本研究では、8つのキュレート済みAMPデータセットを用い、統一的なフレームワークの下で、配列、構造、およびタンパク質言語モデルの特徴量にわたる12種類の特徴量構成について、6つの機械学習手法を体系的にベンチマーク評価した。最も性能の高い手法を、ヒトの腸管（考古学的糞便堆積物）、ヒトの口腔（歯石）、およびマンモス関連コミュニティ（歯、頭蓋骨、皮膚）を代表する3つの古代メタゲノムデータセットに適用した。並行して、強化学習を用いて、現代のAMPラベルに依存することなく、古代配列プールから直接候補ペプチドを選択した。ベンチマーク評価の結果、タンパク質言語モデルの埋め込み表現が最も情報量の多い特徴量であり、畳み込み型、トランスフォーマーベース、およびリカレントアーキテクチャを含む深層学習モデルが、従来の手法を上回る性能を示すことが明らかになった。これらのモデルを古代マイクロバイオームに適用したところ、AMPに特徴的な物理化学的空間を占める候補が同定されたが、これらは現代のマイクロバイオームカタログから予測された候補とは異なっていた。ネアンデルタール人の腸管、古代口腔、およびマンモス関連コミュニティから、それぞれ111個、76個、50個の高信頼度の候補AMPを同定した。強化学習は、現代のAMPデータベースで訓練されたモデルが予測したものとは異なる特性を持つ追加の候補AMPを選択した。以上の知見を総合すると、本研究はAMP予測のための体系的なベンチマークを確立し、古代マイクロバイオームが未開拓の抗菌ペプチド候補源であることを浮き彫りにした。教師あり機械学習と強化学習を統合することで、本研究はAMPの探索を現代のマイクロバイオームカタログの枠を超えて拡大し、潜在的に新規なAMPを同定する新たな機会を提供するものである。"
   }
 ];
