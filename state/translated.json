@@ -304287,5 +304287,287 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ERV Navigator: ヒト内在性レトロウイルスの統合的進化リファレンスリソース",
     "abstract_ja": "要旨内因性レトロウイルス（ERV）は、古代のレトロウイルス感染のゲノム遺残体であり、宿主とウイルスの進化の記録を提供するとともに、宿主ゲノムの構造、調節、および機能に寄与している。ERV Navigatorは、ERV研究における長年の課題、すなわち、既存のアノテーション体系、命名法、および分類体系を整合させる、統一的かつ進化論的知見に基づいたフレームワークの欠如という問題に対処するものである。既存のリソースは、異なる発見戦略、生物学的目的、および歴史的な慣例を反映したヒトERV（HERV）の相補的な視点を提供しており、研究間の比較や進化的・機能的データの統合を困難にしている。ERV Navigatorは、主要なHERVアノテーションリソースを、ゲノム遺伝子座とその進化的関係を中心とした、単一の非冗長なリファレンスフレームワークに統合する。本データベースは情報を階層的に整理し、レトロウイルスの分類体系、系統レベルのリファレンス配列、およびゲノム挿入を、安定した系統学的知見に基づく識別子を通じて結びつける。歴史的な命名法やアノテーションは明示的な相互参照によって保持されており、レガシーリソースと統一フレームワーク間のシームレスなナビゲーションが可能となっている。ウェブインターフェースは、分類学的ブラウジング、系統学的可視化、系統および遺伝子座ページ、ゲノムブラウザ連携、配列アライメント、および検索ツールをサポートしている。進化的分類をゲノム、構造、および機能的アノテーションと組み合わせることで、ERV NavigatorはHERV遺伝子座の再現可能な比較を可能にするとともに、比較、機能、および疾患関連データのための柔軟なプラットフォームを提供する。ERV Navigatorは、https://ervnavigator.fredhutch.org/ にて無料で利用可能である。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1939377",
+    "title": "Deletion of TaMTA1 enhances antifungal activity of Trichoderma afroharzianum T30 against Cochliobolus heterostrophus in maize",
+    "abstract": "IntroductionSouthern corn leaf blight (SCLB), caused by Cochliobolus heterostrophus, threatens maize production. Long-term application of chemical fungicides to control SCLB brings serious environmental pollution, and sustainable biocontrol agents are urgently required. Although Trichoderma-based biocontrol agents have been widely applied, the genetic regulators controlling their antifungal activity remain largely unclear.MethodsWe identified TaMTA1, encoding a predicted MT-A70 domain-containing protein, in Trichoderma afroharzianum T30 and generated TaMTA1 deletion and complementation strains. We evaluated vegetative growth, conidiation, antifungal activity of culture filtrates against C. heterostrophus and six additional maize pathogens, and disease-suppressive effects in maize. Transcriptomic profiling, extracellular conductivity measurements, and microscopy were performed to investigate pathogen responses.ResultsDeletion of TaMTA1 had no detectable effect on vegetative growth or conidiation under the tested conditions but significantly enhanced the antifungal activity of T30-derived culture filtrates against C. heterostrophus, whereas complementation restored antifungal activity to the wild-type level. The culture filtrate from ΔTaMTA1 also reduced lesion area and disease severity in maize and exhibited broad-spectrum antifungal activity in vitro against six additional maize pathogens, with inhibition rates increasing by 8.61%–51.59% compared with the wild-type filtrate. Transcriptomic profiling revealed altered expression of candidate hub genes associated with plasma membrane function, ion transport, and cellular homeostasis. Increased extracellular conductivity and altered hyphal morphology further supported the involvement of membrane-associated physiological responses.DiscussionThese findings indicate that TaMTA1 is associated with negative regulation of antifungal activity under the tested conditions and that the enhanced activity of ΔTaMTA1-derived culture filtrates is associated with membrane- and ion-homeostasis-related responses in the pathogen. This study provides a promising genetic target for enhancing the antifungal potential of Trichoderma.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1939377",
+    "date": "2026-11-19",
+    "authors": "Xinhua Wang",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1939377",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungi"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5267,
+    "collected_at": "2026-11-19T13:13:10.696023+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.3389/fmicb.2026.1939377"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7b641f61eaaff99483dd243f916fbe53bfd60861ae19f78922ed8bc390849cab",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T13:54:13.810312+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "679f0aaeaf56954e8fd57460fea488d6c9d02e325099e623de314c72187a2ec5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T13:54:13.810312+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "TaMTA1の欠損は、トウモロコシにおけるCochliobolus heterostrophusに対するTrichoderma afroharzianum T30の抗真菌活性を増強する。",
+    "abstract_ja": "はじめにCochliobolus heterostrophusによって引き起こされるサザンコーン葉枯病（SCLB）は、トウモロコシ生産を脅かしている。SCLB制御のための化学殺菌剤の長期散布は深刻な環境汚染をもたらすため、持続可能な生物防除剤が急務となっている。トリコデルマ属を基盤とした生物防除剤が広く適用されてきたが、その抗真菌活性を制御する遺伝的調節因子は依然として大部分が不明である。方法予測されたMT-A70ドメイン含有タンパク質をコードするTaMTA1をTrichoderma afroharzianum T30において同定し、TaMTA1欠損株および相補株を作製した。栄養成長、分生子形成、C. heterostrophusおよびさらに6種類のトウモロコシ病原菌に対する培養濾液の抗真菌活性、ならびにトウモロコシにおける病害抑制効果を評価した。病原菌の応答を調べるため、トランスクリプトームプロファイリング、細胞外伝導度測定、および顕微鏡観察を行った。結果TaMTA1の欠損は、試験条件下において栄養成長や分生子形成に検出可能な影響を及ぼさなかったが、T30由来培養濾液のC. heterostrophusに対する抗真菌活性を有意に向上させた。一方、相補により抗真菌活性は野生型レベルまで回復した。ΔTaMTA1由来の培養濾液は、トウモロコシの病斑面積および病害重症度を減少させ、in vitroにおいてさらに6種類のトウモロコシ病原菌に対して広範な抗真菌活性を示し、阻害率は野生型濾液と比較して8.61%～51.59%増加した。トランスクリプトームプロファイリングにより、細胞膜機能、イオン輸送、および細胞恒常性に関連する候補ハブ遺伝子の発現変化が明らかになった。細胞外伝導度の増加および菌糸形態の変化は、膜関連の生理的応答の関与をさらに裏付けるものであった。考察これらの知見は、試験条件下においてTaMTA1が抗真菌活性の負の調節に関与していること、およびΔTaMTA1由来培養濾液の活性向上が、病原菌における膜およびイオン恒常性関連の応答に関連していることを示している。本研究は、トリコデルマ属の抗真菌能を向上させるための有望な遺伝的標的を提供するものである。"
+  },
+  {
+    "id": "10.1093/nar/gkag1227",
+    "title": "TISCH3: an expanded resource for single-cell and spatial transcriptomics of the tumor microenvironment",
+    "abstract": "AbstractThe Tumor Immune Single Cell Hub (TISCH) is a curated resource for exploring single-cell RNA sequencing (scRNA-seq) data from the tumor microenvironment. Here, we present TISCH3, which expands the single-cell collection from 190 to 408 datasets and introduces 69 spatial transcriptomics datasets, bringing the total to 477 datasets. The 218 newly added scRNA-seq datasets span 48 cancer types, and the spatial collection spans 27 cancer types. Spatial samples are curated and processed individually, and single-cell references enable estimation of cell-type composition at each spot. The spatial workspace comprises six modules: Overview, GeneExp, spatially variable genes (SVGs), CellAssoc, Communication, and Downloads. These modules provide sample metadata and quality-control views, spatial gene expression maps, ranking of SVG, cell-type correlation and conditional intra-spot co-occurrence analyses, inferred cell–cell communication networks, and downloadable data and results. TISCH3 retains the single-cell analysis capabilities of TISCH2 and extends them to spatial exploration of the tumor microenvironment. The database is freely available without registration at https://tisch3.compbio.cn/.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1227",
+    "date": "2026-11-19",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1227/9097196?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "resource",
+        "transcriptomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5249,
+    "collected_at": "2026-11-19T13:13:10.696023+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.1093/nar/gkag1227"
+    ],
+    "translation": {
+      "title": {
+        "hash": "bed7ea08056b122effcb0d41951abb8360a800478c3a640a4aea5e3458c6ad6a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T13:54:13.810312+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6bbac3842af57cc5afa7f5693d987ee257f33b4498681049ea56a7e7f11902ee",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T13:54:13.810312+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "TISCH3：腫瘍微小環境のシングルセルおよび空間トランスクリプトミクスのための拡張リソース",
+    "abstract_ja": "要旨：Tumor Immune Single Cell Hub (TISCH) は、腫瘍微小環境におけるシングルセルRNAシーケンシング（scRNA-seq）データを探索するためのキュレーション済みリソースである。本稿では、シングルセルコレクションを190から408のデータセットに拡充し、69の空間トランスクリプトミクスデータセットを導入することで、合計477のデータセットとしたTISCH3を紹介する。新たに追加された218のscRNA-seqデータセットは48種類のがん種を網羅し、空間コレクションは27種類のがん種を網羅している。空間サンプルは個別にキュレーションおよび処理されており、シングルセルリファレンスを用いることで、各スポットにおける細胞種組成の推定が可能である。空間ワークスペースは、Overview、GeneExp、空間変動遺伝子（SVGs）、CellAssoc、Communication、およびDownloadsの6つのモジュールで構成される。これらのモジュールは、サンプルメタデータおよび品質管理ビュー、空間遺伝子発現マップ、SVGのランキング、細胞種相関および条件付きスポット内共起解析、推定された細胞間コミュニケーションネットワーク、ならびにダウンロード可能なデータと結果を提供する。TISCH3は、TISCH2のシングルセル解析機能を継承しつつ、それを腫瘍微小環境の空間探索へと拡張したものである。本データベースは、登録不要で https://tisch3.compbio.cn/ にて無料で利用可能である。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1992546",
+    "title": "Antimicrobial resistance profiles and interspecies molecular heterogeneity among clinical isolates of Flavobacteriales",
+    "abstract": "ObjectiveTo investigate the genetic basis associated with widespread multidrug resistance among Flavobacteriales clinical isolates and to compare the heterogeneity of antimicrobial resistance and associated molecular features among Chryseobacterium indologenes, Elizabethkingia anophelis, and Elizabethkingia meningoseptica at the levels of antimicrobial susceptibility phenotypes, resistance gene backgrounds, and multi-omics characteristics of representative isolates.MethodsThis study included 67 non-duplicate Flavobacteriales clinical isolates recovered between January 2020 and August 2025. Antimicrobial susceptibility testing, phenotypic screening for metallo-β-lactamase (MBL), and resistance gene detection were performed. Representative C. indologenes, E. anophelis, and E. meningoseptica isolates were further subjected to genome sequencing, transcriptomic, proteomic, and metabolomic analyses to characterize resistance-associated molecular features.ResultsAmong the 67 isolates, 24 were identified as C. indologenes, 24 as E. anophelis, and 8 as E. meningoseptica. 62 isolates (92.5%) were resistant to imipenem, and 54 isolates were positive for the MBL phenotype. C. indologenes, E. anophelis, and E. meningoseptica all showed 100% resistance to imipenem. The three predominant species exhibited distinct antimicrobial susceptibility profiles, particularly for fluoroquinolones and trimethoprim-sulfamethoxazole. Resistance gene analysis revealed distinct β-lactamase profiles among the three species: C. indologenes mainly involved IND, CIA, MYO, and OXA β-lactamases, whereas E. anophelis and E. meningoseptica mainly involved GOB, BlaB, and CME β-lactamases, with differences in subtype composition. Multi-omics and functional integration analyses revealed distinct resistance-associated functional profiles among the three representative isolates: C. indologenes was mainly associated with membrane transport, outer membrane processes, and redox homeostasis; E. anophelis with transport, environmental responses, translation, and protein homeostasis; and E. meningoseptica with environmental sensing, envelope-related processes, and amino sugar and amino acid metabolism.ConclusionWidespread multidrug resistance among Flavobacteriales clinical isolates was accompanied by complex resistance gene backgrounds, while differences among C. indologenes, E. anophelis, and E. meningoseptica in antimicrobial resistance phenotypes, β-lactamase composition, and resistance-associated functional profiles provide molecular clues for understanding interspecies heterogeneity in antimicrobial resistance.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1992546",
+    "date": "2026-11-19",
+    "authors": "Hui Xu",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1992546",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5268,
+    "collected_at": "2026-11-19T13:13:10.696023+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.3389/fmicb.2026.1992546"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b7e8cb34673474eb6d9e3ab0989636d2739a7a0e7154e4dba615b4c3f7d1aae8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T13:54:13.810312+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "09d52d24f37b44824fd42f435a87ee11b4d53ee73fa4cb8498212f4d97ec0941",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T13:54:13.810312+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "フラボバクテリウム目の臨床分離株における薬剤耐性プロファイルおよび種間分子不均一性",
+    "abstract_ja": "目的 Flavobacteriales属の臨床分離株における広範な多剤耐性に関連する遺伝的基盤を調査し、代表的な分離株における薬剤感受性表現型、耐性遺伝子背景、およびマルチオミクス特性のレベルから、Chryseobacterium indologenes、Elizabethkingia anophelis、およびElizabethkingia meningoseptica間における薬剤耐性の不均一性とそれに関連する分子的特徴を比較することである。方法 本研究では、2020年1月から2025年8月までに回収された、重複のないFlavobacteriales属の臨床分離株67株を対象とした。薬剤感受性試験、メタロβ-ラクタマーゼ（MBL）の表現型スクリーニング、および耐性遺伝子の検出を実施した。代表的なC. indologenes、E. anophelis、およびE. meningosepticaの分離株に対し、さらにゲノムシーケンシング、トランスクリプトーム解析、プロテオーム解析、およびメタボローム解析を行い、耐性に関連する分子的特徴を特性評価した。結果 67株のうち、24株がC. indologenes、24株がE. anophelis、8株がE. meningosepticaと同定された。62株（92.5%）がイミペネムに耐性を示し、54株がMBL表現型陽性であった。C. indologenes、E. anophelis、およびE. meningosepticaはいずれもイミペネムに対して100%の耐性を示した。主要な3種は、特にフルオロキノロン系およびトリメトプリム・スルファメトキサゾール系に対して、異なる薬剤感受性プロファイルを示した。耐性遺伝子解析により、3種間で異なるβ-ラクタマーゼプロファイルが明らかになった。C. indologenesは主にIND、CIA、MYO、およびOXA β-ラクタマーゼを関与していたのに対し、E. anophelisおよびE. meningosepticaは主にGOB、BlaB、およびCME β-ラクタマーゼを関与しており、サブタイプの構成に差異が認められた。マルチオミクスおよび機能統合解析により、3つの代表的な分離株間で異なる耐性関連機能プロファイルが明らかになった。C. indologenesは主に膜輸送、外膜プロセス、および酸化還元恒常性に関連しており、E. anophelisは輸送、環境応答、翻訳、およびタンパク質恒常性に、E. meningosepticaは環境感知、エンベロープ関連プロセス、およびアミノ糖・アミノ酸代謝に関連していた。結論 Flavobacteriales属の臨床分離株における広範な多剤耐性には複雑な耐性遺伝子背景が伴っており、C. indologenes、E. anophelis、およびE. meningoseptica間における薬剤耐性表現型、β-ラクタマーゼ組成、および耐性関連機能プロファイルの差異は、薬剤耐性における種間不均一性を理解するための分子的な手がかりとなる。"
+  },
+  {
+    "id": "10.1093/nar/gkag1210",
+    "title": "CoralDB: a comprehensive functional and evolutionary multi-omics database for stony corals",
+    "abstract": "AbstractStony corals are foundation species of coral reef ecosystems, yet their biology remains insufficiently explored from an integrative multi-omics perspective. Although the rapid accumulation of genomic and other omics resources offers opportunities to understand coral evolution, development, adaptation, and symbiosis, accessing and utilizing these resources remain challenging. Here, we present CoralDB (http://www.coraldb.net), a comprehensive, genome-centered multi-omics resource that systematically consolidates multi-omics, evolutionary, ecological, and phenotypic data for stony corals and their holobionts. CoralDB covers 414 species and integrates approximately 19 421 datasets, including 12 data dimensions. Moreover, CoralDB offers valuable customized datasets and analytical resources, including standardized functional annotations, gene-family and pan-genome profiles, macro- and microsynteny analyses, spatiotemporal expression patterns, cell-type markers, phylogenetic resources, and symbiont-associated data. An integrated genome browser and interactive modules support flexible data querying, filtering, analysis, visualization, and links to public databases. CoralDB provides an accessible and extensible platform that will help the coral research community manage expanding multi-omics resources, accelerate discoveries in coral biology, evolution, symbiosis, and conservation, and facilitate deeper understanding of reef resilience under accelerating global environmental change.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1210",
+    "date": "2026-11-19",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1210/9097195?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "genome",
+        "resource"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "evolution",
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5250,
+    "collected_at": "2026-11-19T13:13:10.696023+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.1093/nar/gkag1210"
+    ],
+    "translation": {
+      "title": {
+        "hash": "71355a6113699b97e747cc7c2b84e0c3c383f2b0ef160a3b8c24b64f86fcc8af",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T13:54:13.810312+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a60fd0b3f5938f2cc9061d311fdba40c2fdb7cef304eefaa9fb21d4670d0fa90",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T13:54:13.810312+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "CoralDB: イシサンゴを対象とした包括的な機能的・進化的マルチオミクスデータベース",
+    "abstract_ja": "要旨 石サンゴはサンゴ礁生態系の基盤種であるが、統合的なマルチオミクスの観点からは、その生物学的特性に関する研究は依然として不十分である。ゲノムおよびその他のオミクスリソースの急速な蓄積は、サンゴの進化、発生、適応、および共生を理解する機会を提供しているが、これらのリソースへのアクセスと活用は依然として困難な課題である。本報では、石サンゴおよびそのホロビオントに関するマルチオミクス、進化、生態、および表現型データを体系的に集約した、ゲノム中心の包括的なマルチオミクスリソースであるCoralDB（http://www.coraldb.net）を紹介する。CoralDBは414種をカバーし、12のデータ次元を含む約19,421のデータセットを統合している。さらに、CoralDBは、標準化された機能アノテーション、遺伝子ファミリーおよび汎ゲノムプロファイル、マクロおよびミクロシンテニー解析、時空間的な発現パターン、細胞型マーカー、系統学的リソース、および共生体関連データなど、価値あるカスタマイズ可能なデータセットと解析リソースを提供している。統合型ゲノムブラウザとインタラクティブモジュールにより、柔軟なデータクエリ、フィルタリング、解析、可視化、および公開データベースへのリンクが可能となっている。CoralDBは、アクセスが容易で拡張可能なプラットフォームを提供することで、サンゴ研究コミュニティが拡大するマルチオミクスリソースを管理し、サンゴの生物学、進化、共生、および保全における発見を加速させ、加速する地球規模の環境変化下におけるサンゴ礁のレジリエンスへのより深い理解を促進する一助となる。"
   }
 ]
