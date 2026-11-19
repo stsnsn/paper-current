@@ -306994,5 +306994,295 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ヒトアストロウイルスVA1感染腸管オルガノイドのシングルセルトランスクリプトミクスにより、細胞種特異的な応答と感染時のコレステロール生合成の必要性が明らかとなった",
     "abstract_ja": "ヒトアストロウイルスは、特に小児や免疫不全者において胃腸炎や神経疾患を引き起こす、広く分布しながらも研究が進んでいない腸管ウイルスである。その生物学的特性や病態形成が十分に解明されていないこともあり、ワクチンや抗ウイルス薬は存在しない。本研究では、単一細胞RNAシーケンシングを用いて、腸管外疾患症例の大部分に関連する非古典的ヒトアストロウイルスであるVA1に対する転写応答を、胎児回腸由来のヒト腸管オルガノイドにおいて解析した。VA1は上皮細胞型の比率を変化させ、オルガノイド内を漸次的に拡散した。オルガノイドモデルで最も豊富に存在する細胞である腸細胞および前駆細胞の差異的遺伝子発現解析により、インターフェロンシグナル伝達を含む共通の抗ウイルス応答と、細胞型特異的な応答の両方が明らかになった。腸細胞はより広範な初期転写応答を示し、1 dpi時点でコレステロール代謝および生合成経路を特異的に亢進させた。3 dpiまでには、前駆細胞特異的な遺伝子が炎症性および上皮防御応答を示唆した。2種類の異なる腸上皮細胞株（T84細胞およびCaco-2細胞）において、細胞外脂質の利用可能性を制限しても複製は変化しなかったが、Caco-2細胞ではVA1の結合が増加した。コレステロール生合成の薬理学的阻害および25-ヒドロキシコレステロール投与はVA1の複製を減少させたが、細胞内コレステロール輸送の阻害には検出可能な影響は認められなかった。以上の知見を総合すると、VA1感染に対する共通および細胞型特異的な上皮応答を定義し、コレステロール生合成をVA1複製成功のための重要な宿主経路として同定したことで、HAstVの生物学に関する知見が拡大した。"
+  },
+  {
+    "id": "10.64898/2026.11.18.767651",
+    "title": "Exploitative competition among different dormancy strategists shapes community diversity, recovery from perturbations and response to dispersal",
+    "abstract": "Dormancy is a reversible physiological state of reduced metabolic activity that occurs in plants and animals, but is particularly common among microorganisms. Microorganisms can switch into dormancy spontaneously or in response to environmental cues. While previous work has investigated the ecological and evolutionary consequences of the switching mechanism, it is unknown how different dormancy-switching mechanisms within a microbial community interact to shape composition and community-level response to environmental changes. Here, we used mathematical modelling to investigate how different microbial strategies for entering and existing from dormancy shape community dynamics under stable conditions, following perturbation, and after dispersal. We modelled strategists that had no dormant state (non-switching), those that employed spontaneous switching, those that switched given a cue (triggered switching), and those that used a combination of spontaneous and triggered switching (mixed switching). We also examined how competition and the costs of switching influence activity dynamics within the community. Our simulations revealed the importance of exploitative competition among dormancy strategists in shaping the community response to perturbation and dispersal. In a mixed community containing different dormancy strategists, spontaneous switchers maintained a dormant pool, but suffered an implicit competitive disadvantage. Meanwhile, triggered switchers were more competitive under favourable conditions but could be pushed into dormancy by exploitative competition from other strategists. Interestingly, dispersal events could intensify competition, induce dormancy in resident populations and alter the relative activity of different strategists, while also restoring community members lost during perturbation. To evaluate these predictions, we then analysed an existing dataset of soil mesocosms that experienced heat perturbation and subsequent dispersal. The data showed a stable dormant pool, consistent with the presence of stochastic switchers, and the observed dormancy dynamics following dispersal supported competition-driven inactivation among triggered switching strategists. However, we found no evidence that dormancy provides general protection against the heat perturbation. Instead, the results suggest that survival may depend on the inherent tolerance of community members, while subsequent recovery reflects the interplay between dormancy, immigration, and competition. Our work shows how dormancy not only impacts community-level resilience to perturbations but also alters, and is altered by, exploitative competition among community members.",
+    "journal": "",
+    "doi": "10.64898/2026.11.18.767651",
+    "date": "2026-11-19",
+    "authors": "Ulmer, A., Shade, A., Allen, R.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.18.767651v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5336,
+    "collected_at": "2026-11-19T21:41:59.717804+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.64898/2026.11.18.767651"
+    ],
+    "translation": {
+      "title": {
+        "hash": "47b84198facc9db159fcc471c270e5cf6a52988246001bf0974bddb4178fdac3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T22:15:30.695878+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "058d46ccba4da9b79adbffd251a0762516cbdf1ddefaad35fafaf0d5d40313a5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T22:15:30.695878+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "異なる休眠戦略家間の搾取的競争が、群集の多様性、摂動からの回復、および分散への応答を形作る。",
+    "abstract_ja": "休眠は、植物や動物に見られる代謝活性が低下した可逆的な生理状態であるが、特に微生物において一般的である。微生物は、自発的に、あるいは環境シグナルに応答して休眠状態へと移行することができる。これまでの研究では、この移行メカニズムがもたらす生態学的・進化的な帰結が調査されてきたが、微生物群集内の異なる休眠移行メカニズムがどのように相互作用し、組成や環境変化に対する群集レベルの応答を形成するのかは不明である。本研究では、数理モデリングを用いて、安定条件下、摂動後、および分散後において、休眠への進入および休眠維持に関する異なる微生物戦略が群集動態をどのように形成するかを調査した。我々は、休眠状態を持たない戦略家（非移行型）、自発的な移行を行う戦略家、シグナルに応じて移行する戦略家（トリガー移行型）、および自発的移行とトリガー移行を組み合わせる戦略家（混合移行型）をモデル化した。さらに、競争および移行コストが群集内の活動動態にどのような影響を及ぼすかについても検討した。シミュレーションの結果、摂動や分散に対する群集応答を形成する上で、休眠戦略家間の搾取的競争が重要であることが明らかになった。異なる休眠戦略家を含む混合群集において、自発的移行型は休眠プールを維持していたが、暗黙的な競争上の不利を被っていた。一方、トリガー移行型は好適な条件下ではより競争力が高かったが、他の戦略家による搾取的競争によって休眠状態に追い込まれることがあった。興味深いことに、分散事象は競争を激化させ、定住個体群に休眠を誘発し、異なる戦略家間の相対的な活動を変化させると同時に、摂動中に失われた群集メンバーを回復させる可能性があった。これらの予測を検証するため、熱摂動とそれに続く分散を経験した土壌メソコスムの既存データセットを分析した。データは、確率的移行型の存在と一致する安定した休眠プールを示しており、分散後に観察された休眠動態は、トリガー移行型戦略家間の競争駆動型の不活性化を支持していた。しかし、休眠が熱摂動に対して全般的な保護機能を果たすという証拠は見出されなかった。むしろ、生存は群集メンバー固有の耐性に依存している可能性があり、その後の回復は休眠、移入、および競争の相互作用を反映していることが示唆された。本研究は、休眠が摂動に対する群集レベルのレジリエンスに影響を与えるだけでなく、群集メンバー間の搾取的競争を変化させ、また競争によって変化させられることを示している。"
+  },
+  {
+    "id": "10.64898/2026.11.18.767445",
+    "title": "Cell-type-resolved methylation analysis using bulk long-read sequencing across human tissues",
+    "abstract": "DNA methylation shapes cellular identity and changes with aging and disease, but most human methylomes come from bulk tissue, which mixes signal across many cell types. A methylation change at the bulk tissue level can reflect a change in cellular composition or an intrinsic shift within a cell type, and the two cannot be separated from bulk data. Single-cell and sorted-cell methods resolve cell types directly, but their cost and workflow complexity pose challenges to large studies. Long-read sequencing of single DNA molecules can directly detect DNA methylation on each read. We built COMET (Cell-of-Origin from METhylation), a framework that uses cell-type-specific methylation to assign individual long reads to cell types from standard bulk long-read sequencing. COMET detects changes in cell-type composition robustly even from shallow bulk long-read data, quantifies methylation level of repetitive DNA within each cell type, and, with deeper sequencing, resolves methylation differences between health and disease in individual cell types. We applied COMET to 140 human blood samples, 104 human brain samples and 59 human colon samples. In blood, we found epigenetic aging clock is primarily driven by shifts in cell-type composition, and that APOE4 carriers have myeloid-specific methylation changes. In brain, we found sex-biased change in cell-type composition with age, resolved methylation and hydroxymethylation separately within each cell type. In colon, we found a consistent expansion of fibroblasts in tumors relative to matched normal tissue, localized methylation loss at LINE-1 in fibroblast cells, and identified tumor- and cell-type-specific hypermethylation in epithelial cells at the promoters of known colorectal cancer genes. By resolving cell-type-specific methylation directly from bulk long-read data, this approach opens broad study of cell-type epigenetics across human tissues in aging and disease.",
+    "journal": "",
+    "doi": "10.64898/2026.11.18.767445",
+    "date": "2026-11-19",
+    "authors": "Chen, H., Mead, E. A., Zhang, Y., Karvelas, N., Chen, Z., Thorn, E. L., Fan, Y., Ni, M., Bethancourt, C.-N., Cohen, D. A., Fan-Huang, G., Yan, Z., Bouhassira, E., Soualhi, S., Kozlenkov, A., Abdul-Ghafar, J., Mzoughi, S., Guccione, E., Dracheva, S., Cohen, L. J., Brody, R., Charney, A. W., Wu, H., Kohli, R. M., Farrell, K. W., Vijg, J., Gabre, J. T., Cohen, D. J., Elahi, F. M., Crary, J. F., Fang, G.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.18.767445v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "sequencing"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5337,
+    "collected_at": "2026-11-19T21:41:59.717804+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.64898/2026.11.18.767445"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d2bcb76a756922bc94508d87403936e19ce4a07c165e69d97dc1fd6a9bcb165e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T22:15:30.695878+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c45b93db48b5ee83e0bad7990d0914dca33b314fd8fd45f404cadd9bcd521771",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T22:15:30.695878+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ヒト組織を対象としたバルクロングリードシーケンシングによる細胞種別メチル化解析",
+    "abstract_ja": "DNAメチル化は細胞のアイデンティティを規定し、加齢や疾患に伴って変化するが、ヒトのメチロームの大部分は、多くの細胞種にわたってシグナルが混在するバルク組織に由来する。バルク組織レベルでのメチル化変化は、細胞組成の変化、あるいは細胞種内の固有のシフトを反映している可能性があり、これら二つをバルクデータから分離することはできない。シングルセル法やソート済み細胞法は細胞種を直接的に同定できるが、そのコストやワークフローの複雑さが大規模な研究における課題となっている。単一DNA分子のロングリードシーケンシングでは、各リード上のDNAメチル化を直接検出できる。我々は、細胞種特異的なメチル化を利用して、標準的なバルクロングリードシーケンシングから個々のロングリードを細胞種に割り当てるフレームワークであるCOMET（Cell-of-Origin from METhylation）を構築した。COMETは、浅いバルクロングリードデータからでも細胞種組成の変化を頑健に検出し、各細胞種内の反復DNAのメチル化レベルを定量化し、さらに詳細なシーケンシングを行うことで、個々の細胞種における健常状態と疾患状態のメチル化差を解明する。我々は、ヒト血液サンプル140検体、ヒト脳サンプル104検体、およびヒト結腸サンプル59検体にCOMETを適用した。血液では、エピジェネティックな老化時計が主に細胞種組成のシフトによって駆動されていること、およびAPOE4キャリアに骨髄系特異的なメチル化変化があることを見出した。脳では、加齢に伴う細胞種組成の性差的な変化を認め、各細胞種内でメチル化とヒドロキシメチル化を個別に同定した。結腸では、対応する正常組織と比較して腫瘍内で線維芽細胞が一貫して増加していること、線維芽細胞のLINE-1における局所的なメチル化喪失、および既知の大腸がん遺伝子のプロモーターにおける上皮細胞の腫瘍・細胞種特異的な高メチル化を同定した。バルクロングリードデータから細胞種特異的なメチル化を直接同定することで、本アプローチは、加齢および疾患におけるヒト組織全般にわたる細胞種エピジェネティクスの広範な研究を可能にする。"
+  },
+  {
+    "id": "10.64898/2026.11.17.767359",
+    "title": "Apples-to-apples transcriptomics: a parent-of-origin-resolved 'Granny Smith' genome reveals how reference choice shapes biological interpretation",
+    "abstract": "The accuracy and reliability of RNA-seqbased transcriptome profiling inherently depends on how well the reference genome represents the genotype being studied, particularly in highly heterozygous, clonally propagated crops with many genetically distinct cultivars, such as apple. Here, we present a chromosome-scale, parent-of-origin-resolved genome assembly and highly complete annotation for Granny Smith (assembly BUSCO = 98.6% both haplotypes; annotation BUSCO = 98.7-98.9%). To test how reference genome choice influences transcriptomic interpretation, we mapped RNA-seq data from sun- and shade-exposed Granny Smith peel independently to three different apple genome references: GDDH13 (earlier-generation), WA 38 (modern-generation), and both Granny Smith haplotypes (modern and cultivar matched). Despite small difference in unique mapping rate, transcriptome analysis using the modern references showed greater agreement in differentially expressed gene families than GDDH13, while the cultivar-matched Granny Smith references recovered additional functional responses associated with oxidative stress, cuticle biology, and other processes relevant to sun exposure and cold storage. Importantly, many responses were consistent with previously identified metabolomic patterns from the same experimental material, providing independent biological support for signals recovered with the matched reference. Reference-dependent differences were greatest for the subtle sun-exposure storage interaction, indicating reference limitations become more consequential as biological contrasts become finer. Orthogroup-based analyses further showed that both reference-generation differences and paralog representation contribute to cross-genome disagreement. Together, these results demonstrate that seemingly modest differences in mapping performance can substantially alter biological conclusions and highlight the value of high-quality, genotype-matched references for resolving cultivar-specific stress and postharvest physiology in heterozygous perennial crops.",
+    "journal": "",
+    "doi": "10.64898/2026.11.17.767359",
+    "date": "2026-11-19",
+    "authors": "Hargarten, H., Zhang, H., Arifin, A., Kaur, H., Lange, I., Lee, D., Akhmetov, Z., Devkota, A., Idio, E.-O., March, C., McDonald, B., Mcnees, T., Neupane, B., Olanrewaju, O., Poudel, S., Simie, E., Ko, I., Vanderzande, S., Rudell, D., Harkess, A., Ficklin, S. P., Honaas, L. A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.17.767359v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "annotation",
+        "assembly",
+        "genome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "assembly",
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5338,
+    "collected_at": "2026-11-19T21:41:59.717804+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.64898/2026.11.17.767359"
+    ],
+    "translation": {
+      "title": {
+        "hash": "1b7aa3f68636e200fac0745acdf4b43f5d966d262f88ef00fa096323c2cd35a3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T22:15:30.695878+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4da9e457fb1e57c51b633d39cf9fc5058b4b7ceca5fea2aab8285ea9ac4bab14",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T22:15:30.695878+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "リンゴ同士のトランスクリプトミクス：起源親を特定した「グラニースミス」ゲノムが明かす、参照配列の選択が生物学的解釈をいかに規定するか",
+    "abstract_ja": "RNA-seqに基づくトランスクリプトームプロファイリングの精度と信頼性は、本質的に、リファレンスゲノムが研究対象の遺伝子型をどの程度適切に表現しているかに依存する。これは、特にリンゴのように、遺伝的に異なる多くの栽培品種が存在する高度にヘテロ接合的なクローン増殖作物において顕著である。本研究では、グラニースミス（アセンブリBUSCO = 両ハプロタイプともに98.6%、アノテーションBUSCO = 98.7-98.9%）について、染色体スケールの親由来特定可能なゲノムアセンブリおよび高度に完全なアノテーションを提示する。リファレンスゲノムの選択がトランスクリプトームの解釈にどのような影響を及ぼすかを検証するため、日照条件下および日陰条件下で栽培されたグラニースミスの果皮から得られたRNA-seqデータを、GDDH13（初期世代）、WA 38（現代世代）、およびグラニースミスの両ハプロタイプ（現代世代および栽培品種マッチング済み）という3種類の異なるリンゴゲノムリファレンスにそれぞれ独立してマッピングした。ユニークマッピング率にわずかな差はあったものの、現代世代のリファレンスを用いたトランスクリプトーム解析では、GDDH13と比較して発現変動遺伝子ファミリーの一致度が高く、一方で栽培品種マッチング済みのグラニースミスリファレンスでは、酸化ストレス、クチクラ生物学、および日照や低温貯蔵に関連するその他のプロセスに伴う追加的な機能的応答が検出された。重要な点として、多くの応答が同一の実験材料から以前に同定されたメタボロームパターンと一致しており、マッチング済みリファレンスで検出されたシグナルに対する独立した生物学的裏付けとなった。リファレンス依存的な差異は、わずかな日照・貯蔵相互作用において最も顕著であり、生物学的コントラストが微細になるにつれてリファレンスの限界がより重大な影響を及ぼすことが示された。オルソグループに基づく解析では、リファレンス世代間の差異とパラログの表現の両方がゲノム横断的な不一致に寄与していることがさらに示された。以上の結果を総合すると、一見わずかなマッピング性能の差が生物学的結論を著しく変え得ることが明らかになり、ヘテロ接合的な多年生作物における栽培品種固有のストレスおよび収穫後生理学を解明する上で、高品質で遺伝子型が一致するリファレンスの価値が浮き彫りとなった。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.07.765083",
+    "title": "Disentangled generative modeling of single-cell perturbation responses across dynamic cellular states",
+    "abstract": "ABSTRACT  Single-cell perturbation studies are increasingly conducted across complex, multi-condition biological systems, offering a powerful lens into how interventions reshape cell states and molecular programs. However, standard computational models compress single-cell profiles into unified representations where treatment effects are obscured by cell division, lineage progression, donor variation, and cellular stress. Here, we present Disentangled Variational Inference for Perturbation Response (PertVI), a deep generative model that separates baseline mitotic phase, cellular state, and batch effects from treatment-induced shifts while isolating aberrant off-manifold responses in orthogonal anomaly space. This structured design tackles two inter-twined tasks: (1) quantifying treatment-induced changes in cell-state composition, and (2) inferring state-gated transcriptional changes in response to treatment. Across simulated bench-marks, PertVI accurately disentangles coupled biological axes and recovers weak treatment signatures. In conditional chemical and genetic screens of primary human CD8+ and CD4+ T cells, PertVI separates memory-precursor adjuvants from toxic phenocopies, resolves co-clus-tered regulators into directional kinetic trajectories and biphasic rebounders obscured by standard workflows, and reveals that treatment-induced phenotypic shifting is decoupled from broad transcriptional perturbation responses and instead governed by state-specific impulses. Altogether, PertVI brings unique mechanistic granularity to single-cell perturbation response modeling, serving as a proof of principle for biology-informed, structure-guided variance disentan-glement in dynamic cellular systems.",
+    "journal": "",
+    "doi": "10.64898/2026.11.07.765083",
+    "date": "2026-11-10",
+    "authors": "Wang Y, Zhao Y, Li S, Yang D.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1363788",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "gene",
+        "inference"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5150,
+    "collected_at": "2026-11-19T21:31:24.770122+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.64898/2026.11.07.765083"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ff9a1805f9ca61e95f786ec85c7b870391a536bc06301bdbcaf6047ab67df1f1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T22:15:30.695878+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9581cb8b6d6addeefcbc5f265b40544d60d10241a6fafb7a86fd08d9a15908eb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T22:15:30.695878+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "動的な細胞状態にわたる単一細胞摂動応答の非もつれ型生成モデリング",
+    "abstract_ja": "要旨　単一細胞摂動研究は、複雑な多条件の生物学的システムを対象にますます実施されるようになっており、介入が細胞状態や分子プログラムをどのように再形成するかを理解する上で強力な視点を提供している。しかし、標準的な計算モデルでは単一細胞プロファイルが統一的な表現へと圧縮されるため、処理効果が細胞分裂、系譜の進展、ドナー変異、および細胞ストレスによって覆い隠されてしまう。本研究では、ベースラインの分裂期、細胞状態、およびバッチ効果を処理誘発性のシフトから分離し、直交する異常空間において異常なオフマニフォールド応答を単離する深層生成モデル「Disentangled Variational Inference for Perturbation Response (PertVI)」を提案する。この構造化された設計は、(1) 処理誘発性の細胞状態組成の変化の定量化、および (2) 処理に対する状態ゲート型の転写変化の推論という、相互に絡み合った2つの課題に取り組む。シミュレーションによるベンチマークにおいて、PertVIは結合した生物学的軸を正確に分離し、弱い処理シグネチャーを復元する。ヒト初代CD8+およびCD4+ T細胞の条件付き化学的・遺伝的スクリーニングにおいて、PertVIはメモリー前駆体アジュバントを毒性フェノコピーから分離し、共クラスター化した調節因子を、標準的なワークフローでは不明瞭となる方向性のある速度論的軌跡や二相性のリバウンダーへと分解し、さらに処理誘発性の表現型シフトが広範な転写摂動応答から切り離されており、代わりに状態特異的なインパルスによって制御されていることを明らかにする。総じて、PertVIは単一細胞摂動応答モデリングに独自の機構的粒度をもたらし、動的な細胞システムにおける生物学的知見に基づいた構造誘導型の分散分離の原理実証となる。"
   }
 ]
