@@ -304569,5 +304569,279 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "CoralDB: イシサンゴを対象とした包括的な機能的・進化的マルチオミクスデータベース",
     "abstract_ja": "要旨 石サンゴはサンゴ礁生態系の基盤種であるが、統合的なマルチオミクスの観点からは、その生物学的特性に関する研究は依然として不十分である。ゲノムおよびその他のオミクスリソースの急速な蓄積は、サンゴの進化、発生、適応、および共生を理解する機会を提供しているが、これらのリソースへのアクセスと活用は依然として困難な課題である。本報では、石サンゴおよびそのホロビオントに関するマルチオミクス、進化、生態、および表現型データを体系的に集約した、ゲノム中心の包括的なマルチオミクスリソースであるCoralDB（http://www.coraldb.net）を紹介する。CoralDBは414種をカバーし、12のデータ次元を含む約19,421のデータセットを統合している。さらに、CoralDBは、標準化された機能アノテーション、遺伝子ファミリーおよび汎ゲノムプロファイル、マクロおよびミクロシンテニー解析、時空間的な発現パターン、細胞型マーカー、系統学的リソース、および共生体関連データなど、価値あるカスタマイズ可能なデータセットと解析リソースを提供している。統合型ゲノムブラウザとインタラクティブモジュールにより、柔軟なデータクエリ、フィルタリング、解析、可視化、および公開データベースへのリンクが可能となっている。CoralDBは、アクセスが容易で拡張可能なプラットフォームを提供することで、サンゴ研究コミュニティが拡大するマルチオミクスリソースを管理し、サンゴの生物学、進化、共生、および保全における発見を加速させ、加速する地球規模の環境変化下におけるサンゴ礁のレジリエンスへのより深い理解を促進する一助となる。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1968203",
+    "title": "Systematic characterization of Monosporascus cannonballus reveals biological traits and fungicide sensitivity for cucurbit root rot and vine decline",
+    "abstract": "Root rot and vine decline (RRVD), caused by Monosporascus cannonballus, is a destructive soil-borne disease threatening cucurbit production worldwide. Despite the recent detection of this pathogen in China, the biological characteristics and fungicide sensitivity of Chinese isolates remain poorly understood. Here, we systematically characterized three representative M. cannonballus isolates from watermelon, melon, and cucumber. These representative isolates exhibited broadly similar physiological traits, including optimum mycelial growth at 32 °C, growth across a broad initial pH range (pH 5–11), and largely conserved nutrient utilization patterns, with maltose, malt extract, or tryptone supporting the greatest mycelial growth. Fungicide sensitivity assays conducted with 18 isolates revealed marked differences among the eight fungicides tested. Pyraoxystrobin, pyraclostrobin, azoxystrobin, isopyrazam, prochloraz, and difenoconazole showed relatively high in vitro activity, with EC50 values ranging overall from 3.19 × 10−5 to 7.81 × 10−2 mg·L−1. In contrast, carbendazim and boscalid showed comparatively low activity, with EC50 values ranging from 1.65 to 3.21 mg·L−1 and from 1.96 to 19.08 mg·L−1, respectively. In a greenhouse experiments, pyraclostrobin- and difenoconazole-based products achieved control efficacies exceeding 80% under the tested conditions. This study provides a comparative assessment of biological characteristics and fungicide sensitivity of M. cannonballus isolates from different cucurbit hosts in China, thereby supporting fungicide selection and integrated management of RRVD.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1968203",
+    "date": "2026-11-19",
+    "authors": "Xiaoxiao Feng",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1968203",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungi"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5269,
+    "collected_at": "2026-11-19T13:13:10.696023+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.3389/fmicb.2026.1968203"
+    ],
+    "translation": {
+      "title": {
+        "hash": "68c79b8a1dcae9ed30e331d482122c19f00bc327a34ee223121a874972769c63",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T13:57:17.079042+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "fe82cf0161ec77a3561f45e8e5a8ef1c806e11bde62e861770f20965e8a01ef7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T13:57:17.079042+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Monosporascus cannonballusの系統的特性解析から明らかとなったウリ類根腐病およびつる枯病の生物学的形質と殺菌剤感受性",
+    "abstract_ja": "Monosporascus cannonballusによって引き起こされる根腐れ・つる衰退病（RRVD）は、世界中のウリ科作物の生産を脅かす破壊的な土壌伝染性病害である。近年、中国において本病原体が検出されたものの、中国株の生物学的特性および殺菌剤感受性については依然として十分に解明されていない。本研究では、スイカ、メロン、およびキュウリ由来の代表的なM. cannonballus分離株3株について、系統的な特性解析を行った。これらの代表株は、32 °Cでの最適な菌糸成長、広範な初期pH範囲（pH 5–11）での生育、および概ね保存された栄養利用パターンを含む、概ね類似した生理的形質を示し、マルトース、麦芽エキス、またはトリプトンが最大の菌糸成長を促進した。18株の分離株を用いて実施した殺菌剤感受性試験では、試験した8種類の殺菌剤間で顕著な差異が認められた。ピラオキシストロビン、ピラクロストロビン、アゾキシストロビン、イソピラザム、プロクロラズ、およびジフェノコナゾールは比較的高いin vitro活性を示し、EC50値は全体として3.19 × 10⁻⁵から7.81 × 10⁻² mg·L⁻¹の範囲であった。対照的に、カルベンダジムおよびボスカリドは相対的に低い活性を示し、EC50値はそれぞれ1.65～3.21 mg·L⁻¹および1.96～19.08 mg·L⁻¹であった。温室実験において、ピラクロストロビンおよびジフェノコナゾール系製剤は、試験条件下で80%を超える防除効果を示した。本研究は、中国の異なるウリ科宿主由来のM. cannonballus分離株の生物学的特性および殺菌剤感受性の比較評価を行うものであり、これによりRRVDの殺菌剤選定および総合的管理を支援するものである。"
+  },
+  {
+    "id": "10.1093/nar/gkag1179",
+    "title": "GI-DB: a comprehensive variant database for exploring the extensive genetic diversity of the Indian population",
+    "abstract": "AbstractThe Indian population, characterized by extensive ethnolinguistic and biogeographical diversity, is significantly underrepresented in global genomic resources limiting the development of genomic medicine in South Asia. To address this, ~10 000 genomes from 83 populations were sequenced as part of the GenomeIndia initiative (Department of Biotechnology, Government of India). Here, we present GI-DB (accessible at https://ibdc.dbt.gov.in/gidb/), a public resource cataloging 136 million high-confidence variants, including 44 million variants which are not present in other global and South Asian databases. GI-DB serves as a population-specific reference resource for genetic variation across Indian populations. It can support the interpretation of clinically relevant variations for rare disease, complex disorders, and pharmacogenomics. The database is structured to provide allele frequency stratification across tribal and non-tribal groups, biogeography, and ethnolinguistic categories. The interactive browser facilitates exploration of variants and genes of interest, offering detailed annotations from tools like VEP, ClinVar, and comparisons with global databases like 1000 Genomes, gnomAD, and GenomeAsia. Researchers can search using different modalities and access data programmatically. GI-DB is a foundational resource for genomics-informed public health and clinical genetics, tailored for the Indian population.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1179",
+    "date": "2026-11-19",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1179/9097194?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "database",
+        "gene",
+        "genetic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5251,
+    "collected_at": "2026-11-19T13:13:10.696023+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.1093/nar/gkag1179"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d9085e22dc19eb7b97af0bfbee50525db3bd2beedeb5aa156f13c24ef5320b50",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T13:57:17.079042+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "32cda9ccb0744b6d48b735649ccd7e442605ffc4bd187a908a275460f972ccb6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T13:57:17.079042+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "GI-DB：インド集団の広範な遺伝的多様性を探索するための包括的な変異体データベース",
+    "abstract_ja": "要旨広範な民族言語学的および生物地理学的多様性を特徴とするインドの集団は、世界的なゲノムリソースにおいて著しく過小評価されており、これが南アジアにおけるゲノム医療の発展を制限する要因となっている。この課題に対処するため、GenomeIndiaイニシアチブ（インド政府バイオテクノロジー省）の一環として、83集団からなる約10,000件のゲノム配列が決定された。本稿では、1億3,600万件の高信頼度バリアントをカタログ化した公開リソースであるGI-DB（https://ibdc.dbt.gov.in/gidb/ で利用可能）を紹介する。これには他の世界的および南アジアのデータベースには存在しない4,400万件のバリアントが含まれている。GI-DBは、インドの集団における遺伝的変異に関する集団特異的なリファレンスリソースとして機能する。本リソースは、希少疾患、複雑な疾患、およびファーマコゲノミクスにおける臨床的に意義のある変異の解釈を支援する。本データベースは、部族・非部族グループ、生物地理学、および民族言語学的カテゴリーにわたるアレル頻度の層別化を提供できるよう構成されている。インタラクティブなブラウザにより、関心のあるバリアントや遺伝子の探索が容易になり、VEPやClinVarなどのツールによる詳細なアノテーションや、1000 Genomes、gnomAD、GenomeAsiaといった世界的なデータベースとの比較が可能である。研究者はさまざまなモダリティを用いて検索を行い、プログラム的にデータにアクセスすることができる。GI-DBは、インドの集団に合わせて設計された、ゲノミクスに基づく公衆衛生および臨床遺伝学のための基盤的リソースである。"
+  },
+  {
+    "id": "10.1093/nar/gkag1025",
+    "title": "Propedia 26: an expanded and updated database of protein–peptide interactions for machine learning applications",
+    "abstract": "AbstractPropedia is a database of protein–peptide interactions. In this new release, we expanded the dataset to more than four times the size of the first version and introduced a comprehensive set of new annotations. We systematically analyzed protein–peptide complexes to derive predicted physicochemical properties, solvent-accessible surface areas, interaction energies, interface residues, and interchain contacts. In addition, we applied machine learning models to predict the potential therapeutic functions of the peptides. Propedia 26 comprises 93 151 entries, including 73 392 protein–peptide pair complexes (pep–pro) and 19 759 multi-protein complexes featuring a single peptide interacting with two or more protein chains (Multipro). We anticipate that this expanded and enriched resource will support the discovery and development of peptide-based drugs and biotechnological products. Propedia 26 is available at https://bioinfo.dcc.ufmg.br/propedia.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1025",
+    "date": "2026-11-19",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1025/9097193?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "database",
+        "protein"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5252,
+    "collected_at": "2026-11-19T13:13:10.696023+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.1093/nar/gkag1025"
+    ],
+    "translation": {
+      "title": {
+        "hash": "edc98cb92ca32d60d9df4fae5f90ebf6565d2bbe59a53040864f58f11d23230b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T13:57:17.079042+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5753d6da6b16a1d08b677d2bdacec1b4f3273d02a666dd832c631013e1754ed1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T13:57:17.079042+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Propedia 26：機械学習アプリケーション向けのタンパク質－ペプチド相互作用の拡張・更新版データベース",
+    "abstract_ja": "Propediaは、タンパク質－ペプチド相互作用のデータベースである。本新リリースでは、データセットを初版の4倍以上の規模に拡張し、包括的な新規アノテーションセットを導入した。タンパク質－ペプチド複合体を系統的に解析し、予測される物理化学的特性、溶媒アクセス可能表面積、相互作用エネルギー、界面残基、および鎖間接触を導出した。さらに、機械学習モデルを適用して、ペプチドの潜在的な治療機能を予測した。Propedia 26は93 151件のエントリで構成されており、これには73 392件のタンパク質－ペプチドペア複合体（pep–pro）と、単一のペプチドが2つ以上のタンパク質鎖と相互作用する19 759件の多タンパク質複合体（Multipro）が含まれる。この拡張・拡充されたリソースが、ペプチドベースの医薬品およびバイオテクノロジー製品の発見と開発を支援することを期待している。Propedia 26は https://bioinfo.dcc.ufmg.br/propedia で利用可能である。"
+  },
+  {
+    "id": "10.1093/nar/gkag1198",
+    "title": "scCVD: a comprehensive single-cell omics atlas of cerebrovascular disease",
+    "abstract": "AbstractCerebrovascular disease (CVD) is the leading cause of death and disability worldwide. Initially insulting the cerebral vasculature, CVD pathology engages the entire neurovascular unit, including endothelial and mural cells, astrocytes, microglia, neurons, and the perivascular fibroblasts and infiltrating peripheral immune cells. Single-cell studies over CVD have generated enormous scattered and heterogeneously annotated atlases, which never supplement an organized visualization and an integrated analysis. Here, we present scCVD (https://scportal.cn/sccvd), an integrated single-cell database of scRNA-seq and scATAC-seq data for CVD that characterises expression patterns and chromatin accessibility of CVD-related genes across diverse cell types and disease stages. The current release comprises 701 high-quality samples from four species (human, mouse, rat, and marmoset), encompassing over 4.68 million cells. All datasets were manually curated and standardized, with harmonised metadata covering disease versus control status, disease time points and experimental interventions. scCVD provides analysis modules for differential expression, functional enrichment, trajectory inference, cell–cell communication, transcription factor regulatory networks, and chromatin accessibility, together with interactive visualisation. scCVD also supports convenient data browsing and retrieval, customisable online analysis and batch download, facilitating systematic investigation of cellular heterogeneity and molecular regulatory mechanisms in CVD.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1198",
+    "date": "2026-11-19",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1198/9097192?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "chromatin",
+        "database",
+        "gene"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5253,
+    "collected_at": "2026-11-19T13:13:10.696023+00:00",
+    "collected_date": "2026-11-19",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-19",
+    "related_dois": [
+      "10.1093/nar/gkag1198"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4e46f7c15efebe0d216a3731a51ede50bb362477da5881c5488e83e981de476d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T13:57:17.079042+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e8fa89dcba4818cb2bb08f7c5efee75579a543dc2acd22a79f2a499ecb5a6c9e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-19T13:57:17.079042+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "scCVD：脳血管疾患の包括的なシングルセルオミクスアトラス",
+    "abstract_ja": "要旨 脳血管疾患（CVD）は、世界的に死因および障害の主要な原因となっている。CVDの病理は最初に脳血管系に障害を及ぼし、内皮細胞および壁細胞、アストロサイト、ミクログリア、ニューロン、ならびに血管周囲線維芽細胞や浸潤性の末梢免疫細胞を含む神経血管系全体に及ぶ。CVDに関する単一細胞研究からは、膨大かつ散在し、アノテーションも不均一なアトラスが数多く作成されてきたが、体系的な可視化や統合的な解析を補完するものにはなっていない。本研究では、CVDのscRNA-seqおよびscATAC-seqデータの統合単一細胞データベースであるscCVD（https://scportal.cn/sccvd）を提案する。本データベースは、多様な細胞種および疾患ステージにわたるCVD関連遺伝子の発現パターンとクロマチンアクセシビリティを特性評価する。今回のリリースでは、4種（ヒト、マウス、ラット、マーモセット）から得られた701個の高品質なサンプル（468万個以上の細胞）が含まれている。すべてのデータセットは手動でキュレーションおよび標準化されており、疾患状態と対照状態、疾患のタイムポイント、および実験的介入を網羅する調和済みのメタデータが付与されている。scCVDは、差次的発現、機能的エンリッチメント、トラジェクトリ推論、細胞間コミュニケーション、転写因子調節ネットワーク、およびクロマチンアクセシビリティの解析モジュールを、インタラクティブな可視化機能とともに提供する。さらに、scCVDは便利なデータブラウジングと検索、カスタマイズ可能なオンライン解析およびバッチダウンロードをサポートしており、CVDにおける細胞不均一性と分子調節機構の系統的な調査を容易にする。"
   }
 ]
