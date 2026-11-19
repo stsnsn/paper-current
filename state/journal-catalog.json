@@ -1329,6 +1329,13 @@
     ]
   },
   {
+    "name": "British journal of anaesthesia",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "British journal of clinical pharmacology",
     "scope": [
       "genomics",
@@ -2979,6 +2986,13 @@
   },
   {
     "name": "Expert review of neurotherapeutics",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Expert reviews in molecular medicine",
     "scope": [
       "genomics",
       "microbiology"
@@ -5414,6 +5428,13 @@
   },
   {
     "name": "Journal of the European Academy of Dermatology and Venereology : JEADV",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Journal of the Formosan Medical Association = Taiwan yi zhi",
     "scope": [
       "genomics",
       "microbiology"
@@ -7915,6 +7936,13 @@
   {
     "name": "Special care in dentistry : official publication of the American Association of Hospital Dentists, the Academy of Dentistry for the Handicapped, and the American Society for Geriatric Dentistry",
     "scope": []
+  },
+  {
+    "name": "Spectrochimica acta. Part A, Molecular and biomolecular spectroscopy",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
   },
   {
     "name": "STAR protocols",
