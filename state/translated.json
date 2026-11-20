@@ -308810,5 +308810,162 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "<i>Luteimonas yangxiaopingae</i> sp. nov. および <i>Luteimonas renzhihongae</i> sp. nov.：モンゴルマーモット（<i>Marmota sibirica</i>）の巣穴土壌から分離された<i>Luteimonas</i>属の2新種。",
     "abstract_ja": "中国内モンゴル自治区フルンボイル市のMarmota sibiricaの巣穴の土壌から、A478T、A277、A537T、およびA501の4株が分離された。これら4株はいずれもグラム陰性で桿菌状であった。4株すべてが4～30°C（至適温度20°C）で増殖した。A478ᵀ株およびA277株の増殖におけるNaCl濃度範囲およびpH範囲は0～3.5%（wt/v）NaCl（至適0.5%）およびpH 7～11（至適pH 8）であり、A537ᵀ株およびA501株の範囲は0～4.5%（wt/v）NaCl（至適0.5%）およびpH 7～10（至適pH 7）であった。EzBioCloudデータベースを用いた16S rRNA遺伝子配列類似性解析の結果、A478ᵀ株およびA277株はLuteimonas dalianensis OB44-3ᵀと最も高い類似性（97.27%）を示した。対照的に、A537ᵀ株およびA501株はLuteimonas terricola BZ92rᵀと最も高い類似性（98.23%）を示した。これら4株と近縁種との間の平均ヌクレオチド同一性およびデジタルDNA-DNAハイブリダイゼーション値は、種の画定に推奨される閾値を下回っていた。タイプ株であるA478ᵀ株およびA537ᵀ株のゲノムDNA G+C含有量は、それぞれ66.7および68.8 mol%であった。A478T株およびA537T株の唯一の呼吸性キノンはユビキノン8であった。A478ᵀ株およびA537ᵀ株の主要な極性脂質は、ジホスファチジルグリセロール、ホスファチジルグリセロール、およびホスファチジルエタノールアミンであった。A478T株の主要脂肪酸（>5%）は、合算特徴9（C16:0 10-メチルおよび/またはイソ-C17:1ω9c）、イソ-C15:0、イソ-C16:0、イソ-C17:0、イソ-C11:0、および合算特徴3（C16:1ω7cおよび/またはC16:1ω6c）であった。A537T株の主要脂肪酸（>5%）は、合算特徴9、イソ-C15:0、イソ-C16:0、イソ-C17:0、イソ-C11:0、およびイソ-C11:0 3-OHであった。多相的な証拠に基づき、A478T株およびA277株は新規種であり、Luteimonas yangxiaopingae sp. nov.（タイプ株 A478T=GDMCC l.6140T=JCM 38387T）という名称が提案される。一方、A537T株およびA501株は別の新規種であり、Luteimonas renzhihongae sp. nov.（タイプ株 A537T=GDMCC l.6141T=JCM 38389T）と指定されることが提案される。"
+  },
+  {
+    "id": "10.64898/2026.11.19.767437",
+    "title": "Deletion of two candidate depolymerases with overlapping genetic effects increases PHA yield in Rhodopseudomonas palustris TIE-1",
+    "abstract": "Polyhydroxyalkanoate (PHA) is a microbial carbon-storage polymer with potential as a renewable bioplastic, but intracellular remobilization can limit polymer retention. The metabolically versatile bacterium Rhodopseudomonas palustris TIE-1 accumulates PHA during photoheterotrophic growth, yet the enzymes that control PHA turnover in this organism remain incompletely studied. We identified PhaZ2 (Rpal_0568) as a second candidate PHA depolymerase that is evolutionarily and architecturally distinct from the previously annotated PhaZ1 (Rpal_0578). Deleting either PhaZ1 or PhaZ2 alone did not substantially increase PHA content under tested growth conditions, whereas the double mutant accumulated 2.3-fold and 1.7-fold more PHA than wild type under non-nitrogen-fixing and nitrogen-fixing photoheterotrophic conditions, respectively, supporting overlapping roles in PHA turnover. All deletion strains showed longer doubling times but reached final culture densities similar to wild type. The double mutant showed its strongest retention phenotype under severe but growth-permissive nutrient limitation, including 3.7-fold more PHA than wild type at 33% phosphorus availability. A two-stage cultivation strategy that separated biomass formation from nutrient-limited storage raised volumetric PHA titer to 0.180 mg per mL culture in the double mutant, 1.5-fold more than wild type and approximately 3.4-fold higher than single-stage 33% phosphorus limitation and 4.0-fold higher than single-stage 8% nitrogen limitation (cross-experiment comparison), despite lower PHA content per unit biomass. Finally, an LC-MS-calibrated FTIR spectroscopy model predicted PHA content with an R2 of 0.928 (n = 15) and reproduced the major biological trends. These results identify genetically redundant candidate depolymerases as targets for improving PHA retention in TIE-1 and establish a cultivation and screening framework for strain engineering. Importance Persistent pollution from petroleum-based plastics has intensified the need for biodegradable plastics produced from renewable resources. Polyhydroxyalkanoate (PHA) is a microbially synthesized bioplastic, but microbial cells can also consume the stored polymer, reducing its net yield. The metabolically versatile, photosynthetic purple non-sulfur bacterium (PNSB) Rhodopseudomonas palustris TIE-1 is a promising production organism because it can photosynthesize, assimilate atmospheric nitrogen, and utilize diverse carbon sources. We show that two candidate PHA depolymerases, PhaZ1 and PhaZ2, likely have overlapping roles in PHA turnover. Removing both candidates increased polymer retention, particularly when nitrogen or phosphorus was limited, and a two-stage cultivation strategy further increased PHA titer to 0.180 mg per mL of culture. We also developed a rapid infrared spectroscopy method to track polymer content across strains and growth conditions. These findings offer complementary genetic, cultivation, and screening strategies for improving microbial bioplastic production and may help advance sustainable alternatives to petroleum-derived plastics.",
+    "journal": "",
+    "doi": "10.64898/2026.11.19.767437",
+    "date": "2026-11-19",
+    "authors": "Chen, Y., Ranaivoarisoa, T. O., Ditter, R., Blodgett, J. A. V., Bose, A.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.19.767437v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacterium",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5343,
+    "collected_at": "2026-11-20T03:23:23.547156+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.64898/2026.11.19.767437"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d28867d75933a9f575c2e26aecc0911d80fddb5ad42ff9f6429c08ed326f0b84",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T03:53:59.155481+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "09ee501086087f4e1e26b55bf5e0dc0b3fe7e616b96a599920666882de02345b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T03:53:59.155481+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "遺伝的影響が重複する2種類の候補脱重合酵素の欠損により、Rhodopseudomonas palustris TIE-1におけるPHA収量が増加する。",
+    "abstract_ja": "ポリヒドロキシアルカノエート（PHA）は、再生可能バイオプラスチックとしての可能性を秘めた微生物由来の炭素貯蔵ポリマーであるが、細胞内での再動員がポリマーの保持量を制限することがある。代謝的に汎用性の高い細菌Rhodopseudomonas palustris TIE-1は、光従属栄養増殖中にPHAを蓄積するが、本生物におけるPHAターンオーバーを制御する酵素については十分に研究されていない。我々は、以前にアノテーションされたPhaZ1（Rpal_0578）とは進化的および構造的に異なる、2つ目のPHA脱重合酵素候補としてPhaZ2（Rpal_0568）を同定した。PhaZ1またはPhaZ2のいずれか一方を単独で欠損させても、試験した増殖条件下でPHA含有量は大幅に増加しなかったが、二重変異体は、非窒素固定および窒素固定の光従属栄養条件下において、それぞれ野生型よりも2.3倍および1.7倍多くのPHAを蓄積し、PHAターンオーバーにおける役割が重複していることを裏付けた。すべての欠損株において倍加時間は延長したが、最終的な培養密度は野生型と同程度であった。二重変異体は、過酷ながらも増殖が許容される栄養制限条件下で最も強い保持表現型を示し、リン利用可能量33%の条件下では野生型よりも3.7倍多くのPHAを保持した。バイオマス形成と栄養制限下での貯蔵を分離する2段階培養戦略により、単位バイオマスあたりのPHA含有量は低下したものの、二重変異体における培養液中のPHA滴定値は0.180 mg/mLまで上昇し、これは野生型の1.5倍、単一段階のリン33%制限条件の約3.4倍、および単一段階の窒素8%制限条件の4.0倍に相当した（クロス実験による比較）。最後に、LC-MSで較正したFTIR分光法モデルにより、R2 = 0.928（n = 15）でPHA含有量が予測され、主要な生物学的傾向が再現された。これらの結果は、遺伝的に冗長な脱重合酵素候補をTIE-1におけるPHA保持率向上の標的として特定し、菌株工学のための培養およびスクリーニングフレームワークを確立するものである。重要性 石油系プラスチックによる持続的な汚染により、再生可能資源から製造される生分解性プラスチックの必要性が高まっている。ポリヒドロキシアルカノエート（PHA）は微生物によって合成されるバイオプラスチックであるが、微生物細胞が貯蔵されたポリマーを消費するため、正味の収量が減少することがある。代謝的に汎用性が高く、光合成を行う紫色非硫黄細菌（PNSB）であるRhodopseudomonas palustris TIE-1は、光合成を行い、大気中の窒素を同化し、多様な炭素源を利用できるため、有望な生産生物である。我々は、2つのPHA脱重合酵素候補であるPhaZ1とPhaZ2が、PHAターンオーバーにおいて役割が重複している可能性が高いことを示す。両候補を欠損させると、特に窒素またはリンが制限された場合にポリマー保持量が増加し、2段階培養戦略によってPHA滴定値はさらに培養液中0.180 mg/mLまで上昇した。また、菌株間および増殖条件間でポリマー含有量を追跡するための迅速な赤外分光法を開発した。これらの知見は、微生物バイオプラスチック生産を改善するための相補的な遺伝的、培養的、およびスクリーニング戦略を提供するものであり、石油由来プラスチックに代わる持続可能な代替手段の推進に寄与する可能性がある。"
+  },
+  {
+    "id": "10.64898/2026.11.18.767762",
+    "title": "The virome of New Zealand fur seals reveals novel viral diversity and evidence of continued Canine distemper virus circulation",
+    "abstract": "Canine distemper virus (CDV) has recently been detected in New Zealand fur seals (Arctocephalus forsteri), including retrospective samples from 2020 and outbreaks associated with substantial mortality in late 2024 and 2025. However, the geographic distribution of CDV and the broader viral diversity harboured by New Zealand fur seals remain poorly understood. Characterising the fur seal virome can provide insights into viral diversity, dispersal and the occurrence of viral co-infections, while assessing the distribution of CDV across colonies. We used metatranscriptomic sequencing to characterise the viromes of 178 live and recently deceased fur seals sampled from four large fur seal colonies (Kaik[o]ura, Dunedin, West Coast and Wairarapa). We investigated viral diversity, community composition and geographic structure using phylogenetic analyses to examine viral evolutionary relationships and CDV distribution. We identified 23 viral species, including 20 putatively novel species. Several were related to viruses previously identified in terrestrial mammals. One viral species was detected across geographically separated colonies, while several other closely related viruses were identified across colonies, with viral sharing most frequent between Kaik[o]ura and Wairarapa. Viral diversity was similar between live and recently deceased fur seals, while community composition showed geographic structuring. CDV was detected only in Kaik[o]ura, where the lineage associated with the 2024 outbreak remained in circulation. No CDV was detected in the other sampled colonies. This study reveals substantial previously undocumented viral diversity in New Zealand fur seals, improving our understanding of viral distribution and CDV circulation in marine mammal populations.",
+    "journal": "",
+    "doi": "10.64898/2026.11.18.767762",
+    "date": "2026-11-19",
+    "authors": "Waller, S. J., White, B. A., Wierenga, J. R., Hall, A. A., Thompson, M., Wilson, A. D., Taylor, H. S., Weir, J. S., Geoghegan, J. L.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.18.767762v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metatranscriptom",
+        "metatranscriptomic",
+        "viral",
+        "virome",
+        "viromes",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [
+          "evolution",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5344,
+    "collected_at": "2026-11-20T03:23:23.547156+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.64898/2026.11.18.767762"
+    ],
+    "translation": {
+      "title": {
+        "hash": "df8802701e053807bff4682bfedb2a6d0f33bd009590f70e496c273ddb5547d9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T03:53:59.155481+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "fcbdcbe5d407df2a369d38a63548bbc33f36b9f514f69798247d6ef99732f085",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T03:53:59.155481+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ニュージーランドオットセイのウイルス叢からは、新たなウイルス多様性と、イヌジステンパーウイルスの継続的な循環の証拠が明らかになった。",
+    "abstract_ja": "イヌジステンパーウイルス（CDV）は近年、ニュージーランドオットセイ（Arctocephalus forsteri）において検出されており、これには2020年の遡及的検体や、2024年後半および2025年の大幅な死亡を伴うアウトブレイクが含まれる。しかし、CDVの地理的分布や、ニュージーランドオットセイが保有するより広範なウイルス多様性については、依然として十分に解明されていない。オットセイのウイルス叢を特性評価することは、ウイルス多様性、拡散、およびウイルス共感染の発生に関する知見をもたらすとともに、コロニー間におけるCDVの分布を評価することにつながる。本研究では、メタトランスクリプトームシーケンシングを用いて、4つの大規模なオットセイコロニー（カイコウラ、ダニーデン、ウェストコースト、ワイララパ）から採取した、生存個体および最近死亡した個体計178頭のオットセイのウイルス叢を特性評価した。系統解析を用いてウイルスの進化的関係とCDVの分布を検討し、ウイルス多様性、群集組成、および地理的構造を調査した。その結果、推定新規種20種を含む23種のウイルスを同定した。そのうち数種は、以前に陸生哺乳類で同定されたウイルスに関連していた。1種のウイルスは地理的に離れたコロニー間で検出され、他の近縁ウイルス数種もコロニー間で同定されたが、ウイルスの共有はカイコウラとワイララパの間で最も頻繁に認められた。ウイルス多様性は生存個体と最近死亡した個体の間で同程度であったが、群集組成には地理的な構造が認められた。CDVはカイコウラでのみ検出され、そこでは2024年のアウトブレイクに関連する系統が依然として循環していた。その他の採取コロニーではCDVは検出されなかった。本研究は、ニュージーランドオットセイにおいてこれまで記録されていなかった相当なウイルス多様性が存在することを明らかにし、海棲哺乳類個体群におけるウイルス分布とCDVの循環に関する理解を深めるものである。"
   }
 ]
