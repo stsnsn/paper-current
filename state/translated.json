@@ -310973,5 +310973,283 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "canSAR 2026――公開創薬ナレッジベースの更新版",
     "abstract_ja": "AbstractcanSAR (https://cansar.ai) は、がん創薬およびトランスレーショナルリサーチにおける世界最大の公開プラットフォームである。本プラットフォームは、(i) 公開リソースからの大規模かつ学際的なデータと、独自にキュレーションされたデータを全面的に統合し、相互に連結しナビゲート可能な創薬ナレッジマップを構築すること、および (ii) 機械学習およびAIツール群を適用して新たな知見を創出すること、を通じて、創薬のための探索および仮説生成プラットフォームとして機能している。本稿では、全データにわたる成長、予測アルゴリズムの強化、およびユーザーエクスペリエンスの継続的な改善を反映したcanSARの最新アップデートについて報告する。また、最新のオープンサイエンス向け化学物質取り扱いおよび薬物性予測ツールを活用し、追跡可能な知見を提供する。本プラットフォームでは、創薬探索に対する「インライン」のサポートとガイダンスの提供に一層注力している。さらに、エージェント型AIによって生成された高忠実度かつコンテキスト特化型の要約の初の実装について報告する。この要約をウェブサイト全体で提供することで、ユーザーが主要な情報の合成および蒸留をさらに円滑に行えるよう支援する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.00355-26",
+    "title": "Slowly burning down the house: the role of calcium in spotted fever rickettsiosis pathogenesis.",
+    "abstract": "Spotted fever group rickettsiae (SFGR) infect microvascular endothelial cells, increasing vascular permeability, a major pathophysiological effect with unclear underlying factors. To accurately model this disease feature, we used a microvascular barrier model that continuously monitors transendothelial electrical resistivity in brain microvascular endothelial cell barriers. Using this model, we previously showed that Rickettsia parkeri-infected microvascular endothelial cells treated with voltage-gated L-, T-, and N-type calcium channel blocker (VGCCb) benidipine delayed in vitro vascular permeability. This study aimed to investigate whether host calcium signaling modulation and metabolic stress with SFGR infection are primary drivers of rickettsial fitness and the subsequent loss of vascular integrity. We hypothesize that SFGR infections, while consuming host cell energy resources such as ATP, lead to modulation of microvascular endothelial cell calcium transport that enhances bacterial fitness, prefacing collateral barrier dysfunction. We confirmed that benidipine, the L-type VGCCb nifedipine, and the membrane-active divalent ion chelator DP-b99 have dose-dependent effects on vascular permeability, as measured by electric cell-substrate impedance sensing, which result in delayed rickettsial growth, as measured by qPCR, without direct bactericidal activity. During R. parkeri infection, intracellular calcium concentrations increased and ATP concentrations decreased simultaneously; these effects were mitigated by benidipine. VGCCb and DP-b99 treatment sustained VE-cadherin junctions, seen with immunofluorescence microscopy, similar to uninfected microvascular endothelial cells, corresponding to barrier integrity preservation. In addition to delayed rickettsial growth, VGCCbs and DP-b99 inhibited rickettsial actin tail formation, reduced cell-to-cell spread, and increased bacterial length by impacting FtsZ-ring localization, evaluated by immunofluorescence microscopy and plaque assay. Furthermore, bacterial protein synthesis is required, as replicating but not heat-killed R. parkeri caused microvascular endothelial cell barrier dysfunction, and a subinhibitory doxycycline dose delayed R. parkeri-induced microvascular endothelial cell dysfunction without impacting R. parkeri growth. Limiting calcium access disrupts R. parkeri growth by interrupting bacterial elongation and division, actin tail formation, and cell-to-cell spread, mitigating R. parkeri-induced microvascular endothelial cell barrier permeability in vitro. This suggests that rickettsial interference with host cell metabolism triggers calcium entry and accessibility, key in rickettsial fitness, and pathogenicity.IMPORTANCEThis work investigated pathogen- and host-associated factors contributing to SFGR disease pathogenesis, as measured by vascular permeability. Our findings demonstrate that SFGR disrupts endothelial cell homeostasis by causing intracellular calcium influx, a process that is critical for rickettsial fitness and pathogenesis. Rickettsial growth and cell-to-cell spread are dependent on host cell calcium, underscoring the essential role of Ca²+ access and linking bacterial fitness to calcium-dependent host processes. Although blocking calcium channels suppresses immune cell activation in vitro and increases mortality in an SFGR murine model in vivo, these findings warrant further investigation into whether selectively targeting endothelial cell-specific calcium signaling could reduce SFGR-associated vascular permeability without compromising innate immune responses. Such an approach may improve SFGR-related morbidity and mortality. Elucidating the role of calcium signaling in the obligate intracellular lifestyle of rickettsiae provides deeper insight into fundamental rickettsial biology and the mechanisms driving severe disease.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.00355-26",
+    "date": "2026-10-29",
+    "authors": "Farner JM, Nguyen T, Londoño AF, Kim Y, Grab DJ, Goley E, Dumler JS.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42954458",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42954458",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5224,
+    "collected_at": "2026-11-20T11:50:28.841726+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1128/spectrum.00355-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "123c90418c591b49fc35d21c02a5b1db66ebb8cd5dd60cbd54d7c0777b2e10e6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T12:44:47.094500+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2a153a19ab92ddb880381c81abf6421a753a9fdb40a18a0f3037d19479fd6c6e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T12:44:47.094500+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "家屋を徐々に焼失させる：紅斑熱リケッチア症の病態形成におけるカルシウムの役割。",
+    "abstract_ja": "斑点熱群リケッチア（SFGR）は微小血管内皮細胞に感染して血管透過性を亢進させるが、これは根本的な要因が不明な主要な病態生理学的影響である。この疾患特性を正確にモデル化するため、我々は脳微小血管内皮細胞バリアにおける経内皮電気抵抗率を継続的にモニタリングする微小血管バリアモデルを用いた。このモデルを用いて、Rickettsia parkeri感染微小血管内皮細胞に電位依存性L型、T型、およびN型カルシウムチャネル遮断薬（VGCCb）であるベニジピンを投与すると、in vitroで血管透過性が遅延することを以前に示した。本研究では、SFGR感染に伴う宿主のカルシウムシグナル伝達の調節および代謝ストレスが、リケッチアの適応度とそれに続く血管完全性の喪失の主要な駆動要因であるかどうかを検証することを目的とした。我々は、SFGR感染がATPなどの宿主細胞のエネルギー資源を消費する一方で、微小血管内皮細胞のカルシウム輸送を調節して細菌の適応度を高め、それが付随的なバリア機能不全の前段階となるという仮説を立てている。ベニジピン、L型VGCCbであるニフェジピン、および膜活性型二価イオンキレート剤DP-b99が、電気細胞-基質インピーダンスセンシングで測定した血管透過性に対して用量依存的な影響を及ぼし、その結果、直接的な殺菌活性を伴わずに、qPCRで測定したリケッチアの増殖遅延をもたらすことを確認した。R. parkeri感染時には、細胞内カルシウム濃度の上昇とATP濃度の低下が同時に認められたが、これらの影響はベニジピンによって軽減された。VGCCbおよびDP-b99の投与は、免疫蛍光顕微鏡で観察されるVE-カドヘリン接合部を、未感染の微小血管内皮細胞と同様に維持し、これはバリア完全性の保持に対応していた。リケッチアの増殖遅延に加え、VGCCbおよびDP-b99は、免疫蛍光顕微鏡およびプラークアッセイで評価したFtsZ-リングの局在化に影響を与えることで、リケッチアのアクチンテイル形成を抑制し、細胞間拡散を減少させ、細菌の長さを増加させた。さらに、細菌のタンパク質合成が必要であり、複製されたが熱死滅しなかったR. parkeriは微小血管内皮細胞のバリア機能不全を引き起こし、亜阻害用量のドキシサイクリンは、R. parkeriの増殖に影響を与えることなく、R. parkeri誘発性の微小血管内皮細胞機能不全を遅延させた。カルシウムアクセスを制限すると、細菌の伸長と分裂、アクチンテイル形成、および細胞間拡散が遮断されることでR. parkeriの増殖が阻害され、in vitroにおいてR. parkeri誘発性の微小血管内皮細胞バリア透過性が軽減された。このことは、リケッチアによる宿主細胞代謝への干渉が、リケッチアの適応度および病原性の鍵となるカルシウムの取り込みとアクセス性を誘発することを示唆している。重要性：本研究では、血管透過性で測定した、SFGRの疾患病態形成に寄与する病原体および宿主関連因子を調査した。我々の知見は、SFGRが細胞内カルシウム流入を引き起こすことで内皮細胞の恒常性を乱し、このプロセスがリケッチアの適応度および病態形成に不可欠であることを示している。リケッチアの増殖と細胞間拡散は宿主細胞のカルシウムに依存しており、これはCa²+アクセスの不可欠な役割を強調するとともに、細菌の適応度をカルシウム依存的な宿主プロセスに結びつけるものである。カルシウムチャネルの遮断は、in vitroで免疫細胞の活性化を抑制し、in vivoのSFGRマウスモデルで死亡率を上昇させるが、これらの知見は、内皮細胞特異的なカルシウムシグナル伝達を選択的に標的とすることで、自然免疫応答を損なうことなくSFGR関連の血管透過性を低減できるかどうかについて、さらなる調査を行う価値があることを示している。このようなアプローチは、SFGRに関連する罹患率および死亡率を改善させる可能性がある。リケッチアの必須細胞内生活様式におけるカルシウムシグナル伝達の役割を解明することは、リケッチアの基礎的な生物学および重篤な疾患を駆動するメカニズムについて、より深い洞察を与えるものである。"
+  },
+  {
+    "id": "10.1093/nar/gkag1173",
+    "title": "DriverDBv5: a multi-omics integration database for cancer driver gene research",
+    "abstract": "AbstractCancer is driven by alterations across multiple molecular layers, but whether multi-omics drivers carry prognostic weight has received little systematic attention. DriverDBv5 (https://driverdb.bioinfomics.org/) extends DriverDB from driver identification to prognostic evaluation. It has been expanded to 187 cohorts, 43 862 patients, and 129 655 samples, with 154 cohorts from non-TCGA (The Cancer Genome Atlas) repositories reconciled by a generalized multi-omics barcode. Driver genes can be evaluated with Cox and mixture cure models, with machine learning on the full multi-omics feature matrix, and for the joint prognostic effect of alterations in two omics layers. The Customized Analysis module has grown from 4 to 10 tools for user-defined gene sets, subgroups, and covariates, and a human body map offers an anatomical entry point. DriverDBv5 thus reveals not only which alterations drive a tumor, but also which of them relate to patient outcome.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1173",
+    "date": "2026-11-20",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1173/9103983?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "database",
+        "gene"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5353,
+    "collected_at": "2026-11-20T12:01:03.805438+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1093/nar/gkag1173"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a52412122c65710741a98f137db5df053d0bcf462c99475c33acfe0d3812db13",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T12:44:47.094500+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "023c01ff5252f0be1a1b10a555d5dbe512e3aa89d908f274b47914ebc9f4f257",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T12:44:47.094500+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "DriverDBv5: がんドライバー遺伝子研究のためのマルチオミクス統合データベース",
+    "abstract_ja": "要旨がんは複数の分子層にわたる変化によって駆動されるが、マルチオミクスのドライバーが予後予測において重要であるかについては、体系的な検討がほとんど行われてこなかった。DriverDBv5 (https://driverdb.bioinfomics.org/) は、DriverDBをドライバーの同定から予後評価へと拡張したものである。本データベースは187のコホート、43,862人の患者、および129,655検体へと拡大されており、非TCGA（The Cancer Genome Atlas）リポジトリ由来の154コホートが、汎用的なマルチオミクスバーコードによって整合されている。ドライバー遺伝子は、Coxモデルや混合治癒モデルを用いて評価できるほか、全マルチオミクス特徴量行列を用いた機械学習や、2つのオミクス層における変化の複合的な予後効果の解析も可能である。カスタマイズ解析モジュールは、ユーザー定義の遺伝子セット、サブグループ、および共変量に対応したツールが4つから10つへと拡充され、人体マップが解剖学的なエントリーポイントとして提供されている。このように、DriverDBv5は、どの変化が腫瘍を駆動させるかだけでなく、それらのうちどれが患者の転帰に関連しているかを明らかにする。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.02238-26",
+    "title": "Resensitization of colistin-resistant bacteria by the combination of colistin and L-arginine.",
+    "abstract": "Colistin is the last-resort antibiotic for the clinical treatment of infections caused by multidrug-resistant Gram-negative bacteria. However, the emergence of colistin-resistant bacteria, particularly those harboring the mcr-1 gene, has severely compromised the therapeutic efficacy of colistin. Herein, we demonstrated that L-arginine restores colistin susceptibility in colistin-resistant bacteria, including those with intrinsic or acquired resistance. The combination of colistin and L-arginine effectively treated murine acute peritonitis caused by a colistin-resistant bacterial infection, with no toxicity observed in either in vitro or in vivo assays. Mechanistically, we revealed that the combination enhances the permeability of the cell membrane, thereby promoting the influx of colistin, ATP efflux, and the level of reactive oxygen species (ROS), ultimately leading to the death of colistin-resistant bacteria. Furthermore, the combination downregulates membrane lipid-related genes fabZ and fadL, consequently suppressing fatty acid synthesis. This inhibition resulted in the uneven distribution of membrane lipids and lipopolysaccharide (LPS), which further increased membrane permeability. In sum, our findings indicate that the combination of colistin and L-arginine successfully reverses the colistin resistance phenotype, providing a potential therapeutic strategy to combat infections caused by colistin-resistant bacteria.IMPORTANCEThe global spread of colistin-resistant bacteria has eroded one of the last lines of defense against life-threatening infections that no longer respond to conventional antibiotics. Here we show that L-arginine, a natural and safe amino acid, is an agent that can restore colistin susceptibility in strains with intrinsic or acquired resistance, and is effective in a murine peritonitis model without observable toxicity. Mechanistically, the combination increases membrane permeability and compromises the integrity of the membrane, leading to altered membrane lipid and LPS distribution that further amplifies membrane disruption. These findings establish that colistin combined with L-arginine constitutes a readily translatable therapeutic strategy to overcome colistin resistance and preserve the clinical utility of this critical last-resort antibiotic.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.02238-26",
+    "date": "2026-10-29",
+    "authors": "Li T, Zhou Y, Zhang G, Lu W, Wu J, Chen J, Chen X, He L, Yang Y, Dai M, Zhang Q, Zhong L-L, Tian G-B.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42954469",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42954469",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5225,
+    "collected_at": "2026-11-20T11:50:28.841726+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1128/spectrum.02238-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ed7f90d7767e81b09717a339ff1fc2d34bd8582dda68212f3f01fae6feff5ef6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T12:44:47.094500+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ff607e1a9b71b0df02ec61ed0e12fa7b49d517b83e39eb1015ff4a29514c3b55",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T12:44:47.094500+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "コリスチンとL-アルギニンの併用によるコリスチン耐性菌の再感作",
+    "abstract_ja": "コリスチンは、多剤耐性グラム陰性菌による感染症の臨床治療における最後の手段となる抗菌薬である。しかし、コリスチン耐性菌、特にmcr-1遺伝子を保有する菌の出現により、コリスチンの治療効果が著しく損なわれている。本研究では、L-アルギニンが、内因性または獲得性耐性を有する菌を含むコリスチン耐性菌において、コリスチン感受性を回復させることを実証した。コリスチンとL-アルギニンの併用は、コリスチン耐性菌感染によるマウス急性腹膜炎を効果的に治療し、in vitroおよびin vivoのいずれのアッセイにおいても毒性は認められなかった。機序的には、本併用により細胞膜の透過性が亢進し、それによってコリスチンの流入、ATPの流出、および活性酸素種（ROS）レベルが促進され、最終的にコリスチン耐性菌の死滅に至ることを明らかにした。さらに、本併用は膜脂質関連遺伝子であるfabZおよびfadLをダウンレギュレートし、その結果、脂肪酸合成を抑制した。この抑制により、膜脂質およびリポ多糖（LPS）の分布に不均一性が生じ、膜透過性がさらに亢進した。以上のことから、我々の知見は、コリスチンとL-アルギニンの併用がコリスチン耐性表現型を正常に戻し、コリスチン耐性菌による感染症に対抗するための潜在的な治療戦略となり得ることを示している。重要性コリスチン耐性菌の世界的な蔓延は、従来の抗菌薬がもはや奏効しなくなった生命を脅かす感染症に対する最後の防衛線の一つを侵食している。本研究では、天然かつ安全なアミノ酸であるL-アルギニンが、内因性または獲得性耐性を有する菌株においてコリスチン感受性を回復させ得る薬剤であり、マウス腹膜炎モデルにおいて観察可能な毒性を示すことなく有効であることを示す。機序的には、本併用により膜透過性が亢進し、膜の完全性が損なわれることで、膜脂質およびLPSの分布が変化し、膜の破壊がさらに増幅される。これらの知見は、コリスチンとL-アルギニンの併用が、コリスチン耐性を克服し、この極めて重要な最後の手段となる抗菌薬の臨床的有用性を維持するための、容易に転用可能な治療戦略であることを立証するものである。"
+  },
+  {
+    "id": "10.1093/nar/gkag1218",
+    "title": "CovPDB 2.0: an expanded covalent protein–ligand interactome",
+    "abstract": "AbstractThe rational design of covalently binding inhibitors to specifically block selected target proteins has become a common strategy in drug discovery. Such design is based on structural insights into how electrophilic ligands bind to nucleophilic residues. CovPDB v1.0 provided high-resolution cocrystal structures of biologically relevant covalent protein–ligand complexes curated from the Protein Data Bank. Here, we describe CovPDB v2.0, a substantially extended release that addresses three main limitations of the original resource. First, to reflect the numerous novel covalently binding ligands developed and structurally elucidated over the past 4 years, we have classified, annotated, and integrated these entries into the database. This expands the collection from ~2300 to ~6200 protein–ligand complexes, comprising ~3600 pre-reactive ligands, ~1300 target proteins, 119 warheads, and 27 reaction types. Second, we expanded the structural scope beyond experimental cocrystals by generating AlphaFold3 cofolding models for additional ~6800 covalent complexes for which we had experimental evidence for a covalent ligand binding. Third, we added ~7100 non-covalent complexes in which the binding-site cysteines are annotated with a predicted reactivity and ligandability scores. A redesigned web interface allows users to browse, filter, and cross-search experimental, modelled, and ligandable-cysteine entries. CovPDB 2.0 is freely accessible at https://www.pharmbioinf.uni-freiburg.de/covpdb.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1218",
+    "date": "2026-11-20",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1218/9103982?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5354,
+    "collected_at": "2026-11-20T12:01:03.805438+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1093/nar/gkag1218"
+    ],
+    "translation": {
+      "title": {
+        "hash": "912e47ae364736d891e200a9ac597b9e6a034b284618ba9a4189060605333e43",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T12:44:47.094500+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "aab3f5b90fc446e3b37c51b4d6c82d44a23d33674f2b089b0203e00026b55190",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T12:44:47.094500+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "CovPDB 2.0：拡張された共有結合性タンパク質－リガンド相互作用マップ",
+    "abstract_ja": "要旨 特定の標的タンパク質を特異的に阻害するための共有結合性阻害剤の合理的設計は、創薬における一般的な戦略となっている。このような設計は、求電子性リガンドが求核性残基にどのように結合するかという構造的な知見に基づいている。CovPDB v1.0では、Protein Data Bankからキュレートされた生物学的に意義のある共有結合性タンパク質－リガンド複合体の高分解能共結晶構造が提供されていた。本稿では、元のリソースにおける3つの主要な制限事項に対処し、大幅に拡張したリリースであるCovPDB v2.0について述べる。第一に、過去4年間に開発・構造解明された数多くの新規共有結合性リガンドを反映させるため、これらのエントリを分類・アノテーションし、データベースに統合した。これにより、コレクションは約2,300から約6,200のタンパク質－リガンド複合体へと拡大し、約3,600の事前反応性リガンド、約1,300の標的タンパク質、119のウォーヘッド、および27種類の反応タイプを網羅している。第二に、共有結合性リガンドの結合に関する実験的根拠が得られたさらに約6,800の共有結合性複合体についてAlphaFold3によるコフォールディングモデルを生成し、構造的範囲を実験的共結晶を超えて拡張した。第三に、結合部位のシステインに予測反応性とリガンド親和性スコアがアノテーションされた約7,100の非共有結合性複合体を追加した。再設計されたウェブインターフェースにより、ユーザーは実験的、モデル化された、およびリガンド親和性を有するシステインのエントリを閲覧、フィルタリング、および相互検索することが可能となった。CovPDB 2.0は、https://www.pharmbioinf.uni-freiburg.de/covpdb で無料で利用可能である。"
   }
 ]
