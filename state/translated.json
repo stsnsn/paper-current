@@ -312344,5 +312344,284 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "<i>Cryptococcus neoformans</i>において、収束型プロリン生合成段階が細胞壁の完全性と病原性を連関させている。",
     "abstract_ja": "日和見真菌Cryptococcus neoformansの病原性には、代謝適応が不可欠である。アミノ酸生合成経路は真菌病原体における重要な適応度決定因子であるが、プロリン生合成の生理学的寄与については十分に解明されておらず、ほとんどの研究はプロリン異化作用に焦点を当ててきた。本研究では、C. neoformansにおけるプロリン生合成酵素Pro1、Pro2、およびPro3の特性を明らかにした。プロリンは、Δ1-ピロリン-5-カルボキシレート（P5C）に収束する2つの経路、すなわちグルタミン酸からPro1およびPro2を介するde novo経路と、Car1およびCar2を介するアルギニン由来のバイパス経路によって産生され、いずれの経路においてもP5Cからプロリンへの最終還元にはPro3が必要である。すべての生合成変異体はプロリンに対して厳格な要求性を示したが、病原性に関する要求性は著しく異なっていた。マウス感染モデルにおいて、pro1Δおよびpro2Δ変異体は完全な病原性を保持したのに対し、pro3Δは増殖障害と細胞壁完全性の低下を伴い、病原性が著しく減弱していた。P5C産生経路の遺伝的破壊により、異なるpro3Δ表現型が部分的に回復し、PRO2欠失は増殖遅延を軽減し、PRO2とCAR2の複合欠失は細胞サイズを部分的に回復させたが、細胞壁の欠陥は解消されなかった。この解離は、増殖にはP5C産生代謝フラックスの適切なバランスが必要である一方、細胞壁の完全性はP5C産生の遮断では解消されない別個のメカニズムに依存していることを示している。以上の知見を総合すると、Pro3はプロリン生合成と細胞壁恒常性を結びつける代謝ゲートキーパーとして同定され、プロリン代謝の生合成枝が、これまで認識されていなかった真菌病原生物学の決定因子であることが明らかになった。重要性Cryptococcus neoformansは世界的に真菌性髄膜炎の主要な原因であり、主に免疫不全者において生命を脅かす感染症を引き起こす。ヒト宿主内で生存するためには、宿主由来の供給が限られている場合に、de novo生合成によって必須栄養素を合成しなければならない。真菌病原体においてプロリン異化作用は広範に研究されてきたが、ヒト真菌病原体における個々のプロリン生合成酵素の生理学的役割は依然として十分に解明されていない。本研究では、マウスモデルにおいて、上流酵素であるPro1およびPro2ではなく、末端酵素であるPro3が完全な病原性に選択的に必要であることを示した。Pro3は、宿主関連条件下での増殖を促進し、細胞壁の完全性を維持することで、病原生物学的適応度を支えている。これらの知見は、栄養素産生を超えたプロリン生合成の重要性を浮き彫りにし、この経路をC. neoformansにおける増殖、細胞壁の完全性、および病原性と結びつけるものである。"
+  },
+  {
+    "id": "10.1093/bioinformatics/btag844",
+    "title": "pyGENIE: A Python library for programmatic access and mutational analysis of AACR Project GENIE",
+    "abstract": "AbstractMotivationAs of today, AACR Project GENIE has completed 19 data releases since its launch in 2015. The latest release includes more than 268 000 samples from nearly 250 000 patients, and as of February 2026, over 1730 scientific journal articles have cited Project GENIE data. Despite its scale and scientific impact, programmatic analysis of GENIE data often still requires researchers to work directly with complex flat files and develop custom data integration workflows.ResultsHere we present pyGENIE, a Python package that provides a unified API for accessing GENIE flat files, performing clinical and genomic queries, computing tumor mutational burden, and integrating with leading mutational signature analysis tools including SigProfiler and SigMA. Following a data-as-a-service paradigm, pyGENIE returns all results as native pandas DataFrames, enabling seamless integration with machine learning and visualization libraries. Applied to a lung adenocarcinoma (LUAD) case study, pyGENIE reproduces known mutation frequencies, co-mutation patterns, and mutational signatures while reducing the required codebase by approximately an order of magnitude.AvailabilitypyGENIE is freely available at https://github.com/gersteinlab/pyGENIE under the MIT License, archived at https://doi.org/10.5281/zenodo.21981945, and can be installed from PyPI using pip install pygenie-sdk.Supplementary informationSupplementary data are available at Bioinformatics online.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag844",
+    "date": "2026-11-20",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag844/9104162?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "genomic",
+        "tool",
+        "workflow"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5380,
+    "collected_at": "2026-11-20T20:25:40.156289+00:00",
+    "collected_date": "2026-11-21",
+    "sources": [
+      "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1093/bioinformatics/btag844"
+    ],
+    "translation": {
+      "title": {
+        "hash": "cb186a4a6b2c5ad4e455999f2531fe36fb3e9ee5d9fa388f3f2dca956c5147af",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T20:53:34.293987+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2fd41697ff2b774b4f5c37e762bd345cdc18735908218efe522a616b3f71d18f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T20:53:34.293987+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "pyGENIE: AACR Project GENIEへのプログラムによるアクセスおよび変異解析のためのPythonライブラリ",
+    "abstract_ja": "要旨動機本プロジェクトは、2015年の開始以来、これまでに19回のデータリリースを完了している。最新のリリースには、約25万人の患者から得られた26万8,000件以上のサンプルが含まれており、2026年2月時点で1,730本以上の学術誌論文がProject GENIEのデータを引用している。その規模と科学的影響力にもかかわらず、GENIEデータのプログラムによる解析では、研究者が依然として複雑なフラットファイルを直接扱い、独自のデータ統合ワークフローを構築しなければならないことが多い。結果本稿では、GENIEフラットファイルへのアクセス、臨床およびゲノムクエリの実行、腫瘍変異負荷の算出、ならびにSigProfilerやSigMAを含む主要な変異シグネチャー解析ツールとの連携のための統一APIを提供するPythonパッケージ「pyGENIE」を提案する。データ・アズ・ア・サービス（data-as-a-service）のパラダイムに従い、pyGENIEはすべての結果をネイティブなpandas DataFrameとして返すため、機械学習や可視化ライブラリとのシームレスな統合が可能である。肺腺癌（LUAD）のケーススタディに適用したところ、pyGENIEは既知の変異頻度、共変異パターン、および変異シグネチャーを再現しつつ、必要となるコードベースを約1桁削減した。利用可能性pyGENIEは、MITライセンスの下で https://github.com/gersteinlab/pyGENIE にて無料で提供されており、https://doi.org/10.5281/zenodo.21981945 にアーカイブされている。また、PyPIから pip install pygenie-sdk を用いてインストール可能である。補足情報補足データはBioinformatics onlineで入手可能である。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1992822",
+    "title": "Evaluation of LC-aNAAT melting curve PCR for simultaneous identification of Mycobacterium tuberculosis complex and rifampicin resistance",
+    "abstract": "ObjectivesTo evaluate the performance of Genewise MTBC/RIF (Genewise) in comparison with Xpert MTB/RIF (Xpert) assay and phenotypic drug susceptibility testing for detection of Mycobacterium tuberculosis (MTB) and rifampcin (RIF) resistance.MethodsRespiratory specimens stored at the National Tuberculosis Reference Laboratory between January 2023 and December 2024 were tested using the MGIT 960, Genewise and the Xpert assay. Phenotypic RIF susceptibility testing was performed on culture-positive isolates using the minimal inhibitory concentration method. Diagnostic performance was assessed for MTB detection and rifampicin resistance identification.ResultsThe Genewise assay demonstrated a sensitivity for MTB detection of 96.76% against liquid culture, 97.22% against microbiological reference standard (MRS) and over 99% against Xpert. For RIF resistance detection, both the Genewise and Xpert assay exhibited a sensitivity of 91.67% and a specificity of 98.52%. Head-to-head comparison showed near-perfect agreement between Genewise and Xpert for both MTB (κ = 0.851) and RIF resistance detection (κ = 1.0). The inverse correlation between Genewise CT values and Xpert bacterial load grades supported its semi-quantitative capability, and ROC curve analysis confirmed comparable diagnostic performance to Xpert (AUC = 0.988).ConclusionThe Genewise MTBC/RIF assay is a rapid, automated molecular test that detects MTBC with high sensitivity and identifies RIF resistance with performance comparable to Xpert, making it well-suited to a complementary diagnostic tool.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1992822",
+    "date": "2026-11-20",
+    "authors": "Huiwen Zheng",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1992822",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "microbiological"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5382,
+    "collected_at": "2026-11-20T20:25:40.156289+00:00",
+    "collected_date": "2026-11-21",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.3389/fmicb.2026.1992822"
+    ],
+    "translation": {
+      "title": {
+        "hash": "dca43272982cc506fd197c33b17e4e6153ed4b7b6d928167d232c4aa0b418ed6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T20:53:34.293987+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8a00d25f7e701c7d7d5ce2a4c3127e73a38193bf9cb6d9457650b50c6ece88be",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T20:53:34.293987+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "結核菌複合体とリファンピシン耐性の同時同定に向けたLC-aNAAT融解曲線PCRの評価",
+    "abstract_ja": "目的結核菌（MTB）およびリファンピシン（RIF）耐性の検出における、Genewise MTBC/RIF（Genewise）アッセイの性能を、Xpert MTB/RIF（Xpert）アッセイおよび表現型薬剤感受性試験と比較して評価すること。方法2023年1月から2024年12月までに国立結核リファレンスラボラトリーに保管された呼吸器検体を、MGIT 960、Genewise、およびXpertアッセイを用いて検査した。培養陽性分離株に対し、最小発育阻止濃度法を用いて表現型RIF感受性試験を実施した。MTB検出およびリファンピシン耐性同定における診断性能を評価した。結果Genewiseアッセイは、MTB検出において、液体培養に対して96.76%、微生物学的参照標準（MRS）に対して97.22%、Xpertに対して99%を超える感度を示した。RIF耐性検出においては、GenewiseおよびXpertアッセイともに感度91.67%、特異度98.52%を示した。直接比較の結果、MTB検出（κ = 0.851）およびRIF耐性検出（κ = 1.0）の双方において、GenewiseとXpertはほぼ完全な一致を示した。GenewiseのCT値とXpertの菌量グレードとの逆相関は、その半定量的能力を裏付けるものであり、ROC曲線解析により、Xpertと同等の診断性能が確認された（AUC = 0.988）。結論Genewise MTBC/RIFアッセイは、高い感度でMTBを検出し、Xpertと同等の性能でRIF耐性を同定する迅速かつ自動化された分子検査であり、補完的な診断ツールとして適している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 2",
+        "query": "(JOURNAL:\"microLife\" OR JOURNAL:\"Nucleic Acids Research\" OR JOURNAL:\"NAR Genomics and Bioinformatics\" OR JOURNAL:\"Bioinformatics\" OR JOURNAL:\"Microbes and Environments\" OR JOURNAL:\"Frontiers in Microbiology\" OR JOURNAL:\"Frontiers in Marine Science\" OR JOURNAL:\"mBio\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/mbio.01991-26",
+    "title": "Ablation of a maternal <i>Cryptosporidium</i> mRNA-binding protein results in sterile sporozoites.",
+    "abstract": "Infection with Cryptosporidium is a leading cause of diarrheal disease and early childhood mortality. This apicomplexan parasite undergoes asexual and sexual replication within the same host, and recent studies have shown an intrinsic developmental program of obligate transition to male and female gametes and sex. While factors were identified that control male fate and development, how female gene expression is orchestrated remains largely unknown. Here, we use the Cryptosporidium Single Cell Atlas to discover an RNA-binding protein (F-RBP) as one of the earliest markers of female identity in C. parvum. Reporter parasites engineered based on this gene allowed us to calibrate transcriptional pseudotime against the real time of female development, revealing a significant window of transcriptional fate ambiguity. While F-RBP is an early transcript, the protein persists throughout female development and into the zygote. Conditional ablation of the F-RBP gene showed it to be dispensable for sex determination and early female development in vitro. However, the gene is essential in vivo, and its loss results in rapid cure. Cell biological experiments link this loss to the production of oocysts that release sporozoites incapable of host-cell invasion. F-RBP binds transcripts highly expressed in the female gamete, enriched for a sequence motif recognized by a Y-box protein family member, and forms mRNA-protein complexes in late females akin to processing or P bodies. We propose F-RBP's essential role to be in the regulation of long-term homeostasis of maternally inherited RNA required for sporozoite infectivity.IMPORTANCEThe parasite Cryptosporidium is responsible for millions of cases of severe diarrheal disease in young children, and the infection is both a consequence of and a risk factor for chronic malnutrition. There are no vaccines available, and a single approved treatment is largely ineffective. Infection relies on ingestion of the oocyst, an environmentally stable spore, which contains an invasive form of the parasite, the sporozoite. Oocysts and sporozoites are the products of parasite sex and the fusion of female and male Cryptosporidium parasites. Here, we report the critical role of an RNA-binding protein in female mRNA homeostasis. Maternal transcripts orchestrate the complex process of sexual replication and oocyst formation. Loss of the protein results in spores that fail to initiate the next round of the life cycle, and conditional ablation using a small-molecule trigger quickly cures infected animals, demonstrating the essential role of parasite sex in continued infection.",
+    "journal": "mBio",
+    "doi": "10.1128/mbio.01991-26",
+    "date": "2026-10-29",
+    "authors": "Daniels AM, Shaw S, Nötzel C, Xiao R, O'Dea K, Beiting DP, Striepen B.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42954483",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42954483",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5245,
+    "collected_at": "2026-11-20T20:15:04.307525+00:00",
+    "collected_date": "2026-11-21",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1128/mbio.01991-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "30d682a185251ce0969f031972cca0d780210f7cf44bf050cc5cd14d230afda1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T20:53:34.293987+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5407234e70e0de5880584e2a5d76e887c4f726fad5fb69fb2a3bbfd004fa0d65",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T20:53:34.293987+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "母体の<i>Cryptosporidium</i> mRNA結合タンパク質を欠損させると、不稔性のスポロゾイトが形成される。",
+    "abstract_ja": "クリプトスポリジウム感染症は、下痢性疾患および乳幼児死亡の主要な原因である。このアピコンプレックス門寄生虫は、同一宿主内で無性生殖および有性生殖を行う。近年の研究により、雄性および雌性の配偶子ならびに性への絶対的な移行という固有の発生プログラムがあることが示されている。雄性の運命と発生を制御する因子は特定されているものの、雌性の遺伝子発現がどのように調節されているかは大部分が不明である。本研究では、クリプトスポリジウム・シングルセルアトラスを用いて、C. parvumにおける雌性アイデンティティの最初期のマーカーの一つとして、RNA結合タンパク質（F-RBP）を発見した。この遺伝子に基づいて作製したレポーター寄生虫を用いることで、転写擬似時間を雌性発生の実際の時間に対して較正することが可能となり、転写運命の曖昧さが存在する有意な期間が明らかになった。F-RBPは初期転写産物であるが、このタンパク質は雌性の発生過程を通じて持続し、受精卵に至るまで維持される。F-RBP遺伝子の条件付き欠損により、in vitroでは性決定および初期の雌性発生において本遺伝子は不要であることが示された。しかし、in vivoでは本遺伝子は必須であり、その喪失は迅速な治癒をもたらす。細胞生物学的実験により、この喪失が、宿主細胞への侵入能力を持たないスポロゾイトを放出するオーシストの産生に関連していることが示された。F-RBPは、雌性配偶子で高度に発現し、Y-boxタンパク質ファミリーの一員によって認識される配列モチーフに富む転写産物に結合し、雌性後期においてプロセシングまたはPボディに類似したmRNA-タンパク質複合体を形成する。我々は、スポロゾイトの感染能に必要な母系遺伝性RNAの長期的な恒常性調節において、F-RBPが不可欠な役割を果たすことを提案する。重要性：寄生虫クリプトスポリジウムは、乳幼児における数百万件の重篤な下痢性疾患の原因となっており、この感染は慢性栄養不良の結果であると同時に、そのリスク要因でもある。利用可能なワクチンはなく、承認されている唯一の治療法も大部分が無効である。感染は、環境的に安定な胞子であり、寄生虫の侵入形態であるスポロゾイトを含むオーシストの摂取に依存している。オーシストとスポロゾイトは、寄生虫の交配および雌性・雄性クリプトスポリジウム寄生虫の融合によって生じる産物である。本報では、雌性mRNAの恒常性におけるRNA結合タンパク質の決定的な役割について報告する。母性転写産物は、有性生殖とオーシスト形成という複雑なプロセスを制御している。このタンパク質の喪失により、ライフサイクルの次の段階を開始できない胞子が形成され、低分子トリガーを用いた条件付き欠損により感染動物が速やかに治癒することが示され、継続的な感染における寄生虫の交配の不可欠な役割が実証された。"
+  },
+  {
+    "id": "10.1111/1751-7915.70485",
+    "title": "A Droplet PCR‐Based Single‐Cell Screening Method Revealed the Diverse Potential Natural Hosts of PromAγ Plasmids",
+    "abstract": "A droplet digital PCR‐based single‐cell method enabled direct detection and recovery of bacteria harbouring PromAγ plasmids from lake sediments. This approach revealed unexpectedly diverse potential natural hosts, including uncultured taxa, suggesting the ecological versatility of broad‐host‐range plasmids.\n\nABSTRACT\nPromA plasmids are a broad‐host‐range plasmid group and have been isolated from various environmental samples by exogenous plasmid capturing methods. However, their natural hosts have remained unidentified. Here, we developed a cultivation‐independent single‐cell‐level screening approach combining water‐in‐oil droplets and digital PCR with a fluorescent probe, which enabled direct detection of PromAγ‐related repA signals associated with environmental bacterial taxa. The positive droplets were collected by a dispenser with microfluidics and the potential natural hosts of the plasmid were identified based on their 16S rRNA gene sequences. Application to Lake Sanaru sediment samples collected on two dates identified diverse bacterial taxa associated with PromAγ‐related repA signals, including previously unreported candidate hosts. Our results suggested that PromAγ plasmids were associated with a wide variety of bacterial taxa in natural microbial communities. The developed methods could be applied for the detection and collection of bacterial cells with a targeted gene, which would be valuable for microbial ecology studies.\n\nA droplet digital PCR-based single-cell method enabled direct detection and recovery of bacteria harbouring PromAγ plasmids from lake sediments. This approach revealed unexpectedly diverse potential natural hosts, including uncultured taxa, suggesting the ecological versatility of broad-host-range plasmids.\n\nABSTRACT\nPromA plasmids are a broad-host-range plasmid group and have been isolated from various environmental samples by exogenous plasmid capturing methods. However, their natural hosts have remained unidentified. Here, we developed a cultivation-independent single-cell-level screening approach combining water-in-oil droplets and digital PCR with a fluorescent probe, which enabled direct detection of PromAγ-related repA signals associated with environmental bacterial taxa. The positive droplets were collected by a dispenser with microfluidics and the potential natural hosts of the plasmid were identified based on their 16S rRNA gene sequences. Application to Lake Sanaru sediment samples collected on two dates identified diverse bacterial taxa associated with PromAγ-related repA signals, including previously unreported candidate hosts. Our results suggested that PromAγ plasmids were associated with a wide variety of bacterial taxa in natural microbial communities. The developed methods could be applied for the detection and collection of bacterial cells with a targeted gene, which would be valuable for microbial ecology studies.",
+    "journal": "Microbial Biotechnology",
+    "doi": "10.1111/1751-7915.70485",
+    "date": "2026-11-20",
+    "authors": "Megumi Masumoto, \nSuzuka Kawakita, \nYukie Yamamoto, \nYuri Ota, \nMaho Tokuda, \nKazuhide Kimbara, \nNaohiro Noda, \nTetsushi Suyama, \nMasaki Shintani",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1751-7915.70485?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "bacteria",
+        "bacterial",
+        "microbial"
+      ],
+      "context": {
+        "marine": [
+          "lake"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://onlinelibrary.wiley.com/feed/17517915/most-recent",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5438,
+    "collected_at": "2026-11-20T20:25:40.156289+00:00",
+    "collected_date": "2026-11-21",
+    "sources": [
+      "https://onlinelibrary.wiley.com/feed/17517915/most-recent"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1111/1751-7915.70485"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d80d201d7fe5eefe46dd1dfa38edff4e3e92cf15e478ae642e0407ead21e8050",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T20:53:34.293987+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1858790d7d8d0004f7513ba28f6490831630cbe6fcf2569faa8716a343026f3d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T20:53:34.293987+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Droplet PCRを用いた単一細胞スクリーニング法により明らかになったPromAγプラスミドの多様な潜在的自然宿主",
+    "abstract_ja": "ドロップレットデジタルPCRに基づく単一細胞法により、湖沼堆積物からPromAγプラスミドを保持する細菌の直接検出および回収が可能となった。本手法により、未培養の分類群を含む予想外に多様な潜在的自然宿主が明らかとなり、広範な宿主範囲を持つプラスミドの生態学的汎用性が示唆された。\n\n要旨\nPromAプラスミドは広範な宿主範囲を持つプラスミド群であり、外因性プラスミド捕捉法によって様々な環境試料から単離されてきた。しかし、その自然宿主は未同定のままであった。本研究では、水油滴法とデジタルPCRに蛍光プローブを組み合わせた培養非依存的な単一細胞レベルのスクリーニング手法を開発し、環境中の細菌分類群に関連するPromAγ関連repAシグナルの直接検出を可能にした。陽性ドロップレットはマイクロ流体デバイスを備えたディスペンサーで回収され、16S rRNA遺伝子配列に基づいてプラスミドの潜在的な自然宿主が同定された。2つの異なる時期に採取した佐鳴湖の堆積物試料に本手法を適用したところ、これまで報告されていなかった候補宿主を含む、PromAγ関連repAシグナルに関連する多様な細菌分類群が同定された。我々の結果は、PromAγプラスミドが自然界の微生物群集において多種多様な細菌分類群と関連していることを示唆している。開発した手法は、標的遺伝子を持つ細菌細胞の検出および回収に応用可能であり、微生物生態学研究において有用であると考えられる。\n\nドロップレットデジタルPCRに基づく単一細胞法により、湖沼堆積物からPromAγプラスミドを保持する細菌の直接検出および回収が可能となった。本手法により、未培養の分類群を含む予想外に多様な潜在的自然宿主が明らかとなり、広範な宿主範囲を持つプラスミドの生態学的汎用性が示唆された。\n\n要旨\nPromAプラスミドは広範な宿主範囲を持つプラスミド群であり、外因性プラスミド捕捉法によって様々な環境試料から単離されてきた。しかし、その自然宿主は未同定のままであった。本研究では、水油滴法とデジタルPCRに蛍光プローブを組み合わせた培養非依存的な単一細胞レベルのスクリーニング手法を開発し、環境中の細菌分類群に関連するPromAγ関連repAシグナルの直接検出を可能にした。陽性ドロップレットはマイクロ流体デバイスを備えたディスペンサーで回収され、16S rRNA遺伝子配列に基づいてプラスミドの潜在的な自然宿主が同定された。2つの異なる時期に採取した佐鳴湖の堆積物試料に本手法を適用したところ、これまで報告されていなかった候補宿主を含む、PromAγ関連repAシグナルに関連する多様な細菌分類群が同定された。我々の結果は、PromAγプラスミドが自然界の微生物群集において多種多様な細菌分類群と関連していることを示唆している。開発した手法は、標的遺伝子を持つ細菌細胞の検出および回収に応用可能であり、微生物生態学研究において有用であると考えられる。"
   }
 ]
