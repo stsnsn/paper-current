@@ -1,125 +1,13 @@
 {
-  "updated_at": "2026-11-20T20:25:39.789874+00:00",
-  "phase": "prepared",
-  "pending": 30,
-  "collection_attempted": false,
-  "collection_exit_code": "timeout",
-  "backfill": {
-    "id": "collection-recovery-2026-11-10",
-    "phase": "in_progress",
-    "additional": 11,
-    "coverage": {
-      "Europe PMC watchlist": {
-        "ok": true,
-        "retrieved": 3,
-        "accepted": 3,
-        "query": "(TITLE:\"SAR11\" OR ABSTRACT:\"SAR11\" OR TITLE:\"Pelagibacter\" OR ABSTRACT:\"Pelagibacter\" OR TITLE:\"Poseidoniia\" OR ABSTRACT:\"Poseidoniia\" OR TITLE:\"Poseidoniales\" OR ABSTRACT:\"Poseidoniales\" OR TITLE:\"SAR86\" OR ABSTRACT:\"SAR86\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
-        "publication_start": "2026-10-20"
-      },
-      "Europe PMC topics": {
-        "ok": true,
-        "retrieved": 4730,
-        "accepted": 4160,
-        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
-        "publication_start": "2026-10-20"
-      },
-      "Europe PMC genome methods": {
-        "ok": true,
-        "retrieved": 478,
-        "accepted": 331,
-        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
-        "publication_start": "2026-10-20"
-      },
-      "Europe PMC bioinformatics": {
-        "ok": false,
-        "retrieved": 6965,
-        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
-        "publication_start": "2026-10-20"
-      },
-      "Europe PMC journals 1": {
-        "ok": true,
-        "retrieved": 29,
-        "accepted": 28,
-        "query": "(JOURNAL:\"The ISME Journal\" OR JOURNAL:\"ISME Communications\" OR JOURNAL:\"ISME Host Microbe\" OR JOURNAL:\"FEMS Microbiology Ecology\" OR JOURNAL:\"FEMS Microbiology Letters\" OR JOURNAL:\"FEMS Microbiology Reviews\" OR JOURNAL:\"FEMS Yeast Research\" OR JOURNAL:\"FEMS Microbes\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
-        "publication_start": "2026-10-20"
-      },
-      "Europe PMC journals 2": {
-        "ok": false,
-        "retrieved": 240,
-        "accepted": 211,
-        "query": "(JOURNAL:\"microLife\" OR JOURNAL:\"Nucleic Acids Research\" OR JOURNAL:\"NAR Genomics and Bioinformatics\" OR JOURNAL:\"Bioinformatics\" OR JOURNAL:\"Microbes and Environments\" OR JOURNAL:\"Frontiers in Microbiology\" OR JOURNAL:\"Frontiers in Marine Science\" OR JOURNAL:\"mBio\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
-        "publication_start": "2026-10-20"
-      },
-      "Europe PMC journals 3": {
-        "ok": false,
-        "retrieved": 120,
-        "accepted": 120,
-        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
-        "publication_start": "2026-10-20"
-      },
-      "Europe PMC journals 4": {
-        "ok": false,
-        "retrieved": 30,
-        "query": "(JOURNAL:\"Infection and Immunity\" OR JOURNAL:\"Antimicrobial Agents and Chemotherapy\" OR JOURNAL:\"Journal of Clinical Microbiology\" OR JOURNAL:\"Microbiology Resource Announcements\" OR JOURNAL:\"Nature\" OR JOURNAL:\"Nature Microbiology\" OR JOURNAL:\"Nature Ecology & Evolution\" OR JOURNAL:\"Nature Communications\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
-        "publication_start": "2026-10-20"
-      },
-      "Europe PMC journals 5": {
-        "ok": false,
-        "retrieved": 35,
-        "query": "(JOURNAL:\"Science\" OR JOURNAL:\"Science Advances\" OR JOURNAL:\"Cell\" OR JOURNAL:\"Cell Host & Microbe\" OR JOURNAL:\"Microbiome\" OR JOURNAL:\"Environmental Microbiome\" OR JOURNAL:\"Animal Microbiome\" OR JOURNAL:\"Environmental Microbiology\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
-        "publication_start": "2026-10-20"
-      },
-      "Europe PMC journals 6": {
-        "ok": false,
-        "retrieved": 85,
-        "query": "(JOURNAL:\"Microbial Genomics\" OR JOURNAL:\"Microbiology\" OR JOURNAL:\"Aquatic Microbial Ecology\" OR JOURNAL:\"PNAS\" OR JOURNAL:\"PLOS Biology\" OR JOURNAL:\"PLOS Genetics\" OR JOURNAL:\"Genome Research\" OR JOURNAL:\"Genome Biology\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
-        "publication_start": "2026-10-20"
-      },
-      "Europe PMC journals 7": {
-        "ok": false,
-        "retrieved": 25,
-        "query": "(JOURNAL:\"Microbial Ecology\" OR JOURNAL:\"Environmental Microbiology Reports\" OR JOURNAL:\"International Journal of Systematic and Evolutionary Microbiology\" OR JOURNAL:\"npj Biofilms and Microbiomes\" OR JOURNAL:\"Nature Reviews Microbiology\" OR JOURNAL:\"Trends in Microbiology\" OR JOURNAL:\"Annual Review of Microbiology\" OR JOURNAL:\"Microbial Cell\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
-        "publication_start": "2026-10-20"
-      },
-      "Europe PMC journals 8": {
-        "ok": false,
-        "retrieved": 20,
-        "accepted": 14,
-        "query": "(JOURNAL:\"Microbial Biotechnology\" OR JOURNAL:\"Extremophiles\" OR JOURNAL:\"Genome Biology and Evolution\" OR JOURNAL:\"Molecular Biology and Evolution\" OR JOURNAL:\"Molecular Ecology\" OR JOURNAL:\"Molecular Ecology Resources\" OR JOURNAL:\"Molecular Phylogenetics and Evolution\" OR JOURNAL:\"Bioinformatics Advances\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
-        "publication_start": "2026-10-20"
-      },
-      "Europe PMC journals 9": {
-        "ok": false,
-        "retrieved": 5,
-        "query": "(JOURNAL:\"Briefings in Bioinformatics\" OR JOURNAL:\"Briefings in Functional Genomics\" OR JOURNAL:\"BMC Genomics\" OR JOURNAL:\"BMC Bioinformatics\" OR JOURNAL:\"GigaScience\" OR JOURNAL:\"Database\" OR JOURNAL:\"DNA Research\" OR JOURNAL:\"PLOS Computational Biology\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
-        "publication_start": "2026-10-20"
-      },
-      "Europe PMC journals 10": {
-        "ok": false,
-        "retrieved": 50,
-        "query": "(JOURNAL:\"Scientific Data\" OR JOURNAL:\"Limnology and Oceanography\" OR JOURNAL:\"Limnology and Oceanography Letters\" OR JOURNAL:\"Annual Review of Marine Science\" OR JOURNAL:\"Trends in Ecology & Evolution\" OR JOURNAL:\"iScience\" OR JOURNAL:\"Current Biology\" OR JOURNAL:\"Cell Reports\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
-        "publication_start": "2026-10-20"
-      },
-      "Europe PMC journals 11": {
-        "ok": false,
-        "retrieved": 0,
-        "query": "(JOURNAL:\"Cell Reports Methods\" OR JOURNAL:\"Communications Biology\" OR JOURNAL:\"Communications Earth & Environment\" OR JOURNAL:\"Scientific Reports\" OR JOURNAL:\"eLife\" OR JOURNAL:\"PNAS Nexus\" OR JOURNAL:\"BMC Biology\" OR JOURNAL:\"PLOS ONE\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
-        "publication_start": "2026-10-20"
-      },
-      "Europe PMC journals 12": {
-        "ok": false,
-        "retrieved": 0,
-        "query": "(JOURNAL:\"PeerJ\" OR JOURNAL:\"Nature Methods\" OR JOURNAL:\"Nature Biotechnology\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
-        "publication_start": "2026-10-20"
-      },
-      "bioRxiv": {
-        "ok": false,
-        "retrieved": 30,
-        "query": "details/biorxiv/2026-10-20/2026-11-10"
-      }
-    },
-    "collection_exit_code": -9,
-    "budget_exhausted": true,
-    "updated_at": "2026-11-20T20:25:25.822249+00:00"
-  }
+  "updated_at": "2026-11-20T20:46:42.575332+00:00",
+  "phase": "translating",
+  "last_batch": {
+    "translated": 4,
+    "cached": 0,
+    "failed": 0,
+    "deferred": 0,
+    "skipped": 0,
+    "requests": 8
+  },
+  "pending": 26
 }

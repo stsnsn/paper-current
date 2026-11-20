@@ -311753,5 +311753,302 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "HIV-1の変異バイアスが薬剤耐性変異の供給を規定する",
     "abstract_ja": "耐久性のあるHIV-1治療薬の開発には、どの変異が耐性を付与するのかだけでなく、それらの変異がどの程度容易に生じるのかを理解することが不可欠である。これまでの研究では、個々の変異がウイルスの適応度や薬剤・免疫逃避に及ぼす影響が明らかになってきたが、HIV-1の進化経路における変異バイアスの寄与については、依然として大部分が定量化されていない。本報では、エラー訂正済みロングリードシーケンシングを用い、選択圧がない条件下での単一サイクルHIV-1変異蓄積の実測データセットに基づいて構築した、インタラクティブなHIV-1変異率アトラス（MRA）を報告し、提供する。MRAは、ゲノム上のあらゆる位置における各可能なヌクレオチドへの変異率を推定し、ゲノム全体にわたるアミノ酸変異能の評価を可能にする。MRAを用いて、変異率バイアスが患者間におけるHIV-1薬剤耐性変異株の頻度を予測できることを示す。これらの結果は、変異バイアスがHIV-1の進化的帰結を形作っていることを実証しており、HIV-1の進化と薬剤耐性を予測するための枠組みを提供するものである。"
+  },
+  {
+    "id": "10.1186/s42523-026-00648-4",
+    "title": "Rumen microbiota in male dairy calves pre- and postweaning and the effects of dietary feed additives",
+    "abstract": "Background\n                     In intensive dairy beef calf systems, where animals are separated from their dams after birth and regrouped with calves from different farms before arriving at the farm where they are raised, early rumen microbial colonization critically influences gut development and long-term performance. This study evaluated the effect of feed additives supplementation before weaning on rumen microbial communities establishing pre- and postweaning. One hundred and twelve calves were randomly allocated to four treatments: control diet without additives (CTL), essential oils blend (EO), synbiotic (SYN), or mixed supplement (MIX) from 3 to 10 weeks of age (preweaning). After weaning, all groups transitioned to the MIX. Rumen samples collected preweaning (week 8) and postweaning (week 18), were analysed for bacterial, archaeal, and fungal communities using meta-taxonomic profiling.\n                  \n                     Results\n                     Bacterial alpha diversity was significantly influenced by sampling time and its interaction with the additive supplementation, but less by additives alone, indicating age-dependent responses. Differential abundance analysis (ANCOM-BC2, ALDEx2 and MaAsLin3) showed that the weaning transition, rather than the additives, was the main driver of taxon-level change: many bacterial genera differed between phases (e.g. Succinivibrio, Schwartzia and Megasphaera increased postweaning, Pseudoscardovia and Olsenella_F were higher preweaning), whereas few genera differed among treatments and none among the dominant taxa. At the family level, Succinivibrionaceae increased postweaning, while Acidaminococcaceae and Selenomonadaceae did not change significantly. Beta-diversity analysis revealed developmental stage as the primary driver of community structure, with additive supplementation most pronounced preweaning. Essential oil supplementation enhanced bacterial richness and total volatile fatty acids (VFA) concentrations preweaning, while SYN treatment tended to reduce richness, suggesting selective taxa modulation. Archaeal diversity patterns mirrored bacterial responses, with significant preweaning differences diminishing postweaning. Treatment-shared archaeal membership remained highly stable (88.9% shared). Fungal communities exhibited stronger temporal than supplementation-associated effects, with shared ASVs increasing from 65.3% to 75.2% postweaning. No fungal genus differed significantly among treatments. Complementary sparse partial least squares discriminant analysis identified taxa contributing to preweaning treatment separation; as an exploratory supervised method, this does not by itself demonstrate persistence.\n                  \n                     Conclusions\n                     Rumen microbial communities in male dairy calves are compositionally primed for weaning by 8 weeks of age. The use of feed additives containing yeast probiotics and/or essential oils during the preweaning period exerted a modest, community-level effect during the preweaning phase that did not translate into robust differences in individual taxa and did not persist at the individual-animal level after weaning, when diets converged. Developmental stage was the dominant driver of community structure.",
+    "journal": "Animal Microbiome",
+    "doi": "10.1186/s42523-026-00648-4",
+    "date": "2026-11-20",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s42523-026-00648-4",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "archaea",
+        "archaeal",
+        "bacteria",
+        "bacterial",
+        "fungal",
+        "microbial",
+        "microbiota",
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=42523",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5430,
+    "collected_at": "2026-11-20T20:25:40.156289+00:00",
+    "collected_date": "2026-11-21",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=42523"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1186/s42523-026-00648-4"
+    ],
+    "translation": {
+      "title": {
+        "hash": "23838fab8abb0872f31c67de73a501d59a6b4fe22effd9a249860082ffd0b8db",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T20:47:05.594142+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "cd991ea0232ff881c9d8e276f6bb9e13297ea5f1c1dad666595f5c161e8bb2c2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T20:47:05.594142+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "離乳前後の雄乳用子牛におけるルーメン微生物叢と飼料添加物の影響",
+    "abstract_ja": "背景\n                     出生後に母牛から離乳し、育成先の農場に到着する前に異なる農場の仔牛と再合流させる集約的な乳牛仔牛飼育体系において、初期のルーメン微生物定着は腸管の発達および長期的なパフォーマンスに決定的な影響を及ぼす。本研究では、離乳前の飼料添加物補給が、離乳前後のルーメン微生物群集の形成に及ぼす影響を評価した。102頭の仔牛を、3～10週齢（離乳前）において、添加物を含まない対照飼料（CTL）、精油ブレンド（EO）、シンバイオティクス（SYN）、または混合サプリメント（MIX）の4つの処置群に無作為に割り当てた。離乳後、全群がMIXに移行した。離乳前（8週齢）および離乳後（18週齢）に採取したルーメンサンプルについて、メタ分類学的プロファイリングを用いて細菌、古細菌、および真菌群集の解析を行った。\n                  \n                     結果\n                     細菌のα多様性は、サンプリング時期および添加物補給との相互作用によって有意に影響を受けたが、添加物単独による影響はより小さく、年齢依存的な反応が示された。差次存在量解析（ANCOM-BC2、ALDEx2、およびMaAsLin3）の結果、分類群レベルの変化の主因は添加物ではなく離乳移行期であることが示された。多くの細菌属において相間で差異が認められ（例：Succinivibrio、Schwartzia、Megasphaeraは離乳後に増加し、PseudoscardoviaおよびOlsenella_Fは離乳前に高値を示した）、一方で処置間で差異が認められた属は少なく、優占分類群において差異は認められなかった。科レベルでは、Succinivibrionaceaeが離乳後に増加したが、AcidaminococcaceaeおよびSelenomonadaceaeに有意な変化は見られなかった。β多様性解析では、群集構造の主因は発達段階であり、添加物補給の影響は離乳前に最も顕著であることが明らかになった。精油補給は離乳前に細菌の豊富さと総揮発性脂肪酸（VFA）濃度を増加させたが、SYN処置は豊富さを減少させる傾向にあり、選択的な分類群の調節が示唆された。古細菌の多様性パターンは細菌の反応を反映しており、離乳前における有意な差異は離乳後に減少した。処置間で共有された古細菌の構成員は極めて安定していた（共有率88.9%）。真菌群集では、補給に関連する効果よりも経時的な影響が強く、共有ASVは離乳後に65.3%から75.2%に増加した。真菌属において処置間で有意な差異は認められなかった。相補的なスパース部分最小二乗判別分析により、離乳前の処置分離に寄与している分類群が特定された。これは探索的な教師あり手法であり、それ自体で持続性を証明するものではない。\n                  \n                     結論\n                     雄乳牛仔牛のルーメン微生物群集は、8週齢までに離乳に向けた組成的準備が整っている。離乳前期間における酵母プロバイオティクスおよび／または精油を含む飼料添加物の使用は、離乳前段階において群集レベルのわずかな影響を及ぼしたが、それは個々の分類群における顕著な差異には結びつかず、飼料が収束する離乳後には個体レベルで持続しなかった。発達段階が群集構造の支配的な要因であった。"
+  },
+  {
+    "id": "10.1093/bioinformatics/btag832",
+    "title": "ABAQS: A comprehensive scoring method for assessing genome annotation quality",
+    "abstract": "AbstractMotivationAs genome resources continue to expand, estimating the accuracy and completeness of genome annotations (e.g., gene and protein models) becomes essential to ensure quality of downstream analyses and applications. It becomes critical in comparative genomic analysis to select genomes with comparable qualities of assembly and annotation. Without careful scrutiny, inconsistencies in annotation quality can undermine downstream studies.ResultsWe have developed Accuracy-Based Annotation Quality Score (ABAQS), a novel method to comprehensively assess genome annotation quality. ABAQS evaluates multiple factors, including genome completeness, gene model validity, and protein profile accuracy, providing a more complete picture of annotation quality than metrics like BUSCO and PSAURON. We applied ABAQS to 1700+ eukaryotic fungal and algal genomes and showed its robustness and effectiveness in evaluating genome annotation quality, making it a valuable tool for researchers working with genomic data.AvailabilityABAQS software is available at https://github.com/mycocosm-lbl/abaqs. It requires Java SDK version > =21 and Maven. We also provide a Docker image on DockerHub.Supplementary informationSupplementary data are available at Bioinformatics online.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag832",
+    "date": "2026-11-20",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag832/9104164?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "annotation",
+        "fungal",
+        "genome",
+        "method"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "assembly",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5378,
+    "collected_at": "2026-11-20T20:25:40.156289+00:00",
+    "collected_date": "2026-11-21",
+    "sources": [
+      "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1093/bioinformatics/btag832"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5b2c9e4ac9510a3c03b7b5389ffa95473cb9781537bba2847e1d123976b7c433",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T20:47:05.594142+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "50d55ffe6b650b6592bedb4709305c625cbe863778445416961c31db137a6210",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T20:47:05.594142+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ABAQS: ゲノムアノテーションの品質を評価するための包括的なスコアリング手法",
+    "abstract_ja": "要旨動機ゲノムリソースの拡充が進む中、ダウンストリーム解析やアプリケーションの品質を確保するためには、ゲノムアノテーション（遺伝子およびタンパク質モデルなど）の正確性と網羅性を推定することが不可欠となっている。比較ゲノム解析においては、アセンブリおよびアノテーションの品質が同等なゲノムを選択することが極めて重要である。慎重な精査が行われない場合、アノテーション品質の不整合がダウンストリーム研究を損なう恐れがある。結果我々は、ゲノムアノテーションの品質を包括的に評価するための新規手法であるAccuracy-Based Annotation Quality Score (ABAQS) を開発した。ABAQSは、ゲノムの網羅性、遺伝子モデルの妥当性、タンパク質プロファイルの正確性など複数の要因を評価し、BUSCOやPSAURONといった指標よりも包括的なアノテーション品質の全体像を提示する。我々は1,700以上の真核菌および藻類のゲノムにABAQSを適用し、ゲノムアノテーション品質評価におけるその頑健性と有効性を実証した。これにより、ゲノムデータを扱う研究者にとって有用なツールとなる。利用可能性ABAQSソフトウェアは https://github.com/mycocosm-lbl/abaqs で入手可能である。Java SDKバージョン > =21およびMavenが必要となる。また、DockerHubにてDockerイメージを提供している。補足情報補足データはBioinformatics onlineで入手可能である。"
+  },
+  {
+    "id": "10.1093/femsre/fuag063",
+    "title": "A unit-based framework for understanding fungal copy-number variation: formation, function, evolution, and detection",
+    "abstract": "AbstractCopy-number variation (CNV) is a widespread form of genomic variation across diverse organisms, yet differences in how copy-number changes are defined and described hinder comparisons across studies. Drawing on studies of fungi spanning diverse genome architectures, ploidy states, and reproductive modes, we propose a unit-based operational framework that classifies CNVs at six hierarchical levels according to the genomic unit whose copy number changes. The framework distinguishes this structural unit from the functional unit that most directly accounts for a defined biological effect, while treating the direction and magnitude of copy-number change, architecture, and physical form as complementary descriptors. We use this framework to examine how fungal CNVs arise and are remodelled, and how copy-number changes at different genomic scales give rise to distinct functional consequences. We then consider how selection, structural persistence and reversibility, interactions with other genomic variation, and population processes shape CNV evolution. Finally, we assess how complementary detection approaches resolve copy-number states, unit boundaries, and structural configurations, and how their limitations constrain interpretation. By linking unit-based classification to CNV formation, evidence-based functional attribution, evolutionary trajectories, and detection, this framework supports comparisons across fungal systems and informs a broader understanding of genome plasticity and adaptation.",
+    "journal": "FEMS Microbiology Reviews",
+    "doi": "10.1093/femsre/fuag063",
+    "date": "2026-11-20",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://academic.oup.com/femsre/advance-article/doi/10.1093/femsre/fuag063/9104233?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "fungal",
+        "fungi",
+        "genome",
+        "genomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5386/advanceAccess_3247.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5376,
+    "collected_at": "2026-11-20T20:25:40.156289+00:00",
+    "collected_date": "2026-11-21",
+    "sources": [
+      "https://academic.oup.com/rss/site_5386/advanceAccess_3247.xml"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1093/femsre/fuag063"
+    ],
+    "translation": {
+      "title": {
+        "hash": "fa50adc960ee0a1e1ccbcef446643648ad75eccc90231e4488a56c06ecb736c0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T20:47:05.594142+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "799b384d1cf9cd4c13106b78d42d3314b973d176f84181a0c85082df7494a32f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T20:47:05.594142+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "真菌のコピー数変異を理解するためのユニットベースの枠組み：形成、機能、進化、および検出",
+    "abstract_ja": "要旨コピー数変異（CNV）は、多様な生物において広く見られるゲノム変異の一形態であるが、コピー数変化の定義や記述方法の違いが、研究間の比較を妨げている。多様なゲノム構造、倍数性状態、および生殖様式にわたる真菌の研究に基づき、我々は、コピー数が変化するゲノム単位に応じてCNVを6つの階層レベルで分類する、ユニットベースの操作的フレームワークを提案する。本フレームワークでは、この構造単位を、定義された生物学的効果を最も直接的に説明する機能単位と区別する一方で、コピー数変化の方向と大きさ、構造、および物理的形態を相補的な記述子として扱う。我々はこのフレームワークを用いて、真菌のCNVがどのように生じ、再編成されるのか、また異なるゲノムスケールにおけるコピー数変化がいかにして異なる機能的帰結をもたらすのかを検討する。次に、選択、構造的持続性と可逆性、他のゲノム変異との相互作用、および集団プロセスがCNVの進化をどのように形作るかを考察する。最後に、相補的な検出手法がコピー数状態、ユニット境界、および構造的構成をどのように解明し、それらの限界が解釈をいかに制約するかを評価する。ユニットベースの分類をCNVの形成、エビデンスに基づく機能的帰属、進化軌跡、および検出に結びつけることで、本フレームワークは真菌系間の比較を支援し、ゲノムの可塑性と適応に関するより広範な理解に寄与する。"
+  },
+  {
+    "id": "10.3389/fmars.2026.2006926",
+    "title": "Marine ecological responses to thermal discharge from nuclear and coal-fired power plants: a review focusing on seawater quality, plankton, and microorganisms",
+    "abstract": "With the rapid expansion of coastal nuclear and coal-fired power plants, the environmental impacts of thermal discharge on adjacent marine ecosystems have become a major concern in environmental science. Unlike previous reviews focusing on a single biological group or isolated water-quality parameter, this review integrates physicochemical and biological responses, microbial functional ecology and the microbial loop, identifies candidate indicator taxa and functional traits, compares nuclear and coal-fired effluents, and synthesizes effects on seawater physicochemical properties, plankton community structure, and microbial diversity and function. We distinguish two impact pathways, which are direct entrainment/impingement within once-through cooling systems and in situ warming experienced by organisms in the discharged plume. Chlorination by-products, nutrient enrichment and discharge-modified hydrodynamics are considered because they confound field-derived signals; thus many field patterns are mixed-stressor responses and cannot be attributed to warming alone. Nuclear and coal-fired plants differ in effluent composition, in that nuclear once-through discharges during normal operation are dominated by heated seawater and biocide residues. Many field-observed patterns represent mixed-stressor responses and cannot be attributed to warming alone. Thermal discharge reduces dissolved oxygen and pH, accelerates nutrient cycling, increases pollutant bioavailability, and alters phytoplankton, zooplankton, and microbial communities, thereby affecting food-web stability and biogeochemical processes. The review also discusses current controversies and knowledge gaps. The main contribution of this review is to integrate seawater chemistry, plankton dynamics and microbial functional ecology within a single attribution framework, to identify candidate indicator taxa and functional traits. This synthesis provides a scientific basis for environmental monitoring, ecological risk assessment and adaptive management of thermal discharge in coastal marine ecosystems.",
+    "journal": "Frontiers in Marine Science",
+    "doi": "10.3389/fmars.2026.2006926",
+    "date": "2026-11-20",
+    "authors": "Zhongwei Chen",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmars.2026.2006926",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [
+          "marine",
+          "phytoplankton",
+          "plankton",
+          "seawater"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/marine-science/rss",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5385,
+    "collected_at": "2026-11-20T20:25:40.156289+00:00",
+    "collected_date": "2026-11-21",
+    "sources": [
+      "https://www.frontiersin.org/journals/marine-science/rss"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.3389/fmars.2026.2006926"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4ee13c98ff969ecd9333335a6585391665e060ee026fe24a85b3683df2320758",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T20:47:05.594142+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e4aab03014fa40447ebe0a03079b4c2c104f7995e5950a6fd5b7fd4e1eb6fb85",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T20:47:05.594142+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "原子力発電所および石炭火力発電所からの熱放出に対する海洋生態系の応答：海水質、プランクトン、および微生物に着目した総説",
+    "abstract_ja": "沿岸部の原子力発電所および石炭火力発電所の急速な増設に伴い、熱排出が隣接する海洋生態系に及ぼす環境影響が環境科学における主要な懸念事項となっている。単一の生物群や孤立した水質パラメータに焦点を当てた従来のレビューとは異なり、本レビューでは、物理化学的・生物学的応答、微生物機能生態学および微生物ループを統合し、指標候補分類群と機能的形質を特定し、原子力および石炭火力発電所の排水を比較するとともに、海水の物理化学的特性、プランクトン群集構造、ならびに微生物の多様性と機能に及ぼす影響を総括する。我々は、ワンススルー冷却システム内での直接的な巻き込み・衝突と、排出プルーム中の生物が受けるその場（in situ）での温暖化という、2つの影響経路を区別する。塩素化副産物、栄養塩の濃縮、および排水によって改変された流体力学は、野外由来のシグナルを混濁させるため検討対象としており、したがって多くの野外パターンは混合ストレス応答であり、温暖化のみに起因するものではない。原子力発電所と石炭火力発電所では排水組成が異なり、原子力発電所の通常運転時のワンススルー排水は、加熱された海水と殺生物剤残留物が主体となっている。野外で観察された多くのパターンは混合ストレス応答であり、温暖化のみに起因するものではない。熱排出は溶存酸素とpHを低下させ、栄養塩循環を加速させ、汚染物質の生体利用能を高め、植物プランクトン、動物プランクトン、および微生物群集を変化させることで、食物網の安定性と生物地球化学的プロセスに影響を及ぼす。また、本レビューでは現在の論争点や知見の空白についても論じる。本レビューの主な貢献は、海水化学、プランクトン動態、および微生物機能生態学を単一の帰属枠組みに統合し、指標候補分類群と機能的形質を特定したことにある。この総括は、沿岸海洋生態系における熱排出の環境モニタリング、生態学的リスク評価、および適応的管理のための科学的根拠を提供するものである。"
   }
 ]
