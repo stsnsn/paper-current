@@ -313184,5 +313184,298 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "NEAT1のリモデリングはMYC分解経路をリワイヤーする",
     "abstract_ja": "MYCはヒトがんにおいて最も頻繁に増幅されるがん遺伝子の一つであるが、その本質的に無秩序な性質により、直接的な薬理学的標的化が困難であった。本研究では、長鎖非コードRNA NEAT1_1 が、E3ユビキチンリガーゼUBR5へのアクセスを調節することでMYCタンパク質の安定性を制御する分子ゲートキーパーとして機能することを実証する。我々は、NEAT1_1 がMYCおよびUBR5の双方とリボ核タンパク質（RNP）複合体を形成すること、ならびにNEAT1_1 の抑制がこの相互作用を阻害し、MYCのポリユビキチン化の減少とタンパク質安定性の向上をもたらすことを示す。NEAT1_1 の存在量を変化させることなくその調節アーキテクチャを系統的にマッピングするため、我々は転写産物全域にわたる88種類のアンチセンスオリゴヌクレオチド（ASO）ミックスマーをスクリーニングした。特筆すべきことに、この表現型スクリーニングにより、MYCに対して双方向的な制御を惹起する領域特異的なミックスマーが同定された。これらは、強固なMYC不安定化を誘導するか、あるいは厳密に発現非依存的な様式で安定化を促進する。機序的には、MYC不安定化ミックスマーがMYCとUBR5の相互作用を選択的に増強し、プロテアソーム分解を加速させる。ユビキチン-プロテアソーム経路を標的とした重点的なCRISPRスクリーニングにより、このミックスマー誘導性ターンオーバーを媒介する必須のE3リガーゼとしてUBR5が独立して検証された。in vivoにおいて、我々のリードミックスマーであるASO_#24は、MYC高発現ゼノグラフトにおいて腫瘍増殖を有意に抑制したが、MYC低発現腫瘍には影響が見られなかった。本知見は、足場lncRNAの機能的出力が、バルクの転写産物レベルではなくサブドメインアーキテクチャにコードされていることを明らかにしており、本来であれば分解不能ながん遺伝子のタンパク質ターンオーバー経路を再構築するための扱いやすい戦略として、ドメイン特異的なRNA標的化を確立するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 2",
+        "query": "(JOURNAL:\"microLife\" OR JOURNAL:\"Nucleic Acids Research\" OR JOURNAL:\"NAR Genomics and Bioinformatics\" OR JOURNAL:\"Bioinformatics\" OR JOURNAL:\"Microbes and Environments\" OR JOURNAL:\"Frontiers in Microbiology\" OR JOURNAL:\"Frontiers in Marine Science\" OR JOURNAL:\"mBio\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.3389/fmicb.2026.1938090",
+    "title": "Microbial nutrient limitations in soil during afforestation in the Mu Us Desert, China: insights from extracellular enzyme stoichiometry.",
+    "abstract": "Afforestation is a key ecological restoration measure for combating desertification in arid and semi-arid regions. But the changes and drivers of nutrient limitations faced by soil microbes during long-term afforestation are unclear. This study investigated soil ecosystems of different-aged stands (planted 10, 30, 50, and 70 years ago) formed by the sand-fixing Caragana korshinskii shrub in China's Mu Us Desert, using extracellular enzyme stoichiometry to infer the dynamics of microbial nutrient limitation. Results showed that establishing C. korshinskii sand-fixing vegetation alters the carbon (C), nitrogen (N), phosphorus (P) stoichiometry of soil microbes and their extracellular enzymes. With increasing stand age, soil C: N, C: P, N: P, microbial biomass C: P, and enzyme N: P ratios all increased significantly, peaking at 70 years. However, enzyme C: N peaked much earlier, at 10 years, after which it declined, while enzyme C: P reached its peak at 10 years and then stabilized afterwards. Microbial C- and P- use efficiency both decreased, whereas N-use efficiency initially improved but later weakened. Vector analysis indicated that microbial C limitation intensified during the first decade of shrub stand development (0-10 years), and then stabilized after 10 years, while P limitation declined (0-70 years). Both multiple regression models for VA and VL identified the enzyme C: P as a closely associated variable with microbial nutrient limitations. This work provides scientific insights into how C and N are coupled mechanistically in soil during afforestation of desertland from the perspective of soil-microbe-extracellular enzyme ecological stoichiometry, offering theoretical support for greening desert-like ecosystems and promoting sustainable development in arid and semi-arid regions.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1938090",
+    "date": "2026-10-21",
+    "authors": "Yu S, Li X, Norghauer JM, Wang X, Wan Z, Yang J, Yang B, Yang H.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43006026",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13747326",
+    "pmid": "43006026",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbe",
+        "microbes",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5227,
+    "collected_at": "2026-11-20T20:15:04.307525+00:00",
+    "collected_date": "2026-11-21",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.3389/fmicb.2026.1938090"
+    ],
+    "translation": {
+      "title": {
+        "hash": "bc0adb0aabdfa642c1a601f3c3d1a8c675447d9ab2de64bb4d609bdb15ab66e2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T21:02:01.850988+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9aa575de3c05986ace3bdc9bd026ac90533b137ea1192d49638cf4abbecc51dd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T21:02:01.850988+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "中国・ムウス砂漠における造林時の土壌中の微生物栄養制限：細胞外酵素化学量論から得られた知見",
+    "abstract_ja": "造林は、乾燥・半乾燥地域における砂漠化対策の重要な生態学的復元策である。しかし、長期的な造林過程で土壌微生物が直面する栄養制限の変化とその駆動要因は明らかになっていない。本研究では、中国のムウス砂漠において、砂固定性低木Caragana korshinskiiによって形成された異なる樹齢の林分（植樹後10年、30年、50年、70年）の土壌生態系を調査し、細胞外酵素化学量論を用いて微生物の栄養制限動態を推定した。その結果、C. korshinskiiの砂固定性植生を確立することで、土壌微生物およびその細胞外酵素の炭素（C）、窒素（N）、リン（P）の化学量論が変化することが示された。林分の樹齢が増すにつれて、土壌のC:N、C:P、N:P、微生物バイオマスのC:P、および酵素のN:P比はいずれも有意に増加し、70年でピークに達した。しかし、酵素のC:N比はそれよりもはるかに早い10年でピークに達し、その後低下した一方、酵素のC:P比は10年でピークに達し、その後は安定した。微生物のCおよびP利用効率はいずれも低下したが、N利用効率は当初改善したものの、後に低下した。ベクトル解析の結果、微生物のC制限は低木林分の発達初期10年間（0～10年）に強まり、10年後に安定した一方、P制限は低下した（0～70年）ことが示された。VAおよびVLの両方の重回帰モデルにおいて、酵素のC:Pが微生物の栄養制限と密接に関連する変数として同定された。本研究は、土壌・微生物・細胞外酵素の生態学的化学量論の観点から、砂漠地の造林過程において土壌中のCとNが機構的にどのように連関しているかについて科学的な知見を提供するものであり、砂漠型生態系の緑化および乾燥・半乾燥地域における持続可能な開発を促進するための理論的根拠を提示するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 2",
+        "query": "(JOURNAL:\"microLife\" OR JOURNAL:\"Nucleic Acids Research\" OR JOURNAL:\"NAR Genomics and Bioinformatics\" OR JOURNAL:\"Bioinformatics\" OR JOURNAL:\"Microbes and Environments\" OR JOURNAL:\"Frontiers in Microbiology\" OR JOURNAL:\"Frontiers in Marine Science\" OR JOURNAL:\"mBio\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1128/mbio.01248-26",
+    "title": "Theft of host transferrin receptor-1 by <i>Toxoplasma gondii</i> is required for infection.",
+    "abstract": "Host nutrient acquisition is essential for apicomplexan parasite infection, yet mechanisms underpinning this are not defined. We discovered the genome of Toxoplasma gondii lacks conserved genes for iron transport and storage and these host cell proteins, including the transferrin receptor 1, transferrin, ferritin heart/heavy and liver/light chains, and clathrin light chain, are robustly taken up by tachyzoites. Acquisition of these host cell proteins was conserved across host cell species and parasite virulence types. Increased trafficking of host cell transferrin receptor 1 to endolysosomes boosted tachyzoite acquisition of host proteins and growth rate. Bradyzoites possessed little capacity to acquire host cell proteins, consistent with the cyst wall representing a barrier to host cell protein cargo. This study provides insight into essential functions associated with parasite theft of host iron acquisition and storage proteins.IMPORTANCEHost nutrient theft is a dogmatic principle of parasitism. The paradigm that Toxoplasma gondii avoids association with host proteins, seemingly abstaining from them as a nutritional stream and for immune system avoidance, is changing. Many host proteins are enriched at the parasitophorous vacuole, but that barrier may be breached since exogenous proteins expressed by host cells transverse to T. gondii bodies. Our work presented here provides in vivo context to this new view because several host iron homeostatic proteins are acquired and retained within the parasite to support infection. These findings not only shed light on how T. gondii could acquire iron but also reveal new host-parasite interactions of theft and integration of host proteins by pathogens.",
+    "journal": "mBio",
+    "doi": "10.1128/mbio.01248-26",
+    "date": "2026-10-23",
+    "authors": "Denton SL, Mejia A, Nevarez LL, Soares MP, Fox BA, Bzik DJ, Gigley JP.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42925056",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13753791",
+    "pmid": "42925056",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5261,
+    "collected_at": "2026-11-20T20:15:04.307525+00:00",
+    "collected_date": "2026-11-21",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1128/mbio.01248-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a756141133a8184a160e2a87a51ec5d62501d6364c4a0f20aa3131ddba101693",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T21:02:01.850988+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f61563985defa47af838e4b96d2ec104e3aef02c9313c26fa323bf6f006535e9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T21:02:01.850988+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "<i>Toxoplasma gondii</i>による宿主トランスフェリン受容体-1の窃取が感染に必要である。",
+    "abstract_ja": "宿主栄養素の獲得はアピコンプレックス門寄生虫の感染に不可欠であるが、その基盤となるメカニズムは解明されていない。我々は、Toxoplasma gondiiのゲノムに鉄輸送および貯蔵のための保存遺伝子が欠如していること、ならびにトランスフェリン受容体1、トランスフェリン、フェリチンのハート/ヘビー鎖およびリバー/ライト鎖、ならびにクラスリンのライト鎖を含むこれらの宿主細胞タンパク質が、タキゾイトによって強固に取り込まれることを見出した。これらの宿主細胞タンパク質の獲得は、宿主細胞種や寄生虫の病原性型を問わず保存されていた。宿主細胞のトランスフェリン受容体1のエンドリソソームへの輸送増加は、タキゾイトによる宿主タンパク質の獲得および増殖速度を亢進させた。ブラディゾイトは宿主細胞タンパク質を獲得する能力がほとんど認められず、これはシスト壁が宿主細胞タンパク質の積荷に対する障壁となっていることと一致している。本研究は、寄生虫による宿主鉄獲得・貯蔵タンパク質の窃取に関連する必須機能についての知見を提供するものである。重要性：宿主栄養素の窃取は、寄生の教条的な原則である。Toxoplasma gondiiが宿主タンパク質との結合を避け、栄養源としての利用や免疫系の回避のためにそれらを避けているように見えるというパラダイムは変わりつつある。多くの宿主タンパク質は寄生虫孔のある液胞に濃縮されているが、宿主細胞がT. gondiiの体細胞を横断して発現させる外因性タンパク質により、その障壁は突破される可能性がある。本稿で提示する我々の研究は、感染を維持するためにいくつかの宿主鉄恒常性タンパク質が寄生虫内で獲得・保持されていることから、この新たな見解にin vivoでの文脈を与えるものである。これらの知見は、T. gondiiがいかにして鉄を獲得し得るかを明らかにするだけでなく、病原体による宿主タンパク質の窃取と統合という、宿主・寄生虫間の新たな相互作用をも明らかにするものである。"
+  },
+  {
+    "id": "10.1038/s41522-026-01201-6",
+    "title": "Phages rewire bacterial fitness: beyond killing in host-associated disease",
+    "abstract": "Temperate and lytic phages can redirect host-associated bacterial phenotypes through distinct mechanisms. Lytic phages may attenuate virulence when resistance carries pleiotropic costs, whereas prophage-encoded regulation can directly enhance bacterial fitness. We propose that these outcomes represent complementary routes of phage-mediated phenotypic filtering, determined by how phage susceptibility, resistance pathways, or phage-encoded functions intersect with bacterial traits governing colonization, immunity, and disease.",
+    "journal": "npj Biofilms and Microbiomes",
+    "doi": "10.1038/s41522-026-01201-6",
+    "date": "2026-11-20",
+    "authors": "Arijit Mukherjee",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.nature.com/articles/s41522-026-01201-6",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "phage",
+        "phages"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.nature.com/npjbiofilms.rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5436,
+    "collected_at": "2026-11-20T20:25:40.156289+00:00",
+    "collected_date": "2026-11-21",
+    "sources": [
+      "https://www.nature.com/npjbiofilms.rss"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1038/s41522-026-01201-6"
+    ],
+    "translation": {
+      "title": {
+        "hash": "de8981c566c48b92eafde2f934e2827c1cc6d718437e0d15377287c5e86fd1b8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T21:02:01.850988+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "144484b470bccb2e8c30408bf4b7173fd2beba1299001b7f14916e85454d3b14",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T21:02:01.850988+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ファージが細菌の適応度を書き換える：宿主関連疾患における殺菌を超えて",
+    "abstract_ja": "温性および溶菌性ファージは、それぞれ異なる機序を通じて宿主関連の細菌表現型を転換させ得る。溶菌性ファージは、耐性が多面的なコストを伴う場合に病原性を減弱させる可能性がある一方、プロファージがコードする調節機構は細菌の適応度を直接的に向上させ得る。我々は、これらの結果が、ファージ感受性、耐性経路、あるいはファージがコードする機能が、定着、免疫、および疾患を制御する細菌形質とどのように相互作用するかによって決定される、ファージ介在性表現型フィルタリングの相補的な経路を表していると提唱する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 2",
+        "query": "(JOURNAL:\"microLife\" OR JOURNAL:\"Nucleic Acids Research\" OR JOURNAL:\"NAR Genomics and Bioinformatics\" OR JOURNAL:\"Bioinformatics\" OR JOURNAL:\"Microbes and Environments\" OR JOURNAL:\"Frontiers in Microbiology\" OR JOURNAL:\"Frontiers in Marine Science\" OR JOURNAL:\"mBio\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1093/nar/gkag1011",
+    "title": "CPSF6 maintains genomic stability by stabilizing RAD52 and promoting CHK1 activation",
+    "abstract": "RAD52 and CHK1 are critical factors that play pleiotropic roles in the DNA damage response (DDR), including the resolution of transcription–replication conflicts (TRCs). However, how their functions are modulated remains incomplete. Here, we reveal that the cleavage and polyadenylation specificity factor subunit 6 (CPSF6) is an unexpected DDR factor that enhances RAD52 stability and CHK1 activation. Specifically, CPSF6 competitively interacts with RAD52, thereby preventing RAD52 from interacting with the E3 ubiquitin ligase UHRF1 and subsequent proteasomal degradation. In addition, CPSF6 enhances the ATR–CHK1 interaction to promote CHK1 activation, thereby facilitating the activation of downstream CHK1–PLK1–RAD51 pathway. The dual functions of CPSF6 in RAD52 stabilization and CHK1 activation contribute to its role in TRC resolution. CPSF6 depletion causes R-loop accumulation and transcription-associated DNA damage. Notably, these roles of CPSF6 in the DDR are independent of its canonical role in pre-mRNA 3′-end processing. Collectively, our findings establish that CPSF6 is a novel factor critical for maintaining genomic stability, with the resolution of TRCs as an important mechanism.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1011",
+    "date": "2026-10-23",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PMC/PMC13691373",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13691373",
+    "pmid": "42924440",
+    "metadata_source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13691373/fullTextXML",
+    "abstract_source": "Europe PMC fullTextXML",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5264,
+    "collected_at": "2026-11-20T20:15:04.307525+00:00",
+    "collected_date": "2026-11-21",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1093/nar/gkag1011"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5ef01fdd501d2099c7989e41bedf3109abf253dbd42cad733ec31b4923663df8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T21:02:01.850988+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0d33f2fba57955d9ce75f909b31e593c416c29882bec63f334a109fbff4d5d83",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T21:02:01.850988+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "CPSF6は、RAD52を安定化し、CHK1の活性化を促進することでゲノムの安定性を維持する。",
+    "abstract_ja": "RAD52およびCHK1は、転写複製競合（TRC）の解消を含むDNA損傷応答（DDR）において多面的な役割を担う重要な因子である。しかし、それらの機能がどのように調節されているかについては、未だ十分に解明されていない。本研究では、切断およびポリアデニル化特異性因子サブユニット6（CPSF6）が、RAD52の安定性とCHK1の活性化を高める予想外のDDR因子であることを明らかにする。具体的には、CPSF6はRAD52と競合的に相互作用し、これによりRAD52がE3ユビキチンリガーゼUHRF1と相互作用してその後プロテアソーム分解されるのを防ぐ。さらに、CPSF6はATR–CHK1相互作用を増強してCHK1の活性化を促進し、それによって下流のCHK1–PLK1–RAD51経路の活性化を促進する。RAD52の安定化とCHK1活性化におけるCPSF6の二重の機能は、TRC解消における同因子の役割に寄与している。CPSF6の枯渇は、Rループの蓄積と転写関連DNA損傷を引き起こす。特筆すべきは、DDRにおけるCPSF6のこれらの役割が、pre-mRNA 3′末端プロセシングにおける正準的な役割とは独立している点である。以上の知見を総合すると、CPSF6はゲノム安定性の維持に不可欠な新規因子であり、TRCの解消が重要なメカニズムであることが明らかとなった。"
   }
 ]
