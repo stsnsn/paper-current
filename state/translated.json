@@ -313801,5 +313801,147 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "IndicPiperを用いた細菌および古細菌の生息環境関連性の網羅的同定",
     "abstract_ja": "特定の生息地において、他の生息地よりも広く、かつ豊富に存在する分類群は、その生息地の指標となり得る。指標分類群は、基礎的な自然史情報を提供するのみならず、大規模な公開データベースにおけるメタデータの割り当ての検証、潜在的な汚染の特定、およびシンク集団に対する異なる供給源集団の寄与度の評価にも活用できる。こうした潜在的な応用可能性があるにもかかわらず、主要な関心対象の生息地に関する微生物指標分類群の包括的なデータベースはまだ存在しない。本稿では、Sandpiperデータベースと指標分類群解析を組み合わせて、細菌および古細菌属の生息地との関連性を特定するデータベースおよび手法であるIndicPiperを提案する。IndicPiperには明確に定義された手法と一連の関数が備わっており、関心のある生息地のリストを持つユーザーであれば誰でも、これらの関数を実行して独自のデータベースを構築することが可能である。IndicPiperは分類体系としてGenome Taxonomy Database (GTDB) を採用しており、提供されるデータベースまたはカスタムデータベースを用いて、ショットガンメタゲノム解析や16S rRNAマーカー遺伝子シーケンシングによるものを含む、あらゆる原核生物のサンプル別分類群存在量表を解析できる。手法と結果を提示した後、実際の現代および古代のDNAシーケンシングデータセットに対するIndicPiperの3つの応用例を示す。我々は、過去2000年間にわたるアイスランドのチョルニン湖堆積物、米国全土の家庭から採取した屋内・屋外のペアダストサンプル、および米国オレゴン州ウィラメット川流域の淡水サンプルに対する、異なる供給源生息地の寄与度を評価するためにIndicPiperを用いた。"
+  },
+  {
+    "id": "10.64898/2026.11.19.767875",
+    "title": "Gene identity, not recoding strategy, determines the fitness cost of synonymous recoding in bacteriophage {Phi}X174",
+    "abstract": "Synthetic biology allows for the synthesis of genomes from scratch. Although technically achievable, our abilities in designing genomes that result in live organisms are in their infancy. One important consideration is synonymous codon usage bias, which is present in most organisms and shaped by selection for efficient translation. Many studies have edited the synonymous codon usage patterns of viruses with the goal of viral attenuation, but these studies almost always build a single construct per design, so we know little about how repeatable the effects of recoding are. We designed and built 111 synonymously recoded {Phi}X174 genomes, applying four recoding strategies at up to five levels of attenuation to each of three genes, with three independently designed replicates of most combinations. Which gene we recoded mattered considerably more than how we recoded it. Recoding genes for the major capsid protein F, the major spike protein G and the DNA pilot protein H in full, with the least-used synonym codons from E. coli cost 12.0, 10.8 and 5.9 doublings per hour, respectively. Recoding strategy per se had no detectable effect once the number of codons changed was accounted for. Predicted mRNA folding stability also had no measurable effect on fitness when tested in gene F, whose wildtype transcript is highly stable and could easily be destabilized with synonymous codon rearrangements. While the number of codons changed was correlated with the degree of attenuation, divergence between independently designed replicates increased as more codons were edited. Replicates of designs with small fitness effects varied little, while replicates of strongly attenuating designs diverged by several doublings per hour. The fitness outcome of large-scale genome recoding is therefore substantially unpredictable from the design variables alone: even among independently designed genomes receiving the same treatment, fitness can diverge substantially.",
+    "journal": "",
+    "doi": "10.64898/2026.11.19.767875",
+    "date": "2026-11-20",
+    "authors": "Van Leuven, J. T., Altman, E., Scott, L., Wichman, H. A., Miller, C. R.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.19.767875v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteriophage",
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5432,
+    "collected_at": "2026-11-20T20:25:40.156289+00:00",
+    "collected_date": "2026-11-21",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.64898/2026.11.19.767875"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d2c0a3ded059432efb069b3c01640b7bbad65c87cea3ba943ac25d1dd89aba9f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T21:07:25.574215+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4aae94f40b1eab1010ac6ab60a8ad2bf833bcca9db5ee4ccf314d91a42161f58",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T21:07:25.574215+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "バクテリオファージ{Phi}X174における同義リコーディングの適応度コストを決定づけるのは、リコーディング戦略ではなく遺伝子アイデンティティである。",
+    "abstract_ja": "合成生物学により、ゲノムをゼロから合成することが可能となった。技術的には実現可能であるものの、生きた生物となるゲノムを設計する能力はまだ黎明期にある。重要な検討事項の一つが、ほとんどの生物に存在し、効率的な翻訳のための選択によって形成される同義コドン使用バイアスである。ウイルスの弱毒化を目的として、ウイルスの同義コドン使用パターンを編集した研究は数多く存在するが、これらの研究ではほぼ常に設計ごとに単一のコンストラクトを構築するため、リコーディングの効果がどれほど再現可能であるかについてはほとんど分かっていない。我々は、3つの遺伝子それぞれに対し、最大5段階の弱毒化レベルで4つのリコーディング戦略を適用し、ほとんどの組み合わせについて独立して設計された3つのレプリカを用いて、111個の同義リコード済み{Phi}X174ゲノムを設計・構築した。どの遺伝子をリコードしたかは、どのようにリコードしたかよりもはるかに重要であった。主要なカプシドタンパク質F、主要なスパイクタンパク質G、およびDNAパイロットタンパク質Hを、大腸菌（E. coli）由来の最も使用頻度の低い同義コドンを用いて完全にリコードしたところ、1時間あたりの倍加回数はそれぞれ12.0倍、10.8倍、5.9倍であった。コドンの変化数を考慮に入れると、リコーディング戦略自体には検出可能な影響は認められなかった。予測されたmRNAのフォールディング安定性についても、野生型転写産物が非常に安定しており、同義コドンの再配置によって容易に不安定化し得る遺伝子Fで検証したところ、適応度への測定可能な影響は認められなかった。コドンの変化数は弱毒化の程度と相関していたが、独立して設計されたレプリカ間の乖離は、編集されるコドン数が増えるにつれて増大した。適応度への影響が小さい設計のレプリカ間の差異はわずかであったが、強く弱毒化された設計のレプリカ間では、1時間あたり数倍の乖離が生じた。したがって、大規模なゲノムリコーディングの適応度の結果は、設計変数のみからでは実質的に予測不可能である。同一の処理を施した独立して設計されたゲノム間であっても、適応度が著しく乖離し得るのである。"
+  },
+  {
+    "id": "10.64898/2026.11.19.767955",
+    "title": "SOUR Disentangles Heritable and Microenvironmental Contributions to Intratumoral Heterogeneity in Spatial Lineage Tracing Data",
+    "abstract": "Intratumoral heterogeneity is hypothesized to be a major contributor to treatment resistance, yet the processes that generate it remain only partially understood. New technologies enable measurement of gene expression in individual tumor cells while also determining where the cells are located within a tumor and how they are related through cell division. A central question for such data is how much gene expression differences reflect characteristics passed from parent cells to their descendants, rather than influences from their local surroundings. Distinguishing these influences is challenging because closely related cells often reside near one another. Existing methods examine the relationship between gene expression and each of these factors separately, and can therefore incorrectly attribute spatial effects to ancestry or inherited effects to spatial location. Here, we present SOUR, a statistical method that uses both cell ancestry and spatial location to estimate their respective contributions to differences in gene expression. Using simulated data and two spatial lineage tracing datasets, we demonstrate that SOUR can estimate the separate contributions of cell ancestry and spatial location to variation in gene expression, while substantially reducing the confounding observed with existing approaches.",
+    "journal": "",
+    "doi": "10.64898/2026.11.19.767955",
+    "date": "2026-11-20",
+    "authors": "Weine, E., Burt, D., Abraham, K. J., Colgan, W., Weissman, J. S., Irizarry, R. A., Broderick, T., Schraiber, J. G.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.19.767955v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "gene",
+        "method"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "gene",
+          "method"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5433,
+    "collected_at": "2026-11-20T20:25:40.156289+00:00",
+    "collected_date": "2026-11-21",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.64898/2026.11.19.767955"
+    ],
+    "translation": {
+      "title": {
+        "hash": "33f4522c1a151cbe23845f1ec9fedb125469af498f1fabbb7ca91bfc1d19d83e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T21:07:25.574215+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "68d3a84c0ee6ce8875c30536e36e8a973ef1a7a23a44bb2a439bd4105a9b671a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T21:07:25.574215+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "SOUR：空間系統追跡データにおける腫瘍内不均一性への遺伝的要因と微小環境要因の分離",
+    "abstract_ja": "腫瘍内不均一性は治療抵抗性の主要な要因であると仮説立てられているが、これを生じさせるプロセスについては部分的にしか解明されていない。新たな技術により、個々の腫瘍細胞における遺伝子発現の測定が可能になるとともに、細胞が腫瘍内のどこに位置し、細胞分裂を通じてどのように関連しているかを特定することも可能となった。こうしたデータにおける中心的な問いは、遺伝子発現の差異が、局所的な環境からの影響ではなく、親細胞から子孫細胞へと受け継がれた特性をどの程度反映しているかという点である。近縁な細胞はしばしば互いに近接して存在するため、これらの影響を区別することは困難である。既存の手法では、遺伝子発現とこれらの各要因との関係を個別に検討するため、空間的な影響を祖先系統に、あるいは遺伝的な影響を空間的な位置に誤って帰属させてしまうことがある。本研究では、細胞の祖先系統と空間的位置の両方を用いて、遺伝子発現の差異に対するそれぞれの寄与度を推定する統計的手法SOURを提案する。シミュレーションデータと2つの空間的系統追跡データセットを用いて、SOURが遺伝子発現の変動に対する細胞の祖先系統と空間的位置の個別の寄与度を推定でき、同時に既存の手法で観察される交絡因子を大幅に低減できることを実証する。"
   }
 ]
