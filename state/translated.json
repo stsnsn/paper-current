@@ -309543,5 +309543,295 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "SARS-CoV-2膜（M）タンパク質はTLR4を活性化して炎症反応を誘導する。",
     "abstract_ja": "「サイトカインストーム」としても知られる過剰な炎症反応は、重症COVID-19の主要な原因である。ウイルスRNAとその構造タンパク質は、SARS-CoV-2誘発性炎症の重要な媒介因子である。SARS-CoV-2 RNAおよび構造タンパク質であるスパイク（S）、エンベロープ（E）、ヌクレオカプシド（N）によって誘導される免疫センサーと宿主の炎症反応については十分に解明されているが、炎症・抗ウイルス反応における膜（M）タンパク質の役割や、Mタンパク質介在性免疫応答を促進するシグナル伝達経路については十分に解明されていない。本研究では、SARS-CoV-2 Mタンパク質がマウスおよびヒトのマクロファージおよび肺において強力な炎症性サイトカイン応答を誘導することを示す。また、Mタンパク質誘導性の炎症反応がTLR4シグナル伝達に依存していること、およびMyD88が炎症を駆動する主要なアダプターとして機能する一方で、TRIFは主に抗ウイルスIFN応答に必要であることを示す。下流のシグナル伝達経路を詳細に評価した結果、ミトゲン活性化プロテインキナーゼ（MAPK）分子であるJNKおよびERK1/2の重要な役割が浮き彫りになり、次いでMタンパク質-TLR4介在性炎症応答における核因子カッパB（NF-κB）およびp38シグナル伝達が明らかになった。最後に、Mタンパク質誘導性のERK1/2およびp38シグナル伝達を遮断すると、野生型マクロファージにおいて炎症性サイトカインの産生が減少し、I型インターフェロンの産生が回復した一方、JNKおよびNF-κBの阻害はMタンパク質誘導性の炎症性および抗ウイルス性サイトカイン応答を抑制した。総じて、我々の結果は、SARS-CoV-2 Mタンパク質がTLR4-MyD88/TRIF活性化を介して炎症促進性サイトカインおよびI型インターフェロンを誘導し、その中でMAPK活性化が支配的な役割を果たすことを示しており、SARS-CoV-2誘発性の過剰な炎症および病態を軽減するためのMAPKシグナル伝達の特異的標的化を提案するものである。重要性：重症COVID-19はしばしば過剰な炎症反応によって引き起こされるが、この過程におけるSARS-CoV-2膜（M）タンパク質の役割は十分に解明されていない。我々は、Mタンパク質がTLR4シグナル伝達を介して炎症性および抗ウイルス性免疫応答を強力に活性化することを示し、関与する主要なシグナル伝達経路を同定した。また、MAPKシグナル伝達を選択的に標的とすることで、有害な炎症を減少させつつ、抗ウイルスインターフェロン応答を回復させることができることを実証した。これらの知見は、SARS-CoV-2がどのように疾患を引き起こすかについての理解を深めるとともに、抗ウイルス免疫を損なうことなく過剰な炎症を抑制するための潜在的な治療標的を特定するものである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.2009975",
+    "title": "Divergent cadmium adsorption by surface-engineered CadR10 in laboratory and probiotic Escherichia coli chassis",
+    "abstract": "Cadmium (Cd) is a persistent toxic heavy metal whose environmental bioremediation via surface-engineered bacteria has shown promise, yet application using probiotic chassis remains unexplored. Based on a previously characterized InaPb-CadR10/eGFP bicistronic architecture, we constructed the constitutive plasmids p302-10-G, p479-10-G, and p637-10-G and compared their performance in Escherichia coli TOP10 and the probiotic E. coli Nissle 1917 (EcN). In TOP10, stronger promoters yielded higher eGFP fluorescence and significantly enhanced Cd(II) adsorption, while SEM-EDS detected a localized Cd-associated signal in the selected p637-10-G specimen. In contrast, the optimal EcN construct showed no adsorption advantage over the empty host despite detectable reporter fluorescence. This host-dependent divergence may reflect differences in construct expression, membrane targeting, surface accessibility, plasmid behavior, or other chassis-dependent processes. These findings demonstrate that the performance of the CadR10 construct depends on the bacterial host under the tested in vitro conditions and provide a basis for the further evaluation of probiotic chassis for potential intestinal Cd interception.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.2009975",
+    "date": "2026-11-20",
+    "authors": "Chang-ye Hui",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.2009975",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5359,
+    "collected_at": "2026-11-20T12:01:03.805438+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.3389/fmicb.2026.2009975"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c845b31e478a716016a221d17f3fcf59d8611f6633ac3fb70307b125811d4044",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T12:29:08.998556+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f3e65c9b426cefa37a819d6ea80e3d0c12b729652695ef022fcfdcffe78bb23f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T12:29:08.998556+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "実験室およびプロバイオティクス大腸菌シャーシにおける表面設計型CadR10による特異的なカドミウム吸着",
+    "abstract_ja": "カドミウム（Cd）は残留性毒性重金属であり、表面工学的に改変した細菌による環境バイオレメディエーションが有望視されているが、プロバイオティクスシャーシを用いた応用は未開拓である。既報のInaPb-CadR10/eGFPバイシストロニック構造に基づき、構成的プラスミドp302-10-G、p479-10-G、およびp637-10-Gを作製し、大腸菌TOP10およびプロバイオティクス大腸菌Nissle 1917（EcN）における性能を比較した。TOP10では、より強力なプロモーターによりeGFP蛍光が増大し、Cd(II)吸着が有意に促進された一方、SEM-EDSでは選択したp637-10-G検体において局所的なCd関連シグナルが検出された。対照的に、最適なEcNコンストラクトでは、検出可能なレポーター蛍光が認められたものの、空の宿主に対する吸着上の優位性は見られなかった。この宿主依存的な差異は、コンストラクトの発現、膜標的化、表面アクセシビリティ、プラスミド挙動、あるいはその他のシャーシ依存的なプロセスの違いを反映している可能性がある。これらの知見は、試験したin vitro条件下においてCadR10コンストラクトの性能が細菌宿主に依存することを示しており、腸管におけるCd捕捉の可能性に向けたプロバイオティクスシャーシのさらなる評価の基礎となるものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.02172-26",
+    "title": "A multicenter performance evaluation of imipenem-relebactam gradient diffusion susceptibility testing for <i>Pseudomonas aeruginosa</i>.",
+    "abstract": "Imipenem-relebactam (I/R) is a beta-lactam/beta-lactamase inhibitor combination given with cilastatin that is indicated for the treatment of complicated urinary tract infections, including pyelonephritis and complicated intra-abdominal infections in patients. Recently, a new gradient diffusion method for antimicrobial susceptibility testing of this antibiotic was developed for Pseudomonas aeruginosa (ETEST IRPA) as an alternative to broth microdilution (BMD). Our objective was to evaluate the performance of the I/R ETEST in comparison to BMD across three external and one internal study sites for 437 (77 challenge, 360 clinical) P. aeruginosa isolates. Using the U.S. Food and Drug Administration (FDA) interpretive breakpoints, ETEST IRPA achieved a 97.7% (427/437) essential agreement (EA), 91.1% (398/437) categorical agreement (CA), 0% very major errors (VMEs), 0.9% (3/329) major errors (MEs), and 8.2% (36/437) minor errors (mEs). Using the European Committee on Antimicrobial Susceptibility Testing (EUCAST) interpretive breakpoints, ETEST IRPA achieved a 97.7% (427/437) EA, 93.8% (410/437) CA, 12% (13/108) VME, and 4.2% (14/329) ME. Both bias and trending were in alignment with regulatory requirements. Reproducibility testing on 10 strains showed 99.6% (269/270) of results were within ±1 doubling dilution of the modal minimum inhibitory concentration (MIC). MIC50 and MIC90 values for imipenem were 8 and 32, respectively, in comparison to 1 and 8 with the addition of relebactam as determined by ETEST. In conclusion, ETEST IRPA provides both accurate and reproducible results for performing antimicrobial susceptibility testing of P. aeruginosa when interpreted with both FDA and EUCAST criteria.IMPORTANCEAntimicrobial susceptibility testing is key to proper treatment of bacterial infections. Broth microdilution is the gold standard for antimicrobial susceptibility testing; however, it can be time-consuming and requires high levels of technical expertise. This study evaluates a new gradient diffusion method for antimicrobial susceptibility testing of imipenem-relebactam against Pseudomonas aeruginosa. The findings support the use of imipenem-relebactam gradient diffusion as an accurate and reproducible method of antimicrobial susceptibility testing against Pseudomonas aeruginosa.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.02172-26",
+    "date": "2026-11-09",
+    "authors": "Macom RV, Csiki-Fejer E, Collange A, Hardy DJ, Wootton M, Zambardi G, Yarbrough ML.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43001786",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43001786",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Pseudomonas",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5207,
+    "collected_at": "2026-11-20T11:50:28.841726+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1128/spectrum.02172-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e7d2d776808979ae572a112eef86e4e3c71a69ded712e1f96832e43f65b77aed",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T12:29:08.998556+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "136b2095747faea842e3ad5592dc092374c5d74258e6ef15097023051db0b20e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T12:29:08.998556+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "<i>Pseudomonas aeruginosa</i>に対するイミペネム・レレバクタム漸増拡散感受性試験の多施設共同性能評価",
+    "abstract_ja": "イミペネム・レレバクタム（I/R）は、シラスタチンと併用投与されるβ-ラクタム系／β-ラクタマーゼ阻害剤配合剤であり、腎盂腎炎や複雑性腹腔内感染症を含む複雑な尿路感染症の治療に適応がある。近年、ブロスマイクロダイリューション（BMD）に代わる手法として、Pseudomonas aeruginosaに対する本抗菌薬の薬剤感受性試験のための新たな勾配拡散法（ETEST IRPA）が開発された。本研究の目的は、3か所の外部試験施設および1か所の内部試験施設において、P. aeruginosa分離株437株（チャレンジ株77株、臨床株360株）を対象に、I/R ETESTの性能をBMDと比較して評価することであった。米国食品医薬品局（FDA）の解釈基準ブレークポイントを用いた結果、ETEST IRPAは97.7%（427/437）の必須一致（EA）、91.1%（398/437）のカテゴリー一致（CA）、0%の極めて重大なエラー（VME）、0.9%（3/329）の重大なエラー（ME）、および8.2%（36/437）の軽微なエラー（mEs）を達成した。欧州薬剤感受性試験委員会（EUCAST）の解釈基準ブレークポイントを用いた結果、ETEST IRPAは97.7%（427/437）のEA、93.8%（410/437）のCA、12%（13/108）のVME、および4.2%（14/329）のMEを達成した。バイアスおよびトレンドはいずれも規制要件に適合していた。10株を用いた再現性試験では、結果の99.6%（269/270）が最頻最小発育阻止濃度（MIC）の±1倍倍加希釈範囲内であった。イミペネムのMIC50およびMIC90値は、ETESTで判定したレレバクタム添加時の1および8に対し、それぞれ8および32であった。結論として、ETEST IRPAは、FDAおよびEUCASTの両基準で解釈した場合、P. aeruginosaの薬剤感受性試験において正確かつ再現性のある結果を提供する。重要性 薬剤感受性試験は、細菌感染症の適切な治療において極めて重要である。ブロスマイクロダイリューションは薬剤感受性試験のゴールドスタンダードであるが、時間がかかり、高度な技術的専門知識を必要とする。本研究では、Pseudomonas aeruginosaに対するイミペネム・レレバクタムの薬剤感受性試験のための新たな勾配拡散法を評価する。得られた知見は、Pseudomonas aeruginosaに対する正確かつ再現性のある薬剤感受性試験法として、イミペネム・レレバクタム勾配拡散法の使用を支持するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/msphere.00457-26",
+    "title": "Natural variation of hypervirulent <i>Klebsiella</i> pathogenicity loci among Taiwan bloodstream isolates.",
+    "abstract": "Klebsiella pneumoniae is a major cause of both nosocomial and community-acquired infections, with hypervirulent (hvKP) strains causing severe disease in healthy individuals. In Southeastern Asia, diabetes mellitus is a recognized risk factor for hvKP-associated pyogenic liver abscesses. hvKP virulence is typically attributed to carriage of a large virulence plasmid encoding siderophore biosynthesis (iuc, iro) and mucoid regulator (rmpA, rmpA2) genes. Here, we analyzed 50 bloodstream isolates from Taipei, Taiwan, to investigate genomic and phenotypic characteristics of isolates from patients with or without diabetes mellitus. In diabetic patients and patients with liver abscesses, hvKP biomarkers were found in 66% (n = 33) and 64% (n = 32) of isolates, respectively. While we expected hvKP isolates to be overrepresented in this collection, we observed extensive diversity among hvKP pathogenicity loci, with strains of typical ST23 hvKP lineages carrying incomplete KpVP-1 virulence plasmids. This hvKP biomarker diversity is typically found in classical multidrug-resistant lineages that have acquired portions of the virulence plasmid. Phenotypic assays showed that hvKP biomarkers did not strictly predict hypermucoviscosity, capsule and siderophore production, or survival in serum. Loss of rmpA consistently eliminated hypermucoviscosity and reduced virulence in a murine pneumonia model, whereas aerobactin loss did not. In vivo studies demonstrated variations in virulence that could not be explained solely by differences in the number of hypervirulence-associated loci. These findings highlight the complexity of K. pneumoniae pathogenesis and demonstrate that while canonical biomarkers effectively distinguish hvKP from classical K. pneumoniae, they are insufficient to predict variation in virulence among hvKP strains. Our findings provide insight into the virulence spectrum of strains carrying incomplete plasmid configurations.IMPORTANCEK. pneumoniae poses a global health threat due to the convergence of antimicrobial resistance and hypervirulence. We identified substantial diversity in virulence plasmid content, including incomplete virulence plasmids within archetypal hvKP lineages, and showed that phenotypic and in vivo virulence traits cannot be fully explained by the presence or absence of individual hypervirulence-associated loci. While canonical biomarkers such as rmpA and iuc are widely used to distinguish hypervirulent strains, our analysis demonstrates that no single biomarker is sufficient to reliably predict pathogenic potential and that virulence depends on specific locus combinations and broader context. These findings highlight a critical gap in our understanding of hvKP pathogenesis, underscoring the need for more nuanced frameworks to evaluate virulence. This work has important implications for clinical diagnostics, surveillance, and risk assessment of emerging K. pneumoniae strains worldwide.",
+    "journal": "mSphere",
+    "doi": "10.1128/msphere.00457-26",
+    "date": "2026-10-27",
+    "authors": "Londono MC, Cronin RM, Usi ND, Nozick SH, Hauser AR, Chiu C-H, Kochan TJ.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42937327",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42937327",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5203,
+    "collected_at": "2026-11-20T11:50:28.841726+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1128/msphere.00457-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f9f966b83ca01c6d96f0352215e85990f26a18509e702bb012adeb4cc4f4592b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T12:29:08.998556+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "00b28e17128a7378125261e309cd6f74e462b39843a57ce9d9cad23db471c12b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T12:29:08.998556+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "台湾の血流分離株における超強毒性<i>Klebsiella</i>病原性遺伝子座の自然変異",
+    "abstract_ja": "Klebsiella pneumoniaeは、院内感染および市中感染の主要な原因であり、超強毒性（hvKP）株は健常者において重篤な疾患を引き起こす。東南アジアでは、糖尿病がhvKP関連の化膿性肝膿瘍の既知のリスク因子である。hvKPの病原性は、通常、シデロフォア生合成（iuc, iro）およびムコイド調節因子（rmpA, rmpA2）遺伝子をコードする大型の病原性プラスミドの保有に起因するとされる。本研究では、台湾の台北市から得られた50株の血流分離株を解析し、糖尿病の有無にかかわらず患者由来の分離株におけるゲノムおよび表現型特性を調査した。糖尿病患者および肝膿瘍患者において、hvKPバイオマーカーはそれぞれ66%（n = 33）および64%（n = 32）の分離株で認められた。本コレクションではhvKP分離株が過剰に認められると予想していたが、hvKP病原性遺伝子座の間には広範な多様性が認められ、典型的なST23 hvKP系統の株では不完全なKpVP-1病原性プラスミドを保有していた。このhvKPバイオマーカーの多様性は、通常、病原性プラスミドの一部を獲得した古典的な多剤耐性系統に見られる。表現型アッセイの結果、hvKPバイオマーカーは、高粘液性、莢膜およびシデロフォアの産生、あるいは血清中での生存率を厳密に予測することはできなかった。rmpAの欠損は、マウス肺炎モデルにおいて一貫して高粘液性を消失させ、病原性を低下させたが、エアロバクチンの欠損ではそのような効果は認められなかった。in vivo研究では、超強毒性関連遺伝子座の数の違いだけでは説明できない病原性の変動が示された。これらの知見は、K. pneumoniaeの病態形成の複雑さを浮き彫りにし、標準的なバイオマーカーがhvKPを古典的なK. pneumoniaeから効果的に区別できる一方で、hvKP株間の病原性の変動を予測するには不十分であることを示している。本研究の結果は、不完全なプラスミド構成を持つ株の病原性スペクトラムに関する知見を提供するものである。重要性：K. pneumoniaeは、薬剤耐性と超強毒性の併存により、世界的な健康脅威となっている。我々は、典型的なhvKP系統内の不完全な病原性プラスミドを含む、病原性プラスミド含有量の著しい多様性を同定し、表現型およびin vivoの病原性形質が、個々の超強毒性関連遺伝子座の有無だけでは完全には説明できないことを示した。rmpAやiucなどの標準的なバイオマーカーは超強毒性株の区別に広く用いられているが、我々の解析は、単一のバイオマーカーでは病原性の潜在能力を確実に予測するには不十分であり、病原性は特定の遺伝子座の組み合わせやより広範な文脈に依存することを示している。これらの知見は、hvKPの病態形成に関する我々の理解における重大な欠落を浮き彫りにし、病原性を評価するためのより精緻な枠組みの必要性を強調するものである。本研究は、世界中の新興K. pneumoniae株の臨床診断、サーベイランス、およびリスク評価に重要な示唆を与えるものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/msystems.00868-26",
+    "title": "Differential impacts of early, extended-spectrum, and last-resort β-lactams on manure-derived microbiomes and resistomes in an <i>in vitro</i> model.",
+    "abstract": "Understanding the environmental dissemination of antimicrobial resistance (AMR) is crucial for mitigating its spread and reducing the clinical burden of resistant infections. In a previous study, we demonstrated that copiotrophic enrichment in a medium that stimulates the growth of gut-associated bacteria can reveal clinically associated bacterial populations and antibiotic resistance genes (ARGs) that are not detected through direct environmental sampling. In the present study, we applied this enrichment approach to poultry manure to examine how β-lactamase-resistant antibiotics (cefotaxime and meropenem) shape the composition and resistance profiles of copiotrophic, gut-like microbial community relative to an earlier β-lactam (ampicillin) and to antibiotic-free controls. Our results show that extended-spectrum and last-resort β-lactams induced more pronounced shifts in microbial diversity, resistome, and mobilome profiles compared to ampicillin. When focusing on specific taxa, such as clinically relevant enteric bacteria and both susceptible and β-lactam-resistant coliforms, differential responses were observed correlating to the antimicrobial range of action. Moreover, cefotaxime and meropenem exerted different effects on the relative abundance of enteric bacteria and plasmids harboring multiple ARGs. Together, these findings underline how the diversity of pathogen and AMR indicators in gut microbiomes may be shaped by different selective pressures imposed by β-lactamase-resistant antibiotics.IMPORTANCEThis study explores how different generations of β-lactam antibiotics shape microbial communities and antibiotic resistance in a gut-like in vitro system. Using a metabolically driven synthetic community derived from manure, we found that advanced β-lactams such as cefotaxime and meropenem led to stronger and more specific shifts in both community composition and resistance gene profiles compared to ampicillin. These results emphasize that the ecological impact of antibiotics depends not only on whether bacteria are inhibited but also on the spectrum of activity of each compound. In addition, the system we used provides a simple and controllable way to study interactions among antibiotics, microbial communities, and the resistome. Overall, this work offers a clearer ecological view of how clinically important antibiotics may influence microbiomes and the spread of antibiotic resistance genes.",
+    "journal": "mSystems",
+    "doi": "10.1128/msystems.00868-26",
+    "date": "2026-10-21",
+    "authors": "Davidovich C, Blum SE, Cytryn E.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42904640",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42904640",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "microbial",
+        "microbiome",
+        "microbiomes"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5205,
+    "collected_at": "2026-11-20T11:50:28.841726+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1128/msystems.00868-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b709f31b84637cea86b3ddcebfe08543b16040c8082c7c95e249a101c621e632",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T12:29:08.998556+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e41a694dd9521439a6236fc218746d9ad38576062610ad646bda030cf9a61701",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T12:29:08.998556+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "<i>in vitro</i>モデルにおける、早期投与、広域スペクトル、および最終手段のβ-ラクタム系薬剤が糞便由来マイクロバイオームおよびレジストームに及ぼす異なる影響。",
+    "abstract_ja": "薬剤耐性（AMR）の環境中への拡散を把握することは、その拡大を抑制し、耐性感染症による臨床的負担を軽減する上で極めて重要である。先行研究において、我々は、腸内細菌の増殖を促進する培地を用いたコピオトロフィック濃縮法により、直接的な環境サンプリングでは検出されない、臨床的に関連のある細菌集団および抗生物質耐性遺伝子（ARG）を同定できることを示した。本研究では、この濃縮法を家禽糞便に適用し、β-ラクタマーゼ耐性抗生物質（セフォタキシムおよびメロペネム）が、従来のβ-ラクタム系抗生物質（アンピシリン）および抗生物質非投与対照群と比較して、コピオトロフィックな腸様微生物群集の組成および耐性プロファイルをどのように形成するかを検討した。その結果、広域スペクトルβ-ラクタム系および最終手段のβ-ラクタム系抗生物質は、アンピシリンと比較して、微生物多様性、レジストーム、およびモジュロームのプロファイルにより顕著な変化を誘発することが示された。臨床的に重要な腸内細菌や、感受性およびβ-ラクタム耐性の両方の大腸菌群などの特定の分類群に着目したところ、抗菌薬の作用範囲と相関する異なる応答が観察された。さらに、セフォタキシムとメロペネムは、腸内細菌および複数のARGを保持するプラスミドの相対存在量に対して異なる影響を及ぼした。これらの知見を総合すると、腸内マイクロバイオームにおける病原体およびAMR指標の多様性が、β-ラクタマーゼ耐性抗生物質によって課される異なる選択圧によってどのように形成され得るかが浮き彫りになる。重要性 本研究では、腸様in vitro系において、異なる世代のβ-ラクタム系抗生物質が微生物群集および抗生物質耐性をどのように形成するかを探究した。糞便由来の代謝駆動型合成群集を用いた結果、セフォタキシムやメロペネムなどの次世代β-ラクタム系抗生物質は、アンピシリンと比較して、群集組成および耐性遺伝子プロファイルの双方において、より強力かつ特異的な変化をもたらすことが明らかになった。これらの結果は、抗生物質の生態学的影響が、細菌が阻害されるか否かだけでなく、各化合物の作用スペクトルにも依存することを強調している。加えて、我々が用いた系は、抗生物質、微生物群集、およびレジストーム間の相互作用を研究するための簡便かつ制御可能な手法を提供する。総じて、本研究は、臨床的に重要な抗生物質がマイクロバイオームおよび抗生物質耐性遺伝子の拡散にどのような影響を及ぼし得るかについて、より明確な生態学的視点を提供するものである。"
   }
 ]
