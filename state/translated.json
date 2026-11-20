@@ -311782,5 +311782,149 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "メタエントロピー：エントロピーによる複雑なウイルス混合物中のタンパク質変動性の定量化",
     "abstract_ja": "廃水由来の複雑なウイルス混合物の研究において、高密度配列データは一般的となっている。系統的デコンボリューションや、臨床的に同定が困難な変異のラベル付けには、確立されたアルゴリズムが存在する。しかし、翻訳アミノ酸多様性の定量化については、これまであまり注目されてこなかった。本稿では、タンパク質配列の変動性を評価し、シャノンエントロピーを用いて潜在的な選択を受けている部位を同定するためのモジュール式Rパッケージ「MetaEntropy」を提案する。MetaEntropyは、ゲノムワイドおよびタンパク質特異的な変動性の可視化、ヌクレオチドおよびアミノ酸変異プロファイルの抽出、ならびにエントロピーホットスポットの同定のためのユーティリティ関数を統合している。廃水サーベイランス向けに設計されているが、本パッケージは患者内横断的データからのタンパク質多様性のプロファイリングも可能である。ただし、集団構造や準種の解析は行わず、これらについては複数のツールが利用可能である。位置エントロピーに着目することで、MetaEntropyは、従来のハプロタイプ再構築や多重配列アライメント戦略に典型的な配列制約、計算負荷、およびコンセンサスに基づくバリアントロスを回避している。感度と中立変異のバランスを取るため、本パッケージでは、標準的な20クラスの正準アミノ酸体系と、従来の物理化学的特性に基づく7クラスモデルを用いてエントロピーを評価する。算出されたエントロピー値は0～1のスケールに正規化されるため、遺伝子座やサンプル層をまたいだタンパク質多様性の直接的な比較が可能となる。概念実証として、MetaEntropyを用いて廃水データから既知のSARS-CoV-2の機能的変化を検出し、全身性感染症における組織特異的な不均一性を探索する。MetaEntropyは、Comprehensive R Archive Network (CRAN) の https://CRAN.R-project.org/ から入手可能である。"
+  },
+  {
+    "id": "10.64898/2026.11.18.767735",
+    "title": "Charge-engineered nanohybrid coatings for microbial fouling resistance",
+    "abstract": "Microbial attachment is the gateway to biofouling and microbially influenced corrosion. Yet biocides and passive barrier coatings do not actively regulate the charged metal-microbe interface at which adhesion begins. Here we report a charge-engineered coating, a graphene thin-film nanohybrid (gTFN) on nickel (Ni) forming an asymmetric metal-graphene-metal junction, that suppresses cell attachment through interfacial charge redistribution rather than soluble toxicity. Against the model sulfate-reducing bacterium Oleidesulfovibrio alaskensis G20, gTFN combines an impermeable graphene scaffold, an immobilized low-leaching Ag cap and a serrated topology, reducing microbial surface coverage by 98%, increasing charge-transfer resistance 47-fold and lowering corrosion current 167-fold relative to Ni. Surface-potential mapping and density functional theory reveal interfacial dipoles that pattern the surface potential, while imaging shows graphene wrinkles channeling residual attachment. Transcriptomic profiling reveals downregulation of biofilm-associated and energy-metabolism genes. These results establish interfacial charge redistribution as an active antifouling and anticorrosion mechanism for controlling microbial biointerfaces.",
+    "journal": "",
+    "doi": "10.64898/2026.11.18.767735",
+    "date": "2026-11-20",
+    "authors": "Devadig, R., Kandadai, V. A. S., Jawaharraj, K., Jasthi, B. K., Gnimpieba, E., Shagla, C., Dalton, A., McHugh, J., Ajayan, P. M., Tripathi, M., Gadhamshetty, V.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.18.767735v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacterium",
+        "microbe",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5365,
+    "collected_at": "2026-11-20T12:01:03.805438+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.64898/2026.11.18.767735"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2a8bc9c4b8182fd9d4147ce8d730dc22a78bc430aabb315d8d2573eb71cd0cdd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T12:53:14.947618+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "12460fd8558bac71e4ecccbc7e7f16a1251e477f33a6102a526f310efab0a515",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T12:53:14.947618+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "微生物付着耐性を付与する電荷設計型ナノハイブリッドコーティング",
+    "abstract_ja": "微生物の付着は、バイオファウリングおよび微生物の影響を受ける腐食への入り口となる。しかし、殺生物剤や不動態バリアコーティングは、付着が始まる電荷を帯びた金属－微生物界面を能動的に制御することはない。本報では、可溶性毒性ではなく界面電荷再分配を通じて細胞付着を抑制する、電荷工学的に設計されたコーティング、すなわちニッケル（Ni）上に非対称な金属－グラフェン－金属接合を形成するグラフェン薄膜ナノハイブリッド（gTFN）について報告する。モデル硫酸還元菌であるOleidesulfovibrio alaskensis G20に対し、gTFNは不浸透性のグラフェン骨格、固定化された低溶出性Agキャップ、および鋸歯状トポロジーを兼ね備えており、Niと比較して微生物の表面被覆率を98%低減し、電荷移動抵抗を47倍に高め、腐食電流を167倍に低下させた。表面電位マッピングおよび密度汎関数理論により、表面電位をパターン化する界面双極子が明らかになり、イメージングでは残留付着を誘導するグラフェンのしわが確認された。トランスクリプトームプロファイリングにより、バイオフィルム関連遺伝子およびエネルギー代謝遺伝子の発現低下が認められた。これらの結果は、界面電荷再分配が、微生物バイオ界面を制御するための能動的な防汚および防食メカニズムであることを立証するものである。"
+  },
+  {
+    "id": "10.64898/2026.11.19.767678",
+    "title": "HIV-1 Mutational Bias Shapes the Supply of Drug Resistance Mutations",
+    "abstract": "The development of durable HIV-1 therapeutics requires understanding not only which mutations confer resistance, but also how readily those mutations arise. Prior work has characterized the effects of individual mutations on viral fitness and drug or immune escape; however, the contribution of mutational bias to HIV-1 evolutionary pathways remains largely unquantified. Here, we report and provide an interactive HIV-1 Mutation Rate Atlas (MRA), built on a dataset of empirical measurements of single-cycle HIV-1 mutation accumulation in the absence of selection pressure, using error-corrected long-read sequencing. The MRA estimates the mutation rate at every genomic position to each possible nucleotide, enabling evaluation of amino acid mutability across the genome. Using the MRA, we show that mutation rate biases predict HIV-1 drug resistance variant frequencies across patients. These results demonstrate that mutational biases shape HIV-1 evolutionary outcomes, providing a framework for predicting HIV-1 evolution and drug resistance.",
+    "journal": "",
+    "doi": "10.64898/2026.11.19.767678",
+    "date": "2026-11-19",
+    "authors": "Nitido, A. D., Ömür, N., Balazs, A. B.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.19.767678v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5366,
+    "collected_at": "2026-11-20T12:01:03.805438+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.64898/2026.11.19.767678"
+    ],
+    "translation": {
+      "title": {
+        "hash": "dcbf06c923c104db6ef7622a5a8ad5b3abb0132f4d0928769678eda726461e17",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T12:53:14.947618+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d6cde5fc9b01856473341ffec46a742cf46e6270606dfdbb8c02aea3c619887b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T12:53:14.947618+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "HIV-1の変異バイアスが薬剤耐性変異の供給を規定する",
+    "abstract_ja": "耐久性のあるHIV-1治療薬の開発には、どの変異が耐性を付与するのかだけでなく、それらの変異がどの程度容易に生じるのかを理解することが不可欠である。これまでの研究では、個々の変異がウイルスの適応度や薬剤・免疫逃避に及ぼす影響が明らかになってきたが、HIV-1の進化経路における変異バイアスの寄与については、依然として大部分が定量化されていない。本報では、エラー訂正済みロングリードシーケンシングを用い、選択圧がない条件下での単一サイクルHIV-1変異蓄積の実測データセットに基づいて構築した、インタラクティブなHIV-1変異率アトラス（MRA）を報告し、提供する。MRAは、ゲノム上のあらゆる位置における各可能なヌクレオチドへの変異率を推定し、ゲノム全体にわたるアミノ酸変異能の評価を可能にする。MRAを用いて、変異率バイアスが患者間におけるHIV-1薬剤耐性変異株の頻度を予測できることを示す。これらの結果は、変異バイアスがHIV-1の進化的帰結を形作っていることを実証しており、HIV-1の進化と薬剤耐性を予測するための枠組みを提供するものである。"
   }
 ]
