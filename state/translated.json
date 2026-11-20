@@ -310414,5 +310414,290 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "SynCED: 合成化学エクスポソームデータベース",
     "abstract_ja": "要旨 合成化学物質エクスポソームデータベース（SynCED）（https://syncedb.ca）は、Toxin and Toxin Target Database（T3DB）を大幅に更新・拡張したバージョンである。SynCEDは、多様な化学、毒性学、曝露、および規制上の情報源から、316,418種類の合成化学物質に関する豊富なデータを提供している。合成化学物質エクスポソームは、膨大かつ急速に拡大する人為的化学物質の範囲を網羅しているが、その供給源、用途、生物学的影響、毒性、および分子間相互作用に関する情報は、数多くのリソースにわたって断片化したままである。SynCEDは、これらの情報を統合し、既知の合成化学物質の大部分を、標準化された化学名および識別子、化合物記述、予測または測定された物理化学的特性、参照スペクトルデータ、曝露および用途情報、毒性学データ、ならびに生物学的標的または相互作用と紐付けることで、この課題に対処している。文献由来の化合物記述および機能アノテーションは、Chemical Functional Ontology（ChemFOnt）Fact Finderパイプラインを用いて構築されており、このパイプラインは、裏付けとなる証拠と来歴を保持しつつ、意味的に定義された化学物質－関係－エンティティの関連付けを抽出する。文献由来の生物学的標的情報に加え、SynCEDはリガンドに基づくタンパク質標的予測を組み込むことで、実験的に特性評価された相互作用が欠如している化学物質のカバー範囲を拡大している。非標的または疑わしいスクリーニングを用いた化合物同定を容易にするため、SynCEDは、化学構造、毒性、テキスト、質量、分子量、元素組成、ESI-MS、EI-MS、およびNMRスペクトル（測定および予測の両方）による検索、ならびに標的配列（タンパク質およびDNA）による検索をサポートする広範な検索ユーティリティを提供している。また、化学名、ClassyFire化学分類、および曝露源によるデータベースブラウジングもサポートしている。これらの機能が相まってT3DBを拡張し、SynCEDをより広範で来歴を考慮したデータベースへと進化させ、疑わしいまたは非標的スクリーニング、化学物質曝露およびハザード評価、メカニズム研究、および一般的な化学エクスポソーム研究を支援する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.00365-26",
+    "title": "Wall shear stress influences adhesion and extravasation of <i>Borrelia burgdorferi</i> in a 3D tissue-engineered microvascular model.",
+    "abstract": "Lyme disease is a tick-borne disease primarily caused by the bacterium Borrelia burgdorferi (Bb). Following a tick bite, Bb is injected into the dermis and colonizes the local tissue, where it can spread to distant organs through the vascular system. Although dissemination is a crucial factor in disease progression, our understanding of the mechanisms and factors that affect Bb dissemination through circulation is incomplete. To assess the role of wall shear stress (WSS) on Bb adhesion and extravasation, we perfused a 3D tissue-engineered microvessel with fluorescently labeled Bb at different wall shear stresses. The rate of Bb adhesion and extravasation from the microvessel was strongly dependent on WSS. Bb adhered to the endothelium in an elongated morphology and occasionally exhibited \"flipping\" events with one end of the Bb anchored and the other end detaching and reattaching downstream. Finally, circulating Bb did not induce endothelial activation following 6 h of perfusion, although increased microvessel permeability at low WSS was correlated with increased Bb adhesion events. Our results provide a new approach to investigating Bb dissemination and offers new insights into the mechanisms of Bb extravasation.IMPORTANCEFollowing a tick bite, Borrelia burgdorferi (Bb), the causative agent for Lyme disease, can disseminate to distant organs through the vascular system. Here, we utilize a 3D tissue-engineered microvessel model to gain insight into how wall shear stress (WSS) impacts Bb extravasation and Bb migration behavior across endothelial cells. During perfusion, Bb transiently adhered to the endothelium prior to detaching or extravasating into the surrounding extracellular matrix. The number of adhesion events was strongly dependent on WSS, and extravasation events were only observed at the lowest WSS. Adherent Bb were usually elongated and aligned in the direction of flow, and did not exhibit the helical morphology associated with migration under static conditions or in the extracellular matrix. Adherent Bb exhibited \"flipping\" events in which the back (upstream) end of the Bb detached and subsequently reattached downstream, becoming the front end while the other end remained anchored to the endothelium.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.00365-26",
+    "date": "2026-11-04",
+    "authors": "Xia Z, Wang L, Chung C, Searson PC.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42980158",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42980158",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacterium"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5216,
+    "collected_at": "2026-11-20T11:50:28.841726+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1128/spectrum.00365-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5c81a626e4293091431b448d3c9d2f2062d0d1124a86304acc3c59c324bd6e74",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T12:38:58.952423+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b154366e4df913d4baf527ac3b1ebda694f67b11a7d9781ffe6cbf242c2e5ea9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T12:38:58.952423+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "壁せん断応力は、3次元組織工学的微小血管モデルにおける<i>Borrelia burgdorferi</i>の接着および血管外遊出に影響を及ぼす。",
+    "abstract_ja": "ライム病は、主にボレリア・ブルグドルフェリ（Bb）菌によって引き起こされるマダニ媒介性疾患である。マダニによる咬傷後、Bbは真皮に注入されて局所組織に定着し、そこから血管系を介して遠隔臓器へと拡散する。拡散は疾患進行における極めて重要な要因であるが、循環を介したBbの拡散に影響を与える機序や要因に関する我々の理解は不十分である。壁せん断応力（WSS）がBbの接着および血管外漏出に及ぼす役割を評価するため、3D組織工学的に作製した微小血管に、異なる壁せん断応力条件下で蛍光標識したBbを灌流させた。微小血管からのBbの接着および血管外漏出の速度は、WSSに強く依存していた。Bbは伸長した形態で内皮に接着し、時折、Bbの一端が固定され、もう一端が剥離して下流側で再接着するという「フリッピング」現象を示した。最後に、循環するBbは6時間の灌流後も内皮活性化を誘導しなかったが、低WSS条件下での微小血管透過性の亢進は、Bbの接着事象の増加と相関していた。本研究の結果は、Bbの拡散を調査するための新たなアプローチを提供するとともに、Bbの血管外漏出の機序に関する新たな知見をもたらすものである。重要性：マダニによる咬傷後、ライム病の原因菌であるボレリア・ブルグドルフェリ（Bb）は、血管系を介して遠隔臓器へと拡散し得る。本研究では、3D組織工学的に作製した微小血管モデルを用いて、壁せん断応力（WSS）がBbの血管外漏出および内皮細胞間のBb移動挙動にどのような影響を及ぼすかについて知見を得た。灌流中、Bbは一時的に内皮に接着した後、剥離するか、あるいは周囲の細胞外マトリックスへと血管外漏出した。接着事象の数はWSSに強く依存しており、血管外漏出事象は最低のWSS条件下でのみ観察された。接着したBbは通常、伸長して流れの方向に整列しており、静的条件下や細胞外マトリックスにおける移動に伴うらせん状形態は示さなかった。接着したBbは、「フリッピング」事象を示し、Bbの後端（上流側）が剥離してその後下流側で再接着し、前端となる一方で、もう一端は内皮に固定されたままとなった。"
+  },
+  {
+    "id": "10.1093/nar/gkag1156",
+    "title": "CIViC 2026: expanding cancer variant curation with AI, genome-wide biomarkers, and genomic regions",
+    "abstract": "AbstractThe CIViC (Clinical Interpretations of Variants in Cancer) knowledgebase (https://civicdb.org) remains one of the few free, unrestricted knowledgebases for the distribution of somatic cancer variant interpretations. CIViC leverages public curation and expert moderation to address the bottleneck problem of cancer variant interpretation for patient care. As the curation platform for ClinGen Somatic Cancer, the CIViC knowledge model is informed by multiple experts across disparate fields in cancer and, in turn, acts as a model for cancer variant classification and representation. In order to capture a wider range of genomic variations, several updates to CIViC’s data and curation model have been made with a focus on maintaining familiar workflows and user interface layouts. A new top-level entity called the Feature represents Genes, Fusions, Regions for large-scale structural variations, and Factors for genome-wide biomarkers. Accompanying Variants capture information unique to each genomic event. Molecular Profiles enable the curation of complex combinations of these Variants. CIViC has also developed a system for approval and submission of Assertions to ClinVar, guidance for the use of AI in curation and moderation of content, and additional capabilities such as source retraction monitoring and an advanced query builder.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1156",
+    "date": "2026-11-20",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1156/9103988?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5349,
+    "collected_at": "2026-11-20T12:01:03.805438+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1093/nar/gkag1156"
+    ],
+    "translation": {
+      "title": {
+        "hash": "82372463135b901e75bcd19f67277ee07bff1258552e4c5959f8296b58a0c876",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T12:38:58.952423+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c9185c2fd4ddb99091ee8105521f2f47e1bf7060344f6bf43482f5f73fe40842",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T12:38:58.952423+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "CIViC 2026：AI、ゲノムワイドバイオマーカー、およびゲノム領域によるがんバリアントキュレーションの拡充",
+    "abstract_ja": "要旨CIViC（Clinical Interpretations of Variants in Cancer）ナレッジベース（https://civicdb.org）は、がんの体細胞変異の解釈を配布するための、数少ない無料かつ制限のないナレッジベースの一つであり続けている。CIViCは、パブリックキュレーションと専門家によるモデレーションを活用することで、患者ケアにおけるがん変異解釈のボトルネック問題に対処している。ClinGen Somatic Cancerのキュレーションプラットフォームとして、CIViCのナレッジモデルはがん分野の多岐にわたる領域の複数の専門家の知見を取り入れており、ひいてはがん変異の分類および表現のモデルとして機能している。より広範なゲノム変異を網羅するため、使い慣れたワークフローとユーザーインターフェースのレイアウトの維持に重点を置きつつ、CIViCのデータおよびキュレーションモデルに複数の更新が行われた。新たな最上位エンティティである「Feature」は、大規模な構造変異におけるGenes、Fusions、Regions、およびゲノムワイドバイオマーカーにおけるFactorsを表す。これに付随する「Variants」は、各ゲノムイベント固有の情報を捕捉する。「Molecular Profiles」により、これらのVariantの複雑な組み合わせのキュレーションが可能となる。また、CIViCは、ClinVarへのAssertionの承認および提出システム、キュレーションおよびコンテンツモデレーションにおけるAI利用のガイダンス、ならびにソースリトラクション監視や高度なクエリビルダーなどの追加機能を開発している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.02486-26",
+    "title": "Stability of therapeutic bacteriophages in clinically approved crystalloid infusion solutions.",
+    "abstract": "The growing burden of antimicrobial resistance underscores the need for effective alternatives to conventional antibiotics, with bacteriophage therapy representing a promising approach. However, insufficient product stability during storage and administration may reduce the delivered dose and confound assessments of clinical efficacy. Clinically approved crystalloid infusion solutions could facilitate phage preparation and administration, but their suitability for phage storage remains poorly characterized. The stability of four virulent bacteriophages targeting Pseudomonas aeruginosa or Staphylococcus aureus was evaluated in sodium chloride 0.45%, sodium chloride 0.9%, Ringer's lactate, Ringer's acetate, and saline magnesium (SM) buffer. Phage preparations containing 10⁹ plaque-forming units per mL were stored at 4°C, -20°C, or -80°C, with or without 10% glycerol, for up to 6 months. Phage infectivity was highly dependent on the phage, solution, and storage temperature. Buffered solutions generally preserved infectivity better than saline, particularly under frozen conditions. Glycerol improved stability during freezing, although the magnitude of this effect varied among phages and was most apparent in saline solutions. Storage at -80°C with glycerol provided the most consistent preservation across all four phages, with titers remaining close to baseline. Ringer's solutions supported high stability at -80°C also without glycerol. By contrast, storage at 4°C resulted in greater variability and reduced stability for several phages. These findings demonstrate that clinically approved crystalloid solutions can serve as vehicles for both phage storage and administration and suggest a need for phage-specific stability testing.ImportanceReliable bacteriophage therapy requires formulations that preserve phage activity during storage and clinical administration. Yet, standardized approaches to phage formulation and storage remain lacking, and many clinical applications still rely on empirical practices rather than evidence-based pharmaceutical principles. This study addresses an important translational barrier by examining the stability of therapeutically relevant phages targeting Staphylococcus aureus and Pseudomonas aeruginosa in crystalloid solutions routinely used for intravenous administration. Comparison of distinct phages across different formulations, temperatures, and storage durations demonstrates that stability depends strongly on the individual phage and storage conditions. These findings expand the limited evidence on phage stability in clinically applicable formulations and reinforce the rationale for individual phage stability testing during product development to ensure the delivery of an active and consistent therapeutic dose.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.02486-26",
+    "date": "2026-11-04",
+    "authors": "Boross C, Guggiari T, Zurbruegg SM, Que Y-A, Gerber JL.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42980148",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42980148",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Pseudomonas",
+        "bacteriophage",
+        "bacteriophages",
+        "phage",
+        "phages"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5221,
+    "collected_at": "2026-11-20T11:50:28.841726+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1128/spectrum.02486-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e87d99e664eaf4ba39ee0c871ebef1cc1bd4d8bc84a9957b58514c8a6f729c42",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T12:38:58.952423+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "70076d36a844a7e2a3e60fd125bc9a9aa19bc981ac20ee3cc7ec773cc4f55d65",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T12:38:58.952423+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "臨床承認済みの晶質輸液における治療用バクテリオファージの安定性",
+    "abstract_ja": "薬剤耐性の増大は、従来の抗菌薬に代わる有効な代替手段の必要性を浮き彫りにしており、バクテリオファージ療法は有望なアプローチである。しかし、保存および投与時の製剤安定性が不十分であれば、投与量が減少し、臨床的有効性の評価に影響を及ぼす可能性がある。臨床承認済みの晶質輸液は、ファージの調製および投与を容易にし得るが、ファージの保存における適性については十分に解明されていない。Pseudomonas aeruginosaまたはStaphylococcus aureusを標的とする4種類の強毒バクテリオファージの安定性を、塩化ナトリウム0.45%、塩化ナトリウム0.9%、リンゲル乳酸液、リンゲル酢酸液、および生理食塩水マグネシウム（SM）緩衝液を用いて評価した。1 mLあたり10⁹プラーク形成単位を含むファージ調製物を、10%グリセロールの有無にかかわらず、4°C、-20°C、または-80°Cで最大6か月間保存した。ファージの感染性は、ファージ、溶液、および保存温度に強く依存した。緩衝液は一般に生理食塩水よりも感染性をよく保持し、特に凍結条件下でその傾向が顕著であった。グリセロールは凍結時の安定性を向上させたが、その効果の大きさはファージによって異なり、生理食塩水溶液において最も顕著であった。グリセロールを用いた-80°Cでの保存は、4種類すべてのファージにおいて最も一貫した保存性を示し、力価はベースラインに近い値を維持した。リンゲル溶液は、グリセロールを用いなくても-80°Cで高い安定性を維持した。対照的に、4°Cでの保存では、いくつかのファージにおいてばらつきが大きくなり、安定性が低下した。これらの知見は、臨床承認済みの晶質溶液がファージの保存および投与の両方の担体となり得ることを示しており、ファージ特異的な安定性試験の必要性を示唆している。重要性：信頼性の高いバクテリオファージ療法には、保存および臨床投与時にファージ活性を保持する製剤が必要である。しかし、ファージの製剤化および保存に関する標準化された手法は依然として不足しており、多くの臨床応用では、エビデンスに基づく薬学的原則ではなく、経験的な慣行に依拠している。本研究は、静脈内投与に日常的に用いられる晶質溶液における、Staphylococcus aureusおよびPseudomonas aeruginosaを標的とする治療上重要なファージの安定性を検討することで、重要なトランスレーショナル・バリアに対処するものである。異なる製剤、温度、および保存期間における異なるファージを比較した結果、安定性は個々のファージおよび保存条件に強く依存することが示された。これらの知見は、臨床応用可能な製剤におけるファージ安定性に関する限られたエビデンスを拡充するものであり、有効かつ一貫した治療用量の投与を確保するための、製品開発段階における個々のファージの安定性試験の妥当性を裏付けるものである。"
+  },
+  {
+    "id": "10.1093/nar/gkag1129",
+    "title": "LACA: a cross-species single-cell resource for exploring longevity and aging-associated cellular and molecular programs",
+    "abstract": "AbstractDifferent species can have various maximum lifespans, some with exceptional longevity, yet the underlying cellular and molecular mechanisms remain poorly understood. Despite rapid advances in single-cell transcriptomics, resources that systematically connect single-cell gene expression profiles to species lifespan are limited. We hereby present the Longevity & Aging Cell Atlas (LACA), a database that integrates single-cell transcriptomic datasets across 134 species with their maximum lifespans. LACA includes over 148 million cells with 190 annotated cell types from single-cell datasets. LACA also has a cross-species analytical toolbox of longevity gene comparison, gene–lifespan correlation, and cell–lifespan correlation. These tools allow researchers to better interpret both evolutionarily conserved longevity mechanisms and the evolution of species-specific adaptations in longevity mechanisms without extensive computational expertise. LACA also provides a centenarian single-cell atlas and a human immune aging multi-omics atlas, demonstrating the analytical capability of the resource, as well as 11 different modules for longevity-related analysis, an integrated knowledge graph including curated longevity knowledge bases, and a retrieval-augmented research agent to further facilitate functional interpretation. The database is freely available at https://www.longevityaging.net/ or http://8.142.154.29/LACA/.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1129",
+    "date": "2026-11-20",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1129/9103987?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "transcript"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5350,
+    "collected_at": "2026-11-20T12:01:03.805438+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1093/nar/gkag1129"
+    ],
+    "translation": {
+      "title": {
+        "hash": "622cb8aec4661ca3aecdf2f7ba9574e978165f9ee7d3cc6775aa75d60fb1dba1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T12:38:58.952423+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d7206c4508bd633756ef10c78650785489eceab2db094107157ce044b14e29ee",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T12:38:58.952423+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "LACA：長寿および老化関連の細胞・分子プログラムを探索するための種横断的な単一細胞リソース",
+    "abstract_ja": "要旨 種によって最大寿命は異なり、中には極めて長寿な種も存在するが、その根底にある細胞・分子メカニズムは依然として十分に解明されていない。シングルセルトランスクリプトミクスの急速な進展にもかかわらず、シングルセル遺伝子発現プロファイルを種の寿命に系統的に結びつけるリソースは限られている。本稿では、134種にわたるシングルセルトランスクリプトームデータセットとその最大寿命を統合したデータベース「Longevity & Aging Cell Atlas (LACA)」を提案する。LACAには、シングルセルデータセットから得られた190種類のアノテーション付き細胞タイプを含む、1億4,800万個以上の細胞が収録されている。また、LACAは、長寿遺伝子の比較、遺伝子と寿命の相関、および細胞と寿命の相関を行う種横断的な解析ツールボックスを備えている。これらのツールにより、研究者は高度な計算専門知識を必要とせずに、進化的に保存された長寿メカニズムと、長寿メカニズムにおける種特異的な適応の進化の両方をより適切に解釈することが可能となる。さらに、LACAは百寿者のシングルセルアトラスおよびヒト免疫老化マルチオミクスアトラスを提供しており、本リソースの解析能力を実証するとともに、長寿関連解析のための11種類のモジュール、キュレートされた長寿ナレッジベースを含む統合ナレッジグラフ、および機能的な解釈をさらに促進する検索拡張型リサーチエージェントを備えている。本データベースは、https://www.longevityaging.net/ または http://8.142.154.29/LACA/ にて無料で利用可能である。"
   }
 ]
