@@ -309833,5 +309833,306 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "<i>in vitro</i>モデルにおける、早期投与、広域スペクトル、および最終手段のβ-ラクタム系薬剤が糞便由来マイクロバイオームおよびレジストームに及ぼす異なる影響。",
     "abstract_ja": "薬剤耐性（AMR）の環境中への拡散を把握することは、その拡大を抑制し、耐性感染症による臨床的負担を軽減する上で極めて重要である。先行研究において、我々は、腸内細菌の増殖を促進する培地を用いたコピオトロフィック濃縮法により、直接的な環境サンプリングでは検出されない、臨床的に関連のある細菌集団および抗生物質耐性遺伝子（ARG）を同定できることを示した。本研究では、この濃縮法を家禽糞便に適用し、β-ラクタマーゼ耐性抗生物質（セフォタキシムおよびメロペネム）が、従来のβ-ラクタム系抗生物質（アンピシリン）および抗生物質非投与対照群と比較して、コピオトロフィックな腸様微生物群集の組成および耐性プロファイルをどのように形成するかを検討した。その結果、広域スペクトルβ-ラクタム系および最終手段のβ-ラクタム系抗生物質は、アンピシリンと比較して、微生物多様性、レジストーム、およびモジュロームのプロファイルにより顕著な変化を誘発することが示された。臨床的に重要な腸内細菌や、感受性およびβ-ラクタム耐性の両方の大腸菌群などの特定の分類群に着目したところ、抗菌薬の作用範囲と相関する異なる応答が観察された。さらに、セフォタキシムとメロペネムは、腸内細菌および複数のARGを保持するプラスミドの相対存在量に対して異なる影響を及ぼした。これらの知見を総合すると、腸内マイクロバイオームにおける病原体およびAMR指標の多様性が、β-ラクタマーゼ耐性抗生物質によって課される異なる選択圧によってどのように形成され得るかが浮き彫りになる。重要性 本研究では、腸様in vitro系において、異なる世代のβ-ラクタム系抗生物質が微生物群集および抗生物質耐性をどのように形成するかを探究した。糞便由来の代謝駆動型合成群集を用いた結果、セフォタキシムやメロペネムなどの次世代β-ラクタム系抗生物質は、アンピシリンと比較して、群集組成および耐性遺伝子プロファイルの双方において、より強力かつ特異的な変化をもたらすことが明らかになった。これらの結果は、抗生物質の生態学的影響が、細菌が阻害されるか否かだけでなく、各化合物の作用スペクトルにも依存することを強調している。加えて、我々が用いた系は、抗生物質、微生物群集、およびレジストーム間の相互作用を研究するための簡便かつ制御可能な手法を提供する。総じて、本研究は、臨床的に重要な抗生物質がマイクロバイオームおよび抗生物質耐性遺伝子の拡散にどのような影響を及ぼし得るかについて、より明確な生態学的視点を提供するものである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1992959",
+    "title": "Comparative genomics of Mycobacterium wolinskyi: phylogenomic relationships, pan-genome structure, and clinically relevant genomic features",
+    "abstract": "IntroductionRapidly growing nontuberculous mycobacteria can cause post-procedural skin and soft-tissue infections, yet rare species such as Mycobacterium wolinskyi remain challenging in culture-based identification and poorly characterized at the genomic level.MethodsIn this study, we reported a clinical M. wolinskyi isolate (SYF4192) recovered from a post-liposuction infection using culture, probe-capture metagenomic next-generation sequencing, and antimicrobial susceptibility testing (AST). We further performed comparative genomic analyses, including genome-based species delineation, phylogenomics, pan-genome analysis, mobile genetic element characterization, virulence-associated gene profiling, and resistome analysis.ResultsBased on the AST results, the patient was treated with susceptible antimicrobial agents and obtained a favorable outcome. The 7,257,454 bp genome assembly of SYF4192 comprised a 7,102,780 bp circular chromosome and a putative 154,674 bp circular extrachromosomal replicon. Comparative genomic analyses revealed close genetic relatedness between SYF4192 and publicly available M. wolinskyi genomes, although ANI and dDDH estimates showed discrepancies in species delineation. The seven-genome dataset contained 9,881 gene clusters, including 5,654 core and 4,227 accessory clusters, and was consistent with an open pan-genome in this limited dataset. SYF4192 harbored 608 gene clusters not detected in the other six genome assemblies, representing the largest isolate-specific gene repertoire in the dataset. Additionally, a predicted 51.9 kb prophage-like region and putative homologs of mce2A–E, mce8-associated genes, and ESX-5 components were identified. Resistome analysis revealed multiple putative resistance-associated determinants, while phenotypic susceptibility testing demonstrated clarithromycin resistance and an elevated tobramycin MIC, highlighting the importance of integrating genomic predictions with phenotypic susceptibility data.DiscussionThis study expands the limited genomic resources available for M. wolinskyi and provides preliminary insights into its genomic diversity, mobile genetic elements, and resistance-associated features. Further investigations involving larger, geographically and clinically diverse isolate collections, together with functional validation, are warranted.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1992959",
+    "date": "2026-11-20",
+    "authors": "Daoyang Zhou",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1992959",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assemblies",
+          "assembly",
+          "genom",
+          "genome",
+          "genomic",
+          "metagenom",
+          "metagenomic",
+          "phylogen",
+          "phylogenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5360,
+    "collected_at": "2026-11-20T12:01:03.805438+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.3389/fmicb.2026.1992959"
+    ],
+    "translation": {
+      "title": {
+        "hash": "bc4f87573044246a3784c35b4b1a403eb5bd1bafcf613f200035f73bf0a1b5fb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T12:32:43.025554+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "cbded7c057a1e4c169b706c751f75995bf9c44b7060e6309e4c8efda7b376c60",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T12:32:43.025554+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Mycobacterium wolinskyiの比較ゲノミクス：系統ゲノム学的関係、汎ゲノム構造、および臨床的に意義のあるゲノム特徴",
+    "abstract_ja": "はじめに急速に増殖する非結核性抗酸菌は、処置後の皮膚および軟部組織感染症を引き起こす可能性があるが、Mycobacterium wolinskyiのような希少種は、培養に基づく同定が困難であり、ゲノムレベルでの特性解析も不十分である。方法本研究では、脂肪吸引後の感染症から回収された臨床分離株M. wolinskyi（SYF4192）について、培養、プローブキャプチャ型メタゲノム次世代シーケンシング、および薬剤感受性試験（AST）を用いて報告した。さらに、ゲノムに基づく種の画定、系統ゲノミクス、パンゲノム解析、可動性遺伝因子の特性解析、病原性関連遺伝子プロファイリング、およびレジストーム解析を含む比較ゲノム解析を実施した。結果ASTの結果に基づき、患者には感受性のある抗菌薬が投与され、良好な転帰が得られた。SYF4192の7,257,454 bpのゲノムアセンブリは、7,102,780 bpの環状染色体と、推定154,674 bpの環状染色体外レプリコンから構成されていた。比較ゲノム解析により、SYF4192と公開されているM. wolinskyiゲノムとの間に密接な遺伝的関連性が認められたが、ANIおよびdDDHの推定値では種の画定に不一致が見られた。7つのゲノムからなるデータセットには、5,654個のコアクラスターと4,227個の補助クラスターを含む9,881個の遺伝子クラスターが含まれており、この限定的なデータセットにおけるオープンなパンゲノムと一致していた。SYF4192は、他の6つのゲノムアセンブリでは検出されなかった608個の遺伝子クラスターを保持しており、これは本データセットにおける分離株固有の遺伝子レパートリーとして最大規模であった。さらに、予測された51.9 kbのプロファージ様領域、およびmce2A–E、mce8関連遺伝子、ESX-5構成因子の推定ホモログが同定された。レジストーム解析により複数の推定耐性関連決定因子が明らかになり、表現型感受性試験ではクラリスロマイシン耐性とトブラマイシンMICの上昇が認められ、ゲノム予測と表現型感受性データの統合の重要性が浮き彫りとなった。考察本研究は、M. wolinskyiに関して利用可能な限られたゲノムリソースを拡充し、そのゲノム多様性、可動性遺伝因子、および耐性関連特徴に関する予備的な知見を提供するものである。地理的・臨床的に多様な、より大規模な分離株コレクションを用いたさらなる調査と、機能的検証が必要である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.00207-26",
+    "title": "Drug resistance and molecular epidemiology of pediatric <i>Mycoplasma pneumoniae</i> isolates in Southern China.",
+    "abstract": "To investigate antimicrobial susceptibility and molecular typing of recent pediatric Mycoplasma pneumoniae strains, analyze the correlations between drug resistance, pneumonia severity, and strain types, and provide evidence for precise M. pneumoniae infection management. Standard M. pneumoniae isolation and culture were applied to bronchoalveolar lavage fluid from 325 M. pneumoniae-infected children, with 23S rRNA resistance mutation detection. Antimicrobial susceptibility testing (eight antibiotics, microbroth dilution) was performed on 154 culture-positive strains, alongside multiple locus variable-number tandem repeat analysis (MLVA), whole-genome sequencing, and single-nucleotide polymorphism (SNP) genotyping. M. pneumoniae showed high macrolide resistance (99.35% for erythromycin and azithromycin), but high susceptibility to moxifloxacin/levofloxacin, with minocycline/doxycycline sensitivity at 98.71%. The 23S rRNA mutations occurred in 97.4% (150/154). MLVA type 4-5-7-2 dominated (135/154), with minor types totaling 15 cases. SNP typing clustered strains into four groups, mostly EC1 (138/154), with four genes showing cross-cluster mutations. Southern Chinese M. pneumoniae strains exhibit high macrolide resistance but good minocycline/doxycycline susceptibility, with EC1-cluster dominance driving rapid spread. This supports individualized therapy and epidemic trend tracking for pediatric M. pneumoniae lung infections.ImportanceThis study sheds light on why many children with Mycoplasma pneumoniae pneumonia do not respond well to common macrolide antibiotics-over 99% of strains in Southern China are resistant. It identifies effective alternative drugs and pinpoints the dominant spreading strain, helping doctors choose precise treatments. For public health, it provides key data to track outbreaks, guiding targeted surveillance and better management of pediatric respiratory infections post-COVID-19.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.00207-26",
+    "date": "2026-11-05",
+    "authors": "Wang H, Li C, Li P, Tan K, Deng G, Chen Y, Zhou L, Ren Z, Zhang Y, Zhang W, Chen J, Deng J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42986009",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42986009",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5219,
+    "collected_at": "2026-11-20T11:50:28.841726+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1128/spectrum.00207-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4ce787d32d039f58b2a7da7b49ec56386b7ecf98feee128fa9e99c99b99facf0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T12:32:43.025554+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e319b48627eafd2e0e7115b6c0679d0f8ac6ca45ff40f27c4155e0052cbe129b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T12:32:43.025554+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "中国南部における小児用<i>Mycoplasma pneumoniae</i>分離株の薬剤耐性と分子疫学",
+    "abstract_ja": "近年の小児マイコプラズマ肺炎（M. pneumoniae）株の薬剤感受性および分子型解析を行い、薬剤耐性、肺炎の重症度、および菌株型間の相関関係を分析することで、M. pneumoniae感染の精密な管理に向けたエビデンスを提示する。M. pneumoniae感染児325例の気管支肺胞洗浄液に対し、標準的なM. pneumoniaeの分離・培養を行い、23S rRNA耐性変異の検出を実施した。培養陽性株154株を対象に、薬剤感受性試験（8種類の抗菌薬、マイクロブロス希釈法）を行うとともに、多遺伝子座可変数タンデムリピート解析（MLVA）、全ゲノムシーケンシング、および一塩基多型（SNP）ジェノタイピングを実施した。M. pneumoniaeは高いマクロライド系薬剤耐性（エリスロマイシンおよびアジスロマイシンで99.35%）を示したが、モキシフロキサシン／レボフロキサシンへの高い感受性を示し、ミノサイクリン／ドキシサイクリンへの感受性は98.71%であった。23S rRNA変異は97.4%（150/154例）に認められた。MLVAタイプ4-5-7-2が優位であり（135/154例）、マイナータイプは計15例であった。SNPタイピングにより菌株は4つのグループに分類され、その大部分がEC1（138/154例）であり、4つの遺伝子でクロスクラスター変異が認められた。中国南部のM. pneumoniae株は、高いマクロライド系薬剤耐性を示す一方でミノサイクリン／ドキシサイクリンへの良好な感受性を示しており、EC1クラスターの優位が急速な感染拡大を牽引している。このことは、小児M. pneumoniae肺感染症における個別化治療および流行動向の追跡を裏付けるものである。意義本研究は、マイコプラズマ肺炎の多くの小児患者が一般的なマクロライド系抗菌薬に十分な反応を示さない理由を明らかにした――中国南部の菌株の99%以上が耐性を示している。本研究は有効な代替薬を特定し、主要な拡散株を突き止めることで、医師が精密な治療法を選択する一助となる。公衆衛生の観点からは、アウトブレイクを追跡するための重要なデータを提供し、標的を絞ったサーベイランスおよびCOVID-19後の小児呼吸器感染症のより適切な管理を導くものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/msphere.00233-26",
+    "title": "Extracellular vesicles released by <i>Candida albicans</i> yeast cells impact candidiasis lethality in insect and murine models.",
+    "abstract": "Extracellular vesicles (EVs) are nano-sized lipid bilayer structures released by diverse cell types. For pathogenic fungi, EVs play critical roles by modulating immune responses and influencing disease progression. Previously, we demonstrated that vaccination with EVs from Candida albicans promoted protection in immunosuppressed mice subsequently infected with lethal doses of this organism. However, the impact of EVs in the presence of fungi is poorly investigated in vivo. Here, we demonstrated that co-injection of C. albicans yeasts and their EVs into Galleria mellonella larvae led to a rapid larval death compared to yeast cells alone. This effect seems to be associated with thermosensitive compounds, such as secreted aspartic proteases (Saps), virulence factors carried by C. albicans EVs. EVs from SAP knockout (KO) strains (sap1/2/3Δ and sap9Δ) impaired this harmful effect, confirming the crucial role of Saps. Deletion of SAP1-3 prevented the EV-associated decrease in hemocyte density, whereas SAP9 deletion impaired the increase in oxidative response and melanin production. In a murine model of disseminated candidiasis with intraperitoneal infection, the deleterious effect of C. albicans EVs was observed only when co-injected intraperitoneally with yeasts, but not when EVs were administered intramuscularly. Therefore, both fungal cells and EVs are required for the pathogenic effects. Our findings confirm the aggressive role of fungal EVs in the presence of C. albicans and reinforce their contribution to candidiasis, elucidating EV-pathogen interactions. Although these results do not preclude the use of C. albicans EVs in vaccine formulations, they emphasize the need to consider delivery route and presence of virulence factors.IMPORTANCEFungal infections caused by Candida albicans represent a significant threat, particularly to immunocompromised individuals. Extracellular vesicles (EVs) from fungi have been explored as promising vaccine formulations, with demonstrated protective effects. However, previous studies have also suggested that EVs may contribute to disease progression. Here, we demonstrate that EVs enhance fungal pathogenicity in vivo and identify key factors driving this effect. We show that EV-associated aspartyl proteases (secreted aspartic proteases [Saps]), along with other virulence components, directly contribute to accelerated host mortality when EVs are present alongside fungal cells, and that this outcome depends on both their composition and route of delivery. By demonstrating the involvement of EV-associated Saps in disease progression, this work advances our understanding of host-pathogen interactions and reveals critical considerations for the safe development of EV-based therapeutic and vaccine strategies.",
+    "journal": "mSphere",
+    "doi": "10.1128/msphere.00233-26",
+    "date": "2026-10-20",
+    "authors": "Piffer AC, Valdez AF, Bonilla JJA, da Silva NM, Sabino ALRdN, Kornetz J, Giovanini L, Santos ALS, Ramos LS, Rodrigues ML, Hube B, Nimrichter L.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42899683",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42899683",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Candida",
+        "fungal",
+        "fungi",
+        "yeast",
+        "yeasts"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5204,
+    "collected_at": "2026-11-20T11:50:28.841726+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1128/msphere.00233-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "91ad9ca8a642f4f0cf12567c66073e49dcebc909338ecacf6d519c73851b8f34",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T12:32:43.025554+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "37e31d1be7ac39bb45ceeda1e80d8e666670ebe8af943757449884cae29a080c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T12:32:43.025554+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "<i>Candida albicans</i>酵母細胞から放出される細胞外小胞は、昆虫およびマウスモデルにおけるカンジダ症の致死率に影響を及ぼす。",
+    "abstract_ja": "細胞外小胞（EV）は、多様な細胞種から放出されるナノサイズの脂質二重層構造である。病原性真菌において、EVは免疫応答を調節し、疾患の進行に影響を与えることで重要な役割を果たす。我々は以前、Candida albicans由来のEVを接種することで、その後致死量の同菌に感染させた免疫抑制マウスにおいて保護効果が促進されることを実証した。しかし、真菌存在下におけるEVの影響については、in vivoでの検討がほとんど行われていない。本研究では、Galleria mellonella幼虫にC. albicans酵母およびそのEVを共注入したところ、酵母細胞単独の場合と比較して幼虫が速やかに死亡することを実証した。この効果は、C. albicans EVが運ぶ病原因子である分泌型アスパラギン酸プロテアーゼ（Saps）などの温度感受性化合物に関連していると考えられる。SAPノックアウト（KO）株（sap1/2/3Δおよびsap9Δ）由来のEVはこの有害な影響を抑制し、Sapsの極めて重要な役割が確認された。SAP1-3の欠損はEVに伴う血球密度の低下を阻止したが、SAP9の欠損は酸化応答およびメラニン産生の増加を阻害した。腹腔内感染を伴う播種性カンジダ症のマウスモデルにおいて、C. albicans EVの有害な影響は、酵母と共に腹腔内注入した場合にのみ観察され、EVを筋肉内投与した場合には認められなかった。したがって、病原性効果には真菌細胞とEVの両方が必要である。我々の知見は、C. albicans存在下における真菌EVの攻撃的な役割を裏付けるとともに、カンジダ症への寄与を補強し、EVと病原体の相互作用を解明するものである。これらの結果は、ワクチン製剤におけるC. albicans EVの使用を排除するものではないが、送達経路および病原因子の有無を考慮する必要性を強調するものである。重要性Candida albicansによる真菌感染症は、特に免疫不全状態にある人々にとって重大な脅威となる。真菌由来の細胞外小胞（EV）は、保護効果が実証されており、有望なワクチン製剤として検討されてきた。しかし、先行研究ではEVが疾患の進行に寄与する可能性も示唆されている。本研究では、EVがin vivoで真菌の病原性を増強することを実証し、この効果を駆動する主要因子を同定した。我々は、EVが真菌細胞と共に存在する場合、EV関連のアスパラチルプロテアーゼ（分泌型アスパラギン酸プロテアーゼ［Saps］）が他の病原成分と共に宿主の死亡促進に直接寄与すること、また、この結果はそれらの組成と送達経路の両方に依存することを示した。EV関連のSapsが疾患の進行に関与することを実証したことで、本研究は宿主と病原体の相互作用に関する理解を深めるとともに、EVベースの治療およびワクチン戦略を安全に開発するための重要な検討事項を明らかにした。"
+  },
+  {
+    "id": "10.1038/s41564-026-02529-7",
+    "title": "Inside the gut microbiome of manatees",
+    "abstract": "An ultra-deep metagenomic atlas of the gut microbiome of manatees sheds light on the broad and previously unexplored microbial and viral diversity underlying aquatic herbivory. We identified specialized molecular strategies for aquatic plant biomass deconstruction and discovered a metabolic pathway that expands the current functional landscape of gut carbohydrate metabolism.",
+    "journal": "Nature Microbiology",
+    "doi": "10.1038/s41564-026-02529-7",
+    "date": "2026-11-20",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://www.nature.com/articles/s41564-026-02529-7",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomic",
+        "microbial",
+        "microbiome",
+        "viral"
+      ],
+      "context": {
+        "marine": [
+          "aquatic"
+        ],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.nature.com/nmicrobiol.rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5361,
+    "collected_at": "2026-11-20T12:01:03.805438+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "https://www.nature.com/nmicrobiol.rss"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1038/s41564-026-02529-7"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ccdc1f7cc19d3e0230ed1bfa3be7bd8a381d1814e8189e9ce2e0dd7a6c6f48eb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T12:32:43.025554+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0231d25c2d18eaec410cefb0b7513ae51625e5d31fe678a54b901d323186d8ff",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T12:32:43.025554+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "マナティーの腸内微生物叢の内部",
+    "abstract_ja": "マナティーの腸内微生物叢に関する超深層メタゲノムアトラスは、水生植物食害の基盤となる、広範かつこれまで未解明であった微生物およびウイルスの多様性を明らかにする。我々は、水生植物バイオマスの分解における特化した分子戦略を同定するとともに、腸内糖質代謝の現在の機能的様相を拡張する代謝経路を発見した。"
   }
 ]
