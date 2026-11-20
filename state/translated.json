@@ -309249,5 +309249,299 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "Korea10Kは、10,239件の全ゲノム配列をマルチオミクスおよび臨床健康情報と統合した韓国のリファレンスデータセットである。",
     "abstract_ja": "背景\n                     大規模なゲノムプロジェクトにより、ヒトの遺伝的多様性の特性解析が進展してきた。しかし、韓国人集団を代表する深度の高いシーケンシング済みマルチオミクスリソースが不足していたため、集団特異的な変異およびその機能的・トランスレーショナルな影響に関する系統的な評価が限定的であった。\n                  \n                     結果\n                     本研究では、分子データと表現型データを統合した10,239件の高深度全ゲノム（平均カバレッジ 30 ×）からなる集団規模のマルチオミクスリソース「Korea10K」を提案する。血縁関係のない9,000個体の解析により、超希少変異（アレル数 > 2かつアレル頻度 ≤ 0.0005）のほぼ完全な同定が可能となり、高解像度かつ集団特異的なインピュテーションパネルの構築が支援される。韓国人は、長期的な人口統計学的連続性と整合する、顕著な常染色体遺伝的均質性に加え、狭いY染色体およびHLA-Aアレルスペクトラム、ならびに比較的深いミトコンドリア系統多様性を示す。さらに、CpGジヌクレオチドコンテキストを変化させる1,640万個の変異を同定し、ゲノムCGランドスケープにおける広範な配列駆動型の調節を明らかにした。特筆すべきは、CG除去変異がメチル化シグナルの消失を引き起こし、広く用いられているメチル化アレイにおけるCpGプローブ標的を撹乱することで、エピゲノムワイド関連解析およびエピジェネティック時計の推定に系統的なバイアス要因をもたらす点である。\n                  \n                     結論\n                     Korea10Kは、韓国人集団における高解像度のゲノムおよびマルチオミクスリファレンスを確立し、遺伝的変異とエピゲノム測定との間にこれまで認識されていなかった相互作用を明らかにした。本リソースは精密医療の基盤となるとともに、分子データの祖先情報を考慮した解釈の必要性を浮き彫りにしている。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1970174",
+    "title": "Shifts in the rhizosphere microbiome structure of Festuca sinensis across different regions",
+    "abstract": "IntroductionFestuca sinensis is a native grass species of the Qinghai-Tibet Plateau that plays a crucial role in the development of alpine grasslands. The diversity and community composition of F. sinensis root microbiota remain unclear.MethodsWe characterized the differences in diversity, community structure, and phenotype prediction of the rhizosphere microbiome (bacteria and fungi) associated with Festuca sinensis across 14 distinct regions using high-throughput sequencing techniques. Additionally, we analyzed the relationships among soil properties, microbial characteristics, and community assembly processes.ResultsResults demonstrated that rhizosphere soil nutrients, enzyme activities, Chao1 and Shannon indices, and the phenotype prediction of bacterial and fungal communities showed significant differences in the rhizosphere of F. sinensis across regions. The dominant bacterial phyla, ranked by relative abundance, were Proteobacteria, Bacteroidota, and Acidobacteriota, while the dominant fungal phyla were Ascomycota, Basidiomycota, and Mortierellomycota, the relative abundances of some genera varied across sites. Some enzyme activities had significant relationships with fungal diversity and community composition. Soil enzyme activity explained the largest proportion of variation, while spatial effects accounted for the smaller proportion. The microbial community assembly processes differed across regions. Homogenizing dispersal predominantly shaped bacterial community assembly, whereas drift accounted for a larger proportion of fungal community assembly in most regions.DiscussionSoil enzyme collectively influenced the rhizosphere microbial community. These findings enhance our understanding of plant-microbe interactions at the root-soil interface (i.e., rhizosphere) and can aid research on the spatial distribution characteristics of F. sinensis.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1970174",
+    "date": "2026-11-20",
+    "authors": "Yuling Liu",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1970174",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "fungal",
+        "fungi",
+        "microbe",
+        "microbial",
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5358,
+    "collected_at": "2026-11-20T12:01:03.805438+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.3389/fmicb.2026.1970174"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5b49045761cd6079a71ea1286726d24baa2d6e1da7ae7963172671d544e3a133",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T12:25:46.417659+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9e979232b976f3f30110870e1fe082320010fb5c75629835740b75ad0deeef84",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T12:25:46.417659+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "地域によるFestuca sinensisの根圏微生物叢構造の変動",
+    "abstract_ja": "はじめにFestuca sinensisは青蔵高原の在来イネ科植物であり、高山草原の発達において極めて重要な役割を果たしている。F. sinensisの根微生物叢の多様性と群集組成については、依然として明らかになっていない。方法ハイスループットシーケンシング技術を用いて、14の異なる地域におけるFestuca sinensisに関連する根圏微生物叢（細菌および真菌）の多様性、群集構造、および表現型予測の差異を特性評価した。さらに、土壌特性、微生物特性、および群集形成プロセス間の関連性を解析した。結果根圏土壌の養分、酵素活性、Chao1およびShannon指数、ならびに細菌および真菌群集の表現型予測において、F. sinensisの根圏で地域間の有意な差異が認められた。相対存在量順に並べた主要な細菌門はProteobacteria、Bacteroidota、およびAcidobacteriotaであり、主要な真菌門はAscomycota、Basidiomycota、およびMortierellomycotaであった。一部の属の相対存在量は地点によって異なっていた。一部の酵素活性は、真菌の多様性および群集組成と有意な関連を示した。土壌酵素活性が変動の最大の割合を説明し、空間的影響がそれより小さな割合を占めた。微生物群集形成プロセスは地域間で異なっていた。細菌群集形成は主に均質化分散によって形成されたのに対し、ほとんどの地域において真菌群集形成ではドリフトが大きな割合を占めていた。考察土壌酵素は総じて根圏微生物群集に影響を及ぼしていた。これらの知見は、根・土壌界面（すなわち根圏）における植物と微生物の相互作用に関する理解を深めるものであり、F. sinensisの空間分布特性に関する研究に寄与し得る。"
+  },
+  {
+    "id": "10.1007/s00248-026-02896-y",
+    "title": "Effect of plasmid-dependent phages on the plasmid load of bacterial communities from domestic and hospital wastewater",
+    "abstract": "Conjugative plasmids are major drivers of horizontal gene transfer and antibiotic resistance (AMR) dissemination in wastewater. Plasmid-dependent phages (PDPs) infect bacteria carrying conjugative plasmids by targeting plasmid-encoded mating structures, offering a potential strategy to limit plasmid persistence. Here, we evaluated the impact of three PDPs (PRD1, Lu221, and Hgal1) on domestic and hospital wastewater microbiomes using serial cultivation and metagenomic sequencing at 24 h and 48 h. In the absence of phages, communities converged toward Enterobacterales-dominated assemblages, with reduced diversity and enrichment of ESBL-producing bacteria and AMR-carrying conjugative plasmids. Phage addition resulted in sustained infectious phage titers for the cocktail and resident-phage treatments, whereas PRD1 titers declined over time. Despite active infection, PDPs had minimal effects on total bacterial abundance, taxonomic composition, or phenotypic resistance. However, metagenomic analyses revealed source- and treatment-specific shifts in conjugative plasmid types, particularly within MPF_F and MPF_T systems. PRD1 induced transient increases in conjugative plasmids, while resident phages promoted enrichment of MPF_F in the hospital community. These effects were restricted to plasmid-level dynamics and did not scale to detectable community-level changes. Overall, PDPs exert selective pressure on plasmid populations but remain decoupled from broader community outcomes under high-turnover conditions.",
+    "journal": "Microbial Ecology",
+    "doi": "10.1007/s00248-026-02896-y",
+    "date": "2026-11-20",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://link.springer.com/article/10.1007/s00248-026-02896-y",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "metagenom",
+        "metagenomic",
+        "microbiome",
+        "microbiomes",
+        "phage",
+        "phages"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=248",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5372,
+    "collected_at": "2026-11-20T12:01:03.805438+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=248"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1007/s00248-026-02896-y"
+    ],
+    "translation": {
+      "title": {
+        "hash": "137786c500b45f5b08026842593d1d356e053ac2e5471071bb217a96f491cff2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T12:25:46.417659+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8fac14db7e04b453588e02b0f1882f7954ef28ac0e4dea616fee011f25cc2666",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T12:25:46.417659+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "生活排水および病院排水由来の細菌群集におけるプラスミド依存性ファージがプラスミド量に及ぼす影響",
+    "abstract_ja": "接合性プラスミドは、廃水中における水平遺伝子伝達および薬剤耐性（AMR）拡散の主要な要因である。プラスミド依存性ファージ（PDP）は、プラスミドがコードする接合構造を標的として接合性プラスミドを保持する細菌に感染し、プラスミドの持続性を制限するための潜在的な戦略となり得る。本研究では、連続培養および24時間・48時間のメタゲノムシーケンシングを用いて、3種類のPDP（PRD1、Lu221、Hgal1）が家庭および病院の廃水マイクロバイオームに及ぼす影響を評価した。ファージ不在下では、細菌群集はEnterobacterales門が優占するアセンブラージュへと収束し、多様性が低下するとともに、ESBL産生菌およびAMR保有接合性プラスミドが濃縮された。ファージの添加により、カクテル処理および常駐ファージ処理では感染性ファージ価が維持された一方、PRD1価は経時的に低下した。活発な感染にもかかわらず、PDPが総細菌量、分類学的組成、または表現型耐性に及ぼす影響は最小限であった。しかし、メタゲノム解析により、特にMPF_FおよびMPF_T系において、接合性プラスミド型の供給源および処理条件に応じたシフトが認められた。PRD1は接合性プラスミドの一過性の増加を誘導し、一方で常駐ファージは病院群集におけるMPF_Fの濃縮を促進した。これらの影響はプラスミドレベルの動態に限定されており、検出可能な群集レベルの変化に至るほどには拡大しなかった。総じて、PDPはプラスミド集団に選択圧を及ぼすが、高ターンオーバー条件下では、より広範な群集の結果とは切り離されたままである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.00723-26",
+    "title": "Comprehensive profiling of genotype-specific dengue antibody responses using a newly developed single-round infectious particle panel.",
+    "abstract": "Neutralizing antibodies provide critical protection against dengue virus (DENV) infections. However, under certain conditions, antibodies can also enhance infection and contribute to severe disease through antibody-dependent enhancement (ADE). ADE can occur through extrinsic mechanisms, in which antibody-opsonized virions engage with Fcγ receptors (FcγRs) on target cells to facilitate increased viral entry, while intrinsic mechanisms have been proposed in which FcγR-mediated uptake triggers intracellular pathways that promote viral replication. The extensive genetic diversity of DENV further complicates the evaluation of antibody functionality, as antibodies may exhibit distinct neutralizing and enhancing activities against different viral genotypes. Here, we developed a single-round infectious particle (SRIP) panel representing 17 DENV genotypes across all four DENV serotypes. This genotype-inclusive platform enables assessment of antibody-mediated neutralization and FcγR-dependent enhancement of infection through luciferase reporter quantification. Using this panel, we evaluated antibody responses from DENV-infected individuals, healthy volunteers, and flavivirus-cross-reactive or DENV-specific monoclonal antibodies. Our findings reveal genotype-specific variations in antibody-mediated neutralization and enhancement, emphasizing the complex interplay between antibody responses and DENV genetic diversity. This SRIP panel provides a robust approach for profiling functional antibodies against genetically diverse DENV strains. While the current platform primarily quantifies extrinsic ADE, its single-round infection format and intracellular replicon-based readout provide a foundation for future investigations of intrinsic ADE mechanisms. Overall, this platform offers broad applications for studying dengue immunity, evaluating vaccine-induced antibody responses, and advancing our understanding of antibody-mediated protection and disease enhancement.ImportanceDengue virus (DENV) comprises four serotypes and substantial genetic diversity, which can influence the ability of antibodies to neutralize or enhance infection. However, comparative assessment of antibody functionality across diverse DENV genotypes remains challenging because differences in viral genetic backgrounds can confound functional measurements. We developed a single-round infectious particle (SRIP) panel representing 17 DENV genotypes in which the prM and E structural proteins are varied on a common replicon backbone. This design provides a standardized platform for directly comparing antibody-mediated neutralization and Fcγ receptor-dependent enhancement across genetically diverse DENV strains. By characterizing antibody responses against a broad range of genotypes, the panel can reveal differences in functional antibody activity that may be overlooked when using a limited number of representative strains. The platform is therefore useful for investigating how DENV genetic diversity influences antibody-mediated protection and extrinsic antibody-dependent enhancement (ADE), as well as for evaluating the breadth of antibody responses induced by infection or vaccination. Although the current platform primarily quantifies extrinsic ADE, its single-round infection format and quantitative intracellular reporter readout provide a foundation for future studies investigating intrinsic ADE in more physiologically relevant immune cell models. This genotype-inclusive panel offers a practical approach for standardized functional profiling of dengue antibodies and may facilitate improved evaluation of vaccine-induced immunity and antibody responses across the genetic diversity of DENV.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.00723-26",
+    "date": "2026-11-09",
+    "authors": "Balingit JC, Suzuki R, Matsuda M, Xayavong D, Takamatsu Y, Buerano C, Ngwe Tun MM, Morita K.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43001792",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43001792",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5206,
+    "collected_at": "2026-11-20T11:50:28.841726+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1128/spectrum.00723-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7c2387eb6f452ffbb3250a0dc21d5ecdd2bfd1e0ac5cda44287d892e6d0e04bf",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T12:25:46.417659+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5f9b2337268e6a6b7aa7b2a40bada15323fbbfdeff9041806b3cef82bb859108",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T12:25:46.417659+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "新規開発の単回感染粒子パネルを用いた遺伝子型特異的なデング抗体応答の網羅的プロファイリング",
+    "abstract_ja": "中和抗体は、デングウイルス（DENV）感染に対して極めて重要な防御能を提供する。しかし、特定の条件下では、抗体が抗体依存性増強（ADE）を通じて感染を増強し、重症化を招くこともある。ADEは、抗体オプソニン化されたビリオンが標的細胞上のFcγ受容体（FcγR）と結合してウイルスの侵入を促進する外因性機序によって起こり得る一方、FcγR介在性の取り込みが細胞内経路を誘発してウイルス複製を促進する内因性機序も提唱されている。DENVの広範な遺伝的多様性は、抗体が異なるウイルス遺伝子型に対して異なる中和活性および増強活性を示す可能性があるため、抗体機能の評価をさらに困難にしている。本研究では、4つのDENV血清型すべてにわたる17種類のDENV遺伝子型を代表するシングルラウンド感染粒子（SRIP）パネルを開発した。この遺伝子型を網羅したプラットフォームにより、ルシフェラーゼレポーターの定量化を通じて、抗体介在性中和およびFcγR依存性の感染増強を評価することが可能となる。このパネルを用いて、DENV感染個体、健常ボランティア、およびフラビウイルス交差反応性またはDENV特異的モノクローナル抗体による抗体応答を評価した。その結果、抗体介在性中和および増強における遺伝子型特異的な差異が明らかになり、抗体応答とDENVの遺伝的多様性との間の複雑な相互作用が強調された。このSRIPパネルは、遺伝的に多様なDENV株に対する機能性抗体をプロファイリングするための堅牢なアプローチを提供する。現在のプラットフォームは主に外因性ADEを定量化するものであるが、そのシングルラウンド感染形式と細胞内レプリコンベースのリードアウトは、内因性ADE機序に関する今後の研究の基盤となる。総じて、本プラットフォームは、デング免疫の研究、ワクチン誘導性抗体応答の評価、および抗体介在性防御と疾患増強に関する理解の深化に幅広く応用可能である。重要性 デングウイルス（DENV）は4つの血清型と相当な遺伝的多様性を有しており、これが抗体の中和能や感染増強能に影響を及ぼし得る。しかし、ウイルスの遺伝的背景の違いが機能測定を混乱させる可能性があるため、多様なDENV遺伝子型にわたる抗体機能の比較評価は依然として困難である。我々は、共通のレプリコン骨格上でprMおよびE構造タンパク質を変化させた、17種類のDENV遺伝子型を代表するシングルラウンド感染粒子（SRIP）パネルを開発した。この設計により、遺伝的に多様なDENV株間で抗体介在性中和およびFcγ受容体依存性増強を直接比較するための標準化されたプラットフォームが提供される。広範な遺伝子型に対する抗体応答を特性評価することで、本パネルは、限られた数の代表株を用いた場合には見落とされがちな機能性抗体活性の差異を明らかにすることができる。したがって、本プラットフォームは、DENVの遺伝的多様性が抗体介在性防御および外因性抗体依存性増強（ADE）にどのように影響するかを調査するとともに、感染またはワクチン接種によって誘導される抗体応答の幅を評価する上で有用である。現在のプラットフォームは主に外因性ADEを定量化するものであるが、そのシングルラウンド感染形式と定量的な細胞内レポーターリードアウトは、より生理学的に関連性の高い免疫細胞モデルにおける内因性ADEを調査する今後の研究の基盤となる。この遺伝子型を網羅したパネルは、デング抗体の標準化された機能プロファイリングのための実用的なアプローチを提供し、DENVの遺伝的多様性にわたるワクチン誘導性免疫および抗体応答の評価向上を促進する可能性がある。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/msphere.00561-26",
+    "title": "SARS-CoV-2 membrane (M) protein activates TLR4 to induce an inflammatory response.",
+    "abstract": "An excessive inflammatory response, also known as \"cytokine storm,\" is a major cause of severe COVID-19. Viral RNA and its structural proteins are key mediators of SARS-CoV-2-induced inflammation. While the immune sensors and host inflammatory responses induced by SARS-CoV-2 RNA and the structural proteins spike (S), envelope (E), and nucleocapsid (N) are well defined, the role of membrane (M) protein in inflammatory/antiviral response and the signaling pathway facilitating M protein-mediated immune response is not well characterized. Here, we show that SARS-CoV-2 M protein induces robust inflammatory cytokine responses in murine and human macrophages and lungs. We also show that the M protein-induced inflammatory response relies on TLR4 signaling and that MyD88 serves as the key adaptor driving inflammation, while TRIF is primarily required for the antiviral IFN response. Detailed evaluation of downstream signaling pathways highlighted the critical roles of mitogen-activated protein kinase (MAPK) molecules JNK and ERK1/2, followed by nuclear factor kappa B (NF-κB) and p38 signaling in the M protein-TLR4-mediated inflammatory response. Finally, we show that abrogation of M protein-induced ERK1/2 and p38 signaling reduced inflammatory cytokine production and rescued type I interferon production in wild-type macrophages, while inhibition of JNK and NF-κB suppressed the M protein-induced inflammatory and antiviral cytokine responses. Collectively, our results demonstrate that SARS-CoV-2 M protein induces pro-inflammatory cytokines and type I interferons via TLR4-MyD88/TRIF activation, with MAPK activation playing a dominant role, and offer specific targeting of MAPK signaling to mitigate SARS-CoV-2-induced excessive inflammation and pathology.ImportanceSevere COVID-19 is often caused by an excessive inflammatory response, but the role of the SARS-CoV-2 membrane (M) protein in this process has not been well understood. We show that the M protein strongly activates inflammatory and antiviral immune responses through TLR4 signaling and identify the key signaling pathways involved. We also demonstrate that selectively targeting MAPK signaling can reduce harmful inflammation while restoring antiviral interferon responses. These findings improve our understanding of how SARS-CoV-2 causes disease and identify potential therapeutic targets to limit excessive inflammation without compromising antiviral immunity.",
+    "journal": "mSphere",
+    "doi": "10.1128/msphere.00561-26",
+    "date": "2026-10-29",
+    "authors": "Johnson PM, Pabbineedi SM, Shrestha R, Whitley CJ, More S, Channappanavar R.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42954473",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42954473",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5199,
+    "collected_at": "2026-11-20T11:50:28.841726+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1128/msphere.00561-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8d5c609f1b7dcd166cdc84f01ef623448e352f005e47d5387faf69808c3ae4ee",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T12:25:46.417659+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4d72abf60886d93b518ed17389bc5e2a69521c0a824e3fed4236c987de489ad9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T12:25:46.417659+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "SARS-CoV-2膜（M）タンパク質はTLR4を活性化して炎症反応を誘導する。",
+    "abstract_ja": "「サイトカインストーム」としても知られる過剰な炎症反応は、重症COVID-19の主要な原因である。ウイルスRNAとその構造タンパク質は、SARS-CoV-2誘発性炎症の重要な媒介因子である。SARS-CoV-2 RNAおよび構造タンパク質であるスパイク（S）、エンベロープ（E）、ヌクレオカプシド（N）によって誘導される免疫センサーと宿主の炎症反応については十分に解明されているが、炎症・抗ウイルス反応における膜（M）タンパク質の役割や、Mタンパク質介在性免疫応答を促進するシグナル伝達経路については十分に解明されていない。本研究では、SARS-CoV-2 Mタンパク質がマウスおよびヒトのマクロファージおよび肺において強力な炎症性サイトカイン応答を誘導することを示す。また、Mタンパク質誘導性の炎症反応がTLR4シグナル伝達に依存していること、およびMyD88が炎症を駆動する主要なアダプターとして機能する一方で、TRIFは主に抗ウイルスIFN応答に必要であることを示す。下流のシグナル伝達経路を詳細に評価した結果、ミトゲン活性化プロテインキナーゼ（MAPK）分子であるJNKおよびERK1/2の重要な役割が浮き彫りになり、次いでMタンパク質-TLR4介在性炎症応答における核因子カッパB（NF-κB）およびp38シグナル伝達が明らかになった。最後に、Mタンパク質誘導性のERK1/2およびp38シグナル伝達を遮断すると、野生型マクロファージにおいて炎症性サイトカインの産生が減少し、I型インターフェロンの産生が回復した一方、JNKおよびNF-κBの阻害はMタンパク質誘導性の炎症性および抗ウイルス性サイトカイン応答を抑制した。総じて、我々の結果は、SARS-CoV-2 Mタンパク質がTLR4-MyD88/TRIF活性化を介して炎症促進性サイトカインおよびI型インターフェロンを誘導し、その中でMAPK活性化が支配的な役割を果たすことを示しており、SARS-CoV-2誘発性の過剰な炎症および病態を軽減するためのMAPKシグナル伝達の特異的標的化を提案するものである。重要性：重症COVID-19はしばしば過剰な炎症反応によって引き起こされるが、この過程におけるSARS-CoV-2膜（M）タンパク質の役割は十分に解明されていない。我々は、Mタンパク質がTLR4シグナル伝達を介して炎症性および抗ウイルス性免疫応答を強力に活性化することを示し、関与する主要なシグナル伝達経路を同定した。また、MAPKシグナル伝達を選択的に標的とすることで、有害な炎症を減少させつつ、抗ウイルスインターフェロン応答を回復させることができることを実証した。これらの知見は、SARS-CoV-2がどのように疾患を引き起こすかについての理解を深めるとともに、抗ウイルス免疫を損なうことなく過剰な炎症を抑制するための潜在的な治療標的を特定するものである。"
   }
 ]
