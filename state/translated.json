@@ -313477,5 +313477,329 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "CPSF6は、RAD52を安定化し、CHK1の活性化を促進することでゲノムの安定性を維持する。",
     "abstract_ja": "RAD52およびCHK1は、転写複製競合（TRC）の解消を含むDNA損傷応答（DDR）において多面的な役割を担う重要な因子である。しかし、それらの機能がどのように調節されているかについては、未だ十分に解明されていない。本研究では、切断およびポリアデニル化特異性因子サブユニット6（CPSF6）が、RAD52の安定性とCHK1の活性化を高める予想外のDDR因子であることを明らかにする。具体的には、CPSF6はRAD52と競合的に相互作用し、これによりRAD52がE3ユビキチンリガーゼUHRF1と相互作用してその後プロテアソーム分解されるのを防ぐ。さらに、CPSF6はATR–CHK1相互作用を増強してCHK1の活性化を促進し、それによって下流のCHK1–PLK1–RAD51経路の活性化を促進する。RAD52の安定化とCHK1活性化におけるCPSF6の二重の機能は、TRC解消における同因子の役割に寄与している。CPSF6の枯渇は、Rループの蓄積と転写関連DNA損傷を引き起こす。特筆すべきは、DDRにおけるCPSF6のこれらの役割が、pre-mRNA 3′末端プロセシングにおける正準的な役割とは独立している点である。以上の知見を総合すると、CPSF6はゲノム安定性の維持に不可欠な新規因子であり、TRCの解消が重要なメカニズムであることが明らかとなった。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 2",
+        "query": "(JOURNAL:\"microLife\" OR JOURNAL:\"Nucleic Acids Research\" OR JOURNAL:\"NAR Genomics and Bioinformatics\" OR JOURNAL:\"Bioinformatics\" OR JOURNAL:\"Microbes and Environments\" OR JOURNAL:\"Frontiers in Microbiology\" OR JOURNAL:\"Frontiers in Marine Science\" OR JOURNAL:\"mBio\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1128/mbio.02359-26",
+    "title": "The lumpy skin disease virus protein LSDV003 regulates MHC-I trafficking and surface expression.",
+    "abstract": "Lumpy skin disease (LSD) is a severe transboundary disease of cattle caused by lumpy skin disease virus (LSDV), which is highly transmissible and responsible for substantial economic losses worldwide. Although cellular immune responses are critical for controlling poxvirus infections, the viral strategies used by LSDV to evade cytotoxic T-cell immunity remain poorly understood. In this study, we demonstrate that LSDV infection markedly downregulates major histocompatibility complex class I (MHC-I) surface expression in host cells. Screening of LSDV-encoded proteins identified LSDV003 as a key viral factor responsible for MHC-I downregulation. Mechanistically, LSDV003 interacts with both the MHC-I heavy chain and β2-microglobulin and mediates endoplasmic reticulum (ER) retention of MHC-I via a C-terminal HNEL motif, thereby preventing its transport to the cell surface. Mutational analyses demonstrated that disruption of the HNEL motif impaired the ability of LSDV003 to alter MHC-I localization and surface expression. Furthermore, an LSDV003-deficient virus exhibited a markedly reduced capacity to suppress MHC-I surface expression. Collectively, these findings identify LSDV003 as a viral regulator of MHC-I trafficking and reveal a mechanism by which LSDV modulates host immune recognition.IMPORTANCELumpy skin disease is a highly contagious viral disease of cattle that has spread rapidly across Afro-Eurasia and causes major economic losses. However, the mechanisms used by lumpy skin disease virus to evade host immune defenses remain incompletely understood. In this study, we identify a previously unrecognized lumpy skin disease virus protein, LSDV003, that reduces the surface expression of major histocompatibility complex class I molecules in infected cells. We found that LSDV003 prevents these molecules from leaving the endoplasmic reticulum by using a C-terminal retention motif, thereby altering their normal intracellular trafficking. An LSDV003-deficient virus showed a reduced ability to suppress major histocompatibility complex class I surface expression during infection. These findings reveal an important immune evasion strategy used by lumpy skin disease virus and highlight LSDV003 as a potential target for improved vaccines and antiviral approaches to control this economically important disease.",
+    "journal": "mBio",
+    "doi": "10.1128/mbio.02359-26",
+    "date": "2026-10-22",
+    "authors": "Yang Y, Gao L-y, Guo A-M, Jia H-J, Li M, Wu X, Shu H-B, Xia T.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42910938",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13753777",
+    "pmid": "42910938",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5260,
+    "collected_at": "2026-11-20T20:15:04.307525+00:00",
+    "collected_date": "2026-11-21",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1128/mbio.02359-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8ef9046fc96dae228dda8077e8eb99a56497442d36945e4de4bf5a1a94d7338f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T21:04:32.553649+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7120cade63e8122fe9bbd40e40fda68f4c51ec9ffd48e9387e7fed2aa1784ea5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T21:04:32.553649+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "結節性皮膚疾患ウイルスタンパク質LSDV003は、MHC-Iの輸送および表面発現を調節する。",
+    "abstract_ja": "瘤皮病（LSD）は、瘤皮病ウイルス（LSDV）によって引き起こされる牛の重篤な越境性疾患であり、極めて感染力が強く、世界的に多大な経済的損失をもたらしている。細胞性免疫応答はポックスウイルス感染の制御に不可欠であるが、LSDVが細胞傷害性T細胞免疫を回避するために用いるウイルス戦略については、依然として十分に解明されていない。本研究では、LSDV感染が宿主細胞における主要組織適合性複合体クラスI（MHC-I）の表面発現を著しく低下させることを実証した。LSDVがコードするタンパク質のスクリーニングにより、MHC-Iの発現低下を担う主要なウイルス因子としてLSDV003が同定された。機序としては、LSDV003はMHC-Iの重鎖およびβ2-ミクログロブリンの双方と相互作用し、C末端のHNELモチーフを介してMHC-Iの小胞体（ER）への滞留を媒介することで、細胞表面への輸送を阻止する。変異解析により、HNELモチーフの破壊がLSDV003のMHC-I局在および表面発現を変化させる能力を損なうことが示された。さらに、LSDV003欠損ウイルスは、MHC-Iの表面発現を抑制する能力が著しく低下していた。以上の知見を総合すると、LSDV003はMHC-I輸送のウイルス性調節因子として同定され、LSDVが宿主の免疫認識を調節するメカニズムが明らかになった。重要性：瘤皮病は牛の極めて伝染性の強いウイルス性疾患であり、アフロ・ユーラシア全域に急速に拡大し、多大な経済的損失をもたらしている。しかし、瘤皮病ウイルスが宿主の免疫防御を回避するために用いるメカニズムについては、依然として十分に解明されていない。本研究では、感染細胞において主要組織適合性複合体クラスI分子の表面発現を低下させる、これまで認識されていなかった瘤皮病ウイルスタンパク質LSDV003を同定した。我々は、LSDV003がC末端の滞留モチーフを用いることで、これらの分子が小胞体から放出されるのを阻止し、それによって通常の細胞内輸送を変化させることを見出した。LSDV003欠損ウイルスは、感染時に主要組織適合性複合体クラスIの表面発現を抑制する能力が低下していた。これらの知見は、瘤皮病ウイルスが用いる重要な免疫回避戦略を明らかにするとともに、この経済的に重要な疾患を制御するためのワクチンや抗ウイルスアプローチの潜在的な標的としてLSDV003を浮き彫りにするものである。"
+  },
+  {
+    "id": "10.1093/ismejo/wrag291",
+    "title": "Design and application of a salt–alkali-resistant root synthetic microbial community for Medicago sativa L. using machine learning",
+    "abstract": "AbstractSoil salinization poses a serious threat to global agricultural sustainability, underscoring the urgent need for integrated plant–microbe strategies to enable the productive utilization of saline-alkali soils. This study established a four-stage framework, comprising data-driven strain selection, functional screening, synthetic community optimization, and experimental validation, to construct root-associated synthetic microbial communities (SynComs) that enhance salt–alkali tolerance in alfalfa (Medicago sativa L.). Using 16S rRNA gene amplicon sequencing and high-throughput cultivation, we established a curated repository of 327 salt-alkali-tolerant root-associated bacterial strains. Subsequent integrative analyses, including genomic characterization, functional profiling, and pairwise interaction assays, enabled the rational selection of 20 phylogenetically and functionally complementary strains for the stochastic assembly of SynComs. Seed germination assays were conducted using 134 stochastically assembled SynComs. To decipher strain-level interaction networks, we employed two complementary machine learning approaches: Random forest (RF) and elastic-net-regularized generalized linear models (GLMNet). These models enabled the precise selection of five key functional strains for assembling the target SynCom, SP3. In pot experiments under salt–alkali stress, SP3 consistently outperformed single-strain (S1) and two-strain (D1) inoculations, increasing alfalfa plant height and root length by 62.0% and 91.1%, respectively. In field experiments in saline–alkali soil, SP3 significantly increased alfalfa aboveground dry biomass yield by 48.1% relative to the untreated control. This study provides a reproducible framework for the targeted design of root-associated SynComs, offering a strategy for harnessing plant–microbe interactions to enhance crop productivity and enable the sustainable reclamation of saline–alkali soils.",
+    "journal": "The ISME Journal",
+    "doi": "10.1093/ismejo/wrag291",
+    "date": "2026-11-20",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://academic.oup.com/ismej/advance-article/doi/10.1093/ismejo/wrag291/9104283?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "bacteria",
+        "bacterial",
+        "microbe",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "genom",
+          "genomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6594/advanceAccess_4179.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5373,
+    "collected_at": "2026-11-20T20:25:40.156289+00:00",
+    "collected_date": "2026-11-21",
+    "sources": [
+      "https://academic.oup.com/rss/site_6594/advanceAccess_4179.xml"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1093/ismejo/wrag291"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c76c5948cff0d81a30f80aadf449c50a1188b6e49587544004d7b1c2d9e13260",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T21:04:32.553649+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3bd77c250dfdd316c675b0e209f1ee9e5dfb75bea29c18743fe4d66dbdae4f4a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T21:04:32.553649+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "機械学習を用いたMedicago sativa L.向け塩・アルカリ耐性根部合成微生物群集の設計と応用",
+    "abstract_ja": "要旨 土壌の塩類化は世界的な農業の持続可能性に対する深刻な脅威となっており、塩類・アルカリ性土壌の生産的利用を可能にする統合的な植物－微生物戦略の緊急な必要性を浮き彫りにしている。本研究では、データ駆動型の菌株選抜、機能スクリーニング、合成群集最適化、および実験的検証からなる4段階のフレームワークを構築し、アルファルファ（Medicago sativa L.）の塩類・アルカリ耐性を高める根関連合成微生物群集（SynComs）を作製した。16S rRNA遺伝子アンプリコンシーケンシングとハイスループット培養を用いて、塩類・アルカリ耐性を有する根関連細菌株327株のキュレート済みリポジトリを構築した。続いて、ゲノム特性解析、機能プロファイリング、およびペアワイズ相互作用アッセイを含む統合的解析を行い、SynComsの確率的アセンブリに向けて、系統的および機能的に相補的な20株の菌株を合理的に選抜した。134株の確率的にアセンブルされたSynComsを用いて種子発芽アッセイを実施した。菌株レベルの相互作用ネットワークを解明するため、ランダムフォレスト（RF）と弾性ネット正則化一般化線形モデル（GLMNet）という2つの相補的な機械学習手法を採用した。これらのモデルにより、標的となるSynComであるSP3をアセンブルするための5つの主要な機能菌株を精密に選抜することが可能となった。塩類・アルカリストレス下でのポット実験において、SP3は単一菌株（S1）および2菌株（D1）の接種区を一貫して上回り、アルファルファの草丈と根長をそれぞれ62.0%および91.1%増加させた。塩類・アルカリ性土壌での圃場実験では、SP3は未処理対照区と比較して、アルファルファの地上部乾物バイオマス収量を48.1%有意に増加させた。本研究は、根関連SynComsの標的設計のための再現性のあるフレームワークを提供し、植物－微生物間の相互作用を活用して作物の生産性を向上させ、塩類・アルカリ性土壌の持続可能な復元を可能にする戦略を提示するものである。"
+  },
+  {
+    "id": "10.1093/ismejo/wrag277",
+    "title": "Whole-soil microbial inoculation accelerates post-fire soil recovery in a mixed conifer forest",
+    "abstract": "AbstractHigh-severity wildfires of increasing size and frequency result in release of carbon dioxide and destroy timber resources, and reduce biodiversity, soil integrity, water quality, and recreational opportunities. Forest recovery strongly depends on the reestablishment of soil microbial communities, motivating research on how restoration of soil microbiomes in burned forests can be accelerated. Here, we used a high-intensity burn pile experiment to test the effectiveness of post-fire native soil amendment as a microbial coalescence experiment. This design enabled simultaneous and repeated sampling of unburned, burned, and inoculated burned soils while holding abiotic factors constant. All conditions were sampled at six time points across an annual hydrological cycle and analyzed using amplicon sequencing, genome-resolved metagenomics, metatranscriptomics, and soil chemistry. Fire sharply reduced bacterial and fungal diversity in surface soils and nearly eliminated ectomycorrhizal fungi. Inoculation shifted bulk community composition toward the unburned reference state, without measurably accelerating subsequent convergence. Inoculation also accelerated recovery of functions associated with nutrient cycling, especially nitrogen transformations, and introduced a diverse assemblage of mycorrhizal fungi, including genera capable of forming essential symbioses with conifers, though this signal declined over the study period. However, the introduction of host plants and the establishment of functional plant-fungal symbioses, which may prolong persistence, were not tested. Despite introducing the full diversity of soil microbes, only a subset of organisms engrafted, likely due to selection linked to pyrogenic effects. We conclude that whole-soil inoculation can shorten the dispersal-limited phase of post-fire microbial recovery, a promising step towards restoration of the soil microbiome.",
+    "journal": "The ISME Journal",
+    "doi": "10.1093/ismejo/wrag277",
+    "date": "2026-11-20",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/ismej/advance-article/doi/10.1093/ismejo/wrag277/9104282?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "fungal",
+        "fungi",
+        "metagenom",
+        "metagenomics",
+        "metatranscriptom",
+        "metatranscriptomics",
+        "microbe",
+        "microbes",
+        "microbial",
+        "microbiome",
+        "microbiomes"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6594/advanceAccess_4179.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5374,
+    "collected_at": "2026-11-20T20:25:40.156289+00:00",
+    "collected_date": "2026-11-21",
+    "sources": [
+      "https://academic.oup.com/rss/site_6594/advanceAccess_4179.xml"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1093/ismejo/wrag277"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8062ec6bad8b18e10fe4ed0ac168baa9894143f89e820c70c12861dc067df810",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T21:04:32.553649+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0ee2b6268a50ac5c89f43fed2b9317229ede536e5ae5dcb49d6a01bceb3d8e08",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T21:04:32.553649+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "針葉樹混交林における土壌全体への微生物接種は火災後の土壌回復を促進する",
+    "abstract_ja": "要旨：規模と頻度が増大する高深刻度の山火事は、二酸化炭素の放出を招き、木材資源を破壊するとともに、生物多様性、土壌の健全性、水質、およびレクリエーションの機会を減少させる。森林の回復は土壌微生物群集の再確立に強く依存しており、焼失林における土壌微生物叢の復元をいかに加速させるかという研究が進められている。本研究では、高強度焼却山を用いた実験により、火災後の在来土壌改良材の有効性を微生物凝集実験として検証した。この設計により、非焼失土壌、焼失土壌、および接種済み焼失土壌の同時かつ反復的なサンプリングが可能となり、非生物的要因を一定に保持することができた。すべての条件について、年間の水文サイクルにわたる6つの時点においてサンプリングを行い、アンプリコンシーケンシング、ゲノム解像度メタゲノミクス、メタトランスクリプトミクス、および土壌化学を用いて解析した。火災は表層土壌における細菌および真菌の多様性を著しく減少させ、外生菌根菌をほぼ消失させた。接種は、その後の収束を定量的に加速させることなく、バルク群集組成を非焼失の基準状態へとシフトさせた。また、接種は栄養循環に関連する機能、特に窒素変換の回復を加速させ、針葉樹と必須共生を形成可能な属を含む多様な菌根菌群集を導入したが、このシグナルは研究期間を通じて低下した。しかし、持続性を延長させる可能性のある宿主植物の導入や、機能的な植物・菌類共生の確立については検証しなかった。土壌微生物の全多様性を導入したにもかかわらず、定着した生物は一部に留まり、これはおそらく発熱効果に関連する選択によるものと考えられる。以上のことから、土壌全体への接種は、火災後の微生物回復における分散制限相を短縮させることができ、土壌微生物叢の復元に向けた有望な一歩であると結論付ける。"
+  },
+  {
+    "id": "10.64898/2026.11.19.767919",
+    "title": "Comprehensive identification of bacterial and archaeal habitat associations using IndicPiper",
+    "abstract": "Taxa that are prevalent and abundant in a particular habitat more so than other habitats can be considered indicators of that habitat. In addition to providing basic natural history information, indicator taxa can be used to verify metadata assignments in large public databases, identify potential contamination, and assess contributions of different source populations to a sink population. Despite these potential applications, a comprehensive database of microbial indicator taxa for major habitats of interest does not yet exist. Here we present IndicPiper, a database and methodology that uses the Sandpiper database combined with indicator taxa analysis to identify the habitat associations of bacterial and archaeal genera. IndicPiper includes a clearly defined methodology and set of functions such that any user with a list of habitats of interest could run the functions and generate their own database. IndicPiper uses the Genome Taxonomy Database (GTDB) for taxonomy, and the provided database or custom databases can be used to analyze any prokaryotic sample-by-taxa abundance table, including those from shotgun metagenomic and 16S rRNA marker gene sequencing. After presenting the methodology and results, we then present three applications of IndicPiper on actual modern and ancient DNA sequencing datasets. We used IndicPiper to assess the contribution of different source habitats to Lake Tjornin sediments in Iceland over the past 2000 years, to paired indoor and outdoor dust samples from homes across the U.S, and to freshwater samples across the Willamette River watershed in Oregon, USA.",
+    "journal": "",
+    "doi": "10.64898/2026.11.19.767919",
+    "date": "2026-11-20",
+    "authors": "Bueno de Mesquita, C. P., Woodcroft, B. J., Fierer, N.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.19.767919v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "archaea",
+        "archaeal",
+        "bacteria",
+        "bacterial",
+        "database",
+        "gene",
+        "metagenom",
+        "metagenomic",
+        "method",
+        "microbial",
+        "prokaryotic"
+      ],
+      "context": {
+        "marine": [
+          "freshwater",
+          "lake",
+          "river"
+        ],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5431,
+    "collected_at": "2026-11-20T20:25:40.156289+00:00",
+    "collected_date": "2026-11-21",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.64898/2026.11.19.767919"
+    ],
+    "translation": {
+      "title": {
+        "hash": "981a8cb5458127a328e567d79733e3755c241807f442075b3ae39fd0223054fc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T21:04:32.553649+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3d75dc0c9f0d01efce9dc8e4401b90170f7b41be1343f22fc6e89647b537d04d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T21:04:32.553649+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "IndicPiperを用いた細菌および古細菌の生息環境関連性の網羅的同定",
+    "abstract_ja": "特定の生息地において、他の生息地よりも広く、かつ豊富に存在する分類群は、その生息地の指標となり得る。指標分類群は、基礎的な自然史情報を提供するのみならず、大規模な公開データベースにおけるメタデータの割り当ての検証、潜在的な汚染の特定、およびシンク集団に対する異なる供給源集団の寄与度の評価にも活用できる。こうした潜在的な応用可能性があるにもかかわらず、主要な関心対象の生息地に関する微生物指標分類群の包括的なデータベースはまだ存在しない。本稿では、Sandpiperデータベースと指標分類群解析を組み合わせて、細菌および古細菌属の生息地との関連性を特定するデータベースおよび手法であるIndicPiperを提案する。IndicPiperには明確に定義された手法と一連の関数が備わっており、関心のある生息地のリストを持つユーザーであれば誰でも、これらの関数を実行して独自のデータベースを構築することが可能である。IndicPiperは分類体系としてGenome Taxonomy Database (GTDB) を採用しており、提供されるデータベースまたはカスタムデータベースを用いて、ショットガンメタゲノム解析や16S rRNAマーカー遺伝子シーケンシングによるものを含む、あらゆる原核生物のサンプル別分類群存在量表を解析できる。手法と結果を提示した後、実際の現代および古代のDNAシーケンシングデータセットに対するIndicPiperの3つの応用例を示す。我々は、過去2000年間にわたるアイスランドのチョルニン湖堆積物、米国全土の家庭から採取した屋内・屋外のペアダストサンプル、および米国オレゴン州ウィラメット川流域の淡水サンプルに対する、異なる供給源生息地の寄与度を評価するためにIndicPiperを用いた。"
   }
 ]
