@@ -434516,5 +434516,281 @@
     "related_dois": [
       "10.1111/1751-7915.70460"
     ]
+  },
+  {
+    "id": "10.1186/s42523-026-00653-7",
+    "title": "Environment shapes the association between the skin microbiome and infection dynamics of the Dermocystid pathogen Amphibiothecum in Palmate newts (Lissotriton helveticus)",
+    "abstract": "Infectious diseases are a leading cause of biodiversity declines, but the factors shaping the prevalence and intensity of wildlife disease outbreaks remain unresolved. Host-associated microbes are likely a key component of host resistance to infection, but a host’s ability to recruit such protective microbes may be restricted by the availability of microbes present in their immediate environment. Here we investigate the associations between the abiotic environment, skin microbiome, and infection with the Dermocystid pathogen Amphibiothecum meredithae in Palmate newts (Lissotriton helveticus) on the Isle of Rum, Scotland. We found more acidic ponds to be associated with higher skin microbiome diversity and lower pathogen prevalence. Predicted functional analysis of microbiota composition identified bacteria-mediated pathways linked to host immunity upregulated in skin microbiotas associated with more acidic ponds and lower infection prevalence. This study highlights the potential importance of the environment in modulating host-microbiome-pathogen relationships and patterns of infection in the wild.",
+    "journal": "Animal Microbiome",
+    "doi": "10.1186/s42523-026-00653-7",
+    "date": "2026-11-20",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s42523-026-00653-7",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "microbe",
+        "microbes",
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=42523",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5342,
+    "collected_at": "2026-11-20T03:23:23.547156+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=42523"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1186/s42523-026-00653-7"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.19.767437",
+    "title": "Deletion of two candidate depolymerases with overlapping genetic effects increases PHA yield in Rhodopseudomonas palustris TIE-1",
+    "abstract": "Polyhydroxyalkanoate (PHA) is a microbial carbon-storage polymer with potential as a renewable bioplastic, but intracellular remobilization can limit polymer retention. The metabolically versatile bacterium Rhodopseudomonas palustris TIE-1 accumulates PHA during photoheterotrophic growth, yet the enzymes that control PHA turnover in this organism remain incompletely studied. We identified PhaZ2 (Rpal_0568) as a second candidate PHA depolymerase that is evolutionarily and architecturally distinct from the previously annotated PhaZ1 (Rpal_0578). Deleting either PhaZ1 or PhaZ2 alone did not substantially increase PHA content under tested growth conditions, whereas the double mutant accumulated 2.3-fold and 1.7-fold more PHA than wild type under non-nitrogen-fixing and nitrogen-fixing photoheterotrophic conditions, respectively, supporting overlapping roles in PHA turnover. All deletion strains showed longer doubling times but reached final culture densities similar to wild type. The double mutant showed its strongest retention phenotype under severe but growth-permissive nutrient limitation, including 3.7-fold more PHA than wild type at 33% phosphorus availability. A two-stage cultivation strategy that separated biomass formation from nutrient-limited storage raised volumetric PHA titer to 0.180 mg per mL culture in the double mutant, 1.5-fold more than wild type and approximately 3.4-fold higher than single-stage 33% phosphorus limitation and 4.0-fold higher than single-stage 8% nitrogen limitation (cross-experiment comparison), despite lower PHA content per unit biomass. Finally, an LC-MS-calibrated FTIR spectroscopy model predicted PHA content with an R2 of 0.928 (n = 15) and reproduced the major biological trends. These results identify genetically redundant candidate depolymerases as targets for improving PHA retention in TIE-1 and establish a cultivation and screening framework for strain engineering. Importance Persistent pollution from petroleum-based plastics has intensified the need for biodegradable plastics produced from renewable resources. Polyhydroxyalkanoate (PHA) is a microbially synthesized bioplastic, but microbial cells can also consume the stored polymer, reducing its net yield. The metabolically versatile, photosynthetic purple non-sulfur bacterium (PNSB) Rhodopseudomonas palustris TIE-1 is a promising production organism because it can photosynthesize, assimilate atmospheric nitrogen, and utilize diverse carbon sources. We show that two candidate PHA depolymerases, PhaZ1 and PhaZ2, likely have overlapping roles in PHA turnover. Removing both candidates increased polymer retention, particularly when nitrogen or phosphorus was limited, and a two-stage cultivation strategy further increased PHA titer to 0.180 mg per mL of culture. We also developed a rapid infrared spectroscopy method to track polymer content across strains and growth conditions. These findings offer complementary genetic, cultivation, and screening strategies for improving microbial bioplastic production and may help advance sustainable alternatives to petroleum-derived plastics.",
+    "journal": "",
+    "doi": "10.64898/2026.11.19.767437",
+    "date": "2026-11-19",
+    "authors": "Chen, Y., Ranaivoarisoa, T. O., Ditter, R., Blodgett, J. A. V., Bose, A.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.19.767437v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacterium",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5343,
+    "collected_at": "2026-11-20T03:23:23.547156+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.64898/2026.11.19.767437"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.18.767762",
+    "title": "The virome of New Zealand fur seals reveals novel viral diversity and evidence of continued Canine distemper virus circulation",
+    "abstract": "Canine distemper virus (CDV) has recently been detected in New Zealand fur seals (Arctocephalus forsteri), including retrospective samples from 2020 and outbreaks associated with substantial mortality in late 2024 and 2025. However, the geographic distribution of CDV and the broader viral diversity harboured by New Zealand fur seals remain poorly understood. Characterising the fur seal virome can provide insights into viral diversity, dispersal and the occurrence of viral co-infections, while assessing the distribution of CDV across colonies. We used metatranscriptomic sequencing to characterise the viromes of 178 live and recently deceased fur seals sampled from four large fur seal colonies (Kaik[o]ura, Dunedin, West Coast and Wairarapa). We investigated viral diversity, community composition and geographic structure using phylogenetic analyses to examine viral evolutionary relationships and CDV distribution. We identified 23 viral species, including 20 putatively novel species. Several were related to viruses previously identified in terrestrial mammals. One viral species was detected across geographically separated colonies, while several other closely related viruses were identified across colonies, with viral sharing most frequent between Kaik[o]ura and Wairarapa. Viral diversity was similar between live and recently deceased fur seals, while community composition showed geographic structuring. CDV was detected only in Kaik[o]ura, where the lineage associated with the 2024 outbreak remained in circulation. No CDV was detected in the other sampled colonies. This study reveals substantial previously undocumented viral diversity in New Zealand fur seals, improving our understanding of viral distribution and CDV circulation in marine mammal populations.",
+    "journal": "",
+    "doi": "10.64898/2026.11.18.767762",
+    "date": "2026-11-19",
+    "authors": "Waller, S. J., White, B. A., Wierenga, J. R., Hall, A. A., Thompson, M., Wilson, A. D., Taylor, H. S., Weir, J. S., Geoghegan, J. L.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.18.767762v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metatranscriptom",
+        "metatranscriptomic",
+        "viral",
+        "virome",
+        "viromes",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [
+          "evolution",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5344,
+    "collected_at": "2026-11-20T03:23:23.547156+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.64898/2026.11.18.767762"
+    ]
+  },
+  {
+    "id": "10.1093/bioinformatics/btag831",
+    "title": "Correction to: FusionEncoder: identification of intrinsically disordered regions based on multi-feature fusion",
+    "abstract": "This is a correction to: Sicen Liu, Shutao Chen, Tao Bai, Bin Liu, FusionEncoder: identification of intrinsically disordered regions based on multi-feature fusion, Bioinformatics, Volume 41, Issue 7, July 2025, btaf362, https://doi.org/10.1093/bioinformatics/btaf362",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag831",
+    "date": "2026-11-19",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btag831/9103646?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5139/3001.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5345,
+    "collected_at": "2026-11-20T03:23:23.547156+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "https://academic.oup.com/rss/site_5139/3001.xml"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1093/bioinformatics/btag831"
+    ]
+  },
+  {
+    "id": "10.1093/bioinformatics/btag820",
+    "title": "Correction to: Microbial interactions from a new perspective: reinforcement learning reveals new insights into microbiome evolution",
+    "abstract": "This is a correction to: Parsa Ghadermazi, Siu Hung Joshua Chan, Microbial interactions from a new perspective: reinforcement learning reveals new insights into microbiome evolution, Bioinformatics, Volume 40, Issue 1, January 2024, btae003, https://doi.org/10.1093/bioinformatics/btae003",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag820",
+    "date": "2026-11-19",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btag820/9103645?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5139/3001.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5346,
+    "collected_at": "2026-11-20T03:23:23.547156+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "https://academic.oup.com/rss/site_5139/3001.xml"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1093/bioinformatics/btag820"
+    ]
   }
 ]
