@@ -308967,5 +308967,287 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ニュージーランドオットセイのウイルス叢からは、新たなウイルス多様性と、イヌジステンパーウイルスの継続的な循環の証拠が明らかになった。",
     "abstract_ja": "イヌジステンパーウイルス（CDV）は近年、ニュージーランドオットセイ（Arctocephalus forsteri）において検出されており、これには2020年の遡及的検体や、2024年後半および2025年の大幅な死亡を伴うアウトブレイクが含まれる。しかし、CDVの地理的分布や、ニュージーランドオットセイが保有するより広範なウイルス多様性については、依然として十分に解明されていない。オットセイのウイルス叢を特性評価することは、ウイルス多様性、拡散、およびウイルス共感染の発生に関する知見をもたらすとともに、コロニー間におけるCDVの分布を評価することにつながる。本研究では、メタトランスクリプトームシーケンシングを用いて、4つの大規模なオットセイコロニー（カイコウラ、ダニーデン、ウェストコースト、ワイララパ）から採取した、生存個体および最近死亡した個体計178頭のオットセイのウイルス叢を特性評価した。系統解析を用いてウイルスの進化的関係とCDVの分布を検討し、ウイルス多様性、群集組成、および地理的構造を調査した。その結果、推定新規種20種を含む23種のウイルスを同定した。そのうち数種は、以前に陸生哺乳類で同定されたウイルスに関連していた。1種のウイルスは地理的に離れたコロニー間で検出され、他の近縁ウイルス数種もコロニー間で同定されたが、ウイルスの共有はカイコウラとワイララパの間で最も頻繁に認められた。ウイルス多様性は生存個体と最近死亡した個体の間で同程度であったが、群集組成には地理的な構造が認められた。CDVはカイコウラでのみ検出され、そこでは2024年のアウトブレイクに関連する系統が依然として循環していた。その他の採取コロニーではCDVは検出されなかった。本研究は、ニュージーランドオットセイにおいてこれまで記録されていなかった相当なウイルス多様性が存在することを明らかにし、海棲哺乳類個体群におけるウイルス分布とCDVの循環に関する理解を深めるものである。"
+  },
+  {
+    "id": "10.1093/bioinformatics/btag845",
+    "title": "hlafactor: a tool for multi-layer functional annotation of HLA variation",
+    "abstract": "AbstractMotivationThe human leukocyte antigen (HLA) system is the most polymorphic region of the human genome and a major determinant of immune function and disease susceptibility. Ideally, analyses of HLA variation would capture multiple layers of information, from classical alleles and amino-acid residues to higher-level functional properties such as tapasin dependency, cell-surface expression, and NK cell ligand groups. However, while allele- and amino-acid-level data are now routinely available, the corresponding functional annotations remain scattered across publications and reference datasets, and no existing tool integrates them within a unified, reproducible framework.ResultsWe present hlafactor, a computational tool that brings together established HLA functional annotations within a single, standardised framework. Starting from two-field HLA genotype calls, whether imputed or molecularly typed, hlafactor assigns functional annotations from published reference datasets and applies established calculations to derive individual-level features. These include tapasin dependency scores, general and functional heterozygosity, allele-specific cell surface expression, NK cell-related polymorphisms (Bw4/Bw6, C1/C2, HLA-B -21 M/T), and class I/II supertype assignments. hlafactor also maps alleles to IMGT/HLA amino-acid alignments to generate residue-level genotypes. All outputs are formatted for direct use in downstream association analyses with existing software. Applied to 17,960 samples from the MalariaGEN consortium, each functional annotation module completed in under 15 seconds on a single CPU core, and preprocessing and quality control in just over four minutes, supporting its use in large cohort studies.Availabilityhlafactor is implemented in C ++20 and is freely available at https://github.com/QiJingS/hlafactor and archived on Zenodo under DOI https://doi.org/10.5281/zenodo.20647440.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag845",
+    "date": "2026-11-19",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag845/9103742?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5356,
+    "collected_at": "2026-11-20T12:01:03.805438+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1093/bioinformatics/btag845"
+    ],
+    "translation": {
+      "title": {
+        "hash": "cc48e852683a1377685227a97d7313d299a16fbab87213dccd1e7896be6afffa",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T12:22:24.553807+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e1146bd84c0b47eedee8e5f77b65ef9111f0b248dc421af814d6e81bb881b0b4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T12:22:24.553807+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "hlafactor: HLAバリアントの多層的機能アノテーションツール",
+    "abstract_ja": "要旨動機ヒト白血球抗原（HLA）システムは、ヒトゲノムの中で最も多型性に富む領域であり、免疫機能および疾患感受性の主要な決定因子である。理想的には、HLA変異の解析において、古典的なアレルやアミノ酸残基から、タパシン依存性、細胞表面発現、NK細胞リガンド群といったより高次の機能的特性に至るまで、多層的な情報を捉えることが望ましい。しかし、アレルおよびアミノ酸レベルのデータは現在日常的に利用可能である一方、対応する機能的アノテーションは論文やリファレンスデータセットに散在しており、それらを統一的かつ再現性のあるフレームワークに統合した既存のツールは存在しない。結果確立されたHLA機能的アノテーションを単一の標準化されたフレームワークに集約する計算ツール「hlafactor」を提案する。インピュテーションまたは分子型判定による2フィールドのHLA遺伝子型判定を起点として、hlafactorは公開済みのリファレンスデータセットから機能的アノテーションを割り当て、確立された計算手法を適用して個体レベルの特徴量を導出する。これには、タパシン依存性スコア、一般的および機能的ヘテロ接合性、アレル特異的な細胞表面発現、NK細胞関連多型（Bw4/Bw6, C1/C2, HLA-B -21 M/T）、およびクラスI/IIスーパータイプの割り当てが含まれる。また、hlafactorはアレルをIMGT/HLAアミノ酸アライメントにマッピングし、残基レベルの遺伝子型を生成する。すべての出力は、既存のソフトウェアを用いた後続の関連解析で直接利用できるようフォーマットされている。MalariaGENコンソーシアムの17,960サンプルに適用したところ、各機能的アノテーションモジュールは単一CPUコアで15秒未満で完了し、前処理および品質管理は4分強で終了したため、大規模なコホート研究での利用が可能である。利用可能性hlafactorはC++20で実装されており、https://github.com/QiJingS/hlafactor で無料で入手可能であるほか、ZenodoにDOI https://doi.org/10.5281/zenodo.20647440 でアーカイブされている。"
+  },
+  {
+    "id": "10.1111/1462-2920.70498",
+    "title": "Seasonal Ecological Transitions During Wheat Cultivation Reshape Soil Phage‐Host Networks and Carbon Metabolism",
+    "abstract": "Rice–wheat rotation reshaped microbial assembly, enhanced network resistance and modified ecological niche distributions and phage infection patterns. It also increased carbon metabolic potential, with intermediate‐niche bacteria replacing specialists as the dominant contributors to carbon‐related functions.\n\nABSTRACT\nRice–wheat rotation is a widespread agricultural practice, yet how seasonal crop transitions reshape microbial assembly, phage–host interactions and community functions remains poorly understood. Here, we integrated metagenomic and metaviromic analyses with ecological modelling, network analysis, and functional profiling to compare rice monocropping with winter fallow (RM) and rice–wheat rotation (RWR) across a complete cropping cycle. Crop transitions strongly restructured bacterial and phage communities, with phage assemblages exhibiting greater temporal turnover and stage specificity than bacterial communities. Wheat cultivation increased the contribution of stochastic processes, with bacterial NST increasing from 0.50 to 0.68 and phage NST from 0.12 to 0.25, accompanied by substantial community turnover (maximum RC = 0.800 and 0.894, respectively). Compared with RM, RWR enhanced microbial network stability under simulated disturbances, promoted specialist recruitment, expanded phage–host interaction diversity, and increased carbon metabolic potential with 56 enriched carbon metabolism‐related genes. Collectively, these findings suggest that winter wheat cultivation drives ecological reorganization of soil microbiomes, strengthening network resistance and functional capacity in rice agroecosystems.\n\nRice–wheat rotation reshaped microbial assembly, enhanced network resistance and modified ecological niche distributions and phage infection patterns. It also increased carbon metabolic potential, with intermediate-niche bacteria replacing specialists as the dominant contributors to carbon-related functions.\n\nABSTRACT\nRice–wheat rotation is a widespread agricultural practice, yet how seasonal crop transitions reshape microbial assembly, phage–host interactions and community functions remains poorly understood. Here, we integrated metagenomic and metaviromic analyses with ecological modelling, network analysis, and functional profiling to compare rice monocropping with winter fallow (RM) and rice–wheat rotation (RWR) across a complete cropping cycle. Crop transitions strongly restructured bacterial and phage communities, with phage assemblages exhibiting greater temporal turnover and stage specificity than bacterial communities. Wheat cultivation increased the contribution of stochastic processes, with bacterial NST increasing from 0.50 to 0.68 and phage NST from 0.12 to 0.25, accompanied by substantial community turnover (maximum RC = 0.800 and 0.894, respectively). Compared with RM, RWR enhanced microbial network stability under simulated disturbances, promoted specialist recruitment, expanded phage–host interaction diversity, and increased carbon metabolic potential with 56 enriched carbon metabolism-related genes. Collectively, these findings suggest that winter wheat cultivation drives ecological reorganization of soil microbiomes, strengthening network resistance and functional capacity in rice agroecosystems.",
+    "journal": "Environmental Microbiology",
+    "doi": "10.1111/1462-2920.70498",
+    "date": "2026-11-19",
+    "authors": "Yaru Wu, \nDanrui Wang, \nWen Zhang, \nJean Damascene Harindintwali, \nChen Wang, \nJian Hu, \nShimao Wu, \nYi Wang, \nMingming Sun, \nFeng Hu",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.70498?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "metagenom",
+        "metagenomic",
+        "microbial",
+        "microbiome",
+        "microbiomes",
+        "phage"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://onlinelibrary.wiley.com/feed/14622920/most-recent",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5362,
+    "collected_at": "2026-11-20T12:01:03.805438+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "https://onlinelibrary.wiley.com/feed/14622920/most-recent"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1111/1462-2920.70498"
+    ],
+    "translation": {
+      "title": {
+        "hash": "49cce2081b44ede81c9d76ce59b453f81ea78796f4da42703020afdea8404254",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T12:22:24.553807+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "231b6843f0f420d0cfc28c34962c218fb1d53d89b8a68ddc6f92287101726650",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T12:22:24.553807+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "小麦栽培における季節的な生態学的遷移が土壌ファージ－宿主ネットワークと炭素代謝を再編する",
+    "abstract_ja": "米・小麦輪作は微生物アセンブリを再編し、ネットワーク耐性を高め、生態的ニッチ分布およびファージ感染パターンを変化させた。また、炭素代謝能を増大させ、中間ニッチ細菌が特化細菌に代わり、炭素関連機能の主要な寄与因子となった。\n\n要旨\n米・小麦輪作は広く普及している農業慣行であるが、季節的な作物遷移が微生物アセンブリ、ファージ・宿主間相互作用、および群集機能をどのように再編するかについては、依然として十分に解明されていない。本研究では、メタゲノムおよびメタウイルスーム解析を、生態学的モデリング、ネットワーク解析、および機能プロファイリングと統合し、完全な作付サイクルにわたって、米単作、冬季休耕（RM）、および米・小麦輪作（RWR）を比較した。作物遷移は細菌およびファージ群集を著しく再構成し、ファージアセンブリは細菌群集よりも高い時間的ターンオーバーとステージ特異性を示した。小麦栽培は確率的プロセスの寄与を増大させ、細菌のNSTは0.50から0.68へ、ファージのNSTは0.12から0.25へと増加し、それに伴い大幅な群集ターンオーバー（最大RC = 0.800および0.894、それぞれ）が認められた。RMと比較して、RWRはシミュレーションによる攪乱下での微生物ネットワークの安定性を高め、特化細菌の獲得を促進し、ファージ・宿主間相互作用の多様性を拡大させ、さらに56個の炭素代謝関連遺伝子の濃縮を伴う炭素代謝能の増大をもたらした。総じて、これらの知見は、冬小麦の栽培が土壌微生物叢の生態学的再編成を駆動し、イネ農業生態系におけるネットワーク耐性と機能能力を強化することを示唆している。\n\n米・小麦輪作は微生物アセンブリを再編し、ネットワーク耐性を高め、生態的ニッチ分布およびファージ感染パターンを変化させた。また、炭素代謝能を増大させ、中間ニッチ細菌が特化細菌に代わり、炭素関連機能の主要な寄与因子となった。\n\n要旨\n米・小麦輪作は広く普及している農業慣行であるが、季節的な作物遷移が微生物アセンブリ、ファージ・宿主間相互作用、および群集機能をどのように再編するかについては、依然として十分に解明されていない。本研究では、メタゲノムおよびメタウイルスーム解析を、生態学的モデリング、ネットワーク解析、および機能プロファイリングと統合し、完全な作付サイクルにわたって、米単作、冬季休耕（RM）、および米・小麦輪作（RWR）を比較した。作物遷移は細菌およびファージ群集を著しく再構成し、ファージアセンブリは細菌群集よりも高い時間的ターンオーバーとステージ特異性を示した。小麦栽培は確率的プロセスの寄与を増大させ、細菌のNSTは0.50から0.68へ、ファージのNSTは0.12から0.25へと増加し、それに伴い大幅な群集ターンオーバー（最大RC = 0.800および0.894、それぞれ）が認められた。RMと比較して、RWRはシミュレーションによる攪乱下での微生物ネットワークの安定性を高め、特化細菌の獲得を促進し、ファージ・宿主間相互作用の多様性を拡大させ、さらに56個の炭素代謝関連遺伝子の濃縮を伴う炭素代謝能の増大をもたらした。総じて、これらの知見は、冬小麦の栽培が土壌微生物叢の生態学的再編成を駆動し、イネ農業生態系におけるネットワーク耐性と機能能力を強化することを示唆している。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1923001",
+    "title": "Longitudinal multi-omics profiling reveals early gut microbial and metabolic alterations associated with bronchopulmonary dysplasia in preterm infants",
+    "abstract": "IntroductionBronchopulmonary dysplasia (BPD) is a common and devastating chronic lung disease in preterm infants. The role of the gut microbiome and metabolome in its pathogenesis remains largely unknown. This study aimed to characterize the longitudinal dynamics of gut microbiota and fecal metabolome in preterm infants who developed BPD.MethodsFecal samples were collected at three time points (24 h, 14 d, and 28 d after birth) from a prospective cohort of preterm infants. 16S rRNA sequencing and liquid chromatography–mass spectrometry/gas chromatography–mass spectrometry (LC–MS/GC–MS) metabolomics were performed. Integrated multi-omics analyses, including permutational multivariate analysis of variance (PERMANOVA), partial least squares discriminant analysis (PLS-DA), correlation networks, Procrustes analysis, and PICRUSt2-based functional prediction, were used to identify exploratory microbial and metabolic signatures.ResultsInfants who developed BPD exhibited distinct gut microbiota compositions and fecal metabolite profiles as early as 24 h after birth, before clinical diagnosis. These differences were most pronounced at early time points and were no longer statistically significant by day 28. Exploratory LEfSe analysis identified six leading genus-level taxa at 24 h. Microbe–metabolite correlation networks revealed extensive associations at the pooled level, and Procrustes analysis demonstrated significant structural concordance at 14 d. Pathway enrichment and PICRUSt2 prediction identified retinol metabolism and other pathways with distinct temporal dynamics. Importantly, rigorous sensitivity analyses revealed that these BPD-associated differences were highly confounded by gestational age and were largely attenuated after adjustment.DiscussionEarly-life gut microbial and metabolic alterations are associated with the subsequent development of BPD, though they cannot be statistically separated from the effects of prematurity. These findings provide a multi-omics resource for generating hypotheses regarding the gut–lung axis and highlight the need for future gestational-age-matched studies to determine whether early vitamin A metabolism or other pathways could serve as biomarkers or therapeutic targets.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1923001",
+    "date": "2026-11-20",
+    "authors": "Jing Shi",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1923001",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "microbe",
+        "microbial",
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5357,
+    "collected_at": "2026-11-20T12:01:03.805438+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.3389/fmicb.2026.1923001"
+    ],
+    "translation": {
+      "title": {
+        "hash": "fe5d1566287ea7cd91c2d7bd7fb0c7746e5c3d23a5baa7e6d1124e28c2a5e407",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T12:22:24.553807+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "aab4e952e5b3f5e659466d60fa849864b05abfa5dd326f60b72be0fe5d12978f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T12:22:24.553807+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "縦断的マルチオミクスプロファイリングにより、早産児の気管支肺異形成症に関連する腸管微生物および代謝の早期変化が明らかとなった",
+    "abstract_ja": "はじめに気管支肺異形成症（BPD）は、早産児において一般的かつ極めて重篤な慢性肺疾患である。その病態形成における腸内細菌叢およびメタボロームの役割は、依然として大部分が不明である。本研究では、BPDを発症した早産児における腸内細菌叢および糞便メタボロームの縦断的な動態を明らかにすることを目的とした。方法早産児の前向きコホートから、3つの時点（出生後24時間、14日、28日）で糞便検体を採取した。16S rRNAシーケンシングおよび液体クロマトグラフィー－質量分析／ガスクロマトグラフィー－質量分析（LC–MS/GC–MS）メタボロミクスを実施した。置換多変数分散分析（PERMANOVA）、部分最小二乗判別分析（PLS-DA）、相関ネットワーク、プロクラステス解析、およびPICRUSt2に基づく機能予測を含む統合的なマルチオミクス解析を用いて、探索的な微生物および代謝シグネチャーを同定した。結果BPDを発症した乳児では、臨床診断前の出生後24時間という早期段階から、異なる腸内細菌叢組成および糞便代謝物プロファイルが認められた。これらの差異は早期時点で最も顕著であり、28日目までには統計的に有意ではなくなった。探索的なLEfSe解析により、24時間時点で6つの主要な属レベルの分類群が同定された。微生物－代謝物相関ネットワークではプールレベルで広範な関連性が認められ、プロクラステス解析では14日目時点で有意な構造的一致が示された。パスウェイエンリッチメントおよびPICRUSt2予測により、レチノール代謝およびその他の経路において明確な時間的動態が同定された。重要な点として、厳格な感度解析の結果、これらのBPD関連の差異は妊娠週数による交絡が強く、調整後にはその影響が大部分減弱することが明らかになった。考察早期の腸内微生物および代謝の変化は、その後のBPD発症に関連しているが、早産の影響から統計的に分離することはできない。これらの知見は、腸－肺軸に関する仮説を立てるためのマルチオミクスリソースを提供するとともに、早期のビタミンA代謝やその他の経路がバイオマーカーや治療標的となり得るかを判断するための、今後の妊娠週数マッチング研究の必要性を浮き彫りにしている。"
+  },
+  {
+    "id": "10.1186/s13059-026-04321-6",
+    "title": "Korea10K integrates 10,239 whole genomes with multiomic and clinical health information as a Korean reference dataset",
+    "abstract": "Background\n                     Large-scale genome projects have advanced the characterization of human genetic diversity. However, the lack of deeply sequenced, multiomic resources representing the Korean population has limited systematic evaluation of population-specific variation and its functional and translational impact.\n                  \n                     Results\n                     We present Korea10K, a population-scale multiomic resource comprising 10,239 high-depth whole genomes (mean coverage 30 ×) with integrated molecular and phenotypic data. Analysis of 9,000 unrelated individuals enables near-complete discovery of ultra-rare variants (allele count > 2 and allele frequency ≤ 0.0005) and supports the construction of a high-resolution, population-specific imputation panel. Koreans exhibit pronounced autosomal genetic homogeneity together with a narrow Y-chromosomal and HLA-A allelic spectrum and comparatively deep mitochondrial lineage diversity, consistent with long-term demographic continuity. We further identify 16.4 million variants that alter CpG dinucleotide context, revealing widespread sequence-driven modulation of the genomic CG landscape. Notably, CG-eliminating variants generate loss of methylation signal and disrupt CpG probe targets in widely used methylation arrays, introducing a systematic source of bias in epigenome-wide association studies and epigenetic clock estimation.\n                  \n                     Conclusions\n                     Korea10K establishes a high-resolution genomic and multiomic reference for the Korean population and reveals a previously unrecognized interaction between genetic variation and epigenomic measurement. This resource provides a foundation for precision medicine and highlights the need for ancestry-aware interpretation of molecular data.",
+    "journal": "Genome Biology",
+    "doi": "10.1186/s13059-026-04321-6",
+    "date": "2026-11-20",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s13059-026-04321-6",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "genome",
+        "resource"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=13059",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5363,
+    "collected_at": "2026-11-20T12:01:03.805438+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=13059"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1186/s13059-026-04321-6"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0a7734d4dc30a4e996d697e05d3125d82ac444e66bb7a0bb1b352109e2ae985f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T12:22:24.553807+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "17ab8e77aa411afee28ccfdc0c1ad81c4c070a323e9c500bc1fa3f844fd355b6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T12:22:24.553807+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Korea10Kは、10,239件の全ゲノム配列をマルチオミクスおよび臨床健康情報と統合した韓国のリファレンスデータセットである。",
+    "abstract_ja": "背景\n                     大規模なゲノムプロジェクトにより、ヒトの遺伝的多様性の特性解析が進展してきた。しかし、韓国人集団を代表する深度の高いシーケンシング済みマルチオミクスリソースが不足していたため、集団特異的な変異およびその機能的・トランスレーショナルな影響に関する系統的な評価が限定的であった。\n                  \n                     結果\n                     本研究では、分子データと表現型データを統合した10,239件の高深度全ゲノム（平均カバレッジ 30 ×）からなる集団規模のマルチオミクスリソース「Korea10K」を提案する。血縁関係のない9,000個体の解析により、超希少変異（アレル数 > 2かつアレル頻度 ≤ 0.0005）のほぼ完全な同定が可能となり、高解像度かつ集団特異的なインピュテーションパネルの構築が支援される。韓国人は、長期的な人口統計学的連続性と整合する、顕著な常染色体遺伝的均質性に加え、狭いY染色体およびHLA-Aアレルスペクトラム、ならびに比較的深いミトコンドリア系統多様性を示す。さらに、CpGジヌクレオチドコンテキストを変化させる1,640万個の変異を同定し、ゲノムCGランドスケープにおける広範な配列駆動型の調節を明らかにした。特筆すべきは、CG除去変異がメチル化シグナルの消失を引き起こし、広く用いられているメチル化アレイにおけるCpGプローブ標的を撹乱することで、エピゲノムワイド関連解析およびエピジェネティック時計の推定に系統的なバイアス要因をもたらす点である。\n                  \n                     結論\n                     Korea10Kは、韓国人集団における高解像度のゲノムおよびマルチオミクスリファレンスを確立し、遺伝的変異とエピゲノム測定との間にこれまで認識されていなかった相互作用を明らかにした。本リソースは精密医療の基盤となるとともに、分子データの祖先情報を考慮した解釈の必要性を浮き彫りにしている。"
   }
 ]
