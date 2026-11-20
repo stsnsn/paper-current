@@ -307898,5 +307898,294 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "GenEdXR：適応型教育エンターテインメント・エコシステムのための生成AI駆動型拡張現実フレームワーク",
     "abstract_ja": "要旨　生成型人工知能と拡張現実（XR）は、適応型教育エンターテインメントに前例のない機会をもたらすが、既存のシステムは静的なコンテンツパイプラインや、没入型インタラクションと知的適応との間の連携不足という課題を抱えている。本研究では、Transformerベースの深層知識トレーシング（DKT）モジュール、大規模言語モデルによるコンテンツ合成パイプライン、近接方策最適化（proximal-policy-optimisation）適応型オーケストレーションエンジン、およびマルチモーダルXRレンダリングをクローズドループアーキテクチャ内で統合したフレームワーク「GenEdXR」を提案する。これらのコンポーネントは、意味的、認知的、および時間的表現を統合するスケーリングされた内積クロスモーダルアテンション融合機構によって結び付けられている。我々は、質問レベル、セッションレベル、およびステップレベルのインタラクション粒度にわたる、3つの補完的な公開データセット――ASSISTments 2009--2010、Open University Learning Analytics Dataset、およびKDD Cup 2010 Algebra 2005--2006――から得られた33,510件のリプレイ済み学習者軌跡を用いた大規模なシミュレーションプロトコルを通じて、GenEdXRを評価した。4つのフレームワーク構成にわたる5分割交差検証の結果、GenEdXR-Fullは最高の正規化学習利得（M = 0.523; Cohen's d = 2.71 対ベースライン）、最高のエンゲージメントおよびフローゾーン帰属率、そして最小の認知負荷プロキシを達成した。アブレーション分析およびペアワイズ比較分析により、生成コンテンツチャネルまたは没入型レンダリングチャネルのいずれも単独では完全なパフォーマンスプロファイルを回復できず、相乗的な統合効果があることが示された。ランタイム特性評価により、A100クラスのGPUと組み合わせた単一の汎用XRヘッドセットへのデプロイ可能性が確認された。GenEdXRは、次世代の適応型教育エンターテインメントエコシステムに向けた、実証的に根拠のあるアーキテクチャ設計図を提供するものである。"
+  },
+  {
+    "id": "10.1186/s42523-026-00653-7",
+    "title": "Environment shapes the association between the skin microbiome and infection dynamics of the Dermocystid pathogen Amphibiothecum in Palmate newts (Lissotriton helveticus)",
+    "abstract": "Infectious diseases are a leading cause of biodiversity declines, but the factors shaping the prevalence and intensity of wildlife disease outbreaks remain unresolved. Host-associated microbes are likely a key component of host resistance to infection, but a host’s ability to recruit such protective microbes may be restricted by the availability of microbes present in their immediate environment. Here we investigate the associations between the abiotic environment, skin microbiome, and infection with the Dermocystid pathogen Amphibiothecum meredithae in Palmate newts (Lissotriton helveticus) on the Isle of Rum, Scotland. We found more acidic ponds to be associated with higher skin microbiome diversity and lower pathogen prevalence. Predicted functional analysis of microbiota composition identified bacteria-mediated pathways linked to host immunity upregulated in skin microbiotas associated with more acidic ponds and lower infection prevalence. This study highlights the potential importance of the environment in modulating host-microbiome-pathogen relationships and patterns of infection in the wild.",
+    "journal": "Animal Microbiome",
+    "doi": "10.1186/s42523-026-00653-7",
+    "date": "2026-11-20",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s42523-026-00653-7",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "microbe",
+        "microbes",
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=42523",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5342,
+    "collected_at": "2026-11-20T03:23:23.547156+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=42523"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1186/s42523-026-00653-7"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ee96796dfa3b05a02f2c8c202230ea40a7f43e1ef82aaaab9bb49192d22c4334",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T03:44:36.387301+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b3a8350ee09827102aa84075a25eda0ceefe11c50a86ac3aa50a6043b6d088d4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T03:44:36.387301+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "パルマトイモリ（Lissotriton helveticus）における皮膚マイクロバイオームとデルモシスチス病原体Amphibiothecumの感染動態との関連を規定する環境要因",
+    "abstract_ja": "感染症は生物多様性の減少を招く主要な要因であるが、野生生物における疾病アウトブレイクの発生頻度や強度を規定する要因については、依然として解明されていない。宿主関連微生物は、宿主の感染抵抗性における重要な構成要素であると考えられるが、こうした保護的微生物を動員する宿主の能力は、周囲環境に存在する微生物の可用性によって制限される可能性がある。本研究では、スコットランドのラム島に生息するパルマトイモリ（Lissotriton helveticus）を対象に、非生物的環境、皮膚マイクロバイオーム、およびデルモシスチス科の病原体Amphibiothecum meredithaeへの感染との関連性を調査した。その結果、酸性度の高い池ほど、皮膚マイクロバイオームの多様性が高く、病原体の発生頻度が低いことが明らかになった。微生物叢組成の予測機能解析により、酸性度の高い池および感染頻度の低い皮膚マイクロバイオームにおいて、宿主免疫に関連し亢進している細菌媒介性経路が同定された。本研究は、野生下における宿主・マイクロバイオーム・病原体間の関係および感染パターンを調節する上で、環境が潜在的に重要であることを浮き彫りにしている。"
+  },
+  {
+    "id": "10.1093/bioinformatics/btag831",
+    "title": "Correction to: FusionEncoder: identification of intrinsically disordered regions based on multi-feature fusion",
+    "abstract": "This is a correction to: Sicen Liu, Shutao Chen, Tao Bai, Bin Liu, FusionEncoder: identification of intrinsically disordered regions based on multi-feature fusion, Bioinformatics, Volume 41, Issue 7, July 2025, btaf362, https://doi.org/10.1093/bioinformatics/btaf362",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag831",
+    "date": "2026-11-19",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btag831/9103646?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5139/3001.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5345,
+    "collected_at": "2026-11-20T03:23:23.547156+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "https://academic.oup.com/rss/site_5139/3001.xml"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1093/bioinformatics/btag831"
+    ],
+    "translation": {
+      "title": {
+        "hash": "57713a568e3b2d2d665ae23b8233abd674247ce546f4e2d883e93edbd351706a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T03:44:36.387301+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ec0dec3a48c5eb3b9eddc7332179559c711e41cffbb3ab2a064b577deef7bc2f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T03:44:36.387301+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "訂正：FusionEncoder: マルチフィーチャー融合に基づく本質的に無秩序な領域の同定",
+    "abstract_ja": "本論文は、Sicen Liu, Shutao Chen, Tao Bai, Bin Liu, FusionEncoder: identification of intrinsically disordered regions based on multi-feature fusion, Bioinformatics, Volume 41, Issue 7, July 2025, btaf362, https://doi.org/10.1093/bioinformatics/btaf362 の訂正である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 7",
+        "query": "(JOURNAL:\"Microbial Ecology\" OR JOURNAL:\"Environmental Microbiology Reports\" OR JOURNAL:\"International Journal of Systematic and Evolutionary Microbiology\" OR JOURNAL:\"npj Biofilms and Microbiomes\" OR JOURNAL:\"Nature Reviews Microbiology\" OR JOURNAL:\"Trends in Microbiology\" OR JOURNAL:\"Annual Review of Microbiology\" OR JOURNAL:\"Microbial Cell\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1099/ijsem.0.007346",
+    "title": "<i>Parafrankia flexibilis</i> sp. nov., an actinorhizal symbiont crossing the host boundary between <i>Elaeagnus</i> and <i>Alnus</i> and taxonomic reassessment of <i>Frankia nepalensis</i> as <i>Pseudofrankia nepalensis</i> comb. nov.",
+    "abstract": "Strain EI5cᵀ, an actinorhizal microsymbiont isolated from nodules of Elaeagnus angustifolia, represents the sole available member of a rare lineage capable of nodulating both Elaeagnus and Alnus. A polyphasic taxonomic study was conducted to determine its taxonomic position. Phylogenetic and phylogenomic analyses placed strain EI5cᵀ within the genus Parafrankia, with Parafrankia irregularis G2ᵀ as its closest relative. Genome-relatedness indices measures between strain EI5cᵀ and recognized Parafrankia species were below species delineation thresholds, with average nucleotide identity (ANI) values of 80.87-81.98% and digital DNA-DNA hybridization (dDDH) values of 25.2-26.4%. The draft genome is 6.6 Mbp in size with a DNA G+C content of 72.14 mol%. Strain EI5cᵀ was distinguished from the described Parafrankia species by its physiological and chemotaxonomic characteristics. The predominant cellular fatty acids were iso-C16 : 0, C17 : 1  ω8c and C16 : 0. Whole-cell sugars were glucose, galactose and mannose, while the polar lipid profile comprised phosphatidylinositol, diphosphatidylglycerol, phosphatidylglycerol, three unidentified glycophospholipids and one unidentified lipid. Inoculation assays confirmed nodulation of both E. angustifolia and Alnus glutinosa. Phylogenomic and genome-relatedness analyses further placed Frankia nepalensis CN4ᵀ within the Pseudofrankia lineage, where it exhibited higher 16S rRNA gene sequence similarity (98.50-99.05%), ANI (81.92-83.89%) and dDDH (25.5-27.9%) values with Pseudofrankia species than with other Frankiaceae species. Within the four-genus framework adopted here, these results support the transfer of F. nepalensis to Pseudofrankia as Pseudofrankia nepalensis comb. nov. On the basis of the combined phylogenetic, phylogenomic, genomic, phenotypic, chemotaxonomic and symbiotic evidence, strain EI5cᵀ represents a novel species of the genus Parafrankia, for which the name Parafrankia flexibilis sp. nov. is proposed. The type strain is EI5cᵀ (=DSM 114743ᵀ=CECT 9315ᵀ).",
+    "journal": "International Journal of Systematic and Evolutionary Microbiology",
+    "doi": "10.1099/ijsem.0.007346",
+    "date": "2026-11-01",
+    "authors": "Dali H, Boujemaa E, Boussoufa D, Sbissi I, Gtari M, Ghodhbane-Gtari F.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43042930",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43042930",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenetic",
+          "phylogenomic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 5179,
+    "collected_at": "2026-11-20T03:12:52.480184+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "Europe PMC journals 7"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1099/ijsem.0.007346"
+    ],
+    "translation": {
+      "title": {
+        "hash": "968eba26af41816c746b926e5ff6982bb14d65f3404831ba4e705fe413033141",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T03:44:36.387301+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8f97e87adc4f35e4ad9fa8b6e644105de93a54231cb2ebe13bcab8c957a56735",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T03:44:36.387301+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "<i>Parafrankia flexibilis</i> sp. nov.：<i>Elaeagnus</i>と<i>Alnus</i>の宿主境界を越えるアクチノリザル共生体、および<i>Frankia nepalensis</i>の<i>Pseudofrankia nepalensis</i> comb. nov.としての分類学的再検討",
+    "abstract_ja": "Elaeagnus angustifoliaの結節から単離されたアクチノリザル微共生体である菌株EI5cᵀは、Elaeagnus属とAlnus属の両方に結節を形成し得る稀な系統の唯一の既知メンバーである。その分類学的位置を特定するため、多相的な分類学的研究を実施した。系統学的および系統ゲノム解析の結果、菌株EI5cᵀはParafrankia属に分類され、Parafrankia irregularis G2ᵀが最も近縁な種であることが判明した。菌株EI5cᵀと既知のParafrankia属種との間のゲノム関連性指標は、種の境界判定閾値を下回っており、平均塩基同一性（ANI）値は80.87-81.98%、デジタルDNA-DNAハイブリダイゼーション（dDDH）値は25.2-26.4%であった。ドラフトゲノムのサイズは6.6 Mbpで、DNA G+C含量は72.14 mol%であった。菌株EI5cᵀは、生理学的および化学分類学的特性によって、既報のParafrankia属種と区別された。主要な細胞脂肪酸は、iso-C16 : 0、C17 : 1  ω8c、およびC16 : 0であった。全細胞糖はグルコース、ガラクトース、およびマンノースであり、極性脂質プロファイルはホスファチジルイノシトール、ジホスファチジルグリセロール、ホスファチジルグリセロール、3種類の未同定糖脂質、および1種類の未同定脂質で構成されていた。接種試験により、E. angustifoliaおよびAlnus glutinosaの両方への結節形成が確認された。系統ゲノム解析およびゲノム関連性解析により、Frankia nepalensis CN4ᵀはさらにPseudofrankia系統内に位置づけられ、他のFrankiaceae属種よりもPseudofrankia属種との間で高い16S rRNA遺伝子配列類似性（98.50-99.05%）、ANI（81.92-83.89%）、およびdDDH（25.5-27.9%）値を示した。本研究で採用した4属の枠組みにおいて、これらの結果は、F. nepalensisをPseudofrankia nepalensis comb. nov.としてPseudofrankia属へ移属させることを支持するものである。系統学的、系統ゲノム学的、ゲノム学的、表現型学的、化学分類学的、および共生学的証拠を総合すると、菌株EI5cᵀはParafrankia属の新種であり、Parafrankia flexibilis sp. nov.という名称を提案する。タイプ株はEI5cᵀ (=DSM 114743ᵀ=CECT 9315ᵀ) である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 8",
+        "query": "(JOURNAL:\"Microbial Biotechnology\" OR JOURNAL:\"Extremophiles\" OR JOURNAL:\"Genome Biology and Evolution\" OR JOURNAL:\"Molecular Biology and Evolution\" OR JOURNAL:\"Molecular Ecology\" OR JOURNAL:\"Molecular Ecology Resources\" OR JOURNAL:\"Molecular Phylogenetics and Evolution\" OR JOURNAL:\"Bioinformatics Advances\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1111/1751-7915.70460",
+    "title": "Functional Characterization and Application of Yarrowia lipolytica YlYxc1 for Enhanced Production of Sphingoid Bases.",
+    "abstract": "Long-chain bases (LCBs; sphingoid bases), derived from ceramide metabolism, are valuable sphingolipid intermediates for industrial applications. Here, we functionally characterized a putative ceramidase from Yarrowia lipolytica (YlYxc1) and evaluated its potential to enhance LCB production. YlYxc1 contains a conserved alkaline ceramidase motif with seven transmembrane helices and shares ~42% amino acid identity with Saccharomyces cerevisiae alkaline ceramidases ScYpc1 and ScYdc1. Despite lacking a canonical ER retention motif, YlYxc1 localized to the ER membrane. Deletion of YlYXC1 caused no major growth or lipid profile changes. Heterologous overexpression of YlYXC1 in S. cerevisiae wild-type and Scypc1Δydc1Δ strains increased phytosphingosine (PHS) production over dihydrosphingosine (DHS), mimicking ScYPC1 overexpression. In vitro activity assays using microsomal fractions from Scypc1Δydc1Δ cells expressing YlYXC1 revealed preferential hydrolysis of phytoceramide with an alkaline pH optimum. Furthermore, YlYXC1 expression in an engineered Y. lipolytica strain expressing heterologous acetyltransferases WcSLI1 and WcATF2 remarkably enhanced acetylated LCB production. Multi-copy integration of YlYXC1 into the Ylsur2Δsld1Δ strain also increased the secretory production of non-acetylated DHS. These findings establish YlYxc1 as a promising metabolic engineering target for producing value-added LCBs for pharmaceutical and cosmeceutical applications.",
+    "journal": "Microbial Biotechnology",
+    "doi": "10.1111/1751-7915.70460",
+    "date": "2026-11-01",
+    "authors": "Shin SH, Jeon EJ, Moon HY, Go GY, Yoo YS, Lee JK, Jeon CO, Kang HA.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42947429",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13714454",
+    "pmid": "42947429",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Saccharomyces"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5186,
+    "collected_at": "2026-11-20T03:12:52.480184+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "Europe PMC journals 8"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1111/1751-7915.70460"
+    ],
+    "translation": {
+      "title": {
+        "hash": "1ff491eba12a6ba7c22e8569b5493bd1d8c8b4630b027e0cb99aef844037918e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T03:44:36.387301+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "26673888e519fac0a6c67de225a132fa046ba04789e7d2f5b112470d8209b46b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T03:44:36.387301+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "スズメノヒバリヤ（Yarrowia lipolytica YlYxc1）の機能特性解析とスズメノヒバリヤ基質の生産増強への応用",
+    "abstract_ja": "セラミド代謝に由来する長鎖塩基（LCB；スフィンゴイド塩基）は、工業的応用において有用なスフィンゴ脂質中間体である。本研究では、Yarrowia lipolytica由来の推定セラミド分解酵素（YlYxc1）の機能的特性解析を行い、LCB産生を増強させる可能性を評価した。YlYxc1は、7本の膜貫通ヘリックスを有する保存されたアルカリ性セラミド分解酵素モチーフを含み、Saccharomyces cerevisiaeのアルカリ性セラミド分解酵素であるScYpc1およびScYdc1と約42%のアミノ酸同一性を示す。典型的なER保持モチーフを欠いているにもかかわらず、YlYxc1はER膜に局在した。YlYxc1の欠損は、増殖や脂質プロファイルに重大な変化をもたらさなかった。S. cerevisiae野生型およびScypc1Δydc1Δ株におけるYlYxc1の異種過剰発現は、ジヒドロスフィンゴシン（DHS）よりもフィトスフィンゴシン（PHS）の産生を増加させ、ScYPC1の過剰発現と同様の挙動を示した。YlYxc1を発現するScypc1Δydc1Δ細胞のミクロソーム画分を用いたin vitro活性アッセイでは、アルカリ性pHを至適とするフィトセラミドの優先的な加水分解が認められた。さらに、異種アセチルトランスフェラーゼWcSLI1およびWcATF2を発現する改変Y. lipolytica株におけるYlYxc1の発現は、アセチル化LCBの産生を著しく増強した。Ylsur2Δsld1Δ株へのYlYxc1の多コピー組み込みは、非アセチル化DHSの分泌産生も増加させた。これらの知見は、医薬品およびコスメシューティカル用途に向けた付加価値型LCBを生産するための有望な代謝工学的標的として、YlYxc1を確立するものである。"
   }
 ]
