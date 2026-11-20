@@ -312623,5 +312623,290 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "Droplet PCRを用いた単一細胞スクリーニング法により明らかになったPromAγプラスミドの多様な潜在的自然宿主",
     "abstract_ja": "ドロップレットデジタルPCRに基づく単一細胞法により、湖沼堆積物からPromAγプラスミドを保持する細菌の直接検出および回収が可能となった。本手法により、未培養の分類群を含む予想外に多様な潜在的自然宿主が明らかとなり、広範な宿主範囲を持つプラスミドの生態学的汎用性が示唆された。\n\n要旨\nPromAプラスミドは広範な宿主範囲を持つプラスミド群であり、外因性プラスミド捕捉法によって様々な環境試料から単離されてきた。しかし、その自然宿主は未同定のままであった。本研究では、水油滴法とデジタルPCRに蛍光プローブを組み合わせた培養非依存的な単一細胞レベルのスクリーニング手法を開発し、環境中の細菌分類群に関連するPromAγ関連repAシグナルの直接検出を可能にした。陽性ドロップレットはマイクロ流体デバイスを備えたディスペンサーで回収され、16S rRNA遺伝子配列に基づいてプラスミドの潜在的な自然宿主が同定された。2つの異なる時期に採取した佐鳴湖の堆積物試料に本手法を適用したところ、これまで報告されていなかった候補宿主を含む、PromAγ関連repAシグナルに関連する多様な細菌分類群が同定された。我々の結果は、PromAγプラスミドが自然界の微生物群集において多種多様な細菌分類群と関連していることを示唆している。開発した手法は、標的遺伝子を持つ細菌細胞の検出および回収に応用可能であり、微生物生態学研究において有用であると考えられる。\n\nドロップレットデジタルPCRに基づく単一細胞法により、湖沼堆積物からPromAγプラスミドを保持する細菌の直接検出および回収が可能となった。本手法により、未培養の分類群を含む予想外に多様な潜在的自然宿主が明らかとなり、広範な宿主範囲を持つプラスミドの生態学的汎用性が示唆された。\n\n要旨\nPromAプラスミドは広範な宿主範囲を持つプラスミド群であり、外因性プラスミド捕捉法によって様々な環境試料から単離されてきた。しかし、その自然宿主は未同定のままであった。本研究では、水油滴法とデジタルPCRに蛍光プローブを組み合わせた培養非依存的な単一細胞レベルのスクリーニング手法を開発し、環境中の細菌分類群に関連するPromAγ関連repAシグナルの直接検出を可能にした。陽性ドロップレットはマイクロ流体デバイスを備えたディスペンサーで回収され、16S rRNA遺伝子配列に基づいてプラスミドの潜在的な自然宿主が同定された。2つの異なる時期に採取した佐鳴湖の堆積物試料に本手法を適用したところ、これまで報告されていなかった候補宿主を含む、PromAγ関連repAシグナルに関連する多様な細菌分類群が同定された。我々の結果は、PromAγプラスミドが自然界の微生物群集において多種多様な細菌分類群と関連していることを示唆している。開発した手法は、標的遺伝子を持つ細菌細胞の検出および回収に応用可能であり、微生物生態学研究において有用であると考えられる。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1959843",
+    "title": "Allelochemical-microbiome feedback loops drive continuous-cropping obstacles in medicinal plants: a mechanistic review",
+    "abstract": "Continuous-cropping obstacles severely constrain medicinal plant cultivation, driven by self-reinforcing interactions between allelopathic autotoxicity and soil microbiome dysbiosis. The underlying mechanism involves a three-way interplay among allelochemicals, soil microorganisms and host plants. Phenolics, terpenoids, alkaloids and flavonoids, which are released from root exudates, foliar leaching, and residue decomposition, accumulate in soil and reshape rhizosphere microbial communities through three hierarchically linked mechanisms: (i) direct cellular toxicity, which suppresses beneficial taxa while stimulating pathogens; (ii) habitat modification, mediated by soil acidification and disrupted nutrient cycling; and (iii) community-level dysbiosis, marked by a bacterial-to-fungal regime shift. For example, the leaf leachate of Eucalyptus urophylla is rich in phenolic acids such as benzoic acid, while exogenous benzoic acid can significantly reduce the relative abundance of Gemmatimonas and Pseudolabrys in the rhizosphere of Perilla frutescens, and increase the abundance of pathogenic fungi such as Pseudogymnoascus. This suggests that the leaf leachate of Eucalyptus urophylla may affect the rhizosphere microbial community of understory plants through the phenolic acid pathway. Conversely, specialized soil microbial taxa catabolize allelochemicals through dedicated pathways, primarily the β-ketoadipate pathway for aromatics, thus preventing their accumulation. Synthesizing current evidence, we propose an integrated two-way feedback model that remains to be empirically verified: when the accumulation of allelochemicals exceeds the critical threshold, the attenuation of microbial degradation capacity and the proliferation of pathogenic microorganisms may strengthen each other, driving the non-linear development of continuous cropping obstacles and showing potential irreversibility. This framework highlights that bidirectional interactions between allelochemicals and rhizosphere microbiomes constitute a core mechanism underlying medicinal plant continuous cropping obstacles, while its causal relationships and threshold characteristics still require validation via systematic longitudinal studies. This review systematically categorizes medicinal plant allelochemicals, organizes their effects on microbial communities into a mechanistic framework, summarizes characterized degrading strains and pathways, and identifies key testable hypotheses for future research. By framing medicinal plant replant disease within plant–soil feedback theory, this work provides mechanistic insights to guide sustainable cultivation practices and advance understanding of belowground chemical-microbial interactions.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1959843",
+    "date": "2026-11-20",
+    "authors": "Jin-lin Guo",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1959843",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "fungal",
+        "fungi",
+        "microbial",
+        "microbiome",
+        "microbiomes",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5383,
+    "collected_at": "2026-11-20T20:25:40.156289+00:00",
+    "collected_date": "2026-11-21",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.3389/fmicb.2026.1959843"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c17fe0f8bd2695d9f741b876b7cf254f2e3ccaea8482da5b9d6aaf77167ef40b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T20:56:51.406069+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2323b1439229d690d7a9519991a60e5a2875808a7299f52600b80aaedf7ad48c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T20:56:51.406069+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "アレロケミカル－微生物叢フィードバックループが薬用植物の連作障害を駆動する：機構的総説",
+    "abstract_ja": "連作障害は薬用植物の栽培を著しく制約しており、その要因として、アレロパシーによる自家毒性と土壌微生物叢のディスバイオーシスとの自己強化的な相互作用が挙げられる。その根底にあるメカニズムには、アレロケミカル、土壌微生物、および宿主植物の三者間の相互作用が関与している。根分泌物、葉面溶脱、および残渣分解によって放出されるフェノール類、テルペノイド、アルカロイド、およびフラボノイドは、土壌中に蓄積し、階層的に連結した3つのメカニズムを通じて根圏微生物群集を変容させる。すなわち、(i) 有益な分類群を抑制しつつ病原菌を刺激する直接的な細胞毒性、(ii) 土壌酸性化と栄養循環の乱れを介した生息環境の改変、および (iii) 細菌から真菌へのレジームシフトを特徴とする群集レベルのディスバイオーシスである。例えば、Eucalyptus urophyllaの葉液には安息香酸などのフェノール酸が豊富に含まれているが、外因性の安息香酸は、Perilla frutescensの根圏におけるGemmatimonasおよびPseudolabrysの相対的な存在量を著しく減少させ、Pseudogymnoascusなどの病原性真菌の存在量を増加させることがある。このことは、Eucalyptus urophyllaの葉液がフェノール酸経路を介して林下植物の根圏微生物群集に影響を及ぼしている可能性を示唆している。逆に、特化した土壌微生物分類群は、専用の経路（主に芳香族化合物に対するβ-ケトアジペート経路）を通じてアレロケミカルを異化分解し、その蓄積を防いでいる。現在のエビデンスを統合し、我々は実証的な検証が待たれる統合的な双方向フィードバックモデルを提案する。すなわち、アレロケミカルの蓄積が臨界閾値を超えた場合、微生物の分解能の低下と病原性微生物の増殖が互いに強化し合い、連作障害の非線形な進展を駆動し、潜在的な不可逆性を示す可能性がある。この枠組みは、アレロケミカルと根圏微生物叢の双方向的な相互作用が薬用植物の連作障害の中核的なメカニズムであることを浮き彫りにしており、その因果関係や閾値特性については、系統的な縦断的研究による検証が依然として必要である。本総説では、薬用植物のアレロケミカルを体系的に分類し、微生物群集への影響をメカニズム的な枠組みに整理し、特性解析された分解菌株と経路をまとめ、今後の研究に向けた検証可能な主要仮説を特定する。薬用植物の再作病を植物－土壌フィードバック理論の枠組みで捉えることで、本研究は持続可能な栽培慣行を導き、地下の化学的・微生物的相互作用の理解を深めるためのメカニズム的な知見を提供する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 2",
+        "query": "(JOURNAL:\"microLife\" OR JOURNAL:\"Nucleic Acids Research\" OR JOURNAL:\"NAR Genomics and Bioinformatics\" OR JOURNAL:\"Bioinformatics\" OR JOURNAL:\"Microbes and Environments\" OR JOURNAL:\"Frontiers in Microbiology\" OR JOURNAL:\"Frontiers in Marine Science\" OR JOURNAL:\"mBio\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1128/mbio.02302-26",
+    "title": "The cell wall integrity pathway kinase Mpk1 regulates extracellular vesicle production and apoptotic-like vesicle release in <i>Cryptococcus neoformans</i>.",
+    "abstract": "Extracellular vesicles (EVs) are important mediators of fungal physiology and host interactions, yet the mechanisms governing their production remain poorly understood. In Cryptococcus neoformans, EV production is tightly regulated by environmental conditions, suggesting the existence of dedicated signaling pathways. Here, we screened a kinase deletion library to identify regulators of EV production and found that the cell wall integrity (CWI) pathway acts as a major negative regulator of EV production. Deletion of the CWI kinases MPK1, MKK2, or BCK1 increased EV release. Unexpectedly, the size of EVs produced by CWI mutants differed markedly from wild type. Accordingly, cryo-electron microscopy revealed the accumulation of larger vesicles with altered size distributions in the mpk1Δ mutant. These EVs lacked the characteristic mannoprotein-based fibrillar surface decoration observed on most wild-type vesicles, exhibited reduced association with capsular polysaccharide, and contained substantially less protein. Quantitative proteomic analysis demonstrated extensive remodeling of the EV proteome, with depletion of glycosylphosphatidylinositol (GPI)-anchored proteins, and enrichment of ribosomal proteins and histones. Finally, mpk1Δ EVs displayed several hallmarks of mammalian apoptotic EVs, including phosphatidylserine exposure, and were produced under conditions associated with reduced cell viability. Together, these findings identify the CWI pathway as a central regulator of fungal EV production and provide evidence that C. neoformans produces distinct EV populations through genetically regulated pathways. Our results provide evidence for an apoptotic-like EV population in fungi and reveal an unexpected link between cell wall integrity signaling, cell death, and EV diversity.IMPORTANCEFungal extracellular vesicles (EVs) contribute to virulence, antifungal resistance, and host-pathogen interactions, yet the mechanisms governing their production remain poorly understood. Here, we identify the cell wall integrity signaling pathway as a major regulator of EV production in the human fungal pathogen Cryptococcus neoformans. We further show that disruption of one of the major kinases of this pathway induces the production of a distinct population of EVs with structural and molecular features resembling mammalian apoptotic EVs. These findings demonstrate that fungi produce multiple EV populations through genetically regulated pathways rather than a single constitutive mechanism. By establishing the existence of apoptotic-like EVs in fungi, our work provides new insight into fungal EV production and lays the foundation for investigating how different EV populations contribute to fungal physiology, pathogenesis, and antifungal resistance.",
+    "journal": "mBio",
+    "doi": "10.1128/mbio.02302-26",
+    "date": "2026-10-23",
+    "authors": "Deculty C, Flamant P, Moyrand F, Commere P-H, Novault S, Gil M, Elj R, Matondo M, Janbon G, Mouyna I.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42925063",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13753817",
+    "pmid": "42925063",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungal",
+        "fungi"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5256,
+    "collected_at": "2026-11-20T20:15:04.307525+00:00",
+    "collected_date": "2026-11-21",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1128/mbio.02302-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "fe6acf65729063875e251f1f3906c3636fa77b62b5cab3dbc2db2223b9d1f8f0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T20:56:51.406069+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "653ef055c802f1bc52f9dbe74719ea05a2ec7b9a5221681f9b2205110a161600",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T20:56:51.406069+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "細胞壁完全性経路キナーゼMpk1は、<i>Cryptococcus neoformans</i>における細胞外小胞の産生およびアポトーシス様小胞の放出を調節する。",
+    "abstract_ja": "細胞外小胞（EV）は、真菌の生理機能および宿主との相互作用における重要な媒介因子であるが、その産生を制御するメカニズムは十分に解明されていない。Cryptococcus neoformansでは、EVの産生が環境条件によって厳密に調節されており、専用のシグナル伝達経路の存在が示唆されている。本研究では、キナーゼ欠損ライブラリを用いてEV産生の調節因子をスクリーニングし、細胞壁完全性（CWI）経路がEV産生の主要な負の調節因子として機能することを見出した。CWIキナーゼであるMPK1、MKK2、またはBCK1を欠損させると、EVの放出が増加した。予想外なことに、CWI変異体によって産生されたEVのサイズは、野生型と著しく異なっていた。これに伴い、クライオ電子顕微鏡観察により、mpk1Δ変異体ではサイズ分布が変化した大型の小胞が蓄積していることが明らかになった。これらのEVは、ほとんどの野生型小胞に見られる特徴的なマンノタンパク質ベースの線維状表面装飾を欠き、莢膜多糖類との結合が減少しており、タンパク質含有量も大幅に少なかった。定量的プロテオーム解析により、EVプロテオームの広範なリモデリングが示され、グリコシルホスファチジルイノシトール（GPI）アンカー型タンパク質の減少と、リボソームタンパク質およびヒストンの濃縮が認められた。最後に、mpk1Δ EVは、ホスファチジルセリンの露出を含む哺乳類のアポトーシスEVのいくつかの特徴を示し、細胞生存率の低下を伴う条件下で産生された。以上の知見を総合すると、CWI経路が真菌のEV産生の中心的な調節因子であることが特定され、C. neoformansが遺伝的に調節された経路を通じて異なるEV集団を産生しているという証拠が得られた。本研究の結果は、真菌におけるアポトーシス様EV集団の存在を示す証拠となり、細胞壁完全性シグナル伝達、細胞死、およびEV多様性の間の予期せぬ関連性を明らかにするものである。重要性真菌の細胞外小胞（EV）は、病原性、抗真菌耐性、および宿主-病原体相互作用に寄与するが、その産生を制御するメカニズムは十分に解明されていない。本研究では、ヒト真菌病原体であるCryptococcus neoformansにおいて、細胞壁完全性シグナル伝達経路がEV産生の主要な調節因子であることを特定した。さらに、この経路の主要なキナーゼの一つを阻害すると、哺乳類のアポトーシスEVに類似した構造的・分子的特徴を持つ、異なるEV集団の産生が誘導されることを示した。これらの知見は、真菌が単一の構成的メカニズムではなく、遺伝的に調節された経路を通じて複数のEV集団を産生していることを示している。真菌におけるアポトーシス様EVの存在を立証することで、本研究は真菌のEV産生に関する新たな知見を提供し、異なるEV集団が真菌の生理機能、病原性、および抗真菌耐性にどのように寄与しているかを調査するための基礎を築くものである。"
+  },
+  {
+    "id": "10.1093/femsml/uqag041",
+    "title": "Molecular crosstalk between bacteriophages and animal/human immune systems",
+    "abstract": "AbstractBacteriophages (or phages), viruses infecting bacteria, constitute a major component of the animal and human gut virome. However, in most cases, avian and mammalian innate immunity does not mount acute inflammatory responses to phage-derived components. This remarkable tolerance raises fundamental questions about the molecular mechanisms enabling bacteriophages to evade or modulate innate immune detection, while adaptive immune response can effectively generate anti-phage antibodies. Recent years have brought significant advances, opening a new perspective in our understanding of phage-animal/human immune system interactions. This has implications for both understanding basic biological mechanisms of bacteriophage-animal/human organism crosstalk and applications of bacteriophages in biotechnology and medicine.",
+    "journal": "microLife",
+    "doi": "10.1093/femsml/uqag041",
+    "date": "2026-11-20",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/microlife/advance-article/doi/10.1093/femsml/uqag041/9104231?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacteriophage",
+        "bacteriophages",
+        "phage",
+        "phages",
+        "virome",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6277/advanceAccess_4060.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5377,
+    "collected_at": "2026-11-20T20:25:40.156289+00:00",
+    "collected_date": "2026-11-21",
+    "sources": [
+      "https://academic.oup.com/rss/site_6277/advanceAccess_4060.xml"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1093/femsml/uqag041"
+    ],
+    "translation": {
+      "title": {
+        "hash": "42b60660605107deb44279ff6e50792b728e16e97f4b752a5c6207179e58d33d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T20:56:51.406069+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "699a7c608e24271e3884c6c9fbb2e0c840df1b2560b3cef2e90c499c63e44ba6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T20:56:51.406069+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "バクテリオファージと動物・ヒト免疫系との分子間相互作用",
+    "abstract_ja": "要旨 バクテリオファージ（またはファージ）、すなわち細菌に感染するウイルスは、動物およびヒトの腸内ウイルス叢の主要な構成要素である。しかし、多くの場合、鳥類および哺乳類の自然免疫は、ファージ由来の成分に対して急性炎症反応を示さない。この顕著な耐性は、獲得免疫応答が効果的に抗ファージ抗体を産生できる一方で、バクテリオファージが自然免疫による検知を回避または調節することを可能にする分子機構について、根本的な問いを投げかけている。近年、著しい進展が見られ、ファージと動物・ヒト免疫系の相互作用に関する理解に新たな視点が切り拓かれた。これは、バクテリオファージと動物・ヒト個体とのクロストークの基礎的な生物学的機構の解明と、バイオテクノロジーおよび医学におけるバクテリオファージの応用の双方に重要な意義を持つ。"
+  },
+  {
+    "id": "10.1038/s41579-026-01399-4",
+    "title": "A voyage of viral transmission",
+    "abstract": "This study provides further evidence of Andes virus human-to-human transmission, specifically in close-contact settings.",
+    "journal": "Nature Reviews Microbiology",
+    "doi": "10.1038/s41579-026-01399-4",
+    "date": "2026-11-20",
+    "authors": "Andrea Du Toit",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.nature.com/articles/s41579-026-01399-4",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.nature.com/nrmicro.rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5437,
+    "collected_at": "2026-11-20T20:25:40.156289+00:00",
+    "collected_date": "2026-11-21",
+    "sources": [
+      "https://www.nature.com/nrmicro.rss"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1038/s41579-026-01399-4"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ff9a59fc67b88742301bc702741fc3a274941daeb3c9128b7238c1f9216c2b9a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T20:56:51.406069+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ca2b1a1f9f93f6603c5ef7732553609c26a2cdaf767851b0b14b2677f75fab74",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T20:56:51.406069+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ウイルス伝播の旅",
+    "abstract_ja": "本研究は、アンデスウイルスのヒトからヒトへの伝播、特に濃厚接触環境における伝播を裏付けるさらなる証拠を提示するものである。"
   }
 ]
