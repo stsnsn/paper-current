@@ -308490,5 +308490,325 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "微生物とその生息環境が、氷河期後の生態系を形作っている。",
     "abstract_ja": "世界各地で氷河が後退するにつれ、微生物が氷河期後の土壌形成の初期段階を牽引する。Rukaらは、微生物群集が一次遷移の過程で形成された固有の生物生息地によって強く構造化されていることを明らかにした。したがって、氷河期後の生態系の推移は、生物生息地とそれに関連する微生物群集との相互作用によって形作られる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 7",
+        "query": "(JOURNAL:\"Microbial Ecology\" OR JOURNAL:\"Environmental Microbiology Reports\" OR JOURNAL:\"International Journal of Systematic and Evolutionary Microbiology\" OR JOURNAL:\"npj Biofilms and Microbiomes\" OR JOURNAL:\"Nature Reviews Microbiology\" OR JOURNAL:\"Trends in Microbiology\" OR JOURNAL:\"Annual Review of Microbiology\" OR JOURNAL:\"Microbial Cell\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1099/ijsem.0.007344",
+    "title": "<i>Glutinosa niejishengi</i> gen. nov., sp. nov., isolated from wastewater samples of coal mines.",
+    "abstract": "The strains, designated Z1732T and Z1739, were isolated from wastewater samples collected from coal mines in Xiangning and Jincheng, Shanxi Province, China. Both strains are Gram-stain-positive, oxidase-negative, catalase-positive, aerobic, non-motile and coccoid or rod-shaped. The major fatty acid was anteiso-C15 : 0. The major respiratory quinone was MK8(H4). Comparative 16S rRNA gene sequence analysis showed that strain Z1732T exhibited the highest similarity (95.71%) to Pseudactinotalea caeni GDMCC 1.5794T, followed by Pseudactinotalea terrae KACC 16542T (95.54%). The phylogenetic tree based on core genes indicated that strains Z1732T and Z1739 formed an independent branch adjacent to the strains of the genus Pseudactinotalea within the family Ruaniaceae but could not be assigned to any of the described genera. In pairwise comparisons with type strains, digital DNA-DNA hybridization and average nucleotide identity values were lower than 20 and 75%, respectively, below the thresholds for species delineation. Notably, all amino acid identity values were below the 65% cutoff for defining a new genus. Based on phylogenetic, genomic, phenotypic and chemotaxonomic characterizations, strains Z1732T and Z1739 should represent a novel species of a novel genus within the family Ruaniaceae, for which the name Glutinosa niejishengi gen. nov., sp. nov. is proposed, with the type strain Z1732T (=GDMCC 1.5671T=KCTC 59556T).",
+    "journal": "International Journal of Systematic and Evolutionary Microbiology",
+    "doi": "10.1099/ijsem.0.007344",
+    "date": "2026-11-01",
+    "authors": "Zhao L, Zhang M, Yan T, Weng Z, Yang Q, Gao F, Xie J, Liu T, Yang C, Kang Z, Pu J, Zheng H, Xu J, Dong K.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43049747",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43049747",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "average nucleotide identity"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 5181,
+    "collected_at": "2026-11-20T03:12:52.480184+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "Europe PMC journals 7"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1099/ijsem.0.007344"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3af69c64a182bff708b56b523f078b54d4b1d5f0ab5a8e7d0882002e1af6c002",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T03:50:15.788514+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "bfe74a9ad211128f42aaf4bd27843c45799303cf70892f00a29235049b43fbb4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T03:50:15.788514+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "<i>Glutinosa niejishengi</i> gen. nov., sp. nov., 炭鉱の廃水試料から分離された。",
+    "abstract_ja": "Z1732TおよびZ1739と命名された菌株は、中国山西省の襄寧および晋城の炭鉱から採取された廃水試料から分離された。両菌株はいずれもグラム染色陽性、オキシダーゼ陰性、カタラーゼ陽性、好気性、非運動性であり、球菌状または桿菌状であった。主要脂肪酸はanteiso-C15 : 0であった。主要な呼吸キノンはMK8(H4)であった。比較16S rRNA遺伝子配列解析の結果、菌株Z1732TがPseudactinotalea caeni GDMCC 1.5794Tに対して最も高い類似性（95.71%）を示し、次いでPseudactinotalea terrae KACC 16542T（95.54%）であった。コア遺伝子に基づく系統樹では、菌株Z1732TおよびZ1739は、Ruaniaceae科のPseudactinotalea属の菌株に隣接する独立した分枝を形成していたが、既報のいずれの属にも分類できなかった。タイプ株とのペアワイズ比較において、デジタルDNA-DNAハイブリダイゼーションおよび平均塩基同一性値は、種の画定閾値をそれぞれ20%および75%下回っていた。特筆すべきは、すべてのアミノ酸同一性値が、新属を定義するための65%カットオフ値を下回っていたことである。系統学的、ゲノム学的、表現型的、および化学分類学的特性評価に基づき、菌株Z1732TおよびZ1739はRuaniaceae科の新属に属する新種であると考えられ、Glutinosa niejishengi gen. nov., sp. nov. という名称が提案され、タイプ株はZ1732T (=GDMCC 1.5671T=KCTC 59556T) である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 7",
+        "query": "(JOURNAL:\"Microbial Ecology\" OR JOURNAL:\"Environmental Microbiology Reports\" OR JOURNAL:\"International Journal of Systematic and Evolutionary Microbiology\" OR JOURNAL:\"npj Biofilms and Microbiomes\" OR JOURNAL:\"Nature Reviews Microbiology\" OR JOURNAL:\"Trends in Microbiology\" OR JOURNAL:\"Annual Review of Microbiology\" OR JOURNAL:\"Microbial Cell\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.tim.2026.10.002",
+    "title": "Hidden carbon: uncovering the diversity and function of polyhydroxyalkanoates.",
+    "abstract": "Polyhydroxyalkanoates (PHAs) are a widespread family of microbial carbon-storage polymers. Ecological studies often focus on polyhydroxybutyrate (PHB), obscuring the broader chemical diversity. We argue that PHA monomer composition should be treated as a microbial trait and propose a multiscale framework, from the single cell to the ecosystem level, to reveal hidden carbon dynamics.",
+    "journal": "Trends in Microbiology",
+    "doi": "10.1016/j.tim.2026.10.002",
+    "date": "2026-10-21",
+    "authors": "Pei R, Gu W.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42907313",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42907313",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5177,
+    "collected_at": "2026-11-20T03:12:52.480184+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "Europe PMC journals 7"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1016/j.tim.2026.10.002"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ed7a4a5f4932c06edf950a1ea9bc5a80d315a9b5e1350edfd56c9dcbb0ba11fc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T03:50:15.788514+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e3946a49556f1aee23520f64a9a96c525b9f39dd12b2731e95ed661e261d324e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T03:50:15.788514+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "隠れた炭素：ポリヒドロキシアルカノエートの多様性と機能の解明",
+    "abstract_ja": "ポリヒドロキシアルカノエート（PHA）は、広く分布する微生物由来の炭素貯蔵ポリマー群である。生態学的研究ではポリヒドロキシ酪酸（PHB）に焦点が当てられがちであり、より広範な化学的多様性が見落とされている。我々は、PHAのモノマー組成を微生物の形質として扱うべきであると主張し、単一細胞から生態系レベルに至るマルチスケールな枠組みを提案することで、潜在的な炭素動態を明らかにする。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 7",
+        "query": "(JOURNAL:\"Microbial Ecology\" OR JOURNAL:\"Environmental Microbiology Reports\" OR JOURNAL:\"International Journal of Systematic and Evolutionary Microbiology\" OR JOURNAL:\"npj Biofilms and Microbiomes\" OR JOURNAL:\"Nature Reviews Microbiology\" OR JOURNAL:\"Trends in Microbiology\" OR JOURNAL:\"Annual Review of Microbiology\" OR JOURNAL:\"Microbial Cell\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1099/ijsem.0.007328",
+    "title": "<i>Flavobacterium solicola</i> sp. nov. and <i>Flavobacterium myriophylli</i> sp. nov., isolated from distinct freshwater habitats in Korea.",
+    "abstract": "Two novel Gram-stain-negative, yellow-pigmented bacterial strains, designated SP2T and UM26T, were isolated from riparian soil near the Seokpo smelter and from the surface of a macrophyte, Myriophyllum spicatum, collected from a stream in Daejeon, Republic of Korea, respectively. Phylogenetic analysis based on 16S rRNA gene sequences indicated that strains SP2T and UM26T belonged to the genus Flavobacterium and showed the highest sequence similarities to Flavobacterium aquatile LMG 4008T (97.9%) and Flavobacterium riviphilum TAPY6T (98.18%), respectively. The average nucleotide identity (ANI) and digital DNA-DNA hybridization (dDDH) values between SP2T and the type strains of closely related species were below 79.04 and 22.7%, respectively. For strain UM26T, the corresponding ANI and dDDH values were 83.91 and 28.1%. These values were below the generally accepted thresholds for species delineation. The major fatty acids of strain SP2T were iso-C15 : 0 and iso-C15 : 1 G, whereas those of strain UM26T were iso-C15 : 0 and iso-C15 : 0 3-OH. Phosphatidylethanolamine was the major polar lipid in both strains, accompanied by five unidentified aminolipids (ALs) and ten unidentified lipids (Ls) in strain SP2T and three unidentified ALs and six unidentified Ls in strain UM26T. The respiratory quinone of both strains was menaquinone-6. The genomic DNA G+C contents of strains SP2T and UM26T were 32.9 and 35.4 mol%, respectively. On the basis of phenotypic, phylogenetic, and chemotaxonomic characteristics, strains SP2T and UM26T are considered to represent two novel species of the genus Flavobacterium, for which the names Flavobacterium solicola sp. nov. and Flavobacterium myriophylli sp. nov. are proposed, respectively. The type strains of the two novel species are SP2T (=KCTC 102194T=LMG 33486T) and UM26T (=KCTC 102195T=LMG 33488T).",
+    "journal": "International Journal of Systematic and Evolutionary Microbiology",
+    "doi": "10.1099/ijsem.0.007328",
+    "date": "2026-11-01",
+    "authors": "Lee H, Kim MS, Jeong S, Ko SR, Kwon YK, Choi WS, Kang M, Choi DY, Ahn CY.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43043661",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43043661",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [
+          "freshwater"
+        ],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 5183,
+    "collected_at": "2026-11-20T03:12:52.480184+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "Europe PMC journals 7"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1099/ijsem.0.007328"
+    ],
+    "translation": {
+      "title": {
+        "hash": "cd487991f2b8ad6500a7ab9e81de0eac874ac75bdfbfa6f887186599d1e836c9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T03:50:15.788514+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b8e4c466a897e20630db7f5ff0ded6c70068b959430ffb9330575f4f5e46c91b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T03:50:15.788514+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "韓国の異なる淡水生息地から分離された<i>Flavobacterium solicola</i> sp. nov.および<i>Flavobacterium myriophylli</i> sp. nov.",
+    "abstract_ja": "Seokpo製錬所付近の河畔土壌、および大韓民国大田市の渓流から採取した大型植物Myriophyllum spicatumの表面から、それぞれSP2TおよびUM26Tと命名された2株の新規グラム陰性黄色色素細菌株が分離された。16S rRNA遺伝子配列に基づく系統解析の結果、SP2T株およびUM26T株はFlavobacterium属に属し、それぞれFlavobacterium aquatile LMG 4008T（97.9%）およびFlavobacterium riviphilum TAPY6T（98.18%）と最も高い配列類似性を示した。SP2T株と近縁種のタイプ株との間の平均塩基同一性（ANI）およびデジタルDNA-DNAハイブリダイゼーション（dDDH）値は、それぞれ79.04%および22.7%を下回った。UM26T株における対応するANIおよびdDDH値は、83.91%および28.1%であった。これらの値は、種の区分において一般的に認められている閾値を下回っていた。SP2T株の主要脂肪酸はiso-C15 : 0およびiso-C15 : 1 Gであったのに対し、UM26T株ではiso-C15 : 0およびiso-C15 : 0 3-OHであった。両株において主要な極性脂質はホスファチジルエタノールアミンであり、SP2T株では5種類の未同定アミノ脂質（ALs）および10種類の未同定脂質（Ls）が、UM26T株では3種類の未同定ALsおよび6種類の未同定Lsが認められた。両株の呼吸性キノンはメナキノン-6であった。SP2T株およびUM26T株のゲノムDNA G+C含有量は、それぞれ32.9および35.4 mol%であった。表現型、系統学的、および化学分類学的特性に基づき、SP2T株およびUM26T株はFlavobacterium属の2つの新規種を代表するものと考えられ、それぞれFlavobacterium solicola sp. nov.およびFlavobacterium myriophylli sp. nov.という名称が提案される。これら2つの新規種のタイプ株は、SP2T（=KCTC 102194T=LMG 33486T）およびUM26T（=KCTC 102195T=LMG 33488T）である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 7",
+        "query": "(JOURNAL:\"Microbial Ecology\" OR JOURNAL:\"Environmental Microbiology Reports\" OR JOURNAL:\"International Journal of Systematic and Evolutionary Microbiology\" OR JOURNAL:\"npj Biofilms and Microbiomes\" OR JOURNAL:\"Nature Reviews Microbiology\" OR JOURNAL:\"Trends in Microbiology\" OR JOURNAL:\"Annual Review of Microbiology\" OR JOURNAL:\"Microbial Cell\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1099/ijsem.0.007347",
+    "title": "<i>Luteimonas yangxiaopingae</i> sp. nov. and <i>Luteimonas renzhihongae</i> sp. nov., two novel <i>Luteimonas</i> species isolated from Mongolian marmot (<i>Marmota sibirica</i>) burrow soil.",
+    "abstract": "Four strains, A478T, A277, A537T and A501, were isolated from the soil of Marmota sibirica burrows in Hulunbuir City, Inner Mongolia Autonomous Region, China. The four isolates were Gram-stain-negative and rod-shaped. All four strains grew at 4-30 °C (optimum 20 °C). For strains A478ᵀ and A277, the NaCl concentration range and pH range for growth were 0-3.5% (wt/v) NaCl (optimum 0.5%) and pH 7-11 (optimum pH 8); for strains A537ᵀ and A501, the ranges were 0-4.5% (wt/v) NaCl (optimum 0.5%) and pH 7-10 (optimum pH 7). The 16S rRNA gene sequence similarity analysis using the EzBioCloud database showed that strains A478ᵀ and A277 exhibited the highest similarity to Luteimonas dalianensis OB44-3ᵀ (97.27%). In contrast, strains A537ᵀ and A501 showed the highest similarity to Luteimonas terricola BZ92rᵀ (98.23%). The average nucleotide identity and digital DNA-DNA hybridization values between the four isolates and their closely related species were below the thresholds recommended for species delineation. The genomic DNA G+C contents of the type strains A478ᵀ and A537ᵀ were 66.7 and 68.8 mol%, respectively. The sole respiratory quinone of strains A478T and A537T was ubiquinone 8. The major polar lipids of strains A478ᵀ and A537ᵀ were diphosphatidylglycerol, phosphatidylglycerol and phosphatidylethanolamine. The major fatty acids (>5%) of strain A478T were summed feature 9 (C16 : 0 10-methyl and/or iso-C17 : 1 ω9c), iso-C15 : 0, iso-C16 : 0, iso-C17 : 0, iso-C11 : 0 and summed feature 3 (C16 : 1 ω7c and/or C16 : 1 ω6c). The major fatty acids (>5%) of strain A537T were summed feature 9, iso-C15 : 0, iso-C16 : 0, iso-C17 : 0, iso-C11 : 0 and iso-C11:0 3-OH. Based on polyphasic evidence, strains A478T and A277 represent a novel species, for which the name Luteimonas yangxiaopingae sp. nov. (type strain A478T=GDMCC l.6140T=JCM 38387T) is proposed, while strains A537T and A501 represent another novel species, designated Luteimonas renzhihongae sp. nov. (type strain A537T=GDMCC l.6141T=JCM 38389T) are proposed.",
+    "journal": "International Journal of Systematic and Evolutionary Microbiology",
+    "doi": "10.1099/ijsem.0.007347",
+    "date": "2026-11-01",
+    "authors": "Yang H, Pu J, Yang J, Xiao Q, Luo W, Chen M, Luo X, Zheng H, Xu J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43037617",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43037617",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5184,
+    "collected_at": "2026-11-20T03:12:52.480184+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "Europe PMC journals 7"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1099/ijsem.0.007347"
+    ],
+    "translation": {
+      "title": {
+        "hash": "66df06b2c1ef1cdb3f300f0f55e500bfbe235753469ccffdc19bfe9badef9278",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T03:50:15.788514+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "60b3611814dcc33a8a58874185b7f707eebbb995bfcd8b8d935e33da1b1e55de",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T03:50:15.788514+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "<i>Luteimonas yangxiaopingae</i> sp. nov. および <i>Luteimonas renzhihongae</i> sp. nov.：モンゴルマーモット（<i>Marmota sibirica</i>）の巣穴土壌から分離された<i>Luteimonas</i>属の2新種。",
+    "abstract_ja": "中国内モンゴル自治区フルンボイル市のMarmota sibiricaの巣穴の土壌から、A478T、A277、A537T、およびA501の4株が分離された。これら4株はいずれもグラム陰性で桿菌状であった。4株すべてが4～30°C（至適温度20°C）で増殖した。A478ᵀ株およびA277株の増殖におけるNaCl濃度範囲およびpH範囲は0～3.5%（wt/v）NaCl（至適0.5%）およびpH 7～11（至適pH 8）であり、A537ᵀ株およびA501株の範囲は0～4.5%（wt/v）NaCl（至適0.5%）およびpH 7～10（至適pH 7）であった。EzBioCloudデータベースを用いた16S rRNA遺伝子配列類似性解析の結果、A478ᵀ株およびA277株はLuteimonas dalianensis OB44-3ᵀと最も高い類似性（97.27%）を示した。対照的に、A537ᵀ株およびA501株はLuteimonas terricola BZ92rᵀと最も高い類似性（98.23%）を示した。これら4株と近縁種との間の平均ヌクレオチド同一性およびデジタルDNA-DNAハイブリダイゼーション値は、種の画定に推奨される閾値を下回っていた。タイプ株であるA478ᵀ株およびA537ᵀ株のゲノムDNA G+C含有量は、それぞれ66.7および68.8 mol%であった。A478T株およびA537T株の唯一の呼吸性キノンはユビキノン8であった。A478ᵀ株およびA537ᵀ株の主要な極性脂質は、ジホスファチジルグリセロール、ホスファチジルグリセロール、およびホスファチジルエタノールアミンであった。A478T株の主要脂肪酸（>5%）は、合算特徴9（C16:0 10-メチルおよび/またはイソ-C17:1ω9c）、イソ-C15:0、イソ-C16:0、イソ-C17:0、イソ-C11:0、および合算特徴3（C16:1ω7cおよび/またはC16:1ω6c）であった。A537T株の主要脂肪酸（>5%）は、合算特徴9、イソ-C15:0、イソ-C16:0、イソ-C17:0、イソ-C11:0、およびイソ-C11:0 3-OHであった。多相的な証拠に基づき、A478T株およびA277株は新規種であり、Luteimonas yangxiaopingae sp. nov.（タイプ株 A478T=GDMCC l.6140T=JCM 38387T）という名称が提案される。一方、A537T株およびA501株は別の新規種であり、Luteimonas renzhihongae sp. nov.（タイプ株 A537T=GDMCC l.6141T=JCM 38389T）と指定されることが提案される。"
   }
 ]
