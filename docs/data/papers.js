@@ -6,59 +6,6 @@ window.PAPER_DATA = {
     "addition_tracking_since": "2026-11-08T16:41:37.586944+09:00",
     "addition_history": [
       {
-        "at": "2026-11-18T13:58:28.169963+09:00",
-        "papers": [
-          {
-            "id": "10.64898/2026.11.16.765329",
-            "preprint": true
-          },
-          {
-            "id": "10.1093/bioinformatics/btag825",
-            "preprint": false
-          },
-          {
-            "id": "10.64898/2026.11.16.767035",
-            "preprint": true
-          },
-          {
-            "id": "10.64898/2026.11.17.767251",
-            "preprint": true
-          },
-          {
-            "id": "10.64898/2026.11.16.766945",
-            "preprint": true
-          },
-          {
-            "id": "10.64898/2026.11.16.766985",
-            "preprint": true
-          },
-          {
-            "id": "10.1186/s13059-026-04324-3",
-            "preprint": false
-          },
-          {
-            "id": "10.21203/rs.3.rs-11240936/v1",
-            "preprint": true
-          },
-          {
-            "id": "10.64898/2026.11.16.766873",
-            "preprint": true
-          },
-          {
-            "id": "10.64898/2026.11.16.766924",
-            "preprint": true
-          },
-          {
-            "id": "10.20944/preprints202611.1031.v1",
-            "preprint": true
-          },
-          {
-            "id": "10.64898/2026.11.16.767070",
-            "preprint": true
-          }
-        ]
-      },
-      {
         "at": "2026-11-18T23:54:47.214469+09:00",
         "papers": [
           {
@@ -711,28 +658,229 @@ window.PAPER_DATA = {
             "preprint": false
           }
         ]
+      },
+      {
+        "at": "2026-11-20T21:54:52.860125+09:00",
+        "papers": [
+          {
+            "id": "10.1038/s41564-026-02529-7",
+            "preprint": false
+          },
+          {
+            "id": "10.1128/spectrum.00207-26",
+            "preprint": false
+          },
+          {
+            "id": "10.64898/2026.11.19.767678",
+            "preprint": true
+          },
+          {
+            "id": "10.1093/nar/gkag1173",
+            "preprint": false
+          },
+          {
+            "id": "10.1093/nar/gkag1268",
+            "preprint": false
+          },
+          {
+            "id": "10.1128/spectrum.02486-26",
+            "preprint": false
+          },
+          {
+            "id": "10.3389/fmicb.2026.2009975",
+            "preprint": false
+          },
+          {
+            "id": "10.1128/msystems.00868-26",
+            "preprint": false
+          },
+          {
+            "id": "10.1111/1462-2920.70498",
+            "preprint": false
+          },
+          {
+            "id": "10.1093/nar/gkag1236",
+            "preprint": false
+          },
+          {
+            "id": "10.64898/2026.11.17.767350",
+            "preprint": true
+          },
+          {
+            "id": "10.1128/spectrum.00355-26",
+            "preprint": false
+          },
+          {
+            "id": "10.1093/nar/gkag1307",
+            "preprint": false
+          },
+          {
+            "id": "10.1128/spectrum.00723-26",
+            "preprint": false
+          },
+          {
+            "id": "10.1128/spectrum.02238-26",
+            "preprint": false
+          },
+          {
+            "id": "10.1093/nar/gkag1214",
+            "preprint": false
+          },
+          {
+            "id": "10.1128/spectrum.02165-26",
+            "preprint": false
+          },
+          {
+            "id": "10.1186/s13059-026-04321-6",
+            "preprint": false
+          },
+          {
+            "id": "10.1007/s00248-026-02896-y",
+            "preprint": false
+          },
+          {
+            "id": "10.1093/nar/gkag1218",
+            "preprint": false
+          },
+          {
+            "id": "10.1093/nar/gkag1168",
+            "preprint": false
+          },
+          {
+            "id": "10.1093/nar/gkag1144",
+            "preprint": false
+          },
+          {
+            "id": "10.1093/nar/gkag1244",
+            "preprint": false
+          },
+          {
+            "id": "10.1128/spectrum.02146-26",
+            "preprint": false
+          },
+          {
+            "id": "10.1093/nar/gkag1267",
+            "preprint": false
+          },
+          {
+            "id": "10.1093/nar/gkag1156",
+            "preprint": false
+          },
+          {
+            "id": "10.1128/spectrum.00365-26",
+            "preprint": false
+          },
+          {
+            "id": "10.1128/msphere.00457-26",
+            "preprint": false
+          },
+          {
+            "id": "10.3389/fmicb.2026.1970174",
+            "preprint": false
+          },
+          {
+            "id": "10.1128/msphere.00561-26",
+            "preprint": false
+          },
+          {
+            "id": "10.3389/fmicb.2026.1923001",
+            "preprint": false
+          },
+          {
+            "id": "10.1093/nar/gkag1246",
+            "preprint": false
+          },
+          {
+            "id": "10.1128/msphere.00233-26",
+            "preprint": false
+          },
+          {
+            "id": "10.1128/spectrum.01265-26",
+            "preprint": false
+          },
+          {
+            "id": "10.1093/bioinformatics/btag845",
+            "preprint": false
+          },
+          {
+            "id": "10.1128/spectrum.02172-26",
+            "preprint": false
+          },
+          {
+            "id": "10.1128/spectrum.02996-26",
+            "preprint": false
+          },
+          {
+            "id": "10.1093/nar/gkag1301",
+            "preprint": false
+          },
+          {
+            "id": "10.64898/2026.11.18.767735",
+            "preprint": true
+          },
+          {
+            "id": "10.1128/spectrum.00680-26",
+            "preprint": false
+          },
+          {
+            "id": "10.3389/fmicb.2026.1992959",
+            "preprint": false
+          },
+          {
+            "id": "10.1093/nar/gkag1129",
+            "preprint": false
+          }
+        ]
       }
     ],
     "date": "2026-11-16",
     "publication_mode": "daily",
-    "updated_at": "2026-11-20T12:56:29.691377+09:00",
-    "daily_updated_at": "2026-11-20T12:56:29.691377+09:00",
+    "updated_at": "2026-11-20T21:54:52.860125+09:00",
+    "daily_updated_at": "2026-11-20T21:54:52.860125+09:00",
     "week_ends_at": "2026-11-23T00:00:00+09:00",
     "added_ids": [
-      "10.1099/ijsem.0.007328",
-      "10.64898/2026.11.19.767437",
-      "10.64898/2026.11.18.767762",
-      "10.1016/j.tim.2026.10.002",
-      "10.1111/1751-7915.70460",
-      "10.1099/ijsem.0.007344",
-      "10.1186/s42523-026-00653-7",
-      "10.1093/bioinformatics/btag831",
-      "10.1099/ijsem.0.007347",
-      "10.1128/msphere.00148-26",
-      "10.1093/bioinformatics/btag820",
-      "10.1099/ijsem.0.007346",
-      "10.1099/ijsem.0.007331",
-      "10.1016/j.tim.2026.10.014"
+      "10.1038/s41564-026-02529-7",
+      "10.1128/spectrum.00207-26",
+      "10.64898/2026.11.19.767678",
+      "10.1093/nar/gkag1173",
+      "10.1093/nar/gkag1268",
+      "10.1128/spectrum.02486-26",
+      "10.3389/fmicb.2026.2009975",
+      "10.1128/msystems.00868-26",
+      "10.1111/1462-2920.70498",
+      "10.1093/nar/gkag1236",
+      "10.64898/2026.11.17.767350",
+      "10.1128/spectrum.00355-26",
+      "10.1093/nar/gkag1307",
+      "10.1128/spectrum.00723-26",
+      "10.1128/spectrum.02238-26",
+      "10.1093/nar/gkag1214",
+      "10.1128/spectrum.02165-26",
+      "10.1186/s13059-026-04321-6",
+      "10.1007/s00248-026-02896-y",
+      "10.1093/nar/gkag1218",
+      "10.1093/nar/gkag1168",
+      "10.1093/nar/gkag1144",
+      "10.1093/nar/gkag1244",
+      "10.1128/spectrum.02146-26",
+      "10.1093/nar/gkag1267",
+      "10.1093/nar/gkag1156",
+      "10.1128/spectrum.00365-26",
+      "10.1128/msphere.00457-26",
+      "10.3389/fmicb.2026.1970174",
+      "10.1128/msphere.00561-26",
+      "10.3389/fmicb.2026.1923001",
+      "10.1093/nar/gkag1246",
+      "10.1128/msphere.00233-26",
+      "10.1128/spectrum.01265-26",
+      "10.1093/bioinformatics/btag845",
+      "10.1128/spectrum.02172-26",
+      "10.1128/spectrum.02996-26",
+      "10.1093/nar/gkag1301",
+      "10.64898/2026.11.18.767735",
+      "10.1128/spectrum.00680-26",
+      "10.3389/fmicb.2026.1992959",
+      "10.1093/nar/gkag1129"
     ],
     "added_date": "2026-11-20"
   },
@@ -69181,6 +69329,3301 @@ window.PAPER_DATA = {
         "Trends in Microbiology",
         "Journal of imaging informatics in medicine",
         "Colloids and surfaces. B, Biointerfaces"
+      ]
+    },
+    {
+      "id": "10.1038/s41564-026-02529-7",
+      "title": "Inside the gut microbiome of manatees",
+      "abstract": "An ultra-deep metagenomic atlas of the gut microbiome of manatees sheds light on the broad and previously unexplored microbial and viral diversity underlying aquatic herbivory. We identified specialized molecular strategies for aquatic plant biomass deconstruction and discovered a metabolic pathway that expands the current functional landscape of gut carbohydrate metabolism.",
+      "journal": "Nature Microbiology",
+      "doi": "10.1038/s41564-026-02529-7",
+      "date": "2026-11-20",
+      "authors": "",
+      "tags": [
+        "微生物ゲノミクス",
+        "海洋微生物"
+      ],
+      "source_url": "https://www.nature.com/articles/s41564-026-02529-7",
+      "abstract_source": "rss",
+      "preprint": false,
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "metagenom",
+          "metagenomic",
+          "microbial",
+          "microbiome",
+          "viral"
+        ],
+        "context": {
+          "marine": [
+            "aquatic"
+          ],
+          "genomics": [
+            "metagenom",
+            "metagenomic"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "海洋微生物",
+          "微生物ゲノミクス"
+        ]
+      },
+      "discovery": [
+        {
+          "source": "https://www.nature.com/nmicrobiol.rss",
+          "query": "RSS feed",
+          "scope": "journal"
+        }
+      ],
+      "collection_order": 5361,
+      "collected_at": "2026-11-20T12:01:03.805438+00:00",
+      "collected_date": "2026-11-20",
+      "sources": [
+        "https://www.nature.com/nmicrobiol.rss"
+      ],
+      "first_seen": "2026-11-20",
+      "related_dois": [
+        "10.1038/s41564-026-02529-7"
+      ],
+      "translation": {
+        "title": {
+          "hash": "ccdc1f7cc19d3e0230ed1bfa3be7bd8a381d1814e8189e9ce2e0dd7a6c6f48eb",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-20T12:32:43.025554+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "0231d25c2d18eaec410cefb0b7513ae51625e5d31fe678a54b901d323186d8ff",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-20T12:32:43.025554+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "マナティーの腸内微生物叢の内部",
+      "abstract_ja": "マナティーの腸内微生物叢に関する超深層メタゲノムアトラスは、水生植物食害の基盤となる、広範かつこれまで未解明であった微生物およびウイルスの多様性を明らかにする。我々は、水生植物バイオマスの分解における特化した分子戦略を同定するとともに、腸内糖質代謝の現在の機能的様相を拡張する代謝経路を発見した。",
+      "answer_journal": "Nature Microbiology",
+      "question_type": "published",
+      "options": [
+        "TAG. Theoretical and applied genetics. Theoretische und angewandte Genetik",
+        "Clinical gastroenterology and hepatology : the official clinical practice journal of the American Gastroenterological Association",
+        "Nature Microbiology",
+        "BMC Biology"
+      ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC journals 3",
+          "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "journal article"
+      ],
+      "id": "10.1128/spectrum.00207-26",
+      "title": "Drug resistance and molecular epidemiology of pediatric <i>Mycoplasma pneumoniae</i> isolates in Southern China.",
+      "abstract": "To investigate antimicrobial susceptibility and molecular typing of recent pediatric Mycoplasma pneumoniae strains, analyze the correlations between drug resistance, pneumonia severity, and strain types, and provide evidence for precise M. pneumoniae infection management. Standard M. pneumoniae isolation and culture were applied to bronchoalveolar lavage fluid from 325 M. pneumoniae-infected children, with 23S rRNA resistance mutation detection. Antimicrobial susceptibility testing (eight antibiotics, microbroth dilution) was performed on 154 culture-positive strains, alongside multiple locus variable-number tandem repeat analysis (MLVA), whole-genome sequencing, and single-nucleotide polymorphism (SNP) genotyping. M. pneumoniae showed high macrolide resistance (99.35% for erythromycin and azithromycin), but high susceptibility to moxifloxacin/levofloxacin, with minocycline/doxycycline sensitivity at 98.71%. The 23S rRNA mutations occurred in 97.4% (150/154). MLVA type 4-5-7-2 dominated (135/154), with minor types totaling 15 cases. SNP typing clustered strains into four groups, mostly EC1 (138/154), with four genes showing cross-cluster mutations. Southern Chinese M. pneumoniae strains exhibit high macrolide resistance but good minocycline/doxycycline susceptibility, with EC1-cluster dominance driving rapid spread. This supports individualized therapy and epidemic trend tracking for pediatric M. pneumoniae lung infections.ImportanceThis study sheds light on why many children with Mycoplasma pneumoniae pneumonia do not respond well to common macrolide antibiotics-over 99% of strains in Southern China are resistant. It identifies effective alternative drugs and pinpoints the dominant spreading strain, helping doctors choose precise treatments. For public health, it provides key data to track outbreaks, guiding targeted surveillance and better management of pediatric respiratory infections post-COVID-19.",
+      "journal": "Microbiology Spectrum",
+      "doi": "10.1128/spectrum.00207-26",
+      "date": "2026-11-05",
+      "authors": "Wang H, Li C, Li P, Tan K, Deng G, Chen Y, Zhou L, Ren Z, Zhang Y, Zhang W, Chen J, Deng J.",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://europepmc.org/article/MED/42986009",
+      "preprint": false,
+      "review": false,
+      "pmcid": "",
+      "pmid": "42986009",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "genom",
+            "genome"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "collection_order": 5219,
+      "collected_at": "2026-11-20T11:50:28.841726+00:00",
+      "collected_date": "2026-11-20",
+      "sources": [
+        "Europe PMC journals 3"
+      ],
+      "first_seen": "2026-11-20",
+      "related_dois": [
+        "10.1128/spectrum.00207-26"
+      ],
+      "translation": {
+        "title": {
+          "hash": "4ce787d32d039f58b2a7da7b49ec56386b7ecf98feee128fa9e99c99b99facf0",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-20T12:32:43.025554+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "e319b48627eafd2e0e7115b6c0679d0f8ac6ca45ff40f27c4155e0052cbe129b",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-20T12:32:43.025554+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "中国南部における小児用<i>Mycoplasma pneumoniae</i>分離株の薬剤耐性と分子疫学",
+      "abstract_ja": "近年の小児マイコプラズマ肺炎（M. pneumoniae）株の薬剤感受性および分子型解析を行い、薬剤耐性、肺炎の重症度、および菌株型間の相関関係を分析することで、M. pneumoniae感染の精密な管理に向けたエビデンスを提示する。M. pneumoniae感染児325例の気管支肺胞洗浄液に対し、標準的なM. pneumoniaeの分離・培養を行い、23S rRNA耐性変異の検出を実施した。培養陽性株154株を対象に、薬剤感受性試験（8種類の抗菌薬、マイクロブロス希釈法）を行うとともに、多遺伝子座可変数タンデムリピート解析（MLVA）、全ゲノムシーケンシング、および一塩基多型（SNP）ジェノタイピングを実施した。M. pneumoniaeは高いマクロライド系薬剤耐性（エリスロマイシンおよびアジスロマイシンで99.35%）を示したが、モキシフロキサシン／レボフロキサシンへの高い感受性を示し、ミノサイクリン／ドキシサイクリンへの感受性は98.71%であった。23S rRNA変異は97.4%（150/154例）に認められた。MLVAタイプ4-5-7-2が優位であり（135/154例）、マイナータイプは計15例であった。SNPタイピングにより菌株は4つのグループに分類され、その大部分がEC1（138/154例）であり、4つの遺伝子でクロスクラスター変異が認められた。中国南部のM. pneumoniae株は、高いマクロライド系薬剤耐性を示す一方でミノサイクリン／ドキシサイクリンへの良好な感受性を示しており、EC1クラスターの優位が急速な感染拡大を牽引している。このことは、小児M. pneumoniae肺感染症における個別化治療および流行動向の追跡を裏付けるものである。意義本研究は、マイコプラズマ肺炎の多くの小児患者が一般的なマクロライド系抗菌薬に十分な反応を示さない理由を明らかにした――中国南部の菌株の99%以上が耐性を示している。本研究は有効な代替薬を特定し、主要な拡散株を突き止めることで、医師が精密な治療法を選択する一助となる。公衆衛生の観点からは、アウトブレイクを追跡するための重要なデータを提供し、標的を絞ったサーベイランスおよびCOVID-19後の小児呼吸器感染症のより適切な管理を導くものである。",
+      "answer_journal": "Microbiology Spectrum",
+      "question_type": "published",
+      "options": [
+        "Journal of molecular graphics & modelling",
+        "Microbiology Spectrum",
+        "Npj structural biology",
+        "Food chemistry. Molecular sciences"
+      ]
+    },
+    {
+      "id": "10.64898/2026.11.19.767678",
+      "title": "HIV-1 Mutational Bias Shapes the Supply of Drug Resistance Mutations",
+      "abstract": "The development of durable HIV-1 therapeutics requires understanding not only which mutations confer resistance, but also how readily those mutations arise. Prior work has characterized the effects of individual mutations on viral fitness and drug or immune escape; however, the contribution of mutational bias to HIV-1 evolutionary pathways remains largely unquantified. Here, we report and provide an interactive HIV-1 Mutation Rate Atlas (MRA), built on a dataset of empirical measurements of single-cycle HIV-1 mutation accumulation in the absence of selection pressure, using error-corrected long-read sequencing. The MRA estimates the mutation rate at every genomic position to each possible nucleotide, enabling evaluation of amino acid mutability across the genome. Using the MRA, we show that mutation rate biases predict HIV-1 drug resistance variant frequencies across patients. These results demonstrate that mutational biases shape HIV-1 evolutionary outcomes, providing a framework for predicting HIV-1 evolution and drug resistance.",
+      "journal": "",
+      "doi": "10.64898/2026.11.19.767678",
+      "date": "2026-11-19",
+      "authors": "Nitido, A. D., Ömür, N., Balazs, A. B.",
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ],
+      "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.19.767678v1?rss=1",
+      "abstract_source": "rss",
+      "preprint": true,
+      "topic_filter": {
+        "accepted": true,
+        "reason": "microbial_evidence",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "viral"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "evolution",
+            "genom",
+            "genome",
+            "genomic"
+          ],
+          "evolution": [
+            "evolution",
+            "evolutionary"
+          ]
+        },
+        "tags": [
+          "微生物ゲノミクス",
+          "微生物進化"
+        ]
+      },
+      "discovery": [
+        {
+          "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+          "query": "RSS feed",
+          "scope": "candidate"
+        }
+      ],
+      "collection_order": 5366,
+      "collected_at": "2026-11-20T12:01:03.805438+00:00",
+      "collected_date": "2026-11-20",
+      "sources": [
+        "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+      ],
+      "first_seen": "2026-11-20",
+      "related_dois": [
+        "10.64898/2026.11.19.767678"
+      ],
+      "translation": {
+        "title": {
+          "hash": "dcbf06c923c104db6ef7622a5a8ad5b3abb0132f4d0928769678eda726461e17",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-20T12:53:14.947618+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "d6cde5fc9b01856473341ffec46a742cf46e6270606dfdbb8c02aea3c619887b",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-20T12:53:14.947618+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "HIV-1の変異バイアスが薬剤耐性変異の供給を規定する",
+      "abstract_ja": "耐久性のあるHIV-1治療薬の開発には、どの変異が耐性を付与するのかだけでなく、それらの変異がどの程度容易に生じるのかを理解することが不可欠である。これまでの研究では、個々の変異がウイルスの適応度や薬剤・免疫逃避に及ぼす影響が明らかになってきたが、HIV-1の進化経路における変異バイアスの寄与については、依然として大部分が定量化されていない。本報では、エラー訂正済みロングリードシーケンシングを用い、選択圧がない条件下での単一サイクルHIV-1変異蓄積の実測データセットに基づいて構築した、インタラクティブなHIV-1変異率アトラス（MRA）を報告し、提供する。MRAは、ゲノム上のあらゆる位置における各可能なヌクレオチドへの変異率を推定し、ゲノム全体にわたるアミノ酸変異能の評価を可能にする。MRAを用いて、変異率バイアスが患者間におけるHIV-1薬剤耐性変異株の頻度を予測できることを示す。これらの結果は、変異バイアスがHIV-1の進化的帰結を形作っていることを実証しており、HIV-1の進化と薬剤耐性を予測するための枠組みを提供するものである。",
+      "answer_journal": null,
+      "question_type": "forecast",
+      "options": [
+        "Physical chemistry chemical physics : PCCP",
+        "Obesity surgery",
+        "IDCases",
+        "Langmuir : the ACS journal of surfaces and colloids"
+      ]
+    },
+    {
+      "id": "10.1093/nar/gkag1173",
+      "title": "DriverDBv5: a multi-omics integration database for cancer driver gene research",
+      "abstract": "AbstractCancer is driven by alterations across multiple molecular layers, but whether multi-omics drivers carry prognostic weight has received little systematic attention. DriverDBv5 (https://driverdb.bioinfomics.org/) extends DriverDB from driver identification to prognostic evaluation. It has been expanded to 187 cohorts, 43 862 patients, and 129 655 samples, with 154 cohorts from non-TCGA (The Cancer Genome Atlas) repositories reconciled by a generalized multi-omics barcode. Driver genes can be evaluated with Cox and mixture cure models, with machine learning on the full multi-omics feature matrix, and for the joint prognostic effect of alterations in two omics layers. The Customized Analysis module has grown from 4 to 10 tools for user-defined gene sets, subgroups, and covariates, and a human body map offers an anatomical entry point. DriverDBv5 thus reveals not only which alterations drive a tumor, but also which of them relate to patient outcome.",
+      "journal": "Nucleic Acids Research",
+      "doi": "10.1093/nar/gkag1173",
+      "date": "2026-11-20",
+      "authors": "",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1173/9103983?rss=1",
+      "abstract_source": "rss",
+      "preprint": false,
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "database",
+          "gene"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "genom",
+            "genome"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "discovery": [
+        {
+          "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+          "query": "RSS feed",
+          "scope": "journal"
+        }
+      ],
+      "collection_order": 5353,
+      "collected_at": "2026-11-20T12:01:03.805438+00:00",
+      "collected_date": "2026-11-20",
+      "sources": [
+        "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+      ],
+      "first_seen": "2026-11-20",
+      "related_dois": [
+        "10.1093/nar/gkag1173"
+      ],
+      "translation": {
+        "title": {
+          "hash": "a52412122c65710741a98f137db5df053d0bcf462c99475c33acfe0d3812db13",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-20T12:44:47.094500+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "023c01ff5252f0be1a1b10a555d5dbe512e3aa89d908f274b47914ebc9f4f257",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-20T12:44:47.094500+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "DriverDBv5: がんドライバー遺伝子研究のためのマルチオミクス統合データベース",
+      "abstract_ja": "要旨がんは複数の分子層にわたる変化によって駆動されるが、マルチオミクスのドライバーが予後予測において重要であるかについては、体系的な検討がほとんど行われてこなかった。DriverDBv5 (https://driverdb.bioinfomics.org/) は、DriverDBをドライバーの同定から予後評価へと拡張したものである。本データベースは187のコホート、43,862人の患者、および129,655検体へと拡大されており、非TCGA（The Cancer Genome Atlas）リポジトリ由来の154コホートが、汎用的なマルチオミクスバーコードによって整合されている。ドライバー遺伝子は、Coxモデルや混合治癒モデルを用いて評価できるほか、全マルチオミクス特徴量行列を用いた機械学習や、2つのオミクス層における変化の複合的な予後効果の解析も可能である。カスタマイズ解析モジュールは、ユーザー定義の遺伝子セット、サブグループ、および共変量に対応したツールが4つから10つへと拡充され、人体マップが解剖学的なエントリーポイントとして提供されている。このように、DriverDBv5は、どの変化が腫瘍を駆動させるかだけでなく、それらのうちどれが患者の転帰に関連しているかを明らかにする。",
+      "answer_journal": "Nucleic Acids Research",
+      "question_type": "published",
+      "options": [
+        "Statistics in medicine",
+        "Molecular and cellular probes",
+        "Nucleic Acids Research",
+        "Mini reviews in medicinal chemistry"
+      ]
+    },
+    {
+      "id": "10.1093/nar/gkag1268",
+      "title": "NF-kappaB dimer exchange on the promoter facilitates transcription activation of NF-kappaB repressed IRF3 target genes—a plausible mechanism",
+      "abstract": "AbstractThe NF-κB and the IRF family of transcription factors are the key regulators of innate immune response in vertebrates. Depending upon the state of the cell the NF-κB subunits can activate as well as repress transcription of many genes by binding to its cognate κB sequence on the promoter/enhancers of various genes. The NF-κB proteins function as dimers, and variation in dimer composition represents one of the mechanisms for regulating transcription of specific genes. The homodimer of p50 NF-κB subunit is known to maintain a subset of IRF3 target genes under repressed state by binding to the promoter site called the G-IRE. G-IRE is an incomplete κB sequence juxtaposed with the IRF3 cognate IRE. Our in vitro results show that the NF-κB p50 homodimer can readily exchange on the κB DNA to form the NF-κB p50-RelA heterodimer. This dimer exchange on the DNA facilitates the binding of DNA binding domain of IRF3 to the G-IRE site required for transcription activation of these IRF3 target genes.",
+      "journal": "Nucleic Acids Research",
+      "doi": "10.1093/nar/gkag1268",
+      "date": "2026-11-20",
+      "authors": "",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1268/9103990?rss=1",
+      "abstract_source": "rss",
+      "preprint": false,
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "DNA",
+            "transcript"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "discovery": [
+        {
+          "source": "https://academic.oup.com/rss/site_5127/3091.xml",
+          "query": "RSS feed",
+          "scope": "journal"
+        }
+      ],
+      "collection_order": 5368,
+      "collected_at": "2026-11-20T12:01:03.805438+00:00",
+      "collected_date": "2026-11-20",
+      "sources": [
+        "https://academic.oup.com/rss/site_5127/3091.xml"
+      ],
+      "first_seen": "2026-11-20",
+      "related_dois": [
+        "10.1093/nar/gkag1268"
+      ],
+      "translation": {
+        "title": {
+          "hash": "c84e3814fd4b526734d164d7c06dedb14c9d7def87ff4d3dd9089b0c4804fd96",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-20T12:48:13.517104+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "c86e297ddf48ea98c566b8f77f005a8425d0c8cc39572f73e74f7e2b37e0583b",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-20T12:48:13.517104+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "プロモーターにおけるNF-kappaB二量体交換がNF-kappaB抑制下のIRF3標的遺伝子の転写活性化を促進する―考えられる機序",
+      "abstract_ja": "要旨NF-κBおよびIRFファミリーの転写因子は、脊椎動物における自然免疫応答の主要な調節因子である。細胞の状態に応じて、NF-κBサブユニットは、さまざまな遺伝子のプロモーターやエンハンサー上のコグネイトκB配列に結合することで、多くの遺伝子の転写を活性化あるいは抑制することができる。NF-κBタンパク質は二量体として機能し、二量体組成の変動は特定の遺伝子の転写を調節する機構の一つとなっている。p50 NF-κBサブユニットのホモ二量体は、G-IREと呼ばれるプロモーター部位に結合することで、IRF3標的遺伝子の一部を抑制状態に維持することが知られている。G-IREは、IRF3コグネイトであるIREに隣接して配置された不完全なκB配列である。我々のin vitroでの結果は、NF-κB p50ホモ二量体がκB DNA上で容易に交換され、NF-κB p50-RelAヘテロ二量体を形成し得ることを示している。DNA上でのこの二量体交換は、これらIRF3標的遺伝子の転写活性化に必要な、IRF3のDNA結合ドメインのG-IRE部位への結合を促進する。",
+      "answer_journal": "Nucleic Acids Research",
+      "question_type": "published",
+      "options": [
+        "Cancers",
+        "The Journal of nutritional biochemistry",
+        "Nucleic Acids Research",
+        "Discover nano"
+      ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC journals 3",
+          "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "journal article"
+      ],
+      "id": "10.1128/spectrum.02486-26",
+      "title": "Stability of therapeutic bacteriophages in clinically approved crystalloid infusion solutions.",
+      "abstract": "The growing burden of antimicrobial resistance underscores the need for effective alternatives to conventional antibiotics, with bacteriophage therapy representing a promising approach. However, insufficient product stability during storage and administration may reduce the delivered dose and confound assessments of clinical efficacy. Clinically approved crystalloid infusion solutions could facilitate phage preparation and administration, but their suitability for phage storage remains poorly characterized. The stability of four virulent bacteriophages targeting Pseudomonas aeruginosa or Staphylococcus aureus was evaluated in sodium chloride 0.45%, sodium chloride 0.9%, Ringer's lactate, Ringer's acetate, and saline magnesium (SM) buffer. Phage preparations containing 10⁹ plaque-forming units per mL were stored at 4°C, -20°C, or -80°C, with or without 10% glycerol, for up to 6 months. Phage infectivity was highly dependent on the phage, solution, and storage temperature. Buffered solutions generally preserved infectivity better than saline, particularly under frozen conditions. Glycerol improved stability during freezing, although the magnitude of this effect varied among phages and was most apparent in saline solutions. Storage at -80°C with glycerol provided the most consistent preservation across all four phages, with titers remaining close to baseline. Ringer's solutions supported high stability at -80°C also without glycerol. By contrast, storage at 4°C resulted in greater variability and reduced stability for several phages. These findings demonstrate that clinically approved crystalloid solutions can serve as vehicles for both phage storage and administration and suggest a need for phage-specific stability testing.ImportanceReliable bacteriophage therapy requires formulations that preserve phage activity during storage and clinical administration. Yet, standardized approaches to phage formulation and storage remain lacking, and many clinical applications still rely on empirical practices rather than evidence-based pharmaceutical principles. This study addresses an important translational barrier by examining the stability of therapeutically relevant phages targeting Staphylococcus aureus and Pseudomonas aeruginosa in crystalloid solutions routinely used for intravenous administration. Comparison of distinct phages across different formulations, temperatures, and storage durations demonstrates that stability depends strongly on the individual phage and storage conditions. These findings expand the limited evidence on phage stability in clinically applicable formulations and reinforce the rationale for individual phage stability testing during product development to ensure the delivery of an active and consistent therapeutic dose.",
+      "journal": "Microbiology Spectrum",
+      "doi": "10.1128/spectrum.02486-26",
+      "date": "2026-11-04",
+      "authors": "Boross C, Guggiari T, Zurbruegg SM, Que Y-A, Gerber JL.",
+      "tags": [
+        "微生物学"
+      ],
+      "source_url": "https://europepmc.org/article/MED/42980148",
+      "preprint": false,
+      "review": false,
+      "pmcid": "",
+      "pmid": "42980148",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "Pseudomonas",
+          "bacteriophage",
+          "bacteriophages",
+          "phage",
+          "phages"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [],
+          "evolution": []
+        },
+        "tags": [
+          "微生物学"
+        ]
+      },
+      "collection_order": 5221,
+      "collected_at": "2026-11-20T11:50:28.841726+00:00",
+      "collected_date": "2026-11-20",
+      "sources": [
+        "Europe PMC journals 3"
+      ],
+      "first_seen": "2026-11-20",
+      "related_dois": [
+        "10.1128/spectrum.02486-26"
+      ],
+      "translation": {
+        "title": {
+          "hash": "e87d99e664eaf4ba39ee0c871ebef1cc1bd4d8bc84a9957b58514c8a6f729c42",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-20T12:38:58.952423+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "70076d36a844a7e2a3e60fd125bc9a9aa19bc981ac20ee3cc7ec773cc4f55d65",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-20T12:38:58.952423+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "臨床承認済みの晶質輸液における治療用バクテリオファージの安定性",
+      "abstract_ja": "薬剤耐性の増大は、従来の抗菌薬に代わる有効な代替手段の必要性を浮き彫りにしており、バクテリオファージ療法は有望なアプローチである。しかし、保存および投与時の製剤安定性が不十分であれば、投与量が減少し、臨床的有効性の評価に影響を及ぼす可能性がある。臨床承認済みの晶質輸液は、ファージの調製および投与を容易にし得るが、ファージの保存における適性については十分に解明されていない。Pseudomonas aeruginosaまたはStaphylococcus aureusを標的とする4種類の強毒バクテリオファージの安定性を、塩化ナトリウム0.45%、塩化ナトリウム0.9%、リンゲル乳酸液、リンゲル酢酸液、および生理食塩水マグネシウム（SM）緩衝液を用いて評価した。1 mLあたり10⁹プラーク形成単位を含むファージ調製物を、10%グリセロールの有無にかかわらず、4°C、-20°C、または-80°Cで最大6か月間保存した。ファージの感染性は、ファージ、溶液、および保存温度に強く依存した。緩衝液は一般に生理食塩水よりも感染性をよく保持し、特に凍結条件下でその傾向が顕著であった。グリセロールは凍結時の安定性を向上させたが、その効果の大きさはファージによって異なり、生理食塩水溶液において最も顕著であった。グリセロールを用いた-80°Cでの保存は、4種類すべてのファージにおいて最も一貫した保存性を示し、力価はベースラインに近い値を維持した。リンゲル溶液は、グリセロールを用いなくても-80°Cで高い安定性を維持した。対照的に、4°Cでの保存では、いくつかのファージにおいてばらつきが大きくなり、安定性が低下した。これらの知見は、臨床承認済みの晶質溶液がファージの保存および投与の両方の担体となり得ることを示しており、ファージ特異的な安定性試験の必要性を示唆している。重要性：信頼性の高いバクテリオファージ療法には、保存および臨床投与時にファージ活性を保持する製剤が必要である。しかし、ファージの製剤化および保存に関する標準化された手法は依然として不足しており、多くの臨床応用では、エビデンスに基づく薬学的原則ではなく、経験的な慣行に依拠している。本研究は、静脈内投与に日常的に用いられる晶質溶液における、Staphylococcus aureusおよびPseudomonas aeruginosaを標的とする治療上重要なファージの安定性を検討することで、重要なトランスレーショナル・バリアに対処するものである。異なる製剤、温度、および保存期間における異なるファージを比較した結果、安定性は個々のファージおよび保存条件に強く依存することが示された。これらの知見は、臨床応用可能な製剤におけるファージ安定性に関する限られたエビデンスを拡充するものであり、有効かつ一貫した治療用量の投与を確保するための、製品開発段階における個々のファージの安定性試験の妥当性を裏付けるものである。",
+      "answer_journal": "Microbiology Spectrum",
+      "question_type": "published",
+      "options": [
+        "Pharmaceutical medicine",
+        "Journal of chromatography. B, Analytical technologies in the biomedical and life sciences",
+        "Microbiology Spectrum",
+        "Npj fungal science"
+      ]
+    },
+    {
+      "id": "10.3389/fmicb.2026.2009975",
+      "title": "Divergent cadmium adsorption by surface-engineered CadR10 in laboratory and probiotic Escherichia coli chassis",
+      "abstract": "Cadmium (Cd) is a persistent toxic heavy metal whose environmental bioremediation via surface-engineered bacteria has shown promise, yet application using probiotic chassis remains unexplored. Based on a previously characterized InaPb-CadR10/eGFP bicistronic architecture, we constructed the constitutive plasmids p302-10-G, p479-10-G, and p637-10-G and compared their performance in Escherichia coli TOP10 and the probiotic E. coli Nissle 1917 (EcN). In TOP10, stronger promoters yielded higher eGFP fluorescence and significantly enhanced Cd(II) adsorption, while SEM-EDS detected a localized Cd-associated signal in the selected p637-10-G specimen. In contrast, the optimal EcN construct showed no adsorption advantage over the empty host despite detectable reporter fluorescence. This host-dependent divergence may reflect differences in construct expression, membrane targeting, surface accessibility, plasmid behavior, or other chassis-dependent processes. These findings demonstrate that the performance of the CadR10 construct depends on the bacterial host under the tested in vitro conditions and provide a basis for the further evaluation of probiotic chassis for potential intestinal Cd interception.",
+      "journal": "Frontiers in Microbiology",
+      "doi": "10.3389/fmicb.2026.2009975",
+      "date": "2026-11-20",
+      "authors": "Chang-ye Hui",
+      "tags": [
+        "微生物学"
+      ],
+      "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.2009975",
+      "abstract_source": "rss",
+      "preprint": false,
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "Escherichia",
+          "bacteria",
+          "bacterial"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [],
+          "evolution": []
+        },
+        "tags": [
+          "微生物学"
+        ]
+      },
+      "discovery": [
+        {
+          "source": "https://www.frontiersin.org/journals/microbiology/rss",
+          "query": "RSS feed",
+          "scope": "journal"
+        }
+      ],
+      "collection_order": 5359,
+      "collected_at": "2026-11-20T12:01:03.805438+00:00",
+      "collected_date": "2026-11-20",
+      "sources": [
+        "https://www.frontiersin.org/journals/microbiology/rss"
+      ],
+      "first_seen": "2026-11-20",
+      "related_dois": [
+        "10.3389/fmicb.2026.2009975"
+      ],
+      "translation": {
+        "title": {
+          "hash": "c845b31e478a716016a221d17f3fcf59d8611f6633ac3fb70307b125811d4044",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-20T12:29:08.998556+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "f3e65c9b426cefa37a819d6ea80e3d0c12b729652695ef022fcfdcffe78bb23f",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-20T12:29:08.998556+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "実験室およびプロバイオティクス大腸菌シャーシにおける表面設計型CadR10による特異的なカドミウム吸着",
+      "abstract_ja": "カドミウム（Cd）は残留性毒性重金属であり、表面工学的に改変した細菌による環境バイオレメディエーションが有望視されているが、プロバイオティクスシャーシを用いた応用は未開拓である。既報のInaPb-CadR10/eGFPバイシストロニック構造に基づき、構成的プラスミドp302-10-G、p479-10-G、およびp637-10-Gを作製し、大腸菌TOP10およびプロバイオティクス大腸菌Nissle 1917（EcN）における性能を比較した。TOP10では、より強力なプロモーターによりeGFP蛍光が増大し、Cd(II)吸着が有意に促進された一方、SEM-EDSでは選択したp637-10-G検体において局所的なCd関連シグナルが検出された。対照的に、最適なEcNコンストラクトでは、検出可能なレポーター蛍光が認められたものの、空の宿主に対する吸着上の優位性は見られなかった。この宿主依存的な差異は、コンストラクトの発現、膜標的化、表面アクセシビリティ、プラスミド挙動、あるいはその他のシャーシ依存的なプロセスの違いを反映している可能性がある。これらの知見は、試験したin vitro条件下においてCadR10コンストラクトの性能が細菌宿主に依存することを示しており、腸管におけるCd捕捉の可能性に向けたプロバイオティクスシャーシのさらなる評価の基礎となるものである。",
+      "answer_journal": "Frontiers in Microbiology",
+      "question_type": "published",
+      "options": [
+        "Frontiers in Microbiology",
+        "Experimental parasitology",
+        "Journal of applied toxicology : JAT",
+        "Equine veterinary journal"
+      ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC journals 3",
+          "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "journal article"
+      ],
+      "id": "10.1128/msystems.00868-26",
+      "title": "Differential impacts of early, extended-spectrum, and last-resort β-lactams on manure-derived microbiomes and resistomes in an <i>in vitro</i> model.",
+      "abstract": "Understanding the environmental dissemination of antimicrobial resistance (AMR) is crucial for mitigating its spread and reducing the clinical burden of resistant infections. In a previous study, we demonstrated that copiotrophic enrichment in a medium that stimulates the growth of gut-associated bacteria can reveal clinically associated bacterial populations and antibiotic resistance genes (ARGs) that are not detected through direct environmental sampling. In the present study, we applied this enrichment approach to poultry manure to examine how β-lactamase-resistant antibiotics (cefotaxime and meropenem) shape the composition and resistance profiles of copiotrophic, gut-like microbial community relative to an earlier β-lactam (ampicillin) and to antibiotic-free controls. Our results show that extended-spectrum and last-resort β-lactams induced more pronounced shifts in microbial diversity, resistome, and mobilome profiles compared to ampicillin. When focusing on specific taxa, such as clinically relevant enteric bacteria and both susceptible and β-lactam-resistant coliforms, differential responses were observed correlating to the antimicrobial range of action. Moreover, cefotaxime and meropenem exerted different effects on the relative abundance of enteric bacteria and plasmids harboring multiple ARGs. Together, these findings underline how the diversity of pathogen and AMR indicators in gut microbiomes may be shaped by different selective pressures imposed by β-lactamase-resistant antibiotics.IMPORTANCEThis study explores how different generations of β-lactam antibiotics shape microbial communities and antibiotic resistance in a gut-like in vitro system. Using a metabolically driven synthetic community derived from manure, we found that advanced β-lactams such as cefotaxime and meropenem led to stronger and more specific shifts in both community composition and resistance gene profiles compared to ampicillin. These results emphasize that the ecological impact of antibiotics depends not only on whether bacteria are inhibited but also on the spectrum of activity of each compound. In addition, the system we used provides a simple and controllable way to study interactions among antibiotics, microbial communities, and the resistome. Overall, this work offers a clearer ecological view of how clinically important antibiotics may influence microbiomes and the spread of antibiotic resistance genes.",
+      "journal": "mSystems",
+      "doi": "10.1128/msystems.00868-26",
+      "date": "2026-10-21",
+      "authors": "Davidovich C, Blum SE, Cytryn E.",
+      "tags": [
+        "微生物学"
+      ],
+      "source_url": "https://europepmc.org/article/MED/42904640",
+      "preprint": false,
+      "review": false,
+      "pmcid": "",
+      "pmid": "42904640",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "bacteria",
+          "bacterial",
+          "microbial",
+          "microbiome",
+          "microbiomes"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [],
+          "evolution": []
+        },
+        "tags": [
+          "微生物学"
+        ]
+      },
+      "collection_order": 5205,
+      "collected_at": "2026-11-20T11:50:28.841726+00:00",
+      "collected_date": "2026-11-20",
+      "sources": [
+        "Europe PMC journals 3"
+      ],
+      "first_seen": "2026-11-20",
+      "related_dois": [
+        "10.1128/msystems.00868-26"
+      ],
+      "translation": {
+        "title": {
+          "hash": "b709f31b84637cea86b3ddcebfe08543b16040c8082c7c95e249a101c621e632",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-20T12:29:08.998556+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "e41a694dd9521439a6236fc218746d9ad38576062610ad646bda030cf9a61701",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-20T12:29:08.998556+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "<i>in vitro</i>モデルにおける、早期投与、広域スペクトル、および最終手段のβ-ラクタム系薬剤が糞便由来マイクロバイオームおよびレジストームに及ぼす異なる影響。",
+      "abstract_ja": "薬剤耐性（AMR）の環境中への拡散を把握することは、その拡大を抑制し、耐性感染症による臨床的負担を軽減する上で極めて重要である。先行研究において、我々は、腸内細菌の増殖を促進する培地を用いたコピオトロフィック濃縮法により、直接的な環境サンプリングでは検出されない、臨床的に関連のある細菌集団および抗生物質耐性遺伝子（ARG）を同定できることを示した。本研究では、この濃縮法を家禽糞便に適用し、β-ラクタマーゼ耐性抗生物質（セフォタキシムおよびメロペネム）が、従来のβ-ラクタム系抗生物質（アンピシリン）および抗生物質非投与対照群と比較して、コピオトロフィックな腸様微生物群集の組成および耐性プロファイルをどのように形成するかを検討した。その結果、広域スペクトルβ-ラクタム系および最終手段のβ-ラクタム系抗生物質は、アンピシリンと比較して、微生物多様性、レジストーム、およびモジュロームのプロファイルにより顕著な変化を誘発することが示された。臨床的に重要な腸内細菌や、感受性およびβ-ラクタム耐性の両方の大腸菌群などの特定の分類群に着目したところ、抗菌薬の作用範囲と相関する異なる応答が観察された。さらに、セフォタキシムとメロペネムは、腸内細菌および複数のARGを保持するプラスミドの相対存在量に対して異なる影響を及ぼした。これらの知見を総合すると、腸内マイクロバイオームにおける病原体およびAMR指標の多様性が、β-ラクタマーゼ耐性抗生物質によって課される異なる選択圧によってどのように形成され得るかが浮き彫りになる。重要性 本研究では、腸様in vitro系において、異なる世代のβ-ラクタム系抗生物質が微生物群集および抗生物質耐性をどのように形成するかを探究した。糞便由来の代謝駆動型合成群集を用いた結果、セフォタキシムやメロペネムなどの次世代β-ラクタム系抗生物質は、アンピシリンと比較して、群集組成および耐性遺伝子プロファイルの双方において、より強力かつ特異的な変化をもたらすことが明らかになった。これらの結果は、抗生物質の生態学的影響が、細菌が阻害されるか否かだけでなく、各化合物の作用スペクトルにも依存することを強調している。加えて、我々が用いた系は、抗生物質、微生物群集、およびレジストーム間の相互作用を研究するための簡便かつ制御可能な手法を提供する。総じて、本研究は、臨床的に重要な抗生物質がマイクロバイオームおよび抗生物質耐性遺伝子の拡散にどのような影響を及ぼし得るかについて、より明確な生態学的視点を提供するものである。",
+      "answer_journal": "mSystems",
+      "question_type": "published",
+      "options": [
+        "Parasitology international",
+        "mSystems",
+        "In vitro cellular & developmental biology. Animal",
+        "Communications Biology"
+      ]
+    },
+    {
+      "id": "10.1111/1462-2920.70498",
+      "title": "Seasonal Ecological Transitions During Wheat Cultivation Reshape Soil Phage‐Host Networks and Carbon Metabolism",
+      "abstract": "Rice–wheat rotation reshaped microbial assembly, enhanced network resistance and modified ecological niche distributions and phage infection patterns. It also increased carbon metabolic potential, with intermediate‐niche bacteria replacing specialists as the dominant contributors to carbon‐related functions.\n\nABSTRACT\nRice–wheat rotation is a widespread agricultural practice, yet how seasonal crop transitions reshape microbial assembly, phage–host interactions and community functions remains poorly understood. Here, we integrated metagenomic and metaviromic analyses with ecological modelling, network analysis, and functional profiling to compare rice monocropping with winter fallow (RM) and rice–wheat rotation (RWR) across a complete cropping cycle. Crop transitions strongly restructured bacterial and phage communities, with phage assemblages exhibiting greater temporal turnover and stage specificity than bacterial communities. Wheat cultivation increased the contribution of stochastic processes, with bacterial NST increasing from 0.50 to 0.68 and phage NST from 0.12 to 0.25, accompanied by substantial community turnover (maximum RC = 0.800 and 0.894, respectively). Compared with RM, RWR enhanced microbial network stability under simulated disturbances, promoted specialist recruitment, expanded phage–host interaction diversity, and increased carbon metabolic potential with 56 enriched carbon metabolism‐related genes. Collectively, these findings suggest that winter wheat cultivation drives ecological reorganization of soil microbiomes, strengthening network resistance and functional capacity in rice agroecosystems.\n\nRice–wheat rotation reshaped microbial assembly, enhanced network resistance and modified ecological niche distributions and phage infection patterns. It also increased carbon metabolic potential, with intermediate-niche bacteria replacing specialists as the dominant contributors to carbon-related functions.\n\nABSTRACT\nRice–wheat rotation is a widespread agricultural practice, yet how seasonal crop transitions reshape microbial assembly, phage–host interactions and community functions remains poorly understood. Here, we integrated metagenomic and metaviromic analyses with ecological modelling, network analysis, and functional profiling to compare rice monocropping with winter fallow (RM) and rice–wheat rotation (RWR) across a complete cropping cycle. Crop transitions strongly restructured bacterial and phage communities, with phage assemblages exhibiting greater temporal turnover and stage specificity than bacterial communities. Wheat cultivation increased the contribution of stochastic processes, with bacterial NST increasing from 0.50 to 0.68 and phage NST from 0.12 to 0.25, accompanied by substantial community turnover (maximum RC = 0.800 and 0.894, respectively). Compared with RM, RWR enhanced microbial network stability under simulated disturbances, promoted specialist recruitment, expanded phage–host interaction diversity, and increased carbon metabolic potential with 56 enriched carbon metabolism-related genes. Collectively, these findings suggest that winter wheat cultivation drives ecological reorganization of soil microbiomes, strengthening network resistance and functional capacity in rice agroecosystems.",
+      "journal": "Environmental Microbiology",
+      "doi": "10.1111/1462-2920.70498",
+      "date": "2026-11-19",
+      "authors": "Yaru Wu, \nDanrui Wang, \nWen Zhang, \nJean Damascene Harindintwali, \nChen Wang, \nJian Hu, \nShimao Wu, \nYi Wang, \nMingming Sun, \nFeng Hu",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.70498?af=R",
+      "abstract_source": "rss",
+      "preprint": false,
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "bacteria",
+          "bacterial",
+          "metagenom",
+          "metagenomic",
+          "microbial",
+          "microbiome",
+          "microbiomes",
+          "phage"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "assembly",
+            "metagenom",
+            "metagenomic"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "discovery": [
+        {
+          "source": "https://onlinelibrary.wiley.com/feed/14622920/most-recent",
+          "query": "RSS feed",
+          "scope": "journal"
+        }
+      ],
+      "collection_order": 5362,
+      "collected_at": "2026-11-20T12:01:03.805438+00:00",
+      "collected_date": "2026-11-20",
+      "sources": [
+        "https://onlinelibrary.wiley.com/feed/14622920/most-recent"
+      ],
+      "first_seen": "2026-11-20",
+      "related_dois": [
+        "10.1111/1462-2920.70498"
+      ],
+      "translation": {
+        "title": {
+          "hash": "49cce2081b44ede81c9d76ce59b453f81ea78796f4da42703020afdea8404254",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-20T12:22:24.553807+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "231b6843f0f420d0cfc28c34962c218fb1d53d89b8a68ddc6f92287101726650",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-20T12:22:24.553807+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "小麦栽培における季節的な生態学的遷移が土壌ファージ－宿主ネットワークと炭素代謝を再編する",
+      "abstract_ja": "米・小麦輪作は微生物アセンブリを再編し、ネットワーク耐性を高め、生態的ニッチ分布およびファージ感染パターンを変化させた。また、炭素代謝能を増大させ、中間ニッチ細菌が特化細菌に代わり、炭素関連機能の主要な寄与因子となった。\n\n要旨\n米・小麦輪作は広く普及している農業慣行であるが、季節的な作物遷移が微生物アセンブリ、ファージ・宿主間相互作用、および群集機能をどのように再編するかについては、依然として十分に解明されていない。本研究では、メタゲノムおよびメタウイルスーム解析を、生態学的モデリング、ネットワーク解析、および機能プロファイリングと統合し、完全な作付サイクルにわたって、米単作、冬季休耕（RM）、および米・小麦輪作（RWR）を比較した。作物遷移は細菌およびファージ群集を著しく再構成し、ファージアセンブリは細菌群集よりも高い時間的ターンオーバーとステージ特異性を示した。小麦栽培は確率的プロセスの寄与を増大させ、細菌のNSTは0.50から0.68へ、ファージのNSTは0.12から0.25へと増加し、それに伴い大幅な群集ターンオーバー（最大RC = 0.800および0.894、それぞれ）が認められた。RMと比較して、RWRはシミュレーションによる攪乱下での微生物ネットワークの安定性を高め、特化細菌の獲得を促進し、ファージ・宿主間相互作用の多様性を拡大させ、さらに56個の炭素代謝関連遺伝子の濃縮を伴う炭素代謝能の増大をもたらした。総じて、これらの知見は、冬小麦の栽培が土壌微生物叢の生態学的再編成を駆動し、イネ農業生態系におけるネットワーク耐性と機能能力を強化することを示唆している。\n\n米・小麦輪作は微生物アセンブリを再編し、ネットワーク耐性を高め、生態的ニッチ分布およびファージ感染パターンを変化させた。また、炭素代謝能を増大させ、中間ニッチ細菌が特化細菌に代わり、炭素関連機能の主要な寄与因子となった。\n\n要旨\n米・小麦輪作は広く普及している農業慣行であるが、季節的な作物遷移が微生物アセンブリ、ファージ・宿主間相互作用、および群集機能をどのように再編するかについては、依然として十分に解明されていない。本研究では、メタゲノムおよびメタウイルスーム解析を、生態学的モデリング、ネットワーク解析、および機能プロファイリングと統合し、完全な作付サイクルにわたって、米単作、冬季休耕（RM）、および米・小麦輪作（RWR）を比較した。作物遷移は細菌およびファージ群集を著しく再構成し、ファージアセンブリは細菌群集よりも高い時間的ターンオーバーとステージ特異性を示した。小麦栽培は確率的プロセスの寄与を増大させ、細菌のNSTは0.50から0.68へ、ファージのNSTは0.12から0.25へと増加し、それに伴い大幅な群集ターンオーバー（最大RC = 0.800および0.894、それぞれ）が認められた。RMと比較して、RWRはシミュレーションによる攪乱下での微生物ネットワークの安定性を高め、特化細菌の獲得を促進し、ファージ・宿主間相互作用の多様性を拡大させ、さらに56個の炭素代謝関連遺伝子の濃縮を伴う炭素代謝能の増大をもたらした。総じて、これらの知見は、冬小麦の栽培が土壌微生物叢の生態学的再編成を駆動し、イネ農業生態系におけるネットワーク耐性と機能能力を強化することを示唆している。",
+      "answer_journal": "Environmental Microbiology",
+      "question_type": "published",
+      "options": [
+        "Environmental Microbiology",
+        "Current opinion in chemical biology",
+        "Molecular oncology",
+        "Molecular carcinogenesis"
+      ]
+    },
+    {
+      "id": "10.1093/nar/gkag1236",
+      "title": "FAM50A restrains METTL3–METTL14 catalytic activity to regulate m6A deposition and cell proliferation",
+      "abstract": "AbstractN6-methyladenosine (m6A) is the most abundant internal modification in eukaryotic messenger RNA (mRNA) and is substantially deposited co-transcriptionally by the METTL3–METTL14 methyltransferase complex. However, how chromatin-associated factors modulate the catalytic activity of the m6A writer complex remains poorly understood. Here, we identify FAM50A as a chromatin-associated negative regulator of m6A deposition. Histone TurboID-based chromatin proteomics and biochemical analyses revealed that FAM50A directly interacts with METTL3. Acute depletion of FAM50A resulted in a global increase in mRNA m6A modification, as demonstrated by quantitative, single-nucleotide-resolution GLORI. Mechanistically, FAM50A directly restrains METTL3–METTL14 methyltransferase activity without interfering with RNA substrate binding, thereby limiting excessive m6A deposition. Increased m6A following FAM50A depletion exerted transcript-dependent effects on mRNA stability, promoting destabilization of a subset of proliferation-associated transcripts while stabilizing others. These changes disrupted proliferation-associated gene-expression programs and impaired cell proliferation and viability. Furthermore, pathogenic FAM50A variants associated with Armfield X-linked intellectual disability exhibited defective m6A regulation and impaired cellular functions. Together, our findings identify FAM50A as a chromatin-associated restraint on METTL3–METTL14 activity that maintains m6A homeostasis and links epitranscriptomic regulation to cell proliferation and human disease.",
+      "journal": "Nucleic Acids Research",
+      "doi": "10.1093/nar/gkag1236",
+      "date": "2026-11-20",
+      "authors": "",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1236/9103992?rss=1",
+      "abstract_source": "rss",
+      "preprint": false,
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "transcript"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "discovery": [
+        {
+          "source": "https://academic.oup.com/rss/site_5127/3091.xml",
+          "query": "RSS feed",
+          "scope": "journal"
+        }
+      ],
+      "collection_order": 5367,
+      "collected_at": "2026-11-20T12:01:03.805438+00:00",
+      "collected_date": "2026-11-20",
+      "sources": [
+        "https://academic.oup.com/rss/site_5127/3091.xml"
+      ],
+      "first_seen": "2026-11-20",
+      "related_dois": [
+        "10.1093/nar/gkag1236"
+      ],
+      "translation": {
+        "title": {
+          "hash": "aeb0850f41bd9d365103bf47dffed9cc4f5ccd19a0be93ccdf46b517fd2ea668",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-20T12:48:13.517104+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "f412c8564848f145038a821f946b758bc57b99edeaa3acf3242142289205fa3c",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-20T12:48:13.517104+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "FAM50AはMETTL3–METTL14の触媒活性を抑制し、m6Aの沈着と細胞増殖を調節する。",
+      "abstract_ja": "要旨N6-メチルアデノシン（m6A）は、真核生物のメッセンジャーRNA（mRNA）において最も豊富に存在する内部修飾であり、METTL3–METTL14メチルトランスフェラーゼ複合体によって共転写的に著しく沈着する。しかし、クロマチン関連因子がm6Aライター複合体の触媒活性をどのように調節しているかについては、依然として十分に解明されていない。本研究では、FAM50Aをm6A沈着のクロマチン関連負の調節因子として同定した。ヒストンTurboIDに基づくクロマチンプロテオミクスおよび生化学的解析により、FAM50AがMETTL3と直接相互作用することが明らかになった。FAM50Aの急性枯渇は、定量的な単一塩基分解能GLORIによって実証されたように、mRNAのm6A修飾の全般的な増加をもたらした。機序的には、FAM50AはRNA基質の結合を妨げることなくMETTL3–METTL14メチルトランスフェラーゼ活性を直接抑制し、それによって過剰なm6A沈着を制限する。FAM50A枯渇後のm6A増加は、mRNAの安定性に転写産物依存的な影響を及ぼし、増殖関連転写産物の一部の不安定化を促進する一方で、他の転写産物を安定化させた。これらの変化は、増殖関連遺伝子発現プログラムを乱し、細胞増殖および生存能を損なった。さらに、Armfield X連鎖性知的障害に関連する病原性FAM50A変異体では、m6A調節の不全と細胞機能の障害が認められた。以上の知見を総合すると、FAM50AはMETTL3–METTL14活性に対するクロマチン関連の抑制因子として同定され、m6Aの恒常性を維持し、エピトランスクリプトーム調節を細胞増殖およびヒト疾患に結びつけることが明らかになった。",
+      "answer_journal": "Nucleic Acids Research",
+      "question_type": "published",
+      "options": [
+        "Nucleic Acids Research",
+        "Archiv der Pharmazie",
+        "The Laryngoscope",
+        "Annual review of pathology"
+      ]
+    },
+    {
+      "id": "10.64898/2026.11.17.767350",
+      "title": "MetaEntropy: quantifying protein variability in complex viral mixtures via entropy",
+      "abstract": "High-density sequence data has become commonplace in the study of complex viral mixtures from wastewater. Established algorithms are available for lineage deconvolution and labelling of clinically-elusive mutations. However, less attention has been paid to the quantification of translated amino acid diversity. We present MetaEntropy, a modular R package for assessing protein sequence variability and identifying sites under potential selection via Shannon entropy. MetaEntropy integrates utility functions for visualizing genome-wide and protein-specific variability, extracting nucleotide and amino acid mutation profiles, and identifying entropy hotspots. Despite being designed for wastewater surveillance, the package can also profile protein diversity from cross-sectional intra-patient data. However, it does not analyze population structure or quasispecies, for which several tools are available. By focusing on positional entropy, MetaEntropy bypasses the sequence constraints, computational overhead, and consensus-based variant loss typical of traditional haplotype reconstruction and multiple sequence alignment strategies. To balance sensitivity against neutral variation, the package evaluates entropy using a standard 20-class canonical amino acid scheme and a 7-class model based on traditional physicochemical properties. Calculated entropy values are normalized to a 0-1 scale, enabling direct comparisons of protein diversity across loci and sample strata. As proofs of concept, we employ MetaEntropy to detect well-known SARS-CoV-2 functional changes from wastewater data, and to explore tissue-specific heterogeneity in systemic infections. MetaEntropy is available from the Comprehensive R Archive Network (CRAN) at https://CRAN.R-project.org/.",
+      "journal": "",
+      "doi": "10.64898/2026.11.17.767350",
+      "date": "2026-11-20",
+      "authors": "Jones, L. R., Manrique, J. M.",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.17.767350v1?rss=1",
+      "abstract_source": "rss",
+      "preprint": true,
+      "topic_filter": {
+        "accepted": true,
+        "reason": "microbial_evidence",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "viral"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "genom",
+            "genome"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "discovery": [
+        {
+          "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+          "query": "RSS feed",
+          "scope": "candidate"
+        }
+      ],
+      "collection_order": 5364,
+      "collected_at": "2026-11-20T12:01:03.805438+00:00",
+      "collected_date": "2026-11-20",
+      "sources": [
+        "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+      ],
+      "first_seen": "2026-11-20",
+      "related_dois": [
+        "10.64898/2026.11.17.767350"
+      ],
+      "translation": {
+        "title": {
+          "hash": "10e6474792631f4bf7bf7d48ad9d1a3f9093307da1d4d3cc04385707e5c7acf5",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-20T12:50:53.985769+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "0b9ae9ce1c0918e2acf79a0b15125e3f49bcae06d2fd7e3c967673dfcc37dff8",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-20T12:50:53.985769+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "メタエントロピー：エントロピーによる複雑なウイルス混合物中のタンパク質変動性の定量化",
+      "abstract_ja": "廃水由来の複雑なウイルス混合物の研究において、高密度配列データは一般的となっている。系統的デコンボリューションや、臨床的に同定が困難な変異のラベル付けには、確立されたアルゴリズムが存在する。しかし、翻訳アミノ酸多様性の定量化については、これまであまり注目されてこなかった。本稿では、タンパク質配列の変動性を評価し、シャノンエントロピーを用いて潜在的な選択を受けている部位を同定するためのモジュール式Rパッケージ「MetaEntropy」を提案する。MetaEntropyは、ゲノムワイドおよびタンパク質特異的な変動性の可視化、ヌクレオチドおよびアミノ酸変異プロファイルの抽出、ならびにエントロピーホットスポットの同定のためのユーティリティ関数を統合している。廃水サーベイランス向けに設計されているが、本パッケージは患者内横断的データからのタンパク質多様性のプロファイリングも可能である。ただし、集団構造や準種の解析は行わず、これらについては複数のツールが利用可能である。位置エントロピーに着目することで、MetaEntropyは、従来のハプロタイプ再構築や多重配列アライメント戦略に典型的な配列制約、計算負荷、およびコンセンサスに基づくバリアントロスを回避している。感度と中立変異のバランスを取るため、本パッケージでは、標準的な20クラスの正準アミノ酸体系と、従来の物理化学的特性に基づく7クラスモデルを用いてエントロピーを評価する。算出されたエントロピー値は0～1のスケールに正規化されるため、遺伝子座やサンプル層をまたいだタンパク質多様性の直接的な比較が可能となる。概念実証として、MetaEntropyを用いて廃水データから既知のSARS-CoV-2の機能的変化を検出し、全身性感染症における組織特異的な不均一性を探索する。MetaEntropyは、Comprehensive R Archive Network (CRAN) の https://CRAN.R-project.org/ から入手可能である。",
+      "answer_journal": null,
+      "question_type": "forecast",
+      "options": [
+        "Inflammation research : official journal of the European Histamine Research Society ... [et al.]",
+        "Journal of ethnopharmacology",
+        "Neuropeptides",
+        "Probiotics and antimicrobial proteins"
+      ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC journals 3",
+          "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "journal article"
+      ],
+      "id": "10.1128/spectrum.00355-26",
+      "title": "Slowly burning down the house: the role of calcium in spotted fever rickettsiosis pathogenesis.",
+      "abstract": "Spotted fever group rickettsiae (SFGR) infect microvascular endothelial cells, increasing vascular permeability, a major pathophysiological effect with unclear underlying factors. To accurately model this disease feature, we used a microvascular barrier model that continuously monitors transendothelial electrical resistivity in brain microvascular endothelial cell barriers. Using this model, we previously showed that Rickettsia parkeri-infected microvascular endothelial cells treated with voltage-gated L-, T-, and N-type calcium channel blocker (VGCCb) benidipine delayed in vitro vascular permeability. This study aimed to investigate whether host calcium signaling modulation and metabolic stress with SFGR infection are primary drivers of rickettsial fitness and the subsequent loss of vascular integrity. We hypothesize that SFGR infections, while consuming host cell energy resources such as ATP, lead to modulation of microvascular endothelial cell calcium transport that enhances bacterial fitness, prefacing collateral barrier dysfunction. We confirmed that benidipine, the L-type VGCCb nifedipine, and the membrane-active divalent ion chelator DP-b99 have dose-dependent effects on vascular permeability, as measured by electric cell-substrate impedance sensing, which result in delayed rickettsial growth, as measured by qPCR, without direct bactericidal activity. During R. parkeri infection, intracellular calcium concentrations increased and ATP concentrations decreased simultaneously; these effects were mitigated by benidipine. VGCCb and DP-b99 treatment sustained VE-cadherin junctions, seen with immunofluorescence microscopy, similar to uninfected microvascular endothelial cells, corresponding to barrier integrity preservation. In addition to delayed rickettsial growth, VGCCbs and DP-b99 inhibited rickettsial actin tail formation, reduced cell-to-cell spread, and increased bacterial length by impacting FtsZ-ring localization, evaluated by immunofluorescence microscopy and plaque assay. Furthermore, bacterial protein synthesis is required, as replicating but not heat-killed R. parkeri caused microvascular endothelial cell barrier dysfunction, and a subinhibitory doxycycline dose delayed R. parkeri-induced microvascular endothelial cell dysfunction without impacting R. parkeri growth. Limiting calcium access disrupts R. parkeri growth by interrupting bacterial elongation and division, actin tail formation, and cell-to-cell spread, mitigating R. parkeri-induced microvascular endothelial cell barrier permeability in vitro. This suggests that rickettsial interference with host cell metabolism triggers calcium entry and accessibility, key in rickettsial fitness, and pathogenicity.IMPORTANCEThis work investigated pathogen- and host-associated factors contributing to SFGR disease pathogenesis, as measured by vascular permeability. Our findings demonstrate that SFGR disrupts endothelial cell homeostasis by causing intracellular calcium influx, a process that is critical for rickettsial fitness and pathogenesis. Rickettsial growth and cell-to-cell spread are dependent on host cell calcium, underscoring the essential role of Ca²+ access and linking bacterial fitness to calcium-dependent host processes. Although blocking calcium channels suppresses immune cell activation in vitro and increases mortality in an SFGR murine model in vivo, these findings warrant further investigation into whether selectively targeting endothelial cell-specific calcium signaling could reduce SFGR-associated vascular permeability without compromising innate immune responses. Such an approach may improve SFGR-related morbidity and mortality. Elucidating the role of calcium signaling in the obligate intracellular lifestyle of rickettsiae provides deeper insight into fundamental rickettsial biology and the mechanisms driving severe disease.",
+      "journal": "Microbiology Spectrum",
+      "doi": "10.1128/spectrum.00355-26",
+      "date": "2026-10-29",
+      "authors": "Farner JM, Nguyen T, Londoño AF, Kim Y, Grab DJ, Goley E, Dumler JS.",
+      "tags": [
+        "微生物学"
+      ],
+      "source_url": "https://europepmc.org/article/MED/42954458",
+      "preprint": false,
+      "review": false,
+      "pmcid": "",
+      "pmid": "42954458",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "bacteria",
+          "bacterial"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [],
+          "evolution": []
+        },
+        "tags": [
+          "微生物学"
+        ]
+      },
+      "collection_order": 5224,
+      "collected_at": "2026-11-20T11:50:28.841726+00:00",
+      "collected_date": "2026-11-20",
+      "sources": [
+        "Europe PMC journals 3"
+      ],
+      "first_seen": "2026-11-20",
+      "related_dois": [
+        "10.1128/spectrum.00355-26"
+      ],
+      "translation": {
+        "title": {
+          "hash": "123c90418c591b49fc35d21c02a5b1db66ebb8cd5dd60cbd54d7c0777b2e10e6",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-20T12:44:47.094500+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "2a153a19ab92ddb880381c81abf6421a753a9fdb40a18a0f3037d19479fd6c6e",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-20T12:44:47.094500+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "家屋を徐々に焼失させる：紅斑熱リケッチア症の病態形成におけるカルシウムの役割。",
+      "abstract_ja": "斑点熱群リケッチア（SFGR）は微小血管内皮細胞に感染して血管透過性を亢進させるが、これは根本的な要因が不明な主要な病態生理学的影響である。この疾患特性を正確にモデル化するため、我々は脳微小血管内皮細胞バリアにおける経内皮電気抵抗率を継続的にモニタリングする微小血管バリアモデルを用いた。このモデルを用いて、Rickettsia parkeri感染微小血管内皮細胞に電位依存性L型、T型、およびN型カルシウムチャネル遮断薬（VGCCb）であるベニジピンを投与すると、in vitroで血管透過性が遅延することを以前に示した。本研究では、SFGR感染に伴う宿主のカルシウムシグナル伝達の調節および代謝ストレスが、リケッチアの適応度とそれに続く血管完全性の喪失の主要な駆動要因であるかどうかを検証することを目的とした。我々は、SFGR感染がATPなどの宿主細胞のエネルギー資源を消費する一方で、微小血管内皮細胞のカルシウム輸送を調節して細菌の適応度を高め、それが付随的なバリア機能不全の前段階となるという仮説を立てている。ベニジピン、L型VGCCbであるニフェジピン、および膜活性型二価イオンキレート剤DP-b99が、電気細胞-基質インピーダンスセンシングで測定した血管透過性に対して用量依存的な影響を及ぼし、その結果、直接的な殺菌活性を伴わずに、qPCRで測定したリケッチアの増殖遅延をもたらすことを確認した。R. parkeri感染時には、細胞内カルシウム濃度の上昇とATP濃度の低下が同時に認められたが、これらの影響はベニジピンによって軽減された。VGCCbおよびDP-b99の投与は、免疫蛍光顕微鏡で観察されるVE-カドヘリン接合部を、未感染の微小血管内皮細胞と同様に維持し、これはバリア完全性の保持に対応していた。リケッチアの増殖遅延に加え、VGCCbおよびDP-b99は、免疫蛍光顕微鏡およびプラークアッセイで評価したFtsZ-リングの局在化に影響を与えることで、リケッチアのアクチンテイル形成を抑制し、細胞間拡散を減少させ、細菌の長さを増加させた。さらに、細菌のタンパク質合成が必要であり、複製されたが熱死滅しなかったR. parkeriは微小血管内皮細胞のバリア機能不全を引き起こし、亜阻害用量のドキシサイクリンは、R. parkeriの増殖に影響を与えることなく、R. parkeri誘発性の微小血管内皮細胞機能不全を遅延させた。カルシウムアクセスを制限すると、細菌の伸長と分裂、アクチンテイル形成、および細胞間拡散が遮断されることでR. parkeriの増殖が阻害され、in vitroにおいてR. parkeri誘発性の微小血管内皮細胞バリア透過性が軽減された。このことは、リケッチアによる宿主細胞代謝への干渉が、リケッチアの適応度および病原性の鍵となるカルシウムの取り込みとアクセス性を誘発することを示唆している。重要性：本研究では、血管透過性で測定した、SFGRの疾患病態形成に寄与する病原体および宿主関連因子を調査した。我々の知見は、SFGRが細胞内カルシウム流入を引き起こすことで内皮細胞の恒常性を乱し、このプロセスがリケッチアの適応度および病態形成に不可欠であることを示している。リケッチアの増殖と細胞間拡散は宿主細胞のカルシウムに依存しており、これはCa²+アクセスの不可欠な役割を強調するとともに、細菌の適応度をカルシウム依存的な宿主プロセスに結びつけるものである。カルシウムチャネルの遮断は、in vitroで免疫細胞の活性化を抑制し、in vivoのSFGRマウスモデルで死亡率を上昇させるが、これらの知見は、内皮細胞特異的なカルシウムシグナル伝達を選択的に標的とすることで、自然免疫応答を損なうことなくSFGR関連の血管透過性を低減できるかどうかについて、さらなる調査を行う価値があることを示している。このようなアプローチは、SFGRに関連する罹患率および死亡率を改善させる可能性がある。リケッチアの必須細胞内生活様式におけるカルシウムシグナル伝達の役割を解明することは、リケッチアの基礎的な生物学および重篤な疾患を駆動するメカニズムについて、より深い洞察を与えるものである。",
+      "answer_journal": "Microbiology Spectrum",
+      "question_type": "published",
+      "options": [
+        "Annals of the New York Academy of Sciences",
+        "Protein expression and purification",
+        "Journal of leukocyte biology",
+        "Microbiology Spectrum"
+      ]
+    },
+    {
+      "id": "10.1093/nar/gkag1307",
+      "title": "Correction to ‘rAAV capsid mutants eliminate leaky expression from DNA donor template for homologous recombination’",
+      "abstract": "This is a correction to: Chen Ling, Chenghui Yu, Cong Wang, Ming Yang, Hengbin Yang, Keying Yang, Yun He, Yajie Shen, Shiyi Tang, Xiaomin Yu, Zhengjun Zhou, Shaolai Zhou, Jian Zhou, Liqing Zhu, Jixi Li, rAAV capsid mutants eliminate leaky expression from DNA donor template for homologous recombination, Nucleic Acids Research, Volume 52, Issue 11, 24 June 2024, Pages 6518–6531, https://doi.org/10.1093/nar/gkae401",
+      "journal": "Nucleic Acids Research",
+      "doi": "10.1093/nar/gkag1307",
+      "date": "2026-11-20",
+      "authors": "",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1307/9103979?rss=1",
+      "abstract_source": "rss",
+      "preprint": false,
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "DNA"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "discovery": [
+        {
+          "source": "https://academic.oup.com/rss/site_5127/3091.xml",
+          "query": "RSS feed",
+          "scope": "journal"
+        }
+      ],
+      "collection_order": 5371,
+      "collected_at": "2026-11-20T12:01:03.805438+00:00",
+      "collected_date": "2026-11-20",
+      "sources": [
+        "https://academic.oup.com/rss/site_5127/3091.xml"
+      ],
+      "first_seen": "2026-11-20",
+      "related_dois": [
+        "10.1093/nar/gkag1307"
+      ],
+      "translation": {
+        "title": {
+          "hash": "705dd15072abf323d536c355222bcd6526e379bddcba9a608f0690491ca54e8d",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-20T12:50:53.985769+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "a44919ea76104aaf1b364189e46989413bc729f05edde276f2f53282d4831ba2",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-20T12:50:53.985769+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "「rAAVカプシド変異体は相同組換えのためのDNAドナーテンプレートからの漏出発現を排除する」の訂正",
+      "abstract_ja": "本論文は、Chen Ling, Chenghui Yu, Cong Wang, Ming Yang, Hengbin Yang, Keying Yang, Yun He, Yajie Shen, Shiyi Tang, Xiaomin Yu, Zhengjun Zhou, Shaolai Zhou, Jian Zhou, Liqing Zhu, Jixi Li, rAAV capsid mutants eliminate leaky expression from DNA donor template for homologous recombination, Nucleic Acids Research, Volume 52, Issue 11, 24 June 2024, Pages 6518–6531, https://doi.org/10.1093/nar/gkae401 の訂正である。",
+      "answer_journal": "Nucleic Acids Research",
+      "question_type": "published",
+      "options": [
+        "The Journal of animal ecology",
+        "Cell discovery",
+        "Nucleic Acids Research",
+        "Molecular Phylogenetics and Evolution"
+      ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC journals 3",
+          "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "journal article"
+      ],
+      "id": "10.1128/spectrum.00723-26",
+      "title": "Comprehensive profiling of genotype-specific dengue antibody responses using a newly developed single-round infectious particle panel.",
+      "abstract": "Neutralizing antibodies provide critical protection against dengue virus (DENV) infections. However, under certain conditions, antibodies can also enhance infection and contribute to severe disease through antibody-dependent enhancement (ADE). ADE can occur through extrinsic mechanisms, in which antibody-opsonized virions engage with Fcγ receptors (FcγRs) on target cells to facilitate increased viral entry, while intrinsic mechanisms have been proposed in which FcγR-mediated uptake triggers intracellular pathways that promote viral replication. The extensive genetic diversity of DENV further complicates the evaluation of antibody functionality, as antibodies may exhibit distinct neutralizing and enhancing activities against different viral genotypes. Here, we developed a single-round infectious particle (SRIP) panel representing 17 DENV genotypes across all four DENV serotypes. This genotype-inclusive platform enables assessment of antibody-mediated neutralization and FcγR-dependent enhancement of infection through luciferase reporter quantification. Using this panel, we evaluated antibody responses from DENV-infected individuals, healthy volunteers, and flavivirus-cross-reactive or DENV-specific monoclonal antibodies. Our findings reveal genotype-specific variations in antibody-mediated neutralization and enhancement, emphasizing the complex interplay between antibody responses and DENV genetic diversity. This SRIP panel provides a robust approach for profiling functional antibodies against genetically diverse DENV strains. While the current platform primarily quantifies extrinsic ADE, its single-round infection format and intracellular replicon-based readout provide a foundation for future investigations of intrinsic ADE mechanisms. Overall, this platform offers broad applications for studying dengue immunity, evaluating vaccine-induced antibody responses, and advancing our understanding of antibody-mediated protection and disease enhancement.ImportanceDengue virus (DENV) comprises four serotypes and substantial genetic diversity, which can influence the ability of antibodies to neutralize or enhance infection. However, comparative assessment of antibody functionality across diverse DENV genotypes remains challenging because differences in viral genetic backgrounds can confound functional measurements. We developed a single-round infectious particle (SRIP) panel representing 17 DENV genotypes in which the prM and E structural proteins are varied on a common replicon backbone. This design provides a standardized platform for directly comparing antibody-mediated neutralization and Fcγ receptor-dependent enhancement across genetically diverse DENV strains. By characterizing antibody responses against a broad range of genotypes, the panel can reveal differences in functional antibody activity that may be overlooked when using a limited number of representative strains. The platform is therefore useful for investigating how DENV genetic diversity influences antibody-mediated protection and extrinsic antibody-dependent enhancement (ADE), as well as for evaluating the breadth of antibody responses induced by infection or vaccination. Although the current platform primarily quantifies extrinsic ADE, its single-round infection format and quantitative intracellular reporter readout provide a foundation for future studies investigating intrinsic ADE in more physiologically relevant immune cell models. This genotype-inclusive panel offers a practical approach for standardized functional profiling of dengue antibodies and may facilitate improved evaluation of vaccine-induced immunity and antibody responses across the genetic diversity of DENV.",
+      "journal": "Microbiology Spectrum",
+      "doi": "10.1128/spectrum.00723-26",
+      "date": "2026-11-09",
+      "authors": "Balingit JC, Suzuki R, Matsuda M, Xayavong D, Takamatsu Y, Buerano C, Ngwe Tun MM, Morita K.",
+      "tags": [
+        "微生物学"
+      ],
+      "source_url": "https://europepmc.org/article/MED/43001792",
+      "preprint": false,
+      "review": false,
+      "pmcid": "",
+      "pmid": "43001792",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "viral",
+          "virus"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [],
+          "evolution": []
+        },
+        "tags": [
+          "微生物学"
+        ]
+      },
+      "collection_order": 5206,
+      "collected_at": "2026-11-20T11:50:28.841726+00:00",
+      "collected_date": "2026-11-20",
+      "sources": [
+        "Europe PMC journals 3"
+      ],
+      "first_seen": "2026-11-20",
+      "related_dois": [
+        "10.1128/spectrum.00723-26"
+      ],
+      "translation": {
+        "title": {
+          "hash": "7c2387eb6f452ffbb3250a0dc21d5ecdd2bfd1e0ac5cda44287d892e6d0e04bf",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-20T12:25:46.417659+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "5f9b2337268e6a6b7aa7b2a40bada15323fbbfdeff9041806b3cef82bb859108",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-20T12:25:46.417659+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "新規開発の単回感染粒子パネルを用いた遺伝子型特異的なデング抗体応答の網羅的プロファイリング",
+      "abstract_ja": "中和抗体は、デングウイルス（DENV）感染に対して極めて重要な防御能を提供する。しかし、特定の条件下では、抗体が抗体依存性増強（ADE）を通じて感染を増強し、重症化を招くこともある。ADEは、抗体オプソニン化されたビリオンが標的細胞上のFcγ受容体（FcγR）と結合してウイルスの侵入を促進する外因性機序によって起こり得る一方、FcγR介在性の取り込みが細胞内経路を誘発してウイルス複製を促進する内因性機序も提唱されている。DENVの広範な遺伝的多様性は、抗体が異なるウイルス遺伝子型に対して異なる中和活性および増強活性を示す可能性があるため、抗体機能の評価をさらに困難にしている。本研究では、4つのDENV血清型すべてにわたる17種類のDENV遺伝子型を代表するシングルラウンド感染粒子（SRIP）パネルを開発した。この遺伝子型を網羅したプラットフォームにより、ルシフェラーゼレポーターの定量化を通じて、抗体介在性中和およびFcγR依存性の感染増強を評価することが可能となる。このパネルを用いて、DENV感染個体、健常ボランティア、およびフラビウイルス交差反応性またはDENV特異的モノクローナル抗体による抗体応答を評価した。その結果、抗体介在性中和および増強における遺伝子型特異的な差異が明らかになり、抗体応答とDENVの遺伝的多様性との間の複雑な相互作用が強調された。このSRIPパネルは、遺伝的に多様なDENV株に対する機能性抗体をプロファイリングするための堅牢なアプローチを提供する。現在のプラットフォームは主に外因性ADEを定量化するものであるが、そのシングルラウンド感染形式と細胞内レプリコンベースのリードアウトは、内因性ADE機序に関する今後の研究の基盤となる。総じて、本プラットフォームは、デング免疫の研究、ワクチン誘導性抗体応答の評価、および抗体介在性防御と疾患増強に関する理解の深化に幅広く応用可能である。重要性 デングウイルス（DENV）は4つの血清型と相当な遺伝的多様性を有しており、これが抗体の中和能や感染増強能に影響を及ぼし得る。しかし、ウイルスの遺伝的背景の違いが機能測定を混乱させる可能性があるため、多様なDENV遺伝子型にわたる抗体機能の比較評価は依然として困難である。我々は、共通のレプリコン骨格上でprMおよびE構造タンパク質を変化させた、17種類のDENV遺伝子型を代表するシングルラウンド感染粒子（SRIP）パネルを開発した。この設計により、遺伝的に多様なDENV株間で抗体介在性中和およびFcγ受容体依存性増強を直接比較するための標準化されたプラットフォームが提供される。広範な遺伝子型に対する抗体応答を特性評価することで、本パネルは、限られた数の代表株を用いた場合には見落とされがちな機能性抗体活性の差異を明らかにすることができる。したがって、本プラットフォームは、DENVの遺伝的多様性が抗体介在性防御および外因性抗体依存性増強（ADE）にどのように影響するかを調査するとともに、感染またはワクチン接種によって誘導される抗体応答の幅を評価する上で有用である。現在のプラットフォームは主に外因性ADEを定量化するものであるが、そのシングルラウンド感染形式と定量的な細胞内レポーターリードアウトは、より生理学的に関連性の高い免疫細胞モデルにおける内因性ADEを調査する今後の研究の基盤となる。この遺伝子型を網羅したパネルは、デング抗体の標準化された機能プロファイリングのための実用的なアプローチを提供し、DENVの遺伝的多様性にわたるワクチン誘導性免疫および抗体応答の評価向上を促進する可能性がある。",
+      "answer_journal": "Microbiology Spectrum",
+      "question_type": "published",
+      "options": [
+        "European journal of medicinal chemistry",
+        "Tropical diseases, travel medicine and vaccines",
+        "Microbiology Spectrum",
+        "BMC medical education"
+      ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC journals 3",
+          "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "journal article"
+      ],
+      "id": "10.1128/spectrum.02238-26",
+      "title": "Resensitization of colistin-resistant bacteria by the combination of colistin and L-arginine.",
+      "abstract": "Colistin is the last-resort antibiotic for the clinical treatment of infections caused by multidrug-resistant Gram-negative bacteria. However, the emergence of colistin-resistant bacteria, particularly those harboring the mcr-1 gene, has severely compromised the therapeutic efficacy of colistin. Herein, we demonstrated that L-arginine restores colistin susceptibility in colistin-resistant bacteria, including those with intrinsic or acquired resistance. The combination of colistin and L-arginine effectively treated murine acute peritonitis caused by a colistin-resistant bacterial infection, with no toxicity observed in either in vitro or in vivo assays. Mechanistically, we revealed that the combination enhances the permeability of the cell membrane, thereby promoting the influx of colistin, ATP efflux, and the level of reactive oxygen species (ROS), ultimately leading to the death of colistin-resistant bacteria. Furthermore, the combination downregulates membrane lipid-related genes fabZ and fadL, consequently suppressing fatty acid synthesis. This inhibition resulted in the uneven distribution of membrane lipids and lipopolysaccharide (LPS), which further increased membrane permeability. In sum, our findings indicate that the combination of colistin and L-arginine successfully reverses the colistin resistance phenotype, providing a potential therapeutic strategy to combat infections caused by colistin-resistant bacteria.IMPORTANCEThe global spread of colistin-resistant bacteria has eroded one of the last lines of defense against life-threatening infections that no longer respond to conventional antibiotics. Here we show that L-arginine, a natural and safe amino acid, is an agent that can restore colistin susceptibility in strains with intrinsic or acquired resistance, and is effective in a murine peritonitis model without observable toxicity. Mechanistically, the combination increases membrane permeability and compromises the integrity of the membrane, leading to altered membrane lipid and LPS distribution that further amplifies membrane disruption. These findings establish that colistin combined with L-arginine constitutes a readily translatable therapeutic strategy to overcome colistin resistance and preserve the clinical utility of this critical last-resort antibiotic.",
+      "journal": "Microbiology Spectrum",
+      "doi": "10.1128/spectrum.02238-26",
+      "date": "2026-10-29",
+      "authors": "Li T, Zhou Y, Zhang G, Lu W, Wu J, Chen J, Chen X, He L, Yang Y, Dai M, Zhang Q, Zhong L-L, Tian G-B.",
+      "tags": [
+        "微生物学"
+      ],
+      "source_url": "https://europepmc.org/article/MED/42954469",
+      "preprint": false,
+      "review": false,
+      "pmcid": "",
+      "pmid": "42954469",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "bacteria",
+          "bacterial"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [],
+          "evolution": []
+        },
+        "tags": [
+          "微生物学"
+        ]
+      },
+      "collection_order": 5225,
+      "collected_at": "2026-11-20T11:50:28.841726+00:00",
+      "collected_date": "2026-11-20",
+      "sources": [
+        "Europe PMC journals 3"
+      ],
+      "first_seen": "2026-11-20",
+      "related_dois": [
+        "10.1128/spectrum.02238-26"
+      ],
+      "translation": {
+        "title": {
+          "hash": "ed7f90d7767e81b09717a339ff1fc2d34bd8582dda68212f3f01fae6feff5ef6",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-20T12:44:47.094500+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "ff607e1a9b71b0df02ec61ed0e12fa7b49d517b83e39eb1015ff4a29514c3b55",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-20T12:44:47.094500+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "コリスチンとL-アルギニンの併用によるコリスチン耐性菌の再感作",
+      "abstract_ja": "コリスチンは、多剤耐性グラム陰性菌による感染症の臨床治療における最後の手段となる抗菌薬である。しかし、コリスチン耐性菌、特にmcr-1遺伝子を保有する菌の出現により、コリスチンの治療効果が著しく損なわれている。本研究では、L-アルギニンが、内因性または獲得性耐性を有する菌を含むコリスチン耐性菌において、コリスチン感受性を回復させることを実証した。コリスチンとL-アルギニンの併用は、コリスチン耐性菌感染によるマウス急性腹膜炎を効果的に治療し、in vitroおよびin vivoのいずれのアッセイにおいても毒性は認められなかった。機序的には、本併用により細胞膜の透過性が亢進し、それによってコリスチンの流入、ATPの流出、および活性酸素種（ROS）レベルが促進され、最終的にコリスチン耐性菌の死滅に至ることを明らかにした。さらに、本併用は膜脂質関連遺伝子であるfabZおよびfadLをダウンレギュレートし、その結果、脂肪酸合成を抑制した。この抑制により、膜脂質およびリポ多糖（LPS）の分布に不均一性が生じ、膜透過性がさらに亢進した。以上のことから、我々の知見は、コリスチンとL-アルギニンの併用がコリスチン耐性表現型を正常に戻し、コリスチン耐性菌による感染症に対抗するための潜在的な治療戦略となり得ることを示している。重要性コリスチン耐性菌の世界的な蔓延は、従来の抗菌薬がもはや奏効しなくなった生命を脅かす感染症に対する最後の防衛線の一つを侵食している。本研究では、天然かつ安全なアミノ酸であるL-アルギニンが、内因性または獲得性耐性を有する菌株においてコリスチン感受性を回復させ得る薬剤であり、マウス腹膜炎モデルにおいて観察可能な毒性を示すことなく有効であることを示す。機序的には、本併用により膜透過性が亢進し、膜の完全性が損なわれることで、膜脂質およびLPSの分布が変化し、膜の破壊がさらに増幅される。これらの知見は、コリスチンとL-アルギニンの併用が、コリスチン耐性を克服し、この極めて重要な最後の手段となる抗菌薬の臨床的有用性を維持するための、容易に転用可能な治療戦略であることを立証するものである。",
+      "answer_journal": "Microbiology Spectrum",
+      "question_type": "published",
+      "options": [
+        "Pharmacological reports : PR",
+        "Genome Research",
+        "Journal of thermal biology",
+        "Microbiology Spectrum"
+      ]
+    },
+    {
+      "id": "10.1093/nar/gkag1214",
+      "title": "FusionGDB 3.0: integrating breakpoints, generating personalized sequences, and inferring tumorigenic scenarios for human fusion genes",
+      "abstract": "AbstractFusionGDB has served diverse biological, health, and clinical research communities as a unique functional annotation knowledgebase of human fusion genes. In this study, we report an updated resource of human fusion gene annotation (FusionGDB 3.0), available at https://compbio.uth.edu/FusionGDB/. FusionGDB 3.0 includes substantial content updates: 156K up-to-date human fusion genes established by integrating 216K RNA-seq-based and 100K WGS-based breakpoint events, comprehensive open reading frame annotations, protein domain retention searches, and 1.13 million personalized fusion protein sequences reflecting individual nsSNVs from TCGA and CCLE, as well as N- and C-truncated protein sequences alongside canonical in-frame products. Furthermore, it incorporates 18K potential tumorigenic scenarios, supported by evidence from the literature, spanning drug-targetable gene group fusions, the epigenomic architecture around breakpoint junctions, and therapeutic prioritization scoring. FusionGDB 3.0 establishes a systematic framework for the functional annotation of coding structural variants. FusionGDB 3.0 serves as a pivotal reference knowledgebase for the genomics, oncology, and precision pharmacology communities, while also functioning as a foundational benchmark dataset for training and validating machine learning models, structural biology platforms, and AI-driven therapeutic discovery pipelines.",
+      "journal": "Nucleic Acids Research",
+      "doi": "10.1093/nar/gkag1214",
+      "date": "2026-11-20",
+      "authors": "",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1214/9103991?rss=1",
+      "abstract_source": "rss",
+      "preprint": false,
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "annotation",
+          "gene",
+          "resource"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "annotation",
+            "genom",
+            "genomic"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "discovery": [
+        {
+          "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+          "query": "RSS feed",
+          "scope": "journal"
+        }
+      ],
+      "collection_order": 5347,
+      "collected_at": "2026-11-20T12:01:03.805438+00:00",
+      "collected_date": "2026-11-20",
+      "sources": [
+        "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+      ],
+      "first_seen": "2026-11-20",
+      "related_dois": [
+        "10.1093/nar/gkag1214"
+      ],
+      "translation": {
+        "title": {
+          "hash": "886792f39f817d5cf47c0f71a4ae961c08874495aa5fdca6466ad39e7e130249",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-20T12:35:53.108591+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "685dbf6992fcd8ca06c8a33ec018dd61e95a52163ca5eaee28645c6843b9074f",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-20T12:35:53.108591+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "FusionGDB 3.0：ヒト融合遺伝子におけるブレークポイントの統合、個別化シーケンスの生成、および腫瘍原性シナリオの推論",
+      "abstract_ja": "要旨FusionGDBは、ヒト融合遺伝子の独自の機能アノテーション知識ベースとして、多様な生物学、保健、および臨床研究コミュニティに貢献してきた。本研究では、https://compbio.uth.edu/FusionGDB/ で利用可能な、更新版のヒト融合遺伝子アノテーションリソース（FusionGDB 3.0）について報告する。FusionGDB 3.0には、大幅なコンテンツの更新が含まれている。具体的には、216K件のRNA-seqベースおよび100K件のWGSベースのブレイクポイントイベントを統合して構築された156K件の最新のヒト融合遺伝子、包括的なオープンリーディングフレームアノテーション、タンパク質ドメイン保持検索、ならびにTCGAおよびCCLE由来の個々のnsSNVを反映した113万件の個別化融合タンパク質配列、および正準なインフレーム産物と並行して提示されるN-およびC-切断型タンパク質配列が収録されている。さらに、文献のエビデンスに裏付けられた18K件の潜在的な腫瘍原性シナリオが組み込まれており、これには薬剤標的可能遺伝子群の融合、ブレイクポイント接合部周辺のエピゲノム構造、および治療優先順位付けスコアリングが含まれる。FusionGDB 3.0は、コーディング構造変異の機能アノテーションのための体系的なフレームワークを確立する。FusionGDB 3.0は、ゲノミクス、腫瘍学、および精密薬理学のコミュニティにとって極めて重要なリファレンス知識ベースとして機能すると同時に、機械学習モデル、構造生物学プラットフォーム、およびAI駆動型の治療探索パイプラインの学習および検証のための基礎的なベンチマークデータセットとしても機能する。",
+      "answer_journal": "Nucleic Acids Research",
+      "question_type": "published",
+      "options": [
+        "Cancer biology & medicine",
+        "Genetics",
+        "Nucleic Acids Research",
+        "Current molecular medicine"
+      ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC journals 3",
+          "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "journal article"
+      ],
+      "id": "10.1128/spectrum.02165-26",
+      "title": "Lactate accumulation triggered by RNA virus infection facilitates viral replication.",
+      "abstract": "As the terminal product of glycolysis, lactate has emerged as a crucial signaling molecule mediating metabolic reprogramming with immune regulation. Although RNA viruses are known to exploit host metabolism, the precise role of lactate accumulation in viral pathogenesis remains to be fully elucidated. Using Newcastle disease virus and influenza A virus as model pathogens, this study demonstrates that RNA virus infection rapidly activates host glycolysis and induces sustained lactate accumulation, thereby creating a microenvironment favorable for viral replication. Pharmacological inhibition of glycolysis markedly suppressed viral proliferation. In inhibition-rescue experiments, exogenous lactate supplementation reversed the antiviral immune gene and IRF3-phosphorylation changes induced by glycolytic inhibition. Adding exogenous sodium lactate without inhibiting glycolysis further repressed antiviral immune gene expression and IRF3 phosphorylation. Mechanistically, virus-induced lactate accumulation was associated with suppression of the retinoic acid-inducible gene I (RIG-I)-like receptor signaling pathway: excess lactate acted upstream of interferon regulatory factor 3 (IRF3), in a manner consistent with inhibition of the mitochondrial antiviral signaling protein (MAVS)-IRF3 axis, thereby attenuating type I interferon production. Together, these findings define a positive feedback loop in which RNA viruses exploit host metabolic reprogramming to accumulate lactate, which in turn restrains antiviral innate immunity and favors viral replication.IMPORTANCERNA viruses have no metabolism of their own and must rewire the host cell to replicate. Here, using two viruses from different families-Newcastle disease virus and influenza A virus-we show that infection rapidly drives host glucose uptake and glycolysis and causes lactate to accumulate. Lactate is not an inert by-product: blocking glycolysis lowers lactate, derepresses type I interferon and interferon-stimulated gene expression, and restricts viral replication, while adding lactate back reverses immune-signaling changes induced by glycolytic inhibition and further suppresses interferon regulatory factor 3 (IRF3) phosphorylation. Lactate therefore functions as an immunomodulatory effector linking virus-driven metabolic reprogramming to weakened innate immunity, consistent with inhibition of the mitochondrial antiviral signaling protein (MAVS)-IRF3 axis, forming a positive feedback loop that favoring replication. Since this loop was observed in two distinct RNA viruses, glycolysis and lactate handling may represent host-directed targets for antiviral intervention, while lactate's broader clinical relevance as an immune biomarker requires further investigation.",
+      "journal": "Microbiology Spectrum",
+      "doi": "10.1128/spectrum.02165-26",
+      "date": "2026-11-02",
+      "authors": "Zhang J, Wang J, Sun Y, Cai J, Hou Y, Zhang W, Cheng Y, Chen L, Ding C, Ren T.",
+      "tags": [
+        "微生物学"
+      ],
+      "source_url": "https://europepmc.org/article/MED/42969508",
+      "preprint": false,
+      "review": false,
+      "pmcid": "",
+      "pmid": "42969508",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "viral",
+          "virus",
+          "viruses"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [],
+          "evolution": []
+        },
+        "tags": [
+          "微生物学"
+        ]
+      },
+      "collection_order": 5223,
+      "collected_at": "2026-11-20T11:50:28.841726+00:00",
+      "collected_date": "2026-11-20",
+      "sources": [
+        "Europe PMC journals 3"
+      ],
+      "first_seen": "2026-11-20",
+      "related_dois": [
+        "10.1128/spectrum.02165-26"
+      ],
+      "translation": {
+        "title": {
+          "hash": "5f35d34c0a0c6e2c21fcf9ba17166c1b92cadb0fec6a73bdb456cf6096f8b280",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-20T12:41:57.996096+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "ee2aa723776ac2beb5a845590a7af8a641dd648f7ed1e54685defe04f1078ed5",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-20T12:41:57.996096+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "RNAウイルス感染によって誘発される乳酸の蓄積は、ウイルスの複製を促進する。",
+      "abstract_ja": "解糖系の最終産物である乳酸は、免疫調節を伴う代謝リプログラミングを媒介する重要なシグナル伝達分子として注目されている。RNAウイルスが宿主の代謝を利用することは知られているが、ウイルスの病態形成における乳酸蓄積の正確な役割については、いまだ十分に解明されていない。本研究では、ニューカッスル病ウイルスおよびA型インフルエンザウイルスをモデル病原体として用い、RNAウイルス感染が宿主の解糖系を急速に活性化し、持続的な乳酸蓄積を誘導することで、ウイルス複製に有利な微小環境を作り出すことを実証した。解糖系の薬理学的阻害は、ウイルスの増殖を著しく抑制した。阻害・レスキュー実験において、外因性乳酸の補充は、解糖系阻害によって誘導された抗ウイルス免疫遺伝子およびIRF3のリン酸化変化を逆転させた。解糖系を阻害せずに外因性乳酸ナトリウムを添加すると、抗ウイルス免疫遺伝子の発現およびIRF3のリン酸化がさらに抑制された。機序的には、ウイルス誘導性の乳酸蓄積は、レチノイン酸誘導性遺伝子I（RIG-I）様受容体シグナル伝達経路の抑制に関連していた。すなわち、過剰な乳酸がインターフェロン調節因子3（IRF3）の上流で作用し、ミトコンドリア抗ウイルスシグナル伝達タンパク質（MAVS）-IRF3軸の阻害と整合する様式でIRF3の産生を減弱させ、その結果、I型インターフェロンの産生を抑制した。これらの知見を総合すると、RNAウイルスが宿主の代謝リプログラミングを利用して乳酸を蓄積させ、それがさらに抗ウイルス自然免疫を抑制してウイルス複製に有利に働くという正のフィードバックループが定義される。重要性：RNAウイルスは独自の代謝を持たず、複製のために宿主細胞の回路を書き換える必要がある。本研究では、異なる科に属する2種類のウイルス（ニューカッスル病ウイルスおよびA型インフルエンザウイルス）を用い、感染が宿主のグルコース取り込みと解糖系を急速に促進し、乳酸を蓄積させることを示した。乳酸は不活性な副産物ではない。解糖系を遮断すると乳酸が低下し、I型インターフェロンおよびインターフェロン刺激遺伝子発現の脱抑制が起こり、ウイルス複製が制限される。一方で、乳酸を補充すると、解糖系阻害によって誘導された免疫シグナル伝達の変化が逆転し、インターフェロン調節因子3（IRF3）のリン酸化がさらに抑制される。したがって、乳酸はウイルス駆動の代謝リプログラミングと自然免疫の減弱を結びつける免疫調節エフェクターとして機能しており、これはミトコンドリア抗ウイルスシグナル伝達タンパク質（MAVS）-IRF3軸の阻害と整合し、複製に有利な正のフィードバックループを形成している。このループが2種類の異なるRNAウイルスで観察されたことから、解糖系および乳酸処理は抗ウイルス介入の宿主指向性標的となる可能性がある一方、免疫バイオマーカーとしての乳酸のより広範な臨床的意義については、さらなる調査が必要である。",
+      "answer_journal": "Microbiology Spectrum",
+      "question_type": "published",
+      "options": [
+        "The American journal of tropical medicine and hygiene",
+        "Microbiology Spectrum",
+        "FEBS open bio",
+        "Tissue barriers"
+      ]
+    },
+    {
+      "id": "10.1186/s13059-026-04321-6",
+      "title": "Korea10K integrates 10,239 whole genomes with multiomic and clinical health information as a Korean reference dataset",
+      "abstract": "Background\n                     Large-scale genome projects have advanced the characterization of human genetic diversity. However, the lack of deeply sequenced, multiomic resources representing the Korean population has limited systematic evaluation of population-specific variation and its functional and translational impact.\n                  \n                     Results\n                     We present Korea10K, a population-scale multiomic resource comprising 10,239 high-depth whole genomes (mean coverage 30 ×) with integrated molecular and phenotypic data. Analysis of 9,000 unrelated individuals enables near-complete discovery of ultra-rare variants (allele count > 2 and allele frequency ≤ 0.0005) and supports the construction of a high-resolution, population-specific imputation panel. Koreans exhibit pronounced autosomal genetic homogeneity together with a narrow Y-chromosomal and HLA-A allelic spectrum and comparatively deep mitochondrial lineage diversity, consistent with long-term demographic continuity. We further identify 16.4 million variants that alter CpG dinucleotide context, revealing widespread sequence-driven modulation of the genomic CG landscape. Notably, CG-eliminating variants generate loss of methylation signal and disrupt CpG probe targets in widely used methylation arrays, introducing a systematic source of bias in epigenome-wide association studies and epigenetic clock estimation.\n                  \n                     Conclusions\n                     Korea10K establishes a high-resolution genomic and multiomic reference for the Korean population and reveals a previously unrecognized interaction between genetic variation and epigenomic measurement. This resource provides a foundation for precision medicine and highlights the need for ancestry-aware interpretation of molecular data.",
+      "journal": "Genome Biology",
+      "doi": "10.1186/s13059-026-04321-6",
+      "date": "2026-11-20",
+      "authors": "",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://link.springer.com/article/10.1186/s13059-026-04321-6",
+      "abstract_source": "rss",
+      "preprint": false,
+      "topic_filter": {
+        "accepted": true,
+        "reason": "bioinformatics_method_or_resource",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "genome",
+          "resource"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "genom",
+            "genome",
+            "genomic"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "discovery": [
+        {
+          "source": "https://link.springer.com/search.rss?facet-journal-id=13059",
+          "query": "RSS feed",
+          "scope": "candidate"
+        }
+      ],
+      "collection_order": 5363,
+      "collected_at": "2026-11-20T12:01:03.805438+00:00",
+      "collected_date": "2026-11-20",
+      "sources": [
+        "https://link.springer.com/search.rss?facet-journal-id=13059"
+      ],
+      "first_seen": "2026-11-20",
+      "related_dois": [
+        "10.1186/s13059-026-04321-6"
+      ],
+      "translation": {
+        "title": {
+          "hash": "0a7734d4dc30a4e996d697e05d3125d82ac444e66bb7a0bb1b352109e2ae985f",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-20T12:22:24.553807+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "17ab8e77aa411afee28ccfdc0c1ad81c4c070a323e9c500bc1fa3f844fd355b6",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-20T12:22:24.553807+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "Korea10Kは、10,239件の全ゲノム配列をマルチオミクスおよび臨床健康情報と統合した韓国のリファレンスデータセットである。",
+      "abstract_ja": "背景\n                     大規模なゲノムプロジェクトにより、ヒトの遺伝的多様性の特性解析が進展してきた。しかし、韓国人集団を代表する深度の高いシーケンシング済みマルチオミクスリソースが不足していたため、集団特異的な変異およびその機能的・トランスレーショナルな影響に関する系統的な評価が限定的であった。\n                  \n                     結果\n                     本研究では、分子データと表現型データを統合した10,239件の高深度全ゲノム（平均カバレッジ 30 ×）からなる集団規模のマルチオミクスリソース「Korea10K」を提案する。血縁関係のない9,000個体の解析により、超希少変異（アレル数 > 2かつアレル頻度 ≤ 0.0005）のほぼ完全な同定が可能となり、高解像度かつ集団特異的なインピュテーションパネルの構築が支援される。韓国人は、長期的な人口統計学的連続性と整合する、顕著な常染色体遺伝的均質性に加え、狭いY染色体およびHLA-Aアレルスペクトラム、ならびに比較的深いミトコンドリア系統多様性を示す。さらに、CpGジヌクレオチドコンテキストを変化させる1,640万個の変異を同定し、ゲノムCGランドスケープにおける広範な配列駆動型の調節を明らかにした。特筆すべきは、CG除去変異がメチル化シグナルの消失を引き起こし、広く用いられているメチル化アレイにおけるCpGプローブ標的を撹乱することで、エピゲノムワイド関連解析およびエピジェネティック時計の推定に系統的なバイアス要因をもたらす点である。\n                  \n                     結論\n                     Korea10Kは、韓国人集団における高解像度のゲノムおよびマルチオミクスリファレンスを確立し、遺伝的変異とエピゲノム測定との間にこれまで認識されていなかった相互作用を明らかにした。本リソースは精密医療の基盤となるとともに、分子データの祖先情報を考慮した解釈の必要性を浮き彫りにしている。",
+      "answer_journal": "Genome Biology",
+      "question_type": "published",
+      "options": [
+        "Journal of infection and chemotherapy : official journal of the Japan Society of Chemotherapy",
+        "Regenerative therapy",
+        "Molecular oral microbiology",
+        "Genome Biology"
+      ]
+    },
+    {
+      "id": "10.1007/s00248-026-02896-y",
+      "title": "Effect of plasmid-dependent phages on the plasmid load of bacterial communities from domestic and hospital wastewater",
+      "abstract": "Conjugative plasmids are major drivers of horizontal gene transfer and antibiotic resistance (AMR) dissemination in wastewater. Plasmid-dependent phages (PDPs) infect bacteria carrying conjugative plasmids by targeting plasmid-encoded mating structures, offering a potential strategy to limit plasmid persistence. Here, we evaluated the impact of three PDPs (PRD1, Lu221, and Hgal1) on domestic and hospital wastewater microbiomes using serial cultivation and metagenomic sequencing at 24 h and 48 h. In the absence of phages, communities converged toward Enterobacterales-dominated assemblages, with reduced diversity and enrichment of ESBL-producing bacteria and AMR-carrying conjugative plasmids. Phage addition resulted in sustained infectious phage titers for the cocktail and resident-phage treatments, whereas PRD1 titers declined over time. Despite active infection, PDPs had minimal effects on total bacterial abundance, taxonomic composition, or phenotypic resistance. However, metagenomic analyses revealed source- and treatment-specific shifts in conjugative plasmid types, particularly within MPF_F and MPF_T systems. PRD1 induced transient increases in conjugative plasmids, while resident phages promoted enrichment of MPF_F in the hospital community. These effects were restricted to plasmid-level dynamics and did not scale to detectable community-level changes. Overall, PDPs exert selective pressure on plasmid populations but remain decoupled from broader community outcomes under high-turnover conditions.",
+      "journal": "Microbial Ecology",
+      "doi": "10.1007/s00248-026-02896-y",
+      "date": "2026-11-20",
+      "authors": "",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://link.springer.com/article/10.1007/s00248-026-02896-y",
+      "abstract_source": "rss",
+      "preprint": false,
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "bacteria",
+          "bacterial",
+          "metagenom",
+          "metagenomic",
+          "microbiome",
+          "microbiomes",
+          "phage",
+          "phages"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "metagenom",
+            "metagenomic"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "discovery": [
+        {
+          "source": "https://link.springer.com/search.rss?facet-journal-id=248",
+          "query": "RSS feed",
+          "scope": "journal"
+        }
+      ],
+      "collection_order": 5372,
+      "collected_at": "2026-11-20T12:01:03.805438+00:00",
+      "collected_date": "2026-11-20",
+      "sources": [
+        "https://link.springer.com/search.rss?facet-journal-id=248"
+      ],
+      "first_seen": "2026-11-20",
+      "related_dois": [
+        "10.1007/s00248-026-02896-y"
+      ],
+      "translation": {
+        "title": {
+          "hash": "137786c500b45f5b08026842593d1d356e053ac2e5471071bb217a96f491cff2",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-20T12:25:46.417659+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "8fac14db7e04b453588e02b0f1882f7954ef28ac0e4dea616fee011f25cc2666",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-20T12:25:46.417659+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "生活排水および病院排水由来の細菌群集におけるプラスミド依存性ファージがプラスミド量に及ぼす影響",
+      "abstract_ja": "接合性プラスミドは、廃水中における水平遺伝子伝達および薬剤耐性（AMR）拡散の主要な要因である。プラスミド依存性ファージ（PDP）は、プラスミドがコードする接合構造を標的として接合性プラスミドを保持する細菌に感染し、プラスミドの持続性を制限するための潜在的な戦略となり得る。本研究では、連続培養および24時間・48時間のメタゲノムシーケンシングを用いて、3種類のPDP（PRD1、Lu221、Hgal1）が家庭および病院の廃水マイクロバイオームに及ぼす影響を評価した。ファージ不在下では、細菌群集はEnterobacterales門が優占するアセンブラージュへと収束し、多様性が低下するとともに、ESBL産生菌およびAMR保有接合性プラスミドが濃縮された。ファージの添加により、カクテル処理および常駐ファージ処理では感染性ファージ価が維持された一方、PRD1価は経時的に低下した。活発な感染にもかかわらず、PDPが総細菌量、分類学的組成、または表現型耐性に及ぼす影響は最小限であった。しかし、メタゲノム解析により、特にMPF_FおよびMPF_T系において、接合性プラスミド型の供給源および処理条件に応じたシフトが認められた。PRD1は接合性プラスミドの一過性の増加を誘導し、一方で常駐ファージは病院群集におけるMPF_Fの濃縮を促進した。これらの影響はプラスミドレベルの動態に限定されており、検出可能な群集レベルの変化に至るほどには拡大しなかった。総じて、PDPはプラスミド集団に選択圧を及ぼすが、高ターンオーバー条件下では、より広範な群集の結果とは切り離されたままである。",
+      "answer_journal": "Microbial Ecology",
+      "question_type": "published",
+      "options": [
+        "Microbial Ecology",
+        "Molecular oral microbiology",
+        "Archives of virology",
+        "Gene therapy"
+      ]
+    },
+    {
+      "id": "10.1093/nar/gkag1218",
+      "title": "CovPDB 2.0: an expanded covalent protein–ligand interactome",
+      "abstract": "AbstractThe rational design of covalently binding inhibitors to specifically block selected target proteins has become a common strategy in drug discovery. Such design is based on structural insights into how electrophilic ligands bind to nucleophilic residues. CovPDB v1.0 provided high-resolution cocrystal structures of biologically relevant covalent protein–ligand complexes curated from the Protein Data Bank. Here, we describe CovPDB v2.0, a substantially extended release that addresses three main limitations of the original resource. First, to reflect the numerous novel covalently binding ligands developed and structurally elucidated over the past 4 years, we have classified, annotated, and integrated these entries into the database. This expands the collection from ~2300 to ~6200 protein–ligand complexes, comprising ~3600 pre-reactive ligands, ~1300 target proteins, 119 warheads, and 27 reaction types. Second, we expanded the structural scope beyond experimental cocrystals by generating AlphaFold3 cofolding models for additional ~6800 covalent complexes for which we had experimental evidence for a covalent ligand binding. Third, we added ~7100 non-covalent complexes in which the binding-site cysteines are annotated with a predicted reactivity and ligandability scores. A redesigned web interface allows users to browse, filter, and cross-search experimental, modelled, and ligandable-cysteine entries. CovPDB 2.0 is freely accessible at https://www.pharmbioinf.uni-freiburg.de/covpdb.",
+      "journal": "Nucleic Acids Research",
+      "doi": "10.1093/nar/gkag1218",
+      "date": "2026-11-20",
+      "authors": "",
+      "tags": [
+        "微生物学"
+      ],
+      "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1218/9103982?rss=1",
+      "abstract_source": "rss",
+      "preprint": false,
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [],
+        "context": {
+          "marine": [],
+          "genomics": [],
+          "evolution": []
+        },
+        "tags": [
+          "微生物学"
+        ]
+      },
+      "discovery": [
+        {
+          "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+          "query": "RSS feed",
+          "scope": "journal"
+        }
+      ],
+      "collection_order": 5354,
+      "collected_at": "2026-11-20T12:01:03.805438+00:00",
+      "collected_date": "2026-11-20",
+      "sources": [
+        "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+      ],
+      "first_seen": "2026-11-20",
+      "related_dois": [
+        "10.1093/nar/gkag1218"
+      ],
+      "translation": {
+        "title": {
+          "hash": "912e47ae364736d891e200a9ac597b9e6a034b284618ba9a4189060605333e43",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-20T12:44:47.094500+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "aab3f5b90fc446e3b37c51b4d6c82d44a23d33674f2b089b0203e00026b55190",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-20T12:44:47.094500+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "CovPDB 2.0：拡張された共有結合性タンパク質－リガンド相互作用マップ",
+      "abstract_ja": "要旨 特定の標的タンパク質を特異的に阻害するための共有結合性阻害剤の合理的設計は、創薬における一般的な戦略となっている。このような設計は、求電子性リガンドが求核性残基にどのように結合するかという構造的な知見に基づいている。CovPDB v1.0では、Protein Data Bankからキュレートされた生物学的に意義のある共有結合性タンパク質－リガンド複合体の高分解能共結晶構造が提供されていた。本稿では、元のリソースにおける3つの主要な制限事項に対処し、大幅に拡張したリリースであるCovPDB v2.0について述べる。第一に、過去4年間に開発・構造解明された数多くの新規共有結合性リガンドを反映させるため、これらのエントリを分類・アノテーションし、データベースに統合した。これにより、コレクションは約2,300から約6,200のタンパク質－リガンド複合体へと拡大し、約3,600の事前反応性リガンド、約1,300の標的タンパク質、119のウォーヘッド、および27種類の反応タイプを網羅している。第二に、共有結合性リガンドの結合に関する実験的根拠が得られたさらに約6,800の共有結合性複合体についてAlphaFold3によるコフォールディングモデルを生成し、構造的範囲を実験的共結晶を超えて拡張した。第三に、結合部位のシステインに予測反応性とリガンド親和性スコアがアノテーションされた約7,100の非共有結合性複合体を追加した。再設計されたウェブインターフェースにより、ユーザーは実験的、モデル化された、およびリガンド親和性を有するシステインのエントリを閲覧、フィルタリング、および相互検索することが可能となった。CovPDB 2.0は、https://www.pharmbioinf.uni-freiburg.de/covpdb で無料で利用可能である。",
+      "answer_journal": "Nucleic Acids Research",
+      "question_type": "published",
+      "options": [
+        "European journal of pharmacology",
+        "Nucleic Acids Research",
+        "Immunity",
+        "Inflammation research : official journal of the European Histamine Research Society ... [et al.]"
+      ]
+    },
+    {
+      "id": "10.1093/nar/gkag1168",
+      "title": "Europe PMC in 2026",
+      "abstract": "AbstractEurope PMC (https://europepmc.org/) is an open access database of life-science literature that delivers open science to a wide audience through an open web interface, APIs, and bulk downloads. It brings together 48 million abstracts, 12 million full text published articles, and supplementary files and 1.2 million preprints, 76 000 of them full text, and makes them findable through dozens of search axes. Europe PMC is supported by 35 European and international funders to deliver a global open infrastructure and support their open access policies and metrics analysis. Europe PMC enriches the literature with 2 billion text-mined annotations, and links to dozens of biological databases. New developments to the Europe PMC platform since the last database update in 2023 include: (i) harnessing AI to enhance discovery through new machine learning generated annotations and working towards Europe PMC as a knowledge layer for LLMs; (ii) enhancing product development UX/UI capabilities, showcased through a new advanced search; (iii) improving literature discovery by text mining supplementary files; (iv) improving persistent identifier coverage and expanding the citation network.",
+      "journal": "Nucleic Acids Research",
+      "doi": "10.1093/nar/gkag1168",
+      "date": "2026-11-20",
+      "authors": "",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1168/9103981?rss=1",
+      "abstract_source": "rss",
+      "preprint": false,
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "annotation"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "discovery": [
+        {
+          "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+          "query": "RSS feed",
+          "scope": "journal"
+        }
+      ],
+      "collection_order": 5355,
+      "collected_at": "2026-11-20T12:01:03.805438+00:00",
+      "collected_date": "2026-11-20",
+      "sources": [
+        "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+      ],
+      "first_seen": "2026-11-20",
+      "related_dois": [
+        "10.1093/nar/gkag1168"
+      ],
+      "translation": {
+        "title": {
+          "hash": "a884f83fe443a2496cd947a6544e4a10e9ede165b8f26b3c43dfc1820ce27383",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-20T12:48:13.517104+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "9f8f6281bfff6a1ef72c4eb8830e250f3c0f2f099f574cdfd42d2b785348b600",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-20T12:48:13.517104+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "2026年のヨーロッパPMC",
+      "abstract_ja": "概要 Europe PMC (https://europepmc.org/) は、オープンウェブインターフェース、API、および一括ダウンロードを通じて、幅広い利用者にオープンサイエンスを提供するライフサイエンス文献のオープンアクセスデータベースである。本データベースは、4,800万件の抄録、1,200万件の全文公開論文、補足ファイル、および120万件のプレプリント（うち7万6,000件は全文）を集約し、数十の検索軸を通じて検索可能にしている。Europe PMCは、グローバルなオープンインフラストラクチャを提供し、オープンアクセスポリシーおよび指標分析を支援するため、35の欧州および国際的な助成機関によって支えられている。Europe PMCは、テキストマイニングによる20億件のアノテーションで文献を充実させ、数十の生物学的データベースへのリンクを提供している。2023年の前回のデータベース更新以降のEurope PMCプラットフォームにおける新たな展開には、以下が含まれる：(i) 新たな機械学習生成アノテーションを通じてAIを活用し発見を促進するとともに、Europe PMCをLLMのナレッジレイヤーとして機能させる取り組み、(ii) 新たな詳細検索を通じて示された、プロダクト開発におけるUX/UI機能の強化、(iii) 補足ファイルのテキストマイニングによる文献発見の改善、(iv) 永続的識別子のカバー範囲の拡大および引用ネットワークの拡充。",
+      "answer_journal": "Nucleic Acids Research",
+      "question_type": "published",
+      "options": [
+        "NanoImpact",
+        "Naunyn-Schmiedeberg's archives of pharmacology",
+        "ChemSusChem",
+        "Nucleic Acids Research"
+      ]
+    },
+    {
+      "id": "10.1093/nar/gkag1144",
+      "title": "canSAR 2026—an update to the public drug discovery knowledgebase",
+      "abstract": "AbstractcanSAR (https://cansar.ai) serves as the world’s largest public platform for cancer drug discovery and translational research. It serves as an exploration and hypothesis generation platform for drug discovery through (i) fully integrating large, multidisciplinary data from public resources, as well as bespoke curated data, creating a connected, navigable drug discovery knowledge map; and (ii) applying a suite of machine learning and AI tools to generate novel insights. We share the latest updates to canSAR highlighting growth across all data, enhancements to the predictive algorithms, and continued improvements to the user experience. We leverage our latest open science chemical handling and druggability prediction tools to provide traceable insights. An increased focus of the platform is to provide “in-line” support and guidance to drug discovery exploration. We report the first incarnation of our high-fidelity, agentic-AI-generated, context-specific summaries, which we provide across the website for all human proteins to further aid users in synthesis and distillation of key information.",
+      "journal": "Nucleic Acids Research",
+      "doi": "10.1093/nar/gkag1144",
+      "date": "2026-11-20",
+      "authors": "",
+      "tags": [
+        "微生物学"
+      ],
+      "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1144/9103984?rss=1",
+      "abstract_source": "rss",
+      "preprint": false,
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [],
+        "context": {
+          "marine": [],
+          "genomics": [],
+          "evolution": []
+        },
+        "tags": [
+          "微生物学"
+        ]
+      },
+      "discovery": [
+        {
+          "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+          "query": "RSS feed",
+          "scope": "journal"
+        }
+      ],
+      "collection_order": 5352,
+      "collected_at": "2026-11-20T12:01:03.805438+00:00",
+      "collected_date": "2026-11-20",
+      "sources": [
+        "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+      ],
+      "first_seen": "2026-11-20",
+      "related_dois": [
+        "10.1093/nar/gkag1144"
+      ],
+      "translation": {
+        "title": {
+          "hash": "1717a122d4d39c22fc502ec883b682c4484b79c8d0d080574873555d72e6916f",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-20T12:41:57.996096+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "5708b86d7c1c5f617102cbe0817dd8f7e7d73490dbbfe3fc2ad4d03d02c50641",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-20T12:41:57.996096+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "canSAR 2026――公開創薬ナレッジベースの更新版",
+      "abstract_ja": "AbstractcanSAR (https://cansar.ai) は、がん創薬およびトランスレーショナルリサーチにおける世界最大の公開プラットフォームである。本プラットフォームは、(i) 公開リソースからの大規模かつ学際的なデータと、独自にキュレーションされたデータを全面的に統合し、相互に連結しナビゲート可能な創薬ナレッジマップを構築すること、および (ii) 機械学習およびAIツール群を適用して新たな知見を創出すること、を通じて、創薬のための探索および仮説生成プラットフォームとして機能している。本稿では、全データにわたる成長、予測アルゴリズムの強化、およびユーザーエクスペリエンスの継続的な改善を反映したcanSARの最新アップデートについて報告する。また、最新のオープンサイエンス向け化学物質取り扱いおよび薬物性予測ツールを活用し、追跡可能な知見を提供する。本プラットフォームでは、創薬探索に対する「インライン」のサポートとガイダンスの提供に一層注力している。さらに、エージェント型AIによって生成された高忠実度かつコンテキスト特化型の要約の初の実装について報告する。この要約をウェブサイト全体で提供することで、ユーザーが主要な情報の合成および蒸留をさらに円滑に行えるよう支援する。",
+      "answer_journal": "Nucleic Acids Research",
+      "question_type": "published",
+      "options": [
+        "Nucleic Acids Research",
+        "ImmunoHorizons",
+        "Transfusion",
+        "Cell death and differentiation"
+      ]
+    },
+    {
+      "id": "10.1093/nar/gkag1244",
+      "title": "ADCdb 2.0: clinical landscape and ADMET profiles of antibody–drug conjugates",
+      "abstract": "AbstractSystematically characterizing antibody-drug conjugates (ADCs) is essential for understanding their therapeutic properties, guiding molecular design, and supporting clinical development. Recently, the expanding clinical landscape of ADCs has generated extensive information on target antigens, therapeutic indications, and clinical trial pipelines, providing a valuable foundation for informing ADC development strategies. Moreover, ADMET profiles are critical for understanding the in vivo disposition, efficacy, and safety of ADCs. Integrating these accumulating clinical and pharmacological data is therefore necessary to enrich the evidence available for ADC development. In this study, ADCdb was updated to provide (i) detailed clinical landscape information for 542 ADCs, together with >3000 manually curated clinical trials from registries across nine registries and clinical trial platforms; (ii) >4000 ADMET profiles, including quantitative pharmacokinetic parameters and descriptive annotations supported by relevant references; and (iii) expanded pharmacological information and biological activity data comprising 13 088 ADC entries and 24 821 activity records, as well as ADC-specific functional annotations for 389 ADCs. Interactive visualization tools and antigen- and disease-centered search modules further enable systematic exploration of ADC composition, therapeutic indications, and clinical development. ADCdb 2.0 is expected to serve as a valuable resource for rational optimization of ADCs, and is accessible at https://idrblab.org/adcdb/",
+      "journal": "Nucleic Acids Research",
+      "doi": "10.1093/nar/gkag1244",
+      "date": "2026-11-20",
+      "authors": "",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1244/9103985?rss=1",
+      "abstract_source": "rss",
+      "preprint": false,
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "annotation"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "discovery": [
+        {
+          "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+          "query": "RSS feed",
+          "scope": "journal"
+        }
+      ],
+      "collection_order": 5351,
+      "collected_at": "2026-11-20T12:01:03.805438+00:00",
+      "collected_date": "2026-11-20",
+      "sources": [
+        "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+      ],
+      "first_seen": "2026-11-20",
+      "related_dois": [
+        "10.1093/nar/gkag1244"
+      ],
+      "translation": {
+        "title": {
+          "hash": "460a5853b5435886f133d5dbadc7de2e13beceb51efd1e5bcc248fbe1eef1091",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-20T12:41:57.996096+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "c381c42ed63f2305c222da0f4700f42f52a41313e2ff758ae2d430ed86b43d6f",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-20T12:41:57.996096+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "ADCdb 2.0：抗体薬物複合体の臨床的概況とADMETプロファイル",
+      "abstract_ja": "要旨抗体薬物複合体（ADC）を系統的に特性評価することは、その治療特性の理解、分子設計の指針策定、および臨床開発の支援において不可欠である。近年、ADCの臨床的展開の拡大に伴い、標的抗原、治療適応、および臨床試験パイプラインに関する膨大な情報が蓄積されており、ADC開発戦略に資する貴重な基盤となっている。さらに、ADMETプロファイルは、ADCの生体内動態、有効性、および安全性を理解する上で極めて重要である。したがって、蓄積されつつあるこれらの臨床的・薬理学的データを統合することは、ADC開発に利用可能なエビデンスを拡充する上で不可欠である。本研究では、ADCdbを更新し、(i) 542種類のADCに関する詳細な臨床的展開情報と、9つのレジストリおよび臨床試験プラットフォームのレジストリから手動でキュレーションされた3,000件以上の臨床試験、(ii) 定量的薬物動態パラメータおよび関連文献に裏付けられた記述的アノテーションを含む4,000件以上のADMETプロファイル、ならびに(iii) 13,088件のADCエントリーと24,821件の活性レコードからなる拡充された薬理学情報および生物学的活性データ、ならびに389種類のADCに対するADC特異的な機能的アノテーションを提供した。インタラクティブな可視化ツールおよび抗原・疾患中心の検索モジュールにより、ADCの組成、治療適応、および臨床開発の系統的な探索がさらに可能となる。ADCdb 2.0は、ADCの合理的最適化のための貴重なリソースとなることが期待されており、https://idrblab.org/adcdb/ からアクセス可能である。",
+      "answer_journal": "Nucleic Acids Research",
+      "question_type": "published",
+      "options": [
+        "Metabolism: clinical and experimental",
+        "Journal of cellular physiology",
+        "Nucleic Acids Research",
+        "Research and reports in urology"
+      ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC journals 3",
+          "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "journal article"
+      ],
+      "id": "10.1128/spectrum.02146-26",
+      "title": "Lyme disease <i>Borrelia</i> spirochetes are naturally resistant to clinically relevant concentrations of rifampin, trimethoprim, and dapsone.",
+      "abstract": "A number of health care providers recommend the antibiotics rifampin, trimethoprim, and/or dapsone for treatment of Lyme disease. In opposition, previous studies found that Lyme disease-causing Borrelia are innately resistant to those antibiotics at concentrations that would be lethal to other bacterial species. To resolve those contradictions, multiple genospecies and strains of Lyme disease-causing spirochetes were assessed for their ability to grow and replicate in the presence of these drugs. For each antibiotic, the minimum concentrations necessary to prevent growth of Borrelia burgdorferi sensu stricto type strain B31 exceeded 300 µg/mL. All of the tested genospecies of Lyme disease, Borrelia, grew and replicated in the presence of 100 µg/mL or more of antibiotic. In contrast, prior studies determined that maximum serum concentrations of these antibiotics in humans and laboratory animals are less than 15 µg/mL. The current study's results indicate that rifampin, trimethoprim, and dapsone are unlikely to have any positive effect in clearing Lyme disease-causing Borrelia infections.ImportanceThere are conflicting reports on the efficacy of using the antibiotics rifampin, trimethoprim, or dapsone against the Lyme disease spirochete, Borrelia burgdorferi (sensu lato). The present studies found that the concentration of antibiotic necessary to prevent borrelial growth and replication, alone or in combination, exceeded 200 µg/mL for all tested strains of B. burgdorferi sensu lato. In contrast, previous studies of humans and mice found that clinically relevant dosages of these antibiotics yielded maximum serum concentrations of 15 µg/mL or less. All together, these data indicate that these pharmaceuticals are not likely to be effective in curing B. burgdorferi (sl) infections.",
+      "journal": "Microbiology Spectrum",
+      "doi": "10.1128/spectrum.02146-26",
+      "date": "2026-11-05",
+      "authors": "Jusufovic N, Saylor TC, Krusenstjerna AC, Stevenson B.",
+      "tags": [
+        "微生物学"
+      ],
+      "source_url": "https://europepmc.org/article/MED/42986002",
+      "preprint": false,
+      "review": false,
+      "pmcid": "",
+      "pmid": "42986002",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "bacteria",
+          "bacterial"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [],
+          "evolution": []
+        },
+        "tags": [
+          "微生物学"
+        ]
+      },
+      "collection_order": 5220,
+      "collected_at": "2026-11-20T11:50:28.841726+00:00",
+      "collected_date": "2026-11-20",
+      "sources": [
+        "Europe PMC journals 3"
+      ],
+      "first_seen": "2026-11-20",
+      "related_dois": [
+        "10.1128/spectrum.02146-26"
+      ],
+      "translation": {
+        "title": {
+          "hash": "7f0f485b5b355e7a54cd191a730aa0911b4f31d39501d5c69e9dbb0689a38ab9",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-20T12:35:53.108591+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "376f6111b8758e97175ff713e53f694b3a542e880ebfe7084f78e60758dd5338",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-20T12:35:53.108591+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "ライム病の<i>Borrelia</i>スピロヘータは、臨床的に意義のある濃度のリファンピシン、トリメトプリム、およびダプソンに対して天然の耐性を有する。",
+      "abstract_ja": "多くの医療従事者が、ライム病の治療に抗生物質のリファンピシン、トリメトプリム、および／またはダプソンを推奨している。これに対し、先行研究では、ライム病の原因となるボレリア属菌が、他の細菌種には致死的な濃度のこれらの抗生物質に対して本来的に耐性を有することが明らかになっている。こうした矛盾を解消するため、ライム病の原因となるスピロヘータの複数の遺伝子種および株について、これらの薬剤存在下での増殖および複製能を評価した。各抗生物質において、Borrelia burgdorferi sensu stricto type strain B31の増殖を防ぐために必要な最小濃度は300 µg/mLを超えた。試験したライム病の遺伝子種であるボレリア属菌はすべて、100 µg/mL以上の抗生物質存在下で増殖および複製した。対照的に、先行研究では、ヒトおよび実験動物におけるこれらの抗生物質の最大血清濃度は15 µg/mL未満であると判定されている。本研究の結果は、リファンピシン、トリメトプリム、およびダプソンが、ライム病の原因となるボレリア属菌感染症の根絶に有益な効果をもたらす可能性は低いことを示している。重要性 ライム病のスピロヘータであるBorrelia burgdorferi (sensu lato)に対する抗生物質リファンピシン、トリメトプリム、またはダプソンの有効性については、相反する報告がある。本研究では、ボレリア属菌の増殖および複製を防ぐために必要な抗生物質の濃度は、単独または併用において、試験したすべてのB. burgdorferi sensu lato株で200 µg/mLを超えたことが判明した。対照的に、ヒトおよびマウスを対象とした先行研究では、これらの抗生物質の臨床的に意義のある用量における最大血清濃度は15 µg/mL以下であった。総合的に、これらのデータは、これらの薬剤がB. burgdorferi (sl)感染症の治療に有効である可能性は低いことを示している。",
+      "answer_journal": "Microbiology Spectrum",
+      "question_type": "published",
+      "options": [
+        "Proceedings. Biological sciences",
+        "Annual Review of Microbiology",
+        "Microbiology Spectrum",
+        "Archives of gerontology and geriatrics"
+      ]
+    },
+    {
+      "id": "10.1093/nar/gkag1267",
+      "title": "Excessive PCNA-associated mismatch repair proteins on chromatin by ATAD5 deficiency confers alkylating sensitivity",
+      "abstract": "AbstractProliferating cell nuclear antigen (PCNA) acts as a central scaffold coordinating DNA replication and repair. Precise regulation of PCNA loading and unloading is therefore essential for maintaining genome stability. ATAD5, a component of an RFC–like complex, functions as the primary PCNA unloader; however, how defective PCNA clearance influences DNA damage responses remains incompletely understood. Here, we report that loss of ATAD5 selectively enhances cellular sensitivity to alkylating DNA damage through a mismatch repair (MMR)-dependent mechanism. ATAD5 depletion caused persistent retention of PCNA on chromatin, resulting in excessive accumulation of PCNA–associated MMR proteins without altering their overall expression levels. Upon exposure to O6–methylguanine-inducing alkylating agents, ATAD5–deficient cells exhibited pronounced increases in chromatin–bound MMR factors, elevated DNA double–strand break (DSB) markers, and enhanced apoptotic responses. Importantly, co–depletion of MSH2 suppressed both DNA damage signaling and cell death, indicating that the cytotoxic effects observed in ATAD5–deficient cells are largely mediated by aberrant MMR activity. Mechanistically, our data support a model in which ATAD5 constrains the excessive function of MMR by modulating repair protein abundance through regulating PCNA residence on chromatin. Failure of ATAD5–mediated PCNA unloading prolongs MMR engagement, likely increasing the frequency or persistence of nonproductive repair events that culminate in secondary DNA break formation. These findings uncover a previously unappreciated link between PCNA dynamics and MMR–dependent apoptosis in response to alkylating damage. Our study further suggests that ATAD5 expression levels may influence tumor cell responses to alkylating chemotherapeutics, highlighting PCNA unloading as a potential determinant of therapeutic sensitivity and genome stability.",
+      "journal": "Nucleic Acids Research",
+      "doi": "10.1093/nar/gkag1267",
+      "date": "2026-11-20",
+      "authors": "",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1267/9103986?rss=1",
+      "abstract_source": "rss",
+      "preprint": false,
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "DNA",
+            "genom",
+            "genome"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "discovery": [
+        {
+          "source": "https://academic.oup.com/rss/site_5127/3091.xml",
+          "query": "RSS feed",
+          "scope": "journal"
+        }
+      ],
+      "collection_order": 5369,
+      "collected_at": "2026-11-20T12:01:03.805438+00:00",
+      "collected_date": "2026-11-20",
+      "sources": [
+        "https://academic.oup.com/rss/site_5127/3091.xml"
+      ],
+      "first_seen": "2026-11-20",
+      "related_dois": [
+        "10.1093/nar/gkag1267"
+      ],
+      "translation": {
+        "title": {
+          "hash": "d63d7c1a8f37777fbde58eb030e5d5271cde51d355f80042aa282739daaf131f",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-20T12:50:53.985769+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "9f4a4d122c30e1481b91d1c9ca9a28ba7c66f3b16568aff085abe754e94b9832",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-20T12:50:53.985769+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "ATAD5欠損によるクロマチン上の過剰なPCNA関連ミスマッチ修復タンパク質がアルキル化感受性を付与する",
+      "abstract_ja": "要旨増殖細胞核抗原（PCNA）は、DNA複製と修復を調整する中心的な足場として機能する。したがって、PCNAのローディングおよびアンローディングの精密な調節は、ゲノム安定性の維持に不可欠である。RFC様複合体の構成要素であるATAD5は、主要なPCNAアンローダーとして機能するが、欠陥のあるPCNAクリアランスがDNA損傷応答にどのような影響を及ぼすかについては、未だ十分に解明されていない。本研究では、ATAD5の欠損が、ミスマッチ修復（MMR）依存的な機序を介して、アルキル化DNA損傷に対する細胞感受性を選択的に亢進させることを報告する。ATAD5の枯渇は、クロマチン上へのPCNAの持続的な保持を引き起こし、その結果、全体的な発現レベルを変えることなく、PCNA関連MMRタンパク質の過剰な蓄積を招いた。O6-メチルグアニン誘導性アルキル化剤に曝露したところ、ATAD5欠損細胞では、クロマチン結合型MMR因子の顕著な増加、DNA二本鎖切断（DSB）マーカーの上昇、およびアポトーシス応答の亢進が認められた。重要な点として、MSH2の共枯渇はDNA損傷シグナル伝達と細胞死の両方を抑制し、ATAD5欠損細胞で観察される細胞毒性作用が、主に異常なMMR活性によって媒介されていることが示された。機序的には、我々のデータは、ATAD5がクロマチン上のPCNA滞留を調節することで修復タンパク質の量を制御し、MMRの過剰な機能を抑制するというモデルを支持している。ATAD5介在性のPCNAアンローディングの不全はMMRの関与を長期化させ、二次的なDNA切断形成に至る非生産的な修復事象の頻度または持続性を高める可能性が高い。これらの知見は、PCNA動態と、アルキル化損傷に対するMMR依存性アポトーシスとの間に、これまで認識されていなかった関連性を明らかにするものである。さらに本研究は、ATAD5の発現レベルがアルキル化化学療法剤に対する腫瘍細胞応答に影響を及ぼす可能性を示唆しており、PCNAアンローディングが治療感受性およびゲノム安定性の潜在的な決定因子であることを浮き彫りにしている。",
+      "answer_journal": "Nucleic Acids Research",
+      "question_type": "published",
+      "options": [
+        "Molecular cell",
+        "Nucleic Acids Research",
+        "Cell Host & Microbe",
+        "Mycologia"
+      ]
+    },
+    {
+      "id": "10.1093/nar/gkag1156",
+      "title": "CIViC 2026: expanding cancer variant curation with AI, genome-wide biomarkers, and genomic regions",
+      "abstract": "AbstractThe CIViC (Clinical Interpretations of Variants in Cancer) knowledgebase (https://civicdb.org) remains one of the few free, unrestricted knowledgebases for the distribution of somatic cancer variant interpretations. CIViC leverages public curation and expert moderation to address the bottleneck problem of cancer variant interpretation for patient care. As the curation platform for ClinGen Somatic Cancer, the CIViC knowledge model is informed by multiple experts across disparate fields in cancer and, in turn, acts as a model for cancer variant classification and representation. In order to capture a wider range of genomic variations, several updates to CIViC’s data and curation model have been made with a focus on maintaining familiar workflows and user interface layouts. A new top-level entity called the Feature represents Genes, Fusions, Regions for large-scale structural variations, and Factors for genome-wide biomarkers. Accompanying Variants capture information unique to each genomic event. Molecular Profiles enable the curation of complex combinations of these Variants. CIViC has also developed a system for approval and submission of Assertions to ClinVar, guidance for the use of AI in curation and moderation of content, and additional capabilities such as source retraction monitoring and an advanced query builder.",
+      "journal": "Nucleic Acids Research",
+      "doi": "10.1093/nar/gkag1156",
+      "date": "2026-11-20",
+      "authors": "",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1156/9103988?rss=1",
+      "abstract_source": "rss",
+      "preprint": false,
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "genom",
+            "genome",
+            "genomic"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "discovery": [
+        {
+          "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+          "query": "RSS feed",
+          "scope": "journal"
+        }
+      ],
+      "collection_order": 5349,
+      "collected_at": "2026-11-20T12:01:03.805438+00:00",
+      "collected_date": "2026-11-20",
+      "sources": [
+        "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+      ],
+      "first_seen": "2026-11-20",
+      "related_dois": [
+        "10.1093/nar/gkag1156"
+      ],
+      "translation": {
+        "title": {
+          "hash": "82372463135b901e75bcd19f67277ee07bff1258552e4c5959f8296b58a0c876",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-20T12:38:58.952423+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "c9185c2fd4ddb99091ee8105521f2f47e1bf7060344f6bf43482f5f73fe40842",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-20T12:38:58.952423+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "CIViC 2026：AI、ゲノムワイドバイオマーカー、およびゲノム領域によるがんバリアントキュレーションの拡充",
+      "abstract_ja": "要旨CIViC（Clinical Interpretations of Variants in Cancer）ナレッジベース（https://civicdb.org）は、がんの体細胞変異の解釈を配布するための、数少ない無料かつ制限のないナレッジベースの一つであり続けている。CIViCは、パブリックキュレーションと専門家によるモデレーションを活用することで、患者ケアにおけるがん変異解釈のボトルネック問題に対処している。ClinGen Somatic Cancerのキュレーションプラットフォームとして、CIViCのナレッジモデルはがん分野の多岐にわたる領域の複数の専門家の知見を取り入れており、ひいてはがん変異の分類および表現のモデルとして機能している。より広範なゲノム変異を網羅するため、使い慣れたワークフローとユーザーインターフェースのレイアウトの維持に重点を置きつつ、CIViCのデータおよびキュレーションモデルに複数の更新が行われた。新たな最上位エンティティである「Feature」は、大規模な構造変異におけるGenes、Fusions、Regions、およびゲノムワイドバイオマーカーにおけるFactorsを表す。これに付随する「Variants」は、各ゲノムイベント固有の情報を捕捉する。「Molecular Profiles」により、これらのVariantの複雑な組み合わせのキュレーションが可能となる。また、CIViCは、ClinVarへのAssertionの承認および提出システム、キュレーションおよびコンテンツモデレーションにおけるAI利用のガイダンス、ならびにソースリトラクション監視や高度なクエリビルダーなどの追加機能を開発している。",
+      "answer_journal": "Nucleic Acids Research",
+      "question_type": "published",
+      "options": [
+        "Nucleic Acids Research",
+        "Evolution; international journal of organic evolution",
+        "Expert opinion on therapeutic patents",
+        "Revista espanola de salud publica"
+      ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC journals 3",
+          "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "journal article"
+      ],
+      "id": "10.1128/spectrum.00365-26",
+      "title": "Wall shear stress influences adhesion and extravasation of <i>Borrelia burgdorferi</i> in a 3D tissue-engineered microvascular model.",
+      "abstract": "Lyme disease is a tick-borne disease primarily caused by the bacterium Borrelia burgdorferi (Bb). Following a tick bite, Bb is injected into the dermis and colonizes the local tissue, where it can spread to distant organs through the vascular system. Although dissemination is a crucial factor in disease progression, our understanding of the mechanisms and factors that affect Bb dissemination through circulation is incomplete. To assess the role of wall shear stress (WSS) on Bb adhesion and extravasation, we perfused a 3D tissue-engineered microvessel with fluorescently labeled Bb at different wall shear stresses. The rate of Bb adhesion and extravasation from the microvessel was strongly dependent on WSS. Bb adhered to the endothelium in an elongated morphology and occasionally exhibited \"flipping\" events with one end of the Bb anchored and the other end detaching and reattaching downstream. Finally, circulating Bb did not induce endothelial activation following 6 h of perfusion, although increased microvessel permeability at low WSS was correlated with increased Bb adhesion events. Our results provide a new approach to investigating Bb dissemination and offers new insights into the mechanisms of Bb extravasation.IMPORTANCEFollowing a tick bite, Borrelia burgdorferi (Bb), the causative agent for Lyme disease, can disseminate to distant organs through the vascular system. Here, we utilize a 3D tissue-engineered microvessel model to gain insight into how wall shear stress (WSS) impacts Bb extravasation and Bb migration behavior across endothelial cells. During perfusion, Bb transiently adhered to the endothelium prior to detaching or extravasating into the surrounding extracellular matrix. The number of adhesion events was strongly dependent on WSS, and extravasation events were only observed at the lowest WSS. Adherent Bb were usually elongated and aligned in the direction of flow, and did not exhibit the helical morphology associated with migration under static conditions or in the extracellular matrix. Adherent Bb exhibited \"flipping\" events in which the back (upstream) end of the Bb detached and subsequently reattached downstream, becoming the front end while the other end remained anchored to the endothelium.",
+      "journal": "Microbiology Spectrum",
+      "doi": "10.1128/spectrum.00365-26",
+      "date": "2026-11-04",
+      "authors": "Xia Z, Wang L, Chung C, Searson PC.",
+      "tags": [
+        "微生物学"
+      ],
+      "source_url": "https://europepmc.org/article/MED/42980158",
+      "preprint": false,
+      "review": false,
+      "pmcid": "",
+      "pmid": "42980158",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "bacterium"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [],
+          "evolution": []
+        },
+        "tags": [
+          "微生物学"
+        ]
+      },
+      "collection_order": 5216,
+      "collected_at": "2026-11-20T11:50:28.841726+00:00",
+      "collected_date": "2026-11-20",
+      "sources": [
+        "Europe PMC journals 3"
+      ],
+      "first_seen": "2026-11-20",
+      "related_dois": [
+        "10.1128/spectrum.00365-26"
+      ],
+      "translation": {
+        "title": {
+          "hash": "5c81a626e4293091431b448d3c9d2f2062d0d1124a86304acc3c59c324bd6e74",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-20T12:38:58.952423+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "b154366e4df913d4baf527ac3b1ebda694f67b11a7d9781ffe6cbf242c2e5ea9",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-20T12:38:58.952423+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "壁せん断応力は、3次元組織工学的微小血管モデルにおける<i>Borrelia burgdorferi</i>の接着および血管外遊出に影響を及ぼす。",
+      "abstract_ja": "ライム病は、主にボレリア・ブルグドルフェリ（Bb）菌によって引き起こされるマダニ媒介性疾患である。マダニによる咬傷後、Bbは真皮に注入されて局所組織に定着し、そこから血管系を介して遠隔臓器へと拡散する。拡散は疾患進行における極めて重要な要因であるが、循環を介したBbの拡散に影響を与える機序や要因に関する我々の理解は不十分である。壁せん断応力（WSS）がBbの接着および血管外漏出に及ぼす役割を評価するため、3D組織工学的に作製した微小血管に、異なる壁せん断応力条件下で蛍光標識したBbを灌流させた。微小血管からのBbの接着および血管外漏出の速度は、WSSに強く依存していた。Bbは伸長した形態で内皮に接着し、時折、Bbの一端が固定され、もう一端が剥離して下流側で再接着するという「フリッピング」現象を示した。最後に、循環するBbは6時間の灌流後も内皮活性化を誘導しなかったが、低WSS条件下での微小血管透過性の亢進は、Bbの接着事象の増加と相関していた。本研究の結果は、Bbの拡散を調査するための新たなアプローチを提供するとともに、Bbの血管外漏出の機序に関する新たな知見をもたらすものである。重要性：マダニによる咬傷後、ライム病の原因菌であるボレリア・ブルグドルフェリ（Bb）は、血管系を介して遠隔臓器へと拡散し得る。本研究では、3D組織工学的に作製した微小血管モデルを用いて、壁せん断応力（WSS）がBbの血管外漏出および内皮細胞間のBb移動挙動にどのような影響を及ぼすかについて知見を得た。灌流中、Bbは一時的に内皮に接着した後、剥離するか、あるいは周囲の細胞外マトリックスへと血管外漏出した。接着事象の数はWSSに強く依存しており、血管外漏出事象は最低のWSS条件下でのみ観察された。接着したBbは通常、伸長して流れの方向に整列しており、静的条件下や細胞外マトリックスにおける移動に伴うらせん状形態は示さなかった。接着したBbは、「フリッピング」事象を示し、Bbの後端（上流側）が剥離してその後下流側で再接着し、前端となる一方で、もう一端は内皮に固定されたままとなった。",
+      "answer_journal": "Microbiology Spectrum",
+      "question_type": "published",
+      "options": [
+        "Microbiology Spectrum",
+        "American journal of transplantation : official journal of the American Society of Transplantation and the American Society of Transplant Surgeons",
+        "PeerJ",
+        "Royal Society open science"
+      ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC journals 3",
+          "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "journal article"
+      ],
+      "id": "10.1128/msphere.00457-26",
+      "title": "Natural variation of hypervirulent <i>Klebsiella</i> pathogenicity loci among Taiwan bloodstream isolates.",
+      "abstract": "Klebsiella pneumoniae is a major cause of both nosocomial and community-acquired infections, with hypervirulent (hvKP) strains causing severe disease in healthy individuals. In Southeastern Asia, diabetes mellitus is a recognized risk factor for hvKP-associated pyogenic liver abscesses. hvKP virulence is typically attributed to carriage of a large virulence plasmid encoding siderophore biosynthesis (iuc, iro) and mucoid regulator (rmpA, rmpA2) genes. Here, we analyzed 50 bloodstream isolates from Taipei, Taiwan, to investigate genomic and phenotypic characteristics of isolates from patients with or without diabetes mellitus. In diabetic patients and patients with liver abscesses, hvKP biomarkers were found in 66% (n = 33) and 64% (n = 32) of isolates, respectively. While we expected hvKP isolates to be overrepresented in this collection, we observed extensive diversity among hvKP pathogenicity loci, with strains of typical ST23 hvKP lineages carrying incomplete KpVP-1 virulence plasmids. This hvKP biomarker diversity is typically found in classical multidrug-resistant lineages that have acquired portions of the virulence plasmid. Phenotypic assays showed that hvKP biomarkers did not strictly predict hypermucoviscosity, capsule and siderophore production, or survival in serum. Loss of rmpA consistently eliminated hypermucoviscosity and reduced virulence in a murine pneumonia model, whereas aerobactin loss did not. In vivo studies demonstrated variations in virulence that could not be explained solely by differences in the number of hypervirulence-associated loci. These findings highlight the complexity of K. pneumoniae pathogenesis and demonstrate that while canonical biomarkers effectively distinguish hvKP from classical K. pneumoniae, they are insufficient to predict variation in virulence among hvKP strains. Our findings provide insight into the virulence spectrum of strains carrying incomplete plasmid configurations.IMPORTANCEK. pneumoniae poses a global health threat due to the convergence of antimicrobial resistance and hypervirulence. We identified substantial diversity in virulence plasmid content, including incomplete virulence plasmids within archetypal hvKP lineages, and showed that phenotypic and in vivo virulence traits cannot be fully explained by the presence or absence of individual hypervirulence-associated loci. While canonical biomarkers such as rmpA and iuc are widely used to distinguish hypervirulent strains, our analysis demonstrates that no single biomarker is sufficient to reliably predict pathogenic potential and that virulence depends on specific locus combinations and broader context. These findings highlight a critical gap in our understanding of hvKP pathogenesis, underscoring the need for more nuanced frameworks to evaluate virulence. This work has important implications for clinical diagnostics, surveillance, and risk assessment of emerging K. pneumoniae strains worldwide.",
+      "journal": "mSphere",
+      "doi": "10.1128/msphere.00457-26",
+      "date": "2026-10-27",
+      "authors": "Londono MC, Cronin RM, Usi ND, Nozick SH, Hauser AR, Chiu C-H, Kochan TJ.",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://europepmc.org/article/MED/42937327",
+      "preprint": false,
+      "review": false,
+      "pmcid": "",
+      "pmid": "42937327",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "genom",
+            "genomic"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "collection_order": 5203,
+      "collected_at": "2026-11-20T11:50:28.841726+00:00",
+      "collected_date": "2026-11-20",
+      "sources": [
+        "Europe PMC journals 3"
+      ],
+      "first_seen": "2026-11-20",
+      "related_dois": [
+        "10.1128/msphere.00457-26"
+      ],
+      "translation": {
+        "title": {
+          "hash": "f9f966b83ca01c6d96f0352215e85990f26a18509e702bb012adeb4cc4f4592b",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-20T12:29:08.998556+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "00b28e17128a7378125261e309cd6f74e462b39843a57ce9d9cad23db471c12b",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-20T12:29:08.998556+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "台湾の血流分離株における超強毒性<i>Klebsiella</i>病原性遺伝子座の自然変異",
+      "abstract_ja": "Klebsiella pneumoniaeは、院内感染および市中感染の主要な原因であり、超強毒性（hvKP）株は健常者において重篤な疾患を引き起こす。東南アジアでは、糖尿病がhvKP関連の化膿性肝膿瘍の既知のリスク因子である。hvKPの病原性は、通常、シデロフォア生合成（iuc, iro）およびムコイド調節因子（rmpA, rmpA2）遺伝子をコードする大型の病原性プラスミドの保有に起因するとされる。本研究では、台湾の台北市から得られた50株の血流分離株を解析し、糖尿病の有無にかかわらず患者由来の分離株におけるゲノムおよび表現型特性を調査した。糖尿病患者および肝膿瘍患者において、hvKPバイオマーカーはそれぞれ66%（n = 33）および64%（n = 32）の分離株で認められた。本コレクションではhvKP分離株が過剰に認められると予想していたが、hvKP病原性遺伝子座の間には広範な多様性が認められ、典型的なST23 hvKP系統の株では不完全なKpVP-1病原性プラスミドを保有していた。このhvKPバイオマーカーの多様性は、通常、病原性プラスミドの一部を獲得した古典的な多剤耐性系統に見られる。表現型アッセイの結果、hvKPバイオマーカーは、高粘液性、莢膜およびシデロフォアの産生、あるいは血清中での生存率を厳密に予測することはできなかった。rmpAの欠損は、マウス肺炎モデルにおいて一貫して高粘液性を消失させ、病原性を低下させたが、エアロバクチンの欠損ではそのような効果は認められなかった。in vivo研究では、超強毒性関連遺伝子座の数の違いだけでは説明できない病原性の変動が示された。これらの知見は、K. pneumoniaeの病態形成の複雑さを浮き彫りにし、標準的なバイオマーカーがhvKPを古典的なK. pneumoniaeから効果的に区別できる一方で、hvKP株間の病原性の変動を予測するには不十分であることを示している。本研究の結果は、不完全なプラスミド構成を持つ株の病原性スペクトラムに関する知見を提供するものである。重要性：K. pneumoniaeは、薬剤耐性と超強毒性の併存により、世界的な健康脅威となっている。我々は、典型的なhvKP系統内の不完全な病原性プラスミドを含む、病原性プラスミド含有量の著しい多様性を同定し、表現型およびin vivoの病原性形質が、個々の超強毒性関連遺伝子座の有無だけでは完全には説明できないことを示した。rmpAやiucなどの標準的なバイオマーカーは超強毒性株の区別に広く用いられているが、我々の解析は、単一のバイオマーカーでは病原性の潜在能力を確実に予測するには不十分であり、病原性は特定の遺伝子座の組み合わせやより広範な文脈に依存することを示している。これらの知見は、hvKPの病態形成に関する我々の理解における重大な欠落を浮き彫りにし、病原性を評価するためのより精緻な枠組みの必要性を強調するものである。本研究は、世界中の新興K. pneumoniae株の臨床診断、サーベイランス、およびリスク評価に重要な示唆を与えるものである。",
+      "answer_journal": "mSphere",
+      "question_type": "published",
+      "options": [
+        "Bioactive materials",
+        "International journal of computer assisted radiology and surgery",
+        "Journal of biomolecular NMR",
+        "mSphere"
+      ]
+    },
+    {
+      "id": "10.3389/fmicb.2026.1970174",
+      "title": "Shifts in the rhizosphere microbiome structure of Festuca sinensis across different regions",
+      "abstract": "IntroductionFestuca sinensis is a native grass species of the Qinghai-Tibet Plateau that plays a crucial role in the development of alpine grasslands. The diversity and community composition of F. sinensis root microbiota remain unclear.MethodsWe characterized the differences in diversity, community structure, and phenotype prediction of the rhizosphere microbiome (bacteria and fungi) associated with Festuca sinensis across 14 distinct regions using high-throughput sequencing techniques. Additionally, we analyzed the relationships among soil properties, microbial characteristics, and community assembly processes.ResultsResults demonstrated that rhizosphere soil nutrients, enzyme activities, Chao1 and Shannon indices, and the phenotype prediction of bacterial and fungal communities showed significant differences in the rhizosphere of F. sinensis across regions. The dominant bacterial phyla, ranked by relative abundance, were Proteobacteria, Bacteroidota, and Acidobacteriota, while the dominant fungal phyla were Ascomycota, Basidiomycota, and Mortierellomycota, the relative abundances of some genera varied across sites. Some enzyme activities had significant relationships with fungal diversity and community composition. Soil enzyme activity explained the largest proportion of variation, while spatial effects accounted for the smaller proportion. The microbial community assembly processes differed across regions. Homogenizing dispersal predominantly shaped bacterial community assembly, whereas drift accounted for a larger proportion of fungal community assembly in most regions.DiscussionSoil enzyme collectively influenced the rhizosphere microbial community. These findings enhance our understanding of plant-microbe interactions at the root-soil interface (i.e., rhizosphere) and can aid research on the spatial distribution characteristics of F. sinensis.",
+      "journal": "Frontiers in Microbiology",
+      "doi": "10.3389/fmicb.2026.1970174",
+      "date": "2026-11-20",
+      "authors": "Yuling Liu",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1970174",
+      "abstract_source": "rss",
+      "preprint": false,
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "bacteria",
+          "bacterial",
+          "fungal",
+          "fungi",
+          "microbe",
+          "microbial",
+          "microbiome",
+          "microbiota"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "assembly"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "discovery": [
+        {
+          "source": "https://www.frontiersin.org/journals/microbiology/rss",
+          "query": "RSS feed",
+          "scope": "journal"
+        }
+      ],
+      "collection_order": 5358,
+      "collected_at": "2026-11-20T12:01:03.805438+00:00",
+      "collected_date": "2026-11-20",
+      "sources": [
+        "https://www.frontiersin.org/journals/microbiology/rss"
+      ],
+      "first_seen": "2026-11-20",
+      "related_dois": [
+        "10.3389/fmicb.2026.1970174"
+      ],
+      "translation": {
+        "title": {
+          "hash": "5b49045761cd6079a71ea1286726d24baa2d6e1da7ae7963172671d544e3a133",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-20T12:25:46.417659+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "9e979232b976f3f30110870e1fe082320010fb5c75629835740b75ad0deeef84",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-20T12:25:46.417659+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "地域によるFestuca sinensisの根圏微生物叢構造の変動",
+      "abstract_ja": "はじめにFestuca sinensisは青蔵高原の在来イネ科植物であり、高山草原の発達において極めて重要な役割を果たしている。F. sinensisの根微生物叢の多様性と群集組成については、依然として明らかになっていない。方法ハイスループットシーケンシング技術を用いて、14の異なる地域におけるFestuca sinensisに関連する根圏微生物叢（細菌および真菌）の多様性、群集構造、および表現型予測の差異を特性評価した。さらに、土壌特性、微生物特性、および群集形成プロセス間の関連性を解析した。結果根圏土壌の養分、酵素活性、Chao1およびShannon指数、ならびに細菌および真菌群集の表現型予測において、F. sinensisの根圏で地域間の有意な差異が認められた。相対存在量順に並べた主要な細菌門はProteobacteria、Bacteroidota、およびAcidobacteriotaであり、主要な真菌門はAscomycota、Basidiomycota、およびMortierellomycotaであった。一部の属の相対存在量は地点によって異なっていた。一部の酵素活性は、真菌の多様性および群集組成と有意な関連を示した。土壌酵素活性が変動の最大の割合を説明し、空間的影響がそれより小さな割合を占めた。微生物群集形成プロセスは地域間で異なっていた。細菌群集形成は主に均質化分散によって形成されたのに対し、ほとんどの地域において真菌群集形成ではドリフトが大きな割合を占めていた。考察土壌酵素は総じて根圏微生物群集に影響を及ぼしていた。これらの知見は、根・土壌界面（すなわち根圏）における植物と微生物の相互作用に関する理解を深めるものであり、F. sinensisの空間分布特性に関する研究に寄与し得る。",
+      "answer_journal": "Frontiers in Microbiology",
+      "question_type": "published",
+      "options": [
+        "Organic letters",
+        "Annales de chirurgie plastique et esthetique",
+        "Frontiers in Microbiology",
+        "Molecular biology reports"
+      ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC journals 3",
+          "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "journal article"
+      ],
+      "id": "10.1128/msphere.00561-26",
+      "title": "SARS-CoV-2 membrane (M) protein activates TLR4 to induce an inflammatory response.",
+      "abstract": "An excessive inflammatory response, also known as \"cytokine storm,\" is a major cause of severe COVID-19. Viral RNA and its structural proteins are key mediators of SARS-CoV-2-induced inflammation. While the immune sensors and host inflammatory responses induced by SARS-CoV-2 RNA and the structural proteins spike (S), envelope (E), and nucleocapsid (N) are well defined, the role of membrane (M) protein in inflammatory/antiviral response and the signaling pathway facilitating M protein-mediated immune response is not well characterized. Here, we show that SARS-CoV-2 M protein induces robust inflammatory cytokine responses in murine and human macrophages and lungs. We also show that the M protein-induced inflammatory response relies on TLR4 signaling and that MyD88 serves as the key adaptor driving inflammation, while TRIF is primarily required for the antiviral IFN response. Detailed evaluation of downstream signaling pathways highlighted the critical roles of mitogen-activated protein kinase (MAPK) molecules JNK and ERK1/2, followed by nuclear factor kappa B (NF-κB) and p38 signaling in the M protein-TLR4-mediated inflammatory response. Finally, we show that abrogation of M protein-induced ERK1/2 and p38 signaling reduced inflammatory cytokine production and rescued type I interferon production in wild-type macrophages, while inhibition of JNK and NF-κB suppressed the M protein-induced inflammatory and antiviral cytokine responses. Collectively, our results demonstrate that SARS-CoV-2 M protein induces pro-inflammatory cytokines and type I interferons via TLR4-MyD88/TRIF activation, with MAPK activation playing a dominant role, and offer specific targeting of MAPK signaling to mitigate SARS-CoV-2-induced excessive inflammation and pathology.ImportanceSevere COVID-19 is often caused by an excessive inflammatory response, but the role of the SARS-CoV-2 membrane (M) protein in this process has not been well understood. We show that the M protein strongly activates inflammatory and antiviral immune responses through TLR4 signaling and identify the key signaling pathways involved. We also demonstrate that selectively targeting MAPK signaling can reduce harmful inflammation while restoring antiviral interferon responses. These findings improve our understanding of how SARS-CoV-2 causes disease and identify potential therapeutic targets to limit excessive inflammation without compromising antiviral immunity.",
+      "journal": "mSphere",
+      "doi": "10.1128/msphere.00561-26",
+      "date": "2026-10-29",
+      "authors": "Johnson PM, Pabbineedi SM, Shrestha R, Whitley CJ, More S, Channappanavar R.",
+      "tags": [
+        "微生物学"
+      ],
+      "source_url": "https://europepmc.org/article/MED/42954473",
+      "preprint": false,
+      "review": false,
+      "pmcid": "",
+      "pmid": "42954473",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "viral"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [],
+          "evolution": []
+        },
+        "tags": [
+          "微生物学"
+        ]
+      },
+      "collection_order": 5199,
+      "collected_at": "2026-11-20T11:50:28.841726+00:00",
+      "collected_date": "2026-11-20",
+      "sources": [
+        "Europe PMC journals 3"
+      ],
+      "first_seen": "2026-11-20",
+      "related_dois": [
+        "10.1128/msphere.00561-26"
+      ],
+      "translation": {
+        "title": {
+          "hash": "8d5c609f1b7dcd166cdc84f01ef623448e352f005e47d5387faf69808c3ae4ee",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-20T12:25:46.417659+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "4d72abf60886d93b518ed17389bc5e2a69521c0a824e3fed4236c987de489ad9",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-20T12:25:46.417659+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "SARS-CoV-2膜（M）タンパク質はTLR4を活性化して炎症反応を誘導する。",
+      "abstract_ja": "「サイトカインストーム」としても知られる過剰な炎症反応は、重症COVID-19の主要な原因である。ウイルスRNAとその構造タンパク質は、SARS-CoV-2誘発性炎症の重要な媒介因子である。SARS-CoV-2 RNAおよび構造タンパク質であるスパイク（S）、エンベロープ（E）、ヌクレオカプシド（N）によって誘導される免疫センサーと宿主の炎症反応については十分に解明されているが、炎症・抗ウイルス反応における膜（M）タンパク質の役割や、Mタンパク質介在性免疫応答を促進するシグナル伝達経路については十分に解明されていない。本研究では、SARS-CoV-2 Mタンパク質がマウスおよびヒトのマクロファージおよび肺において強力な炎症性サイトカイン応答を誘導することを示す。また、Mタンパク質誘導性の炎症反応がTLR4シグナル伝達に依存していること、およびMyD88が炎症を駆動する主要なアダプターとして機能する一方で、TRIFは主に抗ウイルスIFN応答に必要であることを示す。下流のシグナル伝達経路を詳細に評価した結果、ミトゲン活性化プロテインキナーゼ（MAPK）分子であるJNKおよびERK1/2の重要な役割が浮き彫りになり、次いでMタンパク質-TLR4介在性炎症応答における核因子カッパB（NF-κB）およびp38シグナル伝達が明らかになった。最後に、Mタンパク質誘導性のERK1/2およびp38シグナル伝達を遮断すると、野生型マクロファージにおいて炎症性サイトカインの産生が減少し、I型インターフェロンの産生が回復した一方、JNKおよびNF-κBの阻害はMタンパク質誘導性の炎症性および抗ウイルス性サイトカイン応答を抑制した。総じて、我々の結果は、SARS-CoV-2 Mタンパク質がTLR4-MyD88/TRIF活性化を介して炎症促進性サイトカインおよびI型インターフェロンを誘導し、その中でMAPK活性化が支配的な役割を果たすことを示しており、SARS-CoV-2誘発性の過剰な炎症および病態を軽減するためのMAPKシグナル伝達の特異的標的化を提案するものである。重要性：重症COVID-19はしばしば過剰な炎症反応によって引き起こされるが、この過程におけるSARS-CoV-2膜（M）タンパク質の役割は十分に解明されていない。我々は、Mタンパク質がTLR4シグナル伝達を介して炎症性および抗ウイルス性免疫応答を強力に活性化することを示し、関与する主要なシグナル伝達経路を同定した。また、MAPKシグナル伝達を選択的に標的とすることで、有害な炎症を減少させつつ、抗ウイルスインターフェロン応答を回復させることができることを実証した。これらの知見は、SARS-CoV-2がどのように疾患を引き起こすかについての理解を深めるとともに、抗ウイルス免疫を損なうことなく過剰な炎症を抑制するための潜在的な治療標的を特定するものである。",
+      "answer_journal": "mSphere",
+      "question_type": "published",
+      "options": [
+        "mSphere",
+        "Biology direct",
+        "Current opinion in structural biology",
+        "Neuropharmacology"
+      ]
+    },
+    {
+      "id": "10.3389/fmicb.2026.1923001",
+      "title": "Longitudinal multi-omics profiling reveals early gut microbial and metabolic alterations associated with bronchopulmonary dysplasia in preterm infants",
+      "abstract": "IntroductionBronchopulmonary dysplasia (BPD) is a common and devastating chronic lung disease in preterm infants. The role of the gut microbiome and metabolome in its pathogenesis remains largely unknown. This study aimed to characterize the longitudinal dynamics of gut microbiota and fecal metabolome in preterm infants who developed BPD.MethodsFecal samples were collected at three time points (24 h, 14 d, and 28 d after birth) from a prospective cohort of preterm infants. 16S rRNA sequencing and liquid chromatography–mass spectrometry/gas chromatography–mass spectrometry (LC–MS/GC–MS) metabolomics were performed. Integrated multi-omics analyses, including permutational multivariate analysis of variance (PERMANOVA), partial least squares discriminant analysis (PLS-DA), correlation networks, Procrustes analysis, and PICRUSt2-based functional prediction, were used to identify exploratory microbial and metabolic signatures.ResultsInfants who developed BPD exhibited distinct gut microbiota compositions and fecal metabolite profiles as early as 24 h after birth, before clinical diagnosis. These differences were most pronounced at early time points and were no longer statistically significant by day 28. Exploratory LEfSe analysis identified six leading genus-level taxa at 24 h. Microbe–metabolite correlation networks revealed extensive associations at the pooled level, and Procrustes analysis demonstrated significant structural concordance at 14 d. Pathway enrichment and PICRUSt2 prediction identified retinol metabolism and other pathways with distinct temporal dynamics. Importantly, rigorous sensitivity analyses revealed that these BPD-associated differences were highly confounded by gestational age and were largely attenuated after adjustment.DiscussionEarly-life gut microbial and metabolic alterations are associated with the subsequent development of BPD, though they cannot be statistically separated from the effects of prematurity. These findings provide a multi-omics resource for generating hypotheses regarding the gut–lung axis and highlight the need for future gestational-age-matched studies to determine whether early vitamin A metabolism or other pathways could serve as biomarkers or therapeutic targets.",
+      "journal": "Frontiers in Microbiology",
+      "doi": "10.3389/fmicb.2026.1923001",
+      "date": "2026-11-20",
+      "authors": "Jing Shi",
+      "tags": [
+        "微生物学"
+      ],
+      "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1923001",
+      "abstract_source": "rss",
+      "preprint": false,
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "16s rrna",
+          "microbe",
+          "microbial",
+          "microbiome",
+          "microbiota"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [],
+          "evolution": []
+        },
+        "tags": [
+          "微生物学"
+        ]
+      },
+      "discovery": [
+        {
+          "source": "https://www.frontiersin.org/journals/microbiology/rss",
+          "query": "RSS feed",
+          "scope": "journal"
+        }
+      ],
+      "collection_order": 5357,
+      "collected_at": "2026-11-20T12:01:03.805438+00:00",
+      "collected_date": "2026-11-20",
+      "sources": [
+        "https://www.frontiersin.org/journals/microbiology/rss"
+      ],
+      "first_seen": "2026-11-20",
+      "related_dois": [
+        "10.3389/fmicb.2026.1923001"
+      ],
+      "translation": {
+        "title": {
+          "hash": "fe5d1566287ea7cd91c2d7bd7fb0c7746e5c3d23a5baa7e6d1124e28c2a5e407",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-20T12:22:24.553807+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "aab4e952e5b3f5e659466d60fa849864b05abfa5dd326f60b72be0fe5d12978f",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-20T12:22:24.553807+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "縦断的マルチオミクスプロファイリングにより、早産児の気管支肺異形成症に関連する腸管微生物および代謝の早期変化が明らかとなった",
+      "abstract_ja": "はじめに気管支肺異形成症（BPD）は、早産児において一般的かつ極めて重篤な慢性肺疾患である。その病態形成における腸内細菌叢およびメタボロームの役割は、依然として大部分が不明である。本研究では、BPDを発症した早産児における腸内細菌叢および糞便メタボロームの縦断的な動態を明らかにすることを目的とした。方法早産児の前向きコホートから、3つの時点（出生後24時間、14日、28日）で糞便検体を採取した。16S rRNAシーケンシングおよび液体クロマトグラフィー－質量分析／ガスクロマトグラフィー－質量分析（LC–MS/GC–MS）メタボロミクスを実施した。置換多変数分散分析（PERMANOVA）、部分最小二乗判別分析（PLS-DA）、相関ネットワーク、プロクラステス解析、およびPICRUSt2に基づく機能予測を含む統合的なマルチオミクス解析を用いて、探索的な微生物および代謝シグネチャーを同定した。結果BPDを発症した乳児では、臨床診断前の出生後24時間という早期段階から、異なる腸内細菌叢組成および糞便代謝物プロファイルが認められた。これらの差異は早期時点で最も顕著であり、28日目までには統計的に有意ではなくなった。探索的なLEfSe解析により、24時間時点で6つの主要な属レベルの分類群が同定された。微生物－代謝物相関ネットワークではプールレベルで広範な関連性が認められ、プロクラステス解析では14日目時点で有意な構造的一致が示された。パスウェイエンリッチメントおよびPICRUSt2予測により、レチノール代謝およびその他の経路において明確な時間的動態が同定された。重要な点として、厳格な感度解析の結果、これらのBPD関連の差異は妊娠週数による交絡が強く、調整後にはその影響が大部分減弱することが明らかになった。考察早期の腸内微生物および代謝の変化は、その後のBPD発症に関連しているが、早産の影響から統計的に分離することはできない。これらの知見は、腸－肺軸に関する仮説を立てるためのマルチオミクスリソースを提供するとともに、早期のビタミンA代謝やその他の経路がバイオマーカーや治療標的となり得るかを判断するための、今後の妊娠週数マッチング研究の必要性を浮き彫りにしている。",
+      "answer_journal": "Frontiers in Microbiology",
+      "question_type": "published",
+      "options": [
+        "Tumour virus research",
+        "Frontiers in Microbiology",
+        "ACS omega",
+        "Molecular medicine (Cambridge, Mass.)"
+      ]
+    },
+    {
+      "id": "10.1093/nar/gkag1246",
+      "title": "SynCED: the Synthetic Chemical Exposome Database",
+      "abstract": "AbstractThe Synthetic Chemical Exposome Database (SynCED) (https://syncedb.ca) is a substantially updated and expanded version of the Toxin and Toxin Target Database (T3DB). SynCED provides rich data on 316 418 synthetic chemicals from diverse chemical, toxicological, exposure, and regulatory sources. The synthetic chemical exposome comprises a vast and rapidly expanding range of anthropogenic chemicals, yet information on their sources, uses, biological effects, toxicity, and molecular interactions remains fragmented across numerous resources. SynCED addresses this problem by consolidating this information and linking most known synthetic chemicals with standardized chemical names and identifiers, compound descriptions, predicted or measured physicochemical properties, reference spectral data, exposure and use information, toxicological data, and biological targets or interactions. Literature-derived compound descriptions and functional annotations were built using the Chemical Functional Ontology (ChemFOnt) Fact Finder pipeline, which extracts semantically defined chemical–relation–entity associations while retaining supporting evidence and provenance. In addition to literature-derived biological target information, SynCED also incorporates ligand-based protein-target predictions to extend the coverage of chemicals lacking experimentally characterized interactions. To facilitate compound identification using non-target or suspect screening, SynCED provides extensive search utilities supporting searches by chemical structure, toxicity, text, mass, molecular weight, elemental composition, ESI-MS, EI-MS, and NMR spectra (both measured and predicted) as well as searches by target sequence (protein and DNA). It also supports database browsing by chemical names, ClassyFire chemical taxonomy and exposure source. Together, these features extend T3DB to turn SynCED into a broader, more provenance-aware database, that supports suspect or non-target screening, chemical exposure and hazard assessment, mechanistic studies, and general chemical exposomics research.",
+      "journal": "Nucleic Acids Research",
+      "doi": "10.1093/nar/gkag1246",
+      "date": "2026-11-20",
+      "authors": "",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1246/9103989?rss=1",
+      "abstract_source": "rss",
+      "preprint": false,
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "DNA",
+            "annotation"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "discovery": [
+        {
+          "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+          "query": "RSS feed",
+          "scope": "journal"
+        }
+      ],
+      "collection_order": 5348,
+      "collected_at": "2026-11-20T12:01:03.805438+00:00",
+      "collected_date": "2026-11-20",
+      "sources": [
+        "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+      ],
+      "first_seen": "2026-11-20",
+      "related_dois": [
+        "10.1093/nar/gkag1246"
+      ],
+      "translation": {
+        "title": {
+          "hash": "31662e0fa1e2182b2caa01dd63d98f8b858fb6bb47699d9b347c7449045b7c55",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-20T12:35:53.108591+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "66602c2741f86c77ccf832891796021cb245ad4b432f4826cfee5f8bba302469",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-20T12:35:53.108591+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "SynCED: 合成化学エクスポソームデータベース",
+      "abstract_ja": "要旨 合成化学物質エクスポソームデータベース（SynCED）（https://syncedb.ca）は、Toxin and Toxin Target Database（T3DB）を大幅に更新・拡張したバージョンである。SynCEDは、多様な化学、毒性学、曝露、および規制上の情報源から、316,418種類の合成化学物質に関する豊富なデータを提供している。合成化学物質エクスポソームは、膨大かつ急速に拡大する人為的化学物質の範囲を網羅しているが、その供給源、用途、生物学的影響、毒性、および分子間相互作用に関する情報は、数多くのリソースにわたって断片化したままである。SynCEDは、これらの情報を統合し、既知の合成化学物質の大部分を、標準化された化学名および識別子、化合物記述、予測または測定された物理化学的特性、参照スペクトルデータ、曝露および用途情報、毒性学データ、ならびに生物学的標的または相互作用と紐付けることで、この課題に対処している。文献由来の化合物記述および機能アノテーションは、Chemical Functional Ontology（ChemFOnt）Fact Finderパイプラインを用いて構築されており、このパイプラインは、裏付けとなる証拠と来歴を保持しつつ、意味的に定義された化学物質－関係－エンティティの関連付けを抽出する。文献由来の生物学的標的情報に加え、SynCEDはリガンドに基づくタンパク質標的予測を組み込むことで、実験的に特性評価された相互作用が欠如している化学物質のカバー範囲を拡大している。非標的または疑わしいスクリーニングを用いた化合物同定を容易にするため、SynCEDは、化学構造、毒性、テキスト、質量、分子量、元素組成、ESI-MS、EI-MS、およびNMRスペクトル（測定および予測の両方）による検索、ならびに標的配列（タンパク質およびDNA）による検索をサポートする広範な検索ユーティリティを提供している。また、化学名、ClassyFire化学分類、および曝露源によるデータベースブラウジングもサポートしている。これらの機能が相まってT3DBを拡張し、SynCEDをより広範で来歴を考慮したデータベースへと進化させ、疑わしいまたは非標的スクリーニング、化学物質曝露およびハザード評価、メカニズム研究、および一般的な化学エクスポソーム研究を支援する。",
+      "answer_journal": "Nucleic Acids Research",
+      "question_type": "published",
+      "options": [
+        "Archives of gerontology and geriatrics",
+        "Brain research bulletin",
+        "Nucleic Acids Research",
+        "Current opinion in chemical biology"
+      ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC journals 3",
+          "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "journal article"
+      ],
+      "id": "10.1128/msphere.00233-26",
+      "title": "Extracellular vesicles released by <i>Candida albicans</i> yeast cells impact candidiasis lethality in insect and murine models.",
+      "abstract": "Extracellular vesicles (EVs) are nano-sized lipid bilayer structures released by diverse cell types. For pathogenic fungi, EVs play critical roles by modulating immune responses and influencing disease progression. Previously, we demonstrated that vaccination with EVs from Candida albicans promoted protection in immunosuppressed mice subsequently infected with lethal doses of this organism. However, the impact of EVs in the presence of fungi is poorly investigated in vivo. Here, we demonstrated that co-injection of C. albicans yeasts and their EVs into Galleria mellonella larvae led to a rapid larval death compared to yeast cells alone. This effect seems to be associated with thermosensitive compounds, such as secreted aspartic proteases (Saps), virulence factors carried by C. albicans EVs. EVs from SAP knockout (KO) strains (sap1/2/3Δ and sap9Δ) impaired this harmful effect, confirming the crucial role of Saps. Deletion of SAP1-3 prevented the EV-associated decrease in hemocyte density, whereas SAP9 deletion impaired the increase in oxidative response and melanin production. In a murine model of disseminated candidiasis with intraperitoneal infection, the deleterious effect of C. albicans EVs was observed only when co-injected intraperitoneally with yeasts, but not when EVs were administered intramuscularly. Therefore, both fungal cells and EVs are required for the pathogenic effects. Our findings confirm the aggressive role of fungal EVs in the presence of C. albicans and reinforce their contribution to candidiasis, elucidating EV-pathogen interactions. Although these results do not preclude the use of C. albicans EVs in vaccine formulations, they emphasize the need to consider delivery route and presence of virulence factors.IMPORTANCEFungal infections caused by Candida albicans represent a significant threat, particularly to immunocompromised individuals. Extracellular vesicles (EVs) from fungi have been explored as promising vaccine formulations, with demonstrated protective effects. However, previous studies have also suggested that EVs may contribute to disease progression. Here, we demonstrate that EVs enhance fungal pathogenicity in vivo and identify key factors driving this effect. We show that EV-associated aspartyl proteases (secreted aspartic proteases [Saps]), along with other virulence components, directly contribute to accelerated host mortality when EVs are present alongside fungal cells, and that this outcome depends on both their composition and route of delivery. By demonstrating the involvement of EV-associated Saps in disease progression, this work advances our understanding of host-pathogen interactions and reveals critical considerations for the safe development of EV-based therapeutic and vaccine strategies.",
+      "journal": "mSphere",
+      "doi": "10.1128/msphere.00233-26",
+      "date": "2026-10-20",
+      "authors": "Piffer AC, Valdez AF, Bonilla JJA, da Silva NM, Sabino ALRdN, Kornetz J, Giovanini L, Santos ALS, Ramos LS, Rodrigues ML, Hube B, Nimrichter L.",
+      "tags": [
+        "微生物学"
+      ],
+      "source_url": "https://europepmc.org/article/MED/42899683",
+      "preprint": false,
+      "review": false,
+      "pmcid": "",
+      "pmid": "42899683",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "Candida",
+          "fungal",
+          "fungi",
+          "yeast",
+          "yeasts"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [],
+          "evolution": []
+        },
+        "tags": [
+          "微生物学"
+        ]
+      },
+      "collection_order": 5204,
+      "collected_at": "2026-11-20T11:50:28.841726+00:00",
+      "collected_date": "2026-11-20",
+      "sources": [
+        "Europe PMC journals 3"
+      ],
+      "first_seen": "2026-11-20",
+      "related_dois": [
+        "10.1128/msphere.00233-26"
+      ],
+      "translation": {
+        "title": {
+          "hash": "91ad9ca8a642f4f0cf12567c66073e49dcebc909338ecacf6d519c73851b8f34",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-20T12:32:43.025554+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "37e31d1be7ac39bb45ceeda1e80d8e666670ebe8af943757449884cae29a080c",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-20T12:32:43.025554+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "<i>Candida albicans</i>酵母細胞から放出される細胞外小胞は、昆虫およびマウスモデルにおけるカンジダ症の致死率に影響を及ぼす。",
+      "abstract_ja": "細胞外小胞（EV）は、多様な細胞種から放出されるナノサイズの脂質二重層構造である。病原性真菌において、EVは免疫応答を調節し、疾患の進行に影響を与えることで重要な役割を果たす。我々は以前、Candida albicans由来のEVを接種することで、その後致死量の同菌に感染させた免疫抑制マウスにおいて保護効果が促進されることを実証した。しかし、真菌存在下におけるEVの影響については、in vivoでの検討がほとんど行われていない。本研究では、Galleria mellonella幼虫にC. albicans酵母およびそのEVを共注入したところ、酵母細胞単独の場合と比較して幼虫が速やかに死亡することを実証した。この効果は、C. albicans EVが運ぶ病原因子である分泌型アスパラギン酸プロテアーゼ（Saps）などの温度感受性化合物に関連していると考えられる。SAPノックアウト（KO）株（sap1/2/3Δおよびsap9Δ）由来のEVはこの有害な影響を抑制し、Sapsの極めて重要な役割が確認された。SAP1-3の欠損はEVに伴う血球密度の低下を阻止したが、SAP9の欠損は酸化応答およびメラニン産生の増加を阻害した。腹腔内感染を伴う播種性カンジダ症のマウスモデルにおいて、C. albicans EVの有害な影響は、酵母と共に腹腔内注入した場合にのみ観察され、EVを筋肉内投与した場合には認められなかった。したがって、病原性効果には真菌細胞とEVの両方が必要である。我々の知見は、C. albicans存在下における真菌EVの攻撃的な役割を裏付けるとともに、カンジダ症への寄与を補強し、EVと病原体の相互作用を解明するものである。これらの結果は、ワクチン製剤におけるC. albicans EVの使用を排除するものではないが、送達経路および病原因子の有無を考慮する必要性を強調するものである。重要性Candida albicansによる真菌感染症は、特に免疫不全状態にある人々にとって重大な脅威となる。真菌由来の細胞外小胞（EV）は、保護効果が実証されており、有望なワクチン製剤として検討されてきた。しかし、先行研究ではEVが疾患の進行に寄与する可能性も示唆されている。本研究では、EVがin vivoで真菌の病原性を増強することを実証し、この効果を駆動する主要因子を同定した。我々は、EVが真菌細胞と共に存在する場合、EV関連のアスパラチルプロテアーゼ（分泌型アスパラギン酸プロテアーゼ［Saps］）が他の病原成分と共に宿主の死亡促進に直接寄与すること、また、この結果はそれらの組成と送達経路の両方に依存することを示した。EV関連のSapsが疾患の進行に関与することを実証したことで、本研究は宿主と病原体の相互作用に関する理解を深めるとともに、EVベースの治療およびワクチン戦略を安全に開発するための重要な検討事項を明らかにした。",
+      "answer_journal": "mSphere",
+      "question_type": "published",
+      "options": [
+        "Enfermedades infecciosas y microbiologia clinica (English ed.)",
+        "mSphere",
+        "Science",
+        "Journal of fish biology"
+      ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC journals 3",
+          "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "journal article"
+      ],
+      "id": "10.1128/spectrum.01265-26",
+      "title": "Global, regional, and national burden of syphilis in children under 5 years from 1990 to 2021.",
+      "abstract": "Mother-to-child transmission of syphilis has raised much concern for the dramatically increasing incidence in recent years. This study aims to assess the global, regional, and national disease burden of syphilis in children under 5 years from 1990 to 2021. Data were extracted from the 2021 Global Burden of Disease study. Temporal trends were evaluated using the average annual percentage change. Segmented regression was applied to estimate breakpoints and the corresponding slopes. Spearman correlation analysis was performed to analyze the correlation of disease burden and SDI. Slope index of inequality and concentration index were calculated, and ARIMA model was performed. In 2021, an estimated 384,121 (95% UI: 314,943 to 460,835) new cases were reported among syphilis under 5 years, with an age-standardized incidence rate of 58.36 (95% UI: 47.85 to 70.02) per 100,000 population. Reported death cases were 72,148 (95% UI: 27,130 to 144,529) with an ASR of 10.96 (95% UI: 4.12 to 21.96). A sharp increase in both incidence and prevalence has been observed since 2016, with APCs as high as 7.06% and 8.11%. The mortality and DALY rates have increased from 2019 with an APC of 7.92%. The neonatal period contributed to 97.7% deaths and DALYs. The disease burden is inversely associated with overall socioeconomic development, with disparities persisting between higher- and lower-resource regions and countries. These data suggest a global re-emergence of syphilis in children under 5 years and highlight the priority for enhancing prenatal screening and interventions, providing timely and adequate maternal treatment, and preventing neonatal mortality.ImportanceMother-to-child transmission of syphilis has raised much concern for the dramatically increasing incidence and societal well-being in recent years. We depict the global, regional, and national temporal trend of syphilis in children under 5 years from 1990 to 2021, and our study has demonstrated a sharp upward trend in disease burden in recent years. The neonatal death contributed to 97.7% deaths and DALYs in syphilis among children under 5 years, indicating that premature mortality was the overwhelming driver of DALYs. The disease burden is inversely associated with overall socioeconomic development, with disparities persisting between higher- and lower-resource regions and countries. By understanding the trends and patterns, policymakers and healthcare providers can develop targeted and evidence-based strategies to reduce the mother-to-child transmission and overall burden of syphilis in children under 5 years.",
+      "journal": "Microbiology Spectrum",
+      "doi": "10.1128/spectrum.01265-26",
+      "date": "2026-11-04",
+      "authors": "Feng X, Lu Y, Zhu L, Tian T, Jiang N, Zhou P.",
+      "tags": [
+        "微生物学"
+      ],
+      "source_url": "https://europepmc.org/article/MED/42980161",
+      "preprint": false,
+      "review": false,
+      "pmcid": "",
+      "pmid": "42980161",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [],
+        "context": {
+          "marine": [],
+          "genomics": [],
+          "evolution": []
+        },
+        "tags": [
+          "微生物学"
+        ]
+      },
+      "collection_order": 5213,
+      "collected_at": "2026-11-20T11:50:28.841726+00:00",
+      "collected_date": "2026-11-20",
+      "sources": [
+        "Europe PMC journals 3"
+      ],
+      "first_seen": "2026-11-20",
+      "related_dois": [
+        "10.1128/spectrum.01265-26"
+      ],
+      "translation": {
+        "title": {
+          "hash": "40bc644f1f180feceee536cf8d038abfa3d9118a4d7fbffd1ccf7d105f859c5c",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-20T12:35:53.108591+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "8cc07098379e6c8afefc7ad7f65f932b43014072165dc85e5b5dd03159eed5d2",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-20T12:35:53.108591+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "1990年から2021年における5歳未満児の梅毒の世界的、地域的、および国家的な負担。",
+      "abstract_ja": "近年の罹患率の劇的な上昇に伴い、梅毒の母子感染が大きな懸念となっている。本研究は、1990年から2021年までの5歳未満児における梅毒の世界的、地域的、および国家的な疾病負荷を評価することを目的とする。データは2021年のGlobal Burden of Disease研究から抽出した。経時的傾向は、年平均変化率を用いて評価した。分割回帰分析を適用し、ブレークポイントおよび対応する傾きを推定した。疾病負荷とSDIの相関を分析するため、スピアマン相関分析を実施した。不平等勾配指数および集中指数を算出し、ARIMAモデルを適用した。2021年には、5歳未満児の梅毒新規症例数として推定384,121例（95% UI: 314,943～460,835例）が報告され、人口10万人あたりの年齢標準化罹患率は58.36（95% UI: 47.85～70.02）であった。報告された死亡例数は72,148例（95% UI: 27,130～144,529例）で、ASRは10.96（95% UI: 4.12～21.96）であった。2016年以降、罹患率と有病率の双方に急激な上昇が認められ、APCは7.06%および8.11%に達した。死亡率およびDALY率は2019年以降上昇しており、APCは7.92%となった。新生児期が死亡およびDALYの97.7%を占めていた。疾病負荷は全体的な社会経済的発展と逆相関しており、資源の豊富な地域と乏しい地域および国の間で格差が依然として存在している。これらのデータは、5歳未満児における梅毒の世界的な再興を示唆しており、出生前スクリーニングと介入の強化、適時かつ適切な母体治療の提供、および新生児死亡の予防を優先すべきであることを強調している。重要性 梅毒の母子感染は、近年の罹患率の劇的な上昇と社会的ウェルビーイングに大きな懸念をもたらしている。本研究では、1990年から2021年までの5歳未満児における梅毒の世界的、地域的、および国家的な経時的傾向を示し、近年の疾病負荷に急激な上昇傾向があることを実証した。5歳未満児の梅毒における死亡およびDALYの97.7%を新生児死亡が占めており、早期死亡がDALYの圧倒的な要因であったことが示された。疾病負荷は全体的な社会経済的発展と逆相関しており、資源の豊富な地域と乏しい地域および国の間で格差が依然として存在している。これらの傾向とパターンを把握することで、政策立案者や医療従事者は、5歳未満児における梅毒の母子感染および全体的な負荷を軽減するための、標的を絞ったエビデンスに基づく戦略を策定することができる。",
+      "answer_journal": "Microbiology Spectrum",
+      "question_type": "published",
+      "options": [
+        "Royal Society open science",
+        "Nature reviews. Urology",
+        "Microbiology Spectrum",
+        "Cytokine & growth factor reviews"
+      ]
+    },
+    {
+      "id": "10.1093/bioinformatics/btag845",
+      "title": "hlafactor: a tool for multi-layer functional annotation of HLA variation",
+      "abstract": "AbstractMotivationThe human leukocyte antigen (HLA) system is the most polymorphic region of the human genome and a major determinant of immune function and disease susceptibility. Ideally, analyses of HLA variation would capture multiple layers of information, from classical alleles and amino-acid residues to higher-level functional properties such as tapasin dependency, cell-surface expression, and NK cell ligand groups. However, while allele- and amino-acid-level data are now routinely available, the corresponding functional annotations remain scattered across publications and reference datasets, and no existing tool integrates them within a unified, reproducible framework.ResultsWe present hlafactor, a computational tool that brings together established HLA functional annotations within a single, standardised framework. Starting from two-field HLA genotype calls, whether imputed or molecularly typed, hlafactor assigns functional annotations from published reference datasets and applies established calculations to derive individual-level features. These include tapasin dependency scores, general and functional heterozygosity, allele-specific cell surface expression, NK cell-related polymorphisms (Bw4/Bw6, C1/C2, HLA-B -21 M/T), and class I/II supertype assignments. hlafactor also maps alleles to IMGT/HLA amino-acid alignments to generate residue-level genotypes. All outputs are formatted for direct use in downstream association analyses with existing software. Applied to 17,960 samples from the MalariaGEN consortium, each functional annotation module completed in under 15 seconds on a single CPU core, and preprocessing and quality control in just over four minutes, supporting its use in large cohort studies.Availabilityhlafactor is implemented in C ++20 and is freely available at https://github.com/QiJingS/hlafactor and archived on Zenodo under DOI https://doi.org/10.5281/zenodo.20647440.",
+      "journal": "Bioinformatics",
+      "doi": "10.1093/bioinformatics/btag845",
+      "date": "2026-11-19",
+      "authors": "",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag845/9103742?rss=1",
+      "abstract_source": "rss",
+      "preprint": false,
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "annotation",
+            "genom",
+            "genome"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "discovery": [
+        {
+          "source": "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml",
+          "query": "RSS feed",
+          "scope": "journal"
+        }
+      ],
+      "collection_order": 5356,
+      "collected_at": "2026-11-20T12:01:03.805438+00:00",
+      "collected_date": "2026-11-20",
+      "sources": [
+        "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"
+      ],
+      "first_seen": "2026-11-20",
+      "related_dois": [
+        "10.1093/bioinformatics/btag845"
+      ],
+      "translation": {
+        "title": {
+          "hash": "cc48e852683a1377685227a97d7313d299a16fbab87213dccd1e7896be6afffa",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-20T12:22:24.553807+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "e1146bd84c0b47eedee8e5f77b65ef9111f0b248dc421af814d6e81bb881b0b4",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-20T12:22:24.553807+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "hlafactor: HLAバリアントの多層的機能アノテーションツール",
+      "abstract_ja": "要旨動機ヒト白血球抗原（HLA）システムは、ヒトゲノムの中で最も多型性に富む領域であり、免疫機能および疾患感受性の主要な決定因子である。理想的には、HLA変異の解析において、古典的なアレルやアミノ酸残基から、タパシン依存性、細胞表面発現、NK細胞リガンド群といったより高次の機能的特性に至るまで、多層的な情報を捉えることが望ましい。しかし、アレルおよびアミノ酸レベルのデータは現在日常的に利用可能である一方、対応する機能的アノテーションは論文やリファレンスデータセットに散在しており、それらを統一的かつ再現性のあるフレームワークに統合した既存のツールは存在しない。結果確立されたHLA機能的アノテーションを単一の標準化されたフレームワークに集約する計算ツール「hlafactor」を提案する。インピュテーションまたは分子型判定による2フィールドのHLA遺伝子型判定を起点として、hlafactorは公開済みのリファレンスデータセットから機能的アノテーションを割り当て、確立された計算手法を適用して個体レベルの特徴量を導出する。これには、タパシン依存性スコア、一般的および機能的ヘテロ接合性、アレル特異的な細胞表面発現、NK細胞関連多型（Bw4/Bw6, C1/C2, HLA-B -21 M/T）、およびクラスI/IIスーパータイプの割り当てが含まれる。また、hlafactorはアレルをIMGT/HLAアミノ酸アライメントにマッピングし、残基レベルの遺伝子型を生成する。すべての出力は、既存のソフトウェアを用いた後続の関連解析で直接利用できるようフォーマットされている。MalariaGENコンソーシアムの17,960サンプルに適用したところ、各機能的アノテーションモジュールは単一CPUコアで15秒未満で完了し、前処理および品質管理は4分強で終了したため、大規模なコホート研究での利用が可能である。利用可能性hlafactorはC++20で実装されており、https://github.com/QiJingS/hlafactor で無料で入手可能であるほか、ZenodoにDOI https://doi.org/10.5281/zenodo.20647440 でアーカイブされている。",
+      "answer_journal": "Bioinformatics",
+      "question_type": "published",
+      "options": [
+        "Bioinformatics",
+        "ACS applied bio materials",
+        "Archives of microbiology",
+        "Foodborne pathogens and disease"
+      ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC journals 3",
+          "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "journal article"
+      ],
+      "id": "10.1128/spectrum.02172-26",
+      "title": "A multicenter performance evaluation of imipenem-relebactam gradient diffusion susceptibility testing for <i>Pseudomonas aeruginosa</i>.",
+      "abstract": "Imipenem-relebactam (I/R) is a beta-lactam/beta-lactamase inhibitor combination given with cilastatin that is indicated for the treatment of complicated urinary tract infections, including pyelonephritis and complicated intra-abdominal infections in patients. Recently, a new gradient diffusion method for antimicrobial susceptibility testing of this antibiotic was developed for Pseudomonas aeruginosa (ETEST IRPA) as an alternative to broth microdilution (BMD). Our objective was to evaluate the performance of the I/R ETEST in comparison to BMD across three external and one internal study sites for 437 (77 challenge, 360 clinical) P. aeruginosa isolates. Using the U.S. Food and Drug Administration (FDA) interpretive breakpoints, ETEST IRPA achieved a 97.7% (427/437) essential agreement (EA), 91.1% (398/437) categorical agreement (CA), 0% very major errors (VMEs), 0.9% (3/329) major errors (MEs), and 8.2% (36/437) minor errors (mEs). Using the European Committee on Antimicrobial Susceptibility Testing (EUCAST) interpretive breakpoints, ETEST IRPA achieved a 97.7% (427/437) EA, 93.8% (410/437) CA, 12% (13/108) VME, and 4.2% (14/329) ME. Both bias and trending were in alignment with regulatory requirements. Reproducibility testing on 10 strains showed 99.6% (269/270) of results were within ±1 doubling dilution of the modal minimum inhibitory concentration (MIC). MIC50 and MIC90 values for imipenem were 8 and 32, respectively, in comparison to 1 and 8 with the addition of relebactam as determined by ETEST. In conclusion, ETEST IRPA provides both accurate and reproducible results for performing antimicrobial susceptibility testing of P. aeruginosa when interpreted with both FDA and EUCAST criteria.IMPORTANCEAntimicrobial susceptibility testing is key to proper treatment of bacterial infections. Broth microdilution is the gold standard for antimicrobial susceptibility testing; however, it can be time-consuming and requires high levels of technical expertise. This study evaluates a new gradient diffusion method for antimicrobial susceptibility testing of imipenem-relebactam against Pseudomonas aeruginosa. The findings support the use of imipenem-relebactam gradient diffusion as an accurate and reproducible method of antimicrobial susceptibility testing against Pseudomonas aeruginosa.",
+      "journal": "Microbiology Spectrum",
+      "doi": "10.1128/spectrum.02172-26",
+      "date": "2026-11-09",
+      "authors": "Macom RV, Csiki-Fejer E, Collange A, Hardy DJ, Wootton M, Zambardi G, Yarbrough ML.",
+      "tags": [
+        "微生物学"
+      ],
+      "source_url": "https://europepmc.org/article/MED/43001786",
+      "preprint": false,
+      "review": false,
+      "pmcid": "",
+      "pmid": "43001786",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "Pseudomonas",
+          "bacteria",
+          "bacterial"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [],
+          "evolution": []
+        },
+        "tags": [
+          "微生物学"
+        ]
+      },
+      "collection_order": 5207,
+      "collected_at": "2026-11-20T11:50:28.841726+00:00",
+      "collected_date": "2026-11-20",
+      "sources": [
+        "Europe PMC journals 3"
+      ],
+      "first_seen": "2026-11-20",
+      "related_dois": [
+        "10.1128/spectrum.02172-26"
+      ],
+      "translation": {
+        "title": {
+          "hash": "e7d2d776808979ae572a112eef86e4e3c71a69ded712e1f96832e43f65b77aed",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-20T12:29:08.998556+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "136b2095747faea842e3ad5592dc092374c5d74258e6ef15097023051db0b20e",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-20T12:29:08.998556+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "<i>Pseudomonas aeruginosa</i>に対するイミペネム・レレバクタム漸増拡散感受性試験の多施設共同性能評価",
+      "abstract_ja": "イミペネム・レレバクタム（I/R）は、シラスタチンと併用投与されるβ-ラクタム系／β-ラクタマーゼ阻害剤配合剤であり、腎盂腎炎や複雑性腹腔内感染症を含む複雑な尿路感染症の治療に適応がある。近年、ブロスマイクロダイリューション（BMD）に代わる手法として、Pseudomonas aeruginosaに対する本抗菌薬の薬剤感受性試験のための新たな勾配拡散法（ETEST IRPA）が開発された。本研究の目的は、3か所の外部試験施設および1か所の内部試験施設において、P. aeruginosa分離株437株（チャレンジ株77株、臨床株360株）を対象に、I/R ETESTの性能をBMDと比較して評価することであった。米国食品医薬品局（FDA）の解釈基準ブレークポイントを用いた結果、ETEST IRPAは97.7%（427/437）の必須一致（EA）、91.1%（398/437）のカテゴリー一致（CA）、0%の極めて重大なエラー（VME）、0.9%（3/329）の重大なエラー（ME）、および8.2%（36/437）の軽微なエラー（mEs）を達成した。欧州薬剤感受性試験委員会（EUCAST）の解釈基準ブレークポイントを用いた結果、ETEST IRPAは97.7%（427/437）のEA、93.8%（410/437）のCA、12%（13/108）のVME、および4.2%（14/329）のMEを達成した。バイアスおよびトレンドはいずれも規制要件に適合していた。10株を用いた再現性試験では、結果の99.6%（269/270）が最頻最小発育阻止濃度（MIC）の±1倍倍加希釈範囲内であった。イミペネムのMIC50およびMIC90値は、ETESTで判定したレレバクタム添加時の1および8に対し、それぞれ8および32であった。結論として、ETEST IRPAは、FDAおよびEUCASTの両基準で解釈した場合、P. aeruginosaの薬剤感受性試験において正確かつ再現性のある結果を提供する。重要性 薬剤感受性試験は、細菌感染症の適切な治療において極めて重要である。ブロスマイクロダイリューションは薬剤感受性試験のゴールドスタンダードであるが、時間がかかり、高度な技術的専門知識を必要とする。本研究では、Pseudomonas aeruginosaに対するイミペネム・レレバクタムの薬剤感受性試験のための新たな勾配拡散法を評価する。得られた知見は、Pseudomonas aeruginosaに対する正確かつ再現性のある薬剤感受性試験法として、イミペネム・レレバクタム勾配拡散法の使用を支持するものである。",
+      "answer_journal": "Microbiology Spectrum",
+      "question_type": "published",
+      "options": [
+        "Microbiology Spectrum",
+        "Gastroenterology research and practice",
+        "BMC Bioinformatics",
+        "Bioprocess and biosystems engineering"
+      ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC journals 3",
+          "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "journal article"
+      ],
+      "id": "10.1128/spectrum.02996-26",
+      "title": "Development and optimization of self-collected, field-stable, saliva-based immunoassays for scalable epidemiological surveillance of pathogen-specific immunity.",
+      "abstract": "Serological surveillance is fundamental to infectious disease research and informed public-health decision-making. Immunoassays used in the study of pathogen-specific immunity have historically relied on the collection of venous blood. While critical for many public-health applications, this sample collection method is invasive and resource-intensive. The costs and logistical barriers associated with venous blood collection are exacerbated in resource-limited regions, and the shift to less invasive sampling methods would increase sample availability for pathogen surveillance and study of pathogen-specific immunity. To this end, we have developed and optimized a self-collected, saliva-based immunoassay capable of quantifying pathogen-specific antibody binding in saliva samples. Using samples collected from geographically and epidemiologically diverse regions of the world, we compared antigen-specific IgG levels in paired plasma and saliva samples. We observed that levels of IgG against multiple pathogens of public health concern-including SARS-CoV-2 and dengue virus-were highly correlated in plasma and swab-collected saliva. In addition, the decay of maternally derived antibodies in saliva samples collected from infants was readily observed using this immunoassay, demonstrating the assay's sensitivity and potential for use in measuring antibody kinetics. We posit that this assay represents a climate-stable, non-invasive tool that can aid in the surveillance and study of pathogen-specific immunity across a broad range of public-health indications.ImportanceTraditional serological surveillance relies on venous blood collection, which is invasive, resource-intensive, and particularly burdensome in low-resource settings. To address these limitations, our team has developed and validated a self-collected, saliva-based immunoassay for quantifying pathogen-specific antibody levels. Testing paired plasma and saliva samples from geographically diverse populations, the authors found that IgG levels against SARS-CoV-2 and dengue virus were highly correlated between the two sample types. The assay was sensitive enough to detect the decay of maternally derived antibodies in infant saliva, demonstrating its utility for tracking antibody kinetics over time. The authors conclude that this non-invasive, climate-stable platform offers a practical alternative for broad pathogen surveillance and immune monitoring across a variety of public health contexts.",
+      "journal": "Microbiology Spectrum",
+      "doi": "10.1128/spectrum.02996-26",
+      "date": "2026-10-29",
+      "authors": "Bahr LE, Lu J, Buddhari D, Hunsawong T, Rapheal E, Greco P, Ware L, Klick M, Farmer A, Middleton F, Thomas SJ, Anderson K, Waickman AT.",
+      "tags": [
+        "微生物学"
+      ],
+      "source_url": "https://europepmc.org/article/MED/42954456",
+      "preprint": false,
+      "review": false,
+      "pmcid": "",
+      "pmid": "42954456",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "virus"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [],
+          "evolution": []
+        },
+        "tags": [
+          "微生物学"
+        ]
+      },
+      "collection_order": 5226,
+      "collected_at": "2026-11-20T11:50:28.841726+00:00",
+      "collected_date": "2026-11-20",
+      "sources": [
+        "Europe PMC journals 3"
+      ],
+      "first_seen": "2026-11-20",
+      "related_dois": [
+        "10.1128/spectrum.02996-26"
+      ],
+      "translation": {
+        "title": {
+          "hash": "a34b10402fe7cda8b587a189edeae78d58a0dd484babfae383be631d18d02450",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-20T12:48:13.517104+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "814d797f968323ed2c266bb31210f0032fa0781b1111feb0f5efe18dc411524f",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-20T12:48:13.517104+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "病原体特異的免疫のスケーラブルな疫学サーベイランスに向けた、自己採取型・現場安定性の高い唾液ベースの免疫測定法の開発と最適化",
+      "abstract_ja": "血清学的サーベイランスは、感染症研究および公衆衛生上の意思決定において不可欠である。病原体特異的免疫の研究に用いられる免疫測定法は、従来、静脈血の採取に依存してきた。多くの公衆衛生上の応用において極めて重要である一方、この検体採取法は侵襲的であり、多大なリソースを要する。静脈血採取に伴うコストや物流上の障壁は、資源の限られた地域においてさらに深刻化しており、より侵襲性の低い検体採取法への移行は、病原体サーベイランスや病原体特異的免疫の研究における検体の確保を容易にするだろう。この目的を達成するため、我々は、唾液検体中の病原体特異的抗体結合を定量化できる、自己採取型の唾液ベース免疫測定法を開発し、最適化した。地理的・疫学的に多様な世界各地の地域から採取した検体を用い、ペアとなった血漿検体と唾液検体における抗原特異的IgGレベルを比較した。その結果、SARS-CoV-2やデングウイルスを含む、公衆衛生上の懸念がある複数の病原体に対するIgGレベルが、血漿とスワブ採取した唾液において高い相関を示すことが観察された。さらに、乳児から採取した唾液検体中の母体由来抗体の減衰を本免疫測定法を用いて容易に観察することができ、本測定法の感度および抗体動態の測定における有用性が実証された。我々は、本測定法が気候安定性を備えた非侵襲的なツールであり、広範な公衆衛生上の適応症において、病原体特異的免疫のサーベイランスおよび研究に寄与し得ると考えている。重要性従来の血清学的サーベイランスは静脈血採取に依存しており、これは侵襲的でリソースを要し、特に資源の乏しい環境下では大きな負担となる。これらの限界に対処するため、我々のチームは、病原体特異的抗体レベルを定量化するための自己採取型唾液ベース免疫測定法を開発し、検証した。地理的に多様な集団から採取したペアの血漿検体および唾液検体を検査した結果、著者らは、SARS-CoV-2およびデングウイルスに対するIgGレベルが、これら2種類の検体間で高い相関を示すことを見出した。本測定法は、乳児の唾液における母体由来抗体の減衰を検出できるほどの感度を有しており、経時的な抗体動態の追跡における有用性が実証された。著者らは、この非侵襲的で気候安定性を備えたプラットフォームが、さまざまな公衆衛生上の状況において、広範な病原体サーベイランスおよび免疫モニタリングのための実用的な代替手段を提供すると結論付けている。",
+      "answer_journal": "Microbiology Spectrum",
+      "question_type": "published",
+      "options": [
+        "Journal of genetics and genomics = Yi chuan xue bao",
+        "Nature cancer",
+        "Microbiology Spectrum",
+        "The plant genome"
+      ]
+    },
+    {
+      "id": "10.1093/nar/gkag1301",
+      "title": "Correction to ‘A new anti-CRISPR gene promotes the spread of drug-resistance plasmids in Klebsiella pneumoniae’",
+      "abstract": "This is a correction to: Chunyu Jiang, Chengzhi Yu, Shuyi Sun, Jiajia Lin, Mufeng Cai, Zhenquan Wei, Lingling Feng, Jianhui Li, Yan Zhang, Ke Dong, Xiaokui Guo, Jinhong Qin, Yu Zhang, A new anti-CRISPR gene promotes the spread of drug-resistance plasmids in Klebsiella pneumoniae, Nucleic Acids Research, Volume 52, Issue 14, 12 August 2024, Pages 8370–8384, https://doi.org/10.1093/nar/gkae516",
+      "journal": "Nucleic Acids Research",
+      "doi": "10.1093/nar/gkag1301",
+      "date": "2026-11-20",
+      "authors": "",
+      "tags": [
+        "微生物学"
+      ],
+      "source_url": "https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1301/9103980?rss=1",
+      "abstract_source": "rss",
+      "preprint": false,
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [],
+        "context": {
+          "marine": [],
+          "genomics": [],
+          "evolution": []
+        },
+        "tags": [
+          "微生物学"
+        ]
+      },
+      "discovery": [
+        {
+          "source": "https://academic.oup.com/rss/site_5127/3091.xml",
+          "query": "RSS feed",
+          "scope": "journal"
+        }
+      ],
+      "collection_order": 5370,
+      "collected_at": "2026-11-20T12:01:03.805438+00:00",
+      "collected_date": "2026-11-20",
+      "sources": [
+        "https://academic.oup.com/rss/site_5127/3091.xml"
+      ],
+      "first_seen": "2026-11-20",
+      "related_dois": [
+        "10.1093/nar/gkag1301"
+      ],
+      "translation": {
+        "title": {
+          "hash": "68fa572e622884909484536fe35402cb272820cb1706f4918195499a3ff914ae",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-20T12:50:53.985769+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "ded3aaa75f9735b22c4f11c54df3465f0ea95a9fb5206de74cb68665cec7cbb4",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-20T12:50:53.985769+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "「Klebsiella pneumoniaeにおける新たな抗CRISPR遺伝子が薬剤耐性プラスミドの拡散を促進する」の訂正",
+      "abstract_ja": "本論文は、Chunyu Jiang, Chengzhi Yu, Shuyi Sun, Jiajia Lin, Mufeng Cai, Zhenquan Wei, Lingling Feng, Jianhui Li, Yan Zhang, Ke Dong, Xiaokui Guo, Jinhong Qin, Yu Zhang, A new anti-CRISPR gene promotes the spread of drug-resistance plasmids in Klebsiella pneumoniae, Nucleic Acids Research, Volume 52, Issue 14, 12 August 2024, Pages 8370–8384, https://doi.org/10.1093/nar/gkae516 の訂正である。",
+      "answer_journal": "Nucleic Acids Research",
+      "question_type": "published",
+      "options": [
+        "Journal of phycology",
+        "Nucleic Acids Research",
+        "Molecular pharmaceutics",
+        "Cell discovery"
+      ]
+    },
+    {
+      "id": "10.64898/2026.11.18.767735",
+      "title": "Charge-engineered nanohybrid coatings for microbial fouling resistance",
+      "abstract": "Microbial attachment is the gateway to biofouling and microbially influenced corrosion. Yet biocides and passive barrier coatings do not actively regulate the charged metal-microbe interface at which adhesion begins. Here we report a charge-engineered coating, a graphene thin-film nanohybrid (gTFN) on nickel (Ni) forming an asymmetric metal-graphene-metal junction, that suppresses cell attachment through interfacial charge redistribution rather than soluble toxicity. Against the model sulfate-reducing bacterium Oleidesulfovibrio alaskensis G20, gTFN combines an impermeable graphene scaffold, an immobilized low-leaching Ag cap and a serrated topology, reducing microbial surface coverage by 98%, increasing charge-transfer resistance 47-fold and lowering corrosion current 167-fold relative to Ni. Surface-potential mapping and density functional theory reveal interfacial dipoles that pattern the surface potential, while imaging shows graphene wrinkles channeling residual attachment. Transcriptomic profiling reveals downregulation of biofilm-associated and energy-metabolism genes. These results establish interfacial charge redistribution as an active antifouling and anticorrosion mechanism for controlling microbial biointerfaces.",
+      "journal": "",
+      "doi": "10.64898/2026.11.18.767735",
+      "date": "2026-11-20",
+      "authors": "Devadig, R., Kandadai, V. A. S., Jawaharraj, K., Jasthi, B. K., Gnimpieba, E., Shagla, C., Dalton, A., McHugh, J., Ajayan, P. M., Tripathi, M., Gadhamshetty, V.",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.18.767735v1?rss=1",
+      "abstract_source": "rss",
+      "preprint": true,
+      "topic_filter": {
+        "accepted": true,
+        "reason": "microbial_evidence",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "bacterium",
+          "microbe",
+          "microbial"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "transcript"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "discovery": [
+        {
+          "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+          "query": "RSS feed",
+          "scope": "candidate"
+        }
+      ],
+      "collection_order": 5365,
+      "collected_at": "2026-11-20T12:01:03.805438+00:00",
+      "collected_date": "2026-11-20",
+      "sources": [
+        "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+      ],
+      "first_seen": "2026-11-20",
+      "related_dois": [
+        "10.64898/2026.11.18.767735"
+      ],
+      "translation": {
+        "title": {
+          "hash": "2a8bc9c4b8182fd9d4147ce8d730dc22a78bc430aabb315d8d2573eb71cd0cdd",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-20T12:53:14.947618+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "12460fd8558bac71e4ecccbc7e7f16a1251e477f33a6102a526f310efab0a515",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-20T12:53:14.947618+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "微生物付着耐性を付与する電荷設計型ナノハイブリッドコーティング",
+      "abstract_ja": "微生物の付着は、バイオファウリングおよび微生物の影響を受ける腐食への入り口となる。しかし、殺生物剤や不動態バリアコーティングは、付着が始まる電荷を帯びた金属－微生物界面を能動的に制御することはない。本報では、可溶性毒性ではなく界面電荷再分配を通じて細胞付着を抑制する、電荷工学的に設計されたコーティング、すなわちニッケル（Ni）上に非対称な金属－グラフェン－金属接合を形成するグラフェン薄膜ナノハイブリッド（gTFN）について報告する。モデル硫酸還元菌であるOleidesulfovibrio alaskensis G20に対し、gTFNは不浸透性のグラフェン骨格、固定化された低溶出性Agキャップ、および鋸歯状トポロジーを兼ね備えており、Niと比較して微生物の表面被覆率を98%低減し、電荷移動抵抗を47倍に高め、腐食電流を167倍に低下させた。表面電位マッピングおよび密度汎関数理論により、表面電位をパターン化する界面双極子が明らかになり、イメージングでは残留付着を誘導するグラフェンのしわが確認された。トランスクリプトームプロファイリングにより、バイオフィルム関連遺伝子およびエネルギー代謝遺伝子の発現低下が認められた。これらの結果は、界面電荷再分配が、微生物バイオ界面を制御するための能動的な防汚および防食メカニズムであることを立証するものである。",
+      "answer_journal": null,
+      "question_type": "forecast",
+      "options": [
+        "British journal of pharmacology",
+        "GigaByte (Hong Kong, China)",
+        "Plants (Basel, Switzerland)",
+        "JMIR mental health"
+      ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC journals 3",
+          "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "journal article"
+      ],
+      "id": "10.1128/spectrum.00680-26",
+      "title": "Impact of growth media on vancomycin susceptibility and mycobacterial cell wall integrity.",
+      "abstract": "Tuberculosis remains the leading cause of death by a single infectious agent, Mycobacterium tuberculosis, in the world. To tackle this disease, efforts are conducted, among others, to improve diagnosis coverage and treatment access, to develop an improved vaccine, and to find new antituberculous drugs or drug regimens. In vitro, bacteria usually tend to lose virulence factors to improve their fitness, mostly observed by an increased growth. This is also the case for M. tuberculosis strains and clinical isolates prone to lose phthiocerol dimycocerosates in the upper leaflet of their mycomembrane. This loss affects the cell wall integrity, as observed by an increased antimycobacterial activity of vancomycin, providing a potential bias in drug susceptibility testing. Here, we showed that M. tuberculosis culture conditions, such as a single subculture on 7H11 supplemented with oleic acid-albumin-dextrose-catalase, can restore vancomycin resistance and cell wall integrity but can also impact routine drug susceptibility assay by broth microdilution.ImportanceVancomycin susceptibility testing can identify Mycobacterium tuberculosis subcultures with compromised cell wall integrity due to phthiocerol dimycocerosates loss. A single pre-culture on potato-Sauton medium or on 7H11 supplemented with oleic acid-albumin-dextrose-catalase can restore cell wall integrity. This study underscores the importance of standardized culture protocols for reliable M. tuberculosis drug susceptibility testing.",
+      "journal": "Microbiology Spectrum",
+      "doi": "10.1128/spectrum.00680-26",
+      "date": "2026-11-02",
+      "authors": "Rens C, Constant P, Dewaele K, Balde R, Soetaert K, Daffé M, Frita R, Lefevre P, Mathys V, Rigouts L, Baulard A, Fontaine V.",
+      "tags": [
+        "微生物学"
+      ],
+      "source_url": "https://europepmc.org/article/MED/42969498",
+      "preprint": false,
+      "review": false,
+      "pmcid": "",
+      "pmid": "42969498",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "bacteria"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [],
+          "evolution": []
+        },
+        "tags": [
+          "微生物学"
+        ]
+      },
+      "collection_order": 5222,
+      "collected_at": "2026-11-20T11:50:28.841726+00:00",
+      "collected_date": "2026-11-20",
+      "sources": [
+        "Europe PMC journals 3"
+      ],
+      "first_seen": "2026-11-20",
+      "related_dois": [
+        "10.1128/spectrum.00680-26"
+      ],
+      "translation": {
+        "title": {
+          "hash": "b2bfb9641e3884550fcbf002b701ddb3df9b53c4265a352f75fb75cfced7f8b1",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-20T12:41:57.996096+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "4c9623ac5219f9c2c32eb8c39934bec3b40401b0be550b2dd6bb611f6003c723",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-20T12:41:57.996096+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "増殖培地がバンコマイシン感受性およびマイコバクテリア細胞壁の完全性に及ぼす影響",
+      "abstract_ja": "結核は、依然として世界における単一の感染因子である結核菌（Mycobacterium tuberculosis）による死因の第1位である。この疾患に対処するため、診断カバー率や治療へのアクセスの改善、改良ワクチンの開発、および新規抗結核薬や薬剤レジメンの探索などの取り組みが行われている。in vitroにおいて、細菌は通常、適応度を高めるために病原性因子を喪失する傾向があり、これは主に増殖能の亢進として観察される。これは、マイコメムブレンの上葉においてフチオセロール二ミコセロスエートを喪失しやすいM. tuberculosis株および臨床分離株においても同様である。この喪失は細胞壁の完全性に影響を及ぼし、それはバンコマイシンの抗マイコバクテリア活性の亢進によって観察され、薬剤感受性試験に潜在的なバイアスをもたらす可能性がある。本研究では、オレイン酸・アルブミン・デクスロース・カタラーゼを添加した7H11上での単一継代培養などのM. tuberculosis培養条件が、バンコマイシン耐性と細胞壁の完全性を回復させ得る一方で、ブロスマイクロダイリューションによるルーチンの薬剤感受性試験に影響を及ぼす可能性があることを示した。重要性 バンコマイシン感受性試験により、フチオセロール二ミコセロスエートの喪失により細胞壁の完全性が損なわれた結核菌継代培養を同定することができる。ジャガイモ-Sauton培地、またはオレイン酸・アルブミン・デクスロース・カタラーゼを添加した7H11上での単一前培養により、細胞壁の完全性を回復させることができる。本研究は、信頼性の高いM. tuberculosis薬剤感受性試験のための標準化された培養プロトコルの重要性を強調するものである。",
+      "answer_journal": "Microbiology Spectrum",
+      "question_type": "published",
+      "options": [
+        "Microbiology Spectrum",
+        "Expert opinion on therapeutic patents",
+        "Yeast (Chichester, England)",
+        "Journal of nephrology"
+      ]
+    },
+    {
+      "id": "10.3389/fmicb.2026.1992959",
+      "title": "Comparative genomics of Mycobacterium wolinskyi: phylogenomic relationships, pan-genome structure, and clinically relevant genomic features",
+      "abstract": "IntroductionRapidly growing nontuberculous mycobacteria can cause post-procedural skin and soft-tissue infections, yet rare species such as Mycobacterium wolinskyi remain challenging in culture-based identification and poorly characterized at the genomic level.MethodsIn this study, we reported a clinical M. wolinskyi isolate (SYF4192) recovered from a post-liposuction infection using culture, probe-capture metagenomic next-generation sequencing, and antimicrobial susceptibility testing (AST). We further performed comparative genomic analyses, including genome-based species delineation, phylogenomics, pan-genome analysis, mobile genetic element characterization, virulence-associated gene profiling, and resistome analysis.ResultsBased on the AST results, the patient was treated with susceptible antimicrobial agents and obtained a favorable outcome. The 7,257,454 bp genome assembly of SYF4192 comprised a 7,102,780 bp circular chromosome and a putative 154,674 bp circular extrachromosomal replicon. Comparative genomic analyses revealed close genetic relatedness between SYF4192 and publicly available M. wolinskyi genomes, although ANI and dDDH estimates showed discrepancies in species delineation. The seven-genome dataset contained 9,881 gene clusters, including 5,654 core and 4,227 accessory clusters, and was consistent with an open pan-genome in this limited dataset. SYF4192 harbored 608 gene clusters not detected in the other six genome assemblies, representing the largest isolate-specific gene repertoire in the dataset. Additionally, a predicted 51.9 kb prophage-like region and putative homologs of mce2A–E, mce8-associated genes, and ESX-5 components were identified. Resistome analysis revealed multiple putative resistance-associated determinants, while phenotypic susceptibility testing demonstrated clarithromycin resistance and an elevated tobramycin MIC, highlighting the importance of integrating genomic predictions with phenotypic susceptibility data.DiscussionThis study expands the limited genomic resources available for M. wolinskyi and provides preliminary insights into its genomic diversity, mobile genetic elements, and resistance-associated features. Further investigations involving larger, geographically and clinically diverse isolate collections, together with functional validation, are warranted.",
+      "journal": "Frontiers in Microbiology",
+      "doi": "10.3389/fmicb.2026.1992959",
+      "date": "2026-11-20",
+      "authors": "Daoyang Zhou",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1992959",
+      "abstract_source": "rss",
+      "preprint": false,
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "assemblies",
+            "assembly",
+            "genom",
+            "genome",
+            "genomic",
+            "metagenom",
+            "metagenomic",
+            "phylogen",
+            "phylogenomic"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "discovery": [
+        {
+          "source": "https://www.frontiersin.org/journals/microbiology/rss",
+          "query": "RSS feed",
+          "scope": "journal"
+        }
+      ],
+      "collection_order": 5360,
+      "collected_at": "2026-11-20T12:01:03.805438+00:00",
+      "collected_date": "2026-11-20",
+      "sources": [
+        "https://www.frontiersin.org/journals/microbiology/rss"
+      ],
+      "first_seen": "2026-11-20",
+      "related_dois": [
+        "10.3389/fmicb.2026.1992959"
+      ],
+      "translation": {
+        "title": {
+          "hash": "bc4f87573044246a3784c35b4b1a403eb5bd1bafcf613f200035f73bf0a1b5fb",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-20T12:32:43.025554+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "cbded7c057a1e4c169b706c751f75995bf9c44b7060e6309e4c8efda7b376c60",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-20T12:32:43.025554+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "Mycobacterium wolinskyiの比較ゲノミクス：系統ゲノム学的関係、汎ゲノム構造、および臨床的に意義のあるゲノム特徴",
+      "abstract_ja": "はじめに急速に増殖する非結核性抗酸菌は、処置後の皮膚および軟部組織感染症を引き起こす可能性があるが、Mycobacterium wolinskyiのような希少種は、培養に基づく同定が困難であり、ゲノムレベルでの特性解析も不十分である。方法本研究では、脂肪吸引後の感染症から回収された臨床分離株M. wolinskyi（SYF4192）について、培養、プローブキャプチャ型メタゲノム次世代シーケンシング、および薬剤感受性試験（AST）を用いて報告した。さらに、ゲノムに基づく種の画定、系統ゲノミクス、パンゲノム解析、可動性遺伝因子の特性解析、病原性関連遺伝子プロファイリング、およびレジストーム解析を含む比較ゲノム解析を実施した。結果ASTの結果に基づき、患者には感受性のある抗菌薬が投与され、良好な転帰が得られた。SYF4192の7,257,454 bpのゲノムアセンブリは、7,102,780 bpの環状染色体と、推定154,674 bpの環状染色体外レプリコンから構成されていた。比較ゲノム解析により、SYF4192と公開されているM. wolinskyiゲノムとの間に密接な遺伝的関連性が認められたが、ANIおよびdDDHの推定値では種の画定に不一致が見られた。7つのゲノムからなるデータセットには、5,654個のコアクラスターと4,227個の補助クラスターを含む9,881個の遺伝子クラスターが含まれており、この限定的なデータセットにおけるオープンなパンゲノムと一致していた。SYF4192は、他の6つのゲノムアセンブリでは検出されなかった608個の遺伝子クラスターを保持しており、これは本データセットにおける分離株固有の遺伝子レパートリーとして最大規模であった。さらに、予測された51.9 kbのプロファージ様領域、およびmce2A–E、mce8関連遺伝子、ESX-5構成因子の推定ホモログが同定された。レジストーム解析により複数の推定耐性関連決定因子が明らかになり、表現型感受性試験ではクラリスロマイシン耐性とトブラマイシンMICの上昇が認められ、ゲノム予測と表現型感受性データの統合の重要性が浮き彫りとなった。考察本研究は、M. wolinskyiに関して利用可能な限られたゲノムリソースを拡充し、そのゲノム多様性、可動性遺伝因子、および耐性関連特徴に関する予備的な知見を提供するものである。地理的・臨床的に多様な、より大規模な分離株コレクションを用いたさらなる調査と、機能的検証が必要である。",
+      "answer_journal": "Frontiers in Microbiology",
+      "question_type": "published",
+      "options": [
+        "Plant biotechnology journal",
+        "Fish & shellfish immunology",
+        "Journal of neuroscience methods",
+        "Frontiers in Microbiology"
+      ]
+    },
+    {
+      "id": "10.1093/nar/gkag1129",
+      "title": "LACA: a cross-species single-cell resource for exploring longevity and aging-associated cellular and molecular programs",
+      "abstract": "AbstractDifferent species can have various maximum lifespans, some with exceptional longevity, yet the underlying cellular and molecular mechanisms remain poorly understood. Despite rapid advances in single-cell transcriptomics, resources that systematically connect single-cell gene expression profiles to species lifespan are limited. We hereby present the Longevity & Aging Cell Atlas (LACA), a database that integrates single-cell transcriptomic datasets across 134 species with their maximum lifespans. LACA includes over 148 million cells with 190 annotated cell types from single-cell datasets. LACA also has a cross-species analytical toolbox of longevity gene comparison, gene–lifespan correlation, and cell–lifespan correlation. These tools allow researchers to better interpret both evolutionarily conserved longevity mechanisms and the evolution of species-specific adaptations in longevity mechanisms without extensive computational expertise. LACA also provides a centenarian single-cell atlas and a human immune aging multi-omics atlas, demonstrating the analytical capability of the resource, as well as 11 different modules for longevity-related analysis, an integrated knowledge graph including curated longevity knowledge bases, and a retrieval-augmented research agent to further facilitate functional interpretation. The database is freely available at https://www.longevityaging.net/ or http://8.142.154.29/LACA/.",
+      "journal": "Nucleic Acids Research",
+      "doi": "10.1093/nar/gkag1129",
+      "date": "2026-11-20",
+      "authors": "",
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ],
+      "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1129/9103987?rss=1",
+      "abstract_source": "rss",
+      "preprint": false,
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "evolution",
+            "transcript"
+          ],
+          "evolution": [
+            "evolution"
+          ]
+        },
+        "tags": [
+          "微生物ゲノミクス",
+          "微生物進化"
+        ]
+      },
+      "discovery": [
+        {
+          "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+          "query": "RSS feed",
+          "scope": "journal"
+        }
+      ],
+      "collection_order": 5350,
+      "collected_at": "2026-11-20T12:01:03.805438+00:00",
+      "collected_date": "2026-11-20",
+      "sources": [
+        "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+      ],
+      "first_seen": "2026-11-20",
+      "related_dois": [
+        "10.1093/nar/gkag1129"
+      ],
+      "translation": {
+        "title": {
+          "hash": "622cb8aec4661ca3aecdf2f7ba9574e978165f9ee7d3cc6775aa75d60fb1dba1",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-20T12:38:58.952423+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "d7206c4508bd633756ef10c78650785489eceab2db094107157ce044b14e29ee",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-20T12:38:58.952423+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "LACA：長寿および老化関連の細胞・分子プログラムを探索するための種横断的な単一細胞リソース",
+      "abstract_ja": "要旨 種によって最大寿命は異なり、中には極めて長寿な種も存在するが、その根底にある細胞・分子メカニズムは依然として十分に解明されていない。シングルセルトランスクリプトミクスの急速な進展にもかかわらず、シングルセル遺伝子発現プロファイルを種の寿命に系統的に結びつけるリソースは限られている。本稿では、134種にわたるシングルセルトランスクリプトームデータセットとその最大寿命を統合したデータベース「Longevity & Aging Cell Atlas (LACA)」を提案する。LACAには、シングルセルデータセットから得られた190種類のアノテーション付き細胞タイプを含む、1億4,800万個以上の細胞が収録されている。また、LACAは、長寿遺伝子の比較、遺伝子と寿命の相関、および細胞と寿命の相関を行う種横断的な解析ツールボックスを備えている。これらのツールにより、研究者は高度な計算専門知識を必要とせずに、進化的に保存された長寿メカニズムと、長寿メカニズムにおける種特異的な適応の進化の両方をより適切に解釈することが可能となる。さらに、LACAは百寿者のシングルセルアトラスおよびヒト免疫老化マルチオミクスアトラスを提供しており、本リソースの解析能力を実証するとともに、長寿関連解析のための11種類のモジュール、キュレートされた長寿ナレッジベースを含む統合ナレッジグラフ、および機能的な解釈をさらに促進する検索拡張型リサーチエージェントを備えている。本データベースは、https://www.longevityaging.net/ または http://8.142.154.29/LACA/ にて無料で利用可能である。",
+      "answer_journal": "Nucleic Acids Research",
+      "question_type": "published",
+      "options": [
+        "Food research international (Ottawa, Ont.)",
+        "Nucleic Acids Research",
+        "The Journal of physiology",
+        "ACS chemical biology"
       ]
     }
   ],
