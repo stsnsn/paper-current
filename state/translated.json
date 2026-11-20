@@ -312050,5 +312050,299 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "原子力発電所および石炭火力発電所からの熱放出に対する海洋生態系の応答：海水質、プランクトン、および微生物に着目した総説",
     "abstract_ja": "沿岸部の原子力発電所および石炭火力発電所の急速な増設に伴い、熱排出が隣接する海洋生態系に及ぼす環境影響が環境科学における主要な懸念事項となっている。単一の生物群や孤立した水質パラメータに焦点を当てた従来のレビューとは異なり、本レビューでは、物理化学的・生物学的応答、微生物機能生態学および微生物ループを統合し、指標候補分類群と機能的形質を特定し、原子力および石炭火力発電所の排水を比較するとともに、海水の物理化学的特性、プランクトン群集構造、ならびに微生物の多様性と機能に及ぼす影響を総括する。我々は、ワンススルー冷却システム内での直接的な巻き込み・衝突と、排出プルーム中の生物が受けるその場（in situ）での温暖化という、2つの影響経路を区別する。塩素化副産物、栄養塩の濃縮、および排水によって改変された流体力学は、野外由来のシグナルを混濁させるため検討対象としており、したがって多くの野外パターンは混合ストレス応答であり、温暖化のみに起因するものではない。原子力発電所と石炭火力発電所では排水組成が異なり、原子力発電所の通常運転時のワンススルー排水は、加熱された海水と殺生物剤残留物が主体となっている。野外で観察された多くのパターンは混合ストレス応答であり、温暖化のみに起因するものではない。熱排出は溶存酸素とpHを低下させ、栄養塩循環を加速させ、汚染物質の生体利用能を高め、植物プランクトン、動物プランクトン、および微生物群集を変化させることで、食物網の安定性と生物地球化学的プロセスに影響を及ぼす。また、本レビューでは現在の論争点や知見の空白についても論じる。本レビューの主な貢献は、海水化学、プランクトン動態、および微生物機能生態学を単一の帰属枠組みに統合し、指標候補分類群と機能的形質を特定したことにある。この総括は、沿岸海洋生態系における熱排出の環境モニタリング、生態学的リスク評価、および適応的管理のための科学的根拠を提供するものである。"
+  },
+  {
+    "id": "10.1093/bioinformatics/btag841",
+    "title": "RNAcomp2D: a web tool to execute multiple methods and visually compare predictions of RNA secondary structure",
+    "abstract": "AbstractMotivationRibonucleic acids (RNAs) are involved in many important biological processes. In particular, non-coding RNAs are crucial regulators of cellular processes, playing a significant role in gene expression. RNA secondary structure is key to infer their specific function and for understanding how they interact with other molecules. Many computational models have been developed in the last decade to predict the secondary structure, achieving increasingly higher success rates. However, each new method has its own input-output interface, programming language, computational requirements and, sometimes, a dedicated server to run the model or just a source code in a repository. Thus, nowadays it is very hard to obtain predictions from multiple methods and compare them at once. A unified interface is urgently needed, which allows accessing several methods at the same time, visualizing and comparing predictions among them, and also with a reference structure when available.ResultsWe introduce here RNAcomp2D, a web-based tool that allows users to enter an RNA sequence, or select one from RNAcentral, and obtain predictions of RNA secondary structures using several state-of-the-art methods. Both classical thermodynamic methods and the latest deep learning models are packaged in containers and accessible in an unified website. All the predictions, and the reference structure if available, are shown at the same time in a single graphical interface. Moreover, as new models continue to be developed, this tool is designed to be scalable, allowing the addition of more prediction methods in the future.AvailabilityWeb server is available at https://sinc.unl.edu.ar/web-demo/rnacomp2d/. Data and source code are available at https://github.com/sinc-lab/RNAcomp2DSupplementary informationSupplementary data are available at Bioinformatics online.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag841",
+    "date": "2026-11-20",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag841/9104163?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "method",
+        "prediction",
+        "tool"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "RNA",
+          "method",
+          "prediction",
+          "tool"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5379,
+    "collected_at": "2026-11-20T20:25:40.156289+00:00",
+    "collected_date": "2026-11-21",
+    "sources": [
+      "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1093/bioinformatics/btag841"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6e305f7aea81c71d3dc9cae7829f53c33f511220dfe0981751e4fda0c0b52c34",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T20:50:11.776799+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2d5ea138175c42c44a3f455ca6c2c83e41369c7be43db9b2108f0d1ab13c2694",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T20:50:11.776799+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "RNAcomp2D: 複数の手法を実行し、RNA二次構造の予測結果を視覚的に比較するウェブツール",
+    "abstract_ja": "要旨動機リボ核酸（RNA）は、多くの重要な生物学的プロセスに関与している。特に、非コードRNAは細胞プロセスの極めて重要な調節因子であり、遺伝子発現において重要な役割を担っている。RNAの二次構造は、その特異的な機能を推定し、他の分子とどのように相互作用するかを理解するための鍵となる。過去10年間にわたり、二次構造を予測するための多くの計算モデルが開発され、予測精度は向上し続けている。しかし、新たな手法ごとに独自の入出力インターフェース、プログラミング言語、計算要件が存在し、場合によってはモデルを実行するための専用サーバーや、リポジトリ内のソースコードが必要となる。そのため、現在では複数の手法から予測結果を得て、それらを一度に比較することは非常に困難である。複数の手法に同時にアクセスし、予測結果を可視化・比較し、さらに参照構造が利用可能な場合にはそれも併せて確認できる統一的なインターフェースが急務となっている。結果本稿では、ユーザーがRNA配列を入力するか、あるいはRNAcentralから配列を選択することで、複数の最先端手法を用いてRNA二次構造の予測結果を得ることができるウェブベースのツール「RNAcomp2D」を提案する。従来の熱力学的手法と最新の深層学習モデルの双方がコンテナ化され、統一されたウェブサイト上で利用可能となっている。すべての予測結果と、利用可能な場合は参照構造が、単一のグラフィカルインターフェース上に同時に表示される。さらに、新たなモデルの開発が進むにつれ、本ツールはスケーラブルに設計されており、将来的により多くの予測手法を追加することが可能である。利用可能性ウェブサーバーは https://sinc.unl.edu.ar/web-demo/rnacomp2d/ で利用可能である。データおよびソースコードは https://github.com/sinc-lab/RNAcomp2D で公開されている。補足情報補足データは Bioinformatics online で公開されている。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1949464",
+    "title": "Mapping the knowledge landscape of dietary fiber and gut microbiota in children and adolescents: a bibliometric analysis with cross-database concordance assessment",
+    "abstract": "ObjectiveThis study aimed to map the research landscape and thematic evolution of dietary fiber and gut microbiota in children and adolescents and to assess cross-database concordance of selected temporal and leading author-keyword indicators.MethodsEnglish Articles and Reviews published from 1995 to 2026 were retrieved from the Web of Science Core Collection (WoSCC), and 701 publications were included in the primary science-mapping dataset. The 2026 output was treated as an incomplete publication year. PubMed and Scopus were analyzed independently as comparison datasets. Temporal concordance over the complete years 1995–2025 was assessed using Pearson correlations of raw annual counts, first differences, and linearly detrended residuals. Thematic concordance was evaluated across Top 10, Top 20, and Top 50 author-keyword lists using overlap rates, Jaccard indices, and conditional Spearman rank correlations, with sensitivity analyses excluding predefined search-defining terms and using union lists.ResultsPublication output increased markedly after 2020. Co-citation analysis identified major knowledge-base themes including prebiotics, in vitro gut fermentation, short-chain fatty acids (SCFAs), human milk, immunity, and metabolic-health contexts, while keyword, burst, and Trend Topics analyses indicated a broadening from fermentable substrates, prebiotic-related themes, and microbiota characterization toward fermentation, microbial metabolites, and increasingly diverse health-related contexts. Raw annual publication counts were strongly correlated across databases (r = 0.952–0.986), with positive correlations remaining after first differencing (r = 0.539–0.855) and linear detrending (r = 0.831–0.952). Across Top 10, Top 20, and Top 50 author-keyword comparisons, overlap ranged from 78.0% to 95.0%, Jaccard indices from 0.639 to 0.905, and conditional Spearman coefficients from 0.743 to 0.950. Concordance remained positive in sensitivity analyses excluding search-defining terms and using union lists, although some estimates were attenuated.ConclusionThis study maps the evolving pediatric knowledge landscape of dietary fiber and gut microbiota and shows cross-database concordance for selected temporal and leading author-keyword indicators. The field increasingly emphasizes microbial function and metabolites within broader health-related contexts, supporting future research that integrates developmental stage, fiber type, food matrix, gut microbiota profiling, and microbial metabolite measurement.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1949464",
+    "date": "2026-11-20",
+    "authors": "Yaoran Tu",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1949464",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5381,
+    "collected_at": "2026-11-20T20:25:40.156289+00:00",
+    "collected_date": "2026-11-21",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.3389/fmicb.2026.1949464"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f7f261e6457ef201e70b9cb863def6dcf191153c11af37f7146f6921e5b97596",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T20:50:11.776799+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8002fbf66961550c7d79818e95ceafabaeff72cba5fc16da1b06e106d5dffc2a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T20:50:11.776799+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "小児・青少年における食物繊維と腸内細菌叢の知識ランドスケープのマッピング：データベース間コンコーダンス評価を伴うビブリオメトリック解析",
+    "abstract_ja": "目的本研究は、小児および青少年における食物繊維と腸内細菌叢の研究動向およびテーマの変遷をマッピングし、選定した時間的指標および筆頭著者キーワード指標のデータベース間の一致度を評価することを目的とした。方法1995年から2026年までに発表された英語の論文および総説をWeb of Science Core Collection (WoSCC) から検索し、701報を一次科学マッピングデータセットに組み入れた。2026年の出力結果は、不完全な出版年として扱った。比較データセットとして、PubMedおよびScopusを個別に分析した。1995年から2025年までの全期間における時間的一致度は、生の年間カウント数、一次差分、および線形トレンド除去後の残差のピアソン相関係数を用いて評価した。テーマの一致度は、Top 10、Top 20、およびTop 50の著者キーワードリストを対象に、重複率、ジャカード指数、および条件付きスピアマン順位相関係数を用いて評価した。感度分析では、あらかじめ定義された検索定義語を除外し、ユニオンリストを用いた。結果2020年以降、出版数は著しく増加した。共引用分析により、プレバイオティクス、in vitro腸発酵、短鎖脂肪酸（SCFAs）、ヒト乳汁、免疫、および代謝・健康関連のコンテキストといった主要な知識ベースのテーマが特定された。一方、キーワード、バースト、およびトレンドトピックの分析では、発酵性基質、プレバイオティクス関連テーマ、および微生物叢の特性解析から、発酵、微生物代謝物、およびますます多様化する健康関連コンテキストへと範囲が広がっていることが示された。生の年間出版数カウントはデータベース間で強い相関を示し（r = 0.952–0.986）、一次差分処理（r = 0.539–0.855）および線形トレンド除去（r = 0.831–0.952）後も正の相関が維持された。Top 10、Top 20、およびTop 50の著者キーワード比較において、重複率は78.0%から95.0%、ジャカード指数は0.639から0.905、条件付きスピアマン係数は0.743から0.950の範囲であった。検索定義語を除外しユニオンリストを用いた感度分析においても一致度は正のままであったが、一部の推定値は減衰した。結論本研究は、小児における食物繊維と腸内細菌叢の進化する知識動向をマッピングし、選定した時間的指標および筆頭著者キーワード指標のデータベース間の一致度を示した。本分野では、より広範な健康関連コンテキストにおける微生物の機能および代謝物がますます重視されており、発達段階、食物繊維の種類、食品マトリックス、腸内細菌叢プロファイリング、および微生物代謝物測定を統合した今後の研究を後押しするものである。"
+  },
+  {
+    "id": "10.1093/ismeco/ycag339",
+    "title": "Target-enriched sequencing enables genomic characterization within diverse microbial populations",
+    "abstract": "AbstractUnderstanding the ecological and epidemiological dynamics of microbial populations requires resolution of genetic diversity beyond the species level, yet conventional culture-based surveys and standard sequencing of metagenomic samples rarely provide sufficient on-target depth for variant-level analysis. Here, we present a generalizable molecular and computational framework for variant-resolved analysis of specific microbial taxa within complex microbial communities. The workflow integrates a customized capture-probe design, an optimized target-enriched (TE) shotgun sequencing strategy, and a dedicated computational approach for variant-level inference from metagenomic data. The computational approach constructs a genomic sequence variant (GSV) database for the targeted taxa using reference genomes clustered by average nucleotide identity, which is used in the bioinformatic pipeline (VARIANT++) for pseudoalignment and probabilistic variant inference. We demonstrate the performance of this framework using Mannheimia haemolytica (Mh) as a model pathogen target. Targeted sequencing using a custom probe set designed from 70 reference genomes, which recovers >97% of Mh genomes not used in its design, achieved >380-fold enrichment of Mh reads relative to shotgun sequencing of the same samples, enabling variant-level resolution even when the target comprised a small fraction of total community DNA. Application of the workflow to bovine respiratory samples revealed extensive within-animal genomic diversity of the target pathogen, with most samples containing multiple co-occurring GSVs, indicating that mixed-variant populations are a common feature of Mh ecology that cannot be resolved using conventional sequencing approaches. Collectively, these results demonstrate that TE metagenomic sequencing coupled with variant-aware bioinformatics provide a scalable and adaptable approach for resolving fine-scale population structures and transmission dynamics of specific microbial taxa within complex microbial communities.",
+    "journal": "ISME Communications",
+    "doi": "10.1093/ismeco/ycag339",
+    "date": "2026-11-20",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/ismecommun/advance-article/doi/10.1093/ismeco/ycag339/9104155?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "average nucleotide identity",
+        "framework",
+        "gene",
+        "metagenom",
+        "metagenomic",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "genomic",
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6596/advanceAccess_4180.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5375,
+    "collected_at": "2026-11-20T20:25:40.156289+00:00",
+    "collected_date": "2026-11-21",
+    "sources": [
+      "https://academic.oup.com/rss/site_6596/advanceAccess_4180.xml"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1093/ismeco/ycag339"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d651fe34960ac462c1895283712b327e41231d21c1a9bf59c366acd304634392",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T20:50:11.776799+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2fe847379b1402912dc89753dcaa09770e300a23e7500242d766b2a2d4f3fda2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T20:50:11.776799+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "標的濃縮シーケンシングにより、多様な微生物集団におけるゲノム特性解析が可能となる。",
+    "abstract_ja": "要旨微生物集団の生態学的および疫学的動態を理解するには、種レベルを超えた遺伝的多様性の解明が必要であるが、従来の培養ベースの調査やメタゲノムサンプルの標準的なシーケンシングでは、変異レベルの解析に十分な深度が得られることは稀である。本研究では、複雑な微生物群集内における特定の微生物分類群の変異解析のための、汎用的な分子・計算フレームワークを提案する。このワークフローは、カスタマイズされたキャプチャプローブ設計、最適化されたターゲット濃縮（TE）ショットガンシーケンシング戦略、およびメタゲノムデータからの変異レベルの推論のための専用の計算手法を統合したものである。この計算手法では、平均ヌクレオチド同一性によってクラスター化されたリファレンスゲノムを用いて、対象分類群のゲノム配列変異（GSV）データベースを構築し、これをバイオインフォマティクスパイプライン（VARIANT++）における擬似アライメントおよび確率的変異推論に利用する。モデル病原体としてMannheimia haemolytica（Mh）を用い、本フレームワークの性能を実証した。70個のリファレンスゲノムから設計したカスタムプローブセットを用いたターゲットシーケンシングでは、設計に使用されていないMhゲノムの97%以上を回収し、同一サンプルのショットガンシーケンシングと比較してMhリードの380倍以上の濃縮を実現した。これにより、ターゲットが群集全体のDNAのごく一部しか占めていない場合でも、変異レベルの解析が可能となった。このワークフローをウシ呼吸器サンプルに適用したところ、対象病原体の動物個体内における広範なゲノム多様性が明らかになり、ほとんどのサンプルに複数のGSVが共存していた。これは、混合変異集団がMhの生態学的な共通の特徴であり、従来のシーケンシング手法では解析できないことを示している。総じて、これらの結果は、TEメタゲノムシーケンシングと変異認識型バイオインフォマティクスを組み合わせることで、複雑な微生物群集内における特定の微生物分類群の微細な集団構造および伝播動態を解明するための、スケーラブルで適応性の高いアプローチが提供されることを示している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 2",
+        "query": "(JOURNAL:\"microLife\" OR JOURNAL:\"Nucleic Acids Research\" OR JOURNAL:\"NAR Genomics and Bioinformatics\" OR JOURNAL:\"Bioinformatics\" OR JOURNAL:\"Microbes and Environments\" OR JOURNAL:\"Frontiers in Microbiology\" OR JOURNAL:\"Frontiers in Marine Science\" OR JOURNAL:\"mBio\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/mbio.02574-26",
+    "title": "A convergent proline biosynthetic step couples cell wall integrity to virulence in <i>Cryptococcus neoformans</i>.",
+    "abstract": "Metabolic adaptation is essential for the pathogenicity of the opportunistic fungus Cryptococcus neoformans. Although amino acid biosynthesis pathways are critical fitness determinants in fungal pathogens, the physiological contributions of proline biosynthesis remain incompletely understood, with most studies focusing on proline catabolism. Here, we characterized the proline biosynthetic enzymes Pro1, Pro2, and Pro3 in C. neoformans. Proline is produced by two routes that converge on Δ1-pyrroline-5-carboxylate (P5C): a de novo pathway from glutamate via Pro1 and Pro2, and an arginine-derived bypass via Car1 and Car2-both requiring Pro3 for the final reduction of P5C to proline. Although all biosynthetic mutants were strictly auxotrophic for proline, their requirements for virulence differed markedly: in a murine infection model, pro1Δ and pro2Δ mutants retained full virulence, whereas pro3Δ exhibited significantly attenuated virulence accompanied by growth defects and impaired cell wall integrity. Genetic disruption of P5C-generating routes partially restored distinct pro3Δ phenotypes, with PRO2 deletion alleviating delayed growth, and combined PRO2 and CAR2 deletion partially restoring cell size, while cell wall defects remained unresolved. This dissociation indicates that growth requires proper balance of P5C-generating metabolic flux, whereas cell wall integrity depends on a distinct mechanism that is not resolved by blocking P5C production. Together, these findings identify Pro3 as a metabolic gatekeeper coupling proline biosynthesis to cell wall homeostasis, establishing the biosynthetic branch of proline metabolism as a previously unappreciated determinant of fungal pathobiology.ImportanceCryptococcus neoformans is a leading cause of fungal meningitis worldwide, causing life-threatening infections primarily in immunocompromised individuals. To survive within the human host, this pathogen must synthesize essential nutrients through de novo biosynthesis when host-derived supplies are limited. Although proline catabolism has been studied extensively in fungal pathogens, the physiological roles of individual proline biosynthetic enzymes in human fungal pathogens remain incompletely understood. Here, we show that the terminal enzyme Pro3, but not the upstream enzymes Pro1 and Pro2, is selectively required for full virulence in a murine model. Pro3 supports pathobiological fitness by promoting growth under host-relevant conditions and maintaining cell wall integrity. These findings highlight the importance of proline biosynthesis beyond nutrient production and link this pathway to growth, cell wall integrity, and virulence in C. neoformans.",
+    "journal": "mBio",
+    "doi": "10.1128/mbio.02574-26",
+    "date": "2026-11-10",
+    "authors": "Lee Y, Lee M, Kang S, Cha H, Won D, Lee K-A, Lee W-J, Lee K-T, Bahn Y-S.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43006884",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43006884",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungal"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5232,
+    "collected_at": "2026-11-20T20:15:04.307525+00:00",
+    "collected_date": "2026-11-21",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1128/mbio.02574-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9ce527f9545cb34d2137008fae32f4ea693e1a5f39eaa110b6985ebdf6764b9d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T20:50:11.776799+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b1f08dd4f732c32ae0edb42188a71868cbbdc201acd16d2fd21fc285af48379b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T20:50:11.776799+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "<i>Cryptococcus neoformans</i>において、収束型プロリン生合成段階が細胞壁の完全性と病原性を連関させている。",
+    "abstract_ja": "日和見真菌Cryptococcus neoformansの病原性には、代謝適応が不可欠である。アミノ酸生合成経路は真菌病原体における重要な適応度決定因子であるが、プロリン生合成の生理学的寄与については十分に解明されておらず、ほとんどの研究はプロリン異化作用に焦点を当ててきた。本研究では、C. neoformansにおけるプロリン生合成酵素Pro1、Pro2、およびPro3の特性を明らかにした。プロリンは、Δ1-ピロリン-5-カルボキシレート（P5C）に収束する2つの経路、すなわちグルタミン酸からPro1およびPro2を介するde novo経路と、Car1およびCar2を介するアルギニン由来のバイパス経路によって産生され、いずれの経路においてもP5Cからプロリンへの最終還元にはPro3が必要である。すべての生合成変異体はプロリンに対して厳格な要求性を示したが、病原性に関する要求性は著しく異なっていた。マウス感染モデルにおいて、pro1Δおよびpro2Δ変異体は完全な病原性を保持したのに対し、pro3Δは増殖障害と細胞壁完全性の低下を伴い、病原性が著しく減弱していた。P5C産生経路の遺伝的破壊により、異なるpro3Δ表現型が部分的に回復し、PRO2欠失は増殖遅延を軽減し、PRO2とCAR2の複合欠失は細胞サイズを部分的に回復させたが、細胞壁の欠陥は解消されなかった。この解離は、増殖にはP5C産生代謝フラックスの適切なバランスが必要である一方、細胞壁の完全性はP5C産生の遮断では解消されない別個のメカニズムに依存していることを示している。以上の知見を総合すると、Pro3はプロリン生合成と細胞壁恒常性を結びつける代謝ゲートキーパーとして同定され、プロリン代謝の生合成枝が、これまで認識されていなかった真菌病原生物学の決定因子であることが明らかになった。重要性Cryptococcus neoformansは世界的に真菌性髄膜炎の主要な原因であり、主に免疫不全者において生命を脅かす感染症を引き起こす。ヒト宿主内で生存するためには、宿主由来の供給が限られている場合に、de novo生合成によって必須栄養素を合成しなければならない。真菌病原体においてプロリン異化作用は広範に研究されてきたが、ヒト真菌病原体における個々のプロリン生合成酵素の生理学的役割は依然として十分に解明されていない。本研究では、マウスモデルにおいて、上流酵素であるPro1およびPro2ではなく、末端酵素であるPro3が完全な病原性に選択的に必要であることを示した。Pro3は、宿主関連条件下での増殖を促進し、細胞壁の完全性を維持することで、病原生物学的適応度を支えている。これらの知見は、栄養素産生を超えたプロリン生合成の重要性を浮き彫りにし、この経路をC. neoformansにおける増殖、細胞壁の完全性、および病原性と結びつけるものである。"
   }
 ]
