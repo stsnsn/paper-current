@@ -311251,5 +311251,273 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "CovPDB 2.0：拡張された共有結合性タンパク質－リガンド相互作用マップ",
     "abstract_ja": "要旨 特定の標的タンパク質を特異的に阻害するための共有結合性阻害剤の合理的設計は、創薬における一般的な戦略となっている。このような設計は、求電子性リガンドが求核性残基にどのように結合するかという構造的な知見に基づいている。CovPDB v1.0では、Protein Data Bankからキュレートされた生物学的に意義のある共有結合性タンパク質－リガンド複合体の高分解能共結晶構造が提供されていた。本稿では、元のリソースにおける3つの主要な制限事項に対処し、大幅に拡張したリリースであるCovPDB v2.0について述べる。第一に、過去4年間に開発・構造解明された数多くの新規共有結合性リガンドを反映させるため、これらのエントリを分類・アノテーションし、データベースに統合した。これにより、コレクションは約2,300から約6,200のタンパク質－リガンド複合体へと拡大し、約3,600の事前反応性リガンド、約1,300の標的タンパク質、119のウォーヘッド、および27種類の反応タイプを網羅している。第二に、共有結合性リガンドの結合に関する実験的根拠が得られたさらに約6,800の共有結合性複合体についてAlphaFold3によるコフォールディングモデルを生成し、構造的範囲を実験的共結晶を超えて拡張した。第三に、結合部位のシステインに予測反応性とリガンド親和性スコアがアノテーションされた約7,100の非共有結合性複合体を追加した。再設計されたウェブインターフェースにより、ユーザーは実験的、モデル化された、およびリガンド親和性を有するシステインのエントリを閲覧、フィルタリング、および相互検索することが可能となった。CovPDB 2.0は、https://www.pharmbioinf.uni-freiburg.de/covpdb で無料で利用可能である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.02996-26",
+    "title": "Development and optimization of self-collected, field-stable, saliva-based immunoassays for scalable epidemiological surveillance of pathogen-specific immunity.",
+    "abstract": "Serological surveillance is fundamental to infectious disease research and informed public-health decision-making. Immunoassays used in the study of pathogen-specific immunity have historically relied on the collection of venous blood. While critical for many public-health applications, this sample collection method is invasive and resource-intensive. The costs and logistical barriers associated with venous blood collection are exacerbated in resource-limited regions, and the shift to less invasive sampling methods would increase sample availability for pathogen surveillance and study of pathogen-specific immunity. To this end, we have developed and optimized a self-collected, saliva-based immunoassay capable of quantifying pathogen-specific antibody binding in saliva samples. Using samples collected from geographically and epidemiologically diverse regions of the world, we compared antigen-specific IgG levels in paired plasma and saliva samples. We observed that levels of IgG against multiple pathogens of public health concern-including SARS-CoV-2 and dengue virus-were highly correlated in plasma and swab-collected saliva. In addition, the decay of maternally derived antibodies in saliva samples collected from infants was readily observed using this immunoassay, demonstrating the assay's sensitivity and potential for use in measuring antibody kinetics. We posit that this assay represents a climate-stable, non-invasive tool that can aid in the surveillance and study of pathogen-specific immunity across a broad range of public-health indications.ImportanceTraditional serological surveillance relies on venous blood collection, which is invasive, resource-intensive, and particularly burdensome in low-resource settings. To address these limitations, our team has developed and validated a self-collected, saliva-based immunoassay for quantifying pathogen-specific antibody levels. Testing paired plasma and saliva samples from geographically diverse populations, the authors found that IgG levels against SARS-CoV-2 and dengue virus were highly correlated between the two sample types. The assay was sensitive enough to detect the decay of maternally derived antibodies in infant saliva, demonstrating its utility for tracking antibody kinetics over time. The authors conclude that this non-invasive, climate-stable platform offers a practical alternative for broad pathogen surveillance and immune monitoring across a variety of public health contexts.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.02996-26",
+    "date": "2026-10-29",
+    "authors": "Bahr LE, Lu J, Buddhari D, Hunsawong T, Rapheal E, Greco P, Ware L, Klick M, Farmer A, Middleton F, Thomas SJ, Anderson K, Waickman AT.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42954456",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42954456",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5226,
+    "collected_at": "2026-11-20T11:50:28.841726+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1128/spectrum.02996-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a34b10402fe7cda8b587a189edeae78d58a0dd484babfae383be631d18d02450",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T12:48:13.517104+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "814d797f968323ed2c266bb31210f0032fa0781b1111feb0f5efe18dc411524f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T12:48:13.517104+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "病原体特異的免疫のスケーラブルな疫学サーベイランスに向けた、自己採取型・現場安定性の高い唾液ベースの免疫測定法の開発と最適化",
+    "abstract_ja": "血清学的サーベイランスは、感染症研究および公衆衛生上の意思決定において不可欠である。病原体特異的免疫の研究に用いられる免疫測定法は、従来、静脈血の採取に依存してきた。多くの公衆衛生上の応用において極めて重要である一方、この検体採取法は侵襲的であり、多大なリソースを要する。静脈血採取に伴うコストや物流上の障壁は、資源の限られた地域においてさらに深刻化しており、より侵襲性の低い検体採取法への移行は、病原体サーベイランスや病原体特異的免疫の研究における検体の確保を容易にするだろう。この目的を達成するため、我々は、唾液検体中の病原体特異的抗体結合を定量化できる、自己採取型の唾液ベース免疫測定法を開発し、最適化した。地理的・疫学的に多様な世界各地の地域から採取した検体を用い、ペアとなった血漿検体と唾液検体における抗原特異的IgGレベルを比較した。その結果、SARS-CoV-2やデングウイルスを含む、公衆衛生上の懸念がある複数の病原体に対するIgGレベルが、血漿とスワブ採取した唾液において高い相関を示すことが観察された。さらに、乳児から採取した唾液検体中の母体由来抗体の減衰を本免疫測定法を用いて容易に観察することができ、本測定法の感度および抗体動態の測定における有用性が実証された。我々は、本測定法が気候安定性を備えた非侵襲的なツールであり、広範な公衆衛生上の適応症において、病原体特異的免疫のサーベイランスおよび研究に寄与し得ると考えている。重要性従来の血清学的サーベイランスは静脈血採取に依存しており、これは侵襲的でリソースを要し、特に資源の乏しい環境下では大きな負担となる。これらの限界に対処するため、我々のチームは、病原体特異的抗体レベルを定量化するための自己採取型唾液ベース免疫測定法を開発し、検証した。地理的に多様な集団から採取したペアの血漿検体および唾液検体を検査した結果、著者らは、SARS-CoV-2およびデングウイルスに対するIgGレベルが、これら2種類の検体間で高い相関を示すことを見出した。本測定法は、乳児の唾液における母体由来抗体の減衰を検出できるほどの感度を有しており、経時的な抗体動態の追跡における有用性が実証された。著者らは、この非侵襲的で気候安定性を備えたプラットフォームが、さまざまな公衆衛生上の状況において、広範な病原体サーベイランスおよび免疫モニタリングのための実用的な代替手段を提供すると結論付けている。"
+  },
+  {
+    "id": "10.1093/nar/gkag1168",
+    "title": "Europe PMC in 2026",
+    "abstract": "AbstractEurope PMC (https://europepmc.org/) is an open access database of life-science literature that delivers open science to a wide audience through an open web interface, APIs, and bulk downloads. It brings together 48 million abstracts, 12 million full text published articles, and supplementary files and 1.2 million preprints, 76 000 of them full text, and makes them findable through dozens of search axes. Europe PMC is supported by 35 European and international funders to deliver a global open infrastructure and support their open access policies and metrics analysis. Europe PMC enriches the literature with 2 billion text-mined annotations, and links to dozens of biological databases. New developments to the Europe PMC platform since the last database update in 2023 include: (i) harnessing AI to enhance discovery through new machine learning generated annotations and working towards Europe PMC as a knowledge layer for LLMs; (ii) enhancing product development UX/UI capabilities, showcased through a new advanced search; (iii) improving literature discovery by text mining supplementary files; (iv) improving persistent identifier coverage and expanding the citation network.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1168",
+    "date": "2026-11-20",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1168/9103981?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5355,
+    "collected_at": "2026-11-20T12:01:03.805438+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1093/nar/gkag1168"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a884f83fe443a2496cd947a6544e4a10e9ede165b8f26b3c43dfc1820ce27383",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T12:48:13.517104+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9f8f6281bfff6a1ef72c4eb8830e250f3c0f2f099f574cdfd42d2b785348b600",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T12:48:13.517104+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "2026年のヨーロッパPMC",
+    "abstract_ja": "概要 Europe PMC (https://europepmc.org/) は、オープンウェブインターフェース、API、および一括ダウンロードを通じて、幅広い利用者にオープンサイエンスを提供するライフサイエンス文献のオープンアクセスデータベースである。本データベースは、4,800万件の抄録、1,200万件の全文公開論文、補足ファイル、および120万件のプレプリント（うち7万6,000件は全文）を集約し、数十の検索軸を通じて検索可能にしている。Europe PMCは、グローバルなオープンインフラストラクチャを提供し、オープンアクセスポリシーおよび指標分析を支援するため、35の欧州および国際的な助成機関によって支えられている。Europe PMCは、テキストマイニングによる20億件のアノテーションで文献を充実させ、数十の生物学的データベースへのリンクを提供している。2023年の前回のデータベース更新以降のEurope PMCプラットフォームにおける新たな展開には、以下が含まれる：(i) 新たな機械学習生成アノテーションを通じてAIを活用し発見を促進するとともに、Europe PMCをLLMのナレッジレイヤーとして機能させる取り組み、(ii) 新たな詳細検索を通じて示された、プロダクト開発におけるUX/UI機能の強化、(iii) 補足ファイルのテキストマイニングによる文献発見の改善、(iv) 永続的識別子のカバー範囲の拡大および引用ネットワークの拡充。"
+  },
+  {
+    "id": "10.1093/nar/gkag1236",
+    "title": "FAM50A restrains METTL3–METTL14 catalytic activity to regulate m6A deposition and cell proliferation",
+    "abstract": "AbstractN6-methyladenosine (m6A) is the most abundant internal modification in eukaryotic messenger RNA (mRNA) and is substantially deposited co-transcriptionally by the METTL3–METTL14 methyltransferase complex. However, how chromatin-associated factors modulate the catalytic activity of the m6A writer complex remains poorly understood. Here, we identify FAM50A as a chromatin-associated negative regulator of m6A deposition. Histone TurboID-based chromatin proteomics and biochemical analyses revealed that FAM50A directly interacts with METTL3. Acute depletion of FAM50A resulted in a global increase in mRNA m6A modification, as demonstrated by quantitative, single-nucleotide-resolution GLORI. Mechanistically, FAM50A directly restrains METTL3–METTL14 methyltransferase activity without interfering with RNA substrate binding, thereby limiting excessive m6A deposition. Increased m6A following FAM50A depletion exerted transcript-dependent effects on mRNA stability, promoting destabilization of a subset of proliferation-associated transcripts while stabilizing others. These changes disrupted proliferation-associated gene-expression programs and impaired cell proliferation and viability. Furthermore, pathogenic FAM50A variants associated with Armfield X-linked intellectual disability exhibited defective m6A regulation and impaired cellular functions. Together, our findings identify FAM50A as a chromatin-associated restraint on METTL3–METTL14 activity that maintains m6A homeostasis and links epitranscriptomic regulation to cell proliferation and human disease.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1236",
+    "date": "2026-11-20",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1236/9103992?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5367,
+    "collected_at": "2026-11-20T12:01:03.805438+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/3091.xml"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1093/nar/gkag1236"
+    ],
+    "translation": {
+      "title": {
+        "hash": "aeb0850f41bd9d365103bf47dffed9cc4f5ccd19a0be93ccdf46b517fd2ea668",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T12:48:13.517104+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f412c8564848f145038a821f946b758bc57b99edeaa3acf3242142289205fa3c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T12:48:13.517104+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "FAM50AはMETTL3–METTL14の触媒活性を抑制し、m6Aの沈着と細胞増殖を調節する。",
+    "abstract_ja": "要旨N6-メチルアデノシン（m6A）は、真核生物のメッセンジャーRNA（mRNA）において最も豊富に存在する内部修飾であり、METTL3–METTL14メチルトランスフェラーゼ複合体によって共転写的に著しく沈着する。しかし、クロマチン関連因子がm6Aライター複合体の触媒活性をどのように調節しているかについては、依然として十分に解明されていない。本研究では、FAM50Aをm6A沈着のクロマチン関連負の調節因子として同定した。ヒストンTurboIDに基づくクロマチンプロテオミクスおよび生化学的解析により、FAM50AがMETTL3と直接相互作用することが明らかになった。FAM50Aの急性枯渇は、定量的な単一塩基分解能GLORIによって実証されたように、mRNAのm6A修飾の全般的な増加をもたらした。機序的には、FAM50AはRNA基質の結合を妨げることなくMETTL3–METTL14メチルトランスフェラーゼ活性を直接抑制し、それによって過剰なm6A沈着を制限する。FAM50A枯渇後のm6A増加は、mRNAの安定性に転写産物依存的な影響を及ぼし、増殖関連転写産物の一部の不安定化を促進する一方で、他の転写産物を安定化させた。これらの変化は、増殖関連遺伝子発現プログラムを乱し、細胞増殖および生存能を損なった。さらに、Armfield X連鎖性知的障害に関連する病原性FAM50A変異体では、m6A調節の不全と細胞機能の障害が認められた。以上の知見を総合すると、FAM50AはMETTL3–METTL14活性に対するクロマチン関連の抑制因子として同定され、m6Aの恒常性を維持し、エピトランスクリプトーム調節を細胞増殖およびヒト疾患に結びつけることが明らかになった。"
+  },
+  {
+    "id": "10.1093/nar/gkag1268",
+    "title": "NF-kappaB dimer exchange on the promoter facilitates transcription activation of NF-kappaB repressed IRF3 target genes—a plausible mechanism",
+    "abstract": "AbstractThe NF-κB and the IRF family of transcription factors are the key regulators of innate immune response in vertebrates. Depending upon the state of the cell the NF-κB subunits can activate as well as repress transcription of many genes by binding to its cognate κB sequence on the promoter/enhancers of various genes. The NF-κB proteins function as dimers, and variation in dimer composition represents one of the mechanisms for regulating transcription of specific genes. The homodimer of p50 NF-κB subunit is known to maintain a subset of IRF3 target genes under repressed state by binding to the promoter site called the G-IRE. G-IRE is an incomplete κB sequence juxtaposed with the IRF3 cognate IRE. Our in vitro results show that the NF-κB p50 homodimer can readily exchange on the κB DNA to form the NF-κB p50-RelA heterodimer. This dimer exchange on the DNA facilitates the binding of DNA binding domain of IRF3 to the G-IRE site required for transcription activation of these IRF3 target genes.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1268",
+    "date": "2026-11-20",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1268/9103990?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5368,
+    "collected_at": "2026-11-20T12:01:03.805438+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/3091.xml"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1093/nar/gkag1268"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c84e3814fd4b526734d164d7c06dedb14c9d7def87ff4d3dd9089b0c4804fd96",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T12:48:13.517104+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c86e297ddf48ea98c566b8f77f005a8425d0c8cc39572f73e74f7e2b37e0583b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T12:48:13.517104+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "プロモーターにおけるNF-kappaB二量体交換がNF-kappaB抑制下のIRF3標的遺伝子の転写活性化を促進する―考えられる機序",
+    "abstract_ja": "要旨NF-κBおよびIRFファミリーの転写因子は、脊椎動物における自然免疫応答の主要な調節因子である。細胞の状態に応じて、NF-κBサブユニットは、さまざまな遺伝子のプロモーターやエンハンサー上のコグネイトκB配列に結合することで、多くの遺伝子の転写を活性化あるいは抑制することができる。NF-κBタンパク質は二量体として機能し、二量体組成の変動は特定の遺伝子の転写を調節する機構の一つとなっている。p50 NF-κBサブユニットのホモ二量体は、G-IREと呼ばれるプロモーター部位に結合することで、IRF3標的遺伝子の一部を抑制状態に維持することが知られている。G-IREは、IRF3コグネイトであるIREに隣接して配置された不完全なκB配列である。我々のin vitroでの結果は、NF-κB p50ホモ二量体がκB DNA上で容易に交換され、NF-κB p50-RelAヘテロ二量体を形成し得ることを示している。DNA上でのこの二量体交換は、これらIRF3標的遺伝子の転写活性化に必要な、IRF3のDNA結合ドメインのG-IRE部位への結合を促進する。"
   }
 ]
