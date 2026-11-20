@@ -433961,5 +433961,560 @@
     "related_dois": [
       "10.1038/s41579-026-01398-5"
     ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/msphere.00148-26",
+    "title": "A highly conserved two-gene operon is crucial for lipoarabinomannan localization, pathogenesis, and cell envelope function in <i>Mycobacterium abscessus</i>.",
+    "abstract": "Mycobacterium abscessus is an emerging threat, causing infections that are difficult to treat due to intrinsic resistance to most antibiotics. Determinants of M. abscessus physiology and pathogenesis remain poorly understood, hampering therapeutic development. Here, we show that in M. abscessus, the lprg-mfs operon is essential for virulence in macrophages and mice. Loss of lprg-mfs in M. abscessus causes accumulation of the glycolipid lipoarabinomannan (LAM) on the cell surface and in culture supernatant, suggesting that this system participates in LAM import. This contrasts with its proposed role in M. tuberculosis, where lprg-mfs has been implicated in the export of various lipids. Consistent with altered lipid distribution, the lprg-mfs mutant displays severe defects in mycomembrane permeability, fluidity, and integrity, and expression of mfs alone restores only a subset of these phenotypes, revealing a surprising uncoupling of envelope fluidity and permeability. Using a suppressor screen to further investigate the factors that control the distribution of lipoarabinomannan, we find that a point mutation in the unannotated gene MAB_0995 can fully or partially rescue all deletion mutant phenotypes. Our data also show that lipoarabinomannan in the mycomembrane is dynamically regulated in response to environmental conditions, including hypoxia and macrophage infection. Together, these findings redefine the role of LprG and Mfs in mycobacterial cell envelope homeostasis and reveal unexpected plasticity in mycomembrane lipid regulation in M. abscessus.ImportanceThe emerging pathogen Mycobacterium abscessus causes life-threatening lung infections in certain patients that are extremely difficult to treat due to its intrinsic resistance to most antibiotics. However, the process by which this organism establishes infection is poorly understood, as are the specific determinants of antibiotic tolerance. Better knowledge of the genes required for virulence and impermeability to antibiotics in M. abscessus could enable the development of more effective treatments. The significance of this study is the demonstration that the lprg-mfs operon is required for both pathogenesis and impermeability in M. abscessus. Furthermore, our study shows a correlation between cell envelope characteristics and the distribution of the molecule lipoarabinomannan, suggesting a specific mechanism by which these crucial characteristics are mediated.",
+    "journal": "mSphere",
+    "doi": "10.1128/msphere.00148-26",
+    "date": "2026-11-04",
+    "authors": "Campbell-Kruger N, Balakhmet A, Stanley SA.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42980356",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42980356",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5171,
+    "collected_at": "2026-11-20T03:12:52.480184+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1128/msphere.00148-26"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 7",
+        "query": "(JOURNAL:\"Microbial Ecology\" OR JOURNAL:\"Environmental Microbiology Reports\" OR JOURNAL:\"International Journal of Systematic and Evolutionary Microbiology\" OR JOURNAL:\"npj Biofilms and Microbiomes\" OR JOURNAL:\"Nature Reviews Microbiology\" OR JOURNAL:\"Trends in Microbiology\" OR JOURNAL:\"Annual Review of Microbiology\" OR JOURNAL:\"Microbial Cell\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.tim.2026.10.014",
+    "title": "Microbes and their habitats shape postglacial ecosystems.",
+    "abstract": "As glaciers retreat worldwide, microorganisms drive initial proglacial soil development. Ruka et al. reveal that microbial communities are strongly structured by the distinct biological habitats established during primary succession. The trajectories of postglacial ecosystems are thus shaped by reciprocal interactions between biological habitats and their associated microbial communities.",
+    "journal": "Trends in Microbiology",
+    "doi": "10.1016/j.tim.2026.10.014",
+    "date": "2026-11-09",
+    "authors": "Bradley JA.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43003734",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43003734",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbe",
+        "microbes",
+        "microbial",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5174,
+    "collected_at": "2026-11-20T03:12:52.480184+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "Europe PMC journals 7"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1016/j.tim.2026.10.014"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 7",
+        "query": "(JOURNAL:\"Microbial Ecology\" OR JOURNAL:\"Environmental Microbiology Reports\" OR JOURNAL:\"International Journal of Systematic and Evolutionary Microbiology\" OR JOURNAL:\"npj Biofilms and Microbiomes\" OR JOURNAL:\"Nature Reviews Microbiology\" OR JOURNAL:\"Trends in Microbiology\" OR JOURNAL:\"Annual Review of Microbiology\" OR JOURNAL:\"Microbial Cell\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.tim.2026.10.002",
+    "title": "Hidden carbon: uncovering the diversity and function of polyhydroxyalkanoates.",
+    "abstract": "Polyhydroxyalkanoates (PHAs) are a widespread family of microbial carbon-storage polymers. Ecological studies often focus on polyhydroxybutyrate (PHB), obscuring the broader chemical diversity. We argue that PHA monomer composition should be treated as a microbial trait and propose a multiscale framework, from the single cell to the ecosystem level, to reveal hidden carbon dynamics.",
+    "journal": "Trends in Microbiology",
+    "doi": "10.1016/j.tim.2026.10.002",
+    "date": "2026-10-21",
+    "authors": "Pei R, Gu W.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42907313",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42907313",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5177,
+    "collected_at": "2026-11-20T03:12:52.480184+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "Europe PMC journals 7"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1016/j.tim.2026.10.002"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 7",
+        "query": "(JOURNAL:\"Microbial Ecology\" OR JOURNAL:\"Environmental Microbiology Reports\" OR JOURNAL:\"International Journal of Systematic and Evolutionary Microbiology\" OR JOURNAL:\"npj Biofilms and Microbiomes\" OR JOURNAL:\"Nature Reviews Microbiology\" OR JOURNAL:\"Trends in Microbiology\" OR JOURNAL:\"Annual Review of Microbiology\" OR JOURNAL:\"Microbial Cell\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1099/ijsem.0.007346",
+    "title": "<i>Parafrankia flexibilis</i> sp. nov., an actinorhizal symbiont crossing the host boundary between <i>Elaeagnus</i> and <i>Alnus</i> and taxonomic reassessment of <i>Frankia nepalensis</i> as <i>Pseudofrankia nepalensis</i> comb. nov.",
+    "abstract": "Strain EI5cᵀ, an actinorhizal microsymbiont isolated from nodules of Elaeagnus angustifolia, represents the sole available member of a rare lineage capable of nodulating both Elaeagnus and Alnus. A polyphasic taxonomic study was conducted to determine its taxonomic position. Phylogenetic and phylogenomic analyses placed strain EI5cᵀ within the genus Parafrankia, with Parafrankia irregularis G2ᵀ as its closest relative. Genome-relatedness indices measures between strain EI5cᵀ and recognized Parafrankia species were below species delineation thresholds, with average nucleotide identity (ANI) values of 80.87-81.98% and digital DNA-DNA hybridization (dDDH) values of 25.2-26.4%. The draft genome is 6.6 Mbp in size with a DNA G+C content of 72.14 mol%. Strain EI5cᵀ was distinguished from the described Parafrankia species by its physiological and chemotaxonomic characteristics. The predominant cellular fatty acids were iso-C16 : 0, C17 : 1  ω8c and C16 : 0. Whole-cell sugars were glucose, galactose and mannose, while the polar lipid profile comprised phosphatidylinositol, diphosphatidylglycerol, phosphatidylglycerol, three unidentified glycophospholipids and one unidentified lipid. Inoculation assays confirmed nodulation of both E. angustifolia and Alnus glutinosa. Phylogenomic and genome-relatedness analyses further placed Frankia nepalensis CN4ᵀ within the Pseudofrankia lineage, where it exhibited higher 16S rRNA gene sequence similarity (98.50-99.05%), ANI (81.92-83.89%) and dDDH (25.5-27.9%) values with Pseudofrankia species than with other Frankiaceae species. Within the four-genus framework adopted here, these results support the transfer of F. nepalensis to Pseudofrankia as Pseudofrankia nepalensis comb. nov. On the basis of the combined phylogenetic, phylogenomic, genomic, phenotypic, chemotaxonomic and symbiotic evidence, strain EI5cᵀ represents a novel species of the genus Parafrankia, for which the name Parafrankia flexibilis sp. nov. is proposed. The type strain is EI5cᵀ (=DSM 114743ᵀ=CECT 9315ᵀ).",
+    "journal": "International Journal of Systematic and Evolutionary Microbiology",
+    "doi": "10.1099/ijsem.0.007346",
+    "date": "2026-11-01",
+    "authors": "Dali H, Boujemaa E, Boussoufa D, Sbissi I, Gtari M, Ghodhbane-Gtari F.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43042930",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43042930",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenetic",
+          "phylogenomic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 5179,
+    "collected_at": "2026-11-20T03:12:52.480184+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "Europe PMC journals 7"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1099/ijsem.0.007346"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 7",
+        "query": "(JOURNAL:\"Microbial Ecology\" OR JOURNAL:\"Environmental Microbiology Reports\" OR JOURNAL:\"International Journal of Systematic and Evolutionary Microbiology\" OR JOURNAL:\"npj Biofilms and Microbiomes\" OR JOURNAL:\"Nature Reviews Microbiology\" OR JOURNAL:\"Trends in Microbiology\" OR JOURNAL:\"Annual Review of Microbiology\" OR JOURNAL:\"Microbial Cell\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1099/ijsem.0.007331",
+    "title": "<i>Paenibacillus tiangongensis</i> sp. nov., isolated from the China Space Station.",
+    "abstract": "A Gram-stain-positive, facultatively anaerobic, motile, rod-shaped and endospore-forming bacterial strain, designated JL3B1040T, was isolated from the surface of space hardware in the China Space Station. Strain JL3B1040T grows at 20-50 °C (optimum 30-37  °C), pH 6.0-8.0 (optimum pH 7.0-8.0) and can tolerate up to 7% (wt/v) NaCl. The strain is positive for catalase and oxidase activities. Phylogenetic analysis based on 16S rRNA gene sequences indicated that strain JL3B1040T belongs to the genus Paenibacillus, with Paenibacillus timonensis DSM 16943T as its closest relative, showing 99.7% sequence similarity. The average nucleotide identity and digital DNA-DNA hybridization values between strain JL3B1040T and P. timonensis DSM 16943T are 87.8 and 35.5%, respectively, which are below the recommended thresholds for species delineation. The genomic DNA G+C content of strain JL3B1040T is 54.0 mol%. Pan-genome profiling and cross-species comparison of ectoine biosynthetic gene (BGC) clusters reveal that strain JL3B1040T possesses a unique intact 13-gene ectoine BGC, which differs markedly from the incomplete clusters in its close relatives. The major cellular fatty acids are anteiso-C15 : 0 (34.0%), C16 : 0 (23.2%), iso-C16 : 0 (13.5%) and anteiso-C17 : 0 (11.0%). The major polar lipids are diphosphatidylglycerol, phosphatidylglycerol and phosphatidylethanolamine. The predominant respiratory quinone is menaquinone-7. Based on phylogenetic, genomic, physiological and chemotaxonomic evidence, strain JL3B1040T is considered to represent a novel species of the genus Paenibacillus, for which the name Paenibacillus tiangongensis sp. nov. is proposed, with JL3B1040T (=GDMCC 1.6712=KCTC 43897) as the type strain.",
+    "journal": "International Journal of Systematic and Evolutionary Microbiology",
+    "doi": "10.1099/ijsem.0.007331",
+    "date": "2026-11-01",
+    "authors": "He Z, Yuan J, Liu Y, Ma L, Yin Z, Tong T, Guo P, Yin H.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43043658",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43043658",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 5180,
+    "collected_at": "2026-11-20T03:12:52.480184+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "Europe PMC journals 7"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1099/ijsem.0.007331"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 7",
+        "query": "(JOURNAL:\"Microbial Ecology\" OR JOURNAL:\"Environmental Microbiology Reports\" OR JOURNAL:\"International Journal of Systematic and Evolutionary Microbiology\" OR JOURNAL:\"npj Biofilms and Microbiomes\" OR JOURNAL:\"Nature Reviews Microbiology\" OR JOURNAL:\"Trends in Microbiology\" OR JOURNAL:\"Annual Review of Microbiology\" OR JOURNAL:\"Microbial Cell\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1099/ijsem.0.007344",
+    "title": "<i>Glutinosa niejishengi</i> gen. nov., sp. nov., isolated from wastewater samples of coal mines.",
+    "abstract": "The strains, designated Z1732T and Z1739, were isolated from wastewater samples collected from coal mines in Xiangning and Jincheng, Shanxi Province, China. Both strains are Gram-stain-positive, oxidase-negative, catalase-positive, aerobic, non-motile and coccoid or rod-shaped. The major fatty acid was anteiso-C15 : 0. The major respiratory quinone was MK8(H4). Comparative 16S rRNA gene sequence analysis showed that strain Z1732T exhibited the highest similarity (95.71%) to Pseudactinotalea caeni GDMCC 1.5794T, followed by Pseudactinotalea terrae KACC 16542T (95.54%). The phylogenetic tree based on core genes indicated that strains Z1732T and Z1739 formed an independent branch adjacent to the strains of the genus Pseudactinotalea within the family Ruaniaceae but could not be assigned to any of the described genera. In pairwise comparisons with type strains, digital DNA-DNA hybridization and average nucleotide identity values were lower than 20 and 75%, respectively, below the thresholds for species delineation. Notably, all amino acid identity values were below the 65% cutoff for defining a new genus. Based on phylogenetic, genomic, phenotypic and chemotaxonomic characterizations, strains Z1732T and Z1739 should represent a novel species of a novel genus within the family Ruaniaceae, for which the name Glutinosa niejishengi gen. nov., sp. nov. is proposed, with the type strain Z1732T (=GDMCC 1.5671T=KCTC 59556T).",
+    "journal": "International Journal of Systematic and Evolutionary Microbiology",
+    "doi": "10.1099/ijsem.0.007344",
+    "date": "2026-11-01",
+    "authors": "Zhao L, Zhang M, Yan T, Weng Z, Yang Q, Gao F, Xie J, Liu T, Yang C, Kang Z, Pu J, Zheng H, Xu J, Dong K.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43049747",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43049747",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "average nucleotide identity"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 5181,
+    "collected_at": "2026-11-20T03:12:52.480184+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "Europe PMC journals 7"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1099/ijsem.0.007344"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 7",
+        "query": "(JOURNAL:\"Microbial Ecology\" OR JOURNAL:\"Environmental Microbiology Reports\" OR JOURNAL:\"International Journal of Systematic and Evolutionary Microbiology\" OR JOURNAL:\"npj Biofilms and Microbiomes\" OR JOURNAL:\"Nature Reviews Microbiology\" OR JOURNAL:\"Trends in Microbiology\" OR JOURNAL:\"Annual Review of Microbiology\" OR JOURNAL:\"Microbial Cell\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1099/ijsem.0.007328",
+    "title": "<i>Flavobacterium solicola</i> sp. nov. and <i>Flavobacterium myriophylli</i> sp. nov., isolated from distinct freshwater habitats in Korea.",
+    "abstract": "Two novel Gram-stain-negative, yellow-pigmented bacterial strains, designated SP2T and UM26T, were isolated from riparian soil near the Seokpo smelter and from the surface of a macrophyte, Myriophyllum spicatum, collected from a stream in Daejeon, Republic of Korea, respectively. Phylogenetic analysis based on 16S rRNA gene sequences indicated that strains SP2T and UM26T belonged to the genus Flavobacterium and showed the highest sequence similarities to Flavobacterium aquatile LMG 4008T (97.9%) and Flavobacterium riviphilum TAPY6T (98.18%), respectively. The average nucleotide identity (ANI) and digital DNA-DNA hybridization (dDDH) values between SP2T and the type strains of closely related species were below 79.04 and 22.7%, respectively. For strain UM26T, the corresponding ANI and dDDH values were 83.91 and 28.1%. These values were below the generally accepted thresholds for species delineation. The major fatty acids of strain SP2T were iso-C15 : 0 and iso-C15 : 1 G, whereas those of strain UM26T were iso-C15 : 0 and iso-C15 : 0 3-OH. Phosphatidylethanolamine was the major polar lipid in both strains, accompanied by five unidentified aminolipids (ALs) and ten unidentified lipids (Ls) in strain SP2T and three unidentified ALs and six unidentified Ls in strain UM26T. The respiratory quinone of both strains was menaquinone-6. The genomic DNA G+C contents of strains SP2T and UM26T were 32.9 and 35.4 mol%, respectively. On the basis of phenotypic, phylogenetic, and chemotaxonomic characteristics, strains SP2T and UM26T are considered to represent two novel species of the genus Flavobacterium, for which the names Flavobacterium solicola sp. nov. and Flavobacterium myriophylli sp. nov. are proposed, respectively. The type strains of the two novel species are SP2T (=KCTC 102194T=LMG 33486T) and UM26T (=KCTC 102195T=LMG 33488T).",
+    "journal": "International Journal of Systematic and Evolutionary Microbiology",
+    "doi": "10.1099/ijsem.0.007328",
+    "date": "2026-11-01",
+    "authors": "Lee H, Kim MS, Jeong S, Ko SR, Kwon YK, Choi WS, Kang M, Choi DY, Ahn CY.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43043661",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43043661",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [
+          "freshwater"
+        ],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 5183,
+    "collected_at": "2026-11-20T03:12:52.480184+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "Europe PMC journals 7"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1099/ijsem.0.007328"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 7",
+        "query": "(JOURNAL:\"Microbial Ecology\" OR JOURNAL:\"Environmental Microbiology Reports\" OR JOURNAL:\"International Journal of Systematic and Evolutionary Microbiology\" OR JOURNAL:\"npj Biofilms and Microbiomes\" OR JOURNAL:\"Nature Reviews Microbiology\" OR JOURNAL:\"Trends in Microbiology\" OR JOURNAL:\"Annual Review of Microbiology\" OR JOURNAL:\"Microbial Cell\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1099/ijsem.0.007347",
+    "title": "<i>Luteimonas yangxiaopingae</i> sp. nov. and <i>Luteimonas renzhihongae</i> sp. nov., two novel <i>Luteimonas</i> species isolated from Mongolian marmot (<i>Marmota sibirica</i>) burrow soil.",
+    "abstract": "Four strains, A478T, A277, A537T and A501, were isolated from the soil of Marmota sibirica burrows in Hulunbuir City, Inner Mongolia Autonomous Region, China. The four isolates were Gram-stain-negative and rod-shaped. All four strains grew at 4-30 °C (optimum 20 °C). For strains A478ᵀ and A277, the NaCl concentration range and pH range for growth were 0-3.5% (wt/v) NaCl (optimum 0.5%) and pH 7-11 (optimum pH 8); for strains A537ᵀ and A501, the ranges were 0-4.5% (wt/v) NaCl (optimum 0.5%) and pH 7-10 (optimum pH 7). The 16S rRNA gene sequence similarity analysis using the EzBioCloud database showed that strains A478ᵀ and A277 exhibited the highest similarity to Luteimonas dalianensis OB44-3ᵀ (97.27%). In contrast, strains A537ᵀ and A501 showed the highest similarity to Luteimonas terricola BZ92rᵀ (98.23%). The average nucleotide identity and digital DNA-DNA hybridization values between the four isolates and their closely related species were below the thresholds recommended for species delineation. The genomic DNA G+C contents of the type strains A478ᵀ and A537ᵀ were 66.7 and 68.8 mol%, respectively. The sole respiratory quinone of strains A478T and A537T was ubiquinone 8. The major polar lipids of strains A478ᵀ and A537ᵀ were diphosphatidylglycerol, phosphatidylglycerol and phosphatidylethanolamine. The major fatty acids (>5%) of strain A478T were summed feature 9 (C16 : 0 10-methyl and/or iso-C17 : 1 ω9c), iso-C15 : 0, iso-C16 : 0, iso-C17 : 0, iso-C11 : 0 and summed feature 3 (C16 : 1 ω7c and/or C16 : 1 ω6c). The major fatty acids (>5%) of strain A537T were summed feature 9, iso-C15 : 0, iso-C16 : 0, iso-C17 : 0, iso-C11 : 0 and iso-C11:0 3-OH. Based on polyphasic evidence, strains A478T and A277 represent a novel species, for which the name Luteimonas yangxiaopingae sp. nov. (type strain A478T=GDMCC l.6140T=JCM 38387T) is proposed, while strains A537T and A501 represent another novel species, designated Luteimonas renzhihongae sp. nov. (type strain A537T=GDMCC l.6141T=JCM 38389T) are proposed.",
+    "journal": "International Journal of Systematic and Evolutionary Microbiology",
+    "doi": "10.1099/ijsem.0.007347",
+    "date": "2026-11-01",
+    "authors": "Yang H, Pu J, Yang J, Xiao Q, Luo W, Chen M, Luo X, Zheng H, Xu J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43037617",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43037617",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5184,
+    "collected_at": "2026-11-20T03:12:52.480184+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "Europe PMC journals 7"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1099/ijsem.0.007347"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 8",
+        "query": "(JOURNAL:\"Microbial Biotechnology\" OR JOURNAL:\"Extremophiles\" OR JOURNAL:\"Genome Biology and Evolution\" OR JOURNAL:\"Molecular Biology and Evolution\" OR JOURNAL:\"Molecular Ecology\" OR JOURNAL:\"Molecular Ecology Resources\" OR JOURNAL:\"Molecular Phylogenetics and Evolution\" OR JOURNAL:\"Bioinformatics Advances\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1111/1751-7915.70460",
+    "title": "Functional Characterization and Application of Yarrowia lipolytica YlYxc1 for Enhanced Production of Sphingoid Bases.",
+    "abstract": "Long-chain bases (LCBs; sphingoid bases), derived from ceramide metabolism, are valuable sphingolipid intermediates for industrial applications. Here, we functionally characterized a putative ceramidase from Yarrowia lipolytica (YlYxc1) and evaluated its potential to enhance LCB production. YlYxc1 contains a conserved alkaline ceramidase motif with seven transmembrane helices and shares ~42% amino acid identity with Saccharomyces cerevisiae alkaline ceramidases ScYpc1 and ScYdc1. Despite lacking a canonical ER retention motif, YlYxc1 localized to the ER membrane. Deletion of YlYXC1 caused no major growth or lipid profile changes. Heterologous overexpression of YlYXC1 in S. cerevisiae wild-type and Scypc1Δydc1Δ strains increased phytosphingosine (PHS) production over dihydrosphingosine (DHS), mimicking ScYPC1 overexpression. In vitro activity assays using microsomal fractions from Scypc1Δydc1Δ cells expressing YlYXC1 revealed preferential hydrolysis of phytoceramide with an alkaline pH optimum. Furthermore, YlYXC1 expression in an engineered Y. lipolytica strain expressing heterologous acetyltransferases WcSLI1 and WcATF2 remarkably enhanced acetylated LCB production. Multi-copy integration of YlYXC1 into the Ylsur2Δsld1Δ strain also increased the secretory production of non-acetylated DHS. These findings establish YlYxc1 as a promising metabolic engineering target for producing value-added LCBs for pharmaceutical and cosmeceutical applications.",
+    "journal": "Microbial Biotechnology",
+    "doi": "10.1111/1751-7915.70460",
+    "date": "2026-11-01",
+    "authors": "Shin SH, Jeon EJ, Moon HY, Go GY, Yoo YS, Lee JK, Jeon CO, Kang HA.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42947429",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13714454",
+    "pmid": "42947429",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Saccharomyces"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5186,
+    "collected_at": "2026-11-20T03:12:52.480184+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "Europe PMC journals 8"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1111/1751-7915.70460"
+    ]
   }
 ]
