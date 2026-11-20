@@ -308187,5 +308187,308 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "スズメノヒバリヤ（Yarrowia lipolytica YlYxc1）の機能特性解析とスズメノヒバリヤ基質の生産増強への応用",
     "abstract_ja": "セラミド代謝に由来する長鎖塩基（LCB；スフィンゴイド塩基）は、工業的応用において有用なスフィンゴ脂質中間体である。本研究では、Yarrowia lipolytica由来の推定セラミド分解酵素（YlYxc1）の機能的特性解析を行い、LCB産生を増強させる可能性を評価した。YlYxc1は、7本の膜貫通ヘリックスを有する保存されたアルカリ性セラミド分解酵素モチーフを含み、Saccharomyces cerevisiaeのアルカリ性セラミド分解酵素であるScYpc1およびScYdc1と約42%のアミノ酸同一性を示す。典型的なER保持モチーフを欠いているにもかかわらず、YlYxc1はER膜に局在した。YlYxc1の欠損は、増殖や脂質プロファイルに重大な変化をもたらさなかった。S. cerevisiae野生型およびScypc1Δydc1Δ株におけるYlYxc1の異種過剰発現は、ジヒドロスフィンゴシン（DHS）よりもフィトスフィンゴシン（PHS）の産生を増加させ、ScYPC1の過剰発現と同様の挙動を示した。YlYxc1を発現するScypc1Δydc1Δ細胞のミクロソーム画分を用いたin vitro活性アッセイでは、アルカリ性pHを至適とするフィトセラミドの優先的な加水分解が認められた。さらに、異種アセチルトランスフェラーゼWcSLI1およびWcATF2を発現する改変Y. lipolytica株におけるYlYxc1の発現は、アセチル化LCBの産生を著しく増強した。Ylsur2Δsld1Δ株へのYlYxc1の多コピー組み込みは、非アセチル化DHSの分泌産生も増加させた。これらの知見は、医薬品およびコスメシューティカル用途に向けた付加価値型LCBを生産するための有望な代謝工学的標的として、YlYxc1を確立するものである。"
+  },
+  {
+    "id": "10.1093/bioinformatics/btag820",
+    "title": "Correction to: Microbial interactions from a new perspective: reinforcement learning reveals new insights into microbiome evolution",
+    "abstract": "This is a correction to: Parsa Ghadermazi, Siu Hung Joshua Chan, Microbial interactions from a new perspective: reinforcement learning reveals new insights into microbiome evolution, Bioinformatics, Volume 40, Issue 1, January 2024, btae003, https://doi.org/10.1093/bioinformatics/btae003",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag820",
+    "date": "2026-11-19",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btag820/9103645?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5139/3001.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5346,
+    "collected_at": "2026-11-20T03:23:23.547156+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "https://academic.oup.com/rss/site_5139/3001.xml"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1093/bioinformatics/btag820"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d489fa290d0431417d891d8aa1831993efaa227129757823ec207d95023b4e84",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T03:47:30.053804+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a57fe2c7f390f6ae962d5447bc78dca6640dfbfd3430869e5bd745325c64ac34",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T03:47:30.053804+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "訂正：微生物間相互作用の新たな視点：強化学習が明かすマイクロバイオーム進化の新知見",
+    "abstract_ja": "これは、Parsa Ghadermazi, Siu Hung Joshua Chan, Microbial interactions from a new perspective: reinforcement learning reveals new insights into microbiome evolution, Bioinformatics, Volume 40, Issue 1, January 2024, btae003, https://doi.org/10.1093/bioinformatics/btae003 の訂正である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 7",
+        "query": "(JOURNAL:\"Microbial Ecology\" OR JOURNAL:\"Environmental Microbiology Reports\" OR JOURNAL:\"International Journal of Systematic and Evolutionary Microbiology\" OR JOURNAL:\"npj Biofilms and Microbiomes\" OR JOURNAL:\"Nature Reviews Microbiology\" OR JOURNAL:\"Trends in Microbiology\" OR JOURNAL:\"Annual Review of Microbiology\" OR JOURNAL:\"Microbial Cell\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1099/ijsem.0.007331",
+    "title": "<i>Paenibacillus tiangongensis</i> sp. nov., isolated from the China Space Station.",
+    "abstract": "A Gram-stain-positive, facultatively anaerobic, motile, rod-shaped and endospore-forming bacterial strain, designated JL3B1040T, was isolated from the surface of space hardware in the China Space Station. Strain JL3B1040T grows at 20-50 °C (optimum 30-37  °C), pH 6.0-8.0 (optimum pH 7.0-8.0) and can tolerate up to 7% (wt/v) NaCl. The strain is positive for catalase and oxidase activities. Phylogenetic analysis based on 16S rRNA gene sequences indicated that strain JL3B1040T belongs to the genus Paenibacillus, with Paenibacillus timonensis DSM 16943T as its closest relative, showing 99.7% sequence similarity. The average nucleotide identity and digital DNA-DNA hybridization values between strain JL3B1040T and P. timonensis DSM 16943T are 87.8 and 35.5%, respectively, which are below the recommended thresholds for species delineation. The genomic DNA G+C content of strain JL3B1040T is 54.0 mol%. Pan-genome profiling and cross-species comparison of ectoine biosynthetic gene (BGC) clusters reveal that strain JL3B1040T possesses a unique intact 13-gene ectoine BGC, which differs markedly from the incomplete clusters in its close relatives. The major cellular fatty acids are anteiso-C15 : 0 (34.0%), C16 : 0 (23.2%), iso-C16 : 0 (13.5%) and anteiso-C17 : 0 (11.0%). The major polar lipids are diphosphatidylglycerol, phosphatidylglycerol and phosphatidylethanolamine. The predominant respiratory quinone is menaquinone-7. Based on phylogenetic, genomic, physiological and chemotaxonomic evidence, strain JL3B1040T is considered to represent a novel species of the genus Paenibacillus, for which the name Paenibacillus tiangongensis sp. nov. is proposed, with JL3B1040T (=GDMCC 1.6712=KCTC 43897) as the type strain.",
+    "journal": "International Journal of Systematic and Evolutionary Microbiology",
+    "doi": "10.1099/ijsem.0.007331",
+    "date": "2026-11-01",
+    "authors": "He Z, Yuan J, Liu Y, Ma L, Yin Z, Tong T, Guo P, Yin H.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43043658",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43043658",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 5180,
+    "collected_at": "2026-11-20T03:12:52.480184+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "Europe PMC journals 7"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1099/ijsem.0.007331"
+    ],
+    "translation": {
+      "title": {
+        "hash": "148ee0517db34b3f5c7ef174aa3a9a06a17a8413bc6902b8681c965060386064",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T03:47:30.053804+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "482f4ac53afb9a60fd239bad67dbefc45efe4bb34de375498b5f84a15b8fc899",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T03:47:30.053804+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "中国宇宙ステーションから分離された<i>Paenibacillus tiangongensis</i> sp. nov.",
+    "abstract_ja": "中国宇宙ステーションの宇宙ハードウェア表面から、JL3B1040Tと命名された、グラム染色陽性、通性嫌気性、運動性、桿菌状かつ芽胞形成性の細菌株が分離された。JL3B1040T株は、20-50 °C（至適温度 30-37  °C）、pH 6.0-8.0（至適pH 7.0-8.0）で増殖し、最大7%（wt/v）のNaClに耐性を示す。本株はカタラーゼ活性およびオキシダーゼ活性陽性である。16S rRNA遺伝子配列に基づく系統解析の結果、JL3B1040T株はPaenibacillus属に属し、Paenibacillus timonensis DSM 16943Tが99.7%の配列類似性を示す最も近縁な種であることが示された。JL3B1040T株とP. timonensis DSM 16943Tの平均ヌクレオチド同一性およびデジタルDNA-DNAハイブリダイゼーション値は、それぞれ87.8%および35.5%であり、種の区分に関する推奨閾値を下回っている。JL3B1040T株のゲノムDNA G+C含有量は54.0 mol%である。パンゲノムプロファイリングおよびエクトイン生合成遺伝子（BGC）クラスターの種間比較により、JL3B1040T株は独自の完全な13遺伝子エクトインBGCを有しており、これは近縁種の不完全なクラスターとは著しく異なることが明らかになった。主要な細胞脂肪酸は、anteiso-C15 : 0 (34.0%)、C16 : 0 (23.2%)、iso-C16 : 0 (13.5%)、およびanteiso-C17 : 0 (11.0%)である。主要な極性脂質は、ジホスファチジルグリセロール、ホスファチジルグリセロール、およびホスファチジルエタノールアミンである。主要な呼吸性キノンはメナキノン-7である。系統学的、ゲノム学的、生理学的、および化学分類学的根拠に基づき、JL3B1040T株はPaenibacillus属の新種であると考えられ、JL3B1040T (=GDMCC 1.6712=KCTC 43897) をタイプ株として、Paenibacillus tiangongensis sp. nov. という名称が提案される。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/msphere.00148-26",
+    "title": "A highly conserved two-gene operon is crucial for lipoarabinomannan localization, pathogenesis, and cell envelope function in <i>Mycobacterium abscessus</i>.",
+    "abstract": "Mycobacterium abscessus is an emerging threat, causing infections that are difficult to treat due to intrinsic resistance to most antibiotics. Determinants of M. abscessus physiology and pathogenesis remain poorly understood, hampering therapeutic development. Here, we show that in M. abscessus, the lprg-mfs operon is essential for virulence in macrophages and mice. Loss of lprg-mfs in M. abscessus causes accumulation of the glycolipid lipoarabinomannan (LAM) on the cell surface and in culture supernatant, suggesting that this system participates in LAM import. This contrasts with its proposed role in M. tuberculosis, where lprg-mfs has been implicated in the export of various lipids. Consistent with altered lipid distribution, the lprg-mfs mutant displays severe defects in mycomembrane permeability, fluidity, and integrity, and expression of mfs alone restores only a subset of these phenotypes, revealing a surprising uncoupling of envelope fluidity and permeability. Using a suppressor screen to further investigate the factors that control the distribution of lipoarabinomannan, we find that a point mutation in the unannotated gene MAB_0995 can fully or partially rescue all deletion mutant phenotypes. Our data also show that lipoarabinomannan in the mycomembrane is dynamically regulated in response to environmental conditions, including hypoxia and macrophage infection. Together, these findings redefine the role of LprG and Mfs in mycobacterial cell envelope homeostasis and reveal unexpected plasticity in mycomembrane lipid regulation in M. abscessus.ImportanceThe emerging pathogen Mycobacterium abscessus causes life-threatening lung infections in certain patients that are extremely difficult to treat due to its intrinsic resistance to most antibiotics. However, the process by which this organism establishes infection is poorly understood, as are the specific determinants of antibiotic tolerance. Better knowledge of the genes required for virulence and impermeability to antibiotics in M. abscessus could enable the development of more effective treatments. The significance of this study is the demonstration that the lprg-mfs operon is required for both pathogenesis and impermeability in M. abscessus. Furthermore, our study shows a correlation between cell envelope characteristics and the distribution of the molecule lipoarabinomannan, suggesting a specific mechanism by which these crucial characteristics are mediated.",
+    "journal": "mSphere",
+    "doi": "10.1128/msphere.00148-26",
+    "date": "2026-11-04",
+    "authors": "Campbell-Kruger N, Balakhmet A, Stanley SA.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42980356",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42980356",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5171,
+    "collected_at": "2026-11-20T03:12:52.480184+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1128/msphere.00148-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f91ce96db1dc3003d079a1f426e1cae3f9066f43a42c5ef918576806e4186ba8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T03:47:30.053804+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f75ef3423c2a422f1a5e9c5de2e66679d4a7a206c8f30746f5eaaf3f5a245c5a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T03:47:30.053804+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "高度に保存された2遺伝子オペロンは、<i>Mycobacterium abscessus</i>におけるリポアラビノマンナンの局在、病原性、および細胞包膜機能に不可欠である。",
+    "abstract_ja": "Mycobacterium abscessusは新たな脅威となっており、ほとんどの抗生物質に対する固有の耐性により、治療が困難な感染症を引き起こす。M. abscessusの生理機能および病原性の決定因子は依然として十分に解明されておらず、治療法の開発の妨げとなっている。本研究では、M. abscessusにおいてlprg-mfsオペロンがマクロファージおよびマウスにおける病原性に必須であることを示す。M. abscessusにおいてlprg-mfsを欠損させると、細胞表面および培養上清に糖脂質リポアラビノマンナン（LAM）が蓄積し、この系がLAMの取り込みに関与していることが示唆される。これは、lprg-mfsが各種脂質の排出に関与すると考えられているM. tuberculosisにおける役割とは対照的である。脂質分布の変化と一致して、lprg-mfs変異体はマイコメムブレンの透過性、流動性、および完全性に深刻な欠陥を示し、mfs単独の発現ではこれらの表現型の一部しか回復せず、エンベロープの流動性と透過性の驚くべき脱共役が明らかになった。サプレッサースクリーニングを用いてリポアラビノマンナンの分布を制御する因子をさらに調査したところ、未アノテーション遺伝子MAB_0995の点変異が、すべての欠失変異体の表現型を完全または部分的に救済できることがわかった。また、我々のデータは、マイコメムブレン中のリポアラビノマンナンが、低酸素やマクロファージ感染を含む環境条件に応じて動的に調節されることを示している。これらの知見を総合すると、マイコバクテリアの細胞エンベロープ恒常性におけるLprGおよびMfsの役割が再定義され、M. abscessusにおけるマイコメムブレン脂質調節の予期せぬ可塑性が明らかになった。重要性 新興病原体であるMycobacterium abscessusは、特定の患者において生命を脅かす肺感染症を引き起こし、ほとんどの抗生物質に対する固有の耐性により治療が極めて困難である。しかし、この微生物が感染を確立するプロセスや、抗生物質耐性の特異的な決定因子については十分に解明されていない。M. abscessusにおける病原性および抗生物質への不透過性に必要な遺伝子についてより深い知見が得られれば、より効果的な治療法の開発が可能になると考えられる。本研究の意義は、M. abscessusにおいてlprg-mfsオペロンが病原性と不透過性の両方に必須であることを実証した点にある。さらに、本研究は細胞エンベロープの特性とリポアラビノマンナン分子の分布との間に相関があることを示しており、これらの重要な特性が媒介される特定のメカニズムの存在を示唆している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 7",
+        "query": "(JOURNAL:\"Microbial Ecology\" OR JOURNAL:\"Environmental Microbiology Reports\" OR JOURNAL:\"International Journal of Systematic and Evolutionary Microbiology\" OR JOURNAL:\"npj Biofilms and Microbiomes\" OR JOURNAL:\"Nature Reviews Microbiology\" OR JOURNAL:\"Trends in Microbiology\" OR JOURNAL:\"Annual Review of Microbiology\" OR JOURNAL:\"Microbial Cell\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.tim.2026.10.014",
+    "title": "Microbes and their habitats shape postglacial ecosystems.",
+    "abstract": "As glaciers retreat worldwide, microorganisms drive initial proglacial soil development. Ruka et al. reveal that microbial communities are strongly structured by the distinct biological habitats established during primary succession. The trajectories of postglacial ecosystems are thus shaped by reciprocal interactions between biological habitats and their associated microbial communities.",
+    "journal": "Trends in Microbiology",
+    "doi": "10.1016/j.tim.2026.10.014",
+    "date": "2026-11-09",
+    "authors": "Bradley JA.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43003734",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43003734",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbe",
+        "microbes",
+        "microbial",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5174,
+    "collected_at": "2026-11-20T03:12:52.480184+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "Europe PMC journals 7"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1016/j.tim.2026.10.014"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d06731bc3b4e7d8063c8a4c1874fcf540854f42429f93e9423113708561340b8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T03:47:30.053804+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "15291d1f3246b946ddaa1d6225c6850c757a5f52fdb44ba8ee133553052100f4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T03:47:30.053804+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "微生物とその生息環境が、氷河期後の生態系を形作っている。",
+    "abstract_ja": "世界各地で氷河が後退するにつれ、微生物が氷河期後の土壌形成の初期段階を牽引する。Rukaらは、微生物群集が一次遷移の過程で形成された固有の生物生息地によって強く構造化されていることを明らかにした。したがって、氷河期後の生態系の推移は、生物生息地とそれに関連する微生物群集との相互作用によって形作られる。"
   }
 ]
