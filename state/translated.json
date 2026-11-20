@@ -310699,5 +310699,279 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "LACA：長寿および老化関連の細胞・分子プログラムを探索するための種横断的な単一細胞リソース",
     "abstract_ja": "要旨 種によって最大寿命は異なり、中には極めて長寿な種も存在するが、その根底にある細胞・分子メカニズムは依然として十分に解明されていない。シングルセルトランスクリプトミクスの急速な進展にもかかわらず、シングルセル遺伝子発現プロファイルを種の寿命に系統的に結びつけるリソースは限られている。本稿では、134種にわたるシングルセルトランスクリプトームデータセットとその最大寿命を統合したデータベース「Longevity & Aging Cell Atlas (LACA)」を提案する。LACAには、シングルセルデータセットから得られた190種類のアノテーション付き細胞タイプを含む、1億4,800万個以上の細胞が収録されている。また、LACAは、長寿遺伝子の比較、遺伝子と寿命の相関、および細胞と寿命の相関を行う種横断的な解析ツールボックスを備えている。これらのツールにより、研究者は高度な計算専門知識を必要とせずに、進化的に保存された長寿メカニズムと、長寿メカニズムにおける種特異的な適応の進化の両方をより適切に解釈することが可能となる。さらに、LACAは百寿者のシングルセルアトラスおよびヒト免疫老化マルチオミクスアトラスを提供しており、本リソースの解析能力を実証するとともに、長寿関連解析のための11種類のモジュール、キュレートされた長寿ナレッジベースを含む統合ナレッジグラフ、および機能的な解釈をさらに促進する検索拡張型リサーチエージェントを備えている。本データベースは、https://www.longevityaging.net/ または http://8.142.154.29/LACA/ にて無料で利用可能である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.00680-26",
+    "title": "Impact of growth media on vancomycin susceptibility and mycobacterial cell wall integrity.",
+    "abstract": "Tuberculosis remains the leading cause of death by a single infectious agent, Mycobacterium tuberculosis, in the world. To tackle this disease, efforts are conducted, among others, to improve diagnosis coverage and treatment access, to develop an improved vaccine, and to find new antituberculous drugs or drug regimens. In vitro, bacteria usually tend to lose virulence factors to improve their fitness, mostly observed by an increased growth. This is also the case for M. tuberculosis strains and clinical isolates prone to lose phthiocerol dimycocerosates in the upper leaflet of their mycomembrane. This loss affects the cell wall integrity, as observed by an increased antimycobacterial activity of vancomycin, providing a potential bias in drug susceptibility testing. Here, we showed that M. tuberculosis culture conditions, such as a single subculture on 7H11 supplemented with oleic acid-albumin-dextrose-catalase, can restore vancomycin resistance and cell wall integrity but can also impact routine drug susceptibility assay by broth microdilution.ImportanceVancomycin susceptibility testing can identify Mycobacterium tuberculosis subcultures with compromised cell wall integrity due to phthiocerol dimycocerosates loss. A single pre-culture on potato-Sauton medium or on 7H11 supplemented with oleic acid-albumin-dextrose-catalase can restore cell wall integrity. This study underscores the importance of standardized culture protocols for reliable M. tuberculosis drug susceptibility testing.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.00680-26",
+    "date": "2026-11-02",
+    "authors": "Rens C, Constant P, Dewaele K, Balde R, Soetaert K, Daffé M, Frita R, Lefevre P, Mathys V, Rigouts L, Baulard A, Fontaine V.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42969498",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42969498",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5222,
+    "collected_at": "2026-11-20T11:50:28.841726+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1128/spectrum.00680-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b2bfb9641e3884550fcbf002b701ddb3df9b53c4265a352f75fb75cfced7f8b1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T12:41:57.996096+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4c9623ac5219f9c2c32eb8c39934bec3b40401b0be550b2dd6bb611f6003c723",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T12:41:57.996096+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "増殖培地がバンコマイシン感受性およびマイコバクテリア細胞壁の完全性に及ぼす影響",
+    "abstract_ja": "結核は、依然として世界における単一の感染因子である結核菌（Mycobacterium tuberculosis）による死因の第1位である。この疾患に対処するため、診断カバー率や治療へのアクセスの改善、改良ワクチンの開発、および新規抗結核薬や薬剤レジメンの探索などの取り組みが行われている。in vitroにおいて、細菌は通常、適応度を高めるために病原性因子を喪失する傾向があり、これは主に増殖能の亢進として観察される。これは、マイコメムブレンの上葉においてフチオセロール二ミコセロスエートを喪失しやすいM. tuberculosis株および臨床分離株においても同様である。この喪失は細胞壁の完全性に影響を及ぼし、それはバンコマイシンの抗マイコバクテリア活性の亢進によって観察され、薬剤感受性試験に潜在的なバイアスをもたらす可能性がある。本研究では、オレイン酸・アルブミン・デクスロース・カタラーゼを添加した7H11上での単一継代培養などのM. tuberculosis培養条件が、バンコマイシン耐性と細胞壁の完全性を回復させ得る一方で、ブロスマイクロダイリューションによるルーチンの薬剤感受性試験に影響を及ぼす可能性があることを示した。重要性 バンコマイシン感受性試験により、フチオセロール二ミコセロスエートの喪失により細胞壁の完全性が損なわれた結核菌継代培養を同定することができる。ジャガイモ-Sauton培地、またはオレイン酸・アルブミン・デクスロース・カタラーゼを添加した7H11上での単一前培養により、細胞壁の完全性を回復させることができる。本研究は、信頼性の高いM. tuberculosis薬剤感受性試験のための標準化された培養プロトコルの重要性を強調するものである。"
+  },
+  {
+    "id": "10.1093/nar/gkag1244",
+    "title": "ADCdb 2.0: clinical landscape and ADMET profiles of antibody–drug conjugates",
+    "abstract": "AbstractSystematically characterizing antibody-drug conjugates (ADCs) is essential for understanding their therapeutic properties, guiding molecular design, and supporting clinical development. Recently, the expanding clinical landscape of ADCs has generated extensive information on target antigens, therapeutic indications, and clinical trial pipelines, providing a valuable foundation for informing ADC development strategies. Moreover, ADMET profiles are critical for understanding the in vivo disposition, efficacy, and safety of ADCs. Integrating these accumulating clinical and pharmacological data is therefore necessary to enrich the evidence available for ADC development. In this study, ADCdb was updated to provide (i) detailed clinical landscape information for 542 ADCs, together with >3000 manually curated clinical trials from registries across nine registries and clinical trial platforms; (ii) >4000 ADMET profiles, including quantitative pharmacokinetic parameters and descriptive annotations supported by relevant references; and (iii) expanded pharmacological information and biological activity data comprising 13 088 ADC entries and 24 821 activity records, as well as ADC-specific functional annotations for 389 ADCs. Interactive visualization tools and antigen- and disease-centered search modules further enable systematic exploration of ADC composition, therapeutic indications, and clinical development. ADCdb 2.0 is expected to serve as a valuable resource for rational optimization of ADCs, and is accessible at https://idrblab.org/adcdb/",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1244",
+    "date": "2026-11-20",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1244/9103985?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5351,
+    "collected_at": "2026-11-20T12:01:03.805438+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1093/nar/gkag1244"
+    ],
+    "translation": {
+      "title": {
+        "hash": "460a5853b5435886f133d5dbadc7de2e13beceb51efd1e5bcc248fbe1eef1091",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T12:41:57.996096+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c381c42ed63f2305c222da0f4700f42f52a41313e2ff758ae2d430ed86b43d6f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T12:41:57.996096+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ADCdb 2.0：抗体薬物複合体の臨床的概況とADMETプロファイル",
+    "abstract_ja": "要旨抗体薬物複合体（ADC）を系統的に特性評価することは、その治療特性の理解、分子設計の指針策定、および臨床開発の支援において不可欠である。近年、ADCの臨床的展開の拡大に伴い、標的抗原、治療適応、および臨床試験パイプラインに関する膨大な情報が蓄積されており、ADC開発戦略に資する貴重な基盤となっている。さらに、ADMETプロファイルは、ADCの生体内動態、有効性、および安全性を理解する上で極めて重要である。したがって、蓄積されつつあるこれらの臨床的・薬理学的データを統合することは、ADC開発に利用可能なエビデンスを拡充する上で不可欠である。本研究では、ADCdbを更新し、(i) 542種類のADCに関する詳細な臨床的展開情報と、9つのレジストリおよび臨床試験プラットフォームのレジストリから手動でキュレーションされた3,000件以上の臨床試験、(ii) 定量的薬物動態パラメータおよび関連文献に裏付けられた記述的アノテーションを含む4,000件以上のADMETプロファイル、ならびに(iii) 13,088件のADCエントリーと24,821件の活性レコードからなる拡充された薬理学情報および生物学的活性データ、ならびに389種類のADCに対するADC特異的な機能的アノテーションを提供した。インタラクティブな可視化ツールおよび抗原・疾患中心の検索モジュールにより、ADCの組成、治療適応、および臨床開発の系統的な探索がさらに可能となる。ADCdb 2.0は、ADCの合理的最適化のための貴重なリソースとなることが期待されており、https://idrblab.org/adcdb/ からアクセス可能である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.02165-26",
+    "title": "Lactate accumulation triggered by RNA virus infection facilitates viral replication.",
+    "abstract": "As the terminal product of glycolysis, lactate has emerged as a crucial signaling molecule mediating metabolic reprogramming with immune regulation. Although RNA viruses are known to exploit host metabolism, the precise role of lactate accumulation in viral pathogenesis remains to be fully elucidated. Using Newcastle disease virus and influenza A virus as model pathogens, this study demonstrates that RNA virus infection rapidly activates host glycolysis and induces sustained lactate accumulation, thereby creating a microenvironment favorable for viral replication. Pharmacological inhibition of glycolysis markedly suppressed viral proliferation. In inhibition-rescue experiments, exogenous lactate supplementation reversed the antiviral immune gene and IRF3-phosphorylation changes induced by glycolytic inhibition. Adding exogenous sodium lactate without inhibiting glycolysis further repressed antiviral immune gene expression and IRF3 phosphorylation. Mechanistically, virus-induced lactate accumulation was associated with suppression of the retinoic acid-inducible gene I (RIG-I)-like receptor signaling pathway: excess lactate acted upstream of interferon regulatory factor 3 (IRF3), in a manner consistent with inhibition of the mitochondrial antiviral signaling protein (MAVS)-IRF3 axis, thereby attenuating type I interferon production. Together, these findings define a positive feedback loop in which RNA viruses exploit host metabolic reprogramming to accumulate lactate, which in turn restrains antiviral innate immunity and favors viral replication.IMPORTANCERNA viruses have no metabolism of their own and must rewire the host cell to replicate. Here, using two viruses from different families-Newcastle disease virus and influenza A virus-we show that infection rapidly drives host glucose uptake and glycolysis and causes lactate to accumulate. Lactate is not an inert by-product: blocking glycolysis lowers lactate, derepresses type I interferon and interferon-stimulated gene expression, and restricts viral replication, while adding lactate back reverses immune-signaling changes induced by glycolytic inhibition and further suppresses interferon regulatory factor 3 (IRF3) phosphorylation. Lactate therefore functions as an immunomodulatory effector linking virus-driven metabolic reprogramming to weakened innate immunity, consistent with inhibition of the mitochondrial antiviral signaling protein (MAVS)-IRF3 axis, forming a positive feedback loop that favoring replication. Since this loop was observed in two distinct RNA viruses, glycolysis and lactate handling may represent host-directed targets for antiviral intervention, while lactate's broader clinical relevance as an immune biomarker requires further investigation.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.02165-26",
+    "date": "2026-11-02",
+    "authors": "Zhang J, Wang J, Sun Y, Cai J, Hou Y, Zhang W, Cheng Y, Chen L, Ding C, Ren T.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42969508",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42969508",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5223,
+    "collected_at": "2026-11-20T11:50:28.841726+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1128/spectrum.02165-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5f35d34c0a0c6e2c21fcf9ba17166c1b92cadb0fec6a73bdb456cf6096f8b280",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T12:41:57.996096+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ee2aa723776ac2beb5a845590a7af8a641dd648f7ed1e54685defe04f1078ed5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T12:41:57.996096+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "RNAウイルス感染によって誘発される乳酸の蓄積は、ウイルスの複製を促進する。",
+    "abstract_ja": "解糖系の最終産物である乳酸は、免疫調節を伴う代謝リプログラミングを媒介する重要なシグナル伝達分子として注目されている。RNAウイルスが宿主の代謝を利用することは知られているが、ウイルスの病態形成における乳酸蓄積の正確な役割については、いまだ十分に解明されていない。本研究では、ニューカッスル病ウイルスおよびA型インフルエンザウイルスをモデル病原体として用い、RNAウイルス感染が宿主の解糖系を急速に活性化し、持続的な乳酸蓄積を誘導することで、ウイルス複製に有利な微小環境を作り出すことを実証した。解糖系の薬理学的阻害は、ウイルスの増殖を著しく抑制した。阻害・レスキュー実験において、外因性乳酸の補充は、解糖系阻害によって誘導された抗ウイルス免疫遺伝子およびIRF3のリン酸化変化を逆転させた。解糖系を阻害せずに外因性乳酸ナトリウムを添加すると、抗ウイルス免疫遺伝子の発現およびIRF3のリン酸化がさらに抑制された。機序的には、ウイルス誘導性の乳酸蓄積は、レチノイン酸誘導性遺伝子I（RIG-I）様受容体シグナル伝達経路の抑制に関連していた。すなわち、過剰な乳酸がインターフェロン調節因子3（IRF3）の上流で作用し、ミトコンドリア抗ウイルスシグナル伝達タンパク質（MAVS）-IRF3軸の阻害と整合する様式でIRF3の産生を減弱させ、その結果、I型インターフェロンの産生を抑制した。これらの知見を総合すると、RNAウイルスが宿主の代謝リプログラミングを利用して乳酸を蓄積させ、それがさらに抗ウイルス自然免疫を抑制してウイルス複製に有利に働くという正のフィードバックループが定義される。重要性：RNAウイルスは独自の代謝を持たず、複製のために宿主細胞の回路を書き換える必要がある。本研究では、異なる科に属する2種類のウイルス（ニューカッスル病ウイルスおよびA型インフルエンザウイルス）を用い、感染が宿主のグルコース取り込みと解糖系を急速に促進し、乳酸を蓄積させることを示した。乳酸は不活性な副産物ではない。解糖系を遮断すると乳酸が低下し、I型インターフェロンおよびインターフェロン刺激遺伝子発現の脱抑制が起こり、ウイルス複製が制限される。一方で、乳酸を補充すると、解糖系阻害によって誘導された免疫シグナル伝達の変化が逆転し、インターフェロン調節因子3（IRF3）のリン酸化がさらに抑制される。したがって、乳酸はウイルス駆動の代謝リプログラミングと自然免疫の減弱を結びつける免疫調節エフェクターとして機能しており、これはミトコンドリア抗ウイルスシグナル伝達タンパク質（MAVS）-IRF3軸の阻害と整合し、複製に有利な正のフィードバックループを形成している。このループが2種類の異なるRNAウイルスで観察されたことから、解糖系および乳酸処理は抗ウイルス介入の宿主指向性標的となる可能性がある一方、免疫バイオマーカーとしての乳酸のより広範な臨床的意義については、さらなる調査が必要である。"
+  },
+  {
+    "id": "10.1093/nar/gkag1144",
+    "title": "canSAR 2026—an update to the public drug discovery knowledgebase",
+    "abstract": "AbstractcanSAR (https://cansar.ai) serves as the world’s largest public platform for cancer drug discovery and translational research. It serves as an exploration and hypothesis generation platform for drug discovery through (i) fully integrating large, multidisciplinary data from public resources, as well as bespoke curated data, creating a connected, navigable drug discovery knowledge map; and (ii) applying a suite of machine learning and AI tools to generate novel insights. We share the latest updates to canSAR highlighting growth across all data, enhancements to the predictive algorithms, and continued improvements to the user experience. We leverage our latest open science chemical handling and druggability prediction tools to provide traceable insights. An increased focus of the platform is to provide “in-line” support and guidance to drug discovery exploration. We report the first incarnation of our high-fidelity, agentic-AI-generated, context-specific summaries, which we provide across the website for all human proteins to further aid users in synthesis and distillation of key information.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1144",
+    "date": "2026-11-20",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1144/9103984?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5352,
+    "collected_at": "2026-11-20T12:01:03.805438+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1093/nar/gkag1144"
+    ],
+    "translation": {
+      "title": {
+        "hash": "1717a122d4d39c22fc502ec883b682c4484b79c8d0d080574873555d72e6916f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T12:41:57.996096+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5708b86d7c1c5f617102cbe0817dd8f7e7d73490dbbfe3fc2ad4d03d02c50641",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T12:41:57.996096+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "canSAR 2026――公開創薬ナレッジベースの更新版",
+    "abstract_ja": "AbstractcanSAR (https://cansar.ai) は、がん創薬およびトランスレーショナルリサーチにおける世界最大の公開プラットフォームである。本プラットフォームは、(i) 公開リソースからの大規模かつ学際的なデータと、独自にキュレーションされたデータを全面的に統合し、相互に連結しナビゲート可能な創薬ナレッジマップを構築すること、および (ii) 機械学習およびAIツール群を適用して新たな知見を創出すること、を通じて、創薬のための探索および仮説生成プラットフォームとして機能している。本稿では、全データにわたる成長、予測アルゴリズムの強化、およびユーザーエクスペリエンスの継続的な改善を反映したcanSARの最新アップデートについて報告する。また、最新のオープンサイエンス向け化学物質取り扱いおよび薬物性予測ツールを活用し、追跡可能な知見を提供する。本プラットフォームでは、創薬探索に対する「インライン」のサポートとガイダンスの提供に一層注力している。さらに、エージェント型AIによって生成された高忠実度かつコンテキスト特化型の要約の初の実装について報告する。この要約をウェブサイト全体で提供することで、ユーザーが主要な情報の合成および蒸留をさらに円滑に行えるよう支援する。"
   }
 ]
