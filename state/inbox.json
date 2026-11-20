@@ -434792,5 +434792,958 @@
     "related_dois": [
       "10.1093/bioinformatics/btag820"
     ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/msphere.00561-26",
+    "title": "SARS-CoV-2 membrane (M) protein activates TLR4 to induce an inflammatory response.",
+    "abstract": "An excessive inflammatory response, also known as \"cytokine storm,\" is a major cause of severe COVID-19. Viral RNA and its structural proteins are key mediators of SARS-CoV-2-induced inflammation. While the immune sensors and host inflammatory responses induced by SARS-CoV-2 RNA and the structural proteins spike (S), envelope (E), and nucleocapsid (N) are well defined, the role of membrane (M) protein in inflammatory/antiviral response and the signaling pathway facilitating M protein-mediated immune response is not well characterized. Here, we show that SARS-CoV-2 M protein induces robust inflammatory cytokine responses in murine and human macrophages and lungs. We also show that the M protein-induced inflammatory response relies on TLR4 signaling and that MyD88 serves as the key adaptor driving inflammation, while TRIF is primarily required for the antiviral IFN response. Detailed evaluation of downstream signaling pathways highlighted the critical roles of mitogen-activated protein kinase (MAPK) molecules JNK and ERK1/2, followed by nuclear factor kappa B (NF-κB) and p38 signaling in the M protein-TLR4-mediated inflammatory response. Finally, we show that abrogation of M protein-induced ERK1/2 and p38 signaling reduced inflammatory cytokine production and rescued type I interferon production in wild-type macrophages, while inhibition of JNK and NF-κB suppressed the M protein-induced inflammatory and antiviral cytokine responses. Collectively, our results demonstrate that SARS-CoV-2 M protein induces pro-inflammatory cytokines and type I interferons via TLR4-MyD88/TRIF activation, with MAPK activation playing a dominant role, and offer specific targeting of MAPK signaling to mitigate SARS-CoV-2-induced excessive inflammation and pathology.ImportanceSevere COVID-19 is often caused by an excessive inflammatory response, but the role of the SARS-CoV-2 membrane (M) protein in this process has not been well understood. We show that the M protein strongly activates inflammatory and antiviral immune responses through TLR4 signaling and identify the key signaling pathways involved. We also demonstrate that selectively targeting MAPK signaling can reduce harmful inflammation while restoring antiviral interferon responses. These findings improve our understanding of how SARS-CoV-2 causes disease and identify potential therapeutic targets to limit excessive inflammation without compromising antiviral immunity.",
+    "journal": "mSphere",
+    "doi": "10.1128/msphere.00561-26",
+    "date": "2026-10-29",
+    "authors": "Johnson PM, Pabbineedi SM, Shrestha R, Whitley CJ, More S, Channappanavar R.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42954473",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42954473",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5199,
+    "collected_at": "2026-11-20T11:50:28.841726+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1128/msphere.00561-26"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/msphere.00457-26",
+    "title": "Natural variation of hypervirulent <i>Klebsiella</i> pathogenicity loci among Taiwan bloodstream isolates.",
+    "abstract": "Klebsiella pneumoniae is a major cause of both nosocomial and community-acquired infections, with hypervirulent (hvKP) strains causing severe disease in healthy individuals. In Southeastern Asia, diabetes mellitus is a recognized risk factor for hvKP-associated pyogenic liver abscesses. hvKP virulence is typically attributed to carriage of a large virulence plasmid encoding siderophore biosynthesis (iuc, iro) and mucoid regulator (rmpA, rmpA2) genes. Here, we analyzed 50 bloodstream isolates from Taipei, Taiwan, to investigate genomic and phenotypic characteristics of isolates from patients with or without diabetes mellitus. In diabetic patients and patients with liver abscesses, hvKP biomarkers were found in 66% (n = 33) and 64% (n = 32) of isolates, respectively. While we expected hvKP isolates to be overrepresented in this collection, we observed extensive diversity among hvKP pathogenicity loci, with strains of typical ST23 hvKP lineages carrying incomplete KpVP-1 virulence plasmids. This hvKP biomarker diversity is typically found in classical multidrug-resistant lineages that have acquired portions of the virulence plasmid. Phenotypic assays showed that hvKP biomarkers did not strictly predict hypermucoviscosity, capsule and siderophore production, or survival in serum. Loss of rmpA consistently eliminated hypermucoviscosity and reduced virulence in a murine pneumonia model, whereas aerobactin loss did not. In vivo studies demonstrated variations in virulence that could not be explained solely by differences in the number of hypervirulence-associated loci. These findings highlight the complexity of K. pneumoniae pathogenesis and demonstrate that while canonical biomarkers effectively distinguish hvKP from classical K. pneumoniae, they are insufficient to predict variation in virulence among hvKP strains. Our findings provide insight into the virulence spectrum of strains carrying incomplete plasmid configurations.IMPORTANCEK. pneumoniae poses a global health threat due to the convergence of antimicrobial resistance and hypervirulence. We identified substantial diversity in virulence plasmid content, including incomplete virulence plasmids within archetypal hvKP lineages, and showed that phenotypic and in vivo virulence traits cannot be fully explained by the presence or absence of individual hypervirulence-associated loci. While canonical biomarkers such as rmpA and iuc are widely used to distinguish hypervirulent strains, our analysis demonstrates that no single biomarker is sufficient to reliably predict pathogenic potential and that virulence depends on specific locus combinations and broader context. These findings highlight a critical gap in our understanding of hvKP pathogenesis, underscoring the need for more nuanced frameworks to evaluate virulence. This work has important implications for clinical diagnostics, surveillance, and risk assessment of emerging K. pneumoniae strains worldwide.",
+    "journal": "mSphere",
+    "doi": "10.1128/msphere.00457-26",
+    "date": "2026-10-27",
+    "authors": "Londono MC, Cronin RM, Usi ND, Nozick SH, Hauser AR, Chiu C-H, Kochan TJ.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42937327",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42937327",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5203,
+    "collected_at": "2026-11-20T11:50:28.841726+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1128/msphere.00457-26"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/msphere.00233-26",
+    "title": "Extracellular vesicles released by <i>Candida albicans</i> yeast cells impact candidiasis lethality in insect and murine models.",
+    "abstract": "Extracellular vesicles (EVs) are nano-sized lipid bilayer structures released by diverse cell types. For pathogenic fungi, EVs play critical roles by modulating immune responses and influencing disease progression. Previously, we demonstrated that vaccination with EVs from Candida albicans promoted protection in immunosuppressed mice subsequently infected with lethal doses of this organism. However, the impact of EVs in the presence of fungi is poorly investigated in vivo. Here, we demonstrated that co-injection of C. albicans yeasts and their EVs into Galleria mellonella larvae led to a rapid larval death compared to yeast cells alone. This effect seems to be associated with thermosensitive compounds, such as secreted aspartic proteases (Saps), virulence factors carried by C. albicans EVs. EVs from SAP knockout (KO) strains (sap1/2/3Δ and sap9Δ) impaired this harmful effect, confirming the crucial role of Saps. Deletion of SAP1-3 prevented the EV-associated decrease in hemocyte density, whereas SAP9 deletion impaired the increase in oxidative response and melanin production. In a murine model of disseminated candidiasis with intraperitoneal infection, the deleterious effect of C. albicans EVs was observed only when co-injected intraperitoneally with yeasts, but not when EVs were administered intramuscularly. Therefore, both fungal cells and EVs are required for the pathogenic effects. Our findings confirm the aggressive role of fungal EVs in the presence of C. albicans and reinforce their contribution to candidiasis, elucidating EV-pathogen interactions. Although these results do not preclude the use of C. albicans EVs in vaccine formulations, they emphasize the need to consider delivery route and presence of virulence factors.IMPORTANCEFungal infections caused by Candida albicans represent a significant threat, particularly to immunocompromised individuals. Extracellular vesicles (EVs) from fungi have been explored as promising vaccine formulations, with demonstrated protective effects. However, previous studies have also suggested that EVs may contribute to disease progression. Here, we demonstrate that EVs enhance fungal pathogenicity in vivo and identify key factors driving this effect. We show that EV-associated aspartyl proteases (secreted aspartic proteases [Saps]), along with other virulence components, directly contribute to accelerated host mortality when EVs are present alongside fungal cells, and that this outcome depends on both their composition and route of delivery. By demonstrating the involvement of EV-associated Saps in disease progression, this work advances our understanding of host-pathogen interactions and reveals critical considerations for the safe development of EV-based therapeutic and vaccine strategies.",
+    "journal": "mSphere",
+    "doi": "10.1128/msphere.00233-26",
+    "date": "2026-10-20",
+    "authors": "Piffer AC, Valdez AF, Bonilla JJA, da Silva NM, Sabino ALRdN, Kornetz J, Giovanini L, Santos ALS, Ramos LS, Rodrigues ML, Hube B, Nimrichter L.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42899683",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42899683",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Candida",
+        "fungal",
+        "fungi",
+        "yeast",
+        "yeasts"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5204,
+    "collected_at": "2026-11-20T11:50:28.841726+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1128/msphere.00233-26"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/msystems.00868-26",
+    "title": "Differential impacts of early, extended-spectrum, and last-resort β-lactams on manure-derived microbiomes and resistomes in an <i>in vitro</i> model.",
+    "abstract": "Understanding the environmental dissemination of antimicrobial resistance (AMR) is crucial for mitigating its spread and reducing the clinical burden of resistant infections. In a previous study, we demonstrated that copiotrophic enrichment in a medium that stimulates the growth of gut-associated bacteria can reveal clinically associated bacterial populations and antibiotic resistance genes (ARGs) that are not detected through direct environmental sampling. In the present study, we applied this enrichment approach to poultry manure to examine how β-lactamase-resistant antibiotics (cefotaxime and meropenem) shape the composition and resistance profiles of copiotrophic, gut-like microbial community relative to an earlier β-lactam (ampicillin) and to antibiotic-free controls. Our results show that extended-spectrum and last-resort β-lactams induced more pronounced shifts in microbial diversity, resistome, and mobilome profiles compared to ampicillin. When focusing on specific taxa, such as clinically relevant enteric bacteria and both susceptible and β-lactam-resistant coliforms, differential responses were observed correlating to the antimicrobial range of action. Moreover, cefotaxime and meropenem exerted different effects on the relative abundance of enteric bacteria and plasmids harboring multiple ARGs. Together, these findings underline how the diversity of pathogen and AMR indicators in gut microbiomes may be shaped by different selective pressures imposed by β-lactamase-resistant antibiotics.IMPORTANCEThis study explores how different generations of β-lactam antibiotics shape microbial communities and antibiotic resistance in a gut-like in vitro system. Using a metabolically driven synthetic community derived from manure, we found that advanced β-lactams such as cefotaxime and meropenem led to stronger and more specific shifts in both community composition and resistance gene profiles compared to ampicillin. These results emphasize that the ecological impact of antibiotics depends not only on whether bacteria are inhibited but also on the spectrum of activity of each compound. In addition, the system we used provides a simple and controllable way to study interactions among antibiotics, microbial communities, and the resistome. Overall, this work offers a clearer ecological view of how clinically important antibiotics may influence microbiomes and the spread of antibiotic resistance genes.",
+    "journal": "mSystems",
+    "doi": "10.1128/msystems.00868-26",
+    "date": "2026-10-21",
+    "authors": "Davidovich C, Blum SE, Cytryn E.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42904640",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42904640",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "microbial",
+        "microbiome",
+        "microbiomes"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5205,
+    "collected_at": "2026-11-20T11:50:28.841726+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1128/msystems.00868-26"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.00723-26",
+    "title": "Comprehensive profiling of genotype-specific dengue antibody responses using a newly developed single-round infectious particle panel.",
+    "abstract": "Neutralizing antibodies provide critical protection against dengue virus (DENV) infections. However, under certain conditions, antibodies can also enhance infection and contribute to severe disease through antibody-dependent enhancement (ADE). ADE can occur through extrinsic mechanisms, in which antibody-opsonized virions engage with Fcγ receptors (FcγRs) on target cells to facilitate increased viral entry, while intrinsic mechanisms have been proposed in which FcγR-mediated uptake triggers intracellular pathways that promote viral replication. The extensive genetic diversity of DENV further complicates the evaluation of antibody functionality, as antibodies may exhibit distinct neutralizing and enhancing activities against different viral genotypes. Here, we developed a single-round infectious particle (SRIP) panel representing 17 DENV genotypes across all four DENV serotypes. This genotype-inclusive platform enables assessment of antibody-mediated neutralization and FcγR-dependent enhancement of infection through luciferase reporter quantification. Using this panel, we evaluated antibody responses from DENV-infected individuals, healthy volunteers, and flavivirus-cross-reactive or DENV-specific monoclonal antibodies. Our findings reveal genotype-specific variations in antibody-mediated neutralization and enhancement, emphasizing the complex interplay between antibody responses and DENV genetic diversity. This SRIP panel provides a robust approach for profiling functional antibodies against genetically diverse DENV strains. While the current platform primarily quantifies extrinsic ADE, its single-round infection format and intracellular replicon-based readout provide a foundation for future investigations of intrinsic ADE mechanisms. Overall, this platform offers broad applications for studying dengue immunity, evaluating vaccine-induced antibody responses, and advancing our understanding of antibody-mediated protection and disease enhancement.ImportanceDengue virus (DENV) comprises four serotypes and substantial genetic diversity, which can influence the ability of antibodies to neutralize or enhance infection. However, comparative assessment of antibody functionality across diverse DENV genotypes remains challenging because differences in viral genetic backgrounds can confound functional measurements. We developed a single-round infectious particle (SRIP) panel representing 17 DENV genotypes in which the prM and E structural proteins are varied on a common replicon backbone. This design provides a standardized platform for directly comparing antibody-mediated neutralization and Fcγ receptor-dependent enhancement across genetically diverse DENV strains. By characterizing antibody responses against a broad range of genotypes, the panel can reveal differences in functional antibody activity that may be overlooked when using a limited number of representative strains. The platform is therefore useful for investigating how DENV genetic diversity influences antibody-mediated protection and extrinsic antibody-dependent enhancement (ADE), as well as for evaluating the breadth of antibody responses induced by infection or vaccination. Although the current platform primarily quantifies extrinsic ADE, its single-round infection format and quantitative intracellular reporter readout provide a foundation for future studies investigating intrinsic ADE in more physiologically relevant immune cell models. This genotype-inclusive panel offers a practical approach for standardized functional profiling of dengue antibodies and may facilitate improved evaluation of vaccine-induced immunity and antibody responses across the genetic diversity of DENV.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.00723-26",
+    "date": "2026-11-09",
+    "authors": "Balingit JC, Suzuki R, Matsuda M, Xayavong D, Takamatsu Y, Buerano C, Ngwe Tun MM, Morita K.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43001792",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43001792",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5206,
+    "collected_at": "2026-11-20T11:50:28.841726+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1128/spectrum.00723-26"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.02172-26",
+    "title": "A multicenter performance evaluation of imipenem-relebactam gradient diffusion susceptibility testing for <i>Pseudomonas aeruginosa</i>.",
+    "abstract": "Imipenem-relebactam (I/R) is a beta-lactam/beta-lactamase inhibitor combination given with cilastatin that is indicated for the treatment of complicated urinary tract infections, including pyelonephritis and complicated intra-abdominal infections in patients. Recently, a new gradient diffusion method for antimicrobial susceptibility testing of this antibiotic was developed for Pseudomonas aeruginosa (ETEST IRPA) as an alternative to broth microdilution (BMD). Our objective was to evaluate the performance of the I/R ETEST in comparison to BMD across three external and one internal study sites for 437 (77 challenge, 360 clinical) P. aeruginosa isolates. Using the U.S. Food and Drug Administration (FDA) interpretive breakpoints, ETEST IRPA achieved a 97.7% (427/437) essential agreement (EA), 91.1% (398/437) categorical agreement (CA), 0% very major errors (VMEs), 0.9% (3/329) major errors (MEs), and 8.2% (36/437) minor errors (mEs). Using the European Committee on Antimicrobial Susceptibility Testing (EUCAST) interpretive breakpoints, ETEST IRPA achieved a 97.7% (427/437) EA, 93.8% (410/437) CA, 12% (13/108) VME, and 4.2% (14/329) ME. Both bias and trending were in alignment with regulatory requirements. Reproducibility testing on 10 strains showed 99.6% (269/270) of results were within ±1 doubling dilution of the modal minimum inhibitory concentration (MIC). MIC50 and MIC90 values for imipenem were 8 and 32, respectively, in comparison to 1 and 8 with the addition of relebactam as determined by ETEST. In conclusion, ETEST IRPA provides both accurate and reproducible results for performing antimicrobial susceptibility testing of P. aeruginosa when interpreted with both FDA and EUCAST criteria.IMPORTANCEAntimicrobial susceptibility testing is key to proper treatment of bacterial infections. Broth microdilution is the gold standard for antimicrobial susceptibility testing; however, it can be time-consuming and requires high levels of technical expertise. This study evaluates a new gradient diffusion method for antimicrobial susceptibility testing of imipenem-relebactam against Pseudomonas aeruginosa. The findings support the use of imipenem-relebactam gradient diffusion as an accurate and reproducible method of antimicrobial susceptibility testing against Pseudomonas aeruginosa.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.02172-26",
+    "date": "2026-11-09",
+    "authors": "Macom RV, Csiki-Fejer E, Collange A, Hardy DJ, Wootton M, Zambardi G, Yarbrough ML.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43001786",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43001786",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Pseudomonas",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5207,
+    "collected_at": "2026-11-20T11:50:28.841726+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1128/spectrum.02172-26"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "letter"
+    ],
+    "id": "10.1128/spectrum.00384-26",
+    "title": "Miscalculation of virulence factors and their frequency in <i>Acinetobacter baumannii</i>.",
+    "abstract": "",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.00384-26",
+    "date": "2026-11-09",
+    "authors": "Feng C.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43001779",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43001779",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5208,
+    "collected_at": "2026-11-20T11:50:28.841726+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1128/spectrum.00384-26"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.01265-26",
+    "title": "Global, regional, and national burden of syphilis in children under 5 years from 1990 to 2021.",
+    "abstract": "Mother-to-child transmission of syphilis has raised much concern for the dramatically increasing incidence in recent years. This study aims to assess the global, regional, and national disease burden of syphilis in children under 5 years from 1990 to 2021. Data were extracted from the 2021 Global Burden of Disease study. Temporal trends were evaluated using the average annual percentage change. Segmented regression was applied to estimate breakpoints and the corresponding slopes. Spearman correlation analysis was performed to analyze the correlation of disease burden and SDI. Slope index of inequality and concentration index were calculated, and ARIMA model was performed. In 2021, an estimated 384,121 (95% UI: 314,943 to 460,835) new cases were reported among syphilis under 5 years, with an age-standardized incidence rate of 58.36 (95% UI: 47.85 to 70.02) per 100,000 population. Reported death cases were 72,148 (95% UI: 27,130 to 144,529) with an ASR of 10.96 (95% UI: 4.12 to 21.96). A sharp increase in both incidence and prevalence has been observed since 2016, with APCs as high as 7.06% and 8.11%. The mortality and DALY rates have increased from 2019 with an APC of 7.92%. The neonatal period contributed to 97.7% deaths and DALYs. The disease burden is inversely associated with overall socioeconomic development, with disparities persisting between higher- and lower-resource regions and countries. These data suggest a global re-emergence of syphilis in children under 5 years and highlight the priority for enhancing prenatal screening and interventions, providing timely and adequate maternal treatment, and preventing neonatal mortality.ImportanceMother-to-child transmission of syphilis has raised much concern for the dramatically increasing incidence and societal well-being in recent years. We depict the global, regional, and national temporal trend of syphilis in children under 5 years from 1990 to 2021, and our study has demonstrated a sharp upward trend in disease burden in recent years. The neonatal death contributed to 97.7% deaths and DALYs in syphilis among children under 5 years, indicating that premature mortality was the overwhelming driver of DALYs. The disease burden is inversely associated with overall socioeconomic development, with disparities persisting between higher- and lower-resource regions and countries. By understanding the trends and patterns, policymakers and healthcare providers can develop targeted and evidence-based strategies to reduce the mother-to-child transmission and overall burden of syphilis in children under 5 years.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.01265-26",
+    "date": "2026-11-04",
+    "authors": "Feng X, Lu Y, Zhu L, Tian T, Jiang N, Zhou P.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42980161",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42980161",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5213,
+    "collected_at": "2026-11-20T11:50:28.841726+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1128/spectrum.01265-26"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.00365-26",
+    "title": "Wall shear stress influences adhesion and extravasation of <i>Borrelia burgdorferi</i> in a 3D tissue-engineered microvascular model.",
+    "abstract": "Lyme disease is a tick-borne disease primarily caused by the bacterium Borrelia burgdorferi (Bb). Following a tick bite, Bb is injected into the dermis and colonizes the local tissue, where it can spread to distant organs through the vascular system. Although dissemination is a crucial factor in disease progression, our understanding of the mechanisms and factors that affect Bb dissemination through circulation is incomplete. To assess the role of wall shear stress (WSS) on Bb adhesion and extravasation, we perfused a 3D tissue-engineered microvessel with fluorescently labeled Bb at different wall shear stresses. The rate of Bb adhesion and extravasation from the microvessel was strongly dependent on WSS. Bb adhered to the endothelium in an elongated morphology and occasionally exhibited \"flipping\" events with one end of the Bb anchored and the other end detaching and reattaching downstream. Finally, circulating Bb did not induce endothelial activation following 6 h of perfusion, although increased microvessel permeability at low WSS was correlated with increased Bb adhesion events. Our results provide a new approach to investigating Bb dissemination and offers new insights into the mechanisms of Bb extravasation.IMPORTANCEFollowing a tick bite, Borrelia burgdorferi (Bb), the causative agent for Lyme disease, can disseminate to distant organs through the vascular system. Here, we utilize a 3D tissue-engineered microvessel model to gain insight into how wall shear stress (WSS) impacts Bb extravasation and Bb migration behavior across endothelial cells. During perfusion, Bb transiently adhered to the endothelium prior to detaching or extravasating into the surrounding extracellular matrix. The number of adhesion events was strongly dependent on WSS, and extravasation events were only observed at the lowest WSS. Adherent Bb were usually elongated and aligned in the direction of flow, and did not exhibit the helical morphology associated with migration under static conditions or in the extracellular matrix. Adherent Bb exhibited \"flipping\" events in which the back (upstream) end of the Bb detached and subsequently reattached downstream, becoming the front end while the other end remained anchored to the endothelium.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.00365-26",
+    "date": "2026-11-04",
+    "authors": "Xia Z, Wang L, Chung C, Searson PC.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42980158",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42980158",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacterium"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5216,
+    "collected_at": "2026-11-20T11:50:28.841726+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1128/spectrum.00365-26"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.00207-26",
+    "title": "Drug resistance and molecular epidemiology of pediatric <i>Mycoplasma pneumoniae</i> isolates in Southern China.",
+    "abstract": "To investigate antimicrobial susceptibility and molecular typing of recent pediatric Mycoplasma pneumoniae strains, analyze the correlations between drug resistance, pneumonia severity, and strain types, and provide evidence for precise M. pneumoniae infection management. Standard M. pneumoniae isolation and culture were applied to bronchoalveolar lavage fluid from 325 M. pneumoniae-infected children, with 23S rRNA resistance mutation detection. Antimicrobial susceptibility testing (eight antibiotics, microbroth dilution) was performed on 154 culture-positive strains, alongside multiple locus variable-number tandem repeat analysis (MLVA), whole-genome sequencing, and single-nucleotide polymorphism (SNP) genotyping. M. pneumoniae showed high macrolide resistance (99.35% for erythromycin and azithromycin), but high susceptibility to moxifloxacin/levofloxacin, with minocycline/doxycycline sensitivity at 98.71%. The 23S rRNA mutations occurred in 97.4% (150/154). MLVA type 4-5-7-2 dominated (135/154), with minor types totaling 15 cases. SNP typing clustered strains into four groups, mostly EC1 (138/154), with four genes showing cross-cluster mutations. Southern Chinese M. pneumoniae strains exhibit high macrolide resistance but good minocycline/doxycycline susceptibility, with EC1-cluster dominance driving rapid spread. This supports individualized therapy and epidemic trend tracking for pediatric M. pneumoniae lung infections.ImportanceThis study sheds light on why many children with Mycoplasma pneumoniae pneumonia do not respond well to common macrolide antibiotics-over 99% of strains in Southern China are resistant. It identifies effective alternative drugs and pinpoints the dominant spreading strain, helping doctors choose precise treatments. For public health, it provides key data to track outbreaks, guiding targeted surveillance and better management of pediatric respiratory infections post-COVID-19.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.00207-26",
+    "date": "2026-11-05",
+    "authors": "Wang H, Li C, Li P, Tan K, Deng G, Chen Y, Zhou L, Ren Z, Zhang Y, Zhang W, Chen J, Deng J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42986009",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42986009",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5219,
+    "collected_at": "2026-11-20T11:50:28.841726+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1128/spectrum.00207-26"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.02146-26",
+    "title": "Lyme disease <i>Borrelia</i> spirochetes are naturally resistant to clinically relevant concentrations of rifampin, trimethoprim, and dapsone.",
+    "abstract": "A number of health care providers recommend the antibiotics rifampin, trimethoprim, and/or dapsone for treatment of Lyme disease. In opposition, previous studies found that Lyme disease-causing Borrelia are innately resistant to those antibiotics at concentrations that would be lethal to other bacterial species. To resolve those contradictions, multiple genospecies and strains of Lyme disease-causing spirochetes were assessed for their ability to grow and replicate in the presence of these drugs. For each antibiotic, the minimum concentrations necessary to prevent growth of Borrelia burgdorferi sensu stricto type strain B31 exceeded 300 µg/mL. All of the tested genospecies of Lyme disease, Borrelia, grew and replicated in the presence of 100 µg/mL or more of antibiotic. In contrast, prior studies determined that maximum serum concentrations of these antibiotics in humans and laboratory animals are less than 15 µg/mL. The current study's results indicate that rifampin, trimethoprim, and dapsone are unlikely to have any positive effect in clearing Lyme disease-causing Borrelia infections.ImportanceThere are conflicting reports on the efficacy of using the antibiotics rifampin, trimethoprim, or dapsone against the Lyme disease spirochete, Borrelia burgdorferi (sensu lato). The present studies found that the concentration of antibiotic necessary to prevent borrelial growth and replication, alone or in combination, exceeded 200 µg/mL for all tested strains of B. burgdorferi sensu lato. In contrast, previous studies of humans and mice found that clinically relevant dosages of these antibiotics yielded maximum serum concentrations of 15 µg/mL or less. All together, these data indicate that these pharmaceuticals are not likely to be effective in curing B. burgdorferi (sl) infections.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.02146-26",
+    "date": "2026-11-05",
+    "authors": "Jusufovic N, Saylor TC, Krusenstjerna AC, Stevenson B.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42986002",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42986002",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5220,
+    "collected_at": "2026-11-20T11:50:28.841726+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1128/spectrum.02146-26"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.02486-26",
+    "title": "Stability of therapeutic bacteriophages in clinically approved crystalloid infusion solutions.",
+    "abstract": "The growing burden of antimicrobial resistance underscores the need for effective alternatives to conventional antibiotics, with bacteriophage therapy representing a promising approach. However, insufficient product stability during storage and administration may reduce the delivered dose and confound assessments of clinical efficacy. Clinically approved crystalloid infusion solutions could facilitate phage preparation and administration, but their suitability for phage storage remains poorly characterized. The stability of four virulent bacteriophages targeting Pseudomonas aeruginosa or Staphylococcus aureus was evaluated in sodium chloride 0.45%, sodium chloride 0.9%, Ringer's lactate, Ringer's acetate, and saline magnesium (SM) buffer. Phage preparations containing 10⁹ plaque-forming units per mL were stored at 4°C, -20°C, or -80°C, with or without 10% glycerol, for up to 6 months. Phage infectivity was highly dependent on the phage, solution, and storage temperature. Buffered solutions generally preserved infectivity better than saline, particularly under frozen conditions. Glycerol improved stability during freezing, although the magnitude of this effect varied among phages and was most apparent in saline solutions. Storage at -80°C with glycerol provided the most consistent preservation across all four phages, with titers remaining close to baseline. Ringer's solutions supported high stability at -80°C also without glycerol. By contrast, storage at 4°C resulted in greater variability and reduced stability for several phages. These findings demonstrate that clinically approved crystalloid solutions can serve as vehicles for both phage storage and administration and suggest a need for phage-specific stability testing.ImportanceReliable bacteriophage therapy requires formulations that preserve phage activity during storage and clinical administration. Yet, standardized approaches to phage formulation and storage remain lacking, and many clinical applications still rely on empirical practices rather than evidence-based pharmaceutical principles. This study addresses an important translational barrier by examining the stability of therapeutically relevant phages targeting Staphylococcus aureus and Pseudomonas aeruginosa in crystalloid solutions routinely used for intravenous administration. Comparison of distinct phages across different formulations, temperatures, and storage durations demonstrates that stability depends strongly on the individual phage and storage conditions. These findings expand the limited evidence on phage stability in clinically applicable formulations and reinforce the rationale for individual phage stability testing during product development to ensure the delivery of an active and consistent therapeutic dose.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.02486-26",
+    "date": "2026-11-04",
+    "authors": "Boross C, Guggiari T, Zurbruegg SM, Que Y-A, Gerber JL.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42980148",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42980148",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Pseudomonas",
+        "bacteriophage",
+        "bacteriophages",
+        "phage",
+        "phages"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5221,
+    "collected_at": "2026-11-20T11:50:28.841726+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1128/spectrum.02486-26"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.00680-26",
+    "title": "Impact of growth media on vancomycin susceptibility and mycobacterial cell wall integrity.",
+    "abstract": "Tuberculosis remains the leading cause of death by a single infectious agent, Mycobacterium tuberculosis, in the world. To tackle this disease, efforts are conducted, among others, to improve diagnosis coverage and treatment access, to develop an improved vaccine, and to find new antituberculous drugs or drug regimens. In vitro, bacteria usually tend to lose virulence factors to improve their fitness, mostly observed by an increased growth. This is also the case for M. tuberculosis strains and clinical isolates prone to lose phthiocerol dimycocerosates in the upper leaflet of their mycomembrane. This loss affects the cell wall integrity, as observed by an increased antimycobacterial activity of vancomycin, providing a potential bias in drug susceptibility testing. Here, we showed that M. tuberculosis culture conditions, such as a single subculture on 7H11 supplemented with oleic acid-albumin-dextrose-catalase, can restore vancomycin resistance and cell wall integrity but can also impact routine drug susceptibility assay by broth microdilution.ImportanceVancomycin susceptibility testing can identify Mycobacterium tuberculosis subcultures with compromised cell wall integrity due to phthiocerol dimycocerosates loss. A single pre-culture on potato-Sauton medium or on 7H11 supplemented with oleic acid-albumin-dextrose-catalase can restore cell wall integrity. This study underscores the importance of standardized culture protocols for reliable M. tuberculosis drug susceptibility testing.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.00680-26",
+    "date": "2026-11-02",
+    "authors": "Rens C, Constant P, Dewaele K, Balde R, Soetaert K, Daffé M, Frita R, Lefevre P, Mathys V, Rigouts L, Baulard A, Fontaine V.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42969498",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42969498",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5222,
+    "collected_at": "2026-11-20T11:50:28.841726+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1128/spectrum.00680-26"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.02165-26",
+    "title": "Lactate accumulation triggered by RNA virus infection facilitates viral replication.",
+    "abstract": "As the terminal product of glycolysis, lactate has emerged as a crucial signaling molecule mediating metabolic reprogramming with immune regulation. Although RNA viruses are known to exploit host metabolism, the precise role of lactate accumulation in viral pathogenesis remains to be fully elucidated. Using Newcastle disease virus and influenza A virus as model pathogens, this study demonstrates that RNA virus infection rapidly activates host glycolysis and induces sustained lactate accumulation, thereby creating a microenvironment favorable for viral replication. Pharmacological inhibition of glycolysis markedly suppressed viral proliferation. In inhibition-rescue experiments, exogenous lactate supplementation reversed the antiviral immune gene and IRF3-phosphorylation changes induced by glycolytic inhibition. Adding exogenous sodium lactate without inhibiting glycolysis further repressed antiviral immune gene expression and IRF3 phosphorylation. Mechanistically, virus-induced lactate accumulation was associated with suppression of the retinoic acid-inducible gene I (RIG-I)-like receptor signaling pathway: excess lactate acted upstream of interferon regulatory factor 3 (IRF3), in a manner consistent with inhibition of the mitochondrial antiviral signaling protein (MAVS)-IRF3 axis, thereby attenuating type I interferon production. Together, these findings define a positive feedback loop in which RNA viruses exploit host metabolic reprogramming to accumulate lactate, which in turn restrains antiviral innate immunity and favors viral replication.IMPORTANCERNA viruses have no metabolism of their own and must rewire the host cell to replicate. Here, using two viruses from different families-Newcastle disease virus and influenza A virus-we show that infection rapidly drives host glucose uptake and glycolysis and causes lactate to accumulate. Lactate is not an inert by-product: blocking glycolysis lowers lactate, derepresses type I interferon and interferon-stimulated gene expression, and restricts viral replication, while adding lactate back reverses immune-signaling changes induced by glycolytic inhibition and further suppresses interferon regulatory factor 3 (IRF3) phosphorylation. Lactate therefore functions as an immunomodulatory effector linking virus-driven metabolic reprogramming to weakened innate immunity, consistent with inhibition of the mitochondrial antiviral signaling protein (MAVS)-IRF3 axis, forming a positive feedback loop that favoring replication. Since this loop was observed in two distinct RNA viruses, glycolysis and lactate handling may represent host-directed targets for antiviral intervention, while lactate's broader clinical relevance as an immune biomarker requires further investigation.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.02165-26",
+    "date": "2026-11-02",
+    "authors": "Zhang J, Wang J, Sun Y, Cai J, Hou Y, Zhang W, Cheng Y, Chen L, Ding C, Ren T.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42969508",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42969508",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5223,
+    "collected_at": "2026-11-20T11:50:28.841726+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1128/spectrum.02165-26"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.00355-26",
+    "title": "Slowly burning down the house: the role of calcium in spotted fever rickettsiosis pathogenesis.",
+    "abstract": "Spotted fever group rickettsiae (SFGR) infect microvascular endothelial cells, increasing vascular permeability, a major pathophysiological effect with unclear underlying factors. To accurately model this disease feature, we used a microvascular barrier model that continuously monitors transendothelial electrical resistivity in brain microvascular endothelial cell barriers. Using this model, we previously showed that Rickettsia parkeri-infected microvascular endothelial cells treated with voltage-gated L-, T-, and N-type calcium channel blocker (VGCCb) benidipine delayed in vitro vascular permeability. This study aimed to investigate whether host calcium signaling modulation and metabolic stress with SFGR infection are primary drivers of rickettsial fitness and the subsequent loss of vascular integrity. We hypothesize that SFGR infections, while consuming host cell energy resources such as ATP, lead to modulation of microvascular endothelial cell calcium transport that enhances bacterial fitness, prefacing collateral barrier dysfunction. We confirmed that benidipine, the L-type VGCCb nifedipine, and the membrane-active divalent ion chelator DP-b99 have dose-dependent effects on vascular permeability, as measured by electric cell-substrate impedance sensing, which result in delayed rickettsial growth, as measured by qPCR, without direct bactericidal activity. During R. parkeri infection, intracellular calcium concentrations increased and ATP concentrations decreased simultaneously; these effects were mitigated by benidipine. VGCCb and DP-b99 treatment sustained VE-cadherin junctions, seen with immunofluorescence microscopy, similar to uninfected microvascular endothelial cells, corresponding to barrier integrity preservation. In addition to delayed rickettsial growth, VGCCbs and DP-b99 inhibited rickettsial actin tail formation, reduced cell-to-cell spread, and increased bacterial length by impacting FtsZ-ring localization, evaluated by immunofluorescence microscopy and plaque assay. Furthermore, bacterial protein synthesis is required, as replicating but not heat-killed R. parkeri caused microvascular endothelial cell barrier dysfunction, and a subinhibitory doxycycline dose delayed R. parkeri-induced microvascular endothelial cell dysfunction without impacting R. parkeri growth. Limiting calcium access disrupts R. parkeri growth by interrupting bacterial elongation and division, actin tail formation, and cell-to-cell spread, mitigating R. parkeri-induced microvascular endothelial cell barrier permeability in vitro. This suggests that rickettsial interference with host cell metabolism triggers calcium entry and accessibility, key in rickettsial fitness, and pathogenicity.IMPORTANCEThis work investigated pathogen- and host-associated factors contributing to SFGR disease pathogenesis, as measured by vascular permeability. Our findings demonstrate that SFGR disrupts endothelial cell homeostasis by causing intracellular calcium influx, a process that is critical for rickettsial fitness and pathogenesis. Rickettsial growth and cell-to-cell spread are dependent on host cell calcium, underscoring the essential role of Ca²+ access and linking bacterial fitness to calcium-dependent host processes. Although blocking calcium channels suppresses immune cell activation in vitro and increases mortality in an SFGR murine model in vivo, these findings warrant further investigation into whether selectively targeting endothelial cell-specific calcium signaling could reduce SFGR-associated vascular permeability without compromising innate immune responses. Such an approach may improve SFGR-related morbidity and mortality. Elucidating the role of calcium signaling in the obligate intracellular lifestyle of rickettsiae provides deeper insight into fundamental rickettsial biology and the mechanisms driving severe disease.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.00355-26",
+    "date": "2026-10-29",
+    "authors": "Farner JM, Nguyen T, Londoño AF, Kim Y, Grab DJ, Goley E, Dumler JS.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42954458",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42954458",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5224,
+    "collected_at": "2026-11-20T11:50:28.841726+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1128/spectrum.00355-26"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.02238-26",
+    "title": "Resensitization of colistin-resistant bacteria by the combination of colistin and L-arginine.",
+    "abstract": "Colistin is the last-resort antibiotic for the clinical treatment of infections caused by multidrug-resistant Gram-negative bacteria. However, the emergence of colistin-resistant bacteria, particularly those harboring the mcr-1 gene, has severely compromised the therapeutic efficacy of colistin. Herein, we demonstrated that L-arginine restores colistin susceptibility in colistin-resistant bacteria, including those with intrinsic or acquired resistance. The combination of colistin and L-arginine effectively treated murine acute peritonitis caused by a colistin-resistant bacterial infection, with no toxicity observed in either in vitro or in vivo assays. Mechanistically, we revealed that the combination enhances the permeability of the cell membrane, thereby promoting the influx of colistin, ATP efflux, and the level of reactive oxygen species (ROS), ultimately leading to the death of colistin-resistant bacteria. Furthermore, the combination downregulates membrane lipid-related genes fabZ and fadL, consequently suppressing fatty acid synthesis. This inhibition resulted in the uneven distribution of membrane lipids and lipopolysaccharide (LPS), which further increased membrane permeability. In sum, our findings indicate that the combination of colistin and L-arginine successfully reverses the colistin resistance phenotype, providing a potential therapeutic strategy to combat infections caused by colistin-resistant bacteria.IMPORTANCEThe global spread of colistin-resistant bacteria has eroded one of the last lines of defense against life-threatening infections that no longer respond to conventional antibiotics. Here we show that L-arginine, a natural and safe amino acid, is an agent that can restore colistin susceptibility in strains with intrinsic or acquired resistance, and is effective in a murine peritonitis model without observable toxicity. Mechanistically, the combination increases membrane permeability and compromises the integrity of the membrane, leading to altered membrane lipid and LPS distribution that further amplifies membrane disruption. These findings establish that colistin combined with L-arginine constitutes a readily translatable therapeutic strategy to overcome colistin resistance and preserve the clinical utility of this critical last-resort antibiotic.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.02238-26",
+    "date": "2026-10-29",
+    "authors": "Li T, Zhou Y, Zhang G, Lu W, Wu J, Chen J, Chen X, He L, Yang Y, Dai M, Zhang Q, Zhong L-L, Tian G-B.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42954469",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42954469",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5225,
+    "collected_at": "2026-11-20T11:50:28.841726+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1128/spectrum.02238-26"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.02996-26",
+    "title": "Development and optimization of self-collected, field-stable, saliva-based immunoassays for scalable epidemiological surveillance of pathogen-specific immunity.",
+    "abstract": "Serological surveillance is fundamental to infectious disease research and informed public-health decision-making. Immunoassays used in the study of pathogen-specific immunity have historically relied on the collection of venous blood. While critical for many public-health applications, this sample collection method is invasive and resource-intensive. The costs and logistical barriers associated with venous blood collection are exacerbated in resource-limited regions, and the shift to less invasive sampling methods would increase sample availability for pathogen surveillance and study of pathogen-specific immunity. To this end, we have developed and optimized a self-collected, saliva-based immunoassay capable of quantifying pathogen-specific antibody binding in saliva samples. Using samples collected from geographically and epidemiologically diverse regions of the world, we compared antigen-specific IgG levels in paired plasma and saliva samples. We observed that levels of IgG against multiple pathogens of public health concern-including SARS-CoV-2 and dengue virus-were highly correlated in plasma and swab-collected saliva. In addition, the decay of maternally derived antibodies in saliva samples collected from infants was readily observed using this immunoassay, demonstrating the assay's sensitivity and potential for use in measuring antibody kinetics. We posit that this assay represents a climate-stable, non-invasive tool that can aid in the surveillance and study of pathogen-specific immunity across a broad range of public-health indications.ImportanceTraditional serological surveillance relies on venous blood collection, which is invasive, resource-intensive, and particularly burdensome in low-resource settings. To address these limitations, our team has developed and validated a self-collected, saliva-based immunoassay for quantifying pathogen-specific antibody levels. Testing paired plasma and saliva samples from geographically diverse populations, the authors found that IgG levels against SARS-CoV-2 and dengue virus were highly correlated between the two sample types. The assay was sensitive enough to detect the decay of maternally derived antibodies in infant saliva, demonstrating its utility for tracking antibody kinetics over time. The authors conclude that this non-invasive, climate-stable platform offers a practical alternative for broad pathogen surveillance and immune monitoring across a variety of public health contexts.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.02996-26",
+    "date": "2026-10-29",
+    "authors": "Bahr LE, Lu J, Buddhari D, Hunsawong T, Rapheal E, Greco P, Ware L, Klick M, Farmer A, Middleton F, Thomas SJ, Anderson K, Waickman AT.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42954456",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42954456",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5226,
+    "collected_at": "2026-11-20T11:50:28.841726+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1128/spectrum.02996-26"
+    ]
   }
 ]
