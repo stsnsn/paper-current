@@ -311519,5 +311519,268 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "プロモーターにおけるNF-kappaB二量体交換がNF-kappaB抑制下のIRF3標的遺伝子の転写活性化を促進する―考えられる機序",
     "abstract_ja": "要旨NF-κBおよびIRFファミリーの転写因子は、脊椎動物における自然免疫応答の主要な調節因子である。細胞の状態に応じて、NF-κBサブユニットは、さまざまな遺伝子のプロモーターやエンハンサー上のコグネイトκB配列に結合することで、多くの遺伝子の転写を活性化あるいは抑制することができる。NF-κBタンパク質は二量体として機能し、二量体組成の変動は特定の遺伝子の転写を調節する機構の一つとなっている。p50 NF-κBサブユニットのホモ二量体は、G-IREと呼ばれるプロモーター部位に結合することで、IRF3標的遺伝子の一部を抑制状態に維持することが知られている。G-IREは、IRF3コグネイトであるIREに隣接して配置された不完全なκB配列である。我々のin vitroでの結果は、NF-κB p50ホモ二量体がκB DNA上で容易に交換され、NF-κB p50-RelAヘテロ二量体を形成し得ることを示している。DNA上でのこの二量体交換は、これらIRF3標的遺伝子の転写活性化に必要な、IRF3のDNA結合ドメインのG-IRE部位への結合を促進する。"
+  },
+  {
+    "id": "10.1093/nar/gkag1267",
+    "title": "Excessive PCNA-associated mismatch repair proteins on chromatin by ATAD5 deficiency confers alkylating sensitivity",
+    "abstract": "AbstractProliferating cell nuclear antigen (PCNA) acts as a central scaffold coordinating DNA replication and repair. Precise regulation of PCNA loading and unloading is therefore essential for maintaining genome stability. ATAD5, a component of an RFC–like complex, functions as the primary PCNA unloader; however, how defective PCNA clearance influences DNA damage responses remains incompletely understood. Here, we report that loss of ATAD5 selectively enhances cellular sensitivity to alkylating DNA damage through a mismatch repair (MMR)-dependent mechanism. ATAD5 depletion caused persistent retention of PCNA on chromatin, resulting in excessive accumulation of PCNA–associated MMR proteins without altering their overall expression levels. Upon exposure to O6–methylguanine-inducing alkylating agents, ATAD5–deficient cells exhibited pronounced increases in chromatin–bound MMR factors, elevated DNA double–strand break (DSB) markers, and enhanced apoptotic responses. Importantly, co–depletion of MSH2 suppressed both DNA damage signaling and cell death, indicating that the cytotoxic effects observed in ATAD5–deficient cells are largely mediated by aberrant MMR activity. Mechanistically, our data support a model in which ATAD5 constrains the excessive function of MMR by modulating repair protein abundance through regulating PCNA residence on chromatin. Failure of ATAD5–mediated PCNA unloading prolongs MMR engagement, likely increasing the frequency or persistence of nonproductive repair events that culminate in secondary DNA break formation. These findings uncover a previously unappreciated link between PCNA dynamics and MMR–dependent apoptosis in response to alkylating damage. Our study further suggests that ATAD5 expression levels may influence tumor cell responses to alkylating chemotherapeutics, highlighting PCNA unloading as a potential determinant of therapeutic sensitivity and genome stability.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1267",
+    "date": "2026-11-20",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1267/9103986?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5369,
+    "collected_at": "2026-11-20T12:01:03.805438+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/3091.xml"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1093/nar/gkag1267"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d63d7c1a8f37777fbde58eb030e5d5271cde51d355f80042aa282739daaf131f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T12:50:53.985769+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9f4a4d122c30e1481b91d1c9ca9a28ba7c66f3b16568aff085abe754e94b9832",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T12:50:53.985769+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ATAD5欠損によるクロマチン上の過剰なPCNA関連ミスマッチ修復タンパク質がアルキル化感受性を付与する",
+    "abstract_ja": "要旨増殖細胞核抗原（PCNA）は、DNA複製と修復を調整する中心的な足場として機能する。したがって、PCNAのローディングおよびアンローディングの精密な調節は、ゲノム安定性の維持に不可欠である。RFC様複合体の構成要素であるATAD5は、主要なPCNAアンローダーとして機能するが、欠陥のあるPCNAクリアランスがDNA損傷応答にどのような影響を及ぼすかについては、未だ十分に解明されていない。本研究では、ATAD5の欠損が、ミスマッチ修復（MMR）依存的な機序を介して、アルキル化DNA損傷に対する細胞感受性を選択的に亢進させることを報告する。ATAD5の枯渇は、クロマチン上へのPCNAの持続的な保持を引き起こし、その結果、全体的な発現レベルを変えることなく、PCNA関連MMRタンパク質の過剰な蓄積を招いた。O6-メチルグアニン誘導性アルキル化剤に曝露したところ、ATAD5欠損細胞では、クロマチン結合型MMR因子の顕著な増加、DNA二本鎖切断（DSB）マーカーの上昇、およびアポトーシス応答の亢進が認められた。重要な点として、MSH2の共枯渇はDNA損傷シグナル伝達と細胞死の両方を抑制し、ATAD5欠損細胞で観察される細胞毒性作用が、主に異常なMMR活性によって媒介されていることが示された。機序的には、我々のデータは、ATAD5がクロマチン上のPCNA滞留を調節することで修復タンパク質の量を制御し、MMRの過剰な機能を抑制するというモデルを支持している。ATAD5介在性のPCNAアンローディングの不全はMMRの関与を長期化させ、二次的なDNA切断形成に至る非生産的な修復事象の頻度または持続性を高める可能性が高い。これらの知見は、PCNA動態と、アルキル化損傷に対するMMR依存性アポトーシスとの間に、これまで認識されていなかった関連性を明らかにするものである。さらに本研究は、ATAD5の発現レベルがアルキル化化学療法剤に対する腫瘍細胞応答に影響を及ぼす可能性を示唆しており、PCNAアンローディングが治療感受性およびゲノム安定性の潜在的な決定因子であることを浮き彫りにしている。"
+  },
+  {
+    "id": "10.1093/nar/gkag1301",
+    "title": "Correction to ‘A new anti-CRISPR gene promotes the spread of drug-resistance plasmids in Klebsiella pneumoniae’",
+    "abstract": "This is a correction to: Chunyu Jiang, Chengzhi Yu, Shuyi Sun, Jiajia Lin, Mufeng Cai, Zhenquan Wei, Lingling Feng, Jianhui Li, Yan Zhang, Ke Dong, Xiaokui Guo, Jinhong Qin, Yu Zhang, A new anti-CRISPR gene promotes the spread of drug-resistance plasmids in Klebsiella pneumoniae, Nucleic Acids Research, Volume 52, Issue 14, 12 August 2024, Pages 8370–8384, https://doi.org/10.1093/nar/gkae516",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1301",
+    "date": "2026-11-20",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1301/9103980?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5370,
+    "collected_at": "2026-11-20T12:01:03.805438+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/3091.xml"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1093/nar/gkag1301"
+    ],
+    "translation": {
+      "title": {
+        "hash": "68fa572e622884909484536fe35402cb272820cb1706f4918195499a3ff914ae",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T12:50:53.985769+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ded3aaa75f9735b22c4f11c54df3465f0ea95a9fb5206de74cb68665cec7cbb4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T12:50:53.985769+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "「Klebsiella pneumoniaeにおける新たな抗CRISPR遺伝子が薬剤耐性プラスミドの拡散を促進する」の訂正",
+    "abstract_ja": "本論文は、Chunyu Jiang, Chengzhi Yu, Shuyi Sun, Jiajia Lin, Mufeng Cai, Zhenquan Wei, Lingling Feng, Jianhui Li, Yan Zhang, Ke Dong, Xiaokui Guo, Jinhong Qin, Yu Zhang, A new anti-CRISPR gene promotes the spread of drug-resistance plasmids in Klebsiella pneumoniae, Nucleic Acids Research, Volume 52, Issue 14, 12 August 2024, Pages 8370–8384, https://doi.org/10.1093/nar/gkae516 の訂正である。"
+  },
+  {
+    "id": "10.1093/nar/gkag1307",
+    "title": "Correction to ‘rAAV capsid mutants eliminate leaky expression from DNA donor template for homologous recombination’",
+    "abstract": "This is a correction to: Chen Ling, Chenghui Yu, Cong Wang, Ming Yang, Hengbin Yang, Keying Yang, Yun He, Yajie Shen, Shiyi Tang, Xiaomin Yu, Zhengjun Zhou, Shaolai Zhou, Jian Zhou, Liqing Zhu, Jixi Li, rAAV capsid mutants eliminate leaky expression from DNA donor template for homologous recombination, Nucleic Acids Research, Volume 52, Issue 11, 24 June 2024, Pages 6518–6531, https://doi.org/10.1093/nar/gkae401",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1307",
+    "date": "2026-11-20",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1307/9103979?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5371,
+    "collected_at": "2026-11-20T12:01:03.805438+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/3091.xml"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1093/nar/gkag1307"
+    ],
+    "translation": {
+      "title": {
+        "hash": "705dd15072abf323d536c355222bcd6526e379bddcba9a608f0690491ca54e8d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T12:50:53.985769+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a44919ea76104aaf1b364189e46989413bc729f05edde276f2f53282d4831ba2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T12:50:53.985769+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "「rAAVカプシド変異体は相同組換えのためのDNAドナーテンプレートからの漏出発現を排除する」の訂正",
+    "abstract_ja": "本論文は、Chen Ling, Chenghui Yu, Cong Wang, Ming Yang, Hengbin Yang, Keying Yang, Yun He, Yajie Shen, Shiyi Tang, Xiaomin Yu, Zhengjun Zhou, Shaolai Zhou, Jian Zhou, Liqing Zhu, Jixi Li, rAAV capsid mutants eliminate leaky expression from DNA donor template for homologous recombination, Nucleic Acids Research, Volume 52, Issue 11, 24 June 2024, Pages 6518–6531, https://doi.org/10.1093/nar/gkae401 の訂正である。"
+  },
+  {
+    "id": "10.64898/2026.11.17.767350",
+    "title": "MetaEntropy: quantifying protein variability in complex viral mixtures via entropy",
+    "abstract": "High-density sequence data has become commonplace in the study of complex viral mixtures from wastewater. Established algorithms are available for lineage deconvolution and labelling of clinically-elusive mutations. However, less attention has been paid to the quantification of translated amino acid diversity. We present MetaEntropy, a modular R package for assessing protein sequence variability and identifying sites under potential selection via Shannon entropy. MetaEntropy integrates utility functions for visualizing genome-wide and protein-specific variability, extracting nucleotide and amino acid mutation profiles, and identifying entropy hotspots. Despite being designed for wastewater surveillance, the package can also profile protein diversity from cross-sectional intra-patient data. However, it does not analyze population structure or quasispecies, for which several tools are available. By focusing on positional entropy, MetaEntropy bypasses the sequence constraints, computational overhead, and consensus-based variant loss typical of traditional haplotype reconstruction and multiple sequence alignment strategies. To balance sensitivity against neutral variation, the package evaluates entropy using a standard 20-class canonical amino acid scheme and a 7-class model based on traditional physicochemical properties. Calculated entropy values are normalized to a 0-1 scale, enabling direct comparisons of protein diversity across loci and sample strata. As proofs of concept, we employ MetaEntropy to detect well-known SARS-CoV-2 functional changes from wastewater data, and to explore tissue-specific heterogeneity in systemic infections. MetaEntropy is available from the Comprehensive R Archive Network (CRAN) at https://CRAN.R-project.org/.",
+    "journal": "",
+    "doi": "10.64898/2026.11.17.767350",
+    "date": "2026-11-20",
+    "authors": "Jones, L. R., Manrique, J. M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.17.767350v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5364,
+    "collected_at": "2026-11-20T12:01:03.805438+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.64898/2026.11.17.767350"
+    ],
+    "translation": {
+      "title": {
+        "hash": "10e6474792631f4bf7bf7d48ad9d1a3f9093307da1d4d3cc04385707e5c7acf5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T12:50:53.985769+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0b9ae9ce1c0918e2acf79a0b15125e3f49bcae06d2fd7e3c967673dfcc37dff8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T12:50:53.985769+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "メタエントロピー：エントロピーによる複雑なウイルス混合物中のタンパク質変動性の定量化",
+    "abstract_ja": "廃水由来の複雑なウイルス混合物の研究において、高密度配列データは一般的となっている。系統的デコンボリューションや、臨床的に同定が困難な変異のラベル付けには、確立されたアルゴリズムが存在する。しかし、翻訳アミノ酸多様性の定量化については、これまであまり注目されてこなかった。本稿では、タンパク質配列の変動性を評価し、シャノンエントロピーを用いて潜在的な選択を受けている部位を同定するためのモジュール式Rパッケージ「MetaEntropy」を提案する。MetaEntropyは、ゲノムワイドおよびタンパク質特異的な変動性の可視化、ヌクレオチドおよびアミノ酸変異プロファイルの抽出、ならびにエントロピーホットスポットの同定のためのユーティリティ関数を統合している。廃水サーベイランス向けに設計されているが、本パッケージは患者内横断的データからのタンパク質多様性のプロファイリングも可能である。ただし、集団構造や準種の解析は行わず、これらについては複数のツールが利用可能である。位置エントロピーに着目することで、MetaEntropyは、従来のハプロタイプ再構築や多重配列アライメント戦略に典型的な配列制約、計算負荷、およびコンセンサスに基づくバリアントロスを回避している。感度と中立変異のバランスを取るため、本パッケージでは、標準的な20クラスの正準アミノ酸体系と、従来の物理化学的特性に基づく7クラスモデルを用いてエントロピーを評価する。算出されたエントロピー値は0～1のスケールに正規化されるため、遺伝子座やサンプル層をまたいだタンパク質多様性の直接的な比較が可能となる。概念実証として、MetaEntropyを用いて廃水データから既知のSARS-CoV-2の機能的変化を検出し、全身性感染症における組織特異的な不均一性を探索する。MetaEntropyは、Comprehensive R Archive Network (CRAN) の https://CRAN.R-project.org/ から入手可能である。"
   }
 ]
