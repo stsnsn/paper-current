@@ -58284,64 +58284,6 @@
     "discovery": []
   },
   {
-    "id": "10.1038/s41467-026-77042-w",
-    "title": "A CRISPR-based 'dam-break drainage' sensing architecture for rapid, affordable and ultrasensitive pathogen detection.",
-    "abstract": "Nucleic acid testing is important for infectious-disease diagnosis, but combining high sensitivity with accessible testing remains challenging. Here we show a chip-based visual detection strategy for one or two viral RNA targets that involves only sample loading, without further instrumentation or manual actuation. Target-activated CRISPR-Cas13a alters the wettability of a molecular barrier, causing liquid to cross a preset threshold and generate a dam-break drainage signal. The chip detects a single target at 10 aM within 2 min and two targets at 100 aM within 5 min, with costs of $0.20 and $0.30 per test, respectively. We further establish a practical clinical-sample workflow combining room-temperature lysis with RNase inhibition and validate the platform across 40 nasal-swab samples tested for SARS-CoV-2, influenza A virus and influenza B virus, with results concordant with RT-PCR. This threshold-based fluidic strategy provides a route towards rapid, low-cost and instrument-free molecular testing outside centralized laboratories.",
-    "journal": "Nature Communications",
-    "doi": "10.1038/s41467-026-77042-w",
-    "date": "2026-08-22",
-    "authors": "Liu K, Li X, Zhao M, Yang Z, Wen J, Liu J, Zhang H, Zhao Y, Sun Y, Li Z.",
-    "tags": [
-      "微生物学"
-    ],
-    "source_url": "https://europepmc.org/article/MED/42946710",
-    "preprint": false,
-    "review": false,
-    "abstract_source": "Europe PMC",
-    "topic_filter": {
-      "accepted": true,
-      "reason": "microbial_evidence",
-      "version": "microbial-rules-v1",
-      "matched": [
-        "viral",
-        "virus"
-      ],
-      "context": {
-        "marine": [],
-        "genomics": [],
-        "evolution": []
-      },
-      "tags": [
-        "微生物学"
-      ]
-    },
-    "sources": [
-      "Europe PMC journals 4"
-    ],
-    "first_seen": "2026-11-06",
-    "related_dois": [
-      "10.1038/s41467-026-77042-w"
-    ],
-    "translation": {
-      "title": {
-        "hash": "8eee6c8d5620dbcabb72bb500b4f1018dabda31658f9ade2d3422f362771efab",
-        "model": "plamo-3-translate-2b",
-        "date": "2026-11-06T13:18:47.586093+00:00",
-        "format": "pfml3-ja-v1"
-      },
-      "abstract": {
-        "hash": "6a958d6dceaddd9ea53aeb6e806fea77b7ac063d3d67ab8e6aa1d33c2a9a63c9",
-        "model": "plamo-3-translate-2b",
-        "date": "2026-11-06T13:18:47.586093+00:00",
-        "format": "pfml3-ja-v1"
-      }
-    },
-    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
-    "title_ja": "迅速かつ低コストで超高感度な病原体検出を実現する、CRISPRベースの「ダムブレイク・ドレインエイジング」センシングアーキテクチャ。",
-    "abstract_ja": "核酸検査は感染症診断において重要であるが、高い感度と簡便な検査の両立は依然として課題となっている。本研究では、追加の装置や手動操作を必要とせず、試料のローディングのみで行う、1〜2種類のウイルスRNA標的に対するチップベースの可視化検出戦略を提案する。標的活性化型CRISPR-Cas13aが分子障壁の濡れ性を変化させることで、液体があらかじめ設定された閾値を超え、ダムブレイク排水信号が発生する。このチップは、単一標的を10 ÅMで2分以内に、2つの標的を100 ÅMで5分以内に検出でき、コストは1検査あたりそれぞれ0.20ドルおよび0.30ドルである。さらに、室温溶解とRNase阻害を組み合わせた実用的な臨床検体ワークフローを確立し、SARS-CoV-2、A型インフルエンザウイルス、およびB型インフルエンザウイルスの検査に供した40検体の鼻腔拭い液を用いて本プラットフォームを検証したところ、結果はRT-PCRと一致した。この閾値ベースの流体戦略は、中央集約型の研究室以外における、迅速かつ低コストで装置不要の分子検査を実現する道を開くものである。",
-    "discovery": []
-  },
-  {
     "id": "10.1128/jcm.01559-25",
     "title": "Nanoparticle capture of urinary lipoarabinomannan for diagnosing childhood tuberculosis.",
     "abstract": "Urinary assays detecting lipoarabinomannan (LAM) as a diagnostic test for tuberculosis (TB) have limited sensitivity in pediatric populations. We aimed to evaluate the Ceres TB-Nanotrap to concentrate LAM and augment detection in urine using the Alere lateral flow assay (LF-LAM). This case-control study recruited 32 children with and without TB aged 1-18 years in Karachi, Pakistan, with banked urine specimens. TB case participants were classified as confirmed or unconfirmed TB using modified National Institutes of Health (NIH) consensus criteria. The LF-LAM test was performed before and after concentrating 5 mL of urine with TB-Nanotrap particles. Band intensity was measured via visual grading and digital quantification. Urine LAM sensitivity by visual grading was 4.5% (95% confidence interval [CI] 0.3-18.5) pre-concentration and 50.0% (95% CI 30.0-70.0) post-concentration. Sensitivity by digital quantification was 0.0% (95% CI 0.0-15.4) pre-concentration and 63.9% (95% CI 42.8-81.4) post-concentration. Specificity was high with both methods (visual grading: 90.0% [95% CI 62.8-99.4] pre-concentration and 90.0% [95% CI 62.8-99.4] post-concentration; digital analysis: 80.0% [95% CI 44.4-97.5] and 90.0% [95% CI 62.8-99.4], respectively). For cases, digital analysis showed an increase in median LF-LAM band intensity from 0.0 arbitrary units (AU) (interquartile range [IQR] 0.00-32.5) in unconcentrated samples to 98.4 AU (IQR 34.9-212.2) in concentrated samples. Concentration with TB-Nanotrap greatly increased sensitivity of urine LAM detection without a change in specificity. Use of TB-Nanotrap and digital quantitative analysis of urine LAM improved the diagnostic accuracy of the LF-LAM assay in this pediatric population and should be validated in larger studies.IMPORTANCEDiagnosing TB in children is challenging due to a lack of accurate and accessible diagnostic tests. In this study, we evaluated two methods of improving detection of TB in children using a commercially available urine test. First, we processed the urine to concentrate any available TB antigens. Second, we included a digital reader to interpret the test results. We found that concentrating urine and using a digital reader led to an increase in TB detection among children who had been diagnosed with TB, while minimizing false-positive results among children who did not have TB.",
@@ -59867,64 +59809,6 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "K-MARVEL：K-Merベースの薬剤耐性バーチャル探索ラボ。",
     "abstract_ja": "薬剤耐性（AMR）の急速な拡大により、新たな計算サーベイランスツールが必要とされている。次世代シーケンシングデータの解析における現行の手法にはトレードオフが存在する。アセンブリベースの手法は計算負荷が高く、直接的なロングリードマッピングは、耐性を付与する変異を不明瞭にする高いエラー率によって妨げられている。本報では、ショートリードおよびロングリードの両データセットから薬剤耐性遺伝子（ARG）および耐性付与変異を捕捉するオープンソース手法K-MARVELを提案する。タンパク質k-mer空間で動作するK-MARVELは、ヌクレオチドレベルのシーケンシングエラーを許容する。22種の細菌にわたる209件のロングリードデータセットと205件のショートリードデータセットを用いてK-MARVELをベンチマーク評価した結果、F1スコアは0.976（ショートリード）および0.958（ロングリード）となり、速度とメモリ使用量においてアセンブリベースの手法を上回った。K-MARVELは、ホモロジーモデルに基づくARGについて、広く用いられている7つのショートリードベースのARG分類器（0.979）および2つのロングリードベースの分類器（0.961）よりも高いF1スコアを示した。K-MARVELは、生のシーケンシングデータから、相同なARGと、複数のバリアントを含む耐性付与変異を有する構造遺伝子の両方を高精度に同定できる。",
-    "discovery": []
-  },
-  {
-    "id": "10.1038/s41467-026-76193-0",
-    "title": "Structural basis of the gating mechanism of the large-conductance mechanosensitive channel from Escherichia coli.",
-    "abstract": "The mechanosensitive channel of large conductance (MscL) is a tension-gated, pore-forming protein that acts as a safety valve to protect bacteria from osmotic lysis. Escherichia coli MscL (EcMscL) was the first mechanosensitive channel discovered and subsequently served as a model system for understanding mechanical sensing, becoming one of the most decorated and well-studied systems. Despite extensive biophysical and functional characterisation spanning several decades, the precise mechanism of EcMscL gating has been poorly understood due to the lack of high-resolution structural information. Herein, we solve two EcMscL structures by cryoEM in the closed conformation in DMPC and DOPC lipid nanodiscs. Using PELDOR/DEER spectroscopy, we screen conditions and identify that in DSPC lipids, the EcMscL conformational ensemble shifts away from the closed state and that open-like states are present. We solve the structure in an expanded state by cryoEM, revealing an architecture with pore properties consistent with previous electrophysiology reports. By combining hydrogen-deuterium exchange mass spectrometry and molecular dynamics simulations, we investigate the dynamics of EcMscL gating in lipid bilayers, identifying sites involved in the closed-to-expanded transition. Combined, this enables us to inform on the elusive structural mechanism of EcMscL mechanosensitive channel function.",
-    "journal": "Nature Communications",
-    "doi": "10.1038/s41467-026-76193-0",
-    "date": "2026-08-22",
-    "authors": "Hardman K, Wort JL, Waheed Q, Liu X, Arul D, Porav SA, Calabrese AN, Muench SP, Pliotas C.",
-    "tags": [
-      "微生物学"
-    ],
-    "source_url": "https://europepmc.org/article/MED/42869890",
-    "preprint": false,
-    "review": false,
-    "abstract_source": "Europe PMC",
-    "topic_filter": {
-      "accepted": true,
-      "reason": "microbial_evidence",
-      "version": "microbial-rules-v1",
-      "matched": [
-        "Escherichia",
-        "bacteria"
-      ],
-      "context": {
-        "marine": [],
-        "genomics": [],
-        "evolution": []
-      },
-      "tags": [
-        "微生物学"
-      ]
-    },
-    "sources": [
-      "Europe PMC journals 4"
-    ],
-    "first_seen": "2026-11-06",
-    "related_dois": [
-      "10.1038/s41467-026-76193-0"
-    ],
-    "translation": {
-      "title": {
-        "hash": "5d972b41c5c47864ef080b5b0a237cc6023c9143b64b2f97ba1f8c60fc6bff87",
-        "model": "plamo-3-translate-2b",
-        "date": "2026-11-06T13:18:47.586093+00:00",
-        "format": "pfml3-ja-v1"
-      },
-      "abstract": {
-        "hash": "b47e08cac232e9e3b77df85d7024f64d5795aa80f88965d379cfe99e21107864",
-        "model": "plamo-3-translate-2b",
-        "date": "2026-11-06T13:18:47.586093+00:00",
-        "format": "pfml3-ja-v1"
-      }
-    },
-    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
-    "title_ja": "大腸菌由来の大コンダクタンス機械感受性チャネルのゲート機構の構造的基盤。",
-    "abstract_ja": "大コンダクタンス機械感受性チャネル（MscL）は、張力依存的に開閉し孔を形成するタンパク質であり、浸透圧溶解から細菌を保護する安全弁として機能する。大腸菌MscL（EcMscL）は最初に発見された機械感受性チャネルであり、その後、機械的センシングを理解するためのモデル系として、最も多くの修飾が施され、最も詳細に研究されてきた系の一つとなった。数十年にわたる広範な生物物理学的および機能的特性解析にもかかわらず、高分解能構造情報の不足により、EcMscLのゲート開閉の正確なメカニズムは十分に解明されていなかった。本研究では、DMPCおよびDOPC脂質ナノディスクを用い、クライオ電子顕微鏡法によりEcMscLの2つの構造を閉状態において決定した。PELDOR/DEER分光法を用いて条件をスクリーニングした結果、DSPC脂質においては、EcMscLのコンフォメーションアンサンブルが閉状態からシフトし、開状態様の状態が存在することを明らかにした。さらに、クライオ電子顕微鏡法により拡張状態での構造を決定したところ、先行する電気生理学的報告と一致する孔特性を持つアーキテクチャが明らかになった。水素-重水素交換質量分析法と分子動力学シミュレーションを組み合わせることで、脂質二重層におけるEcMscLのゲート開閉ダイナミクスを調査し、閉状態から拡張状態への遷移に関与する部位を特定した。これらを統合することで、EcMscL機械感受性チャネル機能の捉えどころのない構造的メカニズムに関する知見を得ることが可能となった。",
     "discovery": []
   },
   {
@@ -70798,63 +70682,6 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "比較ゲノミクスを用いた緑膿菌の宿主適応に関与する候補遺伝子の探索",
     "abstract_ja": "背景Pseudomonas aeruginosaは、その適応力、多様な病原因子、および薬剤耐性機構により、重篤な院内感染を引き起こす日和見病原体である。広範な研究が行われているにもかかわらず、P. aeruginosaのゲノムの相当部分は機能的に未解析のままである。本研究の目的は、これら数多くの未解析遺伝子の中から、潜在的な病原因子を含む宿主適応候補遺伝子を同定することであった。結果ヒト臨床検体から分離されたP. aeruginosa株と自然環境由来の株との間で比較ゲノム解析を行い、ヒトから分離された細菌由来の配列が有意に濃縮されている相同タンパク質クラスターを同定した。解析の結果、全タンパク質クラスターの約3%において、ヒト分離株由来の配列が有意に濃縮されていることが明らかとなった。特にヒト分離株の濃縮度が高い45個の選定クラスターについて機能特性解析を行ったところ、これらのクラスターには、主に宿主との相互作用や水平遺伝子伝達に関連する役割を持つ遺伝子が含まれていることが示された。特筆すべきは、選定した45クラスターのうち12クラスターが機能未知の遺伝子で構成されていたことであり、これはヒト由来分離株において、潜在的に新規な病原因子または感染過程に関与する遺伝子が存在することを示唆している。結論本研究の知見は、特定の未解析タンパク質クラスターを今後の調査における有望な標的として浮き彫りにした。ヒト濃縮クラスターにおいて、既知の病原性関連機能と未解析タンパク質の両方を同定したことは、我々の比較ゲノミクス手法が、確立された候補宿主適応遺伝子のみならず、潜在的に新規な候補宿主適応遺伝子も検出可能であることを示している。これらの知見はさらに、本戦略が他の日和見病原体の研究にも幅広く適用できる可能性を示唆している。",
-    "discovery": []
-  },
-  {
-    "id": "10.1186/s12859-026-06605-x",
-    "title": "Gaugefixer: overcoming parameter non-identifiability in models of sequence-function relationships.",
-    "abstract": "BackgroundMathematical models of sequence-function relationships are widely used in computational biology. A key challenge when interpreting these models is that many different choices for model parameters can encode the same sequence-function relationship. These ambiguities, called \"gauge freedoms,\" must be removed before parameter values can be meaningfully interpreted. Doing this requires imposing additional mathematical constraints on parameter values, a process called \"fixing the gauge.\" We recently developed mathematical methods for fixing the gauge of a large class of commonly used models. The most direct computational implementation of these methods is often impractical, however, because it requires a projection matrix whose size scales quadratically with the number of parameters.ResultsHere we introduce GaugeFixer, a Python package that exploits the mathematical structure of gauge-fixing projections to achieve log-linear scaling in computation time and linear scaling in memory usage. GaugeFixer thus requires orders of magnitude less time and memory than standard matrix multiplication, and can fix the gauge of models having millions of parameters in seconds. To demonstrate its utility, we used GaugeFixer to analyze an empirical fitness landscape for translation initiation in bacteria. This analysis revealed striking similarities (but also fine-scale differences) in ribosome-binding preferences at different positions relative to the start codon, thereby aiding the interpretation of this otherwise unwieldy landscape.ConclusionsGaugeFixer thus fills an important gap in the computational tools available for interpreting quantitative models of sequence-function relationships.",
-    "journal": "BMC Bioinformatics",
-    "doi": "10.1186/s12859-026-06605-x",
-    "date": "2026-08-22",
-    "authors": "Martí-Gómez C, McCandlish DM, Kinney JB.",
-    "tags": [
-      "微生物学"
-    ],
-    "source_url": "https://europepmc.org/article/MED/42864614",
-    "preprint": false,
-    "review": false,
-    "abstract_source": "Europe PMC",
-    "topic_filter": {
-      "accepted": true,
-      "reason": "microbial_evidence",
-      "version": "microbial-rules-v1",
-      "matched": [
-        "bacteria"
-      ],
-      "context": {
-        "marine": [],
-        "genomics": [],
-        "evolution": []
-      },
-      "tags": [
-        "微生物学"
-      ]
-    },
-    "sources": [
-      "Europe PMC journals 3"
-    ],
-    "first_seen": "2026-11-06",
-    "related_dois": [
-      "10.1186/s12859-026-06605-x"
-    ],
-    "translation": {
-      "title": {
-        "hash": "8a5bff07c833b5a69b02813bf5721cd7171f116cf1d0559862d3814a7f377aff",
-        "model": "plamo-3-translate-2b",
-        "date": "2026-11-05T21:01:23.072636+00:00",
-        "format": "pfml3-ja-v1"
-      },
-      "abstract": {
-        "hash": "c5e87687b38a7e82f95054a17752be87d80169585c2f4fc3e09e4782b09c2242",
-        "model": "plamo-3-translate-2b",
-        "date": "2026-11-05T21:01:23.072636+00:00",
-        "format": "pfml3-ja-v1"
-      }
-    },
-    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
-    "title_ja": "Gaugefixer: 系列関数関係モデルにおけるパラメータの非識別性の克服。",
-    "abstract_ja": "背景：配列と機能の関係に関する数理モデルは、計算生物学において広く用いられている。これらのモデルを解釈する際の主要な課題は、モデルパラメータの多くの異なる選択肢が、同一の配列・機能関係を符号化し得る点にある。「ゲージ自由度」と呼ばれるこうした曖昧さは、パラメータ値を有意義に解釈する前に解消されなければならない。そのためには、パラメータ値に追加的な数学的制約を課す必要があり、このプロセスは「ゲージの固定」と呼ばれる。我々は最近、広く用いられている広範なクラスのモデルのゲージを固定するための数理的手法を開発した。しかし、これらの手法を直接的に計算実装することは、パラメータ数に対して二次的に増大するサイズを持つ射影行列を必要とするため、多くの場合実用的ではない。結果：本稿では、ゲージ固定射影の数学的構造を活用し、計算時間の対数線形スケーリングとメモリ使用量の線形スケーリングを実現するPythonパッケージ「GaugeFixer」を紹介する。これにより、GaugeFixerは標準的な行列積よりも桁違いに少ない時間とメモリで動作し、数百万個のパラメータを持つモデルのゲージを数秒で固定することができる。その有用性を実証するため、我々はGaugeFixerを用いて、細菌における翻訳開始の経験的な適応度ランドスケープを解析した。この解析により、開始コドンに対する異なる位置でのリボソーム結合選好に、顕著な類似性（および微細な差異）があることが明らかになり、本来であれば扱いづらいこのランドスケープの解釈に寄与した。結論：したがって、GaugeFixerは、配列と機能の関係に関する定量的モデルを解釈するための計算ツールにおける重要な空白を埋めるものである。",
     "discovery": []
   },
   {

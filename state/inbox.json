@@ -45353,48 +45353,6 @@
     "discovery": []
   },
   {
-    "id": "10.1038/s41467-026-77042-w",
-    "title": "A CRISPR-based 'dam-break drainage' sensing architecture for rapid, affordable and ultrasensitive pathogen detection.",
-    "abstract": "Nucleic acid testing is important for infectious-disease diagnosis, but combining high sensitivity with accessible testing remains challenging. Here we show a chip-based visual detection strategy for one or two viral RNA targets that involves only sample loading, without further instrumentation or manual actuation. Target-activated CRISPR-Cas13a alters the wettability of a molecular barrier, causing liquid to cross a preset threshold and generate a dam-break drainage signal. The chip detects a single target at 10 aM within 2 min and two targets at 100 aM within 5 min, with costs of $0.20 and $0.30 per test, respectively. We further establish a practical clinical-sample workflow combining room-temperature lysis with RNase inhibition and validate the platform across 40 nasal-swab samples tested for SARS-CoV-2, influenza A virus and influenza B virus, with results concordant with RT-PCR. This threshold-based fluidic strategy provides a route towards rapid, low-cost and instrument-free molecular testing outside centralized laboratories.",
-    "journal": "Nature Communications",
-    "doi": "10.1038/s41467-026-77042-w",
-    "date": "2026-08-22",
-    "authors": "Liu K, Li X, Zhao M, Yang Z, Wen J, Liu J, Zhang H, Zhao Y, Sun Y, Li Z.",
-    "tags": [
-      "微生物学"
-    ],
-    "source_url": "https://europepmc.org/article/MED/42946710",
-    "preprint": false,
-    "review": false,
-    "abstract_source": "Europe PMC",
-    "topic_filter": {
-      "accepted": false,
-      "reason": "no_microbial_evidence",
-      "version": "microbial-rules-v3",
-      "matched": [
-        "viral",
-        "virus"
-      ],
-      "context": {
-        "marine": [],
-        "genomics": [],
-        "evolution": []
-      },
-      "tags": [
-        "微生物学"
-      ]
-    },
-    "sources": [
-      "Europe PMC journals 4"
-    ],
-    "first_seen": "2026-11-06",
-    "related_dois": [
-      "10.1038/s41467-026-77042-w"
-    ],
-    "collection_order": 990,
-    "discovery": []
-  },
-  {
     "id": "10.1128/jcm.01559-25",
     "title": "Nanoparticle capture of urinary lipoarabinomannan for diagnosing childhood tuberculosis.",
     "abstract": "Urinary assays detecting lipoarabinomannan (LAM) as a diagnostic test for tuberculosis (TB) have limited sensitivity in pediatric populations. We aimed to evaluate the Ceres TB-Nanotrap to concentrate LAM and augment detection in urine using the Alere lateral flow assay (LF-LAM). This case-control study recruited 32 children with and without TB aged 1-18 years in Karachi, Pakistan, with banked urine specimens. TB case participants were classified as confirmed or unconfirmed TB using modified National Institutes of Health (NIH) consensus criteria. The LF-LAM test was performed before and after concentrating 5 mL of urine with TB-Nanotrap particles. Band intensity was measured via visual grading and digital quantification. Urine LAM sensitivity by visual grading was 4.5% (95% confidence interval [CI] 0.3-18.5) pre-concentration and 50.0% (95% CI 30.0-70.0) post-concentration. Sensitivity by digital quantification was 0.0% (95% CI 0.0-15.4) pre-concentration and 63.9% (95% CI 42.8-81.4) post-concentration. Specificity was high with both methods (visual grading: 90.0% [95% CI 62.8-99.4] pre-concentration and 90.0% [95% CI 62.8-99.4] post-concentration; digital analysis: 80.0% [95% CI 44.4-97.5] and 90.0% [95% CI 62.8-99.4], respectively). For cases, digital analysis showed an increase in median LF-LAM band intensity from 0.0 arbitrary units (AU) (interquartile range [IQR] 0.00-32.5) in unconcentrated samples to 98.4 AU (IQR 34.9-212.2) in concentrated samples. Concentration with TB-Nanotrap greatly increased sensitivity of urine LAM detection without a change in specificity. Use of TB-Nanotrap and digital quantitative analysis of urine LAM improved the diagnostic accuracy of the LF-LAM assay in this pediatric population and should be validated in larger studies.IMPORTANCEDiagnosing TB in children is challenging due to a lack of accurate and accessible diagnostic tests. In this study, we evaluated two methods of improving detection of TB in children using a commercially available urine test. First, we processed the urine to concentrate any available TB antigens. Second, we included a digital reader to interpret the test results. We found that concentrating urine and using a digital reader led to an increase in TB detection among children who had been diagnosed with TB, while minimizing false-positive results among children who did not have TB.",
@@ -46534,48 +46492,6 @@
       "10.1038/s41467-026-77438-8"
     ],
     "collection_order": 1016,
-    "discovery": []
-  },
-  {
-    "id": "10.1038/s41467-026-76193-0",
-    "title": "Structural basis of the gating mechanism of the large-conductance mechanosensitive channel from Escherichia coli.",
-    "abstract": "The mechanosensitive channel of large conductance (MscL) is a tension-gated, pore-forming protein that acts as a safety valve to protect bacteria from osmotic lysis. Escherichia coli MscL (EcMscL) was the first mechanosensitive channel discovered and subsequently served as a model system for understanding mechanical sensing, becoming one of the most decorated and well-studied systems. Despite extensive biophysical and functional characterisation spanning several decades, the precise mechanism of EcMscL gating has been poorly understood due to the lack of high-resolution structural information. Herein, we solve two EcMscL structures by cryoEM in the closed conformation in DMPC and DOPC lipid nanodiscs. Using PELDOR/DEER spectroscopy, we screen conditions and identify that in DSPC lipids, the EcMscL conformational ensemble shifts away from the closed state and that open-like states are present. We solve the structure in an expanded state by cryoEM, revealing an architecture with pore properties consistent with previous electrophysiology reports. By combining hydrogen-deuterium exchange mass spectrometry and molecular dynamics simulations, we investigate the dynamics of EcMscL gating in lipid bilayers, identifying sites involved in the closed-to-expanded transition. Combined, this enables us to inform on the elusive structural mechanism of EcMscL mechanosensitive channel function.",
-    "journal": "Nature Communications",
-    "doi": "10.1038/s41467-026-76193-0",
-    "date": "2026-08-22",
-    "authors": "Hardman K, Wort JL, Waheed Q, Liu X, Arul D, Porav SA, Calabrese AN, Muench SP, Pliotas C.",
-    "tags": [
-      "微生物学"
-    ],
-    "source_url": "https://europepmc.org/article/MED/42869890",
-    "preprint": false,
-    "review": false,
-    "abstract_source": "Europe PMC",
-    "topic_filter": {
-      "accepted": false,
-      "reason": "no_microbial_evidence",
-      "version": "microbial-rules-v3",
-      "matched": [
-        "Escherichia",
-        "bacteria"
-      ],
-      "context": {
-        "marine": [],
-        "genomics": [],
-        "evolution": []
-      },
-      "tags": [
-        "微生物学"
-      ]
-    },
-    "sources": [
-      "Europe PMC journals 4"
-    ],
-    "first_seen": "2026-11-06",
-    "related_dois": [
-      "10.1038/s41467-026-76193-0"
-    ],
-    "collection_order": 1017,
     "discovery": []
   },
   {
@@ -55005,47 +54921,6 @@
       "10.1186/s12864-026-13405-3"
     ],
     "collection_order": 1199,
-    "discovery": []
-  },
-  {
-    "id": "10.1186/s12859-026-06605-x",
-    "title": "Gaugefixer: overcoming parameter non-identifiability in models of sequence-function relationships.",
-    "abstract": "BackgroundMathematical models of sequence-function relationships are widely used in computational biology. A key challenge when interpreting these models is that many different choices for model parameters can encode the same sequence-function relationship. These ambiguities, called \"gauge freedoms,\" must be removed before parameter values can be meaningfully interpreted. Doing this requires imposing additional mathematical constraints on parameter values, a process called \"fixing the gauge.\" We recently developed mathematical methods for fixing the gauge of a large class of commonly used models. The most direct computational implementation of these methods is often impractical, however, because it requires a projection matrix whose size scales quadratically with the number of parameters.ResultsHere we introduce GaugeFixer, a Python package that exploits the mathematical structure of gauge-fixing projections to achieve log-linear scaling in computation time and linear scaling in memory usage. GaugeFixer thus requires orders of magnitude less time and memory than standard matrix multiplication, and can fix the gauge of models having millions of parameters in seconds. To demonstrate its utility, we used GaugeFixer to analyze an empirical fitness landscape for translation initiation in bacteria. This analysis revealed striking similarities (but also fine-scale differences) in ribosome-binding preferences at different positions relative to the start codon, thereby aiding the interpretation of this otherwise unwieldy landscape.ConclusionsGaugeFixer thus fills an important gap in the computational tools available for interpreting quantitative models of sequence-function relationships.",
-    "journal": "BMC Bioinformatics",
-    "doi": "10.1186/s12859-026-06605-x",
-    "date": "2026-08-22",
-    "authors": "Martí-Gómez C, McCandlish DM, Kinney JB.",
-    "tags": [
-      "微生物学"
-    ],
-    "source_url": "https://europepmc.org/article/MED/42864614",
-    "preprint": false,
-    "review": false,
-    "abstract_source": "Europe PMC",
-    "topic_filter": {
-      "accepted": false,
-      "reason": "no_microbial_evidence",
-      "version": "microbial-rules-v3",
-      "matched": [
-        "bacteria"
-      ],
-      "context": {
-        "marine": [],
-        "genomics": [],
-        "evolution": []
-      },
-      "tags": [
-        "微生物学"
-      ]
-    },
-    "sources": [
-      "Europe PMC journals 3"
-    ],
-    "first_seen": "2026-11-06",
-    "related_dois": [
-      "10.1186/s12859-026-06605-x"
-    ],
-    "collection_order": 1200,
     "discovery": []
   },
   {
@@ -437090,5 +436965,620 @@
     "related_dois": [
       "10.1007/s00248-026-02896-y"
     ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 2",
+        "query": "(JOURNAL:\"microLife\" OR JOURNAL:\"Nucleic Acids Research\" OR JOURNAL:\"NAR Genomics and Bioinformatics\" OR JOURNAL:\"Bioinformatics\" OR JOURNAL:\"Microbes and Environments\" OR JOURNAL:\"Frontiers in Microbiology\" OR JOURNAL:\"Frontiers in Marine Science\" OR JOURNAL:\"mBio\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.3389/fmicb.2026.1938090",
+    "title": "Microbial nutrient limitations in soil during afforestation in the Mu Us Desert, China: insights from extracellular enzyme stoichiometry.",
+    "abstract": "Afforestation is a key ecological restoration measure for combating desertification in arid and semi-arid regions. But the changes and drivers of nutrient limitations faced by soil microbes during long-term afforestation are unclear. This study investigated soil ecosystems of different-aged stands (planted 10, 30, 50, and 70 years ago) formed by the sand-fixing Caragana korshinskii shrub in China's Mu Us Desert, using extracellular enzyme stoichiometry to infer the dynamics of microbial nutrient limitation. Results showed that establishing C. korshinskii sand-fixing vegetation alters the carbon (C), nitrogen (N), phosphorus (P) stoichiometry of soil microbes and their extracellular enzymes. With increasing stand age, soil C: N, C: P, N: P, microbial biomass C: P, and enzyme N: P ratios all increased significantly, peaking at 70 years. However, enzyme C: N peaked much earlier, at 10 years, after which it declined, while enzyme C: P reached its peak at 10 years and then stabilized afterwards. Microbial C- and P- use efficiency both decreased, whereas N-use efficiency initially improved but later weakened. Vector analysis indicated that microbial C limitation intensified during the first decade of shrub stand development (0-10 years), and then stabilized after 10 years, while P limitation declined (0-70 years). Both multiple regression models for VA and VL identified the enzyme C: P as a closely associated variable with microbial nutrient limitations. This work provides scientific insights into how C and N are coupled mechanistically in soil during afforestation of desertland from the perspective of soil-microbe-extracellular enzyme ecological stoichiometry, offering theoretical support for greening desert-like ecosystems and promoting sustainable development in arid and semi-arid regions.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1938090",
+    "date": "2026-10-21",
+    "authors": "Yu S, Li X, Norghauer JM, Wang X, Wan Z, Yang J, Yang B, Yang H.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43006026",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13747326",
+    "pmid": "43006026",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbe",
+        "microbes",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5227,
+    "collected_at": "2026-11-20T20:15:04.307525+00:00",
+    "collected_date": "2026-11-21",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.3389/fmicb.2026.1938090"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 2",
+        "query": "(JOURNAL:\"microLife\" OR JOURNAL:\"Nucleic Acids Research\" OR JOURNAL:\"NAR Genomics and Bioinformatics\" OR JOURNAL:\"Bioinformatics\" OR JOURNAL:\"Microbes and Environments\" OR JOURNAL:\"Frontiers in Microbiology\" OR JOURNAL:\"Frontiers in Marine Science\" OR JOURNAL:\"mBio\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/mbio.02574-26",
+    "title": "A convergent proline biosynthetic step couples cell wall integrity to virulence in <i>Cryptococcus neoformans</i>.",
+    "abstract": "Metabolic adaptation is essential for the pathogenicity of the opportunistic fungus Cryptococcus neoformans. Although amino acid biosynthesis pathways are critical fitness determinants in fungal pathogens, the physiological contributions of proline biosynthesis remain incompletely understood, with most studies focusing on proline catabolism. Here, we characterized the proline biosynthetic enzymes Pro1, Pro2, and Pro3 in C. neoformans. Proline is produced by two routes that converge on Δ1-pyrroline-5-carboxylate (P5C): a de novo pathway from glutamate via Pro1 and Pro2, and an arginine-derived bypass via Car1 and Car2-both requiring Pro3 for the final reduction of P5C to proline. Although all biosynthetic mutants were strictly auxotrophic for proline, their requirements for virulence differed markedly: in a murine infection model, pro1Δ and pro2Δ mutants retained full virulence, whereas pro3Δ exhibited significantly attenuated virulence accompanied by growth defects and impaired cell wall integrity. Genetic disruption of P5C-generating routes partially restored distinct pro3Δ phenotypes, with PRO2 deletion alleviating delayed growth, and combined PRO2 and CAR2 deletion partially restoring cell size, while cell wall defects remained unresolved. This dissociation indicates that growth requires proper balance of P5C-generating metabolic flux, whereas cell wall integrity depends on a distinct mechanism that is not resolved by blocking P5C production. Together, these findings identify Pro3 as a metabolic gatekeeper coupling proline biosynthesis to cell wall homeostasis, establishing the biosynthetic branch of proline metabolism as a previously unappreciated determinant of fungal pathobiology.ImportanceCryptococcus neoformans is a leading cause of fungal meningitis worldwide, causing life-threatening infections primarily in immunocompromised individuals. To survive within the human host, this pathogen must synthesize essential nutrients through de novo biosynthesis when host-derived supplies are limited. Although proline catabolism has been studied extensively in fungal pathogens, the physiological roles of individual proline biosynthetic enzymes in human fungal pathogens remain incompletely understood. Here, we show that the terminal enzyme Pro3, but not the upstream enzymes Pro1 and Pro2, is selectively required for full virulence in a murine model. Pro3 supports pathobiological fitness by promoting growth under host-relevant conditions and maintaining cell wall integrity. These findings highlight the importance of proline biosynthesis beyond nutrient production and link this pathway to growth, cell wall integrity, and virulence in C. neoformans.",
+    "journal": "mBio",
+    "doi": "10.1128/mbio.02574-26",
+    "date": "2026-11-10",
+    "authors": "Lee Y, Lee M, Kang S, Cha H, Won D, Lee K-A, Lee W-J, Lee K-T, Bahn Y-S.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43006884",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43006884",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungal"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5232,
+    "collected_at": "2026-11-20T20:15:04.307525+00:00",
+    "collected_date": "2026-11-21",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1128/mbio.02574-26"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 2",
+        "query": "(JOURNAL:\"microLife\" OR JOURNAL:\"Nucleic Acids Research\" OR JOURNAL:\"NAR Genomics and Bioinformatics\" OR JOURNAL:\"Bioinformatics\" OR JOURNAL:\"Microbes and Environments\" OR JOURNAL:\"Frontiers in Microbiology\" OR JOURNAL:\"Frontiers in Marine Science\" OR JOURNAL:\"mBio\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "epmc:PMC:PMC13744785",
+    "title": "Histone H3.3 subvariant H3mm15 is required for normal spermatogenesis by regulating gene expression",
+    "abstract": "",
+    "journal": "Nucleic Acids Research",
+    "doi": "",
+    "date": "2026-11-09",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/PMC/PMC13744785",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13744785",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5240,
+    "collected_at": "2026-11-20T20:15:04.307525+00:00",
+    "collected_date": "2026-11-21",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": []
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 2",
+        "query": "(JOURNAL:\"microLife\" OR JOURNAL:\"Nucleic Acids Research\" OR JOURNAL:\"NAR Genomics and Bioinformatics\" OR JOURNAL:\"Bioinformatics\" OR JOURNAL:\"Microbes and Environments\" OR JOURNAL:\"Frontiers in Microbiology\" OR JOURNAL:\"Frontiers in Marine Science\" OR JOURNAL:\"mBio\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/mbio.01991-26",
+    "title": "Ablation of a maternal <i>Cryptosporidium</i> mRNA-binding protein results in sterile sporozoites.",
+    "abstract": "Infection with Cryptosporidium is a leading cause of diarrheal disease and early childhood mortality. This apicomplexan parasite undergoes asexual and sexual replication within the same host, and recent studies have shown an intrinsic developmental program of obligate transition to male and female gametes and sex. While factors were identified that control male fate and development, how female gene expression is orchestrated remains largely unknown. Here, we use the Cryptosporidium Single Cell Atlas to discover an RNA-binding protein (F-RBP) as one of the earliest markers of female identity in C. parvum. Reporter parasites engineered based on this gene allowed us to calibrate transcriptional pseudotime against the real time of female development, revealing a significant window of transcriptional fate ambiguity. While F-RBP is an early transcript, the protein persists throughout female development and into the zygote. Conditional ablation of the F-RBP gene showed it to be dispensable for sex determination and early female development in vitro. However, the gene is essential in vivo, and its loss results in rapid cure. Cell biological experiments link this loss to the production of oocysts that release sporozoites incapable of host-cell invasion. F-RBP binds transcripts highly expressed in the female gamete, enriched for a sequence motif recognized by a Y-box protein family member, and forms mRNA-protein complexes in late females akin to processing or P bodies. We propose F-RBP's essential role to be in the regulation of long-term homeostasis of maternally inherited RNA required for sporozoite infectivity.IMPORTANCEThe parasite Cryptosporidium is responsible for millions of cases of severe diarrheal disease in young children, and the infection is both a consequence of and a risk factor for chronic malnutrition. There are no vaccines available, and a single approved treatment is largely ineffective. Infection relies on ingestion of the oocyst, an environmentally stable spore, which contains an invasive form of the parasite, the sporozoite. Oocysts and sporozoites are the products of parasite sex and the fusion of female and male Cryptosporidium parasites. Here, we report the critical role of an RNA-binding protein in female mRNA homeostasis. Maternal transcripts orchestrate the complex process of sexual replication and oocyst formation. Loss of the protein results in spores that fail to initiate the next round of the life cycle, and conditional ablation using a small-molecule trigger quickly cures infected animals, demonstrating the essential role of parasite sex in continued infection.",
+    "journal": "mBio",
+    "doi": "10.1128/mbio.01991-26",
+    "date": "2026-10-29",
+    "authors": "Daniels AM, Shaw S, Nötzel C, Xiao R, O'Dea K, Beiting DP, Striepen B.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42954483",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42954483",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5245,
+    "collected_at": "2026-11-20T20:15:04.307525+00:00",
+    "collected_date": "2026-11-21",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1128/mbio.01991-26"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 2",
+        "query": "(JOURNAL:\"microLife\" OR JOURNAL:\"Nucleic Acids Research\" OR JOURNAL:\"NAR Genomics and Bioinformatics\" OR JOURNAL:\"Bioinformatics\" OR JOURNAL:\"Microbes and Environments\" OR JOURNAL:\"Frontiers in Microbiology\" OR JOURNAL:\"Frontiers in Marine Science\" OR JOURNAL:\"mBio\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1128/mbio.02302-26",
+    "title": "The cell wall integrity pathway kinase Mpk1 regulates extracellular vesicle production and apoptotic-like vesicle release in <i>Cryptococcus neoformans</i>.",
+    "abstract": "Extracellular vesicles (EVs) are important mediators of fungal physiology and host interactions, yet the mechanisms governing their production remain poorly understood. In Cryptococcus neoformans, EV production is tightly regulated by environmental conditions, suggesting the existence of dedicated signaling pathways. Here, we screened a kinase deletion library to identify regulators of EV production and found that the cell wall integrity (CWI) pathway acts as a major negative regulator of EV production. Deletion of the CWI kinases MPK1, MKK2, or BCK1 increased EV release. Unexpectedly, the size of EVs produced by CWI mutants differed markedly from wild type. Accordingly, cryo-electron microscopy revealed the accumulation of larger vesicles with altered size distributions in the mpk1Δ mutant. These EVs lacked the characteristic mannoprotein-based fibrillar surface decoration observed on most wild-type vesicles, exhibited reduced association with capsular polysaccharide, and contained substantially less protein. Quantitative proteomic analysis demonstrated extensive remodeling of the EV proteome, with depletion of glycosylphosphatidylinositol (GPI)-anchored proteins, and enrichment of ribosomal proteins and histones. Finally, mpk1Δ EVs displayed several hallmarks of mammalian apoptotic EVs, including phosphatidylserine exposure, and were produced under conditions associated with reduced cell viability. Together, these findings identify the CWI pathway as a central regulator of fungal EV production and provide evidence that C. neoformans produces distinct EV populations through genetically regulated pathways. Our results provide evidence for an apoptotic-like EV population in fungi and reveal an unexpected link between cell wall integrity signaling, cell death, and EV diversity.IMPORTANCEFungal extracellular vesicles (EVs) contribute to virulence, antifungal resistance, and host-pathogen interactions, yet the mechanisms governing their production remain poorly understood. Here, we identify the cell wall integrity signaling pathway as a major regulator of EV production in the human fungal pathogen Cryptococcus neoformans. We further show that disruption of one of the major kinases of this pathway induces the production of a distinct population of EVs with structural and molecular features resembling mammalian apoptotic EVs. These findings demonstrate that fungi produce multiple EV populations through genetically regulated pathways rather than a single constitutive mechanism. By establishing the existence of apoptotic-like EVs in fungi, our work provides new insight into fungal EV production and lays the foundation for investigating how different EV populations contribute to fungal physiology, pathogenesis, and antifungal resistance.",
+    "journal": "mBio",
+    "doi": "10.1128/mbio.02302-26",
+    "date": "2026-10-23",
+    "authors": "Deculty C, Flamant P, Moyrand F, Commere P-H, Novault S, Gil M, Elj R, Matondo M, Janbon G, Mouyna I.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42925063",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13753817",
+    "pmid": "42925063",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungal",
+        "fungi"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5256,
+    "collected_at": "2026-11-20T20:15:04.307525+00:00",
+    "collected_date": "2026-11-21",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1128/mbio.02302-26"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 2",
+        "query": "(JOURNAL:\"microLife\" OR JOURNAL:\"Nucleic Acids Research\" OR JOURNAL:\"NAR Genomics and Bioinformatics\" OR JOURNAL:\"Bioinformatics\" OR JOURNAL:\"Microbes and Environments\" OR JOURNAL:\"Frontiers in Microbiology\" OR JOURNAL:\"Frontiers in Marine Science\" OR JOURNAL:\"mBio\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "review",
+      "discussion",
+      "journal article"
+    ],
+    "id": "10.1128/mbio.01926-26",
+    "title": "mGem: Antibiotic tolerance across the growth-rate continuum in chronic human infections.",
+    "abstract": "Antibiotic failure is frequently attributed to genetic resistance, yet many chronic infections persist despite clinical isolates remaining susceptible to antibiotics. Antibiotic tolerance offers an alternative explanation, but is commonly interpreted through persisters, dormancy, and growth arrest. We argue this theory is incomplete. In vitro studies consistently demonstrate that growth rate strongly influences antibiotic susceptibility, while bacteria in chronic human infections occupy a broad continuum of growth states. However, experimental models of tolerance largely examine rapidly growing or growth-arrested bacteria and rarely encompass the substantially slower growth rates found in chronic infection. We propose that tolerance can emerge from stochastic growth-rate heterogeneity within clonal populations without requiring transition into dormancy. Thus, understanding tolerance requires defining how antibiotic survival changes across the growth-rate continuum. Further studies directly examining antibiotic tolerance at slow growth rates representative of chronic infection are needed to understand tolerance during human infection.",
+    "journal": "mBio",
+    "doi": "10.1128/mbio.01926-26",
+    "date": "2026-10-23",
+    "authors": "Roberts B, Brown SP, Diggle SP, Whiteley M.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42925037",
+    "preprint": false,
+    "review": true,
+    "pmcid": "PMC13753805",
+    "pmid": "42925037",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5259,
+    "collected_at": "2026-11-20T20:15:04.307525+00:00",
+    "collected_date": "2026-11-21",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1128/mbio.01926-26"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 2",
+        "query": "(JOURNAL:\"microLife\" OR JOURNAL:\"Nucleic Acids Research\" OR JOURNAL:\"NAR Genomics and Bioinformatics\" OR JOURNAL:\"Bioinformatics\" OR JOURNAL:\"Microbes and Environments\" OR JOURNAL:\"Frontiers in Microbiology\" OR JOURNAL:\"Frontiers in Marine Science\" OR JOURNAL:\"mBio\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1128/mbio.02359-26",
+    "title": "The lumpy skin disease virus protein LSDV003 regulates MHC-I trafficking and surface expression.",
+    "abstract": "Lumpy skin disease (LSD) is a severe transboundary disease of cattle caused by lumpy skin disease virus (LSDV), which is highly transmissible and responsible for substantial economic losses worldwide. Although cellular immune responses are critical for controlling poxvirus infections, the viral strategies used by LSDV to evade cytotoxic T-cell immunity remain poorly understood. In this study, we demonstrate that LSDV infection markedly downregulates major histocompatibility complex class I (MHC-I) surface expression in host cells. Screening of LSDV-encoded proteins identified LSDV003 as a key viral factor responsible for MHC-I downregulation. Mechanistically, LSDV003 interacts with both the MHC-I heavy chain and β2-microglobulin and mediates endoplasmic reticulum (ER) retention of MHC-I via a C-terminal HNEL motif, thereby preventing its transport to the cell surface. Mutational analyses demonstrated that disruption of the HNEL motif impaired the ability of LSDV003 to alter MHC-I localization and surface expression. Furthermore, an LSDV003-deficient virus exhibited a markedly reduced capacity to suppress MHC-I surface expression. Collectively, these findings identify LSDV003 as a viral regulator of MHC-I trafficking and reveal a mechanism by which LSDV modulates host immune recognition.IMPORTANCELumpy skin disease is a highly contagious viral disease of cattle that has spread rapidly across Afro-Eurasia and causes major economic losses. However, the mechanisms used by lumpy skin disease virus to evade host immune defenses remain incompletely understood. In this study, we identify a previously unrecognized lumpy skin disease virus protein, LSDV003, that reduces the surface expression of major histocompatibility complex class I molecules in infected cells. We found that LSDV003 prevents these molecules from leaving the endoplasmic reticulum by using a C-terminal retention motif, thereby altering their normal intracellular trafficking. An LSDV003-deficient virus showed a reduced ability to suppress major histocompatibility complex class I surface expression during infection. These findings reveal an important immune evasion strategy used by lumpy skin disease virus and highlight LSDV003 as a potential target for improved vaccines and antiviral approaches to control this economically important disease.",
+    "journal": "mBio",
+    "doi": "10.1128/mbio.02359-26",
+    "date": "2026-10-22",
+    "authors": "Yang Y, Gao L-y, Guo A-M, Jia H-J, Li M, Wu X, Shu H-B, Xia T.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42910938",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13753777",
+    "pmid": "42910938",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5260,
+    "collected_at": "2026-11-20T20:15:04.307525+00:00",
+    "collected_date": "2026-11-21",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1128/mbio.02359-26"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 2",
+        "query": "(JOURNAL:\"microLife\" OR JOURNAL:\"Nucleic Acids Research\" OR JOURNAL:\"NAR Genomics and Bioinformatics\" OR JOURNAL:\"Bioinformatics\" OR JOURNAL:\"Microbes and Environments\" OR JOURNAL:\"Frontiers in Microbiology\" OR JOURNAL:\"Frontiers in Marine Science\" OR JOURNAL:\"mBio\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1128/mbio.01248-26",
+    "title": "Theft of host transferrin receptor-1 by <i>Toxoplasma gondii</i> is required for infection.",
+    "abstract": "Host nutrient acquisition is essential for apicomplexan parasite infection, yet mechanisms underpinning this are not defined. We discovered the genome of Toxoplasma gondii lacks conserved genes for iron transport and storage and these host cell proteins, including the transferrin receptor 1, transferrin, ferritin heart/heavy and liver/light chains, and clathrin light chain, are robustly taken up by tachyzoites. Acquisition of these host cell proteins was conserved across host cell species and parasite virulence types. Increased trafficking of host cell transferrin receptor 1 to endolysosomes boosted tachyzoite acquisition of host proteins and growth rate. Bradyzoites possessed little capacity to acquire host cell proteins, consistent with the cyst wall representing a barrier to host cell protein cargo. This study provides insight into essential functions associated with parasite theft of host iron acquisition and storage proteins.IMPORTANCEHost nutrient theft is a dogmatic principle of parasitism. The paradigm that Toxoplasma gondii avoids association with host proteins, seemingly abstaining from them as a nutritional stream and for immune system avoidance, is changing. Many host proteins are enriched at the parasitophorous vacuole, but that barrier may be breached since exogenous proteins expressed by host cells transverse to T. gondii bodies. Our work presented here provides in vivo context to this new view because several host iron homeostatic proteins are acquired and retained within the parasite to support infection. These findings not only shed light on how T. gondii could acquire iron but also reveal new host-parasite interactions of theft and integration of host proteins by pathogens.",
+    "journal": "mBio",
+    "doi": "10.1128/mbio.01248-26",
+    "date": "2026-10-23",
+    "authors": "Denton SL, Mejia A, Nevarez LL, Soares MP, Fox BA, Bzik DJ, Gigley JP.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42925056",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13753791",
+    "pmid": "42925056",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5261,
+    "collected_at": "2026-11-20T20:15:04.307525+00:00",
+    "collected_date": "2026-11-21",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1128/mbio.01248-26"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 2",
+        "query": "(JOURNAL:\"microLife\" OR JOURNAL:\"Nucleic Acids Research\" OR JOURNAL:\"NAR Genomics and Bioinformatics\" OR JOURNAL:\"Bioinformatics\" OR JOURNAL:\"Microbes and Environments\" OR JOURNAL:\"Frontiers in Microbiology\" OR JOURNAL:\"Frontiers in Marine Science\" OR JOURNAL:\"mBio\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1093/nar/gkag1015",
+    "title": "NEAT1 remodeling rewires the MYC degradation pathway",
+    "abstract": "MYC is among the most frequently amplified oncogenes in human cancer, yet its intrinsically disordered nature has rendered it refractory to direct pharmacological targeting. Here, we demonstrate that the long noncoding RNA NEAT1_1 functions as a molecular gatekeeper that controls MYC protein stability by regulating its access to the E3 ubiquitin ligase UBR5. We show that NEAT1_1 forms a ribonucleoprotein (RNP) complex with both MYC and UBR5, and that NEAT1_1 suppression disrupts this interaction, leading to decreased MYC polyubiquitination and enhanced protein stability. To systematically map the regulatory architecture of NEAT1_1 without altering its abundance, we screened 88 antisense oligonucleotide (ASO) mixmers tiling across the transcript. Strikingly, this phenotypic screen identified region-specific mixmers that elicit bidirectional control over MYC, either driving robust MYC destabilization or promoting its stabilization in a strictly expression-independent manner. Mechanistically, MYC-destabilizing mixmers selectively enhance the interaction between MYC and UBR5 to accelerate proteasomal degradation. A focused CRISPR screen targeting the ubiquitin–proteasome pathway independently validated UBR5 as the essential E3 ligase mediating this mixmer-induced turnover. In vivo , our lead mixmer ASO_#24 significantly suppressed tumor growth in MYC-high xenografts, whereas MYC-low tumors remained unaffected. Our findings reveal that the functional output of a scaffold lncRNA is encoded in its sub-domain architecture rather than bulk transcript levels, establishing domain-specific RNA targeting as a tractable strategy to rewire protein turnover pathways for otherwise undruggable oncogenes.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1015",
+    "date": "2026-10-23",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PMC/PMC13691374",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13691374",
+    "pmid": "42924439",
+    "metadata_source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13691374/fullTextXML",
+    "abstract_source": "Europe PMC fullTextXML",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5263,
+    "collected_at": "2026-11-20T20:15:04.307525+00:00",
+    "collected_date": "2026-11-21",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1093/nar/gkag1015"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 2",
+        "query": "(JOURNAL:\"microLife\" OR JOURNAL:\"Nucleic Acids Research\" OR JOURNAL:\"NAR Genomics and Bioinformatics\" OR JOURNAL:\"Bioinformatics\" OR JOURNAL:\"Microbes and Environments\" OR JOURNAL:\"Frontiers in Microbiology\" OR JOURNAL:\"Frontiers in Marine Science\" OR JOURNAL:\"mBio\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1093/nar/gkag1011",
+    "title": "CPSF6 maintains genomic stability by stabilizing RAD52 and promoting CHK1 activation",
+    "abstract": "RAD52 and CHK1 are critical factors that play pleiotropic roles in the DNA damage response (DDR), including the resolution of transcription–replication conflicts (TRCs). However, how their functions are modulated remains incomplete. Here, we reveal that the cleavage and polyadenylation specificity factor subunit 6 (CPSF6) is an unexpected DDR factor that enhances RAD52 stability and CHK1 activation. Specifically, CPSF6 competitively interacts with RAD52, thereby preventing RAD52 from interacting with the E3 ubiquitin ligase UHRF1 and subsequent proteasomal degradation. In addition, CPSF6 enhances the ATR–CHK1 interaction to promote CHK1 activation, thereby facilitating the activation of downstream CHK1–PLK1–RAD51 pathway. The dual functions of CPSF6 in RAD52 stabilization and CHK1 activation contribute to its role in TRC resolution. CPSF6 depletion causes R-loop accumulation and transcription-associated DNA damage. Notably, these roles of CPSF6 in the DDR are independent of its canonical role in pre-mRNA 3′-end processing. Collectively, our findings establish that CPSF6 is a novel factor critical for maintaining genomic stability, with the resolution of TRCs as an important mechanism.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1011",
+    "date": "2026-10-23",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PMC/PMC13691373",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13691373",
+    "pmid": "42924440",
+    "metadata_source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13691373/fullTextXML",
+    "abstract_source": "Europe PMC fullTextXML",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5264,
+    "collected_at": "2026-11-20T20:15:04.307525+00:00",
+    "collected_date": "2026-11-21",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1093/nar/gkag1011"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 2",
+        "query": "(JOURNAL:\"microLife\" OR JOURNAL:\"Nucleic Acids Research\" OR JOURNAL:\"NAR Genomics and Bioinformatics\" OR JOURNAL:\"Bioinformatics\" OR JOURNAL:\"Microbes and Environments\" OR JOURNAL:\"Frontiers in Microbiology\" OR JOURNAL:\"Frontiers in Marine Science\" OR JOURNAL:\"mBio\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "epmc:PMC:PMC13691376",
+    "title": "Emerging roles of RIF1 in mitosis",
+    "abstract": "",
+    "journal": "Nucleic Acids Research",
+    "doi": "",
+    "date": "2026-10-23",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/PMC/PMC13691376",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13691376",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5265,
+    "collected_at": "2026-11-20T20:15:04.307525+00:00",
+    "collected_date": "2026-11-21",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": []
   }
 ]
