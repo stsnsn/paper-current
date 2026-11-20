@@ -310134,5 +310134,285 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "マナティーの腸内微生物叢の内部",
     "abstract_ja": "マナティーの腸内微生物叢に関する超深層メタゲノムアトラスは、水生植物食害の基盤となる、広範かつこれまで未解明であった微生物およびウイルスの多様性を明らかにする。我々は、水生植物バイオマスの分解における特化した分子戦略を同定するとともに、腸内糖質代謝の現在の機能的様相を拡張する代謝経路を発見した。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.02146-26",
+    "title": "Lyme disease <i>Borrelia</i> spirochetes are naturally resistant to clinically relevant concentrations of rifampin, trimethoprim, and dapsone.",
+    "abstract": "A number of health care providers recommend the antibiotics rifampin, trimethoprim, and/or dapsone for treatment of Lyme disease. In opposition, previous studies found that Lyme disease-causing Borrelia are innately resistant to those antibiotics at concentrations that would be lethal to other bacterial species. To resolve those contradictions, multiple genospecies and strains of Lyme disease-causing spirochetes were assessed for their ability to grow and replicate in the presence of these drugs. For each antibiotic, the minimum concentrations necessary to prevent growth of Borrelia burgdorferi sensu stricto type strain B31 exceeded 300 µg/mL. All of the tested genospecies of Lyme disease, Borrelia, grew and replicated in the presence of 100 µg/mL or more of antibiotic. In contrast, prior studies determined that maximum serum concentrations of these antibiotics in humans and laboratory animals are less than 15 µg/mL. The current study's results indicate that rifampin, trimethoprim, and dapsone are unlikely to have any positive effect in clearing Lyme disease-causing Borrelia infections.ImportanceThere are conflicting reports on the efficacy of using the antibiotics rifampin, trimethoprim, or dapsone against the Lyme disease spirochete, Borrelia burgdorferi (sensu lato). The present studies found that the concentration of antibiotic necessary to prevent borrelial growth and replication, alone or in combination, exceeded 200 µg/mL for all tested strains of B. burgdorferi sensu lato. In contrast, previous studies of humans and mice found that clinically relevant dosages of these antibiotics yielded maximum serum concentrations of 15 µg/mL or less. All together, these data indicate that these pharmaceuticals are not likely to be effective in curing B. burgdorferi (sl) infections.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.02146-26",
+    "date": "2026-11-05",
+    "authors": "Jusufovic N, Saylor TC, Krusenstjerna AC, Stevenson B.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42986002",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42986002",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5220,
+    "collected_at": "2026-11-20T11:50:28.841726+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1128/spectrum.02146-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7f0f485b5b355e7a54cd191a730aa0911b4f31d39501d5c69e9dbb0689a38ab9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T12:35:53.108591+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "376f6111b8758e97175ff713e53f694b3a542e880ebfe7084f78e60758dd5338",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T12:35:53.108591+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ライム病の<i>Borrelia</i>スピロヘータは、臨床的に意義のある濃度のリファンピシン、トリメトプリム、およびダプソンに対して天然の耐性を有する。",
+    "abstract_ja": "多くの医療従事者が、ライム病の治療に抗生物質のリファンピシン、トリメトプリム、および／またはダプソンを推奨している。これに対し、先行研究では、ライム病の原因となるボレリア属菌が、他の細菌種には致死的な濃度のこれらの抗生物質に対して本来的に耐性を有することが明らかになっている。こうした矛盾を解消するため、ライム病の原因となるスピロヘータの複数の遺伝子種および株について、これらの薬剤存在下での増殖および複製能を評価した。各抗生物質において、Borrelia burgdorferi sensu stricto type strain B31の増殖を防ぐために必要な最小濃度は300 µg/mLを超えた。試験したライム病の遺伝子種であるボレリア属菌はすべて、100 µg/mL以上の抗生物質存在下で増殖および複製した。対照的に、先行研究では、ヒトおよび実験動物におけるこれらの抗生物質の最大血清濃度は15 µg/mL未満であると判定されている。本研究の結果は、リファンピシン、トリメトプリム、およびダプソンが、ライム病の原因となるボレリア属菌感染症の根絶に有益な効果をもたらす可能性は低いことを示している。重要性 ライム病のスピロヘータであるBorrelia burgdorferi (sensu lato)に対する抗生物質リファンピシン、トリメトプリム、またはダプソンの有効性については、相反する報告がある。本研究では、ボレリア属菌の増殖および複製を防ぐために必要な抗生物質の濃度は、単独または併用において、試験したすべてのB. burgdorferi sensu lato株で200 µg/mLを超えたことが判明した。対照的に、ヒトおよびマウスを対象とした先行研究では、これらの抗生物質の臨床的に意義のある用量における最大血清濃度は15 µg/mL以下であった。総合的に、これらのデータは、これらの薬剤がB. burgdorferi (sl)感染症の治療に有効である可能性は低いことを示している。"
+  },
+  {
+    "id": "10.1093/nar/gkag1214",
+    "title": "FusionGDB 3.0: integrating breakpoints, generating personalized sequences, and inferring tumorigenic scenarios for human fusion genes",
+    "abstract": "AbstractFusionGDB has served diverse biological, health, and clinical research communities as a unique functional annotation knowledgebase of human fusion genes. In this study, we report an updated resource of human fusion gene annotation (FusionGDB 3.0), available at https://compbio.uth.edu/FusionGDB/. FusionGDB 3.0 includes substantial content updates: 156K up-to-date human fusion genes established by integrating 216K RNA-seq-based and 100K WGS-based breakpoint events, comprehensive open reading frame annotations, protein domain retention searches, and 1.13 million personalized fusion protein sequences reflecting individual nsSNVs from TCGA and CCLE, as well as N- and C-truncated protein sequences alongside canonical in-frame products. Furthermore, it incorporates 18K potential tumorigenic scenarios, supported by evidence from the literature, spanning drug-targetable gene group fusions, the epigenomic architecture around breakpoint junctions, and therapeutic prioritization scoring. FusionGDB 3.0 establishes a systematic framework for the functional annotation of coding structural variants. FusionGDB 3.0 serves as a pivotal reference knowledgebase for the genomics, oncology, and precision pharmacology communities, while also functioning as a foundational benchmark dataset for training and validating machine learning models, structural biology platforms, and AI-driven therapeutic discovery pipelines.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1214",
+    "date": "2026-11-20",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1214/9103991?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "annotation",
+        "gene",
+        "resource"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5347,
+    "collected_at": "2026-11-20T12:01:03.805438+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1093/nar/gkag1214"
+    ],
+    "translation": {
+      "title": {
+        "hash": "886792f39f817d5cf47c0f71a4ae961c08874495aa5fdca6466ad39e7e130249",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T12:35:53.108591+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "685dbf6992fcd8ca06c8a33ec018dd61e95a52163ca5eaee28645c6843b9074f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T12:35:53.108591+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "FusionGDB 3.0：ヒト融合遺伝子におけるブレークポイントの統合、個別化シーケンスの生成、および腫瘍原性シナリオの推論",
+    "abstract_ja": "要旨FusionGDBは、ヒト融合遺伝子の独自の機能アノテーション知識ベースとして、多様な生物学、保健、および臨床研究コミュニティに貢献してきた。本研究では、https://compbio.uth.edu/FusionGDB/ で利用可能な、更新版のヒト融合遺伝子アノテーションリソース（FusionGDB 3.0）について報告する。FusionGDB 3.0には、大幅なコンテンツの更新が含まれている。具体的には、216K件のRNA-seqベースおよび100K件のWGSベースのブレイクポイントイベントを統合して構築された156K件の最新のヒト融合遺伝子、包括的なオープンリーディングフレームアノテーション、タンパク質ドメイン保持検索、ならびにTCGAおよびCCLE由来の個々のnsSNVを反映した113万件の個別化融合タンパク質配列、および正準なインフレーム産物と並行して提示されるN-およびC-切断型タンパク質配列が収録されている。さらに、文献のエビデンスに裏付けられた18K件の潜在的な腫瘍原性シナリオが組み込まれており、これには薬剤標的可能遺伝子群の融合、ブレイクポイント接合部周辺のエピゲノム構造、および治療優先順位付けスコアリングが含まれる。FusionGDB 3.0は、コーディング構造変異の機能アノテーションのための体系的なフレームワークを確立する。FusionGDB 3.0は、ゲノミクス、腫瘍学、および精密薬理学のコミュニティにとって極めて重要なリファレンス知識ベースとして機能すると同時に、機械学習モデル、構造生物学プラットフォーム、およびAI駆動型の治療探索パイプラインの学習および検証のための基礎的なベンチマークデータセットとしても機能する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.01265-26",
+    "title": "Global, regional, and national burden of syphilis in children under 5 years from 1990 to 2021.",
+    "abstract": "Mother-to-child transmission of syphilis has raised much concern for the dramatically increasing incidence in recent years. This study aims to assess the global, regional, and national disease burden of syphilis in children under 5 years from 1990 to 2021. Data were extracted from the 2021 Global Burden of Disease study. Temporal trends were evaluated using the average annual percentage change. Segmented regression was applied to estimate breakpoints and the corresponding slopes. Spearman correlation analysis was performed to analyze the correlation of disease burden and SDI. Slope index of inequality and concentration index were calculated, and ARIMA model was performed. In 2021, an estimated 384,121 (95% UI: 314,943 to 460,835) new cases were reported among syphilis under 5 years, with an age-standardized incidence rate of 58.36 (95% UI: 47.85 to 70.02) per 100,000 population. Reported death cases were 72,148 (95% UI: 27,130 to 144,529) with an ASR of 10.96 (95% UI: 4.12 to 21.96). A sharp increase in both incidence and prevalence has been observed since 2016, with APCs as high as 7.06% and 8.11%. The mortality and DALY rates have increased from 2019 with an APC of 7.92%. The neonatal period contributed to 97.7% deaths and DALYs. The disease burden is inversely associated with overall socioeconomic development, with disparities persisting between higher- and lower-resource regions and countries. These data suggest a global re-emergence of syphilis in children under 5 years and highlight the priority for enhancing prenatal screening and interventions, providing timely and adequate maternal treatment, and preventing neonatal mortality.ImportanceMother-to-child transmission of syphilis has raised much concern for the dramatically increasing incidence and societal well-being in recent years. We depict the global, regional, and national temporal trend of syphilis in children under 5 years from 1990 to 2021, and our study has demonstrated a sharp upward trend in disease burden in recent years. The neonatal death contributed to 97.7% deaths and DALYs in syphilis among children under 5 years, indicating that premature mortality was the overwhelming driver of DALYs. The disease burden is inversely associated with overall socioeconomic development, with disparities persisting between higher- and lower-resource regions and countries. By understanding the trends and patterns, policymakers and healthcare providers can develop targeted and evidence-based strategies to reduce the mother-to-child transmission and overall burden of syphilis in children under 5 years.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.01265-26",
+    "date": "2026-11-04",
+    "authors": "Feng X, Lu Y, Zhu L, Tian T, Jiang N, Zhou P.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42980161",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42980161",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5213,
+    "collected_at": "2026-11-20T11:50:28.841726+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1128/spectrum.01265-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "40bc644f1f180feceee536cf8d038abfa3d9118a4d7fbffd1ccf7d105f859c5c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T12:35:53.108591+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8cc07098379e6c8afefc7ad7f65f932b43014072165dc85e5b5dd03159eed5d2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T12:35:53.108591+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "1990年から2021年における5歳未満児の梅毒の世界的、地域的、および国家的な負担。",
+    "abstract_ja": "近年の罹患率の劇的な上昇に伴い、梅毒の母子感染が大きな懸念となっている。本研究は、1990年から2021年までの5歳未満児における梅毒の世界的、地域的、および国家的な疾病負荷を評価することを目的とする。データは2021年のGlobal Burden of Disease研究から抽出した。経時的傾向は、年平均変化率を用いて評価した。分割回帰分析を適用し、ブレークポイントおよび対応する傾きを推定した。疾病負荷とSDIの相関を分析するため、スピアマン相関分析を実施した。不平等勾配指数および集中指数を算出し、ARIMAモデルを適用した。2021年には、5歳未満児の梅毒新規症例数として推定384,121例（95% UI: 314,943～460,835例）が報告され、人口10万人あたりの年齢標準化罹患率は58.36（95% UI: 47.85～70.02）であった。報告された死亡例数は72,148例（95% UI: 27,130～144,529例）で、ASRは10.96（95% UI: 4.12～21.96）であった。2016年以降、罹患率と有病率の双方に急激な上昇が認められ、APCは7.06%および8.11%に達した。死亡率およびDALY率は2019年以降上昇しており、APCは7.92%となった。新生児期が死亡およびDALYの97.7%を占めていた。疾病負荷は全体的な社会経済的発展と逆相関しており、資源の豊富な地域と乏しい地域および国の間で格差が依然として存在している。これらのデータは、5歳未満児における梅毒の世界的な再興を示唆しており、出生前スクリーニングと介入の強化、適時かつ適切な母体治療の提供、および新生児死亡の予防を優先すべきであることを強調している。重要性 梅毒の母子感染は、近年の罹患率の劇的な上昇と社会的ウェルビーイングに大きな懸念をもたらしている。本研究では、1990年から2021年までの5歳未満児における梅毒の世界的、地域的、および国家的な経時的傾向を示し、近年の疾病負荷に急激な上昇傾向があることを実証した。5歳未満児の梅毒における死亡およびDALYの97.7%を新生児死亡が占めており、早期死亡がDALYの圧倒的な要因であったことが示された。疾病負荷は全体的な社会経済的発展と逆相関しており、資源の豊富な地域と乏しい地域および国の間で格差が依然として存在している。これらの傾向とパターンを把握することで、政策立案者や医療従事者は、5歳未満児における梅毒の母子感染および全体的な負荷を軽減するための、標的を絞ったエビデンスに基づく戦略を策定することができる。"
+  },
+  {
+    "id": "10.1093/nar/gkag1246",
+    "title": "SynCED: the Synthetic Chemical Exposome Database",
+    "abstract": "AbstractThe Synthetic Chemical Exposome Database (SynCED) (https://syncedb.ca) is a substantially updated and expanded version of the Toxin and Toxin Target Database (T3DB). SynCED provides rich data on 316 418 synthetic chemicals from diverse chemical, toxicological, exposure, and regulatory sources. The synthetic chemical exposome comprises a vast and rapidly expanding range of anthropogenic chemicals, yet information on their sources, uses, biological effects, toxicity, and molecular interactions remains fragmented across numerous resources. SynCED addresses this problem by consolidating this information and linking most known synthetic chemicals with standardized chemical names and identifiers, compound descriptions, predicted or measured physicochemical properties, reference spectral data, exposure and use information, toxicological data, and biological targets or interactions. Literature-derived compound descriptions and functional annotations were built using the Chemical Functional Ontology (ChemFOnt) Fact Finder pipeline, which extracts semantically defined chemical–relation–entity associations while retaining supporting evidence and provenance. In addition to literature-derived biological target information, SynCED also incorporates ligand-based protein-target predictions to extend the coverage of chemicals lacking experimentally characterized interactions. To facilitate compound identification using non-target or suspect screening, SynCED provides extensive search utilities supporting searches by chemical structure, toxicity, text, mass, molecular weight, elemental composition, ESI-MS, EI-MS, and NMR spectra (both measured and predicted) as well as searches by target sequence (protein and DNA). It also supports database browsing by chemical names, ClassyFire chemical taxonomy and exposure source. Together, these features extend T3DB to turn SynCED into a broader, more provenance-aware database, that supports suspect or non-target screening, chemical exposure and hazard assessment, mechanistic studies, and general chemical exposomics research.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1246",
+    "date": "2026-11-20",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1246/9103989?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "annotation"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5348,
+    "collected_at": "2026-11-20T12:01:03.805438+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1093/nar/gkag1246"
+    ],
+    "translation": {
+      "title": {
+        "hash": "31662e0fa1e2182b2caa01dd63d98f8b858fb6bb47699d9b347c7449045b7c55",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T12:35:53.108591+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "66602c2741f86c77ccf832891796021cb245ad4b432f4826cfee5f8bba302469",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T12:35:53.108591+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "SynCED: 合成化学エクスポソームデータベース",
+    "abstract_ja": "要旨 合成化学物質エクスポソームデータベース（SynCED）（https://syncedb.ca）は、Toxin and Toxin Target Database（T3DB）を大幅に更新・拡張したバージョンである。SynCEDは、多様な化学、毒性学、曝露、および規制上の情報源から、316,418種類の合成化学物質に関する豊富なデータを提供している。合成化学物質エクスポソームは、膨大かつ急速に拡大する人為的化学物質の範囲を網羅しているが、その供給源、用途、生物学的影響、毒性、および分子間相互作用に関する情報は、数多くのリソースにわたって断片化したままである。SynCEDは、これらの情報を統合し、既知の合成化学物質の大部分を、標準化された化学名および識別子、化合物記述、予測または測定された物理化学的特性、参照スペクトルデータ、曝露および用途情報、毒性学データ、ならびに生物学的標的または相互作用と紐付けることで、この課題に対処している。文献由来の化合物記述および機能アノテーションは、Chemical Functional Ontology（ChemFOnt）Fact Finderパイプラインを用いて構築されており、このパイプラインは、裏付けとなる証拠と来歴を保持しつつ、意味的に定義された化学物質－関係－エンティティの関連付けを抽出する。文献由来の生物学的標的情報に加え、SynCEDはリガンドに基づくタンパク質標的予測を組み込むことで、実験的に特性評価された相互作用が欠如している化学物質のカバー範囲を拡大している。非標的または疑わしいスクリーニングを用いた化合物同定を容易にするため、SynCEDは、化学構造、毒性、テキスト、質量、分子量、元素組成、ESI-MS、EI-MS、およびNMRスペクトル（測定および予測の両方）による検索、ならびに標的配列（タンパク質およびDNA）による検索をサポートする広範な検索ユーティリティを提供している。また、化学名、ClassyFire化学分類、および曝露源によるデータベースブラウジングもサポートしている。これらの機能が相まってT3DBを拡張し、SynCEDをより広範で来歴を考慮したデータベースへと進化させ、疑わしいまたは非標的スクリーニング、化学物質曝露およびハザード評価、メカニズム研究、および一般的な化学エクスポソーム研究を支援する。"
   }
 ]
