@@ -53253,5 +53253,1074 @@ window.PAPER_RECENT_DATA = [
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "植物性食品中心の食事はすべて同じというわけではない。最小限の加工を施した植物性食品の摂取は、ベジタリアンやヴィーガンにおける腸内細菌の多様性と関連している。",
     "abstract_ja": "植物性食品中心の食事は通常、何を排除するかによって定義され、どのような植物性食品を摂取し、それらがどの程度加工されているかという点は見落とされがちである。本稿では、この見落とされがちな側面が腸内マイクロバイオームと関連しているかどうかを検討する。ショットガンメタゲノミクスを用いて解析した、雑食性、ラクト・オボ・ベジタリアン、およびヴィーガンの成人172名を対象とした横断的研究において、ベジタリアンおよびヴィーガンは雑食者よりも腸内細菌種の数が少ないことが明らかになった。しかし、このグループ内では、食物繊維の摂取量とは独立して、最小限の加工しか施されていない植物性食品の摂取量が1標準偏差増加するごとに、27種の細菌種が追加で認められた（p = 0.001）。また、摂取量が最も多い参加者における細菌種の豊富さは、雑食者のそれに近かった。雑食者の間では、このような関連性は認められなかった。摂取量の多さは、良好な心代謝系の健康と関連していると従来考えられてきたより多くの細菌種の存在や、健康に関連する生活の質の向上とも結びついていた。したがって、食品ラベルだけでは腸内マイクロバイオームの有意な変動が隠されている可能性があり、植物性食品がどのように加工されているかを明らかにすることは、植物性食品中心の食事が健康にどのように関連しているかを理解する一助となる可能性がある。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 7",
+        "query": "(JOURNAL:\"Microbial Ecology\" OR JOURNAL:\"Environmental Microbiology Reports\" OR JOURNAL:\"International Journal of Systematic and Evolutionary Microbiology\" OR JOURNAL:\"npj Biofilms and Microbiomes\" OR JOURNAL:\"Nature Reviews Microbiology\" OR JOURNAL:\"Trends in Microbiology\" OR JOURNAL:\"Annual Review of Microbiology\" OR JOURNAL:\"Microbial Cell\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.tim.2026.10.002",
+    "title": "Hidden carbon: uncovering the diversity and function of polyhydroxyalkanoates.",
+    "abstract": "Polyhydroxyalkanoates (PHAs) are a widespread family of microbial carbon-storage polymers. Ecological studies often focus on polyhydroxybutyrate (PHB), obscuring the broader chemical diversity. We argue that PHA monomer composition should be treated as a microbial trait and propose a multiscale framework, from the single cell to the ecosystem level, to reveal hidden carbon dynamics.",
+    "journal": "Trends in Microbiology",
+    "doi": "10.1016/j.tim.2026.10.002",
+    "date": "2026-10-21",
+    "authors": "Pei R, Gu W.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42907313",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42907313",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5177,
+    "collected_at": "2026-11-20T03:12:52.480184+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "Europe PMC journals 7"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1016/j.tim.2026.10.002"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ed7a4a5f4932c06edf950a1ea9bc5a80d315a9b5e1350edfd56c9dcbb0ba11fc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T03:50:15.788514+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e3946a49556f1aee23520f64a9a96c525b9f39dd12b2731e95ed661e261d324e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T03:50:15.788514+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "隠れた炭素：ポリヒドロキシアルカノエートの多様性と機能の解明",
+    "abstract_ja": "ポリヒドロキシアルカノエート（PHA）は、広く分布する微生物由来の炭素貯蔵ポリマー群である。生態学的研究ではポリヒドロキシ酪酸（PHB）に焦点が当てられがちであり、より広範な化学的多様性が見落とされている。我々は、PHAのモノマー組成を微生物の形質として扱うべきであると主張し、単一細胞から生態系レベルに至るマルチスケールな枠組みを提案することで、潜在的な炭素動態を明らかにする。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 7",
+        "query": "(JOURNAL:\"Microbial Ecology\" OR JOURNAL:\"Environmental Microbiology Reports\" OR JOURNAL:\"International Journal of Systematic and Evolutionary Microbiology\" OR JOURNAL:\"npj Biofilms and Microbiomes\" OR JOURNAL:\"Nature Reviews Microbiology\" OR JOURNAL:\"Trends in Microbiology\" OR JOURNAL:\"Annual Review of Microbiology\" OR JOURNAL:\"Microbial Cell\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.tim.2026.10.014",
+    "title": "Microbes and their habitats shape postglacial ecosystems.",
+    "abstract": "As glaciers retreat worldwide, microorganisms drive initial proglacial soil development. Ruka et al. reveal that microbial communities are strongly structured by the distinct biological habitats established during primary succession. The trajectories of postglacial ecosystems are thus shaped by reciprocal interactions between biological habitats and their associated microbial communities.",
+    "journal": "Trends in Microbiology",
+    "doi": "10.1016/j.tim.2026.10.014",
+    "date": "2026-11-09",
+    "authors": "Bradley JA.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43003734",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43003734",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbe",
+        "microbes",
+        "microbial",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5174,
+    "collected_at": "2026-11-20T03:12:52.480184+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "Europe PMC journals 7"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1016/j.tim.2026.10.014"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d06731bc3b4e7d8063c8a4c1874fcf540854f42429f93e9423113708561340b8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T03:47:30.053804+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "15291d1f3246b946ddaa1d6225c6850c757a5f52fdb44ba8ee133553052100f4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T03:47:30.053804+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "微生物とその生息環境が、氷河期後の生態系を形作っている。",
+    "abstract_ja": "世界各地で氷河が後退するにつれ、微生物が氷河期後の土壌形成の初期段階を牽引する。Rukaらは、微生物群集が一次遷移の過程で形成された固有の生物生息地によって強く構造化されていることを明らかにした。したがって、氷河期後の生態系の推移は、生物生息地とそれに関連する微生物群集との相互作用によって形作られる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 7",
+        "query": "(JOURNAL:\"Microbial Ecology\" OR JOURNAL:\"Environmental Microbiology Reports\" OR JOURNAL:\"International Journal of Systematic and Evolutionary Microbiology\" OR JOURNAL:\"npj Biofilms and Microbiomes\" OR JOURNAL:\"Nature Reviews Microbiology\" OR JOURNAL:\"Trends in Microbiology\" OR JOURNAL:\"Annual Review of Microbiology\" OR JOURNAL:\"Microbial Cell\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1099/ijsem.0.007328",
+    "title": "<i>Flavobacterium solicola</i> sp. nov. and <i>Flavobacterium myriophylli</i> sp. nov., isolated from distinct freshwater habitats in Korea.",
+    "abstract": "Two novel Gram-stain-negative, yellow-pigmented bacterial strains, designated SP2T and UM26T, were isolated from riparian soil near the Seokpo smelter and from the surface of a macrophyte, Myriophyllum spicatum, collected from a stream in Daejeon, Republic of Korea, respectively. Phylogenetic analysis based on 16S rRNA gene sequences indicated that strains SP2T and UM26T belonged to the genus Flavobacterium and showed the highest sequence similarities to Flavobacterium aquatile LMG 4008T (97.9%) and Flavobacterium riviphilum TAPY6T (98.18%), respectively. The average nucleotide identity (ANI) and digital DNA-DNA hybridization (dDDH) values between SP2T and the type strains of closely related species were below 79.04 and 22.7%, respectively. For strain UM26T, the corresponding ANI and dDDH values were 83.91 and 28.1%. These values were below the generally accepted thresholds for species delineation. The major fatty acids of strain SP2T were iso-C15 : 0 and iso-C15 : 1 G, whereas those of strain UM26T were iso-C15 : 0 and iso-C15 : 0 3-OH. Phosphatidylethanolamine was the major polar lipid in both strains, accompanied by five unidentified aminolipids (ALs) and ten unidentified lipids (Ls) in strain SP2T and three unidentified ALs and six unidentified Ls in strain UM26T. The respiratory quinone of both strains was menaquinone-6. The genomic DNA G+C contents of strains SP2T and UM26T were 32.9 and 35.4 mol%, respectively. On the basis of phenotypic, phylogenetic, and chemotaxonomic characteristics, strains SP2T and UM26T are considered to represent two novel species of the genus Flavobacterium, for which the names Flavobacterium solicola sp. nov. and Flavobacterium myriophylli sp. nov. are proposed, respectively. The type strains of the two novel species are SP2T (=KCTC 102194T=LMG 33486T) and UM26T (=KCTC 102195T=LMG 33488T).",
+    "journal": "International Journal of Systematic and Evolutionary Microbiology",
+    "doi": "10.1099/ijsem.0.007328",
+    "date": "2026-11-01",
+    "authors": "Lee H, Kim MS, Jeong S, Ko SR, Kwon YK, Choi WS, Kang M, Choi DY, Ahn CY.",
+    "tags": [
+      "海洋微生物",
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43043661",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43043661",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [
+          "freshwater"
+        ],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 5183,
+    "collected_at": "2026-11-20T03:12:52.480184+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "Europe PMC journals 7"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1099/ijsem.0.007328"
+    ],
+    "translation": {
+      "title": {
+        "hash": "cd487991f2b8ad6500a7ab9e81de0eac874ac75bdfbfa6f887186599d1e836c9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T03:50:15.788514+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b8e4c466a897e20630db7f5ff0ded6c70068b959430ffb9330575f4f5e46c91b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T03:50:15.788514+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "韓国の異なる淡水生息地から分離された<i>Flavobacterium solicola</i> sp. nov.および<i>Flavobacterium myriophylli</i> sp. nov.",
+    "abstract_ja": "Seokpo製錬所付近の河畔土壌、および大韓民国大田市の渓流から採取した大型植物Myriophyllum spicatumの表面から、それぞれSP2TおよびUM26Tと命名された2株の新規グラム陰性黄色色素細菌株が分離された。16S rRNA遺伝子配列に基づく系統解析の結果、SP2T株およびUM26T株はFlavobacterium属に属し、それぞれFlavobacterium aquatile LMG 4008T（97.9%）およびFlavobacterium riviphilum TAPY6T（98.18%）と最も高い配列類似性を示した。SP2T株と近縁種のタイプ株との間の平均塩基同一性（ANI）およびデジタルDNA-DNAハイブリダイゼーション（dDDH）値は、それぞれ79.04%および22.7%を下回った。UM26T株における対応するANIおよびdDDH値は、83.91%および28.1%であった。これらの値は、種の区分において一般的に認められている閾値を下回っていた。SP2T株の主要脂肪酸はiso-C15 : 0およびiso-C15 : 1 Gであったのに対し、UM26T株ではiso-C15 : 0およびiso-C15 : 0 3-OHであった。両株において主要な極性脂質はホスファチジルエタノールアミンであり、SP2T株では5種類の未同定アミノ脂質（ALs）および10種類の未同定脂質（Ls）が、UM26T株では3種類の未同定ALsおよび6種類の未同定Lsが認められた。両株の呼吸性キノンはメナキノン-6であった。SP2T株およびUM26T株のゲノムDNA G+C含有量は、それぞれ32.9および35.4 mol%であった。表現型、系統学的、および化学分類学的特性に基づき、SP2T株およびUM26T株はFlavobacterium属の2つの新規種を代表するものと考えられ、それぞれFlavobacterium solicola sp. nov.およびFlavobacterium myriophylli sp. nov.という名称が提案される。これら2つの新規種のタイプ株は、SP2T（=KCTC 102194T=LMG 33486T）およびUM26T（=KCTC 102195T=LMG 33488T）である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 7",
+        "query": "(JOURNAL:\"Microbial Ecology\" OR JOURNAL:\"Environmental Microbiology Reports\" OR JOURNAL:\"International Journal of Systematic and Evolutionary Microbiology\" OR JOURNAL:\"npj Biofilms and Microbiomes\" OR JOURNAL:\"Nature Reviews Microbiology\" OR JOURNAL:\"Trends in Microbiology\" OR JOURNAL:\"Annual Review of Microbiology\" OR JOURNAL:\"Microbial Cell\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1099/ijsem.0.007331",
+    "title": "<i>Paenibacillus tiangongensis</i> sp. nov., isolated from the China Space Station.",
+    "abstract": "A Gram-stain-positive, facultatively anaerobic, motile, rod-shaped and endospore-forming bacterial strain, designated JL3B1040T, was isolated from the surface of space hardware in the China Space Station. Strain JL3B1040T grows at 20-50 °C (optimum 30-37  °C), pH 6.0-8.0 (optimum pH 7.0-8.0) and can tolerate up to 7% (wt/v) NaCl. The strain is positive for catalase and oxidase activities. Phylogenetic analysis based on 16S rRNA gene sequences indicated that strain JL3B1040T belongs to the genus Paenibacillus, with Paenibacillus timonensis DSM 16943T as its closest relative, showing 99.7% sequence similarity. The average nucleotide identity and digital DNA-DNA hybridization values between strain JL3B1040T and P. timonensis DSM 16943T are 87.8 and 35.5%, respectively, which are below the recommended thresholds for species delineation. The genomic DNA G+C content of strain JL3B1040T is 54.0 mol%. Pan-genome profiling and cross-species comparison of ectoine biosynthetic gene (BGC) clusters reveal that strain JL3B1040T possesses a unique intact 13-gene ectoine BGC, which differs markedly from the incomplete clusters in its close relatives. The major cellular fatty acids are anteiso-C15 : 0 (34.0%), C16 : 0 (23.2%), iso-C16 : 0 (13.5%) and anteiso-C17 : 0 (11.0%). The major polar lipids are diphosphatidylglycerol, phosphatidylglycerol and phosphatidylethanolamine. The predominant respiratory quinone is menaquinone-7. Based on phylogenetic, genomic, physiological and chemotaxonomic evidence, strain JL3B1040T is considered to represent a novel species of the genus Paenibacillus, for which the name Paenibacillus tiangongensis sp. nov. is proposed, with JL3B1040T (=GDMCC 1.6712=KCTC 43897) as the type strain.",
+    "journal": "International Journal of Systematic and Evolutionary Microbiology",
+    "doi": "10.1099/ijsem.0.007331",
+    "date": "2026-11-01",
+    "authors": "He Z, Yuan J, Liu Y, Ma L, Yin Z, Tong T, Guo P, Yin H.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43043658",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43043658",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 5180,
+    "collected_at": "2026-11-20T03:12:52.480184+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "Europe PMC journals 7"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1099/ijsem.0.007331"
+    ],
+    "translation": {
+      "title": {
+        "hash": "148ee0517db34b3f5c7ef174aa3a9a06a17a8413bc6902b8681c965060386064",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T03:47:30.053804+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "482f4ac53afb9a60fd239bad67dbefc45efe4bb34de375498b5f84a15b8fc899",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T03:47:30.053804+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "中国宇宙ステーションから分離された<i>Paenibacillus tiangongensis</i> sp. nov.",
+    "abstract_ja": "中国宇宙ステーションの宇宙ハードウェア表面から、JL3B1040Tと命名された、グラム染色陽性、通性嫌気性、運動性、桿菌状かつ芽胞形成性の細菌株が分離された。JL3B1040T株は、20-50 °C（至適温度 30-37  °C）、pH 6.0-8.0（至適pH 7.0-8.0）で増殖し、最大7%（wt/v）のNaClに耐性を示す。本株はカタラーゼ活性およびオキシダーゼ活性陽性である。16S rRNA遺伝子配列に基づく系統解析の結果、JL3B1040T株はPaenibacillus属に属し、Paenibacillus timonensis DSM 16943Tが99.7%の配列類似性を示す最も近縁な種であることが示された。JL3B1040T株とP. timonensis DSM 16943Tの平均ヌクレオチド同一性およびデジタルDNA-DNAハイブリダイゼーション値は、それぞれ87.8%および35.5%であり、種の区分に関する推奨閾値を下回っている。JL3B1040T株のゲノムDNA G+C含有量は54.0 mol%である。パンゲノムプロファイリングおよびエクトイン生合成遺伝子（BGC）クラスターの種間比較により、JL3B1040T株は独自の完全な13遺伝子エクトインBGCを有しており、これは近縁種の不完全なクラスターとは著しく異なることが明らかになった。主要な細胞脂肪酸は、anteiso-C15 : 0 (34.0%)、C16 : 0 (23.2%)、iso-C16 : 0 (13.5%)、およびanteiso-C17 : 0 (11.0%)である。主要な極性脂質は、ジホスファチジルグリセロール、ホスファチジルグリセロール、およびホスファチジルエタノールアミンである。主要な呼吸性キノンはメナキノン-7である。系統学的、ゲノム学的、生理学的、および化学分類学的根拠に基づき、JL3B1040T株はPaenibacillus属の新種であると考えられ、JL3B1040T (=GDMCC 1.6712=KCTC 43897) をタイプ株として、Paenibacillus tiangongensis sp. nov. という名称が提案される。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 7",
+        "query": "(JOURNAL:\"Microbial Ecology\" OR JOURNAL:\"Environmental Microbiology Reports\" OR JOURNAL:\"International Journal of Systematic and Evolutionary Microbiology\" OR JOURNAL:\"npj Biofilms and Microbiomes\" OR JOURNAL:\"Nature Reviews Microbiology\" OR JOURNAL:\"Trends in Microbiology\" OR JOURNAL:\"Annual Review of Microbiology\" OR JOURNAL:\"Microbial Cell\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1099/ijsem.0.007344",
+    "title": "<i>Glutinosa niejishengi</i> gen. nov., sp. nov., isolated from wastewater samples of coal mines.",
+    "abstract": "The strains, designated Z1732T and Z1739, were isolated from wastewater samples collected from coal mines in Xiangning and Jincheng, Shanxi Province, China. Both strains are Gram-stain-positive, oxidase-negative, catalase-positive, aerobic, non-motile and coccoid or rod-shaped. The major fatty acid was anteiso-C15 : 0. The major respiratory quinone was MK8(H4). Comparative 16S rRNA gene sequence analysis showed that strain Z1732T exhibited the highest similarity (95.71%) to Pseudactinotalea caeni GDMCC 1.5794T, followed by Pseudactinotalea terrae KACC 16542T (95.54%). The phylogenetic tree based on core genes indicated that strains Z1732T and Z1739 formed an independent branch adjacent to the strains of the genus Pseudactinotalea within the family Ruaniaceae but could not be assigned to any of the described genera. In pairwise comparisons with type strains, digital DNA-DNA hybridization and average nucleotide identity values were lower than 20 and 75%, respectively, below the thresholds for species delineation. Notably, all amino acid identity values were below the 65% cutoff for defining a new genus. Based on phylogenetic, genomic, phenotypic and chemotaxonomic characterizations, strains Z1732T and Z1739 should represent a novel species of a novel genus within the family Ruaniaceae, for which the name Glutinosa niejishengi gen. nov., sp. nov. is proposed, with the type strain Z1732T (=GDMCC 1.5671T=KCTC 59556T).",
+    "journal": "International Journal of Systematic and Evolutionary Microbiology",
+    "doi": "10.1099/ijsem.0.007344",
+    "date": "2026-11-01",
+    "authors": "Zhao L, Zhang M, Yan T, Weng Z, Yang Q, Gao F, Xie J, Liu T, Yang C, Kang Z, Pu J, Zheng H, Xu J, Dong K.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43049747",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43049747",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "average nucleotide identity"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 5181,
+    "collected_at": "2026-11-20T03:12:52.480184+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "Europe PMC journals 7"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1099/ijsem.0.007344"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3af69c64a182bff708b56b523f078b54d4b1d5f0ab5a8e7d0882002e1af6c002",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T03:50:15.788514+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "bfe74a9ad211128f42aaf4bd27843c45799303cf70892f00a29235049b43fbb4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T03:50:15.788514+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "<i>Glutinosa niejishengi</i> gen. nov., sp. nov., 炭鉱の廃水試料から分離された。",
+    "abstract_ja": "Z1732TおよびZ1739と命名された菌株は、中国山西省の襄寧および晋城の炭鉱から採取された廃水試料から分離された。両菌株はいずれもグラム染色陽性、オキシダーゼ陰性、カタラーゼ陽性、好気性、非運動性であり、球菌状または桿菌状であった。主要脂肪酸はanteiso-C15 : 0であった。主要な呼吸キノンはMK8(H4)であった。比較16S rRNA遺伝子配列解析の結果、菌株Z1732TがPseudactinotalea caeni GDMCC 1.5794Tに対して最も高い類似性（95.71%）を示し、次いでPseudactinotalea terrae KACC 16542T（95.54%）であった。コア遺伝子に基づく系統樹では、菌株Z1732TおよびZ1739は、Ruaniaceae科のPseudactinotalea属の菌株に隣接する独立した分枝を形成していたが、既報のいずれの属にも分類できなかった。タイプ株とのペアワイズ比較において、デジタルDNA-DNAハイブリダイゼーションおよび平均塩基同一性値は、種の画定閾値をそれぞれ20%および75%下回っていた。特筆すべきは、すべてのアミノ酸同一性値が、新属を定義するための65%カットオフ値を下回っていたことである。系統学的、ゲノム学的、表現型的、および化学分類学的特性評価に基づき、菌株Z1732TおよびZ1739はRuaniaceae科の新属に属する新種であると考えられ、Glutinosa niejishengi gen. nov., sp. nov. という名称が提案され、タイプ株はZ1732T (=GDMCC 1.5671T=KCTC 59556T) である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 7",
+        "query": "(JOURNAL:\"Microbial Ecology\" OR JOURNAL:\"Environmental Microbiology Reports\" OR JOURNAL:\"International Journal of Systematic and Evolutionary Microbiology\" OR JOURNAL:\"npj Biofilms and Microbiomes\" OR JOURNAL:\"Nature Reviews Microbiology\" OR JOURNAL:\"Trends in Microbiology\" OR JOURNAL:\"Annual Review of Microbiology\" OR JOURNAL:\"Microbial Cell\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1099/ijsem.0.007346",
+    "title": "<i>Parafrankia flexibilis</i> sp. nov., an actinorhizal symbiont crossing the host boundary between <i>Elaeagnus</i> and <i>Alnus</i> and taxonomic reassessment of <i>Frankia nepalensis</i> as <i>Pseudofrankia nepalensis</i> comb. nov.",
+    "abstract": "Strain EI5cᵀ, an actinorhizal microsymbiont isolated from nodules of Elaeagnus angustifolia, represents the sole available member of a rare lineage capable of nodulating both Elaeagnus and Alnus. A polyphasic taxonomic study was conducted to determine its taxonomic position. Phylogenetic and phylogenomic analyses placed strain EI5cᵀ within the genus Parafrankia, with Parafrankia irregularis G2ᵀ as its closest relative. Genome-relatedness indices measures between strain EI5cᵀ and recognized Parafrankia species were below species delineation thresholds, with average nucleotide identity (ANI) values of 80.87-81.98% and digital DNA-DNA hybridization (dDDH) values of 25.2-26.4%. The draft genome is 6.6 Mbp in size with a DNA G+C content of 72.14 mol%. Strain EI5cᵀ was distinguished from the described Parafrankia species by its physiological and chemotaxonomic characteristics. The predominant cellular fatty acids were iso-C16 : 0, C17 : 1  ω8c and C16 : 0. Whole-cell sugars were glucose, galactose and mannose, while the polar lipid profile comprised phosphatidylinositol, diphosphatidylglycerol, phosphatidylglycerol, three unidentified glycophospholipids and one unidentified lipid. Inoculation assays confirmed nodulation of both E. angustifolia and Alnus glutinosa. Phylogenomic and genome-relatedness analyses further placed Frankia nepalensis CN4ᵀ within the Pseudofrankia lineage, where it exhibited higher 16S rRNA gene sequence similarity (98.50-99.05%), ANI (81.92-83.89%) and dDDH (25.5-27.9%) values with Pseudofrankia species than with other Frankiaceae species. Within the four-genus framework adopted here, these results support the transfer of F. nepalensis to Pseudofrankia as Pseudofrankia nepalensis comb. nov. On the basis of the combined phylogenetic, phylogenomic, genomic, phenotypic, chemotaxonomic and symbiotic evidence, strain EI5cᵀ represents a novel species of the genus Parafrankia, for which the name Parafrankia flexibilis sp. nov. is proposed. The type strain is EI5cᵀ (=DSM 114743ᵀ=CECT 9315ᵀ).",
+    "journal": "International Journal of Systematic and Evolutionary Microbiology",
+    "doi": "10.1099/ijsem.0.007346",
+    "date": "2026-11-01",
+    "authors": "Dali H, Boujemaa E, Boussoufa D, Sbissi I, Gtari M, Ghodhbane-Gtari F.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43042930",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43042930",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenetic",
+          "phylogenomic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 5179,
+    "collected_at": "2026-11-20T03:12:52.480184+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "Europe PMC journals 7"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1099/ijsem.0.007346"
+    ],
+    "translation": {
+      "title": {
+        "hash": "968eba26af41816c746b926e5ff6982bb14d65f3404831ba4e705fe413033141",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T03:44:36.387301+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8f97e87adc4f35e4ad9fa8b6e644105de93a54231cb2ebe13bcab8c957a56735",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T03:44:36.387301+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "<i>Parafrankia flexibilis</i> sp. nov.：<i>Elaeagnus</i>と<i>Alnus</i>の宿主境界を越えるアクチノリザル共生体、および<i>Frankia nepalensis</i>の<i>Pseudofrankia nepalensis</i> comb. nov.としての分類学的再検討",
+    "abstract_ja": "Elaeagnus angustifoliaの結節から単離されたアクチノリザル微共生体である菌株EI5cᵀは、Elaeagnus属とAlnus属の両方に結節を形成し得る稀な系統の唯一の既知メンバーである。その分類学的位置を特定するため、多相的な分類学的研究を実施した。系統学的および系統ゲノム解析の結果、菌株EI5cᵀはParafrankia属に分類され、Parafrankia irregularis G2ᵀが最も近縁な種であることが判明した。菌株EI5cᵀと既知のParafrankia属種との間のゲノム関連性指標は、種の境界判定閾値を下回っており、平均塩基同一性（ANI）値は80.87-81.98%、デジタルDNA-DNAハイブリダイゼーション（dDDH）値は25.2-26.4%であった。ドラフトゲノムのサイズは6.6 Mbpで、DNA G+C含量は72.14 mol%であった。菌株EI5cᵀは、生理学的および化学分類学的特性によって、既報のParafrankia属種と区別された。主要な細胞脂肪酸は、iso-C16 : 0、C17 : 1  ω8c、およびC16 : 0であった。全細胞糖はグルコース、ガラクトース、およびマンノースであり、極性脂質プロファイルはホスファチジルイノシトール、ジホスファチジルグリセロール、ホスファチジルグリセロール、3種類の未同定糖脂質、および1種類の未同定脂質で構成されていた。接種試験により、E. angustifoliaおよびAlnus glutinosaの両方への結節形成が確認された。系統ゲノム解析およびゲノム関連性解析により、Frankia nepalensis CN4ᵀはさらにPseudofrankia系統内に位置づけられ、他のFrankiaceae属種よりもPseudofrankia属種との間で高い16S rRNA遺伝子配列類似性（98.50-99.05%）、ANI（81.92-83.89%）、およびdDDH（25.5-27.9%）値を示した。本研究で採用した4属の枠組みにおいて、これらの結果は、F. nepalensisをPseudofrankia nepalensis comb. nov.としてPseudofrankia属へ移属させることを支持するものである。系統学的、系統ゲノム学的、ゲノム学的、表現型学的、化学分類学的、および共生学的証拠を総合すると、菌株EI5cᵀはParafrankia属の新種であり、Parafrankia flexibilis sp. nov.という名称を提案する。タイプ株はEI5cᵀ (=DSM 114743ᵀ=CECT 9315ᵀ) である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 7",
+        "query": "(JOURNAL:\"Microbial Ecology\" OR JOURNAL:\"Environmental Microbiology Reports\" OR JOURNAL:\"International Journal of Systematic and Evolutionary Microbiology\" OR JOURNAL:\"npj Biofilms and Microbiomes\" OR JOURNAL:\"Nature Reviews Microbiology\" OR JOURNAL:\"Trends in Microbiology\" OR JOURNAL:\"Annual Review of Microbiology\" OR JOURNAL:\"Microbial Cell\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1099/ijsem.0.007347",
+    "title": "<i>Luteimonas yangxiaopingae</i> sp. nov. and <i>Luteimonas renzhihongae</i> sp. nov., two novel <i>Luteimonas</i> species isolated from Mongolian marmot (<i>Marmota sibirica</i>) burrow soil.",
+    "abstract": "Four strains, A478T, A277, A537T and A501, were isolated from the soil of Marmota sibirica burrows in Hulunbuir City, Inner Mongolia Autonomous Region, China. The four isolates were Gram-stain-negative and rod-shaped. All four strains grew at 4-30 °C (optimum 20 °C). For strains A478ᵀ and A277, the NaCl concentration range and pH range for growth were 0-3.5% (wt/v) NaCl (optimum 0.5%) and pH 7-11 (optimum pH 8); for strains A537ᵀ and A501, the ranges were 0-4.5% (wt/v) NaCl (optimum 0.5%) and pH 7-10 (optimum pH 7). The 16S rRNA gene sequence similarity analysis using the EzBioCloud database showed that strains A478ᵀ and A277 exhibited the highest similarity to Luteimonas dalianensis OB44-3ᵀ (97.27%). In contrast, strains A537ᵀ and A501 showed the highest similarity to Luteimonas terricola BZ92rᵀ (98.23%). The average nucleotide identity and digital DNA-DNA hybridization values between the four isolates and their closely related species were below the thresholds recommended for species delineation. The genomic DNA G+C contents of the type strains A478ᵀ and A537ᵀ were 66.7 and 68.8 mol%, respectively. The sole respiratory quinone of strains A478T and A537T was ubiquinone 8. The major polar lipids of strains A478ᵀ and A537ᵀ were diphosphatidylglycerol, phosphatidylglycerol and phosphatidylethanolamine. The major fatty acids (>5%) of strain A478T were summed feature 9 (C16 : 0 10-methyl and/or iso-C17 : 1 ω9c), iso-C15 : 0, iso-C16 : 0, iso-C17 : 0, iso-C11 : 0 and summed feature 3 (C16 : 1 ω7c and/or C16 : 1 ω6c). The major fatty acids (>5%) of strain A537T were summed feature 9, iso-C15 : 0, iso-C16 : 0, iso-C17 : 0, iso-C11 : 0 and iso-C11:0 3-OH. Based on polyphasic evidence, strains A478T and A277 represent a novel species, for which the name Luteimonas yangxiaopingae sp. nov. (type strain A478T=GDMCC l.6140T=JCM 38387T) is proposed, while strains A537T and A501 represent another novel species, designated Luteimonas renzhihongae sp. nov. (type strain A537T=GDMCC l.6141T=JCM 38389T) are proposed.",
+    "journal": "International Journal of Systematic and Evolutionary Microbiology",
+    "doi": "10.1099/ijsem.0.007347",
+    "date": "2026-11-01",
+    "authors": "Yang H, Pu J, Yang J, Xiao Q, Luo W, Chen M, Luo X, Zheng H, Xu J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43037617",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43037617",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5184,
+    "collected_at": "2026-11-20T03:12:52.480184+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "Europe PMC journals 7"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1099/ijsem.0.007347"
+    ],
+    "translation": {
+      "title": {
+        "hash": "66df06b2c1ef1cdb3f300f0f55e500bfbe235753469ccffdc19bfe9badef9278",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T03:50:15.788514+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "60b3611814dcc33a8a58874185b7f707eebbb995bfcd8b8d935e33da1b1e55de",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T03:50:15.788514+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "<i>Luteimonas yangxiaopingae</i> sp. nov. および <i>Luteimonas renzhihongae</i> sp. nov.：モンゴルマーモット（<i>Marmota sibirica</i>）の巣穴土壌から分離された<i>Luteimonas</i>属の2新種。",
+    "abstract_ja": "中国内モンゴル自治区フルンボイル市のMarmota sibiricaの巣穴の土壌から、A478T、A277、A537T、およびA501の4株が分離された。これら4株はいずれもグラム陰性で桿菌状であった。4株すべてが4～30°C（至適温度20°C）で増殖した。A478ᵀ株およびA277株の増殖におけるNaCl濃度範囲およびpH範囲は0～3.5%（wt/v）NaCl（至適0.5%）およびpH 7～11（至適pH 8）であり、A537ᵀ株およびA501株の範囲は0～4.5%（wt/v）NaCl（至適0.5%）およびpH 7～10（至適pH 7）であった。EzBioCloudデータベースを用いた16S rRNA遺伝子配列類似性解析の結果、A478ᵀ株およびA277株はLuteimonas dalianensis OB44-3ᵀと最も高い類似性（97.27%）を示した。対照的に、A537ᵀ株およびA501株はLuteimonas terricola BZ92rᵀと最も高い類似性（98.23%）を示した。これら4株と近縁種との間の平均ヌクレオチド同一性およびデジタルDNA-DNAハイブリダイゼーション値は、種の画定に推奨される閾値を下回っていた。タイプ株であるA478ᵀ株およびA537ᵀ株のゲノムDNA G+C含有量は、それぞれ66.7および68.8 mol%であった。A478T株およびA537T株の唯一の呼吸性キノンはユビキノン8であった。A478ᵀ株およびA537ᵀ株の主要な極性脂質は、ジホスファチジルグリセロール、ホスファチジルグリセロール、およびホスファチジルエタノールアミンであった。A478T株の主要脂肪酸（>5%）は、合算特徴9（C16:0 10-メチルおよび/またはイソ-C17:1ω9c）、イソ-C15:0、イソ-C16:0、イソ-C17:0、イソ-C11:0、および合算特徴3（C16:1ω7cおよび/またはC16:1ω6c）であった。A537T株の主要脂肪酸（>5%）は、合算特徴9、イソ-C15:0、イソ-C16:0、イソ-C17:0、イソ-C11:0、およびイソ-C11:0 3-OHであった。多相的な証拠に基づき、A478T株およびA277株は新規種であり、Luteimonas yangxiaopingae sp. nov.（タイプ株 A478T=GDMCC l.6140T=JCM 38387T）という名称が提案される。一方、A537T株およびA501株は別の新規種であり、Luteimonas renzhihongae sp. nov.（タイプ株 A537T=GDMCC l.6141T=JCM 38389T）と指定されることが提案される。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 8",
+        "query": "(JOURNAL:\"Microbial Biotechnology\" OR JOURNAL:\"Extremophiles\" OR JOURNAL:\"Genome Biology and Evolution\" OR JOURNAL:\"Molecular Biology and Evolution\" OR JOURNAL:\"Molecular Ecology\" OR JOURNAL:\"Molecular Ecology Resources\" OR JOURNAL:\"Molecular Phylogenetics and Evolution\" OR JOURNAL:\"Bioinformatics Advances\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1111/1751-7915.70460",
+    "title": "Functional Characterization and Application of Yarrowia lipolytica YlYxc1 for Enhanced Production of Sphingoid Bases.",
+    "abstract": "Long-chain bases (LCBs; sphingoid bases), derived from ceramide metabolism, are valuable sphingolipid intermediates for industrial applications. Here, we functionally characterized a putative ceramidase from Yarrowia lipolytica (YlYxc1) and evaluated its potential to enhance LCB production. YlYxc1 contains a conserved alkaline ceramidase motif with seven transmembrane helices and shares ~42% amino acid identity with Saccharomyces cerevisiae alkaline ceramidases ScYpc1 and ScYdc1. Despite lacking a canonical ER retention motif, YlYxc1 localized to the ER membrane. Deletion of YlYXC1 caused no major growth or lipid profile changes. Heterologous overexpression of YlYXC1 in S. cerevisiae wild-type and Scypc1Δydc1Δ strains increased phytosphingosine (PHS) production over dihydrosphingosine (DHS), mimicking ScYPC1 overexpression. In vitro activity assays using microsomal fractions from Scypc1Δydc1Δ cells expressing YlYXC1 revealed preferential hydrolysis of phytoceramide with an alkaline pH optimum. Furthermore, YlYXC1 expression in an engineered Y. lipolytica strain expressing heterologous acetyltransferases WcSLI1 and WcATF2 remarkably enhanced acetylated LCB production. Multi-copy integration of YlYXC1 into the Ylsur2Δsld1Δ strain also increased the secretory production of non-acetylated DHS. These findings establish YlYxc1 as a promising metabolic engineering target for producing value-added LCBs for pharmaceutical and cosmeceutical applications.",
+    "journal": "Microbial Biotechnology",
+    "doi": "10.1111/1751-7915.70460",
+    "date": "2026-11-01",
+    "authors": "Shin SH, Jeon EJ, Moon HY, Go GY, Yoo YS, Lee JK, Jeon CO, Kang HA.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42947429",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13714454",
+    "pmid": "42947429",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Saccharomyces"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5186,
+    "collected_at": "2026-11-20T03:12:52.480184+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "Europe PMC journals 8"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1111/1751-7915.70460"
+    ],
+    "translation": {
+      "title": {
+        "hash": "1ff491eba12a6ba7c22e8569b5493bd1d8c8b4630b027e0cb99aef844037918e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T03:44:36.387301+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "26673888e519fac0a6c67de225a132fa046ba04789e7d2f5b112470d8209b46b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T03:44:36.387301+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "スズメノヒバリヤ（Yarrowia lipolytica YlYxc1）の機能特性解析とスズメノヒバリヤ基質の生産増強への応用",
+    "abstract_ja": "セラミド代謝に由来する長鎖塩基（LCB；スフィンゴイド塩基）は、工業的応用において有用なスフィンゴ脂質中間体である。本研究では、Yarrowia lipolytica由来の推定セラミド分解酵素（YlYxc1）の機能的特性解析を行い、LCB産生を増強させる可能性を評価した。YlYxc1は、7本の膜貫通ヘリックスを有する保存されたアルカリ性セラミド分解酵素モチーフを含み、Saccharomyces cerevisiaeのアルカリ性セラミド分解酵素であるScYpc1およびScYdc1と約42%のアミノ酸同一性を示す。典型的なER保持モチーフを欠いているにもかかわらず、YlYxc1はER膜に局在した。YlYxc1の欠損は、増殖や脂質プロファイルに重大な変化をもたらさなかった。S. cerevisiae野生型およびScypc1Δydc1Δ株におけるYlYxc1の異種過剰発現は、ジヒドロスフィンゴシン（DHS）よりもフィトスフィンゴシン（PHS）の産生を増加させ、ScYPC1の過剰発現と同様の挙動を示した。YlYxc1を発現するScypc1Δydc1Δ細胞のミクロソーム画分を用いたin vitro活性アッセイでは、アルカリ性pHを至適とするフィトセラミドの優先的な加水分解が認められた。さらに、異種アセチルトランスフェラーゼWcSLI1およびWcATF2を発現する改変Y. lipolytica株におけるYlYxc1の発現は、アセチル化LCBの産生を著しく増強した。Ylsur2Δsld1Δ株へのYlYxc1の多コピー組み込みは、非アセチル化DHSの分泌産生も増加させた。これらの知見は、医薬品およびコスメシューティカル用途に向けた付加価値型LCBを生産するための有望な代謝工学的標的として、YlYxc1を確立するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/msphere.00148-26",
+    "title": "A highly conserved two-gene operon is crucial for lipoarabinomannan localization, pathogenesis, and cell envelope function in <i>Mycobacterium abscessus</i>.",
+    "abstract": "Mycobacterium abscessus is an emerging threat, causing infections that are difficult to treat due to intrinsic resistance to most antibiotics. Determinants of M. abscessus physiology and pathogenesis remain poorly understood, hampering therapeutic development. Here, we show that in M. abscessus, the lprg-mfs operon is essential for virulence in macrophages and mice. Loss of lprg-mfs in M. abscessus causes accumulation of the glycolipid lipoarabinomannan (LAM) on the cell surface and in culture supernatant, suggesting that this system participates in LAM import. This contrasts with its proposed role in M. tuberculosis, where lprg-mfs has been implicated in the export of various lipids. Consistent with altered lipid distribution, the lprg-mfs mutant displays severe defects in mycomembrane permeability, fluidity, and integrity, and expression of mfs alone restores only a subset of these phenotypes, revealing a surprising uncoupling of envelope fluidity and permeability. Using a suppressor screen to further investigate the factors that control the distribution of lipoarabinomannan, we find that a point mutation in the unannotated gene MAB_0995 can fully or partially rescue all deletion mutant phenotypes. Our data also show that lipoarabinomannan in the mycomembrane is dynamically regulated in response to environmental conditions, including hypoxia and macrophage infection. Together, these findings redefine the role of LprG and Mfs in mycobacterial cell envelope homeostasis and reveal unexpected plasticity in mycomembrane lipid regulation in M. abscessus.ImportanceThe emerging pathogen Mycobacterium abscessus causes life-threatening lung infections in certain patients that are extremely difficult to treat due to its intrinsic resistance to most antibiotics. However, the process by which this organism establishes infection is poorly understood, as are the specific determinants of antibiotic tolerance. Better knowledge of the genes required for virulence and impermeability to antibiotics in M. abscessus could enable the development of more effective treatments. The significance of this study is the demonstration that the lprg-mfs operon is required for both pathogenesis and impermeability in M. abscessus. Furthermore, our study shows a correlation between cell envelope characteristics and the distribution of the molecule lipoarabinomannan, suggesting a specific mechanism by which these crucial characteristics are mediated.",
+    "journal": "mSphere",
+    "doi": "10.1128/msphere.00148-26",
+    "date": "2026-11-04",
+    "authors": "Campbell-Kruger N, Balakhmet A, Stanley SA.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42980356",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42980356",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5171,
+    "collected_at": "2026-11-20T03:12:52.480184+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1128/msphere.00148-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f91ce96db1dc3003d079a1f426e1cae3f9066f43a42c5ef918576806e4186ba8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T03:47:30.053804+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f75ef3423c2a422f1a5e9c5de2e66679d4a7a206c8f30746f5eaaf3f5a245c5a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T03:47:30.053804+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "高度に保存された2遺伝子オペロンは、<i>Mycobacterium abscessus</i>におけるリポアラビノマンナンの局在、病原性、および細胞包膜機能に不可欠である。",
+    "abstract_ja": "Mycobacterium abscessusは新たな脅威となっており、ほとんどの抗生物質に対する固有の耐性により、治療が困難な感染症を引き起こす。M. abscessusの生理機能および病原性の決定因子は依然として十分に解明されておらず、治療法の開発の妨げとなっている。本研究では、M. abscessusにおいてlprg-mfsオペロンがマクロファージおよびマウスにおける病原性に必須であることを示す。M. abscessusにおいてlprg-mfsを欠損させると、細胞表面および培養上清に糖脂質リポアラビノマンナン（LAM）が蓄積し、この系がLAMの取り込みに関与していることが示唆される。これは、lprg-mfsが各種脂質の排出に関与すると考えられているM. tuberculosisにおける役割とは対照的である。脂質分布の変化と一致して、lprg-mfs変異体はマイコメムブレンの透過性、流動性、および完全性に深刻な欠陥を示し、mfs単独の発現ではこれらの表現型の一部しか回復せず、エンベロープの流動性と透過性の驚くべき脱共役が明らかになった。サプレッサースクリーニングを用いてリポアラビノマンナンの分布を制御する因子をさらに調査したところ、未アノテーション遺伝子MAB_0995の点変異が、すべての欠失変異体の表現型を完全または部分的に救済できることがわかった。また、我々のデータは、マイコメムブレン中のリポアラビノマンナンが、低酸素やマクロファージ感染を含む環境条件に応じて動的に調節されることを示している。これらの知見を総合すると、マイコバクテリアの細胞エンベロープ恒常性におけるLprGおよびMfsの役割が再定義され、M. abscessusにおけるマイコメムブレン脂質調節の予期せぬ可塑性が明らかになった。重要性 新興病原体であるMycobacterium abscessusは、特定の患者において生命を脅かす肺感染症を引き起こし、ほとんどの抗生物質に対する固有の耐性により治療が極めて困難である。しかし、この微生物が感染を確立するプロセスや、抗生物質耐性の特異的な決定因子については十分に解明されていない。M. abscessusにおける病原性および抗生物質への不透過性に必要な遺伝子についてより深い知見が得られれば、より効果的な治療法の開発が可能になると考えられる。本研究の意義は、M. abscessusにおいてlprg-mfsオペロンが病原性と不透過性の両方に必須であることを実証した点にある。さらに、本研究は細胞エンベロープの特性とリポアラビノマンナン分子の分布との間に相関があることを示しており、これらの重要な特性が媒介される特定のメカニズムの存在を示唆している。"
+  },
+  {
+    "id": "10.1093/bioinformatics/btag820",
+    "title": "Correction to: Microbial interactions from a new perspective: reinforcement learning reveals new insights into microbiome evolution",
+    "abstract": "This is a correction to: Parsa Ghadermazi, Siu Hung Joshua Chan, Microbial interactions from a new perspective: reinforcement learning reveals new insights into microbiome evolution, Bioinformatics, Volume 40, Issue 1, January 2024, btae003, https://doi.org/10.1093/bioinformatics/btae003",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag820",
+    "date": "2026-11-19",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btag820/9103645?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5139/3001.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5346,
+    "collected_at": "2026-11-20T03:23:23.547156+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "https://academic.oup.com/rss/site_5139/3001.xml"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1093/bioinformatics/btag820"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d489fa290d0431417d891d8aa1831993efaa227129757823ec207d95023b4e84",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T03:47:30.053804+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a57fe2c7f390f6ae962d5447bc78dca6640dfbfd3430869e5bd745325c64ac34",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T03:47:30.053804+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "訂正：微生物間相互作用の新たな視点：強化学習が明かすマイクロバイオーム進化の新知見",
+    "abstract_ja": "これは、Parsa Ghadermazi, Siu Hung Joshua Chan, Microbial interactions from a new perspective: reinforcement learning reveals new insights into microbiome evolution, Bioinformatics, Volume 40, Issue 1, January 2024, btae003, https://doi.org/10.1093/bioinformatics/btae003 の訂正である。"
+  },
+  {
+    "id": "10.1093/bioinformatics/btag831",
+    "title": "Correction to: FusionEncoder: identification of intrinsically disordered regions based on multi-feature fusion",
+    "abstract": "This is a correction to: Sicen Liu, Shutao Chen, Tao Bai, Bin Liu, FusionEncoder: identification of intrinsically disordered regions based on multi-feature fusion, Bioinformatics, Volume 41, Issue 7, July 2025, btaf362, https://doi.org/10.1093/bioinformatics/btaf362",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag831",
+    "date": "2026-11-19",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btag831/9103646?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5139/3001.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5345,
+    "collected_at": "2026-11-20T03:23:23.547156+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "https://academic.oup.com/rss/site_5139/3001.xml"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1093/bioinformatics/btag831"
+    ],
+    "translation": {
+      "title": {
+        "hash": "57713a568e3b2d2d665ae23b8233abd674247ce546f4e2d883e93edbd351706a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T03:44:36.387301+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ec0dec3a48c5eb3b9eddc7332179559c711e41cffbb3ab2a064b577deef7bc2f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T03:44:36.387301+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "訂正：FusionEncoder: マルチフィーチャー融合に基づく本質的に無秩序な領域の同定",
+    "abstract_ja": "本論文は、Sicen Liu, Shutao Chen, Tao Bai, Bin Liu, FusionEncoder: identification of intrinsically disordered regions based on multi-feature fusion, Bioinformatics, Volume 41, Issue 7, July 2025, btaf362, https://doi.org/10.1093/bioinformatics/btaf362 の訂正である。"
+  },
+  {
+    "id": "10.1186/s42523-026-00653-7",
+    "title": "Environment shapes the association between the skin microbiome and infection dynamics of the Dermocystid pathogen Amphibiothecum in Palmate newts (Lissotriton helveticus)",
+    "abstract": "Infectious diseases are a leading cause of biodiversity declines, but the factors shaping the prevalence and intensity of wildlife disease outbreaks remain unresolved. Host-associated microbes are likely a key component of host resistance to infection, but a host’s ability to recruit such protective microbes may be restricted by the availability of microbes present in their immediate environment. Here we investigate the associations between the abiotic environment, skin microbiome, and infection with the Dermocystid pathogen Amphibiothecum meredithae in Palmate newts (Lissotriton helveticus) on the Isle of Rum, Scotland. We found more acidic ponds to be associated with higher skin microbiome diversity and lower pathogen prevalence. Predicted functional analysis of microbiota composition identified bacteria-mediated pathways linked to host immunity upregulated in skin microbiotas associated with more acidic ponds and lower infection prevalence. This study highlights the potential importance of the environment in modulating host-microbiome-pathogen relationships and patterns of infection in the wild.",
+    "journal": "Animal Microbiome",
+    "doi": "10.1186/s42523-026-00653-7",
+    "date": "2026-11-20",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s42523-026-00653-7",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "microbe",
+        "microbes",
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=42523",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5342,
+    "collected_at": "2026-11-20T03:23:23.547156+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=42523"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1186/s42523-026-00653-7"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ee96796dfa3b05a02f2c8c202230ea40a7f43e1ef82aaaab9bb49192d22c4334",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T03:44:36.387301+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b3a8350ee09827102aa84075a25eda0ceefe11c50a86ac3aa50a6043b6d088d4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T03:44:36.387301+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "パルマトイモリ（Lissotriton helveticus）における皮膚マイクロバイオームとデルモシスチス病原体Amphibiothecumの感染動態との関連を規定する環境要因",
+    "abstract_ja": "感染症は生物多様性の減少を招く主要な要因であるが、野生生物における疾病アウトブレイクの発生頻度や強度を規定する要因については、依然として解明されていない。宿主関連微生物は、宿主の感染抵抗性における重要な構成要素であると考えられるが、こうした保護的微生物を動員する宿主の能力は、周囲環境に存在する微生物の可用性によって制限される可能性がある。本研究では、スコットランドのラム島に生息するパルマトイモリ（Lissotriton helveticus）を対象に、非生物的環境、皮膚マイクロバイオーム、およびデルモシスチス科の病原体Amphibiothecum meredithaeへの感染との関連性を調査した。その結果、酸性度の高い池ほど、皮膚マイクロバイオームの多様性が高く、病原体の発生頻度が低いことが明らかになった。微生物叢組成の予測機能解析により、酸性度の高い池および感染頻度の低い皮膚マイクロバイオームにおいて、宿主免疫に関連し亢進している細菌媒介性経路が同定された。本研究は、野生下における宿主・マイクロバイオーム・病原体間の関係および感染パターンを調節する上で、環境が潜在的に重要であることを浮き彫りにしている。"
+  },
+  {
+    "id": "10.64898/2026.11.18.767762",
+    "title": "The virome of New Zealand fur seals reveals novel viral diversity and evidence of continued Canine distemper virus circulation",
+    "abstract": "Canine distemper virus (CDV) has recently been detected in New Zealand fur seals (Arctocephalus forsteri), including retrospective samples from 2020 and outbreaks associated with substantial mortality in late 2024 and 2025. However, the geographic distribution of CDV and the broader viral diversity harboured by New Zealand fur seals remain poorly understood. Characterising the fur seal virome can provide insights into viral diversity, dispersal and the occurrence of viral co-infections, while assessing the distribution of CDV across colonies. We used metatranscriptomic sequencing to characterise the viromes of 178 live and recently deceased fur seals sampled from four large fur seal colonies (Kaik[o]ura, Dunedin, West Coast and Wairarapa). We investigated viral diversity, community composition and geographic structure using phylogenetic analyses to examine viral evolutionary relationships and CDV distribution. We identified 23 viral species, including 20 putatively novel species. Several were related to viruses previously identified in terrestrial mammals. One viral species was detected across geographically separated colonies, while several other closely related viruses were identified across colonies, with viral sharing most frequent between Kaik[o]ura and Wairarapa. Viral diversity was similar between live and recently deceased fur seals, while community composition showed geographic structuring. CDV was detected only in Kaik[o]ura, where the lineage associated with the 2024 outbreak remained in circulation. No CDV was detected in the other sampled colonies. This study reveals substantial previously undocumented viral diversity in New Zealand fur seals, improving our understanding of viral distribution and CDV circulation in marine mammal populations.",
+    "journal": "",
+    "doi": "10.64898/2026.11.18.767762",
+    "date": "2026-11-19",
+    "authors": "Waller, S. J., White, B. A., Wierenga, J. R., Hall, A. A., Thompson, M., Wilson, A. D., Taylor, H. S., Weir, J. S., Geoghegan, J. L.",
+    "tags": [
+      "海洋微生物",
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.18.767762v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metatranscriptom",
+        "metatranscriptomic",
+        "viral",
+        "virome",
+        "viromes",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [
+          "evolution",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5344,
+    "collected_at": "2026-11-20T03:23:23.547156+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.64898/2026.11.18.767762"
+    ],
+    "translation": {
+      "title": {
+        "hash": "df8802701e053807bff4682bfedb2a6d0f33bd009590f70e496c273ddb5547d9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T03:53:59.155481+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "fcbdcbe5d407df2a369d38a63548bbc33f36b9f514f69798247d6ef99732f085",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T03:53:59.155481+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ニュージーランドオットセイのウイルス叢からは、新たなウイルス多様性と、イヌジステンパーウイルスの継続的な循環の証拠が明らかになった。",
+    "abstract_ja": "イヌジステンパーウイルス（CDV）は近年、ニュージーランドオットセイ（Arctocephalus forsteri）において検出されており、これには2020年の遡及的検体や、2024年後半および2025年の大幅な死亡を伴うアウトブレイクが含まれる。しかし、CDVの地理的分布や、ニュージーランドオットセイが保有するより広範なウイルス多様性については、依然として十分に解明されていない。オットセイのウイルス叢を特性評価することは、ウイルス多様性、拡散、およびウイルス共感染の発生に関する知見をもたらすとともに、コロニー間におけるCDVの分布を評価することにつながる。本研究では、メタトランスクリプトームシーケンシングを用いて、4つの大規模なオットセイコロニー（カイコウラ、ダニーデン、ウェストコースト、ワイララパ）から採取した、生存個体および最近死亡した個体計178頭のオットセイのウイルス叢を特性評価した。系統解析を用いてウイルスの進化的関係とCDVの分布を検討し、ウイルス多様性、群集組成、および地理的構造を調査した。その結果、推定新規種20種を含む23種のウイルスを同定した。そのうち数種は、以前に陸生哺乳類で同定されたウイルスに関連していた。1種のウイルスは地理的に離れたコロニー間で検出され、他の近縁ウイルス数種もコロニー間で同定されたが、ウイルスの共有はカイコウラとワイララパの間で最も頻繁に認められた。ウイルス多様性は生存個体と最近死亡した個体の間で同程度であったが、群集組成には地理的な構造が認められた。CDVはカイコウラでのみ検出され、そこでは2024年のアウトブレイクに関連する系統が依然として循環していた。その他の採取コロニーではCDVは検出されなかった。本研究は、ニュージーランドオットセイにおいてこれまで記録されていなかった相当なウイルス多様性が存在することを明らかにし、海棲哺乳類個体群におけるウイルス分布とCDVの循環に関する理解を深めるものである。"
+  },
+  {
+    "id": "10.64898/2026.11.19.767437",
+    "title": "Deletion of two candidate depolymerases with overlapping genetic effects increases PHA yield in Rhodopseudomonas palustris TIE-1",
+    "abstract": "Polyhydroxyalkanoate (PHA) is a microbial carbon-storage polymer with potential as a renewable bioplastic, but intracellular remobilization can limit polymer retention. The metabolically versatile bacterium Rhodopseudomonas palustris TIE-1 accumulates PHA during photoheterotrophic growth, yet the enzymes that control PHA turnover in this organism remain incompletely studied. We identified PhaZ2 (Rpal_0568) as a second candidate PHA depolymerase that is evolutionarily and architecturally distinct from the previously annotated PhaZ1 (Rpal_0578). Deleting either PhaZ1 or PhaZ2 alone did not substantially increase PHA content under tested growth conditions, whereas the double mutant accumulated 2.3-fold and 1.7-fold more PHA than wild type under non-nitrogen-fixing and nitrogen-fixing photoheterotrophic conditions, respectively, supporting overlapping roles in PHA turnover. All deletion strains showed longer doubling times but reached final culture densities similar to wild type. The double mutant showed its strongest retention phenotype under severe but growth-permissive nutrient limitation, including 3.7-fold more PHA than wild type at 33% phosphorus availability. A two-stage cultivation strategy that separated biomass formation from nutrient-limited storage raised volumetric PHA titer to 0.180 mg per mL culture in the double mutant, 1.5-fold more than wild type and approximately 3.4-fold higher than single-stage 33% phosphorus limitation and 4.0-fold higher than single-stage 8% nitrogen limitation (cross-experiment comparison), despite lower PHA content per unit biomass. Finally, an LC-MS-calibrated FTIR spectroscopy model predicted PHA content with an R2 of 0.928 (n = 15) and reproduced the major biological trends. These results identify genetically redundant candidate depolymerases as targets for improving PHA retention in TIE-1 and establish a cultivation and screening framework for strain engineering. Importance Persistent pollution from petroleum-based plastics has intensified the need for biodegradable plastics produced from renewable resources. Polyhydroxyalkanoate (PHA) is a microbially synthesized bioplastic, but microbial cells can also consume the stored polymer, reducing its net yield. The metabolically versatile, photosynthetic purple non-sulfur bacterium (PNSB) Rhodopseudomonas palustris TIE-1 is a promising production organism because it can photosynthesize, assimilate atmospheric nitrogen, and utilize diverse carbon sources. We show that two candidate PHA depolymerases, PhaZ1 and PhaZ2, likely have overlapping roles in PHA turnover. Removing both candidates increased polymer retention, particularly when nitrogen or phosphorus was limited, and a two-stage cultivation strategy further increased PHA titer to 0.180 mg per mL of culture. We also developed a rapid infrared spectroscopy method to track polymer content across strains and growth conditions. These findings offer complementary genetic, cultivation, and screening strategies for improving microbial bioplastic production and may help advance sustainable alternatives to petroleum-derived plastics.",
+    "journal": "",
+    "doi": "10.64898/2026.11.19.767437",
+    "date": "2026-11-19",
+    "authors": "Chen, Y., Ranaivoarisoa, T. O., Ditter, R., Blodgett, J. A. V., Bose, A.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.19.767437v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacterium",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5343,
+    "collected_at": "2026-11-20T03:23:23.547156+00:00",
+    "collected_date": "2026-11-20",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.64898/2026.11.19.767437"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d28867d75933a9f575c2e26aecc0911d80fddb5ad42ff9f6429c08ed326f0b84",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T03:53:59.155481+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "09ee501086087f4e1e26b55bf5e0dc0b3fe7e616b96a599920666882de02345b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T03:53:59.155481+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "遺伝的影響が重複する2種類の候補脱重合酵素の欠損により、Rhodopseudomonas palustris TIE-1におけるPHA収量が増加する。",
+    "abstract_ja": "ポリヒドロキシアルカノエート（PHA）は、再生可能バイオプラスチックとしての可能性を秘めた微生物由来の炭素貯蔵ポリマーであるが、細胞内での再動員がポリマーの保持量を制限することがある。代謝的に汎用性の高い細菌Rhodopseudomonas palustris TIE-1は、光従属栄養増殖中にPHAを蓄積するが、本生物におけるPHAターンオーバーを制御する酵素については十分に研究されていない。我々は、以前にアノテーションされたPhaZ1（Rpal_0578）とは進化的および構造的に異なる、2つ目のPHA脱重合酵素候補としてPhaZ2（Rpal_0568）を同定した。PhaZ1またはPhaZ2のいずれか一方を単独で欠損させても、試験した増殖条件下でPHA含有量は大幅に増加しなかったが、二重変異体は、非窒素固定および窒素固定の光従属栄養条件下において、それぞれ野生型よりも2.3倍および1.7倍多くのPHAを蓄積し、PHAターンオーバーにおける役割が重複していることを裏付けた。すべての欠損株において倍加時間は延長したが、最終的な培養密度は野生型と同程度であった。二重変異体は、過酷ながらも増殖が許容される栄養制限条件下で最も強い保持表現型を示し、リン利用可能量33%の条件下では野生型よりも3.7倍多くのPHAを保持した。バイオマス形成と栄養制限下での貯蔵を分離する2段階培養戦略により、単位バイオマスあたりのPHA含有量は低下したものの、二重変異体における培養液中のPHA滴定値は0.180 mg/mLまで上昇し、これは野生型の1.5倍、単一段階のリン33%制限条件の約3.4倍、および単一段階の窒素8%制限条件の4.0倍に相当した（クロス実験による比較）。最後に、LC-MSで較正したFTIR分光法モデルにより、R2 = 0.928（n = 15）でPHA含有量が予測され、主要な生物学的傾向が再現された。これらの結果は、遺伝的に冗長な脱重合酵素候補をTIE-1におけるPHA保持率向上の標的として特定し、菌株工学のための培養およびスクリーニングフレームワークを確立するものである。重要性 石油系プラスチックによる持続的な汚染により、再生可能資源から製造される生分解性プラスチックの必要性が高まっている。ポリヒドロキシアルカノエート（PHA）は微生物によって合成されるバイオプラスチックであるが、微生物細胞が貯蔵されたポリマーを消費するため、正味の収量が減少することがある。代謝的に汎用性が高く、光合成を行う紫色非硫黄細菌（PNSB）であるRhodopseudomonas palustris TIE-1は、光合成を行い、大気中の窒素を同化し、多様な炭素源を利用できるため、有望な生産生物である。我々は、2つのPHA脱重合酵素候補であるPhaZ1とPhaZ2が、PHAターンオーバーにおいて役割が重複している可能性が高いことを示す。両候補を欠損させると、特に窒素またはリンが制限された場合にポリマー保持量が増加し、2段階培養戦略によってPHA滴定値はさらに培養液中0.180 mg/mLまで上昇した。また、菌株間および増殖条件間でポリマー含有量を追跡するための迅速な赤外分光法を開発した。これらの知見は、微生物バイオプラスチック生産を改善するための相補的な遺伝的、培養的、およびスクリーニング戦略を提供するものであり、石油由来プラスチックに代わる持続可能な代替手段の推進に寄与する可能性がある。"
   }
 ];
