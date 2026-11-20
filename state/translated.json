@@ -312908,5 +312908,281 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ウイルス伝播の旅",
     "abstract_ja": "本研究は、アンデスウイルスのヒトからヒトへの伝播、特に濃厚接触環境における伝播を裏付けるさらなる証拠を提示するものである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1967134",
+    "title": "Akkermansia muciniphila in traumatic brain injury: from gut dysbiosis to microglial modulation via sphingolipid metabolism",
+    "abstract": "Traumatic brain injury (TBI) remains a leading cause of long-term disability worldwide, yet disease-modifying therapies targeting chronic neuroinflammation remain scarce. Emerging evidence has positioned the gut microbiome as a critical modulator of post-TBI outcomes, with Akkermansia muciniphila emerging as a particularly promising candidate. Preclinical studies demonstrate that Akkermansia supplementation alleviates persistent microglial activation and improves cognitive function in TBI models. Mechanistically, multi-omics analyses reveal that Akkermansia effectively blocks TBI-induced elevation of sphingolipid metabolism, a pathway closely linked to sustained microglial reactivity. The bacterium modulates microglial function through both indirect pathways involving short-chain fatty acids and tryptophan metabolites, and direct interactions via outer membrane proteins and extracellular vesicles. This review synthesizes current evidence indicating that, in preclinical TBI models, A. muciniphila is a candidate neuroimmune modulator that may bridge gut dysbiosis to microglial dysfunction through sphingolipid metabolism, thereby offering a hypothesis-generating preclinical rationale for mitigating the chronic consequences of traumatic brain injury.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1967134",
+    "date": "2026-11-20",
+    "authors": "Yinghui Li",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1967134",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacterium",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5384,
+    "collected_at": "2026-11-20T20:25:40.156289+00:00",
+    "collected_date": "2026-11-21",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.3389/fmicb.2026.1967134"
+    ],
+    "translation": {
+      "title": {
+        "hash": "df171a696568ee42663cf7d6e51977fb9d2fd5b3570f886d7e7cc3f13ac3b907",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T20:59:41.776274+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "231fdb06b3f53371efa468976200dfb61cf96580cf651420f757717ef914cf18",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T20:59:41.776274+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "外傷性脳損傷におけるAkkermansia muciniphila：腸内細菌叢の乱れからスフィンゴ脂質代謝を介したミクログリア調節まで",
+    "abstract_ja": "外傷性脳損傷（TBI）は依然として世界的に主要な長期障害の原因となっているが、慢性神経炎症を標的とした疾患修飾療法は依然として乏しい。新たなエビデンスにより、腸内マイクロバイオームがTBI後の転帰における重要な調節因子として位置づけられており、中でもAkkermansia muciniphilaが特に有望な候補として浮上している。前臨床研究では、Akkermansiaの補充がTBIモデルにおいて持続的なミクログリア活性化を緩和し、認知機能を改善することが示されている。機序面では、マルチオミクス解析により、AkkermansiaがTBI誘発性のスフィンゴ脂質代謝亢進を効果的に抑制することが明らかになっており、この経路は持続的なミクログリア反応性と密接に関連している。本菌は、短鎖脂肪酸やトリプトファン代謝物を介した間接的経路と、外膜タンパク質および細胞外小胞を介した直接的相互作用の両方を通じてミクログリア機能を調節する。本総説では、前臨床TBIモデルにおいてA. muciniphilaが、スフィンゴ脂質代謝を介して腸内細菌叢の乱れとミクログリア機能不全を橋渡しし得る神経免疫調節因子の候補であることを示す現在のエビデンスを総括し、外傷性脳損傷の慢性的後遺症を軽減するための仮説構築の基盤となる前臨床的根拠を提示する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 2",
+        "query": "(JOURNAL:\"microLife\" OR JOURNAL:\"Nucleic Acids Research\" OR JOURNAL:\"NAR Genomics and Bioinformatics\" OR JOURNAL:\"Bioinformatics\" OR JOURNAL:\"Microbes and Environments\" OR JOURNAL:\"Frontiers in Microbiology\" OR JOURNAL:\"Frontiers in Marine Science\" OR JOURNAL:\"mBio\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "review",
+      "discussion",
+      "journal article"
+    ],
+    "id": "10.1128/mbio.01926-26",
+    "title": "mGem: Antibiotic tolerance across the growth-rate continuum in chronic human infections.",
+    "abstract": "Antibiotic failure is frequently attributed to genetic resistance, yet many chronic infections persist despite clinical isolates remaining susceptible to antibiotics. Antibiotic tolerance offers an alternative explanation, but is commonly interpreted through persisters, dormancy, and growth arrest. We argue this theory is incomplete. In vitro studies consistently demonstrate that growth rate strongly influences antibiotic susceptibility, while bacteria in chronic human infections occupy a broad continuum of growth states. However, experimental models of tolerance largely examine rapidly growing or growth-arrested bacteria and rarely encompass the substantially slower growth rates found in chronic infection. We propose that tolerance can emerge from stochastic growth-rate heterogeneity within clonal populations without requiring transition into dormancy. Thus, understanding tolerance requires defining how antibiotic survival changes across the growth-rate continuum. Further studies directly examining antibiotic tolerance at slow growth rates representative of chronic infection are needed to understand tolerance during human infection.",
+    "journal": "mBio",
+    "doi": "10.1128/mbio.01926-26",
+    "date": "2026-10-23",
+    "authors": "Roberts B, Brown SP, Diggle SP, Whiteley M.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42925037",
+    "preprint": false,
+    "review": true,
+    "pmcid": "PMC13753805",
+    "pmid": "42925037",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5259,
+    "collected_at": "2026-11-20T20:15:04.307525+00:00",
+    "collected_date": "2026-11-21",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1128/mbio.01926-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9c418e3b292e6946895ed1c5caad2c223672f8f15d0382a39b88e2bf0db7827f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T20:59:41.776274+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ef1de249050e4e8a4c5f7ff096a23e1789cf5906d18785f12110e23ea38f94a9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T20:59:41.776274+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "mGem: ヒトの慢性感染症における増殖速度連続体にわたる抗生物質耐性",
+    "abstract_ja": "抗生物質の効果不奏は、しばしば遺伝的耐性に起因するとされるが、臨床分離株が抗生物質に感受性を保持しているにもかかわらず、多くの慢性感染症が持続している。抗生物質耐性は代替的な説明となり得るが、一般的にはパーシステント、休眠、および増殖停止を通じて解釈される。我々は、この説は不完全であると主張する。in vitro研究では、増殖速度が抗生物質感受性に強く影響することが一貫して示されており、一方でヒトの慢性感染症における細菌は、広範な増殖状態の連続体にわたって存在している。しかし、耐性の実験モデルは主に急速増殖または増殖停止した細菌を対象としており、慢性感染症に見られる著しく緩やかな増殖速度を網羅することは稀である。我々は、耐性が休眠状態への移行を必要とせず、クローン集団内の確率的な増殖速度の不均一性から生じ得ると提唱する。したがって、耐性を理解するには、増殖速度の連続体全体にわたって抗生物質生存がどのように変化するかを定義する必要がある。ヒト感染症における耐性を理解するためには、慢性感染症に特徴的な緩徐な増殖速度における抗生物質耐性を直接検証するさらなる研究が必要である。"
+  },
+  {
+    "id": "10.1038/s41522-026-01200-7",
+    "title": "Dietary chitosan oligosaccharides are associated with resistance to Salmonella infection, indole metabolism, and IgA responses",
+    "abstract": "Dietary chitosan oligosaccharides are associated with resistance to Salmonella infection, indole metabolism, and IgA responses",
+    "journal": "npj Biofilms and Microbiomes",
+    "doi": "10.1038/s41522-026-01200-7",
+    "date": "2026-11-20",
+    "authors": "Shaohui Wang",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.nature.com/articles/s41522-026-01200-7",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.nature.com/npjbiofilms.rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5435,
+    "collected_at": "2026-11-20T20:25:40.156289+00:00",
+    "collected_date": "2026-11-21",
+    "sources": [
+      "https://www.nature.com/npjbiofilms.rss"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1038/s41522-026-01200-7"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f006dd8f3b88d6c4162eea399b65eb845f527b38cc54ff92933b1326b9994e44",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T20:59:41.776274+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f006dd8f3b88d6c4162eea399b65eb845f527b38cc54ff92933b1326b9994e44",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T20:59:41.776274+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "食事性キトサンオリゴ糖は、サルモネラ感染抵抗性、インドール代謝、およびIgA応答に関連している",
+    "abstract_ja": "食事性キトサンオリゴ糖は、サルモネラ感染抵抗性、インドール代謝、およびIgA応答に関連している"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 2",
+        "query": "(JOURNAL:\"microLife\" OR JOURNAL:\"Nucleic Acids Research\" OR JOURNAL:\"NAR Genomics and Bioinformatics\" OR JOURNAL:\"Bioinformatics\" OR JOURNAL:\"Microbes and Environments\" OR JOURNAL:\"Frontiers in Microbiology\" OR JOURNAL:\"Frontiers in Marine Science\" OR JOURNAL:\"mBio\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1093/nar/gkag1015",
+    "title": "NEAT1 remodeling rewires the MYC degradation pathway",
+    "abstract": "MYC is among the most frequently amplified oncogenes in human cancer, yet its intrinsically disordered nature has rendered it refractory to direct pharmacological targeting. Here, we demonstrate that the long noncoding RNA NEAT1_1 functions as a molecular gatekeeper that controls MYC protein stability by regulating its access to the E3 ubiquitin ligase UBR5. We show that NEAT1_1 forms a ribonucleoprotein (RNP) complex with both MYC and UBR5, and that NEAT1_1 suppression disrupts this interaction, leading to decreased MYC polyubiquitination and enhanced protein stability. To systematically map the regulatory architecture of NEAT1_1 without altering its abundance, we screened 88 antisense oligonucleotide (ASO) mixmers tiling across the transcript. Strikingly, this phenotypic screen identified region-specific mixmers that elicit bidirectional control over MYC, either driving robust MYC destabilization or promoting its stabilization in a strictly expression-independent manner. Mechanistically, MYC-destabilizing mixmers selectively enhance the interaction between MYC and UBR5 to accelerate proteasomal degradation. A focused CRISPR screen targeting the ubiquitin–proteasome pathway independently validated UBR5 as the essential E3 ligase mediating this mixmer-induced turnover. In vivo , our lead mixmer ASO_#24 significantly suppressed tumor growth in MYC-high xenografts, whereas MYC-low tumors remained unaffected. Our findings reveal that the functional output of a scaffold lncRNA is encoded in its sub-domain architecture rather than bulk transcript levels, establishing domain-specific RNA targeting as a tractable strategy to rewire protein turnover pathways for otherwise undruggable oncogenes.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1015",
+    "date": "2026-10-23",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PMC/PMC13691374",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13691374",
+    "pmid": "42924439",
+    "metadata_source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13691374/fullTextXML",
+    "abstract_source": "Europe PMC fullTextXML",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5263,
+    "collected_at": "2026-11-20T20:15:04.307525+00:00",
+    "collected_date": "2026-11-21",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-20",
+    "related_dois": [
+      "10.1093/nar/gkag1015"
+    ],
+    "translation": {
+      "title": {
+        "hash": "971d0462365bfe9eda6201a80b93b6c3d63c90a0167128d0d13100afd40eb82f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T20:59:41.776274+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7cf2e0d12dcea7bd5a0094c6a23fdf65e7eeb80a41017b0c1e6e4e08fee2583c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-20T20:59:41.776274+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "NEAT1のリモデリングはMYC分解経路をリワイヤーする",
+    "abstract_ja": "MYCはヒトがんにおいて最も頻繁に増幅されるがん遺伝子の一つであるが、その本質的に無秩序な性質により、直接的な薬理学的標的化が困難であった。本研究では、長鎖非コードRNA NEAT1_1 が、E3ユビキチンリガーゼUBR5へのアクセスを調節することでMYCタンパク質の安定性を制御する分子ゲートキーパーとして機能することを実証する。我々は、NEAT1_1 がMYCおよびUBR5の双方とリボ核タンパク質（RNP）複合体を形成すること、ならびにNEAT1_1 の抑制がこの相互作用を阻害し、MYCのポリユビキチン化の減少とタンパク質安定性の向上をもたらすことを示す。NEAT1_1 の存在量を変化させることなくその調節アーキテクチャを系統的にマッピングするため、我々は転写産物全域にわたる88種類のアンチセンスオリゴヌクレオチド（ASO）ミックスマーをスクリーニングした。特筆すべきことに、この表現型スクリーニングにより、MYCに対して双方向的な制御を惹起する領域特異的なミックスマーが同定された。これらは、強固なMYC不安定化を誘導するか、あるいは厳密に発現非依存的な様式で安定化を促進する。機序的には、MYC不安定化ミックスマーがMYCとUBR5の相互作用を選択的に増強し、プロテアソーム分解を加速させる。ユビキチン-プロテアソーム経路を標的とした重点的なCRISPRスクリーニングにより、このミックスマー誘導性ターンオーバーを媒介する必須のE3リガーゼとしてUBR5が独立して検証された。in vivoにおいて、我々のリードミックスマーであるASO_#24は、MYC高発現ゼノグラフトにおいて腫瘍増殖を有意に抑制したが、MYC低発現腫瘍には影響が見られなかった。本知見は、足場lncRNAの機能的出力が、バルクの転写産物レベルではなくサブドメインアーキテクチャにコードされていることを明らかにしており、本来であれば分解不能ながん遺伝子のタンパク質ターンオーバー経路を再構築するための扱いやすい戦略として、ドメイン特異的なRNA標的化を確立するものである。"
   }
 ]
