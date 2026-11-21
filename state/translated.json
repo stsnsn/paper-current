@@ -317805,5 +317805,310 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "マルチモーダル推論、エージェント型システム、および埋め込みモデル：近年の進展に関するサーベイ",
     "abstract_ja": "マルチモーダルモデルは、自らが知覚した内容に基づいて推論を行い、デジタルおよび物理的環境で行動し、モダリティを横断してコンテンツを取得する能力をますます高めている。本サーベイでは、こうした能力を支える3つのモデルファミリーにおける最近の進展について概説する。すなわち、強化学習で訓練された思考連鎖を通じて回答を導き出すマルチモーダル推論モデル、ツール、グラフィカルインターフェース、ロボット、検索エンジンを用いて、知覚・推論・行動のループの中でこうしたモデルを動作させるマルチモーダルエージェントシステム、そして画像、テキスト、音声、動画、ドキュメントを、検索および記憶のための共有空間にマッピングするマルチモーダル埋め込みモデルである。本稿では、すべてのモデルがモダリティエンコーダ、コネクタ、および生成型または埋め込みヘッドに至る基盤モデルのバックボーンで構成されるという、単一の数学的フレームワークを用いてこれらを提示する。その中で、アテンションベースの視覚的質問応答からグループ相対的な方策最適化や「画像を用いた思考」に至る推論、ツール拡張プログラムからGUI、身体性および検索エージェントに至るエージェント、そして正準相関分析や対照エンコーダ（CLIP、SigLIP）から指示追従型ユニバーサルエンベッダーに至る埋め込みについて辿る。350件以上の研究を5つの分類体系に沿って整理し、ベンチマークと報告された結果を要約した上で、知覚のボトルネック、忠実な推論、エージェントの安全性、効率性および評価を含む未解決課題について締めくくる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.27.762241",
+    "title": "Embodied Dynamic Causal Modelling: Brain and Cardiac Effective Connectivity",
+    "abstract": "Brain-body interactions underpin embodied inference and interoception, and are central to both general health and the pathophysiology of mental health disorders. These interactions are orchestrated across a hierarchy extending from the cortex, through the brainstem, to peripheral autonomic effectors. Existing methods either reduce this communication to scalar summaries or lack an invertible biophysical model, and so cannot resolve where in this extended architecture an observed effect originates. To address this, we introduce Embodied Dynamic Causal Modelling, an extension of the generative causal modelling framework that formalises hierarchical message passing across the full brain-body axis. We instantiate the framework for brain-heart interactions with the Brainstem Cardiac Network, a closed-loop neural mass model of brainstem autonomic circuitry and sinoatrial node dynamics. By incorporating five brainstem nuclei, a viscerosensory thalamic relay and the cardiac pacemaker, the network enables estimation of directed effective connectivity across the cortical-brainstem-cardiac axis. As an illustrative case study, representative of the experiments and extended physiological systems that Embodied DCM and the BCN can now interrogate, we applied the framework to simultaneously recorded electroencephalography and electrocardiography during an auditory Go/No-Go paradigm. A multimodal observation model permits joint inversion of electrophysiological and cardiac responses, so that neural and bodily measurements together constrain an account of central and peripheral dynamics. The case study shows how the framework can arbitrate between competing hypotheses about functional cytoarchitecture, distinguishing granular from agranular microcircuits within the viscero-sensorimotor hierarchy. It also shows how time-varying estimates of synaptic efficacy can be recovered alongside continuous latent neuronal dynamics, over extended windows spanning anticipation, target processing and motor inhibition. By linking neural and cardiac signals to a single generative architecture, this work moves the study of brain-heart interactions beyond correlation, providing a framework for testing theories of embodied inference and for identifying circuit-level disruptions in disorders of interoceptive and autonomic regulation.",
+    "journal": "",
+    "doi": "10.64898/2026.10.27.762241",
+    "date": "2026-11-03",
+    "authors": "Levy A, Zeidman P, Allen M, Friston K.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1357610",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "framework",
+          "gene"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5345,
+    "collected_at": "2026-11-21T20:42:56.049670+00:00",
+    "collected_date": "2026-11-22",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-21",
+    "related_dois": [
+      "10.64898/2026.10.27.762241"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4e531283c0237eb68e66d56a6f6994ee1184ea3a6833ca284cf843312aaf3e15",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T21:18:35.555740+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "aa84604272d2513ac4af93917cf69b48b89a9a1f69dbc3b686620946ebc8a99c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T21:18:35.555740+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "身体化動的因果モデリング：脳と心臓の有効結合",
+    "abstract_ja": "脳・身体間の相互作用は、身体化推論と内受容感覚の基盤となっており、全般的な健康および精神疾患の病態生理の双方において中心的な役割を果たしている。これらの相互作用は、皮質から脳幹を経て末梢自律神経効果器に至る階層構造を通じて制御されている。既存の手法では、この通信をスカラー的な要約に還元しているか、あるいは可逆的な生物物理学的モデルを欠いているため、この拡張されたアーキテクチャのどこで観測された効果が発生しているのかを解明することができない。この課題に対処するため、我々は、脳・身体軸全体にわたる階層的なメッセージ伝達を定式化する生成的因果モデリングフレームワークの拡張版である「身体化動的因果モデリング（Embodied Dynamic Causal Modelling）」を提案する。我々は、脳幹の自律神経回路と洞結節ダイナミクスの閉ループ神経マスモデルである「脳幹心血管ネットワーク（Brainstem Cardiac Network）」を用いて、脳・心臓相互作用にこのフレームワークを具体化した。5つの脳幹核、内臓感覚視床中継系、および心臓ペースメーカーを組み込むことで、本ネットワークは皮質・脳幹・心軸にわたる有向有効結合の推定を可能にする。Embodied DCMとBCNが現在解析可能な実験および拡張された生理学的システムを代表する例証的なケーススタディとして、我々は聴覚的なGo/No-Goパラダイムにおける同時記録された脳波および心電図に本フレームワークを適用した。マルチモーダル観測モデルにより、電気生理学的応答と心拍応答の同時反転が可能となり、神経測定値と身体測定値を合わせて、中枢および末梢のダイナミクスに関する説明を制約することができる。このケーススタディは、本フレームワークが機能的細胞アーキテクチャに関する競合する仮説間の調整をいかに行い、内臓感覚運動階層における粒状微小回路と非粒状微小回路を区別できるかを示している。また、予期、標的処理、および運動抑制にわたる広範な時間窓において、シナプス効率の時間変動推定値を、連続的な潜在ニューロンダイナミクスと共に復元できることも示している。神経信号と心拍信号を単一の生成的アーキテクチャに結びつけることで、本研究は脳・心臓相互作用の研究を相関関係の域を超えて発展させ、身体化推論の理論を検証するための枠組みを提供するとともに、内受容感覚および自律神経調節の障害における回路レベルの破綻を特定することを可能にする。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11507263/v1",
+    "title": "Generative design for additive manufacturing through data-free optimization-derived neural weight subspaces",
+    "abstract": "Abstract  Generative design (GD) enables exploration of diverse shape variants that exhibit trade-offs among competing design objectives related to part manufacturability and performance, offering a transformational approach towards automated part design for advanced additive manufacturing (AM). However, existing GD methods often derive design diversity either from large datasets of existing designs or through topological modifications, limiting their applicability to data-scarce engineering problems, particularly for complex parts where manufacturability and preservation of topology and geometric features are critical. In this work, we present a training-free generative design framework that leverages the optimisation trajectory of a single neural field-based shape optimisation to represent and explore neural field variants within a low-dimensional neural weight subspace. Our design space exploration is realised through a Langevin diffusion-inspired stochastic process with energy-conditioned guidance, enabling the generation of constraint-satisfying shape variants that provide distinct objective trade-offs. The framework generalises across geometrically and topologically diverse complex parts, including freeform geometries with intricate surface features and non-trivial topology. We validate the method through simulations and physical additive manufacturing experiments, demonstrating support-free 3D printing of the generated shape variants and establishing a data-free route towards manufacturability-aware generative design for complex parts.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11507263/v1",
+    "date": "2026-11-03",
+    "authors": "Jayakody DPVJ, Deng B, Panesar A, Kim H.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1356329",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "framework",
+          "gene"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5346,
+    "collected_at": "2026-11-21T20:42:56.049670+00:00",
+    "collected_date": "2026-11-22",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-21",
+    "related_dois": [
+      "10.21203/rs.3.rs-11507263/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "489f6831d330a0e75ec543ef1c9b62494df845e3084c9933b521129aa4a94d7e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T21:18:35.555740+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e8e187f76332a90e6bffba9c6e5eb5ba86e1ed9ba533a7267c6a0ad6c7da4652",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T21:18:35.555740+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "データフリーの最適化由来ニューラル重み部分空間による積層造形の生成的設計",
+    "abstract_ja": "要旨　生成設計（GD）は、部品の製造性と性能に関連する相反する設計目的の間でトレードオフを示す多様な形状バリエーションの探索を可能にし、先進的な積層造形（AM）における自動部品設計に向けた革新的なアプローチを提供する。しかし、既存のGD手法は、多くの場合、既存設計の大規模なデータセットから、あるいはトポロジーの改変を通じて設計の多様性を導出しており、データ不足の工学的課題、特に製造性とトポロジーおよび幾何学的特徴の保持が極めて重要となる複雑な部品への適用が制限されている。本研究では、単一のニューラルフィールドベースの形状最適化の最適化軌跡を活用し、低次元のニューラル重み部分空間内でニューラルフィールドのバリエーションを表現・探索する、学習不要の生成設計フレームワークを提案する。我々の設計空間探索は、エネルギー条件付きガイダンスを備えたランジュバン拡散に着想を得た確率過程によって実現されており、異なる目的間のトレードオフをもたらす制約充足型の形状バリエーションの生成を可能にする。本フレームワークは、複雑な表面特徴や非自明なトポロジーを持つ自由形状を含む、幾何学的・トポロジー的に多様な複雑部品全般に適用可能である。シミュレーションおよび物理的な積層造形実験を通じて本手法を検証し、生成された形状バリエーションのサポートフリー3Dプリンティングを実証するとともに、複雑部品向けの製造性を考慮した生成設計に向けたデータフリーの道筋を確立した。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11218928/v1",
+    "title": "Impact of disruption methods on high molecular weight DNA extracted from archived frozen tissues",
+    "abstract": "Abstract  Background  Tissue samples can provide high molecular weight (HMW) DNA for advanced genomic applications, such as long-read sequencing. Archived frozen tissues stored in biobanks or tissue repositories could retain DNA quality. However, the impact of different tissue disruption methods on DNA yield, purity and integrity remains incompletely characterized. Methods  The impact of three disruption methods on DNA was initially compared using rabbit liver tissues: liquid nitrogen (LN) coarse smashing, LN fine grinding, and TissueLyser homogenization. Key parameters, including lysis time, homogenization buffer, agitation frequency, and running duration, were subsequently optimized to maximize DNA yield or preserve fragment integrity. Different disruption methods were further evaluated using archived frozen human liver, kidney, bladder, and pancreas tissues to assess their applicability across different tissue types. Results  All methods yielded A260/280 ratios of ~ 1.8. LN fine grinding resulted in the lowest DNA yield, DNA integrity number (DIN) and A260/230. LN coarse smashing yielded optimal integrity (DIN > 8, peak size ~ 50 kb) but moderate yield, and prolonged lysis did not improve DNA recovery. The TissueLyser group with nuclease-free water had the highest yield and purity (A260/230 > 2.0) but the smallest fragment size (~ 25 kb). Buffer selection markedly affected the outcomes of TissueLyser homogenization. PBS achieved high integrity (DIN ~ 9, peak size ~ 60 kb), whereas ATL buffer (lysis solution of DNA extraction kit) produced smaller DNA fragments (~ 22 kb) but significantly increased the yield (1245.93 ± 168.37 ng/mg). Validation in human tissues demonstrated that the optimized TissueLyser protocol consistently outperformed the LN disruption methods across all four tissue types. Conclusions  Tissue disruption should balance DNA recovery and integrity. TissueLyser homogenization offers a standardized and efficient approach for HMW DNA extraction. The buffer and parameters should be guided by the specific requirements of downstream applications.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11218928/v1",
+    "date": "2026-11-03",
+    "authors": "Qian K.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1356263",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "DNA",
+        "method"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5347,
+    "collected_at": "2026-11-21T20:42:56.049670+00:00",
+    "collected_date": "2026-11-22",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-21",
+    "related_dois": [
+      "10.21203/rs.3.rs-11218928/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3db78c7e0a7475fcf237c7c64578be13d54aff683ba24928f67b48a806707b8b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T21:18:35.555740+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "24e331ddc83748b7338640094736087eb094ac4033b22e31c27fec442044c898",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T21:18:35.555740+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "保存凍結組織から抽出した高分子量DNAに対する破壊法の影響",
+    "abstract_ja": "要旨  背景  組織試料は、ロングリードシーケンシングなどの高度なゲノム応用に向けた高分子量（HMW）DNAを提供し得る。バイオバンクや組織リポジトリに保存された凍結組織アーカイブは、DNAの品質を維持できる可能性がある。しかし、異なる組織破砕法がDNA収量、純度、および完全性に及ぼす影響については、いまだ十分に解明されていない。方法  まず、ウサギ肝組織を用いて、液体窒素（LN）粗破砕、LN細粉砕、およびTissueLyser均質化という3種類の破砕法がDNAに及ぼす影響を比較した。次いで、DNA収量の最大化または断片の完全性維持を目的として、溶解時間、均質化バッファー、撹拌頻度、および反応時間を含む主要パラメータを最適化した。さらに、アーカイブされた凍結ヒト肝、腎、膀胱、および膵臓組織を用いて異なる破砕法を評価し、各種組織タイプにおける適用性を検証した。結果  すべての手法において、A260/280比は約1.8であった。LN細粉砕では、DNA収量、DNA完全性数（DIN）、およびA260/230が最も低値となった。LN粗破砕では、最適な完全性（DIN > 8、ピークサイズ 約50 kb）が得られたが、収量は中程度であり、溶解時間の延長によるDNA回収率の向上は見られなかった。ヌクレアーゼフリー水を用いたTissueLyser群は、収量と純度が最も高かった（A260/230 > 2.0）が、断片サイズは最小（約25 kb）であった。バッファーの選択は、TissueLyser均質化の結果に顕著な影響を及ぼした。PBSは高い完全性（DIN 約9、ピークサイズ 約60 kb）を達成した一方、ATLバッファー（DNA抽出キットの溶解液）ではDNA断片はより小さくなった（約22 kb）が、収量は有意に増加した（1245.93 ± 168.37 ng/mg）。ヒト組織を用いた検証により、最適化されたTissueLyserプロトコルは、4種類すべての組織タイプにおいてLN破砕法を一貫して上回る性能を示すことが実証された。結論  組織破砕においては、DNA回収量と完全性のバランスを考慮すべきである。TissueLyser均質化は、HMW DNA抽出のための標準化された効率的な手法を提供する。バッファーおよびパラメータは、後続の応用における具体的な要件に基づいて選定すべきである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202611.0154.v1",
+    "title": "Research on a Bayesian Estimation Image Reconstruction Method for Geiger Mode Avalanche Photodiode Light Detection and Ranging (GM‐APD LiDAR) Based on Spatiotemporal Features of Sequence Data",
+    "abstract": "In scenes with strong background light, three-dimensional LiDAR imaging still faces problems such as incomplete imaging and residual background noise. This paper proposes a Bayesian-estimation image reconstruction method based on sequence data. Sparse range-intensity sequence data are constructed, and the signal probability and average intensity features of the sequence data are fused to build the likelihood term, thereby highlighting the differences between signal and noise. Through spatiotemporal average-intensity gradient analysis, the MRF prior parameters are adaptively estimated, and a spatial-continuity prior with edge-preserving characteristics is constructed. Under the Bayesian maximum a posteriori estimation framework, spatiotemporal feature fusion is transformed into an energy-minimization problem. The iterative conditional modes algorithm is then used to solve the optimal range image with spatial average intensity as a constraint, and morphological filtering is used to remove isolated noise points. With a data volume of 20,000 frames, the recovery ratio of the reconstructed range image in the 730 m scene reached 82.6%. In the 2,000 m long-range scene with an extremely low signal-to-background ratio (SBR), the recovery ratio reached 56.3%, representing a 46.2% improvement over the SPIRAL method, with an RMSE of 1.77 m. Partial reconstruction can also be achieved in low-SBR regions of long-range buildings, improving target completeness under low signal-to-background ratio conditions.",
+    "journal": "",
+    "doi": "10.20944/preprints202611.0154.v1",
+    "date": "2026-11-03",
+    "authors": "Lu J, Yang X, Sun J, Zhou X, Liu F.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1355910",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "method",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "method",
+          "sequence"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5348,
+    "collected_at": "2026-11-21T20:42:56.049670+00:00",
+    "collected_date": "2026-11-22",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-21",
+    "related_dois": [
+      "10.20944/preprints202611.0154.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "62e2414c76d14fb6d7dde91fb5a374f18f273a68ab08a1748ba23fa3803d6ed2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T21:18:35.555740+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "594b327a8de551d147bc6a51e6941b397759fe7f3f7e48a517b6fd64bc5a7119",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T21:18:35.555740+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "系列データの時空間特徴量に基づくガイガーモード・アバランシェ光ダイオード光検出・測距（GM‐APD LiDAR）のベイズ推定画像再構成手法に関する研究",
+    "abstract_ja": "背景光の強いシーンでは、3次元LiDAR撮像において依然として撮像の不完全性や背景ノイズの残存といった課題が存在する。本論文では、シーケンスデータに基づくベイズ推定画像再構成手法を提案する。スパースな範囲強度シーケンスデータを構築し、シーケンスデータの信号確率と平均強度特徴量を融合して尤度項を構築することで、信号とノイズの差異を顕在化させる。時空間平均強度勾配解析を通じてMRF事前パラメータを適応的に推定し、エッジ保持特性を持つ空間連続性事前分布を構築する。ベイズ最大事後推定の枠組みにおいて、時空間特徴量の融合をエネルギー最小化問題へと変換する。次いで、反復条件付きモードアルゴリズムを用いて空間平均強度を制約条件とした最適範囲画像を求め、形態フィルタリングによって孤立したノイズ点を除去する。20,000フレームのデータ量において、730mシーンにおける再構成範囲画像の復元率は82.6%に達した。信号対背景比（SBR）が極めて低い2,000m長距離シーンでは、復元率は56.3%に達し、SPIRAL手法と比較して46.2%の向上を示し、RMSEは1.77mとなった。長距離建物の低SBR領域においても部分的な再構成が可能であり、低信号対背景比条件下でのターゲットの完全性が向上する。"
   }
 ]
