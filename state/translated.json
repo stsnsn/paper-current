@@ -315851,5 +315851,308 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "活動性肺結核の多コホート血液トランスクリプトームメタ解析：50遺伝子インターフェロンシグネチャーの再現性と4遺伝子分類器のベンチマーク",
     "abstract_ja": "背景：結核（TB）の血液トランスクリプトーム・シグネチャーの多くは、単一の集団または単一のプラットフォームに由来している。メタ解析によって構築され、既報のシグネチャーとベンチマークされた例は少ない。方法：英国の3つの血液トランスクリプトームデータセット（Illuminaマイクロアレイ2件、RNA-seq 1件；サンプル数247：活動性肺結核（PTB）87例、健常対照群（HC）160例）を対象にメタ解析を行った。GSE107991ではBerryテストセットを再解析し、2つの探索データセットがSweeneyの探索データと重複しているため、データセットは完全に独立しているわけではない。3つの研究すべてで再現された遺伝子（FDR 1.5、FDR < 0.01）を保持した。性能はGSE28623（ガンビア、n = 83）およびGSE56153（インドネシア、n = 36）で推定し、方向性はGSE34608（ドイツ、n = 26）およびGSE81746（インド、n = 6）で確認した。LASSOおよびランダムフォレスト分類器を、Berry 393遺伝子シグネチャーおよびSweeney 3遺伝子シグネチャーと比較した。免疫組成はMCPcounterおよびCIBERSORTxを用いて評価した。結果：インターフェロン刺激遺伝子が支配的な50遺伝子コアシグネチャーを同定した。50遺伝子すべてが発現上昇しており、すべてのデータセットでFDR < 0.05に達した。ssGSEAによるAUCは、GSE28623で0.830（95% CI 0.743-0.917）、GSE56153で0.941（0.868-1.000）であった。方向性の一致率は、ドイツで95.7%、インドで95.8%であった。PTB対潜在性結核感染のスコアは0.848（0.756-0.940）であった。LASSOは4つの遺伝子（BATF2, ANKRD22, GBP5, EPSTI1）を選択した。凍結分類器による外部AUCは0.864（0.785-0.944）であった。検証コホートの一つで再テストしたSweeney 3遺伝子スコアは0.912に達し、50遺伝子スコアを上回った（47/50遺伝子；Holm p = 0.0234）。Berry 393遺伝子スコアリングでは0.910が得られ、方向性はGSE19439から再構築された（Holm p = 0.0071、50遺伝子スコアに対し）。符号付きスコアは再構築されたものであり、Berryが公表したスコアではない。MCPcounterは骨髄系拡大とリンパ系抑制を示した。CIBERSORTxは前者を回収したが、より広範なリンパ系抑制は回収できなかった。結論：50遺伝子シグネチャーは、重複する3つの英国探索データセット間で一貫していた。外部評価は部分的であり、2つのコホートにおける50遺伝子のうち47遺伝子のAUCと、2つの小規模なコホートにおける方向性の一致で構成されていた。本研究はベンチマーク研究であり、優位性を主張するものではない。Sweeney 3遺伝子スコアおよび符号付きBerryスコアの方が高く、4遺伝子分類器はSweeneyと有意な差は認められなかった。本分類器は今後の検証が必要である。BerryとSweeneyの比較は独立していない。"
+  },
+  {
+    "id": "10.64898/2026.11.19.767851",
+    "title": "Environmental heterogeneity and microbial community architecture shape N2O fluxes in intertidal coastal sediments",
+    "abstract": "Seagrass meadows are key ''blue carbon ecosystems'', yet their contribution to nitrous oxide (N2O) emissions remains poorly constrained. We investigated environmental and microbial descriptors of N2O fluxes in intertidal sediments of Arcachon Bay, home to Europe's largest Zostera noltii meadow. At six sites, we measured in situ N2O fluxes in adjacent bare and vegetated sediments and characterized sediment properties, N2O-cycling genes using qPCR and targeted metagenomics, and microbial co-occurrence networks. Fluxes ranged from -3.7 to 8.4 mol N2O m-2 d-1. Spatial location was the strongest descriptor of flux variation, with inner-bay sites showing higher emissions associated with environmental conditions, carbon accumulation, pH, and microbial community characteristics. Vegetation effects were comparatively small and site-dependent. Metagenomic descriptors of N2O-cycling genes were more informative than qPCR-based descriptors. Taxa associated with nirS (Thiohalophilus), nirK (Planktotalea) and nosZ1 (Roseobacter) were identified as potential contributors to N2O production or reduction, respectively. These findings indicate that spatially structured environmental conditions and microbial community characteristics better describe N2O flux variation than seagrass presence alone. Measurements across tidal and seasonal cycles are needed to establish the temporal consistency of these patterns.",
+    "journal": "",
+    "doi": "10.64898/2026.11.19.767851",
+    "date": "2026-11-20",
+    "authors": "Dolivet-Marechal, M., Palacin-Lizarbe, C., Schwob, G., Siljanen, H. M. P., paul, D., Delort, A., Gervaix, J., Creuze des Chatelliers, C., Schmidt, S., Cognat, M., Sebag, D., Taugourdeau, O., Schubert, C., Labourdette, N., Bertrand, I., Rossi, L. M. W., Le Roux, X., Richaume, A., Florio, A.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.19.767851v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Roseobacter",
+        "metagenom",
+        "metagenomic",
+        "metagenomics",
+        "microbial"
+      ],
+      "context": {
+        "marine": [
+          "roseobacter"
+        ],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5448,
+    "collected_at": "2026-11-21T10:06:00.579932+00:00",
+    "collected_date": "2026-11-21",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-21",
+    "related_dois": [
+      "10.64898/2026.11.19.767851"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9ed37e29d6bc0428ee5db3412c3d2d9f00727976f437a4e11f2599d6482b4dc5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T10:39:00.112215+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "13516a782e613f016d085d91262c40eec3f9dbbb0859a7ec6599e664f8f8a5b2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T10:39:00.112215+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "環境の不均一性と微生物群集構造が潮間帯沿岸堆積物におけるN2Oフラックスを規定する",
+    "abstract_ja": "海草藻場は重要な「ブルーカーボン生態系」であるが、亜酸化窒素（N2O）排出量への寄与度は依然として十分に解明されていない。本研究では、欧州最大のZostera noltii藻場を有するアルカション湾の潮間帯堆積物におけるN2Oフラックスの環境的および微生物的記述子を調査した。6地点において、隣接する裸底および植生堆積物中のN2Oフラックスをin situで測定し、堆積物特性、qPCRおよび標的メタゲノミクスを用いたN2O循環遺伝子、ならびに微生物共起ネットワークを特性評価した。フラックスは-3.7～8.4 mol N2O m-2 d-1の範囲であった。空間的位置がフラックス変動の最も強力な記述子であり、湾内部の地点では、環境条件、炭素蓄積、pH、および微生物群集特性に関連してより高い排出量が認められた。植生の影響は比較的小さく、地点依存的であった。N2O循環遺伝子のメタゲノム記述子は、qPCRに基づく記述子よりも情報量が多かった。nirS（Thiohalophilus）、nirK（Planktotalea）、およびnosZ1（Roseobacter）に関連する分類群が、それぞれN2Oの生成または還元に寄与する潜在的な因子として同定された。これらの知見は、海草の存在のみよりも、空間的に構造化された環境条件および微生物群集特性の方が、N2Oフラックスの変動をより適切に記述できることを示している。これらのパターンの時間的一貫性を確立するためには、潮汐および季節サイクルにわたる測定が必要である。"
+  },
+  {
+    "id": "10.64898/2026.11.19.767828",
+    "title": "Genomic Characterization of a Typical Enteropathogenic Escherichia coli Isolate from an Egyptian Fruit Bat, Rousettus aegyptiacus from Coastal Kenya",
+    "abstract": "Enteropathogenic Escherichia coli (EPEC) are responsible for significant morbidity and mortality cases among young children under the age of five, particularly in low- and middle-income countries. Atypical EPEC has frequently been reported from animal hosts, however, information on the occurrence and genomic characteristics of typical EPEC in wildlife reservoirs remains limited. This study characterized an Escherichia coli isolated from an Egyptian fruit bat (Rousettus aegyptiacus) sampled in coastal Kenya using whole-genome sequencing. Oral and rectal swabs were collected from 24 bats captured in Kikambala, Kilifi County, Kenya. Bacterial isolates were cultured, sequenced on the Illumina NextSeq 1000 platform, and analyzed using a bioinformatics workflow that included in silico taxonomic classification, serotyping and multilocus sequence typing, virulence gene profiling, antimicrobial resistance gene detection, plasmid identification, and core genome phylogenetic analysis. One isolate, KIKB-471-SWR-A (O128:H6; ST15625), was classified as typical EPEC. Genomic analysis confirmed the characteristic virulence architecture of typical EPEC. Despite numerous antimicrobial resistance-associated genes being detected, the isolate remained phenotypically susceptible to all antimicrobials tested. The isolate clustered within an EPEC lineage, closely associated with a human-derived EPEC strain, and genetically distinct from both commensal and laboratory E. coli reference strains. Despite no evidence of zoonotic transmission, the findings demonstrated that wildlife can harbor E. coli lineages possessing virulence determinants associated with human pathogenic EPEC strains, underscoring the importance of genomic surveillance at wildlife?human interfaces within a One Health framework to improve the understanding of ecology, evolution, and public health significance of diarrheagenic E. coli.",
+    "journal": "",
+    "doi": "10.64898/2026.11.19.767828",
+    "date": "2026-11-20",
+    "authors": "Kamau, J., Kimemia, B. B., Abuom, D., Agwanda, B., Musila, L., Odoyo, E., Kivata, M. W., Mbae, C., Onguso, J., Haynes, R., Kellar, G., Lutomiah, J., Eads, J., Eyase, F.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.19.767828v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "evolution",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5449,
+    "collected_at": "2026-11-21T10:06:00.579932+00:00",
+    "collected_date": "2026-11-21",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-21",
+    "related_dois": [
+      "10.64898/2026.11.19.767828"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4c481575aec09e7d42f3bacbfde657474fa47972cebfa64d5af14d0e02d1118d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T10:39:00.112215+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ff735e28e84978b2693f238688b7726f9920b6415b5f5379453dae327f00d7b1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T10:39:00.112215+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ケニア沿岸部のエジプトフルーツコウモリ Rousettus aegyptiacus 由来の代表的な腸管病原性大腸菌分離株のゲノム特性解析",
+    "abstract_ja": "腸管病原性大腸菌（EPEC）は、特に低・中所得国において、5歳未満の幼児の間で著しい罹患および死亡事例の原因となっている。非定型EPECは動物宿主から頻繁に報告されているが、野生動物リザーバーにおける定型EPECの出現状況やゲノム特性に関する情報は依然として限られている。本研究では、ケニア沿岸部で採取したエジプトフルーツコウモリ（Rousettus aegyptiacus）から分離した大腸菌を、全ゲノムシーケンシングを用いて特性解析した。ケニア・キリフィ郡キカンバラで捕獲したコウモリ24頭から口腔および直腸スワブを採取した。細菌分離株を培養し、Illumina NextSeq 1000プラットフォームでシーケンシングを行った後、in silico分類学、血清型判定および多遺伝子座シーケンスタイピング、病原性遺伝子プロファイリング、薬剤耐性遺伝子検出、プラスミド同定、およびコアゲノム系統解析を含むバイオインフォマティクスワークフローを用いて解析した。分離株のうち1株（KIKB-471-SWR-A (O128:H6; ST15625)）が定型EPECとして分類された。ゲノム解析により、定型EPEC特有の病原性構造が確認された。多数の薬剤耐性関連遺伝子が検出されたにもかかわらず、当該分離株は試験したすべての抗菌薬に対して表現型的に感受性を示した。本分離株はEPEC系統内にクラスターを形成し、ヒト由来のEPEC株と密接に関連していたほか、共生菌および実験室の大腸菌参照株の双方とは遺伝的に異なっていた。人獣共通感染の証拠は認められなかったが、本知見は、野生動物がヒト病原性EPEC株に関連する病原性決定因子を有する大腸菌系統を保有し得ることを示しており、下痢原性大腸菌の生態、進化、および公衆衛生上の重要性に関する理解を深めるため、ワンヘルス（One Health）の枠組みにおける野生動物・ヒト接点でのゲノムサーベイランスの重要性を強調するものである。"
+  },
+  {
+    "id": "10.64898/2026.11.14.765823",
+    "title": "Identification of seven candidate structured noncoding RNA motifs in protists by comparative genomics",
+    "abstract": "Protists represent a highly diverse assemblage of predominantly unicellular eukaryotes, including protozoa, algae, and slime molds. Their essential roles in global ecosystems, along with their significance as human parasites, underscore the need for a deeper understanding of their conserved genetic elements. In this study, we employed an integrated computational approach combining CMfinder and R-scape to systematically identify and evaluate structured non-coding RNA (ncRNA) motifs across protist genomes. Through rigorous assessment and functional annotation, we report seven conserved structured ncRNAs that are likely functional RNA motifs involved in regulating the synthesis of the carbon fixation protein ribulose-1,5-bisphosphate carboxylase/oxygenase (RuBisCO), the light-harvesting and transfer protein phycocyanin, subunits of photosystems I and II, as well as mRNA splicing regulation. Notably, we also identified a structured ncRNA motif that may possess a dual function, capable of bidirectionally regulating the photosystem genes psaI and psbJ simultaneously. Our findings provide valuable insights into the diversity and functional significance of structured ncRNAs in microbial eukaryotes.",
+    "journal": "",
+    "doi": "10.64898/2026.11.14.765823",
+    "date": "2026-11-20",
+    "authors": "zhang, y., liang, q., wang, t., Huang, Y., duan, A., wang, j., wang, w., yu, h., chen, b., ying, z., jia, y., fu, c., Li, S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.14.765823v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial",
+        "protist",
+        "protists"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5450,
+    "collected_at": "2026-11-21T10:06:00.579932+00:00",
+    "collected_date": "2026-11-21",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-21",
+    "related_dois": [
+      "10.64898/2026.11.14.765823"
+    ],
+    "translation": {
+      "title": {
+        "hash": "47c273d92f2a68383c322aa839f0982f95dbb5fe688ec03aedd11d8a72481b65",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T10:39:00.112215+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "395d87bc711e8be2997c5cc3404035c86abedd103b35edcda0d82be544c1868b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T10:39:00.112215+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "比較ゲノミクスによる原生生物における7つの構造化非コードRNAモチーフ候補の同定",
+    "abstract_ja": "原生生物は、原生動物、藻類、変形菌など、主に単細胞性の真核生物からなる極めて多様な集合体である。地球規模の生態系における彼らの不可欠な役割と、ヒトの寄生生物としての重要性は、保存された遺伝的要素に対するより深い理解の必要性を浮き彫りにしている。本研究では、CMfinderとR-scapeを組み合わせた統合的な計算手法を用い、原生生物ゲノム全体にわたって構造化非コードRNA（ncRNA）モチーフを系統的に同定・評価した。厳格な評価と機能アノテーションを通じて、炭素固定タンパク質であるリブロース-1,5-ビスリン酸カルボキシラーゼ/オキシゲナーゼ（RuBisCO）の合成、光捕集・輸送タンパク質であるフィコシアニン、光化学系IおよびIIのサブユニット、ならびにmRNAスプライシング調節に関与する機能的なRNAモチーフである可能性が高い、7種類の保存された構造化ncRNAを報告する。特筆すべきは、光化学系遺伝子であるpsaIとpsbJを同時に双方向的に調節できる、二重機能を有する可能性のある構造化ncRNAモチーフを同定したことである。本知見は、微生物真核生物における構造化ncRNAの多様性と機能的意義に関する貴重な知見を提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.04.764114",
+    "title": "Growth-driven mechanical buckling as a mechanism of age-related tortuosity in human cerebral arteries",
+    "abstract": "Human cerebral arteries become increasingly, sometimes abnormally, winding with age, but the mechanical basis of this change remains incompletely understood. To examine how arterial bends form and what sets their spacing, we modeled a cerebral artery as a slender elastic vessel supported by surrounding tissue. The distance between its ends remains constant, and the vessel can bend only in a plane tangent to the brain surface. As its natural length increases, axial compression builds until the vessel buckles. Bending partly relieves the compression, and the resulting waves grow in amplitude as elongation continues. Arterial bending stiffness and tissue support determine the wavelength, which is much larger than and proportional to vessel diameter, with comparatively weak dependence on other parameters. Numerical simulations captured a pre-buckling phase, rapid amplification of waves, and slow post-buckling growth during continued elongation. We evaluated these predictions using three-dimensional centerlines of cerebral arteries reconstructed from magnetic resonance angiography in healthy adults. Older age was associated with greater arterial length and excess-length ratio. For arterial waves oriented mostly parallel to the brain surface, wavelength increased with vessel diameter. Both this relationship and the observed wavelength-to-diameter ratio were consistent with model predictions. However, wave amplitude was not significantly associated with age. Overall, the modeling and imaging results support growth-driven buckling and post-buckling deformation under spatial constraint as a plausible mechanical explanation for age-related cerebral arterial tortuosity. This framework links vascular aging to growth-driven instability and pattern formation, with potential applications to diseased arteries beyond the brain. Significance  Why cerebral arteries become increasingly winding with age remains incompletely understood. We present a minimal mechanical framework in which constrained arterial elongation generates compression and leads to buckling. Bending relieves compression, while continued elongation drives further deformation. The model predicts that arterial bending stiffness and surrounding-tissue support determine a wavelength proportional to vessel diameter. Imaging of healthy adults reveals higher arterial excess-length ratios at older ages and supports predictions for wavelength scaling with vessel diameter and the wavelength-to-diameter ratio. These findings link vascular aging to growth-driven instability and pattern formation. Beyond the brain, the model may be extended to predict how vessel properties, wall geometry, and mechanical conditions shape healthy and pathological arteries.",
+    "journal": "",
+    "doi": "10.64898/2026.11.04.764114",
+    "date": "2026-11-05",
+    "authors": "Akiyama T, Yoshimoto K, Miura T.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1359712",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "framework",
+          "gene"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5301,
+    "collected_at": "2026-11-21T09:55:27.385518+00:00",
+    "collected_date": "2026-11-21",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-21",
+    "related_dois": [
+      "10.64898/2026.11.04.764114"
+    ],
+    "translation": {
+      "title": {
+        "hash": "352a92857971dfe2342be7e7a3f3d07f739cc58e691cbe688a869c5b13a5bd99",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T10:39:00.112215+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ad68780ffa1949037e6669494b1affb1f5eb350a8b627c884788a174b3640292",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T10:39:00.112215+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ヒト脳動脈における加齢に伴う蛇行のメカニズムとしての成長駆動型機械的座屈",
+    "abstract_ja": "ヒトの脳動脈は加齢に伴い次第に、時には異常に蛇行するようになるが、この変化の力学的基盤については未だ十分に解明されていない。動脈の屈曲がどのように形成され、その間隔を決定づける要因は何かを検証するため、我々は脳動脈を周囲組織に支持された細長い弾性血管としてモデル化した。血管の両端間の距離は一定であり、血管は脳表面に接する平面内でのみ屈曲できる。自然な長さが増すにつれて軸方向の圧縮が蓄積し、最終的に血管は座屈する。屈曲によって圧縮が部分的に緩和され、伸長が続くにつれて生じる波の振幅が増大する。動脈の屈曲剛性と組織による支持が波長を決定し、この波長は血管径よりもはるかに大きく、かつ血管径に比例し、他のパラメータへの依存性は比較的弱い。数値シミュレーションにより、座屈前の段階、波の急速な増幅、および伸長継続に伴う座屈後の緩やかな増大が捉えられた。我々は、健常成人の磁気共鳴血管造影から再構築した脳動脈の三次元中心線を用いて、これらの予測を検証した。加齢に伴い、動脈長および過剰長比が増大することが認められた。脳表面に対して概ね平行な方向を向く動脈波の場合、波長は血管径とともに増大した。この関係および観察された波長対血管径比は、いずれもモデルの予測と一致していた。しかし、波の振幅は年齢と有意な関連を示さなかった。総じて、モデリングおよびイメージングの結果は、空間的制約下における成長駆動型の座屈および座屈後の変形が、加齢に伴う脳動脈の蛇行に対する妥当な力学的説明であることを支持している。この枠組みは、血管の老化を成長駆動型の不安定性とパターン形成に結びつけるものであり、脳以外の病変動脈への応用も期待できる。意義：なぜ脳動脈が加齢とともに次第に蛇行するのかについては、未だ十分に解明されていない。我々は、制約を受けた動脈の伸長が圧縮を生じさせ、座屈へと導くという最小限の力学的枠組みを提示する。屈曲は圧縮を緩和し、継続的な伸長はさらなる変形を促進する。本モデルは、動脈の屈曲剛性と周囲組織の支持が、血管径に比例する波長を決定すると予測する。健常成人のイメージングにより、高齢期において動脈の過剰長比が高くなることが明らかになり、血管径および波長対血管径比に比例する波長のスケーリングという予測が裏付けられた。これらの知見は、血管の老化を成長駆動型の不安定性とパターン形成に結びつけるものである。脳以外においても、本モデルを拡張することで、血管の特性、壁の幾何学的形状、および力学的条件が、正常および病的な動脈をどのように形成するかを予測できる可能性がある。"
   }
 ]
