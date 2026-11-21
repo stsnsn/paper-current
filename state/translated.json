@@ -315257,5 +315257,307 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "キウイフルーツ細菌性潰瘍病に対する微生物生態学的抵抗機構：フラボノイド介在性の有益細菌濃縮とAHL介在性の界横断的クオラムセンシング干渉",
     "abstract_ja": "背景\n                     Pseudomonas syringae pv. actinidiae (Psa) によって引き起こされるキウイフルーツ細菌性潰瘍病は、甚大な被害をもたらす農業病害である。宿主の抵抗性はキウイフルーツの品種間で大きく異なるが、こうした対照的な防御表現型における根関連マイクロバイオームの寄与は依然として不明である。\n                  \n                     結果\n                     本研究では、マイクロバイオーム、メタボローム、および機能検証実験を統合し、感受性の高い品種「紅陽」(HY) と抵抗性品種「龍城2号」(LC2) の間で生じる病害転帰の相違を駆動するメカニズムを解明した。土壌移植実験により、まずLC2の根圏土壌がHYに遺伝的抵抗性を付与することが示された。続いて、Psa感染が根圏における異なる微生物集合および代謝応答を誘発することを明らかにした。すなわち、LC2は特定のフラボノイドであるイソスクテラレインの分泌を介して拮抗的なストレプトマイセス属菌を選択的に動員するのに対し、HYは主にルテオリン-7-O-グルクロン酸誘導体によって駆動されるPseudomonas属菌を富化させる。in vitroおよびin vivoでの検証により、これらのフラボノイドが細菌の増殖、走化性、および根への定着をそれぞれ異なる様式で調節していることが確認された。特筆すべきことに、HYの根では、高レベルのN-アシルホモセリンラクトン（AHL）クオラムセンシングシグナル、特にN-オクタノイル-L-ホモセリンラクトン（C8-HSL）およびN-(3-オキソドデカノイル)-L-ホモセリンラクトン（3-オキソ-C12-HSL）を産生する内生細菌が異常に富化していることを同定した。これらの微生物由来AHLの全身的な蓄積は、III型分泌系（T3SS）および鞭毛集合経路を相乗的に活性化することでPsaの病原性を増強し、これによりHYの感受性の分子基盤が解明された。対照的に、LC2由来のStreptomyces viridobrunneus LI-S16は病斑面積を41.82%減少させ、合理的に設計されたStreptomyces合成微生物群集（SynCom）はほぼ完全な保護効果を示した。このSynComは、サリチル酸（SA）およびエチレン（ET）シグナル伝達の相乗的活性化、ジャスモン酸（JA）経路の抑制、ならびにカロースおよび活性酸素種（ROS）の強固な蓄積を特徴とする多層的な植物免疫をプライミングすることで、Psaを効果的に抑制した。\n                  \n                     結論\n                     総じて、本研究の知見は、フラボノイドを介した有益微生物の集合と、微生物AHLシグナル伝達による界を越えた干渉が、いかにして品種特異的な抵抗性を共同で形成するかを示しており、キウイフルーツ潰瘍病の精密な制御に向けた、SynComに基づく有望な戦略を提示するものである。\n                     \nビデオ抄録"
+  },
+  {
+    "id": "10.1111/1462-2920.70497",
+    "title": "Shrubification Has Limited Effects on Prokaryotic Communities in Northern Permafrost Regions",
+    "abstract": "There are major differences in microbial diversity and community assembly between the sub‐Arctic and the Arctic. In the sub‐Arctic, encroaching erect shrubs have an effect on microbial communities, which is mediated through their effect on soil pH. Soil type and characteristics are also important.\n\nABSTRACT\nThe northern landscape is greening due to climate change. Yet, little is known about the effect of increasingly more abundant erect shrubs on Arctic soil microbial communities, which play a crucial role in climate feedback. Soil samples were collected from soil pits with and without erect shrubs at a sub‐Arctic (Umiujaq, Quebec) and Arctic (Bylot Island, Nunavut) site in Canada. These samples were analysed for carbon density, nitrogen density, bulk density and pH, while the soil microbiome was studied using 16S rRNA metabarcoding. Both alpha and beta diversity were lower at the Arctic site compared to the sub‐Arctic site, while heterogeneous selection pressures had a greater influence on Arctic microbial community assembly processes. Additionally, soil depth and properties played a critical role in shaping the microbial communities, suggesting that both broad‐scale geographic factors and small‐scale environmental heterogeneity drive the microbiome composition and structure. Shrubs had a weak effect on microbial diversity, through their effect on soil pH. Moreover, the shrub effect varied with soil depth in the sub‐Arctic, likely due to the podzolic soils there. However, additional research is needed to understand the functions of this diverse microbial community and its role in climate feedback as the Arctic changes.\n\nThere are major differences in microbial diversity and community assembly between the sub-Arctic and the Arctic. In the sub-Arctic, encroaching erect shrubs have an effect on microbial communities, which is mediated through their effect on soil pH. Soil type and characteristics are also important.\n\nABSTRACT\nThe northern landscape is greening due to climate change. Yet, little is known about the effect of increasingly more abundant erect shrubs on Arctic soil microbial communities, which play a crucial role in climate feedback. Soil samples were collected from soil pits with and without erect shrubs at a sub-Arctic (Umiujaq, Quebec) and Arctic (Bylot Island, Nunavut) site in Canada. These samples were analysed for carbon density, nitrogen density, bulk density and pH, while the soil microbiome was studied using 16S rRNA metabarcoding. Both alpha and beta diversity were lower at the Arctic site compared to the sub-Arctic site, while heterogeneous selection pressures had a greater influence on Arctic microbial community assembly processes. Additionally, soil depth and properties played a critical role in shaping the microbial communities, suggesting that both broad-scale geographic factors and small-scale environmental heterogeneity drive the microbiome composition and structure. Shrubs had a weak effect on microbial diversity, through their effect on soil pH. Moreover, the shrub effect varied with soil depth in the sub-Arctic, likely due to the podzolic soils there. However, additional research is needed to understand the functions of this diverse microbial community and its role in climate feedback as the Arctic changes.",
+    "journal": "Environmental Microbiology",
+    "doi": "10.1111/1462-2920.70497",
+    "date": "2026-11-21",
+    "authors": "Anne Ola, \nMartial Leroy, \nLoïc Jacquemot, \nFlorent Domine, \nDaniel Fortier, \nJérôme Comte",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.70497?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "microbial",
+        "microbiome",
+        "prokaryotic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://onlinelibrary.wiley.com/feed/14622920/most-recent",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5443,
+    "collected_at": "2026-11-21T10:06:00.579932+00:00",
+    "collected_date": "2026-11-21",
+    "sources": [
+      "https://onlinelibrary.wiley.com/feed/14622920/most-recent"
+    ],
+    "first_seen": "2026-11-21",
+    "related_dois": [
+      "10.1111/1462-2920.70497"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9391cb97ed4d6ed9d364e5c4e1d2a0e7a58a9b68b51cdab791741a205c055dbc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T10:32:01.638217+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b1450498aa726b2f1695e050eb5ac9d65a757f9e8af0dda8257807b3f2c1266a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T10:32:01.638217+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "北方永久凍土地域の原核生物群集に対する低木化の影響は限定的である",
+    "abstract_ja": "亜北極圏と北極圏では、微生物多様性と群集形成に顕著な差異が見られる。亜北極圏では、侵入してきた直立低木が微生物群集に影響を及ぼしており、その作用は土壌pHへの影響を介している。また、土壌の種類および特性も重要である。\n\n要旨\n気候変動により、北方の景観は緑化が進んでいる。しかし、気候フィードバックにおいて極めて重要な役割を果たす北極圏の土壌微生物群集に対し、ますます繁茂する直立低木がどのような影響を及ぼすかについては、ほとんど解明されていない。カナダの亜北極圏（ケベック州ウミウジャック）および北極圏（ヌナブト準州バイロット島）の地点において、直立低木の有無による土壌ピットから土壌試料を採取した。これらの試料について、炭素密度、窒素密度、かさ密度、およびpHを分析するとともに、16S rRNAメタバーコーディングを用いて土壌マイクロバイオームを解析した。亜北極圏の地点と比較して、北極圏の地点ではα多様性とβ多様性の双方が低く、また、不均一な選択圧が北極圏の微生物群集形成プロセスにより強い影響を及ぼしていた。さらに、土壌の深さと特性が微生物群集の形成に決定的な役割を果たしており、広域的な地理的要因と小規模な環境不均一性の双方が、マイクロバイオームの組成と構造を駆動していることが示唆された。低木が微生物多様性に及ぼす影響は、土壌pHへの影響を通じて限定的であった。また、亜北極圏では低木の影響が土壌の深さによって異なっており、これは現地のポドゾル土壌に起因する可能性が高い。しかし、北極圏の変化に伴い、この多様な微生物群集の機能および気候フィードバックにおける役割を理解するためには、さらなる研究が必要である。\n\n亜北極圏と北極圏では、微生物多様性と群集形成に顕著な差異が見られる。亜北極圏では、侵入してきた直立低木が微生物群集に影響を及ぼしており、その作用は土壌pHへの影響を介している。また、土壌の種類および特性も重要である。\n\n要旨\n気候変動により、北方の景観は緑化が進んでいる。しかし、気候フィードバックにおいて極めて重要な役割を果たす北極圏の土壌微生物群集に対し、ますます繁茂する直立低木がどのような影響を及ぼすかについては、ほとんど解明されていない。カナダの亜北極圏（ケベック州ウミウジャック）および北極圏（ヌナブト準州バイロット島）の地点において、直立低木の有無による土壌ピットから土壌試料を採取した。これらの試料について、炭素密度、窒素密度、かさ密度、およびpHを分析するとともに、16S rRNAメタバーコーディングを用いて土壌マイクロバイオームを解析した。亜北極圏の地点と比較して、北極圏の地点ではα多様性とβ多様性の双方が低く、また、不均一な選択圧が北極圏の微生物群集形成プロセスにより強い影響を及ぼしていた。さらに、土壌の深さと特性が微生物群集の形成に決定的な役割を果たしており、広域的な地理的要因と小規模な環境不均一性の双方が、マイクロバイオームの組成と構造を駆動していることが示唆された。低木が微生物多様性に及ぼす影響は、土壌pHへの影響を通じて限定的であった。また、亜北極圏では低木の影響が土壌の深さによって異なっており、これは現地のポドゾル土壌に起因する可能性が高い。しかし、北極圏の変化に伴い、この多様な微生物群集の機能および気候フィードバックにおける役割を理解するためには、さらなる研究が必要である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "review-article",
+      "review",
+      "journal article"
+    ],
+    "id": "10.3389/fmicb.2026.1989293",
+    "title": "6-pentyl-2H-pyran-2-one: from a fungal volatile metabolite to an ecological signaling hub for sustainable crop protection.",
+    "abstract": "6-Pentyl-2H-pyran-2-one (6-PP) is a characteristic volatile secondary metabolite produced by Trichoderma species and was initially studied for its coconut-like odor and antifungal activity. Recent studies have revealed that 6-PP has broader roles in fungal ecology, influencing pathogen interactions, plant responses, and associated microbial communities. Here, we summarize recent advances in 6-PP biology, focusing on four aspects: the evolution of its biosynthetic model, the regulation of its production, its ecological functions, and its potential applications in crop protection. The discovery of the Pks1-mediated pathway has revised previous views based mainly on fatty acid metabolism and provided genetic evidence for 6-PP biosynthesis. We further discuss how environmental signals, intracellular signaling pathways, transcriptional regulators, chromatin modification, and metabolic states collectively influence 6-PP production. At the ecological level, 6-PP acts as a signaling molecule that affects pathogen fitness, plant growth and defense responses, and plant-associated microbiome assembly. Finally, we highlight strategies for translating 6-PP biology into agricultural applications through strain engineering, controlled-release formulations, and microbial consortium-based biocontrol. Key challenges include elucidating downstream biosynthetic steps, identifying plant perception mechanisms, clarifying the ecological effects of 6-PP on microbial communities, and validating its efficacy under field conditions. Addressing these knowledge gaps will advance our understanding of 6-PP as a potential ecological signaling molecule and support the development of sustainable crop protection strategies.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1989293",
+    "date": "2026-11-03",
+    "authors": "Wang S, Liu H, Zhang C, Zhang X, Wang X, Zhou Y, Chen J, Li Y.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43047648",
+    "preprint": false,
+    "review": true,
+    "pmcid": "PMC13774527",
+    "pmid": "43047648",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungal",
+        "microbial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "evolution",
+          "transcript"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 5315,
+    "collected_at": "2026-11-21T09:55:27.385518+00:00",
+    "collected_date": "2026-11-21",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-21",
+    "related_dois": [
+      "10.3389/fmicb.2026.1989293"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f32d9b684c552edafd154248762fe497e2cbce388e47913437c7346df785cf66",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T10:32:01.638217+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6a4dd984946e64bb4759898cbaefad8eabf98167a4e7b6d97626a62c7b2bc4bf",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T10:32:01.638217+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "6-ペンチル-2H-ピラン-2-オン：真菌の揮発性代謝物から持続可能な作物保護のための生態学的シグナル伝達ハブへ。",
+    "abstract_ja": "6-ペンチル-2H-ピラン-2-オン（6-PP）は、トリコデルマ属菌によって産生される特徴的な揮発性二次代謝物であり、当初はそのココナッツ様の臭気と抗真菌活性について研究されていた。近年の研究により、6-PPは真菌生態学においてより広範な役割を担い、病原体との相互作用、植物の応答、および関連する微生物群集に影響を及ぼすことが明らかになっている。本稿では、6-PPの生合成モデルの進化、産生調節、生態学的機能、および作物保護への潜在的応用という4つの側面に焦点を当て、6-PP生物学における最近の進展をまとめる。Pks1介在性経路の発見は、主に脂肪酸代謝に基づいていた従来の見解を改め、6-PP生合成の遺伝学的根拠を提示した。さらに、環境シグナル、細胞内シグナル伝達経路、転写調節因子、クロマチン修飾、および代謝状態が、どのように相乗的に6-PP産生に影響を与えるかについて考察する。生態学的レベルでは、6-PPは病原体の適応度、植物の成長と防御応答、および植物関連マイクロバイオームの構築に影響を及ぼすシグナル伝達分子として機能する。最後に、系統工学、徐放性製剤、および微生物コンソーシアムに基づく生物的防除を通じて、6-PPの生物学を農業応用へと転換するための戦略を強調する。主要な課題としては、下流の生合成段階の解明、植物の認識機構の特定、微生物群集に対する6-PPの生態学的影響の明確化、および圃場条件下での有効性の検証が挙げられる。これらの知見の空白を埋めることは、潜在的な生態学的シグナル伝達分子としての6-PPに対する理解を深め、持続可能な作物保護戦略の開発を支援することにつながる。"
+  },
+  {
+    "id": "10.1186/s13059-026-04341-2",
+    "title": "Using gene co-expression graph topological fingerprints to enhance pathway activity scoring via xGATE",
+    "abstract": "Quantifying pathway activity in single-cell and spatial omics is error-prone when methods ignore how genes wire together. We present xGATE, a topology-aware pathway-scoring framework that reads activity from the topological fingerprints of gene co-expression graphs. xGATE summarizes graph structure into embeddings and calibrates significance against a random-subgraph null, yielding interpretable p-values and continuous effect sizes. Across diverse omics datasets, xGATE outperforms marginal-expression and correlation-counting methods, recovering known active pathways and capturing dynamics that elude gene markers. xGATE yields mechanistic pathway readouts across tissues and platforms.",
+    "journal": "Genome Biology",
+    "doi": "10.1186/s13059-026-04341-2",
+    "date": "2026-11-21",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s13059-026-04341-2",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "framework",
+          "gene"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=13059",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5445,
+    "collected_at": "2026-11-21T10:06:00.579932+00:00",
+    "collected_date": "2026-11-21",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=13059"
+    ],
+    "first_seen": "2026-11-21",
+    "related_dois": [
+      "10.1186/s13059-026-04341-2"
+    ],
+    "translation": {
+      "title": {
+        "hash": "760e156803ce8e03774bd502576e3c3d952dc76fda79c3ae694217bfa218c468",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T10:32:01.638217+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4291bf27848118b49d7f6beef0de4c6498301a88121ac5714860c75fecb8d649",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T10:32:01.638217+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "遺伝子共発現グラフのトポロジカルフィンガープリントを用いたxGATEによるパスウェイ活性スコアリングの高度化",
+    "abstract_ja": "シングルセルおよび空間オミクスにおけるパスウェイ活性の定量化は、遺伝子間の相互作用を無視した手法を用いると誤差が生じやすい。本稿では、遺伝子共発現グラフのトポロジー・フィンガープリントから活性を読み取る、トポロジー認識型パスウェイスコアリングフレームワーク「xGATE」を提案する。xGATEはグラフ構造を埋め込み表現に集約し、ランダム部分グラフのヌル分布に対して有意性を較正することで、解釈可能なp値と連続的な効果量を算出する。多様なオミクスデータセットにおいて、xGATEは周辺発現解析や相関カウント法を凌駕し、既知の活性パスウェイを復元するとともに、遺伝子マーカーでは捉えきれない動態を捉える。xGATEは、組織やプラットフォームを横断してメカニズム的なパスウェイリードアウトを実現する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1371/journal.pone.0362260",
+    "title": "PIP5K isoforms and phosphoinositide molecular species in EGF-stimulated PIP3 synthesis: A multi-method approach using enzyme genetic suppression and chemical inhibition in MCF10A cells.",
+    "abstract": "The membrane phospholipid PI(4,5)P2 has structural functions and is a substrate for PLC and PI3K enzymes to generate Ins(1,4,5)P3, DAG and PI(3,4,5)P3 signals. PIP5Ks, that 5-phosphorylate PI4P, are the major source of PI(4,5)P2 in mammalian cells. Current thinking suggests distinct pools of PI(4,5)P2 may be differentially generated by PIP5Kα, β and γ isoforms and involved in different physiological functions. Phosphoinositides are comprised of families of acyl-chain variants but are uniquely enriched in C38:4 species. There is evidence that PIP5Ks are selective for certain acyl chain species of PI(4)P. We aimed to understand how inhibition of PIP5Ks impacts PIP3 production and whether they differentially support synthesis of a pool of PI(4,5)P2, that may be marked by a distinct profile of molecular species variants, which supply class I PI3Ks in a non-transformed human cell line (MCF10A cells). Using a combination of siRNA, Cas9/CRISPR-mediated gene knockout (k/o), recently derived selective, small-molecule inhibitors of PIP5Ks and mass-spectrometry-based lipidomic techniques, we attempted to address these questions. We found that MCF10A cells only express PIP5Kα and γ and that neither siRNA-mediated reduction nor k/o of either protein changed the levels or acyl chain profiles of any of the phosphoinositides in Epidermal Growth Factor- (EGF) stimulated MCF10A cells. We found that selective PIP5K inhibition reduced levels of PIP2 and EGF-stimulated PIP3 and increased levels of PIP, however, the acyl-chain-profiles of none of these lipids were significantly altered in MCF10A cells. We found EGF-stimulated Akt, EGF Receptor (EGFR) and MAPK phosphorylation were also reduced by PIP5K inhibitors in this cell line. To deconvolute these results, we tested the impact of a selective PI3Kα inhibitor (A66) and found it inhibited PIP3 accumulation and Akt phosphorylation and reduced MAPK phosphorylation but was without effect on total EGFR or its phosphorylation, suggesting some cross-talk between EGF-stimulated activation of class I PI3K and MAPKs in MCF10A cells.",
+    "journal": "PLOS ONE",
+    "doi": "10.1371/journal.pone.0362260",
+    "date": "2026-11-05",
+    "authors": "Alexandrou I, Flemington V, Swarbrick ME, Cosulich S, Hawkins PT, Stephens LR.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42986876",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13739171",
+    "pmid": "42986876",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "gene",
+        "genetic",
+        "method"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "gene",
+          "genetic",
+          "method"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5297,
+    "collected_at": "2026-11-21T09:55:27.385518+00:00",
+    "collected_date": "2026-11-21",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-21",
+    "related_dois": [
+      "10.1371/journal.pone.0362260"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5f5ab19f5a10fde59faea23fdf9acd860222f19a87b6e4cf3d3bfe29ed03a560",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T10:32:01.638217+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "eba4180191ec1c3e63e6252407d240acbafafa4ade9b19a5c7deb884f1c9b868",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T10:32:01.638217+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "EGF刺激によるPIP3合成におけるPIP5Kアイソフォームおよびホスホイノシチド分子種：MCF10A細胞を用いた酵素遺伝学的抑制および化学的阻害による多手法的アプローチ",
+    "abstract_ja": "膜リン脂質PI(4,5)P2は構造的機能を有し、PLCおよびPI3K酵素がIns(1,4,5)P3、DAG、およびPI(3,4,5)P3シグナルを生成するための基質となる。PI4Pを5-リン酸化するPIP5Ksは、哺乳類細胞におけるPI(4,5)P2の主要な供給源である。現在の知見では、PI(4,5)P2の異なるプールがPIP5Kα、β、およびγアイソフォームによってそれぞれ異なる様式で生成され、それぞれ異なる生理学的機能に関与している可能性が示唆されている。ホスホイノシチドはアシル鎖変異体のファミリーで構成されているが、特にC38:4種に豊富に存在する。PIP5KsがPI(4)Pの特定のアシル鎖種を選択的に標的とする証拠がある。我々は、PIP5Ksの阻害がPIP3の産生にどのような影響を及ぼすか、また、非形質化ヒト細胞株（MCF10A細胞）においてクラスI PI3Ksを供給し、明確な分子種変異体プロファイルによって特徴づけられる可能性のあるPI(4,5)P2プールの合成を、これらがそれぞれ異なる様式で支持しているかどうかを解明することを目的とした。siRNA、Cas9/CRISPR介在性遺伝子ノックアウト（k/o）、近年開発された選択的低分子PIP5K阻害剤、および質量分析法に基づくリピドミクス技術を組み合わせて、これらの疑問に取り組む試みを行った。その結果、MCF10A細胞はPIP5Kαおよびγのみを発現しており、いずれのタンパク質のsiRNA介在性還元またはk/oによっても、上皮成長因子（EGF）刺激下のMCF10A細胞におけるホスホイノシチドのレベルやアシル鎖プロファイルに変化は認められないことが判明した。また、選択的なPIP5K阻害により、PIP2およびEGF刺激によるPIP3のレベルが低下し、PIPのレベルが上昇したが、これらの脂質のアシル鎖プロファイルはいずれもMCF10A細胞において有意に変化しなかった。さらに、この細胞株において、EGF刺激によるAkt、EGF受容体（EGFR）、およびMAPKのリン酸化もPIP5K阻害剤によって低下することが認められた。これらの結果を詳細に解析するため、選択的PI3Kα阻害剤（A66）の影響を検討したところ、本剤はPIP3の蓄積とAktのリン酸化を阻害し、MAPKのリン酸化を低下させたが、総EGFRまたはそのリン酸化には影響を及ぼさなかった。このことは、MCF10A細胞におけるクラスI PI3KおよびMAPKのEGF刺激による活性化の間に、何らかの相互作用が存在することを示唆している。"
   }
 ]
