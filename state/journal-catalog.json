@@ -1963,6 +1963,13 @@
     ]
   },
   {
+    "name": "Clinical parkinsonism & related disorders",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Clinical pharmacokinetics",
     "scope": [
       "genomics",
@@ -2589,6 +2596,13 @@
   },
   {
     "name": "EJHaem",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "EJNMMI physics",
     "scope": [
       "genomics",
       "microbiology"
@@ -4698,6 +4712,13 @@
     ]
   },
   {
+    "name": "Journal of dentistry",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Journal of drug targeting",
     "scope": [
       "genomics",
@@ -5294,6 +5315,13 @@
   },
   {
     "name": "Journal of pharmaceutical and biomedical analysis",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Journal of pharmacokinetics and pharmacodynamics",
     "scope": [
       "genomics",
       "microbiology"
