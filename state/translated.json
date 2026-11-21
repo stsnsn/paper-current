@@ -313943,5 +313943,328 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "SOUR：空間系統追跡データにおける腫瘍内不均一性への遺伝的要因と微小環境要因の分離",
     "abstract_ja": "腫瘍内不均一性は治療抵抗性の主要な要因であると仮説立てられているが、これを生じさせるプロセスについては部分的にしか解明されていない。新たな技術により、個々の腫瘍細胞における遺伝子発現の測定が可能になるとともに、細胞が腫瘍内のどこに位置し、細胞分裂を通じてどのように関連しているかを特定することも可能となった。こうしたデータにおける中心的な問いは、遺伝子発現の差異が、局所的な環境からの影響ではなく、親細胞から子孫細胞へと受け継がれた特性をどの程度反映しているかという点である。近縁な細胞はしばしば互いに近接して存在するため、これらの影響を区別することは困難である。既存の手法では、遺伝子発現とこれらの各要因との関係を個別に検討するため、空間的な影響を祖先系統に、あるいは遺伝的な影響を空間的な位置に誤って帰属させてしまうことがある。本研究では、細胞の祖先系統と空間的位置の両方を用いて、遺伝子発現の差異に対するそれぞれの寄与度を推定する統計的手法SOURを提案する。シミュレーションデータと2つの空間的系統追跡データセットを用いて、SOURが遺伝子発現の変動に対する細胞の祖先系統と空間的位置の個別の寄与度を推定でき、同時に既存の手法で観察される交絡因子を大幅に低減できることを実証する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1016/j.isci.2026.118153",
+    "title": "Ion regulatory mechanisms supporting hypersaline tolerance in the coastal rock pool mosquito <i>Aedes togoi</i>.",
+    "abstract": "The coastal rock pool mosquito, Aedes togoi, is a remarkable example of a saline-tolerant mosquito. While most mosquitoes are obligate freshwater breeders, Ae. togoi larvae and pupae inhabit coastal rock pools that span freshwater to hypersaline conditions. We explore the ability of Ae. togoi larvae to tolerate hypersaline conditions by profiling the salt gland, an ion regulatory nexus within an anatomically unique, elaborated anal canal. We present a de-novo chromosome-scale genome assembly for Ae. togoi, highlighting its relatively small genome size and differences in chromosomal structure as compared to other Aedine mosquitoes. We detail repeat content and curate key multi-gene families encoding ion-transport proteins enriched in the larval salt gland, building a model of the machinery that likely facilitates hyperosmotic urine formation. Our work provides insights into molecular and anatomical adaptations that underpin the ability of mosquitoes and other insects to thrive in hypersaline rock pools and other dynamic environments.",
+    "journal": "iScience",
+    "doi": "10.1016/j.isci.2026.118153",
+    "date": "2026-11-07",
+    "authors": "Chiang J, Khodikian E, Phelan O, Parra AK, Peach DAH, Durant AC, Matthews BJ.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43034830",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13769471",
+    "pmid": "43034830",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "assembly",
+        "genome"
+      ],
+      "context": {
+        "marine": [
+          "freshwater"
+        ],
+        "genomics": [
+          "assembly",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5269,
+    "collected_at": "2026-11-21T02:12:50.375049+00:00",
+    "collected_date": "2026-11-21",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-21",
+    "related_dois": [
+      "10.1016/j.isci.2026.118153"
+    ],
+    "translation": {
+      "title": {
+        "hash": "50e0b3ba8b2d1343704e22b8800617b6bbbbda5cfbbd3bc1e8406265beb3ac8d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T02:44:57.686867+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9afbef74b13dd1836ae6e70056479d002d45c233814e0d82a716ceeea2de477b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T02:44:57.686867+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "沿岸域の岩礁池に生息する蚊<i>Aedes togoi</i>における高塩分耐性を支えるイオン調節機構",
+    "abstract_ja": "沿岸の岩礁池に生息する蚊であるAedes togoiは、塩水耐性を持つ蚊の顕著な例である。ほとんどの蚊は淡水のみで繁殖するが、Ae. togoiの幼虫および蛹は、淡水から超塩水条件にわたる沿岸の岩礁池に生息している。本研究では、解剖学的に特異で精巧な肛門管内にあるイオン調節機構である塩腺の特性解析を通じて、Ae. togoiの幼虫が超塩水条件に耐える能力について検討する。我々は、Ae. togoiのデノボ染色体スケールのゲノムアセンブリを提示し、比較的小さなゲノムサイズと、他のヤブカ科の蚊と比較した際の染色体構造の相違を明らかにする。さらに、反復配列の詳細を明らかにするとともに、幼虫の塩腺に豊富に存在するイオン輸送タンパク質をコードする主要な多遺伝子ファミリーを同定し、超浸透圧尿の形成を促進すると考えられる機構のモデルを構築する。本研究は、蚊やその他の昆虫が超塩水の岩礁池やその他の動的な環境で生存できる基盤となる、分子および解剖学的適応に関する知見を提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1016/j.isci.2026.118137",
+    "title": "Adaptive gating-based fusion of sequential and local features for predicting drug-drug interactions.",
+    "abstract": "Accurate prediction of drug-drug interactions (DDIs) is important for reducing risks associated with polypharmacy and adverse drug reactions. To overcome the limitations of experimental methods, we present AGSL-DDI, an end-to-end framework that learns interaction representations directly from SMILES sequences. Character-level embeddings are processed in parallel by a bidirectional long short-term memory network and a one-dimensional convolutional neural network to capture complementary global sequential dependencies and local chemical patterns. An adaptive gating mechanism dynamically integrates these features, while bidirectional multi-head cross-attention models fine-grained interactions between paired drugs. On the BioSNAP and DrugBank datasets, AGSL-DDI achieved AUROC values of 0.9852 and 0.9816 and AUPR values of 0.9837 and 0.9818, respectively. These results show that coordinated global-local representation learning and cross-drug interaction modeling can effectively characterize DDI patterns, providing a practical computational approach for medication risk screening and drug development.",
+    "journal": "iScience",
+    "doi": "10.1016/j.isci.2026.118137",
+    "date": "2026-11-06",
+    "authors": "Dai G, Luo T, Lin T, Fan L, Wei Q, Wang F.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43034682",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13769069",
+    "pmid": "43034682",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "method",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "framework",
+          "method",
+          "sequence"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5274,
+    "collected_at": "2026-11-21T02:12:50.375049+00:00",
+    "collected_date": "2026-11-21",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-21",
+    "related_dois": [
+      "10.1016/j.isci.2026.118137"
+    ],
+    "translation": {
+      "title": {
+        "hash": "23eb90ca0205fabcbed7f7d061d82358b2c3ba7c7486aa8feec2f71a3bbe0aa5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T02:44:57.686867+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a4279b92e037d552802b91ad6aff7871a410f7594e13556131745ef2a2c27b09",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T02:44:57.686867+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "薬物相互作用予測のための、逐次的特徴量と局所的特徴量の適応的ゲーティングに基づく融合",
+    "abstract_ja": "薬物相互作用（DDI）の正確な予測は、多剤併用に伴うリスクや薬物有害反応を軽減する上で重要である。実験的手法の限界を克服するため、本研究では、SMILES配列から直接相互作用表現を学習するエンドツーエンドフレームワーク「AGSL-DDI」を提案する。文字レベルの埋め込み表現は、双方向長短期記憶ネットワークと1次元畳み込みニューラルネットワークによって並列に処理され、相補的な大域的逐次依存性と局所的な化学パターンを捉える。適応型ゲーティング機構がこれらの特徴量を動的に統合し、双方向マルチヘッドクロスアテンションモデルがペアとなる薬物間の精緻な相互作用を捉える。BioSNAPおよびDrugBankデータセットにおいて、AGSL-DDIはそれぞれ0.9852および0.9816のAUROC値、ならびに0.9837および0.9818のAUPR値を達成した。これらの結果は、協調的な大域的・局所的表現学習と薬物間相互作用モデリングがDDIパターンを効果的に特徴づけられることを示しており、薬剤リスクスクリーニングおよび創薬のための実用的な計算手法を提供するものである。"
+  },
+  {
+    "id": "10.64898/2026.11.19.767948",
+    "title": "Precision Fermentation Gets a New Player: Genome Assembly and Genetic Transformation of a Novel Strain, Pichia hangzhouana, for Precision Fermentation of Food Ingredients",
+    "abstract": "Precision fermentation leverages the metabolic pathways of microorganisms to produce valuable proteins and enzymes. Pichia hangzhouana, synonymous with Zygoascus hellenicus, is a non-conventional yeast with potential for food biotechnological applications. This study characterizes the CSIRO strain P. hangzhouana FRR5246, isolated from a tea beverage, to evaluate its suitability as a precision fermentation host for a variety of industrial, agricultural and food production applications. P. hangzhouana demonstrated robust growth across a range of carbon sources, with the highest optical density observed in media containing sucrose or sorbitol as sole carbon source. The yeast showed susceptibility to geneticin, hygromycin B, nourseothricin sulfate, and zeocin sulfate antibiotic agents. Successful genetic transformation was achieved, with the expression of a recombinant orange fluorescent protein (OFP) under the control of the native glyceraldehyde-3-phosphate dehydrogenase (GAP1) promoter. The secretome exhibited strong antimicrobial activity against Escherichia coli and Staphylococcus aureus, indicating the presence of potent antimicrobial compounds. In addition, whole genome sequencing of P. hangzhouana FRR5246 provided genetic tools for recombinant expression of heterologous genes, insight into the genes, genetic architecture and regulatory mechanisms underlying phenotypic qualities, as well as confirming phylogenetic classification of this strain as clustering with the Dipodascomycetes, most closely related to species Zygoascus hellenicus. P. hangzhouana FRR5246 is a promising candidate for precision fermentation of food ingredients, capable of utilizing diverse carbon sources and producing recombinant proteins. In addition, production of antimicrobial compounds further enhances the potential for biotechnological exploitation. Future work will focus on optimizing growth conditions and exploring native inducible promoters for controlled gene expression.",
+    "journal": "",
+    "doi": "10.64898/2026.11.19.767948",
+    "date": "2026-11-20",
+    "authors": "Karimian, P., Johnston, E., Vafadarshamasbi, U., Afshari, R., Bachler, A., Mead, O., Boer, P., Hands, P., Hlaing, M. M., McAuley, C. M., Kasprzak, A., Liu, J.-W., Vanhercke, T., Hartley, C. J.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.19.767948v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "assembly",
+        "gene",
+        "genetic",
+        "genome",
+        "microorganism",
+        "microorganisms",
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "genom",
+          "genome",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5439,
+    "collected_at": "2026-11-21T02:23:23.634265+00:00",
+    "collected_date": "2026-11-21",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-21",
+    "related_dois": [
+      "10.64898/2026.11.19.767948"
+    ],
+    "translation": {
+      "title": {
+        "hash": "423a6038bc3755e2187ff76d62b0b6aabe888ab3f8dba2dc1bdbd2ce87f0c7da",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T02:44:57.686867+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a7f33e3f079e19721ac3390b85decd695eb059a996f8e633e0aabc34000145ac",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T02:44:57.686867+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "精密発酵に新たなプレーヤー：食品原料の精密発酵に向けた新規菌株Pichia hangzhouanaのゲノム構築と遺伝子形質転換",
+    "abstract_ja": "精密発酵は、微生物の代謝経路を利用して、有用なタンパク質や酵素を産生するものである。Zygoascus hellenicusのシノニムであるPichia hangzhouanaは、食品バイオテクノロジーへの応用可能性を秘めた非従来型酵母である。本研究では、茶飲料から単離したCSIRO株P. hangzhouana FRR5246の特性解析を行い、多様な工業・農業・食品生産用途における精密発酵宿主としての適性を評価する。P. hangzhouanaは、広範な炭素源に対して旺盛な増殖を示し、唯一の炭素源としてスクロースまたはソルビトールを含む培地において最高の光学密度が観察された。本酵母は、遺伝的変換剤であるハイグロマイシンB、ノウルセオトリシン硫酸塩、およびゼオシン硫酸塩に対して感受性を示した。天然のグリセルアルデヒド-3-リン酸脱水素酵素（GAP1）プロモーターの制御下で、組換えオレンジ色蛍光タンパク質（OFP）の発現を伴う遺伝子形質転換に成功した。セクレトームはEscherichia coliおよびStaphylococcus aureusに対して強い抗菌活性を示し、強力な抗菌化合物の存在が示唆された。さらに、P. hangzhouana FRR5246の全ゲノム配列解析により、異種遺伝子の組換え発現のための遺伝学的ツールが提供されたほか、表現型特性の根底にある遺伝子、遺伝的構造、および調節機構に関する知見が得られた。また、本株がDipodascomycetes門に分類され、Zygoascus hellenicusに最も近縁であることが確認された。P. hangzhouana FRR5246は、多様な炭素源を利用し組換えタンパク質を産生できる、食品原料の精密発酵における有望な候補である。加えて、抗菌化合物の産生は、バイオテクノロジー的利用の可能性をさらに高めるものである。今後の研究では、増殖条件の最適化および、制御された遺伝子発現のための天然誘導性プロモーターの探索に注力する。"
+  },
+  {
+    "id": "10.64898/2026.11.19.767971",
+    "title": "Two novel plant-derived yeast species in Thailandicola (Microbotryomycetes): comparative genomics and transformation",
+    "abstract": "Plant tissues and surfaces are among the largest microbial habitats on Earth, and commensal yeasts are common members of these communities, where they can contribute to plant-microbe interactions including the biological control of plant diseases. Here, we describe two novel species of unpigmented, basidiomycete yeasts, in the class Microbotryomycetes from the plant phyllosphere (Thailandicola erigeronia and T. cardamina) represented by three isolates from leaves of multiple hosts. We characterize these taxa through analyses of metabolic requirements, tolerance to differences in osmolarity, pH, and temperature, and enzymatic activities. In parallel, we generate near-chromosome-scale hybrid genomes annotated with transcriptome data for these novel species and a congenic isolate. We employ whole-genome and multilocus phylogenetic approaches to infer the placement of these species within a monophyletic clade. We use comparative genomics to examine how the gene content of these yeasts differs from that of other members of the Microbotryomycetes, including an apparent proliferation of retrotransposons. We further demonstrate the genetic transformability of these taxa using Agrobacterium tumefaciens-mediated transformation. The description of these new species, together with high-quality genome resources and a genetic transformation protocol, establishes a foundation for experimental studies of these novel plant-derived yeasts and their interactions with hosts and other microbes.",
+    "journal": "",
+    "doi": "10.64898/2026.11.19.767971",
+    "date": "2026-11-20",
+    "authors": "Liber, J. A., He, S. Y., Coelho, M. A.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.19.767971v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbe",
+        "microbes",
+        "microbial",
+        "yeast",
+        "yeasts"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenetic",
+          "transcript"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5440,
+    "collected_at": "2026-11-21T02:23:23.634265+00:00",
+    "collected_date": "2026-11-21",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-21",
+    "related_dois": [
+      "10.64898/2026.11.19.767971"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7ce00b385935e445a7deba88545da45875aacc862ab442c658f2c74bc1c457b8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T02:44:57.686867+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3227004082e0fa91519bec192bdc476bacfcc061e93a68530469d9b669e64946",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T02:44:57.686867+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "タイにおける植物由来の2種の新規酵母（Microbotryomycetes）：比較ゲノミクスと形質転換",
+    "abstract_ja": "植物組織および表面は、地球上で最大規模の微生物生息地の一つであり、共生酵母はこれらの群集の一般的な構成員として、植物病害の生物学的制御を含む植物と微生物の相互作用に寄与している。本研究では、植物葉圏に生息するミクロボトリomycetes綱の、色素を持たない担子菌類酵母の2つの新種（Thailandicola erigeroniaおよびT. cardamina）について、複数の宿主の葉から得られた3つの分離株を用いて報告する。我々は、代謝要求性、浸透圧・pH・温度の差異に対する耐性、および酵素活性の解析を通じて、これらの分類群の特性を明らかにする。並行して、これらの新種および同系分離株について、トランスクリプトームデータがアノテーションされた染色体スケールに近いハイブリッドゲノムを構築する。全ゲノム解析およびマルチローカス系統解析手法を用いて、これらの種が単系統群内においてどのような位置にあるかを推定する。比較ゲノミクスを用いて、これらの酵母の遺伝子構成がミクロボトリomycetes綱の他のメンバーとどのように異なるかを検討し、レトロトランスポゾンの顕著な増殖を確認した。さらに、Agrobacterium tumefaciensを介した形質転換を用いて、これらの分類群の遺伝的形質転換能を実証する。これらの新種の記載は、高品質なゲノムリソースおよび遺伝的形質転換プロトコルとともに、これら新規の植物由来酵母と、宿主および他の微生物との相互作用に関する実験的研究の基盤となるものである。"
   }
 ]
