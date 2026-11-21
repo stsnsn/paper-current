@@ -316154,5 +316154,315 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ヒト脳動脈における加齢に伴う蛇行のメカニズムとしての成長駆動型機械的座屈",
     "abstract_ja": "ヒトの脳動脈は加齢に伴い次第に、時には異常に蛇行するようになるが、この変化の力学的基盤については未だ十分に解明されていない。動脈の屈曲がどのように形成され、その間隔を決定づける要因は何かを検証するため、我々は脳動脈を周囲組織に支持された細長い弾性血管としてモデル化した。血管の両端間の距離は一定であり、血管は脳表面に接する平面内でのみ屈曲できる。自然な長さが増すにつれて軸方向の圧縮が蓄積し、最終的に血管は座屈する。屈曲によって圧縮が部分的に緩和され、伸長が続くにつれて生じる波の振幅が増大する。動脈の屈曲剛性と組織による支持が波長を決定し、この波長は血管径よりもはるかに大きく、かつ血管径に比例し、他のパラメータへの依存性は比較的弱い。数値シミュレーションにより、座屈前の段階、波の急速な増幅、および伸長継続に伴う座屈後の緩やかな増大が捉えられた。我々は、健常成人の磁気共鳴血管造影から再構築した脳動脈の三次元中心線を用いて、これらの予測を検証した。加齢に伴い、動脈長および過剰長比が増大することが認められた。脳表面に対して概ね平行な方向を向く動脈波の場合、波長は血管径とともに増大した。この関係および観察された波長対血管径比は、いずれもモデルの予測と一致していた。しかし、波の振幅は年齢と有意な関連を示さなかった。総じて、モデリングおよびイメージングの結果は、空間的制約下における成長駆動型の座屈および座屈後の変形が、加齢に伴う脳動脈の蛇行に対する妥当な力学的説明であることを支持している。この枠組みは、血管の老化を成長駆動型の不安定性とパターン形成に結びつけるものであり、脳以外の病変動脈への応用も期待できる。意義：なぜ脳動脈が加齢とともに次第に蛇行するのかについては、未だ十分に解明されていない。我々は、制約を受けた動脈の伸長が圧縮を生じさせ、座屈へと導くという最小限の力学的枠組みを提示する。屈曲は圧縮を緩和し、継続的な伸長はさらなる変形を促進する。本モデルは、動脈の屈曲剛性と周囲組織の支持が、血管径に比例する波長を決定すると予測する。健常成人のイメージングにより、高齢期において動脈の過剰長比が高くなることが明らかになり、血管径および波長対血管径比に比例する波長のスケーリングという予測が裏付けられた。これらの知見は、血管の老化を成長駆動型の不安定性とパターン形成に結びつけるものである。脳以外においても、本モデルを拡張することで、血管の特性、壁の幾何学的形状、および力学的条件が、正常および病的な動脈をどのように形成するかを予測できる可能性がある。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11272234/v1",
+    "title": "Categorical Versus Continuous Encoding of Routine CSF Variables for Diagnosing Tuberculous Meningitis: Development in Iran and External Validation in Peru",
+    "abstract": "Abstract  Background  Diagnostic scores for tuberculous meningitis (TBM) based on routine cerebrospinal fluid (CSF) measurements often perform inconsistently across settings. We assessed whether representing routine CSF measurements as fixed, clinically motivated categories, rather than continuous values, may improve the transportability of a TBM diagnostic score across countries. Methods  From four routine CSF variables (white cell count, protein, protein to glucose ratio, lymphocyte percentage), we developed a continuous logistic model and an integer score with fixed cut points in an Iranian cohort (69 TBM, 70 controls). Both were locked and evaluated without refitting in a Peruvian cohort (40 TBM; 62 bacterial, cryptococcal, or viral meningitis; mononuclear cell percentage replacing lymphocyte percentage), using harmonized multiple imputation; the study was reported according to TRIPOD + AI. Results  In Iranian cross validation, discrimination was similar (AUC 0.822, 95% CI 0.744 to 0.886, continuous; 0.821, categorical). In Peru, the AUC was 0.583 (95% CI 0.473 to 0.691) for the continuous and 0.699 (95% CI 0.599 to 0.794) for the categorical score (paired difference 0.116, 95% CI 0.048 to 0.182); a three-predictor continuous model did not perform better (0.553). The advantage was evident against bacterial but not cryptococcal or viral meningitis. Calibration slopes were 0.471 (95% CI 0.163 to 0.779) and 0.150, both well below 1. Neither model discriminated well between TBM and neurobrucellosis (apparent AUC 0.71 and 0.66). Both cohorts were smaller than required (385 and 581). Conclusions  In one external cohort, fixed categories showed higher discrimination than continuous values, but absolute discrimination was modest, results varied across mimics, and encoding was not isolated from other differences between the models. Fixed categories may improve transportability, but these findings are preliminary and warrant confirmation in larger, prospective, multicountry cohorts.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11272234/v1",
+    "date": "2026-11-05",
+    "authors": "Naderi HR, Zolfaghari V, Rezayian MK, Mirzaei HR, Sheybani F, Haddad M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1359193",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "method",
+        "protein",
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "method",
+          "protein"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5302,
+    "collected_at": "2026-11-21T09:55:27.385518+00:00",
+    "collected_date": "2026-11-21",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-21",
+    "related_dois": [
+      "10.21203/rs.3.rs-11272234/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d9140fb9f7a9e8c564cd1e29b63d678ed4497318990cd513f4adc658bf10a865",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T10:41:53.906119+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7af7f1d9feb48625384b7c00210815c39531966f808b7792134a254f2fb6c4f7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T10:41:53.906119+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "結核性髄膜炎診断のための定型CSF変数のカテゴリー型符号化と連続型符号化：イランにおける開発とペルーにおける外部検証",
+    "abstract_ja": "要旨  背景  ルーチンの脳脊髄液（CSF）測定に基づく結核性髄膜炎（TBM）の診断スコアは、環境によって性能にばらつきがあることが多い。我々は、ルーチンのCSF測定値を連続値ではなく、臨床的根拠に基づく固定カテゴリーとして表現することで、国をまたいだTBM診断スコアの汎用性が向上するかどうかを検討した。方法  4つのルーチンCSF変数（白血球数、蛋白、蛋白/糖比、リンパ球割合）を用い、イランのコホート（TBM 69例、対照群 70例）において、連続ロジスティックモデルおよび固定カットオフ値を持つ整数スコアを構築した。その後、調和多重代入法を用い、ペルーのコホート（TBM 40例、細菌性・クリプトコッカス性・ウイルス性髄膜炎 62例、リンパ球割合を単核球割合に置換）において、再適合を行うことなく両モデルをロックして評価した。本研究はTRIPOD + AIに従って報告された。結果  イランでの交差検証において、識別能は同程度であった（連続スコア：AUC 0.822、95% CI 0.744～0.886；カテゴリースコア：0.821）。ペルーでは、連続スコアのAUCは0.583（95% CI 0.473～0.691）、カテゴリースコアのAUCは0.699（95% CI 0.599～0.794）であった（対応のある差 0.116、95% CI 0.048～0.182）。3つの予測変数を用いた連続モデルは、より優れた性能を示さなかった（0.553）。この優位性は、細菌性髄膜炎に対しては認められたが、クリプトコッカス性またはウイルス性髄膜炎に対しては認められなかった。較正傾きは0.471（95% CI 0.163～0.779）および0.150であり、いずれも1を大きく下回っていた。いずれのモデルも、TBMとニューロブルセラ症の識別能は十分ではなかった（見かけのAUCはそれぞれ0.71および0.66）。両コホートとも必要数より小規模であった（385例および581例）。結論  1つの外部コホートにおいて、固定カテゴリーは連続値よりも高い識別能を示したが、絶対識別能は限定的であり、結果は類似疾患間で異なり、エンコーディングはモデル間の他の差異から分離されなかった。固定カテゴリーは汎用性を向上させる可能性があるが、これらの知見は予備的なものであり、より大規模な前向き多国間コホートによる検証が必要である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11153771/v1",
+    "title": "Impact of the introduction of GeneXpert on pulmonary tuberculosis detection trends in Guinea: analysis of the WHO “TB Burden” database (2000–2024)",
+    "abstract": "Abstract  Background  Tuberculosis screening is an essential first step in the early identification of cases, prevention of transmission, and initiation of prompt treatment. GeneXpert, introduced in Guinea in 2012, offers high sensitivity and specificity for tuberculosis diagnosis. The PNLT current policy is to expand the use of the GeneXpert test as the initial nationwide diagnostic test. Therefore, the objective of this study was to evaluate the impact of the introduction of GeneXpert on pulmonary tuberculosis detection trends in Guinea. Methods  We conducted an ecological interrupted time-series study using 25 annual country-level observations (Guinea, 2000–2024). The introduction of GeneXpert MTB/RIF was considered the intervention. Tuberculosis incidence per 100,000 population and case detection rate were analysed using segmented linear regression to assess changes in level and trend after implementation. Subsequently, the “CausalImpact” package in R was used to estimate the causal effect of the intervention by comparing observed post-intervention outcomes with Bayesian model-based counterfactual predictions. Results  The detection rate remained stable prior to the introduction of GeneXpert in 2012 (β = 0.23; p = 0.526) and showed no significant immediate change (β = 0.57; p = 0.870). In contrast, a gradual and significant increase in this rate was observed after the intervention (β = 1.79, p = 0.001). Regarding the incidence per 100,000 inhabitants, an upward trend was observed prior to 2012 (β = 3.73; p",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11153771/v1",
+    "date": "2026-11-05",
+    "authors": "DIALLO TI, MAGASSOUBA AS, DIALLO MB, SIDIBE T, TOURE AF, WANN A, BAH KS, TOURE MI, TOURE AB, TOURE AA.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1359173",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "database",
+        "gene"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "database",
+          "gene"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5303,
+    "collected_at": "2026-11-21T09:55:27.385518+00:00",
+    "collected_date": "2026-11-21",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-21",
+    "related_dois": [
+      "10.21203/rs.3.rs-11153771/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9483e0c88057dfb7891af6eac09322870e6f5c4000593fcadd1c78f804a39f20",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T10:41:53.906119+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "575aea9a4067ead94d128d324cfa5b4c124a55044a1e5fa1856e1c59abb3ee95",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T10:41:53.906119+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ギニアにおける肺結核検出動向へのGeneXpert導入の影響：WHO「TB Burden」データベース（2000–2024年）の解析",
+    "abstract_ja": "要旨  背景  結核スクリーニングは、症例の早期特定、感染伝播の防止、および迅速な治療開始における不可欠な第一歩である。2012年にギニアで導入されたGeneXpertは、結核診断において高い感度と特異度を有する。PNLTの現行方針は、GeneXpert検査を全国的な初期診断検査として拡大して活用することである。したがって、本研究の目的は、GeneXpertの導入がギニアにおける肺結核の検出動向に及ぼした影響を評価することであった。方法  25年間の国別年次観測値（ギニア、2000–2024年）を用いて、生態学的中断時系列研究を実施した。GeneXpert MTB/RIFの導入を介入とした。人口10万人あたりの結核罹患率および症例検出率をセグメント線形回帰を用いて解析し、導入後の水準および傾向の変化を評価した。続いて、Rの「CausalImpact」パッケージを用い、介入後の観測結果とベイズモデルに基づく反実仮想予測を比較することで、介入の因果効果を推定した。結果  検出率は、2012年のGeneXpert導入前においても安定しており（β = 0.23; p = 0.526）、直ちに有意な変化は認められなかった（β = 0.57; p = 0.870）。対照的に、介入後はこの率に緩やかかつ有意な上昇が認められた（β = 1.79, p = 0.001）。人口10万人あたりの罹患率については、2012年以前に上昇傾向が認められた（β = 3.73; p"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.03.26367206",
+    "title": "PRISM-AD quantifies clinical and genetic contributions to cognitive risk prediction",
+    "abstract": "Background  Older adults with high inherited Alzheimer’s disease (AD) susceptibility can still be cognitively normal (CN). An overall risk estimate alone does not show the cognitive and genetic contributions within a forecast. Objective  To quantify clinical and genetic contributions to cognitive prognosis. Methods  PRISM-AD combined nonlinear clinical functions and a polygenic risk score (PRS) term in 4,435 European-ancestry participants. Participant-level internal validation evaluated first recorded mild cognitive impairment (MCI) after CN in 908 participants and AD dementia after MCI in 714, within three or five years. Separately fitted comparators used identical inputs. Post hoc clinical-course comparisons used regression with robust standard errors and Benjamini–Hochberg (BH) correction. Results  PRISM-AD using current assessments achieved average precision of 0.2996 and 0.4094 for three- and five-year CN-to-MCI, with estimates close to logistic regression. No PRISM-AD PRS increment met BH q Conclusions  Higher genetic contributions were associated with later AD at comparable modeled cognitive risk. These exploratory profiles require independent validation before use in cognitive follow-up or prevention research.",
+    "journal": "",
+    "doi": "10.64898/2026.11.03.26367206",
+    "date": "2026-11-04",
+    "authors": "Dai Y, Wood CS, Jiang X, Hsu Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1359797",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "gene",
+        "genetic",
+        "prediction"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "gene",
+          "genetic",
+          "prediction"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5309,
+    "collected_at": "2026-11-21T09:55:27.385518+00:00",
+    "collected_date": "2026-11-21",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-21",
+    "related_dois": [
+      "10.64898/2026.11.03.26367206"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5aa62671b9ca92ebabc982865751669c41acc4e807de7f29c201ade30fed3336",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T10:41:53.906119+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9a2a987931824e117dd79dd02aa842584c4942313ddd9710b0f3602f2d9f50e0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T10:41:53.906119+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "PRISM-ADは、認知リスク予測における臨床的および遺伝的寄与を定量化する。",
+    "abstract_ja": "背景  遺伝的にアルツハイマー病（AD）への感受性が高い高齢者であっても、認知機能が正常な（CN）状態であることがある。全体的なリスク推定値だけでは、予測における認知機能および遺伝的寄与を捉えることはできない。目的  認知機能予後に対する臨床的および遺伝的寄与を定量化すること。方法  欧州系参加者4,435名を対象に、PRISM-ADの複合非線形臨床関数およびポリジェニックリスクスコア（PRS）項を用いた。参加者レベルの内部検証により、908名の参加者においてCN後の初回記録された軽度認知障害（MCI）を、714名においてMCI後のAD認知症を、それぞれ3年または5年以内に評価した。個別に適合させた比較モデルには同一の入力データを用いた。事後的な臨床経過比較には、ロバスト標準誤差を用いた回帰分析およびBenjamini–Hochberg（BH）補正を適用した。結果  現在の評価を用いたPRISM-ADでは、CNからMCIへの3年後および5年後の平均適合率がそれぞれ0.2996および0.4094となり、推定値はロジスティック回帰に近かった。PRISM-ADのPRS増加量でBH qを満たしたものはなかった。結論  同等のモデル化された認知リスクにおいて、遺伝的寄与が高いほどADの発症時期が後になることが示された。これらの探索的プロファイルは、認知機能のフォローアップまたは予防研究に用いる前に、独立した検証が必要である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.01.763464",
+    "title": "The Segmentome: a novel representation of the DNA methylome identified by a Bayesian HMM framework",
+    "abstract": "Motivation  DNA methylation is organized along the genome into regions of relatively stable methylation (i.e. fully methylated or fully unmethylated regions), separated by transition zones. Differences in the boundaries of these methylation zones across cells can result from various regulatory and epigenetic mechanisms. Most DNA methylome studies, however, are focused on the detection of differentially methylated regions (DMRs), and this organization within a single methylome remains under explored. Furthermore it is unclear whether a segment-level descriptor can capture cell identity. Results  We introduce the segmentome, a segment-level representation of the methylome, and an unsupervised Bayesian hidden Markov model that infers it from WGBS data without predefined methylation thresholds or labels. The model combines CpG methylation levels with read-pattern entropy, local CpG correlation and CpG count to divide the genome into unmethylated, methylated and transition zones, the last characterized by heterogeneous read patterns. Applied to 207 samples of 39 human cell types, segmentome profiles grouped samples by cell type in an unsupervised manner (adjusted Rand index 0.55, adjusted mutual information 0.72). We next generated a segmentome atlas consisting of top segmentome biomarkers per human cell-type. These markers were capable of cell-of-origin determining in cell-free DNA and white blood cell samples. These results suggest that segmentation is a unique framework for analyzing DNA methylome.",
+    "journal": "",
+    "doi": "10.64898/2026.11.01.763464",
+    "date": "2026-11-04",
+    "authors": "Anvari M, Torki N, Mehrmohamadi M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1358805",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "DNA",
+        "framework"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5310,
+    "collected_at": "2026-11-21T09:55:27.385518+00:00",
+    "collected_date": "2026-11-21",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-21",
+    "related_dois": [
+      "10.64898/2026.11.01.763464"
+    ],
+    "translation": {
+      "title": {
+        "hash": "51d24f36a4b980ff9e4b756702bc5d4476c41cb0ffb832ab215b975d1baef4f0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T10:41:53.906119+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "584f7eb75a4eed9e64faf0b660e91b24ee6a859612144d9df68a189ede51d45f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T10:41:53.906119+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "セグメントーム：ベイズHMMフレームワークにより同定されたDNAメチロームの新たな表現形式",
+    "abstract_ja": "動機  DNAメチル化はゲノム全体にわたって、遷移領域によって隔てられた比較的安定したメチル化領域（すなわち、完全にメチル化された領域または完全に未メチル化の領域）として構成されている。細胞間でのこれらのメチル化領域の境界の差異は、さまざまな調節機構やエピジェネティック機構に起因し得る。しかし、ほとんどのDNAメチローム研究は差異的メチル化領域（DMR）の検出に焦点を当てており、単一のメチローム内におけるこのような構成については十分に解明されていない。さらに、セグメントレベルの記述子が細胞のアイデンティティを捉えられるかどうかは不明である。結果  本研究では、メチロームのセグメントレベル表現であるセグメントームと、事前定義されたメチル化閾値やラベルを用いることなくWGBSデータからこれを推論する教師なしベイズ隠れマルコフモデルを提案する。本モデルは、CpGメチル化レベルにリードパターンエントロピー、局所的なCpG相関、およびCpGカウントを組み合わせることで、ゲノムを未メチル化領域、メチル化領域、および遷移領域に分割し、後者を不均一なリードパターンによって特徴づける。39種類のヒト細胞型からなる207サンプルに適用したところ、セグメントームプロファイルは教師なしの手法でサンプルを細胞型ごとにグループ化した（調整済みRand指数 0.55、調整済み相互情報量 0.72）。次に、ヒト細胞型ごとの主要なセグメントームバイオマーカーからなるセグメントームアトラスを作成した。これらのマーカーは、cell-free DNAおよび白血球サンプルにおいて細胞由来の判定が可能であった。これらの結果は、セグメンテーションがDNAメチローム解析のための独自のフレームワークであることを示唆している。"
   }
 ]
