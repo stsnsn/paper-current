@@ -317344,5 +317344,152 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "比較解析および系統ゲノム解析により、<i>Calidifontibacter</i> Ruckmani <i>et al</i>. 2011を<i>Yimella</i> Tang <i>et al</i>. 2010の後続の異型同物異名として再分類し、<i>Calidifontibacter indicus</i>を<i>Yimella indica</i> comb. nov.として移し、<i>Koreicoccus terrae</i> gen. nov., comb. nov.を提案することが支持された。",
     "abstract_ja": "デルマコッカ科（Dermacoccaceae）は12属26種からなり、命名法上の地位を有しており、その多くはタイプ系統のゲノムシーケンシングが標準となる前に記載された。系統ゲノミクスおよび全体的なゲノム関連性指数（Overall Genomic Relatedness Indices）の算出により、近年提唱された3つの異型同物異名が独立して裏付けられた。すなわち、Yimella radicisとYimella lutea、Barrientosiimonas endolithicaとBarrientosiimonas humi、およびDermacoccus barathriとDermacoccus profundiの双方とDermacoccus abyssiである。しかし、本研究の中心的な知見は、属レベルの不一致である。Calidifontibacter属のタイプ種であるCalidifontibacter indicusは、唯一の同属種であるCalidifontibacter terrae（66.04%）よりも、Y. lutea（73.35-73.61%）とより高い平均アミノ酸同一性（AAI）を示した。C. terraeは、本科の属間範囲（57.15-66.04%）において、YimellaとのAAIが65.16-66.04%にとどまった。さらに、C. indicusとC. terraeの平均塩基同一性（ANI）の一致度は80.41%であり、Yimellaとの84.43-84.44%を大幅に下回った。デジタルDNA-DNAハイブリダイゼーションの値も、AAIおよびANIと同様のパターンを示した。C. indicusとYimellaの比較では最高値（25.1% [22.8-27.6%]）が得られ、C. indicusとC. terrae（20.1% [17.9-22.5%]）およびC. terraeとYimella（19.8% [17.6-22.2%]）の双方を上回った。補助遺伝子クラスターの内容に基づく5つの系統再構築および階層的クラスタリングにより、C. indicusとYimellaはC. terraeを除外して配置され、それぞれ完全またはほぼ完全な支持を得た。現在の分類学的地位では、属内および属間のAAIの重複が7.71ポイントの範囲で生じており、これは完全にC. indicusとY. luteaの比較によるものである。提案された再分類はこの重複を排除し、現在サンプリングされたデータセットにおいて、本科に66.40%のAAIという実効的な属境界を与える。したがって、CalidifontibacterはYimella indica comb. nov.の後代の異型同物異名として、またC. terrae Dahal et al. (Int J Syst Evol Microbiol 2017;67:1925-1931)は、新たに提唱された属であるKoreicoccus gen. nov.のタイプ種として、それぞれKoreicoccus terrae comb. nov.として提案される。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 6",
+        "query": "(JOURNAL:\"Microbial Genomics\" OR JOURNAL:\"Microbiology\" OR JOURNAL:\"Aquatic Microbial Ecology\" OR JOURNAL:\"PNAS\" OR JOURNAL:\"PLOS Biology\" OR JOURNAL:\"PLOS Genetics\" OR JOURNAL:\"Genome Research\" OR JOURNAL:\"Genome Biology\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1099/mgen.0.001905",
+    "title": "Population structure of group B <i>Streptococcus</i> from semen reveals virulent and resistant lineages with implications for surveillance.",
+    "abstract": "Group B Streptococcus (GBS) is a major agent of perinatal infections. Although extensively studied as a pathogen in pregnant individuals and neonates, little is known about GBS from male adults, despite occasional reports of its occurrence in semen. We characterized 120 GBS isolates obtained from semen samples in Brazil between 2017 and 2022 to determine serotypes, antimicrobial susceptibility profile, virulence-associated determinants, clustered regularly interspaced short palindromic repeats (CRISPR) diversity and phylogenetic relationships with isolates from other clinical sources. Serotype V was the most frequent, followed by Ia, Ib, III, II and IV. Resistance was observed for tetracycline (84.1%), erythromycin (30.8%), levofloxacin (8.3%) and 12.5% exhibited multidrug resistance (MDR). The most common sequence types (STs) were ST1, ST144 and ST19. The isolates clustered into five major clonal complexes (CC1, CC17, CC19, CC23 and CC24) and six singletons. Serotypes, antimicrobial resistance and virulence-associated determinants markers varied across CCs. Resistance determinants detected included tetM, mefA, msrD, ermA and ermB. Levofloxacin-resistant isolates contained mutations in gyrA and/or parC and were predominantly linked to the serotype V/ST19 lineage. All isolates except one carried at least one alpha-like protein (Alp) gene. Phylogenetic analysis of isolates from semen, rectovaginal samples, urine and invasive infections showed that isolates clustered according to CC regardless of clinical source. CRISPR1 analysis revealed intra-clonal diversity, as isolates within the same CC displayed different CRISPR compositions. These findings indicate that GBS isolates recovered from semen belong to established GBS lineages also identified in other clinical sources and support the co-circulation of GBS lineages across different human niches.",
+    "journal": "Microbial Genomics",
+    "doi": "10.1099/mgen.0.001905",
+    "date": "2026-11-01",
+    "authors": "Merces AC, Costa NS, Oliveira LMA, Botelho ACN, Barros LG, Silva LMB, Teixeira LM, Fracalanzza SEL, Khan U, Bentley S, Jamrozy D, Pinto TCA.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43024390",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43024390",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 5323,
+    "collected_at": "2026-11-21T17:30:13.539558+00:00",
+    "collected_date": "2026-11-22",
+    "sources": [
+      "Europe PMC journals 6"
+    ],
+    "first_seen": "2026-11-21",
+    "related_dois": [
+      "10.1099/mgen.0.001905"
+    ],
+    "translation": {
+      "title": {
+        "hash": "19f03d6a80eacace0083fbb9c15c328ee35de31677ba31d82cba7debedd89f7b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T18:08:27.430076+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e19d37f126f29f7025fdfca0d9fe0c629a26ad138a244f949bae1c0962a29aea",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T18:08:27.430076+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "精液中のB群<i>Streptococcus</i>の集団構造から、サーベイランスに示唆を与える強毒株および耐性株が明らかになった。",
+    "abstract_ja": "B群レンサ球菌（GBS）は、周産期感染症の主要な原因菌である。妊婦および新生児における病原体として広範に研究されてきたが、精液中での検出例が散見されるものの、成人男性におけるGBSについてはほとんど解明されていない。本研究では、2017年から2022年にかけてブラジルで採取された精液検体から得られたGBS分離株120株を特性評価し、血清型、薬剤感受性プロファイル、病原性関連決定因子、規則的に間隔を置いて配置された短回文構造反復配列（CRISPR）の多様性、および他の臨床検体由来の分離株との系統学的関係を明らかにした。血清型Vが最も多く、次いでIa、Ib、III、II、IVの順であった。テトラサイクリン（84.1%）、エリスロマイシン（30.8%）、レボフロキサシン（8.3%）への耐性が認められ、12.5%に多剤耐性（MDR）が認められた。最も頻度の高い配列型（ST）はST1、ST144、ST19であった。分離株は、5つの主要なクローン複合体（CC1、CC17、CC19、CC23、CC24）と6つのシングルトンに分類された。血清型、薬剤耐性、および病原性関連決定因子マーカーはCCによって異なっていた。検出された耐性決定因子には、tetM、mefA、msrD、ermA、ermBが含まれていた。レボフロキサシン耐性分離株はgyrAおよび/またはparCに変異を有しており、主に血清型V/ST19系統に関連していた。1株を除くすべての分離株が、少なくとも1つのα様タンパク質（Alp）遺伝子を保有していた。精液、直腸腟検体、尿、および侵襲性感染症由来の分離株の系統解析の結果、臨床検体の由来に関わらず、分離株はCCに従ってクラスターを形成することが示された。CRISPR1解析では、同一CC内の分離株が異なるCRISPR組成を示すことから、クローン内多様性が明らかになった。これらの知見は、精液から回収されたGBS分離株が、他の臨床検体でも同定されている確立されたGBS系統に属していることを示しており、異なるヒトニッチ間でGBS系統が共循環していることを支持するものである。"
+  },
+  {
+    "id": "10.64898/2026.11.20.768214",
+    "title": "Homologs of the Major Vault Protein defend bacteria against ribotoxins",
+    "abstract": "Bacteria use sophisticated mechanisms to defend themselves against antibiotics and bacteriophages, yet how they combat toxins deployed during interbacterial competition remains poorly understood. Bacteria use type VI secretion, bacteriocins, and contact dependent inhibition systems to deliver antibacterial toxins that inhibit growth by antagonizing essential processes. Here, we discover that Pseudomonas aeruginosa uses homologs of the eukaryotic major vault protein and a tRNA-like noncoding RNA to defend against RNA-damaging ribotoxins. Using an engineered pyocin delivery system, we showed that P. aeruginosa sensed ribotoxin damage and activated transcription of an RNA repair operon, which included band7, a homolog of the major vault protein. Genetic analyses demonstrated that band7-expressing bacteria were significantly more protected against growth inhibition by a ribotoxin that cleaved the anticodon loop of specific tRNA. Band7 was necessary but not sufficient, and defense also required a non-coding band7 RNA (bRNA). bRNA was cleaved by the ribotoxin, suggesting a mechanism for specificity and defense. Bioinformatic analyses revealed that band7 and candidate bRNA are widely distributed within RNA repair systems across diverse bacteria. Our data suggest that bacteria use structures related to the eukaryotic vault complex to respond to RNA damage thereby providing a hypothesis for the function of the enigmatic human vault.",
+    "journal": "",
+    "doi": "10.64898/2026.11.20.768214",
+    "date": "2026-11-21",
+    "authors": "Bullen, N. P., Holiday, L. C., Nagy, T. A., Robbins, L. K., Whiteley, A. T.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.20.768214v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Pseudomonas",
+        "bacteria",
+        "bacteriophage",
+        "bacteriophages"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5452,
+    "collected_at": "2026-11-21T17:40:46.167571+00:00",
+    "collected_date": "2026-11-22",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-21",
+    "related_dois": [
+      "10.64898/2026.11.20.768214"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b17ef8b4891cb0918f6708962f4e0af39c829ce3d4f5ff522b3b604f95ed10bf",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T18:08:27.430076+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c6a6d64abcceb97283b93628b12e491c8db0ae773bdf6a0a85012ae09e429c7a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T18:08:27.430076+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "主要ヴォールトタンパク質のホモログは、リボトキシンから細菌を保護する。",
+    "abstract_ja": "細菌は抗生物質やバクテリオファージから身を守るために高度な機構を利用しているが、細菌間競争において放出される毒素にどのように対抗しているかについては、依然として十分に解明されていない。細菌は、第VI型分泌、バクテリオシン、および接触依存性阻害系を用いて、必須プロセスを拮抗させることで増殖を抑制する抗菌毒素を送達する。本研究において、我々はPseudomonas aeruginosaが、真核生物の主要ヴォールトタンパク質のホモログとtRNA様非コードRNAを用いて、RNA損傷を引き起こすリボトキシンから防御していることを発見した。改変したピオシン送達系を用い、P. aeruginosaがリボトキシンによる損傷を感知し、主要ヴォールトタンパク質のホモログであるband7を含むRNA修復オペロンの転写を活性化することを示した。遺伝子解析により、band7を発現する細菌は、特定のtRNAのアンチコドンループを切断するリボトキシンによる増殖阻害に対して、有意に高い防御能を示すことが明らかになった。band7は必須ではあったが十分条件ではなく、防御には非コードのband7 RNA（bRNA）も必要であった。bRNAはリボトキシンによって切断されており、特異性と防御のメカニズムが示唆された。バイオインフォマティクス解析により、band7および候補bRNAが、多様な細菌のRNA修復系に広く分布していることが明らかになった。我々のデータは、細菌が真核生物のヴォールト複合体に関連する構造を用いてRNA損傷に応答していることを示唆しており、これにより、謎に包まれたヒトのヴォールトの機能に関する仮説が提示される。"
   }
 ]
