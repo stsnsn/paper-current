@@ -6,119 +6,6 @@
     "addition_tracking_since": "2026-11-08T16:41:37.586944+09:00",
     "addition_history": [
       {
-        "at": "2026-11-19T07:50:33.455423+09:00",
-        "papers": [
-          {
-            "id": "10.1093/ismeco/ycag311",
-            "preprint": false
-          },
-          {
-            "id": "10.64898/2026.11.17.767248",
-            "preprint": true
-          },
-          {
-            "id": "10.64898/2026.11.17.767448",
-            "preprint": true
-          },
-          {
-            "id": "10.64898/2026.11.11.765878",
-            "preprint": true
-          },
-          {
-            "id": "10.64898/2026.11.18.767454",
-            "preprint": true
-          },
-          {
-            "id": "10.64898/2026.11.17.767085",
-            "preprint": true
-          },
-          {
-            "id": "10.64898/2026.11.17.767002",
-            "preprint": true
-          },
-          {
-            "id": "10.1093/femsmc/xtag058",
-            "preprint": false
-          },
-          {
-            "id": "10.64898/2026.11.18.767316",
-            "preprint": true
-          },
-          {
-            "id": "10.1099/mgen.0.001802",
-            "preprint": false
-          },
-          {
-            "id": "10.64898/2026.11.17.767455",
-            "preprint": true
-          },
-          {
-            "id": "10.64898/2026.11.17.767403",
-            "preprint": true
-          },
-          {
-            "id": "10.64898/2026.11.17.767340",
-            "preprint": true
-          },
-          {
-            "id": "10.1038/d41586-026-03766-w",
-            "preprint": false
-          },
-          {
-            "id": "10.1093/ismeco/ycag336",
-            "preprint": false
-          },
-          {
-            "id": "10.64898/2026.11.17.767007",
-            "preprint": true
-          },
-          {
-            "id": "10.1093/ismejo/wrag287",
-            "preprint": false
-          },
-          {
-            "id": "10.1038/d41586-026-03436-x",
-            "preprint": false
-          },
-          {
-            "id": "10.64898/2026.11.17.767327",
-            "preprint": true
-          },
-          {
-            "id": "10.3389/fmicb.2026.1997942",
-            "preprint": false
-          },
-          {
-            "id": "10.64898/2026.11.16.767209",
-            "preprint": true
-          },
-          {
-            "id": "10.1186/s40793-026-00987-4",
-            "preprint": false
-          },
-          {
-            "id": "10.64898/2026.11.10.765552",
-            "preprint": true
-          },
-          {
-            "id": "10.64898/2026.11.17.765926",
-            "preprint": true
-          },
-          {
-            "id": "10.64898/2026.11.17.767377",
-            "preprint": true
-          },
-          {
-            "id": "10.1038/s41586-026-11283-z",
-            "preprint": false
-          },
-          {
-            "id": "10.1128/mmbr.00145-26",
-            "preprint": false
-          }
-        ]
-      },
-      {
         "at": "2026-11-19T13:01:48.701813+09:00",
         "papers": [
           {
@@ -811,44 +698,84 @@
             "preprint": false
           }
         ]
+      },
+      {
+        "at": "2026-11-21T11:53:45.948336+09:00",
+        "papers": [
+          {
+            "id": "10.1016/j.isci.2026.118153",
+            "preprint": false
+          },
+          {
+            "id": "10.12688/wellcomeopenres.28054.1",
+            "preprint": true
+          },
+          {
+            "id": "10.21203/rs.3.rs-10936613/v1",
+            "preprint": true
+          },
+          {
+            "id": "10.64898/2026.11.05.764680",
+            "preprint": true
+          },
+          {
+            "id": "10.64898/2026.11.19.767948",
+            "preprint": true
+          },
+          {
+            "id": "10.31234/osf.io/jev3u",
+            "preprint": true
+          },
+          {
+            "id": "10.21203/rs.3.rs-11374994/v1",
+            "preprint": true
+          },
+          {
+            "id": "10.12688/wellcomeopenres.28109.1",
+            "preprint": true
+          },
+          {
+            "id": "10.1016/j.isci.2026.118137",
+            "preprint": false
+          },
+          {
+            "id": "10.64898/2026.11.05.764633",
+            "preprint": true
+          },
+          {
+            "id": "10.21203/rs.3.rs-11335292/v1",
+            "preprint": true
+          },
+          {
+            "id": "10.31234/osf.io/jev3u_v1",
+            "preprint": true
+          },
+          {
+            "id": "10.64898/2026.11.19.767971",
+            "preprint": true
+          }
+        ]
       }
     ],
     "date": "2026-11-16",
     "publication_mode": "daily",
-    "updated_at": "2026-11-21T06:09:17.948355+09:00",
-    "daily_updated_at": "2026-11-21T06:09:17.948355+09:00",
+    "updated_at": "2026-11-21T11:53:45.948336+09:00",
+    "daily_updated_at": "2026-11-21T11:53:45.948336+09:00",
     "week_ends_at": "2026-11-23T00:00:00+09:00",
     "added_ids": [
-      "10.3389/fmars.2026.2006926",
-      "10.1038/s41579-026-01399-4",
-      "10.1111/1751-7915.70485",
-      "10.1128/mbio.01926-26",
-      "10.64898/2026.11.19.767919",
-      "10.3389/fmicb.2026.1949464",
-      "10.1093/ismeco/ycag339",
-      "10.3389/fmicb.2026.1992822",
-      "10.1128/mbio.02359-26",
-      "10.1093/bioinformatics/btag832",
-      "10.1128/mbio.02574-26",
-      "10.1093/bioinformatics/btag841",
-      "10.64898/2026.11.19.767875",
-      "10.1093/bioinformatics/btag844",
-      "10.1128/mbio.01248-26",
-      "10.3389/fmicb.2026.1967134",
-      "10.1128/mbio.01991-26",
-      "10.1093/nar/gkag1015",
-      "10.1093/nar/gkag1011",
-      "10.3389/fmicb.2026.1959843",
-      "10.1093/femsre/fuag063",
-      "10.1038/s41522-026-01201-6",
-      "10.64898/2026.11.19.767955",
-      "10.1093/ismejo/wrag277",
-      "10.1186/s42523-026-00648-4",
-      "10.1093/femsml/uqag041",
-      "10.1093/ismejo/wrag291",
-      "10.1128/mbio.02302-26",
-      "10.1038/s41522-026-01200-7",
-      "10.3389/fmicb.2026.1938090"
+      "10.1016/j.isci.2026.118153",
+      "10.12688/wellcomeopenres.28054.1",
+      "10.21203/rs.3.rs-10936613/v1",
+      "10.64898/2026.11.05.764680",
+      "10.64898/2026.11.19.767948",
+      "10.31234/osf.io/jev3u",
+      "10.21203/rs.3.rs-11374994/v1",
+      "10.12688/wellcomeopenres.28109.1",
+      "10.1016/j.isci.2026.118137",
+      "10.64898/2026.11.05.764633",
+      "10.21203/rs.3.rs-11335292/v1",
+      "10.31234/osf.io/jev3u_v1",
+      "10.64898/2026.11.19.767971"
     ],
     "added_date": "2026-11-21"
   },
@@ -75023,6 +74950,1123 @@
         "Integrated environmental assessment and management",
         "Frontiers in Microbiology"
       ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC bioinformatics",
+          "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "research-article",
+        "journal article"
+      ],
+      "id": "10.1016/j.isci.2026.118153",
+      "title": "Ion regulatory mechanisms supporting hypersaline tolerance in the coastal rock pool mosquito <i>Aedes togoi</i>.",
+      "abstract": "The coastal rock pool mosquito, Aedes togoi, is a remarkable example of a saline-tolerant mosquito. While most mosquitoes are obligate freshwater breeders, Ae. togoi larvae and pupae inhabit coastal rock pools that span freshwater to hypersaline conditions. We explore the ability of Ae. togoi larvae to tolerate hypersaline conditions by profiling the salt gland, an ion regulatory nexus within an anatomically unique, elaborated anal canal. We present a de-novo chromosome-scale genome assembly for Ae. togoi, highlighting its relatively small genome size and differences in chromosomal structure as compared to other Aedine mosquitoes. We detail repeat content and curate key multi-gene families encoding ion-transport proteins enriched in the larval salt gland, building a model of the machinery that likely facilitates hyperosmotic urine formation. Our work provides insights into molecular and anatomical adaptations that underpin the ability of mosquitoes and other insects to thrive in hypersaline rock pools and other dynamic environments.",
+      "journal": "iScience",
+      "doi": "10.1016/j.isci.2026.118153",
+      "date": "2026-11-07",
+      "authors": "Chiang J, Khodikian E, Phelan O, Parra AK, Peach DAH, Durant AC, Matthews BJ.",
+      "tags": [
+        "微生物ゲノミクス",
+        "海洋微生物"
+      ],
+      "source_url": "https://europepmc.org/article/MED/43034830",
+      "preprint": false,
+      "review": false,
+      "pmcid": "PMC13769471",
+      "pmid": "43034830",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "bioinformatics_method_or_resource",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "assembly",
+          "genome"
+        ],
+        "context": {
+          "marine": [
+            "freshwater"
+          ],
+          "genomics": [
+            "assembly",
+            "genom",
+            "genome"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "海洋微生物",
+          "微生物ゲノミクス"
+        ]
+      },
+      "collection_order": 5269,
+      "collected_at": "2026-11-21T02:12:50.375049+00:00",
+      "collected_date": "2026-11-21",
+      "sources": [
+        "Europe PMC bioinformatics"
+      ],
+      "first_seen": "2026-11-21",
+      "related_dois": [
+        "10.1016/j.isci.2026.118153"
+      ],
+      "translation": {
+        "title": {
+          "hash": "50e0b3ba8b2d1343704e22b8800617b6bbbbda5cfbbd3bc1e8406265beb3ac8d",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-21T02:44:57.686867+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "9afbef74b13dd1836ae6e70056479d002d45c233814e0d82a716ceeea2de477b",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-21T02:44:57.686867+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "沿岸域の岩礁池に生息する蚊<i>Aedes togoi</i>における高塩分耐性を支えるイオン調節機構",
+      "abstract_ja": "沿岸の岩礁池に生息する蚊であるAedes togoiは、塩水耐性を持つ蚊の顕著な例である。ほとんどの蚊は淡水のみで繁殖するが、Ae. togoiの幼虫および蛹は、淡水から超塩水条件にわたる沿岸の岩礁池に生息している。本研究では、解剖学的に特異で精巧な肛門管内にあるイオン調節機構である塩腺の特性解析を通じて、Ae. togoiの幼虫が超塩水条件に耐える能力について検討する。我々は、Ae. togoiのデノボ染色体スケールのゲノムアセンブリを提示し、比較的小さなゲノムサイズと、他のヤブカ科の蚊と比較した際の染色体構造の相違を明らかにする。さらに、反復配列の詳細を明らかにするとともに、幼虫の塩腺に豊富に存在するイオン輸送タンパク質をコードする主要な多遺伝子ファミリーを同定し、超浸透圧尿の形成を促進すると考えられる機構のモデルを構築する。本研究は、蚊やその他の昆虫が超塩水の岩礁池やその他の動的な環境で生存できる基盤となる、分子および解剖学的適応に関する知見を提供するものである。",
+      "answer_journal": "iScience",
+      "question_type": "published",
+      "options": [
+        "The Journal of chemical physics",
+        "iScience",
+        "Aging cell",
+        "Journal of photochemistry and photobiology. B, Biology"
+      ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC bioinformatics",
+          "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "preprint"
+      ],
+      "id": "10.12688/wellcomeopenres.28054.1",
+      "title": "The genome sequence of the Beech Milkcap, Lactarius blennius (Fr. Fr., 1815) (Russulales: Russulaceae)",
+      "abstract": "We present a genome assembly of  Lactarius blennius (Beech Milkcap; Basidiomycota; Agaricomycetes; Russulales; Russulaceae). The assembly consists of two haplotypes with total lengths of 68.85 megabases and 67.63 megabases. The haplotype 1 assembly is scaffolded into 11 chromosomal pseudomolecules. Haplotype 2 was assembled to scaffold level. The mitochondrial genome has been assembled, with a length of 46.11 kilobases. This assembly was generated as part of the Darwin Tree of Life project, which produces reference genomes for eukaryotic species found in Britain and Ireland.",
+      "journal": "",
+      "doi": "10.12688/wellcomeopenres.28054.1",
+      "date": "2026-11-06",
+      "authors": "Cullington P, Woof K, Douglas B, Becker J, Blades B, Gaya E, Royal Botanic Gardens Kew Genome Acquisition Lab, Wellcome Sanger Institute Tree of Life Management, Samples and Laboratory team, Wellcome Sanger Institute Scientific Operations: Sequencing Operations, Wellcome Sanger Institute Tree of Life Core Informatics team, Tree of Life Core Informatics collective, Darwin Tree of Life Consortium.",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://europepmc.org/article/PPR/PPR1359817",
+      "preprint": true,
+      "review": false,
+      "pmcid": "",
+      "pmid": "",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "bioinformatics_method_or_resource",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "assembly",
+          "genome"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "assembly",
+            "genom",
+            "genome"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "collection_order": 5286,
+      "collected_at": "2026-11-21T02:12:50.375049+00:00",
+      "collected_date": "2026-11-21",
+      "sources": [
+        "Europe PMC bioinformatics"
+      ],
+      "first_seen": "2026-11-21",
+      "related_dois": [
+        "10.12688/wellcomeopenres.28054.1"
+      ],
+      "translation": {
+        "title": {
+          "hash": "a358d111ab77e3418b14a773cded0398af6d3a4f88bf8d409766e8bb1367034d",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-21T02:52:35.018683+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "7e861b045bc864fcaba9999e5c20c6bde15a89f035b1f9b0d5e891ef1e5021ce",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-21T02:52:35.018683+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "ブナシメジ Lactarius blennius (Fr. Fr., 1815) (Russulales: Russulaceae) のゲノム配列",
+      "abstract_ja": "Lactarius blennius（ブナミルクキャップ；担子菌門；ハラタケ綱；ベニタケ目；ベニタケ科）のゲノムアセンブリを提示する。本アセンブリは、総長68.85メガベースおよび67.63メガベースの2つのハプロタイプから構成される。ハプロタイプ1のアセンブリは、11個の染色体擬似分子にスキャフォールディングされている。ハプロタイプ2はスキャフォールドレベルでアセンブルされた。ミトコンドリアゲノムもアセンブルされており、その長さは46.11キロベースである。本アセンブリは、英国およびアイルランドに生息する真核生物種のリファレンスゲノムを構築するDarwin Tree of Lifeプロジェクトの一環として作成された。",
+      "answer_journal": null,
+      "question_type": "forecast",
+      "options": [
+        "Current opinion in microbiology",
+        "Blood",
+        "Neuroscience",
+        "Journal of biomolecular structure & dynamics"
+      ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC bioinformatics",
+          "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "preprint"
+      ],
+      "id": "10.21203/rs.3.rs-10936613/v1",
+      "title": "SPH-DiffDance: Semantic Prototype Reconstruction and Hypergraph-Enhanced Diffusion Framework for Long-Sequence Music-Driven Dance Generation",
+      "abstract": "Abstract  Long-sequence music-driven dance generation remains a challenging task, as existing methods still struggle with unstable global choreography semantics, insufficient local pose coordination, and difficulty in preserving complex motion details. Aiming to address these issues, we propose a Semantic Prototype Reconstruction and Hypergraph-Enhanced Diffusion Framework for Long-Sequence Music-Driven Dance Generation (SPH-DiffDance), refining motion from global semantic structure to local pose details. SPH-DiffDance follows a coarse-to fine diffusion framework, designing a Semantic Prototype Reconstruction (SPR) module at the coarse stage to provide semantic guidance for motion generation through constructing a learnable global dance prototype library. The motion latent features are queried and reconstructed, transforming continuous motion representations into prototype representations with semantic constraints. This process enhances the thematic consistency and long-range choreography stability of generated dances. Building upon established global semantics, a Hypergraph-Enhanced Pose Refinement (HEPR) module further improves local motion quality by modeling high-order motion correlations among the trunk, limbs, and feet through hyperedges. Compared with conventional skeleton graphs that mainly describe pairwise joint connections, the hypergraph structure provides richer representations of complex human motion relationships and improves pose coordination and structural rationality. Foot-contact constraints are also incorporated to refine local motion details and reduce foot sliding and abnormal poses. Experiments on the AIST++ music-driven dance generation dataset demonstrate that SPH-DiffDance can generate long-sequence 3D dances with good musical synchronization, motion continuity, and structural consistency.",
+      "journal": "",
+      "doi": "10.21203/rs.3.rs-10936613/v1",
+      "date": "2026-11-06",
+      "authors": "Hu Z, Wu Y, Li X, Xu C.",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://europepmc.org/article/PPR/PPR1360163",
+      "preprint": true,
+      "review": false,
+      "pmcid": "",
+      "pmid": "",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "bioinformatics_method_or_resource",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "framework",
+          "gene",
+          "sequence"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "framework",
+            "gene",
+            "sequence"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "collection_order": 5284,
+      "collected_at": "2026-11-21T02:12:50.375049+00:00",
+      "collected_date": "2026-11-21",
+      "sources": [
+        "Europe PMC bioinformatics"
+      ],
+      "first_seen": "2026-11-21",
+      "related_dois": [
+        "10.21203/rs.3.rs-10936613/v1"
+      ],
+      "translation": {
+        "title": {
+          "hash": "baf79ba845509627a0f01985181414b8a7423c61a7b3d0653307d98318c06beb",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-21T02:50:19.390352+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "9df4122841a0dbcac5f88f0ef03dcac6d7316b8f2405305c51b22eb48261a167",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-21T02:50:19.390352+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "SPH-DiffDance: 長尺シーケンスの音楽駆動型ダンス生成に向けた意味的プロトタイプ再構成とハイパーグラフ強化型拡散フレームワーク",
+      "abstract_ja": "要旨　長尺シーケンスの音楽駆動型ダンス生成は、既存手法において依然として不安定な大域的振付セマンティクス、不十分な局所ポーズ協調、および複雑な動作詳細の保持の困難さといった課題を抱えており、依然として困難なタスクである。これらの課題に対処するため、我々は大域的セマンティック構造から局所的なポーズ詳細へと動作を精緻化する「長尺シーケンス音楽駆動型ダンス生成のためのセマンティック・プロトタイプ再構成およびハイパーグラフ強化拡散フレームワーク（SPH-DiffDance）」を提案する。SPH-DiffDanceは粗から精への拡散フレームワークを採用しており、粗段階においてセマンティック・プロトタイプ再構成（SPR）モジュールを設計し、学習可能な大域的ダンスプロトタイプライブラリを構築することで動作生成にセマンティックなガイダンスを提供する。動作の潜在特徴量がクエリされ再構成されることで、連続的な動作表現がセマンティック制約を伴うプロトタイプ表現へと変換される。このプロセスにより、生成されるダンスの主題的な一貫性と長距離振付の安定性が向上する。確立された大域的セマンティクスに基づき、ハイパーグラフ強化ポーズ精緻化（HEPR）モジュールが、ハイパーエッジを通じて体幹、肢体、および足部間の高次動作相関をモデル化することで、局所的な動作品質をさらに向上させる。主にペアワイズな関節接続を記述する従来のスケルトングラフと比較して、ハイパーグラフ構造は複雑な人間の動作関係をより豊かに表現し、ポーズ協調と構造的合理性を向上させる。また、足部接触制約を組み込むことで、局所的な動作詳細を精緻化し、足部の滑りや異常なポーズを低減させる。AIST++音楽駆動型ダンス生成データセットを用いた実験により、SPH-DiffDanceが良好な音楽同期、動作の連続性、および構造的一貫性を備えた長尺シーケンスの3Dダンスを生成できることが実証された。",
+      "answer_journal": null,
+      "question_type": "forecast",
+      "options": [
+        "Genetica",
+        "Anaerobe",
+        "OTA international : the open access journal of orthopaedic trauma",
+        "American journal of reproductive immunology (New York, N.Y. : 1989)"
+      ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC bioinformatics",
+          "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "preprint"
+      ],
+      "id": "10.64898/2026.11.05.764680",
+      "title": "Hierarchical Temporal Transformer for Cancer Grade Prediction and Cross-Cancer Transfer Learning from Pathology Reports",
+      "abstract": "Background  Language models for cancer reports usually read one document at a time and are tested on tumour types seen in training. Continuous-time sequence models address the first gap, but whether they use visit timing, not just order, is seldom tested. Methods  We developed the Hierarchical Temporal Transformer (HTT), which encodes reports with adapted BiomedBERT and reads the sequence with a cancer-type-conditioned temporal transformer. We evaluated it against best-possible AUROC ceilings on two synthetic benchmarks, one with the label stated in the text and one recoverable only from tumour sizes and visit intervals (ten seeds). Diagnostics led to an interval-aware time code (HTT-IA). On 4,786 TCGA pathology reports in 14 types, three types were withheld, and a text-only HTT was compared with a survival model. Results  On the phrase benchmark HTT reached AUROC 0.931 ± 0.012 against 0.913 ± 0.007 for a last-report baseline (+0.018, 95% CI −0.009 to +0.050); dates cannot raise the ceiling there. On the growth benchmark the initial time code scored 0.790, equal to a no-time model (0.787), whereas HTT-IA reached 0.843 (+0.053, 0.026 to 0.082) against ceilings of 0.894 without and 0.979 with dates. On unseen tumour types HTT reached 0.925 ± 0.007, equal to in-distribution performance and to a single-report baseline. Text-only macro C-index was 0.592 (CALM 0.626–0.652). Conclusion  Cross-type transfer is carried by the pre-trained encoder. Visit timing is used only when the data make it identifiable and the time code is on a clinical scale. Ceilings, order-only ablations and re-dating probes are inexpensive checks for such models. Statement of significance",
+      "journal": "",
+      "doi": "10.64898/2026.11.05.764680",
+      "date": "2026-11-06",
+      "authors": "Brimo N, Anand R, Sabath A, Harb H, Serdaroğlu DÇ.",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://europepmc.org/article/PPR/PPR1361320",
+      "preprint": true,
+      "review": false,
+      "pmcid": "",
+      "pmid": "",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "bioinformatics_method_or_resource",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "method",
+          "sequence"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "method",
+            "sequence"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "collection_order": 5278,
+      "collected_at": "2026-11-21T02:12:50.375049+00:00",
+      "collected_date": "2026-11-21",
+      "sources": [
+        "Europe PMC bioinformatics"
+      ],
+      "first_seen": "2026-11-21",
+      "related_dois": [
+        "10.64898/2026.11.05.764680"
+      ],
+      "translation": {
+        "title": {
+          "hash": "b809d4549efe26103133fb7aa3f3585d654b5f325139178e42dd42c41147376e",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-21T02:47:24.024899+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "d3ee6f2d6c83de09a3e85683c8a0cc7c9db03f9721de54ae76a1f5dde75f7a12",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-21T02:47:24.024899+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "病理報告書を用いたがんグレード予測およびがん間転移学習のための階層型時系列Transformer",
+      "abstract_ja": "背景  がん報告書向けの言語モデルは通常、一度に1つの文書を読み込み、学習に用いた腫瘍タイプでテストされる。連続時間シーケンスモデルはこの最初の課題に対処するが、単に順序だけでなく受診タイミングまで利用しているかについては、ほとんど検証されていない。手法  我々は、適応させたBiomedBERTで報告書をエンコードし、がんタイプを条件とした時間的Transformerでシーケンスを読み取るHierarchical Temporal Transformer (HTT) を開発した。2つの合成ベンチマークを用いて、可能な限り最高のAUROC天井値で評価を行った。一方はテキスト内にラベルが記載されており、もう一方は腫瘍サイズと受診間隔からのみ復元可能なものであった（10個のシード）。診断手法により、間隔を考慮した時間コード (HTT-IA) を導出した。14タイプにわたる4,786件のTCGA病理報告書（うち3タイプは除外）を用い、テキストのみのHTTと生存モデルを比較した。結果  フレーズベンチマークにおいて、HTTはAUROC 0.931 ± 0.012を記録したのに対し、最終報告書ベースラインは0.913 ± 0.007であった（+0.018, 95% CI −0.009 to +0.050）。日付情報を用いても、そこでの天井値を引き上げることはできない。増殖ベンチマークでは、初期の時間コードは0.790を記録し、時間情報なしのモデル（0.787）と同等であったが、HTT-IAは0.843（+0.053, 0.026 to 0.082）に達し、天井値は日付なしで0.894、日付ありで0.979であった。未知の腫瘍タイプにおいて、HTTは0.925 ± 0.007を記録し、分布内性能および単一報告書ベースラインと同等であった。テキストのみのマクロC指数は0.592（CALM 0.626–0.652）であった。結論  タイプ間転移は、事前学習済みエンコーダによって実現される。受診タイミングは、データから識別可能であり、かつ時間コードが臨床スケールである場合にのみ用いられる。天井値、順序のみのアブレーション、および再日付プローブは、こうしたモデルに対する簡便な検証手段となる。意義の表明",
+      "answer_journal": null,
+      "question_type": "forecast",
+      "options": [
+        "BMC Bioinformatics",
+        "Research square",
+        "Virus research",
+        "GigaByte (Hong Kong, China)"
+      ]
+    },
+    {
+      "id": "10.64898/2026.11.19.767948",
+      "title": "Precision Fermentation Gets a New Player: Genome Assembly and Genetic Transformation of a Novel Strain, Pichia hangzhouana, for Precision Fermentation of Food Ingredients",
+      "abstract": "Precision fermentation leverages the metabolic pathways of microorganisms to produce valuable proteins and enzymes. Pichia hangzhouana, synonymous with Zygoascus hellenicus, is a non-conventional yeast with potential for food biotechnological applications. This study characterizes the CSIRO strain P. hangzhouana FRR5246, isolated from a tea beverage, to evaluate its suitability as a precision fermentation host for a variety of industrial, agricultural and food production applications. P. hangzhouana demonstrated robust growth across a range of carbon sources, with the highest optical density observed in media containing sucrose or sorbitol as sole carbon source. The yeast showed susceptibility to geneticin, hygromycin B, nourseothricin sulfate, and zeocin sulfate antibiotic agents. Successful genetic transformation was achieved, with the expression of a recombinant orange fluorescent protein (OFP) under the control of the native glyceraldehyde-3-phosphate dehydrogenase (GAP1) promoter. The secretome exhibited strong antimicrobial activity against Escherichia coli and Staphylococcus aureus, indicating the presence of potent antimicrobial compounds. In addition, whole genome sequencing of P. hangzhouana FRR5246 provided genetic tools for recombinant expression of heterologous genes, insight into the genes, genetic architecture and regulatory mechanisms underlying phenotypic qualities, as well as confirming phylogenetic classification of this strain as clustering with the Dipodascomycetes, most closely related to species Zygoascus hellenicus. P. hangzhouana FRR5246 is a promising candidate for precision fermentation of food ingredients, capable of utilizing diverse carbon sources and producing recombinant proteins. In addition, production of antimicrobial compounds further enhances the potential for biotechnological exploitation. Future work will focus on optimizing growth conditions and exploring native inducible promoters for controlled gene expression.",
+      "journal": "",
+      "doi": "10.64898/2026.11.19.767948",
+      "date": "2026-11-20",
+      "authors": "Karimian, P., Johnston, E., Vafadarshamasbi, U., Afshari, R., Bachler, A., Mead, O., Boer, P., Hands, P., Hlaing, M. M., McAuley, C. M., Kasprzak, A., Liu, J.-W., Vanhercke, T., Hartley, C. J.",
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ],
+      "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.19.767948v1?rss=1",
+      "abstract_source": "rss",
+      "preprint": true,
+      "topic_filter": {
+        "accepted": true,
+        "reason": "microbial_evidence",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "Escherichia",
+          "assembly",
+          "gene",
+          "genetic",
+          "genome",
+          "microorganism",
+          "microorganisms",
+          "yeast"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "assembly",
+            "genom",
+            "genome",
+            "phylogen",
+            "phylogenetic"
+          ],
+          "evolution": [
+            "phylogenetic"
+          ]
+        },
+        "tags": [
+          "微生物ゲノミクス",
+          "微生物進化"
+        ]
+      },
+      "discovery": [
+        {
+          "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+          "query": "RSS feed",
+          "scope": "candidate"
+        }
+      ],
+      "collection_order": 5439,
+      "collected_at": "2026-11-21T02:23:23.634265+00:00",
+      "collected_date": "2026-11-21",
+      "sources": [
+        "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+      ],
+      "first_seen": "2026-11-21",
+      "related_dois": [
+        "10.64898/2026.11.19.767948"
+      ],
+      "translation": {
+        "title": {
+          "hash": "423a6038bc3755e2187ff76d62b0b6aabe888ab3f8dba2dc1bdbd2ce87f0c7da",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-21T02:44:57.686867+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "a7f33e3f079e19721ac3390b85decd695eb059a996f8e633e0aabc34000145ac",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-21T02:44:57.686867+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "精密発酵に新たなプレーヤー：食品原料の精密発酵に向けた新規菌株Pichia hangzhouanaのゲノム構築と遺伝子形質転換",
+      "abstract_ja": "精密発酵は、微生物の代謝経路を利用して、有用なタンパク質や酵素を産生するものである。Zygoascus hellenicusのシノニムであるPichia hangzhouanaは、食品バイオテクノロジーへの応用可能性を秘めた非従来型酵母である。本研究では、茶飲料から単離したCSIRO株P. hangzhouana FRR5246の特性解析を行い、多様な工業・農業・食品生産用途における精密発酵宿主としての適性を評価する。P. hangzhouanaは、広範な炭素源に対して旺盛な増殖を示し、唯一の炭素源としてスクロースまたはソルビトールを含む培地において最高の光学密度が観察された。本酵母は、遺伝的変換剤であるハイグロマイシンB、ノウルセオトリシン硫酸塩、およびゼオシン硫酸塩に対して感受性を示した。天然のグリセルアルデヒド-3-リン酸脱水素酵素（GAP1）プロモーターの制御下で、組換えオレンジ色蛍光タンパク質（OFP）の発現を伴う遺伝子形質転換に成功した。セクレトームはEscherichia coliおよびStaphylococcus aureusに対して強い抗菌活性を示し、強力な抗菌化合物の存在が示唆された。さらに、P. hangzhouana FRR5246の全ゲノム配列解析により、異種遺伝子の組換え発現のための遺伝学的ツールが提供されたほか、表現型特性の根底にある遺伝子、遺伝的構造、および調節機構に関する知見が得られた。また、本株がDipodascomycetes門に分類され、Zygoascus hellenicusに最も近縁であることが確認された。P. hangzhouana FRR5246は、多様な炭素源を利用し組換えタンパク質を産生できる、食品原料の精密発酵における有望な候補である。加えて、抗菌化合物の産生は、バイオテクノロジー的利用の可能性をさらに高めるものである。今後の研究では、増殖条件の最適化および、制御された遺伝子発現のための天然誘導性プロモーターの探索に注力する。",
+      "answer_journal": null,
+      "question_type": "forecast",
+      "options": [
+        "Journal of proteomics",
+        "Genetics in medicine : official journal of the American College of Medical Genetics",
+        "PLoS neglected tropical diseases",
+        "Canadian journal of microbiology"
+      ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC bioinformatics",
+          "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "preprint"
+      ],
+      "id": "10.31234/osf.io/jev3u",
+      "title": "A Bi-Factor Generalized Cognitive Diagnosis Model Framework",
+      "abstract": "Cognitive diagnosis models (CDMs) are often applied to constructs that are largely unidimensional in nature (e.g., mathematics, reading, mental health status) where a set of discrete attributes coexists with a dominant general proficiency dimension. This article presents the bi-factor CDM model (BF-CDM), which partitions item responses into a direct effect of continuous general proficiency and a discrete attribute-mastery tier, allowing mastery classifications to be made beyond what is attributable to general ability. By modeling both tiers explicitly, the BF-CDM makes it possible to evaluate the contribution of the discrete tier itself. Specifically, it can show whether the hypothesized attributes carry diagnostic information beyond general proficiency, both through model comparison with the nested unidimensional model and through the reliability of the attribute-specific component. A simulation study manipulating sample size, test length, number of attributes, and attribute-tier discrimination shows accurate recovery of item and person parameters, and of the model-implied response functions. An application to reading comprehension data from PISA illustrates the practical value of the model: reliability of attribute-mastery classifications drops substantially once variance attributable to general proficiency is partialled out, indicating that much of the apparent diagnostic precision obtained under a saturated attribute structure reflects a single dominant general factor.",
+      "journal": "",
+      "doi": "10.31234/osf.io/jev3u",
+      "date": "2026-11-06",
+      "authors": "Kreitchmann RS, Nájera P, Abad FJ.",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://europepmc.org/article/PPR/PPR1360669",
+      "preprint": true,
+      "review": false,
+      "pmcid": "",
+      "pmid": "",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "bioinformatics_method_or_resource",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "framework",
+          "gene"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "framework",
+            "gene"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "collection_order": 5283,
+      "collected_at": "2026-11-21T02:12:50.375049+00:00",
+      "collected_date": "2026-11-21",
+      "sources": [
+        "Europe PMC bioinformatics"
+      ],
+      "first_seen": "2026-11-21",
+      "related_dois": [
+        "10.31234/osf.io/jev3u"
+      ],
+      "translation": {
+        "title": {
+          "hash": "cab0de00bbd0318e5d507f2f1687e1e32003a7fb950684aecf21e51a558d8a6c",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-21T02:50:19.390352+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "31c0d2440175beb93044328d2b0df1bdcabbff853979dad8ef835d0ae9cb115b",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-21T02:50:19.390352+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "二因子一般化認知診断モデルフレームワーク",
+      "abstract_ja": "認知診断モデル（CDM）は、本質的に概ね一次元的な構成概念（例：数学、読解、メンタルヘルスの状態）に適用されることが多く、そこでは一連の離散的な属性が、支配的な一般的習熟度次元と共存している。本稿では、項目反応を連続的な一般的習熟度の直接効果と、離散的な属性習熟度ティアに分割する二因子CDMモデル（BF-CDM）を提示する。これにより、一般的能力に起因する範囲を超えて習熟度の分類を行うことが可能となる。両ティアを明示的にモデル化することで、BF-CDMは離散ティア自体の寄与を評価することを可能にする。具体的には、入れ子構造の一次元モデルとのモデル比較、および属性固有成分の信頼性の双方を通じて、仮説上の属性が一般的習熟度を超えて診断情報を保持しているか否かを示すことができる。サンプルサイズ、テスト長、属性数、および属性ティアの判別を操作したシミュレーション研究により、項目および個人のパラメータ、ならびにモデルから導出される反応関数が正確に再現されることが示された。PISAの読解力データへの適用により、本モデルの実用的価値が例証される。一般的習熟度に起因する分散を除外すると属性習熟度分類の信頼性が著しく低下し、飽和した属性構造の下で得られた見かけ上の診断精度の多くが、単一の支配的な一般的因子を反映していることを示している。",
+      "answer_journal": null,
+      "question_type": "forecast",
+      "options": [
+        "Journal of pathology and translational medicine",
+        "Virchows Archiv : an international journal of pathology",
+        "Journal of infection in developing countries",
+        "Cancer research"
+      ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC bioinformatics",
+          "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "preprint"
+      ],
+      "id": "10.21203/rs.3.rs-11374994/v1",
+      "title": "A hierarchical general video matting framework towards temporal coherence",
+      "abstract": "Abstract  Video Matting is the process of accurately extracting foreground objects from a sequence of input video frames, which requires the accurate estimation not only on the transparency of foreground objects for each frame but also on the spatial-temporal object coherence between consecutive frames. Meanwhile, the prevailing data-driven deep-learning based video matting approaches are constrained by fixed datasets and limited feature aggregation and filtering patterns, making it hard to guarantee the matting results in terms of coherence and accuracy, especially of general foreground objects. Without relying on data-driven patterns, this paper proposes a novel non-data-driven based video matting approach (NDVM) towards general foreground targets and a hierarchical framework towards temporal coherence. Firstly, an KNN-based pre-process layer is employed for adjacent frames according to different foreground and background overlap patterns to classify certain number of opaque pixels. Next, an optical-flow-based sampling layer is adopted for consecutive frames combined with a re-identification criterion for opaque pixels to record both of the transparency and foreground color priors. Finally, an affinity-based smoothing layer based on adaptive kernels is utilized for inter-frames to determine the final video matting results. Experimental results demonstrate that, in terms of quantitative comparison, our approach outperforms both various previous video matting methods and the ablation intermediates, in terms of intra-frame accuracy and inter-frame temporal coherence. Qualitatively, our method also exhibits superior visual perception compared with other state-of-the-art methods. Furthermore, the final foreground results recorded in this paper also provide feasibility and quality assurance for the final video synthesis stage.",
+      "journal": "",
+      "doi": "10.21203/rs.3.rs-11374994/v1",
+      "date": "2026-11-09",
+      "authors": "Yao G, Cao S, Han X, Zhang X.",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://europepmc.org/article/PPR/PPR1361905",
+      "preprint": true,
+      "review": false,
+      "pmcid": "",
+      "pmid": "",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "bioinformatics_method_or_resource",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "framework",
+          "gene"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "framework",
+            "gene"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "collection_order": 5267,
+      "collected_at": "2026-11-21T02:12:50.375049+00:00",
+      "collected_date": "2026-11-21",
+      "sources": [
+        "Europe PMC bioinformatics"
+      ],
+      "first_seen": "2026-11-21",
+      "related_dois": [
+        "10.21203/rs.3.rs-11374994/v1"
+      ],
+      "translation": {
+        "title": {
+          "hash": "b64ddbfad2e2bc12bb544a90e383c920badfefe2b59ad4eeafb406ad5c41cf5d",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-21T02:47:24.024899+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "25f818609f726977fe15a0523c7c040f982465d434ed54ac036bb4031b05843f",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-21T02:47:24.024899+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "時間的一貫性に向けた階層型汎用ビデオマット処理フレームワーク",
+      "abstract_ja": "要旨  ビデオマッティングとは、入力ビデオフレームのシーケンスから前景オブジェクトを正確に抽出するプロセスであり、各フレームにおける前景オブジェクトの透過度だけでなく、連続するフレーム間の時空間的なオブジェクトの一貫性を正確に推定することが求められる。一方で、主流となっているデータ駆動型の深層学習ベースのビデオマッティング手法は、固定されたデータセットや限定的な特徴量集約・フィルタリングパターンに制約されており、一貫性や精度、特に汎用的な前景オブジェクトにおける結果を保証することが困難である。本論文では、データ駆動型のパターンに依存せず、汎用的な前景ターゲットに対する新たな非データ駆動型ビデオマッティング手法（NDVM）と、時間的一貫性を実現するための階層的フレームワークを提案する。まず、前景と背景の異なる重なりパターンに応じて、隣接フレームにKNNベースの前処理層を適用し、一定数の不透明ピクセルを分類する。次に、連続するフレームに対してオプティカルフローベースのサンプリング層を採用し、不透明ピクセルの再識別基準を組み合わせることで、透過度と前景色の事前分布の両方を記録する。最後に、適応カーネルに基づくアフィニティベースの平滑化層をフレーム間に適用し、最終的なビデオマッティング結果を決定する。実験結果から、定量的な比較において、本手法はフレーム内精度およびフレーム間の時間的一貫性の両面で、従来の様々なビデオマッティング手法およびアブレーション中間結果を上回ることが示された。定性的にも、本手法は他の最先端手法と比較して優れた視覚的認識性能を示す。さらに、本論文で記録した最終的な前景結果は、最終的なビデオ合成段階における実現可能性と品質保証を提供するものである。",
+      "answer_journal": null,
+      "question_type": "forecast",
+      "options": [
+        "Future medicinal chemistry",
+        "Annals of the New York Academy of Sciences",
+        "Insect molecular biology",
+        "Current HIV/AIDS reports"
+      ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC bioinformatics",
+          "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "preprint"
+      ],
+      "id": "10.12688/wellcomeopenres.28109.1",
+      "title": "The genome sequence of Toad Rush, Juncus bufonius L. (Poales: Juncaceae)",
+      "abstract": "We present a genome assembly of  Juncus bufonius (Toad Rush; Streptophyta; Magnoliopsida; Poales; Juncaceae). The assembly consists of two haplotypes with total lengths of 773.78 megabases and 738.46 megabases. Most of the haplotype 1 assembly (97.88%) was scaffolded into 53 chromosomal pseudomolecules. Haplotype 2 was assembled to scaffold level. The mitochondrial genome assembly has a length of 993.69 kilobases and the plastid genome assembly has a length of 169.52 kilobases. This assembly was generated as part of the Darwin Tree of Life project, which produces reference genomes for eukaryotic species found in Britain and Ireland.",
+      "journal": "",
+      "doi": "10.12688/wellcomeopenres.28109.1",
+      "date": "2026-11-06",
+      "authors": "Ruhsam M, Royal Botanic Garden Edinburgh Genome Acquisition Lab, Plant Genome Sizing Collective, Darwin Tree of Life Barcoding collective, Wellcome Sanger Institute Tree of Life Management, Samples and Laboratory team, Wellcome Sanger Institute Scientific Operations: Sequencing Operations, Wellcome Sanger Institute Tree of Life Core Informatics team, Tree of Life Core Informatics collective, Darwin Tree of Life Consortium.",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://europepmc.org/article/PPR/PPR1359819",
+      "preprint": true,
+      "review": false,
+      "pmcid": "",
+      "pmid": "",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "bioinformatics_method_or_resource",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "assembly",
+          "genome"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "assembly",
+            "genom",
+            "genome"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "collection_order": 5285,
+      "collected_at": "2026-11-21T02:12:50.375049+00:00",
+      "collected_date": "2026-11-21",
+      "sources": [
+        "Europe PMC bioinformatics"
+      ],
+      "first_seen": "2026-11-21",
+      "related_dois": [
+        "10.12688/wellcomeopenres.28109.1"
+      ],
+      "translation": {
+        "title": {
+          "hash": "63d9d33842007eab05d42cb02d9d7d589efed60b24a9b0708930eea13a650974",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-21T02:50:19.390352+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "abea2b9d817cf717b4060a4eff0465533793ac94ca476f075395edf79bb6456e",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-21T02:50:19.390352+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "オオガマ（Juncus bufonius L.、イネ目：イグサ科）のゲノム配列",
+      "abstract_ja": "Juncus bufonius（ガマ類；ストレプト藻門；マグノリオプシダ綱；イネ目；イグサ科）のゲノムアセンブリを提示する。本アセンブリは、総長773.78メガベースおよび738.46メガベースの2つのハプロタイプから構成される。ハプロタイプ1アセンブリの大部分（97.88%）は、53個の染色体擬似分子へとスキャフォールディングされた。ハプロタイプ2はスキャフォールドレベルでアセンブルされた。ミトコンドリアゲノムアセンブリの全長は993.69キロベース、プラスチドゲノムアセンブリの全長は169.52キロベースである。本アセンブリは、英国およびアイルランドに生息する真核生物種のリファレンスゲノムを構築するDarwin Tree of Lifeプロジェクトの一環として作成された。",
+      "answer_journal": null,
+      "question_type": "forecast",
+      "options": [
+        "Breast cancer (Tokyo, Japan)",
+        "Discover nano",
+        "microLife",
+        "Acta crystallographica. Section D, Structural biology"
+      ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC bioinformatics",
+          "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "research-article",
+        "journal article"
+      ],
+      "id": "10.1016/j.isci.2026.118137",
+      "title": "Adaptive gating-based fusion of sequential and local features for predicting drug-drug interactions.",
+      "abstract": "Accurate prediction of drug-drug interactions (DDIs) is important for reducing risks associated with polypharmacy and adverse drug reactions. To overcome the limitations of experimental methods, we present AGSL-DDI, an end-to-end framework that learns interaction representations directly from SMILES sequences. Character-level embeddings are processed in parallel by a bidirectional long short-term memory network and a one-dimensional convolutional neural network to capture complementary global sequential dependencies and local chemical patterns. An adaptive gating mechanism dynamically integrates these features, while bidirectional multi-head cross-attention models fine-grained interactions between paired drugs. On the BioSNAP and DrugBank datasets, AGSL-DDI achieved AUROC values of 0.9852 and 0.9816 and AUPR values of 0.9837 and 0.9818, respectively. These results show that coordinated global-local representation learning and cross-drug interaction modeling can effectively characterize DDI patterns, providing a practical computational approach for medication risk screening and drug development.",
+      "journal": "iScience",
+      "doi": "10.1016/j.isci.2026.118137",
+      "date": "2026-11-06",
+      "authors": "Dai G, Luo T, Lin T, Fan L, Wei Q, Wang F.",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://europepmc.org/article/MED/43034682",
+      "preprint": false,
+      "review": false,
+      "pmcid": "PMC13769069",
+      "pmid": "43034682",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "bioinformatics_method_or_resource",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "framework",
+          "method",
+          "sequence"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "framework",
+            "method",
+            "sequence"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "collection_order": 5274,
+      "collected_at": "2026-11-21T02:12:50.375049+00:00",
+      "collected_date": "2026-11-21",
+      "sources": [
+        "Europe PMC bioinformatics"
+      ],
+      "first_seen": "2026-11-21",
+      "related_dois": [
+        "10.1016/j.isci.2026.118137"
+      ],
+      "translation": {
+        "title": {
+          "hash": "23eb90ca0205fabcbed7f7d061d82358b2c3ba7c7486aa8feec2f71a3bbe0aa5",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-21T02:44:57.686867+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "a4279b92e037d552802b91ad6aff7871a410f7594e13556131745ef2a2c27b09",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-21T02:44:57.686867+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "薬物相互作用予測のための、逐次的特徴量と局所的特徴量の適応的ゲーティングに基づく融合",
+      "abstract_ja": "薬物相互作用（DDI）の正確な予測は、多剤併用に伴うリスクや薬物有害反応を軽減する上で重要である。実験的手法の限界を克服するため、本研究では、SMILES配列から直接相互作用表現を学習するエンドツーエンドフレームワーク「AGSL-DDI」を提案する。文字レベルの埋め込み表現は、双方向長短期記憶ネットワークと1次元畳み込みニューラルネットワークによって並列に処理され、相補的な大域的逐次依存性と局所的な化学パターンを捉える。適応型ゲーティング機構がこれらの特徴量を動的に統合し、双方向マルチヘッドクロスアテンションモデルがペアとなる薬物間の精緻な相互作用を捉える。BioSNAPおよびDrugBankデータセットにおいて、AGSL-DDIはそれぞれ0.9852および0.9816のAUROC値、ならびに0.9837および0.9818のAUPR値を達成した。これらの結果は、協調的な大域的・局所的表現学習と薬物間相互作用モデリングがDDIパターンを効果的に特徴づけられることを示しており、薬剤リスクスクリーニングおよび創薬のための実用的な計算手法を提供するものである。",
+      "answer_journal": "iScience",
+      "question_type": "published",
+      "options": [
+        "Autism : the international journal of research and practice",
+        "Physica medica : PM : an international journal devoted to the applications of physics to medicine and biology : official journal of the Italian Association of Biomedical Physics (AIFB)",
+        "Research square",
+        "iScience"
+      ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC bioinformatics",
+          "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "preprint"
+      ],
+      "id": "10.64898/2026.11.05.764633",
+      "title": "Toward space-optimal approximate colored indexes at scale",
+      "abstract": "Searching current petabase-scale sequence repositories requires indexes that combine compact storage with high query throughput. Although exact colored indexes retain complete sequence information, their construction and storage costs can become substantial for highly diverse collections. Indexes based on approximate membership query (AMQ) filters offer a compact alternative with fast construction and queries. Being hash-based, these indexes support different seeding schemes without structural changes, while sampling can reduce storage requirements, construction time and query time by an order of magnitude. Within the AMQ framework, querying many independent filters causes scattered memory accesses, reducing throughput. This motivates interleaved filters, which address this weakness by storing filter slots contiguously by position, enabling cache-friendly access and simultaneous membership queries. However, existing implementations face a trade-off between guaranteed construction and space-efficiency. Here, we introduce a new indexing framework based on interleaved ZOR filters, fingerprint-based structures with guaranteed construction that require only approximately 1% more space than the theoretical minimum for AMQ. To exploit redundancy between genomes, we introduce a color-preserving merging mechanism that extends fingerprints with membership bits, allowing multiple genomes to share a filter while retaining their individual identities. Together with a lightweight, sketch-based layout planner, this mechanism yields a compact index structure that accommodates collections with widely varying genome sizes and degrees of similarity. Our third contribution extends the AMQ framework beyond contiguous  k -mers through a low-density minimizer scheme alongside efficient implementations of sensitive seeds, including gapped  k -mers and randstrobes.  We implement these methods in Zindex, a parallel, SIMD-accelerated Rust index that scales to millions of genomes while supporting diverse seeding and sampling schemes. Zindex indexes the latest RefSeq release of 564,401 assembled genomes in under 22 hours, producing a 289.5 GB index. It further scales to all 2,763,297 genomes of AllTheBacteria, producing a 406.3 GB index in four days with a peak memory footprint of 43.8 GB. Availability  Zindex is available at  https://github.com/Malfoy/Zindex",
+      "journal": "",
+      "doi": "10.64898/2026.11.05.764633",
+      "date": "2026-11-06",
+      "authors": "Okçu T, Alkan C, Limasset A.",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://europepmc.org/article/PPR/PPR1361324",
+      "preprint": true,
+      "review": false,
+      "pmcid": "",
+      "pmid": "",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "bioinformatics_method_or_resource",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "genome",
+          "method"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "genom",
+            "genome"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "collection_order": 5277,
+      "collected_at": "2026-11-21T02:12:50.375049+00:00",
+      "collected_date": "2026-11-21",
+      "sources": [
+        "Europe PMC bioinformatics"
+      ],
+      "first_seen": "2026-11-21",
+      "related_dois": [
+        "10.64898/2026.11.05.764633"
+      ],
+      "translation": {
+        "title": {
+          "hash": "6621240fa683310da7308514f721de7ac3f0b13aee23028bf66dab70a8222240",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-21T02:47:24.024899+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "41db21e23cc649eb90a947123071d02fa75c581edf5c1933b23266411547c38b",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-21T02:47:24.024899+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "大規模における空間最適近似色付きインデックスに向けて",
+      "abstract_ja": "現在のペタベース規模の配列リポジトリを検索するには、コンパクトなストレージと高いクエリスループットを兼ね備えたインデックスが必要となる。厳密なカラーインデックスは配列情報の完全な保持を可能にするが、多様性の高いコレクションにおいては、その構築およびストレージコストが膨大になる可能性がある。近似メンバーシップクエリ（AMQ）フィルタに基づくインデックスは、高速な構築とクエリを実現するコンパクトな代替手段となる。ハッシュベースであるため、これらのインデックスは構造的な変更を加えることなく異なるシーディングスキームをサポートでき、さらにサンプリングによってストレージ要件、構築時間、およびクエリ時間を桁違いに削減できる。AMQフレームワークにおいて、多数の独立したフィルタをクエリするとメモリアクセスが分散し、スループットが低下する。これがインターリーブフィルタの動機となっており、フィルタスロットを位置ごとに連続的に格納することでこの弱点に対処し、キャッシュ効率の高いアクセスと同時メンバーシップクエリを実現している。しかし、既存の実装では、構築の保証と空間効率のトレードオフが課題となっている。本稿では、インターリーブZORフィルタに基づく新しいインデックスフレームワークを提案する。これは、AMQの理論上の最小値よりも約1%多くの空間しか必要としない、構築が保証されたフィンガープリントベースの構造である。ゲノム間の冗長性を活用するため、メンバーシップビットを用いてフィンガープリントを拡張するカラー保存型マージ機構を導入する。これにより、個々のアイデンティティを保持したまま、複数のゲノムがフィルタを共有することが可能となる。軽量なスケッチベースのレイアウトプランナーと組み合わせることで、この機構は、ゲノムサイズや類似度が大きく異なるコレクションにも対応できるコンパクトなインデックス構造を実現する。第三の貢献として、低密度ミニマイザスキームと、ギャップ付きk-merやランダムストローブを含むセンシティブシードの効率的な実装により、AMQフレームワークを連続的なk-merの枠を超えて拡張する。これらの手法を、多様なシーディングおよびサンプリングスキームをサポートし、数百万のゲノムまでスケール可能な並列SIMD加速型RustインデックスであるZindexに実装した。Zindexは、最新のRefSeqリリースである564,401個のアセンブル済みゲノムを22時間未満でインデックス化し、289.5 GBのインデックスを生成した。さらに、AllTheBacteriaの全2,763,297個のゲノムまでスケールし、4日間で406.3 GBのインデックスを生成し、ピークメモリフットプリントは43.8 GBであった。Zindexは https://github.com/Malfoy/Zindex で利用可能である。",
+      "answer_journal": null,
+      "question_type": "forecast",
+      "options": [
+        "Molecular breeding : new strategies in plant improvement",
+        "IEEE transactions on computational biology and bioinformatics",
+        "Microbial Ecology",
+        "Methods in enzymology"
+      ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC bioinformatics",
+          "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "preprint"
+      ],
+      "id": "10.21203/rs.3.rs-11335292/v1",
+      "title": "A Flux-Constrained Generalized Finite Difference Method for Fractured Reservoir Simulation",
+      "abstract": "Abstract  Meshless methods based on generalized finite difference formulations (GFDM) offer compelling advantages for reservoir simulation by eliminating global mesh generation and enabling arbitrary point placement. However, standard GFDM implementations fail to enforce local mass conservation. We develop a flux-constrained GFDM (FC-GFDM) that achieves local mass conservation throughconstrained meshless operators without sacrificing geometric flexibility, and extend it to fractured reservoirs via the embedded discrete fracture modeling (EDFM) framework. For each node, the method defines a local support domain and performs Delaunay triangulation within this region to construct control volumes as dual cells connecting circumcenters or centroids of sharing tetrahedra.This local construction requires no global mesh connectivity, enabling arbitrary point addition or removal without re-meshing. The perpendicular bisector (PEBI) nature of circumcenter-based dual cells provides natural orthogonality for efficient two-point flux approximations. Meshless operators are formulated through constrained Moving Least Squares where stencil coefficients simultaneously satisfy Taylor series consistency and discrete flux balance over the control volume. For matrix-fracture interaction, the method employs EDFM to represent fractures as 2D surfaces embedded within the 3D matrix point distribution. The rotation-invariant nature of meshless operators eliminates directional bias in coupling calculations and significantly simplifies handling of arbitrarily oriented and intersecting fractures. Multi-point schemes addressing non-orthogonal geometries and full-tensor anisotropic permeability are presented. Numerical tests are carefully designed to showcase the conservation property and spatial discretiza- tion accuracy across irregular point distributions. The results indicate that our FC-GFDM can be practical for a diverse set of simulation problems.",
+      "journal": "",
+      "doi": "10.21203/rs.3.rs-11335292/v1",
+      "date": "2026-11-09",
+      "authors": "Tellez A, Laadhari A, Hajibeygi H, Kobaisi MA.",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://europepmc.org/article/PPR/PPR1361854",
+      "preprint": true,
+      "review": false,
+      "pmcid": "",
+      "pmid": "",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "bioinformatics_method_or_resource",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "gene",
+          "method",
+          "simulation"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "gene",
+            "method",
+            "simulation"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "collection_order": 5268,
+      "collected_at": "2026-11-21T02:12:50.375049+00:00",
+      "collected_date": "2026-11-21",
+      "sources": [
+        "Europe PMC bioinformatics"
+      ],
+      "first_seen": "2026-11-21",
+      "related_dois": [
+        "10.21203/rs.3.rs-11335292/v1"
+      ],
+      "translation": {
+        "title": {
+          "hash": "995c3fc6c33834f67f34d71a05eceb4413634e503d3b53025dcf3ef1099d3b99",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-21T02:47:24.024899+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "6809f8f648ed921ae1a6d89e31ada4058c4bf9c548e78ce14dc0f9a84b644762",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-21T02:47:24.024899+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "亀裂入り貯留層シミュレーションのためのフラックス制約付き一般化有限差分法",
+      "abstract_ja": "要旨　一般化有限差分定式化（GFDM）に基づくメッシュレス手法は、大域的なメッシュ生成を不要にし、任意の点配置を可能にすることで、貯留層シミュレーションにおいて顕著な利点をもたらす。しかし、標準的なGFDM実装では、局所的な質量保存性を強制することができない。本研究では、幾何学的柔軟性を損なうことなく制約付きメッシュレス演算子を通じて局所的な質量保存性を実現するフラックス制約付きGFDM（FC-GFDM）を開発し、組み込み離散破砕モデリング（EDFM）フレームワークを用いてこれを破砕貯留層へと拡張する。各ノードに対して、本手法は局所的な支持領域を定義し、この領域内でドロネー三角形分割を行うことで、共有四面体の外心または重心を結ぶ双対セルとして制御体積を構築する。この局所的な構築手法は大域的なメッシュ接続を必要とせず、再メッシュ化を行うことなく任意の点の追加や削除が可能である。外心に基づく双対セルの垂直二等分線（PEBI）特性は、効率的な2点フラックス近似のための自然な直交性を提供する。メッシュレス演算子は、ステンシル係数がテイラー級数の整合性と制御体積上の離散フラックスバランスを同時に満たす制約付き移動最小二乗法によって定式化される。行列-破砕相互作用については、本手法ではEDFMを採用し、破砕を3次元行列点分布内に埋め込まれた2次元曲面として表現する。メッシュレス演算子の回転不変特性は、結合計算における方向バイアスを排除し、任意の向きや交差を持つ破砕の取り扱いを大幅に簡素化する。非直交幾何学およびフルテンソル異方性透水性に対応する多点スキームを提示する。数値テストは、不規則な点分布における保存特性と空間離散化精度を示すよう慎重に設計されている。その結果、本FC-GFDMが多様なシミュレーション問題において実用的であることが示された。",
+      "answer_journal": null,
+      "question_type": "forecast",
+      "options": [
+        "Current sleep medicine reports",
+        "Journal of infection and public health",
+        "Respirology case reports",
+        "Skin research and technology : official journal of International Society for Bioengineering and the Skin (ISBS) [and] International Society for Digital Imaging of Skin (ISDIS) [and] International Society for Skin Imaging (ISSI)"
+      ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC bioinformatics",
+          "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "preprint"
+      ],
+      "id": "10.31234/osf.io/jev3u_v1",
+      "title": "A Bi-Factor Generalized Cognitive Diagnosis Model Framework",
+      "abstract": "Cognitive diagnosis models (CDMs) are often applied to constructs that are largely unidimensional in nature (e.g., mathematics, reading, mental health status) where a set of discrete attributes coexists with a dominant general proficiency dimension. This article presents the bi-factor CDM model (BF-CDM), which partitions item responses into a direct effect of continuous general proficiency and a discrete attribute-mastery tier, allowing mastery classifications to be made beyond what is attributable to general ability. By modeling both tiers explicitly, the BF-CDM makes it possible to evaluate the contribution of the discrete tier itself. Specifically, it can show whether the hypothesized attributes carry diagnostic information beyond general proficiency, both through model comparison with the nested unidimensional model and through the reliability of the attribute-specific component. A simulation study manipulating sample size, test length, number of attributes, and attribute-tier discrimination shows accurate recovery of item and person parameters, and of the model-implied response functions. An application to reading comprehension data from PISA illustrates the practical value of the model: reliability of attribute-mastery classifications drops substantially once variance attributable to general proficiency is partialled out, indicating that much of the apparent diagnostic precision obtained under a saturated attribute structure reflects a single dominant general factor.",
+      "journal": "",
+      "doi": "10.31234/osf.io/jev3u_v1",
+      "date": "2026-11-06",
+      "authors": "Kreitchmann RS, Nájera P, Abad FJ.",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://europepmc.org/article/PPR/PPR1360670",
+      "preprint": true,
+      "review": false,
+      "pmcid": "",
+      "pmid": "",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "bioinformatics_method_or_resource",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "framework",
+          "gene"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "framework",
+            "gene"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "collection_order": 5282,
+      "collected_at": "2026-11-21T02:12:50.375049+00:00",
+      "collected_date": "2026-11-21",
+      "sources": [
+        "Europe PMC bioinformatics"
+      ],
+      "first_seen": "2026-11-21",
+      "related_dois": [
+        "10.31234/osf.io/jev3u_v1"
+      ],
+      "translation": {
+        "title": {
+          "hash": "cab0de00bbd0318e5d507f2f1687e1e32003a7fb950684aecf21e51a558d8a6c",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-21T02:50:19.390352+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "31c0d2440175beb93044328d2b0df1bdcabbff853979dad8ef835d0ae9cb115b",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-21T02:50:19.390352+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "二因子一般化認知診断モデルフレームワーク",
+      "abstract_ja": "認知診断モデル（CDM）は、本質的に概ね一次元的な構成概念（例：数学、読解、メンタルヘルスの状態）に適用されることが多く、そこでは一連の離散的な属性が、支配的な一般的習熟度次元と共存している。本稿では、項目反応を連続的な一般的習熟度の直接効果と、離散的な属性習熟度ティアに分割する二因子CDMモデル（BF-CDM）を提示する。これにより、一般的能力に起因する範囲を超えて習熟度の分類を行うことが可能となる。両ティアを明示的にモデル化することで、BF-CDMは離散ティア自体の寄与を評価することを可能にする。具体的には、入れ子構造の一次元モデルとのモデル比較、および属性固有成分の信頼性の双方を通じて、仮説上の属性が一般的習熟度を超えて診断情報を保持しているか否かを示すことができる。サンプルサイズ、テスト長、属性数、および属性ティアの判別を操作したシミュレーション研究により、項目および個人のパラメータ、ならびにモデルから導出される反応関数が正確に再現されることが示された。PISAの読解力データへの適用により、本モデルの実用的価値が例証される。一般的習熟度に起因する分散を除外すると属性習熟度分類の信頼性が著しく低下し、飽和した属性構造の下で得られた見かけ上の診断精度の多くが、単一の支配的な一般的因子を反映していることを示している。",
+      "answer_journal": null,
+      "question_type": "forecast",
+      "options": [
+        "Journal of applied toxicology : JAT",
+        "Journal of thoracic disease",
+        "Equine veterinary journal",
+        "Analytica chimica acta"
+      ]
+    },
+    {
+      "id": "10.64898/2026.11.19.767971",
+      "title": "Two novel plant-derived yeast species in Thailandicola (Microbotryomycetes): comparative genomics and transformation",
+      "abstract": "Plant tissues and surfaces are among the largest microbial habitats on Earth, and commensal yeasts are common members of these communities, where they can contribute to plant-microbe interactions including the biological control of plant diseases. Here, we describe two novel species of unpigmented, basidiomycete yeasts, in the class Microbotryomycetes from the plant phyllosphere (Thailandicola erigeronia and T. cardamina) represented by three isolates from leaves of multiple hosts. We characterize these taxa through analyses of metabolic requirements, tolerance to differences in osmolarity, pH, and temperature, and enzymatic activities. In parallel, we generate near-chromosome-scale hybrid genomes annotated with transcriptome data for these novel species and a congenic isolate. We employ whole-genome and multilocus phylogenetic approaches to infer the placement of these species within a monophyletic clade. We use comparative genomics to examine how the gene content of these yeasts differs from that of other members of the Microbotryomycetes, including an apparent proliferation of retrotransposons. We further demonstrate the genetic transformability of these taxa using Agrobacterium tumefaciens-mediated transformation. The description of these new species, together with high-quality genome resources and a genetic transformation protocol, establishes a foundation for experimental studies of these novel plant-derived yeasts and their interactions with hosts and other microbes.",
+      "journal": "",
+      "doi": "10.64898/2026.11.19.767971",
+      "date": "2026-11-20",
+      "authors": "Liber, J. A., He, S. Y., Coelho, M. A.",
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ],
+      "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.19.767971v1?rss=1",
+      "abstract_source": "rss",
+      "preprint": true,
+      "topic_filter": {
+        "accepted": true,
+        "reason": "microbial_evidence",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "microbe",
+          "microbes",
+          "microbial",
+          "yeast",
+          "yeasts"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "genom",
+            "genome",
+            "genomic",
+            "phylogen",
+            "phylogenetic",
+            "transcript"
+          ],
+          "evolution": [
+            "phylogenetic"
+          ]
+        },
+        "tags": [
+          "微生物ゲノミクス",
+          "微生物進化"
+        ]
+      },
+      "discovery": [
+        {
+          "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+          "query": "RSS feed",
+          "scope": "candidate"
+        }
+      ],
+      "collection_order": 5440,
+      "collected_at": "2026-11-21T02:23:23.634265+00:00",
+      "collected_date": "2026-11-21",
+      "sources": [
+        "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+      ],
+      "first_seen": "2026-11-21",
+      "related_dois": [
+        "10.64898/2026.11.19.767971"
+      ],
+      "translation": {
+        "title": {
+          "hash": "7ce00b385935e445a7deba88545da45875aacc862ab442c658f2c74bc1c457b8",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-21T02:44:57.686867+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "3227004082e0fa91519bec192bdc476bacfcc061e93a68530469d9b669e64946",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-21T02:44:57.686867+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "タイにおける植物由来の2種の新規酵母（Microbotryomycetes）：比較ゲノミクスと形質転換",
+      "abstract_ja": "植物組織および表面は、地球上で最大規模の微生物生息地の一つであり、共生酵母はこれらの群集の一般的な構成員として、植物病害の生物学的制御を含む植物と微生物の相互作用に寄与している。本研究では、植物葉圏に生息するミクロボトリomycetes綱の、色素を持たない担子菌類酵母の2つの新種（Thailandicola erigeroniaおよびT. cardamina）について、複数の宿主の葉から得られた3つの分離株を用いて報告する。我々は、代謝要求性、浸透圧・pH・温度の差異に対する耐性、および酵素活性の解析を通じて、これらの分類群の特性を明らかにする。並行して、これらの新種および同系分離株について、トランスクリプトームデータがアノテーションされた染色体スケールに近いハイブリッドゲノムを構築する。全ゲノム解析およびマルチローカス系統解析手法を用いて、これらの種が単系統群内においてどのような位置にあるかを推定する。比較ゲノミクスを用いて、これらの酵母の遺伝子構成がミクロボトリomycetes綱の他のメンバーとどのように異なるかを検討し、レトロトランスポゾンの顕著な増殖を確認した。さらに、Agrobacterium tumefaciensを介した形質転換を用いて、これらの分類群の遺伝的形質転換能を実証する。これらの新種の記載は、高品質なゲノムリソースおよび遺伝的形質転換プロトコルとともに、これら新規の植物由来酵母と、宿主および他の微生物との相互作用に関する実験的研究の基盤となるものである。",
+      "answer_journal": null,
+      "question_type": "forecast",
+      "options": [
+        "The European journal of neuroscience",
+        "Sleep",
+        "American journal of orthodontics and dentofacial orthopedics : official publication of the American Association of Orthodontists, its constituent societies, and the American Board of Orthodontics",
+        "Public health weekly report"
+      ]
     }
   ],
   "journal_catalog": [
@@ -75747,6 +76791,13 @@
       ]
     },
     {
+      "name": "Artificial intelligence in medicine",
+      "scope": [
+        "genomics",
+        "microbiology"
+      ]
+    },
+    {
       "name": "Astrobiology",
       "scope": [
         "ecology",
@@ -75941,6 +76992,13 @@
     },
     {
       "name": "Biologia futura",
+      "scope": [
+        "genomics",
+        "microbiology"
+      ]
+    },
+    {
+      "name": "Biological cybernetics",
       "scope": [
         "genomics",
         "microbiology"
@@ -77900,6 +78958,13 @@
     },
     {
       "name": "European journal of pharmacology",
+      "scope": [
+        "genomics",
+        "microbiology"
+      ]
+    },
+    {
+      "name": "European journal of radiology",
       "scope": [
         "genomics",
         "microbiology"
@@ -80632,6 +81697,13 @@
     },
     {
       "name": "The Lancet. Public health",
+      "scope": [
+        "genomics",
+        "microbiology"
+      ]
+    },
+    {
+      "name": "Lancet regional health. Americas",
       "scope": [
         "genomics",
         "microbiology"
