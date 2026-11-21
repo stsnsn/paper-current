@@ -314572,5 +314572,312 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "病理報告書を用いたがんグレード予測およびがん間転移学習のための階層型時系列Transformer",
     "abstract_ja": "背景  がん報告書向けの言語モデルは通常、一度に1つの文書を読み込み、学習に用いた腫瘍タイプでテストされる。連続時間シーケンスモデルはこの最初の課題に対処するが、単に順序だけでなく受診タイミングまで利用しているかについては、ほとんど検証されていない。手法  我々は、適応させたBiomedBERTで報告書をエンコードし、がんタイプを条件とした時間的Transformerでシーケンスを読み取るHierarchical Temporal Transformer (HTT) を開発した。2つの合成ベンチマークを用いて、可能な限り最高のAUROC天井値で評価を行った。一方はテキスト内にラベルが記載されており、もう一方は腫瘍サイズと受診間隔からのみ復元可能なものであった（10個のシード）。診断手法により、間隔を考慮した時間コード (HTT-IA) を導出した。14タイプにわたる4,786件のTCGA病理報告書（うち3タイプは除外）を用い、テキストのみのHTTと生存モデルを比較した。結果  フレーズベンチマークにおいて、HTTはAUROC 0.931 ± 0.012を記録したのに対し、最終報告書ベースラインは0.913 ± 0.007であった（+0.018, 95% CI −0.009 to +0.050）。日付情報を用いても、そこでの天井値を引き上げることはできない。増殖ベンチマークでは、初期の時間コードは0.790を記録し、時間情報なしのモデル（0.787）と同等であったが、HTT-IAは0.843（+0.053, 0.026 to 0.082）に達し、天井値は日付なしで0.894、日付ありで0.979であった。未知の腫瘍タイプにおいて、HTTは0.925 ± 0.007を記録し、分布内性能および単一報告書ベースラインと同等であった。テキストのみのマクロC指数は0.592（CALM 0.626–0.652）であった。結論  タイプ間転移は、事前学習済みエンコーダによって実現される。受診タイミングは、データから識別可能であり、かつ時間コードが臨床スケールである場合にのみ用いられる。天井値、順序のみのアブレーション、および再日付プローブは、こうしたモデルに対する簡便な検証手段となる。意義の表明"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.31234/osf.io/jev3u_v1",
+    "title": "A Bi-Factor Generalized Cognitive Diagnosis Model Framework",
+    "abstract": "Cognitive diagnosis models (CDMs) are often applied to constructs that are largely unidimensional in nature (e.g., mathematics, reading, mental health status) where a set of discrete attributes coexists with a dominant general proficiency dimension. This article presents the bi-factor CDM model (BF-CDM), which partitions item responses into a direct effect of continuous general proficiency and a discrete attribute-mastery tier, allowing mastery classifications to be made beyond what is attributable to general ability. By modeling both tiers explicitly, the BF-CDM makes it possible to evaluate the contribution of the discrete tier itself. Specifically, it can show whether the hypothesized attributes carry diagnostic information beyond general proficiency, both through model comparison with the nested unidimensional model and through the reliability of the attribute-specific component. A simulation study manipulating sample size, test length, number of attributes, and attribute-tier discrimination shows accurate recovery of item and person parameters, and of the model-implied response functions. An application to reading comprehension data from PISA illustrates the practical value of the model: reliability of attribute-mastery classifications drops substantially once variance attributable to general proficiency is partialled out, indicating that much of the apparent diagnostic precision obtained under a saturated attribute structure reflects a single dominant general factor.",
+    "journal": "",
+    "doi": "10.31234/osf.io/jev3u_v1",
+    "date": "2026-11-06",
+    "authors": "Kreitchmann RS, Nájera P, Abad FJ.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1360670",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "framework",
+          "gene"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5282,
+    "collected_at": "2026-11-21T02:12:50.375049+00:00",
+    "collected_date": "2026-11-21",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-21",
+    "related_dois": [
+      "10.31234/osf.io/jev3u_v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "cab0de00bbd0318e5d507f2f1687e1e32003a7fb950684aecf21e51a558d8a6c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T02:50:19.390352+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "31c0d2440175beb93044328d2b0df1bdcabbff853979dad8ef835d0ae9cb115b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T02:50:19.390352+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "二因子一般化認知診断モデルフレームワーク",
+    "abstract_ja": "認知診断モデル（CDM）は、本質的に概ね一次元的な構成概念（例：数学、読解、メンタルヘルスの状態）に適用されることが多く、そこでは一連の離散的な属性が、支配的な一般的習熟度次元と共存している。本稿では、項目反応を連続的な一般的習熟度の直接効果と、離散的な属性習熟度ティアに分割する二因子CDMモデル（BF-CDM）を提示する。これにより、一般的能力に起因する範囲を超えて習熟度の分類を行うことが可能となる。両ティアを明示的にモデル化することで、BF-CDMは離散ティア自体の寄与を評価することを可能にする。具体的には、入れ子構造の一次元モデルとのモデル比較、および属性固有成分の信頼性の双方を通じて、仮説上の属性が一般的習熟度を超えて診断情報を保持しているか否かを示すことができる。サンプルサイズ、テスト長、属性数、および属性ティアの判別を操作したシミュレーション研究により、項目および個人のパラメータ、ならびにモデルから導出される反応関数が正確に再現されることが示された。PISAの読解力データへの適用により、本モデルの実用的価値が例証される。一般的習熟度に起因する分散を除外すると属性習熟度分類の信頼性が著しく低下し、飽和した属性構造の下で得られた見かけ上の診断精度の多くが、単一の支配的な一般的因子を反映していることを示している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.31234/osf.io/jev3u",
+    "title": "A Bi-Factor Generalized Cognitive Diagnosis Model Framework",
+    "abstract": "Cognitive diagnosis models (CDMs) are often applied to constructs that are largely unidimensional in nature (e.g., mathematics, reading, mental health status) where a set of discrete attributes coexists with a dominant general proficiency dimension. This article presents the bi-factor CDM model (BF-CDM), which partitions item responses into a direct effect of continuous general proficiency and a discrete attribute-mastery tier, allowing mastery classifications to be made beyond what is attributable to general ability. By modeling both tiers explicitly, the BF-CDM makes it possible to evaluate the contribution of the discrete tier itself. Specifically, it can show whether the hypothesized attributes carry diagnostic information beyond general proficiency, both through model comparison with the nested unidimensional model and through the reliability of the attribute-specific component. A simulation study manipulating sample size, test length, number of attributes, and attribute-tier discrimination shows accurate recovery of item and person parameters, and of the model-implied response functions. An application to reading comprehension data from PISA illustrates the practical value of the model: reliability of attribute-mastery classifications drops substantially once variance attributable to general proficiency is partialled out, indicating that much of the apparent diagnostic precision obtained under a saturated attribute structure reflects a single dominant general factor.",
+    "journal": "",
+    "doi": "10.31234/osf.io/jev3u",
+    "date": "2026-11-06",
+    "authors": "Kreitchmann RS, Nájera P, Abad FJ.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1360669",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "framework",
+          "gene"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5283,
+    "collected_at": "2026-11-21T02:12:50.375049+00:00",
+    "collected_date": "2026-11-21",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-21",
+    "related_dois": [
+      "10.31234/osf.io/jev3u"
+    ],
+    "translation": {
+      "title": {
+        "hash": "cab0de00bbd0318e5d507f2f1687e1e32003a7fb950684aecf21e51a558d8a6c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T02:50:19.390352+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "31c0d2440175beb93044328d2b0df1bdcabbff853979dad8ef835d0ae9cb115b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T02:50:19.390352+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "二因子一般化認知診断モデルフレームワーク",
+    "abstract_ja": "認知診断モデル（CDM）は、本質的に概ね一次元的な構成概念（例：数学、読解、メンタルヘルスの状態）に適用されることが多く、そこでは一連の離散的な属性が、支配的な一般的習熟度次元と共存している。本稿では、項目反応を連続的な一般的習熟度の直接効果と、離散的な属性習熟度ティアに分割する二因子CDMモデル（BF-CDM）を提示する。これにより、一般的能力に起因する範囲を超えて習熟度の分類を行うことが可能となる。両ティアを明示的にモデル化することで、BF-CDMは離散ティア自体の寄与を評価することを可能にする。具体的には、入れ子構造の一次元モデルとのモデル比較、および属性固有成分の信頼性の双方を通じて、仮説上の属性が一般的習熟度を超えて診断情報を保持しているか否かを示すことができる。サンプルサイズ、テスト長、属性数、および属性ティアの判別を操作したシミュレーション研究により、項目および個人のパラメータ、ならびにモデルから導出される反応関数が正確に再現されることが示された。PISAの読解力データへの適用により、本モデルの実用的価値が例証される。一般的習熟度に起因する分散を除外すると属性習熟度分類の信頼性が著しく低下し、飽和した属性構造の下で得られた見かけ上の診断精度の多くが、単一の支配的な一般的因子を反映していることを示している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-10936613/v1",
+    "title": "SPH-DiffDance: Semantic Prototype Reconstruction and Hypergraph-Enhanced Diffusion Framework for Long-Sequence Music-Driven Dance Generation",
+    "abstract": "Abstract  Long-sequence music-driven dance generation remains a challenging task, as existing methods still struggle with unstable global choreography semantics, insufficient local pose coordination, and difficulty in preserving complex motion details. Aiming to address these issues, we propose a Semantic Prototype Reconstruction and Hypergraph-Enhanced Diffusion Framework for Long-Sequence Music-Driven Dance Generation (SPH-DiffDance), refining motion from global semantic structure to local pose details. SPH-DiffDance follows a coarse-to fine diffusion framework, designing a Semantic Prototype Reconstruction (SPR) module at the coarse stage to provide semantic guidance for motion generation through constructing a learnable global dance prototype library. The motion latent features are queried and reconstructed, transforming continuous motion representations into prototype representations with semantic constraints. This process enhances the thematic consistency and long-range choreography stability of generated dances. Building upon established global semantics, a Hypergraph-Enhanced Pose Refinement (HEPR) module further improves local motion quality by modeling high-order motion correlations among the trunk, limbs, and feet through hyperedges. Compared with conventional skeleton graphs that mainly describe pairwise joint connections, the hypergraph structure provides richer representations of complex human motion relationships and improves pose coordination and structural rationality. Foot-contact constraints are also incorporated to refine local motion details and reduce foot sliding and abnormal poses. Experiments on the AIST++ music-driven dance generation dataset demonstrate that SPH-DiffDance can generate long-sequence 3D dances with good musical synchronization, motion continuity, and structural consistency.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-10936613/v1",
+    "date": "2026-11-06",
+    "authors": "Hu Z, Wu Y, Li X, Xu C.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1360163",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "framework",
+          "gene",
+          "sequence"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5284,
+    "collected_at": "2026-11-21T02:12:50.375049+00:00",
+    "collected_date": "2026-11-21",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-21",
+    "related_dois": [
+      "10.21203/rs.3.rs-10936613/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "baf79ba845509627a0f01985181414b8a7423c61a7b3d0653307d98318c06beb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T02:50:19.390352+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9df4122841a0dbcac5f88f0ef03dcac6d7316b8f2405305c51b22eb48261a167",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T02:50:19.390352+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "SPH-DiffDance: 長尺シーケンスの音楽駆動型ダンス生成に向けた意味的プロトタイプ再構成とハイパーグラフ強化型拡散フレームワーク",
+    "abstract_ja": "要旨　長尺シーケンスの音楽駆動型ダンス生成は、既存手法において依然として不安定な大域的振付セマンティクス、不十分な局所ポーズ協調、および複雑な動作詳細の保持の困難さといった課題を抱えており、依然として困難なタスクである。これらの課題に対処するため、我々は大域的セマンティック構造から局所的なポーズ詳細へと動作を精緻化する「長尺シーケンス音楽駆動型ダンス生成のためのセマンティック・プロトタイプ再構成およびハイパーグラフ強化拡散フレームワーク（SPH-DiffDance）」を提案する。SPH-DiffDanceは粗から精への拡散フレームワークを採用しており、粗段階においてセマンティック・プロトタイプ再構成（SPR）モジュールを設計し、学習可能な大域的ダンスプロトタイプライブラリを構築することで動作生成にセマンティックなガイダンスを提供する。動作の潜在特徴量がクエリされ再構成されることで、連続的な動作表現がセマンティック制約を伴うプロトタイプ表現へと変換される。このプロセスにより、生成されるダンスの主題的な一貫性と長距離振付の安定性が向上する。確立された大域的セマンティクスに基づき、ハイパーグラフ強化ポーズ精緻化（HEPR）モジュールが、ハイパーエッジを通じて体幹、肢体、および足部間の高次動作相関をモデル化することで、局所的な動作品質をさらに向上させる。主にペアワイズな関節接続を記述する従来のスケルトングラフと比較して、ハイパーグラフ構造は複雑な人間の動作関係をより豊かに表現し、ポーズ協調と構造的合理性を向上させる。また、足部接触制約を組み込むことで、局所的な動作詳細を精緻化し、足部の滑りや異常なポーズを低減させる。AIST++音楽駆動型ダンス生成データセットを用いた実験により、SPH-DiffDanceが良好な音楽同期、動作の連続性、および構造的一貫性を備えた長尺シーケンスの3Dダンスを生成できることが実証された。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.12688/wellcomeopenres.28109.1",
+    "title": "The genome sequence of Toad Rush, Juncus bufonius L. (Poales: Juncaceae)",
+    "abstract": "We present a genome assembly of  Juncus bufonius (Toad Rush; Streptophyta; Magnoliopsida; Poales; Juncaceae). The assembly consists of two haplotypes with total lengths of 773.78 megabases and 738.46 megabases. Most of the haplotype 1 assembly (97.88%) was scaffolded into 53 chromosomal pseudomolecules. Haplotype 2 was assembled to scaffold level. The mitochondrial genome assembly has a length of 993.69 kilobases and the plastid genome assembly has a length of 169.52 kilobases. This assembly was generated as part of the Darwin Tree of Life project, which produces reference genomes for eukaryotic species found in Britain and Ireland.",
+    "journal": "",
+    "doi": "10.12688/wellcomeopenres.28109.1",
+    "date": "2026-11-06",
+    "authors": "Ruhsam M, Royal Botanic Garden Edinburgh Genome Acquisition Lab, Plant Genome Sizing Collective, Darwin Tree of Life Barcoding collective, Wellcome Sanger Institute Tree of Life Management, Samples and Laboratory team, Wellcome Sanger Institute Scientific Operations: Sequencing Operations, Wellcome Sanger Institute Tree of Life Core Informatics team, Tree of Life Core Informatics collective, Darwin Tree of Life Consortium.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1359819",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "assembly",
+        "genome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5285,
+    "collected_at": "2026-11-21T02:12:50.375049+00:00",
+    "collected_date": "2026-11-21",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-21",
+    "related_dois": [
+      "10.12688/wellcomeopenres.28109.1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "63d9d33842007eab05d42cb02d9d7d589efed60b24a9b0708930eea13a650974",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T02:50:19.390352+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "abea2b9d817cf717b4060a4eff0465533793ac94ca476f075395edf79bb6456e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T02:50:19.390352+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "オオガマ（Juncus bufonius L.、イネ目：イグサ科）のゲノム配列",
+    "abstract_ja": "Juncus bufonius（ガマ類；ストレプト藻門；マグノリオプシダ綱；イネ目；イグサ科）のゲノムアセンブリを提示する。本アセンブリは、総長773.78メガベースおよび738.46メガベースの2つのハプロタイプから構成される。ハプロタイプ1アセンブリの大部分（97.88%）は、53個の染色体擬似分子へとスキャフォールディングされた。ハプロタイプ2はスキャフォールドレベルでアセンブルされた。ミトコンドリアゲノムアセンブリの全長は993.69キロベース、プラスチドゲノムアセンブリの全長は169.52キロベースである。本アセンブリは、英国およびアイルランドに生息する真核生物種のリファレンスゲノムを構築するDarwin Tree of Lifeプロジェクトの一環として作成された。"
   }
 ]
