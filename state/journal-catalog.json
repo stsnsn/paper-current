@@ -88,6 +88,13 @@
     ]
   },
   {
+    "name": "ACS synthetic biology",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Acta biochimica et biophysica Sinica",
     "scope": [
       "genomics",
@@ -245,6 +252,13 @@
   },
   {
     "name": "American journal of epidemiology",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "American journal of human biology : the official journal of the Human Biology Council",
     "scope": [
       "genomics",
       "microbiology"
@@ -887,6 +901,13 @@
     "name": "Bioelectrochemistry (Amsterdam, Netherlands)",
     "scope": [
       "ecology",
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "BioFactors (Oxford, England)",
+    "scope": [
       "genomics",
       "microbiology"
     ]
@@ -7612,6 +7633,13 @@
   },
   {
     "name": "Psychoneuroendocrinology",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Psycho-oncology",
     "scope": [
       "genomics",
       "microbiology"
