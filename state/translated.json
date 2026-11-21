@@ -315559,5 +315559,297 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "EGF刺激によるPIP3合成におけるPIP5Kアイソフォームおよびホスホイノシチド分子種：MCF10A細胞を用いた酵素遺伝学的抑制および化学的阻害による多手法的アプローチ",
     "abstract_ja": "膜リン脂質PI(4,5)P2は構造的機能を有し、PLCおよびPI3K酵素がIns(1,4,5)P3、DAG、およびPI(3,4,5)P3シグナルを生成するための基質となる。PI4Pを5-リン酸化するPIP5Ksは、哺乳類細胞におけるPI(4,5)P2の主要な供給源である。現在の知見では、PI(4,5)P2の異なるプールがPIP5Kα、β、およびγアイソフォームによってそれぞれ異なる様式で生成され、それぞれ異なる生理学的機能に関与している可能性が示唆されている。ホスホイノシチドはアシル鎖変異体のファミリーで構成されているが、特にC38:4種に豊富に存在する。PIP5KsがPI(4)Pの特定のアシル鎖種を選択的に標的とする証拠がある。我々は、PIP5Ksの阻害がPIP3の産生にどのような影響を及ぼすか、また、非形質化ヒト細胞株（MCF10A細胞）においてクラスI PI3Ksを供給し、明確な分子種変異体プロファイルによって特徴づけられる可能性のあるPI(4,5)P2プールの合成を、これらがそれぞれ異なる様式で支持しているかどうかを解明することを目的とした。siRNA、Cas9/CRISPR介在性遺伝子ノックアウト（k/o）、近年開発された選択的低分子PIP5K阻害剤、および質量分析法に基づくリピドミクス技術を組み合わせて、これらの疑問に取り組む試みを行った。その結果、MCF10A細胞はPIP5Kαおよびγのみを発現しており、いずれのタンパク質のsiRNA介在性還元またはk/oによっても、上皮成長因子（EGF）刺激下のMCF10A細胞におけるホスホイノシチドのレベルやアシル鎖プロファイルに変化は認められないことが判明した。また、選択的なPIP5K阻害により、PIP2およびEGF刺激によるPIP3のレベルが低下し、PIPのレベルが上昇したが、これらの脂質のアシル鎖プロファイルはいずれもMCF10A細胞において有意に変化しなかった。さらに、この細胞株において、EGF刺激によるAkt、EGF受容体（EGFR）、およびMAPKのリン酸化もPIP5K阻害剤によって低下することが認められた。これらの結果を詳細に解析するため、選択的PI3Kα阻害剤（A66）の影響を検討したところ、本剤はPIP3の蓄積とAktのリン酸化を阻害し、MAPKのリン酸化を低下させたが、総EGFRまたはそのリン酸化には影響を及ぼさなかった。このことは、MCF10A細胞におけるクラスI PI3KおよびMAPKのEGF刺激による活性化の間に、何らかの相互作用が存在することを示唆している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1371/journal.pone.0361966",
+    "title": "Amplified MS2 labeling reveals heterogeneous dynamics of RNA granules in the live murine brain ex vivo.",
+    "abstract": "Dynamics of messenger ribonucleic acids (mRNAs) and the complexes with associated proteins (RNPs), also known as RNA granules, provide post-transcriptional control of gene expression. This regulation is crucial for cell-type diversity and activity-dependent plasticity of the mammalian central nervous system (CNS). However, elucidating the physiological significance of RNA granules has been hampered by technical difficulties to probe them in live brain. Here, we describe a novel method to visualize RNA granules in native CNS tissues of mouse. To amplify the fluorescence signal from single mRNAs incorporating MS2 stem loops, MS2 capsid protein (MCP) was conjugated with 4 tandem superfolder green fluorescent proteins (sfGFPs). Using MCP-4 × sfGFP, significantly more RNPs could be detected in the fresh acute brain slices than with MCP-GFP. Amplified MS2 signal could visualize Actb mRNAs in specific cells, either driven by promoter or via Cre-dependent expression, revealing remarkably distinct localization and movements of RNPs across different CNS cell types, including neurons and glial cells. The highly sensitive live-tissue RNA imaging could be useful for investigating the regulation of the dynamics of RNA granules in the native niche, ultimately in naive and diseased animal models.",
+    "journal": "PLOS ONE",
+    "doi": "10.1371/journal.pone.0361966",
+    "date": "2026-11-05",
+    "authors": "Lim H, Cooper GP.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42986850",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13739103",
+    "pmid": "42986850",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "method"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5298,
+    "collected_at": "2026-11-21T09:55:27.385518+00:00",
+    "collected_date": "2026-11-21",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-21",
+    "related_dois": [
+      "10.1371/journal.pone.0361966"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e38e094556ce9844472a49723fe86b55665e6565291d926da5c5a16eda3cffbe",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T10:35:30.904939+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "de2741bd9bd4a84dd6cabd7e01e663d8e228277757f5dcc4a66a4852a49102aa",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T10:35:30.904939+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "増幅MS2標識により、マウス生体脳ex vivoにおけるRNA顆粒の不均一な動態が明らかになった。",
+    "abstract_ja": "メッセンジャーリボ核酸（mRNA）および関連タンパク質との複合体（RNP）――RNA顆粒としても知られる――の動態は、転写後における遺伝子発現制御を担っている。この調節機構は、哺乳類の中枢神経系（CNS）における細胞種の多様性と活性依存的な可塑性にとって極めて重要である。しかし、生体内の脳組織でRNA顆粒を解析する際の技術的困難により、その生理学的意義の解明は妨げられてきた。本研究では、マウスの天然状態のCNS組織においてRNA顆粒を可視化する新規手法について述べる。MS2ステムループを組み込んだ単一mRNAからの蛍光信号を増幅させるため、MS2カプシドタンパク質（MCP）を4つのタンデム型スーパーフォルダ緑色蛍光タンパク質（sfGFPs）と共役させた。MCP-4 × sfGFPを用いたところ、新鮮な急性脳切片において、MCP-GFPを用いた場合よりも有意に多くのRNPが検出された。増幅されたMS2信号により、プロモーター駆動またはCre依存的な発現を介して特定の細胞内のActb mRNAを可視化することができ、ニューロンやグリア細胞を含む異なるCNS細胞種間におけるRNPの著しく異なる局在と動態が明らかになった。この高感度な生組織RNAイメージングは、天然のニッチにおけるRNA顆粒の動態調節の研究、ひいては未処置および疾患モデル動物における研究に有用であると考えられる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1073/pnas.2626548123",
+    "title": "Normalized Raman imaging for studies of tissue physiology of the kidney.",
+    "abstract": "Conventional histology relies on fixation, embedding, sectioning, and staining methods that distort cellular architecture, extract lipids, and introduce variability, limiting reproducibility. We present a pipeline for automated histopathology in the mouse kidney using normalized stimulated Raman imaging (NoRI) that enables quantitative, label-free protein and lipid measurements at high spatial resolution. NoRI computationally corrects protein, lipid, and water Raman signals, allowing quantitative biomass measurements while preserving tissue architecture, facilitating analysis by convolutional neural networks (CNN) for quantitative, morphological feature extraction. Applied to mouse kidney, CNN analysis of NoRI images was able to accurately classify tubule types (F1=0.93; harmonic mean of precision and recall against immunofluorescence-defined labels), anatomical regions (F1 = 0.91), and biological sex (F1 = 0.97), revealing greater cytoplasmic lipid (+6.5 to 7.3 mg/mL; P ≤ 0.028) and nuclear protein (+26.3 mg/mL; P ≤ 0.001) in female tubules. Using acute kidney injury (AKI) in mice as a disease model to test our histopathology pipeline combining NoRI and CNNs, we captured dynamic lipid and protein organization and quantified brush border remodeling and lipid droplet changes over 25 d postinjury. Spatial lipid quantification was central for feature classification in AKI (F1 = 0.99). Quantitative NoRI images also significantly outperformed equivalent raw stimulated Raman scattering (SRS) images in distinguishing early time points (24 to 48 h) of ischemia-reperfusion injury [F1 = 0.99 (NoRI) vs. 0.84 (SRS); P < 0.0001], demonstrating the improvement of NoRI over conventional SRS imaging. These results establish our pipeline, which combines NoRI imaging with advanced CNN analyses, as a reproducible, quantitative method for histopathology and feature discovery.",
+    "journal": "PNAS",
+    "doi": "10.1073/pnas.2626548123",
+    "date": "2026-11-05",
+    "authors": "Trim WV, Oh S, Diakova M, Petrova K, Ichimura T, Takakura A, Karmakar R, Nørrelykke SF, Peshkin L, Bonventre JV, Kirschner MW.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42987000",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13751672",
+    "pmid": "42987000",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "pipeline",
+        "protein"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "pipeline",
+          "protein"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5295,
+    "collected_at": "2026-11-21T09:55:27.385518+00:00",
+    "collected_date": "2026-11-21",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-21",
+    "related_dois": [
+      "10.1073/pnas.2626548123"
+    ],
+    "translation": {
+      "title": {
+        "hash": "dd7fad178106c62aaf2eb89fef703509e8c1fdd1527c2311caf139fe4ae2db80",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T10:35:30.904939+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7a3071e88b4f1b28f3b91ed109f1c05bff9aa9bc7909fa368aa0d915e932fadb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T10:35:30.904939+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "腎臓の組織生理学研究のための正規化ラマンイメージング",
+    "abstract_ja": "従来の組織学では、固定、包埋、切片作製、および染色法に依存しており、これらの手法は細胞構造を歪め、脂質を抽出し、ばらつきを生じさせるため、再現性が制限されている。本研究では、正規化刺激ラマンイメージング（NoRI）を用いたマウス腎臓における自動組織病理学パイプラインを提案する。これにより、高い空間分解能で定量的なラベルフリーのタンパク質および脂質測定が可能となる。NoRIはタンパク質、脂質、および水のラマン信号を計算的に補正し、組織構造を保持したまま定量的なバイオマス測定を可能にするとともに、畳み込みニューラルネットワーク（CNN）による定量的な形態学的特徴抽出解析を容易にする。マウス腎臓に適用したところ、NoRI画像のCNN解析により、尿細管型（F1=0.93；免疫蛍光法で定義されたラベルに対する適合率と再現率の調和平均）、解剖学的領域（F1 = 0.91）、および生物学的性別（F1 = 0.97）を正確に分類でき、雌の尿細管において細胞質脂質（+6.5～7.3 mg/mL; P ≤ 0.028）および核タンパク質（+26.3 mg/mL; P ≤ 0.001）の含有量が高いことが明らかになった。マウスの急性腎障害（AKI）を疾患モデルとして用い、NoRIとCNNを組み合わせた組織病理学パイプラインを検証したところ、障害後25日間にわたる動的な脂質およびタンパク質の組織化を捉え、刷子縁のリモデリングおよび脂質滴の変化を定量化した。空間的な脂質定量は、AKIにおける特徴分類の中核を成した（F1 = 0.99）。また、定量的なNoRI画像は、虚血再灌流障害の初期時点（24～48時間）を判別する上で、同等の生の刺激ラマン散乱（SRS）画像を大幅に上回る性能を示した［F1 = 0.99 (NoRI) vs. 0.84 (SRS); P < 0.0001］。これは、従来のSRSイメージングに対するNoRIの優位性を実証するものである。これらの結果は、NoRIイメージングと高度なCNN解析を組み合わせた本パイプラインが、組織病理学および特徴発見のための再現性のある定量的手法であることを立証するものである。"
+  },
+  {
+    "id": "10.64898/2026.11.19.767496",
+    "title": "Emergence of mobile fosA3-blaCTX-M-65 with mcr-1.1 and tet(X4) on conjugative plasmids in avian pathogenic Escherichia coli from industrial poultry in Pakistan",
+    "abstract": "The emergence of plasmid-mediated resistance to critically important antimicrobials poses a growing threat to global health. Here we report the first genomic evidence of plasmid-mediated fosA3 and blaCTX-M-65 coexisting with mcr-1.1 and tet(X4) in multidrug-resistant Escherichia coli from clinically healthy broiler chickens in Pakistan. Among 1,677 high-quality genomes collected through antimicrobial resistance surveillance in Punjab, Pakistan, three isolates recovered between 2022 and 2024 harboured all four resistance determinants. Hybrid genome assemblies showed that fosA3 and blaCTX-M-65 were co-located on IncHI2A plasmids, whereas mcr-1.1 and tet(X4) were carried on separate IncI2 and IncFIA/IncFIC plasmids, all predicted to be conjugative; in one isolate the tet(X4) contig did not circularise. The isolates belonged to sequence type 93 and exhibited resistance to fosfomycin, colistin, tigecycline and cefotaxime. Comparative genomic analysis revealed highly conserved IncHI2A plasmid backbones, with an additional integron-associated resistance region in the 2024 isolates, suggesting acquisition of accessory resistance determinants. Resistance to three last-line antimicrobial classes and a canonical virulence profile now coexist on conjugative plasmids in poultry E. coli, a combination that favours co-selection and argues for plasmid-resolved surveillance in poultry production.",
+    "journal": "",
+    "doi": "10.64898/2026.11.19.767496",
+    "date": "2026-11-20",
+    "authors": "Umair, M., Fatima, F., Mathias, J., Iannetelli, T., Mohsin, M., Farlow, A., Walsh, T. R.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.19.767496v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assemblies",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5446,
+    "collected_at": "2026-11-21T10:06:00.579932+00:00",
+    "collected_date": "2026-11-21",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-21",
+    "related_dois": [
+      "10.64898/2026.11.19.767496"
+    ],
+    "translation": {
+      "title": {
+        "hash": "34ca8d6f80a04f14fc7aede8b22ce4ed70863d7a02a0d09b457d168a01e2f387",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T10:35:30.904939+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "20511096ac4503b3507d5ffafa447f4c32a7d320c6665613b448b298263a7479",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T10:35:30.904939+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "パキスタンの工業養鶏場由来の鳥病原性大腸菌における接合性プラスミド上のmcr-1.1およびtet(X4)を有する可動性fosA3-blaCTX-M-65の出現",
+    "abstract_ja": "極めて重要な抗菌薬に対するプラスミド媒介性耐性の出現は、世界的な公衆衛生に対する脅威となりつつある。本報では、パキスタンの臨床的に健康なブロイラー鶏由来の多剤耐性大腸菌において、プラスミド媒介性のfosA3およびblaCTX-M-65がmcr-1.1およびtet(X4)と共存するという初のゲノム学的証拠を報告する。パキスタン・パンジャブ州における抗菌薬耐性サーベイランスを通じて収集された1,677件の高品質なゲノムのうち、2022年から2024年にかけて回収された3株の分離株は、これら4つの耐性決定因子をすべて保有していた。ハイブリッドゲノムアセンブリにより、fosA3とblaCTX-M-65はIncHI2Aプラスミド上に共局在していた一方、mcr-1.1とtet(X4)はそれぞれ独立したIncI2およびIncFIA/IncFICプラスミドに担持されており、これらはすべて接合性であると予測された。1株の分離株では、tet(X4)コンティグは環状化しなかった。これらの分離株は配列型93に属し、ホスホマイシン、コリスチン、チゲサイクリン、およびセフォタキシムに対する耐性を示した。比較ゲノム解析により、高度に保存されたIncHI2Aプラスミドバックボーンが明らかとなり、さらに2024年の分離株ではインテグロン関連の耐性領域が追加的に認められたことから、補助的な耐性決定因子の獲得が示唆された。3つの最終ライン抗菌薬クラスに対する耐性と典型的な病原性プロファイルが、現在、家禽大腸菌の接合性プラスミド上で共存しており、この組み合わせは共選択を促進し、家禽生産におけるプラスミド解析に基づくサーベイランスの有用性を裏付けるものである。"
+  },
+  {
+    "id": "10.64898/2026.11.19.767834",
+    "title": "Multi-Cohort Blood Transcriptomic Meta-Analysis of Active Pulmonary Tuberculosis: Reproducibility of a 50-Gene Interferon Signature and Benchmarking of a 4-Gene Classifier",
+    "abstract": "Background: Most blood transcriptomic signatures for tuberculosis (TB) come from a single population or a single platform. Few have been built by meta-analysis and benchmarked against published signatures. Methods: We meta-analysed three UK blood transcriptomic datasets (two Illumina microarray, one RNA-seq; 247 samples: 87 active pulmonary TB (PTB), 160 healthy controls (HC)). GSE107991 reanalyses the Berry test set, and two discovery datasets overlap Sweeney's discovery data, so the datasets are not fully independent. Genes were retained if they replicated in all three studies (FDR  1.5, FDR < 0.01). Performance was estimated in GSE28623 (The Gambia, n = 83) and GSE56153 (Indonesia, n = 36); direction was checked in GSE34608 (Germany, n = 26) and GSE81746 (India, n = 6). A LASSO and random-forest classifier was compared with the Berry 393-gene and Sweeney 3-gene signatures. Immune composition was assessed with MCPcounter and CIBERSORTx. Results: We identified a 50-gene core signature dominated by interferon-stimulated genes. All 50 were upregulated and reached FDR < 0.05 in every dataset. ssGSEA gave an AUC of 0.830 (95% CI 0.743-0.917) in GSE28623 and 0.941 (0.868-1.000) in GSE56153. Direction agreement was 95.7% in Germany and 95.8% in India. PTB versus latent TB infection gave 0.848 (0.756-0.940). LASSO selected four genes (BATF2, ANKRD22, GBP5 and EPSTI1). The frozen classifier gave an external AUC of 0.864 (0.785-0.944). The Sweeney 3-gene score, re-tested in one of its validation cohorts, reached 0.912 and exceeded the 50-gene score (47/50 genes; Holm p = 0.0234). Berry 393-gene scoring gave 0.910 with directions reconstructed from GSE19439 (Holm p = 0.0071 versus the 50-gene score). The signed score is a reconstruction, not Berry's published score. MCPcounter showed myeloid expansion and lymphoid suppression; CIBERSORTx recovered the former but not the broader lymphoid suppression. Conclusions: The 50-gene signature was consistent across three overlapping UK discovery datasets. External evaluation was partial, comprising AUCs for 47 of the 50 genes in two cohorts and direction concordance in two smaller cohorts. This is a benchmarking study, not a claim of superiority: the Sweeney 3-gene and signed Berry scores were higher, and the 4-gene classifier did not differ significantly from Sweeney. The classifier warrants prospective validation. The Berry and Sweeney comparisons are not independent.",
+    "journal": "",
+    "doi": "10.64898/2026.11.19.767834",
+    "date": "2026-11-20",
+    "authors": "Hassan, U., Tahir, F., Bibi, A., Jamal, W., Kanwal, T.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.19.767834v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "benchmark",
+        "gene",
+        "transcriptomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5447,
+    "collected_at": "2026-11-21T10:06:00.579932+00:00",
+    "collected_date": "2026-11-21",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-21",
+    "related_dois": [
+      "10.64898/2026.11.19.767834"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7cff5575373e9fb4045edb9cbb25bc35e6efcd64726a06c43a4eea073f6e9bf3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T10:35:30.904939+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "50284672765fe58cd633492f82fd0a5a0ffe8a503ee281656969df7d7b251031",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T10:35:30.904939+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "活動性肺結核の多コホート血液トランスクリプトームメタ解析：50遺伝子インターフェロンシグネチャーの再現性と4遺伝子分類器のベンチマーク",
+    "abstract_ja": "背景：結核（TB）の血液トランスクリプトーム・シグネチャーの多くは、単一の集団または単一のプラットフォームに由来している。メタ解析によって構築され、既報のシグネチャーとベンチマークされた例は少ない。方法：英国の3つの血液トランスクリプトームデータセット（Illuminaマイクロアレイ2件、RNA-seq 1件；サンプル数247：活動性肺結核（PTB）87例、健常対照群（HC）160例）を対象にメタ解析を行った。GSE107991ではBerryテストセットを再解析し、2つの探索データセットがSweeneyの探索データと重複しているため、データセットは完全に独立しているわけではない。3つの研究すべてで再現された遺伝子（FDR 1.5、FDR < 0.01）を保持した。性能はGSE28623（ガンビア、n = 83）およびGSE56153（インドネシア、n = 36）で推定し、方向性はGSE34608（ドイツ、n = 26）およびGSE81746（インド、n = 6）で確認した。LASSOおよびランダムフォレスト分類器を、Berry 393遺伝子シグネチャーおよびSweeney 3遺伝子シグネチャーと比較した。免疫組成はMCPcounterおよびCIBERSORTxを用いて評価した。結果：インターフェロン刺激遺伝子が支配的な50遺伝子コアシグネチャーを同定した。50遺伝子すべてが発現上昇しており、すべてのデータセットでFDR < 0.05に達した。ssGSEAによるAUCは、GSE28623で0.830（95% CI 0.743-0.917）、GSE56153で0.941（0.868-1.000）であった。方向性の一致率は、ドイツで95.7%、インドで95.8%であった。PTB対潜在性結核感染のスコアは0.848（0.756-0.940）であった。LASSOは4つの遺伝子（BATF2, ANKRD22, GBP5, EPSTI1）を選択した。凍結分類器による外部AUCは0.864（0.785-0.944）であった。検証コホートの一つで再テストしたSweeney 3遺伝子スコアは0.912に達し、50遺伝子スコアを上回った（47/50遺伝子；Holm p = 0.0234）。Berry 393遺伝子スコアリングでは0.910が得られ、方向性はGSE19439から再構築された（Holm p = 0.0071、50遺伝子スコアに対し）。符号付きスコアは再構築されたものであり、Berryが公表したスコアではない。MCPcounterは骨髄系拡大とリンパ系抑制を示した。CIBERSORTxは前者を回収したが、より広範なリンパ系抑制は回収できなかった。結論：50遺伝子シグネチャーは、重複する3つの英国探索データセット間で一貫していた。外部評価は部分的であり、2つのコホートにおける50遺伝子のうち47遺伝子のAUCと、2つの小規模なコホートにおける方向性の一致で構成されていた。本研究はベンチマーク研究であり、優位性を主張するものではない。Sweeney 3遺伝子スコアおよび符号付きBerryスコアの方が高く、4遺伝子分類器はSweeneyと有意な差は認められなかった。本分類器は今後の検証が必要である。BerryとSweeneyの比較は独立していない。"
   }
 ]
