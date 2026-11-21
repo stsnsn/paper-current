@@ -318110,5 +318110,82 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "系列データの時空間特徴量に基づくガイガーモード・アバランシェ光ダイオード光検出・測距（GM‐APD LiDAR）のベイズ推定画像再構成手法に関する研究",
     "abstract_ja": "背景光の強いシーンでは、3次元LiDAR撮像において依然として撮像の不完全性や背景ノイズの残存といった課題が存在する。本論文では、シーケンスデータに基づくベイズ推定画像再構成手法を提案する。スパースな範囲強度シーケンスデータを構築し、シーケンスデータの信号確率と平均強度特徴量を融合して尤度項を構築することで、信号とノイズの差異を顕在化させる。時空間平均強度勾配解析を通じてMRF事前パラメータを適応的に推定し、エッジ保持特性を持つ空間連続性事前分布を構築する。ベイズ最大事後推定の枠組みにおいて、時空間特徴量の融合をエネルギー最小化問題へと変換する。次いで、反復条件付きモードアルゴリズムを用いて空間平均強度を制約条件とした最適範囲画像を求め、形態フィルタリングによって孤立したノイズ点を除去する。20,000フレームのデータ量において、730mシーンにおける再構成範囲画像の復元率は82.6%に達した。信号対背景比（SBR）が極めて低い2,000m長距離シーンでは、復元率は56.3%に達し、SPIRAL手法と比較して46.2%の向上を示し、RMSEは1.77mとなった。長距離建物の低SBR領域においても部分的な再構成が可能であり、低信号対背景比条件下でのターゲットの完全性が向上する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.12688/wellcomeopenres.28131.1",
+    "title": "The genome sequence of the small cushion star, Asterina phylactica Emson & Crump, 1979 (Valvatida: Asterinidae)",
+    "abstract": "We present a genome assembly from an individual  Asterina phylactica (small cushion star; Echinodermata; Asteroidea; Valvatida; Asterinidae). The primary assembly has a total length of 389.09 megabases. Most of the primary assembly (99.95%) is scaffolded into 22 chromosomal pseudomolecules. The mitochondrial genome has also been assembled, with a length of 16.46 kilobases. This assembly was generated as part of the Darwin Tree of Life project, which produces genomes for eukaryotic species found in Britain and Ireland.",
+    "journal": "",
+    "doi": "10.12688/wellcomeopenres.28131.1",
+    "date": "2026-11-03",
+    "authors": "Bunker FSD, Harley J, Scott-Somme K, Marine Biological Association Genome Acquisition Lab, Darwin Tree of Life Barcoding Collective, Wellcome Sanger Institute Tree of Life Management, Samples and Laboratory team, Wellcome Sanger Institute Scientific Operations: Sequencing Operations, Wellcome Sanger Institute Tree of Life Core Informatics team, Tree of Life Core Informatics collective, Darwin Tree of Life Consortium.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1355889",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "assembly",
+        "genome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5349,
+    "collected_at": "2026-11-21T20:42:56.049670+00:00",
+    "collected_date": "2026-11-22",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-21",
+    "related_dois": [
+      "10.12688/wellcomeopenres.28131.1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "120338fc7f07fff9f2bf5e4522c2776559a0bf80c12bc983bb822c30ea322f02",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T21:22:05.279478+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "57fb0e3c856dbfd5453f37de36e931486d18201dd54cbf0821d975b360ae8f9f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T21:22:05.279478+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "コビョウカのゲノム配列 Asterina phylactica Emson & Crump, 1979 (Valvatida: Asterinidae)",
+    "abstract_ja": "Asterina phylactica（小型クッション星；棘皮動物門；キク目；バルヴァタ綱；キク科）の個体のゲノムアセンブリを提示する。一次アセンブリの全長は389.09メガベースである。一次アセンブリの大部分（99.95%）は、22本の染色体擬似分子へとスキャフォールディングされている。ミトコンドリアゲノムもアセンブルされており、その全長は16.46キロベースである。本アセンブリは、英国およびアイルランドに生息する真核生物種のゲノムを作製するDarwin Tree of Lifeプロジェクトの一環として作成された。"
   }
 ]
