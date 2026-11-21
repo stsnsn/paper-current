@@ -317030,5 +317030,319 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "Breath to Genome: ブローサンプリングによる大型鯨類の全ゲノム配列決定",
     "abstract_ja": "生物多様性の保全には野生個体群の遺伝的モニタリングが必要であり、従来はDNA収集のための侵襲的なサンプリング手法が用いられてきた。しかし、この手法は動物福祉に影響を及ぼしたり、人為的要因に対する行動反応や国内・国際的な法規制により実施が不可能であったりする場合がある。鯨類においては、個々の遺伝的プロファイルを生成するための有望な非侵襲的代替手法として、呼気中の呼吸蒸気、すなわち「ブロー」の採取が挙げられる。本研究では、個体群ゲノミクスに十分な品質のデータを用いて、ザトウクジラ（Megaptera novaeangliae）のブローから全核ゲノムおよびミトコンドリアゲノムを生成することの実現可能性を実証する。市販のドローンを用い、ギトガアト・ファースト・ネーションの領土内で、北東太平洋のザトウクジラ26頭から計58個のブローサンプルを採取した。平均84%という高い内因性DNA含有量により、個体群構造、多様性、および系統ゲノミクスの推論に用いる低カバレッジの核ゲノム（平均2.3×、範囲0.2×～3.5×）および高カバレッジのミトコンドリアゲノム（平均94×、範囲7.7×～151.3×）を生成することができた。ブロー由来ゲノムの信頼性は、反復採取したブローサンプル間、および一部の個体から得られたペア組織サンプル間の直接比較によって実証された。適用可能性は、捕獲の困難さ、体サイズ、水面滞在時間などの要因により種ごとに異なると考えられるが、本手法は、宿主ゲノムのみならずマイクロバイオームやホルモンプロファイルも得られる非侵襲的な鯨類サンプリングに向けた大きな一歩となる。したがって、本手法は野生下における保全ゲノミクス、個体群モニタリング、およびマイクロバイオームに基づく健康評価に新たな道を切り拓くものであり、鯨類ゲノムデータベースにおける極めて重要なデータギャップを埋めることができる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 7",
+        "query": "(JOURNAL:\"Microbial Ecology\" OR JOURNAL:\"Environmental Microbiology Reports\" OR JOURNAL:\"International Journal of Systematic and Evolutionary Microbiology\" OR JOURNAL:\"npj Biofilms and Microbiomes\" OR JOURNAL:\"Nature Reviews Microbiology\" OR JOURNAL:\"Trends in Microbiology\" OR JOURNAL:\"Annual Review of Microbiology\" OR JOURNAL:\"Microbial Cell\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1099/ijsem.0.007351",
+    "title": "<i>Streptomyces chryseogenes</i> sp. nov., a novel actinobacterium producing temperature-dependent yellow pigment.",
+    "abstract": "A novel actinobacterium producing water-soluble yellow pigment was isolated from soil in Zhejiang Province, China. The isolated strain, designated as ZAF1911T, exhibited morphological characteristics typical of the genus Streptomyces, forming white circular colonies with a raised and dry surface, and producing long, curved aerial hyphae with spherical to ovoid spores. Phylogenetic analysis of the 16S rRNA gene sequence revealed that strain ZAF1911T belongs to the genus Streptomyces, sharing 100% sequence similarity with Streptomyces stoeckheimensis DSM 116496T. The strain grows within the ranges of 15-40 °C (optimum 28 °C), pH 6.0-9.0 and 0-3% NaCl, hydrolysing starch and liquefying gelatin, but not cellulose. Chemotaxonomic analysis showed the presence of both ll- and meso-diaminopimelic acid in the cell wall and identified MK-9(H4) and MK-9(H6) as the major menaquinones. The major cellular fatty acids were iso-C₁₄:₀ and C₁₆:₀. The polar lipid profile consisted of diphosphatidylglycerol, phosphatidylethanolamine, phosphatidylinositol, hydroxy-phosphatidylethanolamine, phosphatidylinositol mannoside and an unidentified phospholipid. The 9.36 Mbp genome sequence revealed a G+C content of 72.06 mol%. Digital DNA-DNA hybridization values with the type strains of closely related species ranged from 28.3% to 63.3% (all well below the 70% threshold), and average nucleotide identity values ranged from 84.59% to 95.52% [below the boundaries for bacterial (95-96%) and Streptomyces (96.7%) species delineation, respectively], indicating that strain ZAF1911ᵀ represents a novel species, for which the name Streptomyces chryseogenes sp. nov. is proposed. The type strain is ZAF1911T (=CGMCC 4.7889 T=JCM 36261T). Furthermore, a γ-butyrolactone biosynthetic gene cluster was among the most strongly differentially expressed loci between 28 °C and 37 °C, being up-regulated at the non-pigmenting temperature. This correlation suggests that γ-butyrolactone signalling may contribute to the temperature-dependent regulation of pigment production, although functional validation is still required.",
+    "journal": "International Journal of Systematic and Evolutionary Microbiology",
+    "doi": "10.1099/ijsem.0.007351",
+    "date": "2026-11-01",
+    "authors": "He Y, Jiao R, Tong S, Mo Q, Ren Y, Ni Q, Liu C, Xu G.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43062170",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43062170",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "Streptomyces",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 5325,
+    "collected_at": "2026-11-21T17:30:13.539558+00:00",
+    "collected_date": "2026-11-22",
+    "sources": [
+      "Europe PMC journals 7"
+    ],
+    "first_seen": "2026-11-21",
+    "related_dois": [
+      "10.1099/ijsem.0.007351"
+    ],
+    "translation": {
+      "title": {
+        "hash": "73dea481e5ccd253289d6300b01cfce279a3559bae0d522798e0844c228303ba",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T18:04:48.301131+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6a0d4337456a1e0d9d29628ac430bd3ed8bbe7d69799fdb33536c789d7f048e5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T18:04:48.301131+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "<i>Streptomyces chryseogenes</i> sp. nov.、温度依存性黄色色素を産生する新規放線菌。",
+    "abstract_ja": "中国浙江省の土壌から、水溶性黄色色素を産生する新規放線菌が分離された。ZAF1911Tと命名された分離株は、Streptomyces属に典型的な形態的特徴を示し、表面が隆起して乾燥した白色の円形コロニーを形成し、球形から卵形の胞子を持つ長く湾曲した地上菌糸を産生した。16S rRNA遺伝子配列の系統解析により、ZAF1911T株はStreptomyces属に属し、Streptomyces stoeckheimensis DSM 116496Tと100%の配列類似性を示すことが明らかとなった。本株は15-40 °C（至適温度28 °C）、pH 6.0-9.0および0-3% NaClの範囲で生育し、デンプンを加水分解しゼラチンを液化するが、セルロースは加水分解しない。化学分類学的解析により、細胞壁にll-およびmeso-diaminopimelic acidの両方が存在することが示され、主要なメナキノンとしてMK-9(H4)およびMK-9(H6)が同定された。主要な細胞脂肪酸はiso-C₁₄:₀およびC₁₆:₀であった。極性脂質プロファイルは、ジホスファチジルグリセロール、ホスファチジルエタノールアミン、ホスファチジルイノシトール、ヒドロキシホスファチジルエタノールアミン、ホスファチジルイノシトールマンノシド、および未同定のリン脂質から構成されていた。9.36 Mbpのゲノム配列により、G+C含量は72.06 mol%であることが明らかになった。近縁種のタイプ株とのデジタルDNA-DNAハイブリダイゼーション値は28.3%から63.3%の範囲であり（いずれも70%の閾値を大幅に下回る）、平均ヌクレオチド同一性値は84.59%から95.52%の範囲であった［それぞれ細菌種（95-96%）およびStreptomyces属（96.7%）の種分化境界を下回る］。このことは、ZAF1911ᵀ株が新規種であることを示しており、Streptomyces chryseogenes sp. nov.という名称が提案される。タイプ株はZAF1911T (=CGMCC 4.7889 T=JCM 36261T) である。さらに、γ-ブチロラクトン生合成遺伝子クラスターは、28 °Cから37 °Cの間で最も強く発現変動を示す遺伝子座の一つであり、非色素形成温度において発現が亢進していた。この相関は、機能的な検証が依然として必要であるものの、γ-ブチロラクトンシグナル伝達が色素産生の温度依存的調節に寄与している可能性を示唆している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 6",
+        "query": "(JOURNAL:\"Microbial Genomics\" OR JOURNAL:\"Microbiology\" OR JOURNAL:\"Aquatic Microbial Ecology\" OR JOURNAL:\"PNAS\" OR JOURNAL:\"PLOS Biology\" OR JOURNAL:\"PLOS Genetics\" OR JOURNAL:\"Genome Research\" OR JOURNAL:\"Genome Biology\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1099/mgen.0.001879",
+    "title": "Diversity at the <i>Acinetobacter baumannii</i> K locus: towards a comprehensive database for <i>in silico</i> prediction of capsular polysaccharide types.",
+    "abstract": "Acinetobacter baumannii is one of the most critical bacterial pathogens requiring novel approaches for infection control and treatment to curb the spread of highly resistant isolates. Epidemiological surveillance and the design and application of many non-antibiotic interventions require rapid and accurate prediction of diverse capsular polysaccharide (CPS) types from whole-genome sequence data. The internationally adopted CPS typing system relies on the in silico detection of CPS biosynthesis genes both in and outside the K locus (KL), utilizing a reference sequence database that is compatible with the bioinformatics tool, Kaptive. In this study, 168 novel loci were added to the database following an extensive survey of publicly available A. baumannii genomes and GenBank sequence entries, bringing the total number of reference sequences to 409 KL and 10 extra-locus genes. All novel loci conformed to the characteristic KL configuration described previously, with conserved core genes for CPS biosynthesis flanking a central and highly variable region that includes type-specific structural genes. Across the 409 KL, there were 1,000 protein clusters. Annotations for 309 novel clusters were curated and validated using a variety of sequence- and structure-based approaches. Most proteins (n=781) were encoded by genes found in ≤4 KL, consistent with extensive structural diversity of CPS types in A. baumannii as reported previously. However, gene distribution analysis predicted shared structural features, with several KL predicting the same CPS type or K unit. Validation of the updated database against 46,185 publicly available genomes revealed that 32 KL were present in 87.1% of sequenced isolates, with an overrepresentation of genomes with KL2, KL3, KL18, KL9 or KL22.",
+    "journal": "Microbial Genomics",
+    "doi": "10.1099/mgen.0.001879",
+    "date": "2026-11-01",
+    "authors": "Kenyon JJ.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43056151",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43056151",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "database",
+        "genome",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5322,
+    "collected_at": "2026-11-21T17:30:13.539558+00:00",
+    "collected_date": "2026-11-22",
+    "sources": [
+      "Europe PMC journals 6"
+    ],
+    "first_seen": "2026-11-21",
+    "related_dois": [
+      "10.1099/mgen.0.001879"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5aa770c326dbeb1418128433365875bed78ab9bbadc7d5163c6c55fc4f6474bd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T18:04:48.301131+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3c7a342e023184e9df5df74c51e6e91b712a10b89a5fda5b7da059d6a4906194",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T18:04:48.301131+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "<i>Acinetobacter baumannii</i>のK遺伝子座における多様性：莢膜多糖類型の<i>in silico</i>予測に向けた包括的データベースの構築に向けて",
+    "abstract_ja": "Acinetobacter baumanniiは、高度耐性分離株の拡散を抑制するための感染制御および治療において、新たなアプローチを必要とする極めて重要な細菌性病原体の一つである。疫学的サーベイランスや、多くの非抗生物質的介入策の設計および実施には、全ゲノム配列データからの多様な莢膜多糖類（CPS）型の迅速かつ正確な予測が不可欠である。国際的に採用されているCPS型別システムは、バイオインフォマティクスツールであるKaptiveと互換性のあるリファレンス配列データベースを利用し、K遺伝子座（KL）内外のCPS生合成遺伝子のin silico検出に基づいている。本研究では、公開されているA. baumanniiゲノムおよびGenBank配列エントリーの広範な調査を経て、168個の新規遺伝子座をデータベースに追加し、リファレンス配列の総数を409個のKLおよび10個の遺伝子座外遺伝子とした。すべての新規遺伝子座は、既報の特徴的なKL構成に従っており、CPS生合成のための保存されたコア遺伝子が、型特異的な構造遺伝子を含む中央の高度に可変な領域を挟む形で配置されていた。409個のKL全体で、1,000個のタンパク質クラスターが認められた。309個の新規クラスターのアノテーションは、多様な配列および構造ベースの手法を用いてキュレーションおよび検証された。ほとんどのタンパク質（n=781）は4個以下のKLに存在する遺伝子によってコードされており、これは既報のA. baumanniiにおけるCPS型の広範な構造的多様性と一致していた。しかし、遺伝子分布解析では共通の構造的特徴が予測され、複数のKLが同一のCPS型またはKユニットを予測した。公開されている46,185個のゲノムを用いて更新後のデータベースを検証した結果、32個のKLが配列決定済み分離株の87.1%に認められ、特にKL2、KL3、KL18、KL9、またはKL22を持つゲノムの割合が高いことが明らかになった。"
+  },
+  {
+    "id": "10.1093/ismejo/wrag292",
+    "title": "Non-enzymatic assimilation of organosulfur compounds at the interface of geochemistry and biochemistry",
+    "abstract": "AbstractDimethyl sulfide (DMS) and dimethyl sulfoxide (DMSO) have important microbial-driven roles in global nutrient cycling, chemotaxis and/or climate regulation. Microbial DMSO and DMS assimilation were thought to require their enzymatic reduction to methanethiol. However, reactive oxygen species were recently shown to mediate methane production from DMS and DMSO. Here, we show that this oxidative mechanism can sustain microbial growth without the need for enzymes to directly reduce DMS or oxidize DMSO. In an interplay with iron, both light and heat were effective geochemical drivers of this mechanism that yielded methanesulfonic acid and sulfite, and which mimicked the stepwise oxidation of DMSO by monooxygenases that only enzymatically enhance this oxidation reaction. Furthermore, we demonstrated intracellular DMSO degradation, in which sulfur and the simultaneously released carbon were both utilized by microbes. This study emphasizes that metabolic pathways are not necessarily enzyme-driven, with putatively ancient, non-enzymatic reaction networks taking place at a transition between geochemistry and biochemistry.",
+    "journal": "The ISME Journal",
+    "doi": "10.1093/ismejo/wrag292",
+    "date": "2026-11-21",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/ismej/advance-article/doi/10.1093/ismejo/wrag292/9108639?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbe",
+        "microbes",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6594/advanceAccess_4179.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5451,
+    "collected_at": "2026-11-21T17:40:46.167571+00:00",
+    "collected_date": "2026-11-22",
+    "sources": [
+      "https://academic.oup.com/rss/site_6594/advanceAccess_4179.xml"
+    ],
+    "first_seen": "2026-11-21",
+    "related_dois": [
+      "10.1093/ismejo/wrag292"
+    ],
+    "translation": {
+      "title": {
+        "hash": "be546be456497baf5276e56273ec4a03b61b8df83343aa37e98bc6e7182ae5b7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T18:04:48.301131+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b251ff19b7fbbbd504a4ccafaebe0d7936cb93b0767a0fb92e805d5769928120",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T18:04:48.301131+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "地球化学と生化学の接点における有機硫黄化合物の非酵素的同化",
+    "abstract_ja": "要旨 ジメチルスルフィド（DMS）およびジメチルスルホキシド（DMSO）は、地球規模の栄養塩循環、走化性、および／または気候調節において、微生物が主導する重要な役割を担っている。微生物によるDMSOおよびDMSの同化には、メタンチオールへの酵素的還元が必要であると考えられてきた。しかし近年、活性酸素種がDMSおよびDMSOからのメタン生成を媒介することが示されている。本研究では、この酸化機構が、DMSを直接還元したりDMSOを酸化したりする酵素を必要とせずに、微生物の増殖を維持し得ることを示す。鉄との相互作用において、光と熱の双方が本機構の有効な地球化学的駆動因子となり、メタンスルホン酸および亜硫酸塩を生成した。また、本機構は、酵素的にのみこの酸化反応を促進するモノオキシゲナーゼによるDMSOの段階的酸化を模倣していた。さらに、細胞内でのDMSO分解を実証し、そこでは硫黄と同時に放出された炭素の双方が微生物によって利用された。本研究は、代謝経路が必ずしも酵素主導である必要はなく、地球化学と生化学の移行領域において、推定される古代の非酵素的反応ネットワークが機能していることを強調するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 7",
+        "query": "(JOURNAL:\"Microbial Ecology\" OR JOURNAL:\"Environmental Microbiology Reports\" OR JOURNAL:\"International Journal of Systematic and Evolutionary Microbiology\" OR JOURNAL:\"npj Biofilms and Microbiomes\" OR JOURNAL:\"Nature Reviews Microbiology\" OR JOURNAL:\"Trends in Microbiology\" OR JOURNAL:\"Annual Review of Microbiology\" OR JOURNAL:\"Microbial Cell\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1099/ijsem.0.007345",
+    "title": "Comparative and phylogenomic analyses support the reclassification of <i>Calidifontibacter</i> Ruckmani <i>et al</i>. 2011 as a later heterotypic synonym of <i>Yimella</i> Tang <i>et al</i>. 2010, with transfer of <i>Calidifontibacter indicus</i> as <i>Yimella indica</i> comb. nov. and proposal of <i>Koreicoccus terrae</i> gen. nov., comb. nov.",
+    "abstract": "The family Dermacoccaceae comprises 12 genera and 26 species with standing in nomenclature, most described before type-strain genome sequencing became standard. Phylogenomics and Overall Genomic Relatedness Indices calculations independently corroborate three recently proposed heterotypic synonymies: Yimella radicis with Yimella lutea, Barrientosiimonas endolithica with Barrientosiimonas humi and both Dermacoccus barathri and Dermacoccus profundi with Dermacoccus abyssi. The central finding of this study, however, is a genus-level discordance. Calidifontibacter indicus, the type species of Calidifontibacter, shared a higher average amino acid identity (AAI) with Y. lutea (73.35-73.61%) than with its only congener, Calidifontibacter terrae (66.04%). C. terrae shared only 65.16-66.04% AAI with Yimella, inside the family's cross-genus range (57.15-66.04%). Furthermore, C. indicus shared only 80.41% average nucleotide identity (ANI) with C. terrae, well below the 84.43-84.44% shared with Yimella. Digital DNA-DNA hybridization values followed the same pattern as AAI and ANI. The C. indicus-Yimella comparison yielded the highest value (25.1% [22.8-27.6%]), exceeding both C. indicus-C. terrae (20.1% [17.9-22.5%]) and C. terrae-Yimella (19.8% [17.6-22.2%]). Five phylogenetic reconstructions and hierarchical clustering based on accessory gene-cluster content placed C. indicus with Yimella to the exclusion of C. terrae, each with full or near-full support. Under the current taxonomic status, within-genus and cross-genus AAI overlap across a 7.71-point window, entirely through C. indicus against Y. lutea comparisons. The proposed reclassification removes that overlap and gives the family an operative genus boundary, for the currently sampled dataset, at 66.40% AAI. Therefore, Calidifontibacter is proposed as a later heterotypic synonym of Yimella, as Yimella indica comb. nov., and C. terrae Dahal et al. (Int J Syst Evol Microbiol 2017;67:1925-1931) as the type species of newly proposed genus, Koreicoccus gen. nov., as Koreicoccus terrae comb. nov.",
+    "journal": "International Journal of Systematic and Evolutionary Microbiology",
+    "doi": "10.1099/ijsem.0.007345",
+    "date": "2026-11-01",
+    "authors": "Bouznada K, Saker R, Ould Taleb R, Bouras N, Bellouti MZ, Dif G, Tata S, Laassami A, Meklat A.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43056152",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43056152",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenetic",
+          "phylogenomic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 5326,
+    "collected_at": "2026-11-21T17:30:13.539558+00:00",
+    "collected_date": "2026-11-22",
+    "sources": [
+      "Europe PMC journals 7"
+    ],
+    "first_seen": "2026-11-21",
+    "related_dois": [
+      "10.1099/ijsem.0.007345"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2662b03994b428da86cc45b053cae1e361cf2be6c41fe3f88e92a8c7a7fc3d4d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T18:04:48.301131+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b093653ab5d641e12203b0bae8679b3820d5bf135146057f7a2b1a4e754da5d6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T18:04:48.301131+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "比較解析および系統ゲノム解析により、<i>Calidifontibacter</i> Ruckmani <i>et al</i>. 2011を<i>Yimella</i> Tang <i>et al</i>. 2010の後続の異型同物異名として再分類し、<i>Calidifontibacter indicus</i>を<i>Yimella indica</i> comb. nov.として移し、<i>Koreicoccus terrae</i> gen. nov., comb. nov.を提案することが支持された。",
+    "abstract_ja": "デルマコッカ科（Dermacoccaceae）は12属26種からなり、命名法上の地位を有しており、その多くはタイプ系統のゲノムシーケンシングが標準となる前に記載された。系統ゲノミクスおよび全体的なゲノム関連性指数（Overall Genomic Relatedness Indices）の算出により、近年提唱された3つの異型同物異名が独立して裏付けられた。すなわち、Yimella radicisとYimella lutea、Barrientosiimonas endolithicaとBarrientosiimonas humi、およびDermacoccus barathriとDermacoccus profundiの双方とDermacoccus abyssiである。しかし、本研究の中心的な知見は、属レベルの不一致である。Calidifontibacter属のタイプ種であるCalidifontibacter indicusは、唯一の同属種であるCalidifontibacter terrae（66.04%）よりも、Y. lutea（73.35-73.61%）とより高い平均アミノ酸同一性（AAI）を示した。C. terraeは、本科の属間範囲（57.15-66.04%）において、YimellaとのAAIが65.16-66.04%にとどまった。さらに、C. indicusとC. terraeの平均塩基同一性（ANI）の一致度は80.41%であり、Yimellaとの84.43-84.44%を大幅に下回った。デジタルDNA-DNAハイブリダイゼーションの値も、AAIおよびANIと同様のパターンを示した。C. indicusとYimellaの比較では最高値（25.1% [22.8-27.6%]）が得られ、C. indicusとC. terrae（20.1% [17.9-22.5%]）およびC. terraeとYimella（19.8% [17.6-22.2%]）の双方を上回った。補助遺伝子クラスターの内容に基づく5つの系統再構築および階層的クラスタリングにより、C. indicusとYimellaはC. terraeを除外して配置され、それぞれ完全またはほぼ完全な支持を得た。現在の分類学的地位では、属内および属間のAAIの重複が7.71ポイントの範囲で生じており、これは完全にC. indicusとY. luteaの比較によるものである。提案された再分類はこの重複を排除し、現在サンプリングされたデータセットにおいて、本科に66.40%のAAIという実効的な属境界を与える。したがって、CalidifontibacterはYimella indica comb. nov.の後代の異型同物異名として、またC. terrae Dahal et al. (Int J Syst Evol Microbiol 2017;67:1925-1931)は、新たに提唱された属であるKoreicoccus gen. nov.のタイプ種として、それぞれKoreicoccus terrae comb. nov.として提案される。"
   }
 ]
