@@ -6,183 +6,6 @@
     "addition_tracking_since": "2026-11-08T16:41:37.586944+09:00",
     "addition_history": [
       {
-        "at": "2026-11-19T23:07:14.706392+09:00",
-        "papers": [
-          {
-            "id": "10.1099/mgen.0.001891",
-            "preprint": false
-          },
-          {
-            "id": "10.1111/1751-7915.70489",
-            "preprint": false
-          },
-          {
-            "id": "10.1016/j.isci.2026.117879",
-            "preprint": false
-          },
-          {
-            "id": "10.1093/nar/gkag1210",
-            "preprint": false
-          },
-          {
-            "id": "10.1111/1462-2920.70502",
-            "preprint": false
-          },
-          {
-            "id": "10.64898/2026.11.17.767253",
-            "preprint": true
-          },
-          {
-            "id": "10.3389/fmicb.2026.2012855",
-            "preprint": false
-          },
-          {
-            "id": "10.64898/2026.11.09.765220",
-            "preprint": true
-          },
-          {
-            "id": "10.1093/nar/gkag1025",
-            "preprint": false
-          },
-          {
-            "id": "10.1186/s40168-026-02576-6",
-            "preprint": false
-          },
-          {
-            "id": "10.64898/2026.10.13.758966",
-            "preprint": true
-          },
-          {
-            "id": "10.1186/s13059-026-04349-8",
-            "preprint": false
-          },
-          {
-            "id": "10.64898/2026.11.17.767315",
-            "preprint": true
-          },
-          {
-            "id": "10.1186/s13059-026-04347-w",
-            "preprint": false
-          },
-          {
-            "id": "10.1093/nar/gkag1217",
-            "preprint": false
-          },
-          {
-            "id": "10.1007/s00248-026-02929-6",
-            "preprint": false
-          },
-          {
-            "id": "10.1093/nar/gkag1078",
-            "preprint": false
-          },
-          {
-            "id": "10.1093/nar/gkag1181",
-            "preprint": false
-          },
-          {
-            "id": "10.1093/nar/gkag1234",
-            "preprint": false
-          },
-          {
-            "id": "10.1093/nar/gkag1231",
-            "preprint": false
-          },
-          {
-            "id": "10.1186/s13059-026-04354-x",
-            "preprint": false
-          },
-          {
-            "id": "10.1111/1751-7915.70488",
-            "preprint": false
-          },
-          {
-            "id": "10.3389/fmicb.2026.2003253",
-            "preprint": false
-          },
-          {
-            "id": "10.3389/fmicb.2026.2040092",
-            "preprint": false
-          },
-          {
-            "id": "10.3389/fmicb.2026.1954765",
-            "preprint": false
-          },
-          {
-            "id": "10.3389/fmicb.2026.1851928",
-            "preprint": false
-          },
-          {
-            "id": "10.1093/nar/gkag1179",
-            "preprint": false
-          },
-          {
-            "id": "10.64898/2026.11.18.767480",
-            "preprint": true
-          },
-          {
-            "id": "10.3389/fmicb.2026.1999988",
-            "preprint": false
-          },
-          {
-            "id": "10.1093/nar/gkag1227",
-            "preprint": false
-          },
-          {
-            "id": "10.3389/fmicb.2026.1968203",
-            "preprint": false
-          },
-          {
-            "id": "10.1099/mgen.0.001887",
-            "preprint": false
-          },
-          {
-            "id": "10.3389/fmicb.2026.1992546",
-            "preprint": false
-          },
-          {
-            "id": "10.1093/nar/gkag1199",
-            "preprint": false
-          },
-          {
-            "id": "10.1093/nar/gkag1213",
-            "preprint": false
-          },
-          {
-            "id": "10.3389/fmicb.2026.1939377",
-            "preprint": false
-          },
-          {
-            "id": "10.1093/nar/gkag1191",
-            "preprint": false
-          },
-          {
-            "id": "10.1093/nar/gkag1205",
-            "preprint": false
-          },
-          {
-            "id": "10.1007/s00248-026-02932-x",
-            "preprint": false
-          },
-          {
-            "id": "10.1186/s13059-026-04350-1",
-            "preprint": false
-          },
-          {
-            "id": "10.1093/nar/gkag1198",
-            "preprint": false
-          },
-          {
-            "id": "10.1111/1462-2920.70500",
-            "preprint": false
-          },
-          {
-            "id": "10.3389/fmicb.2026.1942102",
-            "preprint": false
-          }
-        ]
-      },
-      {
         "at": "2026-11-20T07:23:56.904420+09:00",
         "papers": [
           {
@@ -827,39 +650,71 @@
             "preprint": false
           }
         ]
+      },
+      {
+        "at": "2026-11-22T03:10:31.431372+09:00",
+        "papers": [
+          {
+            "id": "10.1099/mgen.0.001877",
+            "preprint": false
+          },
+          {
+            "id": "10.1099/mgen.0.001905",
+            "preprint": false
+          },
+          {
+            "id": "10.1093/ismejo/wrag292",
+            "preprint": false
+          },
+          {
+            "id": "10.1099/ijsem.0.007345",
+            "preprint": false
+          },
+          {
+            "id": "10.1111/1755-0998.70219",
+            "preprint": false
+          },
+          {
+            "id": "10.1099/ijsem.0.007351",
+            "preprint": false
+          },
+          {
+            "id": "10.1099/mgen.0.001879",
+            "preprint": false
+          },
+          {
+            "id": "10.1099/ijsem.0.007327",
+            "preprint": false
+          },
+          {
+            "id": "10.1093/bib/bbag638",
+            "preprint": false
+          },
+          {
+            "id": "10.64898/2026.11.20.768214",
+            "preprint": true
+          }
+        ]
       }
     ],
     "date": "2026-11-16",
     "publication_mode": "daily",
-    "updated_at": "2026-11-21T19:46:58.944924+09:00",
-    "daily_updated_at": "2026-11-21T19:46:58.944924+09:00",
+    "updated_at": "2026-11-22T03:10:31.431372+09:00",
+    "daily_updated_at": "2026-11-22T03:10:31.431372+09:00",
     "week_ends_at": "2026-11-23T00:00:00+09:00",
     "added_ids": [
-      "10.1111/1462-2920.70445",
-      "10.64898/2026.11.19.767828",
-      "10.64898/2026.11.19.767851",
-      "10.21203/rs.3.rs-11272234/v1",
-      "10.1186/s13059-026-04341-2",
-      "10.20944/preprints202611.0301.v1",
-      "10.64898/2026.11.19.767496",
-      "10.21203/rs.3.rs-11153771/v1",
-      "10.1371/journal.pone.0362260",
-      "10.21203/rs.3.rs-11098215/v1",
-      "10.64898/2026.11.19.767834",
-      "10.64898/2026.11.03.26367206",
-      "10.3389/fmicb.2026.1989293",
-      "10.1186/s40168-026-02578-4",
-      "10.64898/2026.11.01.763464",
-      "10.64898/2026.11.04.764114",
-      "10.1111/1462-2920.70497",
-      "10.1186/s13059-026-04355-w",
-      "10.64898/2026.11.02.763657",
-      "10.64898/2026.11.14.765823",
-      "10.3389/fmicb.2026.1982505",
-      "10.1371/journal.pone.0361966",
-      "10.1073/pnas.2626548123"
+      "10.1099/mgen.0.001877",
+      "10.1099/mgen.0.001905",
+      "10.1093/ismejo/wrag292",
+      "10.1099/ijsem.0.007345",
+      "10.1111/1755-0998.70219",
+      "10.1099/ijsem.0.007351",
+      "10.1099/mgen.0.001879",
+      "10.1099/ijsem.0.007327",
+      "10.1093/bib/bbag638",
+      "10.64898/2026.11.20.768214"
     ],
-    "added_date": "2026-11-21"
+    "added_date": "2026-11-22"
   },
   "papers": [
     {
@@ -78073,6 +77928,880 @@
         "PNAS",
         "International journal of antimicrobial agents",
         "Journal of environmental management"
+      ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC journals 6",
+          "query": "(JOURNAL:\"Microbial Genomics\" OR JOURNAL:\"Microbiology\" OR JOURNAL:\"Aquatic Microbial Ecology\" OR JOURNAL:\"PNAS\" OR JOURNAL:\"PLOS Biology\" OR JOURNAL:\"PLOS Genetics\" OR JOURNAL:\"Genome Research\" OR JOURNAL:\"Genome Biology\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "im",
+        "journal article"
+      ],
+      "id": "10.1099/mgen.0.001877",
+      "title": "Global biosynthetic potential of the phylum Acidobacteriota.",
+      "abstract": "Bacteria from the phylum Acidobacteriota are widely distributed across diverse environments yet only a few representatives have been isolated and described. Although recent studies suggest substantial biosynthetic potential in Acidobacteriota across soil and marine environments, no comprehensive cross-biome analysis of their biosynthetic diversity has been conducted. To address this gap, we analysed 19,720 metagenome-assembled genomes from Acidobacteriota along with their environmental description to provide a systematic overview of their biosynthetic potential. Our analyses reveal that Acidobacteriota harbour several phylogenetic clades with high biosynthetic potential, including families such as Acantopleurobacteraceae, UBA5704 and UBA2199. Remarkably, our results suggest that the biosynthetic potential of Acidobacteriota is on par with other prolific phyla such as Pseudomonadota. While soil-dwelling Acidobacteriota on average encode higher numbers of biosynthetic gene clusters (BGCs), marine host-associated species display a specialized metabolic repertoire that is enriched in BGCs putatively encoding the production of halogenated metabolites. This study highlights biosynthetically rich taxonomic hotspots to aid the discovery of novel natural products.",
+      "journal": "Microbial Genomics",
+      "doi": "10.1099/mgen.0.001877",
+      "date": "2026-11-01",
+      "authors": "Hrab P, Zdouc MM, Terlouw BR, Loureiro C, Schorn MA, de Ridder D, Medema MH, Sipkema D.",
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化",
+        "海洋微生物"
+      ],
+      "source_url": "https://europepmc.org/article/MED/43062893",
+      "preprint": false,
+      "review": false,
+      "pmcid": "",
+      "pmid": "43062893",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "bacteria",
+          "metagenom",
+          "metagenome"
+        ],
+        "context": {
+          "marine": [
+            "marine"
+          ],
+          "genomics": [
+            "genom",
+            "genome",
+            "metagenom",
+            "metagenome",
+            "phylogen",
+            "phylogenetic"
+          ],
+          "evolution": [
+            "phylogenetic"
+          ]
+        },
+        "tags": [
+          "海洋微生物",
+          "微生物ゲノミクス",
+          "微生物進化"
+        ]
+      },
+      "collection_order": 5321,
+      "collected_at": "2026-11-21T17:30:13.539558+00:00",
+      "collected_date": "2026-11-22",
+      "sources": [
+        "Europe PMC journals 6"
+      ],
+      "first_seen": "2026-11-21",
+      "related_dois": [
+        "10.1099/mgen.0.001877"
+      ],
+      "translation": {
+        "title": {
+          "hash": "8cda95dac04d8e25e7f982f90b47b2a2241187b7d0adac5c6516ba38d762d1f1",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-21T18:02:01.092358+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "38e6733ac45cb2436e193a2fdcf71946722bbf842b4171fdf373b9f89dbba2ce",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-21T18:02:01.092358+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "アシドバクテリウム門の世界的な生合成能。",
+      "abstract_ja": "アシドバクテリウム門の細菌は、多様な環境に広く分布しているが、単離・記載された代表種はわずかである。近年の研究では、土壌および海洋環境においてアシドバクテリウム門が相当な生合成能を有することが示唆されているものの、その生合成多様性に関する包括的なクロスバイオーム解析は行われていない。この空白を埋めるため、我々はアシドバクテリウム門のメタゲノムアセンブルされた19,720個のゲノムを環境特性の記述とともに解析し、その生合成能に関する系統的な概観を提示した。解析の結果、アシドバクテリウム門には、Acantopleurobacteraceae、UBA5704、UBA2199などの科を含む、高い生合成能を有する複数の系統群が存在することが明らかになった。特筆すべきことに、我々の結果は、アシドバクテリウム門の生合成能がPseudomonadotaなどの他の生産性の高い門と同等であることを示唆している。土壌生息のアシドバクテリウム門は平均してより多くの生合成遺伝子クラスター（BGC）をコードしている一方、海洋宿主関連種は、ハロゲン化代謝物の産生をコードすると推定されるBGCに富む特殊な代謝レパートリーを示す。本研究は、新規天然物の発見に寄与する、生合成能に富んだ分類学的ホットスポットを浮き彫りにするものである。",
+      "answer_journal": "Microbial Genomics",
+      "question_type": "published",
+      "options": [
+        "International journal of pharmaceutics",
+        "Microbial Genomics",
+        "Biofouling",
+        "Nanoscale"
+      ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC journals 6",
+          "query": "(JOURNAL:\"Microbial Genomics\" OR JOURNAL:\"Microbiology\" OR JOURNAL:\"Aquatic Microbial Ecology\" OR JOURNAL:\"PNAS\" OR JOURNAL:\"PLOS Biology\" OR JOURNAL:\"PLOS Genetics\" OR JOURNAL:\"Genome Research\" OR JOURNAL:\"Genome Biology\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "journal article"
+      ],
+      "id": "10.1099/mgen.0.001905",
+      "title": "Population structure of group B <i>Streptococcus</i> from semen reveals virulent and resistant lineages with implications for surveillance.",
+      "abstract": "Group B Streptococcus (GBS) is a major agent of perinatal infections. Although extensively studied as a pathogen in pregnant individuals and neonates, little is known about GBS from male adults, despite occasional reports of its occurrence in semen. We characterized 120 GBS isolates obtained from semen samples in Brazil between 2017 and 2022 to determine serotypes, antimicrobial susceptibility profile, virulence-associated determinants, clustered regularly interspaced short palindromic repeats (CRISPR) diversity and phylogenetic relationships with isolates from other clinical sources. Serotype V was the most frequent, followed by Ia, Ib, III, II and IV. Resistance was observed for tetracycline (84.1%), erythromycin (30.8%), levofloxacin (8.3%) and 12.5% exhibited multidrug resistance (MDR). The most common sequence types (STs) were ST1, ST144 and ST19. The isolates clustered into five major clonal complexes (CC1, CC17, CC19, CC23 and CC24) and six singletons. Serotypes, antimicrobial resistance and virulence-associated determinants markers varied across CCs. Resistance determinants detected included tetM, mefA, msrD, ermA and ermB. Levofloxacin-resistant isolates contained mutations in gyrA and/or parC and were predominantly linked to the serotype V/ST19 lineage. All isolates except one carried at least one alpha-like protein (Alp) gene. Phylogenetic analysis of isolates from semen, rectovaginal samples, urine and invasive infections showed that isolates clustered according to CC regardless of clinical source. CRISPR1 analysis revealed intra-clonal diversity, as isolates within the same CC displayed different CRISPR compositions. These findings indicate that GBS isolates recovered from semen belong to established GBS lineages also identified in other clinical sources and support the co-circulation of GBS lineages across different human niches.",
+      "journal": "Microbial Genomics",
+      "doi": "10.1099/mgen.0.001905",
+      "date": "2026-11-01",
+      "authors": "Merces AC, Costa NS, Oliveira LMA, Botelho ACN, Barros LG, Silva LMB, Teixeira LM, Fracalanzza SEL, Khan U, Bentley S, Jamrozy D, Pinto TCA.",
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ],
+      "source_url": "https://europepmc.org/article/MED/43024390",
+      "preprint": false,
+      "review": false,
+      "pmcid": "",
+      "pmid": "43024390",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "phylogen",
+            "phylogenetic"
+          ],
+          "evolution": [
+            "phylogenetic"
+          ]
+        },
+        "tags": [
+          "微生物ゲノミクス",
+          "微生物進化"
+        ]
+      },
+      "collection_order": 5323,
+      "collected_at": "2026-11-21T17:30:13.539558+00:00",
+      "collected_date": "2026-11-22",
+      "sources": [
+        "Europe PMC journals 6"
+      ],
+      "first_seen": "2026-11-21",
+      "related_dois": [
+        "10.1099/mgen.0.001905"
+      ],
+      "translation": {
+        "title": {
+          "hash": "19f03d6a80eacace0083fbb9c15c328ee35de31677ba31d82cba7debedd89f7b",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-21T18:08:27.430076+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "e19d37f126f29f7025fdfca0d9fe0c629a26ad138a244f949bae1c0962a29aea",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-21T18:08:27.430076+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "精液中のB群<i>Streptococcus</i>の集団構造から、サーベイランスに示唆を与える強毒株および耐性株が明らかになった。",
+      "abstract_ja": "B群レンサ球菌（GBS）は、周産期感染症の主要な原因菌である。妊婦および新生児における病原体として広範に研究されてきたが、精液中での検出例が散見されるものの、成人男性におけるGBSについてはほとんど解明されていない。本研究では、2017年から2022年にかけてブラジルで採取された精液検体から得られたGBS分離株120株を特性評価し、血清型、薬剤感受性プロファイル、病原性関連決定因子、規則的に間隔を置いて配置された短回文構造反復配列（CRISPR）の多様性、および他の臨床検体由来の分離株との系統学的関係を明らかにした。血清型Vが最も多く、次いでIa、Ib、III、II、IVの順であった。テトラサイクリン（84.1%）、エリスロマイシン（30.8%）、レボフロキサシン（8.3%）への耐性が認められ、12.5%に多剤耐性（MDR）が認められた。最も頻度の高い配列型（ST）はST1、ST144、ST19であった。分離株は、5つの主要なクローン複合体（CC1、CC17、CC19、CC23、CC24）と6つのシングルトンに分類された。血清型、薬剤耐性、および病原性関連決定因子マーカーはCCによって異なっていた。検出された耐性決定因子には、tetM、mefA、msrD、ermA、ermBが含まれていた。レボフロキサシン耐性分離株はgyrAおよび/またはparCに変異を有しており、主に血清型V/ST19系統に関連していた。1株を除くすべての分離株が、少なくとも1つのα様タンパク質（Alp）遺伝子を保有していた。精液、直腸腟検体、尿、および侵襲性感染症由来の分離株の系統解析の結果、臨床検体の由来に関わらず、分離株はCCに従ってクラスターを形成することが示された。CRISPR1解析では、同一CC内の分離株が異なるCRISPR組成を示すことから、クローン内多様性が明らかになった。これらの知見は、精液から回収されたGBS分離株が、他の臨床検体でも同定されている確立されたGBS系統に属していることを示しており、異なるヒトニッチ間でGBS系統が共循環していることを支持するものである。",
+      "answer_journal": "Microbial Genomics",
+      "question_type": "published",
+      "options": [
+        "Hearing research",
+        "International journal of biometeorology",
+        "Cancer diagnosis & prognosis",
+        "Microbial Genomics"
+      ]
+    },
+    {
+      "id": "10.1093/ismejo/wrag292",
+      "title": "Non-enzymatic assimilation of organosulfur compounds at the interface of geochemistry and biochemistry",
+      "abstract": "AbstractDimethyl sulfide (DMS) and dimethyl sulfoxide (DMSO) have important microbial-driven roles in global nutrient cycling, chemotaxis and/or climate regulation. Microbial DMSO and DMS assimilation were thought to require their enzymatic reduction to methanethiol. However, reactive oxygen species were recently shown to mediate methane production from DMS and DMSO. Here, we show that this oxidative mechanism can sustain microbial growth without the need for enzymes to directly reduce DMS or oxidize DMSO. In an interplay with iron, both light and heat were effective geochemical drivers of this mechanism that yielded methanesulfonic acid and sulfite, and which mimicked the stepwise oxidation of DMSO by monooxygenases that only enzymatically enhance this oxidation reaction. Furthermore, we demonstrated intracellular DMSO degradation, in which sulfur and the simultaneously released carbon were both utilized by microbes. This study emphasizes that metabolic pathways are not necessarily enzyme-driven, with putatively ancient, non-enzymatic reaction networks taking place at a transition between geochemistry and biochemistry.",
+      "journal": "The ISME Journal",
+      "doi": "10.1093/ismejo/wrag292",
+      "date": "2026-11-21",
+      "authors": "",
+      "tags": [
+        "微生物学"
+      ],
+      "source_url": "https://academic.oup.com/ismej/advance-article/doi/10.1093/ismejo/wrag292/9108639?rss=1",
+      "abstract_source": "rss",
+      "preprint": false,
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "microbe",
+          "microbes",
+          "microbial"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [],
+          "evolution": []
+        },
+        "tags": [
+          "微生物学"
+        ]
+      },
+      "discovery": [
+        {
+          "source": "https://academic.oup.com/rss/site_6594/advanceAccess_4179.xml",
+          "query": "RSS feed",
+          "scope": "journal"
+        }
+      ],
+      "collection_order": 5451,
+      "collected_at": "2026-11-21T17:40:46.167571+00:00",
+      "collected_date": "2026-11-22",
+      "sources": [
+        "https://academic.oup.com/rss/site_6594/advanceAccess_4179.xml"
+      ],
+      "first_seen": "2026-11-21",
+      "related_dois": [
+        "10.1093/ismejo/wrag292"
+      ],
+      "translation": {
+        "title": {
+          "hash": "be546be456497baf5276e56273ec4a03b61b8df83343aa37e98bc6e7182ae5b7",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-21T18:04:48.301131+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "b251ff19b7fbbbd504a4ccafaebe0d7936cb93b0767a0fb92e805d5769928120",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-21T18:04:48.301131+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "地球化学と生化学の接点における有機硫黄化合物の非酵素的同化",
+      "abstract_ja": "要旨 ジメチルスルフィド（DMS）およびジメチルスルホキシド（DMSO）は、地球規模の栄養塩循環、走化性、および／または気候調節において、微生物が主導する重要な役割を担っている。微生物によるDMSOおよびDMSの同化には、メタンチオールへの酵素的還元が必要であると考えられてきた。しかし近年、活性酸素種がDMSおよびDMSOからのメタン生成を媒介することが示されている。本研究では、この酸化機構が、DMSを直接還元したりDMSOを酸化したりする酵素を必要とせずに、微生物の増殖を維持し得ることを示す。鉄との相互作用において、光と熱の双方が本機構の有効な地球化学的駆動因子となり、メタンスルホン酸および亜硫酸塩を生成した。また、本機構は、酵素的にのみこの酸化反応を促進するモノオキシゲナーゼによるDMSOの段階的酸化を模倣していた。さらに、細胞内でのDMSO分解を実証し、そこでは硫黄と同時に放出された炭素の双方が微生物によって利用された。本研究は、代謝経路が必ずしも酵素主導である必要はなく、地球化学と生化学の移行領域において、推定される古代の非酵素的反応ネットワークが機能していることを強調するものである。",
+      "answer_journal": "The ISME Journal",
+      "question_type": "published",
+      "options": [
+        "Reproductive sciences (Thousand Oaks, Calif.)",
+        "NanoImpact",
+        "Biometals : an international journal on the role of metal ions in biology, biochemistry, and medicine",
+        "The ISME Journal"
+      ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC journals 7",
+          "query": "(JOURNAL:\"Microbial Ecology\" OR JOURNAL:\"Environmental Microbiology Reports\" OR JOURNAL:\"International Journal of Systematic and Evolutionary Microbiology\" OR JOURNAL:\"npj Biofilms and Microbiomes\" OR JOURNAL:\"Nature Reviews Microbiology\" OR JOURNAL:\"Trends in Microbiology\" OR JOURNAL:\"Annual Review of Microbiology\" OR JOURNAL:\"Microbial Cell\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "journal article"
+      ],
+      "id": "10.1099/ijsem.0.007345",
+      "title": "Comparative and phylogenomic analyses support the reclassification of <i>Calidifontibacter</i> Ruckmani <i>et al</i>. 2011 as a later heterotypic synonym of <i>Yimella</i> Tang <i>et al</i>. 2010, with transfer of <i>Calidifontibacter indicus</i> as <i>Yimella indica</i> comb. nov. and proposal of <i>Koreicoccus terrae</i> gen. nov., comb. nov.",
+      "abstract": "The family Dermacoccaceae comprises 12 genera and 26 species with standing in nomenclature, most described before type-strain genome sequencing became standard. Phylogenomics and Overall Genomic Relatedness Indices calculations independently corroborate three recently proposed heterotypic synonymies: Yimella radicis with Yimella lutea, Barrientosiimonas endolithica with Barrientosiimonas humi and both Dermacoccus barathri and Dermacoccus profundi with Dermacoccus abyssi. The central finding of this study, however, is a genus-level discordance. Calidifontibacter indicus, the type species of Calidifontibacter, shared a higher average amino acid identity (AAI) with Y. lutea (73.35-73.61%) than with its only congener, Calidifontibacter terrae (66.04%). C. terrae shared only 65.16-66.04% AAI with Yimella, inside the family's cross-genus range (57.15-66.04%). Furthermore, C. indicus shared only 80.41% average nucleotide identity (ANI) with C. terrae, well below the 84.43-84.44% shared with Yimella. Digital DNA-DNA hybridization values followed the same pattern as AAI and ANI. The C. indicus-Yimella comparison yielded the highest value (25.1% [22.8-27.6%]), exceeding both C. indicus-C. terrae (20.1% [17.9-22.5%]) and C. terrae-Yimella (19.8% [17.6-22.2%]). Five phylogenetic reconstructions and hierarchical clustering based on accessory gene-cluster content placed C. indicus with Yimella to the exclusion of C. terrae, each with full or near-full support. Under the current taxonomic status, within-genus and cross-genus AAI overlap across a 7.71-point window, entirely through C. indicus against Y. lutea comparisons. The proposed reclassification removes that overlap and gives the family an operative genus boundary, for the currently sampled dataset, at 66.40% AAI. Therefore, Calidifontibacter is proposed as a later heterotypic synonym of Yimella, as Yimella indica comb. nov., and C. terrae Dahal et al. (Int J Syst Evol Microbiol 2017;67:1925-1931) as the type species of newly proposed genus, Koreicoccus gen. nov., as Koreicoccus terrae comb. nov.",
+      "journal": "International Journal of Systematic and Evolutionary Microbiology",
+      "doi": "10.1099/ijsem.0.007345",
+      "date": "2026-11-01",
+      "authors": "Bouznada K, Saker R, Ould Taleb R, Bouras N, Bellouti MZ, Dif G, Tata S, Laassami A, Meklat A.",
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ],
+      "source_url": "https://europepmc.org/article/MED/43056152",
+      "preprint": false,
+      "review": false,
+      "pmcid": "",
+      "pmid": "43056152",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "DNA",
+            "genom",
+            "genome",
+            "genomic",
+            "phylogen",
+            "phylogenetic",
+            "phylogenomic"
+          ],
+          "evolution": [
+            "phylogenetic"
+          ]
+        },
+        "tags": [
+          "微生物ゲノミクス",
+          "微生物進化"
+        ]
+      },
+      "collection_order": 5326,
+      "collected_at": "2026-11-21T17:30:13.539558+00:00",
+      "collected_date": "2026-11-22",
+      "sources": [
+        "Europe PMC journals 7"
+      ],
+      "first_seen": "2026-11-21",
+      "related_dois": [
+        "10.1099/ijsem.0.007345"
+      ],
+      "translation": {
+        "title": {
+          "hash": "2662b03994b428da86cc45b053cae1e361cf2be6c41fe3f88e92a8c7a7fc3d4d",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-21T18:04:48.301131+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "b093653ab5d641e12203b0bae8679b3820d5bf135146057f7a2b1a4e754da5d6",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-21T18:04:48.301131+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "比較解析および系統ゲノム解析により、<i>Calidifontibacter</i> Ruckmani <i>et al</i>. 2011を<i>Yimella</i> Tang <i>et al</i>. 2010の後続の異型同物異名として再分類し、<i>Calidifontibacter indicus</i>を<i>Yimella indica</i> comb. nov.として移し、<i>Koreicoccus terrae</i> gen. nov., comb. nov.を提案することが支持された。",
+      "abstract_ja": "デルマコッカ科（Dermacoccaceae）は12属26種からなり、命名法上の地位を有しており、その多くはタイプ系統のゲノムシーケンシングが標準となる前に記載された。系統ゲノミクスおよび全体的なゲノム関連性指数（Overall Genomic Relatedness Indices）の算出により、近年提唱された3つの異型同物異名が独立して裏付けられた。すなわち、Yimella radicisとYimella lutea、Barrientosiimonas endolithicaとBarrientosiimonas humi、およびDermacoccus barathriとDermacoccus profundiの双方とDermacoccus abyssiである。しかし、本研究の中心的な知見は、属レベルの不一致である。Calidifontibacter属のタイプ種であるCalidifontibacter indicusは、唯一の同属種であるCalidifontibacter terrae（66.04%）よりも、Y. lutea（73.35-73.61%）とより高い平均アミノ酸同一性（AAI）を示した。C. terraeは、本科の属間範囲（57.15-66.04%）において、YimellaとのAAIが65.16-66.04%にとどまった。さらに、C. indicusとC. terraeの平均塩基同一性（ANI）の一致度は80.41%であり、Yimellaとの84.43-84.44%を大幅に下回った。デジタルDNA-DNAハイブリダイゼーションの値も、AAIおよびANIと同様のパターンを示した。C. indicusとYimellaの比較では最高値（25.1% [22.8-27.6%]）が得られ、C. indicusとC. terrae（20.1% [17.9-22.5%]）およびC. terraeとYimella（19.8% [17.6-22.2%]）の双方を上回った。補助遺伝子クラスターの内容に基づく5つの系統再構築および階層的クラスタリングにより、C. indicusとYimellaはC. terraeを除外して配置され、それぞれ完全またはほぼ完全な支持を得た。現在の分類学的地位では、属内および属間のAAIの重複が7.71ポイントの範囲で生じており、これは完全にC. indicusとY. luteaの比較によるものである。提案された再分類はこの重複を排除し、現在サンプリングされたデータセットにおいて、本科に66.40%のAAIという実効的な属境界を与える。したがって、CalidifontibacterはYimella indica comb. nov.の後代の異型同物異名として、またC. terrae Dahal et al. (Int J Syst Evol Microbiol 2017;67:1925-1931)は、新たに提唱された属であるKoreicoccus gen. nov.のタイプ種として、それぞれKoreicoccus terrae comb. nov.として提案される。",
+      "answer_journal": "International Journal of Systematic and Evolutionary Microbiology",
+      "question_type": "published",
+      "options": [
+        "Veterinary research communications",
+        "Theriogenology",
+        "The Lancet. Microbe",
+        "International Journal of Systematic and Evolutionary Microbiology"
+      ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC journals 8",
+          "query": "(JOURNAL:\"Microbial Biotechnology\" OR JOURNAL:\"Extremophiles\" OR JOURNAL:\"Genome Biology and Evolution\" OR JOURNAL:\"Molecular Biology and Evolution\" OR JOURNAL:\"Molecular Ecology\" OR JOURNAL:\"Molecular Ecology Resources\" OR JOURNAL:\"Molecular Phylogenetics and Evolution\" OR JOURNAL:\"Bioinformatics Advances\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "research-article",
+        "journal article"
+      ],
+      "id": "10.1111/1755-0998.70219",
+      "title": "Breath to Genome: Whole Genome Sequencing of Large Whales From Blow Sampling.",
+      "abstract": "Preserving biodiversity requires the genetic monitoring of wild populations, which is traditionally done through invasive sampling techniques for DNA collection. However, this approach can impact animal welfare or be impossible to implement due to behavioural responses to anthropogenic factors or national/international legislation. For cetaceans, a promising non-invasive alternative approach is the collection of exhaled respiratory vapour, or 'blow', to generate individual genetic profiles. Here, we demonstrate the feasibility of generating whole nuclear and mitochondrial genomes from the blow of humpback whales (Megaptera novaeangliae) with data of sufficient quality for population genomics. A total of 58 blow samples from 26 Northeast Pacific humpback whales were collected in Gitga'at First Nation territory using a commercially available drone. The high endogenous DNA content at 84% on average allowed us to generate low-coverage nuclear genomes (mean 2.3×, range 0.2× to 3.5×) and high-coverage mitochondrial genomes (mean 94×, range 7.7× to 151.3×) for inference of population structure, diversity and phylogenomics. The reliability of the blow-derived genomes was demonstrated by direct comparison between replicate blow samples, as well as paired tissue samples from a subset of individuals. Although applicability will likely vary across species depending on factors such as elusiveness, body size and surface time, this approach represents a major step towards non-invasive cetacean sampling that can yield not only host genomes but also microbiome and hormone profiles. As such, our approach opens new avenues for conservation genomics, population monitoring and microbiome-based health assessments in the wild and can fill critical data gaps in cetacean genomic databases.",
+      "journal": "Molecular Ecology Resources",
+      "doi": "10.1111/1755-0998.70219",
+      "date": "2026-11-01",
+      "authors": "O'Mahony ÉN, McCarthy ML, Keen EM, Wray J, McMillan CJ, Thornton SJ, Rendell LE, Gaggiotti OE, Olsen MT.",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://europepmc.org/article/MED/43041175",
+      "preprint": false,
+      "review": false,
+      "pmcid": "PMC13775071",
+      "pmid": "43041175",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "microbial_evidence",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "microbiome"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "DNA",
+            "genom",
+            "genome",
+            "genomic",
+            "phylogen",
+            "phylogenomic"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "collection_order": 5332,
+      "collected_at": "2026-11-21T17:30:13.539558+00:00",
+      "collected_date": "2026-11-22",
+      "sources": [
+        "Europe PMC journals 8"
+      ],
+      "first_seen": "2026-11-21",
+      "related_dois": [
+        "10.1111/1755-0998.70219"
+      ],
+      "translation": {
+        "title": {
+          "hash": "afe4707043c6a5b5e21abb910680eb5555bd81f856ed69f472e7920d35ceb016",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-21T18:02:01.092358+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "1f04647df7d743bb66f8f4331c41ea400f74db48fa145094594a19a77e12fce7",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-21T18:02:01.092358+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "Breath to Genome: ブローサンプリングによる大型鯨類の全ゲノム配列決定",
+      "abstract_ja": "生物多様性の保全には野生個体群の遺伝的モニタリングが必要であり、従来はDNA収集のための侵襲的なサンプリング手法が用いられてきた。しかし、この手法は動物福祉に影響を及ぼしたり、人為的要因に対する行動反応や国内・国際的な法規制により実施が不可能であったりする場合がある。鯨類においては、個々の遺伝的プロファイルを生成するための有望な非侵襲的代替手法として、呼気中の呼吸蒸気、すなわち「ブロー」の採取が挙げられる。本研究では、個体群ゲノミクスに十分な品質のデータを用いて、ザトウクジラ（Megaptera novaeangliae）のブローから全核ゲノムおよびミトコンドリアゲノムを生成することの実現可能性を実証する。市販のドローンを用い、ギトガアト・ファースト・ネーションの領土内で、北東太平洋のザトウクジラ26頭から計58個のブローサンプルを採取した。平均84%という高い内因性DNA含有量により、個体群構造、多様性、および系統ゲノミクスの推論に用いる低カバレッジの核ゲノム（平均2.3×、範囲0.2×～3.5×）および高カバレッジのミトコンドリアゲノム（平均94×、範囲7.7×～151.3×）を生成することができた。ブロー由来ゲノムの信頼性は、反復採取したブローサンプル間、および一部の個体から得られたペア組織サンプル間の直接比較によって実証された。適用可能性は、捕獲の困難さ、体サイズ、水面滞在時間などの要因により種ごとに異なると考えられるが、本手法は、宿主ゲノムのみならずマイクロバイオームやホルモンプロファイルも得られる非侵襲的な鯨類サンプリングに向けた大きな一歩となる。したがって、本手法は野生下における保全ゲノミクス、個体群モニタリング、およびマイクロバイオームに基づく健康評価に新たな道を切り拓くものであり、鯨類ゲノムデータベースにおける極めて重要なデータギャップを埋めることができる。",
+      "answer_journal": "Molecular Ecology Resources",
+      "question_type": "published",
+      "options": [
+        "Journal of neuroscience methods",
+        "Annals of clinical and translational neurology",
+        "Molecular Ecology Resources",
+        "Molecular medicine (Cambridge, Mass.)"
+      ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC journals 7",
+          "query": "(JOURNAL:\"Microbial Ecology\" OR JOURNAL:\"Environmental Microbiology Reports\" OR JOURNAL:\"International Journal of Systematic and Evolutionary Microbiology\" OR JOURNAL:\"npj Biofilms and Microbiomes\" OR JOURNAL:\"Nature Reviews Microbiology\" OR JOURNAL:\"Trends in Microbiology\" OR JOURNAL:\"Annual Review of Microbiology\" OR JOURNAL:\"Microbial Cell\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "journal article"
+      ],
+      "id": "10.1099/ijsem.0.007351",
+      "title": "<i>Streptomyces chryseogenes</i> sp. nov., a novel actinobacterium producing temperature-dependent yellow pigment.",
+      "abstract": "A novel actinobacterium producing water-soluble yellow pigment was isolated from soil in Zhejiang Province, China. The isolated strain, designated as ZAF1911T, exhibited morphological characteristics typical of the genus Streptomyces, forming white circular colonies with a raised and dry surface, and producing long, curved aerial hyphae with spherical to ovoid spores. Phylogenetic analysis of the 16S rRNA gene sequence revealed that strain ZAF1911T belongs to the genus Streptomyces, sharing 100% sequence similarity with Streptomyces stoeckheimensis DSM 116496T. The strain grows within the ranges of 15-40 °C (optimum 28 °C), pH 6.0-9.0 and 0-3% NaCl, hydrolysing starch and liquefying gelatin, but not cellulose. Chemotaxonomic analysis showed the presence of both ll- and meso-diaminopimelic acid in the cell wall and identified MK-9(H4) and MK-9(H6) as the major menaquinones. The major cellular fatty acids were iso-C₁₄:₀ and C₁₆:₀. The polar lipid profile consisted of diphosphatidylglycerol, phosphatidylethanolamine, phosphatidylinositol, hydroxy-phosphatidylethanolamine, phosphatidylinositol mannoside and an unidentified phospholipid. The 9.36 Mbp genome sequence revealed a G+C content of 72.06 mol%. Digital DNA-DNA hybridization values with the type strains of closely related species ranged from 28.3% to 63.3% (all well below the 70% threshold), and average nucleotide identity values ranged from 84.59% to 95.52% [below the boundaries for bacterial (95-96%) and Streptomyces (96.7%) species delineation, respectively], indicating that strain ZAF1911ᵀ represents a novel species, for which the name Streptomyces chryseogenes sp. nov. is proposed. The type strain is ZAF1911T (=CGMCC 4.7889 T=JCM 36261T). Furthermore, a γ-butyrolactone biosynthetic gene cluster was among the most strongly differentially expressed loci between 28 °C and 37 °C, being up-regulated at the non-pigmenting temperature. This correlation suggests that γ-butyrolactone signalling may contribute to the temperature-dependent regulation of pigment production, although functional validation is still required.",
+      "journal": "International Journal of Systematic and Evolutionary Microbiology",
+      "doi": "10.1099/ijsem.0.007351",
+      "date": "2026-11-01",
+      "authors": "He Y, Jiao R, Tong S, Mo Q, Ren Y, Ni Q, Liu C, Xu G.",
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ],
+      "source_url": "https://europepmc.org/article/MED/43062170",
+      "preprint": false,
+      "review": false,
+      "pmcid": "",
+      "pmid": "43062170",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "16s rrna",
+          "Streptomyces",
+          "bacteria",
+          "bacterial"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "DNA",
+            "genom",
+            "genome",
+            "phylogen",
+            "phylogenetic"
+          ],
+          "evolution": [
+            "phylogenetic"
+          ]
+        },
+        "tags": [
+          "微生物ゲノミクス",
+          "微生物進化"
+        ]
+      },
+      "collection_order": 5325,
+      "collected_at": "2026-11-21T17:30:13.539558+00:00",
+      "collected_date": "2026-11-22",
+      "sources": [
+        "Europe PMC journals 7"
+      ],
+      "first_seen": "2026-11-21",
+      "related_dois": [
+        "10.1099/ijsem.0.007351"
+      ],
+      "translation": {
+        "title": {
+          "hash": "73dea481e5ccd253289d6300b01cfce279a3559bae0d522798e0844c228303ba",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-21T18:04:48.301131+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "6a0d4337456a1e0d9d29628ac430bd3ed8bbe7d69799fdb33536c789d7f048e5",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-21T18:04:48.301131+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "<i>Streptomyces chryseogenes</i> sp. nov.、温度依存性黄色色素を産生する新規放線菌。",
+      "abstract_ja": "中国浙江省の土壌から、水溶性黄色色素を産生する新規放線菌が分離された。ZAF1911Tと命名された分離株は、Streptomyces属に典型的な形態的特徴を示し、表面が隆起して乾燥した白色の円形コロニーを形成し、球形から卵形の胞子を持つ長く湾曲した地上菌糸を産生した。16S rRNA遺伝子配列の系統解析により、ZAF1911T株はStreptomyces属に属し、Streptomyces stoeckheimensis DSM 116496Tと100%の配列類似性を示すことが明らかとなった。本株は15-40 °C（至適温度28 °C）、pH 6.0-9.0および0-3% NaClの範囲で生育し、デンプンを加水分解しゼラチンを液化するが、セルロースは加水分解しない。化学分類学的解析により、細胞壁にll-およびmeso-diaminopimelic acidの両方が存在することが示され、主要なメナキノンとしてMK-9(H4)およびMK-9(H6)が同定された。主要な細胞脂肪酸はiso-C₁₄:₀およびC₁₆:₀であった。極性脂質プロファイルは、ジホスファチジルグリセロール、ホスファチジルエタノールアミン、ホスファチジルイノシトール、ヒドロキシホスファチジルエタノールアミン、ホスファチジルイノシトールマンノシド、および未同定のリン脂質から構成されていた。9.36 Mbpのゲノム配列により、G+C含量は72.06 mol%であることが明らかになった。近縁種のタイプ株とのデジタルDNA-DNAハイブリダイゼーション値は28.3%から63.3%の範囲であり（いずれも70%の閾値を大幅に下回る）、平均ヌクレオチド同一性値は84.59%から95.52%の範囲であった［それぞれ細菌種（95-96%）およびStreptomyces属（96.7%）の種分化境界を下回る］。このことは、ZAF1911ᵀ株が新規種であることを示しており、Streptomyces chryseogenes sp. nov.という名称が提案される。タイプ株はZAF1911T (=CGMCC 4.7889 T=JCM 36261T) である。さらに、γ-ブチロラクトン生合成遺伝子クラスターは、28 °Cから37 °Cの間で最も強く発現変動を示す遺伝子座の一つであり、非色素形成温度において発現が亢進していた。この相関は、機能的な検証が依然として必要であるものの、γ-ブチロラクトンシグナル伝達が色素産生の温度依存的調節に寄与している可能性を示唆している。",
+      "answer_journal": "International Journal of Systematic and Evolutionary Microbiology",
+      "question_type": "published",
+      "options": [
+        "International Journal of Systematic and Evolutionary Microbiology",
+        "Beilstein journal of nanotechnology",
+        "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+        "Die Naturwissenschaften"
+      ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC journals 6",
+          "query": "(JOURNAL:\"Microbial Genomics\" OR JOURNAL:\"Microbiology\" OR JOURNAL:\"Aquatic Microbial Ecology\" OR JOURNAL:\"PNAS\" OR JOURNAL:\"PLOS Biology\" OR JOURNAL:\"PLOS Genetics\" OR JOURNAL:\"Genome Research\" OR JOURNAL:\"Genome Biology\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "journal article"
+      ],
+      "id": "10.1099/mgen.0.001879",
+      "title": "Diversity at the <i>Acinetobacter baumannii</i> K locus: towards a comprehensive database for <i>in silico</i> prediction of capsular polysaccharide types.",
+      "abstract": "Acinetobacter baumannii is one of the most critical bacterial pathogens requiring novel approaches for infection control and treatment to curb the spread of highly resistant isolates. Epidemiological surveillance and the design and application of many non-antibiotic interventions require rapid and accurate prediction of diverse capsular polysaccharide (CPS) types from whole-genome sequence data. The internationally adopted CPS typing system relies on the in silico detection of CPS biosynthesis genes both in and outside the K locus (KL), utilizing a reference sequence database that is compatible with the bioinformatics tool, Kaptive. In this study, 168 novel loci were added to the database following an extensive survey of publicly available A. baumannii genomes and GenBank sequence entries, bringing the total number of reference sequences to 409 KL and 10 extra-locus genes. All novel loci conformed to the characteristic KL configuration described previously, with conserved core genes for CPS biosynthesis flanking a central and highly variable region that includes type-specific structural genes. Across the 409 KL, there were 1,000 protein clusters. Annotations for 309 novel clusters were curated and validated using a variety of sequence- and structure-based approaches. Most proteins (n=781) were encoded by genes found in ≤4 KL, consistent with extensive structural diversity of CPS types in A. baumannii as reported previously. However, gene distribution analysis predicted shared structural features, with several KL predicting the same CPS type or K unit. Validation of the updated database against 46,185 publicly available genomes revealed that 32 KL were present in 87.1% of sequenced isolates, with an overrepresentation of genomes with KL2, KL3, KL18, KL9 or KL22.",
+      "journal": "Microbial Genomics",
+      "doi": "10.1099/mgen.0.001879",
+      "date": "2026-11-01",
+      "authors": "Kenyon JJ.",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://europepmc.org/article/MED/43056151",
+      "preprint": false,
+      "review": false,
+      "pmcid": "",
+      "pmid": "43056151",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "bacteria",
+          "bacterial",
+          "database",
+          "genome",
+          "sequence"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "annotation",
+            "genom",
+            "genome"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "collection_order": 5322,
+      "collected_at": "2026-11-21T17:30:13.539558+00:00",
+      "collected_date": "2026-11-22",
+      "sources": [
+        "Europe PMC journals 6"
+      ],
+      "first_seen": "2026-11-21",
+      "related_dois": [
+        "10.1099/mgen.0.001879"
+      ],
+      "translation": {
+        "title": {
+          "hash": "5aa770c326dbeb1418128433365875bed78ab9bbadc7d5163c6c55fc4f6474bd",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-21T18:04:48.301131+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "3c7a342e023184e9df5df74c51e6e91b712a10b89a5fda5b7da059d6a4906194",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-21T18:04:48.301131+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "<i>Acinetobacter baumannii</i>のK遺伝子座における多様性：莢膜多糖類型の<i>in silico</i>予測に向けた包括的データベースの構築に向けて",
+      "abstract_ja": "Acinetobacter baumanniiは、高度耐性分離株の拡散を抑制するための感染制御および治療において、新たなアプローチを必要とする極めて重要な細菌性病原体の一つである。疫学的サーベイランスや、多くの非抗生物質的介入策の設計および実施には、全ゲノム配列データからの多様な莢膜多糖類（CPS）型の迅速かつ正確な予測が不可欠である。国際的に採用されているCPS型別システムは、バイオインフォマティクスツールであるKaptiveと互換性のあるリファレンス配列データベースを利用し、K遺伝子座（KL）内外のCPS生合成遺伝子のin silico検出に基づいている。本研究では、公開されているA. baumanniiゲノムおよびGenBank配列エントリーの広範な調査を経て、168個の新規遺伝子座をデータベースに追加し、リファレンス配列の総数を409個のKLおよび10個の遺伝子座外遺伝子とした。すべての新規遺伝子座は、既報の特徴的なKL構成に従っており、CPS生合成のための保存されたコア遺伝子が、型特異的な構造遺伝子を含む中央の高度に可変な領域を挟む形で配置されていた。409個のKL全体で、1,000個のタンパク質クラスターが認められた。309個の新規クラスターのアノテーションは、多様な配列および構造ベースの手法を用いてキュレーションおよび検証された。ほとんどのタンパク質（n=781）は4個以下のKLに存在する遺伝子によってコードされており、これは既報のA. baumanniiにおけるCPS型の広範な構造的多様性と一致していた。しかし、遺伝子分布解析では共通の構造的特徴が予測され、複数のKLが同一のCPS型またはKユニットを予測した。公開されている46,185個のゲノムを用いて更新後のデータベースを検証した結果、32個のKLが配列決定済み分離株の87.1%に認められ、特にKL2、KL3、KL18、KL9、またはKL22を持つゲノムの割合が高いことが明らかになった。",
+      "answer_journal": "Microbial Genomics",
+      "question_type": "published",
+      "options": [
+        "International journal of biological macromolecules",
+        "Microbiology and Molecular Biology Reviews",
+        "Microbial Genomics",
+        "Bone"
+      ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC journals 7",
+          "query": "(JOURNAL:\"Microbial Ecology\" OR JOURNAL:\"Environmental Microbiology Reports\" OR JOURNAL:\"International Journal of Systematic and Evolutionary Microbiology\" OR JOURNAL:\"npj Biofilms and Microbiomes\" OR JOURNAL:\"Nature Reviews Microbiology\" OR JOURNAL:\"Trends in Microbiology\" OR JOURNAL:\"Annual Review of Microbiology\" OR JOURNAL:\"Microbial Cell\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "journal article"
+      ],
+      "id": "10.1099/ijsem.0.007327",
+      "title": "Repertoires of type-I polyketide synthase and nonribosomal peptide synthetase gene clusters as taxonomic traits: a systematic reassessment across multiple <i>Streptomyces</i> species complexes.",
+      "abstract": "The genus Streptomyces comprises a large number of species with complex and often ambiguous taxonomic relationships, many of which were established prior to the widespread adoption of molecular- or whole genome sequence-based approaches. In this study, a systematic reassessment of taxonomic relationships was conducted across multiple Streptomyces species complexes incorporating secondary metabolite-biosynthetic gene analysis. Two representative species groups were examined by combining analyses of 16S rRNA gene sequences, genome blast distance phylogeny, digital DNA-DNA hybridization, major phenotypic characteristics and comparative repertoires of type-I polyketide synthase (PKS) and nonribosomal peptide synthetase (NRPS) gene clusters. Although Streptomyces parvisporogenes and Streptomyces ehimensis, and Streptomyces sapporonensis have been considered as later heterotypic synonyms of Streptomyces abikoensis and Streptomyces cinnamoneus, respectively, they were revealed to be three independent species. Clear differences in the repertoires of their PKS and NRPS gene clusters were observed among these different species, although no clear difference in major phenotypic characteristics was observed between S. sapporonensis and S. cinnamoneus. The strain designated as 'Streptomyces hesseae' corresponded to the type strain of S. parvisporogenes. Streptomyces salyersiae, Kitasatospora papulosa, Streptomyces puniceus, Streptomyces pluricolorescens and Streptomyces finlayi were reclassified as later heterotypic synonyms of Streptomyces flavovirens, Streptomyces pratensis, Streptomyces californicus, Streptomyces rubiginosohelvolus and Streptomyces spiroverticillatus, respectively. These synonymous species shared completely or nearly identical PKS and NRPS gene cluster repertoires. These findings demonstrate that the repertoires of PKS and NRPS gene clusters represent stable and informative characteristics that provide robust support and complement phenotypic features for the classification of Streptomyces species.",
+      "journal": "International Journal of Systematic and Evolutionary Microbiology",
+      "doi": "10.1099/ijsem.0.007327",
+      "date": "2026-11-01",
+      "authors": "Komaki H.",
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ],
+      "source_url": "https://europepmc.org/article/MED/43038041",
+      "preprint": false,
+      "review": false,
+      "pmcid": "",
+      "pmid": "43038041",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "16S rRNA",
+          "16s rrna",
+          "Streptomyces"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "DNA",
+            "genom",
+            "genome",
+            "phylogen",
+            "phylogeny"
+          ],
+          "evolution": [
+            "phylogeny"
+          ]
+        },
+        "tags": [
+          "微生物ゲノミクス",
+          "微生物進化"
+        ]
+      },
+      "collection_order": 5324,
+      "collected_at": "2026-11-21T17:30:13.539558+00:00",
+      "collected_date": "2026-11-22",
+      "sources": [
+        "Europe PMC journals 7"
+      ],
+      "first_seen": "2026-11-21",
+      "related_dois": [
+        "10.1099/ijsem.0.007327"
+      ],
+      "translation": {
+        "title": {
+          "hash": "d7211398955b6b249b5a5adf354f772422e8a7dd6104d4a4fd00579e21e002d4",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-21T18:02:01.092358+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "cbbac11a27d6482209a9aca0df13781061c1f8e5a72d0f9008376cc6af013a3b",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-21T18:02:01.092358+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "分類形質としてのI型ポリケチド合成酵素および非リボソームペプチド合成酵素遺伝子クラスターのレパートリー：複数の<i>Streptomyces</i>種複合体にわたる系統的な再評価",
+      "abstract_ja": "ストレプトマイセス属は、複雑でしばしば曖昧な分類学的関係を持つ多数の種を含み、その多くは分子配列または全ゲノム配列に基づく手法が広く採用される前に同定された。本研究では、二次代謝産物生合成遺伝子解析を組み込んだ、複数のストレプトマイセス種複合体にわたる分類学的関係の系統的な再評価を行った。16S rRNA遺伝子配列、ゲノムブラスト距離系統解析、デジタルDNA-DNAハイブリダイゼーション、主要な表現型特性、およびタイプIポリケチド合成酵素（PKS）および非リボソームペプチド合成酵素（NRPS）遺伝子クラスターの比較レパートリーの解析を組み合わせることで、2つの代表的な種群を検討した。Streptomyces parvisporogenes、Streptomyces ehimensis、およびStreptomyces sapporonensisは、それぞれStreptomyces abikoensisおよびStreptomyces cinnamoneusの後代の異型同物異名と考えられてきたが、実際には3つの独立した種であることが判明した。これらの異なる種間では、PKSおよびNRPS遺伝子クラスターのレパートリーに明確な差異が認められたが、S. sapporonensisとS. cinnamoneusの間では、主要な表現型特性に明確な差異は認められなかった。「Streptomyces hesseae」と指定された株は、S. parvisporogenesのタイプ株に相当した。Streptomyces salyersiae、Kitasatospora papulosa、Streptomyces puniceus、Streptomyces pluricolorescens、およびStreptomyces finlayiは、それぞれStreptomyces flavovirens、Streptomyces pratensis、Streptomyces californicus、Streptomyces rubiginosohelvolus、およびStreptomyces spiroverticillatusの後代の異型同物異名として再分類された。これらの同物異名種は、完全に、あるいはほぼ同一のPKSおよびNRPS遺伝子クラスターのレパートリーを共有していた。これらの知見は、PKSおよびNRPS遺伝子クラスターのレパートリーが、ストレプトマイセス属の種の分類において表現型的特徴を強固に支持し補完する、安定的かつ情報量の多い形質であることを示している。",
+      "answer_journal": "International Journal of Systematic and Evolutionary Microbiology",
+      "question_type": "published",
+      "options": [
+        "Open forum infectious diseases",
+        "International Journal of Systematic and Evolutionary Microbiology",
+        "ACS infectious diseases",
+        "Veterinary medicine international"
+      ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC journals 9",
+          "query": "(JOURNAL:\"Briefings in Bioinformatics\" OR JOURNAL:\"Briefings in Functional Genomics\" OR JOURNAL:\"BMC Genomics\" OR JOURNAL:\"BMC Bioinformatics\" OR JOURNAL:\"GigaScience\" OR JOURNAL:\"Database\" OR JOURNAL:\"DNA Research\" OR JOURNAL:\"PLOS Computational Biology\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "review-article",
+        "journal article"
+      ],
+      "id": "10.1093/bib/bbag638",
+      "title": "Computational immunogenicity prediction for mRNA vaccines: benchmarks, bottlenecks, and the peptide-nucleotide gap.",
+      "abstract": "Computational prediction of T-cell epitopes has become indispensable to vaccine design, yet the field still relies on the assumption that how much of a given antigen is produced is fixed by its coding sequence. However, this is not the case with mRNA vaccines, i.e. the design of the mRNA template can vastly alter the quantity of the same protein produced. Codon usage, guanine-cytosine (GC) content, untranslated-region (UTR) design, and predicted secondary structure together define how fast the message is translated and how long it survives, and therefore how much antigen ever reaches the presentation pathway. This is a variable that no current immunogenicity predictor represents. Herein we appraise three decades of computational immunogenicity prediction, tracing the path from position-specific scoring matrices through pan-specific neural networks to transformer-based protein language models, and we use that history to expose the peptide-nucleotide gap between these tools and the way mRNA vaccines are designed. A structured synthesis of published evaluations of leading predictors across human leukocyte antigen (HLA) alleles, peptide lengths and data types shows that headline accuracy masks persistent deficiencies in predicting major histocompatibility complex (MHC) class II, which underpins durable T-cell help, and rare alleles, which disproportionately affect under-represented populations. Four bottlenecks continue to constrain the field: class II prediction, T-cell receptor (TCR) recognition, immunodominance, and the disconnection between nucleotide-level design and peptide-level prediction. We argue that the last of these, which has drawn the least attention, is, in our assessment, the most likely to yield near-term gains for personalised cancer vaccines and pandemic preparedness, and we set out an architecture that couples translation-rate prediction to peptide presentation. Building it will require data that do not yet exist; we specify what must be measured, and on which platforms.",
+      "journal": "Briefings in Bioinformatics",
+      "doi": "10.1093/bib/bbag638",
+      "date": "2026-11-01",
+      "authors": "Kamaliasl S, Buckley NE, Dunne NJ, McCarthy HO.",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://europepmc.org/article/MED/43055516",
+      "preprint": false,
+      "review": false,
+      "pmcid": "PMC13783184",
+      "pmid": "43055516",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "bioinformatics_method_or_resource",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "benchmark",
+          "nucleotide",
+          "prediction"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "benchmark",
+            "nucleotide",
+            "prediction"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "collection_order": 5334,
+      "collected_at": "2026-11-21T17:30:13.539558+00:00",
+      "collected_date": "2026-11-22",
+      "sources": [
+        "Europe PMC journals 9"
+      ],
+      "first_seen": "2026-11-21",
+      "related_dois": [
+        "10.1093/bib/bbag638"
+      ],
+      "translation": {
+        "title": {
+          "hash": "431eccaa8e262a1702125acd3f6685794666e332d3221ce2b151010ee57cca2b",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-21T18:02:01.092358+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "5257b23caead9da3cd68a6e5780cbeb61ad000a91e289631a12906e637bbfa74",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-21T18:02:01.092358+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "mRNAワクチンの計算科学的免疫原性予測：ベンチマーク、ボトルネック、およびペプチド・ヌクレオチド間のギャップ",
+      "abstract_ja": "T細胞エピトープの計算科学的予測は、ワクチン設計において不可欠となっているが、依然として、特定の抗原の産生量がそのコーディング配列によって固定されるという前提に依存している。しかし、mRNAワクチンの場合は異なる。すなわち、mRNAテンプレートの設計によって、産生される同一タンパク質の量が大幅に変わり得るのである。コドンの使用法、グアニン・シトシン（GC）含有量、非翻訳領域（UTR）の設計、および予測される二次構造が相まって、メッセージの翻訳速度と生存期間、ひいてはどれだけの抗原が提示経路に到達するかが決定される。これは、現在の免疫原性予測モデルのいずれも捉えていない変数である。本研究では、30年間にわたる計算科学的免疫原性予測を評価し、部位特異的スコアリング行列から汎特異的ニューラルネットワーク、そしてTransformerベースのタンパク質言語モデルに至る経緯を辿る。そして、この歴史を用いて、これらのツールとmRNAワクチンの設計手法との間に存在するペプチド・ヌクレオチド間の乖離を明らかにする。ヒト白血球抗原（HLA）アレル、ペプチド長、およびデータタイプにわたる主要な予測モデルの既報評価を体系的に統合した結果、表面的な精度の裏には、持続的なT細胞ヘルパーを基盤とする主要組織適合性複合体（MHC）クラスIIの予測における根強い不備と、過小代表集団に不釣り合いな影響を及ぼす希少アレルの予測における不備があることが示された。クラスII予測、T細胞受容体（TCR）認識、免疫優位性、およびヌクレオチドレベルの設計とペプチドレベルの予測との乖離という4つのボトルネックが、依然としてこの分野の制約となっている。我々は、これらの中で最も注目されてこなかった最後の要因こそが、我々の評価によれば、個別化がんワクチンやパンデミックへの備えにおいて近い将来に成果をもたらす可能性が最も高いと主張し、翻訳速度予測をペプチド提示に結びつけるアーキテクチャを提案する。その構築には、まだ存在しないデータが必要となる。本稿では、何を測定すべきか、およびどのプラットフォームで測定すべきかを具体的に規定する。",
+      "answer_journal": "Briefings in Bioinformatics",
+      "question_type": "published",
+      "options": [
+        "European journal of clinical microbiology & infectious diseases : official publication of the European Society of Clinical Microbiology",
+        "Cancers",
+        "Briefings in Bioinformatics",
+        "The Journal of nutrition"
+      ]
+    },
+    {
+      "id": "10.64898/2026.11.20.768214",
+      "title": "Homologs of the Major Vault Protein defend bacteria against ribotoxins",
+      "abstract": "Bacteria use sophisticated mechanisms to defend themselves against antibiotics and bacteriophages, yet how they combat toxins deployed during interbacterial competition remains poorly understood. Bacteria use type VI secretion, bacteriocins, and contact dependent inhibition systems to deliver antibacterial toxins that inhibit growth by antagonizing essential processes. Here, we discover that Pseudomonas aeruginosa uses homologs of the eukaryotic major vault protein and a tRNA-like noncoding RNA to defend against RNA-damaging ribotoxins. Using an engineered pyocin delivery system, we showed that P. aeruginosa sensed ribotoxin damage and activated transcription of an RNA repair operon, which included band7, a homolog of the major vault protein. Genetic analyses demonstrated that band7-expressing bacteria were significantly more protected against growth inhibition by a ribotoxin that cleaved the anticodon loop of specific tRNA. Band7 was necessary but not sufficient, and defense also required a non-coding band7 RNA (bRNA). bRNA was cleaved by the ribotoxin, suggesting a mechanism for specificity and defense. Bioinformatic analyses revealed that band7 and candidate bRNA are widely distributed within RNA repair systems across diverse bacteria. Our data suggest that bacteria use structures related to the eukaryotic vault complex to respond to RNA damage thereby providing a hypothesis for the function of the enigmatic human vault.",
+      "journal": "",
+      "doi": "10.64898/2026.11.20.768214",
+      "date": "2026-11-21",
+      "authors": "Bullen, N. P., Holiday, L. C., Nagy, T. A., Robbins, L. K., Whiteley, A. T.",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.20.768214v1?rss=1",
+      "abstract_source": "rss",
+      "preprint": true,
+      "topic_filter": {
+        "accepted": true,
+        "reason": "microbial_evidence",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "Pseudomonas",
+          "bacteria",
+          "bacteriophage",
+          "bacteriophages"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "transcript"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "discovery": [
+        {
+          "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+          "query": "RSS feed",
+          "scope": "candidate"
+        }
+      ],
+      "collection_order": 5452,
+      "collected_at": "2026-11-21T17:40:46.167571+00:00",
+      "collected_date": "2026-11-22",
+      "sources": [
+        "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+      ],
+      "first_seen": "2026-11-21",
+      "related_dois": [
+        "10.64898/2026.11.20.768214"
+      ],
+      "translation": {
+        "title": {
+          "hash": "b17ef8b4891cb0918f6708962f4e0af39c829ce3d4f5ff522b3b604f95ed10bf",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-21T18:08:27.430076+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "c6a6d64abcceb97283b93628b12e491c8db0ae773bdf6a0a85012ae09e429c7a",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-21T18:08:27.430076+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "主要ヴォールトタンパク質のホモログは、リボトキシンから細菌を保護する。",
+      "abstract_ja": "細菌は抗生物質やバクテリオファージから身を守るために高度な機構を利用しているが、細菌間競争において放出される毒素にどのように対抗しているかについては、依然として十分に解明されていない。細菌は、第VI型分泌、バクテリオシン、および接触依存性阻害系を用いて、必須プロセスを拮抗させることで増殖を抑制する抗菌毒素を送達する。本研究において、我々はPseudomonas aeruginosaが、真核生物の主要ヴォールトタンパク質のホモログとtRNA様非コードRNAを用いて、RNA損傷を引き起こすリボトキシンから防御していることを発見した。改変したピオシン送達系を用い、P. aeruginosaがリボトキシンによる損傷を感知し、主要ヴォールトタンパク質のホモログであるband7を含むRNA修復オペロンの転写を活性化することを示した。遺伝子解析により、band7を発現する細菌は、特定のtRNAのアンチコドンループを切断するリボトキシンによる増殖阻害に対して、有意に高い防御能を示すことが明らかになった。band7は必須ではあったが十分条件ではなく、防御には非コードのband7 RNA（bRNA）も必要であった。bRNAはリボトキシンによって切断されており、特異性と防御のメカニズムが示唆された。バイオインフォマティクス解析により、band7および候補bRNAが、多様な細菌のRNA修復系に広く分布していることが明らかになった。我々のデータは、細菌が真核生物のヴォールト複合体に関連する構造を用いてRNA損傷に応答していることを示唆しており、これにより、謎に包まれたヒトのヴォールトの機能に関する仮説が提示される。",
+      "answer_journal": null,
+      "question_type": "forecast",
+      "options": [
+        "Journal of clinical nursing",
+        "Molecular immunology",
+        "European journal of pharmaceutical sciences : official journal of the European Federation for Pharmaceutical Sciences",
+        "Metabolic engineering"
       ]
     }
   ],
