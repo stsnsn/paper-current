@@ -316464,5 +316464,238 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "セグメントーム：ベイズHMMフレームワークにより同定されたDNAメチロームの新たな表現形式",
     "abstract_ja": "動機  DNAメチル化はゲノム全体にわたって、遷移領域によって隔てられた比較的安定したメチル化領域（すなわち、完全にメチル化された領域または完全に未メチル化の領域）として構成されている。細胞間でのこれらのメチル化領域の境界の差異は、さまざまな調節機構やエピジェネティック機構に起因し得る。しかし、ほとんどのDNAメチローム研究は差異的メチル化領域（DMR）の検出に焦点を当てており、単一のメチローム内におけるこのような構成については十分に解明されていない。さらに、セグメントレベルの記述子が細胞のアイデンティティを捉えられるかどうかは不明である。結果  本研究では、メチロームのセグメントレベル表現であるセグメントームと、事前定義されたメチル化閾値やラベルを用いることなくWGBSデータからこれを推論する教師なしベイズ隠れマルコフモデルを提案する。本モデルは、CpGメチル化レベルにリードパターンエントロピー、局所的なCpG相関、およびCpGカウントを組み合わせることで、ゲノムを未メチル化領域、メチル化領域、および遷移領域に分割し、後者を不均一なリードパターンによって特徴づける。39種類のヒト細胞型からなる207サンプルに適用したところ、セグメントームプロファイルは教師なしの手法でサンプルを細胞型ごとにグループ化した（調整済みRand指数 0.55、調整済み相互情報量 0.72）。次に、ヒト細胞型ごとの主要なセグメントームバイオマーカーからなるセグメントームアトラスを作成した。これらのマーカーは、cell-free DNAおよび白血球サンプルにおいて細胞由来の判定が可能であった。これらの結果は、セグメンテーションがDNAメチローム解析のための独自のフレームワークであることを示唆している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.11.02.763657",
+    "title": "scPCIP: cross-species annotation of plant cell types with conserved gene programs",
+    "abstract": "Single-cell atlases now cover many plant species and organs, yet their cell types are still annotated with marker genes that often fail to transfer between species. Here we show that plant cell identities are captured by gene programs conserved across species. We learned programs for root, leaf, flower and seed cell types on ortholog groups from 112,905 author-labelled cells and implemented them in scPCIP, which annotates cells of species absent from training without a reference. Across 26 held-out datasets, scPCIP outperformed marker-based and plant deep-learning methods, matched supervised classifiers trained on the same atlas and transferred, at lower accuracy, to an independent study; its programs followed tissue position in spatial transcriptomes. The conserved core of each program separated cell types better than its periphery in all 11 held-out species, whereas most species-specific markers turned over. Across organs, leaf bundle-sheath cells carried a root endodermis program in 8 of 12 studies.",
+    "journal": "",
+    "doi": "10.64898/2026.11.02.763657",
+    "date": "2026-11-04",
+    "authors": "Yang S, Si C, Wu Y, Sun Z, Yao C, Sun X, Wang L, Li W, Zhong Q.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1358771",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "annotation",
+        "gene"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5311,
+    "collected_at": "2026-11-21T09:55:27.385518+00:00",
+    "collected_date": "2026-11-21",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-21",
+    "related_dois": [
+      "10.64898/2026.11.02.763657"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5d145ee518614fda7f960a1863cc48ac803f08276e8599fbc2a94bf55cc305d5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T10:44:45.602837+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "340c3a6d9c3d07739ececf2afbfca62c36cb23b042a3da1705b8d4b53a4b1551",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T10:44:45.602837+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "scPCIP: 保存遺伝子プログラムを有する植物細胞種間アノテーション",
+    "abstract_ja": "単一細胞アトラスは現在、多くの植物種や器官を網羅しているが、その細胞タイプには依然としてマーカー遺伝子がアノテーションされており、それらが種間で転移しないことが多い。本研究では、植物細胞のアイデンティティが、種間で保存された遺伝子プログラムによって捉えられていることを示す。我々は、著者がラベル付けした112,905個の細胞からオーソログ群における根、葉、花、および種子の細胞タイプのプログラムを学習させ、参照データのない学習対象種の細胞をアノテーションするscPCIPに実装した。26のホールドアウトデータセットにおいて、scPCIPはマーカーベースの手法や植物深層学習手法を上回り、同一アトラスで学習させた教師あり分類器と同等の性能を示し、精度は低下したものの独立した研究へと転移した。また、そのプログラムは空間トランスクリプトームにおける組織の位置に従っていた。各プログラムの保存されたコアは、11のホールドアウト種すべてにおいて、周辺部よりも細胞タイプをより良好に分離したが、種特異的なマーカーの多くは入れ替わりが生じた。器官別では、12の研究のうち8つにおいて、葉束鞘細胞が根の内胚葉プログラムを保持していた。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11098215/v1",
+    "title": "Comparative Benchmarking of ChatGPT, Claude, and Grok on Persian General Surgery Promotion Examinations With and Without an Uploaded Surgical Reference Package",
+    "abstract": "Abstract  Background  Large language models are increasingly used in medical education, yet their observed agreement with answer keys on locally developed, non-English surgical examinations remains incompletely characterized. Methods  This comparative benchmark evaluated ChatGPT (Luna High), Claude Opus 5, and Grok 4/5 on 456 original Persian four-option questions from the 2024 (1403 Persian calendar), 2025 (1404 Persian calendar), and 2026 (1405 Persian calendar) Iranian General Surgery Residency Promotion Examinations. Each annual question file was submitted once to each model in two separate user-facing workflows: question file only and question file plus an uploaded surgical reference package. Responses were scored against the official Sanjesh answer keys using a strict single-option rule. Results  With the uploaded reference package, aggregate answer-key agreement was 71.27% for ChatGPT, 75.44% for Grok, and 80.04% for Claude. In the question-file-only workflow, the corresponding values were 67.11%, 72.59%, and 79.82%. Claude had the highest observed aggregate agreement in both workflows. Conclusion  In this single-run, web-enabled benchmark, Claude showed the highest observed aggregate agreement with the official answer keys. The uploaded reference package was associated with a positive change in ChatGPT agreement across all three years, whereas the direction of change varied for Grok and Claude. These findings are descriptive and do not establish a general model ranking or a causal effect of document upload.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11098215/v1",
+    "date": "2026-11-04",
+    "authors": "Family¹ S, Dehkordi¹ SR, Pahlavanzadeh² P.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1358177",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "benchmark",
+        "gene"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "benchmark",
+          "gene"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5312,
+    "collected_at": "2026-11-21T09:55:27.385518+00:00",
+    "collected_date": "2026-11-21",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-21",
+    "related_dois": [
+      "10.21203/rs.3.rs-11098215/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d60949bf8222717f9afb06052f37f3368d144094e07167dab9cffa59a6db7790",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T10:44:45.602837+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2082c0d1291138f05dce7ca0acd010edf4ece9c5c11835f84843b36024711351",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T10:44:45.602837+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "外科リファレンスパッケージのアップロード有無による、ペルシア語一般外科昇進試験におけるChatGPT、Claude、Grokの比較ベンチマーク",
+    "abstract_ja": "要旨  背景  大規模言語モデルは医学教育においてますます活用されているが、独自に開発された非英語の外科診察問題における解答集との一致度については、依然として十分に解明されていない。方法  本比較ベンチマークでは、2024年（ペルシア暦1403年）、2025年（ペルシア暦1404年）、および2026年（ペルシア暦1405年）のイラン一般外科レジデント進級試験から抽出した、オリジナルのペルシア語4択問題456問を用いて、ChatGPT (Luna High)、Claude Opus 5、およびGrok 4/5を評価した。各年度の問題ファイルは、ユーザー向けの2つの個別ワークフロー（問題ファイルのみ、および問題ファイルとアップロードされた外科リファレンスパッケージの併用）を通じて、各モデルに1回ずつ提出された。回答は、厳格な単一選択肢ルールに基づき、公式のSanjesh解答集と照合して採点された。結果  アップロードされたリファレンスパッケージを用いた場合、解答集との総合一致率はChatGPTで71.27%、Grokで75.44%、Claudeで80.04%であった。問題ファイルのみのワークフローにおける対応値は、それぞれ67.11%、72.59%、79.82%であった。両ワークフローにおいて、Claudeが最も高い総合一致率を示した。結論  この単一ランのウェブ対応ベンチマークにおいて、Claudeは公式解答集との総合一致率が最も高い結果となった。アップロードされたリファレンスパッケージは、3年間すべてにおいてChatGPTの一致率に正の変化をもたらしたが、GrokとClaudeでは変化の方向性が異なっていた。これらの知見は記述的なものであり、一般的なモデルランキングやドキュメントアップロードによる因果的効果を立証するものではない。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202611.0301.v1",
+    "title": "Clustering Genetically Closely Related SARS-CoV-2 Lineages that Share the Same Relative Effective Reproduction Number Using BIC–Based Model Selection",
+    "abstract": "Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has evolved continuously, producing a large number of viral lineages. Natural selection favors lineages with advantageous mutations, and these lineages increase in frequency, replacing previously circulating lineages. Several lineage replacement models have been developed to estimate the relative effective reproduction number of circulating lineages. When a large number of lineages are circulating in a population simultaneously, the number of model parameters representing viral transmissibility increases, making it difficult to explore mutations affecting viral transmissibility. Therefore, clustering viral lineages with similar genetic backgrounds and the same relative effective reproduction numbers may help us explore the genetic and phenotypic relationships among circulating lineages. In this paper, we present a new algorithm called FindPart-w-ϵ, which identifies groups of genetically closely related viral lineages that share the same relative effective reproduction numbers from temporal count datasets of observed viral lineages. We formalize groups of genetically closely related viral lineages using ϵ-connected partitions, and FindPart-w-ϵ searches for an ϵ-connected partition that minimizes the Bayesian information criterion. By applying the algorithm to datasets of SARS-CoV-2 lineage counts from the United States of America and the United Kingdom, we showed that FindPart-w-ϵ improves the interpretability of the resulting lineage partitions while retaining major lineage-specific transmissibility patterns.",
+    "journal": "",
+    "doi": "10.20944/preprints202611.0301.v1",
+    "date": "2026-11-04",
+    "authors": "Musonda R, Ito K.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1357867",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "algorithm",
+        "clustering",
+        "gene",
+        "genetic",
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "algorithm",
+          "clustering",
+          "gene",
+          "genetic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5313,
+    "collected_at": "2026-11-21T09:55:27.385518+00:00",
+    "collected_date": "2026-11-21",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-21",
+    "related_dois": [
+      "10.20944/preprints202611.0301.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6ca1a5539ba27f1e0c41717474485d9043b15931b1265c309622594779b212e1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T10:44:45.602837+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e2aa386078c94f6f5cf9ef005974c0f96b9978d7143cfc32453804ce47c8a654",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T10:44:45.602837+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "BICに基づくモデル選択を用いた、同一の相対実効再生産数を共有する遺伝的に近縁なSARS-CoV-2系統のクラスタリング",
+    "abstract_ja": "重症急性呼吸器症候群コロナウイルス2（SARS-CoV-2）は絶えず進化し、多数のウイルス系統を生み出してきた。自然選択は有利な変異を持つ系統を有利にし、これらの系統は頻度を増し、以前に流行していた系統に取って代わる。流行している系統の相対実効再生産数を推定するために、いくつかの系統置換モデルが開発されてきた。集団内で多数の系統が同時に流行している場合、ウイルスの伝播性を表すモデルパラメータの数が増加し、ウイルスの伝播性に影響を与える変異を探索することが困難になる。したがって、遺伝的背景が類似し、かつ相対実効再生産数が同一であるウイルス系統をクラスタリングすることは、流行している系統間の遺伝的・表現型的関係を探索するのに役立つ可能性がある。本論文では、観測されたウイルス系統の時系列カウントデータセットから、同一の相対実効再生産数を持つ遺伝的に近縁なウイルス系統群を同定するFindPart-w-ϵと呼ばれる新しいアルゴリズムを提案する。遺伝的に近縁なウイルス系統群をϵ連結分割を用いて定式化し、FindPart-w-ϵはベイズ情報量基準を最小化するϵ連結分割を探索する。アメリカ合衆国とイギリスのSARS-CoV-2系統カウントデータセットにこのアルゴリズムを適用し、FindPart-w-ϵが主要な系統特異的な伝播性パターンを保持しつつ、得られた系統分割の解釈可能性を向上させることを示した。"
   }
 ]
