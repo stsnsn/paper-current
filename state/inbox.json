@@ -444310,5 +444310,582 @@
     "related_dois": [
       "10.64898/2026.11.14.765823"
     ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 6",
+        "query": "(JOURNAL:\"Microbial Genomics\" OR JOURNAL:\"Microbiology\" OR JOURNAL:\"Aquatic Microbial Ecology\" OR JOURNAL:\"PNAS\" OR JOURNAL:\"PLOS Biology\" OR JOURNAL:\"PLOS Genetics\" OR JOURNAL:\"Genome Research\" OR JOURNAL:\"Genome Biology\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "editorial"
+    ],
+    "id": "10.1099/mgen.0.001874",
+    "title": "System-level constraints on implementing whole-genome sequencing for tuberculosis drug resistance diagnosis in the public health system of São Paulo, Brazil.",
+    "abstract": "",
+    "journal": "Microbial Genomics",
+    "doi": "10.1099/mgen.0.001874",
+    "date": "2026-11-01",
+    "authors": "Guimarães AMS, Ferrazoli L, Pedace C, Dos Santos DP, Chimara E.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42970336",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42970336",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5320,
+    "collected_at": "2026-11-21T17:30:13.539558+00:00",
+    "collected_date": "2026-11-22",
+    "sources": [
+      "Europe PMC journals 6"
+    ],
+    "first_seen": "2026-11-21",
+    "related_dois": [
+      "10.1099/mgen.0.001874"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 6",
+        "query": "(JOURNAL:\"Microbial Genomics\" OR JOURNAL:\"Microbiology\" OR JOURNAL:\"Aquatic Microbial Ecology\" OR JOURNAL:\"PNAS\" OR JOURNAL:\"PLOS Biology\" OR JOURNAL:\"PLOS Genetics\" OR JOURNAL:\"Genome Research\" OR JOURNAL:\"Genome Biology\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "im",
+      "journal article"
+    ],
+    "id": "10.1099/mgen.0.001877",
+    "title": "Global biosynthetic potential of the phylum Acidobacteriota.",
+    "abstract": "Bacteria from the phylum Acidobacteriota are widely distributed across diverse environments yet only a few representatives have been isolated and described. Although recent studies suggest substantial biosynthetic potential in Acidobacteriota across soil and marine environments, no comprehensive cross-biome analysis of their biosynthetic diversity has been conducted. To address this gap, we analysed 19,720 metagenome-assembled genomes from Acidobacteriota along with their environmental description to provide a systematic overview of their biosynthetic potential. Our analyses reveal that Acidobacteriota harbour several phylogenetic clades with high biosynthetic potential, including families such as Acantopleurobacteraceae, UBA5704 and UBA2199. Remarkably, our results suggest that the biosynthetic potential of Acidobacteriota is on par with other prolific phyla such as Pseudomonadota. While soil-dwelling Acidobacteriota on average encode higher numbers of biosynthetic gene clusters (BGCs), marine host-associated species display a specialized metabolic repertoire that is enriched in BGCs putatively encoding the production of halogenated metabolites. This study highlights biosynthetically rich taxonomic hotspots to aid the discovery of novel natural products.",
+    "journal": "Microbial Genomics",
+    "doi": "10.1099/mgen.0.001877",
+    "date": "2026-11-01",
+    "authors": "Hrab P, Zdouc MM, Terlouw BR, Loureiro C, Schorn MA, de Ridder D, Medema MH, Sipkema D.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43062893",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43062893",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "metagenom",
+        "metagenome"
+      ],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [
+          "genom",
+          "genome",
+          "metagenom",
+          "metagenome",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 5321,
+    "collected_at": "2026-11-21T17:30:13.539558+00:00",
+    "collected_date": "2026-11-22",
+    "sources": [
+      "Europe PMC journals 6"
+    ],
+    "first_seen": "2026-11-21",
+    "related_dois": [
+      "10.1099/mgen.0.001877"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 6",
+        "query": "(JOURNAL:\"Microbial Genomics\" OR JOURNAL:\"Microbiology\" OR JOURNAL:\"Aquatic Microbial Ecology\" OR JOURNAL:\"PNAS\" OR JOURNAL:\"PLOS Biology\" OR JOURNAL:\"PLOS Genetics\" OR JOURNAL:\"Genome Research\" OR JOURNAL:\"Genome Biology\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1099/mgen.0.001879",
+    "title": "Diversity at the <i>Acinetobacter baumannii</i> K locus: towards a comprehensive database for <i>in silico</i> prediction of capsular polysaccharide types.",
+    "abstract": "Acinetobacter baumannii is one of the most critical bacterial pathogens requiring novel approaches for infection control and treatment to curb the spread of highly resistant isolates. Epidemiological surveillance and the design and application of many non-antibiotic interventions require rapid and accurate prediction of diverse capsular polysaccharide (CPS) types from whole-genome sequence data. The internationally adopted CPS typing system relies on the in silico detection of CPS biosynthesis genes both in and outside the K locus (KL), utilizing a reference sequence database that is compatible with the bioinformatics tool, Kaptive. In this study, 168 novel loci were added to the database following an extensive survey of publicly available A. baumannii genomes and GenBank sequence entries, bringing the total number of reference sequences to 409 KL and 10 extra-locus genes. All novel loci conformed to the characteristic KL configuration described previously, with conserved core genes for CPS biosynthesis flanking a central and highly variable region that includes type-specific structural genes. Across the 409 KL, there were 1,000 protein clusters. Annotations for 309 novel clusters were curated and validated using a variety of sequence- and structure-based approaches. Most proteins (n=781) were encoded by genes found in ≤4 KL, consistent with extensive structural diversity of CPS types in A. baumannii as reported previously. However, gene distribution analysis predicted shared structural features, with several KL predicting the same CPS type or K unit. Validation of the updated database against 46,185 publicly available genomes revealed that 32 KL were present in 87.1% of sequenced isolates, with an overrepresentation of genomes with KL2, KL3, KL18, KL9 or KL22.",
+    "journal": "Microbial Genomics",
+    "doi": "10.1099/mgen.0.001879",
+    "date": "2026-11-01",
+    "authors": "Kenyon JJ.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43056151",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43056151",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "database",
+        "genome",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5322,
+    "collected_at": "2026-11-21T17:30:13.539558+00:00",
+    "collected_date": "2026-11-22",
+    "sources": [
+      "Europe PMC journals 6"
+    ],
+    "first_seen": "2026-11-21",
+    "related_dois": [
+      "10.1099/mgen.0.001879"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 6",
+        "query": "(JOURNAL:\"Microbial Genomics\" OR JOURNAL:\"Microbiology\" OR JOURNAL:\"Aquatic Microbial Ecology\" OR JOURNAL:\"PNAS\" OR JOURNAL:\"PLOS Biology\" OR JOURNAL:\"PLOS Genetics\" OR JOURNAL:\"Genome Research\" OR JOURNAL:\"Genome Biology\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1099/mgen.0.001905",
+    "title": "Population structure of group B <i>Streptococcus</i> from semen reveals virulent and resistant lineages with implications for surveillance.",
+    "abstract": "Group B Streptococcus (GBS) is a major agent of perinatal infections. Although extensively studied as a pathogen in pregnant individuals and neonates, little is known about GBS from male adults, despite occasional reports of its occurrence in semen. We characterized 120 GBS isolates obtained from semen samples in Brazil between 2017 and 2022 to determine serotypes, antimicrobial susceptibility profile, virulence-associated determinants, clustered regularly interspaced short palindromic repeats (CRISPR) diversity and phylogenetic relationships with isolates from other clinical sources. Serotype V was the most frequent, followed by Ia, Ib, III, II and IV. Resistance was observed for tetracycline (84.1%), erythromycin (30.8%), levofloxacin (8.3%) and 12.5% exhibited multidrug resistance (MDR). The most common sequence types (STs) were ST1, ST144 and ST19. The isolates clustered into five major clonal complexes (CC1, CC17, CC19, CC23 and CC24) and six singletons. Serotypes, antimicrobial resistance and virulence-associated determinants markers varied across CCs. Resistance determinants detected included tetM, mefA, msrD, ermA and ermB. Levofloxacin-resistant isolates contained mutations in gyrA and/or parC and were predominantly linked to the serotype V/ST19 lineage. All isolates except one carried at least one alpha-like protein (Alp) gene. Phylogenetic analysis of isolates from semen, rectovaginal samples, urine and invasive infections showed that isolates clustered according to CC regardless of clinical source. CRISPR1 analysis revealed intra-clonal diversity, as isolates within the same CC displayed different CRISPR compositions. These findings indicate that GBS isolates recovered from semen belong to established GBS lineages also identified in other clinical sources and support the co-circulation of GBS lineages across different human niches.",
+    "journal": "Microbial Genomics",
+    "doi": "10.1099/mgen.0.001905",
+    "date": "2026-11-01",
+    "authors": "Merces AC, Costa NS, Oliveira LMA, Botelho ACN, Barros LG, Silva LMB, Teixeira LM, Fracalanzza SEL, Khan U, Bentley S, Jamrozy D, Pinto TCA.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43024390",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43024390",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 5323,
+    "collected_at": "2026-11-21T17:30:13.539558+00:00",
+    "collected_date": "2026-11-22",
+    "sources": [
+      "Europe PMC journals 6"
+    ],
+    "first_seen": "2026-11-21",
+    "related_dois": [
+      "10.1099/mgen.0.001905"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 7",
+        "query": "(JOURNAL:\"Microbial Ecology\" OR JOURNAL:\"Environmental Microbiology Reports\" OR JOURNAL:\"International Journal of Systematic and Evolutionary Microbiology\" OR JOURNAL:\"npj Biofilms and Microbiomes\" OR JOURNAL:\"Nature Reviews Microbiology\" OR JOURNAL:\"Trends in Microbiology\" OR JOURNAL:\"Annual Review of Microbiology\" OR JOURNAL:\"Microbial Cell\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1099/ijsem.0.007327",
+    "title": "Repertoires of type-I polyketide synthase and nonribosomal peptide synthetase gene clusters as taxonomic traits: a systematic reassessment across multiple <i>Streptomyces</i> species complexes.",
+    "abstract": "The genus Streptomyces comprises a large number of species with complex and often ambiguous taxonomic relationships, many of which were established prior to the widespread adoption of molecular- or whole genome sequence-based approaches. In this study, a systematic reassessment of taxonomic relationships was conducted across multiple Streptomyces species complexes incorporating secondary metabolite-biosynthetic gene analysis. Two representative species groups were examined by combining analyses of 16S rRNA gene sequences, genome blast distance phylogeny, digital DNA-DNA hybridization, major phenotypic characteristics and comparative repertoires of type-I polyketide synthase (PKS) and nonribosomal peptide synthetase (NRPS) gene clusters. Although Streptomyces parvisporogenes and Streptomyces ehimensis, and Streptomyces sapporonensis have been considered as later heterotypic synonyms of Streptomyces abikoensis and Streptomyces cinnamoneus, respectively, they were revealed to be three independent species. Clear differences in the repertoires of their PKS and NRPS gene clusters were observed among these different species, although no clear difference in major phenotypic characteristics was observed between S. sapporonensis and S. cinnamoneus. The strain designated as 'Streptomyces hesseae' corresponded to the type strain of S. parvisporogenes. Streptomyces salyersiae, Kitasatospora papulosa, Streptomyces puniceus, Streptomyces pluricolorescens and Streptomyces finlayi were reclassified as later heterotypic synonyms of Streptomyces flavovirens, Streptomyces pratensis, Streptomyces californicus, Streptomyces rubiginosohelvolus and Streptomyces spiroverticillatus, respectively. These synonymous species shared completely or nearly identical PKS and NRPS gene cluster repertoires. These findings demonstrate that the repertoires of PKS and NRPS gene clusters represent stable and informative characteristics that provide robust support and complement phenotypic features for the classification of Streptomyces species.",
+    "journal": "International Journal of Systematic and Evolutionary Microbiology",
+    "doi": "10.1099/ijsem.0.007327",
+    "date": "2026-11-01",
+    "authors": "Komaki H.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43038041",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43038041",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "Streptomyces"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "phylogen",
+          "phylogeny"
+        ],
+        "evolution": [
+          "phylogeny"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 5324,
+    "collected_at": "2026-11-21T17:30:13.539558+00:00",
+    "collected_date": "2026-11-22",
+    "sources": [
+      "Europe PMC journals 7"
+    ],
+    "first_seen": "2026-11-21",
+    "related_dois": [
+      "10.1099/ijsem.0.007327"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 7",
+        "query": "(JOURNAL:\"Microbial Ecology\" OR JOURNAL:\"Environmental Microbiology Reports\" OR JOURNAL:\"International Journal of Systematic and Evolutionary Microbiology\" OR JOURNAL:\"npj Biofilms and Microbiomes\" OR JOURNAL:\"Nature Reviews Microbiology\" OR JOURNAL:\"Trends in Microbiology\" OR JOURNAL:\"Annual Review of Microbiology\" OR JOURNAL:\"Microbial Cell\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1099/ijsem.0.007351",
+    "title": "<i>Streptomyces chryseogenes</i> sp. nov., a novel actinobacterium producing temperature-dependent yellow pigment.",
+    "abstract": "A novel actinobacterium producing water-soluble yellow pigment was isolated from soil in Zhejiang Province, China. The isolated strain, designated as ZAF1911T, exhibited morphological characteristics typical of the genus Streptomyces, forming white circular colonies with a raised and dry surface, and producing long, curved aerial hyphae with spherical to ovoid spores. Phylogenetic analysis of the 16S rRNA gene sequence revealed that strain ZAF1911T belongs to the genus Streptomyces, sharing 100% sequence similarity with Streptomyces stoeckheimensis DSM 116496T. The strain grows within the ranges of 15-40 °C (optimum 28 °C), pH 6.0-9.0 and 0-3% NaCl, hydrolysing starch and liquefying gelatin, but not cellulose. Chemotaxonomic analysis showed the presence of both ll- and meso-diaminopimelic acid in the cell wall and identified MK-9(H4) and MK-9(H6) as the major menaquinones. The major cellular fatty acids were iso-C₁₄:₀ and C₁₆:₀. The polar lipid profile consisted of diphosphatidylglycerol, phosphatidylethanolamine, phosphatidylinositol, hydroxy-phosphatidylethanolamine, phosphatidylinositol mannoside and an unidentified phospholipid. The 9.36 Mbp genome sequence revealed a G+C content of 72.06 mol%. Digital DNA-DNA hybridization values with the type strains of closely related species ranged from 28.3% to 63.3% (all well below the 70% threshold), and average nucleotide identity values ranged from 84.59% to 95.52% [below the boundaries for bacterial (95-96%) and Streptomyces (96.7%) species delineation, respectively], indicating that strain ZAF1911ᵀ represents a novel species, for which the name Streptomyces chryseogenes sp. nov. is proposed. The type strain is ZAF1911T (=CGMCC 4.7889 T=JCM 36261T). Furthermore, a γ-butyrolactone biosynthetic gene cluster was among the most strongly differentially expressed loci between 28 °C and 37 °C, being up-regulated at the non-pigmenting temperature. This correlation suggests that γ-butyrolactone signalling may contribute to the temperature-dependent regulation of pigment production, although functional validation is still required.",
+    "journal": "International Journal of Systematic and Evolutionary Microbiology",
+    "doi": "10.1099/ijsem.0.007351",
+    "date": "2026-11-01",
+    "authors": "He Y, Jiao R, Tong S, Mo Q, Ren Y, Ni Q, Liu C, Xu G.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43062170",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43062170",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "Streptomyces",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 5325,
+    "collected_at": "2026-11-21T17:30:13.539558+00:00",
+    "collected_date": "2026-11-22",
+    "sources": [
+      "Europe PMC journals 7"
+    ],
+    "first_seen": "2026-11-21",
+    "related_dois": [
+      "10.1099/ijsem.0.007351"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 7",
+        "query": "(JOURNAL:\"Microbial Ecology\" OR JOURNAL:\"Environmental Microbiology Reports\" OR JOURNAL:\"International Journal of Systematic and Evolutionary Microbiology\" OR JOURNAL:\"npj Biofilms and Microbiomes\" OR JOURNAL:\"Nature Reviews Microbiology\" OR JOURNAL:\"Trends in Microbiology\" OR JOURNAL:\"Annual Review of Microbiology\" OR JOURNAL:\"Microbial Cell\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1099/ijsem.0.007345",
+    "title": "Comparative and phylogenomic analyses support the reclassification of <i>Calidifontibacter</i> Ruckmani <i>et al</i>. 2011 as a later heterotypic synonym of <i>Yimella</i> Tang <i>et al</i>. 2010, with transfer of <i>Calidifontibacter indicus</i> as <i>Yimella indica</i> comb. nov. and proposal of <i>Koreicoccus terrae</i> gen. nov., comb. nov.",
+    "abstract": "The family Dermacoccaceae comprises 12 genera and 26 species with standing in nomenclature, most described before type-strain genome sequencing became standard. Phylogenomics and Overall Genomic Relatedness Indices calculations independently corroborate three recently proposed heterotypic synonymies: Yimella radicis with Yimella lutea, Barrientosiimonas endolithica with Barrientosiimonas humi and both Dermacoccus barathri and Dermacoccus profundi with Dermacoccus abyssi. The central finding of this study, however, is a genus-level discordance. Calidifontibacter indicus, the type species of Calidifontibacter, shared a higher average amino acid identity (AAI) with Y. lutea (73.35-73.61%) than with its only congener, Calidifontibacter terrae (66.04%). C. terrae shared only 65.16-66.04% AAI with Yimella, inside the family's cross-genus range (57.15-66.04%). Furthermore, C. indicus shared only 80.41% average nucleotide identity (ANI) with C. terrae, well below the 84.43-84.44% shared with Yimella. Digital DNA-DNA hybridization values followed the same pattern as AAI and ANI. The C. indicus-Yimella comparison yielded the highest value (25.1% [22.8-27.6%]), exceeding both C. indicus-C. terrae (20.1% [17.9-22.5%]) and C. terrae-Yimella (19.8% [17.6-22.2%]). Five phylogenetic reconstructions and hierarchical clustering based on accessory gene-cluster content placed C. indicus with Yimella to the exclusion of C. terrae, each with full or near-full support. Under the current taxonomic status, within-genus and cross-genus AAI overlap across a 7.71-point window, entirely through C. indicus against Y. lutea comparisons. The proposed reclassification removes that overlap and gives the family an operative genus boundary, for the currently sampled dataset, at 66.40% AAI. Therefore, Calidifontibacter is proposed as a later heterotypic synonym of Yimella, as Yimella indica comb. nov., and C. terrae Dahal et al. (Int J Syst Evol Microbiol 2017;67:1925-1931) as the type species of newly proposed genus, Koreicoccus gen. nov., as Koreicoccus terrae comb. nov.",
+    "journal": "International Journal of Systematic and Evolutionary Microbiology",
+    "doi": "10.1099/ijsem.0.007345",
+    "date": "2026-11-01",
+    "authors": "Bouznada K, Saker R, Ould Taleb R, Bouras N, Bellouti MZ, Dif G, Tata S, Laassami A, Meklat A.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43056152",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43056152",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenetic",
+          "phylogenomic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 5326,
+    "collected_at": "2026-11-21T17:30:13.539558+00:00",
+    "collected_date": "2026-11-22",
+    "sources": [
+      "Europe PMC journals 7"
+    ],
+    "first_seen": "2026-11-21",
+    "related_dois": [
+      "10.1099/ijsem.0.007345"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 8",
+        "query": "(JOURNAL:\"Microbial Biotechnology\" OR JOURNAL:\"Extremophiles\" OR JOURNAL:\"Genome Biology and Evolution\" OR JOURNAL:\"Molecular Biology and Evolution\" OR JOURNAL:\"Molecular Ecology\" OR JOURNAL:\"Molecular Ecology Resources\" OR JOURNAL:\"Molecular Phylogenetics and Evolution\" OR JOURNAL:\"Bioinformatics Advances\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1111/1755-0998.70219",
+    "title": "Breath to Genome: Whole Genome Sequencing of Large Whales From Blow Sampling.",
+    "abstract": "Preserving biodiversity requires the genetic monitoring of wild populations, which is traditionally done through invasive sampling techniques for DNA collection. However, this approach can impact animal welfare or be impossible to implement due to behavioural responses to anthropogenic factors or national/international legislation. For cetaceans, a promising non-invasive alternative approach is the collection of exhaled respiratory vapour, or 'blow', to generate individual genetic profiles. Here, we demonstrate the feasibility of generating whole nuclear and mitochondrial genomes from the blow of humpback whales (Megaptera novaeangliae) with data of sufficient quality for population genomics. A total of 58 blow samples from 26 Northeast Pacific humpback whales were collected in Gitga'at First Nation territory using a commercially available drone. The high endogenous DNA content at 84% on average allowed us to generate low-coverage nuclear genomes (mean 2.3×, range 0.2× to 3.5×) and high-coverage mitochondrial genomes (mean 94×, range 7.7× to 151.3×) for inference of population structure, diversity and phylogenomics. The reliability of the blow-derived genomes was demonstrated by direct comparison between replicate blow samples, as well as paired tissue samples from a subset of individuals. Although applicability will likely vary across species depending on factors such as elusiveness, body size and surface time, this approach represents a major step towards non-invasive cetacean sampling that can yield not only host genomes but also microbiome and hormone profiles. As such, our approach opens new avenues for conservation genomics, population monitoring and microbiome-based health assessments in the wild and can fill critical data gaps in cetacean genomic databases.",
+    "journal": "Molecular Ecology Resources",
+    "doi": "10.1111/1755-0998.70219",
+    "date": "2026-11-01",
+    "authors": "O'Mahony ÉN, McCarthy ML, Keen EM, Wray J, McMillan CJ, Thornton SJ, Rendell LE, Gaggiotti OE, Olsen MT.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43041175",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13775071",
+    "pmid": "43041175",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5332,
+    "collected_at": "2026-11-21T17:30:13.539558+00:00",
+    "collected_date": "2026-11-22",
+    "sources": [
+      "Europe PMC journals 8"
+    ],
+    "first_seen": "2026-11-21",
+    "related_dois": [
+      "10.1111/1755-0998.70219"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 9",
+        "query": "(JOURNAL:\"Briefings in Bioinformatics\" OR JOURNAL:\"Briefings in Functional Genomics\" OR JOURNAL:\"BMC Genomics\" OR JOURNAL:\"BMC Bioinformatics\" OR JOURNAL:\"GigaScience\" OR JOURNAL:\"Database\" OR JOURNAL:\"DNA Research\" OR JOURNAL:\"PLOS Computational Biology\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "review-article",
+      "journal article"
+    ],
+    "id": "10.1093/bib/bbag638",
+    "title": "Computational immunogenicity prediction for mRNA vaccines: benchmarks, bottlenecks, and the peptide-nucleotide gap.",
+    "abstract": "Computational prediction of T-cell epitopes has become indispensable to vaccine design, yet the field still relies on the assumption that how much of a given antigen is produced is fixed by its coding sequence. However, this is not the case with mRNA vaccines, i.e. the design of the mRNA template can vastly alter the quantity of the same protein produced. Codon usage, guanine-cytosine (GC) content, untranslated-region (UTR) design, and predicted secondary structure together define how fast the message is translated and how long it survives, and therefore how much antigen ever reaches the presentation pathway. This is a variable that no current immunogenicity predictor represents. Herein we appraise three decades of computational immunogenicity prediction, tracing the path from position-specific scoring matrices through pan-specific neural networks to transformer-based protein language models, and we use that history to expose the peptide-nucleotide gap between these tools and the way mRNA vaccines are designed. A structured synthesis of published evaluations of leading predictors across human leukocyte antigen (HLA) alleles, peptide lengths and data types shows that headline accuracy masks persistent deficiencies in predicting major histocompatibility complex (MHC) class II, which underpins durable T-cell help, and rare alleles, which disproportionately affect under-represented populations. Four bottlenecks continue to constrain the field: class II prediction, T-cell receptor (TCR) recognition, immunodominance, and the disconnection between nucleotide-level design and peptide-level prediction. We argue that the last of these, which has drawn the least attention, is, in our assessment, the most likely to yield near-term gains for personalised cancer vaccines and pandemic preparedness, and we set out an architecture that couples translation-rate prediction to peptide presentation. Building it will require data that do not yet exist; we specify what must be measured, and on which platforms.",
+    "journal": "Briefings in Bioinformatics",
+    "doi": "10.1093/bib/bbag638",
+    "date": "2026-11-01",
+    "authors": "Kamaliasl S, Buckley NE, Dunne NJ, McCarthy HO.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43055516",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13783184",
+    "pmid": "43055516",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "benchmark",
+        "nucleotide",
+        "prediction"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "benchmark",
+          "nucleotide",
+          "prediction"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5334,
+    "collected_at": "2026-11-21T17:30:13.539558+00:00",
+    "collected_date": "2026-11-22",
+    "sources": [
+      "Europe PMC journals 9"
+    ],
+    "first_seen": "2026-11-21",
+    "related_dois": [
+      "10.1093/bib/bbag638"
+    ]
   }
 ]

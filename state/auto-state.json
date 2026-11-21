@@ -162,7 +162,7 @@
   "backfill_request_status": {
     "id": "collection-recovery-2026-11-10",
     "phase": "in_progress",
-    "additional": 23,
+    "additional": 9,
     "coverage": {
       "Europe PMC watchlist": {
         "ok": true,
@@ -188,7 +188,6 @@
       "Europe PMC bioinformatics": {
         "ok": false,
         "retrieved": 7810,
-        "accepted": 2038,
         "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
         "publication_start": "2026-10-20"
       },
@@ -202,14 +201,12 @@
       "Europe PMC journals 2": {
         "ok": false,
         "retrieved": 240,
-        "accepted": 211,
         "query": "(JOURNAL:\"microLife\" OR JOURNAL:\"Nucleic Acids Research\" OR JOURNAL:\"NAR Genomics and Bioinformatics\" OR JOURNAL:\"Bioinformatics\" OR JOURNAL:\"Microbes and Environments\" OR JOURNAL:\"Frontiers in Microbiology\" OR JOURNAL:\"Frontiers in Marine Science\" OR JOURNAL:\"mBio\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
         "publication_start": "2026-10-20"
       },
       "Europe PMC journals 3": {
         "ok": false,
-        "retrieved": 120,
-        "accepted": 120,
+        "retrieved": 125,
         "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
         "publication_start": "2026-10-20"
       },
@@ -227,32 +224,32 @@
       },
       "Europe PMC journals 6": {
         "ok": false,
-        "retrieved": 85,
+        "retrieved": 105,
         "query": "(JOURNAL:\"Microbial Genomics\" OR JOURNAL:\"Microbiology\" OR JOURNAL:\"Aquatic Microbial Ecology\" OR JOURNAL:\"PNAS\" OR JOURNAL:\"PLOS Biology\" OR JOURNAL:\"PLOS Genetics\" OR JOURNAL:\"Genome Research\" OR JOURNAL:\"Genome Biology\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
         "publication_start": "2026-10-20"
       },
       "Europe PMC journals 7": {
         "ok": false,
-        "retrieved": 25,
+        "retrieved": 35,
         "query": "(JOURNAL:\"Microbial Ecology\" OR JOURNAL:\"Environmental Microbiology Reports\" OR JOURNAL:\"International Journal of Systematic and Evolutionary Microbiology\" OR JOURNAL:\"npj Biofilms and Microbiomes\" OR JOURNAL:\"Nature Reviews Microbiology\" OR JOURNAL:\"Trends in Microbiology\" OR JOURNAL:\"Annual Review of Microbiology\" OR JOURNAL:\"Microbial Cell\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
         "publication_start": "2026-10-20"
       },
       "Europe PMC journals 8": {
         "ok": false,
-        "retrieved": 20,
-        "accepted": 14,
+        "retrieved": 35,
         "query": "(JOURNAL:\"Microbial Biotechnology\" OR JOURNAL:\"Extremophiles\" OR JOURNAL:\"Genome Biology and Evolution\" OR JOURNAL:\"Molecular Biology and Evolution\" OR JOURNAL:\"Molecular Ecology\" OR JOURNAL:\"Molecular Ecology Resources\" OR JOURNAL:\"Molecular Phylogenetics and Evolution\" OR JOURNAL:\"Bioinformatics Advances\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
         "publication_start": "2026-10-20"
       },
       "Europe PMC journals 9": {
         "ok": false,
-        "retrieved": 5,
+        "retrieved": 20,
         "query": "(JOURNAL:\"Briefings in Bioinformatics\" OR JOURNAL:\"Briefings in Functional Genomics\" OR JOURNAL:\"BMC Genomics\" OR JOURNAL:\"BMC Bioinformatics\" OR JOURNAL:\"GigaScience\" OR JOURNAL:\"Database\" OR JOURNAL:\"DNA Research\" OR JOURNAL:\"PLOS Computational Biology\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
         "publication_start": "2026-10-20"
       },
       "Europe PMC journals 10": {
         "ok": false,
-        "retrieved": 50,
+        "retrieved": 55,
+        "accepted": 4,
         "query": "(JOURNAL:\"Scientific Data\" OR JOURNAL:\"Limnology and Oceanography\" OR JOURNAL:\"Limnology and Oceanography Letters\" OR JOURNAL:\"Annual Review of Marine Science\" OR JOURNAL:\"Trends in Ecology & Evolution\" OR JOURNAL:\"iScience\" OR JOURNAL:\"Current Biology\" OR JOURNAL:\"Cell Reports\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
         "publication_start": "2026-10-20"
       },
@@ -276,7 +273,7 @@
     },
     "collection_exit_code": -9,
     "budget_exhausted": true,
-    "updated_at": "2026-11-21T10:05:49.190289+00:00"
+    "updated_at": "2026-11-21T17:40:35.477919+00:00"
   },
   "last_publication_slot": "2026-11-21T15:12:00+09:00"
 }
