@@ -720,6 +720,13 @@
     ]
   },
   {
+    "name": "Artificial intelligence in medicine",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Astrobiology",
     "scope": [
       "ecology",
@@ -914,6 +921,13 @@
   },
   {
     "name": "Biologia futura",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Biological cybernetics",
     "scope": [
       "genomics",
       "microbiology"
@@ -2873,6 +2887,13 @@
   },
   {
     "name": "European journal of pharmacology",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "European journal of radiology",
     "scope": [
       "genomics",
       "microbiology"
@@ -5605,6 +5626,13 @@
   },
   {
     "name": "The Lancet. Public health",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Lancet regional health. Americas",
     "scope": [
       "genomics",
       "microbiology"

@@ -442229,5 +442229,133 @@
     "related_dois": [
       "10.1007/s10278-026-02451-8"
     ]
+  },
+  {
+    "id": "10.64898/2026.11.19.767948",
+    "title": "Precision Fermentation Gets a New Player: Genome Assembly and Genetic Transformation of a Novel Strain, Pichia hangzhouana, for Precision Fermentation of Food Ingredients",
+    "abstract": "Precision fermentation leverages the metabolic pathways of microorganisms to produce valuable proteins and enzymes. Pichia hangzhouana, synonymous with Zygoascus hellenicus, is a non-conventional yeast with potential for food biotechnological applications. This study characterizes the CSIRO strain P. hangzhouana FRR5246, isolated from a tea beverage, to evaluate its suitability as a precision fermentation host for a variety of industrial, agricultural and food production applications. P. hangzhouana demonstrated robust growth across a range of carbon sources, with the highest optical density observed in media containing sucrose or sorbitol as sole carbon source. The yeast showed susceptibility to geneticin, hygromycin B, nourseothricin sulfate, and zeocin sulfate antibiotic agents. Successful genetic transformation was achieved, with the expression of a recombinant orange fluorescent protein (OFP) under the control of the native glyceraldehyde-3-phosphate dehydrogenase (GAP1) promoter. The secretome exhibited strong antimicrobial activity against Escherichia coli and Staphylococcus aureus, indicating the presence of potent antimicrobial compounds. In addition, whole genome sequencing of P. hangzhouana FRR5246 provided genetic tools for recombinant expression of heterologous genes, insight into the genes, genetic architecture and regulatory mechanisms underlying phenotypic qualities, as well as confirming phylogenetic classification of this strain as clustering with the Dipodascomycetes, most closely related to species Zygoascus hellenicus. P. hangzhouana FRR5246 is a promising candidate for precision fermentation of food ingredients, capable of utilizing diverse carbon sources and producing recombinant proteins. In addition, production of antimicrobial compounds further enhances the potential for biotechnological exploitation. Future work will focus on optimizing growth conditions and exploring native inducible promoters for controlled gene expression.",
+    "journal": "",
+    "doi": "10.64898/2026.11.19.767948",
+    "date": "2026-11-20",
+    "authors": "Karimian, P., Johnston, E., Vafadarshamasbi, U., Afshari, R., Bachler, A., Mead, O., Boer, P., Hands, P., Hlaing, M. M., McAuley, C. M., Kasprzak, A., Liu, J.-W., Vanhercke, T., Hartley, C. J.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.19.767948v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "assembly",
+        "gene",
+        "genetic",
+        "genome",
+        "microorganism",
+        "microorganisms",
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "genom",
+          "genome",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5439,
+    "collected_at": "2026-11-21T02:23:23.634265+00:00",
+    "collected_date": "2026-11-21",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-21",
+    "related_dois": [
+      "10.64898/2026.11.19.767948"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.19.767971",
+    "title": "Two novel plant-derived yeast species in Thailandicola (Microbotryomycetes): comparative genomics and transformation",
+    "abstract": "Plant tissues and surfaces are among the largest microbial habitats on Earth, and commensal yeasts are common members of these communities, where they can contribute to plant-microbe interactions including the biological control of plant diseases. Here, we describe two novel species of unpigmented, basidiomycete yeasts, in the class Microbotryomycetes from the plant phyllosphere (Thailandicola erigeronia and T. cardamina) represented by three isolates from leaves of multiple hosts. We characterize these taxa through analyses of metabolic requirements, tolerance to differences in osmolarity, pH, and temperature, and enzymatic activities. In parallel, we generate near-chromosome-scale hybrid genomes annotated with transcriptome data for these novel species and a congenic isolate. We employ whole-genome and multilocus phylogenetic approaches to infer the placement of these species within a monophyletic clade. We use comparative genomics to examine how the gene content of these yeasts differs from that of other members of the Microbotryomycetes, including an apparent proliferation of retrotransposons. We further demonstrate the genetic transformability of these taxa using Agrobacterium tumefaciens-mediated transformation. The description of these new species, together with high-quality genome resources and a genetic transformation protocol, establishes a foundation for experimental studies of these novel plant-derived yeasts and their interactions with hosts and other microbes.",
+    "journal": "",
+    "doi": "10.64898/2026.11.19.767971",
+    "date": "2026-11-20",
+    "authors": "Liber, J. A., He, S. Y., Coelho, M. A.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.19.767971v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbe",
+        "microbes",
+        "microbial",
+        "yeast",
+        "yeasts"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenetic",
+          "transcript"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5440,
+    "collected_at": "2026-11-21T02:23:23.634265+00:00",
+    "collected_date": "2026-11-21",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-21",
+    "related_dois": [
+      "10.64898/2026.11.19.767971"
+    ]
   }
 ]
