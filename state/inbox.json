@@ -443754,5 +443754,561 @@
     "related_dois": [
       "10.3390/foods15213937"
     ]
+  },
+  {
+    "id": "10.1186/s40168-026-02578-4",
+    "title": "Microecological mechanisms of resistance to kiwifruit bacterial canker: flavonoid-mediated beneficial bacterial enrichment and AHL-mediated cross-kingdom quorum sensing interference",
+    "abstract": "Background\n                     Kiwifruit bacterial canker, caused by Pseudomonas syringae pv. actinidiae (Psa), is a devastating agricultural disease. While host resistance varies significantly among different kiwifruit cultivars, the contribution of root-associated microbiomes to these contrasting defense phenotypes remains elusive.\n                  \n                     Results\n                     Here, we integrated microbiome, metabolome, and functional validation experiments to unravel the mechanisms driving the divergent disease outcomes between the highly susceptible cultivar ‘Hongyang’ (HY) and the resistant cultivar ‘Longcheng No. 2’ (LC2). Soil transplantation experiments first demonstrated that LC2 rhizosphere soil confers legacy resistance on HY. We subsequently revealed that Psa infection triggers distinct rhizosphere microbial assembly and metabolic responses: LC2 selectively recruits antagonistic Streptomyces via the secretion of the specific flavonoid isoscutellarein, whereas HY primarily enriches Pseudomonas driven by luteolin-7-O-glucuronide. In vitro and in vivo validations confirmed that these flavonoids divergently regulate bacterial growth, chemotaxis, and root colonization. Strikingly, we identified that HY roots aberrantly enrich endophytic bacteria producing high levels of N-acyl homoserine lactone (AHL) quorum-sensing signals, specifically N-octanoyl-L-homoserine lactone (C8-HSL) and N-(3-oxododecanoyl)-L-homoserine lactone (3-oxo-C12-HSL). The systemic accumulation of these microbial AHLs bolsters Psa pathogenicity by synergistically activating the Type III secretion system (T3SS) and flagellar assembly pathways, thus elucidating the molecular basis of HY susceptibility. Conversely, LC2-derived Streptomyces viridobrunneus LI-S16 reduced lesion areas by 41.82%, while a rationally designed Streptomyces synthetic microbial community (SynCom) provided near-complete protection. This SynCom effectively suppressed Psa by priming multi-layered plant immunity, characterized by the synergistic activation of salicylic acid (SA) and ethylene (ET) signaling, suppression of the jasmonic acid (JA) pathway, and robust accumulation of callose and reactive oxygen species (ROS).\n                  \n                     Conclusions\n                     Collectively, our findings demonstrate how flavonoid-mediated assembly of beneficial microbes and cross-kingdom interference via microbial AHL signaling collectively shape cultivar-specific resistance, offering a promising SynCom-based strategy for the precise control of kiwifruit canker.\n                     \nVideo Abstract",
+    "journal": "Microbiome",
+    "doi": "10.1186/s40168-026-02578-4",
+    "date": "2026-11-21",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s40168-026-02578-4",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Pseudomonas",
+        "Streptomyces",
+        "bacteria",
+        "bacterial",
+        "microbe",
+        "microbes",
+        "microbial",
+        "microbiome",
+        "microbiomes"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=40168",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5441,
+    "collected_at": "2026-11-21T10:06:00.579932+00:00",
+    "collected_date": "2026-11-21",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=40168"
+    ],
+    "first_seen": "2026-11-21",
+    "related_dois": [
+      "10.1186/s40168-026-02578-4"
+    ]
+  },
+  {
+    "id": "10.1111/1462-2920.70445",
+    "title": "Conversion of Cyanotoxins to Harmless Peptides: Mechanistic Modelling of the MlrABCD‐Mediated Microcystin Detoxification Pathway",
+    "abstract": "The Sphingopyxis MlrABCD pathway enables spatially coordinated microcystin detoxification. Membrane‐associated MlrA initiates degradation by linearizing microcystins, followed by MlrB‐mediated peptide cleavage, MlrD‐facilitated transport, and cytoplasmic MlrC degradation into smaller products. Molecular modelling and dynamics simulations reveal microcystin congener‐dependent interactions with MlrA/MlrB. Binding is strongly influenced by the variable R2 residue, with positively charged arginine‐containing congeners, particularly MC‐RR and MC‐LR, showing stronger predicted binding than hydrophobic congeners, highlighting structural determinants of substrate recognition and biodegradation efficiency.\n\nABSTRACT\nMicrocystins are among the most prevalent cyanobacterial toxins threatening freshwater ecosystems and human health, yet the molecular basis of their bacterial detoxification remains incompletely understood. Here, we present an integrated structural model of the MlrABCD pathway from Sphingopyxis sp. C‐1, providing mechanistic insight into the sequential transformation of microcystins across distinct bacterial cellular compartments. Comparative genomics, structural modelling, ligand‐binding predictions, and molecular dynamics simulations reveal a spatially coordinated detoxification process in which membrane‐associated MlrA initiates toxin linearization, periplasmic MlrB hydrolyses linear intermediates, MlrD transports degradation products across the cytoplasmic membrane, and cytoplasmic MlrC completes peptide degradation. Analysis of environmentally relevant microcystin congeners showed that substrate recognition is governed by the interplay between toxin chemistry and enzyme architecture. MlrA preferentially recognises MC‐LR, whereas MlrB displays enhanced affinity for linearized MC‐RR, indicating that ring opening reshapes substrate selectivity during pathway progression. Substrate binding also stabilises MlrD, supporting a ligand‐induced alternating‐access transport mechanism. Collectively, these findings indicate that the Sphingopyxis sp. C‐1 biodegradation machinery has evolved under environmental selective pressures into a compartmentalised and highly coordinated detoxification system optimised for the predominant environmental congeners, MC‐LR and MC‐RR, providing a molecular framework for the rational development of enhanced cyanotoxin bioremediation strategies.\n\nThe Sphingopyxis MlrABCD pathway enables spatially coordinated microcystin detoxification. Membrane-associated MlrA initiates degradation by linearizing microcystins, followed by MlrB-mediated peptide cleavage, MlrD-facilitated transport, and cytoplasmic MlrC degradation into smaller products. Molecular modelling and dynamics simulations reveal microcystin congener-dependent interactions with MlrA/MlrB. Binding is strongly influenced by the variable R2 residue, with positively charged arginine-containing congeners, particularly MC-RR and MC-LR, showing stronger predicted binding than hydrophobic congeners, highlighting structural determinants of substrate recognition and biodegradation efficiency.\n\nABSTRACT\nMicrocystins are among the most prevalent cyanobacterial toxins threatening freshwater ecosystems and human health, yet the molecular basis of their bacterial detoxification remains incompletely understood. Here, we present an integrated structural model of the MlrABCD pathway from Sphingopyxis sp. C-1, providing mechanistic insight into the sequential transformation of microcystins across distinct bacterial cellular compartments. Comparative genomics, structural modelling, ligand-binding predictions, and molecular dynamics simulations reveal a spatially coordinated detoxification process in which membrane-associated MlrA initiates toxin linearization, periplasmic MlrB hydrolyses linear intermediates, MlrD transports degradation products across the cytoplasmic membrane, and cytoplasmic MlrC completes peptide degradation. Analysis of environmentally relevant microcystin congeners showed that substrate recognition is governed by the interplay between toxin chemistry and enzyme architecture. MlrA preferentially recognises MC-LR, whereas MlrB displays enhanced affinity for linearized MC-RR, indicating that ring opening reshapes substrate selectivity during pathway progression. Substrate binding also stabilises MlrD, supporting a ligand-induced alternating-access transport mechanism. Collectively, these findings indicate that the Sphingopyxis sp. C-1 biodegradation machinery has evolved under environmental selective pressures into a compartmentalised and highly coordinated detoxification system optimised for the predominant environmental congeners, MC-LR and MC-RR, providing a molecular framework for the rational development of enhanced cyanotoxin bioremediation strategies.",
+    "journal": "Environmental Microbiology",
+    "doi": "10.1111/1462-2920.70445",
+    "date": "2026-11-21",
+    "authors": "Francisco J. Enguita, \nAna Lúcia Leitão",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.70445?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "cyanobacteria",
+        "cyanobacterial"
+      ],
+      "context": {
+        "marine": [
+          "freshwater"
+        ],
+        "genomics": [
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://onlinelibrary.wiley.com/feed/14622920/most-recent",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5442,
+    "collected_at": "2026-11-21T10:06:00.579932+00:00",
+    "collected_date": "2026-11-21",
+    "sources": [
+      "https://onlinelibrary.wiley.com/feed/14622920/most-recent"
+    ],
+    "first_seen": "2026-11-21",
+    "related_dois": [
+      "10.1111/1462-2920.70445"
+    ]
+  },
+  {
+    "id": "10.1111/1462-2920.70497",
+    "title": "Shrubification Has Limited Effects on Prokaryotic Communities in Northern Permafrost Regions",
+    "abstract": "There are major differences in microbial diversity and community assembly between the sub‐Arctic and the Arctic. In the sub‐Arctic, encroaching erect shrubs have an effect on microbial communities, which is mediated through their effect on soil pH. Soil type and characteristics are also important.\n\nABSTRACT\nThe northern landscape is greening due to climate change. Yet, little is known about the effect of increasingly more abundant erect shrubs on Arctic soil microbial communities, which play a crucial role in climate feedback. Soil samples were collected from soil pits with and without erect shrubs at a sub‐Arctic (Umiujaq, Quebec) and Arctic (Bylot Island, Nunavut) site in Canada. These samples were analysed for carbon density, nitrogen density, bulk density and pH, while the soil microbiome was studied using 16S rRNA metabarcoding. Both alpha and beta diversity were lower at the Arctic site compared to the sub‐Arctic site, while heterogeneous selection pressures had a greater influence on Arctic microbial community assembly processes. Additionally, soil depth and properties played a critical role in shaping the microbial communities, suggesting that both broad‐scale geographic factors and small‐scale environmental heterogeneity drive the microbiome composition and structure. Shrubs had a weak effect on microbial diversity, through their effect on soil pH. Moreover, the shrub effect varied with soil depth in the sub‐Arctic, likely due to the podzolic soils there. However, additional research is needed to understand the functions of this diverse microbial community and its role in climate feedback as the Arctic changes.\n\nThere are major differences in microbial diversity and community assembly between the sub-Arctic and the Arctic. In the sub-Arctic, encroaching erect shrubs have an effect on microbial communities, which is mediated through their effect on soil pH. Soil type and characteristics are also important.\n\nABSTRACT\nThe northern landscape is greening due to climate change. Yet, little is known about the effect of increasingly more abundant erect shrubs on Arctic soil microbial communities, which play a crucial role in climate feedback. Soil samples were collected from soil pits with and without erect shrubs at a sub-Arctic (Umiujaq, Quebec) and Arctic (Bylot Island, Nunavut) site in Canada. These samples were analysed for carbon density, nitrogen density, bulk density and pH, while the soil microbiome was studied using 16S rRNA metabarcoding. Both alpha and beta diversity were lower at the Arctic site compared to the sub-Arctic site, while heterogeneous selection pressures had a greater influence on Arctic microbial community assembly processes. Additionally, soil depth and properties played a critical role in shaping the microbial communities, suggesting that both broad-scale geographic factors and small-scale environmental heterogeneity drive the microbiome composition and structure. Shrubs had a weak effect on microbial diversity, through their effect on soil pH. Moreover, the shrub effect varied with soil depth in the sub-Arctic, likely due to the podzolic soils there. However, additional research is needed to understand the functions of this diverse microbial community and its role in climate feedback as the Arctic changes.",
+    "journal": "Environmental Microbiology",
+    "doi": "10.1111/1462-2920.70497",
+    "date": "2026-11-21",
+    "authors": "Anne Ola, \nMartial Leroy, \nLoïc Jacquemot, \nFlorent Domine, \nDaniel Fortier, \nJérôme Comte",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.70497?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "microbial",
+        "microbiome",
+        "prokaryotic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://onlinelibrary.wiley.com/feed/14622920/most-recent",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5443,
+    "collected_at": "2026-11-21T10:06:00.579932+00:00",
+    "collected_date": "2026-11-21",
+    "sources": [
+      "https://onlinelibrary.wiley.com/feed/14622920/most-recent"
+    ],
+    "first_seen": "2026-11-21",
+    "related_dois": [
+      "10.1111/1462-2920.70497"
+    ]
+  },
+  {
+    "id": "10.1186/s13059-026-04355-w",
+    "title": "LmPro-Nano: a method for nanobody optimization using pretrained language and energy prediction models",
+    "abstract": "Nanobodies are an important therapeutic scaffold for multiple diseases and have been shown to neutralize severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). However, optimizing affinity for a chosen antigen remains slow and expensive. Here, we present LmPro-Nano, a sequence-driven workflow coupling a pretrained nanobody language model with a structure-based binding-energy predictor and molecular dynamics. We demonstrate LmPro-Nano on 3-2A2-4 and VHH72, two nanobodies against the SARS-CoV-2 receptor-binding domain. We find that LmPro-Nano improves antigen-binding-loop recovery by 4.37 points over a frequency reference, and for VHH72, sequence-only localization of the binding region raised the top-ten hit rate from two to seven tighter binders.",
+    "journal": "Genome Biology",
+    "doi": "10.1186/s13059-026-04355-w",
+    "date": "2026-11-21",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s13059-026-04355-w",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "predictor",
+        "sequence",
+        "workflow"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "predictor",
+          "sequence",
+          "workflow"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=13059",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5444,
+    "collected_at": "2026-11-21T10:06:00.579932+00:00",
+    "collected_date": "2026-11-21",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=13059"
+    ],
+    "first_seen": "2026-11-21",
+    "related_dois": [
+      "10.1186/s13059-026-04355-w"
+    ]
+  },
+  {
+    "id": "10.1186/s13059-026-04341-2",
+    "title": "Using gene co-expression graph topological fingerprints to enhance pathway activity scoring via xGATE",
+    "abstract": "Quantifying pathway activity in single-cell and spatial omics is error-prone when methods ignore how genes wire together. We present xGATE, a topology-aware pathway-scoring framework that reads activity from the topological fingerprints of gene co-expression graphs. xGATE summarizes graph structure into embeddings and calibrates significance against a random-subgraph null, yielding interpretable p-values and continuous effect sizes. Across diverse omics datasets, xGATE outperforms marginal-expression and correlation-counting methods, recovering known active pathways and capturing dynamics that elude gene markers. xGATE yields mechanistic pathway readouts across tissues and platforms.",
+    "journal": "Genome Biology",
+    "doi": "10.1186/s13059-026-04341-2",
+    "date": "2026-11-21",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s13059-026-04341-2",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "framework",
+          "gene"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=13059",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5445,
+    "collected_at": "2026-11-21T10:06:00.579932+00:00",
+    "collected_date": "2026-11-21",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=13059"
+    ],
+    "first_seen": "2026-11-21",
+    "related_dois": [
+      "10.1186/s13059-026-04341-2"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.19.767496",
+    "title": "Emergence of mobile fosA3-blaCTX-M-65 with mcr-1.1 and tet(X4) on conjugative plasmids in avian pathogenic Escherichia coli from industrial poultry in Pakistan",
+    "abstract": "The emergence of plasmid-mediated resistance to critically important antimicrobials poses a growing threat to global health. Here we report the first genomic evidence of plasmid-mediated fosA3 and blaCTX-M-65 coexisting with mcr-1.1 and tet(X4) in multidrug-resistant Escherichia coli from clinically healthy broiler chickens in Pakistan. Among 1,677 high-quality genomes collected through antimicrobial resistance surveillance in Punjab, Pakistan, three isolates recovered between 2022 and 2024 harboured all four resistance determinants. Hybrid genome assemblies showed that fosA3 and blaCTX-M-65 were co-located on IncHI2A plasmids, whereas mcr-1.1 and tet(X4) were carried on separate IncI2 and IncFIA/IncFIC plasmids, all predicted to be conjugative; in one isolate the tet(X4) contig did not circularise. The isolates belonged to sequence type 93 and exhibited resistance to fosfomycin, colistin, tigecycline and cefotaxime. Comparative genomic analysis revealed highly conserved IncHI2A plasmid backbones, with an additional integron-associated resistance region in the 2024 isolates, suggesting acquisition of accessory resistance determinants. Resistance to three last-line antimicrobial classes and a canonical virulence profile now coexist on conjugative plasmids in poultry E. coli, a combination that favours co-selection and argues for plasmid-resolved surveillance in poultry production.",
+    "journal": "",
+    "doi": "10.64898/2026.11.19.767496",
+    "date": "2026-11-20",
+    "authors": "Umair, M., Fatima, F., Mathias, J., Iannetelli, T., Mohsin, M., Farlow, A., Walsh, T. R.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.19.767496v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assemblies",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5446,
+    "collected_at": "2026-11-21T10:06:00.579932+00:00",
+    "collected_date": "2026-11-21",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-21",
+    "related_dois": [
+      "10.64898/2026.11.19.767496"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.19.767834",
+    "title": "Multi-Cohort Blood Transcriptomic Meta-Analysis of Active Pulmonary Tuberculosis: Reproducibility of a 50-Gene Interferon Signature and Benchmarking of a 4-Gene Classifier",
+    "abstract": "Background: Most blood transcriptomic signatures for tuberculosis (TB) come from a single population or a single platform. Few have been built by meta-analysis and benchmarked against published signatures. Methods: We meta-analysed three UK blood transcriptomic datasets (two Illumina microarray, one RNA-seq; 247 samples: 87 active pulmonary TB (PTB), 160 healthy controls (HC)). GSE107991 reanalyses the Berry test set, and two discovery datasets overlap Sweeney's discovery data, so the datasets are not fully independent. Genes were retained if they replicated in all three studies (FDR  1.5, FDR < 0.01). Performance was estimated in GSE28623 (The Gambia, n = 83) and GSE56153 (Indonesia, n = 36); direction was checked in GSE34608 (Germany, n = 26) and GSE81746 (India, n = 6). A LASSO and random-forest classifier was compared with the Berry 393-gene and Sweeney 3-gene signatures. Immune composition was assessed with MCPcounter and CIBERSORTx. Results: We identified a 50-gene core signature dominated by interferon-stimulated genes. All 50 were upregulated and reached FDR < 0.05 in every dataset. ssGSEA gave an AUC of 0.830 (95% CI 0.743-0.917) in GSE28623 and 0.941 (0.868-1.000) in GSE56153. Direction agreement was 95.7% in Germany and 95.8% in India. PTB versus latent TB infection gave 0.848 (0.756-0.940). LASSO selected four genes (BATF2, ANKRD22, GBP5 and EPSTI1). The frozen classifier gave an external AUC of 0.864 (0.785-0.944). The Sweeney 3-gene score, re-tested in one of its validation cohorts, reached 0.912 and exceeded the 50-gene score (47/50 genes; Holm p = 0.0234). Berry 393-gene scoring gave 0.910 with directions reconstructed from GSE19439 (Holm p = 0.0071 versus the 50-gene score). The signed score is a reconstruction, not Berry's published score. MCPcounter showed myeloid expansion and lymphoid suppression; CIBERSORTx recovered the former but not the broader lymphoid suppression. Conclusions: The 50-gene signature was consistent across three overlapping UK discovery datasets. External evaluation was partial, comprising AUCs for 47 of the 50 genes in two cohorts and direction concordance in two smaller cohorts. This is a benchmarking study, not a claim of superiority: the Sweeney 3-gene and signed Berry scores were higher, and the 4-gene classifier did not differ significantly from Sweeney. The classifier warrants prospective validation. The Berry and Sweeney comparisons are not independent.",
+    "journal": "",
+    "doi": "10.64898/2026.11.19.767834",
+    "date": "2026-11-20",
+    "authors": "Hassan, U., Tahir, F., Bibi, A., Jamal, W., Kanwal, T.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.19.767834v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "benchmark",
+        "gene",
+        "transcriptomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5447,
+    "collected_at": "2026-11-21T10:06:00.579932+00:00",
+    "collected_date": "2026-11-21",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-21",
+    "related_dois": [
+      "10.64898/2026.11.19.767834"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.19.767851",
+    "title": "Environmental heterogeneity and microbial community architecture shape N2O fluxes in intertidal coastal sediments",
+    "abstract": "Seagrass meadows are key ''blue carbon ecosystems'', yet their contribution to nitrous oxide (N2O) emissions remains poorly constrained. We investigated environmental and microbial descriptors of N2O fluxes in intertidal sediments of Arcachon Bay, home to Europe's largest Zostera noltii meadow. At six sites, we measured in situ N2O fluxes in adjacent bare and vegetated sediments and characterized sediment properties, N2O-cycling genes using qPCR and targeted metagenomics, and microbial co-occurrence networks. Fluxes ranged from -3.7 to 8.4 mol N2O m-2 d-1. Spatial location was the strongest descriptor of flux variation, with inner-bay sites showing higher emissions associated with environmental conditions, carbon accumulation, pH, and microbial community characteristics. Vegetation effects were comparatively small and site-dependent. Metagenomic descriptors of N2O-cycling genes were more informative than qPCR-based descriptors. Taxa associated with nirS (Thiohalophilus), nirK (Planktotalea) and nosZ1 (Roseobacter) were identified as potential contributors to N2O production or reduction, respectively. These findings indicate that spatially structured environmental conditions and microbial community characteristics better describe N2O flux variation than seagrass presence alone. Measurements across tidal and seasonal cycles are needed to establish the temporal consistency of these patterns.",
+    "journal": "",
+    "doi": "10.64898/2026.11.19.767851",
+    "date": "2026-11-20",
+    "authors": "Dolivet-Marechal, M., Palacin-Lizarbe, C., Schwob, G., Siljanen, H. M. P., paul, D., Delort, A., Gervaix, J., Creuze des Chatelliers, C., Schmidt, S., Cognat, M., Sebag, D., Taugourdeau, O., Schubert, C., Labourdette, N., Bertrand, I., Rossi, L. M. W., Le Roux, X., Richaume, A., Florio, A.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.19.767851v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Roseobacter",
+        "metagenom",
+        "metagenomic",
+        "metagenomics",
+        "microbial"
+      ],
+      "context": {
+        "marine": [
+          "roseobacter"
+        ],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5448,
+    "collected_at": "2026-11-21T10:06:00.579932+00:00",
+    "collected_date": "2026-11-21",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-21",
+    "related_dois": [
+      "10.64898/2026.11.19.767851"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.19.767828",
+    "title": "Genomic Characterization of a Typical Enteropathogenic Escherichia coli Isolate from an Egyptian Fruit Bat, Rousettus aegyptiacus from Coastal Kenya",
+    "abstract": "Enteropathogenic Escherichia coli (EPEC) are responsible for significant morbidity and mortality cases among young children under the age of five, particularly in low- and middle-income countries. Atypical EPEC has frequently been reported from animal hosts, however, information on the occurrence and genomic characteristics of typical EPEC in wildlife reservoirs remains limited. This study characterized an Escherichia coli isolated from an Egyptian fruit bat (Rousettus aegyptiacus) sampled in coastal Kenya using whole-genome sequencing. Oral and rectal swabs were collected from 24 bats captured in Kikambala, Kilifi County, Kenya. Bacterial isolates were cultured, sequenced on the Illumina NextSeq 1000 platform, and analyzed using a bioinformatics workflow that included in silico taxonomic classification, serotyping and multilocus sequence typing, virulence gene profiling, antimicrobial resistance gene detection, plasmid identification, and core genome phylogenetic analysis. One isolate, KIKB-471-SWR-A (O128:H6; ST15625), was classified as typical EPEC. Genomic analysis confirmed the characteristic virulence architecture of typical EPEC. Despite numerous antimicrobial resistance-associated genes being detected, the isolate remained phenotypically susceptible to all antimicrobials tested. The isolate clustered within an EPEC lineage, closely associated with a human-derived EPEC strain, and genetically distinct from both commensal and laboratory E. coli reference strains. Despite no evidence of zoonotic transmission, the findings demonstrated that wildlife can harbor E. coli lineages possessing virulence determinants associated with human pathogenic EPEC strains, underscoring the importance of genomic surveillance at wildlife?human interfaces within a One Health framework to improve the understanding of ecology, evolution, and public health significance of diarrheagenic E. coli.",
+    "journal": "",
+    "doi": "10.64898/2026.11.19.767828",
+    "date": "2026-11-20",
+    "authors": "Kamau, J., Kimemia, B. B., Abuom, D., Agwanda, B., Musila, L., Odoyo, E., Kivata, M. W., Mbae, C., Onguso, J., Haynes, R., Kellar, G., Lutomiah, J., Eads, J., Eyase, F.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.19.767828v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "evolution",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5449,
+    "collected_at": "2026-11-21T10:06:00.579932+00:00",
+    "collected_date": "2026-11-21",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-21",
+    "related_dois": [
+      "10.64898/2026.11.19.767828"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.14.765823",
+    "title": "Identification of seven candidate structured noncoding RNA motifs in protists by comparative genomics",
+    "abstract": "Protists represent a highly diverse assemblage of predominantly unicellular eukaryotes, including protozoa, algae, and slime molds. Their essential roles in global ecosystems, along with their significance as human parasites, underscore the need for a deeper understanding of their conserved genetic elements. In this study, we employed an integrated computational approach combining CMfinder and R-scape to systematically identify and evaluate structured non-coding RNA (ncRNA) motifs across protist genomes. Through rigorous assessment and functional annotation, we report seven conserved structured ncRNAs that are likely functional RNA motifs involved in regulating the synthesis of the carbon fixation protein ribulose-1,5-bisphosphate carboxylase/oxygenase (RuBisCO), the light-harvesting and transfer protein phycocyanin, subunits of photosystems I and II, as well as mRNA splicing regulation. Notably, we also identified a structured ncRNA motif that may possess a dual function, capable of bidirectionally regulating the photosystem genes psaI and psbJ simultaneously. Our findings provide valuable insights into the diversity and functional significance of structured ncRNAs in microbial eukaryotes.",
+    "journal": "",
+    "doi": "10.64898/2026.11.14.765823",
+    "date": "2026-11-20",
+    "authors": "zhang, y., liang, q., wang, t., Huang, Y., duan, A., wang, j., wang, w., yu, h., chen, b., ying, z., jia, y., fu, c., Li, S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.14.765823v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial",
+        "protist",
+        "protists"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5450,
+    "collected_at": "2026-11-21T10:06:00.579932+00:00",
+    "collected_date": "2026-11-21",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-21",
+    "related_dois": [
+      "10.64898/2026.11.14.765823"
+    ]
   }
 ]

@@ -410,6 +410,7 @@
   {
     "name": "Animals : an open access journal from MDPI",
     "scope": [
+      "ecology",
       "genomics",
       "microbiology"
     ]
@@ -4603,6 +4604,13 @@
     ]
   },
   {
+    "name": "Journal of clinical medicine",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Journal of Clinical Microbiology",
     "scope": [
       "ecology",
@@ -7009,6 +7017,13 @@
   },
   {
     "name": "OTA international : the open access journal of orthopaedic trauma",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Oxford open neuroscience",
     "scope": [
       "genomics",
       "microbiology"
