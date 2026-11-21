@@ -695,24 +695,64 @@ window.PAPER_DATA = {
             "preprint": true
           }
         ]
+      },
+      {
+        "at": "2026-11-22T06:23:39.855554+09:00",
+        "papers": [
+          {
+            "id": "10.64898/2026.10.27.762241",
+            "preprint": true
+          },
+          {
+            "id": "10.20944/preprints202611.0154.v1",
+            "preprint": true
+          },
+          {
+            "id": "10.12688/wellcomeopenres.28131.1",
+            "preprint": true
+          },
+          {
+            "id": "10.21203/rs.3.rs-11218928/v1",
+            "preprint": true
+          },
+          {
+            "id": "10.20944/preprints202611.0215.v1",
+            "preprint": true
+          },
+          {
+            "id": "10.21203/rs.3.rs-11507263/v1",
+            "preprint": true
+          },
+          {
+            "id": "10.64898/2026.10.28.762220",
+            "preprint": true
+          },
+          {
+            "id": "10.3389/fmicb.2026.1995208",
+            "preprint": false
+          },
+          {
+            "id": "10.3389/fmicb.2026.1949712",
+            "preprint": false
+          }
+        ]
       }
     ],
     "date": "2026-11-16",
     "publication_mode": "daily",
-    "updated_at": "2026-11-22T03:10:31.431372+09:00",
-    "daily_updated_at": "2026-11-22T03:10:31.431372+09:00",
+    "updated_at": "2026-11-22T06:23:39.855554+09:00",
+    "daily_updated_at": "2026-11-22T06:23:39.855554+09:00",
     "week_ends_at": "2026-11-23T00:00:00+09:00",
     "added_ids": [
-      "10.1099/mgen.0.001877",
-      "10.1099/mgen.0.001905",
-      "10.1093/ismejo/wrag292",
-      "10.1099/ijsem.0.007345",
-      "10.1111/1755-0998.70219",
-      "10.1099/ijsem.0.007351",
-      "10.1099/mgen.0.001879",
-      "10.1099/ijsem.0.007327",
-      "10.1093/bib/bbag638",
-      "10.64898/2026.11.20.768214"
+      "10.64898/2026.10.27.762241",
+      "10.20944/preprints202611.0154.v1",
+      "10.12688/wellcomeopenres.28131.1",
+      "10.21203/rs.3.rs-11218928/v1",
+      "10.20944/preprints202611.0215.v1",
+      "10.21203/rs.3.rs-11507263/v1",
+      "10.64898/2026.10.28.762220",
+      "10.3389/fmicb.2026.1995208",
+      "10.3389/fmicb.2026.1949712"
     ],
     "added_date": "2026-11-22"
   },
@@ -78803,6 +78843,774 @@ window.PAPER_DATA = {
         "European journal of pharmaceutical sciences : official journal of the European Federation for Pharmaceutical Sciences",
         "Metabolic engineering"
       ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC bioinformatics",
+          "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "preprint"
+      ],
+      "id": "10.64898/2026.10.27.762241",
+      "title": "Embodied Dynamic Causal Modelling: Brain and Cardiac Effective Connectivity",
+      "abstract": "Brain-body interactions underpin embodied inference and interoception, and are central to both general health and the pathophysiology of mental health disorders. These interactions are orchestrated across a hierarchy extending from the cortex, through the brainstem, to peripheral autonomic effectors. Existing methods either reduce this communication to scalar summaries or lack an invertible biophysical model, and so cannot resolve where in this extended architecture an observed effect originates. To address this, we introduce Embodied Dynamic Causal Modelling, an extension of the generative causal modelling framework that formalises hierarchical message passing across the full brain-body axis. We instantiate the framework for brain-heart interactions with the Brainstem Cardiac Network, a closed-loop neural mass model of brainstem autonomic circuitry and sinoatrial node dynamics. By incorporating five brainstem nuclei, a viscerosensory thalamic relay and the cardiac pacemaker, the network enables estimation of directed effective connectivity across the cortical-brainstem-cardiac axis. As an illustrative case study, representative of the experiments and extended physiological systems that Embodied DCM and the BCN can now interrogate, we applied the framework to simultaneously recorded electroencephalography and electrocardiography during an auditory Go/No-Go paradigm. A multimodal observation model permits joint inversion of electrophysiological and cardiac responses, so that neural and bodily measurements together constrain an account of central and peripheral dynamics. The case study shows how the framework can arbitrate between competing hypotheses about functional cytoarchitecture, distinguishing granular from agranular microcircuits within the viscero-sensorimotor hierarchy. It also shows how time-varying estimates of synaptic efficacy can be recovered alongside continuous latent neuronal dynamics, over extended windows spanning anticipation, target processing and motor inhibition. By linking neural and cardiac signals to a single generative architecture, this work moves the study of brain-heart interactions beyond correlation, providing a framework for testing theories of embodied inference and for identifying circuit-level disruptions in disorders of interoceptive and autonomic regulation.",
+      "journal": "",
+      "doi": "10.64898/2026.10.27.762241",
+      "date": "2026-11-03",
+      "authors": "Levy A, Zeidman P, Allen M, Friston K.",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://europepmc.org/article/PPR/PPR1357610",
+      "preprint": true,
+      "review": false,
+      "pmcid": "",
+      "pmid": "",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "bioinformatics_method_or_resource",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "framework",
+          "gene"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "framework",
+            "gene"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "collection_order": 5345,
+      "collected_at": "2026-11-21T20:42:56.049670+00:00",
+      "collected_date": "2026-11-22",
+      "sources": [
+        "Europe PMC bioinformatics"
+      ],
+      "first_seen": "2026-11-21",
+      "related_dois": [
+        "10.64898/2026.10.27.762241"
+      ],
+      "translation": {
+        "title": {
+          "hash": "4e531283c0237eb68e66d56a6f6994ee1184ea3a6833ca284cf843312aaf3e15",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-21T21:18:35.555740+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "aa84604272d2513ac4af93917cf69b48b89a9a1f69dbc3b686620946ebc8a99c",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-21T21:18:35.555740+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "身体化動的因果モデリング：脳と心臓の有効結合",
+      "abstract_ja": "脳・身体間の相互作用は、身体化推論と内受容感覚の基盤となっており、全般的な健康および精神疾患の病態生理の双方において中心的な役割を果たしている。これらの相互作用は、皮質から脳幹を経て末梢自律神経効果器に至る階層構造を通じて制御されている。既存の手法では、この通信をスカラー的な要約に還元しているか、あるいは可逆的な生物物理学的モデルを欠いているため、この拡張されたアーキテクチャのどこで観測された効果が発生しているのかを解明することができない。この課題に対処するため、我々は、脳・身体軸全体にわたる階層的なメッセージ伝達を定式化する生成的因果モデリングフレームワークの拡張版である「身体化動的因果モデリング（Embodied Dynamic Causal Modelling）」を提案する。我々は、脳幹の自律神経回路と洞結節ダイナミクスの閉ループ神経マスモデルである「脳幹心血管ネットワーク（Brainstem Cardiac Network）」を用いて、脳・心臓相互作用にこのフレームワークを具体化した。5つの脳幹核、内臓感覚視床中継系、および心臓ペースメーカーを組み込むことで、本ネットワークは皮質・脳幹・心軸にわたる有向有効結合の推定を可能にする。Embodied DCMとBCNが現在解析可能な実験および拡張された生理学的システムを代表する例証的なケーススタディとして、我々は聴覚的なGo/No-Goパラダイムにおける同時記録された脳波および心電図に本フレームワークを適用した。マルチモーダル観測モデルにより、電気生理学的応答と心拍応答の同時反転が可能となり、神経測定値と身体測定値を合わせて、中枢および末梢のダイナミクスに関する説明を制約することができる。このケーススタディは、本フレームワークが機能的細胞アーキテクチャに関する競合する仮説間の調整をいかに行い、内臓感覚運動階層における粒状微小回路と非粒状微小回路を区別できるかを示している。また、予期、標的処理、および運動抑制にわたる広範な時間窓において、シナプス効率の時間変動推定値を、連続的な潜在ニューロンダイナミクスと共に復元できることも示している。神経信号と心拍信号を単一の生成的アーキテクチャに結びつけることで、本研究は脳・心臓相互作用の研究を相関関係の域を超えて発展させ、身体化推論の理論を検証するための枠組みを提供するとともに、内受容感覚および自律神経調節の障害における回路レベルの破綻を特定することを可能にする。",
+      "answer_journal": null,
+      "question_type": "forecast",
+      "options": [
+        "Antioxidants (Basel, Switzerland)",
+        "Journal of environmental radioactivity",
+        "Molecular medicine (Cambridge, Mass.)",
+        "Infection, genetics and evolution : journal of molecular epidemiology and evolutionary genetics in infectious diseases"
+      ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC bioinformatics",
+          "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "preprint"
+      ],
+      "id": "10.20944/preprints202611.0154.v1",
+      "title": "Research on a Bayesian Estimation Image Reconstruction Method for Geiger Mode Avalanche Photodiode Light Detection and Ranging (GM‐APD LiDAR) Based on Spatiotemporal Features of Sequence Data",
+      "abstract": "In scenes with strong background light, three-dimensional LiDAR imaging still faces problems such as incomplete imaging and residual background noise. This paper proposes a Bayesian-estimation image reconstruction method based on sequence data. Sparse range-intensity sequence data are constructed, and the signal probability and average intensity features of the sequence data are fused to build the likelihood term, thereby highlighting the differences between signal and noise. Through spatiotemporal average-intensity gradient analysis, the MRF prior parameters are adaptively estimated, and a spatial-continuity prior with edge-preserving characteristics is constructed. Under the Bayesian maximum a posteriori estimation framework, spatiotemporal feature fusion is transformed into an energy-minimization problem. The iterative conditional modes algorithm is then used to solve the optimal range image with spatial average intensity as a constraint, and morphological filtering is used to remove isolated noise points. With a data volume of 20,000 frames, the recovery ratio of the reconstructed range image in the 730 m scene reached 82.6%. In the 2,000 m long-range scene with an extremely low signal-to-background ratio (SBR), the recovery ratio reached 56.3%, representing a 46.2% improvement over the SPIRAL method, with an RMSE of 1.77 m. Partial reconstruction can also be achieved in low-SBR regions of long-range buildings, improving target completeness under low signal-to-background ratio conditions.",
+      "journal": "",
+      "doi": "10.20944/preprints202611.0154.v1",
+      "date": "2026-11-03",
+      "authors": "Lu J, Yang X, Sun J, Zhou X, Liu F.",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://europepmc.org/article/PPR/PPR1355910",
+      "preprint": true,
+      "review": false,
+      "pmcid": "",
+      "pmid": "",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "bioinformatics_method_or_resource",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "method",
+          "sequence"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "method",
+            "sequence"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "collection_order": 5348,
+      "collected_at": "2026-11-21T20:42:56.049670+00:00",
+      "collected_date": "2026-11-22",
+      "sources": [
+        "Europe PMC bioinformatics"
+      ],
+      "first_seen": "2026-11-21",
+      "related_dois": [
+        "10.20944/preprints202611.0154.v1"
+      ],
+      "translation": {
+        "title": {
+          "hash": "62e2414c76d14fb6d7dde91fb5a374f18f273a68ab08a1748ba23fa3803d6ed2",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-21T21:18:35.555740+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "594b327a8de551d147bc6a51e6941b397759fe7f3f7e48a517b6fd64bc5a7119",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-21T21:18:35.555740+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "系列データの時空間特徴量に基づくガイガーモード・アバランシェ光ダイオード光検出・測距（GM‐APD LiDAR）のベイズ推定画像再構成手法に関する研究",
+      "abstract_ja": "背景光の強いシーンでは、3次元LiDAR撮像において依然として撮像の不完全性や背景ノイズの残存といった課題が存在する。本論文では、シーケンスデータに基づくベイズ推定画像再構成手法を提案する。スパースな範囲強度シーケンスデータを構築し、シーケンスデータの信号確率と平均強度特徴量を融合して尤度項を構築することで、信号とノイズの差異を顕在化させる。時空間平均強度勾配解析を通じてMRF事前パラメータを適応的に推定し、エッジ保持特性を持つ空間連続性事前分布を構築する。ベイズ最大事後推定の枠組みにおいて、時空間特徴量の融合をエネルギー最小化問題へと変換する。次いで、反復条件付きモードアルゴリズムを用いて空間平均強度を制約条件とした最適範囲画像を求め、形態フィルタリングによって孤立したノイズ点を除去する。20,000フレームのデータ量において、730mシーンにおける再構成範囲画像の復元率は82.6%に達した。信号対背景比（SBR）が極めて低い2,000m長距離シーンでは、復元率は56.3%に達し、SPIRAL手法と比較して46.2%の向上を示し、RMSEは1.77mとなった。長距離建物の低SBR領域においても部分的な再構成が可能であり、低信号対背景比条件下でのターゲットの完全性が向上する。",
+      "answer_journal": null,
+      "question_type": "forecast",
+      "options": [
+        "Angiogenesis",
+        "Journal of trace elements in medicine and biology : organ of the Society for Minerals and Trace Elements (GMS)",
+        "Systematic biology",
+        "International Journal of Systematic and Evolutionary Microbiology"
+      ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC bioinformatics",
+          "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "preprint"
+      ],
+      "id": "10.12688/wellcomeopenres.28131.1",
+      "title": "The genome sequence of the small cushion star, Asterina phylactica Emson & Crump, 1979 (Valvatida: Asterinidae)",
+      "abstract": "We present a genome assembly from an individual  Asterina phylactica (small cushion star; Echinodermata; Asteroidea; Valvatida; Asterinidae). The primary assembly has a total length of 389.09 megabases. Most of the primary assembly (99.95%) is scaffolded into 22 chromosomal pseudomolecules. The mitochondrial genome has also been assembled, with a length of 16.46 kilobases. This assembly was generated as part of the Darwin Tree of Life project, which produces genomes for eukaryotic species found in Britain and Ireland.",
+      "journal": "",
+      "doi": "10.12688/wellcomeopenres.28131.1",
+      "date": "2026-11-03",
+      "authors": "Bunker FSD, Harley J, Scott-Somme K, Marine Biological Association Genome Acquisition Lab, Darwin Tree of Life Barcoding Collective, Wellcome Sanger Institute Tree of Life Management, Samples and Laboratory team, Wellcome Sanger Institute Scientific Operations: Sequencing Operations, Wellcome Sanger Institute Tree of Life Core Informatics team, Tree of Life Core Informatics collective, Darwin Tree of Life Consortium.",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://europepmc.org/article/PPR/PPR1355889",
+      "preprint": true,
+      "review": false,
+      "pmcid": "",
+      "pmid": "",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "bioinformatics_method_or_resource",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "assembly",
+          "genome"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "assembly",
+            "genom",
+            "genome"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "collection_order": 5349,
+      "collected_at": "2026-11-21T20:42:56.049670+00:00",
+      "collected_date": "2026-11-22",
+      "sources": [
+        "Europe PMC bioinformatics"
+      ],
+      "first_seen": "2026-11-21",
+      "related_dois": [
+        "10.12688/wellcomeopenres.28131.1"
+      ],
+      "translation": {
+        "title": {
+          "hash": "120338fc7f07fff9f2bf5e4522c2776559a0bf80c12bc983bb822c30ea322f02",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-21T21:22:05.279478+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "57fb0e3c856dbfd5453f37de36e931486d18201dd54cbf0821d975b360ae8f9f",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-21T21:22:05.279478+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "コビョウカのゲノム配列 Asterina phylactica Emson & Crump, 1979 (Valvatida: Asterinidae)",
+      "abstract_ja": "Asterina phylactica（小型クッション星；棘皮動物門；キク目；バルヴァタ綱；キク科）の個体のゲノムアセンブリを提示する。一次アセンブリの全長は389.09メガベースである。一次アセンブリの大部分（99.95%）は、22本の染色体擬似分子へとスキャフォールディングされている。ミトコンドリアゲノムもアセンブルされており、その全長は16.46キロベースである。本アセンブリは、英国およびアイルランドに生息する真核生物種のゲノムを作製するDarwin Tree of Lifeプロジェクトの一環として作成された。",
+      "answer_journal": null,
+      "question_type": "forecast",
+      "options": [
+        "Diseases of aquatic organisms",
+        "npj Biofilms and Microbiomes",
+        "Public health weekly report",
+        "Pathology international"
+      ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC bioinformatics",
+          "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "preprint"
+      ],
+      "id": "10.21203/rs.3.rs-11218928/v1",
+      "title": "Impact of disruption methods on high molecular weight DNA extracted from archived frozen tissues",
+      "abstract": "Abstract  Background  Tissue samples can provide high molecular weight (HMW) DNA for advanced genomic applications, such as long-read sequencing. Archived frozen tissues stored in biobanks or tissue repositories could retain DNA quality. However, the impact of different tissue disruption methods on DNA yield, purity and integrity remains incompletely characterized. Methods  The impact of three disruption methods on DNA was initially compared using rabbit liver tissues: liquid nitrogen (LN) coarse smashing, LN fine grinding, and TissueLyser homogenization. Key parameters, including lysis time, homogenization buffer, agitation frequency, and running duration, were subsequently optimized to maximize DNA yield or preserve fragment integrity. Different disruption methods were further evaluated using archived frozen human liver, kidney, bladder, and pancreas tissues to assess their applicability across different tissue types. Results  All methods yielded A260/280 ratios of ~ 1.8. LN fine grinding resulted in the lowest DNA yield, DNA integrity number (DIN) and A260/230. LN coarse smashing yielded optimal integrity (DIN > 8, peak size ~ 50 kb) but moderate yield, and prolonged lysis did not improve DNA recovery. The TissueLyser group with nuclease-free water had the highest yield and purity (A260/230 > 2.0) but the smallest fragment size (~ 25 kb). Buffer selection markedly affected the outcomes of TissueLyser homogenization. PBS achieved high integrity (DIN ~ 9, peak size ~ 60 kb), whereas ATL buffer (lysis solution of DNA extraction kit) produced smaller DNA fragments (~ 22 kb) but significantly increased the yield (1245.93 ± 168.37 ng/mg). Validation in human tissues demonstrated that the optimized TissueLyser protocol consistently outperformed the LN disruption methods across all four tissue types. Conclusions  Tissue disruption should balance DNA recovery and integrity. TissueLyser homogenization offers a standardized and efficient approach for HMW DNA extraction. The buffer and parameters should be guided by the specific requirements of downstream applications.",
+      "journal": "",
+      "doi": "10.21203/rs.3.rs-11218928/v1",
+      "date": "2026-11-03",
+      "authors": "Qian K.",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://europepmc.org/article/PPR/PPR1356263",
+      "preprint": true,
+      "review": false,
+      "pmcid": "",
+      "pmid": "",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "bioinformatics_method_or_resource",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "DNA",
+          "method"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "DNA",
+            "genom",
+            "genomic"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "collection_order": 5347,
+      "collected_at": "2026-11-21T20:42:56.049670+00:00",
+      "collected_date": "2026-11-22",
+      "sources": [
+        "Europe PMC bioinformatics"
+      ],
+      "first_seen": "2026-11-21",
+      "related_dois": [
+        "10.21203/rs.3.rs-11218928/v1"
+      ],
+      "translation": {
+        "title": {
+          "hash": "3db78c7e0a7475fcf237c7c64578be13d54aff683ba24928f67b48a806707b8b",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-21T21:18:35.555740+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "24e331ddc83748b7338640094736087eb094ac4033b22e31c27fec442044c898",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-21T21:18:35.555740+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "保存凍結組織から抽出した高分子量DNAに対する破壊法の影響",
+      "abstract_ja": "要旨  背景  組織試料は、ロングリードシーケンシングなどの高度なゲノム応用に向けた高分子量（HMW）DNAを提供し得る。バイオバンクや組織リポジトリに保存された凍結組織アーカイブは、DNAの品質を維持できる可能性がある。しかし、異なる組織破砕法がDNA収量、純度、および完全性に及ぼす影響については、いまだ十分に解明されていない。方法  まず、ウサギ肝組織を用いて、液体窒素（LN）粗破砕、LN細粉砕、およびTissueLyser均質化という3種類の破砕法がDNAに及ぼす影響を比較した。次いで、DNA収量の最大化または断片の完全性維持を目的として、溶解時間、均質化バッファー、撹拌頻度、および反応時間を含む主要パラメータを最適化した。さらに、アーカイブされた凍結ヒト肝、腎、膀胱、および膵臓組織を用いて異なる破砕法を評価し、各種組織タイプにおける適用性を検証した。結果  すべての手法において、A260/280比は約1.8であった。LN細粉砕では、DNA収量、DNA完全性数（DIN）、およびA260/230が最も低値となった。LN粗破砕では、最適な完全性（DIN > 8、ピークサイズ 約50 kb）が得られたが、収量は中程度であり、溶解時間の延長によるDNA回収率の向上は見られなかった。ヌクレアーゼフリー水を用いたTissueLyser群は、収量と純度が最も高かった（A260/230 > 2.0）が、断片サイズは最小（約25 kb）であった。バッファーの選択は、TissueLyser均質化の結果に顕著な影響を及ぼした。PBSは高い完全性（DIN 約9、ピークサイズ 約60 kb）を達成した一方、ATLバッファー（DNA抽出キットの溶解液）ではDNA断片はより小さくなった（約22 kb）が、収量は有意に増加した（1245.93 ± 168.37 ng/mg）。ヒト組織を用いた検証により、最適化されたTissueLyserプロトコルは、4種類すべての組織タイプにおいてLN破砕法を一貫して上回る性能を示すことが実証された。結論  組織破砕においては、DNA回収量と完全性のバランスを考慮すべきである。TissueLyser均質化は、HMW DNA抽出のための標準化された効率的な手法を提供する。バッファーおよびパラメータは、後続の応用における具体的な要件に基づいて選定すべきである。",
+      "answer_journal": null,
+      "question_type": "forecast",
+      "options": [
+        "BMC microbiology",
+        "Journal of biotechnology",
+        "The Journal of animal ecology",
+        "Enzyme and microbial technology"
+      ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC bioinformatics",
+          "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "preprint"
+      ],
+      "id": "10.20944/preprints202611.0215.v1",
+      "title": "Multimodal Reasoning, Agentic Systems, and Embedding Models: A Survey of Recent Advances",
+      "abstract": "Multimodal models increasingly reason over what they perceive, act in digital and physical environments, and retrieve content across modalities. This survey reviews recent advances in the three families of models behind these abilities: multimodal reasoning models, which reach answers through chains of thought trained with reinforcement learning; multimodal agentic systems, which run such models in a loop of perception, reasoning and action with tools, graphical interfaces, robots and search engines; and multimodal embedding models, which map images, text, audio, video and documents into a shared space for retrieval and memory. We present them in one mathematical framework in which every model composes modality encoders, a connector and a foundation-model backbone ending in a generative or an embedding head. Within it we trace reasoning from attention-based visual question answering to group-relative policy optimization and ``thinking with images''; agents from tool-augmented programs to GUI, embodied and search agents trained with verifiable rewards; and embeddings from canonical correlation analysis and contrastive encoders (CLIP, SigLIP) to instruction-following universal embedders. More than 350 works are organized along five taxonomies, and we summarize benchmarks and reported results and close with open problems, including the perception bottleneck, faithful reasoning, agent safety, efficiency and evaluation.",
+      "journal": "",
+      "doi": "10.20944/preprints202611.0215.v1",
+      "date": "2026-11-03",
+      "authors": "Belay MA, Endale M, Haghipour A.",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://europepmc.org/article/PPR/PPR1357953",
+      "preprint": true,
+      "review": false,
+      "pmcid": "",
+      "pmid": "",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "bioinformatics_method_or_resource",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "framework",
+          "gene"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "framework",
+            "gene"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "collection_order": 5339,
+      "collected_at": "2026-11-21T20:42:56.049670+00:00",
+      "collected_date": "2026-11-22",
+      "sources": [
+        "Europe PMC bioinformatics"
+      ],
+      "first_seen": "2026-11-21",
+      "related_dois": [
+        "10.20944/preprints202611.0215.v1"
+      ],
+      "translation": {
+        "title": {
+          "hash": "23d0311a5ad8e78a5ee08d685c7f96a08d975f04498bdd73b02737150048d99b",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-21T21:15:25.401760+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "10fc54329295fdcb56e80ec07a2ca36ebf6eb10d6d9848f8fc04cf915ff3ffeb",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-21T21:15:25.401760+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "マルチモーダル推論、エージェント型システム、および埋め込みモデル：近年の進展に関するサーベイ",
+      "abstract_ja": "マルチモーダルモデルは、自らが知覚した内容に基づいて推論を行い、デジタルおよび物理的環境で行動し、モダリティを横断してコンテンツを取得する能力をますます高めている。本サーベイでは、こうした能力を支える3つのモデルファミリーにおける最近の進展について概説する。すなわち、強化学習で訓練された思考連鎖を通じて回答を導き出すマルチモーダル推論モデル、ツール、グラフィカルインターフェース、ロボット、検索エンジンを用いて、知覚・推論・行動のループの中でこうしたモデルを動作させるマルチモーダルエージェントシステム、そして画像、テキスト、音声、動画、ドキュメントを、検索および記憶のための共有空間にマッピングするマルチモーダル埋め込みモデルである。本稿では、すべてのモデルがモダリティエンコーダ、コネクタ、および生成型または埋め込みヘッドに至る基盤モデルのバックボーンで構成されるという、単一の数学的フレームワークを用いてこれらを提示する。その中で、アテンションベースの視覚的質問応答からグループ相対的な方策最適化や「画像を用いた思考」に至る推論、ツール拡張プログラムからGUI、身体性および検索エージェントに至るエージェント、そして正準相関分析や対照エンコーダ（CLIP、SigLIP）から指示追従型ユニバーサルエンベッダーに至る埋め込みについて辿る。350件以上の研究を5つの分類体系に沿って整理し、ベンチマークと報告された結果を要約した上で、知覚のボトルネック、忠実な推論、エージェントの安全性、効率性および評価を含む未解決課題について締めくくる。",
+      "answer_journal": null,
+      "question_type": "forecast",
+      "options": [
+        "Clinical, cosmetic and investigational dermatology",
+        "Journal of biological inorganic chemistry : JBIC : a publication of the Society of Biological Inorganic Chemistry",
+        "mLife",
+        "Microbiology Resource Announcements"
+      ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC bioinformatics",
+          "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "preprint"
+      ],
+      "id": "10.21203/rs.3.rs-11507263/v1",
+      "title": "Generative design for additive manufacturing through data-free optimization-derived neural weight subspaces",
+      "abstract": "Abstract  Generative design (GD) enables exploration of diverse shape variants that exhibit trade-offs among competing design objectives related to part manufacturability and performance, offering a transformational approach towards automated part design for advanced additive manufacturing (AM). However, existing GD methods often derive design diversity either from large datasets of existing designs or through topological modifications, limiting their applicability to data-scarce engineering problems, particularly for complex parts where manufacturability and preservation of topology and geometric features are critical. In this work, we present a training-free generative design framework that leverages the optimisation trajectory of a single neural field-based shape optimisation to represent and explore neural field variants within a low-dimensional neural weight subspace. Our design space exploration is realised through a Langevin diffusion-inspired stochastic process with energy-conditioned guidance, enabling the generation of constraint-satisfying shape variants that provide distinct objective trade-offs. The framework generalises across geometrically and topologically diverse complex parts, including freeform geometries with intricate surface features and non-trivial topology. We validate the method through simulations and physical additive manufacturing experiments, demonstrating support-free 3D printing of the generated shape variants and establishing a data-free route towards manufacturability-aware generative design for complex parts.",
+      "journal": "",
+      "doi": "10.21203/rs.3.rs-11507263/v1",
+      "date": "2026-11-03",
+      "authors": "Jayakody DPVJ, Deng B, Panesar A, Kim H.",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://europepmc.org/article/PPR/PPR1356329",
+      "preprint": true,
+      "review": false,
+      "pmcid": "",
+      "pmid": "",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "bioinformatics_method_or_resource",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "framework",
+          "gene"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "framework",
+            "gene"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "collection_order": 5346,
+      "collected_at": "2026-11-21T20:42:56.049670+00:00",
+      "collected_date": "2026-11-22",
+      "sources": [
+        "Europe PMC bioinformatics"
+      ],
+      "first_seen": "2026-11-21",
+      "related_dois": [
+        "10.21203/rs.3.rs-11507263/v1"
+      ],
+      "translation": {
+        "title": {
+          "hash": "489f6831d330a0e75ec543ef1c9b62494df845e3084c9933b521129aa4a94d7e",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-21T21:18:35.555740+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "e8e187f76332a90e6bffba9c6e5eb5ba86e1ed9ba533a7267c6a0ad6c7da4652",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-21T21:18:35.555740+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "データフリーの最適化由来ニューラル重み部分空間による積層造形の生成的設計",
+      "abstract_ja": "要旨　生成設計（GD）は、部品の製造性と性能に関連する相反する設計目的の間でトレードオフを示す多様な形状バリエーションの探索を可能にし、先進的な積層造形（AM）における自動部品設計に向けた革新的なアプローチを提供する。しかし、既存のGD手法は、多くの場合、既存設計の大規模なデータセットから、あるいはトポロジーの改変を通じて設計の多様性を導出しており、データ不足の工学的課題、特に製造性とトポロジーおよび幾何学的特徴の保持が極めて重要となる複雑な部品への適用が制限されている。本研究では、単一のニューラルフィールドベースの形状最適化の最適化軌跡を活用し、低次元のニューラル重み部分空間内でニューラルフィールドのバリエーションを表現・探索する、学習不要の生成設計フレームワークを提案する。我々の設計空間探索は、エネルギー条件付きガイダンスを備えたランジュバン拡散に着想を得た確率過程によって実現されており、異なる目的間のトレードオフをもたらす制約充足型の形状バリエーションの生成を可能にする。本フレームワークは、複雑な表面特徴や非自明なトポロジーを持つ自由形状を含む、幾何学的・トポロジー的に多様な複雑部品全般に適用可能である。シミュレーションおよび物理的な積層造形実験を通じて本手法を検証し、生成された形状バリエーションのサポートフリー3Dプリンティングを実証するとともに、複雑部品向けの製造性を考慮した生成設計に向けたデータフリーの道筋を確立した。",
+      "answer_journal": null,
+      "question_type": "forecast",
+      "options": [
+        "Chemico-biological interactions",
+        "Journal of molecular neuroscience : MN",
+        "Computational and structural biotechnology journal",
+        "International journal of chronic obstructive pulmonary disease"
+      ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC bioinformatics",
+          "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "preprint"
+      ],
+      "id": "10.64898/2026.10.28.762220",
+      "title": "A generative network model reveals hierarchical structural memory guiding post-mitotic 3D genome inheritance",
+      "abstract": "How three-dimensional (3D) genome organization is reestablished after mitosis to preserve gene regulatory programs and cell identity remains unresolved. We asked whether mitotic chromosome architecture contributes to cellular memory by preserving structural information while maintaining the flexibility required for cellular adaptation. Here we introduce HiCONA, a generative Bayesian framework that infers hierarchical genome organization and quantifies the structural contribution of individual interactions through an Entropy Impact Score. HiCONA resolves genome organization across multiple scales, revealing structure-defining interaction patterns underlying chromatin architecture, independently of experimental modality. We identify structurally impactful chromatin interactions retained during mitosis delineating distinct trajectories of post-mitotic genome reassembly. These mitotically preserved interactions are enriched for active, transcriptionally competent regulatory elements, consistent with a cis-encoded architectural memory subsequently remodeled by trans-acting regulators. Together, our findings suggest that molecular information retained on mitotic chromosomes guides structural trajectories, providing an architectural basis for epigenetic memory and post-mitotic genome inheritance.",
+      "journal": "",
+      "doi": "10.64898/2026.10.28.762220",
+      "date": "2026-11-03",
+      "authors": "Morelli L, Cretti S, Michelatti D, Bressan D, Scandino R, Chiacchiera F, Cittaro D, Peixoto TP, Zippo A.",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://europepmc.org/article/PPR/PPR1358987",
+      "preprint": true,
+      "review": false,
+      "pmcid": "",
+      "pmid": "",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "bioinformatics_method_or_resource",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "framework",
+          "gene",
+          "genome"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "genom",
+            "genome",
+            "transcript"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "collection_order": 5338,
+      "collected_at": "2026-11-21T20:42:56.049670+00:00",
+      "collected_date": "2026-11-22",
+      "sources": [
+        "Europe PMC bioinformatics"
+      ],
+      "first_seen": "2026-11-21",
+      "related_dois": [
+        "10.64898/2026.10.28.762220"
+      ],
+      "translation": {
+        "title": {
+          "hash": "aa2bed07b2b56dcbf92b78466b37c2495b29ead3126157c0e92584ac333132bb",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-21T21:15:25.401760+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "1fe37791ab44dd3ad70892919b37291ed82acbcc3f79e322d5104c371f1ac7f9",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-21T21:15:25.401760+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "生成ネットワークモデルが解明する、分裂後3次元ゲノム継承を導く階層的構造記憶",
+      "abstract_ja": "有糸分裂後に三次元（3D）ゲノム構造がどのように再確立され、遺伝子調節プログラムと細胞アイデンティティが維持されるのかについては、依然として解明されていない。我々は、有糸分裂時の染色体構造が、細胞適応に必要な柔軟性を維持しつつ構造情報を保持することで、細胞記憶に寄与しているかどうかを検証した。本研究では、階層的なゲノム構造を推論し、エントロピー・インパクト・スコア（Entropy Impact Score）を通じて個々の相互作用の構造的寄与を定量化する生成的ベイズフレームワーク「HiCONA」を提案する。HiCONAは複数のスケールにわたってゲノム構造を解析し、実験手法に依存することなく、クロマチン構造の根底にある構造決定的な相互作用パターンを明らかにする。我々は、有糸分裂中に保持される構造的に影響力の強いクロマチン相互作用を同定し、有糸分裂後のゲノム再構成における異なる軌跡を描き出した。これらの有糸分裂時に保存された相互作用には、活性が高く転写能を有する調節エレメントが豊富に含まれており、これはシス方向にコードされた構造記憶が、その後トランス方向に作用する調節因子によってリモデリングされることと整合している。以上の知見を総合すると、有糸分裂染色体に保持された分子情報が構造的軌跡を誘導し、エピジェネティック記憶および有糸分裂後のゲノム継承の構造的基盤を提供していることが示唆される。",
+      "answer_journal": null,
+      "question_type": "forecast",
+      "options": [
+        "Chemistry & biodiversity",
+        "Bioinformatics",
+        "Revista brasileira de parasitologia veterinaria = Brazilian journal of veterinary parasitology : Orgao Oficial do Colegio Brasileiro de Parasitologia Veterinaria",
+        "Journal of biomolecular structure & dynamics"
+      ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC bioinformatics",
+          "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "review-article",
+        "review",
+        "journal article"
+      ],
+      "id": "10.3389/fmicb.2026.1995208",
+      "title": "Colonization resistance in the intensive care unit: ecological collapse, pathogen domination, and the transition from colonization to infection.",
+      "abstract": "Healthcare-associated infections in the intensive care unit (ICU) arise through interactions among pathogen exposure, host susceptibility, and the ecological conditions that govern microbial colonization and expansion. Colonization resistance refers to the combined capacity of resident microbial communities, mucosal environments, and host defenses to restrict the establishment and expansion of potential pathogens. This protection depends on nutrient competition, niche occupancy, direct antagonism, microbial cross-feeding, physicochemical conditions, and immune containment. Critical illness and its treatments may disrupt these mechanisms by altering resource availability, opening previously occupied niches, and creating new habitats. Antibiotic exposure is a major ecological pressure, whereas acid suppression, interrupted nutrition, impaired gastrointestinal transit, circulatory dysfunction, altered oxygenation, and invasive devices may contribute through mechanisms supported by varying levels of clinical and experimental evidence. These perturbations can favor pathogen persistence or expansion, although reduced microbial diversity or high relative abundance alone does not establish an increased absolute pathogen burden or subsequent infection. We synthesize evidence concerning the ecological strategies of major ICU opportunists, including Enterococcus, Enterobacterales, Klebsiella pneumoniae, Pseudomonas aeruginosa, Acinetobacter baumannii, and Candida species. We then propose a four-gate conceptual model for the transition from colonization to infection: reservoir amplification, access through a permissive anatomical route, failure of local containment, and establishment of clinically significant infection. These processes are neither necessarily sequential nor sufficient individually to establish causality. Evidence from longitudinal microbiome studies, strain-resolved analyses, and clinical cohorts supports associations between colonization states and infection risk, but direct source attribution and causal inference remain challenging, particularly in heterogeneous adult ICU populations. The framework also recognizes that devices and healthcare environments can influence microbial persistence and transmission. Future research should integrate absolute microbial quantification, longitudinal multi-compartment sampling, strain-level genomics, host-response measurements, and clinically adjudicated infection outcomes. Clinically, established antimicrobial stewardship and infection-prevention practices should be distinguished from microbiome-targeted interventions that remain investigational.",
+      "journal": "Frontiers in Microbiology",
+      "doi": "10.3389/fmicb.2026.1995208",
+      "date": "2026-11-02",
+      "authors": "Liu R, Zhang J.",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://europepmc.org/article/MED/43042190",
+      "preprint": false,
+      "review": true,
+      "pmcid": "PMC13772179",
+      "pmid": "43042190",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "Candida",
+          "Pseudomonas",
+          "microbial",
+          "microbiome"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "genom",
+            "genomic"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "collection_order": 5350,
+      "collected_at": "2026-11-21T20:42:56.049670+00:00",
+      "collected_date": "2026-11-22",
+      "sources": [
+        "Europe PMC bioinformatics"
+      ],
+      "first_seen": "2026-11-21",
+      "related_dois": [
+        "10.3389/fmicb.2026.1995208"
+      ],
+      "translation": {
+        "title": {
+          "hash": "8159b427ea4aa4871a9dbe0132eb85b377dc1862389355f6fdf5aba11225f022",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-21T21:15:25.401760+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "fb8797573d1093ff41263c1d7a3f5a531da15d1cfece500ccf7f0cc9ee7c5658",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-21T21:15:25.401760+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "集中治療室における定着抵抗性：生態学的崩壊、病原体の支配、および定着から感染への移行。",
+      "abstract_ja": "集中治療室（ICU）における医療関連感染は、病原体への曝露、宿主の感受性、および微生物の定着・増殖を支配する生態学的条件の相互作用によって生じる。定着抵抗性とは、常在微生物群集、粘膜環境、および宿主防御機構が相まって、潜在的な病原体の定着および増殖を抑制する能力を指す。この防御機構は、栄養競合、ニッチ占有、直接的な拮抗作用、微生物間のクロスフィーディング、物理化学的条件、および免疫的封じ込めに依存している。重症疾患とその治療は、資源の可用性を変化させ、従来占有されていたニッチを開放し、新たな生息地を創出することで、これらのメカニズムを乱す可能性がある。抗菌薬への曝露は主要な生態学的圧力となる一方、酸抑制、栄養供給の中断、消化管通過の障害、循環機能不全、酸素化の変化、および侵襲的デバイスは、臨床的・実験的なエビデンスの程度が異なるメカニズムを通じて寄与し得る。これらの攪乱は病原体の持続や増殖を促進する可能性があるが、微生物多様性の低下や相対的存在量の増加だけでは、絶対的な病原体負荷の増大やそれに続く感染が立証されるわけではない。本研究では、Enterococcus、Enterobacterales、Klebsiella pneumoniae、Pseudomonas aeruginosa、Acinetobacter baumannii、およびCandida属を含む、ICUにおける主要な日和見菌の生態学的戦略に関するエビデンスを統合する。次いで、定着から感染への移行に関する4つのゲートからなる概念モデルを提案する：リザーバー増幅、許容的な解剖学的経路を介した侵入、局所的封じ込めの失敗、および臨床的に有意な感染の成立である。これらのプロセスは必ずしも逐次的である必要はなく、また単独では因果関係を立証するには不十分である。縦断的なマイクロバイオーム研究、菌株レベルの解析、および臨床コホートから得られたエビデンスは、定着状態と感染リスクとの関連を支持しているが、直接的な原因帰属および因果推論は、特に不均一な成人ICU集団において依然として困難な課題である。本フレームワークはまた、デバイスや医療環境が微生物の持続および伝播に影響を及ぼし得ることを認識している。今後の研究では、絶対的な微生物量定量、縦断的な多コンパートメントサンプリング、菌株レベルのゲノミクス、宿主応答測定、および臨床的に判定された感染転帰を統合すべきである。臨床的には、確立された抗菌薬適正使用および感染予防の実践を、依然として研究段階にあるマイクロバイオーム標的介入とは区別すべきである。",
+      "answer_journal": "Frontiers in Microbiology",
+      "question_type": "published",
+      "options": [
+        "Scientific Reports",
+        "Frontiers in Microbiology",
+        "The Journal of heredity",
+        "Molecular medicine (Cambridge, Mass.)"
+      ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC bioinformatics",
+          "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "review-article",
+        "review",
+        "journal article"
+      ],
+      "id": "10.3389/fmicb.2026.1949712",
+      "title": "Evidence-graded regulatory mechanisms of methanogenesis in model archaea.",
+      "abstract": "Methanogenesis is an archaeal energy metabolism that often operates near the thermodynamic limits of ATP conservation. Its rate therefore depends not only on pathway chemistry but also on regulatory processes that allocate enzymes, electron carriers, and substrates as environmental conditions change. Here, we evaluate experimentally supported transcriptional, signal-transduction and post-transcriptional mechanisms in methanogenic archaea, classifying evidence as direct biochemical or promoter interaction, genetic dependence, expression association or hypothesis. Molecularly resolved links include AmzR ligand-dependent promoter binding, HdrR activation of hdrBCA, MreA binding to selected promoters, NrpR control of nitrogen genes, and cysteine-dependent MsvR promoter binding. In contrast, H2-responsive transcription and the proposed MsmS/RdmS phosphorelays remain incompletely connected to their proximal signals or downstream targets. RNA stability, RNA processing and regulatory small RNAs provide an additional layer of control, and single-cell imaging reveals temporally ordered yet heterogeneous expression states. However, most mechanistic evidence derives from a small number of Methanosarcina and Methanococcus models. These studies provide a framework for testing how regulation shapes cellular methane-production rates, but its quantitative contribution to community methane production and net atmospheric emissions remains unresolved.",
+      "journal": "Frontiers in Microbiology",
+      "doi": "10.3389/fmicb.2026.1949712",
+      "date": "2026-11-02",
+      "authors": "Cha G, Liu Y, Wei C, Huang Z.",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://europepmc.org/article/MED/43041738",
+      "preprint": false,
+      "review": true,
+      "pmcid": "PMC13771388",
+      "pmid": "43041738",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "archaea",
+          "archaeal",
+          "methanogen",
+          "methanogenesis",
+          "methanogenic"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "transcript"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "collection_order": 5351,
+      "collected_at": "2026-11-21T20:42:56.049670+00:00",
+      "collected_date": "2026-11-22",
+      "sources": [
+        "Europe PMC bioinformatics"
+      ],
+      "first_seen": "2026-11-21",
+      "related_dois": [
+        "10.3389/fmicb.2026.1949712"
+      ],
+      "translation": {
+        "title": {
+          "hash": "3c78fc505fb0a10f30feb618e61d3ff6fafd5ce84f0739a342d319ff0011f6af",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-21T21:15:25.401760+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "8bca47897585105d7f3ecc0111f0d934a3176f0904857689c6d63a49821a7438",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-21T21:15:25.401760+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "モデル古細菌におけるメタン生成の証拠レベルの調節機構",
+      "abstract_ja": "メタン生成は、しばしばATP保存の熱力学的限界付近で機能する古細菌のエネルギー代謝である。したがって、その速度は経路の化学的特性だけでなく、環境条件の変化に応じて酵素、電子伝達体、および基質を配分する調節プロセスにも依存する。本研究では、メタン生成古細菌における実験的に裏付けられた転写、シグナル伝達、および転写後機構を評価し、得られた証拠を、直接的な生化学的相互作用またはプロモーター相互作用、遺伝的依存性、発現関連、あるいは仮説として分類する。分子レベルで解明された関連性には、AmzRリガンド依存的なプロモーター結合、HdrRによるhdrBCAの活性化、特定のプロモーターへのMreA結合、窒素遺伝子のNrpR制御、およびシステイン依存的なMsvRプロモーター結合が含まれる。対照的に、H2応答性転写および提唱されているMsmS/RdmSリン酸化反応は、近接するシグナルや下流標的との関連性が不完全なままである。RNA安定性、RNAプロセシング、および調節性小分子RNAがさらなる制御層となっており、単一細胞イメージングにより、時間的に秩序立っているものの不均一な発現状態が明らかになっている。しかし、機構的な証拠の大部分は、少数のMethanosarcinaおよびMethanococcusモデルから得られたものである。これらの研究は、調節が細胞のメタン生成速度をどのように形作るかを検証するための枠組みを提供するが、群集のメタン生成および大気への正味の排出量に対する定量的な寄与については、依然として未解明のままである。",
+      "answer_journal": "Frontiers in Microbiology",
+      "question_type": "published",
+      "options": [
+        "Frontiers in Microbiology",
+        "Functional plant biology : FPB",
+        "Journal of global health",
+        "Microsystems & nanoengineering"
+      ]
     }
   ],
   "journal_catalog": [
@@ -80770,6 +81578,13 @@ window.PAPER_DATA = {
       ]
     },
     {
+      "name": "Clinical parkinsonism & related disorders",
+      "scope": [
+        "genomics",
+        "microbiology"
+      ]
+    },
+    {
       "name": "Clinical pharmacokinetics",
       "scope": [
         "genomics",
@@ -81396,6 +82211,13 @@ window.PAPER_DATA = {
     },
     {
       "name": "EJHaem",
+      "scope": [
+        "genomics",
+        "microbiology"
+      ]
+    },
+    {
+      "name": "EJNMMI physics",
       "scope": [
         "genomics",
         "microbiology"
@@ -83505,6 +84327,13 @@ window.PAPER_DATA = {
       ]
     },
     {
+      "name": "Journal of dentistry",
+      "scope": [
+        "genomics",
+        "microbiology"
+      ]
+    },
+    {
       "name": "Journal of drug targeting",
       "scope": [
         "genomics",
@@ -84101,6 +84930,13 @@ window.PAPER_DATA = {
     },
     {
       "name": "Journal of pharmaceutical and biomedical analysis",
+      "scope": [
+        "genomics",
+        "microbiology"
+      ]
+    },
+    {
+      "name": "Journal of pharmacokinetics and pharmacodynamics",
       "scope": [
         "genomics",
         "microbiology"
