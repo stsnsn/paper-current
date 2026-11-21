@@ -444887,5 +444887,108 @@
     "related_dois": [
       "10.1093/bib/bbag638"
     ]
+  },
+  {
+    "id": "10.1093/ismejo/wrag292",
+    "title": "Non-enzymatic assimilation of organosulfur compounds at the interface of geochemistry and biochemistry",
+    "abstract": "AbstractDimethyl sulfide (DMS) and dimethyl sulfoxide (DMSO) have important microbial-driven roles in global nutrient cycling, chemotaxis and/or climate regulation. Microbial DMSO and DMS assimilation were thought to require their enzymatic reduction to methanethiol. However, reactive oxygen species were recently shown to mediate methane production from DMS and DMSO. Here, we show that this oxidative mechanism can sustain microbial growth without the need for enzymes to directly reduce DMS or oxidize DMSO. In an interplay with iron, both light and heat were effective geochemical drivers of this mechanism that yielded methanesulfonic acid and sulfite, and which mimicked the stepwise oxidation of DMSO by monooxygenases that only enzymatically enhance this oxidation reaction. Furthermore, we demonstrated intracellular DMSO degradation, in which sulfur and the simultaneously released carbon were both utilized by microbes. This study emphasizes that metabolic pathways are not necessarily enzyme-driven, with putatively ancient, non-enzymatic reaction networks taking place at a transition between geochemistry and biochemistry.",
+    "journal": "The ISME Journal",
+    "doi": "10.1093/ismejo/wrag292",
+    "date": "2026-11-21",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/ismej/advance-article/doi/10.1093/ismejo/wrag292/9108639?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbe",
+        "microbes",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6594/advanceAccess_4179.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5451,
+    "collected_at": "2026-11-21T17:40:46.167571+00:00",
+    "collected_date": "2026-11-22",
+    "sources": [
+      "https://academic.oup.com/rss/site_6594/advanceAccess_4179.xml"
+    ],
+    "first_seen": "2026-11-21",
+    "related_dois": [
+      "10.1093/ismejo/wrag292"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.20.768214",
+    "title": "Homologs of the Major Vault Protein defend bacteria against ribotoxins",
+    "abstract": "Bacteria use sophisticated mechanisms to defend themselves against antibiotics and bacteriophages, yet how they combat toxins deployed during interbacterial competition remains poorly understood. Bacteria use type VI secretion, bacteriocins, and contact dependent inhibition systems to deliver antibacterial toxins that inhibit growth by antagonizing essential processes. Here, we discover that Pseudomonas aeruginosa uses homologs of the eukaryotic major vault protein and a tRNA-like noncoding RNA to defend against RNA-damaging ribotoxins. Using an engineered pyocin delivery system, we showed that P. aeruginosa sensed ribotoxin damage and activated transcription of an RNA repair operon, which included band7, a homolog of the major vault protein. Genetic analyses demonstrated that band7-expressing bacteria were significantly more protected against growth inhibition by a ribotoxin that cleaved the anticodon loop of specific tRNA. Band7 was necessary but not sufficient, and defense also required a non-coding band7 RNA (bRNA). bRNA was cleaved by the ribotoxin, suggesting a mechanism for specificity and defense. Bioinformatic analyses revealed that band7 and candidate bRNA are widely distributed within RNA repair systems across diverse bacteria. Our data suggest that bacteria use structures related to the eukaryotic vault complex to respond to RNA damage thereby providing a hypothesis for the function of the enigmatic human vault.",
+    "journal": "",
+    "doi": "10.64898/2026.11.20.768214",
+    "date": "2026-11-21",
+    "authors": "Bullen, N. P., Holiday, L. C., Nagy, T. A., Robbins, L. K., Whiteley, A. T.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.20.768214v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Pseudomonas",
+        "bacteria",
+        "bacteriophage",
+        "bacteriophages"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5452,
+    "collected_at": "2026-11-21T17:40:46.167571+00:00",
+    "collected_date": "2026-11-22",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-21",
+    "related_dois": [
+      "10.64898/2026.11.20.768214"
+    ]
   }
 ]
