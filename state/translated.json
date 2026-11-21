@@ -314956,5 +314956,306 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ブナシメジ Lactarius blennius (Fr. Fr., 1815) (Russulales: Russulaceae) のゲノム配列",
     "abstract_ja": "Lactarius blennius（ブナミルクキャップ；担子菌門；ハラタケ綱；ベニタケ目；ベニタケ科）のゲノムアセンブリを提示する。本アセンブリは、総長68.85メガベースおよび67.63メガベースの2つのハプロタイプから構成される。ハプロタイプ1のアセンブリは、11個の染色体擬似分子にスキャフォールディングされている。ハプロタイプ2はスキャフォールドレベルでアセンブルされた。ミトコンドリアゲノムもアセンブルされており、その長さは46.11キロベースである。本アセンブリは、英国およびアイルランドに生息する真核生物種のリファレンスゲノムを構築するDarwin Tree of Lifeプロジェクトの一環として作成された。"
+  },
+  {
+    "id": "10.1111/1462-2920.70445",
+    "title": "Conversion of Cyanotoxins to Harmless Peptides: Mechanistic Modelling of the MlrABCD‐Mediated Microcystin Detoxification Pathway",
+    "abstract": "The Sphingopyxis MlrABCD pathway enables spatially coordinated microcystin detoxification. Membrane‐associated MlrA initiates degradation by linearizing microcystins, followed by MlrB‐mediated peptide cleavage, MlrD‐facilitated transport, and cytoplasmic MlrC degradation into smaller products. Molecular modelling and dynamics simulations reveal microcystin congener‐dependent interactions with MlrA/MlrB. Binding is strongly influenced by the variable R2 residue, with positively charged arginine‐containing congeners, particularly MC‐RR and MC‐LR, showing stronger predicted binding than hydrophobic congeners, highlighting structural determinants of substrate recognition and biodegradation efficiency.\n\nABSTRACT\nMicrocystins are among the most prevalent cyanobacterial toxins threatening freshwater ecosystems and human health, yet the molecular basis of their bacterial detoxification remains incompletely understood. Here, we present an integrated structural model of the MlrABCD pathway from Sphingopyxis sp. C‐1, providing mechanistic insight into the sequential transformation of microcystins across distinct bacterial cellular compartments. Comparative genomics, structural modelling, ligand‐binding predictions, and molecular dynamics simulations reveal a spatially coordinated detoxification process in which membrane‐associated MlrA initiates toxin linearization, periplasmic MlrB hydrolyses linear intermediates, MlrD transports degradation products across the cytoplasmic membrane, and cytoplasmic MlrC completes peptide degradation. Analysis of environmentally relevant microcystin congeners showed that substrate recognition is governed by the interplay between toxin chemistry and enzyme architecture. MlrA preferentially recognises MC‐LR, whereas MlrB displays enhanced affinity for linearized MC‐RR, indicating that ring opening reshapes substrate selectivity during pathway progression. Substrate binding also stabilises MlrD, supporting a ligand‐induced alternating‐access transport mechanism. Collectively, these findings indicate that the Sphingopyxis sp. C‐1 biodegradation machinery has evolved under environmental selective pressures into a compartmentalised and highly coordinated detoxification system optimised for the predominant environmental congeners, MC‐LR and MC‐RR, providing a molecular framework for the rational development of enhanced cyanotoxin bioremediation strategies.\n\nThe Sphingopyxis MlrABCD pathway enables spatially coordinated microcystin detoxification. Membrane-associated MlrA initiates degradation by linearizing microcystins, followed by MlrB-mediated peptide cleavage, MlrD-facilitated transport, and cytoplasmic MlrC degradation into smaller products. Molecular modelling and dynamics simulations reveal microcystin congener-dependent interactions with MlrA/MlrB. Binding is strongly influenced by the variable R2 residue, with positively charged arginine-containing congeners, particularly MC-RR and MC-LR, showing stronger predicted binding than hydrophobic congeners, highlighting structural determinants of substrate recognition and biodegradation efficiency.\n\nABSTRACT\nMicrocystins are among the most prevalent cyanobacterial toxins threatening freshwater ecosystems and human health, yet the molecular basis of their bacterial detoxification remains incompletely understood. Here, we present an integrated structural model of the MlrABCD pathway from Sphingopyxis sp. C-1, providing mechanistic insight into the sequential transformation of microcystins across distinct bacterial cellular compartments. Comparative genomics, structural modelling, ligand-binding predictions, and molecular dynamics simulations reveal a spatially coordinated detoxification process in which membrane-associated MlrA initiates toxin linearization, periplasmic MlrB hydrolyses linear intermediates, MlrD transports degradation products across the cytoplasmic membrane, and cytoplasmic MlrC completes peptide degradation. Analysis of environmentally relevant microcystin congeners showed that substrate recognition is governed by the interplay between toxin chemistry and enzyme architecture. MlrA preferentially recognises MC-LR, whereas MlrB displays enhanced affinity for linearized MC-RR, indicating that ring opening reshapes substrate selectivity during pathway progression. Substrate binding also stabilises MlrD, supporting a ligand-induced alternating-access transport mechanism. Collectively, these findings indicate that the Sphingopyxis sp. C-1 biodegradation machinery has evolved under environmental selective pressures into a compartmentalised and highly coordinated detoxification system optimised for the predominant environmental congeners, MC-LR and MC-RR, providing a molecular framework for the rational development of enhanced cyanotoxin bioremediation strategies.",
+    "journal": "Environmental Microbiology",
+    "doi": "10.1111/1462-2920.70445",
+    "date": "2026-11-21",
+    "authors": "Francisco J. Enguita, \nAna Lúcia Leitão",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.70445?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "cyanobacteria",
+        "cyanobacterial"
+      ],
+      "context": {
+        "marine": [
+          "freshwater"
+        ],
+        "genomics": [
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://onlinelibrary.wiley.com/feed/14622920/most-recent",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5442,
+    "collected_at": "2026-11-21T10:06:00.579932+00:00",
+    "collected_date": "2026-11-21",
+    "sources": [
+      "https://onlinelibrary.wiley.com/feed/14622920/most-recent"
+    ],
+    "first_seen": "2026-11-21",
+    "related_dois": [
+      "10.1111/1462-2920.70445"
+    ],
+    "translation": {
+      "title": {
+        "hash": "60757eed8e06e3fa09f56dfe015ab578ba933073518fd48c667d0fbbecd0b93d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T10:27:34.597747+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "99559f2edf2876ffc86c27793ba0b4d23aa4d61f2cf76575324f32bdb4be6fec",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T10:27:34.597747+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "シアノトキシンの無害なペプチドへの変換：MlrABCD介在性ミクロシスチン解毒経路の機構モデリング",
+    "abstract_ja": "SphingopyxisのMlrABCD経路は、空間的に協調したミクロシスチンの解毒を可能にする。膜結合型MlrAがミクロシスチンの直線化によって分解を開始し、続いてMlrB介在性のペプチド切断、MlrD促進性の輸送、および細胞質MlrCによるより小さな産物への分解が行われる。分子モデリングおよびダイナミクスシミュレーションにより、ミクロシスチン同族体とMlrA/MlrBとの相互作用が明らかとなった。結合は可変的なR2残基に強く影響され、正に帯電したアルギニン含有同族体、特にMC-RRおよびMC-LRは、疎水性同族体よりも強い予測結合能を示し、基質認識および生分解効率の構造的決定因子が浮き彫りとなった。\n\n要旨\nミクロシスチンは、淡水生態系やヒトの健康を脅かす最も広範に存在するシアノバクテリア毒素の一つであるが、その細菌による解毒の分子基盤は依然として十分に解明されていない。本研究では、Sphingopyxis sp. C-1由来のMlrABCD経路の統合的構造モデルを提示し、異なる細菌細胞コンパートメントにおけるミクロシスチンの逐次的な変換に関する機構的な知見を提供する。比較ゲノミクス、構造モデリング、リガンド結合予測、および分子ダイナミクスシミュレーションにより、膜結合型MlrAが毒素の直線化を開始し、ペリプラズムMlrBが直線状中間体を加水分解し、MlrDが分解産物を細胞質膜を介して輸送し、細胞質MlrCがペプチド分解を完了させるという、空間的に協調した解毒プロセスが明らかになった。環境的に関連のあるミクロシスチン同族体の解析により、基質認識は毒素化学と酵素構造の相互作用によって制御されていることが示された。MlrAはMC-LRを優先的に認識する一方、MlrBは直線化されたMC-RRに対して高い親和性を示し、経路の進行に伴い環開環が基質選択性を変化させることが示唆された。また、基質結合はMlrDを安定化させ、リガンド誘導性の交互アクセス輸送機構を支持している。総じて、これらの知見は、Sphingopyxis sp. C-1の生分解機構が環境選択圧の下で、主要な環境同族体であるMC-LRおよびMC-RRに最適化された、コンパートメント化された高度に協調した解毒システムへと進化したことを示しており、強化されたシアノトキシン生物学的浄化戦略の合理的開発のための分子的枠組みを提供するものである。\n\nSphingopyxisのMlrABCD経路は、空間的に協調したミクロシスチンの解毒を可能にする。膜結合型MlrAがミクロシスチンの直線化によって分解を開始し、続いてMlrB介在性のペプチド切断、MlrD促進性の輸送、および細胞質MlrCによるより小さな産物への分解が行われる。分子モデリングおよびダイナミクスシミュレーションにより、ミクロシスチン同族体とMlrA/MlrBとの相互作用が明らかになった。結合は可変的なR2残基に強く影響され、正に帯電したアルギニン含有同族体、特にMC-RRおよびMC-LRは、疎水性同族体よりも強い予測結合能を示し、基質認識および生分解効率の構造的決定因子が浮き彫りとなった。\n\n要旨\nミクロシスチンは、淡水生態系やヒトの健康を脅かす最も広範に存在するシアノバクテリア毒素の一つであるが、その細菌による解毒の分子基盤は依然として十分に解明されていない。本研究では、Sphingopyxis sp. C-1由来のMlrABCD経路の統合的構造モデルを提示し、異なる細菌細胞コンパートメントにおけるミクロシスチンの逐次的な変換に関する機構的な知見を提供する。比較ゲノミクス、構造モデリング、リガンド結合予測、および分子ダイナミクスシミュレーションにより、膜結合型MlrAが毒素の直線化を開始し、ペリプラズムMlrBが直線状中間体を加水分解し、MlrDが分解産物を細胞質膜を介して輸送し、細胞質MlrCがペプチド分解を完了させるという、空間的に協調した解毒プロセスが明らかになった。環境的に関連のあるミクロシスチン同族体の解析により、基質認識は毒素化学と酵素構造の相互作用によって制御されていることが示された。MlrAはMC-LRを優先的に認識する一方、MlrBは直線化されたMC-RRに対して高い親和性を示し、経路の進行に伴い環開環が基質選択性を変化させることが示唆された。また、基質結合はMlrDを安定化させ、リガンド誘導性の交互アクセス輸送機構を支持している。総じて、これらの知見は、Sphingopyxis sp. C-1の生分解機構が環境選択圧の下で、主要な環境同族体であるMC-LRおよびMC-RRに最適化された、コンパートメント化された高度に協調した解毒システムへと進化したことを示しており、強化されたシアノトキシン生物学的浄化戦略の合理的開発のための分子的枠組みを提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.3389/fmicb.2026.1982505",
+    "title": "Fecal microbiota transplantation restores gut microbiota diversity and butyrogenic taxa more effectively than fidaxomicin in recurrent <i>Clostridioides difficile</i> infection.",
+    "abstract": "IntroductionRecurrent Clostridioides difficile infection (rCDI) is commonly treated with fidaxomicin or fecal microbiota transplantation (FMT). Although both achieve high clinical cure rates, their differential impact on gut microbiota composition and function remain uncharacterized.MethodsTwenty-seven patients from the phase III ICD-01 trial (EudraCT 2020-004591-17) were included, 12 of them received FMT and the remaining 15 received fidaxomicin. Stool samples were collected at baseline and 8 weeks post-treatment. Microbiota composition was assessed by shotgun metagenomics and functionality by short-chain fatty acids (SCFAs) quantification. Metatranscriptomic sequencing was additionally performed in a subset of 7 patients (3 FMT and 4 fidaxomicin). Differential abundance, alpha/beta-diversity, resistome, and toxin-gene burden and expression were evaluated.ResultsNo clinical recurrence occurred at 8 weeks in either group, however alpha-diversity (species richness, Shannon and Simpson indexes) only increased significantly after FMT. Both treatments induced significant shifts in beta-diversity. FMT produced marked enrichment of butyrate-producing taxa, including Ruminococcus, Oscillospiraceae, Fusicatenibacter, Anaerostipes, Roseburia and Dorea. Fidaxomicin expanded Blautia while reducing Enterobacteriaceae, Veillonella and Parvimonas. C. difficile abundance did not change significantly, although their toxin genes (tcdA/tcdB) decreased after both interventions, as well as the total abundance of antibiotic-resistance genes. Among the significant changes in fecal SCFA concentrations, increases in acetate, isovalerate, and hexanoate were observed in both groups; butyrate and isovalerate increased most after FMT, whereas propionate, isobutyrate, and valerate only with fidaxomicin.ConclusionFMT drives substantially greater restoration of microbial diversity and a selective expansion of butyrogenic taxa than fidaxomicin.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1982505",
+    "date": "2026-11-04",
+    "authors": "Ballestero L, Barbero-Herranz R, Morales C, Palacios E, Moreno-Blanco A, Cantón R, Del Río P, Basterra J, Avendaño-Ortiz J, Del Campo R.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43054080",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43054080",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomics",
+        "metatranscriptom",
+        "metatranscriptomic",
+        "microbial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5306,
+    "collected_at": "2026-11-21T09:55:27.385518+00:00",
+    "collected_date": "2026-11-21",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-21",
+    "related_dois": [
+      "10.3389/fmicb.2026.1982505"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e8d23e744248bc817d51b2ca9a66d47f84a84ba44a14f5afa24358a4027c43bd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T10:27:34.597747+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a44dc0dd3dfb2d44e307215dfa428df688d2bdc482739472d50ef1205c81c8a5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T10:27:34.597747+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "糞便微生物移植は、再発性<i>Clostridioides difficile</i>感染症において、フィダキソマイシンよりも効果的に腸内細菌叢の多様性と酪酸産生菌群を回復させる。",
+    "abstract_ja": "はじめに再発性クロストリディオイデス・ディフィシル感染症（rCDI）には、通常フィダキソマイシンまたは糞便微生物移植（FMT）が用いられる。いずれも高い臨床治癒率を達成しているが、腸内細菌叢の組成および機能に及ぼす差異的な影響については未だ解明されていない。方法第III相ICD-01試験（EudraCT 2020-004591-17）の患者27例を組み入れ、そのうち12例にFMTを、残りの15例にフィダキソマイシンを投与した。ベースライン時および治療後8週時点で便検体を採取した。細菌叢の組成はショットガンメタゲノミクスにより、機能は短鎖脂肪酸（SCFAs）定量により評価した。さらに、一部の患者7例（FMT 3例、フィダキソマイシン 4例）を対象にメタトランスクリプトームシーケンシングを実施した。存在量の差、α/β多様性、レジストーム、および毒素遺伝子の負荷と発現を評価した。結果いずれの群においても8週時点での臨床的再発は認められなかったが、α多様性（種豊富度、シャノン指数およびシンプソン指数）はFMT後にのみ有意に増加した。両治療法ともにβ多様性に有意な変化をもたらした。FMTは、Ruminococcus、Oscillospiraceae、Fusicatenibacter、Anaerostipes、Roseburia、およびDoreaを含む酪酸産生菌群の顕著な濃縮をもたらした。フィダキソマイシンはBlautiaを増加させる一方、Enterobacteriaceae、Veillonella、およびParvimonasを減少させた。C. difficileの存在量に有意な変化は認められなかったが、両介入後にその毒素遺伝子（tcdA/tcdB）および抗生物質耐性遺伝子の総存在量が減少した。糞便中SCFA濃度の有意な変化としては、両群で酢酸、イソ吉草酸、およびヘキサン酸の増加が認められた。酪酸およびイソ吉草酸はFMT後に最も増加したが、プロピオン酸、イソ酪酸、および吉草酸はフィダキソマイシン投与時にのみ増加した。結論FMTは、フィダキソマイシンよりも大幅に高い微生物多様性の回復と、酪酸産生菌群の選択的な拡大をもたらす。"
+  },
+  {
+    "id": "10.1186/s13059-026-04355-w",
+    "title": "LmPro-Nano: a method for nanobody optimization using pretrained language and energy prediction models",
+    "abstract": "Nanobodies are an important therapeutic scaffold for multiple diseases and have been shown to neutralize severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). However, optimizing affinity for a chosen antigen remains slow and expensive. Here, we present LmPro-Nano, a sequence-driven workflow coupling a pretrained nanobody language model with a structure-based binding-energy predictor and molecular dynamics. We demonstrate LmPro-Nano on 3-2A2-4 and VHH72, two nanobodies against the SARS-CoV-2 receptor-binding domain. We find that LmPro-Nano improves antigen-binding-loop recovery by 4.37 points over a frequency reference, and for VHH72, sequence-only localization of the binding region raised the top-ten hit rate from two to seven tighter binders.",
+    "journal": "Genome Biology",
+    "doi": "10.1186/s13059-026-04355-w",
+    "date": "2026-11-21",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s13059-026-04355-w",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "predictor",
+        "sequence",
+        "workflow"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "predictor",
+          "sequence",
+          "workflow"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=13059",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5444,
+    "collected_at": "2026-11-21T10:06:00.579932+00:00",
+    "collected_date": "2026-11-21",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=13059"
+    ],
+    "first_seen": "2026-11-21",
+    "related_dois": [
+      "10.1186/s13059-026-04355-w"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3625e90b876b5a8b5b0db7c671dd4bd1d1d5aeb65c9b35ac1383221a40a4e7eb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T10:27:34.597747+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "205d534efc2966a8b5e99497c4a25044716732c487474e557ad0cd6297c8375c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T10:27:34.597747+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "LmPro-Nano: 事前学習済み言語・エネルギー予測モデルを用いたナノボディ最適化手法",
+    "abstract_ja": "ナノボディは複数の疾患に対する重要な治療足場であり、重症急性呼吸器症候群コロナウイルス2（SARS-CoV-2）を中和することが示されている。しかし、選択した抗原に対する親和性の最適化は、依然として時間とコストを要する。本報では、事前学習済みナノボディ言語モデルと、構造ベースの結合エネルギー予測器および分子動力学を組み合わせた、配列駆動型ワークフローであるLmPro-Nanoを提案する。我々は、SARS-CoV-2受容体結合ドメインに対する2種類のナノボディ、3-2A2-4およびVHH72を用いてLmPro-Nanoを実証した。その結果、LmPro-Nanoは周波数基準と比較して抗原結合ループの回収率を4.37ポイント向上させ、VHH72においては、結合領域の配列のみによる局在化により、上位10件のヒット率が2件から7件のより強固な結合体へと増加した。"
+  },
+  {
+    "id": "10.1186/s40168-026-02578-4",
+    "title": "Microecological mechanisms of resistance to kiwifruit bacterial canker: flavonoid-mediated beneficial bacterial enrichment and AHL-mediated cross-kingdom quorum sensing interference",
+    "abstract": "Background\n                     Kiwifruit bacterial canker, caused by Pseudomonas syringae pv. actinidiae (Psa), is a devastating agricultural disease. While host resistance varies significantly among different kiwifruit cultivars, the contribution of root-associated microbiomes to these contrasting defense phenotypes remains elusive.\n                  \n                     Results\n                     Here, we integrated microbiome, metabolome, and functional validation experiments to unravel the mechanisms driving the divergent disease outcomes between the highly susceptible cultivar ‘Hongyang’ (HY) and the resistant cultivar ‘Longcheng No. 2’ (LC2). Soil transplantation experiments first demonstrated that LC2 rhizosphere soil confers legacy resistance on HY. We subsequently revealed that Psa infection triggers distinct rhizosphere microbial assembly and metabolic responses: LC2 selectively recruits antagonistic Streptomyces via the secretion of the specific flavonoid isoscutellarein, whereas HY primarily enriches Pseudomonas driven by luteolin-7-O-glucuronide. In vitro and in vivo validations confirmed that these flavonoids divergently regulate bacterial growth, chemotaxis, and root colonization. Strikingly, we identified that HY roots aberrantly enrich endophytic bacteria producing high levels of N-acyl homoserine lactone (AHL) quorum-sensing signals, specifically N-octanoyl-L-homoserine lactone (C8-HSL) and N-(3-oxododecanoyl)-L-homoserine lactone (3-oxo-C12-HSL). The systemic accumulation of these microbial AHLs bolsters Psa pathogenicity by synergistically activating the Type III secretion system (T3SS) and flagellar assembly pathways, thus elucidating the molecular basis of HY susceptibility. Conversely, LC2-derived Streptomyces viridobrunneus LI-S16 reduced lesion areas by 41.82%, while a rationally designed Streptomyces synthetic microbial community (SynCom) provided near-complete protection. This SynCom effectively suppressed Psa by priming multi-layered plant immunity, characterized by the synergistic activation of salicylic acid (SA) and ethylene (ET) signaling, suppression of the jasmonic acid (JA) pathway, and robust accumulation of callose and reactive oxygen species (ROS).\n                  \n                     Conclusions\n                     Collectively, our findings demonstrate how flavonoid-mediated assembly of beneficial microbes and cross-kingdom interference via microbial AHL signaling collectively shape cultivar-specific resistance, offering a promising SynCom-based strategy for the precise control of kiwifruit canker.\n                     \nVideo Abstract",
+    "journal": "Microbiome",
+    "doi": "10.1186/s40168-026-02578-4",
+    "date": "2026-11-21",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s40168-026-02578-4",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Pseudomonas",
+        "Streptomyces",
+        "bacteria",
+        "bacterial",
+        "microbe",
+        "microbes",
+        "microbial",
+        "microbiome",
+        "microbiomes"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=40168",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5441,
+    "collected_at": "2026-11-21T10:06:00.579932+00:00",
+    "collected_date": "2026-11-21",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=40168"
+    ],
+    "first_seen": "2026-11-21",
+    "related_dois": [
+      "10.1186/s40168-026-02578-4"
+    ],
+    "translation": {
+      "title": {
+        "hash": "95e072ed97fd25a113e9d1576b53925fa4ca1990d7b5580320141d06a824224b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T10:27:34.597747+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f10721449ea432a23f43d31cc6337763647abdc8648f5b04d65ae3f6cc62e304",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T10:27:34.597747+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "キウイフルーツ細菌性潰瘍病に対する微生物生態学的抵抗機構：フラボノイド介在性の有益細菌濃縮とAHL介在性の界横断的クオラムセンシング干渉",
+    "abstract_ja": "背景\n                     Pseudomonas syringae pv. actinidiae (Psa) によって引き起こされるキウイフルーツ細菌性潰瘍病は、甚大な被害をもたらす農業病害である。宿主の抵抗性はキウイフルーツの品種間で大きく異なるが、こうした対照的な防御表現型における根関連マイクロバイオームの寄与は依然として不明である。\n                  \n                     結果\n                     本研究では、マイクロバイオーム、メタボローム、および機能検証実験を統合し、感受性の高い品種「紅陽」(HY) と抵抗性品種「龍城2号」(LC2) の間で生じる病害転帰の相違を駆動するメカニズムを解明した。土壌移植実験により、まずLC2の根圏土壌がHYに遺伝的抵抗性を付与することが示された。続いて、Psa感染が根圏における異なる微生物集合および代謝応答を誘発することを明らかにした。すなわち、LC2は特定のフラボノイドであるイソスクテラレインの分泌を介して拮抗的なストレプトマイセス属菌を選択的に動員するのに対し、HYは主にルテオリン-7-O-グルクロン酸誘導体によって駆動されるPseudomonas属菌を富化させる。in vitroおよびin vivoでの検証により、これらのフラボノイドが細菌の増殖、走化性、および根への定着をそれぞれ異なる様式で調節していることが確認された。特筆すべきことに、HYの根では、高レベルのN-アシルホモセリンラクトン（AHL）クオラムセンシングシグナル、特にN-オクタノイル-L-ホモセリンラクトン（C8-HSL）およびN-(3-オキソドデカノイル)-L-ホモセリンラクトン（3-オキソ-C12-HSL）を産生する内生細菌が異常に富化していることを同定した。これらの微生物由来AHLの全身的な蓄積は、III型分泌系（T3SS）および鞭毛集合経路を相乗的に活性化することでPsaの病原性を増強し、これによりHYの感受性の分子基盤が解明された。対照的に、LC2由来のStreptomyces viridobrunneus LI-S16は病斑面積を41.82%減少させ、合理的に設計されたStreptomyces合成微生物群集（SynCom）はほぼ完全な保護効果を示した。このSynComは、サリチル酸（SA）およびエチレン（ET）シグナル伝達の相乗的活性化、ジャスモン酸（JA）経路の抑制、ならびにカロースおよび活性酸素種（ROS）の強固な蓄積を特徴とする多層的な植物免疫をプライミングすることで、Psaを効果的に抑制した。\n                  \n                     結論\n                     総じて、本研究の知見は、フラボノイドを介した有益微生物の集合と、微生物AHLシグナル伝達による界を越えた干渉が、いかにして品種特異的な抵抗性を共同で形成するかを示しており、キウイフルーツ潰瘍病の精密な制御に向けた、SynComに基づく有望な戦略を提示するものである。\n                     \nビデオ抄録"
   }
 ]
