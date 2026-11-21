@@ -316697,5 +316697,338 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "BICに基づくモデル選択を用いた、同一の相対実効再生産数を共有する遺伝的に近縁なSARS-CoV-2系統のクラスタリング",
     "abstract_ja": "重症急性呼吸器症候群コロナウイルス2（SARS-CoV-2）は絶えず進化し、多数のウイルス系統を生み出してきた。自然選択は有利な変異を持つ系統を有利にし、これらの系統は頻度を増し、以前に流行していた系統に取って代わる。流行している系統の相対実効再生産数を推定するために、いくつかの系統置換モデルが開発されてきた。集団内で多数の系統が同時に流行している場合、ウイルスの伝播性を表すモデルパラメータの数が増加し、ウイルスの伝播性に影響を与える変異を探索することが困難になる。したがって、遺伝的背景が類似し、かつ相対実効再生産数が同一であるウイルス系統をクラスタリングすることは、流行している系統間の遺伝的・表現型的関係を探索するのに役立つ可能性がある。本論文では、観測されたウイルス系統の時系列カウントデータセットから、同一の相対実効再生産数を持つ遺伝的に近縁なウイルス系統群を同定するFindPart-w-ϵと呼ばれる新しいアルゴリズムを提案する。遺伝的に近縁なウイルス系統群をϵ連結分割を用いて定式化し、FindPart-w-ϵはベイズ情報量基準を最小化するϵ連結分割を探索する。アメリカ合衆国とイギリスのSARS-CoV-2系統カウントデータセットにこのアルゴリズムを適用し、FindPart-w-ϵが主要な系統特異的な伝播性パターンを保持しつつ、得られた系統分割の解釈可能性を向上させることを示した。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 9",
+        "query": "(JOURNAL:\"Briefings in Bioinformatics\" OR JOURNAL:\"Briefings in Functional Genomics\" OR JOURNAL:\"BMC Genomics\" OR JOURNAL:\"BMC Bioinformatics\" OR JOURNAL:\"GigaScience\" OR JOURNAL:\"Database\" OR JOURNAL:\"DNA Research\" OR JOURNAL:\"PLOS Computational Biology\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "review-article",
+      "journal article"
+    ],
+    "id": "10.1093/bib/bbag638",
+    "title": "Computational immunogenicity prediction for mRNA vaccines: benchmarks, bottlenecks, and the peptide-nucleotide gap.",
+    "abstract": "Computational prediction of T-cell epitopes has become indispensable to vaccine design, yet the field still relies on the assumption that how much of a given antigen is produced is fixed by its coding sequence. However, this is not the case with mRNA vaccines, i.e. the design of the mRNA template can vastly alter the quantity of the same protein produced. Codon usage, guanine-cytosine (GC) content, untranslated-region (UTR) design, and predicted secondary structure together define how fast the message is translated and how long it survives, and therefore how much antigen ever reaches the presentation pathway. This is a variable that no current immunogenicity predictor represents. Herein we appraise three decades of computational immunogenicity prediction, tracing the path from position-specific scoring matrices through pan-specific neural networks to transformer-based protein language models, and we use that history to expose the peptide-nucleotide gap between these tools and the way mRNA vaccines are designed. A structured synthesis of published evaluations of leading predictors across human leukocyte antigen (HLA) alleles, peptide lengths and data types shows that headline accuracy masks persistent deficiencies in predicting major histocompatibility complex (MHC) class II, which underpins durable T-cell help, and rare alleles, which disproportionately affect under-represented populations. Four bottlenecks continue to constrain the field: class II prediction, T-cell receptor (TCR) recognition, immunodominance, and the disconnection between nucleotide-level design and peptide-level prediction. We argue that the last of these, which has drawn the least attention, is, in our assessment, the most likely to yield near-term gains for personalised cancer vaccines and pandemic preparedness, and we set out an architecture that couples translation-rate prediction to peptide presentation. Building it will require data that do not yet exist; we specify what must be measured, and on which platforms.",
+    "journal": "Briefings in Bioinformatics",
+    "doi": "10.1093/bib/bbag638",
+    "date": "2026-11-01",
+    "authors": "Kamaliasl S, Buckley NE, Dunne NJ, McCarthy HO.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43055516",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13783184",
+    "pmid": "43055516",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "benchmark",
+        "nucleotide",
+        "prediction"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "benchmark",
+          "nucleotide",
+          "prediction"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5334,
+    "collected_at": "2026-11-21T17:30:13.539558+00:00",
+    "collected_date": "2026-11-22",
+    "sources": [
+      "Europe PMC journals 9"
+    ],
+    "first_seen": "2026-11-21",
+    "related_dois": [
+      "10.1093/bib/bbag638"
+    ],
+    "translation": {
+      "title": {
+        "hash": "431eccaa8e262a1702125acd3f6685794666e332d3221ce2b151010ee57cca2b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T18:02:01.092358+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5257b23caead9da3cd68a6e5780cbeb61ad000a91e289631a12906e637bbfa74",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T18:02:01.092358+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "mRNAワクチンの計算科学的免疫原性予測：ベンチマーク、ボトルネック、およびペプチド・ヌクレオチド間のギャップ",
+    "abstract_ja": "T細胞エピトープの計算科学的予測は、ワクチン設計において不可欠となっているが、依然として、特定の抗原の産生量がそのコーディング配列によって固定されるという前提に依存している。しかし、mRNAワクチンの場合は異なる。すなわち、mRNAテンプレートの設計によって、産生される同一タンパク質の量が大幅に変わり得るのである。コドンの使用法、グアニン・シトシン（GC）含有量、非翻訳領域（UTR）の設計、および予測される二次構造が相まって、メッセージの翻訳速度と生存期間、ひいてはどれだけの抗原が提示経路に到達するかが決定される。これは、現在の免疫原性予測モデルのいずれも捉えていない変数である。本研究では、30年間にわたる計算科学的免疫原性予測を評価し、部位特異的スコアリング行列から汎特異的ニューラルネットワーク、そしてTransformerベースのタンパク質言語モデルに至る経緯を辿る。そして、この歴史を用いて、これらのツールとmRNAワクチンの設計手法との間に存在するペプチド・ヌクレオチド間の乖離を明らかにする。ヒト白血球抗原（HLA）アレル、ペプチド長、およびデータタイプにわたる主要な予測モデルの既報評価を体系的に統合した結果、表面的な精度の裏には、持続的なT細胞ヘルパーを基盤とする主要組織適合性複合体（MHC）クラスIIの予測における根強い不備と、過小代表集団に不釣り合いな影響を及ぼす希少アレルの予測における不備があることが示された。クラスII予測、T細胞受容体（TCR）認識、免疫優位性、およびヌクレオチドレベルの設計とペプチドレベルの予測との乖離という4つのボトルネックが、依然としてこの分野の制約となっている。我々は、これらの中で最も注目されてこなかった最後の要因こそが、我々の評価によれば、個別化がんワクチンやパンデミックへの備えにおいて近い将来に成果をもたらす可能性が最も高いと主張し、翻訳速度予測をペプチド提示に結びつけるアーキテクチャを提案する。その構築には、まだ存在しないデータが必要となる。本稿では、何を測定すべきか、およびどのプラットフォームで測定すべきかを具体的に規定する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 7",
+        "query": "(JOURNAL:\"Microbial Ecology\" OR JOURNAL:\"Environmental Microbiology Reports\" OR JOURNAL:\"International Journal of Systematic and Evolutionary Microbiology\" OR JOURNAL:\"npj Biofilms and Microbiomes\" OR JOURNAL:\"Nature Reviews Microbiology\" OR JOURNAL:\"Trends in Microbiology\" OR JOURNAL:\"Annual Review of Microbiology\" OR JOURNAL:\"Microbial Cell\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1099/ijsem.0.007327",
+    "title": "Repertoires of type-I polyketide synthase and nonribosomal peptide synthetase gene clusters as taxonomic traits: a systematic reassessment across multiple <i>Streptomyces</i> species complexes.",
+    "abstract": "The genus Streptomyces comprises a large number of species with complex and often ambiguous taxonomic relationships, many of which were established prior to the widespread adoption of molecular- or whole genome sequence-based approaches. In this study, a systematic reassessment of taxonomic relationships was conducted across multiple Streptomyces species complexes incorporating secondary metabolite-biosynthetic gene analysis. Two representative species groups were examined by combining analyses of 16S rRNA gene sequences, genome blast distance phylogeny, digital DNA-DNA hybridization, major phenotypic characteristics and comparative repertoires of type-I polyketide synthase (PKS) and nonribosomal peptide synthetase (NRPS) gene clusters. Although Streptomyces parvisporogenes and Streptomyces ehimensis, and Streptomyces sapporonensis have been considered as later heterotypic synonyms of Streptomyces abikoensis and Streptomyces cinnamoneus, respectively, they were revealed to be three independent species. Clear differences in the repertoires of their PKS and NRPS gene clusters were observed among these different species, although no clear difference in major phenotypic characteristics was observed between S. sapporonensis and S. cinnamoneus. The strain designated as 'Streptomyces hesseae' corresponded to the type strain of S. parvisporogenes. Streptomyces salyersiae, Kitasatospora papulosa, Streptomyces puniceus, Streptomyces pluricolorescens and Streptomyces finlayi were reclassified as later heterotypic synonyms of Streptomyces flavovirens, Streptomyces pratensis, Streptomyces californicus, Streptomyces rubiginosohelvolus and Streptomyces spiroverticillatus, respectively. These synonymous species shared completely or nearly identical PKS and NRPS gene cluster repertoires. These findings demonstrate that the repertoires of PKS and NRPS gene clusters represent stable and informative characteristics that provide robust support and complement phenotypic features for the classification of Streptomyces species.",
+    "journal": "International Journal of Systematic and Evolutionary Microbiology",
+    "doi": "10.1099/ijsem.0.007327",
+    "date": "2026-11-01",
+    "authors": "Komaki H.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43038041",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43038041",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "Streptomyces"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "phylogen",
+          "phylogeny"
+        ],
+        "evolution": [
+          "phylogeny"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 5324,
+    "collected_at": "2026-11-21T17:30:13.539558+00:00",
+    "collected_date": "2026-11-22",
+    "sources": [
+      "Europe PMC journals 7"
+    ],
+    "first_seen": "2026-11-21",
+    "related_dois": [
+      "10.1099/ijsem.0.007327"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d7211398955b6b249b5a5adf354f772422e8a7dd6104d4a4fd00579e21e002d4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T18:02:01.092358+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "cbbac11a27d6482209a9aca0df13781061c1f8e5a72d0f9008376cc6af013a3b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T18:02:01.092358+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "分類形質としてのI型ポリケチド合成酵素および非リボソームペプチド合成酵素遺伝子クラスターのレパートリー：複数の<i>Streptomyces</i>種複合体にわたる系統的な再評価",
+    "abstract_ja": "ストレプトマイセス属は、複雑でしばしば曖昧な分類学的関係を持つ多数の種を含み、その多くは分子配列または全ゲノム配列に基づく手法が広く採用される前に同定された。本研究では、二次代謝産物生合成遺伝子解析を組み込んだ、複数のストレプトマイセス種複合体にわたる分類学的関係の系統的な再評価を行った。16S rRNA遺伝子配列、ゲノムブラスト距離系統解析、デジタルDNA-DNAハイブリダイゼーション、主要な表現型特性、およびタイプIポリケチド合成酵素（PKS）および非リボソームペプチド合成酵素（NRPS）遺伝子クラスターの比較レパートリーの解析を組み合わせることで、2つの代表的な種群を検討した。Streptomyces parvisporogenes、Streptomyces ehimensis、およびStreptomyces sapporonensisは、それぞれStreptomyces abikoensisおよびStreptomyces cinnamoneusの後代の異型同物異名と考えられてきたが、実際には3つの独立した種であることが判明した。これらの異なる種間では、PKSおよびNRPS遺伝子クラスターのレパートリーに明確な差異が認められたが、S. sapporonensisとS. cinnamoneusの間では、主要な表現型特性に明確な差異は認められなかった。「Streptomyces hesseae」と指定された株は、S. parvisporogenesのタイプ株に相当した。Streptomyces salyersiae、Kitasatospora papulosa、Streptomyces puniceus、Streptomyces pluricolorescens、およびStreptomyces finlayiは、それぞれStreptomyces flavovirens、Streptomyces pratensis、Streptomyces californicus、Streptomyces rubiginosohelvolus、およびStreptomyces spiroverticillatusの後代の異型同物異名として再分類された。これらの同物異名種は、完全に、あるいはほぼ同一のPKSおよびNRPS遺伝子クラスターのレパートリーを共有していた。これらの知見は、PKSおよびNRPS遺伝子クラスターのレパートリーが、ストレプトマイセス属の種の分類において表現型的特徴を強固に支持し補完する、安定的かつ情報量の多い形質であることを示している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 6",
+        "query": "(JOURNAL:\"Microbial Genomics\" OR JOURNAL:\"Microbiology\" OR JOURNAL:\"Aquatic Microbial Ecology\" OR JOURNAL:\"PNAS\" OR JOURNAL:\"PLOS Biology\" OR JOURNAL:\"PLOS Genetics\" OR JOURNAL:\"Genome Research\" OR JOURNAL:\"Genome Biology\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "im",
+      "journal article"
+    ],
+    "id": "10.1099/mgen.0.001877",
+    "title": "Global biosynthetic potential of the phylum Acidobacteriota.",
+    "abstract": "Bacteria from the phylum Acidobacteriota are widely distributed across diverse environments yet only a few representatives have been isolated and described. Although recent studies suggest substantial biosynthetic potential in Acidobacteriota across soil and marine environments, no comprehensive cross-biome analysis of their biosynthetic diversity has been conducted. To address this gap, we analysed 19,720 metagenome-assembled genomes from Acidobacteriota along with their environmental description to provide a systematic overview of their biosynthetic potential. Our analyses reveal that Acidobacteriota harbour several phylogenetic clades with high biosynthetic potential, including families such as Acantopleurobacteraceae, UBA5704 and UBA2199. Remarkably, our results suggest that the biosynthetic potential of Acidobacteriota is on par with other prolific phyla such as Pseudomonadota. While soil-dwelling Acidobacteriota on average encode higher numbers of biosynthetic gene clusters (BGCs), marine host-associated species display a specialized metabolic repertoire that is enriched in BGCs putatively encoding the production of halogenated metabolites. This study highlights biosynthetically rich taxonomic hotspots to aid the discovery of novel natural products.",
+    "journal": "Microbial Genomics",
+    "doi": "10.1099/mgen.0.001877",
+    "date": "2026-11-01",
+    "authors": "Hrab P, Zdouc MM, Terlouw BR, Loureiro C, Schorn MA, de Ridder D, Medema MH, Sipkema D.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43062893",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43062893",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "metagenom",
+        "metagenome"
+      ],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [
+          "genom",
+          "genome",
+          "metagenom",
+          "metagenome",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 5321,
+    "collected_at": "2026-11-21T17:30:13.539558+00:00",
+    "collected_date": "2026-11-22",
+    "sources": [
+      "Europe PMC journals 6"
+    ],
+    "first_seen": "2026-11-21",
+    "related_dois": [
+      "10.1099/mgen.0.001877"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8cda95dac04d8e25e7f982f90b47b2a2241187b7d0adac5c6516ba38d762d1f1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T18:02:01.092358+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "38e6733ac45cb2436e193a2fdcf71946722bbf842b4171fdf373b9f89dbba2ce",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T18:02:01.092358+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "アシドバクテリウム門の世界的な生合成能。",
+    "abstract_ja": "アシドバクテリウム門の細菌は、多様な環境に広く分布しているが、単離・記載された代表種はわずかである。近年の研究では、土壌および海洋環境においてアシドバクテリウム門が相当な生合成能を有することが示唆されているものの、その生合成多様性に関する包括的なクロスバイオーム解析は行われていない。この空白を埋めるため、我々はアシドバクテリウム門のメタゲノムアセンブルされた19,720個のゲノムを環境特性の記述とともに解析し、その生合成能に関する系統的な概観を提示した。解析の結果、アシドバクテリウム門には、Acantopleurobacteraceae、UBA5704、UBA2199などの科を含む、高い生合成能を有する複数の系統群が存在することが明らかになった。特筆すべきことに、我々の結果は、アシドバクテリウム門の生合成能がPseudomonadotaなどの他の生産性の高い門と同等であることを示唆している。土壌生息のアシドバクテリウム門は平均してより多くの生合成遺伝子クラスター（BGC）をコードしている一方、海洋宿主関連種は、ハロゲン化代謝物の産生をコードすると推定されるBGCに富む特殊な代謝レパートリーを示す。本研究は、新規天然物の発見に寄与する、生合成能に富んだ分類学的ホットスポットを浮き彫りにするものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 8",
+        "query": "(JOURNAL:\"Microbial Biotechnology\" OR JOURNAL:\"Extremophiles\" OR JOURNAL:\"Genome Biology and Evolution\" OR JOURNAL:\"Molecular Biology and Evolution\" OR JOURNAL:\"Molecular Ecology\" OR JOURNAL:\"Molecular Ecology Resources\" OR JOURNAL:\"Molecular Phylogenetics and Evolution\" OR JOURNAL:\"Bioinformatics Advances\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1111/1755-0998.70219",
+    "title": "Breath to Genome: Whole Genome Sequencing of Large Whales From Blow Sampling.",
+    "abstract": "Preserving biodiversity requires the genetic monitoring of wild populations, which is traditionally done through invasive sampling techniques for DNA collection. However, this approach can impact animal welfare or be impossible to implement due to behavioural responses to anthropogenic factors or national/international legislation. For cetaceans, a promising non-invasive alternative approach is the collection of exhaled respiratory vapour, or 'blow', to generate individual genetic profiles. Here, we demonstrate the feasibility of generating whole nuclear and mitochondrial genomes from the blow of humpback whales (Megaptera novaeangliae) with data of sufficient quality for population genomics. A total of 58 blow samples from 26 Northeast Pacific humpback whales were collected in Gitga'at First Nation territory using a commercially available drone. The high endogenous DNA content at 84% on average allowed us to generate low-coverage nuclear genomes (mean 2.3×, range 0.2× to 3.5×) and high-coverage mitochondrial genomes (mean 94×, range 7.7× to 151.3×) for inference of population structure, diversity and phylogenomics. The reliability of the blow-derived genomes was demonstrated by direct comparison between replicate blow samples, as well as paired tissue samples from a subset of individuals. Although applicability will likely vary across species depending on factors such as elusiveness, body size and surface time, this approach represents a major step towards non-invasive cetacean sampling that can yield not only host genomes but also microbiome and hormone profiles. As such, our approach opens new avenues for conservation genomics, population monitoring and microbiome-based health assessments in the wild and can fill critical data gaps in cetacean genomic databases.",
+    "journal": "Molecular Ecology Resources",
+    "doi": "10.1111/1755-0998.70219",
+    "date": "2026-11-01",
+    "authors": "O'Mahony ÉN, McCarthy ML, Keen EM, Wray J, McMillan CJ, Thornton SJ, Rendell LE, Gaggiotti OE, Olsen MT.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43041175",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13775071",
+    "pmid": "43041175",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5332,
+    "collected_at": "2026-11-21T17:30:13.539558+00:00",
+    "collected_date": "2026-11-22",
+    "sources": [
+      "Europe PMC journals 8"
+    ],
+    "first_seen": "2026-11-21",
+    "related_dois": [
+      "10.1111/1755-0998.70219"
+    ],
+    "translation": {
+      "title": {
+        "hash": "afe4707043c6a5b5e21abb910680eb5555bd81f856ed69f472e7920d35ceb016",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T18:02:01.092358+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1f04647df7d743bb66f8f4331c41ea400f74db48fa145094594a19a77e12fce7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T18:02:01.092358+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Breath to Genome: ブローサンプリングによる大型鯨類の全ゲノム配列決定",
+    "abstract_ja": "生物多様性の保全には野生個体群の遺伝的モニタリングが必要であり、従来はDNA収集のための侵襲的なサンプリング手法が用いられてきた。しかし、この手法は動物福祉に影響を及ぼしたり、人為的要因に対する行動反応や国内・国際的な法規制により実施が不可能であったりする場合がある。鯨類においては、個々の遺伝的プロファイルを生成するための有望な非侵襲的代替手法として、呼気中の呼吸蒸気、すなわち「ブロー」の採取が挙げられる。本研究では、個体群ゲノミクスに十分な品質のデータを用いて、ザトウクジラ（Megaptera novaeangliae）のブローから全核ゲノムおよびミトコンドリアゲノムを生成することの実現可能性を実証する。市販のドローンを用い、ギトガアト・ファースト・ネーションの領土内で、北東太平洋のザトウクジラ26頭から計58個のブローサンプルを採取した。平均84%という高い内因性DNA含有量により、個体群構造、多様性、および系統ゲノミクスの推論に用いる低カバレッジの核ゲノム（平均2.3×、範囲0.2×～3.5×）および高カバレッジのミトコンドリアゲノム（平均94×、範囲7.7×～151.3×）を生成することができた。ブロー由来ゲノムの信頼性は、反復採取したブローサンプル間、および一部の個体から得られたペア組織サンプル間の直接比較によって実証された。適用可能性は、捕獲の困難さ、体サイズ、水面滞在時間などの要因により種ごとに異なると考えられるが、本手法は、宿主ゲノムのみならずマイクロバイオームやホルモンプロファイルも得られる非侵襲的な鯨類サンプリングに向けた大きな一歩となる。したがって、本手法は野生下における保全ゲノミクス、個体群モニタリング、およびマイクロバイオームに基づく健康評価に新たな道を切り拓くものであり、鯨類ゲノムデータベースにおける極めて重要なデータギャップを埋めることができる。"
   }
 ]
