@@ -314879,5 +314879,82 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "オオガマ（Juncus bufonius L.、イネ目：イグサ科）のゲノム配列",
     "abstract_ja": "Juncus bufonius（ガマ類；ストレプト藻門；マグノリオプシダ綱；イネ目；イグサ科）のゲノムアセンブリを提示する。本アセンブリは、総長773.78メガベースおよび738.46メガベースの2つのハプロタイプから構成される。ハプロタイプ1アセンブリの大部分（97.88%）は、53個の染色体擬似分子へとスキャフォールディングされた。ハプロタイプ2はスキャフォールドレベルでアセンブルされた。ミトコンドリアゲノムアセンブリの全長は993.69キロベース、プラスチドゲノムアセンブリの全長は169.52キロベースである。本アセンブリは、英国およびアイルランドに生息する真核生物種のリファレンスゲノムを構築するDarwin Tree of Lifeプロジェクトの一環として作成された。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.12688/wellcomeopenres.28054.1",
+    "title": "The genome sequence of the Beech Milkcap, Lactarius blennius (Fr. Fr., 1815) (Russulales: Russulaceae)",
+    "abstract": "We present a genome assembly of  Lactarius blennius (Beech Milkcap; Basidiomycota; Agaricomycetes; Russulales; Russulaceae). The assembly consists of two haplotypes with total lengths of 68.85 megabases and 67.63 megabases. The haplotype 1 assembly is scaffolded into 11 chromosomal pseudomolecules. Haplotype 2 was assembled to scaffold level. The mitochondrial genome has been assembled, with a length of 46.11 kilobases. This assembly was generated as part of the Darwin Tree of Life project, which produces reference genomes for eukaryotic species found in Britain and Ireland.",
+    "journal": "",
+    "doi": "10.12688/wellcomeopenres.28054.1",
+    "date": "2026-11-06",
+    "authors": "Cullington P, Woof K, Douglas B, Becker J, Blades B, Gaya E, Royal Botanic Gardens Kew Genome Acquisition Lab, Wellcome Sanger Institute Tree of Life Management, Samples and Laboratory team, Wellcome Sanger Institute Scientific Operations: Sequencing Operations, Wellcome Sanger Institute Tree of Life Core Informatics team, Tree of Life Core Informatics collective, Darwin Tree of Life Consortium.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1359817",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "assembly",
+        "genome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5286,
+    "collected_at": "2026-11-21T02:12:50.375049+00:00",
+    "collected_date": "2026-11-21",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-21",
+    "related_dois": [
+      "10.12688/wellcomeopenres.28054.1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a358d111ab77e3418b14a773cded0398af6d3a4f88bf8d409766e8bb1367034d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T02:52:35.018683+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7e861b045bc864fcaba9999e5c20c6bde15a89f035b1f9b0d5e891ef1e5021ce",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-21T02:52:35.018683+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ブナシメジ Lactarius blennius (Fr. Fr., 1815) (Russulales: Russulaceae) のゲノム配列",
+    "abstract_ja": "Lactarius blennius（ブナミルクキャップ；担子菌門；ハラタケ綱；ベニタケ目；ベニタケ科）のゲノムアセンブリを提示する。本アセンブリは、総長68.85メガベースおよび67.63メガベースの2つのハプロタイプから構成される。ハプロタイプ1のアセンブリは、11個の染色体擬似分子にスキャフォールディングされている。ハプロタイプ2はスキャフォールドレベルでアセンブルされた。ミトコンドリアゲノムもアセンブルされており、その長さは46.11キロベースである。本アセンブリは、英国およびアイルランドに生息する真核生物種のリファレンスゲノムを構築するDarwin Tree of Lifeプロジェクトの一環として作成された。"
   }
 ]
