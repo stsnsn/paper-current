@@ -447943,5 +447943,301 @@
     "related_dois": [
       "10.1093/nar/gkag1039"
     ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1021/acs.nanolett.6c03022",
+    "title": "SecAntiGami: A Secondary-Antibody-Inspired RNA Origami for Qualitative Aptamer Validation.",
+    "abstract": "RNA aptamers are short, single-stranded RNA molecules that fold into specific three-dimensional structures and selectively bind molecular targets. Despite applications in therapeutics, diagnostics, and biosensing, tools for aptamer validation remain scarce compared to well-established pipelines for other biomolecular binders such as antibodies. Here, we introduce SecAntiGami─a secondary-antibody-inspired RNA origami─as a modular tool for signal enhancement and aptamer characterization. SecAntiGami binds aptamers of interest through programmable kissing-loop interactions and carries a fluorescent aptamer for visualization. It amplifies aptamer-dependent size increases in dynamic light scattering assays and enables fluorescence-based aptamer localization. We rationally design three different variants of a biotin-binding aptamer and use SecAntiGami to demonstrate that all of them retain their functionality, enabling efficient integration of aptamers into RNA origami structures. SecAntiGami serves as a versatile tool for qualitative aptamer validation for synthetic biology, structural RNA nanotechnology, RNA therapeutics, and diagnostics.",
+    "journal": "Nano letters",
+    "doi": "10.1021/acs.nanolett.6c03022",
+    "date": "2026-11-01",
+    "authors": "Frey LS, Verstraeten W, Tran MP, Venkert D, Monari L, Geary C, Göpfrich K.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43012600",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13761691",
+    "pmid": "43012600",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "tool"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "RNA",
+          "tool"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5406,
+    "collected_at": "2026-11-22T15:17:10.248796+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-22",
+    "related_dois": [
+      "10.1021/acs.nanolett.6c03022"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "comparative study",
+      "journal article"
+    ],
+    "id": "10.1021/acs.analchem.6c01533",
+    "title": "A Novel sMRMHR Pseudotargeted Method for Rapid Chemome Comparison Among Herbal Medicines: from Metabolome to Exposome.",
+    "abstract": "The metabolomic comparison of closely related herbal species, both the intrinsic plant metabolome and the subsequent in vivo exposome, is vital for ensuring drug safety and elucidating therapeutic mechanisms. However, such a comparison is challenging because medicinal plants within the same genus share similar chemical profiles with minor chemical or abundance differences, and their in vivo exposure levels are typically low and are affected by complex biological matrices. In this study, Curcumae Radix (CR), a traditional Chinese medicine derived from the roots of four Curcuma species, was used as a case study. A pseudotargeted workflow based on scheduled high-resolution multiple reaction monitoring (sMRMHR) was established to compare the metabolites and plasma exposure profiles of these species, using a transition library constructed from the four plant species. The sMRMHR pseudotargeted method showed acceptable linearity, repeatability, and stability in QC samples and 12 reference standards, with performance comparable to that of SWATH and TOF MS1 while maintaining stable coefficients of variation (CVs) at low concentrations. Specifically, 95.2% of metabolomic features showed linearity with R2 ≥ 0.8, 98.16% showed a CV ≤ 30%. In exposomics, 83.14% of exposures had matrix effect factor (MF) CVs below 30%, and over 300 exposures showed MFs within 70%-130%. Finally, the application results of CR demonstrate its capability for chemome comparison of metabolites and exposures. In conclusion, this approach provides a practical HRMS-based strategy for the integrated comparison of plant metabolite profiles and plasma exposure-related profiles across closely related medicinal species, and may support subsequent studies of interspecies chemical differences and in vivo exposure characteristics after oral administration.",
+    "journal": "Analytical chemistry",
+    "doi": "10.1021/acs.analchem.6c01533",
+    "date": "2026-11-01",
+    "authors": "Wang X, Shen CX, Shao SM, Ma TB, Cui J, Ren QX, Yang H, Gao W.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43010515",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43010515",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metabolome",
+        "method"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metabolome",
+          "method"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5407,
+    "collected_at": "2026-11-22T15:17:10.248796+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-22",
+    "related_dois": [
+      "10.1021/acs.analchem.6c01533"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1021/acs.analchem.6c01893",
+    "title": "Integrating Ion Mobility Mass Spectrometry Data with AlphaFold and Rosetta Improves Protein Complex Structure Prediction.",
+    "abstract": "Ion mobility mass spectrometry (IM-MS) provides valuable structural information about protein shape and size through collision cross section (CCS). However, it lacks atomic level structural detail. While AlphaFold has been successful in predicting monomeric protein structure, it can struggle with modeling protein complexes. To address these limitations, we developed a method that integrates IM-MS data with AlphaFold and Rosetta to improve complex structure prediction. Our approach docks AlphaFold predicted subunits with Rosetta and selects the resulting models with a newly developed score that incorporates experimental or simulated CCS data. Using this strategy, we were able to improve normalized root mean square deviation (RMSD100) values for 26 of 38 (68%) complexes compared to AlphaFold-Multimer. Furthermore, 14 of these systems improved significantly from greater than 4 Å RMSD100 to less than 4 Å. This method demonstrates a robust approach to overcome limitations in complex assembly modeling.",
+    "journal": "Analytical chemistry",
+    "doi": "10.1021/acs.analchem.6c01893",
+    "date": "2026-11-01",
+    "authors": "Narayanasamy A, Drake ZC, Turzo SMBA, Rolland AD, Prell JS, Wysocki VH, Lindert S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43010416",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13758948",
+    "pmid": "43010416",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "prediction",
+        "protein"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5408,
+    "collected_at": "2026-11-22T15:17:10.248796+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-22",
+    "related_dois": [
+      "10.1021/acs.analchem.6c01893"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1021/acsnano.6c13997",
+    "title": "Early Pathway Selection Precedes Conformational Locking in Protein Self-Assembly.",
+    "abstract": "When early intermediates begin to bias subsequent pathways during protein self-assembly remains difficult to resolve experimentally because early-stage processes are transient and poorly accessible. Here, using regenerated silk fibroin as a model system, we experimentally capture and analyze an early nucleation window in which assembly pathways begin to diverge before conformational locking occurs. By combining controlled electric-field perturbation with multiscale structural characterization and coarse-grained simulations, we identify reproducible nanoscale intermediates that mediate pathway selection. Within this window, electric fields bias early assembly kinetics in a nonmonotonic manner, modulating the formation, elongation, and competition of intermediates rather than directly enforcing structure or orientation. Time-resolved measurements show that subsequent growth proceeds primarily through elongation and fusion of existing intermediates, while β-sheet formation and crystallization emerge only at later stages and serve to stabilize pathways that were biased at earlier stages. Together, we locate the emergence of detectable pathway biasing within the nucleation stage and provide a framework for understanding and guiding protein self-assembly under nonequilibrium conditions.",
+    "journal": "ACS nano",
+    "doi": "10.1021/acsnano.6c13997",
+    "date": "2026-11-01",
+    "authors": "Peng R, Zhou L, Bai R, Yang Y, Zhou Y, Zhang H, Wang X, Ren J, Li J, Liu Y, Ling S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43007809",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43007809",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "assembly",
+        "protein"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5409,
+    "collected_at": "2026-11-22T15:17:10.248796+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-22",
+    "related_dois": [
+      "10.1021/acsnano.6c13997"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1002/mp.70751",
+    "title": "Deep learning pulmonary vessel segmentation for contrast-enhanced and non-contrast CT images.",
+    "abstract": "BackgroundAccurate and comprehensive segmentation of pulmonary vasculature is essential for diagnosing various pulmonary diseases and lung surgical planning.PurposeTo develop a deep learning model for pulmonary vessels segmentation based on both computed tomography pulmonary angiography (CTPA) and non-contrast computed tomography (NCCT) data, and to evaluate its performance on a clinical dataset.MethodsIn this retrospective study, we collected 427 cases of chest CT data from different countries and manufacturers, including 213 CTPA cases and 214 NCCT cases. And we designed a CTPA and NCCT ground truth (GT) generation method producing high-accuracy vessel annotation dataset. Then we developed a 3D U-Net based deep learning method with the Vessel Lumen Structure Optimization Module (VLSOM). We numerically evaluated model using metrics including Centerline Recall (Cl-Recall), Centerline DICE (Cl-DICE), Average Symmetric Surface Distance (ASSD) and 95% Hausdorff Distance (HD95) focusing on the integrity of vascular structures. Finally, the model performance was visually assessed in an independent external dataset.ResultsIn the numerical evaluation on the internal test dataset with 57 cases, our model achieved Cl-DICE, Cl-Recall and HD95 values of 0.909 (95% CI [0.904, 0.914]), 0.883 (95% CI [0.873, 0.891]) and 1.861 mm (95% CI [1.674 mm, 2.073 mm]) which is superior to the state of the art (SOTA) baseline model nnU-Net v2 of 0.860 (95% CI [0.852, 0.867]), 0.772 (95% CI [0.760, 0.783])and 2.458 mm (95% CI [2.219 mm, 2.708 mm]) (all p ConclusionsThe proposed pulmonary vessel segmentation algorithm performed well in preserving the connectivity and integrity of the vascular structure on both CTPA and NCCT data with various diseases.Critical relevance statementA vessel centerline topology-enhanced deep segmentation model enables accurate and automatic pulmonary vessel segmentation in both computed tomography pulmonary angiography (CTPA) and non-contrast computed tomography (NCCT) images.",
+    "journal": "Medical physics",
+    "doi": "10.1002/mp.70751",
+    "date": "2026-11-01",
+    "authors": "Ming Y, Luo S, Zhao R, Zhao L, Li B, Xu Q, Song W.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43000676",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43000676",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "annotation",
+        "gene",
+        "method"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5410,
+    "collected_at": "2026-11-22T15:17:10.248796+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-22",
+    "related_dois": [
+      "10.1002/mp.70751"
+    ]
   }
 ]
