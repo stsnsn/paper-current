@@ -318480,5 +318480,289 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "対照転移学習を用いたスペイン語生物医学文献の大規模意味索引化",
     "abstract_ja": "動機生物医学文献の指数関数的な増加に伴い、生物医学研究を進展させる上で自動索引作成が不可欠となっている。英語の生物医学文献においては自動索引作成が大きく進展しているが、高品質な学習データの不足により、非英語の生物医学文献に関する研究は限られている。結果対照転移学習を用いてスペイン語の生物医学文献を自動索引作成するための新たな深層学習フレームワーク、BERTDeCSを提案する。BERTDeCSは、多言語BERT（M-BERT）を利用して多言語表現を生成し、対照学習を通じてM-BERTをスペイン語の生物医学文献ドメインに適応させる。さらに、BERTDeCSは転移学習によりMEDLINEの拡充された英語アノテーション付き文献を活用することで、スペイン語の生物医学文献に対する意味的索引作成能力を向上させる。スペイン語データセットを用いた実験結果から、BERTDeCSは最先端の索引作成手法を凌駕し、BioASQチャレンジにおけるスペイン語の医学意味的索引作成のMESINESPおよびMESINESP2タスクで最高の性能を達成することが示された。ポルトガル語を用いた追加実験により、BERTDeCSがスペイン語と広範な語彙および生物医学用語を共有する密接に関連した言語へ転移可能であるという予備的な証拠が得られた。利用可能性ソースコードは https://github.com/yourh/BERTDeCS および https://doi.org/10.5281/zenodo.23212468 で公開されている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 2",
+        "query": "(JOURNAL:\"microLife\" OR JOURNAL:\"Nucleic Acids Research\" OR JOURNAL:\"NAR Genomics and Bioinformatics\" OR JOURNAL:\"Bioinformatics\" OR JOURNAL:\"Microbes and Environments\" OR JOURNAL:\"Frontiers in Microbiology\" OR JOURNAL:\"Frontiers in Marine Science\" OR JOURNAL:\"mBio\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1093/bioinformatics/btag735",
+    "title": "Revisiting batch effect correction: a structured problem formulation and novel solutions.",
+    "abstract": "MotivationExisting methods for batch effect removal often suffer from an ill-defined problem formulation and rely on unverified assumptions, limiting their robustness and generalizability. This study proposes a principled approach to systematically address these limitations.ResultsWe present two novel methodologies for removing systematic batch effects: an unsupervised approach based on independent component analysis and a supervised approach using a domain adaptation technique. Both methods are grounded in rigorous mathematical principles. Our approaches outperform existing methods across multiple datasets.Availability and implementationThe implementation of our methods, including all code, datasets, experimental workflows, and supplementary material, is available in Python and has been made publicly accessible on GitHub: https://github.com/shaham-lab/revisiting-batch-effect-removal.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag735",
+    "date": "2026-11-01",
+    "authors": "Harrar A, Shaham U.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42878387",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13739054",
+    "pmid": "42878387",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5388,
+    "collected_at": "2026-11-22T06:45:33.032218+00:00",
+    "collected_date": "2026-11-22",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-22",
+    "related_dois": [
+      "10.1093/bioinformatics/btag735"
+    ],
+    "translation": {
+      "title": {
+        "hash": "798b8559a61393d6d4883943c225efb65cafb05a6ac3388477745a17d5dc20b1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-22T07:21:07.028229+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b22dd741fdf84395227251c59bcc3fe7fbcadf96561ce365cec313058aceebbf",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-22T07:21:07.028229+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "バッチ効果補正の再考：構造化された問題定式化と新たな解決策",
+    "abstract_ja": "動機バッチ効果除去の既存手法は、問題設定が不明確であることや、検証されていない仮定に依存していることが多く、その頑健性と汎化性能が制限されている。本研究では、これらの限界に体系的に対処するための原理に基づいたアプローチを提案する。結果系統的なバッチ効果を除去するための2つの新規手法を提示する。すなわち、独立成分分析に基づく教師なしアプローチと、ドメイン適応手法を用いた教師ありアプローチである。両手法ともに、厳密な数学的原理に基づいている。我々のアプローチは、複数のデータセットにおいて既存手法を上回る性能を示す。利用可能性と実装すべてのコード、データセット、実験ワークフロー、および補足資料を含む本手法の実装はPythonで提供されており、GitHubにて公開している：https://github.com/shaham-lab/revisiting-batch-effect-removal。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 2",
+        "query": "(JOURNAL:\"microLife\" OR JOURNAL:\"Nucleic Acids Research\" OR JOURNAL:\"NAR Genomics and Bioinformatics\" OR JOURNAL:\"Bioinformatics\" OR JOURNAL:\"Microbes and Environments\" OR JOURNAL:\"Frontiers in Microbiology\" OR JOURNAL:\"Frontiers in Marine Science\" OR JOURNAL:\"mBio\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1093/nar/gkag1020",
+    "title": "TTPdb: a comprehensive database of targeted therapeutic peptides.",
+    "abstract": "Targeted therapeutic peptides (TTPs) represent a promising therapeutic modality that bridges the gap between small-molecule drugs and macromolecular antibody-based therapeutics by combining high target specificity, superior tissue permeability, and controllable synthesis. Recent advances in chemical modification and computational design have accelerated the clinical translation of TTPs across diverse therapeutic areas, generating multidimensional data that encompass pharmaceutical profiles, structural binding insights, and structure-activity relationships. However, these data remain fragmented across disparate sources, and no dedicated platform exists to systematically integrate them for mechanistic exploration or rational peptide engineering. Here, we present TTPdb, a specialized database that consolidates comprehensive information on TTPs. TTPdb compiles 5366 TTPs (106 approved, 229 clinical, and 5031 preclinical or investigative), which span >600 disease types and are annotated with 3D structures, binding interactions, and physicochemical properties. TTPdb further catalogs peptide structural modifications and pharmacological mechanisms while establishing associations among peptides, targets, and diseases. TTPdb incorporates a multidimensional search module that supports universal keyword queries, structured conditional filtering, and FASTA-based sequence homology searches, with peptides, targets, and diseases as the primary search entities. As a valuable resource for rational peptide design and optimization in AI-driven biomedical research, TTPdb is freely accessible at https://idrblab.org/TTPdb.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1020",
+    "date": "2026-10-24",
+    "authors": "Zhang Y, Li X, Lu W, Mou M, Yuan P, Yang N, Li X, Zhang Z, Wang Y, Zhou Z, Zhou Y, Fu Y, Wang L, Zuo Z, Liu M, Zhu F, Liu J, Zhang Y, Jia Q.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42952464",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42952464",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5403,
+    "collected_at": "2026-11-22T06:45:33.032218+00:00",
+    "collected_date": "2026-11-22",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-22",
+    "related_dois": [
+      "10.1093/nar/gkag1020"
+    ],
+    "translation": {
+      "title": {
+        "hash": "42c93d22d72e0def191081b14e66b53e0adc8415f6586c3150492df3c0850b71",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-22T07:21:07.028229+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "668e7c3a8f2abb425854b462ca9d09d3e37d338dcb35f6098ac2b270d0d709cb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-22T07:21:07.028229+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "TTPdb：標的治療用ペプチドの包括的データベース。",
+    "abstract_ja": "標的治療ペプチド（TTP）は、高い標的特異性、優れた組織透過性、および制御可能な合成を組み合わせることで、低分子医薬品と高分子抗体ベースの治療薬との間の隔たりを埋める有望な治療モダリティである。近年の化学修飾および計算設計の進展により、多様な治療領域におけるTTPの臨床応用が加速し、薬物プロファイル、構造結合に関する知見、および構造活性相関を網羅する多次元データが生成されている。しかし、これらのデータは依然として異なる情報源に断片化されており、機序探索や合理的ペプチド工学のためにそれらを体系的に統合する専用プラットフォームは存在しない。本稿では、TTPに関する包括的な情報を集約した特化型データベース「TTPdb」を提案する。TTPdbは、600種類以上の疾患タイプにわたる5,366種類のTTP（承認済み106種、臨床試験中229種、前臨床または研究段階5,031種）を収録しており、それぞれに3次元構造、結合相互作用、および物理化学的特性がアノテーションされている。さらに、TTPdbはペプチドの構造修飾や薬理学的機序をカタログ化するとともに、ペプチド、標的、および疾患間の関連性を構築している。TTPdbには、汎用的なキーワードクエリ、構造化条件付きフィルタリング、およびFASTAベースの配列相同性検索をサポートする多次元検索モジュールが組み込まれており、ペプチド、標的、および疾患を主要な検索エンティティとしている。AI駆動型の生物医学研究における合理的ペプチドの設計および最適化のための貴重なリソースとして、TTPdbはhttps://idrblab.org/TTPdbにて無料で利用可能である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 2",
+        "query": "(JOURNAL:\"microLife\" OR JOURNAL:\"Nucleic Acids Research\" OR JOURNAL:\"NAR Genomics and Bioinformatics\" OR JOURNAL:\"Bioinformatics\" OR JOURNAL:\"Microbes and Environments\" OR JOURNAL:\"Frontiers in Microbiology\" OR JOURNAL:\"Frontiers in Marine Science\" OR JOURNAL:\"mBio\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "brief-report",
+      "journal article"
+    ],
+    "id": "10.1093/bioinformatics/btag798",
+    "title": "SiSaNA: a Python-based command line interface for single-sample network analysis.",
+    "abstract": "MotivationReconstructing and analyzing single-sample regulatory networks has proven useful for understanding mechanisms of regulatory biology and its disruption in disease but traditionally required a fair amount of programming experience and work from the user.ResultsHere, we present Single-Sample Network Analysis (SiSaNA), a workflow that removes the need of prior programming experience and allows for single-sample regulatory network reconstruction and analysis, all via a command line interface. Using example input files, we walk the user through a tutorial on how to run the SiSaNA pipeline, interpret the results, and obtain high-quality figures summarized in a single HTML file as output.Availability and implementationSiSaNA is freely available to install with pip via the Python Package Index. It is additionally available on GitHub at https://github.com/kuijjerlab/sisana. Example input files can be found at https://doi.org/10.5281/zenodo.17190642.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag798",
+    "date": "2026-11-01",
+    "authors": "Newman NK, Belova T, Kuijjer ML.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42960881",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13750893",
+    "pmid": "42960881",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5389,
+    "collected_at": "2026-11-22T06:45:33.032218+00:00",
+    "collected_date": "2026-11-22",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-22",
+    "related_dois": [
+      "10.1093/bioinformatics/btag798"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a545e0f0d639cf5c3fcd4a22afe5d7a7c23ea285bdd69b3810f5f95a73c6e310",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-22T07:21:07.028229+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d785bbd1ce69224abca761d97761dd097319f0ac9bb7f9bc9f4345ce1749cbfa",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-22T07:21:07.028229+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "SiSaNA: 単一サンプルのネットワーク解析向けPythonベースのコマンドラインインターフェース。",
+    "abstract_ja": "動機単一サンプル調節ネットワークの再構築および解析は、調節生物学のメカニズムや疾患におけるその破綻を理解する上で有用であることが実証されているが、従来は相当なプログラミング経験とユーザー自身の作業を必要としていた。成果本稿では、事前のプログラミング経験を不要とし、コマンドラインインターフェースのみで単一サンプルの調節ネットワークの再構築および解析を可能にするワークフロー「Single-Sample Network Analysis (SiSaNA)」を提案する。サンプル入力ファイルを用いて、SiSaNAパイプラインの実行方法、結果の解釈方法、および単一のHTMLファイルにまとめられた高品質な図を出力として取得する方法について、ユーザー向けのチュートリアルを解説する。利用可能性と実装SiSaNAは、Python Package Indexを通じてpipで無料でインストール可能である。また、GitHub（https://github.com/kuijjerlab/sisana）でも公開されている。サンプル入力ファイルは https://doi.org/10.5281/zenodo.17190642 で入手可能である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 2",
+        "query": "(JOURNAL:\"microLife\" OR JOURNAL:\"Nucleic Acids Research\" OR JOURNAL:\"NAR Genomics and Bioinformatics\" OR JOURNAL:\"Bioinformatics\" OR JOURNAL:\"Microbes and Environments\" OR JOURNAL:\"Frontiers in Microbiology\" OR JOURNAL:\"Frontiers in Marine Science\" OR JOURNAL:\"mBio\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1093/nar/gkag993",
+    "title": "scSpatial: an atlas for single-cell spatial omics.",
+    "abstract": "Single-cell spatial omics (SCSO) has reshaped spatial profiling by enabling simultaneous molecular characterization and spatial mapping at single-cell resolution, providing insights into cellular identities and tissue architecture within native biological contexts. By integrating spatial coordinates with molecular profiles and cell identities, SCSO datasets have been widely used to construct spatially resolved cell atlases, characterize disease-associated tissue remodeling, and map disease-relevant cell populations. However, these SCSO datasets remain fragmented across individual publications, and comprehensive SCSO resources are still lacking. Here, scSpatial was therefore developed as an atlas for SCSO with expert-curated cell annotations and high-resolution spatial mappings. The current release of scSpatial curates a large-scale collection of SCSO data, comprising over 1800 tissue sections from 630 projects generated using 16 spatial technologies; provides >20 million spatially resolved cells annotated into 173 standardized Cell Ontology types; and offers SCSO-tailored analyses and interactive visualizations, including spatial gene expression atlases, cell type distribution maps, spatially variable genes, gene expression correlations, and pathway-level spatial activity profiles. scSpatial is freely accessible to all users without requiring login at https://idrblab.org/scspatial/.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag993",
+    "date": "2026-10-23",
+    "authors": "Sun H, Bei Y, Zhu Z, Deng J, Zhou Y, Mou M, Wei T, Cao H, Yang Q, Yao C, Zhu F.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42922359",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42922359",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5404,
+    "collected_at": "2026-11-22T06:45:33.032218+00:00",
+    "collected_date": "2026-11-22",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-22",
+    "related_dois": [
+      "10.1093/nar/gkag993"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a833e24e3184762f87e5c366ce08c83ec38d1f84802980beec64f4bebd3136e3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-22T07:21:07.028229+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "efdca9fa2f3cca601247ab53fdabf380fc9f388c3ce942446d5b6976ce1ba75e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-22T07:21:07.028229+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "scSpatial: シングルセル空間オミクス用アトラス。",
+    "abstract_ja": "シングルセル空間オミクス（SCSO）は、シングルセル解像度での分子特性解析と空間マッピングを同時に可能にすることで、空間プロファイリングのあり方を一変させ、本来の生物学的コンテキストにおける細胞のアイデンティティや組織構造に関する知見をもたらしてきた。空間座標を分子プロファイルや細胞アイデンティティと統合することで、SCSOデータセットは空間分解能を持つ細胞アトラスの構築、疾患関連の組織リモデリングの特性解析、および疾患に関連する細胞集団のマッピングに広く利用されてきた。しかし、これらのSCSOデータセットは個々の論文間で断片化したままであり、包括的なSCSOリソースは依然として不足している。そこで本研究では、専門家がキュレーションした細胞アノテーションと高解像度の空間マッピングを備えたSCSO用アトラスとして、scSpatialを開発した。現在のscSpatialリリースでは、16種類の空間技術を用いて生成された630のプロジェクトからなる1,800以上の組織切片を含む大規模なSCSOデータコレクションをキュレーションしており、173種類の標準化されたCell Ontologyタイプでアノテーションされた2,000万個以上の空間分解能細胞を提供している。さらに、空間遺伝子発現アトラス、細胞種分布マップ、空間的に変動する遺伝子、遺伝子発現相関、およびパスウェイレベルの空間活性プロファイルなど、SCSOに特化した解析とインタラクティブな可視化機能を提供している。scSpatialは、ログイン不要ですべてのユーザーが https://idrblab.org/scspatial/ から無料で利用可能である。"
   }
 ]
