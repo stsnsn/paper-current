@@ -2155,6 +2155,13 @@
     ]
   },
   {
+    "name": "Current allergy and asthma reports",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Current Alzheimer research",
     "scope": [
       "genomics",
@@ -3511,6 +3518,13 @@
     ]
   },
   {
+    "name": "Glia",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Global change biology",
     "scope": [
       "ecology",
@@ -3632,7 +3646,21 @@
     ]
   },
   {
+    "name": "IEEE transactions on bio-medical engineering",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "IEEE transactions on computational biology and bioinformatics",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "IEEE transactions on cybernetics",
     "scope": [
       "genomics",
       "microbiology"
@@ -4177,6 +4205,13 @@
     ]
   },
   {
+    "name": "IUCrJ",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "JAC-antimicrobial resistance",
     "scope": [
       "genomics",
@@ -4676,6 +4711,13 @@
   },
   {
     "name": "Journal of computational biology : a journal of computational molecular cell biology",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Journal of computational chemistry",
     "scope": [
       "genomics",
       "microbiology"
@@ -7225,6 +7267,13 @@
     ]
   },
   {
+    "name": "Pharmaceutical statistics",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Pharmacogenomics",
     "scope": [
       "genomics",
@@ -8513,6 +8562,13 @@
     "name": "Water research",
     "scope": [
       "ecology",
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Wellcome open research",
+    "scope": [
       "genomics",
       "microbiology"
     ]
