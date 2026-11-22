@@ -448239,5 +448239,349 @@
     "related_dois": [
       "10.1002/mp.70751"
     ]
+  },
+  {
+    "id": "10.1093/ismejo/wrag293",
+    "title": "Crop diversification promotes soil microbial carbon turnover",
+    "abstract": "AbstractAgricultural diversification alters plant residue chemistry and rhizodeposition, with legacy effects on soil organic matter (SOM) cycling. The priming effect (PE) and necromass formation are key processes of SOM dynamics, yet how diversification affects these processes, and SOM persistence remains poorly understood. Using 13C-labelled glucose in a 150-day incubation of soils (0-15 cm) from two contrasting diversification trials (43 and 8 years), we found that diversification increased SOM priming by 153–174% and retention of glucose-derived 13C in microbial necromass by 227–289%. Diversified soils also had more bioavailable C, dissolved organic C, and neutral sugars, stronger stoichiometric nutrient limitation (103% higher C:P imbalance and 15% lower vector angle), and higher microbial activity and N- and P-acquiring enzyme activities. Microbial C use efficiency increased by 65%, while replacing the native microbial community of diversified soils with that of conventional soils reduced CUE by 9% and 45% at the 43- and 8-year sites, respectively.Community-level analyses further linked greater retention of glucose-derived 13C in microbial necromass to putative Discosea and Bacillota co-occurrence patterns. Metagenomic profiling revealed 18–125% higher relative abundances of CAZyme genes involved in degrading plant- and microbial-derived compounds, alongside a modest (~4%) increase in Y-associated functional potential at both sites. Although priming-induced native-C losses exceeded the amount of glucose-derived 13C retained in microbial necromass, the ratio of necromass C retention to priming-induced C loss was 28% higher under diversification than under conventional cropping over the 150-day incubation. Crop diversification thus reshapes microbial C cycling, coupling enhanced native SOM mineralization with greater retention of added C in microbial necromass, making the net effect on SOC dependent on sustained C inputs.",
+    "journal": "The ISME Journal",
+    "doi": "10.1093/ismejo/wrag293",
+    "date": "2026-11-22",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/ismej/advance-article/doi/10.1093/ismejo/wrag293/9108810?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomic",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6594/advanceAccess_4179.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5453,
+    "collected_at": "2026-11-22T15:27:43.938071+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "https://academic.oup.com/rss/site_6594/advanceAccess_4179.xml"
+    ],
+    "first_seen": "2026-11-22",
+    "related_dois": [
+      "10.1093/ismejo/wrag293"
+    ]
+  },
+  {
+    "id": "10.1093/ismeco/ycag343",
+    "title": "Genomic Insights into Estuarine Dimethylsulfide Production via the Hydrogen Sulfide and Methanethiol S-Methylation",
+    "abstract": "AbstractEstuaries are critical for sulfur cycling, yet the microbial basis of dimethylsulfide (DMS) production remains obscure. Here, we reconstructed 2,270 medium-to-high-quality metagenome-assembled genomes from four Chinese estuaries and identified 572 genomes encoding the H2S/methanethiol S-methylation (Mdd) pathway via MddA, MddH, and MddM enzymes. Metagenomic profiling indicated that Mdd-encoding microbes span 26 phyla, constituting an average of 15.9% and 45.5% of the reconstructed microbial communities in water and sediment, respectively. Metatranscriptomic data from global estuaries showed mddH abundance rivaled that of dimethylsulfoniopropionate (DMSP) lyase genes dddP, increased with rising salinity, and exceeded mddA in sediments. Co-occurrence networks identified Mdd-encoding microbes as one of the keystone taxa, frequently co-occurring with denitrifying microbes in sediments. Evolutionary analyses revealed purifying selection acting on mdd genes in estuaries, with higher nucleotide diversity and recombination rates observed in sediments. We also discovered MddA-like proteins in Thorarchaeia from estuarine and other diverse habitats worldwide. Collectively, our findings suggest the Mdd pathway may represent a substantial, previously underappreciated contributor to estuarine DMS production.",
+    "journal": "ISME Communications",
+    "doi": "10.1093/ismeco/ycag343",
+    "date": "2026-11-22",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://academic.oup.com/ismecommun/advance-article/doi/10.1093/ismeco/ycag343/9108799?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenome",
+        "metagenome-assembled genome",
+        "metagenomic",
+        "metatranscriptom",
+        "metatranscriptomic",
+        "microbe",
+        "microbes",
+        "microbial"
+      ],
+      "context": {
+        "marine": [
+          "estuarine"
+        ],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome",
+          "genomic",
+          "metagenom",
+          "metagenome",
+          "metagenomic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6596/advanceAccess_4180.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5454,
+    "collected_at": "2026-11-22T15:27:43.938071+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "https://academic.oup.com/rss/site_6596/advanceAccess_4180.xml"
+    ],
+    "first_seen": "2026-11-22",
+    "related_dois": [
+      "10.1093/ismeco/ycag343"
+    ]
+  },
+  {
+    "id": "10.1093/ismeco/ycag277",
+    "title": "Macrofaunal bioturbation modulates microbial metabolic potential in arid mangrove sediments",
+    "abstract": "AbstractBioturbation by benthic organisms substantially alters the physical and biogeochemical properties of mangrove sediments. Through burrowing and sediment reworking, bioturbators increase oxygen penetration into otherwise anoxic, waterlogged sediments and redistribute organic matter throughout the sediment profile. Although previous studies have shown that bioturbation modifies microbial community composition, its consequences for microbial functional potential remain poorly understood. Using metagenomics, we confirmed that crab bioturbation reshaped the composition of the sediment prokaryotic community and showed that this restructuring was accompanied by pronounced, depth-dependent shifts in metabolic potential. Gene- and pathway-level analyses indicated that bioturbation redirected bacterial and archaeal functional potential away from anaerobic degradation of complex organic matter and towards more metabolically versatile and oxidative processes, with the enrichment of functions associated with respiratory and central carbon metabolism, the utilisation of diverse carbon- and nitrogen-containing compounds, and traits potentially involved in nutrient mobilisation and plant growth promotion. Consistent with this functional-repertoire transition, diel gas-flux measurements revealed significantly higher CO2 emissions from bioturbated sediments, whereas CH4 emissions were not affected. We propose that these shifts enable sediment microbial communities to exploit newly available substrates, creating a more nutritionally favourable sediment milieu for both microbial communities and other sediment-dwellers, including mangrove trees. Because arid mangroves are typically constrained by patchy nutrient availability and persistent abiotic stress, including high salinity and aridity, these bioturbation-driven microbial functional shifts may play an important role in sustaining mangrove productivity and could represent a general mechanism linking ecosystem engineering to microbiome-mediated nutrient cycling across coastal sediments.",
+    "journal": "ISME Communications",
+    "doi": "10.1093/ismeco/ycag277",
+    "date": "2026-11-20",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/ismecommun/advance-article/doi/10.1093/ismeco/ycag277/9104284?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "archaea",
+        "archaeal",
+        "bacteria",
+        "bacterial",
+        "metagenom",
+        "metagenomics",
+        "microbial",
+        "microbiome",
+        "prokaryotic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6596/advanceAccess_4180.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5455,
+    "collected_at": "2026-11-22T15:27:43.938071+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "https://academic.oup.com/rss/site_6596/advanceAccess_4180.xml"
+    ],
+    "first_seen": "2026-11-22",
+    "related_dois": [
+      "10.1093/ismeco/ycag277"
+    ]
+  },
+  {
+    "id": "10.1093/ismehm/aazag024",
+    "title": "Pseudomonas aeruginosa lasR is a keystone gene in polymicrobial cultures",
+    "abstract": "AbstractThe airways of people with cystic fibrosis (CF) are often co-infected by Pseudomonas aeruginosa and a variety of other co-habiting microbes; these infections are polymicrobial. P. aeruginosa isolates from the CF airways are also known to commonly acquire mutations in the quorum sensing regulator, lasR. In this work, we show that loss of lasR function has a profound impact on the stability of inter-species interactions in a polymicrobial ecosystem, and in particular, on the dynamics of a common CF-associated fungus, Candida albicans. Titres of C. albicans were stable in the presence of wild type P. aeruginosa and Staphylococcus aureus. However, when wild type P. aeruginosa was replaced by a ΔlasR mutant, C. albicans titres progressively declined over time. RNAseq analyses implicated a LasR-regulated Type VI Secretion System effector cluster (PA3904-PA3908) in this fungal instability, and indeed, ectopic expression of PA3904-PA3908 in the ΔlasR mutant reversed this decline in C. albicans titres. We also noted that challenge of the polymicrobial cultures with a clinically-relevant combination of colistin and ciprofloxacin led to a fungal bloom in the poly-cultures. This bloom was abolished in the ΔlasR mutant, but was restored by ectopic expression of the PA3904-PA3908 cluster of ORFs. Finally, we show that whereas wild type P. aeruginosa is relatively agnostic to the presence of other microbes, the ΔlasR mutant is not and undergoes substantial transcriptional reprogramming. Our data indicate that lasR has a large and previously unrecognised impact on inter-species interactions. We therefore propose that lasR is an ecological keystone gene.",
+    "journal": "ISME Host Microbe",
+    "doi": "10.1093/ismehm/aazag024",
+    "date": "2026-11-22",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/ismehm/advance-article/doi/10.1093/ismehm/aazag024/9108800?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Candida",
+        "Pseudomonas",
+        "fungal",
+        "microbe",
+        "microbes"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6795/advanceAccess_4237.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5456,
+    "collected_at": "2026-11-22T15:27:43.938071+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "https://academic.oup.com/rss/site_6795/advanceAccess_4237.xml"
+    ],
+    "first_seen": "2026-11-22",
+    "related_dois": [
+      "10.1093/ismehm/aazag024"
+    ]
+  },
+  {
+    "id": "10.1038/s41467-026-79404-w",
+    "title": "A quantitative deep-learning-based framework reveals a continuum of chromatin sensitivities across transcription factors",
+    "abstract": "The authors develop a deep-learning-based framework revealing that TF binding sensitivity to chromatin is a continuum rather than a binary feature, and that binding patterns can be explained by a mixture of hierarchical and cooperative mechanisms.",
+    "journal": "Nature Communications",
+    "doi": "10.1038/s41467-026-79404-w",
+    "date": "2026-11-22",
+    "authors": "Dirk Schübeler",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.nature.com/articles/s41467-026-79404-w",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "chromatin",
+        "framework"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.nature.com/ncomms.rss",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5457,
+    "collected_at": "2026-11-22T15:27:43.938071+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "https://www.nature.com/ncomms.rss"
+    ],
+    "first_seen": "2026-11-22",
+    "related_dois": [
+      "10.1038/s41467-026-79404-w"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.16.767117",
+    "title": "Remarkable Biosynthetic Diversity in the Bionectriaceae: Uncovering the genomic basis of antipathogen bioactivity of cacao fungal endophytes Clonostachys rosea and Waltergamsia zeylanica.",
+    "abstract": "Cacao (Theobroma cacao) production in tropical countries is threatened by fungal diseases caused by Moniliophthora roreri and M. perniciosa. Two cacao pod endophytes from Bionectriaceae, Clonostachys rosea TCF417 and Waltergamsia zeylanica TCF400, exhibit growth antagonism towards M. roreri; however, the genetic basis underlying the bioactivity of these strains has not been addressed. Here, we aimed to identify biosynthetic gene clusters (BGCs) potentially associated with the antifungal bioactivity of these two strains and performed a comparative analysis with 30 publicly available Bionectriaceae genomes using BiG-SCAPE. Whole-genome sequencing using Oxford Nanopore and Illumina technologies, resulted in assemblies of 52.9 Mb (C. rosea TCF417) and 31 Mb (W. zeylanica TCF400). Genome annotation was conducted using Funannotate, and secondary metabolite BGCs were predicted using antiSMASH. The two cacao endophytes harbored 92 BGCs (C. rosea: 67; W. zeylanica: 25), indicating remarkable biosynthetic diversity. Across all 32 genomes, 1,523 BGC-containing regions were identified, most belonging to T1PKS clusters. Network-based clustering revealed 209 gene cluster families (GCFs), of which 52 corresponded to previously characterized BGCs. Conserved BGCs for antifungal compounds, including sorbicillinoids and verticillins, were identified in cacao endophytes and across Bionectriaceae. Additionally, an antifungal assay conducted here demonstrated that verticillin D from C. rosea TCF417 exhibited growth inhibition of plant pathogens Moniliophthora roreri and Mycena citricolor. With about 75% of unassigned GCFs, our results reveal a largely untapped biosynthetic repertoire in the Bionectriaceae and identify verticillin D as a candidate contributor to the antagonism of C. rosea against plant pathogens.",
+    "journal": "",
+    "doi": "10.64898/2026.11.16.767117",
+    "date": "2026-11-22",
+    "authors": "Atencio, L. A., Castillo, H. E., Barrios-Jaen, M., Quintero, I., Martinez, A., Rodriguez, C., Gutierrez, M., Mejia, L. C.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.16.767117v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungal"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "assemblies",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5458,
+    "collected_at": "2026-11-22T15:27:43.938071+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-22",
+    "related_dois": [
+      "10.64898/2026.11.16.767117"
+    ]
   }
 ]
