@@ -320117,5 +320117,161 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "媽祖祭は高齢観光客のウェルビーイングにどのような影響を与えるか？回復的体験の視点からの実証的研究",
     "abstract_ja": "要旨　回復環境研究はこれまで主に自然環境を対象としており、短期間・高密度な民俗祭礼や高齢者層への注目は限定的であった。本研究では、刺激－生物－反応（S-O-R）フレームワークに基づき、注意回復理論と場所への愛着理論を統合し、「場所への愛着と心理的回復を通じた知覚的回復環境、および快楽的ウェルビーイング」という系列的媒介モデルを構築した。梅州島の媽祖祭を事例とし、55歳以上の高齢観光客552名を対象に質問紙調査を実施し、部分最小二乗構造方程式モデリング（PLS-SEM）を用いて仮説を検証した。その結果、知覚的回復環境は、直接的な情動的獲得経路と、場所への愛着および心理的回復を介した逐次的な認知・情動経路という二つのメカニズムを通じて、快楽的ウェルビーイングを高めることが示された。可読性は、祭礼という文脈において強固な説明力を示した。短期間の祭礼参加は主に注意力の回復をもたらす一方、深い心理的回復は滞在期間の制限によって制約を受ける。理論面では、本研究は「祭礼回復体験の二経路モデル」を提唱し、回復環境理論の適用範囲を自然景観から文化祭礼の場へと拡張するとともに、時間的制約と認知的加齢が回復経路をどのように形成するかを明らかにした。これにより、文化的に濃密な観光文脈における高齢者のウェルビーイング生成を理解するための新たな理論的枠組みを提示した。実践面では、本知見は民俗祭礼空間の高齢者に配慮した設計に向けた具体的な道筋を示すとともに、民俗文化観光資源を高齢者向けの公的なメンタルヘルス介入ツールへと転換するための実証的根拠を提供し、アクティブ・エイジング社会サービスシステムの改善に寄与するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.26.762091",
+    "title": "EpiRank: partner-agnostic surface-patch retrieval for epitope prediction of protein binding interfaces",
+    "abstract": "Structure-based interface predictors are normally reported as a single pooled ROC AUC over a residue test set. For a protein designer the operative question is different and much harder:  given one target chain, will the top-ranked surface patch be a real binding site? We built EpiRank, a partner-agnostic epitope predictor, on HumanPPI — 29,246 predicted human dimers, 12,296 target chains, 4.18 M residues — using only single-chain geometry and physicochemistry (170 features, no partner, no sequence search, no structural alphabet), and evaluated it as a retrieval problem with homology- and partner-graph-controlled splits, on the 3,529 chains that survive an explicit partner-contamination filter. The model places a real epitope in its top-ranked patch 64 % of the time. That number is far less informative than it looks. Compact patches placed at random hit a real epitope 41 % of the time under the same rule, so the model’s lift is 1.57×, not 64 %; 54 % of all predicted patches land on nothing; and when the same chains are scored by models trained on a 2,000-chain and an 11,669-chain superset, a substantial fraction change answer while the aggregate barely moves. We document four specific ways this task invites overstatement — partner-graph percolation across splits, single-linkage homology percolation at the conventional 30 % identity threshold, a count-only hit rule that rewards spatial smoothing rather than signal, and hotspot precision conditioned on success, which ranks a random baseline  above the trained model. Each was hit during development and each inverted a conclusion we had already drawn. We argue that interface-prediction papers should report lift over a geometry-matched random baseline, patch precision, and per-target stability alongside AUC, and we release the evaluation harness that computes them.",
+    "journal": "",
+    "doi": "10.64898/2026.10.26.762091",
+    "date": "2026-10-31",
+    "authors": "Lin B, Lu D.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354937",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "prediction",
+        "predictor",
+        "protein",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "prediction",
+          "predictor",
+          "protein",
+          "sequence"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5438,
+    "collected_at": "2026-11-22T21:45:40.750776+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-22",
+    "related_dois": [
+      "10.64898/2026.10.26.762091"
+    ],
+    "translation": {
+      "title": {
+        "hash": "17b16e21ba23684b63c09886e8232ff0351b35bea8e30d95ba1d64df2c3ee036",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-22T22:21:08.521529+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "784d5d28dd51221718613abee9987fc1df646e3a2a1641729c7da78033e9e0b1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-22T22:21:08.521529+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "EpiRank: タンパク質結合界面のエピトープ予測に向けたパートナー非依存型表面パッチ検索",
+    "abstract_ja": "構造ベースのインターフェース予測器は、通常、残基テストセットにおける単一のプール済みROC AUCとして報告される。タンパク質設計者にとっての本質的な問いは異なり、はるかに困難である。すなわち、ある標的鎖が与えられたとき、最上位にランクされた表面パッチが実際の結合部位となるか、ということだ。我々は、HumanPPI（予測されたヒト二量体29,246個、標的鎖12,296本、残基数418万個）を対象に、単一鎖の幾何学構造と物理化学的解析のみ（170個の特徴量、パートナーなし、配列検索なし、構造アルファベットなし）を用いて、パートナー非依存型のエピトープ予測器EpiRankを構築した。そして、明示的なパートナー混入フィルタを通過した3,529本の鎖を用い、ホモロジーおよびパートナーグラフで制御された分割による検索問題として評価を行った。このモデルは、最上位のパッチに実際のエピトープを割り当てる確率が64%であった。この数値は、見かけほど情報量が多くはない。同じルールの下でランダムに配置されたコンパクトなパッチが実際のエピトープにヒットする確率は41%であり、したがってモデルのリフトは64%ではなく1.57倍となる。また、予測されたパッチの54%は何もヒットせず、2,000本および11,669本のスーパーセットで学習させたモデルで同じ鎖をスコアリングしたところ、かなりの割合で回答が変化した一方で、集計値はほとんど変動しなかった。我々は、このタスクにおいて過大評価が生じやすい4つの具体的な要因――分割をまたぐパートナーグラフのパーコレーション、従来の同一性閾値30%における単一リンクホモロジーのパーコレーション、シグナルではなく空間的な平滑化を評価するカウントのみのヒットルール、および成功条件付きのホットスポット精度（これによりランダムなベースラインが学習済みモデルより上位にランクされる）――を報告する。これらはいずれも開発過程でヒットしており、それぞれが我々が既に導き出していた結論を覆す結果となった。我々は、インターフェース予測に関する論文において、AUCと併せて、幾何学的に一致させたランダムベースラインに対するリフト、パッチの精度、および標的ごとの安定性を報告すべきであると主張し、これらを算出する評価ハーネスを公開する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.28.762655",
+    "title": "EMBER: Contextualized gene representations enable compositional prediction across cellular perturbations",
+    "abstract": "Predicting the effects of individual and combined perturbations is central to identifying context-specific vulnerabilities and designing targeted interventions. Yet learning gene representations that integrate functional relationships with cellular state and transfer across perturbation tasks remains challenging. Here, we present EMBER, a gene-centric foundation model that learns context-dependent functional representations of genes. EMBER combines interaction-guided contrastive learning with masked expression reconstruction during pretraining on a single-cell corpus curated for diversity and balanced sampling across cell types and experimental batches. EMBER decouples gene representation learning from task-specific prediction through a composable embedding framework: the pre-trained encoder remains frozen, while lightweight probes combine contextualized gene embeddings to predict individual and combined perturbation effects. The same pretrained representations support single-gene perturbation-response prediction, digenic interaction prediction, and multi-target drug-response prediction. EMBER improves cross-context perturbation-response prediction and genetic-interaction ranking relative to evaluated baselines. EMBER also prioritized  SCFD1 , a mediator of autophagosome–lysosome fusion, as a candidate dependency during  mTOR inhibition. Together, these results establish contextualized gene embeddings as reusable building blocks for modeling genetic and pharmacological perturbations, supporting the prioritization of genetic interactions and context-specific interventions for experimental testing.",
+    "journal": "",
+    "doi": "10.64898/2026.10.28.762655",
+    "date": "2026-10-31",
+    "authors": "Ho N, Xing EP, Ma J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354443",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "gene",
+        "prediction"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "gene",
+          "prediction"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5440,
+    "collected_at": "2026-11-22T21:45:40.750776+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-22",
+    "related_dois": [
+      "10.64898/2026.10.28.762655"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b0603004a7db2f60b22270c8881d20a4a7dc921df3a07d5c6d9076a5d30d1acd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-22T22:21:08.521529+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "fd7954b5a5243060a5407ac56901df25788b29b424433e85507582c40565b69f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-22T22:21:08.521529+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "EMBER: 文脈化された遺伝子表現により、細胞摂動にわたる組成予測が可能となる",
+    "abstract_ja": "個々の摂動および複合摂動の影響を予測することは、コンテキスト固有の脆弱性を特定し、標的を絞った介入策を設計する上で極めて重要である。しかし、細胞状態との機能的関係を統合し、異なる摂動タスク間でも転移可能な遺伝子表現を学習させることは依然として困難な課題である。本研究では、遺伝子のコンテキスト依存的な機能的表現を学習する遺伝子中心の基盤モデル「EMBER」を提案する。EMBERは、多様性が確保され、細胞種や実験バッチ間でバランスの取れたサンプリングが行われたシングルセルコーパスを用いた事前学習において、相互作用誘導型対照学習とマスク付き発現再構成を組み合わせた。EMBERは、構成可能な埋め込みフレームワークを通じて、遺伝子表現の学習とタスク固有の予測を分離している。すなわち、事前学習済みエンコーダは凍結されたままであり、軽量なプローブがコンテキスト化された遺伝子埋め込みを組み合わせて、個々の摂動および複合摂動の影響を予測する。同一の事前学習済み表現は、単一遺伝子の摂動応答予測、二遺伝子間相互作用予測、および多標的薬物応答予測を支える。EMBERは、評価したベースラインと比較して、クロスコンテキストにおける摂動応答予測および遺伝的相互作用のランキング性能を向上させる。また、EMBERはmTOR阻害時の依存候補として、オートファゴソームとリソソームの融合の媒介因子であるSCFD1を優先した。以上の結果は、コンテキスト化された遺伝子埋め込みが遺伝的および薬理学的摂動のモデリングにおける再利用可能な構成要素であることを立証するものであり、実験検証における遺伝的相互作用およびコンテキスト固有の介入の優先順位付けを裏付けるものである。"
   }
 ]
