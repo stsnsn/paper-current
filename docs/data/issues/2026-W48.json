@@ -6,131 +6,6 @@
     "addition_tracking_since": "2026-11-08T16:41:37.586944+09:00",
     "addition_history": [
       {
-        "at": "2026-11-21T06:09:17.948355+09:00",
-        "papers": [
-          {
-            "id": "10.3389/fmars.2026.2006926",
-            "preprint": false
-          },
-          {
-            "id": "10.1038/s41579-026-01399-4",
-            "preprint": false
-          },
-          {
-            "id": "10.1111/1751-7915.70485",
-            "preprint": false
-          },
-          {
-            "id": "10.1128/mbio.01926-26",
-            "preprint": false
-          },
-          {
-            "id": "10.64898/2026.11.19.767919",
-            "preprint": true
-          },
-          {
-            "id": "10.3389/fmicb.2026.1949464",
-            "preprint": false
-          },
-          {
-            "id": "10.1093/ismeco/ycag339",
-            "preprint": false
-          },
-          {
-            "id": "10.3389/fmicb.2026.1992822",
-            "preprint": false
-          },
-          {
-            "id": "10.1128/mbio.02359-26",
-            "preprint": false
-          },
-          {
-            "id": "10.1093/bioinformatics/btag832",
-            "preprint": false
-          },
-          {
-            "id": "10.1128/mbio.02574-26",
-            "preprint": false
-          },
-          {
-            "id": "10.1093/bioinformatics/btag841",
-            "preprint": false
-          },
-          {
-            "id": "10.64898/2026.11.19.767875",
-            "preprint": true
-          },
-          {
-            "id": "10.1093/bioinformatics/btag844",
-            "preprint": false
-          },
-          {
-            "id": "10.1128/mbio.01248-26",
-            "preprint": false
-          },
-          {
-            "id": "10.3389/fmicb.2026.1967134",
-            "preprint": false
-          },
-          {
-            "id": "10.1128/mbio.01991-26",
-            "preprint": false
-          },
-          {
-            "id": "10.1093/nar/gkag1015",
-            "preprint": false
-          },
-          {
-            "id": "10.1093/nar/gkag1011",
-            "preprint": false
-          },
-          {
-            "id": "10.3389/fmicb.2026.1959843",
-            "preprint": false
-          },
-          {
-            "id": "10.1093/femsre/fuag063",
-            "preprint": false
-          },
-          {
-            "id": "10.1038/s41522-026-01201-6",
-            "preprint": false
-          },
-          {
-            "id": "10.64898/2026.11.19.767955",
-            "preprint": true
-          },
-          {
-            "id": "10.1093/ismejo/wrag277",
-            "preprint": false
-          },
-          {
-            "id": "10.1186/s42523-026-00648-4",
-            "preprint": false
-          },
-          {
-            "id": "10.1093/femsml/uqag041",
-            "preprint": false
-          },
-          {
-            "id": "10.1093/ismejo/wrag291",
-            "preprint": false
-          },
-          {
-            "id": "10.1128/mbio.02302-26",
-            "preprint": false
-          },
-          {
-            "id": "10.1038/s41522-026-01200-7",
-            "preprint": false
-          },
-          {
-            "id": "10.3389/fmicb.2026.1938090",
-            "preprint": false
-          }
-        ]
-      },
-      {
         "at": "2026-11-21T11:53:45.948336+09:00",
         "papers": [
           {
@@ -467,20 +342,49 @@
             "preprint": true
           }
         ]
+      },
+      {
+        "at": "2026-11-23T07:23:09.742625+09:00",
+        "papers": [
+          {
+            "id": "10.64898/2026.10.28.762655",
+            "preprint": true
+          },
+          {
+            "id": "10.3389/fmicb.2026.1995610",
+            "preprint": false
+          },
+          {
+            "id": "10.1093/bib/bbag613",
+            "preprint": false
+          },
+          {
+            "id": "10.64898/2026.10.26.762091",
+            "preprint": true
+          },
+          {
+            "id": "10.21203/rs.3.rs-10760302/v1",
+            "preprint": true
+          },
+          {
+            "id": "10.3389/fmicb.2026.1977925",
+            "preprint": false
+          }
+        ]
       }
     ],
     "date": "2026-11-23",
     "publication_mode": "daily",
-    "updated_at": "2026-11-23T00:54:03.538913+09:00",
-    "daily_updated_at": "2026-11-23T00:54:03.538913+09:00",
+    "updated_at": "2026-11-23T07:23:09.742625+09:00",
+    "daily_updated_at": "2026-11-23T07:23:09.742625+09:00",
     "week_ends_at": "2026-11-30T00:00:00+09:00",
     "added_ids": [
-      "10.1093/ismeco/ycag343",
-      "10.1093/ismehm/aazag024",
-      "10.1038/s41467-026-79404-w",
-      "10.1093/ismejo/wrag293",
-      "10.1093/ismeco/ycag277",
-      "10.64898/2026.11.16.767117"
+      "10.64898/2026.10.28.762655",
+      "10.3389/fmicb.2026.1995610",
+      "10.1093/bib/bbag613",
+      "10.64898/2026.10.26.762091",
+      "10.21203/rs.3.rs-10760302/v1",
+      "10.3389/fmicb.2026.1977925"
     ],
     "added_date": "2026-11-23"
   },
@@ -977,6 +881,518 @@
         "Journal of the European Academy of Dermatology and Venereology : JEADV",
         "Cancer immunology, immunotherapy : CII",
         "International immunopharmacology"
+      ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC bioinformatics",
+          "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "preprint"
+      ],
+      "id": "10.64898/2026.10.28.762655",
+      "title": "EMBER: Contextualized gene representations enable compositional prediction across cellular perturbations",
+      "abstract": "Predicting the effects of individual and combined perturbations is central to identifying context-specific vulnerabilities and designing targeted interventions. Yet learning gene representations that integrate functional relationships with cellular state and transfer across perturbation tasks remains challenging. Here, we present EMBER, a gene-centric foundation model that learns context-dependent functional representations of genes. EMBER combines interaction-guided contrastive learning with masked expression reconstruction during pretraining on a single-cell corpus curated for diversity and balanced sampling across cell types and experimental batches. EMBER decouples gene representation learning from task-specific prediction through a composable embedding framework: the pre-trained encoder remains frozen, while lightweight probes combine contextualized gene embeddings to predict individual and combined perturbation effects. The same pretrained representations support single-gene perturbation-response prediction, digenic interaction prediction, and multi-target drug-response prediction. EMBER improves cross-context perturbation-response prediction and genetic-interaction ranking relative to evaluated baselines. EMBER also prioritized  SCFD1 , a mediator of autophagosome–lysosome fusion, as a candidate dependency during  mTOR inhibition. Together, these results establish contextualized gene embeddings as reusable building blocks for modeling genetic and pharmacological perturbations, supporting the prioritization of genetic interactions and context-specific interventions for experimental testing.",
+      "journal": "",
+      "doi": "10.64898/2026.10.28.762655",
+      "date": "2026-10-31",
+      "authors": "Ho N, Xing EP, Ma J.",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://europepmc.org/article/PPR/PPR1354443",
+      "preprint": true,
+      "review": false,
+      "pmcid": "",
+      "pmid": "",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "bioinformatics_method_or_resource",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "gene",
+          "prediction"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "gene",
+            "prediction"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "collection_order": 5440,
+      "collected_at": "2026-11-22T21:45:40.750776+00:00",
+      "collected_date": "2026-11-23",
+      "sources": [
+        "Europe PMC bioinformatics"
+      ],
+      "first_seen": "2026-11-22",
+      "related_dois": [
+        "10.64898/2026.10.28.762655"
+      ],
+      "translation": {
+        "title": {
+          "hash": "b0603004a7db2f60b22270c8881d20a4a7dc921df3a07d5c6d9076a5d30d1acd",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-22T22:21:08.521529+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "fd7954b5a5243060a5407ac56901df25788b29b424433e85507582c40565b69f",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-22T22:21:08.521529+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "EMBER: 文脈化された遺伝子表現により、細胞摂動にわたる組成予測が可能となる",
+      "abstract_ja": "個々の摂動および複合摂動の影響を予測することは、コンテキスト固有の脆弱性を特定し、標的を絞った介入策を設計する上で極めて重要である。しかし、細胞状態との機能的関係を統合し、異なる摂動タスク間でも転移可能な遺伝子表現を学習させることは依然として困難な課題である。本研究では、遺伝子のコンテキスト依存的な機能的表現を学習する遺伝子中心の基盤モデル「EMBER」を提案する。EMBERは、多様性が確保され、細胞種や実験バッチ間でバランスの取れたサンプリングが行われたシングルセルコーパスを用いた事前学習において、相互作用誘導型対照学習とマスク付き発現再構成を組み合わせた。EMBERは、構成可能な埋め込みフレームワークを通じて、遺伝子表現の学習とタスク固有の予測を分離している。すなわち、事前学習済みエンコーダは凍結されたままであり、軽量なプローブがコンテキスト化された遺伝子埋め込みを組み合わせて、個々の摂動および複合摂動の影響を予測する。同一の事前学習済み表現は、単一遺伝子の摂動応答予測、二遺伝子間相互作用予測、および多標的薬物応答予測を支える。EMBERは、評価したベースラインと比較して、クロスコンテキストにおける摂動応答予測および遺伝的相互作用のランキング性能を向上させる。また、EMBERはmTOR阻害時の依存候補として、オートファゴソームとリソソームの融合の媒介因子であるSCFD1を優先した。以上の結果は、コンテキスト化された遺伝子埋め込みが遺伝的および薬理学的摂動のモデリングにおける再利用可能な構成要素であることを立証するものであり、実験検証における遺伝的相互作用およびコンテキスト固有の介入の優先順位付けを裏付けるものである。",
+      "answer_journal": null,
+      "question_type": "forecast",
+      "options": [
+        "Revista espanola de salud publica",
+        "Mathematical biosciences",
+        "ACS omega",
+        "Human immunology"
+      ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC bioinformatics",
+          "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "research-article",
+        "journal article"
+      ],
+      "id": "10.3389/fmicb.2026.1995610",
+      "title": "Characteristics of <i>Klebsiella</i> spp. from sheep flocks in northern China.",
+      "abstract": "BackgroundKlebsiella spp. are Gram-negative opportunistic pathogens that affect both humans and animals. However, data on their antimicrobial resistance and virulence characteristics in sheep, particularly in China, remain limited.MethodsIn 2024, 421 sheep fecal samples were collected from six regions in northern China. Klebsiella spp. were isolated and identified, followed by antimicrobial susceptibility testing and PCR screening for virulence-associated genes. The pathogenic potential of selected isolates was evaluated using the Galleria mellonella infection model. Whole-genome sequencing was performed on 26 selected isolates to characterize their antimicrobial resistance and virulence determinants.ResultsKlebsiella spp. were isolated from 120 samples, corresponding to an overall detection rate of 28.5%, including 85 Klebsiella pneumoniae isolates (70.8%, 85/120). All isolates were resistant to sulfamethoxazole, with high resistance to tetracycline (76.7%), florfenicol (42.5%), and ciprofloxacin (41.7%). Resistance to tigecycline (10.0%) and polymyxin B (5.8%) was also observed at lower levels. Overall, 64.2% of the isolates exhibited multidrug resistance. PCR screening revealed virulence-associated genes, including iucA (10.8%), rmpA (8.3%), peg-344 (0.8%), and iroB (3.3%). Based on their virulence-associated gene profiles, 14 isolates were selected for further analysis, of which 11 exhibited high pathogenic potential in the Galleria mellonella infection model. Whole-genome sequencing revealed diverse virulence and antimicrobial resistance determinants. No plasmid-mediated resistance determinants related to polymyxin B (e.g., mcr-like genes) or recognized tigecycline resistance determinants were identified in the genomes. In the isolates analyzed in this study, mutations in lipid A modification and regulatory genes, including arnT and pmrA/pmrB, may have contributed to polymyxin B resistance, while mutations in efflux pump-associated genes, including oqxA/oqxB, acrA, and acrR, may have contributed to tigecycline resistance.ConclusionMultidrug resistance and pathogenic potential coexist among Klebsiella spp. isolated from healthy sheep in northern China. These findings suggest that sheep-associated Klebsiella may serve as reservoirs of clinically relevant antimicrobial resistance and virulence determinants, highlighting the need for continued surveillance and prudent antimicrobial use in livestock.",
+      "journal": "Frontiers in Microbiology",
+      "doi": "10.3389/fmicb.2026.1995610",
+      "date": "2026-10-30",
+      "authors": "Wang HT, Yu HL, Guo L, Wang XY, Tang LY, Yang MT, Tan WX, Shang KM, Ni HB, Yao GZ, Li Y, Liu R.",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://europepmc.org/article/MED/43031909",
+      "preprint": false,
+      "review": false,
+      "pmcid": "PMC13759811",
+      "pmid": "43031909",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "genom",
+            "genome"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "collection_order": 5443,
+      "collected_at": "2026-11-22T21:45:40.750776+00:00",
+      "collected_date": "2026-11-23",
+      "sources": [
+        "Europe PMC bioinformatics"
+      ],
+      "first_seen": "2026-11-22",
+      "related_dois": [
+        "10.3389/fmicb.2026.1995610"
+      ],
+      "translation": {
+        "title": {
+          "hash": "a1080bcf1c114aadc5ee3e9a36746fd53cd6efd2681392b99ea124c73241372a",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-22T22:17:46.952821+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "ab466a890068f6f4dfb751a45ed82006c1e00f4e0b09b9cedf392abc26236552",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-22T22:17:46.952821+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "中国北部の羊群における<i>Klebsiella</i>属菌の特性",
+      "abstract_ja": "背景Klebsiella属菌は、ヒトおよび動物の双方に影響を及ぼすグラム陰性の日和見病原体である。しかし、特に中国におけるヒツジの抗菌薬耐性および病原性特性に関するデータは依然として限られている。方法2024年、中国北部の6地域から421検体のヒツジ糞便検体を採取した。Klebsiella属菌を分離・同定し、続いて抗菌薬感受性試験および病原性関連遺伝子のPCRスクリーニングを実施した。選定した分離株の病原性ポテンシャルを、Galleria mellonella感染モデルを用いて評価した。選定した26株の分離株に対して全ゲノムシーケンシングを行い、その抗菌薬耐性および病原性決定因子を特性評価した。結果120検体からKlebsiella属菌が分離され、全体の検出率は28.5%であった。このうち、Klebsiella pneumoniae分離株は85株（70.8%、85/120）であった。すべての分離株がスルファメトキサゾールに耐性を示し、テトラサイクリン（76.7%）、フロルフェニコール（42.5%）、およびシプロフロキサシン（41.7%）に対して高い耐性を有していた。また、低レベルでチゲサイクリン（10.0%）およびポリミキシンB（5.8%）への耐性も認められた。全体として、分離株の64.2%が多剤耐性を示した。PCRスクリーニングにより、iucA（10.8%）、rmpA（8.3%）、peg-344（0.8%）、およびiroB（3.3%）を含む病原性関連遺伝子が同定された。病原性関連遺伝子プロファイルに基づき、14株をさらなる解析対象として選定したところ、そのうち11株がGalleria mellonella感染モデルにおいて高い病原性ポテンシャルを示した。全ゲノムシーケンシングにより、多様な病原性および抗菌薬耐性決定因子が明らかになった。ゲノム中に、ポリミキシンBに関連するプラスミド媒介性耐性決定因子（例：mcr様遺伝子）や、既知のチゲサイクリン耐性決定因子は同定されなかった。本研究で解析した分離株において、脂質A修飾および調節遺伝子（arnTおよびpmrA/pmrBを含む）の変異がポリミキシンB耐性に寄与した可能性があり、一方で排出ポンプ関連遺伝子（oqxA/oqxB、acrA、およびacrRを含む）の変異がチゲサイクリン耐性に寄与した可能性がある。結論中国北部の健康なヒツジから分離されたKlebsiella属菌において、多剤耐性と病原性ポテンシャルが共存している。これらの知見は、ヒツジ関連のKlebsiellaが臨床的に重要な抗菌薬耐性および病原性決定因子のリザーバーとなり得ることを示唆しており、家畜における継続的なサーベイランスと慎重な抗菌薬使用の必要性を強調するものである。",
+      "answer_journal": "Frontiers in Microbiology",
+      "question_type": "published",
+      "options": [
+        "Frontiers in Microbiology",
+        "Journal of medical Internet research",
+        "International wound journal",
+        "Microorganisms"
+      ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC bioinformatics",
+          "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "research-article",
+        "journal article"
+      ],
+      "id": "10.1093/bib/bbag613",
+      "title": "MAGE: an efficient algorithm for identifying Maximal Age-indexed GEne sets.",
+      "abstract": "Aging alters transcriptional regulation in a tissue- and time-specific manner, reshaping gene regulatory networks and shifting regulatory influence dynamics. Traditional in silico influence maximization methods often rely on static gene expression snapshots and fail to capture gene-to-gene influence variations over time. To address this, we introduce the Age Index, a network-based metric that quantifies time-varying gene influence. We define the Maximal and Minimal Age Index Problems (MAP$^{+}$ and MAP$^{-}$) as the tasks of identifying gene sets with the highest and lowest Age Index, and prove these problems are NP-hard. To solve them, we develop MAGE (Maximal Age-Index Algorithm), a stochastic method that iteratively constructs gene sets by prioritizing genes likely to optimize the Age Index. MAGE identifies statistically significant gene sets at the genome scale, with strong literature support, highlighting its potential to uncover age-sensitive regulatory mechanisms.",
+      "journal": "Briefings in Bioinformatics",
+      "doi": "10.1093/bib/bbag613",
+      "date": "2026-11-01",
+      "authors": "Çalış M, Altuntas V, Kahveci O, Hiram Guzzi P, Veltri P, Kahveci T.",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://europepmc.org/article/MED/42969857",
+      "preprint": false,
+      "review": false,
+      "pmcid": "PMC13725925",
+      "pmid": "42969857",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "bioinformatics_method_or_resource",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "algorithm",
+          "gene",
+          "method"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "genom",
+            "genome",
+            "transcript"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "collection_order": 5415,
+      "collected_at": "2026-11-22T21:45:40.750776+00:00",
+      "collected_date": "2026-11-23",
+      "sources": [
+        "Europe PMC bioinformatics"
+      ],
+      "first_seen": "2026-11-22",
+      "related_dois": [
+        "10.1093/bib/bbag613"
+      ],
+      "translation": {
+        "title": {
+          "hash": "59b57ae8d6f4a857cce159e5a47fd4f8af14ff1089531f1b4bfe7d36fea1f700",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-22T22:17:46.952821+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "197e0782f16f8eaf2a987ec53f8a443dec9b84c43b802267220067a0c3e6e1f6",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-22T22:17:46.952821+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "MAGE: 最大年齢インデックス付きGEne集合を同定するための効率的なアルゴリズム。",
+      "abstract_ja": "加齢は組織および時間特異的な様式で転写調節を変化させ、遺伝子調節ネットワークを再構築し、調節影響のダイナミクスを変容させる。従来のin silico影響最大化手法は、静的な遺伝子発現スナップショットに依存することが多く、経時的な遺伝子間影響の変動を捉えきれない。この課題に対処するため、我々は時間変動する遺伝子影響を定量化するネットワークベースの指標であるAge Indexを提案する。我々は、Age Indexが最大および最小となる遺伝子セットを特定するタスクとして、Maximal Age-Index ProblemおよびMinimal Age-Index Problem（MAP$^{+}$およびMAP$^{-}$）を定義し、これらの問題がNP困難であることを証明する。これらを解くため、我々はAge Indexを最適化する可能性が高い遺伝子を優先して反復的に遺伝子セットを構築する確率的手法であるMAGE（Maximal Age-Index Algorithm）を開発する。MAGEはゲノムスケールで統計的に有意な遺伝子セットを特定し、文献による強力な支持を得ており、加齢感受性の調節機構を明らかにする可能性を示している。",
+      "answer_journal": "Briefings in Bioinformatics",
+      "question_type": "published",
+      "options": [
+        "Special care in dentistry : official publication of the American Association of Hospital Dentists, the Academy of Dentistry for the Handicapped, and the American Society for Geriatric Dentistry",
+        "Briefings in Bioinformatics",
+        "Current Alzheimer research",
+        "Computational biology and chemistry"
+      ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC bioinformatics",
+          "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "preprint"
+      ],
+      "id": "10.64898/2026.10.26.762091",
+      "title": "EpiRank: partner-agnostic surface-patch retrieval for epitope prediction of protein binding interfaces",
+      "abstract": "Structure-based interface predictors are normally reported as a single pooled ROC AUC over a residue test set. For a protein designer the operative question is different and much harder:  given one target chain, will the top-ranked surface patch be a real binding site? We built EpiRank, a partner-agnostic epitope predictor, on HumanPPI — 29,246 predicted human dimers, 12,296 target chains, 4.18 M residues — using only single-chain geometry and physicochemistry (170 features, no partner, no sequence search, no structural alphabet), and evaluated it as a retrieval problem with homology- and partner-graph-controlled splits, on the 3,529 chains that survive an explicit partner-contamination filter. The model places a real epitope in its top-ranked patch 64 % of the time. That number is far less informative than it looks. Compact patches placed at random hit a real epitope 41 % of the time under the same rule, so the model’s lift is 1.57×, not 64 %; 54 % of all predicted patches land on nothing; and when the same chains are scored by models trained on a 2,000-chain and an 11,669-chain superset, a substantial fraction change answer while the aggregate barely moves. We document four specific ways this task invites overstatement — partner-graph percolation across splits, single-linkage homology percolation at the conventional 30 % identity threshold, a count-only hit rule that rewards spatial smoothing rather than signal, and hotspot precision conditioned on success, which ranks a random baseline  above the trained model. Each was hit during development and each inverted a conclusion we had already drawn. We argue that interface-prediction papers should report lift over a geometry-matched random baseline, patch precision, and per-target stability alongside AUC, and we release the evaluation harness that computes them.",
+      "journal": "",
+      "doi": "10.64898/2026.10.26.762091",
+      "date": "2026-10-31",
+      "authors": "Lin B, Lu D.",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://europepmc.org/article/PPR/PPR1354937",
+      "preprint": true,
+      "review": false,
+      "pmcid": "",
+      "pmid": "",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "bioinformatics_method_or_resource",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "prediction",
+          "predictor",
+          "protein",
+          "sequence"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "prediction",
+            "predictor",
+            "protein",
+            "sequence"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "collection_order": 5438,
+      "collected_at": "2026-11-22T21:45:40.750776+00:00",
+      "collected_date": "2026-11-23",
+      "sources": [
+        "Europe PMC bioinformatics"
+      ],
+      "first_seen": "2026-11-22",
+      "related_dois": [
+        "10.64898/2026.10.26.762091"
+      ],
+      "translation": {
+        "title": {
+          "hash": "17b16e21ba23684b63c09886e8232ff0351b35bea8e30d95ba1d64df2c3ee036",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-22T22:21:08.521529+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "784d5d28dd51221718613abee9987fc1df646e3a2a1641729c7da78033e9e0b1",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-22T22:21:08.521529+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "EpiRank: タンパク質結合界面のエピトープ予測に向けたパートナー非依存型表面パッチ検索",
+      "abstract_ja": "構造ベースのインターフェース予測器は、通常、残基テストセットにおける単一のプール済みROC AUCとして報告される。タンパク質設計者にとっての本質的な問いは異なり、はるかに困難である。すなわち、ある標的鎖が与えられたとき、最上位にランクされた表面パッチが実際の結合部位となるか、ということだ。我々は、HumanPPI（予測されたヒト二量体29,246個、標的鎖12,296本、残基数418万個）を対象に、単一鎖の幾何学構造と物理化学的解析のみ（170個の特徴量、パートナーなし、配列検索なし、構造アルファベットなし）を用いて、パートナー非依存型のエピトープ予測器EpiRankを構築した。そして、明示的なパートナー混入フィルタを通過した3,529本の鎖を用い、ホモロジーおよびパートナーグラフで制御された分割による検索問題として評価を行った。このモデルは、最上位のパッチに実際のエピトープを割り当てる確率が64%であった。この数値は、見かけほど情報量が多くはない。同じルールの下でランダムに配置されたコンパクトなパッチが実際のエピトープにヒットする確率は41%であり、したがってモデルのリフトは64%ではなく1.57倍となる。また、予測されたパッチの54%は何もヒットせず、2,000本および11,669本のスーパーセットで学習させたモデルで同じ鎖をスコアリングしたところ、かなりの割合で回答が変化した一方で、集計値はほとんど変動しなかった。我々は、このタスクにおいて過大評価が生じやすい4つの具体的な要因――分割をまたぐパートナーグラフのパーコレーション、従来の同一性閾値30%における単一リンクホモロジーのパーコレーション、シグナルではなく空間的な平滑化を評価するカウントのみのヒットルール、および成功条件付きのホットスポット精度（これによりランダムなベースラインが学習済みモデルより上位にランクされる）――を報告する。これらはいずれも開発過程でヒットしており、それぞれが我々が既に導き出していた結論を覆す結果となった。我々は、インターフェース予測に関する論文において、AUCと併せて、幾何学的に一致させたランダムベースラインに対するリフト、パッチの精度、および標的ごとの安定性を報告すべきであると主張し、これらを算出する評価ハーネスを公開する。",
+      "answer_journal": null,
+      "question_type": "forecast",
+      "options": [
+        "European journal of medical genetics",
+        "Geobiology",
+        "Oncology reports",
+        "Microbiological research"
+      ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC bioinformatics",
+          "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "preprint"
+      ],
+      "id": "10.21203/rs.3.rs-10760302/v1",
+      "title": "How Does Mazu Festival Affect the Well-being of Elderly Tourists?An Empirical Study from the Perspective of Restorative Experience",
+      "abstract": "Abstract  Restorative environment research has predominantly focused on natural settings, with limited attention to short-duration, high-density folk festivals and elderly populations. Drawing upon the stimulus–organism–response (S-O-R) framework, this study integrates attention restoration theory and place attachment theory to construct a serial mediation model of “Perceived Restorative Environment through Place attachment and psychological recovery to Hedonic Well-being.” Using the Mazu Festival on Meizhou Island as the case site, a questionnaire survey was conducted among 552 elderly tourists aged 55 and above, and partial least squares structural equation modeling (PLS-SEM) was employed to test the hypotheses. The results indicate that Perceived Restorative Environment enhances Hedonic Well-being through dual mechanisms—a direct emotional gain pathway and a sequential cognitive–affective pathway via Place attachment and psychological recovery. Legibility exhibits robust explanatory power in the festival context. Short-term festival participation primarily yields attentional recovery, while deep psychological restoration is constrained by limited stay duration. At the theoretical level, this study proposes the “Dual-Pathway Model of Festival Restorative Experience,” extending the applicability of restorative environment theory from natural landscapes to cultural festival settings, and reveals how temporal constraints and cognitive aging shape the restoration pathways, thereby offering a new theoretical framework for understanding elderly well-being generation in culturally intensive tourism contexts. At the practical level, the findings provide concrete pathways for the age-friendly design of folk festival spaces and offer empirical support for transforming folk cultural tourism resources into public mental health intervention tools for the elderly, contributing to the improvement of active aging social service systems.",
+      "journal": "",
+      "doi": "10.21203/rs.3.rs-10760302/v1",
+      "date": "2026-11-01",
+      "authors": "Wang M, Chen W, Cao Y, Wang L.",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://europepmc.org/article/PPR/PPR1354615",
+      "preprint": true,
+      "review": false,
+      "pmcid": "",
+      "pmid": "",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "bioinformatics_method_or_resource",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "framework",
+          "gene"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "framework",
+            "gene"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "collection_order": 5416,
+      "collected_at": "2026-11-22T21:45:40.750776+00:00",
+      "collected_date": "2026-11-23",
+      "sources": [
+        "Europe PMC bioinformatics"
+      ],
+      "first_seen": "2026-11-22",
+      "related_dois": [
+        "10.21203/rs.3.rs-10760302/v1"
+      ],
+      "translation": {
+        "title": {
+          "hash": "c7ef6abdba022a264fc58b72992cb3f5b208f27548121f97b2328f6b80cb8301",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-22T22:17:46.952821+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "eea7ffa513eaa0f586d7ea3d82e3748cc06252a7157207fe8896ed05b3b8e253",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-22T22:17:46.952821+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "媽祖祭は高齢観光客のウェルビーイングにどのような影響を与えるか？回復的体験の視点からの実証的研究",
+      "abstract_ja": "要旨　回復環境研究はこれまで主に自然環境を対象としており、短期間・高密度な民俗祭礼や高齢者層への注目は限定的であった。本研究では、刺激－生物－反応（S-O-R）フレームワークに基づき、注意回復理論と場所への愛着理論を統合し、「場所への愛着と心理的回復を通じた知覚的回復環境、および快楽的ウェルビーイング」という系列的媒介モデルを構築した。梅州島の媽祖祭を事例とし、55歳以上の高齢観光客552名を対象に質問紙調査を実施し、部分最小二乗構造方程式モデリング（PLS-SEM）を用いて仮説を検証した。その結果、知覚的回復環境は、直接的な情動的獲得経路と、場所への愛着および心理的回復を介した逐次的な認知・情動経路という二つのメカニズムを通じて、快楽的ウェルビーイングを高めることが示された。可読性は、祭礼という文脈において強固な説明力を示した。短期間の祭礼参加は主に注意力の回復をもたらす一方、深い心理的回復は滞在期間の制限によって制約を受ける。理論面では、本研究は「祭礼回復体験の二経路モデル」を提唱し、回復環境理論の適用範囲を自然景観から文化祭礼の場へと拡張するとともに、時間的制約と認知的加齢が回復経路をどのように形成するかを明らかにした。これにより、文化的に濃密な観光文脈における高齢者のウェルビーイング生成を理解するための新たな理論的枠組みを提示した。実践面では、本知見は民俗祭礼空間の高齢者に配慮した設計に向けた具体的な道筋を示すとともに、民俗文化観光資源を高齢者向けの公的なメンタルヘルス介入ツールへと転換するための実証的根拠を提供し、アクティブ・エイジング社会サービスシステムの改善に寄与するものである。",
+      "answer_journal": null,
+      "question_type": "forecast",
+      "options": [
+        "One health outlook",
+        "Proteomics",
+        "Non-coding RNA",
+        "The Journal of investigative dermatology"
+      ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC bioinformatics",
+          "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "research-article",
+        "journal article"
+      ],
+      "id": "10.3389/fmicb.2026.1977925",
+      "title": "Variation in rhizosphere microbial communities and nitrogen- and phosphorus-cycling functional genes among rubber plantations in Yunnan, China.",
+      "abstract": "IntroductionRhizosphere microorganisms are important participants in soil nutrient transformation. However, variation in rhizosphere microbial community composition and nitrogen (N)- and phosphorus (P)-cycling functional gene profiles among rubber plantations in Yunnan Province remains unclear.MethodsMetagenomic sequencing was used to compare rhizosphere microbial community composition and N- and P-cycling functional gene profiles among the rubber plantations located in five major natural rubber-producing areas in Yunnan Province, China: Gengma (MD), Ximeng (XM), Mengla (ML), Jinghong (JH), and Jiangcheng (JC).ResultsBacterial and fungal community composition and N- and P-cycling functional gene profiles differed significantly among the five rubber plantations. JC exhibited higher fungal diversity and richness, but its bacterial diversity was significantly lower than that in MD. The bacterial communities were dominated by Pseudomonadota, Acidobacteriota, and Actinomycetota, and the relative abundance of Acidobacteria was significantly enriched in JC compared to JH. Furthermore, Mucoromycota, Ascomycota, and Basidiomycota were the dominant phyla in the fungal community. At the functional level, compared to JC, key genes associated with N cycling were significantly enriched in ML, including N assimilation (glnA, gltB, gltD), dissimilatory nitrate reduction to ammonium (narG, narH, nirB), nitrification (nxrA, nxrB), and denitrification (napA, napB). Furthermore, the nosZ gene was also significantly enriched in MD compared to JC. Regarding the P cycle, compared to JC, genes associated with high-affinity phosphate transporters (pstA, pstB, pstC) and polyphosphate degradation (ndk) were significantly enriched in MD, whereas the organic phosphorus mineralization-related gene phnX exhibited the opposite trend. Meanwhile, compared to MD, the polyphosphate degradation-related gene ppk2 was significantly enriched in ML, whereas the inorganic phosphorus solubilization-related gene pqqC exhibited the opposite pattern. Hierarchical partitioning identified soil pH, total phosphorus (TP), and total potassium (TK) as the primary factors significantly associated with variations in bacterial community composition and P-cycling functional gene profiles.ConclusionIn summary, the composition of rhizosphere bacterial and fungal communities, as well as the functional gene profiles related to N and P cycling, differed significantly among the investigated rubber plantations. These variations were closely associated with soil physicochemical factors. These findings may provide a microbiological basis for further developing site-specific nutrient management strategies in rubber plantations.",
+      "journal": "Frontiers in Microbiology",
+      "doi": "10.3389/fmicb.2026.1977925",
+      "date": "2026-10-30",
+      "authors": "Geng S, Yang J, Shi X, Zhang Q, Yang C.",
+      "tags": [
+        "微生物学"
+      ],
+      "source_url": "https://europepmc.org/article/MED/43031719",
+      "preprint": false,
+      "review": false,
+      "pmcid": "PMC13759755",
+      "pmid": "43031719",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "bacteria",
+          "bacterial",
+          "fungal",
+          "microbial",
+          "microbiological",
+          "microorganism",
+          "microorganisms"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [],
+          "evolution": []
+        },
+        "tags": [
+          "微生物学"
+        ]
+      },
+      "collection_order": 5444,
+      "collected_at": "2026-11-22T21:45:40.750776+00:00",
+      "collected_date": "2026-11-23",
+      "sources": [
+        "Europe PMC bioinformatics"
+      ],
+      "first_seen": "2026-11-22",
+      "related_dois": [
+        "10.3389/fmicb.2026.1977925"
+      ],
+      "translation": {
+        "title": {
+          "hash": "1c02dff02101e97e2550ffa31c073f2b7dd6b4d683f1806be74df272b3de2f02",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-22T22:17:46.952821+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "fe8c0289d84c44d83c05cb498fcd61c12cb98542a1aaf73835cff04083f73f82",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-22T22:17:46.952821+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "中国雲南省のゴムプランテーションにおける根圏微生物群集および窒素・リン循環機能遺伝子の変異",
+      "abstract_ja": "はじめに根圏微生物は土壌養分変換において重要な役割を担っている。しかし、雲南省のゴムプランテーション間における根圏微生物群集組成および窒素（N）・リン（P）循環機能遺伝子プロファイルの変動については、依然として明らかになっていない。方法メタゲノムシーケンシングを用いて、中国雲南省の主要な天然ゴム生産地域5か所（耿馬（MD）、西盟（XM）、孟拉（ML）、景洪（JH）、江城（JC））に位置するゴムプランテーション間で、根圏微生物群集組成およびN・P循環機能遺伝子プロファイルを比較した。結果細菌および真菌群集組成、ならびにN・P循環機能遺伝子プロファイルは、5つのゴムプランテーション間で有意に異なっていた。JCでは真菌の多様性と豊富さがより高かったが、細菌の多様性はMDよりも有意に低かった。細菌群集はPseudomonadota、Acidobacteriota、およびActinomycetotaが優占しており、Acidobacteriaの相対存在量はJHと比較してJCで有意に濃縮されていた。さらに、真菌群集ではMucoromycota、Ascomycota、およびBasidiomycotaが優占的な門であった。機能レベルでは、JCと比較して、MLではN循環に関連する主要遺伝子（N同化（glnA, gltB, gltD）、異化的な硝酸からアンモニウムへの還元（narG, narH, nirB）、硝化（nxrA, nxrB）、および脱窒（napA, napB））が有意に濃縮されていた。さらに、nosZ遺伝子もJCと比較してMDで有意に濃縮されていた。Pサイクルに関しては、JCと比較して、MDでは高親和性リン酸輸送体（pstA, pstB, pstC）およびポリリン酸分解（ndk）に関連する遺伝子が有意に濃縮されていた一方、有機リン鉱化関連遺伝子phnXは逆の傾向を示した。一方、MDと比較して、MLではポリリン酸分解関連遺伝子ppk2が有意に濃縮されていたが、無機リン可溶化関連遺伝子pqqCは逆のパターンを示した。階層的分割により、土壌pH、全リン（TP）、および全カリウム（TK）が、細菌群集組成およびP循環機能遺伝子プロファイルの変動に有意に関連する主要因として同定された。結論要約すると、根圏細菌および真菌群集の組成、ならびにN・P循環に関連する機能遺伝子プロファイルは、調査したゴムプランテーション間で有意に異なっていた。これらの変動は、土壌の物理化学的要因と密接に関連していた。これらの知見は、ゴムプランテーションにおける立地特異的な養分管理戦略をさらに発展させるための微生物学的根拠となり得る。",
+      "answer_journal": "Frontiers in Microbiology",
+      "question_type": "published",
+      "options": [
+        "Human reproduction (Oxford, England)",
+        "Molecular Biology and Evolution",
+        "Frontiers in Microbiology",
+        "Allergy"
       ]
     }
   ],
@@ -3137,6 +3553,13 @@
       ]
     },
     {
+      "name": "Current allergy and asthma reports",
+      "scope": [
+        "genomics",
+        "microbiology"
+      ]
+    },
+    {
       "name": "Current Alzheimer research",
       "scope": [
         "genomics",
@@ -4493,6 +4916,13 @@
       ]
     },
     {
+      "name": "Glia",
+      "scope": [
+        "genomics",
+        "microbiology"
+      ]
+    },
+    {
       "name": "Global change biology",
       "scope": [
         "ecology",
@@ -4614,7 +5044,21 @@
       ]
     },
     {
+      "name": "IEEE transactions on bio-medical engineering",
+      "scope": [
+        "genomics",
+        "microbiology"
+      ]
+    },
+    {
       "name": "IEEE transactions on computational biology and bioinformatics",
+      "scope": [
+        "genomics",
+        "microbiology"
+      ]
+    },
+    {
+      "name": "IEEE transactions on cybernetics",
       "scope": [
         "genomics",
         "microbiology"
@@ -5159,6 +5603,13 @@
       ]
     },
     {
+      "name": "IUCrJ",
+      "scope": [
+        "genomics",
+        "microbiology"
+      ]
+    },
+    {
       "name": "JAC-antimicrobial resistance",
       "scope": [
         "genomics",
@@ -5658,6 +6109,13 @@
     },
     {
       "name": "Journal of computational biology : a journal of computational molecular cell biology",
+      "scope": [
+        "genomics",
+        "microbiology"
+      ]
+    },
+    {
+      "name": "Journal of computational chemistry",
       "scope": [
         "genomics",
         "microbiology"
@@ -8207,6 +8665,13 @@
       ]
     },
     {
+      "name": "Pharmaceutical statistics",
+      "scope": [
+        "genomics",
+        "microbiology"
+      ]
+    },
+    {
       "name": "Pharmacogenomics",
       "scope": [
         "genomics",
@@ -9495,6 +9960,13 @@
       "name": "Water research",
       "scope": [
         "ecology",
+        "genomics",
+        "microbiology"
+      ]
+    },
+    {
+      "name": "Wellcome open research",
+      "scope": [
         "genomics",
         "microbiology"
       ]
