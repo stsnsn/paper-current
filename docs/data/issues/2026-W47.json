@@ -6,200 +6,6 @@
     "addition_tracking_since": "2026-11-08T16:41:37.586944+09:00",
     "addition_history": [
       {
-        "at": "2026-11-20T07:23:56.904420+09:00",
-        "papers": [
-          {
-            "id": "10.1038/d41586-026-03606-x",
-            "preprint": false
-          },
-          {
-            "id": "10.21203/rs.3.rs-11242334/v1",
-            "preprint": true
-          },
-          {
-            "id": "10.3389/fmicb.2026.1939609",
-            "preprint": false
-          },
-          {
-            "id": "10.3389/fmicb.2026.1963416",
-            "preprint": false
-          },
-          {
-            "id": "10.1093/ismejo/wrag290",
-            "preprint": false
-          },
-          {
-            "id": "10.1093/ismeco/ycag341",
-            "preprint": false
-          },
-          {
-            "id": "10.1093/ismeco/ycag340",
-            "preprint": false
-          },
-          {
-            "id": "10.64898/2026.11.18.767445",
-            "preprint": true
-          },
-          {
-            "id": "10.3389/fmicb.2026.2002711",
-            "preprint": false
-          },
-          {
-            "id": "10.1038/s41467-026-79487-5",
-            "preprint": false
-          },
-          {
-            "id": "10.1128/mra.01075-26",
-            "preprint": false
-          },
-          {
-            "id": "10.1093/femsyr/foag064",
-            "preprint": false
-          },
-          {
-            "id": "10.21203/rs.3.rs-11652582/v1",
-            "preprint": true
-          },
-          {
-            "id": "10.64898/2026.11.18.767651",
-            "preprint": true
-          },
-          {
-            "id": "10.3389/fmicb.2026.2016613",
-            "preprint": false
-          },
-          {
-            "id": "10.64898/2026.11.18.767602",
-            "preprint": true
-          },
-          {
-            "id": "10.3389/fmicb.2026.1955738",
-            "preprint": false
-          },
-          {
-            "id": "10.64898/2026.11.05.764699",
-            "preprint": true
-          },
-          {
-            "id": "10.20944/preprints202611.0798.v1",
-            "preprint": true
-          },
-          {
-            "id": "10.20944/preprints202611.0839.v1",
-            "preprint": true
-          },
-          {
-            "id": "10.64898/2026.10.29.761548",
-            "preprint": true
-          },
-          {
-            "id": "10.1038/s41579-026-01398-5",
-            "preprint": false
-          },
-          {
-            "id": "10.1038/s41522-026-01202-5",
-            "preprint": false
-          },
-          {
-            "id": "10.64898/2026.11.19.767798",
-            "preprint": true
-          },
-          {
-            "id": "10.21203/rs.3.rs-11144010/v1",
-            "preprint": true
-          },
-          {
-            "id": "10.64898/2026.11.17.767333",
-            "preprint": true
-          },
-          {
-            "id": "10.1093/femsre/fuag062",
-            "preprint": false
-          },
-          {
-            "id": "10.64898/2026.11.06.764853",
-            "preprint": true
-          },
-          {
-            "id": "10.64898/2026.11.18.767582",
-            "preprint": true
-          },
-          {
-            "id": "10.64898/2026.11.07.765083",
-            "preprint": true
-          },
-          {
-            "id": "10.64898/2026.11.17.767359",
-            "preprint": true
-          },
-          {
-            "id": "10.1038/s41522-026-01197-z",
-            "preprint": false
-          }
-        ]
-      },
-      {
-        "at": "2026-11-20T12:56:29.691377+09:00",
-        "papers": [
-          {
-            "id": "10.1099/ijsem.0.007328",
-            "preprint": false
-          },
-          {
-            "id": "10.64898/2026.11.19.767437",
-            "preprint": true
-          },
-          {
-            "id": "10.64898/2026.11.18.767762",
-            "preprint": true
-          },
-          {
-            "id": "10.1016/j.tim.2026.10.002",
-            "preprint": false
-          },
-          {
-            "id": "10.1111/1751-7915.70460",
-            "preprint": false
-          },
-          {
-            "id": "10.1099/ijsem.0.007344",
-            "preprint": false
-          },
-          {
-            "id": "10.1186/s42523-026-00653-7",
-            "preprint": false
-          },
-          {
-            "id": "10.1093/bioinformatics/btag831",
-            "preprint": false
-          },
-          {
-            "id": "10.1099/ijsem.0.007347",
-            "preprint": false
-          },
-          {
-            "id": "10.1128/msphere.00148-26",
-            "preprint": false
-          },
-          {
-            "id": "10.1093/bioinformatics/btag820",
-            "preprint": false
-          },
-          {
-            "id": "10.1099/ijsem.0.007346",
-            "preprint": false
-          },
-          {
-            "id": "10.1099/ijsem.0.007331",
-            "preprint": false
-          },
-          {
-            "id": "10.1016/j.tim.2026.10.014",
-            "preprint": false
-          }
-        ]
-      },
-      {
         "at": "2026-11-20T21:54:52.860125+09:00",
         "papers": [
           {
@@ -736,23 +542,99 @@
             "preprint": false
           }
         ]
+      },
+      {
+        "at": "2026-11-22T16:30:19.403286+09:00",
+        "papers": [
+          {
+            "id": "10.20944/preprints202611.0063.v1",
+            "preprint": true
+          },
+          {
+            "id": "10.1093/bioinformatics/btag735",
+            "preprint": false
+          },
+          {
+            "id": "10.1111/1751-7915.70490",
+            "preprint": false
+          },
+          {
+            "id": "10.1093/bioinformatics/btag798",
+            "preprint": false
+          },
+          {
+            "id": "10.1093/bioinformatics/btag796",
+            "preprint": false
+          },
+          {
+            "id": "10.21203/rs.3.rs-11555250/v1",
+            "preprint": true
+          },
+          {
+            "id": "10.1093/bioinformatics/btag794",
+            "preprint": false
+          },
+          {
+            "id": "10.64898/2026.10.30.762990",
+            "preprint": true
+          },
+          {
+            "id": "10.1093/nar/gkag1091",
+            "preprint": false
+          },
+          {
+            "id": "10.21203/rs.3.rs-10453675/v1",
+            "preprint": true
+          },
+          {
+            "id": "10.1093/bioinformatics/btag783",
+            "preprint": false
+          },
+          {
+            "id": "10.1093/nar/gkag1039",
+            "preprint": false
+          },
+          {
+            "id": "10.64898/2026.10.30.763050",
+            "preprint": true
+          },
+          {
+            "id": "10.1093/nar/gkag993",
+            "preprint": false
+          },
+          {
+            "id": "10.1093/bioinformatics/btag775",
+            "preprint": false
+          },
+          {
+            "id": "10.1093/nar/gkag1020",
+            "preprint": false
+          }
+        ]
       }
     ],
     "date": "2026-11-16",
     "publication_mode": "daily",
-    "updated_at": "2026-11-22T06:23:39.855554+09:00",
-    "daily_updated_at": "2026-11-22T06:23:39.855554+09:00",
+    "updated_at": "2026-11-22T16:30:19.403286+09:00",
+    "daily_updated_at": "2026-11-22T16:30:19.403286+09:00",
     "week_ends_at": "2026-11-23T00:00:00+09:00",
     "added_ids": [
-      "10.64898/2026.10.27.762241",
-      "10.20944/preprints202611.0154.v1",
-      "10.12688/wellcomeopenres.28131.1",
-      "10.21203/rs.3.rs-11218928/v1",
-      "10.20944/preprints202611.0215.v1",
-      "10.21203/rs.3.rs-11507263/v1",
-      "10.64898/2026.10.28.762220",
-      "10.3389/fmicb.2026.1995208",
-      "10.3389/fmicb.2026.1949712"
+      "10.20944/preprints202611.0063.v1",
+      "10.1093/bioinformatics/btag735",
+      "10.1111/1751-7915.70490",
+      "10.1093/bioinformatics/btag798",
+      "10.1093/bioinformatics/btag796",
+      "10.21203/rs.3.rs-11555250/v1",
+      "10.1093/bioinformatics/btag794",
+      "10.64898/2026.10.30.762990",
+      "10.1093/nar/gkag1091",
+      "10.21203/rs.3.rs-10453675/v1",
+      "10.1093/bioinformatics/btag783",
+      "10.1093/nar/gkag1039",
+      "10.64898/2026.10.30.763050",
+      "10.1093/nar/gkag993",
+      "10.1093/bioinformatics/btag775",
+      "10.1093/nar/gkag1020"
     ],
     "added_date": "2026-11-22"
   },
@@ -79611,6 +79493,1310 @@
         "Journal of global health",
         "Microsystems & nanoengineering"
       ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC bioinformatics",
+          "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "preprint"
+      ],
+      "id": "10.20944/preprints202611.0063.v1",
+      "title": "Provable Uniformity and Min-Entropy Bounds from Compound Negative Binomial Jitter: A Software-Defined TRNG",
+      "abstract": "Quantum-safe cryptographic protocols require certified entropy for key generation, nonces, and ephemeral parameters. Existing hardware and quantum random number generators impose deployment costs, supply-chain risks, and rely on heuristic post-processing. We present a mathematically certified, software-defined entropy source—a true random number generator (TRNG)—that produces uniform randomness with a provable min-entropy lower bound via computational jitter modulation, without specialized hardware or external conditioning. The core contribution is the Geometric Convergence Theorem (GCT): the modular reduction of a Compound Negative Binomial (CNB)-distributed observable converges exponentially to an invariant uniform measure over finite cyclic groups, with an explicit, computable spectral decay factor and a matching min-entropy lower bound. The GCT is complemented by the Stochastic Uncertainty Principle (SUP), an exact coefficient-of-variation decomposition that quantifies physical entropy injection from microarchitectural jitter. Together they yield a two-layer architecture: the combinatorial layer carries an exact, platform-independent uniformity bound, and the physical layer supplies the fresh entropy through continuous reseeding, so that the certified output is TRNG-class rather than a deterministic PRNG stream. The framework is validated through the Random Permutation Sorting System (RPSS) on commodity hardware, implemented in C with intentional compiler anti-optimization to maximize jitter. Empirical results confirm the theorem’s predictions, achieving Shannon entropy of 7.999997 bits/byte and min-entropy of 7.992 bits/byte over 100 MB of samples, with these values reproducible across three independent long-duration runs spanning a nearly 500× range in physical volatility, and directly from raw modular outputs without post-processing. This establishes a platform-agnostic, mathematically certified foundation for software-defined entropy generation, with direct implications for FIPS 140-3 post-quantum cryptographic infrastructure and entropy sovereignty.",
+      "journal": "",
+      "doi": "10.20944/preprints202611.0063.v1",
+      "date": "2026-11-02",
+      "authors": "Kuang R.",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://europepmc.org/article/PPR/PPR1355021",
+      "preprint": true,
+      "review": false,
+      "pmcid": "",
+      "pmid": "",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "bioinformatics_method_or_resource",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "gene",
+          "software"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "gene",
+            "software"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "collection_order": 5360,
+      "collected_at": "2026-11-21T23:14:33.572276+00:00",
+      "collected_date": "2026-11-22",
+      "sources": [
+        "Europe PMC bioinformatics"
+      ],
+      "first_seen": "2026-11-21",
+      "related_dois": [
+        "10.20944/preprints202611.0063.v1"
+      ],
+      "translation": {
+        "title": {
+          "hash": "703dbfae2f5d94a09381d1b6cfb3286ef97bc8966b77b1dde5de27aac8535cf5",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-22T07:26:37.531657+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "37319fd734c3639411093eb99bbf8a29cadf4d490770146dd33d47cfcd156185",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-22T07:26:37.531657+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "複合負二項ジッターによる証明可能な一様性と最小エントロピー境界：ソフトウェア定義TRNG",
+      "abstract_ja": "量子耐性暗号プロトコルでは、鍵生成、ノンス、およびエフェメラルパラメータに認証済みエントロピーが必要となる。既存のハードウェアおよび量子乱数生成器は、導入コストやサプライチェーンリスクを伴うほか、ヒューリスティックな後処理に依存している。本稿では、数学的に認証されたソフトウェア定義のエントロピー源――真の乱数生成器（TRNG）――を提案する。これは、専用ハードウェアや外部条件付けを必要とせず、計算ジッター変調を通じて、証明可能な最小エントロピー下界を持つ一様乱数を生成する。中核となる貢献は幾何学的収束定理（GCT）である。すなわち、複合負二項分布（CNB）に従う観測量のモジュラー還元が、有限巡回群上の不変一様測度へと指数関数的に収束し、明示的かつ計算可能なスペクトル減衰係数と、それに対応する最小エントロピー下界を持つというものである。GCTを補完するのが確率的不確定性原理（SUP）であり、これはマイクロアーキテクチャのジッターによる物理的エントロピー注入を定量化する厳密な変動係数分解である。これらが組み合わさることで二層構造のアーキテクチャが実現する。組み合わせ層が厳密かつプラットフォームに依存しない一様性下界を保持し、物理層が継続的なリシーディングを通じて新たなエントロピーを供給することで、認証済み出力は決定論的なPRNGストリームではなく、TRNGクラスのものとなる。本フレームワークは、ジッターを最大化するために意図的にコンパイラによる最適化を抑制してC言語で実装した、汎用ハードウェア上のランダム置換ソートシステム（RPSS）を通じて検証された。実証結果はこの定理の予測を裏付けており、100 MBのサンプルにおいてシャノンエントロピー 7.999997 ビット/バイト、最小エントロピー 7.992 ビット/バイトを達成した。これらの値は、物理的変動範囲がほぼ500倍に及ぶ3回の独立した長時間実行にわたって再現可能であり、後処理なしの生のモジュラー出力から直接得られたものである。これにより、ソフトウェア定義のエントロピー生成のためのプラットフォーム非依存かつ数学的に認証された基盤が確立され、FIPS 140-3の耐量子計算機暗号インフラストラクチャおよびエントロピー主権に直接的な影響を及ぼす。",
+      "answer_journal": null,
+      "question_type": "forecast",
+      "options": [
+        "Journal of neuroradiology = Journal de neuroradiologie",
+        "Antioxidants (Basel, Switzerland)",
+        "Communications Earth & Environment",
+        "Functional & integrative genomics"
+      ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC journals 2",
+          "query": "(JOURNAL:\"microLife\" OR JOURNAL:\"Nucleic Acids Research\" OR JOURNAL:\"NAR Genomics and Bioinformatics\" OR JOURNAL:\"Bioinformatics\" OR JOURNAL:\"Microbes and Environments\" OR JOURNAL:\"Frontiers in Microbiology\" OR JOURNAL:\"Frontiers in Marine Science\" OR JOURNAL:\"mBio\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "research-article",
+        "journal article"
+      ],
+      "id": "10.1093/bioinformatics/btag735",
+      "title": "Revisiting batch effect correction: a structured problem formulation and novel solutions.",
+      "abstract": "MotivationExisting methods for batch effect removal often suffer from an ill-defined problem formulation and rely on unverified assumptions, limiting their robustness and generalizability. This study proposes a principled approach to systematically address these limitations.ResultsWe present two novel methodologies for removing systematic batch effects: an unsupervised approach based on independent component analysis and a supervised approach using a domain adaptation technique. Both methods are grounded in rigorous mathematical principles. Our approaches outperform existing methods across multiple datasets.Availability and implementationThe implementation of our methods, including all code, datasets, experimental workflows, and supplementary material, is available in Python and has been made publicly accessible on GitHub: https://github.com/shaham-lab/revisiting-batch-effect-removal.",
+      "journal": "Bioinformatics",
+      "doi": "10.1093/bioinformatics/btag735",
+      "date": "2026-11-01",
+      "authors": "Harrar A, Shaham U.",
+      "tags": [
+        "微生物学"
+      ],
+      "source_url": "https://europepmc.org/article/MED/42878387",
+      "preprint": false,
+      "review": false,
+      "pmcid": "PMC13739054",
+      "pmid": "42878387",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [],
+        "context": {
+          "marine": [],
+          "genomics": [],
+          "evolution": []
+        },
+        "tags": [
+          "微生物学"
+        ]
+      },
+      "collection_order": 5388,
+      "collected_at": "2026-11-22T06:45:33.032218+00:00",
+      "collected_date": "2026-11-22",
+      "sources": [
+        "Europe PMC journals 2"
+      ],
+      "first_seen": "2026-11-22",
+      "related_dois": [
+        "10.1093/bioinformatics/btag735"
+      ],
+      "translation": {
+        "title": {
+          "hash": "798b8559a61393d6d4883943c225efb65cafb05a6ac3388477745a17d5dc20b1",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-22T07:21:07.028229+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "b22dd741fdf84395227251c59bcc3fe7fbcadf96561ce365cec313058aceebbf",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-22T07:21:07.028229+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "バッチ効果補正の再考：構造化された問題定式化と新たな解決策",
+      "abstract_ja": "動機バッチ効果除去の既存手法は、問題設定が不明確であることや、検証されていない仮定に依存していることが多く、その頑健性と汎化性能が制限されている。本研究では、これらの限界に体系的に対処するための原理に基づいたアプローチを提案する。結果系統的なバッチ効果を除去するための2つの新規手法を提示する。すなわち、独立成分分析に基づく教師なしアプローチと、ドメイン適応手法を用いた教師ありアプローチである。両手法ともに、厳密な数学的原理に基づいている。我々のアプローチは、複数のデータセットにおいて既存手法を上回る性能を示す。利用可能性と実装すべてのコード、データセット、実験ワークフロー、および補足資料を含む本手法の実装はPythonで提供されており、GitHubにて公開している：https://github.com/shaham-lab/revisiting-batch-effect-removal。",
+      "answer_journal": "Bioinformatics",
+      "question_type": "published",
+      "options": [
+        "Bioinformatics",
+        "Chemistry (Weinheim an der Bergstrasse, Germany)",
+        "Journal of the Formosan Medical Association = Taiwan yi zhi",
+        "Journal of cellular physiology"
+      ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC bioinformatics",
+          "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "im",
+        "review",
+        "journal article"
+      ],
+      "id": "10.1111/1751-7915.70490",
+      "title": "Advances in Genome Engineering of Social Amoebae for Natural Product Discovery.",
+      "abstract": "Natural products are low-molecular-weight molecules derived from living organisms which often exhibit distinct biological activities for potential pharmaceutical, agricultural or cosmetic applications. However, identifying novel natural products is becoming increasingly difficult due to high rates of rediscovery. Nevertheless, given the genetic information available across thousands of microbial genomes, there exists a vast 'dark matter' of biosynthetic pathways whose potential remains to be elucidated. In this mini review, we highlight the potential of Dictyostelids to serve as a valuable source for novel natural products, summarize established genetic engineering methods and present advanced CRISPR/Cas-based approaches. These enable the modification of biosynthetic pathways not only in the common model organism Dictyostelium discoideum but also in various other species. Such technologies will help to identify novel natural products from Dictyotselids and advance the development of amoeba-based production strains for complex molecules.",
+      "journal": "Microbial Biotechnology",
+      "doi": "10.1111/1751-7915.70490",
+      "date": "2026-11-01",
+      "authors": "Krieger A, Kufs JE.",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://europepmc.org/article/MED/43065218",
+      "preprint": false,
+      "review": true,
+      "pmcid": "",
+      "pmid": "43065218",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "microbial"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "genom",
+            "genome"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "collection_order": 5365,
+      "collected_at": "2026-11-21T23:14:33.572276+00:00",
+      "collected_date": "2026-11-22",
+      "sources": [
+        "Europe PMC bioinformatics"
+      ],
+      "first_seen": "2026-11-21",
+      "related_dois": [
+        "10.1111/1751-7915.70490"
+      ],
+      "translation": {
+        "title": {
+          "hash": "d6b73cdd8d015c08e5b8f765d5d2cda52a80d7a2a26279d03d6943dedc14036e",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-22T07:18:01.091894+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "8b6a822c8e2cb1211ee503a43e94282ba5d09398e5672c924010becdf4c6a03c",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-22T07:18:01.091894+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "天然物探索に向けた社会性アメーバのゲノム工学の進展",
+      "abstract_ja": "天然物は生物に由来する低分子化合物であり、医薬品、農業、または化粧品への応用の可能性を秘めた、特有の生物活性を示すことが多い。しかし、再発見の頻度が高いため、新規天然物の同定はますます困難になっている。それにもかかわらず、数千もの微生物ゲノムから得られる遺伝情報を考慮すると、その潜在性がいまだ解明されていない生合成経路という膨大な「ダークマター」が存在する。本ミニレビューでは、新規天然物の貴重な供給源となり得るディクトステリジウム属の可能性を強調し、確立された遺伝子工学的手法を概説するとともに、先進的なCRISPR/Casベースのアプローチを紹介する。これらにより、一般的なモデル生物であるDictyostelium discoideumのみならず、他の様々な種においても生合成経路の改変が可能となる。こうした技術は、ディクトステリジウム属からの新規天然物の同定に寄与し、複雑な分子のアメーバベースの生産株の開発を促進するであろう。",
+      "answer_journal": "Microbial Biotechnology",
+      "question_type": "published",
+      "options": [
+        "Journal of leukocyte biology",
+        "Proteomics",
+        "Microbial Biotechnology",
+        "Current HIV/AIDS reports"
+      ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC journals 2",
+          "query": "(JOURNAL:\"microLife\" OR JOURNAL:\"Nucleic Acids Research\" OR JOURNAL:\"NAR Genomics and Bioinformatics\" OR JOURNAL:\"Bioinformatics\" OR JOURNAL:\"Microbes and Environments\" OR JOURNAL:\"Frontiers in Microbiology\" OR JOURNAL:\"Frontiers in Marine Science\" OR JOURNAL:\"mBio\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "brief-report",
+        "journal article"
+      ],
+      "id": "10.1093/bioinformatics/btag798",
+      "title": "SiSaNA: a Python-based command line interface for single-sample network analysis.",
+      "abstract": "MotivationReconstructing and analyzing single-sample regulatory networks has proven useful for understanding mechanisms of regulatory biology and its disruption in disease but traditionally required a fair amount of programming experience and work from the user.ResultsHere, we present Single-Sample Network Analysis (SiSaNA), a workflow that removes the need of prior programming experience and allows for single-sample regulatory network reconstruction and analysis, all via a command line interface. Using example input files, we walk the user through a tutorial on how to run the SiSaNA pipeline, interpret the results, and obtain high-quality figures summarized in a single HTML file as output.Availability and implementationSiSaNA is freely available to install with pip via the Python Package Index. It is additionally available on GitHub at https://github.com/kuijjerlab/sisana. Example input files can be found at https://doi.org/10.5281/zenodo.17190642.",
+      "journal": "Bioinformatics",
+      "doi": "10.1093/bioinformatics/btag798",
+      "date": "2026-11-01",
+      "authors": "Newman NK, Belova T, Kuijjer ML.",
+      "tags": [
+        "微生物学"
+      ],
+      "source_url": "https://europepmc.org/article/MED/42960881",
+      "preprint": false,
+      "review": false,
+      "pmcid": "PMC13750893",
+      "pmid": "42960881",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [],
+        "context": {
+          "marine": [],
+          "genomics": [],
+          "evolution": []
+        },
+        "tags": [
+          "微生物学"
+        ]
+      },
+      "collection_order": 5389,
+      "collected_at": "2026-11-22T06:45:33.032218+00:00",
+      "collected_date": "2026-11-22",
+      "sources": [
+        "Europe PMC journals 2"
+      ],
+      "first_seen": "2026-11-22",
+      "related_dois": [
+        "10.1093/bioinformatics/btag798"
+      ],
+      "translation": {
+        "title": {
+          "hash": "a545e0f0d639cf5c3fcd4a22afe5d7a7c23ea285bdd69b3810f5f95a73c6e310",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-22T07:21:07.028229+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "d785bbd1ce69224abca761d97761dd097319f0ac9bb7f9bc9f4345ce1749cbfa",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-22T07:21:07.028229+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "SiSaNA: 単一サンプルのネットワーク解析向けPythonベースのコマンドラインインターフェース。",
+      "abstract_ja": "動機単一サンプル調節ネットワークの再構築および解析は、調節生物学のメカニズムや疾患におけるその破綻を理解する上で有用であることが実証されているが、従来は相当なプログラミング経験とユーザー自身の作業を必要としていた。成果本稿では、事前のプログラミング経験を不要とし、コマンドラインインターフェースのみで単一サンプルの調節ネットワークの再構築および解析を可能にするワークフロー「Single-Sample Network Analysis (SiSaNA)」を提案する。サンプル入力ファイルを用いて、SiSaNAパイプラインの実行方法、結果の解釈方法、および単一のHTMLファイルにまとめられた高品質な図を出力として取得する方法について、ユーザー向けのチュートリアルを解説する。利用可能性と実装SiSaNAは、Python Package Indexを通じてpipで無料でインストール可能である。また、GitHub（https://github.com/kuijjerlab/sisana）でも公開されている。サンプル入力ファイルは https://doi.org/10.5281/zenodo.17190642 で入手可能である。",
+      "answer_journal": "Bioinformatics",
+      "question_type": "published",
+      "options": [
+        "Clinical cancer research : an official journal of the American Association for Cancer Research",
+        "Molecular Ecology Resources",
+        "Bioinformatics",
+        "Nature cancer"
+      ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC journals 2",
+          "query": "(JOURNAL:\"microLife\" OR JOURNAL:\"Nucleic Acids Research\" OR JOURNAL:\"NAR Genomics and Bioinformatics\" OR JOURNAL:\"Bioinformatics\" OR JOURNAL:\"Microbes and Environments\" OR JOURNAL:\"Frontiers in Microbiology\" OR JOURNAL:\"Frontiers in Marine Science\" OR JOURNAL:\"mBio\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "research-article",
+        "journal article"
+      ],
+      "id": "10.1093/bioinformatics/btag796",
+      "title": "GBZ-base and GAF-base: indexed pangenome file formats.",
+      "abstract": "MotivationExisting pangenome file formats are designed for batch processing. Graphs must be loaded into memory, and alignment files must be read sequentially. Indexed file formats that can be used directly from disk would be more appropriate for interactive applications.ResultsWe propose GBZ-base and GAF-base-SQLite-backed file formats comparable to GBZ and GAF. GBZ-base supports efficient extraction of local subgraphs, and GAF-base lets us extract all alignments to the subgraph. Additionally, GAF-base is smaller than any other file format for sequence-to-graph alignments.Availability and implementationFrom https://github.com/jltsiren/gbz-base and https://crates.io/crates/gbz-base under the MIT license.",
+      "journal": "Bioinformatics",
+      "doi": "10.1093/bioinformatics/btag796",
+      "date": "2026-11-01",
+      "authors": "Sirén J, Paten B, Human Pangenome Reference Consortium.",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://europepmc.org/article/MED/42929766",
+      "preprint": false,
+      "review": false,
+      "pmcid": "PMC13759212",
+      "pmid": "42929766",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "pangenom",
+            "pangenome"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "collection_order": 5390,
+      "collected_at": "2026-11-22T06:45:33.032218+00:00",
+      "collected_date": "2026-11-22",
+      "sources": [
+        "Europe PMC journals 2"
+      ],
+      "first_seen": "2026-11-22",
+      "related_dois": [
+        "10.1093/bioinformatics/btag796"
+      ],
+      "translation": {
+        "title": {
+          "hash": "b1c18d1225d4322c5b2ecad1f07d83edd4e84072a7031ec79e6e932a2151acad",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-22T07:23:48.712549+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "24dc178eccf86b478a332c164a1f25bc3701000ae0ef5866369e7b24710c59f2",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-22T07:23:48.712549+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "GBZ-baseおよびGAF-base：インデックス付きパンゲノムファイルフォーマット。",
+      "abstract_ja": "動機既存のパンゲノムファイル形式は、バッチ処理向けに設計されている。グラフはメモリにロードする必要があり、アライメントファイルは逐次的に読み込む必要がある。ディスクから直接利用可能なインデックス付きファイル形式の方が、インタラクティブなアプリケーションにはより適している。結果GBZおよびGAFに匹敵する、GBZ-baseおよびGAF-base-SQLite-backedファイル形式を提案する。GBZ-baseはローカルサブグラフの効率的な抽出をサポートし、GAF-baseではサブグラフへのすべてのアライメントを抽出できる。さらに、GAF-baseは配列からグラフへのアライメント用ファイル形式の中で、他のどの形式よりも軽量である。利用可能性と実装https://github.com/jltsiren/gbz-base および https://crates.io/crates/gbz-base より（MITライセンス）。",
+      "answer_journal": "Bioinformatics",
+      "question_type": "published",
+      "options": [
+        "Bioinformatics",
+        "Organic letters",
+        "Parasites & vectors",
+        "Journal of proteomics"
+      ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC bioinformatics",
+          "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "preprint"
+      ],
+      "id": "10.21203/rs.3.rs-11555250/v1",
+      "title": "Human-Governed Multi-Agent AI for Biological Hypothesis Generation: An Evidence-Grounded Framework Using JUMP Cell Painting Profiles",
+      "abstract": "Abstract  High-dimensional cellular phenotypes can motivate biological hypotheses, but similarity alone cannot establish mechanism or causal validity. DISCOVERY-AGENT links exploratory JUMP Cell Painting evidence with evidence-grounded hypothesis generation, independent critique and bounded human-review routing. An initial 65-record CRISPR/ORF analysis across nine gene–modality tests found four FDR-significant CRISPR plate-level associations (AKT1, BRCA1, MTOR and TP53), none among evaluated ORF genes. A distinct later cross-source compound-identity benchmark used 614 morphological features and achieved AUROC 0.6142 on 1,250 held-out compounds with training-only preprocessing; this is identity discrimination, not mechanism-of-action classification. Three structured hypotheses underwent LLM critique and revision, while eleven gene-pair evidence assessments yielded no FDR-significant mechanistic finding (minimum q = 0.2037). Archived governance checks passed 1,021/1,021 predefined tests; nevertheless, the initial live-agent run contained two execution errors among five cases, with both cases responding on fresh retest. These findings demonstrate feasibility of auditable evidence processing and modest cross-source morphology signal, not validated autonomous discovery, prospective safety, or completed expert review. The work delineates practical requirements for independent biological validation and reproducible scientific agents.",
+      "journal": "",
+      "doi": "10.21203/rs.3.rs-11555250/v1",
+      "date": "2026-11-02",
+      "authors": "Kamran S, Saman F.",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://europepmc.org/article/PPR/PPR1355462",
+      "preprint": true,
+      "review": false,
+      "pmcid": "",
+      "pmid": "",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "bioinformatics_method_or_resource",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "framework",
+          "gene"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "framework",
+            "gene"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "collection_order": 5358,
+      "collected_at": "2026-11-21T23:14:33.572276+00:00",
+      "collected_date": "2026-11-22",
+      "sources": [
+        "Europe PMC bioinformatics"
+      ],
+      "first_seen": "2026-11-21",
+      "related_dois": [
+        "10.21203/rs.3.rs-11555250/v1"
+      ],
+      "translation": {
+        "title": {
+          "hash": "855daa65a47d55954369b866db8ec6bb3ee0182b48f3141ec7842baaebbe407f",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-22T07:26:37.531657+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "15a04ea51f973f52668eb3df1ff36b393c79c90379b3f68904c3072e5b2c7326",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-22T07:26:37.531657+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "生物学的仮説生成のための人間主導型マルチエージェントAI：JUMPセルペインティングプロファイルを用いたエビデンスに基づくフレームワーク",
+      "abstract_ja": "要旨　高次元の細胞表現型は生物学的仮説の動機付けとなり得るが、類似性だけではメカニズムや因果的妥当性を立証することはできない。DISCOVERY-AGENTは、探索的なJUMP Cell Paintingのエビデンスを、エビデンスに基づく仮説生成、独立した批評、および限定的な人間によるレビュールーティングと結びつける。9つの遺伝子モダリティテストにわたる初期の65レコードのCRISPR/ORF解析では、FDR有意なCRISPRプレートレベルの関連が4件（AKT1、BRCA1、MTOR、TP53）認められたが、評価対象のORF遺伝子の中には認められなかった。その後に実施された別のソース横断的な化合物同一性ベンチマークでは、614の形態学的特徴を用い、学習のみの前処理を施した状態でホールドアウト化合物1,250件に対しAUROC 0.6142を達成した。これは同一性の判別であり、作用機序の分類ではない。3つの構造化仮説がLLMによる批評と修正を受け、一方で11件の遺伝子ペアエビデンス評価では、FDR有意なメカニズム上の知見は得られなかった（最小q = 0.2037）。アーカイブされたガバナンスチェックは、1,021件の事前定義済みテストすべてに合格した。それにもかかわらず、初期のライブエージェント実行では、5件のうち2件の実行エラーが発生し、いずれのケースも再テストで応答した。これらの知見は、監査可能なエビデンス処理と限定的なソース横断的な形態学的シグナルの実現可能性を示すものであり、検証済みの自律的発見、将来的な安全性、あるいは完了した専門家レビューを示すものではない。本研究は、独立した生物学的検証および再現性のある科学的エージェントのための実用的要件を明示するものである。",
+      "answer_journal": null,
+      "question_type": "forecast",
+      "options": [
+        "Psychoneuroendocrinology",
+        "Bioscience reports",
+        "Journal of neuroradiology = Journal de neuroradiologie",
+        "Planta medica"
+      ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC journals 2",
+          "query": "(JOURNAL:\"microLife\" OR JOURNAL:\"Nucleic Acids Research\" OR JOURNAL:\"NAR Genomics and Bioinformatics\" OR JOURNAL:\"Bioinformatics\" OR JOURNAL:\"Microbes and Environments\" OR JOURNAL:\"Frontiers in Microbiology\" OR JOURNAL:\"Frontiers in Marine Science\" OR JOURNAL:\"mBio\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "research-article",
+        "journal article"
+      ],
+      "id": "10.1093/bioinformatics/btag794",
+      "title": "Large-scale semantic indexing of Spanish biomedical literature using contrastive transfer learning.",
+      "abstract": "MotivationThe exponential growth of biomedical literature has made automatic indexing essential for advancing biomedical research. While automatic indexing has made strides in English biomedical literature, there has been limited research on non-English biomedical texts due to insufficient high-quality training data.ResultsWe propose BERTDeCS, a novel deep learning framework for automatically indexing Spanish biomedical literature using contrastive transfer learning. BERTDeCS utilizes a multilingual BERT (M-BERT) to generate multi-language representations and adapts M-BERT for Spanish biomedical literature domain through contrastive learning. Additionally, BERTDeCS enhances its semantic indexing capabilities on Spanish biomedical literature by leveraging enriched English annotated literature in MEDLINE through transfer learning. Experimental results on Spanish datasets demonstrate that BERTDeCS outperforms state-of-the-art indexing methods, achieving top performance in the MESINESP and MESINESP2 Tasks on medical semantic indexing in Spanish within the BioASQ challenge. Additional experiments on Portuguese provide preliminary evidence that BERTDeCS can transfer to a closely related language sharing substantial lexical and biomedical terminology with Spanish.AvailabilityThe source code is available at https://github.com/yourh/BERTDeCS and at https://doi.org/10.5281/zenodo.23212468.",
+      "journal": "Bioinformatics",
+      "doi": "10.1093/bioinformatics/btag794",
+      "date": "2026-11-01",
+      "authors": "You R, Huang T, Wang Z, Liu Y, Zhou H, Zhu S.",
+      "tags": [
+        "微生物学"
+      ],
+      "source_url": "https://europepmc.org/article/MED/42928592",
+      "preprint": false,
+      "review": false,
+      "pmcid": "PMC13750898",
+      "pmid": "42928592",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [],
+        "context": {
+          "marine": [],
+          "genomics": [],
+          "evolution": []
+        },
+        "tags": [
+          "微生物学"
+        ]
+      },
+      "collection_order": 5386,
+      "collected_at": "2026-11-22T06:45:33.032218+00:00",
+      "collected_date": "2026-11-22",
+      "sources": [
+        "Europe PMC journals 2"
+      ],
+      "first_seen": "2026-11-22",
+      "related_dois": [
+        "10.1093/bioinformatics/btag794"
+      ],
+      "translation": {
+        "title": {
+          "hash": "8753dae9a40b2dfbfbfb8a5c9ce0a6c2c11d6bc9b9bcda028216297efa8993c1",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-22T07:18:01.091894+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "989caf659f21ee00aef916367a1e242d55b5763103430fdd61984d11de9c6d83",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-22T07:18:01.091894+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "対照転移学習を用いたスペイン語生物医学文献の大規模意味索引化",
+      "abstract_ja": "動機生物医学文献の指数関数的な増加に伴い、生物医学研究を進展させる上で自動索引作成が不可欠となっている。英語の生物医学文献においては自動索引作成が大きく進展しているが、高品質な学習データの不足により、非英語の生物医学文献に関する研究は限られている。結果対照転移学習を用いてスペイン語の生物医学文献を自動索引作成するための新たな深層学習フレームワーク、BERTDeCSを提案する。BERTDeCSは、多言語BERT（M-BERT）を利用して多言語表現を生成し、対照学習を通じてM-BERTをスペイン語の生物医学文献ドメインに適応させる。さらに、BERTDeCSは転移学習によりMEDLINEの拡充された英語アノテーション付き文献を活用することで、スペイン語の生物医学文献に対する意味的索引作成能力を向上させる。スペイン語データセットを用いた実験結果から、BERTDeCSは最先端の索引作成手法を凌駕し、BioASQチャレンジにおけるスペイン語の医学意味的索引作成のMESINESPおよびMESINESP2タスクで最高の性能を達成することが示された。ポルトガル語を用いた追加実験により、BERTDeCSがスペイン語と広範な語彙および生物医学用語を共有する密接に関連した言語へ転移可能であるという予備的な証拠が得られた。利用可能性ソースコードは https://github.com/yourh/BERTDeCS および https://doi.org/10.5281/zenodo.23212468 で公開されている。",
+      "answer_journal": "Bioinformatics",
+      "question_type": "published",
+      "options": [
+        "Bioinformatics",
+        "Current opinion in virology",
+        "Oncology research",
+        "Journal of microbiology, immunology, and infection = Wei mian yu gan ran za zhi"
+      ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC bioinformatics",
+          "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "preprint"
+      ],
+      "id": "10.64898/2026.10.30.762990",
+      "title": "Megakaryocytic proteomic signatures define myeloproliferative neoplasms",
+      "abstract": "The classical Philadelphia-negative myeloproliferative neoplasms (MPNs) are clonal stem cell disorders of the bone marrow with significant niche dysregulation driven in part by abnormal megakaryocytes. The three classical MPNs: polycythemia vera (PV), essential thrombocythemia (ET) and primary myelofibrosis (PMF), display established megakaryocytic morphological differences which aid in their diagnostic classification. The paucity of megakaryocytes in the bone marrow aspirate has previously limited a proteomic analysis of megakaryocytes in clinical samples. We aimed to undertake an unbiased proteomic analysis of  in situ megakaryocytes from the bone marrow of patients with PV, ET, and PMF. Using a novel, deep visual proteomics strategy, we dissected and analyzed megakaryocytes from 60 MPN patients and 20 controls (patients with limited stage non-Hodgkin lymphoma who had uninvolved bone marrow). We reveal that megakaryocyte proteomics from MPN patients are distinct to those from control patients, and further, that the megakaryocytes from the three MPNs have unique, disease-specific signatures. The disease-specific megakaryocyte proteome highlights novel pathways of disease.  Key Points  A novel method can evaluate the proteome of megakaryocytes  in situ from archived clinical FFPE bone marrow trephine samples  Megakaryocytes in myeloproliferative neoplasms display distinctive disease-specific functional proteomic signatures",
+      "journal": "",
+      "doi": "10.64898/2026.10.30.762990",
+      "date": "2026-11-02",
+      "authors": "Raman I, Pettikiriarachchi A, Ataíde R, Juneja S, Zhu Y, Tsui E, Emery-Corbin SJ, Spall S, Yousef J, Gianni LF, Rajasekhar P, Motyer A, Yannakou CK, Pasricha S, Bennett C.",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://europepmc.org/article/PPR/PPR1355814",
+      "preprint": true,
+      "review": false,
+      "pmcid": "",
+      "pmid": "",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "bioinformatics_method_or_resource",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "method",
+          "proteome",
+          "proteomic"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "method",
+            "proteome",
+            "proteomic"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "collection_order": 5356,
+      "collected_at": "2026-11-21T23:14:33.572276+00:00",
+      "collected_date": "2026-11-22",
+      "sources": [
+        "Europe PMC bioinformatics"
+      ],
+      "first_seen": "2026-11-21",
+      "related_dois": [
+        "10.64898/2026.10.30.762990"
+      ],
+      "translation": {
+        "title": {
+          "hash": "588edc45c8ca9a3136bdceb3d2c5c4c84ee0f0bec470ce5a172ad862be0415d8",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-22T07:23:48.712549+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "2c3e6bd963737ffdfce9c02634e62774acbbb2b7facc2ed06a70e3a69d1ccdfe",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-22T07:23:48.712549+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "巨核球性プロテオームシグネチャーが骨髄増殖性腫瘍を定義する",
+      "abstract_ja": "古典的なフィラデルフィア陰性骨髄増殖性腫瘍（MPN）は、一部に異常な巨核球が関与する顕著なニッチ調節不全を伴う、骨髄のクローン性幹細胞疾患である。3つの古典的MPNである真性多血症（PV）、本態性血小板増多症（ET）、および原発性骨髄線維症（PMF）は、診断分類の一助となる確立された巨核球の形態学的差異を示す。骨髄吸引液中の巨核球が乏しいため、これまで臨床検体における巨核球のプロテオーム解析は制限されてきた。本研究では、PV、ET、およびPMF患者の骨髄由来in situ巨核球のバイアスのないプロテオーム解析を行うことを目的とした。新規の深層ビジュアルプロテオミクス戦略を用い、MPN患者60例および対照群20例（骨髄浸潤のない限局期非ホジキンリンパ腫患者）から巨核球を摘出し解析した。その結果、MPN患者由来の巨核球プロテオームは対照群のものとは異なり、さらに3つのMPN由来の巨核球はそれぞれ疾患特異的な固有のシグネチャーを有することが明らかとなった。疾患特異的な巨核球プロテオームは、疾患の新規パスウェイを浮き彫りにする。 要点 新規手法により、保存された臨床FFPE骨髄トレフィン検体由来のin situ巨核球プロテオームを評価可能である。骨髄増殖性腫瘍の巨核球は、疾患特異的な特徴的な機能的プロテオームシグネチャーを示す。",
+      "answer_journal": null,
+      "question_type": "forecast",
+      "options": [
+        "Cell Reports",
+        "Zeitschrift fur Naturforschung. C, Journal of biosciences",
+        "Angewandte Chemie (International ed. in English)",
+        "Translational andrology and urology"
+      ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC journals 2",
+          "query": "(JOURNAL:\"microLife\" OR JOURNAL:\"Nucleic Acids Research\" OR JOURNAL:\"NAR Genomics and Bioinformatics\" OR JOURNAL:\"Bioinformatics\" OR JOURNAL:\"Microbes and Environments\" OR JOURNAL:\"Frontiers in Microbiology\" OR JOURNAL:\"Frontiers in Marine Science\" OR JOURNAL:\"mBio\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "journal article"
+      ],
+      "id": "10.1093/nar/gkag1091",
+      "title": "SAbDab2: the structural antibody database in the age of machine learning.",
+      "abstract": "The Structural Antibody Database (SAbDab) is a publicly available repository of experimentally determined antibody structures, first released in 2013. Explicit support for single-domain antibodies was added in 2021, with SAbDab-nano. Recently, increasing interest in antibodies has led to a proliferation of novel antibody formats, while simultaneous advances in machine learning (ML) have increased demand for standardized, high-quality structure data. Here, we present SAbDab2, re-engineered for the ML age. It introduces support for a variety of new formats, and makes it easy to retrieve and compare all known structures of a given antibody. In addition, SAbDab2 provides ready access to ML-grade structures of antibody and antibody-antigen-complexes, with standardized, versioned train/test splits. These will be updated every 6 months going forward and are available at https://zenodo.org/records/20083994. SAbDab2 itself is updated weekly and freely available at https://sabdab2.opig.stats.ox.ac.uk.",
+      "journal": "Nucleic Acids Research",
+      "doi": "10.1093/nar/gkag1091",
+      "date": "2026-10-31",
+      "authors": "Capel HL, Vavourakis O, Williams BH, Taylor CR, Deane CM.",
+      "tags": [
+        "微生物学"
+      ],
+      "source_url": "https://europepmc.org/article/MED/42963946",
+      "preprint": false,
+      "review": false,
+      "pmcid": "",
+      "pmid": "42963946",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [],
+        "context": {
+          "marine": [],
+          "genomics": [],
+          "evolution": []
+        },
+        "tags": [
+          "微生物学"
+        ]
+      },
+      "collection_order": 5402,
+      "collected_at": "2026-11-22T06:45:33.032218+00:00",
+      "collected_date": "2026-11-22",
+      "sources": [
+        "Europe PMC journals 2"
+      ],
+      "first_seen": "2026-11-22",
+      "related_dois": [
+        "10.1093/nar/gkag1091"
+      ],
+      "translation": {
+        "title": {
+          "hash": "90e3ad715d99063fcd3ce7356c12b2c4b36c738846ce925a4bda1411054a9dcd",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-22T07:18:01.091894+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "93a04ecf52d5edaa191cd0226d0168c56516c76aed2cda589d04cfdd8c579ecf",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-22T07:18:01.091894+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "SAbDab2：機械学習時代における構造抗体データベース。",
+      "abstract_ja": "構造抗体データベース（SAbDab）は、2013年に初めて公開された、実験的に決定された抗体構造の公開リポジトリである。2021年には、SAbDab-nanoによってシングルドメイン抗体への明示的なサポートが追加された。近年、抗体への関心の高まりに伴い、新たな抗体フォーマットが急増する一方で、機械学習（ML）の進展により、標準化された高品質な構造データへの需要が高まっている。本稿では、ML時代に合わせて再設計されたSAbDab2を紹介する。本バージョンでは、多様な新規フォーマットへの対応が導入され、特定の抗体の既知の全構造を容易に取得・比較することが可能となった。さらに、SAbDab2は、標準化されバージョン管理された訓練・テスト分割により、抗体および抗体-抗原複合体のMLグレード構造への即時アクセスを提供している。これらは今後6か月ごとに更新され、https://zenodo.org/records/20083994 で利用可能である。SAbDab2自体は毎週更新されており、https://sabdab2.opig.stats.ox.ac.uk で無料で公開されている。",
+      "answer_journal": "Nucleic Acids Research",
+      "question_type": "published",
+      "options": [
+        "Journal of vascular and interventional radiology : JVIR",
+        "Nucleic Acids Research",
+        "Ecotoxicology and environmental safety",
+        "Chemico-biological interactions"
+      ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC bioinformatics",
+          "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "preprint"
+      ],
+      "id": "10.21203/rs.3.rs-10453675/v1",
+      "title": "Real-time PCR and LAMP assays for the diagnosis of Schistosoma mansoni using urine samples: comparison of two DNA extraction methods",
+      "abstract": "Abstract    Currently, molecular tests on urine samples are being developed as complementary diagnostic tools for  Schistosoma mansoni  alongside parasitological methods. This study aimed to evaluate urine-based real-time PCR and LAMP using DNA extracted either with a commercial kit or by phenol–chloroform for detecting  S. mansoni  . Following ethical approval, stool samples were collected from 200 schoolchildren and examined using the Kato-Katz technique. A subset of 25 urine samples (20  S. mansoni  positive and 5 negative by Kato-Katz) was tested by both real-time PCR and LAMP using the two DNA extraction methods. Kato-Katz diagnosed 36 positive cases, corresponding to a prevalence of 18%. Among them, 38.9%, 55.6% and 5.6% had light, moderate and heavy infections. The urine-based real-time PCR and LAMP commercial extraction kit detected all Kato–Katz positive cases, including those with low infection intensity. Moreover, real-time PCR and LAMP identified 4 and 2 cases, respectively, among Kato–Katz negatives. In contrast, real-time PCR and LAMP phenol/chloroform missed 2 and 3 Kato–Katz positives respectively, each of low infection intensity and LAMP detected one additional case negative by Kato–Katz. The highest sensitivity was observed in real-time PCR (100%) and the LAMP (92%) using the commercial kit, followed by Kato-Katz (83%) and the LAMP phenol/chloroform (75%).  Conclusion  Urine samples are an increasingly validated for  S. mansoni  diagnosis. The commercial kit outperformed phenol/chloroform for  S. mansoni  DNA extraction. Real-time PCR showed the highest performance and LAMP demonstrated a capability as a sensitive, specific, and rapid test suited for resource-limited settings. Although phenol/chloroform remains a cost-effective option, it requires further optimization.",
+      "journal": "",
+      "doi": "10.21203/rs.3.rs-10453675/v1",
+      "date": "2026-11-02",
+      "authors": "Allam AF, Allam AF, Shehab AY, Farag HF, Osma MM, Elkotb SF, Amar MS, Kamel MA, Elsheredy A, Ibrahim HS.",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://europepmc.org/article/PPR/PPR1355244",
+      "preprint": true,
+      "review": false,
+      "pmcid": "",
+      "pmid": "",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "bioinformatics_method_or_resource",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "DNA",
+          "method"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "DNA"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "collection_order": 5359,
+      "collected_at": "2026-11-21T23:14:33.572276+00:00",
+      "collected_date": "2026-11-22",
+      "sources": [
+        "Europe PMC bioinformatics"
+      ],
+      "first_seen": "2026-11-21",
+      "related_dois": [
+        "10.21203/rs.3.rs-10453675/v1"
+      ],
+      "translation": {
+        "title": {
+          "hash": "387a675beaf1e1bf7f39bfe67198751fbb2832f8cd52e3367d681779dcf4a6cf",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-22T07:26:37.531657+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "067d1af817f27fd6d6b384646f4077b6eb6486b15a3364210717121461a25afd",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-22T07:26:37.531657+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "尿検体を用いたマンソン住血吸虫診断のためのリアルタイムPCR法およびLAMP法：2種類のDNA抽出法の比較",
+      "abstract_ja": "要旨    現在、住血吸虫（Schistosoma mansoni）の補完的な診断ツールとして、寄生虫学的手法と並行して尿検体を用いた分子検査法の開発が進められている。本研究では、市販キットまたはフェノール・クロロホルム法により抽出したDNAを用い、S. mansoni検出のための尿ベースのリアルタイムPCRおよびLAMP法を評価することを目的とした。倫理承認を得た後、児童200名から便検体を採取し、Kato-Katz法を用いて検査を行った。尿検体の一部である25検体（Kato-Katz法でS. mansoni陽性20検体、陰性5検体）について、2種類のDNA抽出法を用いてリアルタイムPCRおよびLAMP法による検査を実施した。Kato-Katz法では36例の陽性例が診断され、有病率は18%であった。そのうち、38.9%、55.6%、5.6%に軽症、中等症、および重症の感染が認められた。尿ベースのリアルタイムPCRおよびLAMPの市販抽出キットは、感染強度の低い症例を含むすべてのKato-Katz陽性例を検出した。さらに、リアルタイムPCRおよびLAMPでは、Kato-Katz陰性例の中からそれぞれ4例および2例を同定した。対照的に、リアルタイムPCRおよびLAMPのフェノール・クロロホルム法では、Kato-Katz陽性例をそれぞれ2例および3例見落とし、それぞれ感染強度が低かった。また、LAMPではKato-Katz法で検出されなかった症例をさらに1例検出した。感度は、市販キットを用いたリアルタイムPCR（100%）およびLAMP（92%）で最も高く、次いでKato-Katz法（83%）、LAMPのフェノール・クロロホルム法（75%）の順であった。結論 尿検体はS. mansoniの診断においてますます有効性が確認されつつある。S. mansoniのDNA抽出において、市販キットはフェノール・クロロホルム法を上回る性能を示した。リアルタイムPCRが最高の性能を示し、LAMPは資源の限られた環境に適した、感度・特異度・迅速性に優れた検査法としての能力を実証した。フェノール・クロロホルム法は依然として費用対効果の高い選択肢であるが、さらなる最適化が必要である。",
+      "answer_journal": null,
+      "question_type": "forecast",
+      "options": [
+        "Natural product reports",
+        "Soft matter",
+        "New microbes and new infections",
+        "Animal cells and systems"
+      ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC journals 2",
+          "query": "(JOURNAL:\"microLife\" OR JOURNAL:\"Nucleic Acids Research\" OR JOURNAL:\"NAR Genomics and Bioinformatics\" OR JOURNAL:\"Bioinformatics\" OR JOURNAL:\"Microbes and Environments\" OR JOURNAL:\"Frontiers in Microbiology\" OR JOURNAL:\"Frontiers in Marine Science\" OR JOURNAL:\"mBio\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "brief-report",
+        "journal article"
+      ],
+      "id": "10.1093/bioinformatics/btag783",
+      "title": "ARCHER-LD: rapid long-range linkage disequilibrium calculations at biobank scale using GPU acceleration.",
+      "abstract": "SummaryLinkage disequilibrium (LD) information from one's own dataset is considered optimal for downstream analyses such as statistical fine-mapping. However, the computational complexity (≈N22 computations for N variants) leads most studies to use external reference panels, such as from 1000 Genomes. To capture LD across all variant pairs in biobank-scale whole-genome sequencing (WGS) datasets with hundreds of millions of variants, new computational strategies are essential. We present a novel approach that uses multi-GPU distributed computing to compute R2 for every variant pair in a dataset. On chromosome 22 (1.8 million variants) of the 30× WGS 1000 Genomes dataset, our method using eight consumer-level 12 GB GPUs (NVIDIA RTX 2080TIs) takes 80 min, corresponding to a ≈8× speedup. We further demonstrate true biobank-scale performance in the Penn Medicine Biobank (57 170 samples), computing chromosome 1 LD (≈1.38 million variants) in 49 min versus 22.7 h for PLINK, a ≈28× speedup. With this method, we successfully computed on the aforementioned 30× WGS 1000 Genomes dataset (≈120 million variants and ≈2500 samples) the entire LD matrix (>1e16, or 10 quadrillion elements) in under 6 h using 512 NVIDIA 40GB A100 GPUs on the Department of Energy Argonne Leadership Computing Facility Polaris Supercomputer. We make this tool, Accelerated Rapid Computation of High-throughput Extensive Recombination and Linkage Disequilibrium (ARCHER-LD), coded in Python using CuPy, publicly available. Using this tool, researchers can leverage the full extent of their genomic data without relying on external LD reference panels and acquire more accurate, population-specific findings, particularly for groups underrepresented in existing databases.Availability and implementationARCHER-LD is an open-source tool available on GitHub under the Apache License 2.0 at https://github.com/rachitk/ARCHER-LD. The version of record used in this manuscript is archived via Zenodo at https://doi.org/10.5281/zenodo.23399887.",
+      "journal": "Bioinformatics",
+      "doi": "10.1093/bioinformatics/btag783",
+      "date": "2026-11-01",
+      "authors": "Kumar R, Singhal P, Zhang D, Carson C, Conery M, Rodriguez A, Nandi TN, Ritchie MD, Thavappiragasam M, Voight BF, Madduri RK, Verma A.",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://europepmc.org/article/MED/42895827",
+      "preprint": false,
+      "review": false,
+      "pmcid": "PMC13781455",
+      "pmid": "42895827",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "genom",
+            "genome",
+            "genomic"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "collection_order": 5384,
+      "collected_at": "2026-11-22T06:45:33.032218+00:00",
+      "collected_date": "2026-11-22",
+      "sources": [
+        "Europe PMC journals 2"
+      ],
+      "first_seen": "2026-11-22",
+      "related_dois": [
+        "10.1093/bioinformatics/btag783"
+      ],
+      "translation": {
+        "title": {
+          "hash": "dfcc35119ee5288bd82103c3bdab036abfa5313eb08c78dae846021ee9f7e970",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-22T07:18:01.091894+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "ad373d15cc55901728795cb95c042ddd41ec1b53be8fd012c61d6eabf2e719b7",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-22T07:18:01.091894+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "ARCHER-LD: GPUアクセラレーションを用いたバイオバンク規模での高速な長距離リンケージ不平衡計算。",
+      "abstract_ja": "概要自身のデータセットにおける連鎖不平衡（LD）情報は、統計的ファインマッピングなどのダウンストリーム解析において最適であると考えられている。しかし、計算量（N個のバリアントに対して≈N²²回の計算）が大きいため、ほとんどの研究では1000 Genomesなどの外部リファレンスパネルが用いられている。数億個のバリアントを含むバイオバンク規模の全ゲノムシーケンシング（WGS）データセットにおいて、すべてのバリアントペアにわたるLDを捉えるには、新たな計算戦略が不可欠である。本研究では、マルチGPU分散コンピューティングを用いてデータセット内のすべてのバリアントペアのR2を算出する新規アプローチを提案する。30× WGS 1000 Genomesデータセットの第22染色体（180万バリアント）において、コンシューマー向け12GB GPU（NVIDIA RTX 2080TI）8枚を用いた本手法の計算時間は80分であり、これは≈8倍の高速化に相当する。さらに、Penn Medicine Biobank（57,170サンプル）において真のバイオバンク規模の性能を実証し、第1染色体のLD（≈138万バリアント）を49分で算出したのに対し、PLINKでは22.7時間を要し、≈28倍の高速化を実現した。本手法により、前述の30× WGS 1000 Genomesデータセット（≈1億2,000万バリアント、≈2,500サンプル）において、エネルギー省アルゴンヌ・リーダーシップ・コンピューティング・ファシリティのPolarisスーパーコンピュータ上の512枚のNVIDIA 40GB A100 GPUを用い、全LD行列（>1e16、すなわち100京個の要素）を6時間未満で算出することに成功した。我々は、CuPyを用いてPythonで実装したこのツール「Accelerated Rapid Computation of High-throughput Extensive Recombination and Linkage Disequilibrium (ARCHER-LD)」を公開する。このツールを用いることで、研究者は外部のLDリファレンスパネルに依存することなくゲノムデータの全範囲を活用し、特に既存のデータベースで十分に代表されていない集団について、より正確で集団特異的な知見を得ることができる。利用可能性と実装ARCHER-LDは、GitHub上でApache License 2.0に基づき公開されているオープンソースツールである（https://github.com/rachitk/ARCHER-LD）。本原稿で使用した記録版は、Zenodo（https://doi.org/10.5281/zenodo.23399887）を通じてアーカイブされている。",
+      "answer_journal": "Bioinformatics",
+      "question_type": "published",
+      "options": [
+        "Bioorganic chemistry",
+        "Frontiers in Marine Science",
+        "Cell and tissue research",
+        "Bioinformatics"
+      ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC journals 2",
+          "query": "(JOURNAL:\"microLife\" OR JOURNAL:\"Nucleic Acids Research\" OR JOURNAL:\"NAR Genomics and Bioinformatics\" OR JOURNAL:\"Bioinformatics\" OR JOURNAL:\"Microbes and Environments\" OR JOURNAL:\"Frontiers in Microbiology\" OR JOURNAL:\"Frontiers in Marine Science\" OR JOURNAL:\"mBio\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "journal article"
+      ],
+      "id": "10.1093/nar/gkag1039",
+      "title": "4D-atlas: a multi-species four-dimensional spatiotemporal transcriptomics database spanning development, regeneration, and disease.",
+      "abstract": "Four-dimensional (4D) spatial transcriptomics, which captures molecular landscapes across both three-dimensional (3D) tissue architecture and temporal progression, is essential for deciphering dynamic biological processes such as development, regeneration, and disease progression. Here, we present 4D-atlas (https://bio-bigdata.hrbmu.edu.cn/4D-Atlas or https://4d-atlas.bio-database.com/), the first publicly accessible database dedicated to multi-species 4D spatiotemporal transcriptomic atlases. 4D-atlas collects and standardizes 1629 spatial slices spanning 88 distinct time points with 2-41 per dataset and over 22.2 million cells or spatial spots from 15 representative datasets across six species, encompassing embryonic development, tissue regeneration, and disease progression. Beyond data collection, 4D-atlas provides seven interactive analytical modules that enable 4D (3D space + time) exploration of tissue morphogenesis, spatial gene modules, pathway activities, regulatory networks, cell-cell communication, developmental trajectories, and temporal expression patterns. Using a unified analytical pipeline to integrate 3D spatial architecture and molecular information across discrete biological stages, 4D-atlas enables systematic investigation of tissue morphogenesis and dynamic regulatory programs across time and space.",
+      "journal": "Nucleic Acids Research",
+      "doi": "10.1093/nar/gkag1039",
+      "date": "2026-10-23",
+      "authors": "Zhao H, Liu W, Xu H, Wang L, Yang L, Sun Y, Yu H, Wu M, Li X, Wang L.",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://europepmc.org/article/MED/42922375",
+      "preprint": false,
+      "review": false,
+      "pmcid": "",
+      "pmid": "42922375",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "database",
+          "transcriptomic"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "transcript"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "collection_order": 5405,
+      "collected_at": "2026-11-22T06:45:33.032218+00:00",
+      "collected_date": "2026-11-22",
+      "sources": [
+        "Europe PMC journals 2"
+      ],
+      "first_seen": "2026-11-22",
+      "related_dois": [
+        "10.1093/nar/gkag1039"
+      ],
+      "translation": {
+        "title": {
+          "hash": "3b28ce5d130fae22fff4ed3a16469db11184b1e4453d58a12922055fb0ddf056",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-22T07:23:48.712549+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "a1affbbbbeebb48cea7a2495178732bd67c1011abd2ef7302a2858b346ee14c7",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-22T07:23:48.712549+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "4D-atlas：発生、再生、および疾患を網羅する多種対応の4次元時空間トランスクリプトミクスデータベース。",
+      "abstract_ja": "三次元（3D）組織構造と時間的進展の双方にわたる分子ランドスケープを捉える四次元（4D）空間トランスクリプトミクスは、発生、再生、疾患進行といった動的な生物学的プロセスを解明する上で不可欠である。本稿では、多種間4D時空間トランスクリプトームアトラスに特化した、初の一般公開データベースである4D-atlas（https://bio-bigdata.hrbmu.edu.cn/4D-Atlas または https://4d-atlas.bio-database.com/）を紹介する。4D-atlasは、胚発生、組織再生、疾患進行を網羅する6種の代表的な15のデータセットから、1データセットあたり2～41個、計88の個別の時点にわたる1,629個の空間スライスと、2,220万個以上の細胞または空間スポットを収集・標準化している。データ収集に加え、4D-atlasは7つのインタラクティブな解析モジュールを提供しており、組織形態形成、空間的遺伝子モジュール、パスウェイ活性、調節ネットワーク、細胞間コミュニケーション、発生軌跡、および時間的発現パターンの4D（3D空間＋時間）探索を可能にする。3D空間構造と分子情報を個別の生物学的段階にわたって統合する統一的な解析パイプラインを用いることで、4D-atlasは組織形態形成および動的な調節プログラムの時間的・空間的な系統的調査を実現する。",
+      "answer_journal": "Nucleic Acids Research",
+      "question_type": "published",
+      "options": [
+        "Microvascular research",
+        "Journal of thermal biology",
+        "Journal of evolutionary biology",
+        "Nucleic Acids Research"
+      ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC bioinformatics",
+          "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "preprint"
+      ],
+      "id": "10.64898/2026.10.30.763050",
+      "title": "Diffusion-Based Synthetic Pretraining for Root Segmentation in Rhizotron Images",
+      "abstract": "Rhizotrons allow root system architecture to be studied non-destructively in soil. However, automated analysis of rhizotron images remains difficult: roots have low contrast against soil, soil particles resemble fine roots, and deep learning models need many manually annotated images that are slow and subjective to produce. Synthetic images could provide paired images and annotations at scale, but rhizotron images are largely absent from the data used to train generative models. We built a pipeline combining Low-Rank Adaptation (LoRA), ControlNet and inpainting to generate synthetic rhizotron images with paired root masks. We compared training on synthetic data only, real data only, and synthetic pretraining followed by fine-tuning on real images, using three segmentation models: nnU-Net v2, YOLO26 and Mask2Former. Synthetic-only training reached a Dice score of up to 0.60. Synthetic pretraining followed by fine-tuning on the full real training set (two annotated rhizotron images) reached 0.80, and nnU-Net v2 and Mask2Former reached 0.62 with only two annotated image patches containing visible roots. When real annotations were limited, pretraining also improved segmentation of unseen crops, including lettuce, barley, wheat, maize, tomato, cucumber, French bean and field bean. We also introduced a Soft Dice score that compares predictions with probabilistic consensus maps from seven independent annotators, accounting for annotator disagreement. Models matched average human agreement on low-ambiguity patches but remained below it on high-ambiguity patches. In conclusion, diffusion-generated images can complement real annotations and help scale root segmentation, although their effect on downstream root trait measurements still needs to be validated.",
+      "journal": "",
+      "doi": "10.64898/2026.10.30.763050",
+      "date": "2026-11-02",
+      "authors": "Lu F, Kootstra G, Hartley ZKJ, van de Zedde R, Pound M, Willemsen V.",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://europepmc.org/article/PPR/PPR1355760",
+      "preprint": true,
+      "review": false,
+      "pmcid": "",
+      "pmid": "",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "bioinformatics_method_or_resource",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "gene",
+          "pipeline"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "annotation"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "collection_order": 5357,
+      "collected_at": "2026-11-21T23:14:33.572276+00:00",
+      "collected_date": "2026-11-22",
+      "sources": [
+        "Europe PMC bioinformatics"
+      ],
+      "first_seen": "2026-11-21",
+      "related_dois": [
+        "10.64898/2026.10.30.763050"
+      ],
+      "translation": {
+        "title": {
+          "hash": "d5f7455ed86212d47cfb025675ef6ba7b9774b8fde194323a87176b7b727dc72",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-22T07:26:37.531657+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "ee4b4e0cb12485bbe0ca7b454b9df6bb52dadc60d076f0e0eef70840978e7fb4",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-22T07:26:37.531657+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "リゾトロン画像における根分節のための拡散ベースの合成事前学習",
+      "abstract_ja": "リゾトロンを用いることで、土壌中における根系の構造を非破壊的に研究することが可能となる。しかし、リゾトロン画像の自動解析は依然として困難である。根は土壌とのコントラストが低く、土壌粒子は細根に似ており、さらに深層学習モデルには手動でアノテーションされた大量の画像が必要となるが、その作成には時間がかかり、主観的な判断も伴う。合成画像を用いれば、ペアとなる画像とアノテーションを大規模に提供できるが、生成モデルの学習に用いられるデータにリゾトロン画像はほとんど含まれていない。本研究では、Low-Rank Adaptation (LoRA)、ControlNet、およびインペインティングを組み合わせたパイプラインを構築し、ペアとなる根マスクを伴う合成リゾトロン画像を生成した。合成データのみを用いた学習、実データのみを用いた学習、および合成データによる事前学習後に実画像でファインチューニングを行う手法を、3つのセグメンテーションモデル（nnU-Net v2、YOLO26、Mask2Former）を用いて比較した。合成データのみによる学習では、Diceスコアが最大0.60に達した。合成データによる事前学習後に、全実データ訓練セット（アノテーション済みのリゾトロン画像2枚）でファインチューニングを行った場合は0.80に達し、nnU-Net v2およびMask2Formerでは、根が視認できるアノテーション済み画像パッチがわずか2箇所のみの場合でも0.62に達した。実データによるアノテーションが限られている場合でも、事前学習によってレタス、大麦、小麦、トウモロコシ、トマト、キュウリ、サヤインゲン、ソラマメなど、未見の作物のセグメンテーション精度が向上した。また、アノテーター間の不一致を考慮した、7名の独立したアノテーターによる確率的コンセンサスマップと予測結果を比較するSoft Diceスコアを導入した。モデルは、曖昧性の低いパッチでは人間の平均一致率に匹敵したが、曖昧性の高いパッチではそれを下回る結果となった。結論として、拡散生成画像は実データによるアノテーションを補完し、根のセグメンテーションのスケールアップに寄与し得るが、その下流の根の形質測定への影響については、さらなる検証が必要である。",
+      "answer_journal": null,
+      "question_type": "forecast",
+      "options": [
+        "Romanian journal of internal medicine = Revue roumaine de medecine interne",
+        "International journal of phytoremediation",
+        "Access microbiology",
+        "Environmental toxicology and chemistry"
+      ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC journals 2",
+          "query": "(JOURNAL:\"microLife\" OR JOURNAL:\"Nucleic Acids Research\" OR JOURNAL:\"NAR Genomics and Bioinformatics\" OR JOURNAL:\"Bioinformatics\" OR JOURNAL:\"Microbes and Environments\" OR JOURNAL:\"Frontiers in Microbiology\" OR JOURNAL:\"Frontiers in Marine Science\" OR JOURNAL:\"mBio\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "journal article"
+      ],
+      "id": "10.1093/nar/gkag993",
+      "title": "scSpatial: an atlas for single-cell spatial omics.",
+      "abstract": "Single-cell spatial omics (SCSO) has reshaped spatial profiling by enabling simultaneous molecular characterization and spatial mapping at single-cell resolution, providing insights into cellular identities and tissue architecture within native biological contexts. By integrating spatial coordinates with molecular profiles and cell identities, SCSO datasets have been widely used to construct spatially resolved cell atlases, characterize disease-associated tissue remodeling, and map disease-relevant cell populations. However, these SCSO datasets remain fragmented across individual publications, and comprehensive SCSO resources are still lacking. Here, scSpatial was therefore developed as an atlas for SCSO with expert-curated cell annotations and high-resolution spatial mappings. The current release of scSpatial curates a large-scale collection of SCSO data, comprising over 1800 tissue sections from 630 projects generated using 16 spatial technologies; provides >20 million spatially resolved cells annotated into 173 standardized Cell Ontology types; and offers SCSO-tailored analyses and interactive visualizations, including spatial gene expression atlases, cell type distribution maps, spatially variable genes, gene expression correlations, and pathway-level spatial activity profiles. scSpatial is freely accessible to all users without requiring login at https://idrblab.org/scspatial/.",
+      "journal": "Nucleic Acids Research",
+      "doi": "10.1093/nar/gkag993",
+      "date": "2026-10-23",
+      "authors": "Sun H, Bei Y, Zhu Z, Deng J, Zhou Y, Mou M, Wei T, Cao H, Yang Q, Yao C, Zhu F.",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://europepmc.org/article/MED/42922359",
+      "preprint": false,
+      "review": false,
+      "pmcid": "",
+      "pmid": "42922359",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "annotation"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "collection_order": 5404,
+      "collected_at": "2026-11-22T06:45:33.032218+00:00",
+      "collected_date": "2026-11-22",
+      "sources": [
+        "Europe PMC journals 2"
+      ],
+      "first_seen": "2026-11-22",
+      "related_dois": [
+        "10.1093/nar/gkag993"
+      ],
+      "translation": {
+        "title": {
+          "hash": "a833e24e3184762f87e5c366ce08c83ec38d1f84802980beec64f4bebd3136e3",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-22T07:21:07.028229+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "efdca9fa2f3cca601247ab53fdabf380fc9f388c3ce942446d5b6976ce1ba75e",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-22T07:21:07.028229+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "scSpatial: シングルセル空間オミクス用アトラス。",
+      "abstract_ja": "シングルセル空間オミクス（SCSO）は、シングルセル解像度での分子特性解析と空間マッピングを同時に可能にすることで、空間プロファイリングのあり方を一変させ、本来の生物学的コンテキストにおける細胞のアイデンティティや組織構造に関する知見をもたらしてきた。空間座標を分子プロファイルや細胞アイデンティティと統合することで、SCSOデータセットは空間分解能を持つ細胞アトラスの構築、疾患関連の組織リモデリングの特性解析、および疾患に関連する細胞集団のマッピングに広く利用されてきた。しかし、これらのSCSOデータセットは個々の論文間で断片化したままであり、包括的なSCSOリソースは依然として不足している。そこで本研究では、専門家がキュレーションした細胞アノテーションと高解像度の空間マッピングを備えたSCSO用アトラスとして、scSpatialを開発した。現在のscSpatialリリースでは、16種類の空間技術を用いて生成された630のプロジェクトからなる1,800以上の組織切片を含む大規模なSCSOデータコレクションをキュレーションしており、173種類の標準化されたCell Ontologyタイプでアノテーションされた2,000万個以上の空間分解能細胞を提供している。さらに、空間遺伝子発現アトラス、細胞種分布マップ、空間的に変動する遺伝子、遺伝子発現相関、およびパスウェイレベルの空間活性プロファイルなど、SCSOに特化した解析とインタラクティブな可視化機能を提供している。scSpatialは、ログイン不要ですべてのユーザーが https://idrblab.org/scspatial/ から無料で利用可能である。",
+      "answer_journal": "Nucleic Acids Research",
+      "question_type": "published",
+      "options": [
+        "The Journal of antibiotics",
+        "Food research international (Ottawa, Ont.)",
+        "Nucleic Acids Research",
+        "Cell genomics"
+      ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC journals 2",
+          "query": "(JOURNAL:\"microLife\" OR JOURNAL:\"Nucleic Acids Research\" OR JOURNAL:\"NAR Genomics and Bioinformatics\" OR JOURNAL:\"Bioinformatics\" OR JOURNAL:\"Microbes and Environments\" OR JOURNAL:\"Frontiers in Microbiology\" OR JOURNAL:\"Frontiers in Marine Science\" OR JOURNAL:\"mBio\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "journal article"
+      ],
+      "id": "10.1093/bioinformatics/btag775",
+      "title": "MSCquartets 3.3: Fast Inference of Species Networks and Trees of Blobs under the Multispecies Coalescent.",
+      "abstract": "The R package MSCquartets offers a suite of methods for testing and inferring species relationships from gene trees under coalescent models. MSCquartets 3.3 significantly extends the functionality of version 1.0 by implementing the TINNiK and ECToBlob algorithms for inference of the tree of blobs under the network multispecies coalescent model (NMSC). Additionally, it implements the NANUQ+ algorithm, a fast method for inference of level-1 networks. Computational speed of all functionalities is greatly improved through use of C ++ routines, and a Shiny App is introduced for easier exploration of basic analyses. Availability and implementation: MSCquartets 3.3 is available on the Comprehensive R Archive Network, at https://CRAN.R-project.org/package=MSCquartets. The MSCquartets 3.3 Shiny App is available at https://mscquartets.shinyapps.io/MSCq-app/.",
+      "journal": "Bioinformatics",
+      "doi": "10.1093/bioinformatics/btag775",
+      "date": "2026-10-20",
+      "authors": "Rhodes JA, Allman ES, Ané C, Baños H, Mitchell JD, Wicke K.",
+      "tags": [
+        "微生物学"
+      ],
+      "source_url": "https://europepmc.org/article/MED/42902789",
+      "preprint": false,
+      "review": false,
+      "pmcid": "",
+      "pmid": "42902789",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [],
+        "context": {
+          "marine": [],
+          "genomics": [],
+          "evolution": []
+        },
+        "tags": [
+          "微生物学"
+        ]
+      },
+      "collection_order": 5391,
+      "collected_at": "2026-11-22T06:45:33.032218+00:00",
+      "collected_date": "2026-11-22",
+      "sources": [
+        "Europe PMC journals 2"
+      ],
+      "first_seen": "2026-11-22",
+      "related_dois": [
+        "10.1093/bioinformatics/btag775"
+      ],
+      "translation": {
+        "title": {
+          "hash": "578267b7b1aa802400913db9ec12428f14ac236db63cf0bd096c4143bf2dc60c",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-22T07:23:48.712549+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "f47bfb1f94929972a1a223728d013887b799cd9b66489b75423660c15030ccd5",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-22T07:23:48.712549+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "MSCquartets 3.3: 多種融合モデルにおける種ネットワークおよびブロブの木の高速推論",
+      "abstract_ja": "RパッケージMSCquartetsは、共進化モデルに基づく系統樹から種間関係を検定・推定するための一連の手法を提供する。MSCquartets 3.3は、ネットワーク多種共進化モデル（NMSC）におけるブロブ系統樹の推定用にTINNiKおよびECToBlobアルゴリズムを実装することで、バージョン1.0の機能を大幅に拡張している。さらに、レベル1ネットワークの推定を高速に行う手法であるNANUQ+アルゴリズムを実装している。C++ルーチンの採用によりすべての機能の計算速度が大幅に向上しており、基本的な解析をより容易に探索するためのShiny Appも導入されている。提供状況および実装：MSCquartets 3.3は、Comprehensive R Archive Network（https://CRAN.R-project.org/package=MSCquartets）で利用可能である。MSCquartets 3.3のShiny Appは、https://mscquartets.shinyapps.io/MSCq-app/ で利用可能である。",
+      "answer_journal": "Bioinformatics",
+      "question_type": "published",
+      "options": [
+        "Experimental and molecular pathology",
+        "MicrobiologyOpen",
+        "Cell biology international",
+        "Bioinformatics"
+      ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC journals 2",
+          "query": "(JOURNAL:\"microLife\" OR JOURNAL:\"Nucleic Acids Research\" OR JOURNAL:\"NAR Genomics and Bioinformatics\" OR JOURNAL:\"Bioinformatics\" OR JOURNAL:\"Microbes and Environments\" OR JOURNAL:\"Frontiers in Microbiology\" OR JOURNAL:\"Frontiers in Marine Science\" OR JOURNAL:\"mBio\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "journal article"
+      ],
+      "id": "10.1093/nar/gkag1020",
+      "title": "TTPdb: a comprehensive database of targeted therapeutic peptides.",
+      "abstract": "Targeted therapeutic peptides (TTPs) represent a promising therapeutic modality that bridges the gap between small-molecule drugs and macromolecular antibody-based therapeutics by combining high target specificity, superior tissue permeability, and controllable synthesis. Recent advances in chemical modification and computational design have accelerated the clinical translation of TTPs across diverse therapeutic areas, generating multidimensional data that encompass pharmaceutical profiles, structural binding insights, and structure-activity relationships. However, these data remain fragmented across disparate sources, and no dedicated platform exists to systematically integrate them for mechanistic exploration or rational peptide engineering. Here, we present TTPdb, a specialized database that consolidates comprehensive information on TTPs. TTPdb compiles 5366 TTPs (106 approved, 229 clinical, and 5031 preclinical or investigative), which span >600 disease types and are annotated with 3D structures, binding interactions, and physicochemical properties. TTPdb further catalogs peptide structural modifications and pharmacological mechanisms while establishing associations among peptides, targets, and diseases. TTPdb incorporates a multidimensional search module that supports universal keyword queries, structured conditional filtering, and FASTA-based sequence homology searches, with peptides, targets, and diseases as the primary search entities. As a valuable resource for rational peptide design and optimization in AI-driven biomedical research, TTPdb is freely accessible at https://idrblab.org/TTPdb.",
+      "journal": "Nucleic Acids Research",
+      "doi": "10.1093/nar/gkag1020",
+      "date": "2026-10-24",
+      "authors": "Zhang Y, Li X, Lu W, Mou M, Yuan P, Yang N, Li X, Zhang Z, Wang Y, Zhou Z, Zhou Y, Fu Y, Wang L, Zuo Z, Liu M, Zhu F, Liu J, Zhang Y, Jia Q.",
+      "tags": [
+        "微生物学"
+      ],
+      "source_url": "https://europepmc.org/article/MED/42952464",
+      "preprint": false,
+      "review": false,
+      "pmcid": "",
+      "pmid": "42952464",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [],
+        "context": {
+          "marine": [],
+          "genomics": [],
+          "evolution": []
+        },
+        "tags": [
+          "微生物学"
+        ]
+      },
+      "collection_order": 5403,
+      "collected_at": "2026-11-22T06:45:33.032218+00:00",
+      "collected_date": "2026-11-22",
+      "sources": [
+        "Europe PMC journals 2"
+      ],
+      "first_seen": "2026-11-22",
+      "related_dois": [
+        "10.1093/nar/gkag1020"
+      ],
+      "translation": {
+        "title": {
+          "hash": "42c93d22d72e0def191081b14e66b53e0adc8415f6586c3150492df3c0850b71",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-22T07:21:07.028229+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "668e7c3a8f2abb425854b462ca9d09d3e37d338dcb35f6098ac2b270d0d709cb",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-22T07:21:07.028229+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "TTPdb：標的治療用ペプチドの包括的データベース。",
+      "abstract_ja": "標的治療ペプチド（TTP）は、高い標的特異性、優れた組織透過性、および制御可能な合成を組み合わせることで、低分子医薬品と高分子抗体ベースの治療薬との間の隔たりを埋める有望な治療モダリティである。近年の化学修飾および計算設計の進展により、多様な治療領域におけるTTPの臨床応用が加速し、薬物プロファイル、構造結合に関する知見、および構造活性相関を網羅する多次元データが生成されている。しかし、これらのデータは依然として異なる情報源に断片化されており、機序探索や合理的ペプチド工学のためにそれらを体系的に統合する専用プラットフォームは存在しない。本稿では、TTPに関する包括的な情報を集約した特化型データベース「TTPdb」を提案する。TTPdbは、600種類以上の疾患タイプにわたる5,366種類のTTP（承認済み106種、臨床試験中229種、前臨床または研究段階5,031種）を収録しており、それぞれに3次元構造、結合相互作用、および物理化学的特性がアノテーションされている。さらに、TTPdbはペプチドの構造修飾や薬理学的機序をカタログ化するとともに、ペプチド、標的、および疾患間の関連性を構築している。TTPdbには、汎用的なキーワードクエリ、構造化条件付きフィルタリング、およびFASTAベースの配列相同性検索をサポートする多次元検索モジュールが組み込まれており、ペプチド、標的、および疾患を主要な検索エンティティとしている。AI駆動型の生物医学研究における合理的ペプチドの設計および最適化のための貴重なリソースとして、TTPdbはhttps://idrblab.org/TTPdbにて無料で利用可能である。",
+      "answer_journal": "Nucleic Acids Research",
+      "question_type": "published",
+      "options": [
+        "Journal of medical microbiology",
+        "Nucleic Acids Research",
+        "Veterinary research",
+        "Journal of infection and chemotherapy : official journal of the Japan Society of Chemotherapy"
+      ]
     }
   ],
   "journal_catalog": [
@@ -79697,6 +80883,13 @@
     },
     {
       "name": "ACS sensors",
+      "scope": [
+        "genomics",
+        "microbiology"
+      ]
+    },
+    {
+      "name": "ACS synthetic biology",
       "scope": [
         "genomics",
         "microbiology"
@@ -79860,6 +81053,13 @@
     },
     {
       "name": "American journal of epidemiology",
+      "scope": [
+        "genomics",
+        "microbiology"
+      ]
+    },
+    {
+      "name": "American journal of human biology : the official journal of the Human Biology Council",
       "scope": [
         "genomics",
         "microbiology"
@@ -80502,6 +81702,13 @@
       "name": "Bioelectrochemistry (Amsterdam, Netherlands)",
       "scope": [
         "ecology",
+        "genomics",
+        "microbiology"
+      ]
+    },
+    {
+      "name": "BioFactors (Oxford, England)",
+      "scope": [
         "genomics",
         "microbiology"
       ]
@@ -87227,6 +88434,13 @@
     },
     {
       "name": "Psychoneuroendocrinology",
+      "scope": [
+        "genomics",
+        "microbiology"
+      ]
+    },
+    {
+      "name": "Psycho-oncology",
       "scope": [
         "genomics",
         "microbiology"
