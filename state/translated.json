@@ -319061,5 +319061,307 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "巨核球性プロテオームシグネチャーが骨髄増殖性腫瘍を定義する",
     "abstract_ja": "古典的なフィラデルフィア陰性骨髄増殖性腫瘍（MPN）は、一部に異常な巨核球が関与する顕著なニッチ調節不全を伴う、骨髄のクローン性幹細胞疾患である。3つの古典的MPNである真性多血症（PV）、本態性血小板増多症（ET）、および原発性骨髄線維症（PMF）は、診断分類の一助となる確立された巨核球の形態学的差異を示す。骨髄吸引液中の巨核球が乏しいため、これまで臨床検体における巨核球のプロテオーム解析は制限されてきた。本研究では、PV、ET、およびPMF患者の骨髄由来in situ巨核球のバイアスのないプロテオーム解析を行うことを目的とした。新規の深層ビジュアルプロテオミクス戦略を用い、MPN患者60例および対照群20例（骨髄浸潤のない限局期非ホジキンリンパ腫患者）から巨核球を摘出し解析した。その結果、MPN患者由来の巨核球プロテオームは対照群のものとは異なり、さらに3つのMPN由来の巨核球はそれぞれ疾患特異的な固有のシグネチャーを有することが明らかとなった。疾患特異的な巨核球プロテオームは、疾患の新規パスウェイを浮き彫りにする。 要点 新規手法により、保存された臨床FFPE骨髄トレフィン検体由来のin situ巨核球プロテオームを評価可能である。骨髄増殖性腫瘍の巨核球は、疾患特異的な特徴的な機能的プロテオームシグネチャーを示す。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.30.763050",
+    "title": "Diffusion-Based Synthetic Pretraining for Root Segmentation in Rhizotron Images",
+    "abstract": "Rhizotrons allow root system architecture to be studied non-destructively in soil. However, automated analysis of rhizotron images remains difficult: roots have low contrast against soil, soil particles resemble fine roots, and deep learning models need many manually annotated images that are slow and subjective to produce. Synthetic images could provide paired images and annotations at scale, but rhizotron images are largely absent from the data used to train generative models. We built a pipeline combining Low-Rank Adaptation (LoRA), ControlNet and inpainting to generate synthetic rhizotron images with paired root masks. We compared training on synthetic data only, real data only, and synthetic pretraining followed by fine-tuning on real images, using three segmentation models: nnU-Net v2, YOLO26 and Mask2Former. Synthetic-only training reached a Dice score of up to 0.60. Synthetic pretraining followed by fine-tuning on the full real training set (two annotated rhizotron images) reached 0.80, and nnU-Net v2 and Mask2Former reached 0.62 with only two annotated image patches containing visible roots. When real annotations were limited, pretraining also improved segmentation of unseen crops, including lettuce, barley, wheat, maize, tomato, cucumber, French bean and field bean. We also introduced a Soft Dice score that compares predictions with probabilistic consensus maps from seven independent annotators, accounting for annotator disagreement. Models matched average human agreement on low-ambiguity patches but remained below it on high-ambiguity patches. In conclusion, diffusion-generated images can complement real annotations and help scale root segmentation, although their effect on downstream root trait measurements still needs to be validated.",
+    "journal": "",
+    "doi": "10.64898/2026.10.30.763050",
+    "date": "2026-11-02",
+    "authors": "Lu F, Kootstra G, Hartley ZKJ, van de Zedde R, Pound M, Willemsen V.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1355760",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "gene",
+        "pipeline"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5357,
+    "collected_at": "2026-11-21T23:14:33.572276+00:00",
+    "collected_date": "2026-11-22",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-21",
+    "related_dois": [
+      "10.64898/2026.10.30.763050"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d5f7455ed86212d47cfb025675ef6ba7b9774b8fde194323a87176b7b727dc72",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-22T07:26:37.531657+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ee4b4e0cb12485bbe0ca7b454b9df6bb52dadc60d076f0e0eef70840978e7fb4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-22T07:26:37.531657+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "リゾトロン画像における根分節のための拡散ベースの合成事前学習",
+    "abstract_ja": "リゾトロンを用いることで、土壌中における根系の構造を非破壊的に研究することが可能となる。しかし、リゾトロン画像の自動解析は依然として困難である。根は土壌とのコントラストが低く、土壌粒子は細根に似ており、さらに深層学習モデルには手動でアノテーションされた大量の画像が必要となるが、その作成には時間がかかり、主観的な判断も伴う。合成画像を用いれば、ペアとなる画像とアノテーションを大規模に提供できるが、生成モデルの学習に用いられるデータにリゾトロン画像はほとんど含まれていない。本研究では、Low-Rank Adaptation (LoRA)、ControlNet、およびインペインティングを組み合わせたパイプラインを構築し、ペアとなる根マスクを伴う合成リゾトロン画像を生成した。合成データのみを用いた学習、実データのみを用いた学習、および合成データによる事前学習後に実画像でファインチューニングを行う手法を、3つのセグメンテーションモデル（nnU-Net v2、YOLO26、Mask2Former）を用いて比較した。合成データのみによる学習では、Diceスコアが最大0.60に達した。合成データによる事前学習後に、全実データ訓練セット（アノテーション済みのリゾトロン画像2枚）でファインチューニングを行った場合は0.80に達し、nnU-Net v2およびMask2Formerでは、根が視認できるアノテーション済み画像パッチがわずか2箇所のみの場合でも0.62に達した。実データによるアノテーションが限られている場合でも、事前学習によってレタス、大麦、小麦、トウモロコシ、トマト、キュウリ、サヤインゲン、ソラマメなど、未見の作物のセグメンテーション精度が向上した。また、アノテーター間の不一致を考慮した、7名の独立したアノテーターによる確率的コンセンサスマップと予測結果を比較するSoft Diceスコアを導入した。モデルは、曖昧性の低いパッチでは人間の平均一致率に匹敵したが、曖昧性の高いパッチではそれを下回る結果となった。結論として、拡散生成画像は実データによるアノテーションを補完し、根のセグメンテーションのスケールアップに寄与し得るが、その下流の根の形質測定への影響については、さらなる検証が必要である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11555250/v1",
+    "title": "Human-Governed Multi-Agent AI for Biological Hypothesis Generation: An Evidence-Grounded Framework Using JUMP Cell Painting Profiles",
+    "abstract": "Abstract  High-dimensional cellular phenotypes can motivate biological hypotheses, but similarity alone cannot establish mechanism or causal validity. DISCOVERY-AGENT links exploratory JUMP Cell Painting evidence with evidence-grounded hypothesis generation, independent critique and bounded human-review routing. An initial 65-record CRISPR/ORF analysis across nine gene–modality tests found four FDR-significant CRISPR plate-level associations (AKT1, BRCA1, MTOR and TP53), none among evaluated ORF genes. A distinct later cross-source compound-identity benchmark used 614 morphological features and achieved AUROC 0.6142 on 1,250 held-out compounds with training-only preprocessing; this is identity discrimination, not mechanism-of-action classification. Three structured hypotheses underwent LLM critique and revision, while eleven gene-pair evidence assessments yielded no FDR-significant mechanistic finding (minimum q = 0.2037). Archived governance checks passed 1,021/1,021 predefined tests; nevertheless, the initial live-agent run contained two execution errors among five cases, with both cases responding on fresh retest. These findings demonstrate feasibility of auditable evidence processing and modest cross-source morphology signal, not validated autonomous discovery, prospective safety, or completed expert review. The work delineates practical requirements for independent biological validation and reproducible scientific agents.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11555250/v1",
+    "date": "2026-11-02",
+    "authors": "Kamran S, Saman F.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1355462",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "framework",
+          "gene"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5358,
+    "collected_at": "2026-11-21T23:14:33.572276+00:00",
+    "collected_date": "2026-11-22",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-21",
+    "related_dois": [
+      "10.21203/rs.3.rs-11555250/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "855daa65a47d55954369b866db8ec6bb3ee0182b48f3141ec7842baaebbe407f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-22T07:26:37.531657+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "15a04ea51f973f52668eb3df1ff36b393c79c90379b3f68904c3072e5b2c7326",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-22T07:26:37.531657+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "生物学的仮説生成のための人間主導型マルチエージェントAI：JUMPセルペインティングプロファイルを用いたエビデンスに基づくフレームワーク",
+    "abstract_ja": "要旨　高次元の細胞表現型は生物学的仮説の動機付けとなり得るが、類似性だけではメカニズムや因果的妥当性を立証することはできない。DISCOVERY-AGENTは、探索的なJUMP Cell Paintingのエビデンスを、エビデンスに基づく仮説生成、独立した批評、および限定的な人間によるレビュールーティングと結びつける。9つの遺伝子モダリティテストにわたる初期の65レコードのCRISPR/ORF解析では、FDR有意なCRISPRプレートレベルの関連が4件（AKT1、BRCA1、MTOR、TP53）認められたが、評価対象のORF遺伝子の中には認められなかった。その後に実施された別のソース横断的な化合物同一性ベンチマークでは、614の形態学的特徴を用い、学習のみの前処理を施した状態でホールドアウト化合物1,250件に対しAUROC 0.6142を達成した。これは同一性の判別であり、作用機序の分類ではない。3つの構造化仮説がLLMによる批評と修正を受け、一方で11件の遺伝子ペアエビデンス評価では、FDR有意なメカニズム上の知見は得られなかった（最小q = 0.2037）。アーカイブされたガバナンスチェックは、1,021件の事前定義済みテストすべてに合格した。それにもかかわらず、初期のライブエージェント実行では、5件のうち2件の実行エラーが発生し、いずれのケースも再テストで応答した。これらの知見は、監査可能なエビデンス処理と限定的なソース横断的な形態学的シグナルの実現可能性を示すものであり、検証済みの自律的発見、将来的な安全性、あるいは完了した専門家レビューを示すものではない。本研究は、独立した生物学的検証および再現性のある科学的エージェントのための実用的要件を明示するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-10453675/v1",
+    "title": "Real-time PCR and LAMP assays for the diagnosis of Schistosoma mansoni using urine samples: comparison of two DNA extraction methods",
+    "abstract": "Abstract    Currently, molecular tests on urine samples are being developed as complementary diagnostic tools for  Schistosoma mansoni  alongside parasitological methods. This study aimed to evaluate urine-based real-time PCR and LAMP using DNA extracted either with a commercial kit or by phenol–chloroform for detecting  S. mansoni  . Following ethical approval, stool samples were collected from 200 schoolchildren and examined using the Kato-Katz technique. A subset of 25 urine samples (20  S. mansoni  positive and 5 negative by Kato-Katz) was tested by both real-time PCR and LAMP using the two DNA extraction methods. Kato-Katz diagnosed 36 positive cases, corresponding to a prevalence of 18%. Among them, 38.9%, 55.6% and 5.6% had light, moderate and heavy infections. The urine-based real-time PCR and LAMP commercial extraction kit detected all Kato–Katz positive cases, including those with low infection intensity. Moreover, real-time PCR and LAMP identified 4 and 2 cases, respectively, among Kato–Katz negatives. In contrast, real-time PCR and LAMP phenol/chloroform missed 2 and 3 Kato–Katz positives respectively, each of low infection intensity and LAMP detected one additional case negative by Kato–Katz. The highest sensitivity was observed in real-time PCR (100%) and the LAMP (92%) using the commercial kit, followed by Kato-Katz (83%) and the LAMP phenol/chloroform (75%).  Conclusion  Urine samples are an increasingly validated for  S. mansoni  diagnosis. The commercial kit outperformed phenol/chloroform for  S. mansoni  DNA extraction. Real-time PCR showed the highest performance and LAMP demonstrated a capability as a sensitive, specific, and rapid test suited for resource-limited settings. Although phenol/chloroform remains a cost-effective option, it requires further optimization.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-10453675/v1",
+    "date": "2026-11-02",
+    "authors": "Allam AF, Allam AF, Shehab AY, Farag HF, Osma MM, Elkotb SF, Amar MS, Kamel MA, Elsheredy A, Ibrahim HS.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1355244",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "DNA",
+        "method"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5359,
+    "collected_at": "2026-11-21T23:14:33.572276+00:00",
+    "collected_date": "2026-11-22",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-21",
+    "related_dois": [
+      "10.21203/rs.3.rs-10453675/v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "387a675beaf1e1bf7f39bfe67198751fbb2832f8cd52e3367d681779dcf4a6cf",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-22T07:26:37.531657+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "067d1af817f27fd6d6b384646f4077b6eb6486b15a3364210717121461a25afd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-22T07:26:37.531657+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "尿検体を用いたマンソン住血吸虫診断のためのリアルタイムPCR法およびLAMP法：2種類のDNA抽出法の比較",
+    "abstract_ja": "要旨    現在、住血吸虫（Schistosoma mansoni）の補完的な診断ツールとして、寄生虫学的手法と並行して尿検体を用いた分子検査法の開発が進められている。本研究では、市販キットまたはフェノール・クロロホルム法により抽出したDNAを用い、S. mansoni検出のための尿ベースのリアルタイムPCRおよびLAMP法を評価することを目的とした。倫理承認を得た後、児童200名から便検体を採取し、Kato-Katz法を用いて検査を行った。尿検体の一部である25検体（Kato-Katz法でS. mansoni陽性20検体、陰性5検体）について、2種類のDNA抽出法を用いてリアルタイムPCRおよびLAMP法による検査を実施した。Kato-Katz法では36例の陽性例が診断され、有病率は18%であった。そのうち、38.9%、55.6%、5.6%に軽症、中等症、および重症の感染が認められた。尿ベースのリアルタイムPCRおよびLAMPの市販抽出キットは、感染強度の低い症例を含むすべてのKato-Katz陽性例を検出した。さらに、リアルタイムPCRおよびLAMPでは、Kato-Katz陰性例の中からそれぞれ4例および2例を同定した。対照的に、リアルタイムPCRおよびLAMPのフェノール・クロロホルム法では、Kato-Katz陽性例をそれぞれ2例および3例見落とし、それぞれ感染強度が低かった。また、LAMPではKato-Katz法で検出されなかった症例をさらに1例検出した。感度は、市販キットを用いたリアルタイムPCR（100%）およびLAMP（92%）で最も高く、次いでKato-Katz法（83%）、LAMPのフェノール・クロロホルム法（75%）の順であった。結論 尿検体はS. mansoniの診断においてますます有効性が確認されつつある。S. mansoniのDNA抽出において、市販キットはフェノール・クロロホルム法を上回る性能を示した。リアルタイムPCRが最高の性能を示し、LAMPは資源の限られた環境に適した、感度・特異度・迅速性に優れた検査法としての能力を実証した。フェノール・クロロホルム法は依然として費用対効果の高い選択肢であるが、さらなる最適化が必要である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.20944/preprints202611.0063.v1",
+    "title": "Provable Uniformity and Min-Entropy Bounds from Compound Negative Binomial Jitter: A Software-Defined TRNG",
+    "abstract": "Quantum-safe cryptographic protocols require certified entropy for key generation, nonces, and ephemeral parameters. Existing hardware and quantum random number generators impose deployment costs, supply-chain risks, and rely on heuristic post-processing. We present a mathematically certified, software-defined entropy source—a true random number generator (TRNG)—that produces uniform randomness with a provable min-entropy lower bound via computational jitter modulation, without specialized hardware or external conditioning. The core contribution is the Geometric Convergence Theorem (GCT): the modular reduction of a Compound Negative Binomial (CNB)-distributed observable converges exponentially to an invariant uniform measure over finite cyclic groups, with an explicit, computable spectral decay factor and a matching min-entropy lower bound. The GCT is complemented by the Stochastic Uncertainty Principle (SUP), an exact coefficient-of-variation decomposition that quantifies physical entropy injection from microarchitectural jitter. Together they yield a two-layer architecture: the combinatorial layer carries an exact, platform-independent uniformity bound, and the physical layer supplies the fresh entropy through continuous reseeding, so that the certified output is TRNG-class rather than a deterministic PRNG stream. The framework is validated through the Random Permutation Sorting System (RPSS) on commodity hardware, implemented in C with intentional compiler anti-optimization to maximize jitter. Empirical results confirm the theorem’s predictions, achieving Shannon entropy of 7.999997 bits/byte and min-entropy of 7.992 bits/byte over 100 MB of samples, with these values reproducible across three independent long-duration runs spanning a nearly 500× range in physical volatility, and directly from raw modular outputs without post-processing. This establishes a platform-agnostic, mathematically certified foundation for software-defined entropy generation, with direct implications for FIPS 140-3 post-quantum cryptographic infrastructure and entropy sovereignty.",
+    "journal": "",
+    "doi": "10.20944/preprints202611.0063.v1",
+    "date": "2026-11-02",
+    "authors": "Kuang R.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1355021",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "gene",
+        "software"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "gene",
+          "software"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5360,
+    "collected_at": "2026-11-21T23:14:33.572276+00:00",
+    "collected_date": "2026-11-22",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-21",
+    "related_dois": [
+      "10.20944/preprints202611.0063.v1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "703dbfae2f5d94a09381d1b6cfb3286ef97bc8966b77b1dde5de27aac8535cf5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-22T07:26:37.531657+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "37319fd734c3639411093eb99bbf8a29cadf4d490770146dd33d47cfcd156185",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-22T07:26:37.531657+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "複合負二項ジッターによる証明可能な一様性と最小エントロピー境界：ソフトウェア定義TRNG",
+    "abstract_ja": "量子耐性暗号プロトコルでは、鍵生成、ノンス、およびエフェメラルパラメータに認証済みエントロピーが必要となる。既存のハードウェアおよび量子乱数生成器は、導入コストやサプライチェーンリスクを伴うほか、ヒューリスティックな後処理に依存している。本稿では、数学的に認証されたソフトウェア定義のエントロピー源――真の乱数生成器（TRNG）――を提案する。これは、専用ハードウェアや外部条件付けを必要とせず、計算ジッター変調を通じて、証明可能な最小エントロピー下界を持つ一様乱数を生成する。中核となる貢献は幾何学的収束定理（GCT）である。すなわち、複合負二項分布（CNB）に従う観測量のモジュラー還元が、有限巡回群上の不変一様測度へと指数関数的に収束し、明示的かつ計算可能なスペクトル減衰係数と、それに対応する最小エントロピー下界を持つというものである。GCTを補完するのが確率的不確定性原理（SUP）であり、これはマイクロアーキテクチャのジッターによる物理的エントロピー注入を定量化する厳密な変動係数分解である。これらが組み合わさることで二層構造のアーキテクチャが実現する。組み合わせ層が厳密かつプラットフォームに依存しない一様性下界を保持し、物理層が継続的なリシーディングを通じて新たなエントロピーを供給することで、認証済み出力は決定論的なPRNGストリームではなく、TRNGクラスのものとなる。本フレームワークは、ジッターを最大化するために意図的にコンパイラによる最適化を抑制してC言語で実装した、汎用ハードウェア上のランダム置換ソートシステム（RPSS）を通じて検証された。実証結果はこの定理の予測を裏付けており、100 MBのサンプルにおいてシャノンエントロピー 7.999997 ビット/バイト、最小エントロピー 7.992 ビット/バイトを達成した。これらの値は、物理的変動範囲がほぼ500倍に及ぶ3回の独立した長時間実行にわたって再現可能であり、後処理なしの生のモジュラー出力から直接得られたものである。これにより、ソフトウェア定義のエントロピー生成のためのプラットフォーム非依存かつ数学的に認証された基盤が確立され、FIPS 140-3の耐量子計算機暗号インフラストラクチャおよびエントロピー主権に直接的な影響を及ぼす。"
   }
 ]
