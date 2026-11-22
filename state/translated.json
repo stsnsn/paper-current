@@ -319662,5 +319662,152 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "作物の多様化は土壌微生物の炭素循環を促進する",
     "abstract_ja": "要旨 農業の多様化は、植物残渣の化学組成および根圏沈着を変化させ、土壌有機物（SOM）循環にレガシー効果をもたらす。プライミング効果（PE）とネクロマス形成はSOM動態の鍵となるプロセスであるが、多様化がこれらのプロセスにどのように影響するか、またSOMの保持がどのようになるかについては、依然として十分に解明されていない。対照的な2つの多様化試験（43年および8年）の土壌（0～15 cm）を対象に150日間のインキュベーションを行い、13C標識グルコースを用いた解析を行った結果、多様化によってSOMのプライミングが153～174%増加し、微生物ネクロマスにおけるグルコース由来13Cの保持量が227～289%増加することが明らかになった。また、多様化した土壌では、利用可能な炭素、溶存有機炭素、および中性糖類がより多く存在し、化学量論的な栄養制限がより強く（C:P不均衡が103%高く、ベクトル角が15%低い）、微生物活性ならびに窒素・リン吸収酵素活性も高かった。微生物による炭素利用効率は65%向上した一方、多様化土壌の在来微生物群集を慣行土壌のものに置換すると、43年および8年の地点においてCUEがそれぞれ9%および45%低下した。群集レベルの解析により、微生物ネクロマスにおけるグルコース由来13Cの保持量の増加が、Discosea属およびBacillota属の共起パターンと推測される事象と関連していることがさらに示された。メタゲノムプロファイリングの結果、植物および微生物由来化合物の分解に関与するCAZyme遺伝子の相対存在量が18～125%増加しており、両地点においてY関連機能ポテンシャルもわずかに（約4%）上昇していた。プライミング誘発による在来炭素の損失量は、微生物ネクロマスに保持されたグルコース由来13Cの量を上回ったが、150日間のインキュベーションにおいて、ネクロマス炭素保持量とプライミング誘発炭素損失量の比は、慣行栽培時よりも多様化時の方が28%高かった。したがって、作物の多様化は微生物の炭素循環を再構築し、在来SOMの無機化促進と微生物ネクロマスへの添加炭素の保持量増加を連動させており、SOCへの正味の影響は持続的な炭素投入量に依存する。"
+  },
+  {
+    "id": "10.1093/ismeco/ycag277",
+    "title": "Macrofaunal bioturbation modulates microbial metabolic potential in arid mangrove sediments",
+    "abstract": "AbstractBioturbation by benthic organisms substantially alters the physical and biogeochemical properties of mangrove sediments. Through burrowing and sediment reworking, bioturbators increase oxygen penetration into otherwise anoxic, waterlogged sediments and redistribute organic matter throughout the sediment profile. Although previous studies have shown that bioturbation modifies microbial community composition, its consequences for microbial functional potential remain poorly understood. Using metagenomics, we confirmed that crab bioturbation reshaped the composition of the sediment prokaryotic community and showed that this restructuring was accompanied by pronounced, depth-dependent shifts in metabolic potential. Gene- and pathway-level analyses indicated that bioturbation redirected bacterial and archaeal functional potential away from anaerobic degradation of complex organic matter and towards more metabolically versatile and oxidative processes, with the enrichment of functions associated with respiratory and central carbon metabolism, the utilisation of diverse carbon- and nitrogen-containing compounds, and traits potentially involved in nutrient mobilisation and plant growth promotion. Consistent with this functional-repertoire transition, diel gas-flux measurements revealed significantly higher CO2 emissions from bioturbated sediments, whereas CH4 emissions were not affected. We propose that these shifts enable sediment microbial communities to exploit newly available substrates, creating a more nutritionally favourable sediment milieu for both microbial communities and other sediment-dwellers, including mangrove trees. Because arid mangroves are typically constrained by patchy nutrient availability and persistent abiotic stress, including high salinity and aridity, these bioturbation-driven microbial functional shifts may play an important role in sustaining mangrove productivity and could represent a general mechanism linking ecosystem engineering to microbiome-mediated nutrient cycling across coastal sediments.",
+    "journal": "ISME Communications",
+    "doi": "10.1093/ismeco/ycag277",
+    "date": "2026-11-20",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/ismecommun/advance-article/doi/10.1093/ismeco/ycag277/9104284?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "archaea",
+        "archaeal",
+        "bacteria",
+        "bacterial",
+        "metagenom",
+        "metagenomics",
+        "microbial",
+        "microbiome",
+        "prokaryotic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6596/advanceAccess_4180.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5455,
+    "collected_at": "2026-11-22T15:27:43.938071+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "https://academic.oup.com/rss/site_6596/advanceAccess_4180.xml"
+    ],
+    "first_seen": "2026-11-22",
+    "related_dois": [
+      "10.1093/ismeco/ycag277"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ae3e541004594dee05134650d115086cfa5d1d6efb4d0adf3275d3b1a6b5f388",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-22T15:51:50.688275+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e28f4270975315dadcc9407709f633ddc6102aab4a96da7d74b8bda5d2042970",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-22T15:51:50.688275+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "大型動物群による生物攪乱が乾燥マングローブ堆積物における微生物代謝能を調節する",
+    "abstract_ja": "要旨底生生物による生物攪乱は、マングローブ堆積物の物理的および生物地球化学的特性を著しく変化させる。生物攪乱生物は、掘削や堆積物の再堆積を通じて、本来嫌気的で水浸しの堆積物への酸素浸透を促進し、堆積物層全体にわたって有機物を再分配する。先行研究により、生物攪乱が微生物群集組成を変化させることが示されているが、その微生物の機能的ポテンシャルに及ぼす影響については依然として十分に解明されていない。我々はメタゲノミクスを用いて、カニによる生物攪乱が堆積物原核生物群集の組成を再構築することを確認し、この再構造化に伴い、代謝ポテンシャルに顕著な深度依存的なシフトが生じることを示した。遺伝子およびパスウェイレベルの解析により、生物攪乱が細菌および古細菌の機能的ポテンシャルを、複雑な有機物の嫌気的分解から、より代謝的に汎用性が高く酸化的なプロセスへと転換させたことが示された。これには、呼吸および中心炭素代謝に関連する機能の濃縮、多様な炭素・窒素含有化合物の利用、ならびに栄養動員や植物成長促進に関与する可能性のある形質の獲得が含まれていた。この機能的レパートリーの移行と一致して、日周ガスフラックス測定の結果、生物攪乱を受けた堆積物からはCO2排出量が有意に増加した一方、CH4排出量には影響が見られなかった。我々は、これらのシフトによって堆積物微生物群集が新たに利用可能となった基質を活用することが可能になり、微生物群集およびマングローブ樹を含む他の堆積物生息生物にとって、より栄養的に好適な堆積物環境が創出されると提唱する。乾燥地帯のマングローブは通常、不均一な栄養利用可能性や、高塩分および乾燥を含む持続的な非生物的ストレスによって制約を受けているため、こうした生物攪乱駆動型の微生物機能的シフトは、マングローブの生産性維持において重要な役割を果たす可能性があり、生態系工学と沿岸堆積物におけるマイクロバイオーム介在性の栄養循環を結びつける一般的なメカニズムとなり得る。"
+  },
+  {
+    "id": "10.64898/2026.11.16.767117",
+    "title": "Remarkable Biosynthetic Diversity in the Bionectriaceae: Uncovering the genomic basis of antipathogen bioactivity of cacao fungal endophytes Clonostachys rosea and Waltergamsia zeylanica.",
+    "abstract": "Cacao (Theobroma cacao) production in tropical countries is threatened by fungal diseases caused by Moniliophthora roreri and M. perniciosa. Two cacao pod endophytes from Bionectriaceae, Clonostachys rosea TCF417 and Waltergamsia zeylanica TCF400, exhibit growth antagonism towards M. roreri; however, the genetic basis underlying the bioactivity of these strains has not been addressed. Here, we aimed to identify biosynthetic gene clusters (BGCs) potentially associated with the antifungal bioactivity of these two strains and performed a comparative analysis with 30 publicly available Bionectriaceae genomes using BiG-SCAPE. Whole-genome sequencing using Oxford Nanopore and Illumina technologies, resulted in assemblies of 52.9 Mb (C. rosea TCF417) and 31 Mb (W. zeylanica TCF400). Genome annotation was conducted using Funannotate, and secondary metabolite BGCs were predicted using antiSMASH. The two cacao endophytes harbored 92 BGCs (C. rosea: 67; W. zeylanica: 25), indicating remarkable biosynthetic diversity. Across all 32 genomes, 1,523 BGC-containing regions were identified, most belonging to T1PKS clusters. Network-based clustering revealed 209 gene cluster families (GCFs), of which 52 corresponded to previously characterized BGCs. Conserved BGCs for antifungal compounds, including sorbicillinoids and verticillins, were identified in cacao endophytes and across Bionectriaceae. Additionally, an antifungal assay conducted here demonstrated that verticillin D from C. rosea TCF417 exhibited growth inhibition of plant pathogens Moniliophthora roreri and Mycena citricolor. With about 75% of unassigned GCFs, our results reveal a largely untapped biosynthetic repertoire in the Bionectriaceae and identify verticillin D as a candidate contributor to the antagonism of C. rosea against plant pathogens.",
+    "journal": "",
+    "doi": "10.64898/2026.11.16.767117",
+    "date": "2026-11-22",
+    "authors": "Atencio, L. A., Castillo, H. E., Barrios-Jaen, M., Quintero, I., Martinez, A., Rodriguez, C., Gutierrez, M., Mejia, L. C.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.16.767117v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungal"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "assemblies",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5458,
+    "collected_at": "2026-11-22T15:27:43.938071+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-22",
+    "related_dois": [
+      "10.64898/2026.11.16.767117"
+    ],
+    "translation": {
+      "title": {
+        "hash": "367095dd068f10a4d659ab5a02a3f6e7fcf8520d6fb34da8b404f2092ec20897",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-22T15:51:50.688275+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "262238a24db6d5d2286314d27cc976f432bfd67218e60ed0fafeb352c297f023",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-22T15:51:50.688275+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ビオネクトリア科における顕著な生合成多様性：カカオ真菌内生菌 Clonostachys rosea および Waltergamsia zeylanica の抗病原体生物活性のゲノム基盤の解明",
+    "abstract_ja": "熱帯諸国におけるカカオ（Theobroma cacao）の生産は、Moniliophthora roreriおよびM. perniciosaによる真菌性病害の脅威にさらされている。Bionectriaceae科に属する2種のカカオ莢内生菌、Clonostachys rosea TCF417およびWaltergamsia zeylanica TCF400は、M. roreriに対して生育拮抗性を示すが、これらの菌株の生物活性の根底にある遺伝的基盤については解明されていない。本研究では、これら2種の菌株の抗真菌生物活性に関連している可能性のある生合成遺伝子クラスター（BGC）を同定することを目的とし、BiG-SCAPEを用いて公開されている30種類のBionectriaceae科ゲノムとの比較解析を行った。Oxford NanoporeおよびIllumina技術を用いた全ゲノムシーケンシングの結果、52.9 Mb（C. rosea TCF417）および31 Mb（W. zeylanica TCF400）のアセンブリが得られた。ゲノムアノテーションはFunannotateを用いて実施し、二次代謝産物BGCはantiSMASHを用いて予測した。これら2種のカカオ内生菌は92個のBGC（C. rosea: 67個、W. zeylanica: 25個）を保有しており、顕著な生合成多様性が示された。全32ゲノムにおいて1,523個のBGC含有領域が同定され、その大部分はT1PKSクラスターに属していた。ネットワークベースのクラスタリングにより209個の遺伝子クラスターファミリー（GCF）が明らかになり、そのうち52個は既報のBGCに対応していた。ソルビシリン類やベルティシリン類を含む抗真菌化合物の保存BGCが、カカオ内生菌およびBionectriaceae科全体で同定された。さらに、本研究で実施した抗真菌アッセイにより、C. rosea TCF417由来のベルティシリンDが、植物病原菌であるMoniliophthora roreriおよびMycena citricolorに対して生育阻害作用を示すことが明らかになった。未同定のGCFが約75%を占める本結果は、Bionectriaceae科における大部分が未開拓の生合成レパートリーを明らかにするとともに、ベルティシリンDをC. roseaの植物病原菌に対する拮抗作用の候補因子として同定するものである。"
   }
 ]
