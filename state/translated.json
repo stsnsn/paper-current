@@ -318187,5 +318187,298 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "コビョウカのゲノム配列 Asterina phylactica Emson & Crump, 1979 (Valvatida: Asterinidae)",
     "abstract_ja": "Asterina phylactica（小型クッション星；棘皮動物門；キク目；バルヴァタ綱；キク科）の個体のゲノムアセンブリを提示する。一次アセンブリの全長は389.09メガベースである。一次アセンブリの大部分（99.95%）は、22本の染色体擬似分子へとスキャフォールディングされている。ミトコンドリアゲノムもアセンブルされており、その全長は16.46キロベースである。本アセンブリは、英国およびアイルランドに生息する真核生物種のゲノムを作製するDarwin Tree of Lifeプロジェクトの一環として作成された。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 2",
+        "query": "(JOURNAL:\"microLife\" OR JOURNAL:\"Nucleic Acids Research\" OR JOURNAL:\"NAR Genomics and Bioinformatics\" OR JOURNAL:\"Bioinformatics\" OR JOURNAL:\"Microbes and Environments\" OR JOURNAL:\"Frontiers in Microbiology\" OR JOURNAL:\"Frontiers in Marine Science\" OR JOURNAL:\"mBio\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "brief-report",
+      "journal article"
+    ],
+    "id": "10.1093/bioinformatics/btag783",
+    "title": "ARCHER-LD: rapid long-range linkage disequilibrium calculations at biobank scale using GPU acceleration.",
+    "abstract": "SummaryLinkage disequilibrium (LD) information from one's own dataset is considered optimal for downstream analyses such as statistical fine-mapping. However, the computational complexity (≈N22 computations for N variants) leads most studies to use external reference panels, such as from 1000 Genomes. To capture LD across all variant pairs in biobank-scale whole-genome sequencing (WGS) datasets with hundreds of millions of variants, new computational strategies are essential. We present a novel approach that uses multi-GPU distributed computing to compute R2 for every variant pair in a dataset. On chromosome 22 (1.8 million variants) of the 30× WGS 1000 Genomes dataset, our method using eight consumer-level 12 GB GPUs (NVIDIA RTX 2080TIs) takes 80 min, corresponding to a ≈8× speedup. We further demonstrate true biobank-scale performance in the Penn Medicine Biobank (57 170 samples), computing chromosome 1 LD (≈1.38 million variants) in 49 min versus 22.7 h for PLINK, a ≈28× speedup. With this method, we successfully computed on the aforementioned 30× WGS 1000 Genomes dataset (≈120 million variants and ≈2500 samples) the entire LD matrix (>1e16, or 10 quadrillion elements) in under 6 h using 512 NVIDIA 40GB A100 GPUs on the Department of Energy Argonne Leadership Computing Facility Polaris Supercomputer. We make this tool, Accelerated Rapid Computation of High-throughput Extensive Recombination and Linkage Disequilibrium (ARCHER-LD), coded in Python using CuPy, publicly available. Using this tool, researchers can leverage the full extent of their genomic data without relying on external LD reference panels and acquire more accurate, population-specific findings, particularly for groups underrepresented in existing databases.Availability and implementationARCHER-LD is an open-source tool available on GitHub under the Apache License 2.0 at https://github.com/rachitk/ARCHER-LD. The version of record used in this manuscript is archived via Zenodo at https://doi.org/10.5281/zenodo.23399887.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag783",
+    "date": "2026-11-01",
+    "authors": "Kumar R, Singhal P, Zhang D, Carson C, Conery M, Rodriguez A, Nandi TN, Ritchie MD, Thavappiragasam M, Voight BF, Madduri RK, Verma A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42895827",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13781455",
+    "pmid": "42895827",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5384,
+    "collected_at": "2026-11-22T06:45:33.032218+00:00",
+    "collected_date": "2026-11-22",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-22",
+    "related_dois": [
+      "10.1093/bioinformatics/btag783"
+    ],
+    "translation": {
+      "title": {
+        "hash": "dfcc35119ee5288bd82103c3bdab036abfa5313eb08c78dae846021ee9f7e970",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-22T07:18:01.091894+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ad373d15cc55901728795cb95c042ddd41ec1b53be8fd012c61d6eabf2e719b7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-22T07:18:01.091894+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ARCHER-LD: GPUアクセラレーションを用いたバイオバンク規模での高速な長距離リンケージ不平衡計算。",
+    "abstract_ja": "概要自身のデータセットにおける連鎖不平衡（LD）情報は、統計的ファインマッピングなどのダウンストリーム解析において最適であると考えられている。しかし、計算量（N個のバリアントに対して≈N²²回の計算）が大きいため、ほとんどの研究では1000 Genomesなどの外部リファレンスパネルが用いられている。数億個のバリアントを含むバイオバンク規模の全ゲノムシーケンシング（WGS）データセットにおいて、すべてのバリアントペアにわたるLDを捉えるには、新たな計算戦略が不可欠である。本研究では、マルチGPU分散コンピューティングを用いてデータセット内のすべてのバリアントペアのR2を算出する新規アプローチを提案する。30× WGS 1000 Genomesデータセットの第22染色体（180万バリアント）において、コンシューマー向け12GB GPU（NVIDIA RTX 2080TI）8枚を用いた本手法の計算時間は80分であり、これは≈8倍の高速化に相当する。さらに、Penn Medicine Biobank（57,170サンプル）において真のバイオバンク規模の性能を実証し、第1染色体のLD（≈138万バリアント）を49分で算出したのに対し、PLINKでは22.7時間を要し、≈28倍の高速化を実現した。本手法により、前述の30× WGS 1000 Genomesデータセット（≈1億2,000万バリアント、≈2,500サンプル）において、エネルギー省アルゴンヌ・リーダーシップ・コンピューティング・ファシリティのPolarisスーパーコンピュータ上の512枚のNVIDIA 40GB A100 GPUを用い、全LD行列（>1e16、すなわち100京個の要素）を6時間未満で算出することに成功した。我々は、CuPyを用いてPythonで実装したこのツール「Accelerated Rapid Computation of High-throughput Extensive Recombination and Linkage Disequilibrium (ARCHER-LD)」を公開する。このツールを用いることで、研究者は外部のLDリファレンスパネルに依存することなくゲノムデータの全範囲を活用し、特に既存のデータベースで十分に代表されていない集団について、より正確で集団特異的な知見を得ることができる。利用可能性と実装ARCHER-LDは、GitHub上でApache License 2.0に基づき公開されているオープンソースツールである（https://github.com/rachitk/ARCHER-LD）。本原稿で使用した記録版は、Zenodo（https://doi.org/10.5281/zenodo.23399887）を通じてアーカイブされている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "im",
+      "review",
+      "journal article"
+    ],
+    "id": "10.1111/1751-7915.70490",
+    "title": "Advances in Genome Engineering of Social Amoebae for Natural Product Discovery.",
+    "abstract": "Natural products are low-molecular-weight molecules derived from living organisms which often exhibit distinct biological activities for potential pharmaceutical, agricultural or cosmetic applications. However, identifying novel natural products is becoming increasingly difficult due to high rates of rediscovery. Nevertheless, given the genetic information available across thousands of microbial genomes, there exists a vast 'dark matter' of biosynthetic pathways whose potential remains to be elucidated. In this mini review, we highlight the potential of Dictyostelids to serve as a valuable source for novel natural products, summarize established genetic engineering methods and present advanced CRISPR/Cas-based approaches. These enable the modification of biosynthetic pathways not only in the common model organism Dictyostelium discoideum but also in various other species. Such technologies will help to identify novel natural products from Dictyotselids and advance the development of amoeba-based production strains for complex molecules.",
+    "journal": "Microbial Biotechnology",
+    "doi": "10.1111/1751-7915.70490",
+    "date": "2026-11-01",
+    "authors": "Krieger A, Kufs JE.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43065218",
+    "preprint": false,
+    "review": true,
+    "pmcid": "",
+    "pmid": "43065218",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5365,
+    "collected_at": "2026-11-21T23:14:33.572276+00:00",
+    "collected_date": "2026-11-22",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-21",
+    "related_dois": [
+      "10.1111/1751-7915.70490"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d6b73cdd8d015c08e5b8f765d5d2cda52a80d7a2a26279d03d6943dedc14036e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-22T07:18:01.091894+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8b6a822c8e2cb1211ee503a43e94282ba5d09398e5672c924010becdf4c6a03c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-22T07:18:01.091894+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "天然物探索に向けた社会性アメーバのゲノム工学の進展",
+    "abstract_ja": "天然物は生物に由来する低分子化合物であり、医薬品、農業、または化粧品への応用の可能性を秘めた、特有の生物活性を示すことが多い。しかし、再発見の頻度が高いため、新規天然物の同定はますます困難になっている。それにもかかわらず、数千もの微生物ゲノムから得られる遺伝情報を考慮すると、その潜在性がいまだ解明されていない生合成経路という膨大な「ダークマター」が存在する。本ミニレビューでは、新規天然物の貴重な供給源となり得るディクトステリジウム属の可能性を強調し、確立された遺伝子工学的手法を概説するとともに、先進的なCRISPR/Casベースのアプローチを紹介する。これらにより、一般的なモデル生物であるDictyostelium discoideumのみならず、他の様々な種においても生合成経路の改変が可能となる。こうした技術は、ディクトステリジウム属からの新規天然物の同定に寄与し、複雑な分子のアメーバベースの生産株の開発を促進するであろう。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 2",
+        "query": "(JOURNAL:\"microLife\" OR JOURNAL:\"Nucleic Acids Research\" OR JOURNAL:\"NAR Genomics and Bioinformatics\" OR JOURNAL:\"Bioinformatics\" OR JOURNAL:\"Microbes and Environments\" OR JOURNAL:\"Frontiers in Microbiology\" OR JOURNAL:\"Frontiers in Marine Science\" OR JOURNAL:\"mBio\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1093/nar/gkag1091",
+    "title": "SAbDab2: the structural antibody database in the age of machine learning.",
+    "abstract": "The Structural Antibody Database (SAbDab) is a publicly available repository of experimentally determined antibody structures, first released in 2013. Explicit support for single-domain antibodies was added in 2021, with SAbDab-nano. Recently, increasing interest in antibodies has led to a proliferation of novel antibody formats, while simultaneous advances in machine learning (ML) have increased demand for standardized, high-quality structure data. Here, we present SAbDab2, re-engineered for the ML age. It introduces support for a variety of new formats, and makes it easy to retrieve and compare all known structures of a given antibody. In addition, SAbDab2 provides ready access to ML-grade structures of antibody and antibody-antigen-complexes, with standardized, versioned train/test splits. These will be updated every 6 months going forward and are available at https://zenodo.org/records/20083994. SAbDab2 itself is updated weekly and freely available at https://sabdab2.opig.stats.ox.ac.uk.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1091",
+    "date": "2026-10-31",
+    "authors": "Capel HL, Vavourakis O, Williams BH, Taylor CR, Deane CM.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42963946",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42963946",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5402,
+    "collected_at": "2026-11-22T06:45:33.032218+00:00",
+    "collected_date": "2026-11-22",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-22",
+    "related_dois": [
+      "10.1093/nar/gkag1091"
+    ],
+    "translation": {
+      "title": {
+        "hash": "90e3ad715d99063fcd3ce7356c12b2c4b36c738846ce925a4bda1411054a9dcd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-22T07:18:01.091894+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "93a04ecf52d5edaa191cd0226d0168c56516c76aed2cda589d04cfdd8c579ecf",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-22T07:18:01.091894+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "SAbDab2：機械学習時代における構造抗体データベース。",
+    "abstract_ja": "構造抗体データベース（SAbDab）は、2013年に初めて公開された、実験的に決定された抗体構造の公開リポジトリである。2021年には、SAbDab-nanoによってシングルドメイン抗体への明示的なサポートが追加された。近年、抗体への関心の高まりに伴い、新たな抗体フォーマットが急増する一方で、機械学習（ML）の進展により、標準化された高品質な構造データへの需要が高まっている。本稿では、ML時代に合わせて再設計されたSAbDab2を紹介する。本バージョンでは、多様な新規フォーマットへの対応が導入され、特定の抗体の既知の全構造を容易に取得・比較することが可能となった。さらに、SAbDab2は、標準化されバージョン管理された訓練・テスト分割により、抗体および抗体-抗原複合体のMLグレード構造への即時アクセスを提供している。これらは今後6か月ごとに更新され、https://zenodo.org/records/20083994 で利用可能である。SAbDab2自体は毎週更新されており、https://sabdab2.opig.stats.ox.ac.uk で無料で公開されている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 2",
+        "query": "(JOURNAL:\"microLife\" OR JOURNAL:\"Nucleic Acids Research\" OR JOURNAL:\"NAR Genomics and Bioinformatics\" OR JOURNAL:\"Bioinformatics\" OR JOURNAL:\"Microbes and Environments\" OR JOURNAL:\"Frontiers in Microbiology\" OR JOURNAL:\"Frontiers in Marine Science\" OR JOURNAL:\"mBio\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1093/bioinformatics/btag794",
+    "title": "Large-scale semantic indexing of Spanish biomedical literature using contrastive transfer learning.",
+    "abstract": "MotivationThe exponential growth of biomedical literature has made automatic indexing essential for advancing biomedical research. While automatic indexing has made strides in English biomedical literature, there has been limited research on non-English biomedical texts due to insufficient high-quality training data.ResultsWe propose BERTDeCS, a novel deep learning framework for automatically indexing Spanish biomedical literature using contrastive transfer learning. BERTDeCS utilizes a multilingual BERT (M-BERT) to generate multi-language representations and adapts M-BERT for Spanish biomedical literature domain through contrastive learning. Additionally, BERTDeCS enhances its semantic indexing capabilities on Spanish biomedical literature by leveraging enriched English annotated literature in MEDLINE through transfer learning. Experimental results on Spanish datasets demonstrate that BERTDeCS outperforms state-of-the-art indexing methods, achieving top performance in the MESINESP and MESINESP2 Tasks on medical semantic indexing in Spanish within the BioASQ challenge. Additional experiments on Portuguese provide preliminary evidence that BERTDeCS can transfer to a closely related language sharing substantial lexical and biomedical terminology with Spanish.AvailabilityThe source code is available at https://github.com/yourh/BERTDeCS and at https://doi.org/10.5281/zenodo.23212468.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag794",
+    "date": "2026-11-01",
+    "authors": "You R, Huang T, Wang Z, Liu Y, Zhou H, Zhu S.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42928592",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13750898",
+    "pmid": "42928592",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5386,
+    "collected_at": "2026-11-22T06:45:33.032218+00:00",
+    "collected_date": "2026-11-22",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-22",
+    "related_dois": [
+      "10.1093/bioinformatics/btag794"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8753dae9a40b2dfbfbfb8a5c9ce0a6c2c11d6bc9b9bcda028216297efa8993c1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-22T07:18:01.091894+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "989caf659f21ee00aef916367a1e242d55b5763103430fdd61984d11de9c6d83",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-22T07:18:01.091894+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "対照転移学習を用いたスペイン語生物医学文献の大規模意味索引化",
+    "abstract_ja": "動機生物医学文献の指数関数的な増加に伴い、生物医学研究を進展させる上で自動索引作成が不可欠となっている。英語の生物医学文献においては自動索引作成が大きく進展しているが、高品質な学習データの不足により、非英語の生物医学文献に関する研究は限られている。結果対照転移学習を用いてスペイン語の生物医学文献を自動索引作成するための新たな深層学習フレームワーク、BERTDeCSを提案する。BERTDeCSは、多言語BERT（M-BERT）を利用して多言語表現を生成し、対照学習を通じてM-BERTをスペイン語の生物医学文献ドメインに適応させる。さらに、BERTDeCSは転移学習によりMEDLINEの拡充された英語アノテーション付き文献を活用することで、スペイン語の生物医学文献に対する意味的索引作成能力を向上させる。スペイン語データセットを用いた実験結果から、BERTDeCSは最先端の索引作成手法を凌駕し、BioASQチャレンジにおけるスペイン語の医学意味的索引作成のMESINESPおよびMESINESP2タスクで最高の性能を達成することが示された。ポルトガル語を用いた追加実験により、BERTDeCSがスペイン語と広範な語彙および生物医学用語を共有する密接に関連した言語へ転移可能であるという予備的な証拠が得られた。利用可能性ソースコードは https://github.com/yourh/BERTDeCS および https://doi.org/10.5281/zenodo.23212468 で公開されている。"
   }
 ]
