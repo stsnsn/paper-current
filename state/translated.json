@@ -319363,5 +319363,304 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "複合負二項ジッターによる証明可能な一様性と最小エントロピー境界：ソフトウェア定義TRNG",
     "abstract_ja": "量子耐性暗号プロトコルでは、鍵生成、ノンス、およびエフェメラルパラメータに認証済みエントロピーが必要となる。既存のハードウェアおよび量子乱数生成器は、導入コストやサプライチェーンリスクを伴うほか、ヒューリスティックな後処理に依存している。本稿では、数学的に認証されたソフトウェア定義のエントロピー源――真の乱数生成器（TRNG）――を提案する。これは、専用ハードウェアや外部条件付けを必要とせず、計算ジッター変調を通じて、証明可能な最小エントロピー下界を持つ一様乱数を生成する。中核となる貢献は幾何学的収束定理（GCT）である。すなわち、複合負二項分布（CNB）に従う観測量のモジュラー還元が、有限巡回群上の不変一様測度へと指数関数的に収束し、明示的かつ計算可能なスペクトル減衰係数と、それに対応する最小エントロピー下界を持つというものである。GCTを補完するのが確率的不確定性原理（SUP）であり、これはマイクロアーキテクチャのジッターによる物理的エントロピー注入を定量化する厳密な変動係数分解である。これらが組み合わさることで二層構造のアーキテクチャが実現する。組み合わせ層が厳密かつプラットフォームに依存しない一様性下界を保持し、物理層が継続的なリシーディングを通じて新たなエントロピーを供給することで、認証済み出力は決定論的なPRNGストリームではなく、TRNGクラスのものとなる。本フレームワークは、ジッターを最大化するために意図的にコンパイラによる最適化を抑制してC言語で実装した、汎用ハードウェア上のランダム置換ソートシステム（RPSS）を通じて検証された。実証結果はこの定理の予測を裏付けており、100 MBのサンプルにおいてシャノンエントロピー 7.999997 ビット/バイト、最小エントロピー 7.992 ビット/バイトを達成した。これらの値は、物理的変動範囲がほぼ500倍に及ぶ3回の独立した長時間実行にわたって再現可能であり、後処理なしの生のモジュラー出力から直接得られたものである。これにより、ソフトウェア定義のエントロピー生成のためのプラットフォーム非依存かつ数学的に認証された基盤が確立され、FIPS 140-3の耐量子計算機暗号インフラストラクチャおよびエントロピー主権に直接的な影響を及ぼす。"
+  },
+  {
+    "id": "10.1093/ismeco/ycag343",
+    "title": "Genomic Insights into Estuarine Dimethylsulfide Production via the Hydrogen Sulfide and Methanethiol S-Methylation",
+    "abstract": "AbstractEstuaries are critical for sulfur cycling, yet the microbial basis of dimethylsulfide (DMS) production remains obscure. Here, we reconstructed 2,270 medium-to-high-quality metagenome-assembled genomes from four Chinese estuaries and identified 572 genomes encoding the H2S/methanethiol S-methylation (Mdd) pathway via MddA, MddH, and MddM enzymes. Metagenomic profiling indicated that Mdd-encoding microbes span 26 phyla, constituting an average of 15.9% and 45.5% of the reconstructed microbial communities in water and sediment, respectively. Metatranscriptomic data from global estuaries showed mddH abundance rivaled that of dimethylsulfoniopropionate (DMSP) lyase genes dddP, increased with rising salinity, and exceeded mddA in sediments. Co-occurrence networks identified Mdd-encoding microbes as one of the keystone taxa, frequently co-occurring with denitrifying microbes in sediments. Evolutionary analyses revealed purifying selection acting on mdd genes in estuaries, with higher nucleotide diversity and recombination rates observed in sediments. We also discovered MddA-like proteins in Thorarchaeia from estuarine and other diverse habitats worldwide. Collectively, our findings suggest the Mdd pathway may represent a substantial, previously underappreciated contributor to estuarine DMS production.",
+    "journal": "ISME Communications",
+    "doi": "10.1093/ismeco/ycag343",
+    "date": "2026-11-22",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://academic.oup.com/ismecommun/advance-article/doi/10.1093/ismeco/ycag343/9108799?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenome",
+        "metagenome-assembled genome",
+        "metagenomic",
+        "metatranscriptom",
+        "metatranscriptomic",
+        "microbe",
+        "microbes",
+        "microbial"
+      ],
+      "context": {
+        "marine": [
+          "estuarine"
+        ],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome",
+          "genomic",
+          "metagenom",
+          "metagenome",
+          "metagenomic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6596/advanceAccess_4180.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5454,
+    "collected_at": "2026-11-22T15:27:43.938071+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "https://academic.oup.com/rss/site_6596/advanceAccess_4180.xml"
+    ],
+    "first_seen": "2026-11-22",
+    "related_dois": [
+      "10.1093/ismeco/ycag343"
+    ],
+    "translation": {
+      "title": {
+        "hash": "939d7692ee6193e998d70bcbb9af7801f4ceba2e9a985e7293eb8d73d9b83434",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-22T15:49:09.254461+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c163994c3cdd94bf8a82454c8b21ff946acc0e85e3268061ff88122263c32c06",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-22T15:49:09.254461+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "硫化水素およびメタンチオールのS-メチル化を介した河口域におけるジメチルスルフィド生成のゲノム学的知見",
+    "abstract_ja": "要旨河口域は硫黄循環において極めて重要であるが、ジメチルスルフィド（DMS）産生の微生物学的基盤は依然として不明である。本研究では、中国の4つの河口域からメタゲノムアセンブルされた中～高品質のゲノム2,270件を再構成し、MddA、MddH、およびMddM酵素を介したH2S/メタンチオールS-メチル化（Mdd）経路をコードする572件のゲノムを同定した。メタゲノムプロファイリングの結果、Mddをコードする微生物は26の門に及び、水域および堆積物における再構成された微生物群集の平均でそれぞれ15.9%および45.5%を占めていることが示された。世界的な河口域からのメタトランスクリプトームデータでは、mddHの存在量はジメチルスルホニオプロピオネート（DMSP）リアーゼ遺伝子ddPに匹敵し、塩分濃度の上昇に伴い増加し、堆積物ではmddAを上回った。共出現ネットワークにより、Mddをコードする微生物はキーストーン分類群の一つとして同定され、堆積物において脱窒微生物と頻繁に共出現することが明らかになった。進化解析の結果、河口域においてmdd遺伝子に浄化選択が働いていることが明らかになり、堆積物ではより高いヌクレオチド多様性と組換え率が観察された。また、世界中の河口域およびその他の多様な生息地のThorarchaeia属から、MddA様タンパク質を発見した。以上の知見を総合すると、Mdd経路は河口域におけるDMS産生において、これまで十分に認識されてこなかった重要な寄与因子である可能性が示唆される。"
+  },
+  {
+    "id": "10.1093/ismehm/aazag024",
+    "title": "Pseudomonas aeruginosa lasR is a keystone gene in polymicrobial cultures",
+    "abstract": "AbstractThe airways of people with cystic fibrosis (CF) are often co-infected by Pseudomonas aeruginosa and a variety of other co-habiting microbes; these infections are polymicrobial. P. aeruginosa isolates from the CF airways are also known to commonly acquire mutations in the quorum sensing regulator, lasR. In this work, we show that loss of lasR function has a profound impact on the stability of inter-species interactions in a polymicrobial ecosystem, and in particular, on the dynamics of a common CF-associated fungus, Candida albicans. Titres of C. albicans were stable in the presence of wild type P. aeruginosa and Staphylococcus aureus. However, when wild type P. aeruginosa was replaced by a ΔlasR mutant, C. albicans titres progressively declined over time. RNAseq analyses implicated a LasR-regulated Type VI Secretion System effector cluster (PA3904-PA3908) in this fungal instability, and indeed, ectopic expression of PA3904-PA3908 in the ΔlasR mutant reversed this decline in C. albicans titres. We also noted that challenge of the polymicrobial cultures with a clinically-relevant combination of colistin and ciprofloxacin led to a fungal bloom in the poly-cultures. This bloom was abolished in the ΔlasR mutant, but was restored by ectopic expression of the PA3904-PA3908 cluster of ORFs. Finally, we show that whereas wild type P. aeruginosa is relatively agnostic to the presence of other microbes, the ΔlasR mutant is not and undergoes substantial transcriptional reprogramming. Our data indicate that lasR has a large and previously unrecognised impact on inter-species interactions. We therefore propose that lasR is an ecological keystone gene.",
+    "journal": "ISME Host Microbe",
+    "doi": "10.1093/ismehm/aazag024",
+    "date": "2026-11-22",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/ismehm/advance-article/doi/10.1093/ismehm/aazag024/9108800?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Candida",
+        "Pseudomonas",
+        "fungal",
+        "microbe",
+        "microbes"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6795/advanceAccess_4237.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5456,
+    "collected_at": "2026-11-22T15:27:43.938071+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "https://academic.oup.com/rss/site_6795/advanceAccess_4237.xml"
+    ],
+    "first_seen": "2026-11-22",
+    "related_dois": [
+      "10.1093/ismehm/aazag024"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c973b3c6b348202690c41eabaf5efb6bae7e40699fb18f1157824da0df27062e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-22T15:49:09.254461+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "640474ad79e213b5170c9a89382ce8869adb54d5162c410040b25b30076dd673",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-22T15:49:09.254461+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Pseudomonas aeruginosa lasRは多菌種培養におけるキーストーン遺伝子である",
+    "abstract_ja": "要旨 嚢胞性線維症（CF）患者の気道では、Pseudomonas aeruginosaおよびその他の多様な共存微生物による共感染がしばしば認められ、これらの感染は多微生物感染である。CF気道由来のP. aeruginosa分離株は、クオラムセンシング調節因子であるlasRに変異を生じやすいことが知られている。本研究では、lasR機能の喪失が多微生物生態系における種間相互作用の安定性、とりわけCF関連の一般的な真菌であるCandida albicansの動態に重大な影響を及ぼすことを示す。C. albicansの力価は、野生型P. aeruginosaおよびStaphylococcus aureusの存在下で安定していた。しかし、野生型P. aeruginosaをΔlasR変異株に置換すると、C. albicansの力価は経時的に漸次低下した。RNAseq解析により、この真菌の不安定性にLasR調節型タイプVI分泌系エフェクタークラスター（PA3904-PA3908）が関与していることが示唆され、実際にΔlasR変異株におけるPA3904-PA3908の異所性発現は、C. albicansの力価の低下を逆転させた。また、臨床的に意義のあるコリスチンとシプロフロキサシンの併用により多微生物培養物に負荷を与えたところ、多微生物培養物において真菌のブルームが認められた。このブルームはΔlasR変異株では消失したが、PA3904-PA3908 ORFクラスターの異所性発現によって回復した。最後に、野生型P. aeruginosaは他の微生物の存在に対して比較的影響を受けないのに対し、ΔlasR変異株は影響を受けず、大幅な転写リプログラミングを受けることを示す。我々のデータは、lasRが種間相互作用に対して、これまで認識されていなかった大きな影響を及ぼしていることを示している。したがって、我々はlasRが生態学的キーストーン遺伝子であることを提唱する。"
+  },
+  {
+    "id": "10.1038/s41467-026-79404-w",
+    "title": "A quantitative deep-learning-based framework reveals a continuum of chromatin sensitivities across transcription factors",
+    "abstract": "The authors develop a deep-learning-based framework revealing that TF binding sensitivity to chromatin is a continuum rather than a binary feature, and that binding patterns can be explained by a mixture of hierarchical and cooperative mechanisms.",
+    "journal": "Nature Communications",
+    "doi": "10.1038/s41467-026-79404-w",
+    "date": "2026-11-22",
+    "authors": "Dirk Schübeler",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.nature.com/articles/s41467-026-79404-w",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "chromatin",
+        "framework"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.nature.com/ncomms.rss",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5457,
+    "collected_at": "2026-11-22T15:27:43.938071+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "https://www.nature.com/ncomms.rss"
+    ],
+    "first_seen": "2026-11-22",
+    "related_dois": [
+      "10.1038/s41467-026-79404-w"
+    ],
+    "translation": {
+      "title": {
+        "hash": "70b43967f5166ec9fcf3dc7a3afde668f6077c0de164dd9e7563e77ed6609bba",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-22T15:49:09.254461+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0024761b67a6e34305b463678e48f7c5f48083197b2f7ad18dcbd11e6d7e90d6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-22T15:49:09.254461+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "深層学習に基づく定量的フレームワークにより、転写因子間におけるクロマチン感受性の連続性が明らかとなった。",
+    "abstract_ja": "著者らは深層学習に基づくフレームワークを構築し、クロマチンに対するTF結合感受性が二値的な特徴ではなく連続的なものであること、また、結合パターンが階層的メカニズムと協同的メカニズムの混合によって説明できることを明らかにした。"
+  },
+  {
+    "id": "10.1093/ismejo/wrag293",
+    "title": "Crop diversification promotes soil microbial carbon turnover",
+    "abstract": "AbstractAgricultural diversification alters plant residue chemistry and rhizodeposition, with legacy effects on soil organic matter (SOM) cycling. The priming effect (PE) and necromass formation are key processes of SOM dynamics, yet how diversification affects these processes, and SOM persistence remains poorly understood. Using 13C-labelled glucose in a 150-day incubation of soils (0-15 cm) from two contrasting diversification trials (43 and 8 years), we found that diversification increased SOM priming by 153–174% and retention of glucose-derived 13C in microbial necromass by 227–289%. Diversified soils also had more bioavailable C, dissolved organic C, and neutral sugars, stronger stoichiometric nutrient limitation (103% higher C:P imbalance and 15% lower vector angle), and higher microbial activity and N- and P-acquiring enzyme activities. Microbial C use efficiency increased by 65%, while replacing the native microbial community of diversified soils with that of conventional soils reduced CUE by 9% and 45% at the 43- and 8-year sites, respectively.Community-level analyses further linked greater retention of glucose-derived 13C in microbial necromass to putative Discosea and Bacillota co-occurrence patterns. Metagenomic profiling revealed 18–125% higher relative abundances of CAZyme genes involved in degrading plant- and microbial-derived compounds, alongside a modest (~4%) increase in Y-associated functional potential at both sites. Although priming-induced native-C losses exceeded the amount of glucose-derived 13C retained in microbial necromass, the ratio of necromass C retention to priming-induced C loss was 28% higher under diversification than under conventional cropping over the 150-day incubation. Crop diversification thus reshapes microbial C cycling, coupling enhanced native SOM mineralization with greater retention of added C in microbial necromass, making the net effect on SOC dependent on sustained C inputs.",
+    "journal": "The ISME Journal",
+    "doi": "10.1093/ismejo/wrag293",
+    "date": "2026-11-22",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/ismej/advance-article/doi/10.1093/ismejo/wrag293/9108810?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomic",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6594/advanceAccess_4179.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5453,
+    "collected_at": "2026-11-22T15:27:43.938071+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "https://academic.oup.com/rss/site_6594/advanceAccess_4179.xml"
+    ],
+    "first_seen": "2026-11-22",
+    "related_dois": [
+      "10.1093/ismejo/wrag293"
+    ],
+    "translation": {
+      "title": {
+        "hash": "179c8d51a9b5e2604952533e1e98eff7b9a652423abbdccb5a8dceb21a162a96",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-22T15:49:09.254461+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8f6e0a52b18539c93032a7bac5e1e9774f09c3466f5d334668c2dbad1eebc8d4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-22T15:49:09.254461+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "作物の多様化は土壌微生物の炭素循環を促進する",
+    "abstract_ja": "要旨 農業の多様化は、植物残渣の化学組成および根圏沈着を変化させ、土壌有機物（SOM）循環にレガシー効果をもたらす。プライミング効果（PE）とネクロマス形成はSOM動態の鍵となるプロセスであるが、多様化がこれらのプロセスにどのように影響するか、またSOMの保持がどのようになるかについては、依然として十分に解明されていない。対照的な2つの多様化試験（43年および8年）の土壌（0～15 cm）を対象に150日間のインキュベーションを行い、13C標識グルコースを用いた解析を行った結果、多様化によってSOMのプライミングが153～174%増加し、微生物ネクロマスにおけるグルコース由来13Cの保持量が227～289%増加することが明らかになった。また、多様化した土壌では、利用可能な炭素、溶存有機炭素、および中性糖類がより多く存在し、化学量論的な栄養制限がより強く（C:P不均衡が103%高く、ベクトル角が15%低い）、微生物活性ならびに窒素・リン吸収酵素活性も高かった。微生物による炭素利用効率は65%向上した一方、多様化土壌の在来微生物群集を慣行土壌のものに置換すると、43年および8年の地点においてCUEがそれぞれ9%および45%低下した。群集レベルの解析により、微生物ネクロマスにおけるグルコース由来13Cの保持量の増加が、Discosea属およびBacillota属の共起パターンと推測される事象と関連していることがさらに示された。メタゲノムプロファイリングの結果、植物および微生物由来化合物の分解に関与するCAZyme遺伝子の相対存在量が18～125%増加しており、両地点においてY関連機能ポテンシャルもわずかに（約4%）上昇していた。プライミング誘発による在来炭素の損失量は、微生物ネクロマスに保持されたグルコース由来13Cの量を上回ったが、150日間のインキュベーションにおいて、ネクロマス炭素保持量とプライミング誘発炭素損失量の比は、慣行栽培時よりも多様化時の方が28%高かった。したがって、作物の多様化は微生物の炭素循環を再構築し、在来SOMの無機化促進と微生物ネクロマスへの添加炭素の保持量増加を連動させており、SOCへの正味の影響は持続的な炭素投入量に依存する。"
   }
 ]
