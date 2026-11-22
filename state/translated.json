@@ -318764,5 +318764,302 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "scSpatial: シングルセル空間オミクス用アトラス。",
     "abstract_ja": "シングルセル空間オミクス（SCSO）は、シングルセル解像度での分子特性解析と空間マッピングを同時に可能にすることで、空間プロファイリングのあり方を一変させ、本来の生物学的コンテキストにおける細胞のアイデンティティや組織構造に関する知見をもたらしてきた。空間座標を分子プロファイルや細胞アイデンティティと統合することで、SCSOデータセットは空間分解能を持つ細胞アトラスの構築、疾患関連の組織リモデリングの特性解析、および疾患に関連する細胞集団のマッピングに広く利用されてきた。しかし、これらのSCSOデータセットは個々の論文間で断片化したままであり、包括的なSCSOリソースは依然として不足している。そこで本研究では、専門家がキュレーションした細胞アノテーションと高解像度の空間マッピングを備えたSCSO用アトラスとして、scSpatialを開発した。現在のscSpatialリリースでは、16種類の空間技術を用いて生成された630のプロジェクトからなる1,800以上の組織切片を含む大規模なSCSOデータコレクションをキュレーションしており、173種類の標準化されたCell Ontologyタイプでアノテーションされた2,000万個以上の空間分解能細胞を提供している。さらに、空間遺伝子発現アトラス、細胞種分布マップ、空間的に変動する遺伝子、遺伝子発現相関、およびパスウェイレベルの空間活性プロファイルなど、SCSOに特化した解析とインタラクティブな可視化機能を提供している。scSpatialは、ログイン不要ですべてのユーザーが https://idrblab.org/scspatial/ から無料で利用可能である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 2",
+        "query": "(JOURNAL:\"microLife\" OR JOURNAL:\"Nucleic Acids Research\" OR JOURNAL:\"NAR Genomics and Bioinformatics\" OR JOURNAL:\"Bioinformatics\" OR JOURNAL:\"Microbes and Environments\" OR JOURNAL:\"Frontiers in Microbiology\" OR JOURNAL:\"Frontiers in Marine Science\" OR JOURNAL:\"mBio\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1093/bioinformatics/btag796",
+    "title": "GBZ-base and GAF-base: indexed pangenome file formats.",
+    "abstract": "MotivationExisting pangenome file formats are designed for batch processing. Graphs must be loaded into memory, and alignment files must be read sequentially. Indexed file formats that can be used directly from disk would be more appropriate for interactive applications.ResultsWe propose GBZ-base and GAF-base-SQLite-backed file formats comparable to GBZ and GAF. GBZ-base supports efficient extraction of local subgraphs, and GAF-base lets us extract all alignments to the subgraph. Additionally, GAF-base is smaller than any other file format for sequence-to-graph alignments.Availability and implementationFrom https://github.com/jltsiren/gbz-base and https://crates.io/crates/gbz-base under the MIT license.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag796",
+    "date": "2026-11-01",
+    "authors": "Sirén J, Paten B, Human Pangenome Reference Consortium.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42929766",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13759212",
+    "pmid": "42929766",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "pangenom",
+          "pangenome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5390,
+    "collected_at": "2026-11-22T06:45:33.032218+00:00",
+    "collected_date": "2026-11-22",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-22",
+    "related_dois": [
+      "10.1093/bioinformatics/btag796"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b1c18d1225d4322c5b2ecad1f07d83edd4e84072a7031ec79e6e932a2151acad",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-22T07:23:48.712549+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "24dc178eccf86b478a332c164a1f25bc3701000ae0ef5866369e7b24710c59f2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-22T07:23:48.712549+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "GBZ-baseおよびGAF-base：インデックス付きパンゲノムファイルフォーマット。",
+    "abstract_ja": "動機既存のパンゲノムファイル形式は、バッチ処理向けに設計されている。グラフはメモリにロードする必要があり、アライメントファイルは逐次的に読み込む必要がある。ディスクから直接利用可能なインデックス付きファイル形式の方が、インタラクティブなアプリケーションにはより適している。結果GBZおよびGAFに匹敵する、GBZ-baseおよびGAF-base-SQLite-backedファイル形式を提案する。GBZ-baseはローカルサブグラフの効率的な抽出をサポートし、GAF-baseではサブグラフへのすべてのアライメントを抽出できる。さらに、GAF-baseは配列からグラフへのアライメント用ファイル形式の中で、他のどの形式よりも軽量である。利用可能性と実装https://github.com/jltsiren/gbz-base および https://crates.io/crates/gbz-base より（MITライセンス）。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 2",
+        "query": "(JOURNAL:\"microLife\" OR JOURNAL:\"Nucleic Acids Research\" OR JOURNAL:\"NAR Genomics and Bioinformatics\" OR JOURNAL:\"Bioinformatics\" OR JOURNAL:\"Microbes and Environments\" OR JOURNAL:\"Frontiers in Microbiology\" OR JOURNAL:\"Frontiers in Marine Science\" OR JOURNAL:\"mBio\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1093/nar/gkag1039",
+    "title": "4D-atlas: a multi-species four-dimensional spatiotemporal transcriptomics database spanning development, regeneration, and disease.",
+    "abstract": "Four-dimensional (4D) spatial transcriptomics, which captures molecular landscapes across both three-dimensional (3D) tissue architecture and temporal progression, is essential for deciphering dynamic biological processes such as development, regeneration, and disease progression. Here, we present 4D-atlas (https://bio-bigdata.hrbmu.edu.cn/4D-Atlas or https://4d-atlas.bio-database.com/), the first publicly accessible database dedicated to multi-species 4D spatiotemporal transcriptomic atlases. 4D-atlas collects and standardizes 1629 spatial slices spanning 88 distinct time points with 2-41 per dataset and over 22.2 million cells or spatial spots from 15 representative datasets across six species, encompassing embryonic development, tissue regeneration, and disease progression. Beyond data collection, 4D-atlas provides seven interactive analytical modules that enable 4D (3D space + time) exploration of tissue morphogenesis, spatial gene modules, pathway activities, regulatory networks, cell-cell communication, developmental trajectories, and temporal expression patterns. Using a unified analytical pipeline to integrate 3D spatial architecture and molecular information across discrete biological stages, 4D-atlas enables systematic investigation of tissue morphogenesis and dynamic regulatory programs across time and space.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1039",
+    "date": "2026-10-23",
+    "authors": "Zhao H, Liu W, Xu H, Wang L, Yang L, Sun Y, Yu H, Wu M, Li X, Wang L.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42922375",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42922375",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "database",
+        "transcriptomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5405,
+    "collected_at": "2026-11-22T06:45:33.032218+00:00",
+    "collected_date": "2026-11-22",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-22",
+    "related_dois": [
+      "10.1093/nar/gkag1039"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3b28ce5d130fae22fff4ed3a16469db11184b1e4453d58a12922055fb0ddf056",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-22T07:23:48.712549+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a1affbbbbeebb48cea7a2495178732bd67c1011abd2ef7302a2858b346ee14c7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-22T07:23:48.712549+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "4D-atlas：発生、再生、および疾患を網羅する多種対応の4次元時空間トランスクリプトミクスデータベース。",
+    "abstract_ja": "三次元（3D）組織構造と時間的進展の双方にわたる分子ランドスケープを捉える四次元（4D）空間トランスクリプトミクスは、発生、再生、疾患進行といった動的な生物学的プロセスを解明する上で不可欠である。本稿では、多種間4D時空間トランスクリプトームアトラスに特化した、初の一般公開データベースである4D-atlas（https://bio-bigdata.hrbmu.edu.cn/4D-Atlas または https://4d-atlas.bio-database.com/）を紹介する。4D-atlasは、胚発生、組織再生、疾患進行を網羅する6種の代表的な15のデータセットから、1データセットあたり2～41個、計88の個別の時点にわたる1,629個の空間スライスと、2,220万個以上の細胞または空間スポットを収集・標準化している。データ収集に加え、4D-atlasは7つのインタラクティブな解析モジュールを提供しており、組織形態形成、空間的遺伝子モジュール、パスウェイ活性、調節ネットワーク、細胞間コミュニケーション、発生軌跡、および時間的発現パターンの4D（3D空間＋時間）探索を可能にする。3D空間構造と分子情報を個別の生物学的段階にわたって統合する統一的な解析パイプラインを用いることで、4D-atlasは組織形態形成および動的な調節プログラムの時間的・空間的な系統的調査を実現する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 2",
+        "query": "(JOURNAL:\"microLife\" OR JOURNAL:\"Nucleic Acids Research\" OR JOURNAL:\"NAR Genomics and Bioinformatics\" OR JOURNAL:\"Bioinformatics\" OR JOURNAL:\"Microbes and Environments\" OR JOURNAL:\"Frontiers in Microbiology\" OR JOURNAL:\"Frontiers in Marine Science\" OR JOURNAL:\"mBio\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1093/bioinformatics/btag775",
+    "title": "MSCquartets 3.3: Fast Inference of Species Networks and Trees of Blobs under the Multispecies Coalescent.",
+    "abstract": "The R package MSCquartets offers a suite of methods for testing and inferring species relationships from gene trees under coalescent models. MSCquartets 3.3 significantly extends the functionality of version 1.0 by implementing the TINNiK and ECToBlob algorithms for inference of the tree of blobs under the network multispecies coalescent model (NMSC). Additionally, it implements the NANUQ+ algorithm, a fast method for inference of level-1 networks. Computational speed of all functionalities is greatly improved through use of C ++ routines, and a Shiny App is introduced for easier exploration of basic analyses. Availability and implementation: MSCquartets 3.3 is available on the Comprehensive R Archive Network, at https://CRAN.R-project.org/package=MSCquartets. The MSCquartets 3.3 Shiny App is available at https://mscquartets.shinyapps.io/MSCq-app/.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag775",
+    "date": "2026-10-20",
+    "authors": "Rhodes JA, Allman ES, Ané C, Baños H, Mitchell JD, Wicke K.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42902789",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42902789",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5391,
+    "collected_at": "2026-11-22T06:45:33.032218+00:00",
+    "collected_date": "2026-11-22",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-22",
+    "related_dois": [
+      "10.1093/bioinformatics/btag775"
+    ],
+    "translation": {
+      "title": {
+        "hash": "578267b7b1aa802400913db9ec12428f14ac236db63cf0bd096c4143bf2dc60c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-22T07:23:48.712549+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f47bfb1f94929972a1a223728d013887b799cd9b66489b75423660c15030ccd5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-22T07:23:48.712549+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "MSCquartets 3.3: 多種融合モデルにおける種ネットワークおよびブロブの木の高速推論",
+    "abstract_ja": "RパッケージMSCquartetsは、共進化モデルに基づく系統樹から種間関係を検定・推定するための一連の手法を提供する。MSCquartets 3.3は、ネットワーク多種共進化モデル（NMSC）におけるブロブ系統樹の推定用にTINNiKおよびECToBlobアルゴリズムを実装することで、バージョン1.0の機能を大幅に拡張している。さらに、レベル1ネットワークの推定を高速に行う手法であるNANUQ+アルゴリズムを実装している。C++ルーチンの採用によりすべての機能の計算速度が大幅に向上しており、基本的な解析をより容易に探索するためのShiny Appも導入されている。提供状況および実装：MSCquartets 3.3は、Comprehensive R Archive Network（https://CRAN.R-project.org/package=MSCquartets）で利用可能である。MSCquartets 3.3のShiny Appは、https://mscquartets.shinyapps.io/MSCq-app/ で利用可能である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.30.762990",
+    "title": "Megakaryocytic proteomic signatures define myeloproliferative neoplasms",
+    "abstract": "The classical Philadelphia-negative myeloproliferative neoplasms (MPNs) are clonal stem cell disorders of the bone marrow with significant niche dysregulation driven in part by abnormal megakaryocytes. The three classical MPNs: polycythemia vera (PV), essential thrombocythemia (ET) and primary myelofibrosis (PMF), display established megakaryocytic morphological differences which aid in their diagnostic classification. The paucity of megakaryocytes in the bone marrow aspirate has previously limited a proteomic analysis of megakaryocytes in clinical samples. We aimed to undertake an unbiased proteomic analysis of  in situ megakaryocytes from the bone marrow of patients with PV, ET, and PMF. Using a novel, deep visual proteomics strategy, we dissected and analyzed megakaryocytes from 60 MPN patients and 20 controls (patients with limited stage non-Hodgkin lymphoma who had uninvolved bone marrow). We reveal that megakaryocyte proteomics from MPN patients are distinct to those from control patients, and further, that the megakaryocytes from the three MPNs have unique, disease-specific signatures. The disease-specific megakaryocyte proteome highlights novel pathways of disease.  Key Points  A novel method can evaluate the proteome of megakaryocytes  in situ from archived clinical FFPE bone marrow trephine samples  Megakaryocytes in myeloproliferative neoplasms display distinctive disease-specific functional proteomic signatures",
+    "journal": "",
+    "doi": "10.64898/2026.10.30.762990",
+    "date": "2026-11-02",
+    "authors": "Raman I, Pettikiriarachchi A, Ataíde R, Juneja S, Zhu Y, Tsui E, Emery-Corbin SJ, Spall S, Yousef J, Gianni LF, Rajasekhar P, Motyer A, Yannakou CK, Pasricha S, Bennett C.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1355814",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "method",
+        "proteome",
+        "proteomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "method",
+          "proteome",
+          "proteomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5356,
+    "collected_at": "2026-11-21T23:14:33.572276+00:00",
+    "collected_date": "2026-11-22",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-21",
+    "related_dois": [
+      "10.64898/2026.10.30.762990"
+    ],
+    "translation": {
+      "title": {
+        "hash": "588edc45c8ca9a3136bdceb3d2c5c4c84ee0f0bec470ce5a172ad862be0415d8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-22T07:23:48.712549+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2c3e6bd963737ffdfce9c02634e62774acbbb2b7facc2ed06a70e3a69d1ccdfe",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-22T07:23:48.712549+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "巨核球性プロテオームシグネチャーが骨髄増殖性腫瘍を定義する",
+    "abstract_ja": "古典的なフィラデルフィア陰性骨髄増殖性腫瘍（MPN）は、一部に異常な巨核球が関与する顕著なニッチ調節不全を伴う、骨髄のクローン性幹細胞疾患である。3つの古典的MPNである真性多血症（PV）、本態性血小板増多症（ET）、および原発性骨髄線維症（PMF）は、診断分類の一助となる確立された巨核球の形態学的差異を示す。骨髄吸引液中の巨核球が乏しいため、これまで臨床検体における巨核球のプロテオーム解析は制限されてきた。本研究では、PV、ET、およびPMF患者の骨髄由来in situ巨核球のバイアスのないプロテオーム解析を行うことを目的とした。新規の深層ビジュアルプロテオミクス戦略を用い、MPN患者60例および対照群20例（骨髄浸潤のない限局期非ホジキンリンパ腫患者）から巨核球を摘出し解析した。その結果、MPN患者由来の巨核球プロテオームは対照群のものとは異なり、さらに3つのMPN由来の巨核球はそれぞれ疾患特異的な固有のシグネチャーを有することが明らかとなった。疾患特異的な巨核球プロテオームは、疾患の新規パスウェイを浮き彫りにする。 要点 新規手法により、保存された臨床FFPE骨髄トレフィン検体由来のin situ巨核球プロテオームを評価可能である。骨髄増殖性腫瘍の巨核球は、疾患特異的な特徴的な機能的プロテオームシグネチャーを示す。"
   }
 ]
