@@ -450759,5 +450759,844 @@
     "related_dois": [
       "10.3390/cancers18213503"
     ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1126/sciadv.aee7939",
+    "title": "Evidence of active whole-genome doubling (WGD) subclones in non-WGD tumors.",
+    "abstract": "Whole-genome doubling (WGD) occurs frequently in human cancer and influences tumor evolution, metastasis, and treatment response. Here, we integrate bulk, single-cell, and spatial data to dissect the subclonal dynamics of WGD. Single-cell data analysis shows that WGD cells are prevalent even in tumors that are classified as non-WGD (nWGD). WGD subclones actively acquire somatic copy number alterations as they expand, suggesting ongoing evolution. We developed and rigorously validated a gene expression-based method, WAGES, to map WGD cell clonal fraction in bulk tumors. Applying WAGES to nWGD tumors, we reveal genomic correlates including TP53 mutations and chromosomal instability that are consistent with the presence of WGD subclones. Clinically, WAGES scores are strongly correlated with tumor metastatic potential, response to treatments including chemotherapy and immunotherapy, and patient prognosis. These findings reveal widespread WGD subclones in nWGD tumors and demonstrate their substantial impact on cancer evolution and therapeutic outcomes.",
+    "journal": "Science Advances",
+    "doi": "10.1126/sciadv.aee7939",
+    "date": "2026-10-30",
+    "authors": "He F, Noureen M, Dray E, Ignatius MS, Wang X, Zheng S.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42962034",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13722003",
+    "pmid": "42962034",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "gene",
+        "method"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 5447,
+    "collected_at": "2026-11-23T02:44:50.912189+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.1126/sciadv.aee7939"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.29.26366564",
+    "title": "Anatomical comparison populations and threshold transport in vascular transcriptomic classification",
+    "abstract": "Background  High vascular transcriptomic discrimination may obscure dependence on comparison populations, gene selection, and score scale. We examined these properties separately. Methods  GSE100927 compared surgical atherosclerotic tissue with lesion-free deceased-donor arteries: 104 arrays formed 95 complete-label groups, versus 96 arteries reported originally; independent donor identities remained unresolved. Within held-out folds, pooled area under the receiver-operating-characteristic curve (AUROC) was decomposed into nine case-bed–control-bed comparisons. Seven fixed rules underwent ten repeated three-fold splits. The primary ridge model used sample-wise gene ranks and training-only selection of 200 genes. External tests involved 32 paired plaque/intact patients in GSE43292 and 29 early/advanced specimens in GSE28829. Post-result explorations added random and disjoint gene-panel controls, feature stability, frozen-score accounting, source-only threshold learning, and individual-failure analyses. Results  Primary mean held-out-fold pooled AUROC was 0.9968, versus a within-bed mean of 1.0000 and contrast −0.0032; the empirical ceiling constrained this contrast to be nonpositive. Paired external AUROC was 0.877 (conditional 95% interval 0.792–0.947), with plaque ranked higher in 29/32 patients. Histological AUROC was 0.986 (0.942–1.000). All primary external probabilities fell below 0.5. Both source-derived thresholds also gave zero external sensitivity. Twenty outcome-independent random panels retained source AUROCs of 0.9932–0.9992, while external ranking varied substantially. Across 30 primary fits, 619 genes were selected at least once and 45 every time. Fixed-score failure analyses distinguished shared from model-specific discordance. Conclusions  Strong source ranking did not establish a unique gene signature or transferable technical thresholds. Procurement confounding, uncertain donor identities, inherited preprocessing, changed endpoints, and the exploratory status of added analyses limit interpretation. This is a comparison-population audit, not a clinically calibrated risk model.",
+    "journal": "",
+    "doi": "10.64898/2026.10.29.26366564",
+    "date": "2026-10-30",
+    "authors": "You L, Peng Z, Guo Y, Shen L, Ge J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354199",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "classification",
+        "transcriptomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5448,
+    "collected_at": "2026-11-23T02:44:50.912189+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.64898/2026.10.29.26366564"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11546208/v1",
+    "title": "A Block-Guided Artificial Bee Colony Algorithm for Distributed Assembly Flowshop Scheduling with Sequence-Dependent Setup Times",
+    "abstract": "Abstract  The Distributed Assembly Permutation Flowshop Scheduling Problem with Sequence-Dependent Setup Times (DAPFSP-SDST) arises in many modern manufacturing supply chains. This paper proposes a Block-Guided Artificial Bee Colony (BG-ABC) algorithm for this problem with the aim of minimizing the makespan. An idle-aware block compression mechanism is developed to lock adjacent product pairs with minimal setup time and zero assembly idle time into atomic blocks, reducing the search space for global exploration. To further enhance search adaptability, a Sliding Window Upper Confidence Bound 1 (SW-UCB1) scheme is embedded in the employed bee phase to dynamically select neighborhood operators based on their recent performance. In the onlooker bee phase, local search is restricted to the Critical Job Subsequence so that computational effort is concentrated on the bottleneck region of the schedule. Moreover, a refinement-and-reconstruction mechanism is proposed in the scout bee phase to counteract the stagnation risk induced by block compression. Finally, extensive experiments on benchmark instances demonstrate that BG-ABC significantly outperforms state-of-the-art algorithms, verifying its effectiveness in solving DAPFSP-SDST.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11546208/v1",
+    "date": "2026-10-30",
+    "authors": "Xu J, Song H.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1353980",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "algorithm",
+        "assembly",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5449,
+    "collected_at": "2026-11-23T02:44:50.912189+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.21203/rs.3.rs-11546208/v1"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11533831/v1",
+    "title": "Phenotyping part of the target family improves within-family genomic prediction in rice nested association mapping families",
+    "abstract": "Abstract  Genomic prediction uses DNA markers to help rice breeders choose promising lines before costly yield trials. A new breeding family usually lacks its own yield records, so its lines are predicted from other families, often less accurately. With limited field plots, breeders can measure yield in some lines of the family being selected, called the target family, or adopt a more flexible model, which needs no extra plots. It is unclear which helps more, whether they combine, and whether better prediction selects higher-yielding lines. Here, two-site data for 15 nested association mapping families sharing one parent were reanalyzed with 2000 training records per target family, so gains reflect which lines were measured, not how many. In a four-strategy comparison added after the original analysis, replacing 100 other-family records with records from 5–15% of the target family raised average within-family predictive ability, the correlation between predicted and recorded yield of held-out lines, from 0.16–0.20 to 0.19–0.26 for both linear ridge regression and a nonlinear Gaussian-kernel model, with gains in 11–14 of 15 families. Switching to the Gaussian model alone, tuned for selected-line yield, changed it by only 0.005–0.011, although the two gains did not differ clearly after multiple-comparison correction; combining both gave the highest predictive ability. At 10% selection, lines chosen with target-family records yielded more on average, with 95% intervals above zero only at Shanghai; the originally planned comparison of records versus model was positive but not conclusive. In a multiparent population predicted from these families, its own records lowered selected-line yield at one site, with mixed effects at the other. In an elite International Rice Research Institute cohort, adding 25 current-season records raised average predictive ability of both models in every season, while selected-line yield varied. In these related families, phenotyping part of a new family before ranking the rest improved within-family prediction for both models. The results support using ridge regression trained with target-family records as the benchmark for flexible models, with strategies compared by both predictive ability and selected-line yield; predictions and code are publicly released.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11533831/v1",
+    "date": "2026-10-30",
+    "authors": "Li J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1353926",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "genomic",
+        "prediction"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5450,
+    "collected_at": "2026-11-23T02:44:50.912189+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.21203/rs.3.rs-11533831/v1"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11214932/v1",
+    "title": "GlioMIL: A Frozen-Backbone Multiple-Instance Learning Framework for Calibrated and Explainable Glioma Radiogenomics",
+    "abstract": "Abstract    Non-invasive prediction of glioma molecular status from magnetic resonance imaging (MRI) could reduce reliance on invasive biopsy. Still, deep-learning pipelines for this task are often trained on small cohorts and rarely assessed for calibration or explainability. We present GlioMIL, a 2.5D multiple-instance-learning (MIL) framework predicting isocitrate dehydrogenase (IDH) mutation status, tumour grade, O  6  -methylguanine-DNA methyltransferase (MGMT) promoter methylation, and 1p/19q codeletion from multi-contrast MRI, representing each tumour as a bag of tumour-guided axial slices embedded by a frozen, ImageNet-pretrained backbone and aggregated via attention-based pooling feeding multi-task heads. On a publicly available glioma cohort, a controlled five-way ablation with bootstrap confidence intervals and paired significance testing shows this frozen-backbone approach matches a fully-supervised 3D convolutional neural network (CNN) baseline, and that fusing standardised clinical and radiomic features into the pooled representation significantly improves over image-only multi-task learning for IDH and grade. However, a plain classifier on clinical and radiomic features alone, with no image input, matches or significantly exceeds the fused model on these tasks, so the frozen image branch adds no predictive value beyond structured features. MGMT and 1p/19q codeletion remain close to chance across all conditions. The fusion model is label-efficient and reasonably well calibrated, but its attention weights correspond to tumour regions only at a near-chance level, cautioning against treating attention as a reliable spatial explanation. We report our evaluation protocol, including rejection of an earlier flawed ensembling scheme and a per-fold feature-normalisation correction, to support trustworthy, reproducible reporting.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11214932/v1",
+    "date": "2026-10-30",
+    "authors": "Al-Quraishi T, Abawajy J, Albahri OS, Mishra R.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1353920",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "DNA",
+        "framework"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5451,
+    "collected_at": "2026-11-23T02:44:50.912189+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.21203/rs.3.rs-11214932/v1"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.21203/rs.3.rs-11548746/v1",
+    "title": "Epigenetic priming of the ectodermal mucosal-immune axis: Concurrent hypomethylation of protocadherin and innate immune sensors in edematous severe acute malnutrition",
+    "abstract": "Abstract    Background  The pathophysiology of edematous severe acute malnutrition (ESAM, or kwashiorkor) is characterized by a paradoxical \"double hit\": catastrophic epithelial barrier breakdown and systemic innate immune hyper-reactivity. Furthermore, survivors suffer profound, persistent neurodevelopmental deficits. The molecular mechanisms linking these phenotypes remain unknown. We hypothesized that early-life metabolic stress induces a targeted epigenetic scar on the shared ectodermal lineage, concurrently dysregulating physical barrier integrity and mucosal immune sensors. Methods  We developed a gold-standard bioinformatics pipeline to analyze raw Illumina IDAT methylation files from the GSE112893 cohort (374 buccal swab samples). Data were processed with Normal-Exponential Out-Of-Band (Noob) background correction, and differential methylation was assessed using  limma  with empirical Bayes moderation, adjusting for cellular heterogeneity. Results  We identified 76 significant differentially methylated positions (DMPs) (false discovery rate [FDR] PCDHG  ) cluster (22 probes) and key innate immune/mucosal remodelling genes, including promoter-region (TSS1500) hypomethylation of  CHI3L1  and  C3  , alongside structural barrier genes  MACF1  ,  SDK1  , and  ANK3  . Pathway analysis confirmed profound convergence on homophilic cell-cell adhesion (p = 2.93 × 10⁻²⁹) and nervous system development (p = 4.55 × 10⁻¹⁰). Conclusions  ESAM is characterized by a coordinated epigenetic dysregulation of the ectodermal mucosal-immune axis. Hypomethylation of the  PCDHG  cluster and innate immune sensors provides a unified molecular mechanism explaining the simultaneous barrier failure, systemic inflammation, and neurodevelopmental vulnerability observed in kwashiorkor.",
+    "journal": "",
+    "doi": "10.21203/rs.3.rs-11548746/v1",
+    "date": "2026-10-30",
+    "authors": "Msoka K.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1353849",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bioinformatics",
+        "method",
+        "pipeline"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "bioinformatics",
+          "method",
+          "pipeline"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5452,
+    "collected_at": "2026-11-23T02:44:50.912189+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.21203/rs.3.rs-11548746/v1"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.12688/wellcomeopenres.28140.1",
+    "title": "The genome sequence of the Brown Cosmet, Mompha miscella (Denis & Schiffermüller, 1775) (Lepidoptera: Momphidae)",
+    "abstract": "We present a genome assembly from an individual male  Mompha miscella (Brown Cosmet; Arthropoda; Insecta; Lepidoptera; Momphidae). The primary assembly has a total length of 499.33 megabases. Most of the primary assembly (94.8%) is scaffolded into 30 chromosomal pseudomolecules, including the Z sex chromosome. The mitochondrial genome has also been assembled, with a length of 15.59 kilobases. This assembly was generated as part of the Darwin Tree of Life project, which produces genomes for eukaryotic species found in Britain and Ireland.",
+    "journal": "",
+    "doi": "10.12688/wellcomeopenres.28140.1",
+    "date": "2026-10-30",
+    "authors": "Boyes D, Boyes C, University of Oxford and Wytham Woods Genome Acquisition Lab, Darwin Tree of Life Barcoding Collective, Wellcome Sanger Institute Tree of Life Management, Samples and Laboratory team, Wellcome Sanger Institute Scientific Operations: Sequencing Operations, Wellcome Sanger Institute Tree of Life Core Informatics team, Tree of Life Core Informatics collective, Darwin Tree of Life Consortium.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1353484",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "assembly",
+        "genome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5453,
+    "collected_at": "2026-11-23T02:44:50.912189+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.12688/wellcomeopenres.28140.1"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1021/acsomega.6c07662",
+    "title": "Nano-Boron Enhances Boron Accumulation and Alters the Tomato Leaf Metabolome: Molecular Modeling of Leaf-Surface and Boron Transporter-Metabolite Interactions.",
+    "abstract": "Boron (B) deficiency severely limits tomato (Solanum lycopersicum L.) productivity and fruit quality, particularly in alkaline or low-organic-matter soils, while conventional foliar boron fertilizers suffer from low uptake efficiency and environmental losses. In this study, we developed and characterized a novel nanoboron (NB) formulation and evaluated its efficacy compared with boric acid using physicochemical characterization, molecular simulations, greenhouse studies, metabolomics, and field validation. Physicochemical analyses confirmed stable nanoscale particles (∼58 nm hydrodynamic diameter, PDI 0.266, zeta potential -15.7 mV) with favorable colloidal stability. Molecular dynamics simulations demonstrated stable interfacial association of the nanoformulation with the leaf surface model without disruptive penetration. The foliar application in tomato cv. Shivam resulted in significantly higher boron accumulation in NB-treated leaves (1550-2080 ppm over 4-14 days) compared with boric acid and untreated controls. Untargeted metabolomics revealed distinct metabolic reprogramming, with significant modulation of stress-associated metabolites and volatile compounds following NB treatment. Molecular docking suggested potential interactions of differentially regulated metabolites with boron transporters (BOR1, NIP5;1) and antioxidant-related proteins, indicating possible links to boron homeostasis and redox regulation. Field-level validation demonstrated that NB significantly improved reproductive and yield parameters, including flower number, fruit set, fruit weight, and total yield (∼21 t ha-1), compared with conventional boric acid treatments. Collectively, these findings demonstrate that the NB formulation is an effective and sustainable foliar boron delivery system with enhanced nutrient use efficiency and promising agronomic benefits for tomato cultivation.",
+    "journal": "ACS omega",
+    "doi": "10.1021/acsomega.6c07662",
+    "date": "2026-10-29",
+    "authors": "Arunachalam L, Rajendran L, Lakshmanan S, Ganeshan S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43022941",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13756653",
+    "pmid": "43022941",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metabolomic",
+        "simulation"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metabolomic",
+          "simulation"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5454,
+    "collected_at": "2026-11-23T02:44:50.912189+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.1021/acsomega.6c07662"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.3389/fmicb.2026.1853821",
+    "title": "Metabolic dependency profiling guides staggered antibiotic administration to enhance killing of antibiotic-tolerant <i>Acinetobacter baumannii</i>.",
+    "abstract": "BackgroundAcinetobacter baumannii infections are difficult to eradicate, and bacterial physiological state influences antibiotic killing. However, antibiotic-specific activity across nutrient-associated physiological states and quantitative comparison of these differences remain insufficiently understood.MethodsAcinetobacter baumannii ATCC 19606T was cultured across a nutrient gradient (0-100% LB) to generate nutrient-associated physiological states. Bacterial growth, CFU-normalized intracellular ATP levels, and killing by six antibiotics were quantified. ATP-survival relationships were assessed across standardized concentrations of 0.5×-64×MIC, and a Metabolic Dependency Index (MDI) was developed as a continuous empirical measure of ATP-associated variation in antibiotic killing. Meropenem (MEM) and amikacin (AMK), representing opposite ends of the observed MDI spectrum, were evaluated using simultaneous, MEM-first staggered, and AMK-first staggered administration. The MEM-AMK combination was also examined in five clinical isolates.ResultsNutrient limitation reduced bacterial growth and CFU-normalized intracellular ATP levels and produced antibiotic- and concentration-dependent changes in killing. MDI values differed among antibiotics, with meropenem showing the highest and amikacin the lowest MDI. Simultaneous MEM-AMK treatment enhanced killing compared with the corresponding monotherapies under nutrient-limited conditions. MEM-first staggered administration further reduced bacterial counts relative to simultaneous treatment by 1.21 log10 CFU (95% CI, 0.48-1.94; p = 0.019) and 0.86 log10 CFU (95% CI, 0.47-1.26; p = 0.011) at two prespecified concentration combinations. Reverse-order AMK-first staggered treatment produced killing comparable to or greater than that achieved with MEM-first staggered treatment under several concentration combinations, indicating that the benefit of staggered exposure was not specific to a predefined MEM-first sequence. Similar differences between simultaneous and staggered MEM-AMK administration were observed across five clinical isolates, although the magnitude of these differences varied among isolates. Meropenem and amikacin MICs remained unchanged after antibiotic-free recovery of surviving populations, supporting a tolerance-associated phenotype rather than stable resistance.ConclusionAntibiotic killing in A. baumannii varies across nutrient-associated physiological states in an antibiotic- and concentration-dependent manner. The MDI provides a continuous framework for comparing these differences, while the MEM-AMK experiments show that combination activity can be further influenced by antibiotic administration pattern. These findings provide a basis for integrating bacterial physiological state into the evaluation and optimization of antibiotic combinations under nutrient-limited conditions.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1853821",
+    "date": "2026-10-29",
+    "authors": "Tuo P, Ji Y, Ruan C, Zhang S, Wang F, Shen J, Xu X, Zhu P.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43022146",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13755201",
+    "pmid": "43022146",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5455,
+    "collected_at": "2026-11-23T02:44:50.912189+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.3389/fmicb.2026.1853821"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.28.762254",
+    "title": "Impact of HIV-1 infection on the microglia transcriptome: induction of microRNA-23b leads to G3BP2-mediated stress granules assembly disruption",
+    "abstract": "Microglia act as HIV reservoirs in the brain and contribute to the development of HIV-associated neurocognitive disorders despite antiretroviral therapy. We examined the transcriptome of primary microglia infected  ex vivo with HIV-1. Analyses reveal a significant modulation of DNA damage/cell cycle-, cellular stress- and non-membrane bounded organelle assembly-related gene expression, and a broad effect on the microRNA profile. MicroRNA-23b is identified among upregulated microRNAs in HIV-1-infected microglia, and downregulated  g3bp2 mRNA, validated as its target. G3BP2 is a core component of stress granules (SGs), which serve as antiviral and proinflammatory platforms. MicroRNA-23b mimics reduced both G3BP2 expression and SG assembly in stress-induced monocyte-derived microglial cells (MDMi), and few SGs aggregate in infected MDMi. Inhibition of MicroRNA-23b partially re-established SG formation and reduced HIV-1 replication. Thus, microRNA-23b induction contributes to HIV-1 strategies aimed at counteracting SG assembly in infected microglia, a host response that restricts HIV-1 replication and ensuing neuropathogenesis.  Highlights  Cellular stress response genes are modulated in HIV-infected microglia HIV-1 upregulates miRNA-23b, which targets stress granule (SG) factor G3BP2 MiRNA-23b upregulation is dependent on HIV-1 glycoproteins expression Inhibiting miRNA-23b partially restores SGs and reduces HIV-1 replication",
+    "journal": "",
+    "doi": "10.64898/2026.10.28.762254",
+    "date": "2026-10-29",
+    "authors": "Lodge R, Branton W, Kirchhoff F, Power C, Cohen ÉA.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354337",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "assembly",
+        "transcriptome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "assembly",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5456,
+    "collected_at": "2026-11-23T02:44:50.912189+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.64898/2026.10.28.762254"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1002/advs.78423",
+    "title": "SpaCut: Transcript-Aware Morphology Fusion for Robust Cell Segmentation in Subcellular Spatial Transcriptomics.",
+    "abstract": "Subcellular Spatial Transcriptomics (SST) offers unprecedented opportunities to decipher tissue architecture at subcellular resolution. Consequently, accurate cell segmentation is a fundamental prerequisite for analyzing SST data, as precise transcript assignment is essential for downstream single-cell interpretation. Existing methods often overlook the spatial organization of transcripts, rely on simplified geometric priors, or struggle to coordinate transcript-derived features with morphology-derived spatial guidance. This limitation restricts their adaptability to irregular cell shapes, often leading to transcript misassignment. To address this, we propose SpaCut, a unified deep learning framework designed to effectively integrate transcriptomic feature learning with dynamic morphological guidance. SpaCut comprises a Gene-Wise Attention (GWA) module and a Nuclei-Guided Attentive Fusion (NGAF) module. GWA encodes the high-dimensional transcript map and aggregates features across multiple depths. NGAF uses the encoded transcript features to modulate distance-based nuclear softmasks and refine nucleus-anchored cell boundaries through progressive training. Extensive evaluations across seven datasets from diverse platforms (including Xenium, CosMx, MERSCOPE, and Stereo-seq) demonstrate that SpaCut significantly outperforms state-of-the-art methods in both segmentation accuracy and consistency with single-cell reference data. The source code is available at https://github.com/wenwenmin/SpaCut.",
+    "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+    "doi": "10.1002/advs.78423",
+    "date": "2026-10-29",
+    "authors": "Li Y, Zhu F, Min W.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42958707",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13720276",
+    "pmid": "42958707",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "transcriptomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5457,
+    "collected_at": "2026-11-23T02:44:50.912189+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.1002/advs.78423"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "comparative study",
+      "journal article"
+    ],
+    "id": "10.1016/j.brainresbull.2026.112182",
+    "title": "High-fidelity and network-based spatio-temporal mathematical models of Alzheimer's disease progression and their comparison with PET-SUVR imaging data.",
+    "abstract": "Alzheimer's disease is the most common neurodegenerative disorder. Its pathological development is connected with the misfolding and accumulation of two toxic proteins: amyloid-β and tau proteins. Mathematical models provide a valuable quantitative tool for monitoring disease progression. In this work, we proposed and compare a novel framework where the spatio-temporal dynamics of amyloid-β and tau proteins is modeled based on employing either three-dimensional patient-specific geometries or through reduced network-based models defined on the brain connectome. More specifically, a high-fidelity biophysical model is proposed on three-dimensional brain geometries reconstructed from magnetic resonance imaging, whereas a network-based reduced formulation is defined on the brain connectome. For both approaches, a suitable numerical discretization is proposed. A sensitivity analysis is presented to quantify the influence of model parameters on protein concentration patterns as well as compare the quality of the predictions. For both approaches, the results are compared with group-level PET-SUVR clinical data using [18F]AZD4694 for amyloid-β and [18F]MK6240 for tau protein. The results indicate that the three-dimensional model provides the most accurate and biologically consistent description of the disease progression, but remains computationally demanding. On the other hand, the reduced graph-based model is cheaper, but it is not always able to achieve reliable results.",
+    "journal": "Brain research bulletin",
+    "doi": "10.1016/j.brainresbull.2026.112182",
+    "date": "2026-10-29",
+    "authors": "Caon B, Corti M, Bonizzoni F, Antonietti PF.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42957097",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42957097",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "protein"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "framework",
+          "protein"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5458,
+    "collected_at": "2026-11-23T02:44:50.912189+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.1016/j.brainresbull.2026.112182"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "review",
+      "journal article"
+    ],
+    "id": "10.1016/j.phrs.2026.109720",
+    "title": "Unfolded protein response pathway in neurodegenerative diseases: Genetic insights into the mechanisms linking UPR dysregulation to Tau pathology and therapeutic implications.",
+    "abstract": "Endoplasmic reticulum (ER) stress activates a dynamic signaling network known as the unfolded protein response (UPR), which aims to reestablish cellular protein homeostasis and promote cell survival during stress. Dysregulated UPR signaling has been increasingly implicated in neurodegenerative diseases, many of which are characterized by tau hyperphosphorylation, misfolding, aggregation, and impaired clearance, contributing to neuronal dysfunction and degeneration. Genetic variations in UPR pathway components and their downstream effectors may influence the magnitude, duration, and cellular consequences of ER stress responses, thereby shaping disease susceptibility, progression, and therapeutic response. This review examines genetic variation within the UPR pathway and its relevance to the pathophysiology of tau-associated neurodegenerative diseases. By integrating evidence from genetic, cellular, and disease-model studies, we highlight how UPR dysregulation represents an important mechanistic interface linking genetic susceptibility with cellular stress responses, proteostasis disruption, and tau pathology. The article further explores UPR-focused therapeutic approaches, emphasizing how understanding genetic variation may provide insights into disease mechanisms and identify potential therapeutic targets. Building on these findings, we propose a framework in which UPR dysregulation is viewed not merely as a passive cellular response to neurodegeneration, but as a potential mechanistic determinant linking genetic risk to altered stress adaptation, proteostatic imbalance, and tau pathology. Within this framework, genetic variation in UPR components may contribute to distinct disease-relevant UPR states and influence therapeutic responsiveness. Integrating genetic variation with functional UPR signatures and treatment response may ultimately reveal disease-relevant therapeutic opportunities and inform the development of more precise UPR-targeted strategies for tau-associated neurodegenerative diseases.",
+    "journal": "Pharmacological research",
+    "doi": "10.1016/j.phrs.2026.109720",
+    "date": "2026-10-29",
+    "authors": "Babu S, LeSourd KS, Yuan SH.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42956861",
+    "preprint": false,
+    "review": true,
+    "pmcid": "",
+    "pmid": "42956861",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene",
+        "genetic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "framework",
+          "gene",
+          "genetic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5459,
+    "collected_at": "2026-11-23T02:44:50.912189+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.1016/j.phrs.2026.109720"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1016/j.aap.2026.108793",
+    "title": "Reactive safety-critical scenario generation for autonomous driving via interaction-adaptive diffusion.",
+    "abstract": "Safety-critical scenario generation is essential for testing automated driving systems under rare but consequential traffic interactions. Although existing methods have advanced this task, they still have limited capability to adapt the generated behavior of the adversarial vehicle (ADV) to evolving ego-ADV interactions, yielding non-reactive cases or hard-collision outcomes that limit the generation of sustained critical interactions. We propose Reactive Interaction-Guided Diffusion (RIGD), an interaction-adaptive diffusion framework for safety-critical scenario generation. RIGD uses interaction-driven adaptive truncated diffusion to refine a prediction-derived high-risk prior according to the current conflict condition. It further introduces reactive balance guidance to adjust adversarial trajectories during denoising, producing challenging and responsive critical interactions. Closed-loop evaluation in the Waymax simulator demonstrates that RIGD increases the effective critical-event rate and strengthens reactive ADV responses while maintaining competitive behavioral fidelity. Averaged over four baselines and three ego-motion settings, RIGD achieves relative improvements of 31.4% and 31.7% in effective critical-event rate and reaction gain, and relative reductions of 33.9% and 8.6% in hard-collision rate and acceleration distribution distance, respectively.",
+    "journal": "Accident; analysis and prevention",
+    "doi": "10.1016/j.aap.2026.108793",
+    "date": "2026-10-29",
+    "authors": "Nie J, Sun H, Xia C, Xing J, Yang S, Li M, Huang Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42956646",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42956646",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "framework",
+          "gene"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5460,
+    "collected_at": "2026-11-23T02:44:50.912189+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.1016/j.aap.2026.108793"
+    ]
   }
 ]
