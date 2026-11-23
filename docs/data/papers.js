@@ -6,63 +6,6 @@ window.PAPER_DATA = {
     "addition_tracking_since": "2026-11-08T16:41:37.586944+09:00",
     "addition_history": [
       {
-        "at": "2026-11-21T11:53:45.948336+09:00",
-        "papers": [
-          {
-            "id": "10.1016/j.isci.2026.118153",
-            "preprint": false
-          },
-          {
-            "id": "10.12688/wellcomeopenres.28054.1",
-            "preprint": true
-          },
-          {
-            "id": "10.21203/rs.3.rs-10936613/v1",
-            "preprint": true
-          },
-          {
-            "id": "10.64898/2026.11.05.764680",
-            "preprint": true
-          },
-          {
-            "id": "10.64898/2026.11.19.767948",
-            "preprint": true
-          },
-          {
-            "id": "10.31234/osf.io/jev3u",
-            "preprint": true
-          },
-          {
-            "id": "10.21203/rs.3.rs-11374994/v1",
-            "preprint": true
-          },
-          {
-            "id": "10.12688/wellcomeopenres.28109.1",
-            "preprint": true
-          },
-          {
-            "id": "10.1016/j.isci.2026.118137",
-            "preprint": false
-          },
-          {
-            "id": "10.64898/2026.11.05.764633",
-            "preprint": true
-          },
-          {
-            "id": "10.21203/rs.3.rs-11335292/v1",
-            "preprint": true
-          },
-          {
-            "id": "10.31234/osf.io/jev3u_v1",
-            "preprint": true
-          },
-          {
-            "id": "10.64898/2026.11.19.767971",
-            "preprint": true
-          }
-        ]
-      },
-      {
         "at": "2026-11-21T19:46:58.944924+09:00",
         "papers": [
           {
@@ -371,20 +314,69 @@ window.PAPER_DATA = {
             "preprint": false
           }
         ]
+      },
+      {
+        "at": "2026-11-23T12:25:11.199383+09:00",
+        "papers": [
+          {
+            "id": "10.3389/fmicb.2026.1853821",
+            "preprint": false
+          },
+          {
+            "id": "10.64898/2026.10.28.762254",
+            "preprint": true
+          },
+          {
+            "id": "10.1126/sciadv.aee7939",
+            "preprint": false
+          },
+          {
+            "id": "10.21203/rs.3.rs-11548746/v1",
+            "preprint": true
+          },
+          {
+            "id": "10.21203/rs.3.rs-11546208/v1",
+            "preprint": true
+          },
+          {
+            "id": "10.1186/s13059-026-04358-7",
+            "preprint": false
+          },
+          {
+            "id": "10.21203/rs.3.rs-11214932/v1",
+            "preprint": true
+          },
+          {
+            "id": "10.12688/wellcomeopenres.28140.1",
+            "preprint": true
+          },
+          {
+            "id": "10.64898/2026.10.29.26366564",
+            "preprint": true
+          },
+          {
+            "id": "10.21203/rs.3.rs-11533831/v1",
+            "preprint": true
+          }
+        ]
       }
     ],
     "date": "2026-11-23",
     "publication_mode": "daily",
-    "updated_at": "2026-11-23T07:23:09.742625+09:00",
-    "daily_updated_at": "2026-11-23T07:23:09.742625+09:00",
+    "updated_at": "2026-11-23T12:25:11.199383+09:00",
+    "daily_updated_at": "2026-11-23T12:25:11.199383+09:00",
     "week_ends_at": "2026-11-30T00:00:00+09:00",
     "added_ids": [
-      "10.64898/2026.10.28.762655",
-      "10.3389/fmicb.2026.1995610",
-      "10.1093/bib/bbag613",
-      "10.64898/2026.10.26.762091",
-      "10.21203/rs.3.rs-10760302/v1",
-      "10.3389/fmicb.2026.1977925"
+      "10.3389/fmicb.2026.1853821",
+      "10.64898/2026.10.28.762254",
+      "10.1126/sciadv.aee7939",
+      "10.21203/rs.3.rs-11548746/v1",
+      "10.21203/rs.3.rs-11546208/v1",
+      "10.1186/s13059-026-04358-7",
+      "10.21203/rs.3.rs-11214932/v1",
+      "10.12688/wellcomeopenres.28140.1",
+      "10.64898/2026.10.29.26366564",
+      "10.21203/rs.3.rs-11533831/v1"
     ],
     "added_date": "2026-11-23"
   },
@@ -1394,6 +1386,857 @@ window.PAPER_DATA = {
         "Frontiers in Microbiology",
         "Allergy"
       ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC bioinformatics",
+          "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "research-article",
+        "journal article"
+      ],
+      "id": "10.3389/fmicb.2026.1853821",
+      "title": "Metabolic dependency profiling guides staggered antibiotic administration to enhance killing of antibiotic-tolerant <i>Acinetobacter baumannii</i>.",
+      "abstract": "BackgroundAcinetobacter baumannii infections are difficult to eradicate, and bacterial physiological state influences antibiotic killing. However, antibiotic-specific activity across nutrient-associated physiological states and quantitative comparison of these differences remain insufficiently understood.MethodsAcinetobacter baumannii ATCC 19606T was cultured across a nutrient gradient (0-100% LB) to generate nutrient-associated physiological states. Bacterial growth, CFU-normalized intracellular ATP levels, and killing by six antibiotics were quantified. ATP-survival relationships were assessed across standardized concentrations of 0.5×-64×MIC, and a Metabolic Dependency Index (MDI) was developed as a continuous empirical measure of ATP-associated variation in antibiotic killing. Meropenem (MEM) and amikacin (AMK), representing opposite ends of the observed MDI spectrum, were evaluated using simultaneous, MEM-first staggered, and AMK-first staggered administration. The MEM-AMK combination was also examined in five clinical isolates.ResultsNutrient limitation reduced bacterial growth and CFU-normalized intracellular ATP levels and produced antibiotic- and concentration-dependent changes in killing. MDI values differed among antibiotics, with meropenem showing the highest and amikacin the lowest MDI. Simultaneous MEM-AMK treatment enhanced killing compared with the corresponding monotherapies under nutrient-limited conditions. MEM-first staggered administration further reduced bacterial counts relative to simultaneous treatment by 1.21 log10 CFU (95% CI, 0.48-1.94; p = 0.019) and 0.86 log10 CFU (95% CI, 0.47-1.26; p = 0.011) at two prespecified concentration combinations. Reverse-order AMK-first staggered treatment produced killing comparable to or greater than that achieved with MEM-first staggered treatment under several concentration combinations, indicating that the benefit of staggered exposure was not specific to a predefined MEM-first sequence. Similar differences between simultaneous and staggered MEM-AMK administration were observed across five clinical isolates, although the magnitude of these differences varied among isolates. Meropenem and amikacin MICs remained unchanged after antibiotic-free recovery of surviving populations, supporting a tolerance-associated phenotype rather than stable resistance.ConclusionAntibiotic killing in A. baumannii varies across nutrient-associated physiological states in an antibiotic- and concentration-dependent manner. The MDI provides a continuous framework for comparing these differences, while the MEM-AMK experiments show that combination activity can be further influenced by antibiotic administration pattern. These findings provide a basis for integrating bacterial physiological state into the evaluation and optimization of antibiotic combinations under nutrient-limited conditions.",
+      "journal": "Frontiers in Microbiology",
+      "doi": "10.3389/fmicb.2026.1853821",
+      "date": "2026-10-29",
+      "authors": "Tuo P, Ji Y, Ruan C, Zhang S, Wang F, Shen J, Xu X, Zhu P.",
+      "tags": [
+        "微生物学"
+      ],
+      "source_url": "https://europepmc.org/article/MED/43022146",
+      "preprint": false,
+      "review": false,
+      "pmcid": "PMC13755201",
+      "pmid": "43022146",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "bacteria",
+          "bacterial"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [],
+          "evolution": []
+        },
+        "tags": [
+          "微生物学"
+        ]
+      },
+      "collection_order": 5455,
+      "collected_at": "2026-11-23T02:44:50.912189+00:00",
+      "collected_date": "2026-11-23",
+      "sources": [
+        "Europe PMC bioinformatics"
+      ],
+      "first_seen": "2026-11-23",
+      "related_dois": [
+        "10.3389/fmicb.2026.1853821"
+      ],
+      "translation": {
+        "title": {
+          "hash": "6829c7dd4df470e547d3dc8453adc10f8a12a0af82d204e0dc160c3d846a611b",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-23T03:16:51.429891+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "523b4830ae76c716f0ca19a61e6570bc824c5a53d786d57ae3a9376aaf087d4b",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-23T03:16:51.429891+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "代謝依存性プロファイリングは、抗生物質耐性<i>Acinetobacter baumannii</i>の殺菌効果を高めるための、時間差を置いた抗生物質投与の指針となる。",
+      "abstract_ja": "背景Acinetobacter baumannii感染症の根絶は困難であり、細菌の生理的状態が抗菌薬による殺菌作用に影響を及ぼす。しかし、栄養関連の生理的状態における抗菌薬特異的な活性や、これら差異の定量的な比較については、依然として十分に解明されていない。方法Acinetobacter baumannii ATCC 19606Tを栄養勾配（0-100% LB）にわたって培養し、栄養関連の生理的状態を作製した。細菌の増殖、CFU換算の細胞内ATPレベル、および6種類の抗菌薬による殺菌作用を定量した。0.5×-64×MICの標準化濃度においてATP生存率の関係を評価し、抗菌薬殺菌作用におけるATP関連変動の連続的な経験的指標として代謝依存性指数（MDI）を開発した。観察されたMDIスペクトルの両極に位置するメロペネム（MEM）およびアミカシン（AMK）を、同時投与、MEM先行の時間差投与、およびAMK先行の時間差投与を用いて評価した。また、5つの臨床分離株においてMEM-AMK併用療法を検討した。結果栄養制限は細菌の増殖およびCFU換算の細胞内ATPレベルを低下させ、抗菌薬および濃度依存的な殺菌作用の変化をもたらした。MDI値は抗菌薬によって異なり、メロペネムが最も高いMDIを、アミカシンが最も低いMDIを示した。栄養制限条件下において、同時MEM-AMK投与は、対応する単剤療法と比較して殺菌作用を増強させた。2つのあらかじめ規定した濃度組み合わせにおいて、MEM先行の時間差投与は、同時投与と比較して細菌数をさらに1.21 log10 CFU（95% CI, 0.48-1.94; p = 0.019）および0.86 log10 CFU（95% CI, 0.47-1.26; p = 0.011）減少させた。逆順のAMK先行時間差投与は、複数の濃度組み合わせにおいて、MEM先行時間差投与で得られたものと同等またはそれ以上の殺菌作用を示し、時間差曝露の利点があらかじめ定義されたMEM先行シーケンスに特異的なものではないことが示された。5つの臨床分離株において、同時投与と時間差投与のMEM-AMK投与の間で同様の差異が観察されたが、これらの差異の大きさは分離株によって異なっていた。生存集団が抗菌薬フリー状態で回復した後も、メロペネムおよびアミカシンのMICは変化せず、安定した耐性ではなく耐性関連の表現型であることが支持された。結論A. baumanniiにおける抗菌薬殺菌作用は、栄養関連の生理的状態に応じて、抗菌薬および濃度依存的に変動する。MDIはこれらの差異を比較するための連続的な枠組みを提供し、一方でMEM-AMK実験は、併用活性が抗菌薬の投与パターンによってさらに影響を受ける可能性があることを示している。これらの知見は、栄養制限条件下における抗菌薬併用療法の評価および最適化に、細菌の生理的状態を組み込むための基礎となるものである。",
+      "answer_journal": "Frontiers in Microbiology",
+      "question_type": "published",
+      "options": [
+        "JNCI cancer spectrum",
+        "Annals of laboratory medicine",
+        "Journal of pharmacy & pharmaceutical sciences : a publication of the Canadian Society for Pharmaceutical Sciences, Societe canadienne des sciences pharmaceutiques",
+        "Frontiers in Microbiology"
+      ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC bioinformatics",
+          "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "preprint"
+      ],
+      "id": "10.64898/2026.10.28.762254",
+      "title": "Impact of HIV-1 infection on the microglia transcriptome: induction of microRNA-23b leads to G3BP2-mediated stress granules assembly disruption",
+      "abstract": "Microglia act as HIV reservoirs in the brain and contribute to the development of HIV-associated neurocognitive disorders despite antiretroviral therapy. We examined the transcriptome of primary microglia infected  ex vivo with HIV-1. Analyses reveal a significant modulation of DNA damage/cell cycle-, cellular stress- and non-membrane bounded organelle assembly-related gene expression, and a broad effect on the microRNA profile. MicroRNA-23b is identified among upregulated microRNAs in HIV-1-infected microglia, and downregulated  g3bp2 mRNA, validated as its target. G3BP2 is a core component of stress granules (SGs), which serve as antiviral and proinflammatory platforms. MicroRNA-23b mimics reduced both G3BP2 expression and SG assembly in stress-induced monocyte-derived microglial cells (MDMi), and few SGs aggregate in infected MDMi. Inhibition of MicroRNA-23b partially re-established SG formation and reduced HIV-1 replication. Thus, microRNA-23b induction contributes to HIV-1 strategies aimed at counteracting SG assembly in infected microglia, a host response that restricts HIV-1 replication and ensuing neuropathogenesis.  Highlights  Cellular stress response genes are modulated in HIV-infected microglia HIV-1 upregulates miRNA-23b, which targets stress granule (SG) factor G3BP2 MiRNA-23b upregulation is dependent on HIV-1 glycoproteins expression Inhibiting miRNA-23b partially restores SGs and reduces HIV-1 replication",
+      "journal": "",
+      "doi": "10.64898/2026.10.28.762254",
+      "date": "2026-10-29",
+      "authors": "Lodge R, Branton W, Kirchhoff F, Power C, Cohen ÉA.",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://europepmc.org/article/PPR/PPR1354337",
+      "preprint": true,
+      "review": false,
+      "pmcid": "",
+      "pmid": "",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "bioinformatics_method_or_resource",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "assembly",
+          "transcriptome"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "DNA",
+            "assembly",
+            "transcript"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "collection_order": 5456,
+      "collected_at": "2026-11-23T02:44:50.912189+00:00",
+      "collected_date": "2026-11-23",
+      "sources": [
+        "Europe PMC bioinformatics"
+      ],
+      "first_seen": "2026-11-23",
+      "related_dois": [
+        "10.64898/2026.10.28.762254"
+      ],
+      "translation": {
+        "title": {
+          "hash": "b060261e16ee9337c33e0e4daf939126ec80cfd345f286cb921d1726f8aa27e6",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-23T03:23:27.851967+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "24bf39b103d75eee6f6600291662e341fd7138339a58e8794467cbdabc544f79",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-23T03:23:27.851967+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "HIV-1感染がミクログリアトランスクリプトームに及ぼす影響：microRNA-23bの誘導がG3BP2介在性ストレス顆粒形成の破綻を引き起こす",
+      "abstract_ja": "ミクログリアは脳内においてHIVリザーバーとして機能し、抗レトロウイルス療法にもかかわらずHIV関連神経認知障害の発症に寄与している。本研究では、HIV-1にex vivo感染させた初代ミクログリアのトランスクリプトームを解析した。解析の結果、DNA損傷／細胞周期、細胞ストレス、および非膜結合性オルガネラ集合に関連する遺伝子発現の有意な調節と、マイクロRNAプロファイルへの広範な影響が明らかになった。HIV-1感染ミクログリアにおいて発現上昇しているマイクロRNAとしてmicroRNA-23bが同定され、標的としてg3bp2 mRNAの発現低下が確認された。G3BP2は、抗ウイルスおよび炎症促進プラットフォームとして機能するストレス顆粒（SG）の中核構成要素である。microRNA-23bは、ストレス誘導性単球由来ミクログリア細胞（MDMi）においてG3BP2の発現およびSG集合の双方の低下を模倣し、感染MDMiではSGの凝集が少ない。microRNA-23bの阻害により、SG形成が部分的に回復し、HIV-1の複製が抑制された。したがって、microRNA-23bの誘導は、感染ミクログリアにおけるSG集合に対抗することを目的としたHIV-1の戦略に寄与しており、この宿主応答はHIV-1の複製とそれに続く神経病態形成を制限する。ハイライト：細胞ストレス応答遺伝子はHIV感染ミクログリアにおいて調節される HIV-1はmiRNA-23bを発現上昇させ、これはストレス顆粒（SG）因子G3BP2を標的とする miRNA-23bの発現上昇はHIV-1糖タンパク質の発現に依存する miRNA-23bの阻害はSGを部分的に回復させ、HIV-1の複製を減少させる",
+      "answer_journal": null,
+      "question_type": "forecast",
+      "options": [
+        "Chemical communications (Cambridge, England)",
+        "Sensors (Basel, Switzerland)",
+        "Toxicon : official journal of the International Society on Toxinology",
+        "Journal of infection in developing countries"
+      ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC bioinformatics",
+          "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "research-article",
+        "journal article"
+      ],
+      "id": "10.1126/sciadv.aee7939",
+      "title": "Evidence of active whole-genome doubling (WGD) subclones in non-WGD tumors.",
+      "abstract": "Whole-genome doubling (WGD) occurs frequently in human cancer and influences tumor evolution, metastasis, and treatment response. Here, we integrate bulk, single-cell, and spatial data to dissect the subclonal dynamics of WGD. Single-cell data analysis shows that WGD cells are prevalent even in tumors that are classified as non-WGD (nWGD). WGD subclones actively acquire somatic copy number alterations as they expand, suggesting ongoing evolution. We developed and rigorously validated a gene expression-based method, WAGES, to map WGD cell clonal fraction in bulk tumors. Applying WAGES to nWGD tumors, we reveal genomic correlates including TP53 mutations and chromosomal instability that are consistent with the presence of WGD subclones. Clinically, WAGES scores are strongly correlated with tumor metastatic potential, response to treatments including chemotherapy and immunotherapy, and patient prognosis. These findings reveal widespread WGD subclones in nWGD tumors and demonstrate their substantial impact on cancer evolution and therapeutic outcomes.",
+      "journal": "Science Advances",
+      "doi": "10.1126/sciadv.aee7939",
+      "date": "2026-10-30",
+      "authors": "He F, Noureen M, Dray E, Ignatius MS, Wang X, Zheng S.",
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ],
+      "source_url": "https://europepmc.org/article/MED/42962034",
+      "preprint": false,
+      "review": false,
+      "pmcid": "PMC13722003",
+      "pmid": "42962034",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "bioinformatics_method_or_resource",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "gene",
+          "method"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "evolution",
+            "genom",
+            "genome",
+            "genomic"
+          ],
+          "evolution": [
+            "evolution"
+          ]
+        },
+        "tags": [
+          "微生物ゲノミクス",
+          "微生物進化"
+        ]
+      },
+      "collection_order": 5447,
+      "collected_at": "2026-11-23T02:44:50.912189+00:00",
+      "collected_date": "2026-11-23",
+      "sources": [
+        "Europe PMC bioinformatics"
+      ],
+      "first_seen": "2026-11-23",
+      "related_dois": [
+        "10.1126/sciadv.aee7939"
+      ],
+      "translation": {
+        "title": {
+          "hash": "1407543c651b55a1a9c53459289016a84e1698172fb3fb097c5c3428274af75f",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-23T03:16:51.429891+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "5b0a73477de3a88a3cc4010d8962f6541a54613b1a81c2e6185f67919b3e76c7",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-23T03:16:51.429891+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "非WGD腫瘍における活性な全ゲノム倍加（WGD）サブクローンの証拠。",
+      "abstract_ja": "全ゲノム倍加（WGD）はヒトがんにおいて頻繁に認められ、腫瘍の進化、転移、および治療反応性に影響を及ぼす。本研究では、バルクデータ、シングルセルデータ、および空間データを統合し、WGDのサブクローン動態を解析する。シングルセルデータ解析により、非WGD（nWGD）に分類される腫瘍においてもWGD細胞が広く存在することが示された。WGDサブクローンは増殖に伴い体細胞コピー数変動を能動的に獲得しており、継続的な進化が示唆される。我々は、バルク腫瘍におけるWGD細胞のクローン分画をマッピングするため、遺伝子発現に基づく手法WAGESを開発し、厳密な検証を行った。WAGESをnWGD腫瘍に適用した結果、WGDサブクローンの存在と一致するTP53変異や染色体不安定性を含むゲノム相関因子を明らかにした。臨床的には、WAGESスコアは腫瘍の転移能、化学療法や免疫療法を含む治療への反応性、および患者の予後と強い相関を示した。これらの知見は、nWGD腫瘍においてWGDサブクローンが広く分布していることを明らかにするとともに、がんの進化および治療成績に及ぼす多大な影響を実証するものである。",
+      "answer_journal": "Science Advances",
+      "question_type": "published",
+      "options": [
+        "Neurochemical research",
+        "Medical image analysis",
+        "Science Advances",
+        "Human reproduction (Oxford, England)"
+      ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC bioinformatics",
+          "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "preprint"
+      ],
+      "id": "10.21203/rs.3.rs-11548746/v1",
+      "title": "Epigenetic priming of the ectodermal mucosal-immune axis: Concurrent hypomethylation of protocadherin and innate immune sensors in edematous severe acute malnutrition",
+      "abstract": "Abstract    Background  The pathophysiology of edematous severe acute malnutrition (ESAM, or kwashiorkor) is characterized by a paradoxical \"double hit\": catastrophic epithelial barrier breakdown and systemic innate immune hyper-reactivity. Furthermore, survivors suffer profound, persistent neurodevelopmental deficits. The molecular mechanisms linking these phenotypes remain unknown. We hypothesized that early-life metabolic stress induces a targeted epigenetic scar on the shared ectodermal lineage, concurrently dysregulating physical barrier integrity and mucosal immune sensors. Methods  We developed a gold-standard bioinformatics pipeline to analyze raw Illumina IDAT methylation files from the GSE112893 cohort (374 buccal swab samples). Data were processed with Normal-Exponential Out-Of-Band (Noob) background correction, and differential methylation was assessed using  limma  with empirical Bayes moderation, adjusting for cellular heterogeneity. Results  We identified 76 significant differentially methylated positions (DMPs) (false discovery rate [FDR] PCDHG  ) cluster (22 probes) and key innate immune/mucosal remodelling genes, including promoter-region (TSS1500) hypomethylation of  CHI3L1  and  C3  , alongside structural barrier genes  MACF1  ,  SDK1  , and  ANK3  . Pathway analysis confirmed profound convergence on homophilic cell-cell adhesion (p = 2.93 × 10⁻²⁹) and nervous system development (p = 4.55 × 10⁻¹⁰). Conclusions  ESAM is characterized by a coordinated epigenetic dysregulation of the ectodermal mucosal-immune axis. Hypomethylation of the  PCDHG  cluster and innate immune sensors provides a unified molecular mechanism explaining the simultaneous barrier failure, systemic inflammation, and neurodevelopmental vulnerability observed in kwashiorkor.",
+      "journal": "",
+      "doi": "10.21203/rs.3.rs-11548746/v1",
+      "date": "2026-10-30",
+      "authors": "Msoka K.",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://europepmc.org/article/PPR/PPR1353849",
+      "preprint": true,
+      "review": false,
+      "pmcid": "",
+      "pmid": "",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "bioinformatics_method_or_resource",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "bioinformatics",
+          "method",
+          "pipeline"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "bioinformatics",
+            "method",
+            "pipeline"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "collection_order": 5452,
+      "collected_at": "2026-11-23T02:44:50.912189+00:00",
+      "collected_date": "2026-11-23",
+      "sources": [
+        "Europe PMC bioinformatics"
+      ],
+      "first_seen": "2026-11-23",
+      "related_dois": [
+        "10.21203/rs.3.rs-11548746/v1"
+      ],
+      "translation": {
+        "title": {
+          "hash": "fcaa5a34e0ce2876bb75770378624da28e00643446ac838340269302b3716ecd",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-23T03:20:15.024685+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "38c883baabc5e2ac467121f2e63650dc59c6d9021e5f6c384e967831665ed029",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-23T03:20:15.024685+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "外胚葉粘膜-免疫軸のエピジェネティック・プライミング：浮腫を伴う重症急性栄養不良におけるプロトカドヘリンおよび自然免疫センサーの共低メチル化",
+      "abstract_ja": "要旨    背景  浮腫を伴う重症急性栄養不良（ESAM、またはクワシオルコル）の病態生理は、壊滅的な上皮バリアの破綻と全身性の自然免疫過剰反応という、逆説的な「ダブルヒット」を特徴とする。さらに、生存者は深刻かつ持続的な神経発達上の障害を被る。これらの表現型を結びつける分子メカニズムは依然として不明である。我々は、生後早期の代謝ストレスが、共通の外胚葉系譜に標的型のエピジェネティック・スカーを誘発し、同時に物理的バリアの完全性と粘膜免疫センサーの調節不全を引き起こすという仮説を立てた。方法  我々は、GSE112893コホート（374検体の頬粘膜スワブサンプル）の生のIllumina IDATメチル化ファイルを解析するためのゴールドスタンダードのバイオインフォマティクス・パイプラインを開発した。データは正規指数分布外（Noob）背景補正を用いて処理し、細胞不均一性を調整した上で、経験的ベイズモデレーションを用いたlimmaにより差次的メチル化を評価した。結果  我々は、76箇所の有意な差次的メチル化部位（DMPs）（偽発見率［FDR］ PCDHG）クラスター（22プローブ）と、CHI3L1およびC3のプロモーター領域（TSS1500）の低メチル化、ならびに構造的バリア遺伝子であるMACF1、SDK1、ANK3を含む主要な自然免疫／粘膜リモデリング遺伝子を同定した。パスウェイ解析により、相同細胞間接着（p = 2.93 × 10⁻²⁹）および神経系発達（p = 4.55 × 10⁻¹⁰）への顕著な収束が確認された。結論  ESAMは、外胚葉粘膜-免疫軸の協調的なエピジェネティック調節不全を特徴とする。PCDHGクラスターおよび自然免疫センサーの低メチル化は、クワシオルコルで観察されるバリア機能不全、全身性炎症、および神経発達上の脆弱性を同時に説明する統一的な分子メカニズムを提供する。",
+      "answer_journal": null,
+      "question_type": "forecast",
+      "options": [
+        "Radiation oncology (London, England)",
+        "Zoonoses and public health",
+        "International journal of pharmaceutics",
+        "BMC medical imaging"
+      ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC bioinformatics",
+          "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "preprint"
+      ],
+      "id": "10.21203/rs.3.rs-11546208/v1",
+      "title": "A Block-Guided Artificial Bee Colony Algorithm for Distributed Assembly Flowshop Scheduling with Sequence-Dependent Setup Times",
+      "abstract": "Abstract  The Distributed Assembly Permutation Flowshop Scheduling Problem with Sequence-Dependent Setup Times (DAPFSP-SDST) arises in many modern manufacturing supply chains. This paper proposes a Block-Guided Artificial Bee Colony (BG-ABC) algorithm for this problem with the aim of minimizing the makespan. An idle-aware block compression mechanism is developed to lock adjacent product pairs with minimal setup time and zero assembly idle time into atomic blocks, reducing the search space for global exploration. To further enhance search adaptability, a Sliding Window Upper Confidence Bound 1 (SW-UCB1) scheme is embedded in the employed bee phase to dynamically select neighborhood operators based on their recent performance. In the onlooker bee phase, local search is restricted to the Critical Job Subsequence so that computational effort is concentrated on the bottleneck region of the schedule. Moreover, a refinement-and-reconstruction mechanism is proposed in the scout bee phase to counteract the stagnation risk induced by block compression. Finally, extensive experiments on benchmark instances demonstrate that BG-ABC significantly outperforms state-of-the-art algorithms, verifying its effectiveness in solving DAPFSP-SDST.",
+      "journal": "",
+      "doi": "10.21203/rs.3.rs-11546208/v1",
+      "date": "2026-10-30",
+      "authors": "Xu J, Song H.",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://europepmc.org/article/PPR/PPR1353980",
+      "preprint": true,
+      "review": false,
+      "pmcid": "",
+      "pmid": "",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "bioinformatics_method_or_resource",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "algorithm",
+          "assembly",
+          "sequence"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "assembly"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "collection_order": 5449,
+      "collected_at": "2026-11-23T02:44:50.912189+00:00",
+      "collected_date": "2026-11-23",
+      "sources": [
+        "Europe PMC bioinformatics"
+      ],
+      "first_seen": "2026-11-23",
+      "related_dois": [
+        "10.21203/rs.3.rs-11546208/v1"
+      ],
+      "translation": {
+        "title": {
+          "hash": "3d653f8f9b327e9dcff3e373fb3a78472e3aef3ca1716dc895c9cbe159a63abe",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-23T03:20:15.024685+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "4f31649f6706c69910cee84bdc7804432628d0d3e7389ae63d1d17e76b83be34",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-23T03:20:15.024685+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "シーケンス依存のセットアップ時間を伴う分散組立フローショップスケジューリングのためのブロック誘導型人工蜂群アルゴリズム",
+      "abstract_ja": "要旨  シーケンス依存のセットアップ時間を伴う分散組立順列フローショップスケジューリング問題（DAPFSP-SDST）は、多くの現代的な製造サプライチェーンにおいて発生している。本論文では、メイクスパンの最小化を目的として、本問題に対するブロック誘導型人工蜂群（BG-ABC）アルゴリズムを提案する。アイドル時間を考慮したブロック圧縮機構を開発し、最小限のセットアップ時間かつ組立アイドル時間ゼロで隣接する製品ペアをアトミックブロックに固定することで、大域的探索の探索空間を縮小させる。探索の適応性をさらに高めるため、採用する蜂フェーズにスライディングウィンドウ上側信頼限界1（SW-UCB1）スキームを組み込み、直近の性能に基づいて近傍オペレータを動的に選択する。オンルッカー蜂フェーズでは、計算負荷をスケジュールのボトルネック領域に集中させるため、局所探索をクリティカルジョブ部分列に限定する。さらに、スカウト蜂フェーズにおいて、ブロック圧縮によって生じる停滞リスクに対処するための精緻化・再構成機構を提案する。最後に、ベンチマークインスタンスを用いた広範な実験により、BG-ABCが最先端のアルゴリズムを大幅に上回る性能を示し、DAPFSP-SDSTの解決における有効性が検証された。",
+      "answer_journal": null,
+      "question_type": "forecast",
+      "options": [
+        "Journal of cardiovascular development and disease",
+        "International journal of chronic obstructive pulmonary disease",
+        "Nature protocols",
+        "Trends in parasitology"
+      ]
+    },
+    {
+      "id": "10.1186/s13059-026-04358-7",
+      "title": "Benchmarking of haplotype- and clone-specific detection callers of complex copy number alterations in single-cell DNA sequencing with HCDSIM and HCBench",
+      "abstract": "Background\n                     Single-cell DNA sequencing enables high-resolution characterization of somatic copy number alterations, yet accurately detecting haplotype-, cell/clone-, and locus-specific copy number alterations (hcCNAs) remains challenging. Complex hcCNA events, characterized by coordinated hcCNA changes affecting multiple haplotypes, clonal populations, or genomic loci, are pervasive in cancer and constitute important mechanisms underlying intratumor heterogeneity and tumor evolution.\n                  \n                     Results\n                     We present HCDSIM, a single-cell genomics simulator that models complex hcCNA events during clonal evolution, and HCBench, a benchmarking framework with simulation-based and real-data concordance modules. We evaluate five leading callers at 5 Mb and 100 kb resolution across sequencing coverage, clone structures, and clone ratios in simulation. CHISEL provides the best overall performance in hcCNA detection at 5 Mb but fails to correctly phase over half of the allelically imbalanced bins. SIGNALS exhibits the strongest clone detection among retained cells but poor hcCNA inference and limited phasing. Alleloscope achieves moderate clone recovery but low hcCNA accuracy. SEACON performs relatively well for deletions at 5 Mb, whereas CNRein performs best in inferring clone structure, evolution, and deletions at 100 kb. Simulations further demonstrate that caller rankings are generally stable across tree topologies and clone proportions, with task-specific exceptions. On real data, however, callers are highly discordant on three low-coverage single-cell DNA sequencing datasets.\n                  \n                     Conclusions\n                     These findings highlight the critical need for improved algorithms targeting complex hcCNA detection. HCDSIM and HCBench provide a robust foundation for developing and evaluating next-generation hcCNA callers.",
+      "journal": "Genome Biology",
+      "doi": "10.1186/s13059-026-04358-7",
+      "date": "2026-11-23",
+      "authors": "",
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ],
+      "source_url": "https://link.springer.com/article/10.1186/s13059-026-04358-7",
+      "abstract_source": "rss",
+      "preprint": false,
+      "topic_filter": {
+        "accepted": true,
+        "reason": "bioinformatics_method_or_resource",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "DNA",
+          "benchmark",
+          "framework",
+          "genomic",
+          "sequencing",
+          "simulation"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "DNA",
+            "evolution",
+            "genom",
+            "genomic"
+          ],
+          "evolution": [
+            "evolution"
+          ]
+        },
+        "tags": [
+          "微生物ゲノミクス",
+          "微生物進化"
+        ]
+      },
+      "discovery": [
+        {
+          "source": "https://link.springer.com/search.rss?facet-journal-id=13059",
+          "query": "RSS feed",
+          "scope": "candidate"
+        }
+      ],
+      "collection_order": 5461,
+      "collected_at": "2026-11-23T02:55:25.352029+00:00",
+      "collected_date": "2026-11-23",
+      "sources": [
+        "https://link.springer.com/search.rss?facet-journal-id=13059"
+      ],
+      "first_seen": "2026-11-23",
+      "related_dois": [
+        "10.1186/s13059-026-04358-7"
+      ],
+      "translation": {
+        "title": {
+          "hash": "215c20b1608e16dc1cb63b28883b8d2d38c063633b34dc2596f98355216bfc89",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-23T03:16:51.429891+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "a5c5bfe9ecfaf929ee054ebf537460724f099116fad46204d8f7d64de79cb844",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-23T03:16:51.429891+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "HCDSIMおよびHCBenchを用いたシングルセルDNAシーケンシングにおける複雑なコピー数変異のハプロタイプ・クローン特異的検出コーラーのベンチマーク解析",
+      "abstract_ja": "背景\n                     シングルセルDNAシーケンシングにより、体細胞のコピー数変動の高解像度な特性解析が可能となったが、ハプロタイプ、細胞/クローン、および遺伝子座特異的なコピー数変動（hcCNA）を正確に検出することは依然として困難な課題である。複数のハプロタイプ、クローン集団、またはゲノム遺伝子座に影響を及ぼす協調的なhcCNA変化を特徴とする複雑なhcCNA事象は、がんにおいて広く認められ、腫瘍内不均一性と腫瘍進化の根底にある重要なメカニズムとなっている。\n                  \n                     結果\n                     本研究では、クローン進化過程における複雑なhcCNA事象をモデル化するシングルセルゲノミクスシミュレーター「HCDSIM」と、シミュレーションベースおよび実データのコンコーダンスモジュールを備えたベンチマークフレームワーク「HCBench」を提案する。シミュレーションにおいて、シーケンシングカバレッジ、クローン構造、およびクローン比率にわたり、5 Mbおよび100 kbの解像度で5つの主要なコーラーを評価した。CHISELは5 MbにおけるhcCNA検出で最高の総合性能を示したが、アレル不均衡なビンの半数以上において正しくフェーズ分割を行うことができなかった。SIGNALSは保持された細胞において最も強力なクローン検出性能を示したが、hcCNAの推論性能が低く、フェーズ分割も限定的であった。Alleloscopeは中程度のクローン回収性能を示したが、hcCNAの精度は低かった。SEACONは5 Mbの欠失において比較的良好な性能を示した一方、CNReinは100 kbにおけるクローン構造、進化、および欠失の推論において最高の性能を示した。シミュレーションの結果、タスク固有の例外はあるものの、コーラーのランキングは系統樹トポロジーやクローン比率に関わらず概ね安定していることが示された。しかし、実データにおいては、カバレッジの低い3つのシングルセルDNAシーケンシングデータセットにおいて、コーラー間の不一致が顕著であった。\n                  \n                     結論\n                     これらの知見は、複雑なhcCNA検出を目的としたアルゴリズムの改良が極めて重要であることを浮き彫りにしている。HCDSIMおよびHCBenchは、次世代のhcCNAコーラーの開発および評価のための強固な基盤を提供するものである。",
+      "answer_journal": "Genome Biology",
+      "question_type": "published",
+      "options": [
+        "Parkinsonism & related disorders",
+        "Methods and protocols",
+        "Genome Biology",
+        "Current HIV research"
+      ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC bioinformatics",
+          "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "preprint"
+      ],
+      "id": "10.21203/rs.3.rs-11214932/v1",
+      "title": "GlioMIL: A Frozen-Backbone Multiple-Instance Learning Framework for Calibrated and Explainable Glioma Radiogenomics",
+      "abstract": "Abstract    Non-invasive prediction of glioma molecular status from magnetic resonance imaging (MRI) could reduce reliance on invasive biopsy. Still, deep-learning pipelines for this task are often trained on small cohorts and rarely assessed for calibration or explainability. We present GlioMIL, a 2.5D multiple-instance-learning (MIL) framework predicting isocitrate dehydrogenase (IDH) mutation status, tumour grade, O  6  -methylguanine-DNA methyltransferase (MGMT) promoter methylation, and 1p/19q codeletion from multi-contrast MRI, representing each tumour as a bag of tumour-guided axial slices embedded by a frozen, ImageNet-pretrained backbone and aggregated via attention-based pooling feeding multi-task heads. On a publicly available glioma cohort, a controlled five-way ablation with bootstrap confidence intervals and paired significance testing shows this frozen-backbone approach matches a fully-supervised 3D convolutional neural network (CNN) baseline, and that fusing standardised clinical and radiomic features into the pooled representation significantly improves over image-only multi-task learning for IDH and grade. However, a plain classifier on clinical and radiomic features alone, with no image input, matches or significantly exceeds the fused model on these tasks, so the frozen image branch adds no predictive value beyond structured features. MGMT and 1p/19q codeletion remain close to chance across all conditions. The fusion model is label-efficient and reasonably well calibrated, but its attention weights correspond to tumour regions only at a near-chance level, cautioning against treating attention as a reliable spatial explanation. We report our evaluation protocol, including rejection of an earlier flawed ensembling scheme and a per-fold feature-normalisation correction, to support trustworthy, reproducible reporting.",
+      "journal": "",
+      "doi": "10.21203/rs.3.rs-11214932/v1",
+      "date": "2026-10-30",
+      "authors": "Al-Quraishi T, Abawajy J, Albahri OS, Mishra R.",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://europepmc.org/article/PPR/PPR1353920",
+      "preprint": true,
+      "review": false,
+      "pmcid": "",
+      "pmid": "",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "bioinformatics_method_or_resource",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "DNA",
+          "framework"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "DNA"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "collection_order": 5451,
+      "collected_at": "2026-11-23T02:44:50.912189+00:00",
+      "collected_date": "2026-11-23",
+      "sources": [
+        "Europe PMC bioinformatics"
+      ],
+      "first_seen": "2026-11-23",
+      "related_dois": [
+        "10.21203/rs.3.rs-11214932/v1"
+      ],
+      "translation": {
+        "title": {
+          "hash": "89fa683a2f3fb298719cf1aef59ac1a9918644a5f61fca604f03528563057657",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-23T03:20:15.024685+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "4be3f703ec7987e877da209fbc472574afa1bb7a43f66dd845e6dd64bcf0a7aa",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-23T03:20:15.024685+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "GlioMIL: 較正済みかつ説明可能なグリオーマ・ラジオゲノミクスのための凍結バックボーン型マルチインスタンス学習フレームワーク",
+      "abstract_ja": "要旨    磁気共鳴画像法（MRI）によるグリオーマの分子状態の非侵襲的予測は、侵襲的な生検への依存を軽減し得る。しかしながら、このタスク向けの深層学習パイプラインは、小規模なコホートで訓練されることが多く、キャリブレーションや説明可能性の評価が行われることは稀である。本研究では、マルチコントラストMRIからイソクエン酸脱水素酵素（IDH）変異ステータス、腫瘍グレード、O₆-メチルグアニン-DNAメチルトランスフェラーゼ（MGMT）プロモーターのメチル化、および1p/19qコード欠失を予測する2.5次元マルチインスタンス学習（MIL）フレームワーク「GlioMIL」を提案する。本フレームワークでは、各腫瘍を、ImageNetで事前学習済みの凍結バックボーンによって埋め込まれ、アテンションベースのプーリングを介してマルチタスクヘッドに供給される、腫瘍ガイド付き軸方向スライスのバッグとして表現する。公開されているグリオーマコホートを用いた、ブートストラップ信頼区間および対応のある有意性検定を伴う制御された5分割アブレーションにより、この凍結バックボーンアプローチが完全教師あり3次元畳み込みニューラルネットワーク（CNN）ベースラインと一致すること、また、標準化された臨床的および放射線学的特徴量をプーリング表現に融合させることで、IDHおよびグレードにおいて画像のみのマルチタスク学習よりも有意に性能が向上することが示された。しかし、画像入力を用いず、臨床的および放射線学的特徴量のみを用いた単純な分類器は、これらのタスクにおいて融合モデルと同等か、あるいは有意に上回る結果となり、凍結画像ブランチは構造化特徴量以外の予測価値を付加しない。MGMTおよび1p/19qコード欠失は、すべての条件において偶然レベルに近い値に留まった。融合モデルはラベル効率が高く、概ね適切にキャリブレーションされているが、そのアテンション重みが腫瘍領域に対応しているのは偶然レベルに近いのみであり、アテンションを信頼できる空間的説明として扱うことには注意が必要である。信頼性と再現性のある報告を支援するため、以前の不備のあるアンサンブル手法の棄却や、フォールドごとの特徴量正規化補正を含む評価プロトコルを報告する。",
+      "answer_journal": null,
+      "question_type": "forecast",
+      "options": [
+        "Journal of the American Veterinary Medical Association",
+        "Clinical gastroenterology and hepatology : the official clinical practice journal of the American Gastroenterological Association",
+        "Environment international",
+        "Archives of oral biology"
+      ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC bioinformatics",
+          "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "preprint"
+      ],
+      "id": "10.12688/wellcomeopenres.28140.1",
+      "title": "The genome sequence of the Brown Cosmet, Mompha miscella (Denis & Schiffermüller, 1775) (Lepidoptera: Momphidae)",
+      "abstract": "We present a genome assembly from an individual male  Mompha miscella (Brown Cosmet; Arthropoda; Insecta; Lepidoptera; Momphidae). The primary assembly has a total length of 499.33 megabases. Most of the primary assembly (94.8%) is scaffolded into 30 chromosomal pseudomolecules, including the Z sex chromosome. The mitochondrial genome has also been assembled, with a length of 15.59 kilobases. This assembly was generated as part of the Darwin Tree of Life project, which produces genomes for eukaryotic species found in Britain and Ireland.",
+      "journal": "",
+      "doi": "10.12688/wellcomeopenres.28140.1",
+      "date": "2026-10-30",
+      "authors": "Boyes D, Boyes C, University of Oxford and Wytham Woods Genome Acquisition Lab, Darwin Tree of Life Barcoding Collective, Wellcome Sanger Institute Tree of Life Management, Samples and Laboratory team, Wellcome Sanger Institute Scientific Operations: Sequencing Operations, Wellcome Sanger Institute Tree of Life Core Informatics team, Tree of Life Core Informatics collective, Darwin Tree of Life Consortium.",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://europepmc.org/article/PPR/PPR1353484",
+      "preprint": true,
+      "review": false,
+      "pmcid": "",
+      "pmid": "",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "bioinformatics_method_or_resource",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "assembly",
+          "genome"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "assembly",
+            "genom",
+            "genome"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "collection_order": 5453,
+      "collected_at": "2026-11-23T02:44:50.912189+00:00",
+      "collected_date": "2026-11-23",
+      "sources": [
+        "Europe PMC bioinformatics"
+      ],
+      "first_seen": "2026-11-23",
+      "related_dois": [
+        "10.12688/wellcomeopenres.28140.1"
+      ],
+      "translation": {
+        "title": {
+          "hash": "3e3bc32fe97de354f4385bb6bf57f73667effb9a1237098195666741f2ee0a59",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-23T03:23:27.851967+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "38bbc58eb12d28f7e13d673e7f7f144f80eb22495cb68d46f1e9bed7f4ce2c74",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-23T03:23:27.851967+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "Brown Cosmet, Mompha miscella (Denis & Schiffermüller, 1775) (鱗翅目: モンファ科) のゲノム配列",
+      "abstract_ja": "本研究では、オスのMompha miscella（Brown Cosmet; Arthropoda; Insecta; Lepidoptera; Momphidae）個体のゲノムアセンブリを提示する。一次アセンブリの全長は499.33メガベースである。一次アセンブリの大部分（94.8%）は、Z性染色体を含む30本の染色体擬似分子へとスキャフォールディングされている。ミトコンドリアゲノムについてもアセンブリが行われており、その全長は15.59キロベースである。本アセンブリは、英国およびアイルランドに生息する真核生物種のゲノムを作製するDarwin Tree of Lifeプロジェクトの一環として作成された。",
+      "answer_journal": null,
+      "question_type": "forecast",
+      "options": [
+        "Journal of biochemistry",
+        "Marine genomics",
+        "Antiviral therapy",
+        "Haematologica"
+      ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC bioinformatics",
+          "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "preprint"
+      ],
+      "id": "10.64898/2026.10.29.26366564",
+      "title": "Anatomical comparison populations and threshold transport in vascular transcriptomic classification",
+      "abstract": "Background  High vascular transcriptomic discrimination may obscure dependence on comparison populations, gene selection, and score scale. We examined these properties separately. Methods  GSE100927 compared surgical atherosclerotic tissue with lesion-free deceased-donor arteries: 104 arrays formed 95 complete-label groups, versus 96 arteries reported originally; independent donor identities remained unresolved. Within held-out folds, pooled area under the receiver-operating-characteristic curve (AUROC) was decomposed into nine case-bed–control-bed comparisons. Seven fixed rules underwent ten repeated three-fold splits. The primary ridge model used sample-wise gene ranks and training-only selection of 200 genes. External tests involved 32 paired plaque/intact patients in GSE43292 and 29 early/advanced specimens in GSE28829. Post-result explorations added random and disjoint gene-panel controls, feature stability, frozen-score accounting, source-only threshold learning, and individual-failure analyses. Results  Primary mean held-out-fold pooled AUROC was 0.9968, versus a within-bed mean of 1.0000 and contrast −0.0032; the empirical ceiling constrained this contrast to be nonpositive. Paired external AUROC was 0.877 (conditional 95% interval 0.792–0.947), with plaque ranked higher in 29/32 patients. Histological AUROC was 0.986 (0.942–1.000). All primary external probabilities fell below 0.5. Both source-derived thresholds also gave zero external sensitivity. Twenty outcome-independent random panels retained source AUROCs of 0.9932–0.9992, while external ranking varied substantially. Across 30 primary fits, 619 genes were selected at least once and 45 every time. Fixed-score failure analyses distinguished shared from model-specific discordance. Conclusions  Strong source ranking did not establish a unique gene signature or transferable technical thresholds. Procurement confounding, uncertain donor identities, inherited preprocessing, changed endpoints, and the exploratory status of added analyses limit interpretation. This is a comparison-population audit, not a clinically calibrated risk model.",
+      "journal": "",
+      "doi": "10.64898/2026.10.29.26366564",
+      "date": "2026-10-30",
+      "authors": "You L, Peng Z, Guo Y, Shen L, Ge J.",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://europepmc.org/article/PPR/PPR1354199",
+      "preprint": true,
+      "review": false,
+      "pmcid": "",
+      "pmid": "",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "bioinformatics_method_or_resource",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "classification",
+          "transcriptomic"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "transcript"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "collection_order": 5448,
+      "collected_at": "2026-11-23T02:44:50.912189+00:00",
+      "collected_date": "2026-11-23",
+      "sources": [
+        "Europe PMC bioinformatics"
+      ],
+      "first_seen": "2026-11-23",
+      "related_dois": [
+        "10.64898/2026.10.29.26366564"
+      ],
+      "translation": {
+        "title": {
+          "hash": "e239eec3f24ec09a8bce3936dff36395430ce924d2381f42d6f98e8296260639",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-23T03:16:51.429891+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "43b8fa556a40b7a5df731e4c340799edea5418473ca22b46597e9854fba2551f",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-23T03:16:51.429891+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "血管トランスクリプトーム分類における解剖学的比較集団と閾値輸送",
+      "abstract_ja": "背景  血管系トランスクリプトームの判別能が高いと、比較集団、遺伝子選択、およびスコア尺度への依存性が不明瞭になる可能性がある。我々はこれらの特性を個別に検討した。方法  GSE100927では、外科的動脈硬化組織と病変のない死亡ドナー動脈を比較した。104個のアレイにより95の完全標識グループが形成され、当初報告された96本の動脈と対照となった。独立したドナーの身元は未解明のままであった。ホールドアウト・フォールド内において、受信者動作特性曲線下面積（AUROC）のプール値を、9つの症例ベッド－対照ベッド間の比較に分解した。7つの固定ルールについて、10回の3分割反復を行った。主要リッジモデルでは、サンプルごとの遺伝子ランクと、200個の遺伝子のトレーニング専用選択を用いた。外部検証には、GSE43292の対になったプラーク/無病変患者32例と、GSE28829の早期/進行検体29例を用いた。結果後の探索により、ランダムかつ互いに独立した遺伝子パネル対照、特徴量の安定性、凍結スコアの考慮、ソースのみの閾値学習、および個別失敗解析を追加した。結果  主要なホールドアウト・フォールドのプールAUROCは0.9968であり、ベッド内平均は1.0000、コントラストは−0.0032であった。経験的天井により、このコントラストは非陽性に制約された。対になった外部AUROCは0.877（条件付き95%区間 0.792–0.947）であり、32例中29例でプラークの順位が高かった。組織学的AUROCは0.986（0.942–1.000）であった。すべての主要な外部確率は0.5を下回った。ソース由来の両方の閾値において、外部感度はゼロであった。アウトカムに依存しない20のランダムパネルでは、ソースAUROCは0.9932–0.9992を維持したが、外部ランキングは大きく変動した。30回の主要な適合において、619個の遺伝子が少なくとも1回、45個が毎回選択された。固定スコアの失敗解析により、共通の不一致とモデル固有の不一致が区別された。結論  強力なソースランキングによって、固有の遺伝子シグネチャーや転用可能な技術的閾値が確立されることはなかった。調達の交絡、不確定なドナー身元、継承された前処理、エンドポイントの変更、および追加解析の探索的段階にあることが、解釈を制限している。これは比較集団の監査であり、臨床的に較正されたリスクモデルではない。",
+      "answer_journal": null,
+      "question_type": "forecast",
+      "options": [
+        "Wellcome open research",
+        "Molecular cancer therapeutics",
+        "BioFactors (Oxford, England)",
+        "The veterinary quarterly"
+      ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC bioinformatics",
+          "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "preprint"
+      ],
+      "id": "10.21203/rs.3.rs-11533831/v1",
+      "title": "Phenotyping part of the target family improves within-family genomic prediction in rice nested association mapping families",
+      "abstract": "Abstract  Genomic prediction uses DNA markers to help rice breeders choose promising lines before costly yield trials. A new breeding family usually lacks its own yield records, so its lines are predicted from other families, often less accurately. With limited field plots, breeders can measure yield in some lines of the family being selected, called the target family, or adopt a more flexible model, which needs no extra plots. It is unclear which helps more, whether they combine, and whether better prediction selects higher-yielding lines. Here, two-site data for 15 nested association mapping families sharing one parent were reanalyzed with 2000 training records per target family, so gains reflect which lines were measured, not how many. In a four-strategy comparison added after the original analysis, replacing 100 other-family records with records from 5–15% of the target family raised average within-family predictive ability, the correlation between predicted and recorded yield of held-out lines, from 0.16–0.20 to 0.19–0.26 for both linear ridge regression and a nonlinear Gaussian-kernel model, with gains in 11–14 of 15 families. Switching to the Gaussian model alone, tuned for selected-line yield, changed it by only 0.005–0.011, although the two gains did not differ clearly after multiple-comparison correction; combining both gave the highest predictive ability. At 10% selection, lines chosen with target-family records yielded more on average, with 95% intervals above zero only at Shanghai; the originally planned comparison of records versus model was positive but not conclusive. In a multiparent population predicted from these families, its own records lowered selected-line yield at one site, with mixed effects at the other. In an elite International Rice Research Institute cohort, adding 25 current-season records raised average predictive ability of both models in every season, while selected-line yield varied. In these related families, phenotyping part of a new family before ranking the rest improved within-family prediction for both models. The results support using ridge regression trained with target-family records as the benchmark for flexible models, with strategies compared by both predictive ability and selected-line yield; predictions and code are publicly released.",
+      "journal": "",
+      "doi": "10.21203/rs.3.rs-11533831/v1",
+      "date": "2026-10-30",
+      "authors": "Li J.",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://europepmc.org/article/PPR/PPR1353926",
+      "preprint": true,
+      "review": false,
+      "pmcid": "",
+      "pmid": "",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "bioinformatics_method_or_resource",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "genomic",
+          "prediction"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "DNA",
+            "genom",
+            "genomic"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "collection_order": 5450,
+      "collected_at": "2026-11-23T02:44:50.912189+00:00",
+      "collected_date": "2026-11-23",
+      "sources": [
+        "Europe PMC bioinformatics"
+      ],
+      "first_seen": "2026-11-23",
+      "related_dois": [
+        "10.21203/rs.3.rs-11533831/v1"
+      ],
+      "translation": {
+        "title": {
+          "hash": "2063a26c9692945a1460e051062ca5528f9ef0f2a51f3f510d57ab3daf3f44f1",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-23T03:20:15.024685+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "041d0dcb1b4fa43de4017bd832061c5d6dd9f6c98b9339c6098a569a2e6b70a7",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-23T03:20:15.024685+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "対象家系の一部の表現型解析により、イネの入れ子関連解析家系における家系内ゲノム予測が向上する。",
+      "abstract_ja": "要旨　ゲノム予測では、DNAマーカーを用いて、コストのかかる収量試験を行う前にイネ育種家が有望な系統を選択できるよう支援する。新たな育種系統群は通常、独自の収量記録を欠いているため、その系統は他の系統群から予測されるが、精度は劣ることが多い。圃場試験区が限られている場合、育種家は選定対象とする系統群（ターゲット系統群）の一部の系統で収量を測定するか、あるいは追加の試験区を必要としないより柔軟なモデルを採用することができる。どちらがより有効か、両者を組み合わせるべきか、またより優れた予測が高収量系統を選択するのかは明らかではない。本研究では、同一の親を持つ15の入れ子型アソシエーションマッピング系統群の2地点データを用い、ターゲット系統群あたり2,000件の訓練レコードで再解析を行った。これにより、得られた改善効果は、測定された系統数ではなく、どの系統が測定されたかを反映するものとなった。元の解析後に追加した4つの戦略による比較では、他の系統群のレコード100件をターゲット系統群の5～15%のレコードに置き換えたところ、系統内平均予測能が向上した。ホールドアウト系統の予測収量と記録収量の相関は、線形リッジ回帰および非線形ガウスカーネルモデルの双方において0.16–0.20から0.19–0.26へと上昇し、15系統中11～14系統で改善が見られた。選定系統の収量に合わせて調整したガウスモデルのみに切り替えた場合、改善幅はわずか0.005–0.011にとどまったが、多重比較補正後でもこれら2つの改善効果に明確な差は認められなかった。両者を組み合わせることで、最高の予測能が得られた。10%の選択率では、ターゲット系統群のレコードを用いて選択した系統が平均してより高い収量を示し、95%区間がゼロを超えたのは上海系統のみであった。当初計画していたレコード対モデルの比較は有意ではあったが、決定的な結果とはならなかった。これらの系統群から予測された多親集団では、独自のレコードが一方の地点では選定系統の収量を低下させ、もう一方の地点では混合効果が見られた。国際稲研究所のエリート集団コホートでは、当シーズンのレコード25件を追加することで、すべてのシーズンにおいて両モデルの平均予測能が向上したが、選定系統の収量は変動した。これらの関連系統群において、残りの系統を順位付けする前に新しい系統群の一部をフェノタイピングしたことで、両モデルの系統内予測精度が向上した。本結果は、ターゲット系統群のレコードで訓練したリッジ回帰を柔軟なモデルのベンチマークとして用い、予測能と選定系統の収量の両面から戦略を比較することを支持するものである。予測結果およびコードは公開されている。",
+      "answer_journal": null,
+      "question_type": "forecast",
+      "options": [
+        "Marine pollution bulletin",
+        "Veterinary research",
+        "Journal of colloid and interface science",
+        "Applied microbiology and biotechnology"
+      ]
     }
   ],
   "journal_catalog": [
@@ -1409,6 +2252,13 @@ window.PAPER_DATA = {
       "name": "Access microbiology",
       "scope": [
         "ecology",
+        "genomics",
+        "microbiology"
+      ]
+    },
+    {
+      "name": "Accident; analysis and prevention",
+      "scope": [
         "genomics",
         "microbiology"
       ]
