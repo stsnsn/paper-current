@@ -323915,5 +323915,277 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "抗生物質耐性のリザーバーとしての淡水シアノバクテリア：表現型解析からゲノム解析に至る多面的アプローチ",
     "abstract_ja": "目的抗生物質耐性は、今世紀における世界的な公衆衛生上の最大の課題の一つである。従来、研究の焦点は臨床病原体に置かれてきたが、淡水生態系においてシアノバクテリアが抗生物質耐性拡散のリザーバーおよび間接的媒介者の双方として機能しているという証拠が増えつつある。本研究の目的は、6種類の淡水シアノバクテリア株（Microcystis aeruginosa (CCAP 1450/6, CCAP 1450/16, PCC 7806)、Planktothrix rubescens (F1, F9)、およびPlanktothrix serta (PCC 8927)）において、表現型耐性プロファイルとゲノムデータとの相関を明らかにすることで、環境中における抗生物質耐性の持続に寄与する要因を解明し、ワンヘルス（One Health）アプローチにおけるこれらの生物の役割を評価することであった。方法アモキシシリン、セフタジジム、およびエリスロマイシンについて、改良したブロスマイクロダイリューションプロトコルを用い、14日間のインキュベーション期間にわたって最小発育阻止濃度を決定した。全ゲノムシーケンシングおよび比較解析を行い、シアノバクテリアのレジストームを特性評価するとともに、耐性決定因子、排出系、および可動性遺伝要素を調査した。結果表現型解析の結果、糸状株であるP. rubescens (F1, F9) およびP. serta (PCC 8927) は高いレベルの表現型耐性を示し、セフタジジム（およびF1におけるアモキシシリン）の最小発育阻止濃度は0.8 mg/L以上であったのに対し、M. aeruginosa CCAP 1450株は有意に感受性が高かった。ゲノム解析により、推定される内因性耐性関連機構の共通レパートリーが同定され、そこには三成分排出ポンプや、4つのAmblerクラスすべてに割り当てられたβ-ラクタマーゼおよびβ-ラクタマーゼ関連タンパク質を含む推定不活化酵素が支配的であった。さらに、冗長なタイプII毒素-抗毒素系の広範な存在は、代謝休眠および表現型耐性の能力が亢進していることを示唆している。また、推定トランスポザー遺伝子およびプラスミド維持関連遺伝子が豊富に認められ、動的なモビルロームが潜在的に大きいことが示唆された。これは機能的形質を維持・再編成する可能性を強調するものである。考察これらの知見は、抗生物質耐性が調査対象株の遺伝的レパートリーの構成要素である可能性を示しており、それらは自然な生態学的圧力および人為的圧力の下で進化した可能性がある。潜在的に高いゲノム可塑性と、高密度なブルームを形成する能力が相まって、これらの分類群はヒト病原体への耐性決定因子の拡散における主要な因子となる可能性があり、環境中の抗微生物薬耐性サーベイランスプログラムへの組み入れを検討するためのさらなる研究の必要性が示された。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1971086",
+    "title": "Engineering synthetic microbial communities for black-soil fertility: black-soil-prioritized functional targets, assembly principles, and the colonization gap",
+    "abstract": "Black soils support productive croplands, but intensive cultivation threatens their organic reserves and structure. Synthetic microbial communities (SynComs), defined consortia assembled to deliver a target function, offer a tractable approach to microbiome intervention. This review develops a black-soil-centered framework, with particular emphasis on cultivated Mollisols of Northeast China and comparable cold-region soils. It prioritizes four fertility functions: necromass-mediated carbon stabilization, seasonally matched nitrogen cycling, organic-phosphorus mobilization, and aggregate maintenance. These functions are shared with other agricultural soils; their priority depends on local constraints, with cold and freeze–thaw tolerance matched to the intended deployment season. Against the resident microbiota and local pH, carbon, mineral and seasonal constraints, the review then evaluates candidate assembly principles, including keystone selection, priority effects, metabolic coexistence, functional redundancy and community coalescence, while separating black-soil observations, mechanisms demonstrated in other systems and proposed design tests. Finally, it examines field establishment and separates colonization, persistence and functional benefit, which need not vary together. Direct field evidence integrating these targets with strain-resolved monitoring in black soils remains limited in the studies reviewed. A practical research agenda links standardized strain and site characterization to controlled, multi-site and multi-season evaluation, followed by an omics-to-design feedback loop, with prespecified functional endpoints, evaluation periods and meaningful effect targets. The framework provides hypotheses for local testing; conceptual links and proposed screening conditions are not validated causal pathways or universal performance thresholds.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1971086",
+    "date": "2026-11-23",
+    "authors": "Shuang Wang",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1971086",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial",
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5519,
+    "collected_at": "2026-11-23T12:44:27.540400+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.3389/fmicb.2026.1971086"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7f384074f6b3e7c033eae140f9dbfe43ef5cd9dec05606d207b8952723e55a20",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:36:34.185867+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c40adb43e798604ca17bccaaa2da31fc3eca6a626b112529485c87f7495c1c0e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:36:34.185867+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "黒土肥沃化に向けた合成微生物群集の工学的設計：黒土優先の機能標的、アセンブリ原理、および定着ギャップ",
+    "abstract_ja": "黒土は生産性の高い耕作地を支えるが、集約的な耕作はその有機物蓄積量と構造を脅かす。標的機能を果たすために編成された定義済みのコンソーシアムである合成微生物群集（SynComs）は、マイクロバイオーム介入への扱いやすいアプローチを提供する。本総説では、黒土を中心としたフレームワークを構築し、特に中国北東部の耕作地モリスソルおよびそれに類する寒冷地の土壌に重点を置く。本フレームワークでは、壊死塊を介した炭素安定化、季節に応じた窒素循環、有機リンの動員、および団粒維持という4つの肥沃度機能を優先する。これらの機能は他の農業土壌とも共通しており、その優先順位は現地の制約条件に依存し、寒冷および凍結融解耐性は想定される導入時期に合わせて調整される。在来微生物叢や現地のpH、炭素、鉱物、および季節的な制約条件に照らし、本総説では、キーストーン選択、優先効果、代謝的共存、機能的冗長性、および群集の融合を含む候補的なアセンブリ原理を評価するとともに、黒土での観察結果を、他の系で実証されたメカニズムや提案された設計試験から区別する。最後に、圃場への定着を検討し、定着、持続性、および機能的便益を分離する。これらが必ずしも同時に変化するとは限らない。これらの標的を黒土における菌株解像度のモニタリングと統合した直接的な圃場実証は、レビューした研究において依然として限られている。実践的な研究アジェンダでは、標準化された菌株およびサイトの特性評価を、制御された多サイト・多シーズン評価に結びつけ、続いて、あらかじめ規定された機能的エンドポイント、評価期間、および有意義な効果目標を備えた、オミクスから設計へのフィードバックループを構築する。本フレームワークは現地試験のための仮説を提供するものであり、概念的な関連性や提案されたスクリーニング条件は、検証済みの因果経路や普遍的な性能閾値ではない。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.01569-26",
+    "title": "Modelling herpes simplex virus type 2 and Zika virus replication in mouse vaginal organoids and human vaginal spheroids.",
+    "abstract": "Sexually transmitted viral infections disproportionately affect women and have adverse outcomes on maternal and fetal health. Since they are acquired through the vaginal tract, the vaginal epithelium is an important site to study host-viral interactions. An in vitro model of mouse vaginal epithelial organoids that can be infected by herpes simplex virus was recently established. Here, we used multiple vaginal organoid systems and studied their response to infection by herpes simplex virus type 2 (HSV-2) and Zika virus (ZIKV), both of which can be sexually transmitted and result in adverse effects on maternal and fetal health. We showed that mouse vaginal organoids support the replication of HSV-2 and ZIKV and respond to interferon treatment. We also established human vaginal spheroids from VK2/E6E7 cells that contain distinct apical and basal cell layers and are also susceptible to HSV-2 and ZIKV infection. Acyclovir treatment reduced HSV-2 replication in both mouse organoids and VK2 spheroids. However, ZIKV was restricted by remdesivir in VK2 spheroids but not in mouse organoids, indicating differences in antiviral activity depending on the organoid system. Finally, we established apical-out mouse vaginal organoids that were also susceptible to HSV-2 and ZIKV infection. Altogether, our results show that vaginal organoids and spheroids are useful in vitro models to study vaginal viral infections and effects of antiviral drugs.IMPORTANCEThe vaginal epithelium is the site of acquisition of sexually transmitted viral infections in women but has been historically understudied. 3D vaginal organoids that model the vaginal epithelium can be used to study virus-host interactions and provide novel insights. We demonstrated that vaginal organoids derived from mouse tissues could be infected with herpes simplex virus type 2 (HSV-2) and Zika virus (ZIKV), and these organoids are also capable of expressing immune genes. We then generated \"flipped\" mouse organoids that better represent the natural orientation of the vaginal epithelial lining. We also developed spheroids from human vaginal epithelial cells and showed that they can also be infected with HSV-2 and ZIKV. Finally, we showed that antiviral drugs reduced viral infection in these vaginal organoid and spheroid models. Our findings show that vaginal organoids and spheroids possess characteristics that make them useful models to study viral infections, as well as to test antiviral drugs.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.01569-26",
+    "date": "2026-10-21",
+    "authors": "Saraph A, Porter I, Bodykevich G, Barta I, Dang-Lawson M, Tokuyama M.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42904636",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42904636",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5477,
+    "collected_at": "2026-11-23T12:33:52.871848+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.1128/spectrum.01569-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "25b755822c1ed52bc4c49888483827bb59e6bcf4c47250e1d8f31f82b810e6f0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:36:34.185867+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c5cd8a9426401cefe5b55182a37cf8c803248ce498d13efd13d5cabf9a9f9c12",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:36:34.185867+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "マウス腟オルガノイドおよびヒト腟スフェロイドにおける単純ヘルペスウイルス2型およびジカウイルスの複製のモデリング",
+    "abstract_ja": "性感染症ウイルスは、女性に不釣り合いに多く発症し、母体および胎児の健康に悪影響を及ぼす。これらの感染症は腟管を介して感染するため、腟上皮は宿主とウイルスの相互作用を研究する上で重要な部位である。最近、単純ヘルペスウイルスに感染可能なマウス腟上皮オルガノイドのin vitroモデルが確立された。本研究では、複数の腟オルガノイド系を用い、いずれも性感染が可能で母体および胎児の健康に悪影響を及ぼす単純ヘルペスウイルス2型（HSV-2）およびジカウイルス（ZIKV）の感染に対する応答を検討した。その結果、マウス腟オルガノイドがHSV-2およびZIKVの複製を支持し、インターフェロン治療に応答することが示された。また、明確な頂端層と基底層を有し、HSV-2およびZIKV感染に感受性を持つVK2/E6E7細胞由来のヒト腟スフェロイドを樹立した。アシクロビル治療により、マウスオルガノイドおよびVK2スフェロイドの両方でHSV-2の複製が抑制された。しかし、ZIKVはVK2スフェロイドではレムデシビルによって抑制されたが、マウスオルガノイドでは抑制されず、オルガノイド系によって抗ウイルス活性に差異があることが示された。最後に、HSV-2およびZIKV感染に感受性を持つ頂端外向型マウス腟オルガノイドを樹立した。総じて、本研究の結果は、腟オルガノイドおよびスフェロイドが、腟ウイルス感染症および抗ウイルス薬の効果を研究するための有用なin vitroモデルであることを示している。重要性：腟上皮は女性における性感染症ウイルスの感染部位であるが、これまで十分に研究されてこなかった。腟上皮をモデルとした3次元腟オルガノイドは、ウイルスと宿主の相互作用の研究に利用でき、新たな知見をもたらす。我々は、マウス組織由来の腟オルガノイドが単純ヘルペスウイルス2型（HSV-2）およびジカウイルス（ZIKV）に感染可能であり、これらのオルガノイドが免疫遺伝子を発現できることを示した。次に、腟上皮の自然な配向をより適切に再現する「反転型」マウスオルガノイドを作製した。また、ヒト腟上皮細胞からスフェロイドを作製し、これらもHSV-2およびZIKVに感染可能であることを示した。最後に、抗ウイルス薬がこれらの腟オルガノイドおよびスフェロイドモデルにおいてウイルス感染を抑制することを示した。我々の知見は、腟オルガノイドおよびスフェロイドが、ウイルス感染症の研究および抗ウイルス薬の試験において有用なモデルとなる特性を備えていることを示している。"
+  },
+  {
+    "id": "10.1093/nar/gkag1258",
+    "title": "Rapid degradation of six class I HDAC complexes reveals a mixture of unique, cooperative, and antagonistic roles",
+    "abstract": "AbstractThe class I histone deacetylases (HDACs) 1, 2, and 3 form seven families of distinct large multiprotein complexes that regulate gene expression via deacetylation of lysines in histone tails. The degree of redundancy and functional overlap between complexes and their acute gene targets remain unknown. We used CRISPR/Cas9 to create six cell lines in which individual HDAC complexes were tagged with FKBP12F36V enabling rapid (50% of expressed genes. More than 60% of these are regulated by a single complex. ChIP-sequencing revealed that >54% of differentially expressed genes are directly regulated by the associated complex. Of genes regulated by more than one complex, approaching 50% are reciprocally regulated such that HDAC complexes act as antagonistic regulators. Homer analysis strongly suggests that the complexes are reliant on different transcription factors. This is the first study to rapidly degrade individual HDAC complexes, and identify and compare their acute gene targets. Together, these results show HDAC complexes regulate specific gene sets with minimal overlap of gene regulation within the same biological system.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1258",
+    "date": "2026-11-23",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1258/9113957?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5527,
+    "collected_at": "2026-11-23T12:44:27.540400+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/3091.xml"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.1093/nar/gkag1258"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8a917e264f33a52c184005a6a5a2f8d7ef0d770284c6d56f37500e044a09ee2f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:36:34.185867+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ad62fc5be8088286493bec0a2efa35cb4da233bb1213858ee0860b296c1b647d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:36:34.185867+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "クラスI HDAC複合体6種の急速な分解により、特異的、協調的、および拮抗的な役割の混在が明らかになる",
+    "abstract_ja": "要旨クラスIヒストン脱アセチル化酵素（HDAC）1、2、および3は、ヒストンテイルのリシンの脱アセチル化を介して遺伝子発現を調節する、7つの異なる大型多タンパク質複合体ファミリーを形成している。複合体とその急性遺伝子標的との間の冗長性および機能的重複の程度は依然として不明である。我々はCRISPR/Cas9を用いて、個々のHDAC複合体にFKBP12F36Vをタグ付けした6つの細胞株を作製し、迅速な（発現遺伝子の50%。これらのうち60%以上が単一の複合体によって調節されている。ChIPシーケンシングにより、発現変動遺伝子の54%超が対応する複合体によって直接調節されていることが明らかになった。複数の複合体によって調節される遺伝子のうち、50%近くが相互に調節されており、HDAC複合体が拮抗的な調節因子として機能している。ホマー解析は、これらの複合体が異なる転写因子に依存していることを強く示唆している。本研究は、個々のHDAC複合体を迅速に分解し、その急性遺伝子標的を同定・比較した初の研究である。これらの結果を総合すると、HDAC複合体は、同一の生物学的系内において遺伝子調節の重複を最小限に抑えつつ、特定の遺伝子セットを調節していることが示される。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.2025257",
+    "title": "A proposed multi-task machine learning strategy for dual-target quorum sensing inhibitor discovery in diabetic foot ulcer biofilms",
+    "abstract": "Chronic diabetic foot ulcers (DFUs) pose a severe clinical hurdle, largely because of the resilience of polymicrobial biofilms. When Staphylococcus aureus and Pseudomonas aeruginosa occupy the same wound environment, they can form a drug-tolerant biofilm in which context-dependent cooperation, regulated in part by species-specific quorum sensing (QS) systems, contributes to persistence. Single-target treatments do not address the regulatory programmes of both organisms. This perspective proposes, but does not implement a computational strategy that combines machine learning, multi-task virtual screening, and a staged experimental cascade to prioritize dual-acting QS inhibitors. We hypothesize that the Gram-negative LasR receptor and the Gram-positive AgrA regulator, although structurally unrelated, share enough pharmacophore-level ligandability for a single small molecule to inhibit both. Such dual inhibition of two species-specific QS pathways is distinct from direct disruption of interspecies signaling, which would require separate evidence. We distinguish established evidence from hypothesis and proposed methodology, set out a convergence test and falsifiable go/no-go criteria, and discuss data harmonization, model validation and wound-specific constraints. If the hypothesis holds, such a compound could act as an antivirulence adjuvant that may enhance the activity of conventional antibiotics under selected conditions and support wound healing.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.2025257",
+    "date": "2026-11-23",
+    "authors": "Shireen Adeeb Mujtaba Ali",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.2025257",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Pseudomonas"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5520,
+    "collected_at": "2026-11-23T12:44:27.540400+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.3389/fmicb.2026.2025257"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f54cde2366beb101ebf9bf769da2306a4641a6176e23f3a72af906e0d5634efa",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:36:34.185867+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c8c2817fbe720991bc0aabffb5125227bbdd888a2e8187c14bb46b8323300885",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:36:34.185867+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "糖尿病性足潰瘍バイオフィルムにおけるデュアルターゲット・クオラムセンシング阻害剤探索のためのマルチタスク機械学習戦略の提案",
+    "abstract_ja": "慢性糖尿病性足潰瘍（DFU）は、主に多菌種バイオフィルムの強靭さにより、臨床上の重大な課題となっている。黄色ブドウ球菌（Staphylococcus aureus）と緑膿菌（Pseudomonas aeruginosa）が同一の創傷環境に存在する場合、薬剤耐性バイオフィルムを形成することがあり、そこでは種特異的なクオラムセンシング（QS）系によって部分的に制御されるコンテキスト依存的な協調作用が、持続性に寄与している。単一標的治療では、両菌の調節プログラムに対処することはできない。本展望では、機械学習、マルチタスク仮想スクリーニング、および段階的な実験カスケードを組み合わせて、二重作用型QS阻害剤の優先順位付けを行う計算戦略を提案するが、実装は行わない。我々は、グラム陰性菌のLasR受容体とグラム陽性菌のAgrA調節因子が、構造的には無関係であるものの、単一の低分子化合物が両者を阻害するのに十分なファーマコフォアレベルのリガンド親和性を共有しているという仮説を立てる。このような種特異的な2つのQS経路の二重阻害は、種間シグナル伝達の直接的な遮断とは異なり、後者には別途の根拠が必要となる。我々は、確立されたエビデンスと仮説および提案手法を区別し、収束テストと反証可能なゴー／ノーゴー基準を提示するとともに、データの調和、モデルの検証、および創傷特異的な制約について論じる。もしこの仮説が正しければ、このような化合物は、特定の条件下で従来の抗菌薬の活性を高め、創傷治癒を促進し得る抗ウイルス性アジュバントとして機能する可能性がある。"
   }
 ]
