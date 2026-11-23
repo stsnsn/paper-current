@@ -451598,5 +451598,67 @@
     "related_dois": [
       "10.1016/j.aap.2026.108793"
     ]
+  },
+  {
+    "id": "10.1186/s13059-026-04358-7",
+    "title": "Benchmarking of haplotype- and clone-specific detection callers of complex copy number alterations in single-cell DNA sequencing with HCDSIM and HCBench",
+    "abstract": "Background\n                     Single-cell DNA sequencing enables high-resolution characterization of somatic copy number alterations, yet accurately detecting haplotype-, cell/clone-, and locus-specific copy number alterations (hcCNAs) remains challenging. Complex hcCNA events, characterized by coordinated hcCNA changes affecting multiple haplotypes, clonal populations, or genomic loci, are pervasive in cancer and constitute important mechanisms underlying intratumor heterogeneity and tumor evolution.\n                  \n                     Results\n                     We present HCDSIM, a single-cell genomics simulator that models complex hcCNA events during clonal evolution, and HCBench, a benchmarking framework with simulation-based and real-data concordance modules. We evaluate five leading callers at 5 Mb and 100 kb resolution across sequencing coverage, clone structures, and clone ratios in simulation. CHISEL provides the best overall performance in hcCNA detection at 5 Mb but fails to correctly phase over half of the allelically imbalanced bins. SIGNALS exhibits the strongest clone detection among retained cells but poor hcCNA inference and limited phasing. Alleloscope achieves moderate clone recovery but low hcCNA accuracy. SEACON performs relatively well for deletions at 5 Mb, whereas CNRein performs best in inferring clone structure, evolution, and deletions at 100 kb. Simulations further demonstrate that caller rankings are generally stable across tree topologies and clone proportions, with task-specific exceptions. On real data, however, callers are highly discordant on three low-coverage single-cell DNA sequencing datasets.\n                  \n                     Conclusions\n                     These findings highlight the critical need for improved algorithms targeting complex hcCNA detection. HCDSIM and HCBench provide a robust foundation for developing and evaluating next-generation hcCNA callers.",
+    "journal": "Genome Biology",
+    "doi": "10.1186/s13059-026-04358-7",
+    "date": "2026-11-23",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s13059-026-04358-7",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "DNA",
+        "benchmark",
+        "framework",
+        "genomic",
+        "sequencing",
+        "simulation"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "evolution",
+          "genom",
+          "genomic"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=13059",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5461,
+    "collected_at": "2026-11-23T02:55:25.352029+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=13059"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.1186/s13059-026-04358-7"
+    ]
   }
 ]
