@@ -322482,5 +322482,307 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "クリプトコックス抗原ラテラルフロー：下気道検体の検査は肺クリプトコックス症の診断精度を向上させるか？",
     "abstract_ja": "クリプトコックス症の標準的血清学的検査には、血清および脳脊髄液からのクリプトコックス抗原検出が含まれる（FDA承認）。肺クリプトコックス症の診断は、非特異的な臨床像および従来の検査法の感度の低さから、依然として困難である。X. Chen, Z. Wang, C. Di, F. Zhangらによる最近の研究（Microbiol Spectr 14:e01083-25, 2026, https://doi.org/10.1128/spectrum.01083-25）において、著者らは、肺クリプトコックス症が疑われる患者514例（確定例42例）の気管支肺胞洗浄液（BAL）を用い、免疫クロマトグラフィーラテラルフロー法（CrAg-LFA）によるクリプトコックス抗原検査の性能を評価した。BAL CrAg-LFA検査の感度は88.1%であり、血清CrAg-LFAの感度（90.5%）と同等であったが、BALと血清の併用検査では感度が100%に向上し、陰性的中率は100%であった。本研究は、血清CrAg-LFAが陰性である場合にBAL CrAg-LFAが追加的な診断価値を提供し得る一方で、肺クリプトコックス症の疑いが高い状態が維持されることを示唆している。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.2011058",
+    "title": "Codon usage signatures reveal codon-host compatibility trade-offs in the sylvatic-urban cycle of Mayaro virus: implications for urban emergence",
+    "abstract": "IntroductionMayaro virus (MAYV) has spilled over into urban mosquito populations, yet the molecular basis of its codon-host compatibility remains unresolved.MethodsWe analyzed codon usage across 91 complete MAYV genomes, integrating phylogenetic, multivariate and codon-host compatibility analyses.ResultsTranslational selection was the principal force shaping MAYV codon usage: neutrality regression yielded a slope of 0.016 for the full CDS (selection contribution 98.4%), the non-structural region retained a detectable mutational component, and all 91 isolates fell below the ENC-GC3s expectation curve. Among 12 reference species, codon-host compatibility quantified by CAI was highest for the sylvatic vector proxy Sabethes cyaneus (0.808) and lower for urban Aedes vectors and humans (0.743); Sabethes exceeded every urban and human reference after Benjamini–Hochberg correction (q < 0.001), and this ranking was preserved across NSP and SP partitions, across host strata, and in a human-only consistency check, indicating that it is selection-driven rather than an artifact of sample composition. RCDI and SiD were not concordant and are reported as descriptive divergence measures. RSCU and COA identified CUG and AGA as preferred codons, and CpG/UpA depletion is consistent with immune-mediated selection. Because these indices are computed from reference codon tables, they quantify codon-host compatibility rather than realized fitness.DiscussionThese findings provide a codon usage baseline for MAYV that may inform codon-deoptimized vaccine design and offer benchmarks for monitoring compatibility with urban vectors as MAYV encounters Aedes populations in the Americas.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.2011058",
+    "date": "2026-11-23",
+    "authors": "Leiliang Zhang",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.2011058",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5512,
+    "collected_at": "2026-11-23T12:44:27.540400+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.3389/fmicb.2026.2011058"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8971aeff9d61e3674d54090e705550754206559b567571f6506a8874c6854157",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:21:12.894883+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "eaa69eae275394907a3b39a5a8b36245deab3cd4601d62349e7e44414ef80ca9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:21:12.894883+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "コドン使用シグネチャーが明かすマヤロウイルスの森林・都市サイクルにおけるコドン・宿主適合性のトレードオフ：都市での出現への示唆",
+    "abstract_ja": "はじめにMayaroウイルス（MAYV）は都市部の蚊の集団に浸透しているが、そのコドン・宿主適合性の分子基盤は依然として解明されていない。方法91系統の完全なMAYVゲノムを対象に、系統解析、多変数解析、およびコドン・宿主適合性解析を統合してコドン利用状況を解析した。結果翻訳選択がMAYVのコドン利用を決定づける主要な要因であった。中立性回帰分析では、全CDSの傾きは0.016（選択寄与度98.4%）であり、非構造領域には検出可能な変異成分が保持され、全91分離株がENC-GC3sの期待値曲線を下回った。12の参照種において、CAIで定量化したコドン・宿主適合性は、野生型媒介蚊の代理指標であるSabethes cyaneusで最も高く（0.808）、都市部のAedes媒介蚊およびヒトで最も低かった（0.743）。SabethesはBenjamini–Hochberg補正後（q < 0.001）、すべての都市部およびヒトの参照種を上回り、この順位はNSPおよびSPの分割、宿主層、およびヒトのみを対象とした一貫性チェックにおいても維持された。このことは、本結果がサンプル組成によるアーティファクトではなく、選択によって導かれたものであることを示している。RCDIとSiDは一致せず、記述的分岐指標として報告する。RSCUとCOAはCUGとAGAを好適なコドンとして特定し、CpG/UpAの枯渇は免疫介在性選択と整合的である。これらの指標は参照コドンテーブルから算出されるため、実現適応度ではなくコドン・宿主適合性を定量化するものである。考察これらの知見は、MAYVのコドン利用のベースラインを提供するものであり、コドンの最適化を除いたワクチン設計の指針となるほか、MAYVが米州のAedes集団に遭遇する際の都市部媒介蚊との適合性をモニタリングするためのベンチマークとなり得る。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1128/jb.00233-26",
+    "title": "Structural and biochemical insights into isophthalate dihydrodiol dehydrogenase from <i>Comamonas testosteroni</i> KF1.",
+    "abstract": "Isophthalate serves as a carbon and energy source for several microorganisms through a dedicated catabolic pathway, in which isophthalate dihydrodiol dehydrogenase (IphB) mediates the NAD(P)+-dependent oxidation of 1,2-dihydroxy-3,5-cyclohexadiene-1,5-dicarboxylate (1,5-DCD) to protocatechuate. Here, we present the structural and biochemical characterization of isophthalate dihydrodiol dehydrogenase (IphBKF1) from Comamonas testosteroni KF1. Enzyme kinetics revealed IphBKF1 catalyzes the dehydrogenation of 1,5-DCD substrate with both NAD+ and NADP+, exhibiting a ~4 fold higher catalytic efficiency (kcat/KM) with NADP+. Crystal structures of IphBKF1 were determined in the apo form, in complex with NADP+, and as a ternary complex with NADP+ and the product 3,4-dihydroxybenzoic acid (3,4-DHB; protocatechuate) at resolutions of 1.5, 1.8, and 1.5 Å, respectively. Structural analysis reveals an NADP+-induced conformational change that facilitates cofactor accommodation and identifies key residues involved in NADP+ binding. Sequence and structural analyses highlight two conserved motifs, GXXXGXG and YXXXK, characteristic of the short-chain dehydrogenase/reductase (SDR) superfamily. Ternary complex of IphBKF1 (NADP+ and 3,4-DHB) and molecular docking with 1,5-DCD suggests that specific active-site residues contribute to substrate recognition and underpin the distinct substrate specificity of IphBKF1 compared to other SDR family members. Based on structural insights and comparison with homologous enzymes, we propose a catalytic mechanism for isophthalate oxidation. Together, these findings provide a comprehensive framework for understanding substrate specificity and catalysis in isophthalate dihydrodiol dehydrogenases.IMPORTANCEIsophthalate is a recalcitrant aromatic compound linked to the environmental release of phthalate-based plastics and plasticizers. However, the microbial degradation of isophthalate is relatively less known in comparison to other phthalate isomers. Efficient bacterial utilization of isophthalate requires a coordinated pathway in which the cis-dihydrodiol dehydrogenase IphB converts intermediates into protocatechuate, a central carbon metabolism intermediate. Despite its importance, the structural basis of this transition has remained unclear. Here, we provide a comprehensive structural and biochemical investigation of isophthalate dihydrodiol dehydrogenase (IphBKF1), revealing the structural basis for cofactor binding, active-site architecture, and conformational dynamics leading to the selective processing of isophthalate-derived substrates. These findings provide a framework for the design of enzymes with improved activity and selectivity for pollutant removal.",
+    "journal": "Journal of Bacteriology",
+    "doi": "10.1128/jb.00233-26",
+    "date": "2026-10-21",
+    "authors": "Mahto JK, Sharma M, Jangid K, Kumar P.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42905268",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13784196",
+    "pmid": "42905268",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "microbial",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5485,
+    "collected_at": "2026-11-23T12:33:52.871848+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.1128/jb.00233-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "36fa13db8712eaa6864f2992668242c815b1666fed134d5587256cf482578a7e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:21:12.894883+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3e6eaf904dfb84a7a91fa365a447c5983ad779d6701153d8e756a5e0b9c58cfc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:21:12.894883+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "<i>Comamonas testosteroni</i> KF1由来イソフタル酸ジヒドロジオール脱水素酵素の構造的・生化学的知見",
+    "abstract_ja": "イソフタル酸は、専用の異化経路を通じて複数の微生物の炭素源およびエネルギー源となっており、この経路ではイソフタル酸ジヒドロジオール脱水素酵素（IphB）が、1,2-ジヒドロキシ-3,5-シクロヘキサジエン-1,5-ジカルボキシレート（1,5-DCD）からプロトカテク酸へのNAD(P)+依存的な酸化を媒介する。本報では、Comamonas testosteroni KF1由来のイソフタル酸ジヒドロジオール脱水素酵素（IphBKF1）の構造および生化学的特性解析について報告する。酵素動力学解析により、IphBKF1はNAD+およびNADP+の双方を用いて1,5-DCD基質の脱水素化を触媒し、NADP+を用いた場合に約4倍高い触媒効率（kcat/KM）を示すことが明らかとなった。IphBKF1の結晶構造は、アポ型、NADP+との複合体、およびNADP+と生成物である3,4-ジヒドロキシ安息香酸（3,4-DHB；プロトカテク酸）との三元複合体として、それぞれ1.5、1.8、および1.5 Åの分解能で決定した。構造解析により、補因子の取り込みを促進するNADP+誘導性のコンフォメーション変化が認められ、NADP+結合に関与する主要な残基が同定された。配列および構造解析により、短鎖脱水素酵素／還元酵素（SDR）スーパーファミリーに特徴的な2つの保存モチーフ、GXXXGXGおよびYXXXKが浮き彫りとなった。IphBKF1の三元複合体（NADP+および3,4-DHB）と1,5-DCDとの分子ドッキングは、特定の活性部位残基が基質認識に寄与し、他のSDRファミリーメンバーと比較してIphBKF1の顕著な基質特異性を支えていることを示唆している。構造的知見および相同酵素との比較に基づき、我々はイソフタル酸酸化の触媒機構を提案する。これらの知見を総合すると、イソフタル酸ジヒドロジオール脱水素酵素における基質特異性と触媒作用を理解するための包括的な枠組みが提供される。重要性イソフタル酸は、フタル酸系プラスチックや可塑剤の環境放出に関連する難分解性芳香族化合物である。しかし、他のフタル酸異性体と比較して、イソフタル酸の微生物分解については比較的知見が少ない。イソフタル酸の効率的な細菌利用には、シス-ジヒドロジオール脱水素酵素IphBが中間体を中心的な炭素代謝中間体であるプロトカテク酸へと変換する協調的な経路が必要である。その重要性にもかかわらず、この遷移の構造的基盤は不明なままであった。本報では、イソフタル酸ジヒドロジオール脱水素酵素（IphBKF1）の包括的な構造および生化学的調査を行い、補因子結合の構造的基盤、活性部位のアーキテクチャ、およびイソフタル酸由来基質の選択的処理に至るコンフォメーションダイナミクスを明らかにした。これらの知見は、汚染物質除去のための活性と選択性を向上させた酵素設計の枠組みを提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.01970-26",
+    "title": "SARS-CoV-2 spike protein enhances HBV replication via autophagy and aggravates inflammation in CHB patients with liver dysfunction.",
+    "abstract": "This study investigated the effects of the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) spike protein (S protein) on hepatitis B virus (HBV) replication and immune function in patients with chronic hepatitis B (CHB), aiming to elucidate the underlying mechanisms of S protein-HBV interaction. Through in vitro cell experiments and clinical sample analyses, S protein expression was induced in HepG2.2.15 cells, leading to enhanced HBV replication; this effect was reduced by autophagy inhibitors, confirming the critical mediating role of autophagy. Furthermore, peripheral blood mononuclear cells (PBMCs) from CHB patients were co-cultured with the S protein, resulting in increased inflammatory responses in T cells and monocytes, particularly in patients with concurrent abnormal liver function and lipid metabolism disorders. In summary, the S protein promotes HBV replication by activating autophagy and exacerbates immune inflammation in CHB patients. Autophagy inhibitors block its effect on HBV replication, suggesting autophagy as a key regulatory target. The immune-activating effects of the S protein are more pronounced in patients with liver dysfunction and metabolic abnormalities. These findings provide a basis for further investigation into the interplay between the S protein and autophagy in HBV infection.IMPORTANCEThis study reveals that the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) spike protein promotes hepatitis B virus (HBV) replication by activating the autophagy pathway and elucidates its role in exacerbating immune inflammation in patients with chronic hepatitis B, particularly showing more pronounced responses in patients with liver dysfunction and lipid metabolism disorders. These findings provide critical molecular insights into the viral interaction and immunopathological mechanisms during SARS-CoV-2 and HBV co-infection. They also improve our understanding of the interplay between SARS-CoV-2 and HBV in the context of co-infection and provide a basis for future studies.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.01970-26",
+    "date": "2026-10-22",
+    "authors": "Chen L, Jiang Y, Miao X, Wang H, Shi H, Xu L, Li S, Chen Y, Shi H.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42910931",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42910931",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5479,
+    "collected_at": "2026-11-23T12:33:52.871848+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.1128/spectrum.01970-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8d5d510142fb8a508d9af4ff6a4a100e6e2ff3e8c4a4e5778d0f8bace4c5e801",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:21:12.894883+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ecf07373fd3b0925e5268e465f695f39b1bd3abc299ff0d2fdf4ccb267c47bf4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:21:12.894883+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "SARS-CoV-2スパイクタンパク質は、オートファジーを介してHBVの複製を亢進し、肝機能障害を有するCHB患者において炎症を増悪させる。",
+    "abstract_ja": "本研究では、慢性B型肝炎（CHB）患者を対象に、重症急性呼吸器症候群コロナウイルス2（SARS-CoV-2）スパイクタンパク質（Sタンパク質）がB型肝炎ウイルス（HBV）の複製および免疫機能に及ぼす影響を調査し、Sタンパク質とHBVの相互作用の根底にある機序を解明することを目的とした。in vitro細胞実験および臨床検体解析により、HepG2.2.15細胞においてSタンパク質の発現が誘導され、HBVの複製が亢進することが認められた。この効果はオートファジー阻害剤によって減弱し、オートファジーが極めて重要な媒介的役割を果たすことが確認された。さらに、CHB患者由来の末梢血単核球（PBMCs）をSタンパク質と共培養したところ、特に肝機能異常および脂質代謝障害を併発している患者において、T細胞および単球の炎症反応が増強した。要約すると、Sタンパク質はオートファジーを活性化することでHBVの複製を促進し、CHB患者において免疫炎症を増悪させる。オートファジー阻害剤はHBV複製に対するその作用を遮断することから、オートファジーが重要な調節標的であることが示唆される。Sタンパク質の免疫活性化作用は、肝機能障害および代謝異常を有する患者においてより顕著である。これらの知見は、HBV感染におけるSタンパク質とオートファジーの相互作用に関するさらなる研究の基礎となるものである。重要性：本研究は、重症急性呼吸器症候群コロナウイルス2（SARS-CoV-2）スパイクタンパク質がオートファジー経路を活性化することでB型肝炎ウイルス（HBV）の複製を促進することを明らかにするとともに、慢性B型肝炎患者における免疫炎症の増悪に果たす役割を解明し、特に肝機能障害および脂質代謝障害を有する患者においてより顕著な反応を示すことを示した。これらの知見は、SARS-CoV-2とHBVの共感染におけるウイルス相互作用および免疫病理学的機序に関する重要な分子レベルの知見を提供する。また、共感染の文脈におけるSARS-CoV-2とHBVの相互作用に関する理解を深めるとともに、今後の研究の基礎となるものである。"
+  },
+  {
+    "id": "10.1186/s40168-026-02585-5",
+    "title": "Enrichment of horizontally transferred protease genes and protein-biased metabolism in felid gut microbiota",
+    "abstract": "Diet shapes gut microbiome function, yet the mechanisms underlying the dominance of protein metabolism within felid gut microbiomes remain incompletely characterized. Here, we constructed a genome-resolved catalogue of the felid gut microbiomes from 73 samples of 14 species using combined long- and short-read sequencing technologies, and obtained 319 high-quality metagenome-assembled genomes (MAGs). Widespread horizontal gene transfer (HGT) events were identified in 42.3% of these microbial genomes. Genes acquired via HGT were highly enriched in amino acid and lipid metabolism and tended to assemble into intact gene clusters, enabling microbes to rapidly gain complete metabolic modules. Felid gut microbiota display an obvious functional preference for protein metabolism, associated with enrichment of protease genes via preferential HGT, rather than enrichment of lipase genes. We further supported this protein-biased metabolic bias via phenotypic characterization of cultured gut isolates. In vivo murine dietary assays demonstrated that the felid-originated strain with dual metabolic potentials exerted regulatory effects only under a high-protein diet. It significantly increased intestinal citrulline and L-methionine abundance, raised circulating cortisol levels, and modulated hepatic insulin receptor and IGF1R signaling pathways. By comparison, this strain showed limited metabolic regulation under high-fat feeding. Collectively, these genomic and experimental findings help explain the marked protein-metabolic bias of felid gut microbiota within this carnivore-associated gut niche.\nVideo Abstract",
+    "journal": "Microbiome",
+    "doi": "10.1186/s40168-026-02585-5",
+    "date": "2026-11-23",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s40168-026-02585-5",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenome",
+        "microbe",
+        "microbes",
+        "microbial",
+        "microbiome",
+        "microbiomes",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic",
+          "metagenom",
+          "metagenome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=40168",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5521,
+    "collected_at": "2026-11-23T12:44:27.540400+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=40168"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.1186/s40168-026-02585-5"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b3986a6c3a597561905a831d4b2edf847f96e3bf1b917c541b66631ae537c1ef",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:21:12.894883+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2ae30495c443c2365e32994694e832c69bd751b621732b44933cd01156d9045b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:21:12.894883+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ネコ科動物の腸内細菌叢における水平伝播プロテアーゼ遺伝子の濃縮とタンパク質偏重型代謝",
+    "abstract_ja": "食事は腸内微生物叢の機能を規定するが、ネコ科動物の腸内微生物叢においてタンパク質代謝が優位となるメカニズムについては、いまだ十分に解明されていない。本研究では、ロングリードおよびショートリードシーケンシング技術を組み合わせて、14種73サンプルのネコ科動物腸内微生物叢のゲノム解像度カタログを構築し、319個の高品質なメタゲノムアセンブルゲノム（MAG）を得た。これらの微生物ゲノムの42.3%において、広範な水平遺伝子伝達（HGT）事象が同定された。HGTによって獲得された遺伝子は、アミノ酸および脂質代謝に高度に濃縮されており、完全な遺伝子クラスターを形成する傾向があったため、微生物は完全な代謝モジュールを迅速に獲得することができた。ネコ科動物の腸内微生物叢は、リパーゼ遺伝子の濃縮ではなく、優先的なHGTによるプロテアーゼ遺伝子の濃縮に関連して、タンパク質代謝に対する明らかな機能的選好性を示す。さらに、培養した腸内分離株の表現型解析を通じて、このタンパク質偏向的な代謝バイアスを裏付けた。マウスを用いたin vivo食事アッセイでは、二重の代謝能を持つネコ科動物由来の菌株が、高タンパク質食下でのみ調節効果を示すことが明らかになった。この菌株は、腸管内のシトルリンおよびL-メチオニンの存在量を有意に増加させ、血中コルチゾール濃度を上昇させ、肝インスリン受容体およびIGF1Rシグナル伝達経路を調節した。対照的に、この菌株は高脂肪食下では限定的な代謝調節しか示さなかった。総じて、これらのゲノム学的および実験的知見は、肉食動物に関連するこの腸内ニッチにおけるネコ科動物腸内微生物叢の顕著なタンパク質代謝バイアスを説明する一助となる。\nビデオ抄録"
   }
 ]
