@@ -322193,5 +322193,294 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "広範な抗エンテロウイルス標的としての感染特異的な長鎖脂肪酸代謝",
     "abstract_ja": "エンテロウイルスは、ヒトに感染するウイルス群の中でおそらく最も数が多い。ほとんどのエンテロウイルス感染症は良性で自然治癒するが、その数の多さゆえに、必然的に複数の合併症が発生する可能性が高まる。エンテロウイルスの多様性により、ワクチンの開発が経済的に実現可能なのはごく一部のウイルスに限られており、また、あらゆる試験薬に対する耐性が急速に獲得されるため、エンテロウイルス感染症の治療に承認された直接作用型または宿主標的型の抗ウイルス薬は存在しない。本研究では、エンテロウイルス感染の普遍的な特性、すなわち抗ウイルス介入の標的となるリン脂質合成の著しい亢進について検討した。リン脂質合成の亢進は、内因性および外因性に由来する長鎖脂肪酸（LCFA）を消費する。我々は、多価不飽和LCFAが広範な抗エンテロウイルス効果を持ち、ウイルスのライフサイクルの複数の段階に影響を及ぼすことを実証した。LCFAの抗ウイルス活性は、不飽和度や脂質過酸化を誘導する能力に厳密に依存するのではなく、その立体構造と有意に相関していた。このことは、LCFAがリン脂質分子に取り込まれることで、複製オルガネラの膜がウイルスの複製機構を適切に収容できなくなることを示唆している。したがって、中性脂質合成の阻害は、感染細胞の膜へのLCFAのリターゲティングを促進し、その抗ウイルス能を高めた。我々は、このアプローチが分化した一次細胞を含む異なる細胞種の多様なエンテロウイルスに対して有効であること、および、このような治療に耐性を持つウイルスを樹立しようとする試みは成功しなかったことを示す。重要性：ヒトは300種類以上の異なるエンテロウイルスの宿主である。エンテロウイルス感染症は、麻痺、心筋炎、無菌性髄膜炎などの重篤な病態を含む、複数の短期的および長期的な合併症を誘発し得る。しかし、承認済みのワクチンはポリオウイルスおよびエンテロウイルスA71に対してのみ利用可能であり、臨床現場で承認された特異的な抗エンテロウイルス薬は存在しない。これらのウイルスは、ウイルスまたは宿主作用の試験化合物に対して急速に耐性を獲得する。我々は、エンテロウイルス感染に共通する特徴である感染細胞におけるリン脂質合成の強力な亢進を、エンテロウイルスの複製を制御するためのツールとして検討した。感染細胞が利用可能な長鎖脂肪酸組成を変化させることで、多様なエンテロウイルスの複製を同様に抑制することができ、耐性変異体の選抜も成功しなかった。したがって、個々のウイルス因子や宿主因子ではなく、感染によって誘導された細胞脂質代謝の変化を標的とすることは、エンテロウイルス感染症を制御するための有望なアプローチとなり得る。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/aem.01488-26",
+    "title": "A switch-rheostat circuit governs quorum sensing homeostasis in a phytopathogen.",
+    "abstract": "Pseudomonas fuscovaginae, a wide-host-range plant pathogen of several cereal and grass species, possesses two canonical N-acyl homoserine lactone (AHL)-based quorum sensing (QS) systems called PfsI/R and PfvI/R, both of which are inactive under laboratory conditions but active in planta. The pfsI-pfsR intergenic region encodes RsaM, a putative protein that has since been hypothesized to act as a repressor switch of this QS circuit. In the present study, we demonstrate that the stringent repression exerted on the PfsI/R system depends entirely on the divergent promoter/intergenic pfsR-rsaM region rather than RsaM itself. Remarkably, this regulatory switch element stringently represses the expression of both the pfsR and rsaM genes. We further show for the first time that RsaM is endogenously expressed and functions as a negative regulator, modulating the PfsI/R circuit instead of preventing its activation. Taken together, our results evidence a unique two-tiered/hierarchical repression of a QS system, provided by a master repressor switch and a repressor modulator.ImportancePseudomonas fuscovaginae is a globally occurring plant pathogen that employs N-acyl homoserine lactone (AHL)-based quorum sensing (QS) to regulate virulence. In this bacterium, QS signaling circuits display a rather unusual feature: the lack of activation at high cell densities under standard laboratory conditions. A hypothetical regulator named RsaM was previously linked to this phenomenon as a repressor switch acting on the PfsI/R AHL QS system in the absence of an unknown signal or stimulus. In this study, we show that a regulatory element within the pfsR-rsaM intergenic region acts as the primary switch of the PfsI/R QS system, independently of RsaM. Conversely, RsaM functions as a post-activation modulator that fine-tunes the QS response. This study advances our understanding of the regulatory configurations of unconventional QS systems by revealing a two-tier control mechanism in which a master regulatory switch governs circuit activation, while the previously uncharacterized protein RsaM controls signaling output once the system is engaged.",
+    "journal": "Applied and Environmental Microbiology",
+    "doi": "10.1128/aem.01488-26",
+    "date": "2026-11-05",
+    "authors": "Ristović N, Bertani I, Triolo G, Myers MP, Bez C, Venturi V.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42986124",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42986124",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Pseudomonas",
+        "bacterium"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5494,
+    "collected_at": "2026-11-23T12:33:52.871848+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.1128/aem.01488-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "11723dd3ced4927133de9afd49b8dafbe997a0412a626c1a99711f6129c226d8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:17:30.260706+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "efcdf4bbfe4dbe25e4d9f52a3dfa9199b1d12e6c785e012dc22bd5a9d623a60c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:17:30.260706+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "スイッチ・レオスタット回路が、植物病原体におけるクオラムセンシングの恒常性を制御している。",
+    "abstract_ja": "複数の穀類およびイネ科植物種の広範な宿主範囲を持つ植物病原菌であるPseudomonas fuscovaginaeは、PfsI/RおよびPfvI/Rと呼ばれる2つの典型的なN-アシルホモセリンラクトン（AHL）ベースのクオラムセンシング（QS）系を有しており、いずれも実験室条件下では不活性であるが、植物体内では活性を示す。pfsI-pfsR遺伝子間領域は、RsaMをコードしており、この推定タンパク質はその後、本QS回路の抑制スイッチとして機能するという仮説が立てられている。本研究では、PfsI/R系に及ぼされる厳格な抑制が、RsaM自体ではなく、完全に異なるプロモーター／遺伝子間pfsR-rsaM領域に依存していることを実証する。特筆すべきことに、この調節スイッチ要素は、pfsRおよびrsaM遺伝子の両方の発現を厳格に抑制する。さらに、RsaMが内因的に発現し、活性化を妨げるのではなく、PfsI/R回路を調節する負の調節因子として機能することを初めて示す。以上の結果を総合すると、我々の知見は、マスター抑制スイッチと抑制調節因子によって提供される、QS系の特異な2段階／階層的抑制を裏付けるものである。重要性Pseudomonas fuscovaginaeは世界的に分布する植物病原菌であり、N-アシルホモセリンラクトン（AHL）ベースのクオラムセンシング（QS）を用いて病原性を調節している。この細菌において、QSシグナル伝達回路はかなり特異な特徴を示しており、すなわち、標準的な実験室条件下では高い細胞密度においても活性化が起こらない。RsaMと名付けられた仮説上の調節因子は、未知のシグナルや刺激がない状態でPfsI/R AHL QS系に作用する抑制スイッチとして、この現象に関連付けられていた。本研究では、pfsR-rsaM遺伝子間領域内の調節要素が、RsaMとは独立してPfsI/R QS系の主要なスイッチとして機能することを示す。逆に、RsaMはQS応答を微調整する活性化後調節因子として機能する。本研究は、マスター調節スイッチが回路の活性化を制御し、システムが作動した後にはこれまで特性解析されていなかったタンパク質RsaMがシグナル出力を制御するという2段階の制御機構を明らかにすることで、非従来型QS系の調節構成に関する理解を深めるものである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1959697",
+    "title": "Prevalence, molecular characterization, and resistance patterns of cefotaxime-resistant Escherichia coli carrying ESBL-associated determinants in slaughtered pigs in a Metropolitan Andean setting, Quito, Ecuador",
+    "abstract": "IntroductionAntimicrobial-resistant Escherichia coli from food-producing animals are relevant to One Health surveillance, but genomic data from swine in Ecuador remain limited. This study investigated the occurrence, antimicrobial non-susceptibility patterns, resistance determinants, and genomic characteristics of cefotaxime-resistant E. coli recovered from slaughtered pigs in Quito, Ecuador.MethodsCecal contents and mesenteric lymph nodes were collected from 367 pigs at a major slaughterhouse in Quito. Cefotaxime-resistant E. coli were recovered by enrichment followed by selective culture. Antimicrobial susceptibility was evaluated by disk diffusion in 344 representative isolates, while β-lactamase and mcr genes were investigated by PCR and Sanger sequencing. Whole-genome sequencing (WGS) was performed on 31 selected isolates, comprising 28 recovered isolates initially positive for mcr by PCR and three additional isolates with unresolved β-lactamase results by Sanger sequencing. Genomes were characterized for antimicrobial resistance determinants, sequence types, virulence-associated loci, plasmid replicons, and SNP-based relatedness. Associations among antimicrobial non-susceptibility phenotypes were evaluated using multivariable logistic regression with false discovery rate correction and sensitivity analyses.ResultsCefotaxime-resistant E. coli were recovered from 346/367 pigs (94.3%; 95% Wilson CI, 91.4–96.2%). Among 344 isolates tested phenotypically, non-susceptibility was most frequent to tetracycline (93.0%), streptomycin (92.4%), chloramphenicol (80.8%), sulfamethoxazole–trimethoprim (74.7%), and ciprofloxacin (57.0%). The predominant ESBL-associated alleles were blaCTX-M-55, blaCTX-M-3, and blaCTX-M-65. Thirty pigs (8.2%) were initially positive for mcr genes by multiplex PCR. Twenty-five antimicrobial non-susceptibility associations remained significant after false discovery rate adjustment, and 17 were consistently significant across conventional logistic regression, Firth regression, and generalized estimating equation analyses. WGS identified 51 antimicrobial resistance determinants or resistance-associated mutations among the 31 selected isolates. The predominant sequence types were ST10 (10/31), ST5229 (7/31), and ST410 (4/31). Complete mcr-1-family determinants were identified in 21 assemblies, and IncI2-family replicons co-occurred in 20/21 of these genomes, although short-read sequencing did not establish physical gene–plasmid linkage. Closely related genomic subclusters were detected within ST10 and ST5229.DiscussionThe high occurrence of cefotaxime-resistant E. coli in pigs presented for slaughter, together with diverse resistance determinants, plasmid replicons, and genomic backgrounds, identifies the swine–slaughterhouse interface as an important setting for antimicrobial resistance surveillance. Because WGS was performed on a selected subset and epidemiological linkage was insufficient to establish transmission, the genomic findings should not be extrapolated to the entire recovered E. coli population or interpreted as evidence of direct transmission. These findings support continued integrated One Health surveillance of antimicrobial resistance in Ecuadorian swine production.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1959697",
+    "date": "2026-11-23",
+    "authors": "Christian Vinueza-Burgos",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1959697",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assemblies",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5511,
+    "collected_at": "2026-11-23T12:44:27.540400+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.3389/fmicb.2026.1959697"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ff8bfa66517e49b9b766edf09f17422e744e85dfb96c3d16f307c081920b65f8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:17:30.260706+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "356cbb56e3619ede628387ac5283d48e9a10b36ed68cf90fe78becdfe7e4ece2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:17:30.260706+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "エクアドル、キトのアンデス首都圏における屠殺豚におけるESBL関連決定因子保有セフォタキシム耐性大腸菌の保有率、分子特性解析および耐性パターン",
+    "abstract_ja": "はじめに食品生産動物由来の薬剤耐性大腸菌（E. coli）はワンヘルス（One Health）サーベイランスにおいて重要であるが、エクアドルの豚から得られたゲノムデータは依然として限られている。本研究では、エクアドルのキトで屠殺された豚から回収されたセフォタキシム耐性E. coliの出現状況、薬剤非感受性パターン、耐性決定因子、およびゲノム特性について調査した。方法キトの主要屠畜場において、豚367頭から盲腸内容物および腸間膜リンパ節を採取した。セフォタキシム耐性E. coliは、濃縮培養および選択培養により回収した。代表的な344株の分離株についてディスク拡散法により薬剤感受性を評価し、β-ラクタマーゼおよびmcr遺伝子についてはPCRおよびサンガーシーケンシングにより解析した。選定した31株（PCRで当初mcr陽性と判定された回収株28株と、サンガーシーケンシングでβ-ラクタマーゼの結果が未確定であった追加3株）に対して全ゲノムシーケンシング（WGS）を実施した。ゲノムについて、薬剤耐性決定因子、配列型、病原性関連遺伝子座、プラスミドレプリコン、およびSNPに基づく関連性を解析した。薬剤非感受性表現型間の関連性については、偽発見率補正を用いた多変数ロジスティック回帰分析および感度分析により評価した。結果セフォタキシム耐性E. coliは、豚367頭中346頭（94.3%；95% Wilson CI, 91.4–96.2%）から回収された。表現型解析を行った344株において、非感受性が最も頻繁に認められたのは、テトラサイクリン（93.0%）、ストレプトマイシン（92.4%）、クロラムフェニコール（80.8%）、スルファメトキサゾール・トリメトプリム（74.7%）、およびシプロフロキサシン（57.0%）であった。主要なESBL関連アレルは、blaCTX-M-55、blaCTX-M-3、およびblaCTX-M-65であった。30頭（8.2%）の豚において、マルチプレックスPCRにより当初mcr遺伝子陽性と判定された。偽発見率補正後も25組の薬剤非感受性関連性が有意であり、そのうち17組は従来のロジスティック回帰分析、Firth回帰分析、および一般化推定方程式解析において一貫して有意であった。WGSにより、選定した31株の中から51個の薬剤耐性決定因子または耐性関連変異が同定された。主要な配列型は、ST10（10/31）、ST5229（7/31）、およびST410（4/31）であった。mcr-1ファミリーの完全な決定因子は21のアセンブリで同定され、これらのゲノムのうち20/21でIncI2ファミリーのレプリコンが共起していたが、ショートリードシーケンシングでは遺伝子とプラスミドの物理的な連鎖は確認されなかった。ST10およびST5229内において、密接に関連するゲノムサブクラスターが検出された。考察屠殺に供された豚におけるセフォタキシム耐性E. coliの高い出現率は、多様な耐性決定因子、プラスミドレプリコン、およびゲノム背景と相まって、豚と屠畜場の接点が薬剤耐性サーベイランスにおける重要な場であることを示している。WGSは選定されたサブセットに対して実施され、伝播を立証するための疫学的関連性が不十分であったため、ゲノム上の知見を回収されたE. coli集団全体に外挿したり、直接的な伝播の証拠として解釈したりすべきではない。これらの知見は、エクアドルの豚生産における薬剤耐性の統合的なワンヘルスサーベイランスを継続することを支持するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1128/jb.00407-26",
+    "title": "Lysinoalanine crosslinking in the extracellular flagellar hook of Synergistota.",
+    "abstract": "Bacterial motility is driven by the flagellar motor, a conserved macromolecular complex that enables cells to navigate chemical gradients. In spirochetes, motility depends on periplasmic flagella whose function is supported by a unique post-translational modification in the hook protein FlgE: a covalent lysinoalanine (Lal) crosslink between adjacent subunits. This modification has been shown to be conserved across the phylum and is required for motility. In spirochetes, Lal is thought to provide additional hook stability needed to meet the demands of flagellar rotation in the confined space of the periplasm and associated load of the wrapped cell body. Guided by a bioinformatic screen based on conserved catalytic residues required for Lal formation, we investigated the possibility that bacteria with extracellular flagella also produce Lal. Using a combination of biochemical crosslinking assays and high-resolution mass spectrometry, we demonstrate that FlgE from Thermanaerovibrio acidaminovorans, a motile member of the Synergistota phylum, forms Lal crosslinks analogous to those of spirochetes in vitro and in wild-type cell culture. These results establish the first example of Lal crosslinking in extracellular flagellar hooks and the first instance outside of the spirochete phylum. Thus, Lal crosslinking is more broadly conserved than previously appreciated and may represent a general mechanism for enhancing hook stability and function for extracellular as well as periplasmic flagella.IMPORTANCEMany bacteria employ complex rotary engines known as flagella to propel them toward nutrients or away from harmful environments. In spirochetes, motility depends on lysinoalanine (Lal) crosslinks within the flagellar hook protein FlgE to strengthen the universal joint of the rotating filament, which resides in the periplasm. This study shows that the same type of modification also exists in a bacterium distantly related to spirochetes, Thermanaerovibrio acidaminovorans, that contains more typical extracellular flagella. Using biochemical experiments and mass spectrometry, we confirm that its flagellar hook protein self-catalyzes Lal crosslinks, marking the first time this modification has been observed outside spirochetes and in extracellular flagella. These findings suggest that Lal crosslinking is more widely conserved than previously thought and may represent a general strategy bacteria use to reinforce their flagella. Because motility is closely linked to survival and the ability of bacteria to cause disease, this discovery improves our understanding of bacterial motility mechanisms and how it is maintained across diverse species.",
+    "journal": "Journal of Bacteriology",
+    "doi": "10.1128/jb.00407-26",
+    "date": "2026-10-29",
+    "authors": "Lynch MJ, Charon NW, Crane BR.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42954791",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13784198",
+    "pmid": "42954791",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "bacterium"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5463,
+    "collected_at": "2026-11-23T12:33:52.871848+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.1128/jb.00407-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9bb3e01995b6113a0d5aa55c1ab5f4d2618e7be573e782616b679ad184353797",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:17:30.260706+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c98fe658240b7ad92d747adac2078930927fd0628f628a3a83560e99d7d541ba",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:17:30.260706+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Synergistotaの細胞外鞭毛鉤におけるリシノアラニンの架橋形成。",
+    "abstract_ja": "細菌の運動性は、細胞が化学的勾配に沿って移動することを可能にする保存された高分子複合体である鞭毛モーターによって駆動される。スピロヘータにおいて、運動性はペリプラズム鞭毛に依存しており、その機能はフックタンパク質FlgEにおける特有の翻訳後修飾、すなわち隣接するサブユニット間の共有結合性リシノアラニン（Lal）架橋によって支えられている。この修飾は門全体で保存されており、運動性に必須であることが示されている。スピロヘータにおいて、Lalは、ペリプラズムという限られた空間における鞭毛回転の要求や、巻き込まれた細胞体に伴う負荷に対応するために必要な、さらなるフックの安定性を提供していると考えられている。Lal形成に必要な保存された触媒残基に基づくバイオインフォマティクススクリーニングを用いて、細胞外鞭毛を持つ細菌もLalを産生する可能性について検討した。生化学的架橋アッセイと高分解能質量分析法を組み合わせることで、Synergistota門の運動性メンバーであるThermanaerovibrio acidaminovorans由来のFlgEが、in vitroおよび野生型細胞培養において、スピロヘータのものと同様のLal架橋を形成することを実証した。これらの結果は、細胞外鞭毛フックにおけるLal架橋形成の初の例であり、またスピロヘータ門以外における初の事例となる。したがって、Lal架橋形成はこれまで認識されていたよりも広範に保存されており、細胞外およびペリプラズム鞭毛の双方において、フックの安定性と機能を高めるための一般的なメカニズムである可能性がある。重要性多くの細菌は、栄養分に向かって、あるいは有害な環境から遠ざかるために、鞭毛として知られる複雑な回転エンジンを利用している。スピロヘータにおいて、運動性は、ペリプラズムに位置する回転フィラメントのユニバーサルジョイントを強化するための、鞭毛フックタンパク質FlgE内のリシノアラニン（Lal）架橋に依存している。本研究は、スピロヘータとは遠縁であり、より典型的な細胞外鞭毛を持つ細菌であるThermanaerovibrio acidaminovoransにおいても、同様のタイプの修飾が存在することを示している。生化学的実験と質量分析法を用いて、同菌の鞭毛フックタンパク質がLal架橋を自己触媒的に形成することを確認した。これは、この修飾がスピロヘータ以外および細胞外鞭毛において観察された初めての事例である。これらの知見は、Lal架橋形成がこれまで考えられていたよりも広く保存されており、細菌が鞭毛を強化するために用いる一般的な戦略である可能性を示唆している。運動性は生存および細菌の病原性に密接に関連しているため、この発見は、細菌の運動性メカニズムと、それが多様な種にわたってどのように維持されているかについての理解を深めるものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "comment",
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.01048-26",
+    "title": "Cryptococcal antigen lateral flow: does testing of lower respiratory tract specimens improve diagnostic accuracy for pulmonary cryptococcosis?",
+    "abstract": "Standard-of-care serological testing for cryptococcosis includes cryptococcal antigen detection from serum and cerebrospinal fluid (FDA clearance). Diagnosis of pulmonary cryptococcosis remains challenging due to nonspecific clinical presentations and limited sensitivity of conventional testing methods. In a recent study by X. Chen, Z. Wang, C. Di, F. Zhang, et al. (Microbiol Spectr 14:e01083-25, 2026, https://doi.org/10.1128/spectrum.01083-25), the authors assessed the performance of cryptococcal antigen testing by immunochromatographic lateral flow assay (CrAg-LFA) on bronchoalveolar lavage fluid (BAL) from 514 patients suspected of having pulmonary cryptococcosis (42 confirmed). While BAL CrAg-LFA testing had high sensitivity (88.1%), similar to serum CrAg-LFA sensitivity (90.5%), combined BAL and serum testing increased the sensitivity to 100% with a 100% negative predictive value. The study suggested that BAL CrAg-LFA may provide added diagnostic value when serum CrAg-LFA is negative, but high suspicion for pulmonary cryptococcosis remains.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.01048-26",
+    "date": "2026-10-23",
+    "authors": "Chan JL.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42925033",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42925033",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5478,
+    "collected_at": "2026-11-23T12:33:52.871848+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.1128/spectrum.01048-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8ae81b20ab4938da05bdb748182ad2776ecae07c027a395187fc23391c7d718c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:17:30.260706+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a8dbabfe4f41259ca6a41da5c839ca56ba99d1b940b5ad8fa26beb29f5bbffec",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:17:30.260706+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "クリプトコックス抗原ラテラルフロー：下気道検体の検査は肺クリプトコックス症の診断精度を向上させるか？",
+    "abstract_ja": "クリプトコックス症の標準的血清学的検査には、血清および脳脊髄液からのクリプトコックス抗原検出が含まれる（FDA承認）。肺クリプトコックス症の診断は、非特異的な臨床像および従来の検査法の感度の低さから、依然として困難である。X. Chen, Z. Wang, C. Di, F. Zhangらによる最近の研究（Microbiol Spectr 14:e01083-25, 2026, https://doi.org/10.1128/spectrum.01083-25）において、著者らは、肺クリプトコックス症が疑われる患者514例（確定例42例）の気管支肺胞洗浄液（BAL）を用い、免疫クロマトグラフィーラテラルフロー法（CrAg-LFA）によるクリプトコックス抗原検査の性能を評価した。BAL CrAg-LFA検査の感度は88.1%であり、血清CrAg-LFAの感度（90.5%）と同等であったが、BALと血清の併用検査では感度が100%に向上し、陰性的中率は100%であった。本研究は、血清CrAg-LFAが陰性である場合にBAL CrAg-LFAが追加的な診断価値を提供し得る一方で、肺クリプトコックス症の疑いが高い状態が維持されることを示唆している。"
   }
 ]
