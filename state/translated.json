@@ -321044,5 +321044,288 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "HIV-1感染がミクログリアトランスクリプトームに及ぼす影響：microRNA-23bの誘導がG3BP2介在性ストレス顆粒形成の破綻を引き起こす",
     "abstract_ja": "ミクログリアは脳内においてHIVリザーバーとして機能し、抗レトロウイルス療法にもかかわらずHIV関連神経認知障害の発症に寄与している。本研究では、HIV-1にex vivo感染させた初代ミクログリアのトランスクリプトームを解析した。解析の結果、DNA損傷／細胞周期、細胞ストレス、および非膜結合性オルガネラ集合に関連する遺伝子発現の有意な調節と、マイクロRNAプロファイルへの広範な影響が明らかになった。HIV-1感染ミクログリアにおいて発現上昇しているマイクロRNAとしてmicroRNA-23bが同定され、標的としてg3bp2 mRNAの発現低下が確認された。G3BP2は、抗ウイルスおよび炎症促進プラットフォームとして機能するストレス顆粒（SG）の中核構成要素である。microRNA-23bは、ストレス誘導性単球由来ミクログリア細胞（MDMi）においてG3BP2の発現およびSG集合の双方の低下を模倣し、感染MDMiではSGの凝集が少ない。microRNA-23bの阻害により、SG形成が部分的に回復し、HIV-1の複製が抑制された。したがって、microRNA-23bの誘導は、感染ミクログリアにおけるSG集合に対抗することを目的としたHIV-1の戦略に寄与しており、この宿主応答はHIV-1の複製とそれに続く神経病態形成を制限する。ハイライト：細胞ストレス応答遺伝子はHIV感染ミクログリアにおいて調節される HIV-1はmiRNA-23bを発現上昇させ、これはストレス顆粒（SG）因子G3BP2を標的とする miRNA-23bの発現上昇はHIV-1糖タンパク質の発現に依存する miRNA-23bの阻害はSGを部分的に回復させ、HIV-1の複製を減少させる"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/aem.01858-26",
+    "title": "Elevated ozone reshapes wheat root-associated microbiomes through coordinated plant responses and rhizosphere environmental filtering.",
+    "abstract": "Elevated tropospheric ozone (O3) threatens crop productivity, but how O3-induced changes in plant responses influence root-associated microbiomes remains unclear. We investigated the responses of microbial communities inhabiting the rhizosphere and root endosphere to elevated O3 using four cultivars grown under ambient and 1.5-fold ambient O3 in a field-based free-air O3-concentration enrichment (FACE) system. Plant traits, root-released organic carbon (ROC), rhizosphere properties, extracellular enzyme activities, and bacterial and fungal communities were jointly analyzed. Elevated O3 reduced yield and root biomass, with cultivar-dependent changes in ROC. Elevated O3 consistently increased rhizosphere pH and altered microbial resource allocation, increasing ecoenzymatic vector length by 4.1% and decreasing vector angle by 4.6%. Bacterial communities showed a stronger response than fungal taxonomic communities, particularly in the rhizosphere. However, variation partitioning indicated that soil properties, especially pH, rather than O3 treatment alone, provided the strongest independent explanation for bacterial community variation. Fungal communities showed limited taxonomic turnover but exhibited shifts in predicted trophic guilds, including increased pathotroph- and saprotroph-associated groups and decreased symbiotroph-containing guilds under elevated O3. These results demonstrate that elevated O3 reshapes the wheat root-associated microbiome through coordinated changes in plant performance, rhizosphere environmental filtering, and microbial functional strategies, highlighting the importance of plant-mediated processes in regulating belowground responses to atmospheric change.IMPORTANCEElevated tropospheric O3 is an increasing threat to crop production, but its effects on belowground microbial processes remain poorly understood. This study demonstrates that O3-induced root-associated microbiome changes are closely linked with altered plant carbon allocation and rhizosphere environmental conditions rather than O3 exposure also. By integrating plant traits, soil properties, extracellular enzyme allocation, and microbial community analyses, we reveal a compartment-specific plant-soil-microbiome response to elevated O3. These findings improve our understanding of how atmospheric pollution may reshape crop-associated microbial functions and soil ecological processes under future climate change.",
+    "journal": "Applied and Environmental Microbiology",
+    "doi": "10.1128/aem.01858-26",
+    "date": "2026-11-10",
+    "authors": "Wang Q, Fu D, Ma Y, Cheng C, Xu Y, Agathokleous E, Feng Z.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43006985",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43006985",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "fungal",
+        "microbial",
+        "microbiome",
+        "microbiomes"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5489,
+    "collected_at": "2026-11-23T12:33:52.871848+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.1128/aem.01858-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "47adec685b5658e4d81ab8260af5b032fda967db88f3d638ffee96e094ddae96",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:05:56.453270+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6021b76d13cd97ca34925114d6e6b66e9c9f813a2f63239189d2fcddc28d368c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:05:56.453270+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "オゾン濃度の上昇は、植物の協調的な応答と根圏環境のろ過を通じて、小麦の根に関連する微生物叢を変容させる。",
+    "abstract_ja": "対流圏のオゾン濃度上昇（O3）は作物の生産性を脅かすが、O3誘発による植物応答の変化が根関連マイクロバイオームにどのような影響を及ぼすかは依然として不明である。本研究では、圃場ベースの自由大気O3濃度濃縮（FACE）システムを用い、環境濃度および環境濃度の1.5倍のO3条件下で栽培した4つの栽培品種を対象に、根圏および根内圏に生息する微生物群集のO3濃度上昇に対する応答を調査した。植物形質、根から放出される有機炭素（ROC）、根圏特性、細胞外酵素活性、ならびに細菌および真菌群集を統合的に解析した。O3濃度の上昇は収量と根バイオマスを減少させ、ROCには栽培品種依存的な変化が認められた。O3濃度の上昇は一貫して根圏pHを上昇させ、微生物資源配分を変化させ、エコ酵素ベクター長を4.1%増加させ、ベクター角を4.6%減少させた。細菌群集は、特に根圏において、真菌分類群の群集よりも強い応答を示した。しかし、変動分配解析の結果、細菌群集の変動については、O3処理単独ではなく、土壌特性、特にpHが独立した最も強力な説明要因であることが示された。真菌群集の分類学的ターンオーバーは限定的であったが、O3濃度上昇下では、病原栄養菌および腐生菌関連群の増加、ならびに共生栄養菌を含む群集の減少など、予測される栄養ギルドのシフトが認められた。これらの結果は、O3濃度の上昇が、植物のパフォーマンス、根圏環境フィルタリング、および微生物の機能的戦略の協調的な変化を通じて、小麦の根関連マイクロバイオームを再構築することを示しており、大気変動に対する地下応答の調節における植物介在プロセスの重要性を浮き彫りにしている。重要性：対流圏のO3濃度上昇は作物生産にとって増大する脅威となっているが、地下の微生物プロセスへの影響については十分に解明されていない。本研究は、O3誘発による根関連マイクロバイオームの変化が、O3曝露だけでなく、植物の炭素配分の変化や根圏環境条件とも密接に関連していることを示す。植物形質、土壌特性、細胞外酵素配分、および微生物群集解析を統合することで、O3濃度上昇に対するコンパートメント特異的な植物・土壌・マイクロバイオーム応答を明らかにした。これらの知見は、将来の気候変動下において、大気汚染が作物関連の微生物機能や土壌生態プロセスをどのように再構築し得るかについての理解を深めるものである。"
+  },
+  {
+    "id": "10.1093/bioinformatics/btag848",
+    "title": "MaldiSuite: a Python ecosystem for MALDI-TOF spectral processing and analysis in antimicrobial resistance research",
+    "abstract": "AbstractMotivationAntimicrobial resistance (AMR) is a major global health threat requiring faster diagnostics than the 24-48 h needed for phenotypic antibiotic-susceptibility testing. Matrix-assisted laser desorption/ionization time-of-flight (MALDI-TOF) mass spectrometry is widely used in clinical microbiology for species identification but does not directly capture AMR phenotypes. Machine learning on MALDI-TOF spectra offers a promising solution, yet existing software remains fragmented across legacy R preprocessing tools and ad hoc Python scripts, lacking standardized workflows, shared application programming interfaces (APIs), and safeguards against train-test leakage.ResultsWe present MaldiSuite, a unified Python ecosystem built on a shared data model and a scikit-learn-compatible API. It integrates three packages: MaldiAMRKit (Bruker-native and open-format input/output, standardized composable preprocessing, spectral warping, and temporal drift monitoring); MaldiBatchKit (multi-site batch correction, including MALDI-specific methods, with batch-mixing diagnostics); and MaldiDeepKit (four deep-learning classifiers: multilayer perceptron, one-dimensional convolutional neural network, residual network, and Vision Transformer). All components compose within sklearn.pipeline.Pipeline with leak-safe fit/transform semantics. On the public multi-site Database of Resistance Information on Antimicrobials and MALDI-TOF Mass Spectra (DRIAMS), MaldiSuite achieves an area under the receiver operating characteristic curve of up to 0.92 on the DRIAMS-A Staphylococcus aureus/oxacillin task, and a leakage experiment quantifies the optimistic bias that its leak-safe cross-validation removes.Availability and ImplementationMaldiSuite is available on PyPI under the MIT licence (pip install maldisuite). Source code: https://github.com/EttoreRocchi/MaldiSuite, https://github.com/EttoreRocchi/MaldiAMRKit, https://github.com/EttoreRocchi/MaldiBatchKit, https://github.com/EttoreRocchi/MaldiDeepKit. The package versions described here and the analysis code of this paper (https://github.com/EttoreRocchi/MaldiSuite-paper), with the pinned environments, are archived at 10.5281/zenodo.24199316.Documentationhttps://ettorerocchi.github.io/MaldiSuite/.Supplementary informationSupplementary data are available at Bioinformatics online.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag848",
+    "date": "2026-11-21",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag848/9111032?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbiology"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5503,
+    "collected_at": "2026-11-23T12:44:27.540400+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.1093/bioinformatics/btag848"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ebebc8d90448d8e366d3cf930ea71a508dc8d9cada5e0ece6bd1fc4364ef818c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:05:56.453270+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "dbaefb6c14ef4a175bd97c9484298c9954c332cfe5bfdd2e40ce52174a2a96ec",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:05:56.453270+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "MaldiSuite: 薬剤耐性研究におけるMALDI-TOFスペクトル処理・解析のためのPythonエコシステム",
+    "abstract_ja": "要旨動機抗菌薬耐性（AMR）は世界的な重大な健康脅威であり、表現型抗生物質感受性試験に要する24～48時間よりも迅速な診断法が求められている。マトリックス支援レーザー脱離イオン化飛行時間型質量分析法（MALDI-TOF）は臨床微生物学における種同定に広く用いられているが、AMR表現型を直接的に捕捉することはできない。MALDI-TOFスペクトルを用いた機械学習は有望な解決策となるが、既存のソフトウェアはレガシーなR前処理ツールやアドホックなPythonスクリプトに断片化されており、標準化されたワークフロー、共有アプリケーションプログラミングインターフェース（API）、および訓練・テスト間のリークに対する保護策が欠如している。結果共有データモデルとscikit-learn互換のAPIに基づいて構築された統合Pythonエコシステム「MaldiSuite」を提案する。本スイートは、MaldiAMRKit（Brukerネイティブかつオープンフォーマットの入出力、標準化された組み合わせ可能な前処理、スペクトルワーピング、および時間的ドリフトモニタリング）、MaldiBatchKit（MALDI固有の手法を含むマルチサイトバッチ補正、およびバッチ混合診断）、およびMaldiDeepKit（多層パーセプトロン、1次元畳み込みニューラルネットワーク、残差ネットワーク、Vision Transformerの4つの深層学習分類器）の3つのパッケージを統合している。すべてのコンポーネントは、リークセーフなfit/transformセマンティクスを備えたsklearn.pipeline.Pipeline内で構成される。公開マルチサイトの「抗菌薬耐性情報およびMALDI-TOF質量分析スペクトルデータベース（DRIAMS）」において、MaldiSuiteはDRIAMS-A Staphylococcus aureus/oxacillinタスクで最大0.92の受信者動作特性曲線下面積を達成し、リーク実験により、そのリークセーフな交差検証が除去する楽観的バイアスが定量化された。利用可能性と実装MaldiSuiteはMITライセンスの下でPyPIにて提供されている（pip install maldisuite）。ソースコード：https://github.com/EttoreRocchi/MaldiSuite, https://github.com/EttoreRocchi/MaldiAMRKit, https://github.com/EttoreRocchi/MaldiBatchKit, https://github.com/EttoreRocchi/MaldiDeepKit。本稿で説明したパッケージバージョンおよび分析コード（https://github.com/EttoreRocchi/MaldiSuite-paper）、および固定環境は、10.5281/zenodo.24199316にアーカイブされている。ドキュメントhttps://ettorerocchi.github.io/MaldiSuite/。補足情報補足データはBioinformatics onlineで入手可能である。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.2034543",
+    "title": "Gut microbiota–innate immune crosstalk in tendinopathy and tendon repair: a conceptual mechanistic framework and potential therapeutic implications",
+    "abstract": "Tendinopathy comprises a group of chronic tendon disorders driven by multiple interacting factors, including mechanical overload, metabolic dysregulation, and immune imbalance. Its initiation and progression involve not only abnormalities in tenocytes and the extracellular matrix but also sustained modulation by the local innate immune microenvironment. Emerging evidence indicates that the gut microbiota can regulate macrophages, neutrophils, inflammasome activity, and epithelial innate defense through microbial-associated molecular patterns, short-chain fatty acids, tryptophan-derived metabolites, bile acids, and other microbial signals. Conversely, host innate immunity can reshape microbial composition and metabolic function through phagocytic clearance, oxidative antimicrobial mechanisms, ILC3–IL-22 signaling, epithelial glycosylation, and antimicrobial peptides, thereby establishing a dynamic bidirectional regulatory network. Recent human multi-omics studies and animal experiments have begun to suggest links between gut microbial dysbiosis and tendinopathy or tendon-to-bone healing; however, a continuous causal chain linking the gut microbiota, innate immunity, and tendon pathology has yet to be firmly established. In this review, we systematically summarize the major mechanisms underlying bidirectional crosstalk between the gut microbiota and innate immunity and propose a conceptual framework for their involvement across three stages of tendinopathy: susceptibility and initiation, inflammatory amplification and tissue degeneration, and post-injury repair and remodeling. We further discuss microbiota-related interventions for which direct or relatively direct tendon-related evidence is currently available, including exercise and rehabilitation, intermittent fasting, and butyrate supplementation, while highlighting the importance of mechanical loading, disease stage, and the temporal transitions of immune-cell states in future mechanistic studies. Establishing causal links between gut microbiota–innate immune crosstalk and the local tendon microenvironment may open new avenues for risk stratification, prediction of healing outcomes, and personalized interventions in tendinopathy.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.2034543",
+    "date": "2026-11-23",
+    "authors": "Zhimin Wang",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.2034543",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5506,
+    "collected_at": "2026-11-23T12:44:27.540400+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.3389/fmicb.2026.2034543"
+    ],
+    "translation": {
+      "title": {
+        "hash": "19c98abd145c143a7868b2c1ee7d93b3dc8208d3bf197aa2876a6efeb80f1040",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:05:56.453270+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7d8b0da88efdaa40fbcd71550bd39b3a755ba095229a625693b562b731270b86",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:05:56.453270+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "腱症および腱修復における腸内細菌叢と自然免疫のクロストーク：概念的・機序的枠組みと潜在的な治療的意義",
+    "abstract_ja": "腱障害は、機械的過負荷、代謝調節異常、免疫バランスの乱れなど、相互に作用する複数の要因によって引き起こされる慢性腱疾患群である。その発症と進行には、腱細胞や細胞外マトリックスの異常だけでなく、局所の自然免疫微小環境による持続的な調節も関与している。新たなエビデンスにより、腸内細菌叢が微生物関連分子パターン、短鎖脂肪酸、トリプトファン由来代謝物、胆汁酸、およびその他の微生物シグナルを介して、マクロファージ、好中球、インフラマソーム活性、および上皮自然防御を調節できることが示されている。逆に、宿主の自然免疫は、貪食除去、酸化的抗菌機構、ILC3–IL-22シグナル伝達、上皮糖鎖修飾、および抗菌ペプチドを通じて微生物組成と代謝機能を再構築し、それによって動的な双方向調節ネットワークを構築している。近年のヒトマルチオミクス研究や動物実験では、腸内細菌叢のディスバイオーシスと腱障害あるいは腱から骨への治癒との関連が示唆され始めているが、腸内細菌叢、自然免疫、および腱病理を結びつける連続的な因果連鎖はまだ確固として確立されていない。本総説では、腸内細菌叢と自然免疫の双方向的なクロストークの根底にある主要なメカニズムを体系的にまとめ、腱障害の3つの段階、すなわち感受性と発症、炎症増幅と組織変性、および受傷後の修復とリモデリングにおける両者の関与に関する概念的枠組みを提案する。さらに、運動とリハビリテーション、間欠的断食、酪酸補充など、現在直接的または比較的直接的な腱関連のエビデンスが得られている細菌叢関連の介入について論じるとともに、今後の機序研究における機械的負荷、疾患ステージ、および免疫細胞状態の時間的遷移の重要性を強調する。腸内細菌叢–自然免疫クロストークと局所腱微小環境との間の因果的関連性を確立することは、腱障害におけるリスク層別化、治癒結果の予測、および個別化介入の新たな道を切り拓く可能性がある。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 10",
+        "query": "(JOURNAL:\"Scientific Data\" OR JOURNAL:\"Limnology and Oceanography\" OR JOURNAL:\"Limnology and Oceanography Letters\" OR JOURNAL:\"Annual Review of Marine Science\" OR JOURNAL:\"Trends in Ecology & Evolution\" OR JOURNAL:\"iScience\" OR JOURNAL:\"Current Biology\" OR JOURNAL:\"Cell Reports\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1016/j.isci.2026.118094",
+    "title": "European robin cryptochrome 4a does not bind 8-HDF or MTHF as second antenna chromophores.",
+    "abstract": "Cryptochromes and photolyases are blue-light-sensitive flavoproteins that generally bind flavin adenine dinucleotide (FAD) and have distinct functions. Cryptochrome 4a (CRY4a) expressed in the double-cone photoreceptors of migratory songbirds such as the European robin (Erithacus rubecula) is the hypothesized primary sensor for avian magnetoreception. In addition to FAD, many photolyases and some cryptochromes bind antenna chromophores such as 8-hydroxy-5-deazaflavin (8-HDF) or 5,10-methenyltetrahydrofolate (MTHF). Here, we investigated whether Erithacus rubecula cryptochrome 4a (ErCRY4a) also binds 8-HDF and/or MTHF. 8-HDF binding was tested by co-expressing ErCRY4a with 8-HDF synthase. 8-HDF bound the positive control Xenopus laevis 6-4 photolyase (Xl6-4PL), but not ErCRY4a. For MTHF, the positive control Escherichia coli DNA photolyase (EcDPL) was purified with both MTHF and FAD, whereas ErCRY4a showed only FAD binding. Isothermal titration calorimetry also confirmed that MTHF does not bind ErCRY4a. Furthermore, computational analysis revealed no binding-site similarity between ErCRY4a and MTHF/8-HDF-binding proteins, indicating a non-conserved pocket.",
+    "journal": "iScience",
+    "doi": "10.1016/j.isci.2026.118094",
+    "date": "2026-11-06",
+    "authors": "Pattani Ameerjan AB, Dabirmanesh B, Hungerland J, Kasahara T, Bartoelke R, Dautaj G, Saberamoli G, Schmidt J, Xu J, Solov'yov IA, Koch KW, Mouritsen H.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43034547",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13769073",
+    "pmid": "43034547",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5495,
+    "collected_at": "2026-11-23T12:33:52.871848+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "Europe PMC journals 10"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.1016/j.isci.2026.118094"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0e3e7c3737dea3d799dfac055cc15fd323db359cdab2d0e53b3895b56f0247a2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:05:56.453270+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d0ace223dbd1106dd37919c671eda59c678d3c507d05c5a723fae19c84ada565",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:05:56.453270+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ヨーロッパコマドリのクリプトクロム4aは、第2のアンテナ発色団として8-HDFやMTHFと結合しない。",
+    "abstract_ja": "クリプトクロムとフォトリアーゼは、一般にフラビンアデニンジヌクレオチド（FAD）と結合する青色光感受性のフラビンタンパク質であり、それぞれ異なる機能を有する。ヨーロッパコマドリ（Erithacus rubecula）などの渡りを行う鳴禽類の二重錐体光受容体に発現するクリプトクロム4a（CRY4a）は、鳥類の磁気受容における主要なセンサーであると仮定されている。FADに加えて、多くのフォトリアーゼと一部のクリプトクロムは、8-ヒドロキシ-5-デアザフラビン（8-HDF）や5,10-メテニルテトラヒドロ葉酸（MTHF）などのアンテナ発色団と結合する。本研究では、Erithacus rubeculaのクリプトクロム4a（ErCRY4a）も8-HDFおよび/またはMTHFと結合するかどうかを調べた。8-HDF結合は、ErCRY4aと8-HDF合成酵素を共発現させることで検証した。8-HDFは、陽性対照のXenopus laevis 6-4フォトリアーゼ（Xl6-4PL）に結合したが、ErCRY4aには結合しなかった。MTHFについては、陽性対照のEscherichia coli DNAフォトリアーゼ（EcDPL）をMTHFとFADの両方で精製したが、ErCRY4aはFAD結合のみを示した。等温滴定熱量測定によっても、MTHFがErCRY4aに結合しないことが確認された。さらに、計算解析の結果、ErCRY4aとMTHF/8-HDF結合タンパク質との間に結合部位の類似性は認められず、非保存的なポケットであることが示された。"
   }
 ]
