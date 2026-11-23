@@ -320890,5 +320890,159 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "外胚葉粘膜-免疫軸のエピジェネティック・プライミング：浮腫を伴う重症急性栄養不良におけるプロトカドヘリンおよび自然免疫センサーの共低メチル化",
     "abstract_ja": "要旨    背景  浮腫を伴う重症急性栄養不良（ESAM、またはクワシオルコル）の病態生理は、壊滅的な上皮バリアの破綻と全身性の自然免疫過剰反応という、逆説的な「ダブルヒット」を特徴とする。さらに、生存者は深刻かつ持続的な神経発達上の障害を被る。これらの表現型を結びつける分子メカニズムは依然として不明である。我々は、生後早期の代謝ストレスが、共通の外胚葉系譜に標的型のエピジェネティック・スカーを誘発し、同時に物理的バリアの完全性と粘膜免疫センサーの調節不全を引き起こすという仮説を立てた。方法  我々は、GSE112893コホート（374検体の頬粘膜スワブサンプル）の生のIllumina IDATメチル化ファイルを解析するためのゴールドスタンダードのバイオインフォマティクス・パイプラインを開発した。データは正規指数分布外（Noob）背景補正を用いて処理し、細胞不均一性を調整した上で、経験的ベイズモデレーションを用いたlimmaにより差次的メチル化を評価した。結果  我々は、76箇所の有意な差次的メチル化部位（DMPs）（偽発見率［FDR］ PCDHG）クラスター（22プローブ）と、CHI3L1およびC3のプロモーター領域（TSS1500）の低メチル化、ならびに構造的バリア遺伝子であるMACF1、SDK1、ANK3を含む主要な自然免疫／粘膜リモデリング遺伝子を同定した。パスウェイ解析により、相同細胞間接着（p = 2.93 × 10⁻²⁹）および神経系発達（p = 4.55 × 10⁻¹⁰）への顕著な収束が確認された。結論  ESAMは、外胚葉粘膜-免疫軸の協調的なエピジェネティック調節不全を特徴とする。PCDHGクラスターおよび自然免疫センサーの低メチル化は、クワシオルコルで観察されるバリア機能不全、全身性炎症、および神経発達上の脆弱性を同時に説明する統一的な分子メカニズムを提供する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.12688/wellcomeopenres.28140.1",
+    "title": "The genome sequence of the Brown Cosmet, Mompha miscella (Denis & Schiffermüller, 1775) (Lepidoptera: Momphidae)",
+    "abstract": "We present a genome assembly from an individual male  Mompha miscella (Brown Cosmet; Arthropoda; Insecta; Lepidoptera; Momphidae). The primary assembly has a total length of 499.33 megabases. Most of the primary assembly (94.8%) is scaffolded into 30 chromosomal pseudomolecules, including the Z sex chromosome. The mitochondrial genome has also been assembled, with a length of 15.59 kilobases. This assembly was generated as part of the Darwin Tree of Life project, which produces genomes for eukaryotic species found in Britain and Ireland.",
+    "journal": "",
+    "doi": "10.12688/wellcomeopenres.28140.1",
+    "date": "2026-10-30",
+    "authors": "Boyes D, Boyes C, University of Oxford and Wytham Woods Genome Acquisition Lab, Darwin Tree of Life Barcoding Collective, Wellcome Sanger Institute Tree of Life Management, Samples and Laboratory team, Wellcome Sanger Institute Scientific Operations: Sequencing Operations, Wellcome Sanger Institute Tree of Life Core Informatics team, Tree of Life Core Informatics collective, Darwin Tree of Life Consortium.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1353484",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "assembly",
+        "genome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5453,
+    "collected_at": "2026-11-23T02:44:50.912189+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.12688/wellcomeopenres.28140.1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3e3bc32fe97de354f4385bb6bf57f73667effb9a1237098195666741f2ee0a59",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T03:23:27.851967+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "38bbc58eb12d28f7e13d673e7f7f144f80eb22495cb68d46f1e9bed7f4ce2c74",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T03:23:27.851967+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Brown Cosmet, Mompha miscella (Denis & Schiffermüller, 1775) (鱗翅目: モンファ科) のゲノム配列",
+    "abstract_ja": "本研究では、オスのMompha miscella（Brown Cosmet; Arthropoda; Insecta; Lepidoptera; Momphidae）個体のゲノムアセンブリを提示する。一次アセンブリの全長は499.33メガベースである。一次アセンブリの大部分（94.8%）は、Z性染色体を含む30本の染色体擬似分子へとスキャフォールディングされている。ミトコンドリアゲノムについてもアセンブリが行われており、その全長は15.59キロベースである。本アセンブリは、英国およびアイルランドに生息する真核生物種のゲノムを作製するDarwin Tree of Lifeプロジェクトの一環として作成された。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "preprint"
+    ],
+    "id": "10.64898/2026.10.28.762254",
+    "title": "Impact of HIV-1 infection on the microglia transcriptome: induction of microRNA-23b leads to G3BP2-mediated stress granules assembly disruption",
+    "abstract": "Microglia act as HIV reservoirs in the brain and contribute to the development of HIV-associated neurocognitive disorders despite antiretroviral therapy. We examined the transcriptome of primary microglia infected  ex vivo with HIV-1. Analyses reveal a significant modulation of DNA damage/cell cycle-, cellular stress- and non-membrane bounded organelle assembly-related gene expression, and a broad effect on the microRNA profile. MicroRNA-23b is identified among upregulated microRNAs in HIV-1-infected microglia, and downregulated  g3bp2 mRNA, validated as its target. G3BP2 is a core component of stress granules (SGs), which serve as antiviral and proinflammatory platforms. MicroRNA-23b mimics reduced both G3BP2 expression and SG assembly in stress-induced monocyte-derived microglial cells (MDMi), and few SGs aggregate in infected MDMi. Inhibition of MicroRNA-23b partially re-established SG formation and reduced HIV-1 replication. Thus, microRNA-23b induction contributes to HIV-1 strategies aimed at counteracting SG assembly in infected microglia, a host response that restricts HIV-1 replication and ensuing neuropathogenesis.  Highlights  Cellular stress response genes are modulated in HIV-infected microglia HIV-1 upregulates miRNA-23b, which targets stress granule (SG) factor G3BP2 MiRNA-23b upregulation is dependent on HIV-1 glycoproteins expression Inhibiting miRNA-23b partially restores SGs and reduces HIV-1 replication",
+    "journal": "",
+    "doi": "10.64898/2026.10.28.762254",
+    "date": "2026-10-29",
+    "authors": "Lodge R, Branton W, Kirchhoff F, Power C, Cohen ÉA.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PPR/PPR1354337",
+    "preprint": true,
+    "review": false,
+    "pmcid": "",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "assembly",
+        "transcriptome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "assembly",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5456,
+    "collected_at": "2026-11-23T02:44:50.912189+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.64898/2026.10.28.762254"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b060261e16ee9337c33e0e4daf939126ec80cfd345f286cb921d1726f8aa27e6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T03:23:27.851967+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "24bf39b103d75eee6f6600291662e341fd7138339a58e8794467cbdabc544f79",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T03:23:27.851967+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "HIV-1感染がミクログリアトランスクリプトームに及ぼす影響：microRNA-23bの誘導がG3BP2介在性ストレス顆粒形成の破綻を引き起こす",
+    "abstract_ja": "ミクログリアは脳内においてHIVリザーバーとして機能し、抗レトロウイルス療法にもかかわらずHIV関連神経認知障害の発症に寄与している。本研究では、HIV-1にex vivo感染させた初代ミクログリアのトランスクリプトームを解析した。解析の結果、DNA損傷／細胞周期、細胞ストレス、および非膜結合性オルガネラ集合に関連する遺伝子発現の有意な調節と、マイクロRNAプロファイルへの広範な影響が明らかになった。HIV-1感染ミクログリアにおいて発現上昇しているマイクロRNAとしてmicroRNA-23bが同定され、標的としてg3bp2 mRNAの発現低下が確認された。G3BP2は、抗ウイルスおよび炎症促進プラットフォームとして機能するストレス顆粒（SG）の中核構成要素である。microRNA-23bは、ストレス誘導性単球由来ミクログリア細胞（MDMi）においてG3BP2の発現およびSG集合の双方の低下を模倣し、感染MDMiではSGの凝集が少ない。microRNA-23bの阻害により、SG形成が部分的に回復し、HIV-1の複製が抑制された。したがって、microRNA-23bの誘導は、感染ミクログリアにおけるSG集合に対抗することを目的としたHIV-1の戦略に寄与しており、この宿主応答はHIV-1の複製とそれに続く神経病態形成を制限する。ハイライト：細胞ストレス応答遺伝子はHIV感染ミクログリアにおいて調節される HIV-1はmiRNA-23bを発現上昇させ、これはストレス顆粒（SG）因子G3BP2を標的とする miRNA-23bの発現上昇はHIV-1糖タンパク質の発現に依存する miRNA-23bの阻害はSGを部分的に回復させ、HIV-1の複製を減少させる"
   }
 ]
