@@ -324468,5 +324468,293 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "X染色体不活性化の偏りを伴うヒト雌性肝細胞におけるAAV介在性XIST欠失は、生体内でX連鎖性OTC遺伝子の限定的な再活性化を誘導する。",
     "abstract_ja": "要旨 不活性なX染色体（Xi）上のサイレンシングされた野生型アレルの再活性化は、女性に影響を及ぼすX連鎖性疾患に対する有望な治療手段となる。長鎖非コードRNA XISTはXiのサイレンシングにおいて中心的な役割を担うが、その完全な喪失は染色体全体にわたる用量不均衡を招くリスクがある。翻訳学的な文脈における再活性化を検討するため、我々は、高度に偏ったX染色体不活性化を示すオルニチントランスカルバミラーゼ（OTC）欠損症の女性患者由来の初代肝細胞を再導入した、マウス・ヒトキメラFRG肝臓を用いた。アデノ随伴ウイルス（AAV）媒介性CRISPR–Cas9デリバリーを用いてin vivoでXISTを破壊し、クロマチンランドスケープおよびOTC発現への影響を評価した。XISTプロモーターのメチル化に差異があったにもかかわらず、XiはCRISPR–Cas9に対してアクセス可能な状態を維持しており、編集頻度は活性型X染色体と同等であった。XISTの欠失は野生型OTCアレルの限定的な再活性化を誘導し、それに伴ってより広範なエピジェネティックな効果が認められた。CUT&RUNプロファイリングにより、ベクターデリバリーとXIST欠失の影響が区別され、AAV導入後の全般的なH3K4me3の減少、XIST欠失後のX染色体特異的なH3K27me3の減少、および編集された肝細胞におけるより広範なH3K27acの減少が認められた。これらの知見は、in vivoでヒトXiを操作することの実現可能性を示すとともに、Xi特異的な効果とより広範なクロマチン効果を明らかにするものである。これらを総合すると、染色体全体のエピジェネティック調節を維持しつつ、治療的な遺伝子再活性化を実現するための、精密かつ遺伝子座特異的な戦略の必要性が浮き彫りとなる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.00294-26",
+    "title": "Host filtering overrides simulated climate change: plant species identity shapes phyllosphere fungal communities and putative pathogen proportions in an alpine meadow.",
+    "abstract": "Phyllosphere fungal communities play critical ecological roles in plant fitness and nutrient cycling in terrestrial ecosystems. However, the influences of multifactorial climate change on foliar mycobiomes across distinct plant functional groups remain poorly understood. To elucidate this, we used an 11-year field manipulation experiment to assess the impacts of simulated warming (+2.0°C) and altered precipitation (-50%, ambient, and +50%) on foliar fungal α-diversity, β-diversity, and functional guilds across four co-occurring alpine host plants: a forb (Aster diplostephioides), a grass (Elymus nutans), a legume (Oxytropis kansuensis), and a sedge (Kobresia humilis), combining ITS1 metabarcoding with compositional bias-corrected modeling (Analysis of Compositions of Microbiomes with Bias Correction 2). We found that host plant species identity acted as the overriding ecological filter, explaining 34.1% of community variation ([Formula: see text]) and predominantly governing putative pathogen proportions ([Formula: see text]; forb > grass > sedge > legume). In contrast, climate manipulation impacts were strictly host-dependent: experimental warming significantly elevated fungal OTU richness solely in the legume O. kansuensis ([Formula: see text]), while restructuring community β-diversity exclusively in O. kansuensis ([Formula: see text], [Formula: see text]) and the sedge K. humilis ([Formula: see text], [Formula: see text]). In addition, while precipitation shifts minimally affected broad-scale diversity, both climate factors induced fine-scale taxonomic turnover in specific lineages (notably Aureobasidium, Cladosporium, Vishniacozyma, and Colletotrichum); crucially, overall guild-level putative pathogen proportions remained resilient against all climate treatments and their interactions ([Formula: see text]). Our findings suggest that host intrinsic filtering and functional buffering outweigh direct short-term climatic pressures, and emphasize that future alpine foliar disease vulnerability will be predominantly mediated by climate-driven shifts in host plant community dominance rather than direct climatic stimulation of potential pathogens.ImportanceThe phyllosphere represents a vital ecological interface where fungal communities dictate plant fitness and ecosystem functioning, yet their vulnerability to concurrent warming and altered precipitation remains poorly understood in fragile alpine biomes. Here, we demonstrate that host plant species identity serves as the overriding ecological filter structuring foliar fungal communities, overriding direct short-term climatic stressors and effectively buffering potential pathogen burdens. Climate warming and precipitation shifts induced only fine-scale, host-specific adjustments in individual fungal lineages rather than triggering broad functional pathogen outbreaks. These findings provide critical evidence that future alpine foliar disease dynamics under global change will be primarily mediated by climate-driven shifts in host plant community composition rather than direct climatic acceleration of pathogen proliferation. This work highlights the imperative of integrating species-specific plant-microbe interactions into ecological forecasting and conservation frameworks for vulnerable alpine ecosystems.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.00294-26",
+    "date": "2026-10-21",
+    "authors": "Yang F, Pu X, Huo J, Li X, Nan Z.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42904689",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42904689",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungal",
+        "microbe",
+        "microbiome",
+        "microbiomes"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5487,
+    "collected_at": "2026-11-23T12:33:52.871848+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.1128/spectrum.00294-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "688168656044aab64af5335defaec9558e3efb6404ed08264f8adea71847707b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:42:38.810733+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5dcf8309e248198c29a51373d487bae15f765596dec3f3f723a92f4509bfe694",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:42:38.810733+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "宿主フィルタリングが模擬的な気候変動を上書きする：高山草原において、植物種の同定が葉圏の菌類群集および推定病原体の割合を規定する。",
+    "abstract_ja": "葉圏の菌類群集は、陸域生態系における植物の適応度や栄養循環において極めて重要な生態学的役割を果たしている。しかし、異なる植物機能群にわたる葉面菌類バイオームに対する多因子的な気候変動の影響については、依然として十分に解明されていない。この点を明らかにするため、我々は11年間にわたる野外操作実験を用い、共存する4種の高山帯宿主植物（イネ科植物（Aster diplostephioides）、イネ科植物（Elymus nutans）、マメ科植物（Oxytropis kansuensis）、およびカヤツリグサ科植物（Kobresia humilis））における葉面菌類のα多様性、β多様性、および機能ギルドに対し、模擬的な温暖化（+2.0°C）および降水量の変化（-50%、周囲、および+50%）の影響を、ITS1メタバーコーディングと組成バイアス補正モデリング（Analysis of Compositions of Microbiomes with Bias Correction 2）を組み合わせて評価した。その結果、宿主植物の種同一性が支配的な生態学的フィルターとして機能しており、群集変動の34.1%を説明し（[Formula: 本文参照]）、推定病原体の割合を主に決定している（[Formula: 本文参照]；イネ科植物 > イネ科植物 > カヤツリグサ科植物 > マメ科植物）ことが分かった。対照的に、気候操作の影響は宿主に強く依存していた。実験的な温暖化は、マメ科植物のO. kansuensisにおいてのみ菌類OTUの豊富さを有意に増加させ（[Formula: 本文参照]）、一方でO. kansuensis（[Formula: 本文参照]、[Formula: 本文参照]）およびカヤツリグサ科植物のK. humilis（[Formula: 本文参照]、[Formula: 本文参照]）においてのみ群集のβ多様性を再構築した。さらに、降水量の変化が広域的な多様性に及ぼす影響は最小限であった一方、両気候要因は特定の系統（特にAureobasidium、Cladosporium、Vishniacozyma、およびColletotrichum）において細粒度の分類学的ターンオーバーを誘発した。極めて重要な点として、ギルドレベルの推定病原体の全体的な割合は、すべての気候処理およびその相互作用に対して耐性を維持していた（[Formula: 本文参照]）。我々の知見は、宿主固有のフィルタリングと機能的緩衝作用が直接的な短期的気候圧を上回ることを示唆しており、将来の高山帯葉面病害の脆弱性は、潜在的な病原体への直接的な気候刺激ではなく、主に気候主導の宿主植物群集の優占度の変化によって媒介されることを強調している。重要性：葉圏は、菌類群集が植物の適応度や生態系機能を決定づける重要な生態学的インターフェースであるが、脆弱な高山帯バイオームにおいて、同時進行する温暖化や降水量の変化に対するその脆弱性は依然として十分に解明されていない。本研究では、宿主植物の種同一性が葉面菌類群集を構造化する支配的な生態学的フィルターとして機能し、直接的な短期的気候ストレス要因を凌駕して、潜在的な病原体負荷を効果的に緩衝することを示す。気候温暖化と降水量の変化は、広範な機能的病原体のアウトブレイクを引き起こすのではなく、個々の菌類系統において細粒度の宿主特異的な調整のみを誘発した。これらの知見は、地球規模の変化下における将来の高山帯葉面病害の動態が、病原体増殖の直接的な気候加速ではなく、主に気候主導の宿主植物群集組成の変化によって媒介されるという決定的な証拠を提供する。本研究は、脆弱な高山帯生態系の生態学的予測および保全枠組みに、種特異的な植物-微生物相互作用を組み込むことの急務を浮き彫りにしている。"
+  },
+  {
+    "id": "10.1093/nar/gkag1275",
+    "title": "Endogenous variability in transcription factor concentrations shapes their genome-wide occupancy",
+    "abstract": "AbstractThe control of transcription factor (TF) concentrations is crucial for the precise regulation of gene expression and cell fate decisions during development. Yet, TF concentrations can display substantial temporal fluctuations and intercellular variations. How TF levels quantitatively shape genome-wide occupancy patterns remains largely unexplored. Here, we systematically investigate how physiological fluctuations in the concentrations of the pluripotency TFs OCT4, SOX2, and NANOG impact their genomic binding profiles in mouse embryonic stem cells. We uncover distinct concentration-dependent binding behaviors for each TF. NANOG occupancy increased monotonously with its concentration, even though a common set of regions made accessible by OCT4 and SOX2 are highly and uniformly bound at all NANOG concentrations. In contrast, SOX2 occupancy does not increase with its concentrations, while OCT4 displayed an intermediate behavior. Our results challenge the notion that TF binding follows simple mass-action dynamics and reveal a core set of pluripotency regions that are bound by all three TFs at all TF concentrations, revealing how pluripotency can be maintained despite marked fluctuations in core pluripotency TFs.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1275",
+    "date": "2026-11-23",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1275/9113948?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5530,
+    "collected_at": "2026-11-23T12:44:27.540400+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/3091.xml"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.1093/nar/gkag1275"
+    ],
+    "translation": {
+      "title": {
+        "hash": "546eefb884dbb9bc8d2816a76b065f1fa9a5afd2135ffde63cc3a4e47542a43a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:42:38.810733+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1df8efa82684bad5f503e3cdbfac08f4fb4f869dafa5c294be89c2086c0be5cc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:42:38.810733+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "転写因子濃度の内因性変動が、そのゲノム全域にわたる占有形態を規定する。",
+    "abstract_ja": "要旨転写因子（TF）濃度の制御は、発生過程における遺伝子発現の精密な調節および細胞運命の決定において極めて重要である。しかし、TF濃度は著しい時間的変動や細胞間変動を示すことがある。TFレベルがゲノム全域の占有パターンを定量的にどのように形成するのかについては、これまでほとんど解明されていない。本研究では、多能性TFであるOCT4、SOX2、およびNANOGの濃度における生理学的変動が、マウス胚性幹細胞におけるゲノム結合プロファイルにどのような影響を及ぼすかを系統的に調査した。その結果、各TFにおいて濃度依存的な異なる結合挙動があることを明らかにした。OCT4およびSOX2によってアクセス可能となる共通の領域群がすべてのNANOG濃度において高度かつ均一に結合しているにもかかわらず、NANOGの占有率は濃度の上昇に伴い単調に増加した。対照的に、SOX2の占有率は濃度の上昇に伴って増加せず、一方でOCT4は中間的な挙動を示した。本結果は、TF結合が単純な質量作用力学に従うという概念に疑問を投げかけるものであり、すべてのTF濃度において3種類すべてのTFによって結合される多能性領域のコアセットを明らかにするとともに、コア多能性TFに顕著な変動があるにもかかわらず、いかにして多能性が維持され得るかを示している。"
+  },
+  {
+    "id": "10.1093/nar/gkag1287",
+    "title": "Reprogramming mRNA localization by targeted RNA-protein interference reveals roles in oncogenesis",
+    "abstract": "AbstractRNA binding proteins (RBPs) associate with RNAs in intricate ribonucleoprotein complexes and regulate various aspects of RNA life cycle and, by extension, cell functions. Despite their significance, elucidating the functional contributions of specific RNA–RBP binding events, particularly in long-term phenotypic assays, remains challenging. Here, we harness the specificity of CRISPR/dCas13 to interfere with specific RNA–RBP interactions. We apply this methodology to GA-rich mRNA localization elements which recruit the RNA-binding protein CNBP and serve as platforms for the assembly of mRNA trafficking complexes. We show that dCas13/gRNA binds to target transcripts in a highly specific manner and interferes with CNBP recruitment leading to altered target mRNA localization and cell motility, consistent with the function of the targeted mRNAs. We describe optimizations and considerations for the stable implementation of this system. We further use it to show that interfering with the localization of the GA-containing NET1 mRNA reduces cancer cell invasiveness and metastatic lung colonization. These data reveal a potential role for mRNA localization in oncogenic progression and illustrate how this CRISPR-based system can be used for long-term functional investigations of RNA–RBP interactions in vivo.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1287",
+    "date": "2026-11-23",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1287/9113946?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5531,
+    "collected_at": "2026-11-23T12:44:27.540400+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/3091.xml"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.1093/nar/gkag1287"
+    ],
+    "translation": {
+      "title": {
+        "hash": "fa7436c255c1bf657eb6875b3e2f16c94684a94efff45c6e5f86a852c64b2c3a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:42:38.810733+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3996bf06d07145afedaf318637ffdb4d18ca75c60337aa18346c17e8522e0a7e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:42:38.810733+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "標的RNA-タンパク質干渉によるmRNA局在の再プログラミングが明かす発がんにおける役割",
+    "abstract_ja": "要旨RNA結合タンパク質（RBP）は、複雑なリボ核タンパク質複合体においてRNAと結合し、RNAのライフサイクルのさまざまな側面、ひいては細胞機能を調節している。その重要性にもかかわらず、特に長期的な表現型アッセイにおいて、特定のRNA–RBP結合事象の機能的寄与を解明することは依然として困難である。本研究では、CRISPR/dCas13の特異性を利用して、特定のRNA–RBP相互作用を阻害する。この手法を、RNA結合タンパク質CNBPをリクルートし、mRNA輸送複合体の構築プラットフォームとして機能するGAリッチmRNA局在化エレメントに適用した。その結果、dCas13/gRNAが標的転写産物に極めて特異的に結合してCNBPのリクルートを阻害し、標的mRNAの局在化および細胞運動性の変化をもたらすことを示し、これは標的mRNAの機能と一致している。本システムを安定的に実装するための最適化および検討事項について述べる。さらに、このシステムを用いて、GA含有NET1 mRNAの局在化を阻害することで、がん細胞の浸潤能および肺転移定着が抑制されることを示した。これらのデータは、発がん進行におけるmRNA局在化の潜在的な役割を明らかにするとともに、このCRISPRベースのシステムが、in vivoにおけるRNA–RBP相互作用の長期的な機能解析にどのように利用できるかを示すものである。"
+  },
+  {
+    "id": "10.64898/2026.11.19.767610",
+    "title": "The identification of 110 novel Mycobacterium species within 57,974 UK Health Security Agency clinical samples",
+    "abstract": "Non-tuberculous mycobacteria (NTMs) are a large diverse group of opportunistic pathogens. The accurate identification of species within this genus is vital as pathogenicity, epidemiology, and treatment differ substantially between taxa. Whole-genome sequencing has improved taxonomic resolution, however current reference databases are likely incomplete. We analysed 53,170 high-quality mycobacterial genomes from 57,974 UK Health Security Agency samples collected between 2010 and 2025, a collection more than four times larger than the 12,726 mycobacterial genomes represented in GTDB release r232. High-quality isolates were assigned by average nucleotide identity (ANI) to recognised species within the Genome Taxonomy Database (GTDB) using a 95% ANI threshold. Isolates that fell below this threshold were clustered using a minimal dominating set approach to identify genomically coherent groups consistent with being candidate novel species. Phylogenetic analysis of all Mycobacterium species was used to place the observed UK diversity in a global context and assess the ecological structure within the genus. Of the 850 Mycobacterial species-level reference genomes in GTDB, 204 GTDB references received at least one provisional assignment. We identified 586 (1.1%) high-quality isolates that could not be assigned to any GTDB species. Genomic clustering identified 110 additional candidate species-level references, expanding the reference set from 850 to 960 (12.9%). These candidate species were broadly distributed across the phylogeny. Within the Mycobacterium genus we found strong evidence that phylogenetic structure is associated with human (Fritz and Purvis D = 0.10, p<0.001) and environmental sources (D = 0.34, p<0.001). Together, existing and novel reference genomes resolved the UKHSA collection into 275 species-level clusters, of which 110 (40.0%) were not represented by existing GTDB references. Furthermore, source associations differed substantially between phylogenetic clades ({chi}{superscript 2} = 364 for human and {chi}{superscript 2} = 258 for environmental association; both p<0.001). Rarefaction analysis of the 275 species observed in UKHSA clinical samples did not plateau, with Chao1 estimation suggesting that additional sampling may reveal further novel species (Chao1 = 461). This study provides a comprehensive analysis of genomic NTM diversity within a large national surveillance collection. Our findings suggest that NTM diversity remains incompletely characterised, and supports the value of continued surveillance and curation to improve bacterial reference databases.",
+    "journal": "",
+    "doi": "10.64898/2026.11.19.767610",
+    "date": "2026-11-23",
+    "authors": "Massey, R. J., Colpus, M., Thai, H., Westhead, J., Turner, R. D., Bejon, P., Robinson, E., Foster, D., Brown, C., Myers, R., Iqbal, Z., Fowler, P. W., Crook, D., Peto, T. E.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.19.767610v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "average nucleotide identity",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenetic",
+          "phylogeny"
+        ],
+        "evolution": [
+          "phylogeny",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5522,
+    "collected_at": "2026-11-23T12:44:27.540400+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.64898/2026.11.19.767610"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8ada17d68fb1c181703dd3ae7a11d0c2f35679c2d408621df4f88c319aa75485",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:42:38.810733+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3e8e23ff7c817587090daf5b03f97875966866543d262a25c0a107c5a665e074",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:42:38.810733+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "英国保健安全保障庁の臨床検体57,974検体における110種の新規Mycobacterium属菌の同定",
+    "abstract_ja": "非結核性抗酸菌（NTM）は、日和見病原体の大規模かつ多様なグループである。分類群によって病原性、疫学、および治療法が大きく異なるため、本属内における種の正確な同定は極めて重要である。全ゲノムシーケンシングにより分類学的解像度は向上したが、現在のリファレンスデータベースは不完全である可能性が高い。我々は、2010年から2025年にかけて収集された英国保健安全保障庁（UKHSA）のサンプル57,974検体から、53,170件の高品質な抗酸菌ゲノムを解析した。このコレクションは、GTDBリリースr232に収録されている12,726件の抗酸菌ゲノムの4倍以上の規模である。高品質な分離株は、平均ヌクレオチド同一性（ANI）を用いて、95%のANI閾値に基づきゲノム分類データベース（GTDB）内の既知種に割り当てられた。この閾値を下回る分離株は、最小支配集合（minimal dominating set）法を用いてクラスタリングされ、新規候補種と整合するゲノム的に一貫したグループを特定した。すべてのMycobacterium属種の系統解析を行い、観察された英国における多様性を世界的な文脈に位置づけ、属内の生態学的構造を評価した。GTDBにある850件の抗酸菌種レベルのリファレンスゲノムのうち、204件のGTDBリファレンスに少なくとも1つの暫定的な割り当てがなされた。我々は、いかなるGTDB種にも割り当てられなかった高品質な分離株を586件（1.1%）同定した。ゲノムクラスタリングにより、さらに110件の候補種レベルのリファレンスが特定され、リファレンスセットは850件から960件（12.9%）へと拡大した。これらの候補種は、系統樹全体に広く分布していた。Mycobacterium属内では、系統構造がヒト（Fritz and Purvis D = 0.10, p<0.001）および環境（D = 0.34, p<0.001）の供給源に関連しているという強い証拠が得られた。既存および新規のリファレンスゲノムを統合した結果、UKHSAコレクションは275の種レベルクラスターに分解され、そのうち110クラスター（40.0%）は既存のGTDBリファレンスに代表されていなかった。さらに、系統群間で供給源との関連性に顕著な差が認められた（ヒト関連：{chi}{superscript 2} = 364、環境関連：{chi}{superscript 2} = 258。ともにp<0.001）。UKHSAの臨床検体で観察された275種の稀少化解析はプラトーに達しず、Chao1推定値は、さらなるサンプリングによって追加の新規種が発見される可能性を示唆した（Chao1 = 461）。本研究は、大規模な国家サーベイランスコレクションにおけるゲノムレベルのNTM多様性の包括的な解析を提供するものである。我々の知見は、NTMの多様性が依然として不完全にしか特性解析されていないことを示唆しており、細菌リファレンスデータベースを改善するための継続的なサーベイランスとキュレーションの価値を裏付けるものである。"
   }
 ]
