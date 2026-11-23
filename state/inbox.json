@@ -451660,5 +451660,1428 @@
     "related_dois": [
       "10.1186/s13059-026-04358-7"
     ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "review-article",
+      "review",
+      "journal article"
+    ],
+    "id": "10.1128/jb.00420-26",
+    "title": "<i>Neisseria gonorrhoeae</i>: a historical model for host adaptation.",
+    "abstract": "Research into Neisseria gonorrhoeae (Gc) physiology, genetics, and pathogenicity remains deeply shaped by its history. Long before molecular tools were available, early clinical observations, human inoculation studies, and initial vaccine trials defined the field's primary experimental questions and limitations. Key features of gonococcal infection, including restriction to the human host, rapid phenotypic alteration during culture, and the absence of durable protective immunity, were documented empirically decades before researchers understood their underlying biological mechanisms. As a result, contemporary gonococcal research has largely developed in response to these early empirical findings. Modern genomic and molecular studies have provided mechanistic explanations for long-standing clinical observations, turning historical paradoxes into defined areas of investigation. From designing vaccines that target variable surface structures to surveilling horizontally acquired resistance determinants, the questions driving current research directly continue the experimental challenges investigators identified.",
+    "journal": "Journal of Bacteriology",
+    "doi": "10.1128/jb.00420-26",
+    "date": "2026-10-29",
+    "authors": "Metaane S, Seifert HS.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42954803",
+    "preprint": false,
+    "review": true,
+    "pmcid": "PMC13784192",
+    "pmid": "42954803",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5462,
+    "collected_at": "2026-11-23T12:33:52.871848+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.1128/jb.00420-26"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1128/jb.00407-26",
+    "title": "Lysinoalanine crosslinking in the extracellular flagellar hook of Synergistota.",
+    "abstract": "Bacterial motility is driven by the flagellar motor, a conserved macromolecular complex that enables cells to navigate chemical gradients. In spirochetes, motility depends on periplasmic flagella whose function is supported by a unique post-translational modification in the hook protein FlgE: a covalent lysinoalanine (Lal) crosslink between adjacent subunits. This modification has been shown to be conserved across the phylum and is required for motility. In spirochetes, Lal is thought to provide additional hook stability needed to meet the demands of flagellar rotation in the confined space of the periplasm and associated load of the wrapped cell body. Guided by a bioinformatic screen based on conserved catalytic residues required for Lal formation, we investigated the possibility that bacteria with extracellular flagella also produce Lal. Using a combination of biochemical crosslinking assays and high-resolution mass spectrometry, we demonstrate that FlgE from Thermanaerovibrio acidaminovorans, a motile member of the Synergistota phylum, forms Lal crosslinks analogous to those of spirochetes in vitro and in wild-type cell culture. These results establish the first example of Lal crosslinking in extracellular flagellar hooks and the first instance outside of the spirochete phylum. Thus, Lal crosslinking is more broadly conserved than previously appreciated and may represent a general mechanism for enhancing hook stability and function for extracellular as well as periplasmic flagella.IMPORTANCEMany bacteria employ complex rotary engines known as flagella to propel them toward nutrients or away from harmful environments. In spirochetes, motility depends on lysinoalanine (Lal) crosslinks within the flagellar hook protein FlgE to strengthen the universal joint of the rotating filament, which resides in the periplasm. This study shows that the same type of modification also exists in a bacterium distantly related to spirochetes, Thermanaerovibrio acidaminovorans, that contains more typical extracellular flagella. Using biochemical experiments and mass spectrometry, we confirm that its flagellar hook protein self-catalyzes Lal crosslinks, marking the first time this modification has been observed outside spirochetes and in extracellular flagella. These findings suggest that Lal crosslinking is more widely conserved than previously thought and may represent a general strategy bacteria use to reinforce their flagella. Because motility is closely linked to survival and the ability of bacteria to cause disease, this discovery improves our understanding of bacterial motility mechanisms and how it is maintained across diverse species.",
+    "journal": "Journal of Bacteriology",
+    "doi": "10.1128/jb.00407-26",
+    "date": "2026-10-29",
+    "authors": "Lynch MJ, Charon NW, Crane BR.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42954791",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13784198",
+    "pmid": "42954791",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "bacterium"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5463,
+    "collected_at": "2026-11-23T12:33:52.871848+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.1128/jb.00407-26"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1128/jvi.00902-26",
+    "title": "Infection-specific long-chain fatty acid metabolism as a broad anti-enterovirus target.",
+    "abstract": "Enteroviruses are arguably the most numerous group of viruses infecting humans. While most enterovirus infections are benign and self-resolving, their sheer number inevitably increases the chances of multiple complications. The diversity of enteroviruses means that the development of vaccines is only economically feasible against a select few, and no direct-acting or host-targeted anti-virals are approved to treat enteroviral infections, largely due to the rapid development of resistance against all experimental drugs. Here, we explored a universal property of enterovirus infection-a massive upregulation of phospholipid synthesis as a target for anti-viral interventions. The increased phospholipid synthesis consumes endogenously and exogenously derived long-chain fatty acids (LCFA). We demonstrate that polyunsaturated LCFAs can have a broad anti-enteroviral effect, affecting multiple steps of the virus life cycle. The anti-viral activity of LCFAs did not strictly depend on the degree of unsaturation or their capacity to induce lipid peroxidation, but significantly correlated with their conformation. This suggests that their incorporation into the phospholipid molecules makes the replication organelle membranes incapable of properly accommodating viral replication machinery. Accordingly, the inhibition of neutral lipid synthesis promoted LCFAs retargeting to the membranes in infected cells and increased their anti-viral potency. We show that this approach is effective against diverse enteroviruses in different cell types, including differentiated primary cells, and that attempts to establish viruses resistant to such treatment were unsuccessful.IMPORTANCEHumans are hosts to more than 300 distinct enteroviruses. Enterovirus infections can induce multiple short-term and long-term complications, including such serious conditions as paralysis, myocarditis, aseptic meningitis, and others. Yet, licensed vaccines are available only against poliovirus and enterovirus A71, and no specific anti-enterovirus drugs are approved for clinical practice. These viruses rapidly develop resistance to either virus- or host-acting experimental compounds. We explored a shared feature of enterovirus infection, a strong upregulation of phospholipid synthesis in infected cells, as a tool to control enterovirus replication. By altering the long-chain fatty acids composition available to infected cells, replication of diverse enteroviruses can be similarly suppressed, and the selection of resistant mutants was not successful. Thus, targeting infection-induced changes in cellular lipid metabolism, rather than individual viral or host factors, may offer a promising approach for controlling enterovirus infections.",
+    "journal": "Journal of Virology",
+    "doi": "10.1128/jvi.00902-26",
+    "date": "2026-10-21",
+    "authors": "Florentin M, Loube J, Viktorova EG, Gabaglio S, Tanner E, Scull MA, Belov GA.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42904648",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13776680",
+    "pmid": "42904648",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5465,
+    "collected_at": "2026-11-23T12:33:52.871848+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.1128/jvi.00902-26"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.04232-25",
+    "title": "Impact of different clarithromycin resistance in <i>Mycobacterium abscessus</i> lung disease: a multicenter cohort study.",
+    "abstract": "Macrolides remained cornerstone of Mycobacterium abscessus treatment, but emerging resistance patterns compromised therapeutic efficacies. Clarithromycin resistance can manifest as either mutational or inducible, while the clinical impacts of different resistance mechanisms in M. abscessus pulmonary disease (MAB-PD) had been poorly characterized. We conducted a multicenter retrospective cohort study from 2011 to 2023 across four tertiary centers in Taiwan. Adults with clarithromycin-resistant MAB-PD were included and stratified by resistance type: mutational vs inducible. Outcomes included all-cause 3-year mortality, microbiological clearance, and radiographic progression. Among 108 enrolled patients, 16 (14.7%) had mutational resistance and the remaining 92 had inducible type. Isolates comprised 103 M. abscessus, three M. massiliense, and two M. bolletii. Mutational resistance was associated with significantly higher 3-year mortality (18.8% vs 4.3%, P = 0.03) and lower acid-fast smear conversion rates in treated patients (18.2% vs 67.6%, P = 0.004). Multivariable analysis identified mutational clarithromycin resistance as an independent predictor of mortality (adjusted hazard ratio 5.21, 95% confidence interval 1.10-24.6, P = 0.04). Strains with mutational resistance demonstrated higher median minimal inhibitory concentrations to linezolid (24 vs 16 mg/L), cefoxitin (64 vs 32 mg/L), and amikacin (16 vs 8 mg/L). Mutational clarithromycin resistance in MAB-PD is associated with substantially worse clinical outcomes compared to inducible resistance, including higher mortality and poorer treatment responses. These findings suggested that more intensive treatment strategies might be needed for mutational clarithromycin resistance in MAB-PD.ImportanceMacrolide resistance critically undermines treatment outcomes in Mycobacterium abscessus lung disease, yet the prognostic impact of distinct resistance mechanisms has remained unclear. This multicenter study demonstrates that mutational clarithromycin resistance, although less common than inducible resistance, is associated with markedly higher mortality, poorer microbiological response, and broader multidrug resistance. These findings provide clinically actionable evidence that not all macrolide resistance is equivalent. Recognizing mutational resistance as a high-risk phenotype has important implications for risk stratification, prognostication, and treatment intensification, supporting a more personalized approach to managing MAB-LD in routine clinical practice.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.04232-25",
+    "date": "2026-10-21",
+    "authors": "Kao T-W, Pan S-W, Liu C-J, Wang P-H, Huang H-N, Huang Y-T, Shu C-C.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42904666",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42904666",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbiological"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5475,
+    "collected_at": "2026-11-23T12:33:52.871848+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.1128/spectrum.04232-25"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.02731-26",
+    "title": "Characterization of a recombinant gC-deleted PRV-XJ variant reveals altered disease outcomes following different inoculation routes in mice.",
+    "abstract": "Pseudorabies virus (PRV) variants continue to threaten swine production and can cause severe neurological disease in non-natural hosts. Although glycoprotein C (gC) contributes to PRV attachment to host cells, its role in the pathogenic characteristics of currently circulating PRV variants remains unclear, particularly under different inoculation routes. In this study, we generated a marker-free gC-deleted recombinant virus, rPRV-XJ-ΔgC, based on the genotype II PRV-XJ variant and compared its pathogenic characteristics with those of parental PRV-XJ in C57BL/6 mice. rPRV-XJ-ΔgC retained the ability to cause lethal infection but, compared with PRV-XJ, showed delayed disease progression, reduced early central nervous system (CNS) viral accumulation, and milder neurological and neuropathological changes, particularly following intranasal inoculation. These differences were less evident after intramuscular inoculation. Intranasal infection with rPRV-XJ-ΔgC was also associated with attenuated disruption of the blood-brain barrier, consistent with reduced CNS injury. Collectively, these findings indicate that gC deletion in the PRV-XJ background is associated with altered infection kinetics and route-dependent CNS disease phenotypes.ImportancePseudorabies virus (PRV) variants remain important pathogens associated with neurological disease, but the contribution of individual viral genes to the pathogenic characteristics of circulating PRV variants remains poorly understood. Here, we investigated the role of glycoprotein C (gC) in the pathogenic phenotype of the genotype II PRV-XJ variant. gC deletion resulted in route-dependent changes in PRV-XJ-induced disease outcomes, with more evident effects following intranasal than intramuscular inoculation. These findings highlight the importance of viral genetic factors and infection routes in shaping PRV-associated disease phenotypes and provide further insight into PRV neuropathogenesis.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.02731-26",
+    "date": "2026-10-21",
+    "authors": "Wu X, Liu B, Li H, Xu T, Yuan P, Pan X, He S, Zhao L, Dai Y, Xu Z-W, Zhu L.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42904654",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42904654",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5476,
+    "collected_at": "2026-11-23T12:33:52.871848+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.1128/spectrum.02731-26"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.01569-26",
+    "title": "Modelling herpes simplex virus type 2 and Zika virus replication in mouse vaginal organoids and human vaginal spheroids.",
+    "abstract": "Sexually transmitted viral infections disproportionately affect women and have adverse outcomes on maternal and fetal health. Since they are acquired through the vaginal tract, the vaginal epithelium is an important site to study host-viral interactions. An in vitro model of mouse vaginal epithelial organoids that can be infected by herpes simplex virus was recently established. Here, we used multiple vaginal organoid systems and studied their response to infection by herpes simplex virus type 2 (HSV-2) and Zika virus (ZIKV), both of which can be sexually transmitted and result in adverse effects on maternal and fetal health. We showed that mouse vaginal organoids support the replication of HSV-2 and ZIKV and respond to interferon treatment. We also established human vaginal spheroids from VK2/E6E7 cells that contain distinct apical and basal cell layers and are also susceptible to HSV-2 and ZIKV infection. Acyclovir treatment reduced HSV-2 replication in both mouse organoids and VK2 spheroids. However, ZIKV was restricted by remdesivir in VK2 spheroids but not in mouse organoids, indicating differences in antiviral activity depending on the organoid system. Finally, we established apical-out mouse vaginal organoids that were also susceptible to HSV-2 and ZIKV infection. Altogether, our results show that vaginal organoids and spheroids are useful in vitro models to study vaginal viral infections and effects of antiviral drugs.IMPORTANCEThe vaginal epithelium is the site of acquisition of sexually transmitted viral infections in women but has been historically understudied. 3D vaginal organoids that model the vaginal epithelium can be used to study virus-host interactions and provide novel insights. We demonstrated that vaginal organoids derived from mouse tissues could be infected with herpes simplex virus type 2 (HSV-2) and Zika virus (ZIKV), and these organoids are also capable of expressing immune genes. We then generated \"flipped\" mouse organoids that better represent the natural orientation of the vaginal epithelial lining. We also developed spheroids from human vaginal epithelial cells and showed that they can also be infected with HSV-2 and ZIKV. Finally, we showed that antiviral drugs reduced viral infection in these vaginal organoid and spheroid models. Our findings show that vaginal organoids and spheroids possess characteristics that make them useful models to study viral infections, as well as to test antiviral drugs.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.01569-26",
+    "date": "2026-10-21",
+    "authors": "Saraph A, Porter I, Bodykevich G, Barta I, Dang-Lawson M, Tokuyama M.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42904636",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42904636",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5477,
+    "collected_at": "2026-11-23T12:33:52.871848+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.1128/spectrum.01569-26"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "comment",
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.01048-26",
+    "title": "Cryptococcal antigen lateral flow: does testing of lower respiratory tract specimens improve diagnostic accuracy for pulmonary cryptococcosis?",
+    "abstract": "Standard-of-care serological testing for cryptococcosis includes cryptococcal antigen detection from serum and cerebrospinal fluid (FDA clearance). Diagnosis of pulmonary cryptococcosis remains challenging due to nonspecific clinical presentations and limited sensitivity of conventional testing methods. In a recent study by X. Chen, Z. Wang, C. Di, F. Zhang, et al. (Microbiol Spectr 14:e01083-25, 2026, https://doi.org/10.1128/spectrum.01083-25), the authors assessed the performance of cryptococcal antigen testing by immunochromatographic lateral flow assay (CrAg-LFA) on bronchoalveolar lavage fluid (BAL) from 514 patients suspected of having pulmonary cryptococcosis (42 confirmed). While BAL CrAg-LFA testing had high sensitivity (88.1%), similar to serum CrAg-LFA sensitivity (90.5%), combined BAL and serum testing increased the sensitivity to 100% with a 100% negative predictive value. The study suggested that BAL CrAg-LFA may provide added diagnostic value when serum CrAg-LFA is negative, but high suspicion for pulmonary cryptococcosis remains.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.01048-26",
+    "date": "2026-10-23",
+    "authors": "Chan JL.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42925033",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42925033",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5478,
+    "collected_at": "2026-11-23T12:33:52.871848+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.1128/spectrum.01048-26"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.01970-26",
+    "title": "SARS-CoV-2 spike protein enhances HBV replication via autophagy and aggravates inflammation in CHB patients with liver dysfunction.",
+    "abstract": "This study investigated the effects of the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) spike protein (S protein) on hepatitis B virus (HBV) replication and immune function in patients with chronic hepatitis B (CHB), aiming to elucidate the underlying mechanisms of S protein-HBV interaction. Through in vitro cell experiments and clinical sample analyses, S protein expression was induced in HepG2.2.15 cells, leading to enhanced HBV replication; this effect was reduced by autophagy inhibitors, confirming the critical mediating role of autophagy. Furthermore, peripheral blood mononuclear cells (PBMCs) from CHB patients were co-cultured with the S protein, resulting in increased inflammatory responses in T cells and monocytes, particularly in patients with concurrent abnormal liver function and lipid metabolism disorders. In summary, the S protein promotes HBV replication by activating autophagy and exacerbates immune inflammation in CHB patients. Autophagy inhibitors block its effect on HBV replication, suggesting autophagy as a key regulatory target. The immune-activating effects of the S protein are more pronounced in patients with liver dysfunction and metabolic abnormalities. These findings provide a basis for further investigation into the interplay between the S protein and autophagy in HBV infection.IMPORTANCEThis study reveals that the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) spike protein promotes hepatitis B virus (HBV) replication by activating the autophagy pathway and elucidates its role in exacerbating immune inflammation in patients with chronic hepatitis B, particularly showing more pronounced responses in patients with liver dysfunction and lipid metabolism disorders. These findings provide critical molecular insights into the viral interaction and immunopathological mechanisms during SARS-CoV-2 and HBV co-infection. They also improve our understanding of the interplay between SARS-CoV-2 and HBV in the context of co-infection and provide a basis for future studies.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.01970-26",
+    "date": "2026-10-22",
+    "authors": "Chen L, Jiang Y, Miao X, Wang H, Shi H, Xu L, Li S, Chen Y, Shi H.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42910931",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42910931",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5479,
+    "collected_at": "2026-11-23T12:33:52.871848+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.1128/spectrum.01970-26"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.02253-26",
+    "title": "A microscopy-free approach for detection of fungal elements in tissue using mannan immunoassay.",
+    "abstract": "KOH microscopy is a routine method to determine the presence of fungal elements in infected tissue. Although widely used, the procedure requires trained personnel and the infrastructure needed for microscopy. An alternative approach is the extraction of fungal antigens and detection by immunoassay. In this study, we used oxidative release with sodium hypochlorite to extract mannan from fungal cells. Quenching of free sodium hypochlorite was done using an excess of bovine serum albumin or sodium thiosulfate. Quenching reagents were incorporated into sample pads of lateral flow immunoassays (LFIAs), followed by detection of released mannan using mannan-specific monoclonal antibodies coupled to colloidal gold on the LFIA platform. Cells of Candida spp. or Aspergillus spp. were used to evaluate the extraction/quenching steps. The results showed that sodium thiosulfate was particularly well suited for hands-free, in-strip neutralization. The analytical sensitivity (minimum limit of detection, LOD) of the Candida LFIA was 67 ng/mL of formaldehyde-inactivated, whole Candida albicans cells. The LOD of the Aspergillus LFIA was 250 ng/mL of formaldehyde-inactivated, whole Aspergillus fumigatus cells. Proof-of-concept for oxidative release of mannan followed by detection of antigen by LFIA was provided using an ex vivo porcine corneal model of fungal keratitis. The results demonstrated that the test is a rapid two-step, specimen-to-result protocol suitable for point-of-care use. Such a diagnostic would be particularly valuable in settings that lack access to the trained personnel or infrastructure needed for KOH microscopy.IMPORTANCEKOH microscopy is widely used to detect fungal infection, but it requires trained personnel and microscopy infrastructure. An alternative approach is extraction of antigens from fungal cells within infected tissue and detection by lateral flow immunoassay. In this study, we developed a Candida and Aspergillus tests was evaluated with cultured fungal cells. Clinical proof-of-concept for each assay was provided using an ex vivo porcine corneal model of fungal keratitis. This diagnostic strategy would be particularly valuable in settings that lack access to trained personnel or the infrastructure needed for KOH microscopy.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.02253-26",
+    "date": "2026-10-22",
+    "authors": "Rank AM, Burnham-Marusich AR, Zayac KR, Ashagrie MG, Mariano L, Duncan S, Mills B, Kozel TR.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42910919",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42910919",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Aspergillus",
+        "Candida",
+        "fungal"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5480,
+    "collected_at": "2026-11-23T12:33:52.871848+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.1128/spectrum.02253-26"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.01118-26",
+    "title": "Development and preliminary validation of a CD161 immunoscore-based screening method for latent tuberculosis infection in a Chinese training cohort.",
+    "abstract": "Current latent tuberculosis infection (LTBI) screening is limited by tuberculin skin test (TST) cross-reactivity, return-visit requirements, and interferon-gamma release assay (IGRA) costs. We developed a flow cytometry and deep learning CD161 immunoscore screening method, evaluating it across two phases (N = 269) in Jiangxi, China. Phase 1 (n = 110; 92 males, 18 females) used healthy controls (n = 88) and clinically cured, post-treatment tuberculosis (TB) patients (n = 22) for model development. This post-treatment cohort served as a proxy and was not equivalent to untreated LTBI. Phase 2 (n = 159, all males) provided an independent, three-site proof-of-concept evaluation against TST, using IGRA as the reference standard. In phase 1, the optimal model achieved 100% sensitivity and 92% specificity. In phase 2, using a non-independently validated, post hoc Youden-selected cutoff (60.57), the immunoscore demonstrated 81.8% sensitivity, 80.4% specificity, and an area under the receiver operating characteristic curve (AUC) of 0.833. This performance was comparable to TST (90.9% sensitivity, 72.3% specificity, AUC = 0.816, and DeLong P = 0.701). The immunoscore showed significantly higher specificity than TST (P = 0.049) but similar sensitivity (P = 0.521), with an IDI of 0.077 (P = 0.021) and good calibration (P = 0.553). These exploratory, all-male results do not establish discrimination between untreated LTBI, post-treatment sensitization, or active TB, necessitating diverse validation.IMPORTANCEA machine-learning-driven CD161 immunoscore using flow cytometry provides rapid latent tuberculosis infection (LTBI) screening with diagnostic performance comparable to established methods. Across this two-phase study of 269 participants, the independent all-male phase 2 cohort of 159 participants yielded a sensitivity of 81.8% and a specificity of 80.4% for the CD161 immunoscore. Performance remained consistent across colleges with sevenfold variation in LTBI prevalence (1.8%-12.2%), supporting robustness. For congregate settings such as colleges, this laboratory-based approach may offer operational advantages by providing same-day initial screening without requiring a return visit for result interpretation. A possible future application would be a staged pathway in which immunoscore-positive individuals undergo confirmatory interferon-gamma release assay testing. This implementation strategy remains conceptual and requires prospective evaluation of referral rates, laboratory capacity, acceptability, clinical outcomes, and cost-effectiveness. These proof-of-concept findings require confirmation in larger external cohorts with adequate female representation and more diverse demographic, occupational, and geographic backgrounds.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.01118-26",
+    "date": "2026-10-22",
+    "authors": "Xiong Y, Huang J, Jiang T, Wang J, Shen Y, Shuang F, Huang X, Ning L, Zhong Y, Wu Y.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42911025",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42911025",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5481,
+    "collected_at": "2026-11-23T12:33:52.871848+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.1128/spectrum.01118-26"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "letter"
+    ],
+    "id": "10.1128/spectrum.02521-26",
+    "title": "Global distribution and long-term persistence of an EAEC virulence plasmid among CC10 <i>Escherichia coli</i> and its potential role in the emergence of hybrid pathotypes.",
+    "abstract": "",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.02521-26",
+    "date": "2026-10-23",
+    "authors": "Fonseca ÉLd, Morgado SM, Vicente ACP.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42925058",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42925058",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5482,
+    "collected_at": "2026-11-23T12:33:52.871848+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.1128/spectrum.02521-26"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "letter"
+    ],
+    "id": "10.1128/spectrum.02450-26",
+    "title": "Further clinical performance of the First to Know Syphilis Self-Test with a larger sampling of pregnant individuals.",
+    "abstract": "",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.02450-26",
+    "date": "2026-10-21",
+    "authors": "Berry JD, Nibauer L, Ardakani M, Aljewari H, Joyee AG.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42904652",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42904652",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5483,
+    "collected_at": "2026-11-23T12:33:52.871848+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.1128/spectrum.02450-26"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.03541-25",
+    "title": "Bovine and human serum albumins promote recovery of culturability in diphenyleneiodonium-induced viable but non-culturable <i>Mycobacterium tuberculosis</i>, potentially involving protein kinase activity.",
+    "abstract": "We investigated the mechanisms underlying the fetal bovine serum (FBS)-induced reactivation of diphenyleneiodonium (DPI)-induced viable but non-culturable (VBNC) state of Mycobacterium tuberculosis (Mtb) using the H37Rv strain. We found that bovine serum albumin (BSA), a major component of FBS, was sufficient to promote recovery of culturability in DPI-induced VBNC Mtb cells under our experimental conditions. Human serum albumin also showed a similar effect, whereas mouse serum albumin and egg-white albumin (ovalbumin) did not induce comparable recovery, suggesting that specific structural or biochemical features shared by bovine and human serum albumin may contribute to this process. In addition, antioxidative agents, including N-acetyl-L-cysteine (NAC), did not induce reactivation, suggesting that the antioxidative property alone is insufficient to explain the effect of BSA. Recovery of culturability was suppressed by protein kinase inhibitors, such as H89 and staurosporine, which are known to target multiple kinases, including serine/threonine protein kinases in Mtb. These findings suggest that protein kinase activity may be involved in BSA-induced recovery of culturability from the DPI-induced VBNC Mtb cells. Overall, our study identifies albumin-dependent recovery of culturability in DPI-induced VBNC model of Mtb and highlights the need to compare recovery mechanisms across distinct dormancy models.ImportanceMycobacterium tuberculosis (Mtb) cells can enter a viable but non-culturable (VBNC) state under stress, complicating the interpretation of bacterial survival and recovery in experimental dormancy models. However, the factors that restore culturability from defined VBNC populations remain less understood. This study shows that serum albumin promotes recovery of culturability from Mtb cells rendered VBNC state by diphenyleneiodonium (DPI) treatment. The effect was observed with bovine and human serum albumins but not mouse serum albumin or ovalbumin, indicating that albumin-dependent recovery is not a general property of all albumins. The lack of comparable recovery by the antioxidant N-acetyl-L-cysteine (NAC) further suggests that the antioxidative activity alone does not explain this phenomenon. By identifying albumin-dependent recovery in a defined DPI-induced VBNC model, this work provides a basis for testing whether similar or distinct recovery mechanisms operate in other Mtb dormancy models.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.03541-25",
+    "date": "2026-10-21",
+    "authors": "Morishige Y, Murase Y, Chikamatsu K, Yamada H, Aono A, Igarashi Y, Kamada K, Shimomura Y, Hosoya M, Mitarai S.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42904634",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42904634",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5484,
+    "collected_at": "2026-11-23T12:33:52.871848+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.1128/spectrum.03541-25"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1128/jb.00233-26",
+    "title": "Structural and biochemical insights into isophthalate dihydrodiol dehydrogenase from <i>Comamonas testosteroni</i> KF1.",
+    "abstract": "Isophthalate serves as a carbon and energy source for several microorganisms through a dedicated catabolic pathway, in which isophthalate dihydrodiol dehydrogenase (IphB) mediates the NAD(P)+-dependent oxidation of 1,2-dihydroxy-3,5-cyclohexadiene-1,5-dicarboxylate (1,5-DCD) to protocatechuate. Here, we present the structural and biochemical characterization of isophthalate dihydrodiol dehydrogenase (IphBKF1) from Comamonas testosteroni KF1. Enzyme kinetics revealed IphBKF1 catalyzes the dehydrogenation of 1,5-DCD substrate with both NAD+ and NADP+, exhibiting a ~4 fold higher catalytic efficiency (kcat/KM) with NADP+. Crystal structures of IphBKF1 were determined in the apo form, in complex with NADP+, and as a ternary complex with NADP+ and the product 3,4-dihydroxybenzoic acid (3,4-DHB; protocatechuate) at resolutions of 1.5, 1.8, and 1.5 Å, respectively. Structural analysis reveals an NADP+-induced conformational change that facilitates cofactor accommodation and identifies key residues involved in NADP+ binding. Sequence and structural analyses highlight two conserved motifs, GXXXGXG and YXXXK, characteristic of the short-chain dehydrogenase/reductase (SDR) superfamily. Ternary complex of IphBKF1 (NADP+ and 3,4-DHB) and molecular docking with 1,5-DCD suggests that specific active-site residues contribute to substrate recognition and underpin the distinct substrate specificity of IphBKF1 compared to other SDR family members. Based on structural insights and comparison with homologous enzymes, we propose a catalytic mechanism for isophthalate oxidation. Together, these findings provide a comprehensive framework for understanding substrate specificity and catalysis in isophthalate dihydrodiol dehydrogenases.IMPORTANCEIsophthalate is a recalcitrant aromatic compound linked to the environmental release of phthalate-based plastics and plasticizers. However, the microbial degradation of isophthalate is relatively less known in comparison to other phthalate isomers. Efficient bacterial utilization of isophthalate requires a coordinated pathway in which the cis-dihydrodiol dehydrogenase IphB converts intermediates into protocatechuate, a central carbon metabolism intermediate. Despite its importance, the structural basis of this transition has remained unclear. Here, we provide a comprehensive structural and biochemical investigation of isophthalate dihydrodiol dehydrogenase (IphBKF1), revealing the structural basis for cofactor binding, active-site architecture, and conformational dynamics leading to the selective processing of isophthalate-derived substrates. These findings provide a framework for the design of enzymes with improved activity and selectivity for pollutant removal.",
+    "journal": "Journal of Bacteriology",
+    "doi": "10.1128/jb.00233-26",
+    "date": "2026-10-21",
+    "authors": "Mahto JK, Sharma M, Jangid K, Kumar P.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42905268",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13784196",
+    "pmid": "42905268",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "microbial",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5485,
+    "collected_at": "2026-11-23T12:33:52.871848+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.1128/jb.00233-26"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.01169-26",
+    "title": "Preliminary stability studies of a β-SARS-CoV-2 virus-like particle vaccine.",
+    "abstract": "We aimed to study the stability of a Beta (β)-SARS-CoV-2 virus-like particle (VLP) vaccine in a series of preliminary experiments using selective stabilizing excipients. β-SARS-CoV-2 VLPs were produced and purified using established methodologies. The thermostability of VLPs was tested at 4°C and -30°C in the presence or absence of stabilizers polysorbate 80, sorbitol, or L-histidine in the presence of a physiological NaCl concentration of 137 mM. The integrity of VLPs was assessed using ELISA, Western immunoblot, and dynamic light scatter (DLS). β-SARS-CoV-2 VLPs were stable at 4°C for 14 days, and the addition of stabilizing excipients improved stability compared to VLPs in PBS alone. Storage of VLPs at -80°C maintained particle integrity by DLS analysis for up to 2 years. Excipients helped to maintain the antigenicity of the VLPs by ELISA and Western immunoblot, and DLS analysis revealed that VLPs retained their particulate structure.IMPORTANCESARS-CoV-2 continues to circulate globally and cause significant illness. The problem of waning immunity to mRNA/LNPs has necessitated frequent boosters to keep pace with emerging variants. The development of alternative vaccines, therefore, remains a priority. Protein- based vaccines, like VLPs, offer a safe alternative able to produce longer-lasting immune responses. In this preliminary stability analysis, the β-SARS-CoV-2 VLPs were found to be stable at 4°C, and the addition of excipients improved VLP stability. Storage of VLPs at -30°C and -80°C also showed that the VLPs are stable for extended periods. Our findings will be of importance for the ongoing development of a SARS-CoV-2 VLP-based vaccine.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.01169-26",
+    "date": "2026-10-21",
+    "authors": "Edeling MA, Earnest L, Yap AHY, Montoya JC, Hans D, Torresi J.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42904729",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42904729",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5486,
+    "collected_at": "2026-11-23T12:33:52.871848+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.1128/spectrum.01169-26"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.00294-26",
+    "title": "Host filtering overrides simulated climate change: plant species identity shapes phyllosphere fungal communities and putative pathogen proportions in an alpine meadow.",
+    "abstract": "Phyllosphere fungal communities play critical ecological roles in plant fitness and nutrient cycling in terrestrial ecosystems. However, the influences of multifactorial climate change on foliar mycobiomes across distinct plant functional groups remain poorly understood. To elucidate this, we used an 11-year field manipulation experiment to assess the impacts of simulated warming (+2.0°C) and altered precipitation (-50%, ambient, and +50%) on foliar fungal α-diversity, β-diversity, and functional guilds across four co-occurring alpine host plants: a forb (Aster diplostephioides), a grass (Elymus nutans), a legume (Oxytropis kansuensis), and a sedge (Kobresia humilis), combining ITS1 metabarcoding with compositional bias-corrected modeling (Analysis of Compositions of Microbiomes with Bias Correction 2). We found that host plant species identity acted as the overriding ecological filter, explaining 34.1% of community variation ([Formula: see text]) and predominantly governing putative pathogen proportions ([Formula: see text]; forb > grass > sedge > legume). In contrast, climate manipulation impacts were strictly host-dependent: experimental warming significantly elevated fungal OTU richness solely in the legume O. kansuensis ([Formula: see text]), while restructuring community β-diversity exclusively in O. kansuensis ([Formula: see text], [Formula: see text]) and the sedge K. humilis ([Formula: see text], [Formula: see text]). In addition, while precipitation shifts minimally affected broad-scale diversity, both climate factors induced fine-scale taxonomic turnover in specific lineages (notably Aureobasidium, Cladosporium, Vishniacozyma, and Colletotrichum); crucially, overall guild-level putative pathogen proportions remained resilient against all climate treatments and their interactions ([Formula: see text]). Our findings suggest that host intrinsic filtering and functional buffering outweigh direct short-term climatic pressures, and emphasize that future alpine foliar disease vulnerability will be predominantly mediated by climate-driven shifts in host plant community dominance rather than direct climatic stimulation of potential pathogens.ImportanceThe phyllosphere represents a vital ecological interface where fungal communities dictate plant fitness and ecosystem functioning, yet their vulnerability to concurrent warming and altered precipitation remains poorly understood in fragile alpine biomes. Here, we demonstrate that host plant species identity serves as the overriding ecological filter structuring foliar fungal communities, overriding direct short-term climatic stressors and effectively buffering potential pathogen burdens. Climate warming and precipitation shifts induced only fine-scale, host-specific adjustments in individual fungal lineages rather than triggering broad functional pathogen outbreaks. These findings provide critical evidence that future alpine foliar disease dynamics under global change will be primarily mediated by climate-driven shifts in host plant community composition rather than direct climatic acceleration of pathogen proliferation. This work highlights the imperative of integrating species-specific plant-microbe interactions into ecological forecasting and conservation frameworks for vulnerable alpine ecosystems.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.00294-26",
+    "date": "2026-10-21",
+    "authors": "Yang F, Pu X, Huo J, Li X, Nan Z.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42904689",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42904689",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungal",
+        "microbe",
+        "microbiome",
+        "microbiomes"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5487,
+    "collected_at": "2026-11-23T12:33:52.871848+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.1128/spectrum.00294-26"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "letter"
+    ],
+    "id": "10.1128/spectrum.02822-26",
+    "title": "Clinical interpretation of mixed 23S rRNA genotypes in stool-based <i>Helicobacter pylori</i> resistance testing.",
+    "abstract": "",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.02822-26",
+    "date": "2026-10-21",
+    "authors": "Kakiuchi T.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42904659",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42904659",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5488,
+    "collected_at": "2026-11-23T12:33:52.871848+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.1128/spectrum.02822-26"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/aem.01858-26",
+    "title": "Elevated ozone reshapes wheat root-associated microbiomes through coordinated plant responses and rhizosphere environmental filtering.",
+    "abstract": "Elevated tropospheric ozone (O3) threatens crop productivity, but how O3-induced changes in plant responses influence root-associated microbiomes remains unclear. We investigated the responses of microbial communities inhabiting the rhizosphere and root endosphere to elevated O3 using four cultivars grown under ambient and 1.5-fold ambient O3 in a field-based free-air O3-concentration enrichment (FACE) system. Plant traits, root-released organic carbon (ROC), rhizosphere properties, extracellular enzyme activities, and bacterial and fungal communities were jointly analyzed. Elevated O3 reduced yield and root biomass, with cultivar-dependent changes in ROC. Elevated O3 consistently increased rhizosphere pH and altered microbial resource allocation, increasing ecoenzymatic vector length by 4.1% and decreasing vector angle by 4.6%. Bacterial communities showed a stronger response than fungal taxonomic communities, particularly in the rhizosphere. However, variation partitioning indicated that soil properties, especially pH, rather than O3 treatment alone, provided the strongest independent explanation for bacterial community variation. Fungal communities showed limited taxonomic turnover but exhibited shifts in predicted trophic guilds, including increased pathotroph- and saprotroph-associated groups and decreased symbiotroph-containing guilds under elevated O3. These results demonstrate that elevated O3 reshapes the wheat root-associated microbiome through coordinated changes in plant performance, rhizosphere environmental filtering, and microbial functional strategies, highlighting the importance of plant-mediated processes in regulating belowground responses to atmospheric change.IMPORTANCEElevated tropospheric O3 is an increasing threat to crop production, but its effects on belowground microbial processes remain poorly understood. This study demonstrates that O3-induced root-associated microbiome changes are closely linked with altered plant carbon allocation and rhizosphere environmental conditions rather than O3 exposure also. By integrating plant traits, soil properties, extracellular enzyme allocation, and microbial community analyses, we reveal a compartment-specific plant-soil-microbiome response to elevated O3. These findings improve our understanding of how atmospheric pollution may reshape crop-associated microbial functions and soil ecological processes under future climate change.",
+    "journal": "Applied and Environmental Microbiology",
+    "doi": "10.1128/aem.01858-26",
+    "date": "2026-11-10",
+    "authors": "Wang Q, Fu D, Ma Y, Cheng C, Xu Y, Agathokleous E, Feng Z.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43006985",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43006985",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "fungal",
+        "microbial",
+        "microbiome",
+        "microbiomes"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5489,
+    "collected_at": "2026-11-23T12:33:52.871848+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.1128/aem.01858-26"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "review",
+      "journal article"
+    ],
+    "id": "10.1128/aem.01631-26",
+    "title": "Sustainable 2-keto-L-gulonic acid biosynthesis via single-strain one-step fermentation.",
+    "abstract": "L-ascorbic acid (vitamin C) is an essential antioxidant molecule that maintains normal physiological functions in humans. Currently, industrial production relies primarily on a three-strain, two-step fermentation process to produce 2-keto-L-gulonic acid (2-KLG), the direct precursor of vitamin C. 2-KLG is then converted to vitamin C through chemical lactonization. However, this process is limited by prolonged fermentation cycles, poor stability of the mixed-culture system, and complex process control. In recent years, engineered single-strain platforms capable of one-step 2-KLG biosynthesis have emerged as a promising strategy for more sustainable vitamin C production. Nevertheless, the efficiency of L-sorbose-to-2-KLG conversion in this system remains low, making it a major bottleneck to further improving 2-KLG production. This review summarizes recent advances on single-strain, one-step fermentation systems using Gluconobacter oxydans as the chassis strain. It focuses on strategies including genetic tool development, metabolic engineering, and key enzyme optimization. The review aims to provide a theoretical basis and technical reference for optimizing and industrializing green biomanufacturing systems for vitamin C.",
+    "journal": "Applied and Environmental Microbiology",
+    "doi": "10.1128/aem.01631-26",
+    "date": "2026-11-05",
+    "authors": "Wang F, Zhou Q, Wang Y, Wang Z, Li D.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42986111",
+    "preprint": false,
+    "review": true,
+    "pmcid": "",
+    "pmid": "42986111",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5490,
+    "collected_at": "2026-11-23T12:33:52.871848+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.1128/aem.01631-26"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "review",
+      "journal article"
+    ],
+    "id": "10.1128/aem.01816-26",
+    "title": "Novel electron transport powers archaeal methane metabolism across varied substrates and environments.",
+    "abstract": "Methanogens are responsible for producing approximately one billion metric tons of methane each year within Earth's anaerobic environments as a byproduct of their energy metabolism. They play a vital role in the global carbon cycle. There are three main pathways for methanogenesis: hydrogenotrophic, which uses H2 and CO2 to produce methane; methylotrophic, which utilizes methylated compounds like methanol and amines; and aceticlastic, which converts acetate into methane and CO2. Instead of substrate-level ATP production, methanogens conserve energy through a membrane-bound electron transport chain and flavin-based electron bifurcation (FBEB). Beyond the canonical modes of growth in methanogens, Methanosarcina acetivorans, a model acetotrophic methanogen, can conserve energy via direct interspecies electron transfer (DIET). Here, we review the metabolic pathways and electron transport processes involved in energy conservation during fermentative, respiratory, and DIET modes. Additionally, we discuss the role of FBEB in energy conservation in gut-associated Methanomassiliicoccus luminyensis. Finally, we discuss the potential roles of heterodisulfide reductase (Hdr) and the process of electron transfer during the reaction mechanism of electron-bifurcating HdrA2B2C2 complex in cytochrome-containing methanogens. Understanding the complex redox control mechanisms in these organisms has broader implications for sustainable energy and environmental management.",
+    "journal": "Applied and Environmental Microbiology",
+    "doi": "10.1128/aem.01816-26",
+    "date": "2026-11-05",
+    "authors": "Rai A, Chauhan SS, Prakash D.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42986114",
+    "preprint": false,
+    "review": true,
+    "pmcid": "",
+    "pmid": "42986114",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "archaea",
+        "archaeal",
+        "methanogen",
+        "methanogenesis",
+        "methanogens"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5492,
+    "collected_at": "2026-11-23T12:33:52.871848+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.1128/aem.01816-26"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/aem.01749-26",
+    "title": "Cultivation of halophilic archaea in shallow subsurface Martian conditions has implications for extant life on Mars.",
+    "abstract": "The present-day Martian surface is generally considered inhospitable to life because of low atmospheric pressure, intense surface radiation, global desiccation, and oxidizing chemistry, which has been increasing since the late Noachian. However, shallow Martian subsurface regions where mineralogy has shown groundwater movement may include localized hypersaline environments capable of retaining liquid water and supporting microbial metabolism. Haloferax volcanii, a model halophilic archaeon, has previously been shown to survive under low-pressure Martian conditions (24 mbar) and to grow anaerobically supported by the Mars-relevant oxyanions nitrate and perchlorate under high-salinity conditions. Here, we investigated whether H. volcanii could actively grow under a combination of environmental and chemical conditions relevant to potentially habitable shallow subsurface Martian lacustrine settings. Cultures were incubated for 160 days under anoxic, CO₂-enriched, low-pressure conditions (24 mbar) in hypersaline liquid media supplemented with nitrate or perchlorate. Growth was observed in all low-pressure treatments and was confirmed by increases in optical density and biological reduction of nitrate and perchlorate. Scanning electron microscopy revealed extensive biofilm formation in low-pressure cultures, and Raman spectroscopy demonstrated the persistence of carotenoid biosignatures after prolonged incubation under Martian conditions. Liquid loss remained below 4% across all treatments, indicating long-term stability of hypersaline brines throughout the experiment. These results demonstrate for the first time that a halophilic archaeon is capable of active growth and metabolism under a Mars-relevant combination of low pressure, high salinity, anoxia, and oxidizing chemistry, providing experimental support for the potential habitability of localized shallow subsurface Martian environments.IMPORTANCEThe search for cellular life is a major objective of future Mars exploration. While many studies have examined whether microorganisms can survive under Martian conditions, far fewer have demonstrated active growth and metabolism. Here, we document Haloferax volcanii as the first halophilic archaeon capable of active growth under a defined combination of Mars-relevant low atmospheric pressure, high salinity, anoxia, and oxidizing chemical conditions. These findings expand the current understanding of the environmental limits of microbial growth and provide experimental evidence that localized brine environments in the shallow Martian subsurface could support active microbial metabolism if suitable organics and liquid water are present. These results are also relevant to planetary protection efforts, as they help constrain the potential for terrestrial halophilic microorganisms introduced during robotic or human exploration to persist and remain metabolically active in Martian environments. Furthermore, this study establishes a practical framework for cultivating halophilic microorganisms under low-pressure Martian conditions and may help guide future efforts to detect, cultivate, and characterize potential extant life on Mars.",
+    "journal": "Applied and Environmental Microbiology",
+    "doi": "10.1128/aem.01749-26",
+    "date": "2026-11-05",
+    "authors": "Robinson A, McQuaig-Ulrich S, Dondero T, Celestian A, Perl SM.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42986094",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42986094",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "archaea",
+        "archaeon",
+        "microbial",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5493,
+    "collected_at": "2026-11-23T12:33:52.871848+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.1128/aem.01749-26"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/aem.01488-26",
+    "title": "A switch-rheostat circuit governs quorum sensing homeostasis in a phytopathogen.",
+    "abstract": "Pseudomonas fuscovaginae, a wide-host-range plant pathogen of several cereal and grass species, possesses two canonical N-acyl homoserine lactone (AHL)-based quorum sensing (QS) systems called PfsI/R and PfvI/R, both of which are inactive under laboratory conditions but active in planta. The pfsI-pfsR intergenic region encodes RsaM, a putative protein that has since been hypothesized to act as a repressor switch of this QS circuit. In the present study, we demonstrate that the stringent repression exerted on the PfsI/R system depends entirely on the divergent promoter/intergenic pfsR-rsaM region rather than RsaM itself. Remarkably, this regulatory switch element stringently represses the expression of both the pfsR and rsaM genes. We further show for the first time that RsaM is endogenously expressed and functions as a negative regulator, modulating the PfsI/R circuit instead of preventing its activation. Taken together, our results evidence a unique two-tiered/hierarchical repression of a QS system, provided by a master repressor switch and a repressor modulator.ImportancePseudomonas fuscovaginae is a globally occurring plant pathogen that employs N-acyl homoserine lactone (AHL)-based quorum sensing (QS) to regulate virulence. In this bacterium, QS signaling circuits display a rather unusual feature: the lack of activation at high cell densities under standard laboratory conditions. A hypothetical regulator named RsaM was previously linked to this phenomenon as a repressor switch acting on the PfsI/R AHL QS system in the absence of an unknown signal or stimulus. In this study, we show that a regulatory element within the pfsR-rsaM intergenic region acts as the primary switch of the PfsI/R QS system, independently of RsaM. Conversely, RsaM functions as a post-activation modulator that fine-tunes the QS response. This study advances our understanding of the regulatory configurations of unconventional QS systems by revealing a two-tier control mechanism in which a master regulatory switch governs circuit activation, while the previously uncharacterized protein RsaM controls signaling output once the system is engaged.",
+    "journal": "Applied and Environmental Microbiology",
+    "doi": "10.1128/aem.01488-26",
+    "date": "2026-11-05",
+    "authors": "Ristović N, Bertani I, Triolo G, Myers MP, Bez C, Venturi V.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42986124",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42986124",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Pseudomonas",
+        "bacterium"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5494,
+    "collected_at": "2026-11-23T12:33:52.871848+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.1128/aem.01488-26"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 10",
+        "query": "(JOURNAL:\"Scientific Data\" OR JOURNAL:\"Limnology and Oceanography\" OR JOURNAL:\"Limnology and Oceanography Letters\" OR JOURNAL:\"Annual Review of Marine Science\" OR JOURNAL:\"Trends in Ecology & Evolution\" OR JOURNAL:\"iScience\" OR JOURNAL:\"Current Biology\" OR JOURNAL:\"Cell Reports\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1016/j.isci.2026.118094",
+    "title": "European robin cryptochrome 4a does not bind 8-HDF or MTHF as second antenna chromophores.",
+    "abstract": "Cryptochromes and photolyases are blue-light-sensitive flavoproteins that generally bind flavin adenine dinucleotide (FAD) and have distinct functions. Cryptochrome 4a (CRY4a) expressed in the double-cone photoreceptors of migratory songbirds such as the European robin (Erithacus rubecula) is the hypothesized primary sensor for avian magnetoreception. In addition to FAD, many photolyases and some cryptochromes bind antenna chromophores such as 8-hydroxy-5-deazaflavin (8-HDF) or 5,10-methenyltetrahydrofolate (MTHF). Here, we investigated whether Erithacus rubecula cryptochrome 4a (ErCRY4a) also binds 8-HDF and/or MTHF. 8-HDF binding was tested by co-expressing ErCRY4a with 8-HDF synthase. 8-HDF bound the positive control Xenopus laevis 6-4 photolyase (Xl6-4PL), but not ErCRY4a. For MTHF, the positive control Escherichia coli DNA photolyase (EcDPL) was purified with both MTHF and FAD, whereas ErCRY4a showed only FAD binding. Isothermal titration calorimetry also confirmed that MTHF does not bind ErCRY4a. Furthermore, computational analysis revealed no binding-site similarity between ErCRY4a and MTHF/8-HDF-binding proteins, indicating a non-conserved pocket.",
+    "journal": "iScience",
+    "doi": "10.1016/j.isci.2026.118094",
+    "date": "2026-11-06",
+    "authors": "Pattani Ameerjan AB, Dabirmanesh B, Hungerland J, Kasahara T, Bartoelke R, Dautaj G, Saberamoli G, Schmidt J, Xu J, Solov'yov IA, Koch KW, Mouritsen H.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43034547",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13769073",
+    "pmid": "43034547",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5495,
+    "collected_at": "2026-11-23T12:33:52.871848+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "Europe PMC journals 10"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.1016/j.isci.2026.118094"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 10",
+        "query": "(JOURNAL:\"Scientific Data\" OR JOURNAL:\"Limnology and Oceanography\" OR JOURNAL:\"Limnology and Oceanography Letters\" OR JOURNAL:\"Annual Review of Marine Science\" OR JOURNAL:\"Trends in Ecology & Evolution\" OR JOURNAL:\"iScience\" OR JOURNAL:\"Current Biology\" OR JOURNAL:\"Cell Reports\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1016/j.isci.2026.118150",
+    "title": "Multi-scale hybrid correction of noisy long reads.",
+    "abstract": "Long-read sequencing offers superior genome resolution but is hindered by error rates of 1-15%. Existing correction methods often struggle to suppress sequencing errors without removing genuine biological variation, leading to over-correction. DADEC addresses this trade-off through a confidence-ordered framework comprising stringent de Bruijn graph (DBG) correction, haplotype-aware short-read alignment refinement, and permissive DBG recovery. Across seven simulated and three real datasets, DADEC achieved the lowest mismatch and indel rates in most benchmark settings while maintaining high haplotype coverage. DADEC also improved assembly contiguity and strain-level metagenomic classification. On an independently simulated Arabidopsis thaliana dataset with ground truth, DADEC reduced correction-event false discovery and false negative rates by 38.9% and 40.2%, respectively, compared with the next-best method. DADEC therefore provides an accurate hybrid correction strategy for noisy long reads while reducing over-correction and maintaining haplotype representation.",
+    "journal": "iScience",
+    "doi": "10.1016/j.isci.2026.118150",
+    "date": "2026-11-06",
+    "authors": "Zhang W, Zhang Y, Li F, Li Y, Gong H, Luo J, Yuan S, Luo X, Liu Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43032624",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13760973",
+    "pmid": "43032624",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "genom",
+          "genome",
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5496,
+    "collected_at": "2026-11-23T12:33:52.871848+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "Europe PMC journals 10"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.1016/j.isci.2026.118150"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 10",
+        "query": "(JOURNAL:\"Scientific Data\" OR JOURNAL:\"Limnology and Oceanography\" OR JOURNAL:\"Limnology and Oceanography Letters\" OR JOURNAL:\"Annual Review of Marine Science\" OR JOURNAL:\"Trends in Ecology & Evolution\" OR JOURNAL:\"iScience\" OR JOURNAL:\"Current Biology\" OR JOURNAL:\"Cell Reports\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1016/j.isci.2026.118134",
+    "title": "LKMHCpan: Transformer-optimized HLA-I pseudo-sequences enhance neoantigen prediction for immunotherapy.",
+    "abstract": "Accurate peptide-HLA class I binding prediction is fundamental for identifying tumor neoantigens and advancing personalized immunotherapy. We present LKMHCpan, a pan-specific predictor that leverages transformer networks to optimize HLA-I pseudo-sequences representation through attention-guided integration of 88 key residues primarily within the α1, α2, and α3 domains. LKMHCpan achieves a mean precision-recall area under the curve (PR-AUC) of 0.93, generalizes robustly to untrained HLA-I alleles, and supports peptides longer than 11 amino acids. In Tumor Neoantigen Selection Alliance (TESLA) data, LKMHCpan identified 94% of immunogenic neoantigens with strong score-immunogenicity correlation. Neoantigen burden from LKMHCpan significantly stratified clinical outcomes in two immunotherapy-treated cohorts: metastatic melanoma (n = 73) and lung cancer (n = 309), with high-burden patients exhibiting clinical benefit. Its ability to resolve binding motifs for untrained alleles and single-amino-acid HLA-I mutants highlights its potential for elucidating complex peptide-major histocompatibility complex (MHC) interactions. LKMHCpan provides a scalable framework for neoantigen discovery and prognostic assessment in precision immunotherapy.",
+    "journal": "iScience",
+    "doi": "10.1016/j.isci.2026.118134",
+    "date": "2026-11-05",
+    "authors": "Li Q, Liu S, Yao M, Chen H, Yu Y, Zhang B, Jia M, Chen L.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43034688",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13769066",
+    "pmid": "43034688",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "prediction",
+        "predictor",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "prediction",
+          "predictor",
+          "sequence"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5498,
+    "collected_at": "2026-11-23T12:33:52.871848+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "Europe PMC journals 10"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.1016/j.isci.2026.118134"
+    ]
   }
 ]
