@@ -322784,5 +322784,279 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ネコ科動物の腸内細菌叢における水平伝播プロテアーゼ遺伝子の濃縮とタンパク質偏重型代謝",
     "abstract_ja": "食事は腸内微生物叢の機能を規定するが、ネコ科動物の腸内微生物叢においてタンパク質代謝が優位となるメカニズムについては、いまだ十分に解明されていない。本研究では、ロングリードおよびショートリードシーケンシング技術を組み合わせて、14種73サンプルのネコ科動物腸内微生物叢のゲノム解像度カタログを構築し、319個の高品質なメタゲノムアセンブルゲノム（MAG）を得た。これらの微生物ゲノムの42.3%において、広範な水平遺伝子伝達（HGT）事象が同定された。HGTによって獲得された遺伝子は、アミノ酸および脂質代謝に高度に濃縮されており、完全な遺伝子クラスターを形成する傾向があったため、微生物は完全な代謝モジュールを迅速に獲得することができた。ネコ科動物の腸内微生物叢は、リパーゼ遺伝子の濃縮ではなく、優先的なHGTによるプロテアーゼ遺伝子の濃縮に関連して、タンパク質代謝に対する明らかな機能的選好性を示す。さらに、培養した腸内分離株の表現型解析を通じて、このタンパク質偏向的な代謝バイアスを裏付けた。マウスを用いたin vivo食事アッセイでは、二重の代謝能を持つネコ科動物由来の菌株が、高タンパク質食下でのみ調節効果を示すことが明らかになった。この菌株は、腸管内のシトルリンおよびL-メチオニンの存在量を有意に増加させ、血中コルチゾール濃度を上昇させ、肝インスリン受容体およびIGF1Rシグナル伝達経路を調節した。対照的に、この菌株は高脂肪食下では限定的な代謝調節しか示さなかった。総じて、これらのゲノム学的および実験的知見は、肉食動物に関連するこの腸内ニッチにおけるネコ科動物腸内微生物叢の顕著なタンパク質代謝バイアスを説明する一助となる。\nビデオ抄録"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1966662",
+    "title": "Gut microbiome and enterotype changes associated with Ayurvedic Virechana therapy in rheumatoid arthritis",
+    "abstract": "IntroductionPanchakarma is an ancient Ayurvedic therapy encompassing various rejuvenative and cleansing procedures aimed at restoring homeostasis and promoting overall health. In Ayurveda, Rheumatoid Arthritis (Amavata) is characterized by the accumulation and systemic dissemination of Ama (metabolic toxins), particularly in the gastrointestinal tract. Virechana, a therapeutic purgation procedure within Panchakarma, is traditionally employed for the management of Pitta-dominant disorders and has been used in treating RA. However, its effects on gut microbiomes remain poorly understood.MethodsThis study investigated the effect of Virechana therapy on gut microbiome enterotypes in RA patients. Using enterotype-based clustering of 16S rRNA gene sequencing data, we intend to understand the microbiome restructuring as well as the shift between the stages of the therapy of 77 RA patients, along with blood biochemical parameters related to RA, comparing before and after therapy.ResultsNo major changes were observed in the biochemical parameters between before and after therapy (t-test, p > 0.05). Bacteroides (15.22 ± 16.68%, p = 0.022), Roseburia (5.48 ± 6.94%, p = 0.029), and Flavonifractor (0.14 ± 0.28%, p = 0.02) were significantly increased in VT_after compared to VT_before, clearly indicating the increase in abundance of bacteria associated with gut health after Virechana. Enterotype analysis identified a transition in 11 patients from a Prevotella-dominated enterotype (Cluster-1) to a Bacteroides-dominated enterotype (Cluster-2) following Virechana therapy.DiscussionThese findings suggest that Virechana therapy is associated with alterations in gut bacterial composition and enterotype distribution in RA patients, highlighting the possible role of microbiome modulation underlying its therapeutic effects.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1966662",
+    "date": "2026-11-23",
+    "authors": "Apurvasinh Puvar",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1966662",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "bacteria",
+        "bacterial",
+        "microbiome",
+        "microbiomes"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "16S rRNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5513,
+    "collected_at": "2026-11-23T12:44:27.540400+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.3389/fmicb.2026.1966662"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6c2987b8cbfe11b96bb807487cace34c29a2ac365d1e0ef79950151bb9708a5d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:24:27.153331+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f771236591f2cba4555967fa66971db4c9055abc9cffa840e4f08cf6c5835e87",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:24:27.153331+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "関節リウマチにおけるアーユルヴェーダのヴィレチャナ療法に伴う腸内細菌叢および腸管型の変化",
+    "abstract_ja": "はじめにパンチャカルマは、恒常性の回復と全身的な健康増進を目的とした、さまざまな若返りと浄化の処置を包含する古代アーユルヴェーダの療法である。アーユルヴェーダにおいて、関節リウマチ（アマヴァタ）は、特に消化管におけるアマ（代謝毒素）の蓄積と全身への拡散を特徴とする。パンチャカルマにおける治療的下剤処置であるヴィレチャナは、伝統的にピッタ優位の疾患の管理に用いられ、関節リウマチ（RA）の治療にも使用されてきた。しかし、腸内マイクロバイオームへの影響については十分に解明されていない。方法本研究では、RA患者における腸内マイクロバイオームのエンテロタイプに対するヴィレチャナ療法の効果を検討した。16S rRNA遺伝子シーケンシングデータのエンテロタイプに基づくクラスタリングを用いて、77名のRA患者におけるマイクロバイオームの再構成および療法の各段階間の移行を、RAに関連する血液生化学的パラメータとともに把握し、療法前後の比較を行うことを目的とした。結果療法前後の生化学的パラメータに有意な変化は認められなかった（t検定、p > 0.05）。Bacteroides（15.22 ± 16.68%, p = 0.022）、Roseburia（5.48 ± 6.94%, p = 0.029）、およびFlavonifractor（0.14 ± 0.28%, p = 0.02）は、VT_beforeと比較してVT_afterで有意に増加しており、ヴィレチャナ後の腸管健康に関連する細菌の存在量増加を明確に示していた。エンテロタイプ解析により、11名の患者において、ヴィレチャナ療法後にPrevotella優位のエンテロタイプ（Cluster-1）からBacteroides優位のエンテロタイプ（Cluster-2）への移行が確認された。考察これらの知見は、ヴィレチャナ療法がRA患者における腸内細菌組成およびエンテロタイプ分布の変化に関連していることを示唆しており、その治療効果の根底にあるマイクロバイオーム調節の可能性を浮き彫りにしている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.02253-26",
+    "title": "A microscopy-free approach for detection of fungal elements in tissue using mannan immunoassay.",
+    "abstract": "KOH microscopy is a routine method to determine the presence of fungal elements in infected tissue. Although widely used, the procedure requires trained personnel and the infrastructure needed for microscopy. An alternative approach is the extraction of fungal antigens and detection by immunoassay. In this study, we used oxidative release with sodium hypochlorite to extract mannan from fungal cells. Quenching of free sodium hypochlorite was done using an excess of bovine serum albumin or sodium thiosulfate. Quenching reagents were incorporated into sample pads of lateral flow immunoassays (LFIAs), followed by detection of released mannan using mannan-specific monoclonal antibodies coupled to colloidal gold on the LFIA platform. Cells of Candida spp. or Aspergillus spp. were used to evaluate the extraction/quenching steps. The results showed that sodium thiosulfate was particularly well suited for hands-free, in-strip neutralization. The analytical sensitivity (minimum limit of detection, LOD) of the Candida LFIA was 67 ng/mL of formaldehyde-inactivated, whole Candida albicans cells. The LOD of the Aspergillus LFIA was 250 ng/mL of formaldehyde-inactivated, whole Aspergillus fumigatus cells. Proof-of-concept for oxidative release of mannan followed by detection of antigen by LFIA was provided using an ex vivo porcine corneal model of fungal keratitis. The results demonstrated that the test is a rapid two-step, specimen-to-result protocol suitable for point-of-care use. Such a diagnostic would be particularly valuable in settings that lack access to the trained personnel or infrastructure needed for KOH microscopy.IMPORTANCEKOH microscopy is widely used to detect fungal infection, but it requires trained personnel and microscopy infrastructure. An alternative approach is extraction of antigens from fungal cells within infected tissue and detection by lateral flow immunoassay. In this study, we developed a Candida and Aspergillus tests was evaluated with cultured fungal cells. Clinical proof-of-concept for each assay was provided using an ex vivo porcine corneal model of fungal keratitis. This diagnostic strategy would be particularly valuable in settings that lack access to trained personnel or the infrastructure needed for KOH microscopy.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.02253-26",
+    "date": "2026-10-22",
+    "authors": "Rank AM, Burnham-Marusich AR, Zayac KR, Ashagrie MG, Mariano L, Duncan S, Mills B, Kozel TR.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42910919",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42910919",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Aspergillus",
+        "Candida",
+        "fungal"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5480,
+    "collected_at": "2026-11-23T12:33:52.871848+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.1128/spectrum.02253-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "bbb7ec6f8fb799b8757b02fb3521a67a9b3d4d2594c7a12c05602ddc7edc5c9e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:24:27.153331+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "dbd3b4f2ae6728db4afb1ce51697648ce5bc0b7657509a983323384084a3753a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:24:27.153331+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "マンナン免疫測定法を用いた組織中の真菌成分の非顕微鏡的検出法",
+    "abstract_ja": "KOH顕微鏡法は、感染組織における真菌成分の存在を判定するための標準的な手法である。広く用いられているものの、本手法の実施には熟練した人員と顕微鏡観察に必要な設備が求められる。代替的なアプローチとして、真菌抗原の抽出および免疫測定法による検出が挙げられる。本研究では、次亜塩素酸ナトリウムを用いた酸化的遊離法により、真菌細胞からマンナンを抽出した。遊離次亜塩素酸ナトリウムのクエンチングには、過剰量のウシ血清アルブミンまたはチオ硫酸ナトリウムを用いた。クエンチング試薬をラテラルフロー免疫測定法（LFIA）のサンプルパッドに組み込んだ後、LFIAプラットフォーム上でコロイド金に結合させたマンナン特異的モノクローナル抗体を用いて、遊離したマンナンを検出した。抽出およびクエンチング工程の評価には、Candida属またはAspergillus属の細胞を用いた。その結果、チオ硫酸ナトリウムがハンズフリーのインストリップ中和に特に適していることが示された。Candida LFIAの分析感度（最小検出限界：LOD）は、ホルムアルデヒド不活化処理を施したCandida albicans全細胞で67 ng/mLであった。Aspergillus LFIAのLODは、ホルムアルデヒド不活化処理を施したAspergillus fumigatus全細胞で250 ng/mLであった。真菌性角膜炎のex vivoブタ角膜モデルを用いて、マンナンの酸化的遊離およびそれに続くLFIAによる抗原検出の概念実証を行った。その結果、本検査はポイントオブケアでの使用に適した、迅速な2段階の検体から結果を得るプロトコルであることが示された。このような診断法は、KOH顕微鏡法に必要な熟練した人員や設備が利用できない環境において特に有用である。重要性KOH顕微鏡法は真菌感染症の検出に広く用いられているが、熟練した人員と顕微鏡観察設備を必要とする。代替的なアプローチとして、感染組織内の真菌細胞から抗原を抽出し、ラテラルフロー免疫測定法で検出する方法がある。本研究では、培養真菌細胞を用いて評価したCandidaおよびAspergillusの検査法を開発した。真菌性角膜炎のex vivoブタ角膜モデルを用いて、各アッセイの臨床的な概念実証を行った。この診断戦略は、KOH顕微鏡法に必要な熟練した人員や設備が利用できない環境において特に有用である。"
+  },
+  {
+    "id": "10.1093/nargab/lqag133",
+    "title": "mapfx.norm: a method for removing unwanted variation from massively parallel cytometry data",
+    "abstract": "AbstractMassively parallel cytometry (MPC) experiments allow cost-effective quantification of >200 surface proteins at single-cell resolution. The Infinity Flow protocol was developed to measure highly informative protein ‘Backbone’ markers on all cells in wells distributed across plates, along with well-specific exploratory protein ‘Infinity’ markers. Backbone markers are then used to impute the Infinity markers using machine learning methods. This protocol offers unprecedented opportunities for more comprehensive classification of cell types. However, the protocol can be improved, particularly in removal of unwanted variation. Here, we propose mapfx.norm, a novel method for removing background noise and batch effects from MPC data. It is developed as part of the MAssively Parallel Flow cytometry Xplorer R package, an end-to-end toolbox for analysing MPC data, including pre-processing and imputing missing Infinity markers in wells where those markers were not measured. Unique features of our method include performing background correction to eliminate the noise from electronic baseline restoration and fluorescence compensation prior to imputation, and removing unwanted variation at the cell level while explicitly accounting for the potential association between biology and unwanted factors. We benchmark our method against alternatives and demonstrate that our approach is better at preserving biological signals, removing unwanted variation, and imputing unmeasured Infinity markers.",
+    "journal": "NAR Genomics and Bioinformatics",
+    "doi": "10.1093/nargab/lqag133",
+    "date": "2026-11-23",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/nargab/article/doi/10.1093/nargab/lqag133/9111115?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6220/4033.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5501,
+    "collected_at": "2026-11-23T12:44:27.540400+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "https://academic.oup.com/rss/site_6220/4033.xml"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.1093/nargab/lqag133"
+    ],
+    "translation": {
+      "title": {
+        "hash": "05926f50ebb75fe767d4bda6bd3861b5a38392619669a5cba01a7576b120d183",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:24:27.153331+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d7655f6395c807f0e20563da946dce05f47f4e8c34858ab49cc982cb85c134d2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:24:27.153331+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "mapfx.norm: 超並列サイトメトリーデータから不要なばらつきを除去する手法",
+    "abstract_ja": "要旨 大規模並列サイトメトリー（MPC）実験により、200種類以上の表面タンパク質を単一細胞解像度で費用対効果高く定量することが可能である。Infinity Flowプロトコルは、プレート上に分散配置されたウェル内の全細胞において、情報量の多いタンパク質「バックボーン」マーカーと、ウェル固有の探索的タンパク質「インフィニティ」マーカーを測定するために開発された。その後、バックボーンマーカーを用いて、機械学習手法によりインフィニティマーカーを補完する。本プロトコルは、細胞種のより包括的な分類を実現する前例のない機会を提供する。しかし、本プロトコルは、特に不要な変動の除去において改善の余地がある。本稿では、MPCデータからバックグラウンドノイズおよびバッチ効果を除去するための新規手法であるmapfx.normを提案する。本手法は、前処理や、測定されなかったウェルにおける欠損インフィニティマーカーの補完を含む、MPCデータ解析のためのエンドツーエンドのツールボックスであるMASsively Parallel Flow cytometry Xplorer Rパッケージの一部として開発された。本手法の独自の特徴としては、補完前の電子ベースライン復元および蛍光補正によるノイズを除去するためのバックグラウンド補正の実施、ならびに生物学的特性と不要な因子との潜在的な関連性を明示的に考慮しつつ、細胞レベルで不要な変動を除去する点が挙げられる。我々は本手法を代替手法とベンチマークし、生物学的シグナルの保持、不要な変動の除去、および未測定のインフィニティマーカーの補完において、本アプローチがより優れていることを実証する。"
+  },
+  {
+    "id": "10.1038/s41522-026-01205-2",
+    "title": "Subacute ruminal acidosis tolerance: phenotyping and nutritional management through host–microbiome interaction insights",
+    "abstract": "Subacute ruminal acidosis tolerance: phenotyping and nutritional management through host–microbiome interaction insights",
+    "journal": "npj Biofilms and Microbiomes",
+    "doi": "10.1038/s41522-026-01205-2",
+    "date": "2026-11-23",
+    "authors": "Shengru Wu",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.nature.com/articles/s41522-026-01205-2",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.nature.com/npjbiofilms.rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5532,
+    "collected_at": "2026-11-23T12:44:27.540400+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "https://www.nature.com/npjbiofilms.rss"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.1038/s41522-026-01205-2"
+    ],
+    "translation": {
+      "title": {
+        "hash": "40eafa4a66a90295ba79394d231ded36147c7cdaf7593f81a3b429c729867e03",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:24:27.153331+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "40eafa4a66a90295ba79394d231ded36147c7cdaf7593f81a3b429c729867e03",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:24:27.153331+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "亜急性反芻動物アシドーシスの耐容性：宿主－微生物叢相互作用の知見に基づくフェノタイピングと栄養管理",
+    "abstract_ja": "亜急性反芻動物アシドーシスの耐容性：宿主－微生物叢相互作用の知見に基づくフェノタイピングと栄養管理"
   }
 ]
