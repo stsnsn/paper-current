@@ -321609,5 +321609,298 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ノイズを含むロングリードのマルチスケールハイブリッド補正。",
     "abstract_ja": "ロングリードシーケンシングは優れたゲノム解像度を実現する一方で、1～15%というエラー率がその妨げとなっている。既存の補正手法は、真の生物学的変異を除去することなくシーケンシングエラーを抑制することに苦慮することが多く、過剰補正を招く。DADECは、厳格なde Bruijnグラフ（DBG）補正、ハプロタイプを考慮したショートリードアライメントの精緻化、および許容的なDBG復元からなる信頼度順のフレームワークを通じて、このトレードオフに対処する。7つのシミュレーションデータセットと3つの実データセットにおいて、DADECは高いハプロタイプカバレッジを維持しつつ、ほとんどのベンチマーク設定で最小のミスマッチ率およびインデル率を達成した。また、DADECはアセンブリのコンティニュイティと系統レベルのメタゲノム分類も改善した。グラウンドトゥルースを含む独立してシミュレーションされたArabidopsis thalianaデータセットにおいて、DADECは次善の手法と比較して、補正イベントの偽発見率および偽陰性率をそれぞれ38.9%および40.2%低減した。したがって、DADECはノイズの多いロングリードに対して正確なハイブリッド補正戦略を提供し、過剰補正を抑制しつつハプロタイプの表現を維持する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "review",
+      "journal article"
+    ],
+    "id": "10.1128/aem.01816-26",
+    "title": "Novel electron transport powers archaeal methane metabolism across varied substrates and environments.",
+    "abstract": "Methanogens are responsible for producing approximately one billion metric tons of methane each year within Earth's anaerobic environments as a byproduct of their energy metabolism. They play a vital role in the global carbon cycle. There are three main pathways for methanogenesis: hydrogenotrophic, which uses H2 and CO2 to produce methane; methylotrophic, which utilizes methylated compounds like methanol and amines; and aceticlastic, which converts acetate into methane and CO2. Instead of substrate-level ATP production, methanogens conserve energy through a membrane-bound electron transport chain and flavin-based electron bifurcation (FBEB). Beyond the canonical modes of growth in methanogens, Methanosarcina acetivorans, a model acetotrophic methanogen, can conserve energy via direct interspecies electron transfer (DIET). Here, we review the metabolic pathways and electron transport processes involved in energy conservation during fermentative, respiratory, and DIET modes. Additionally, we discuss the role of FBEB in energy conservation in gut-associated Methanomassiliicoccus luminyensis. Finally, we discuss the potential roles of heterodisulfide reductase (Hdr) and the process of electron transfer during the reaction mechanism of electron-bifurcating HdrA2B2C2 complex in cytochrome-containing methanogens. Understanding the complex redox control mechanisms in these organisms has broader implications for sustainable energy and environmental management.",
+    "journal": "Applied and Environmental Microbiology",
+    "doi": "10.1128/aem.01816-26",
+    "date": "2026-11-05",
+    "authors": "Rai A, Chauhan SS, Prakash D.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42986114",
+    "preprint": false,
+    "review": true,
+    "pmcid": "",
+    "pmid": "42986114",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "archaea",
+        "archaeal",
+        "methanogen",
+        "methanogenesis",
+        "methanogens"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5492,
+    "collected_at": "2026-11-23T12:33:52.871848+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.1128/aem.01816-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d13f60f2e680eb0d0a906870ecdb6501c39e48d6e18ab97cfc6b20757d38f5d9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:11:20.911033+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "fcaccd8cbab9e47ea0fb8c4dc4ffe89269ecaff82f62dd2d6b547d1347794be3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:11:20.911033+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "新規の電子伝達系が、多様な基質や環境において古細菌のメタン代謝を支えている。",
+    "abstract_ja": "メタン生成菌は、エネルギー代謝の副産物として、地球上の嫌気的環境において毎年約10億メトリックトンのメタンを産生している。これらは地球規模の炭素循環において極めて重要な役割を果たしている。メタン生成には主に3つの経路が存在する。H2とCO2を利用してメタンを産生する水素栄養経路、メタノールやアミンなどのメチル化化合物を利用するメチル栄養経路、そして酢酸をメタンとCO2に変換する酢酸分解経路である。基質レベルのATP産生ではなく、メタン生成菌は膜結合型電子伝達系とフラビン系電子分岐（FBEB）を通じてエネルギーを節約する。メタン生成菌における標準的な増殖様式に加え、モデル酢酸栄養性メタン生成菌であるMethanosarcina acetivoransは、種間直接電子伝達（DIET）を介してエネルギーを節約することができる。本稿では、発酵、呼吸、およびDIET様式におけるエネルギー保存に関与する代謝経路と電子伝達プロセスについて概説する。さらに、腸内共生菌であるMethanomassiliicoccus luminyensisにおけるエネルギー保存におけるFBEBの役割について論じる。最後に、シトクロム含有メタン生成菌における電子分岐型HdrA2B2C2複合体の反応機構において、ヘテロジスルフィド還元酵素（Hdr）および電子伝達プロセスが果たし得る潜在的な役割について考察する。これらの生物における複雑な酸化還元制御機構を理解することは、持続可能なエネルギーおよび環境管理にとってより広範な意義を持つ。"
+  },
+  {
+    "id": "10.1093/bioinformatics/btag849",
+    "title": "Met4All: a dockerised Shiny application for DNA methylation array analysis, visualization and reporting",
+    "abstract": "AbstractMotivationDNA methylation profiling is widely used for tumour classification, biomarker discovery and the identification of molecular subgroups. However, routine analysis of Infinium methylation-array data typically requires combining multiple R packages and custom scripts for preprocessing, quality control and downstream interpretation.ResultsWe developed Met4All (Methylation For All), a dockerised Shiny application for integrated analysis of Infinium HumanMethylation450K, EPIC and EPIC v2 array data. Met4All accepts both raw IDAT files and precomputed beta matrices, enabling either end-to-end preprocessing or direct downstream analysis within the same interface. It integrates automated quality control, normalisation, dimensionality reduction (MDS, PCA, UMAP), consensus heatmaps, global methylation profiling, two-group differential methylation analysis, gene-set enrichment testing and copy-number analysis. Structure discovery relies on unsupervised learning (UMAP with graph-based community detection, and consensus clustering); no supervised classification or model-based feature selection is implemented. Outputs are exportable as publication-ready plots and tables for use in downstream workflows. In a systematic comparison against nine representative tools, Met4All was the only one to make all 17 assessed criteria available within a single graphical interface, although individual criteria are supported by several of the frameworks compared. The framework has already supported published methylation studies and is illustrated here on independent public data. Met4All provides an accessible and reproducible environment for integrated methylation-array analysis without requiring extensive bioinformatics expertise.AvailabilityMet4All is implemented in R as a dockerised Shiny application. Source code, Docker configuration files and documentation are available at https://github.com/gcampof/Met4All, and the version described here is archived at Zenodo (DOI: 10.5281/zenodo.23265674).Supplementary informationSupplementary data are available at Bioinformatics online.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag849",
+    "date": "2026-11-20",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag849/9108376?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "DNA",
+        "visualization"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5505,
+    "collected_at": "2026-11-23T12:44:27.540400+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.1093/bioinformatics/btag849"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d35722a71ac49e02d8a49f748b83b54515352069f2d7933412fb9f7f2d69c7a0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:11:20.911033+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5f73422319ea3a30c9b3a5f86368875164b6c2cf0bf9cf9d86864e6a6454b7c1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:11:20.911033+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Met4All: DNAメチル化アレイ解析・可視化・レポート作成のためのDocker化されたShinyアプリケーション",
+    "abstract_ja": "要旨動機DNAメチル化プロファイリングは、腫瘍分類、バイオマーカーの探索、および分子サブグループの同定に広く用いられている。しかし、Infiniumメチル化アレイデータのルーチン解析では、通常、前処理、品質管理、および後続解析のために複数のRパッケージとカスタムスクリプトを組み合わせる必要がある。結果我々は、Infinium HumanMethylation450K、EPIC、およびEPIC v2アレイデータの統合解析を行うためのDocker化されたShinyアプリケーション「Met4All (Methylation For All)」を開発した。Met4Allは、生のIDATファイルと事前計算済みのベータ行列の両方を受け付け、同一インターフェース内でエンドツーエンドの前処理または直接的な後続解析を可能にする。本アプリケーションは、自動品質管理、正規化、次元削減（MDS, PCA, UMAP）、コンセンサスヒートマップ、グローバルメチル化プロファイリング、2群間差次的メチル化解析、遺伝子セットエンリッチメント検定、およびコピー数解析を統合している。構造探索は教師なし学習（グラフベースのコミュニティ検出およびコンセンサスクラスタリングを用いたUMAP）に基づいており、教師あり分類やモデルベースの特徴量選択は実装されていない。出力は、後続ワークフローで使用するための論文掲載可能なプロットおよびテーブルとしてエクスポートできる。代表的な9つのツールとの体系的な比較において、評価した全17項目の基準を単一のグラフィカルインターフェース内で利用可能にしていたのはMet4Allのみであったが、個々の基準については比較対象となった複数のフレームワークでサポートされていた。本フレームワークはすでに公表済みのメチル化研究をサポートしており、ここでは独立した公開データを用いて例示する。Met4Allは、広範なバイオインフォマティクスの専門知識を必要とせず、統合的なメチル化アレイ解析のための、アクセスしやすく再現性のある環境を提供する。利用可能性Met4Allは、Docker化されたShinyアプリケーションとしてRで実装されている。ソースコード、Docker設定ファイル、およびドキュメントは https://github.com/gcampof/Met4All で入手可能であり、本稿で説明したバージョンはZenodoにアーカイブされている（DOI: 10.5281/zenodo.23265674）。補足情報補足データはBioinformatics onlineで入手可能である。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.2022869",
+    "title": "Selecting cellulolytic bacteria for ruminants: from recoverable isolates to added function in the rumen",
+    "abstract": "Cellulolytic bacteria initiate an important part of plant-fibre conversion in the rumen, yet activity measured in pure culture does not establish that adding a strain will increase feed utilization by an established microbial community. This critical narrative review traces the evidence needed to move from a recoverable candidate to a useful intervention. Anaerobic cultivation resolves strain physiology; genome-guided discovery expands the candidate pool; and community studies reveal how substrate access, partner identity and competition shape realized activity. These approaches address different levels of inference and should not be treated as interchangeable measures of efficacy. We distinguish primary degraders from accessory organisms whose contribution emerges in defined combinations, and propose three evidence gates: verified conversion or attributable facilitation on the intended substrate, incremental conversion in a receiving community, and a nutritional response under relevant feeding conditions. Microbial pretreatment and live supplementation share the need for traceable preparations but require different assessments of material recovery and delivered potency. Published intervention studies show why inoculant presence, in situ fibre disappearance and animal performance must be interpreted separately. The framework is a testable decision aid, not a validated predictive score. Progress will depend on matched substrate and donor comparisons, explicit failure diagnoses and prospective evaluations that retain unsuccessful candidates.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.2022869",
+    "date": "2026-11-23",
+    "authors": "Ao Sun",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.2022869",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5508,
+    "collected_at": "2026-11-23T12:44:27.540400+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.3389/fmicb.2026.2022869"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2dfc675ebc59dadf34f190d622c4199db50dbf694a5cdd604440040aa3cfada5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:11:20.911033+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "305cd1508a510b19080c9207aba3a470fb30ca9fcb44412a1bac501095a3da01",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:11:20.911033+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "反芻動物用セルロース分解菌の選定：回収可能な分離株からルーメンにおける機能付加まで",
+    "abstract_ja": "セルロース分解菌はルーメンにおける植物繊維変換の重要な一部を担っているが、純粋培養で測定された活性からは、菌株の添加によって既存の微生物群集による飼料利用率が向上するという結論は導き出せない。本クリティカル・ナラティブ・レビューでは、回収可能な候補から有用な介入策へと移行するために必要なエビデンスを辿る。嫌気培養は菌株の生理的特性を解明し、ゲノムガイドに基づく探索は候補プールを拡大し、群集研究は基質へのアクセス、パートナーの同定、および競合が実際の活性をどのように形成するかを明らかにする。これらのアプローチは異なるレベルの推論を扱うものであり、有効性の代替可能な指標として扱うべきではない。我々は、一次分解菌と、特定の組み合わせにおいて寄与が現れる補助生物を区別し、3つのエビデンス・ゲートを提案する。すなわち、検証済みの変換または意図した基質における帰属可能な促進、受容群集における増分変換、および関連する給餌条件下での栄養応答である。微生物の前処理と生菌添加は、いずれも追跡可能な調製物を必要とするが、材料回収率と投与された効力の評価方法は異なる。既報の介入研究は、接種剤の存在、in situでの繊維消失、および動物のパフォーマンスをなぜ個別に解釈しなければならないかを示している。本フレームワークは検証可能な意思決定支援ツールであり、妥当性が確認された予測スコアではない。今後の進展は、適合した基質とドナーの比較、明示的な失敗診断、および不成功に終わった候補を保持する前向き評価にかかっている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 10",
+        "query": "(JOURNAL:\"Scientific Data\" OR JOURNAL:\"Limnology and Oceanography\" OR JOURNAL:\"Limnology and Oceanography Letters\" OR JOURNAL:\"Annual Review of Marine Science\" OR JOURNAL:\"Trends in Ecology & Evolution\" OR JOURNAL:\"iScience\" OR JOURNAL:\"Current Biology\" OR JOURNAL:\"Cell Reports\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1016/j.isci.2026.118134",
+    "title": "LKMHCpan: Transformer-optimized HLA-I pseudo-sequences enhance neoantigen prediction for immunotherapy.",
+    "abstract": "Accurate peptide-HLA class I binding prediction is fundamental for identifying tumor neoantigens and advancing personalized immunotherapy. We present LKMHCpan, a pan-specific predictor that leverages transformer networks to optimize HLA-I pseudo-sequences representation through attention-guided integration of 88 key residues primarily within the α1, α2, and α3 domains. LKMHCpan achieves a mean precision-recall area under the curve (PR-AUC) of 0.93, generalizes robustly to untrained HLA-I alleles, and supports peptides longer than 11 amino acids. In Tumor Neoantigen Selection Alliance (TESLA) data, LKMHCpan identified 94% of immunogenic neoantigens with strong score-immunogenicity correlation. Neoantigen burden from LKMHCpan significantly stratified clinical outcomes in two immunotherapy-treated cohorts: metastatic melanoma (n = 73) and lung cancer (n = 309), with high-burden patients exhibiting clinical benefit. Its ability to resolve binding motifs for untrained alleles and single-amino-acid HLA-I mutants highlights its potential for elucidating complex peptide-major histocompatibility complex (MHC) interactions. LKMHCpan provides a scalable framework for neoantigen discovery and prognostic assessment in precision immunotherapy.",
+    "journal": "iScience",
+    "doi": "10.1016/j.isci.2026.118134",
+    "date": "2026-11-05",
+    "authors": "Li Q, Liu S, Yao M, Chen H, Yu Y, Zhang B, Jia M, Chen L.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43034688",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13769066",
+    "pmid": "43034688",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "prediction",
+        "predictor",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "prediction",
+          "predictor",
+          "sequence"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5498,
+    "collected_at": "2026-11-23T12:33:52.871848+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "Europe PMC journals 10"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.1016/j.isci.2026.118134"
+    ],
+    "translation": {
+      "title": {
+        "hash": "41b90aa35c918131a44b5089dc02f0f178ec913dfa9f912746d4469491ca54bf",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:11:20.911033+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ad9ace42aa75c5e962fc64003ec380552d50fc97b928eda43e569e257f2a904d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:11:20.911033+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "LKMHCpan: Transformer最適化されたHLA-I擬似配列は、免疫療法におけるネオアンチゲン予測を向上させる。",
+    "abstract_ja": "ペプチドとHLAクラスIの正確な結合予測は、腫瘍ネオ抗原の同定および個別化免疫療法の進展において不可欠である。本研究では、Transformerネットワークを活用し、主にα1、α2、およびα3ドメイン内の88個の主要残基をアテンション誘導型に統合することでHLA-I擬似配列の表現を最適化する汎特異的予測器LKMHCpanを提案する。LKMHCpanは平均適合率・再現率曲線下面積（PR-AUC）0.93を達成し、未学習のHLA-Iアレルに対しても頑健に汎化し、11アミノ酸を超えるペプチドにも対応する。Tumor Neoantigen Selection Alliance（TESLA）のデータにおいて、LKMHCpanはスコアと免疫原性に強い相関を示す免疫原性ネオ抗原の94%を同定した。LKMHCpanによるネオ抗原負荷量は、免疫療法治療群の2つのコホート（転移性メラノーマ n = 73および肺癌 n = 309）において臨床転帰を有意に層別化し、高負荷患者では臨床的有益性が認められた。未学習のアレルや単一アミノ酸のHLA-I変異体に対する結合モチーフを解明できる能力は、複雑なペプチドと主要組織適合性複合体（MHC）相互作用を解明する可能性を示唆している。LKMHCpanは、精密免疫療法におけるネオ抗原の探索および予後評価のためのスケーラブルなフレームワークを提供する。"
   }
 ]
