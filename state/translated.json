@@ -323344,5 +323344,295 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "CellColocDB：GWAS遺伝子座を遺伝子、細胞コンテキスト、およびファインマッピングのエビデンスに紐付ける疾患中心のリソース",
     "abstract_ja": "抄録ゲノムワイド関連解析（GWAS）により疾患関連遺伝子座が同定されてきたが、連鎖不平衡やコンテキスト依存的な遺伝制御のため、これらのシグナルを分子メカニズムに結びつけることは依然として困難である。CellColocDBは、バルク、ソート済み細胞、およびシングルセルのQTLデータセットにわたるGWAS-QTL共局在解析を統合した、疾患およびウィンドウ中心のリソースである。現在のリリースには、1,201の疾患および形質をカバーする2,805のGWASデータセットと40,516のGWASウィンドウに加え、23のQTLソース、316のQTLコンテキスト、および89,842の分子特徴が含まれている。CellColocDBには、PP.H4 > 0.5を満たす3,572,118件のcoloc.abf結果が含まれており、そのうち1,609,418件はPP.H4 ≥ 0.8である。解析はGWASデータセット × GWASウィンドウ × QTLコンテキスト × 分子特徴のタスクとして構成されており、同一のGWAS領域内でコンテキストと分子特徴を比較することが可能である。coloc.abfが主要な共局在解析であり、利用可能な場合にはcoloc-SuSiEおよびSMR/HEIDIが補完的なエビデンスを提供する。タスク別のABFトップSNPは、7つの手法によるCAUSALdb2ファインマッピング結果に紐付けられている。結果は、疾患、QTLコンテキスト、遺伝子、および遺伝子座レベルのビューで利用可能であり、領域別関連トラックとマッチドバリアントを備え、遺伝子、ゲノム領域、またはGWASウィンドウIDによるクエリが可能である。CellColocDBは、http://www.mulinlab.org/colocdb/ で無料で公開されている。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1945493",
+    "title": "Rapid characterization of the impact of plasmid dependent phages on plasmid carriage and transfer in bacterial populations",
+    "abstract": "DNA transfer by conjugative plasmids is one of the most important mechanisms of horizontal gene transfer in bacteria and therefore of utmost significance for bacterial evolution. In addition to that, bacterial conjugation is also accelerating the spread of plasmid-encoded antimicrobial resistance (AMR) genes within and across species borders, which imposes a serious threat to human and veterinary health. Plasmid-dependent phages (PDPs) specifically target plasmid-harboring bacteria and are thereby reducing the plasmid prevalence within bacterial communities and the transfer of plasmids into new hosts. The application of PDPs is therefore a promising approach to combat the spread of plasmid-encoded AMR and effective methods to isolate and phenotypically characterize these phages are urgently needed. Here, we present a simple approach to rapidly identify and characterize PDPs with respect to their impact on plasmid carriage and transfer by utilizing fluorescently labeled plasmid derivatives and recipient Escherichia coli strains. We show that analysis of conjugation rates by flow cytometry is not only comparable to standard colony-forming unit counts and appears to display higher sensitivity, which is especially important when addressing the effect of PDPs on plasmids with low conjugation rates. In addition to that, we show that our set of test strains is suitable to investigate the distribution of conjugative plasmids in bacterial populations containing several potential recipients and donors in liquid and solid medium mating experiments. The latter analysis revealed that in contrast to what was recently shown for non-plasmid-specific lytic phages PDPs reduce the transmission in biofilms as well. Thus, the application of PDPs should be also safe with respect to the treatment of biofilms, which can be reservoirs for plasmid-harboring bacteria in the environment, e.g., in waste water processing plants.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1945493",
+    "date": "2026-11-23",
+    "authors": "Michael Berger",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1945493",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "bacteria",
+        "bacterial",
+        "phage",
+        "phages"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5515,
+    "collected_at": "2026-11-23T12:44:27.540400+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.3389/fmicb.2026.1945493"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f2bce01bf849a50887817389d3622b482ea9dd96eaad1606f57fba6f9e7a63ac",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:30:20.457064+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "92b079afcd955e1f90a8751299e36c5499876efb84a354679e660f7a4506e0d1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:30:20.457064+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "細菌集団におけるプラスミド依存性ファージがプラスミドの保有および転移に及ぼす影響の迅速特性解析",
+    "abstract_ja": "接合性プラスミドによるDNA転移は、細菌における水平遺伝子伝達の最も重要なメカニズムの一つであり、したがって細菌の進化において極めて重要である。加えて、細菌の接合は、プラスミド媒介性薬剤耐性（AMR）遺伝子の種内および種間における拡散を加速させており、これはヒトおよび動物の健康に深刻な脅威をもたらしている。プラスミド依存性ファージ（PDP）は、プラスミド保有細菌を特異的に標的とし、それによって細菌群集内におけるプラスミドの蔓延や、新たな宿主へのプラスミド転移を減少させている。したがって、PDPの応用はプラスミド媒介性AMRの拡散に対抗するための有望なアプローチであり、これらのファージを単離し、その表現型特性を明らかにするための効果的な手法が急務となっている。本報では、蛍光標識プラスミド誘導体および受容体である大腸菌（Escherichia coli）株を用いて、プラスミドの保有および転移への影響に関してPDPを迅速に同定・特性解析する簡便な手法を提示する。フローサイトメトリーによる接合率の解析は、標準的なコロニー形成単位数（CFU）カウントと同等であるだけでなく、より高い感度を示すことが明らかとなり、これは特に接合率の低いプラスミドに対するPDPの影響を検討する際に重要である。さらに、我々の試験株セットが、液体および固体培地を用いた交配実験において、複数の潜在的な受容体および供与体を含む細菌集団における接合性プラスミドの分布を調査するのに適していることを示す。後者の解析により、非プラスミド特異的な溶菌性ファージについて最近示された結果とは対照的に、PDPはバイオフィルムにおける伝播も減少させることが明らかになった。したがって、PDPの応用は、例えば廃水処理施設など、環境中でプラスミド保有細菌のリザーバーとなり得るバイオフィルムの処理においても安全であると考えられる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.04232-25",
+    "title": "Impact of different clarithromycin resistance in <i>Mycobacterium abscessus</i> lung disease: a multicenter cohort study.",
+    "abstract": "Macrolides remained cornerstone of Mycobacterium abscessus treatment, but emerging resistance patterns compromised therapeutic efficacies. Clarithromycin resistance can manifest as either mutational or inducible, while the clinical impacts of different resistance mechanisms in M. abscessus pulmonary disease (MAB-PD) had been poorly characterized. We conducted a multicenter retrospective cohort study from 2011 to 2023 across four tertiary centers in Taiwan. Adults with clarithromycin-resistant MAB-PD were included and stratified by resistance type: mutational vs inducible. Outcomes included all-cause 3-year mortality, microbiological clearance, and radiographic progression. Among 108 enrolled patients, 16 (14.7%) had mutational resistance and the remaining 92 had inducible type. Isolates comprised 103 M. abscessus, three M. massiliense, and two M. bolletii. Mutational resistance was associated with significantly higher 3-year mortality (18.8% vs 4.3%, P = 0.03) and lower acid-fast smear conversion rates in treated patients (18.2% vs 67.6%, P = 0.004). Multivariable analysis identified mutational clarithromycin resistance as an independent predictor of mortality (adjusted hazard ratio 5.21, 95% confidence interval 1.10-24.6, P = 0.04). Strains with mutational resistance demonstrated higher median minimal inhibitory concentrations to linezolid (24 vs 16 mg/L), cefoxitin (64 vs 32 mg/L), and amikacin (16 vs 8 mg/L). Mutational clarithromycin resistance in MAB-PD is associated with substantially worse clinical outcomes compared to inducible resistance, including higher mortality and poorer treatment responses. These findings suggested that more intensive treatment strategies might be needed for mutational clarithromycin resistance in MAB-PD.ImportanceMacrolide resistance critically undermines treatment outcomes in Mycobacterium abscessus lung disease, yet the prognostic impact of distinct resistance mechanisms has remained unclear. This multicenter study demonstrates that mutational clarithromycin resistance, although less common than inducible resistance, is associated with markedly higher mortality, poorer microbiological response, and broader multidrug resistance. These findings provide clinically actionable evidence that not all macrolide resistance is equivalent. Recognizing mutational resistance as a high-risk phenotype has important implications for risk stratification, prognostication, and treatment intensification, supporting a more personalized approach to managing MAB-LD in routine clinical practice.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.04232-25",
+    "date": "2026-10-21",
+    "authors": "Kao T-W, Pan S-W, Liu C-J, Wang P-H, Huang H-N, Huang Y-T, Shu C-C.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42904666",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42904666",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbiological"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5475,
+    "collected_at": "2026-11-23T12:33:52.871848+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.1128/spectrum.04232-25"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3f45f6faec381a196c145bb3bf13ee8c499e7538e6bdf1e0be1c2a050ef30322",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:30:20.457064+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "40e8033e6ae8c8ebdb0ecf8501c8c0b84f0ca844dd922a50829f4c158e82e8f8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:30:20.457064+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "<i>Mycobacterium abscessus</i>肺疾患における各種クラリスロマイシン耐性の影響：多施設共同コホート研究",
+    "abstract_ja": "マクロライド系薬剤はMycobacterium abscessus治療の主軸であり続けてきたが、新たな耐性パターンの出現により治療効果が損なわれている。クラリスロマイシン耐性は変異型または誘導型のいずれかとして現れるが、M. abscessus肺疾患（MAB-PD）における異なる耐性機序の臨床的影響については十分に解明されていなかった。本研究では、2011年から2023年にかけて、台湾の4つの三次医療機関を対象に多施設共同後方視的コホート研究を実施した。クラリスロマイシン耐性を有する成人のMAB-PD患者を対象とし、耐性タイプ（変異型 vs 誘導型）で層別化した。アウトカムには、全死因3年死亡率、微生物学的クリアランス、および放射線学的進行とした。登録患者108例のうち、16例（14.7%）が変異型耐性であり、残りの92例が誘導型であった。分離株は、M. abscessus 103株、M. massiliense 3株、M. bolletii 2株であった。変異型耐性は、治療患者における3年死亡率の有意な上昇（18.8% vs 4.3%, P = 0.03）および酸速塗抹標本転換率の低下（18.2% vs 67.6%, P = 0.004）と関連していた。多変数解析により、変異型クラリスロマイシン耐性が死亡の独立した予測因子であることが示された（調整ハザード比 5.21、95%信頼区間 1.10-24.6, P = 0.04）。変異型耐性株では、リネゾリド（24 vs 16 mg/L）、セフォキシチン（64 vs 32 mg/L）、およびアミカシン（16 vs 8 mg/L）に対する最小発育阻止濃度の中央値がより高かった。MAB-PDにおける変異型クラリスロマイシン耐性は、誘導型耐性と比較して、死亡率の上昇や治療反応性の低下など、臨床的転帰が著しく不良である。これらの知見は、MAB-PDにおける変異型クラリスロマイシン耐性に対して、より強力な治療戦略が必要となる可能性を示唆している。重要性マクロライド系薬剤耐性は、Mycobacterium abscessus肺疾患の治療成績を著しく損なうが、異なる耐性機序による予後への影響は不明なままであった。本多施設共同研究は、変異型クラリスロマイシン耐性が誘導型耐性よりも頻度は低いものの、死亡率の著しい上昇、微生物学的反応性の低下、およびより広範な多剤耐性と関連していることを示した。これらの知見は、すべてのマクロライド系薬剤耐性が同等ではないことを示す、臨床的に実用的なエビデンスを提供するものである。変異型耐性を高リスク表現型として認識することは、リスク層別化、予後判定、および治療強化において重要な意味を持ち、日常診療におけるMAB-LD管理へのより個別化されたアプローチを支持するものである。"
+  },
+  {
+    "id": "10.1093/nar/gkag1226",
+    "title": "PhageScope 2.0: a million-scale resource for integrated exploration of phage genomic, functional, and structural diversity",
+    "abstract": "AbstractUnderstanding phage diversity is essential for studying microbial ecosystems and developing phage-based applications. However, existing phage databases lack systematic integration of protein family and structural information. Here, we present PhageScope 2.0 (https://phagescope.deepomics.org), a database and analysis platform for exploring phage genomic, functional, and structural diversity. The update incorporates 12 environmental and metagenomic data sources, expanding the collection to 2 576 925 phage sequences, with 12 610 425 protein families and structures for 58 314 540 proteins. The platform supports family-based exploration of functional annotations and genomic neighbourhoods, structure visualization, structure search with Foldseek, and sequence-based structure-similarity prediction with TM-Vec. New and updated tools further support phage recovery from sequencing reads and cross-checking of host, lifestyle, and taxonomic predictions against existing annotations. Together, these updates enable integrated exploration of phage diversity and guide functional studies of poorly characterized proteins.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1226",
+    "date": "2026-11-23",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1226/9111113?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "database",
+        "genomic",
+        "metagenom",
+        "metagenomic",
+        "microbial",
+        "phage",
+        "resource"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "genom",
+          "genomic",
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5500,
+    "collected_at": "2026-11-23T12:44:27.540400+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.1093/nar/gkag1226"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ed04bfe545ff8f57136410cad6e555e793100a0c03a7d42c683373dfc2021ee2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:30:20.457064+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "577776ffc55c17f6322685b60fc701455055aff44712dea41ccf96e441433644",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:30:20.457064+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "PhageScope 2.0：ファージのゲノム・機能・構造的多様性を統合的に探索するための100万規模のリソース",
+    "abstract_ja": "要旨 ファージの多様性を理解することは、微生物生態系の研究やファージを利用した応用技術の開発において不可欠である。しかし、既存のファージデータベースでは、タンパク質ファミリーおよび構造情報の体系的な統合がなされていない。本報では、ファージのゲノム、機能、および構造の多様性を探索するためのデータベースおよび解析プラットフォームであるPhageScope 2.0（https://phagescope.deepomics.org）を提案する。今回のアップデートでは、12の環境およびメタゲノムデータソースが組み込まれ、コレクションは2,576,925件のファージ配列に拡大し、58,314,540個のタンパク質に対して12,610,425件のタンパク質ファミリーおよび構造が網羅された。本プラットフォームは、ファミリーに基づく機能アノテーションおよびゲノム近傍の探索、構造の可視化、Foldseekによる構造検索、およびTM-Vecによる配列に基づく構造類似性予測をサポートしている。新たに導入または更新されたツールにより、シーケンシングリードからのファージの復元や、宿主、生活様式、および分類学的予測と既存のアノテーションとのクロスチェックがさらに可能となった。これらのアップデートを総合することで、ファージの多様性の統合的な探索が可能となり、特性解析が不十分なタンパク質の機能研究が促進される。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1989361",
+    "title": "Advances in biocontrol and restoration technologies for stone cultural heritage: a bibliometric and qualitative review based on Web of Science",
+    "abstract": "Stone cultural heritage, an important carrier of human history and civilization, is subject to continuous deterioration driven by natural and anthropogenic factors. Although traditional chemical conservation methods can provide short-term efficacy, they are associated with environmental risks, poor compatibility, irreversibility, and secondary damage, and thus fail to meet the principles of minimum intervention and sustainability. Based on 2,838 publications retrieved from the Web of Science Core Collection on March 28, 2026, covering the period 2006 to March 2026, this review combines a CiteSpace-based bibliometric analysis with a systematic literature review to examine research progress in biocontrol and green restoration technologies. Based on 2,838 publications retrieved from the Web of Science Core Collection on March 28, 2026, covering the period 2006 to March 2026, this review combines a CiteSpace-based bibliometric analysis with a targeted qualitative literature review to examine research progress in biocontrol and green restoration technologies. It summarizes the major types and mechanisms of biodeterioration affecting stone cultural heritage, outlines the current status of biomonitoring and microbial identification techniques, and critically evaluates recent advances and practical applications in three key areas: biocleaning and preventive strategies, biomineralization technologies and multi-criteria evaluated microbial biostatic inhibitors for stone heritage conservation. Over the past two decades, substantial progress has been achieved in understanding biodeterioration mechanisms, monitoring and identification techniques, biocleaning processes, biomineralization technologies, and green inhibitory materials, gradually forming an emerging framework for sustainable conservation strategies. However, significant challenges remain in bridging laboratory research and field applications, extending short term validation to long term performance stability, and transitioning from single technique approaches to integrated, system level conservation strategies. Future development directions for sustainable conservation technologies are also discussed. This review aims to provide a comprehensive reference for theoretical research and engineering practice in the biocontrol and green restoration of stone cultural heritage.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1989361",
+    "date": "2026-11-23",
+    "authors": "Zhongzhen Wang",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1989361",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5516,
+    "collected_at": "2026-11-23T12:44:27.540400+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.3389/fmicb.2026.1989361"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f2fdd032234c03ffbaf367a1d9c3d0e5ab5b7d923e829f22b1e039b393361a23",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:30:20.457064+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e2083d8df61e214a8ee889ad2b11db3516bcb1c8e5a46df5d0debc9c6f64f58a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:30:20.457064+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "石造文化遺産の生物的防除および修復技術の進展：Web of Scienceに基づくビブリオメトリクスおよび質的レビュー",
+    "abstract_ja": "人類の歴史と文明の重要な担い手である石造文化遺産は、自然的要因および人為的要因による継続的な劣化にさらされている。従来の化学的保存処理法は短期的な効果をもたらすものの、環境リスク、適合性の低さ、不可逆性、および二次的損傷を伴うため、最小介入と持続可能性の原則を満たしていない。本総説では、2026年3月28日にWeb of Science Core Collectionから検索した、2006年から2026年3月までの期間をカバーする2,838報の文献に基づき、CiteSpaceを用いたビブリオメトリクス分析と系統的文献レビューを組み合わせて、バイオコントロールおよびグリーン修復技術の研究進展を検証する。2026年3月28日にWeb of Science Core Collectionから検索した、2006年から2026年3月までの期間をカバーする2,838報の文献に基づき、本総説では、CiteSpaceを用いたビブリオメトリクス分析と重点的な定性的文献レビューを組み合わせて、バイオコントロールおよびグリーン修復技術の研究進展を検証する。本稿では、石造文化遺産に影響を及ぼす生物劣化の主要な類型とメカニズムをまとめ、バイオモニタリングおよび微生物同定技術の現状を概説するとともに、バイオクリーニングおよび予防戦略、生物鉱物化技術、ならびに石造文化遺産保存のための多基準評価済み微生物バイオスタティック阻害剤という3つの主要領域における最近の進展と実用的応用について批判的に評価する。過去20年間にわたり、生物劣化メカニズム、モニタリングおよび同定技術、バイオクリーニングプロセス、生物鉱物化技術、およびグリーン阻害材料の理解において多大な進展があり、持続可能な保存戦略のための新たな枠組みが徐々に形成されつつある。しかし、研究室での研究と現場への応用の橋渡し、短期的な検証から長期的な性能安定性への拡張、および単一技術アプローチから統合的なシステムレベルの保存戦略への移行には、依然として大きな課題が残っている。持続可能な保存技術の今後の発展方向についても考察する。本総説は、石造文化遺産のバイオコントロールおよびグリーン修復における理論研究と工学的実践のための包括的なリファレンスを提供することを目的とする。"
   }
 ]
