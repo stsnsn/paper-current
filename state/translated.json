@@ -321902,5 +321902,296 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "LKMHCpan: Transformer最適化されたHLA-I擬似配列は、免疫療法におけるネオアンチゲン予測を向上させる。",
     "abstract_ja": "ペプチドとHLAクラスIの正確な結合予測は、腫瘍ネオ抗原の同定および個別化免疫療法の進展において不可欠である。本研究では、Transformerネットワークを活用し、主にα1、α2、およびα3ドメイン内の88個の主要残基をアテンション誘導型に統合することでHLA-I擬似配列の表現を最適化する汎特異的予測器LKMHCpanを提案する。LKMHCpanは平均適合率・再現率曲線下面積（PR-AUC）0.93を達成し、未学習のHLA-Iアレルに対しても頑健に汎化し、11アミノ酸を超えるペプチドにも対応する。Tumor Neoantigen Selection Alliance（TESLA）のデータにおいて、LKMHCpanはスコアと免疫原性に強い相関を示す免疫原性ネオ抗原の94%を同定した。LKMHCpanによるネオ抗原負荷量は、免疫療法治療群の2つのコホート（転移性メラノーマ n = 73および肺癌 n = 309）において臨床転帰を有意に層別化し、高負荷患者では臨床的有益性が認められた。未学習のアレルや単一アミノ酸のHLA-I変異体に対する結合モチーフを解明できる能力は、複雑なペプチドと主要組織適合性複合体（MHC）相互作用を解明する可能性を示唆している。LKMHCpanは、精密免疫療法におけるネオ抗原の探索および予後評価のためのスケーラブルなフレームワークを提供する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/aem.01749-26",
+    "title": "Cultivation of halophilic archaea in shallow subsurface Martian conditions has implications for extant life on Mars.",
+    "abstract": "The present-day Martian surface is generally considered inhospitable to life because of low atmospheric pressure, intense surface radiation, global desiccation, and oxidizing chemistry, which has been increasing since the late Noachian. However, shallow Martian subsurface regions where mineralogy has shown groundwater movement may include localized hypersaline environments capable of retaining liquid water and supporting microbial metabolism. Haloferax volcanii, a model halophilic archaeon, has previously been shown to survive under low-pressure Martian conditions (24 mbar) and to grow anaerobically supported by the Mars-relevant oxyanions nitrate and perchlorate under high-salinity conditions. Here, we investigated whether H. volcanii could actively grow under a combination of environmental and chemical conditions relevant to potentially habitable shallow subsurface Martian lacustrine settings. Cultures were incubated for 160 days under anoxic, CO₂-enriched, low-pressure conditions (24 mbar) in hypersaline liquid media supplemented with nitrate or perchlorate. Growth was observed in all low-pressure treatments and was confirmed by increases in optical density and biological reduction of nitrate and perchlorate. Scanning electron microscopy revealed extensive biofilm formation in low-pressure cultures, and Raman spectroscopy demonstrated the persistence of carotenoid biosignatures after prolonged incubation under Martian conditions. Liquid loss remained below 4% across all treatments, indicating long-term stability of hypersaline brines throughout the experiment. These results demonstrate for the first time that a halophilic archaeon is capable of active growth and metabolism under a Mars-relevant combination of low pressure, high salinity, anoxia, and oxidizing chemistry, providing experimental support for the potential habitability of localized shallow subsurface Martian environments.IMPORTANCEThe search for cellular life is a major objective of future Mars exploration. While many studies have examined whether microorganisms can survive under Martian conditions, far fewer have demonstrated active growth and metabolism. Here, we document Haloferax volcanii as the first halophilic archaeon capable of active growth under a defined combination of Mars-relevant low atmospheric pressure, high salinity, anoxia, and oxidizing chemical conditions. These findings expand the current understanding of the environmental limits of microbial growth and provide experimental evidence that localized brine environments in the shallow Martian subsurface could support active microbial metabolism if suitable organics and liquid water are present. These results are also relevant to planetary protection efforts, as they help constrain the potential for terrestrial halophilic microorganisms introduced during robotic or human exploration to persist and remain metabolically active in Martian environments. Furthermore, this study establishes a practical framework for cultivating halophilic microorganisms under low-pressure Martian conditions and may help guide future efforts to detect, cultivate, and characterize potential extant life on Mars.",
+    "journal": "Applied and Environmental Microbiology",
+    "doi": "10.1128/aem.01749-26",
+    "date": "2026-11-05",
+    "authors": "Robinson A, McQuaig-Ulrich S, Dondero T, Celestian A, Perl SM.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42986094",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42986094",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "archaea",
+        "archaeon",
+        "microbial",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5493,
+    "collected_at": "2026-11-23T12:33:52.871848+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.1128/aem.01749-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "806f59b77eb375bf5585213524186e23de9243505bf2809e57bd28cb49a114ea",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:14:00.095823+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8aac8f990615879ae0bae904dc8a3f48df10e29ee15dcefcefdbd6312d8daec3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:14:00.095823+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "火星の浅層地下環境における好塩性古細菌の培養は、火星に現存する生命に示唆を与えるものである。",
+    "abstract_ja": "現在の火星表面は、低大気圧、強烈な地表放射、全球的な乾燥化、およびノアキス代後期以降に増大している酸化性化学反応により、一般に生命にとって生存に適さないと考えられている。しかし、鉱物学的に地下水の移動が示されている火星の浅い地下領域には、液体水を保持し、微生物の代謝を支えうる局所的な高塩環境が存在する可能性がある。好塩性古細菌のモデル種であるHaloferax volcaniiは、これまでに、低圧の火星条件（24 mbar）下で生存し、高塩分条件下で火星に関連するオキソアニオンである硝酸塩および過塩素酸塩に支えられて嫌気的に増殖することが示されている。本研究では、潜在的に居住可能な火星の浅い地下湖沼環境に関連する環境的・化学的条件の組み合わせの下で、H. volcaniiが能動的に増殖し得るかを検討した。培養物は、硝酸塩または過塩素酸塩を添加した高塩液体培地を用い、無酸素かつCO₂富化の低圧条件（24 mbar）下で160日間インキュベートした。すべての低圧処理において増殖が観察され、光学密度の増加および硝酸塩と過塩素酸塩の生物学的還元によって確認された。走査型電子顕微鏡観察により、低圧培養物において広範なバイオフィルム形成が認められ、ラマン分光法により、火星条件下での長期インキュベーション後もカロテノイドのバイオシグネチャーが持続することが示された。液体の損失はすべての処理において4%未満に留まり、実験期間を通じて高塩塩水の長期安定性が示された。これらの結果は、好塩性古細菌が、火星に関連する低圧、高塩分、無酸素、および酸化性化学反応の組み合わせの下で能動的な増殖と代謝が可能であることを初めて実証するものであり、火星の局所的な浅い地下環境が潜在的に居住可能であるという実験的根拠を提供するものである。重要性 細胞性生命の探索は、将来の火星探査における主要な目的である。微生物が火星条件下で生存可能かどうかを検証した研究は数多く存在するが、能動的な増殖と代謝を実証した研究は極めて少ない。本研究では、火星に関連する低大気圧、高塩分、無酸素、および酸化性化学条件の明確な組み合わせの下で能動的に増殖可能な初の好塩性古細菌として、Haloferax volcaniiを報告する。これらの知見は、微生物増殖の環境的限界に関する現在の理解を広げるものであり、適切な有機物と液体水が存在すれば、火星の浅い地下にある局所的な塩水環境が能動的な微生物代謝を支えうるという実験的証拠を提供する。また、これらの結果は、ロボット探査や有人探査によって導入された地球上の好塩性微生物が、火星環境で生存し、代謝活性を維持できる可能性を制約するのに役立つため、惑星保護活動にとっても重要である。さらに、本研究は低圧の火星条件下で好塩性微生物を培養するための実用的な枠組みを確立するものであり、火星に存在する可能性のある生命の検出、培養、および特性評価に向けた今後の取り組みの指針となる可能性がある。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.2022598",
+    "title": "Multi-omics and biochemical analyses reveal nonlinear growth and redox responses of Morchella sextelata mycelia to potassium carbonate",
+    "abstract": "Mineral nutrient availability influences substrate colonization and biomass accumulation by morel mycelia, but the dose-dependent effects of exogenous K₂CO₃ on mycelial growth and the associated molecular responses remain poorly understood. In this study, Morchella sextelata mycelia were exposed to low, medium, and high doses of K₂CO₃, together with an untreated control. Mycelial radial growth and biomass accumulation were assessed together with transcriptomic, proteomic, and targeted biochemical analyses. Both low- and medium-dose treatments promoted mycelial growth. Relative to the control, the medium-dose treatment increased mycelial growth rate and dry weight by 43.6% and 23.2%, respectively, whereas the high-dose treatment reduced these parameters by 23.9% and 70.4%, respectively, demonstrating a pronounced nonlinear dose response to K₂CO₃. Under the respective screening criteria, HK yielded the largest DEG and candidate DEP sets, with changes involving substrate transport, membrane lipid metabolism, peroxisomal processes, and glutathione metabolism. Weighted gene co-expression network analysis (WGCNA) identified a gene module that was significantly and positively correlated with both mycelial growth rate and dry weight and was primarily associated with carbohydrate metabolism, the cell cycle, and intracellular turnover processes. Integrative transcriptomic and proteomic analysis further associated the treatment responses with pentose and glucuronate interconversions, the pentose phosphate pathway, nucleotide precursor formation, and ribosome-related processes. Under the high-dose treatment, the responses of several carbon metabolic nodes and ribosome-related components did not parallel the observed changes in mycelial growth. Biochemical assays showed that the NADPH/NADP+ ratio was highest and ROS-associated DCF fluorescence and MDA content were lowest under the medium-dose treatment, whereas the high-dose treatment showed the opposite pattern despite having the highest G6PDH activity. These findings characterize concentration-dependent responses of morel vegetative mycelia to K₂CO₃ and identify candidate molecular processes for further investigation under controlled culture conditions.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.2022598",
+    "date": "2026-11-23",
+    "authors": "Hui Chen",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.2022598",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5509,
+    "collected_at": "2026-11-23T12:44:27.540400+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.3389/fmicb.2026.2022598"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6e7adc024fd9f2f110884b274d330cc4347976d27e6a956071e3344615318a4b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:14:00.095823+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "79465ac16938a07ae4159df10ffebe82fc081e510d066234bb1f2c3a94fa3fff",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:14:00.095823+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "マルチオミクスおよび生化学的解析により、Morchella sextelataの菌糸における炭酸カリウムに対する非線形増殖と酸化還元応答が明らかになった。",
+    "abstract_ja": "ミネラル栄養素の利用可能性は、アミガサタケ菌糸体による基質定着およびバイオマス蓄積に影響を及ぼすが、外因性K₂CO₃が菌糸成長に及ぼす用量依存的な影響およびそれに伴う分子応答については、依然として十分に解明されていない。本研究では、Morchella sextelataの菌糸体を、低・中・高用量のK₂CO₃および未処理対照群に曝露した。菌糸体の放射状成長およびバイオマス蓄積を、トランスクリプトーム解析、プロテオーム解析、および標的生化学的解析と併せて評価した。低用量および中用量の両処理ともに、菌糸体の成長を促進した。対照群と比較して、中用量処理では菌糸体の成長率および乾物重量がそれぞれ43.6%および23.2%増加した一方、高用量処理ではこれらのパラメータがそれぞれ23.9%および70.4%減少し、K₂CO₃に対する顕著な非線形用量応答が示された。それぞれのスクリーニング基準において、HKは最大のDEGおよび候補DEPセットを有しており、その変化は基質輸送、膜脂質代謝、ペルオキシソームプロセス、およびグルタチオン代謝に関与していた。重み付き遺伝子共発現ネットワーク解析（WGCNA）により、菌糸体の成長率および乾物重量の両方と有意かつ正の相関を示し、主に炭水化物代謝、細胞周期、および細胞内ターンオーバープロセスに関連する遺伝子モジュールが同定された。統合的なトランスクリプトームおよびプロテオーム解析により、処理応答がペントースとグルクロネートの相互変換、ペントースリン酸経路、ヌクレオチド前駆体形成、およびリボソーム関連プロセスに関連していることがさらに明らかになった。高用量処理下では、いくつかの炭素代謝ノードおよびリボソーム関連成分の応答が、観察された菌糸体成長の変化と一致しなかった。生化学的アッセイの結果、中用量処理下ではNADPH/NADP+比が最大となり、ROS関連のDCF蛍光およびMDA含有量が最小となった一方、高用量処理ではG6PDH活性が最大であったにもかかわらず、逆のパターンを示した。これらの知見は、アミガサタケ栄養菌糸体のK₂CO₃に対する濃度依存的応答を特徴づけるものであり、制御された培養条件下でさらなる調査を行うべき候補分子プロセスを特定するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "review-article",
+      "review",
+      "journal article"
+    ],
+    "id": "10.1128/jb.00420-26",
+    "title": "<i>Neisseria gonorrhoeae</i>: a historical model for host adaptation.",
+    "abstract": "Research into Neisseria gonorrhoeae (Gc) physiology, genetics, and pathogenicity remains deeply shaped by its history. Long before molecular tools were available, early clinical observations, human inoculation studies, and initial vaccine trials defined the field's primary experimental questions and limitations. Key features of gonococcal infection, including restriction to the human host, rapid phenotypic alteration during culture, and the absence of durable protective immunity, were documented empirically decades before researchers understood their underlying biological mechanisms. As a result, contemporary gonococcal research has largely developed in response to these early empirical findings. Modern genomic and molecular studies have provided mechanistic explanations for long-standing clinical observations, turning historical paradoxes into defined areas of investigation. From designing vaccines that target variable surface structures to surveilling horizontally acquired resistance determinants, the questions driving current research directly continue the experimental challenges investigators identified.",
+    "journal": "Journal of Bacteriology",
+    "doi": "10.1128/jb.00420-26",
+    "date": "2026-10-29",
+    "authors": "Metaane S, Seifert HS.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42954803",
+    "preprint": false,
+    "review": true,
+    "pmcid": "PMC13784192",
+    "pmid": "42954803",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5462,
+    "collected_at": "2026-11-23T12:33:52.871848+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.1128/jb.00420-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a12526da22bb25a4a495c3af5b1a930dd54ed01b968372bc769f3a057d7ee1ce",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:14:00.095823+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d910742bce52fd44107b44baa11b01f927fb1b3fc109898e26d3110bd1476013",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:14:00.095823+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "<i>Neisseria gonorrhoeae</i>：宿主適応の歴史的モデル",
+    "abstract_ja": "淋菌（Gc）の生理学、遺伝学、および病原性に関する研究は、その歴史に深く規定されてきた。分子生物学的手法が利用可能になるはるか以前から、初期の臨床観察、ヒト接種試験、および初期のワクチン治験が、この分野における主要な実験的課題と限界を決定づけていた。ヒト宿主への特異性、培養中の急速な表現型変化、および持続的な防御免疫の欠如といった淋菌感染の主要な特徴は、研究者がその根底にある生物学的メカニズムを解明する数十年も前に、実証的に記録されていた。その結果、現代の淋菌研究は、主にこれらの初期の実証的知見を受けて発展してきた。現代のゲノムおよび分子生物学的研究は、長年の臨床観察に対する機序的な説明を提示し、歴史的なパラドックスを明確な研究領域へと転換させた。多様な表面構造を標的とするワクチンの設計から、水平伝播した耐性決定因子の監視に至るまで、現在の研究を牽引する問いは、研究者が特定した実験的課題を直接的に継承している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1128/jvi.00902-26",
+    "title": "Infection-specific long-chain fatty acid metabolism as a broad anti-enterovirus target.",
+    "abstract": "Enteroviruses are arguably the most numerous group of viruses infecting humans. While most enterovirus infections are benign and self-resolving, their sheer number inevitably increases the chances of multiple complications. The diversity of enteroviruses means that the development of vaccines is only economically feasible against a select few, and no direct-acting or host-targeted anti-virals are approved to treat enteroviral infections, largely due to the rapid development of resistance against all experimental drugs. Here, we explored a universal property of enterovirus infection-a massive upregulation of phospholipid synthesis as a target for anti-viral interventions. The increased phospholipid synthesis consumes endogenously and exogenously derived long-chain fatty acids (LCFA). We demonstrate that polyunsaturated LCFAs can have a broad anti-enteroviral effect, affecting multiple steps of the virus life cycle. The anti-viral activity of LCFAs did not strictly depend on the degree of unsaturation or their capacity to induce lipid peroxidation, but significantly correlated with their conformation. This suggests that their incorporation into the phospholipid molecules makes the replication organelle membranes incapable of properly accommodating viral replication machinery. Accordingly, the inhibition of neutral lipid synthesis promoted LCFAs retargeting to the membranes in infected cells and increased their anti-viral potency. We show that this approach is effective against diverse enteroviruses in different cell types, including differentiated primary cells, and that attempts to establish viruses resistant to such treatment were unsuccessful.IMPORTANCEHumans are hosts to more than 300 distinct enteroviruses. Enterovirus infections can induce multiple short-term and long-term complications, including such serious conditions as paralysis, myocarditis, aseptic meningitis, and others. Yet, licensed vaccines are available only against poliovirus and enterovirus A71, and no specific anti-enterovirus drugs are approved for clinical practice. These viruses rapidly develop resistance to either virus- or host-acting experimental compounds. We explored a shared feature of enterovirus infection, a strong upregulation of phospholipid synthesis in infected cells, as a tool to control enterovirus replication. By altering the long-chain fatty acids composition available to infected cells, replication of diverse enteroviruses can be similarly suppressed, and the selection of resistant mutants was not successful. Thus, targeting infection-induced changes in cellular lipid metabolism, rather than individual viral or host factors, may offer a promising approach for controlling enterovirus infections.",
+    "journal": "Journal of Virology",
+    "doi": "10.1128/jvi.00902-26",
+    "date": "2026-10-21",
+    "authors": "Florentin M, Loube J, Viktorova EG, Gabaglio S, Tanner E, Scull MA, Belov GA.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42904648",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13776680",
+    "pmid": "42904648",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5465,
+    "collected_at": "2026-11-23T12:33:52.871848+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.1128/jvi.00902-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c367a28490cf12ce4879fe67f5e09b6479d5ad79705d3d99d67389ad26761973",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:14:00.095823+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "726e6cb496dfc491be2c2a9c4714afb9a43b68cb7c43a099268b32dad6ea9f30",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:14:00.095823+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "広範な抗エンテロウイルス標的としての感染特異的な長鎖脂肪酸代謝",
+    "abstract_ja": "エンテロウイルスは、ヒトに感染するウイルス群の中でおそらく最も数が多い。ほとんどのエンテロウイルス感染症は良性で自然治癒するが、その数の多さゆえに、必然的に複数の合併症が発生する可能性が高まる。エンテロウイルスの多様性により、ワクチンの開発が経済的に実現可能なのはごく一部のウイルスに限られており、また、あらゆる試験薬に対する耐性が急速に獲得されるため、エンテロウイルス感染症の治療に承認された直接作用型または宿主標的型の抗ウイルス薬は存在しない。本研究では、エンテロウイルス感染の普遍的な特性、すなわち抗ウイルス介入の標的となるリン脂質合成の著しい亢進について検討した。リン脂質合成の亢進は、内因性および外因性に由来する長鎖脂肪酸（LCFA）を消費する。我々は、多価不飽和LCFAが広範な抗エンテロウイルス効果を持ち、ウイルスのライフサイクルの複数の段階に影響を及ぼすことを実証した。LCFAの抗ウイルス活性は、不飽和度や脂質過酸化を誘導する能力に厳密に依存するのではなく、その立体構造と有意に相関していた。このことは、LCFAがリン脂質分子に取り込まれることで、複製オルガネラの膜がウイルスの複製機構を適切に収容できなくなることを示唆している。したがって、中性脂質合成の阻害は、感染細胞の膜へのLCFAのリターゲティングを促進し、その抗ウイルス能を高めた。我々は、このアプローチが分化した一次細胞を含む異なる細胞種の多様なエンテロウイルスに対して有効であること、および、このような治療に耐性を持つウイルスを樹立しようとする試みは成功しなかったことを示す。重要性：ヒトは300種類以上の異なるエンテロウイルスの宿主である。エンテロウイルス感染症は、麻痺、心筋炎、無菌性髄膜炎などの重篤な病態を含む、複数の短期的および長期的な合併症を誘発し得る。しかし、承認済みのワクチンはポリオウイルスおよびエンテロウイルスA71に対してのみ利用可能であり、臨床現場で承認された特異的な抗エンテロウイルス薬は存在しない。これらのウイルスは、ウイルスまたは宿主作用の試験化合物に対して急速に耐性を獲得する。我々は、エンテロウイルス感染に共通する特徴である感染細胞におけるリン脂質合成の強力な亢進を、エンテロウイルスの複製を制御するためのツールとして検討した。感染細胞が利用可能な長鎖脂肪酸組成を変化させることで、多様なエンテロウイルスの複製を同様に抑制することができ、耐性変異体の選抜も成功しなかった。したがって、個々のウイルス因子や宿主因子ではなく、感染によって誘導された細胞脂質代謝の変化を標的とすることは、エンテロウイルス感染症を制御するための有望なアプローチとなり得る。"
   }
 ]
