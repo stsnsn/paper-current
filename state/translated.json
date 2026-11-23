@@ -324756,5 +324756,220 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "英国保健安全保障庁の臨床検体57,974検体における110種の新規Mycobacterium属菌の同定",
     "abstract_ja": "非結核性抗酸菌（NTM）は、日和見病原体の大規模かつ多様なグループである。分類群によって病原性、疫学、および治療法が大きく異なるため、本属内における種の正確な同定は極めて重要である。全ゲノムシーケンシングにより分類学的解像度は向上したが、現在のリファレンスデータベースは不完全である可能性が高い。我々は、2010年から2025年にかけて収集された英国保健安全保障庁（UKHSA）のサンプル57,974検体から、53,170件の高品質な抗酸菌ゲノムを解析した。このコレクションは、GTDBリリースr232に収録されている12,726件の抗酸菌ゲノムの4倍以上の規模である。高品質な分離株は、平均ヌクレオチド同一性（ANI）を用いて、95%のANI閾値に基づきゲノム分類データベース（GTDB）内の既知種に割り当てられた。この閾値を下回る分離株は、最小支配集合（minimal dominating set）法を用いてクラスタリングされ、新規候補種と整合するゲノム的に一貫したグループを特定した。すべてのMycobacterium属種の系統解析を行い、観察された英国における多様性を世界的な文脈に位置づけ、属内の生態学的構造を評価した。GTDBにある850件の抗酸菌種レベルのリファレンスゲノムのうち、204件のGTDBリファレンスに少なくとも1つの暫定的な割り当てがなされた。我々は、いかなるGTDB種にも割り当てられなかった高品質な分離株を586件（1.1%）同定した。ゲノムクラスタリングにより、さらに110件の候補種レベルのリファレンスが特定され、リファレンスセットは850件から960件（12.9%）へと拡大した。これらの候補種は、系統樹全体に広く分布していた。Mycobacterium属内では、系統構造がヒト（Fritz and Purvis D = 0.10, p<0.001）および環境（D = 0.34, p<0.001）の供給源に関連しているという強い証拠が得られた。既存および新規のリファレンスゲノムを統合した結果、UKHSAコレクションは275の種レベルクラスターに分解され、そのうち110クラスター（40.0%）は既存のGTDBリファレンスに代表されていなかった。さらに、系統群間で供給源との関連性に顕著な差が認められた（ヒト関連：{chi}{superscript 2} = 364、環境関連：{chi}{superscript 2} = 258。ともにp<0.001）。UKHSAの臨床検体で観察された275種の稀少化解析はプラトーに達しず、Chao1推定値は、さらなるサンプリングによって追加の新規種が発見される可能性を示唆した（Chao1 = 461）。本研究は、大規模な国家サーベイランスコレクションにおけるゲノムレベルのNTM多様性の包括的な解析を提供するものである。我々の知見は、NTMの多様性が依然として不完全にしか特性解析されていないことを示唆しており、細菌リファレンスデータベースを改善するための継続的なサーベイランスとキュレーションの価値を裏付けるものである。"
+  },
+  {
+    "id": "10.64898/2026.11.22.768343",
+    "title": "Cross-species dissemination of diverse plasmid lineages and mobile resistance modules shapes carbapenemase co-production in Chilean Enterobacterales",
+    "abstract": "Carbapenemase co-production among Enterobacterales is an emerging clinical challenge, yet the relative contributions of clonal expansion, cross-species plasmid dissemination, and movement of resistance modules remain unclear. We integrated national surveillance data with plasmid-resolved hybrid genomes to investigate these processes in Chile. Among 414 isolates carrying at least two carbapenemase families referred during 2018-2024, annual numbers increased markedly alongside broader taxonomic and geographic representation. Thirty isolates were selected to span variation in year, species, region, and carbapenemase profile. These represented 11 species from six genera and contained 149 complete plasmids, 57 of which carried carbapenemase genes. Of 63 carbapenemase gene copies, 62 were plasmid-borne, and 55 of the 57 carbapenemase-carrying plasmids were predicted to be conjugative or mobilizable. Complementary plasmid typing, whole-sequence clustering, structural comparisons, and pan-plasmidome analysis identified three recurrent lineages: IncX3/blaNDM-7, IncN/blaKPC-2, and IncHI2A/blaVIM-1. Their occurrence across multiple species and sequence types supported cross-species dissemination, while numerous minor groups and singletons revealed a broader repertoire of plasmid architectures and accessory genes. Related backbones carried variable resistance regions, and equivalent class 1 integrons and transposon-associated platforms occurred in otherwise unrelated plasmids, indicating modular redistribution of carbapenemase genes. In selected isolates, co-resident plasmids created resistance redundancy, brought recurrent carbapenemase plasmid lineages together, or coupled resistance and virulence within the same cell. Thus, co-production did not arise through a single route: bacterial clones, plasmids shared across species, and mobile resistance modules each contributed to its emergence. Complete plasmid resolution is essential to distinguish these processes and track their dissemination.",
+    "journal": "",
+    "doi": "10.64898/2026.11.22.768343",
+    "date": "2026-11-23",
+    "authors": "Guerra-Leal, N., Pilquinao, N., Berrios-Pasten, C., Arros, P., Galvez-Silva, M., Acosta, J., Ascencio, A., Valdivia, E., Lagos, R., Chavez, F. P., Araya, I., Iglesias, R., Araya, P., Hormazabal, J. C., Villamil, A., Marcoleta, A. E.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.22.768343v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5523,
+    "collected_at": "2026-11-23T12:44:27.540400+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.64898/2026.11.22.768343"
+    ],
+    "translation": {
+      "title": {
+        "hash": "21682b44545230b98047f06d0940cc66447f79ea6377a80940c91ae42390964c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:46:14.578223+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "770c3ae538cdfe1363ae8ce99d8e30f46f2706d0393174e0b3e469d8e37b4537",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:46:14.578223+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "多様なプラスミド系統および可動性耐性モジュールの種間伝播が、チリの腸内細菌目におけるカルバペネマーゼの共生産を形作る",
+    "abstract_ja": "腸内細菌目におけるカルバペネマーゼの共生産は、新たな臨床的課題となっているが、クローン拡大、種間プラスミド拡散、および耐性モジュールの移動がそれぞれどの程度寄与しているかは依然として不明である。本研究では、国家的なサーベイランスデータとプラスミド分解能解析済みのハイブリッドゲノムを統合し、チリにおけるこれらのプロセスを調査した。2018年から2024年にかけて報告された、少なくとも2つのカルバペネマーゼファミリーを保持する414株の分離株において、分類学的・地理的な分布の拡大に伴い、年間の検出数が著しく増加した。年、種、地域、およびカルバペネマーゼプロファイルの変異を網羅するため、30株の分離株を選定した。これらは6属11種に相当し、149個の完全なプラスミドを含んでおり、そのうち57個がカルバペネマーゼ遺伝子を保持していた。63個のカルバペネマーゼ遺伝子コピーのうち62個はプラスミド担体であり、カルバペネマーゼ保持プラスミド57個のうち55個は、接合性または可動性であると予測された。相補的プラスミドタイピング、全配列クラスタリング、構造比較、およびパンプラスミドーム解析により、IncX3/blaNDM-7、IncN/blaKPC-2、およびIncHI2A/blaVIM-1という3つの反復的な系統が同定された。これらが複数の種や配列型にわたって認められたことは、種間拡散を支持する一方、多数のマイナーグループやシングルトンは、より広範なプラスミド構造および補助遺伝子のレパートリーを明らかにした。関連するバックボーンは可変的な耐性領域を保持しており、本来は無関係なプラスミドにおいても同等のクラス1インテグロンやトランスポゾン関連プラットフォームが認められたことから、カルバペネマーゼ遺伝子のモジュール的な再分配が示唆された。選定した分離株では、共在するプラスミドが耐性の冗長性を生み出したり、反復的なカルバペネマーゼプラスミド系統を集約させたり、あるいは同一細胞内で耐性と病原性を共役させたりしていた。したがって、共生産は単一の経路で生じたわけではなく、細菌クローン、種間で共有されるプラスミド、および可動性耐性モジュールがそれぞれその出現に寄与していた。これらのプロセスを区別し、その拡散を追跡するためには、完全なプラスミド分解能が不可欠である。"
+  },
+  {
+    "id": "10.64898/2026.11.22.768452",
+    "title": "Hyphosphere Hunting Grounds: Fungal Hyphae Guide a Protist Predator to its Bacterial Prey",
+    "abstract": "Interactions between microeukaryotes mediated by prokaryotic intermediaries remain poorly understood. Here, we show that the hyphae of a plant pathogen guide bacterivorous protists into bacterial habitats, transforming a fungal dispersal route into a potential hunting ground. Although fungal hyphae are established dispersal corridors for bacteria, their capacity to guide individual protist cells remains largely unexplored. Time-lapse imaging of Fusarium oxysporum f. sp. vasinfectum Race 4 revealed bacteria and the flagellate Paracercomonas sp. moving bidirectionally along hyphae with significant axial alignment, despite contrasting motility regimes: rapid, superdiffusive bacterial movement and slower, subdiffusive protist movement. The ciliate Paracolpoda steinii also exhibited directional alignment along an inert glass rod, demonstrating that physical geometry can bias protist movement independently of fungal-specific cues. Across successive generational culturing of hyphal-baits, protist communities converged reproducibly toward Paracolpoda dominance, whereas bacterial assembly was largely stochastic, revealing contrasting assembly processes within the same habitat. In a dual-microcosm assay, fungal bridges enabled bacteria and protists to cross a 3 mm air gap, while the presence of P. steinii reduced bacterial arrival approximately 8-fold, consistent with predator-associated filtering. Together, these findings extend the fungal-highway concept beyond microbial transport, identifying pathogenic fungal hyphae as multi-kingdom ecological corridors where physical guidance, community assembly and predator-associated effects on dispersal intersect.",
+    "journal": "",
+    "doi": "10.64898/2026.11.22.768452",
+    "date": "2026-11-23",
+    "authors": "Abeysinghe, G., De la Vega Camarillo, E., Parunandi, S., Taerum, S. J., Bagavathiannan, M., Triplett, L., Antony-Babu, S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.22.768452v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "fungal",
+        "microbial",
+        "prokaryotic",
+        "protist",
+        "protists"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5524,
+    "collected_at": "2026-11-23T12:44:27.540400+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.64898/2026.11.22.768452"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e596e5ddb6b32f9fb988a72a01ab1c8a496d5206f9085874cb97724849a19b8a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:46:14.578223+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d9a430dbc969642a2e3f06bce810d10c986e05239ba5c996c4f8250a4dd8b0f7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:46:14.578223+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "菌糸圏の狩場：菌糸が原生生物の捕食者を細菌の獲物へと導く",
+    "abstract_ja": "原核生物の媒介者を介した微生物真核生物間の相互作用については、依然として十分に解明されていない。本研究では、植物病原体の菌糸が細菌食性原生生物を細菌の生息域へと誘導し、真菌の分散経路を潜在的な狩場へと変容させることを示す。真菌の菌糸は細菌にとって確立された分散回廊となっているが、個々の原生生物細胞を誘導する能力については、ほとんど解明されていない。Fusarium oxysporum f. sp. vasinfectum Race 4のタイムラプスイメージングにより、細菌と鞭毛虫Paracercomonas sp.が、対照的な運動様式（急速な超拡散性の細菌運動と、より緩慢な亜拡散性の原生生物運動）にもかかわらず、顕著な軸方向の整列を伴って菌糸に沿って双方向に移動することが明らかになった。繊毛虫Paracolpoda steiniiもまた、不活性なガラス棒に沿って方向性のある整列を示し、物理的幾何学的構造が真菌固有の手がかりとは独立して原生生物の運動に偏りを与え得ることを実証した。菌糸ベイトの連続的な世代培養において、原生生物群集は再現性をもってParacolpoda優位へと収束した一方、細菌の集合は主に確率的であり、同一生息域内で対照的な集合プロセスが存在することが明らかになった。デュアルマイクロコスムアッセイでは、真菌のブリッジによって細菌と原生生物が3 mmの空気ギャップを横断することが可能となり、一方でP. steiniiの存在は細菌の到達数を約8分の1に減少させた。これは捕食者に関連するフィルタリングと整合する。以上の知見は、真菌ハイウェイの概念を微生物輸送の枠を超えて拡張するものであり、病原性真菌の菌糸を、物理的誘導、群集集合、および捕食者に関連する分散への影響が交差する多界の生態学的回廊として特定するものである。"
+  },
+  {
+    "id": "10.64898/2026.11.20.767877",
+    "title": "maoP impacts biofilm formation via csgD in Salmonella Typhimurium",
+    "abstract": "Biofilm formation is a key process in the life cycle of most bacteria and involves the formation of multicellular aggregates, frequently attached to a surface. Despite extensive research into the complex regulatory pathways controlling this process, many aspects are not fully understood. Originally named for its role in chromosomal organisation, MaoP has previously been shown to have an important impact on biofilm formation in Escherichia coli and Salmonella enterica serovar Typhimurium. Here we continued to explore how MaoP impacts biofilm formation in S. Typhimurium 14028S. We show that deletion of maoP significantly reduces biofilm formation through reduced production of the biofilm matrix components curli and cellulose, and that this is associated with a reduction in transcript abundance of the central biofilm regulator csgD. Comparison of the transcriptomes of WT and maoP deletion strain biofilms confirmed the substantial impact of MaoP on csgD and its regulon. To further explore how MaoP impacts biofilm formation we conducted a biofilm evolution experiment to select for suppressor mutants that had restored curli production in a {Delta}maoP background. Sequencing of these mutants identified single nucleotide polymorphisms upstream of csgD that increased csgD transcript abundance and recovered biofilm formation to wild-type levels. In conclusion, our findings suggest a pathway where MaoP is involved in the regulation of biofilm formation through the control of the central biofilm regulator CsgD.",
+    "journal": "",
+    "doi": "10.64898/2026.11.20.767877",
+    "date": "2026-11-23",
+    "authors": "Horton, J. C. I., Holden, E. R., Trampari, E., Bangs, I., Malone, J. G., Webber, M. A.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.20.767877v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "bacteria"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "transcript"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5525,
+    "collected_at": "2026-11-23T12:44:27.540400+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.64898/2026.11.20.767877"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b8bac8b6c0b752814c80dd4e15a7df1264fd15a8911c79ca7efdbc63303578ef",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:46:14.578223+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7cdef7374186703a1ff9392e8c3a4c77357101b9b1063281c94b5f634a7c4f80",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:46:14.578223+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "maoPはSalmonella TyphimuriumにおいてcsgDを介してバイオフィルム形成に影響を及ぼす。",
+    "abstract_ja": "バイオフィルム形成は、ほとんどの細菌のライフサイクルにおける重要な過程であり、多くの場合表面に付着した多細胞凝集体の形成を伴う。この過程を制御する複雑な調節経路については広範な研究が行われてきたが、多くの側面が十分に解明されていない。もともと染色体構成における役割から命名されたMaoPは、大腸菌（Escherichia coli）およびサルモネラ属菌エンテリカ血清型ティフィムリウム（Salmonella enterica serovar Typhimurium）のバイオフィルム形成に重要な影響を及ぼすことがこれまでに示されている。本研究では、S. Typhimurium 14028SにおけるMaoPがバイオフィルム形成にどのように影響するかをさらに検討した。我々は、maoPの欠損により、バイオフィルムマトリックス構成成分であるcurliおよびセルロースの産生が減少し、バイオフィルム形成が有意に抑制されること、またこれが中心的なバイオフィルム調節因子csgDの転写産物量の減少に関連していることを示した。WT株およびmaoP欠損株のバイオフィルムのトランスクリプトームを比較した結果、MaoPがcsgDおよびそのレギュロンに及ぼす顕著な影響が確認された。MaoPがバイオフィルム形成にどのように影響するかをさらに検討するため、{Delta}maoP背景においてcurliの産生を回復させた抑制変異体を選択するためのバイオフィルム進化実験を行った。これらの変異体のシーケンシングにより、csgDの上流にcsgDの転写産物量を増加させ、バイオフィルム形成を野生型レベルまで回復させる一塩基多型が同定された。結論として、我々の知見は、MaoPが中心的なバイオフィルム調節因子CsgDの制御を通じてバイオフィルム形成の調節に関与する経路を示唆している。"
   }
 ]
