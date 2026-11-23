@@ -323058,5 +323058,291 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "亜急性反芻動物アシドーシスの耐容性：宿主－微生物叢相互作用の知見に基づくフェノタイピングと栄養管理",
     "abstract_ja": "亜急性反芻動物アシドーシスの耐容性：宿主－微生物叢相互作用の知見に基づくフェノタイピングと栄養管理"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1956644",
+    "title": "Rhizosphere soil properties and metagenomic profiles associated with three woody species in a tin tailings pond",
+    "abstract": "IntroductionTin tailing ponds are characterized by nutrient limitation and multiple metal contamination, but plant-associated rhizosphere microbial responses under field conditions remain poorly understood.MethodsWe compared rhizosphere soil properties and metagenomic profiles of Paulownia fortunei, Euonymus japonicus, and Loropetalum chinense var. rubrum with an unplanted control after a two-year in situ experiment. Each treatment included three independent plot-level biological replicates.ResultsP. fortunei was associated with higher total N and P and higher available N and K, together with lower concentrations of several metals; Cd concentration was 62.32% lower than in the unplanted control. E. japonicus maintained the highest bacterial richness and comparatively limited bacterial community separation from the control. L. chinense var. rubrum had 144.52% higher available phosphorus and higher rhizosphere concentrations of Hg, Mn, Cu, Sn, Pb, and As. Metagenomic profiles differed among treatments. Carbon-fixation-related genes, particularly those assigned to the reductive tricarboxylic acid cycle, were more highly represented in planted rhizospheres. Nitrate-assimilation-related genes were also more abundant, whereas anammox-related genes were less abundant than in the control. BacMet-annotated gene profiles showed treatment-associated differences.DiscussionThese results indicate species-associated differences in rhizosphere conditions and microbial functional potential. They do not demonstrate plant metal uptake, gene expression, or actual remediation processes; these proposed patterns require validation using plant tissue analysis, metal fractionation, and activity-based measurements.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1956644",
+    "date": "2026-11-23",
+    "authors": "Jinxiang He",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1956644",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "metagenom",
+        "metagenomic",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5514,
+    "collected_at": "2026-11-23T12:44:27.540400+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.3389/fmicb.2026.1956644"
+    ],
+    "translation": {
+      "title": {
+        "hash": "84f7344f325ea03baf44db805a90866eedd4ac360661e45541132c666c64a7db",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:27:10.973580+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f83c56003f17fe76c6c3e4790afd5d908cac7eb952eb2e4a201109ab52019412",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:27:10.973580+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "錫尾鉱池における3種の木本植物に関連する根圏土壌特性およびメタゲノムプロファイル",
+    "abstract_ja": "はじめに\n錫尾鉱滓池は、養分制限と複数の金属汚染を特徴とするが、野外条件下における植物関連の根圏微生物応答については十分に解明されていない。\n方法\n2年間のin situ実験後、Paulownia fortunei、Euonymus japonicus、およびLoropetalum chinense var. rubrumの根圏土壌特性およびメタゲノムプロファイルを、未植栽の対照区と比較した。各処理には、3つの独立したプロットレベルの生物学的反復試験を含めた。\n結果\nP. fortuneiでは、全窒素およびリン、ならびに可給態窒素およびカリウムの含有量が高く、同時にいくつかの金属の濃度が低かった。Cd濃度は、未植栽の対照区よりも62.32%低かった。E. japonicusは、対照区と比較して最も高い細菌多様性を維持し、細菌群集の分離も比較的限定的であった。L. chinense var. rubrumでは、可給態リンが144.52%高く、根圏におけるHg、Mn、Cu、Sn、Pb、およびAsの濃度が高かった。メタゲノムプロファイルは処理間で異なっていた。炭素固定関連遺伝子、特に還元的トリカルボン酸回路に割り当てられる遺伝子は、植栽根圏においてより多く認められた。硝酸同化関連遺伝子もより豊富であったが、アナモックス関連遺伝子は対照区よりも少なかった。BacMetでアノテーションされた遺伝子プロファイルには、処理に関連した差異が認められた。\n考察\nこれらの結果は、根圏条件および微生物の機能的ポテンシャルにおいて、種に関連した差異があることを示している。これらは植物による金属吸収、遺伝子発現、あるいは実際の浄化プロセスを証明するものではない。提案されたこれらのパターンについては、植物組織解析、金属分画、および活性ベースの測定による検証が必要である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.01118-26",
+    "title": "Development and preliminary validation of a CD161 immunoscore-based screening method for latent tuberculosis infection in a Chinese training cohort.",
+    "abstract": "Current latent tuberculosis infection (LTBI) screening is limited by tuberculin skin test (TST) cross-reactivity, return-visit requirements, and interferon-gamma release assay (IGRA) costs. We developed a flow cytometry and deep learning CD161 immunoscore screening method, evaluating it across two phases (N = 269) in Jiangxi, China. Phase 1 (n = 110; 92 males, 18 females) used healthy controls (n = 88) and clinically cured, post-treatment tuberculosis (TB) patients (n = 22) for model development. This post-treatment cohort served as a proxy and was not equivalent to untreated LTBI. Phase 2 (n = 159, all males) provided an independent, three-site proof-of-concept evaluation against TST, using IGRA as the reference standard. In phase 1, the optimal model achieved 100% sensitivity and 92% specificity. In phase 2, using a non-independently validated, post hoc Youden-selected cutoff (60.57), the immunoscore demonstrated 81.8% sensitivity, 80.4% specificity, and an area under the receiver operating characteristic curve (AUC) of 0.833. This performance was comparable to TST (90.9% sensitivity, 72.3% specificity, AUC = 0.816, and DeLong P = 0.701). The immunoscore showed significantly higher specificity than TST (P = 0.049) but similar sensitivity (P = 0.521), with an IDI of 0.077 (P = 0.021) and good calibration (P = 0.553). These exploratory, all-male results do not establish discrimination between untreated LTBI, post-treatment sensitization, or active TB, necessitating diverse validation.IMPORTANCEA machine-learning-driven CD161 immunoscore using flow cytometry provides rapid latent tuberculosis infection (LTBI) screening with diagnostic performance comparable to established methods. Across this two-phase study of 269 participants, the independent all-male phase 2 cohort of 159 participants yielded a sensitivity of 81.8% and a specificity of 80.4% for the CD161 immunoscore. Performance remained consistent across colleges with sevenfold variation in LTBI prevalence (1.8%-12.2%), supporting robustness. For congregate settings such as colleges, this laboratory-based approach may offer operational advantages by providing same-day initial screening without requiring a return visit for result interpretation. A possible future application would be a staged pathway in which immunoscore-positive individuals undergo confirmatory interferon-gamma release assay testing. This implementation strategy remains conceptual and requires prospective evaluation of referral rates, laboratory capacity, acceptability, clinical outcomes, and cost-effectiveness. These proof-of-concept findings require confirmation in larger external cohorts with adequate female representation and more diverse demographic, occupational, and geographic backgrounds.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.01118-26",
+    "date": "2026-10-22",
+    "authors": "Xiong Y, Huang J, Jiang T, Wang J, Shen Y, Shuang F, Huang X, Ning L, Zhong Y, Wu Y.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42911025",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42911025",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5481,
+    "collected_at": "2026-11-23T12:33:52.871848+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.1128/spectrum.01118-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c650d68eaff880f6b7f7ca758ea0c51df8ef681427ae7e5018b67911c8839d07",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:27:10.973580+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ec87e9804204ac4998c97d45331f1c8d3faeb7bc09cc84670e28da2301385c43",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:27:10.973580+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "中国人研修コホートにおける潜在性結核感染のCD161免疫スコアに基づくスクリーニング法の開発および予備的検証",
+    "abstract_ja": "現在の潜在性結核感染症（LTBI）スクリーニングは、ツベルクリン皮膚反応（TST）の交差反応性、再診要件、およびインターフェロンγ遊離試験（IGRA）のコストによって制限されている。我々は、フローサイトメトリーと深層学習を用いたCD161免疫スコア・スクリーニング法を開発し、中国江西省の2つのフェーズ（N = 269）で評価を行った。フェーズ1（n = 110；男性92名、女性18名）では、モデル開発のために健常対照群（n = 88）および臨床的に治癒した治療後結核（TB）患者（n = 22）を用いた。この治療後コホートは代理指標として機能し、未治療のLTBIと同等ではなかった。フェーズ2（n = 159、全員男性）では、IGRAを基準標準として用い、TSTに対する独立した3施設での概念実証評価を実施した。フェーズ1において、最適なモデルは感度100%、特異度92%を達成した。フェーズ2では、独立して検証されていない事後的なYouden選択カットオフ値（60.57）を用いたところ、免疫スコアは感度81.8%、特異度80.4%、および受信者動作特性曲線下面積（AUC）0.833を示した。この性能はTST（感度90.9%、特異度72.3%、AUC = 0.816、DeLong P = 0.701）と同等であった。免疫スコアはTSTよりも有意に高い特異度を示したが（P = 0.049）、感度は同程度であり（P = 0.521）、IDIは0.077（P = 0.021）、良好なキャリブレーションを示した（P = 0.553）。これらの探索的な男性のみを対象とした結果は、未治療のLTBI、治療後の感作、または活動性結核の判別を確定させるものではなく、多様な検証が必要である。重要性：フローサイトメトリーを用いた機械学習ベースのCD161免疫スコアは、確立された手法と同等の診断性能を備えた迅速な潜在性結核感染症（LTBI）スクリーニングを提供する。269名の参加者を対象としたこの2フェーズの研究において、独立した男性のみのフェーズ2コホート（159名）では、CD161免疫スコアの感度81.8%、特異度80.4%が得られた。性能は、LTBI有病率に7倍の変動（1.8%～12.2%）がある大学間でも一貫しており、頑健性が裏付けられた。大学のような集団的な環境において、この研究室ベースのアプローチは、結果解釈のための再診を必要とせず、当日中に初回スクリーニングを提供できるため、運用上の利点がある可能性がある。将来的な応用例として、免疫スコア陽性者が確定的なインターフェロンγ遊離試験を受ける段階的なパスウェイが考えられる。この実装戦略は依然として概念段階にあり、紹介率、検査能力、受容性、臨床転帰、および費用対効果の前向き評価が必要である。これらの概念実証的な知見は、十分な女性代表性を有し、人口統計学的、職業的、および地理的背景がより多様な、より大規模な外部コホートでの確認が必要である。"
+  },
+  {
+    "id": "10.1093/nargab/lqag143",
+    "title": "vartracker: an end-to-end tool for pathogen longitudinal variant analysis and visualization",
+    "abstract": "AbstractLongitudinal sequencing can reveal fine-grained pathogen evolution during acute and chronic infections and inform public health responses. However, integrating ordered pathogen genomic data into a coherent evolutionary and clinical framework can be tedious and error-prone. We present vartracker, an open-source tool for longitudinal pathogen variant analysis and visualization. Given an ordered sample manifest, vartracker supports three entry points: raw sequence reads, reference-aligned BAM files, or user-supplied variant-call format (VCF) files and coverage inputs. Raw-read and BAM inputs are processed through an integrated Snakemake workflow, whereas VCF mode starts from precomputed files. Variants are normalized and annotated relative to a reference genome, tracked across timepoints, and classified as original or newly emerging and as transient or persistent. Inferred amino acid changes are reported, and for SARS-CoV-2 analyses, relevant published literature for key mutations can be automatically linked through a functional database. vartracker outputs a schema-documented results table, provenance metadata for reproducibility, publication-quality static figures, and an interactive heatmap for data exploration. Although packaged with SARS-CoV-2 reference assets and initially developed for SARS-CoV-2 datasets, vartracker is pathogen-agnostic when appropriate reference data are supplied. We demonstrate its utility using SARS-CoV-2 and respiratory syncytial virus A (RSV-A) datasets. vartracker is freely available through GitHub, PyPI, and Bioconda.",
+    "journal": "NAR Genomics and Bioinformatics",
+    "doi": "10.1093/nargab/lqag143",
+    "date": "2026-11-23",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://academic.oup.com/nargab/article/doi/10.1093/nargab/lqag143/9111112?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6220/4033.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5502,
+    "collected_at": "2026-11-23T12:44:27.540400+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "https://academic.oup.com/rss/site_6220/4033.xml"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.1093/nargab/lqag143"
+    ],
+    "translation": {
+      "title": {
+        "hash": "50616063a1dc06199baf2317adf90639699fa3ae6634fc505a634518c8533737",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:27:10.973580+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "01421dc80a47f3bd602e5a626128363604d86bcf63643d6e7cb6432f88c49533",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:27:10.973580+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "vartracker: 病原体の縦断的変異解析および可視化のためのエンドツーエンドツール",
+    "abstract_ja": "要旨：縦断的シーケンシングにより、急性および慢性感染症における病原体の微細な進化を明らかにし、公衆衛生上の対応に役立てることが可能である。しかし、順序付けられた病原体ゲノムデータを一貫した進化的・臨床的枠組みに統合する作業は、煩雑で誤りが生じやすい。本稿では、病原体変異の縦断的解析および可視化のためのオープンソースツールであるvartrackerを提案する。順序付けられたサンプルマニフェストが与えられれば、vartrackerは、生のシーケンスリード、リファレンスアライメント済みBAMファイル、あるいはユーザー提供のバリアントコール形式（VCF）ファイルおよびカバレッジ入力という3つの入力ポイントをサポートする。生リードおよびBAM入力は統合されたSnakemakeワークフローを通じて処理され、VCFモードでは事前計算済みファイルから開始される。変異はリファレンスゲノムを基準として正規化およびアノテーションされ、タイムポイントをまたいで追跡され、「オリジナル」または「新規出現」、および「一過性」または「持続的」に分類される。推定アミノ酸変化が報告され、SARS-CoV-2解析においては、主要な変異に関する関連既報文献を機能データベースを通じて自動的に紐付けることができる。vartrackerは、スキーマ定義済みの結果テーブル、再現性のためのプロベナンスメタデータ、出版品質の静的図、およびデータ探索用のインタラクティブなヒートマップを出力する。SARS-CoV-2のリファレンスアセットが同梱されており、当初はSARS-CoV-2データセット向けに開発されたが、適切なリファレンスデータが提供されれば、vartrackerは病原体に依存しない。本稿では、SARS-CoV-2および呼吸器合胞体ウイルスA（RSV-A）のデータセットを用いてその有用性を実証する。vartrackerは、GitHub、PyPI、およびBiocondaを通じて無料で利用可能である。"
+  },
+  {
+    "id": "10.1093/nar/gkag1209",
+    "title": "CellColocDB: a disease-centred resource linking GWAS loci to genes, cell contexts, and fine-mapping evidence",
+    "abstract": "AbstractGenome-wide association studies (GWAS) have identified disease-associated loci, but linking these signals to molecular mechanisms remains difficult because of linkage disequilibrium and context-dependent genetic regulation. CellColocDB is a disease- and window-centred resource integrating GWAS-QTL colocalization across bulk, sorted-cell, and single-cell QTL datasets. The current release includes 2805 GWAS datasets covering 1201 diseases and traits and 40 516 GWAS windows, together with 23 QTL sources, 316 QTL contexts, and 89 842 molecular features. CellColocDB contains 3 572 118 coloc.abf results with PP.H4 > 0.5, including 1 609 418 with PP.H4 ≥ 0.8. Analyses are organized as GWAS dataset × GWAS window × QTL context × molecular feature tasks, allowing contexts and molecular features to be compared within the same GWAS region. coloc.abf is the primary colocalization analysis, with coloc-SuSiE and SMR/HEIDI providing complementary evidence where available. Task-specific ABF top SNPs are linked to CAUSALdb2 fine-mapping results from seven methods. Results are available through disease-, QTL context-, gene-, and locus-level views, with regional association tracks and matched variants, and can be queried by gene, genomic region, or GWAS window ID. CellColocDB is freely available at http://www.mulinlab.org/colocdb/.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1209",
+    "date": "2026-11-23",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1209/9111114?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "gene",
+        "resource"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5499,
+    "collected_at": "2026-11-23T12:44:27.540400+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.1093/nar/gkag1209"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f13a926aebe7b5bb06f6dc956e875362c29a4aab35bd4183675c072402006766",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:27:10.973580+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "467534afb0baec907e0f09251bc81ad984d8562a31f31504762d88bee6e187f3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:27:10.973580+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "CellColocDB：GWAS遺伝子座を遺伝子、細胞コンテキスト、およびファインマッピングのエビデンスに紐付ける疾患中心のリソース",
+    "abstract_ja": "抄録ゲノムワイド関連解析（GWAS）により疾患関連遺伝子座が同定されてきたが、連鎖不平衡やコンテキスト依存的な遺伝制御のため、これらのシグナルを分子メカニズムに結びつけることは依然として困難である。CellColocDBは、バルク、ソート済み細胞、およびシングルセルのQTLデータセットにわたるGWAS-QTL共局在解析を統合した、疾患およびウィンドウ中心のリソースである。現在のリリースには、1,201の疾患および形質をカバーする2,805のGWASデータセットと40,516のGWASウィンドウに加え、23のQTLソース、316のQTLコンテキスト、および89,842の分子特徴が含まれている。CellColocDBには、PP.H4 > 0.5を満たす3,572,118件のcoloc.abf結果が含まれており、そのうち1,609,418件はPP.H4 ≥ 0.8である。解析はGWASデータセット × GWASウィンドウ × QTLコンテキスト × 分子特徴のタスクとして構成されており、同一のGWAS領域内でコンテキストと分子特徴を比較することが可能である。coloc.abfが主要な共局在解析であり、利用可能な場合にはcoloc-SuSiEおよびSMR/HEIDIが補完的なエビデンスを提供する。タスク別のABFトップSNPは、7つの手法によるCAUSALdb2ファインマッピング結果に紐付けられている。結果は、疾患、QTLコンテキスト、遺伝子、および遺伝子座レベルのビューで利用可能であり、領域別関連トラックとマッチドバリアントを備え、遺伝子、ゲノム領域、またはGWASウィンドウIDによるクエリが可能である。CellColocDBは、http://www.mulinlab.org/colocdb/ で無料で公開されている。"
   }
 ]
