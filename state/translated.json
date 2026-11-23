@@ -323634,5 +323634,286 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "石造文化遺産の生物的防除および修復技術の進展：Web of Scienceに基づくビブリオメトリクスおよび質的レビュー",
     "abstract_ja": "人類の歴史と文明の重要な担い手である石造文化遺産は、自然的要因および人為的要因による継続的な劣化にさらされている。従来の化学的保存処理法は短期的な効果をもたらすものの、環境リスク、適合性の低さ、不可逆性、および二次的損傷を伴うため、最小介入と持続可能性の原則を満たしていない。本総説では、2026年3月28日にWeb of Science Core Collectionから検索した、2006年から2026年3月までの期間をカバーする2,838報の文献に基づき、CiteSpaceを用いたビブリオメトリクス分析と系統的文献レビューを組み合わせて、バイオコントロールおよびグリーン修復技術の研究進展を検証する。2026年3月28日にWeb of Science Core Collectionから検索した、2006年から2026年3月までの期間をカバーする2,838報の文献に基づき、本総説では、CiteSpaceを用いたビブリオメトリクス分析と重点的な定性的文献レビューを組み合わせて、バイオコントロールおよびグリーン修復技術の研究進展を検証する。本稿では、石造文化遺産に影響を及ぼす生物劣化の主要な類型とメカニズムをまとめ、バイオモニタリングおよび微生物同定技術の現状を概説するとともに、バイオクリーニングおよび予防戦略、生物鉱物化技術、ならびに石造文化遺産保存のための多基準評価済み微生物バイオスタティック阻害剤という3つの主要領域における最近の進展と実用的応用について批判的に評価する。過去20年間にわたり、生物劣化メカニズム、モニタリングおよび同定技術、バイオクリーニングプロセス、生物鉱物化技術、およびグリーン阻害材料の理解において多大な進展があり、持続可能な保存戦略のための新たな枠組みが徐々に形成されつつある。しかし、研究室での研究と現場への応用の橋渡し、短期的な検証から長期的な性能安定性への拡張、および単一技術アプローチから統合的なシステムレベルの保存戦略への移行には、依然として大きな課題が残っている。持続可能な保存技術の今後の発展方向についても考察する。本総説は、石造文化遺産のバイオコントロールおよびグリーン修復における理論研究と工学的実践のための包括的なリファレンスを提供することを目的とする。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1915848",
+    "title": "The gut mycobiome in autism spectrum disorder: emerging associations, cross-kingdom ecology, and unresolved mechanisms",
+    "abstract": "Autism spectrum disorder (ASD) is a neurodevelopmental condition with a multifactorial etiology. Although the relationship between the gut microbiota and ASD has attracted increasing attention, research on the gut mycobiome remains limited, and its characteristics and potential roles are not yet fully understood. This review summarizes current evidence on gut mycobiome alterations in children with ASD, their clinical associations, potential mechanisms, and related interventions. Compared with typically developing children, several studies have reported differences in fungal community composition and the relative abundance of specific taxa in children with ASD. However, the taxa identified and the directions of change vary across studies, with heterogeneity among individuals and clinical subgroups. Gut fungi may interact with the host by influencing intestinal barrier function, modulating immune responses, and participating in metabolic processes. Through cross-kingdom interactions with bacteria, they may also contribute to shaping the intestinal microbial ecosystem. These processes provide a potential biological basis for investigating associations between the gut mycobiome and ASD-related phenotypes. Studies of fecal microbiota transplantation, antifungal drugs, probiotics, and dietary interventions offer preliminary insights into the clinical relevance of the gut mycobiome, but their effects and underlying mechanisms require further validation. Current evidence suggests that the gut mycobiome is a promising area of research into ASD-associated microbial changes, although its clinical associations and biological significance remain to be clarified.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1915848",
+    "date": "2026-11-23",
+    "authors": "Changlin Zhao",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1915848",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "fungal",
+        "fungi",
+        "microbial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5517,
+    "collected_at": "2026-11-23T12:44:27.540400+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.3389/fmicb.2026.1915848"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0583e34b2377441ef7339612dbde76363aecaf4ebbfb8238bc3596709bfb07eb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:33:30.806366+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8002885b1659776b3b84353c70c560b645985a125ff0b4a7fed771bc686a81db",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:33:30.806366+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "自閉スペクトラム症における腸内菌叢：新たな関連性、クロスキングダム生態学、および未解明のメカニズム",
+    "abstract_ja": "自閉スペクトラム症（ASD）は、多因子性の病因を有する神経発達症である。腸内細菌叢とASDの関連性はますます注目を集めているものの、腸内マイコバイオームに関する研究は依然として限られており、その特性や潜在的な役割はまだ十分に解明されていない。本総説では、ASD児における腸内マイコバイオームの変動に関する現在のエビデンス、その臨床的関連性、潜在的な機序、および関連する介入策について概説する。定型発達児と比較して、ASD児では真菌群集の組成や特定の分類群の相対的存在量に差異があることが複数の研究で報告されている。しかし、同定された分類群や変化の方向性は研究によって異なり、個人間や臨床サブグループ間でも不均一性が認められる。腸内真菌は、腸管バリア機能への影響、免疫応答の調節、および代謝プロセスへの関与を通じて宿主と相互作用する可能性がある。また、細菌との界横断的な相互作用を通じて、腸内微生物エコシステムの形成に寄与する可能性もある。これらのプロセスは、腸内マイコバイオームとASD関連表現型との関連性を調査するための潜在的な生物学的基盤となる。糞便微生物移植、抗真菌薬、プロバイオティクス、および食事介入に関する研究は、腸内マイコバイオームの臨床的意義について予備的な知見を提供しているが、その効果や根底にある機序についてはさらなる検証が必要である。現在のエビデンスは、腸内マイコバイオームがASD関連の微生物変化に関する有望な研究領域であることを示唆しているが、その臨床的関連性や生物学的意義については依然として解明されていない。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.02731-26",
+    "title": "Characterization of a recombinant gC-deleted PRV-XJ variant reveals altered disease outcomes following different inoculation routes in mice.",
+    "abstract": "Pseudorabies virus (PRV) variants continue to threaten swine production and can cause severe neurological disease in non-natural hosts. Although glycoprotein C (gC) contributes to PRV attachment to host cells, its role in the pathogenic characteristics of currently circulating PRV variants remains unclear, particularly under different inoculation routes. In this study, we generated a marker-free gC-deleted recombinant virus, rPRV-XJ-ΔgC, based on the genotype II PRV-XJ variant and compared its pathogenic characteristics with those of parental PRV-XJ in C57BL/6 mice. rPRV-XJ-ΔgC retained the ability to cause lethal infection but, compared with PRV-XJ, showed delayed disease progression, reduced early central nervous system (CNS) viral accumulation, and milder neurological and neuropathological changes, particularly following intranasal inoculation. These differences were less evident after intramuscular inoculation. Intranasal infection with rPRV-XJ-ΔgC was also associated with attenuated disruption of the blood-brain barrier, consistent with reduced CNS injury. Collectively, these findings indicate that gC deletion in the PRV-XJ background is associated with altered infection kinetics and route-dependent CNS disease phenotypes.ImportancePseudorabies virus (PRV) variants remain important pathogens associated with neurological disease, but the contribution of individual viral genes to the pathogenic characteristics of circulating PRV variants remains poorly understood. Here, we investigated the role of glycoprotein C (gC) in the pathogenic phenotype of the genotype II PRV-XJ variant. gC deletion resulted in route-dependent changes in PRV-XJ-induced disease outcomes, with more evident effects following intranasal than intramuscular inoculation. These findings highlight the importance of viral genetic factors and infection routes in shaping PRV-associated disease phenotypes and provide further insight into PRV neuropathogenesis.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.02731-26",
+    "date": "2026-10-21",
+    "authors": "Wu X, Liu B, Li H, Xu T, Yuan P, Pan X, He S, Zhao L, Dai Y, Xu Z-W, Zhu L.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42904654",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42904654",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5476,
+    "collected_at": "2026-11-23T12:33:52.871848+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.1128/spectrum.02731-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "1222301ab189ea54d2c3eac5d6e74c1a92fbcf0c4e0db0705dc6217f2967e49d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:33:30.806366+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "daea4520d6e456b9b450ec585b2d2bf86f4e225a5315ce9b45a4acba1ead6011",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:33:30.806366+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "組換えgC欠損PRV-XJ変異体の特性解析により、マウスにおける接種経路の違いに伴う疾患転帰の変化が明らかになった。",
+    "abstract_ja": "偽狂犬病ウイルス（PRV）変異株は、引き続き豚の生産に脅威を与えており、非自然宿主において重篤な神経疾患を引き起こす可能性がある。糖タンパク質C（gC）はPRVの宿主細胞への付着に寄与するが、現在流行しているPRV変異株の病原性特性におけるその役割は、特に異なる接種経路において依然として不明である。本研究では、ジェノタイプII PRV-XJ変異株を基盤としてマーカーフリーのgC欠損組換えウイルスrPRV-XJ-ΔgCを作製し、C57BL/6マウスにおいてその病原性特性を親株であるPRV-XJと比較した。rPRV-XJ-ΔgCは致死的感染を引き起こす能力を保持していたが、PRV-XJと比較して、疾患の進行遅延、初期の中枢神経系（CNS）におけるウイルス蓄積の減少、および、特に経鼻接種後のより軽度な神経学的・神経病理学的変化が認められた。これらの差異は、筋肉内接種後には顕著ではなくなった。rPRV-XJ-ΔgCによる経鼻感染は、血液脳関門の破綻の減弱とも関連しており、これはCNS損傷の軽減と一致していた。総じて、これらの知見は、PRV-XJ背景におけるgC欠損が、感染動態の変化および経路依存的なCNS疾患表現型に関連していることを示している。重要性偽狂犬病ウイルス（PRV）変異株は、神経疾患に関連する重要な病原体であり続けているが、流行しているPRV変異株の病原性特性に対する個々のウイルス遺伝子の寄与については、依然として十分に解明されていない。本研究では、ジェノタイプII PRV-XJ変異株の病原性表現型における糖タンパク質C（gC）の役割を検討した。gC欠損は、PRV-XJ誘発性疾患転帰に経路依存的な変化をもたらし、筋肉内接種よりも経鼻接種後により顕著な効果が認められた。これらの知見は、PRV関連疾患表現型の形成におけるウイルス遺伝因子および感染経路の重要性を浮き彫りにし、PRVの神経病態形成に関するさらなる知見を提供するものである。"
+  },
+  {
+    "id": "10.1093/nar/gkag1308",
+    "title": "Correction to ‘Multiplexed CRISPR base editing enables pulse-activated irreversible biocontainment of engineered bacteria’",
+    "abstract": "This is a correction to: Sung Won Cho, TaeHyun Kim, Jina Yang, Gibyuck Byun, Sang Woo Seo, Multiplexed CRISPR base editing enables pulse-activated irreversible biocontainment of engineered bacteria, Nucleic Acids Research, Volume 54, Issue 8, 8 May 2026, gkag422, https://doi.org/10.1093/nar/gkag422",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1308",
+    "date": "2026-11-23",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1308/9113972?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5526,
+    "collected_at": "2026-11-23T12:44:27.540400+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/3091.xml"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.1093/nar/gkag1308"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0a9625f701b19069402ac5a40d1810bf46df88c12d0294c89eae4513aeacfbc4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:33:30.806366+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e7bf5295475831bb4feb87dbe41e8945de5ace14a886b619891ccacd514366ff",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:33:30.806366+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "「Multiplexed CRISPR base editing enables pulse-activated irreversible biocontainment of engineered bacteria」の訂正",
+    "abstract_ja": "本論文は、Sung Won Cho, TaeHyun Kim, Jina Yang, Gibyuck Byun, Sang Woo Seo, Multiplexed CRISPR base editing enables pulse-activated irreversible biocontainment of engineered bacteria, Nucleic Acids Research, Volume 54, Issue 8, 8 May 2026, gkag422, https://doi.org/10.1093/nar/gkag422 の訂正である。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1873087",
+    "title": "Freshwater cyanobacteria as a reservoir of antibiotic resistance: a multiphasic approach from phenotypic to genomic analysis",
+    "abstract": "ObjectivesAntibiotic resistance represents one of the greatest global public health challenges of the current century. While research has traditionally focused on clinical pathogens, there is growing evidence that cyanobacteria act as both reservoirs and indirect mediators of the antibiotic resistance spread in freshwater ecosystems. The aim of this study was to correlate phenotypic resistance profiles with genomic data in six freshwater cyanobacterial strains: Microcystis aeruginosa (CCAP 1450/6, CCAP 1450/16, PCC 7806), Planktothrix rubescens (F1, F9), and Planktothrix serta (PCC 8927) to elucidate the factors contributing to the persistence of antibiotic resistance in the environment and to assess the role of these organisms within a One Health approach.MethodsMinimum inhibitory concentrations were determined for amoxicillin, ceftazidime, and erythromycin using an adapted broth microdilution protocol over a 14-days incubation period. Whole-genome sequencing and comparative analysis were performed to characterize the cyanobacterial resistome and investigate resistance determinants, efflux systems, and mobile genetic elements.ResultsPhenotypic results revealed that filamentous strains P. rubescens (F1, F9) and P. serta (PCC 8927) exhibited high level of phenotypic resistance, with minimum inhibitory concentrations exceeding ≥0.8 mg/L for ceftazidime (and for amoxicillin in F1), whereas the M. aeruginosa CCAP 1450 strains proved significantly more susceptible. Genomic analysis identified a shared repertoire of putative intrinsic resistance-associated mechanisms, dominated by tripartite efflux pumps and putative inactivation enzymes including β-lactamases and β-lactamase-related proteins assigned to all four Ambler classes. Furthermore, the widespread presence of redundant Type II toxin-antitoxin systems suggests an enhanced capacity for metabolic dormancy and phenotypic tolerance. Abundant putative transposase genes and plasmid maintenance-associated genes were found, suggesting a potentially high dynamic mobilome, underscoring its potentiality to maintain and reshuffle functional traits.DiscussionThese findings indicate that antibiotic resistance might be a component of the genetic repertoire of the investigated strains, which may have evolved under natural ecological and anthropogenic pressures. Their potential high genomic plasticity, combined with the ability to form dense blooms, make these taxa a possible key player for the dissemination of resistance determinants to human pathogens, showing the need of further studies to consider their inclusion in environmental antimicrobial resistance surveillance programs.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1873087",
+    "date": "2026-11-23",
+    "authors": "Maura Manganelli",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1873087",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "cyanobacteria",
+        "cyanobacterial"
+      ],
+      "context": {
+        "marine": [
+          "freshwater"
+        ],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5518,
+    "collected_at": "2026-11-23T12:44:27.540400+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.3389/fmicb.2026.1873087"
+    ],
+    "translation": {
+      "title": {
+        "hash": "76975f5d11df45901d7debfc2951bcb9ff165cb63098c6a837e4c6e20c81ed2b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:33:30.806366+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "400c5ffe80d8c586b6a0650c6e57548bfa7a8de4c4432957f934ee046136ab9c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:33:30.806366+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "抗生物質耐性のリザーバーとしての淡水シアノバクテリア：表現型解析からゲノム解析に至る多面的アプローチ",
+    "abstract_ja": "目的抗生物質耐性は、今世紀における世界的な公衆衛生上の最大の課題の一つである。従来、研究の焦点は臨床病原体に置かれてきたが、淡水生態系においてシアノバクテリアが抗生物質耐性拡散のリザーバーおよび間接的媒介者の双方として機能しているという証拠が増えつつある。本研究の目的は、6種類の淡水シアノバクテリア株（Microcystis aeruginosa (CCAP 1450/6, CCAP 1450/16, PCC 7806)、Planktothrix rubescens (F1, F9)、およびPlanktothrix serta (PCC 8927)）において、表現型耐性プロファイルとゲノムデータとの相関を明らかにすることで、環境中における抗生物質耐性の持続に寄与する要因を解明し、ワンヘルス（One Health）アプローチにおけるこれらの生物の役割を評価することであった。方法アモキシシリン、セフタジジム、およびエリスロマイシンについて、改良したブロスマイクロダイリューションプロトコルを用い、14日間のインキュベーション期間にわたって最小発育阻止濃度を決定した。全ゲノムシーケンシングおよび比較解析を行い、シアノバクテリアのレジストームを特性評価するとともに、耐性決定因子、排出系、および可動性遺伝要素を調査した。結果表現型解析の結果、糸状株であるP. rubescens (F1, F9) およびP. serta (PCC 8927) は高いレベルの表現型耐性を示し、セフタジジム（およびF1におけるアモキシシリン）の最小発育阻止濃度は0.8 mg/L以上であったのに対し、M. aeruginosa CCAP 1450株は有意に感受性が高かった。ゲノム解析により、推定される内因性耐性関連機構の共通レパートリーが同定され、そこには三成分排出ポンプや、4つのAmblerクラスすべてに割り当てられたβ-ラクタマーゼおよびβ-ラクタマーゼ関連タンパク質を含む推定不活化酵素が支配的であった。さらに、冗長なタイプII毒素-抗毒素系の広範な存在は、代謝休眠および表現型耐性の能力が亢進していることを示唆している。また、推定トランスポザー遺伝子およびプラスミド維持関連遺伝子が豊富に認められ、動的なモビルロームが潜在的に大きいことが示唆された。これは機能的形質を維持・再編成する可能性を強調するものである。考察これらの知見は、抗生物質耐性が調査対象株の遺伝的レパートリーの構成要素である可能性を示しており、それらは自然な生態学的圧力および人為的圧力の下で進化した可能性がある。潜在的に高いゲノム可塑性と、高密度なブルームを形成する能力が相まって、これらの分類群はヒト病原体への耐性決定因子の拡散における主要な因子となる可能性があり、環境中の抗微生物薬耐性サーベイランスプログラムへの組み入れを検討するためのさらなる研究の必要性が示された。"
   }
 ]
