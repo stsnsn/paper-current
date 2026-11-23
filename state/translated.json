@@ -321327,5 +321327,287 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ヨーロッパコマドリのクリプトクロム4aは、第2のアンテナ発色団として8-HDFやMTHFと結合しない。",
     "abstract_ja": "クリプトクロムとフォトリアーゼは、一般にフラビンアデニンジヌクレオチド（FAD）と結合する青色光感受性のフラビンタンパク質であり、それぞれ異なる機能を有する。ヨーロッパコマドリ（Erithacus rubecula）などの渡りを行う鳴禽類の二重錐体光受容体に発現するクリプトクロム4a（CRY4a）は、鳥類の磁気受容における主要なセンサーであると仮定されている。FADに加えて、多くのフォトリアーゼと一部のクリプトクロムは、8-ヒドロキシ-5-デアザフラビン（8-HDF）や5,10-メテニルテトラヒドロ葉酸（MTHF）などのアンテナ発色団と結合する。本研究では、Erithacus rubeculaのクリプトクロム4a（ErCRY4a）も8-HDFおよび/またはMTHFと結合するかどうかを調べた。8-HDF結合は、ErCRY4aと8-HDF合成酵素を共発現させることで検証した。8-HDFは、陽性対照のXenopus laevis 6-4フォトリアーゼ（Xl6-4PL）に結合したが、ErCRY4aには結合しなかった。MTHFについては、陽性対照のEscherichia coli DNAフォトリアーゼ（EcDPL）をMTHFとFADの両方で精製したが、ErCRY4aはFAD結合のみを示した。等温滴定熱量測定によっても、MTHFがErCRY4aに結合しないことが確認された。さらに、計算解析の結果、ErCRY4aとMTHF/8-HDF結合タンパク質との間に結合部位の類似性は認められず、非保存的なポケットであることが示された。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "review",
+      "journal article"
+    ],
+    "id": "10.1128/aem.01631-26",
+    "title": "Sustainable 2-keto-L-gulonic acid biosynthesis via single-strain one-step fermentation.",
+    "abstract": "L-ascorbic acid (vitamin C) is an essential antioxidant molecule that maintains normal physiological functions in humans. Currently, industrial production relies primarily on a three-strain, two-step fermentation process to produce 2-keto-L-gulonic acid (2-KLG), the direct precursor of vitamin C. 2-KLG is then converted to vitamin C through chemical lactonization. However, this process is limited by prolonged fermentation cycles, poor stability of the mixed-culture system, and complex process control. In recent years, engineered single-strain platforms capable of one-step 2-KLG biosynthesis have emerged as a promising strategy for more sustainable vitamin C production. Nevertheless, the efficiency of L-sorbose-to-2-KLG conversion in this system remains low, making it a major bottleneck to further improving 2-KLG production. This review summarizes recent advances on single-strain, one-step fermentation systems using Gluconobacter oxydans as the chassis strain. It focuses on strategies including genetic tool development, metabolic engineering, and key enzyme optimization. The review aims to provide a theoretical basis and technical reference for optimizing and industrializing green biomanufacturing systems for vitamin C.",
+    "journal": "Applied and Environmental Microbiology",
+    "doi": "10.1128/aem.01631-26",
+    "date": "2026-11-05",
+    "authors": "Wang F, Zhou Q, Wang Y, Wang Z, Li D.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42986111",
+    "preprint": false,
+    "review": true,
+    "pmcid": "",
+    "pmid": "42986111",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5490,
+    "collected_at": "2026-11-23T12:33:52.871848+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.1128/aem.01631-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b98f82c5f8931ebd50b5d0ddae763251c6ecebfc66f9a4d893799cb264a7ef09",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:09:08.113606+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0e2693ebb9261f07fca359c6e09a53d738dd616dfe01a1fb11a4269a5d8263dd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:09:08.113606+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "単一菌株による一段階発酵を介した持続可能な2-ケト-L-グロン酸の生合成",
+    "abstract_ja": "L-アスコルビン酸（ビタミンC）は、ヒトの正常な生理機能を維持する必須の抗酸化分子である。現在、工業生産では主に3菌株・2段階発酵プロセスを用いて、ビタミンCの直接前駆体である2-ケト-L-グロニン酸（2-KLG）を製造している。2-KLGはその後、化学的ラクトン化によってビタミンCへと変換される。しかし、このプロセスは、長時間の発酵サイクル、混合培養系の安定性の低さ、および複雑なプロセス制御といった制約がある。近年、1段階で2-KLGを生合成可能な遺伝子組換え単一菌株プラットフォームが、より持続可能なビタミンC生産のための有望な戦略として登場している。しかしながら、この系におけるL-ソルボースから2-KLGへの変換効率は依然として低く、2-KLG生産をさらに向上させる上での大きなボトルネックとなっている。本総説では、Gluconobacter oxydansをシャーシ菌株として用いた単一菌株・1段階発酵系の最近の進展について概説する。特に、遺伝子ツールの開発、代謝工学、および主要酵素の最適化を含む戦略に焦点を当てる。本総説は、ビタミンCのグリーンバイオ製造システムの最適化と工業化に向けた理論的根拠および技術的リファレンスを提供することを目的とする。"
+  },
+  {
+    "id": "10.1093/bioinformatics/btag847",
+    "title": "ARCADE: Controllable Codon Design from Foundation Models via Activation Engineering",
+    "abstract": "AbstractMotivationCoding sequence design requires optimizing multiple biological properties, which may be either aligned or in trade-off, and are typically measured as continuous-valued metrics. However, existing codon design methods lack explicit control over these objectives. Moreover, current controllable generation techniques are largely developed for discrete, human-interpretable attributes, leaving a gap in controllably steering continuous biological properties in genomic sequence design.ResultsWe introduce ARCADE (Activation engineeRing for ControllAble coDon dEsign), a machine learning framework for flexible and controllable multi-objective codon design. ARCADE leverages pretrained genomic language models and extends activation engineering from discrete attribute control to continuous-valued biological metrics. By deriving biologically meaningful semantic steering vectors in the model’s activation space, ARCADE enables direct control over properties such as Codon Adaptation Index, minimum free energy, GC content, as well as their combinations. Comprehensive evaluations demonstrate that ARCADE supports robust single- and multi-objective steering, enabling simultaneous modulation of multiple properties without retraining model parameters.AvailabilitySource code for the method and to reproduce the results is available at https://github.com/Kingsford-Group/arcade and archived on Zenodo (DOI: 10.5281/zenodo.21140668).Supplementary informationSupplementary data are available at Bioinformatics online.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag847",
+    "date": "2026-11-21",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag847/9111031?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5504,
+    "collected_at": "2026-11-23T12:44:27.540400+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.1093/bioinformatics/btag847"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3020861b3cbc9449630c234e4cc851b761764641b05901323d32c5bcd25aabe9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:09:08.113606+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "763eaa5f9cecac07b73cab486a9a131333f1554e40fab2cf4625a6d91700e254",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:09:08.113606+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ARCADE: 活性化エンジニアリングによる基盤モデルからの制御可能なコドン設計",
+    "abstract_ja": "要旨動機コーディング配列の設計には、複数の生物学的特性の最適化が必要であり、これらは整合しているか、あるいはトレードオフの関係にある場合があり、通常は連続値指標として測定される。しかし、既存のコドン設計手法では、これらの目的を明示的に制御する手段が欠けている。さらに、現在の制御可能な生成技術の多くは、離散的で人間が解釈可能な属性を対象に開発されており、ゲノム配列設計において連続的な生物学的特性を制御可能な形で誘導する余地が残されている。結果我々は、柔軟かつ制御可能な多目的コドン設計のための機械学習フレームワークであるARCADE（Activation engineeRing for ControllAble coDon dEsign）を提案する。ARCADEは事前学習済みのゲノム言語モデルを活用し、活性化エンジニアリングを離散的属性制御から連続値の生物学的指標へと拡張する。モデルの活性化空間において生物学的に意味のある意味的ステアリングベクトルを導出することで、ARCADEはコドン適応指数、最小自由エネルギー、GC含有量、およびそれらの組み合わせといった特性の直接的な制御を可能にする。包括的な評価により、ARCADEが堅牢な単一および多目的ステアリングをサポートし、モデルパラメータの再学習なしに複数の特性を同時に調整できることが実証された。利用可能性本手法のソースコードおよび結果を再現するためのコードは、https://github.com/Kingsford-Group/arcade で公開されており、Zenodoにアーカイブされている（DOI: 10.5281/zenodo.21140668）。補足情報補足データはBioinformatics onlineで入手可能である。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1970201",
+    "title": "Fabclavines produced by entomopathogenic nematode-associated Xenorhabdus show potential for malaria vector control",
+    "abstract": "Xenorhabdus bacteria are mutualistic symbionts of entomopathogenic nematodes belonging to the genus Steinernema and produce a diverse array of secondary metabolites that contribute to insect host mortality and successful nematode reproduction. Among these metabolites, fabclavines have demonstrated potent larvicidal activity against mosquitoes, highlighting their potential as a class of biological larvicides. This activity is particularly relevant to malaria vector control, where increasing insecticide resistance has emphasized the need for alternative control strategies. However, despite promising laboratory findings, several knowledge gaps remain regarding the efficacy of fabclavines against Anopheles mosquitoes, their modes of action, environmental stability, formulation, and commercial-scale production. This review summarizes current knowledge of Xenorhabdus-derived insecticidal metabolites, with particular emphasis on fabclavines, and critically evaluates their potential for integration into malaria vector management programs. Attention is given to the challenges that must be addressed before these compounds can be considered viable alternatives or complementary tools for existing larval control interventions.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1970201",
+    "date": "2026-11-23",
+    "authors": "Leon M. T. Dicks",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1970201",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5507,
+    "collected_at": "2026-11-23T12:44:27.540400+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.3389/fmicb.2026.1970201"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9850e82d8451fd4eca0e71f4b66bd9bc6a3398f068b1a9c3bc90a2ad6d42c528",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:09:08.113606+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "cc9c8947e748064b8e6c73b41ca400e26d808b739dae73b097db06f2b8a05a98",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:09:08.113606+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "昆虫病原性線虫関連キセノラブドゥスが産生するファブクラビンは、マラリア媒介生物の制御に有望である。",
+    "abstract_ja": "ゼノラブドゥス属細菌は、Steinernema属に属する昆虫病原性線虫の相利共生体であり、宿主昆虫の致死および線虫の繁殖成功に寄与する多種多様な二次代謝産物を産生する。これらの代謝産物の中でも、ファブクラビン類は蚊に対して強力な幼虫殺滅活性を示しており、生物学的幼虫駆除剤としての可能性が注目されている。この活性は、殺虫剤耐性の増大により代替的な防除戦略の必要性が強調されているマラリア媒介生物の防除において特に重要である。しかし、有望な実験室での知見がある一方で、ハマダラカに対するファブクラビン類の有効性、作用機序、環境安定性、製剤化、および商業規模での生産に関しては、依然としていくつかの知見の空白が残っている。本総説では、ゼノラブドゥス由来の殺虫性代謝産物に関する現在の知見を、特にファブクラビン類に重点を置いてまとめ、マラリア媒介生物管理プログラムへの導入可能性を批判的に評価する。これらの化合物を、既存の幼虫防除介入における有効な代替手段または補完的ツールと見なすために対処すべき課題についても言及する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 10",
+        "query": "(JOURNAL:\"Scientific Data\" OR JOURNAL:\"Limnology and Oceanography\" OR JOURNAL:\"Limnology and Oceanography Letters\" OR JOURNAL:\"Annual Review of Marine Science\" OR JOURNAL:\"Trends in Ecology & Evolution\" OR JOURNAL:\"iScience\" OR JOURNAL:\"Current Biology\" OR JOURNAL:\"Cell Reports\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1016/j.isci.2026.118150",
+    "title": "Multi-scale hybrid correction of noisy long reads.",
+    "abstract": "Long-read sequencing offers superior genome resolution but is hindered by error rates of 1-15%. Existing correction methods often struggle to suppress sequencing errors without removing genuine biological variation, leading to over-correction. DADEC addresses this trade-off through a confidence-ordered framework comprising stringent de Bruijn graph (DBG) correction, haplotype-aware short-read alignment refinement, and permissive DBG recovery. Across seven simulated and three real datasets, DADEC achieved the lowest mismatch and indel rates in most benchmark settings while maintaining high haplotype coverage. DADEC also improved assembly contiguity and strain-level metagenomic classification. On an independently simulated Arabidopsis thaliana dataset with ground truth, DADEC reduced correction-event false discovery and false negative rates by 38.9% and 40.2%, respectively, compared with the next-best method. DADEC therefore provides an accurate hybrid correction strategy for noisy long reads while reducing over-correction and maintaining haplotype representation.",
+    "journal": "iScience",
+    "doi": "10.1016/j.isci.2026.118150",
+    "date": "2026-11-06",
+    "authors": "Zhang W, Zhang Y, Li F, Li Y, Gong H, Luo J, Yuan S, Luo X, Liu Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43032624",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13760973",
+    "pmid": "43032624",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "genom",
+          "genome",
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5496,
+    "collected_at": "2026-11-23T12:33:52.871848+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "Europe PMC journals 10"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.1016/j.isci.2026.118150"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b77633360ad1f6513197b979b9be3154127068e58184745c4c5dd615a3704cc9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:09:08.113606+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "cc6e0bd5432f38f22882f749848da2ef3653acb71f9834783d8be0d4511c34aa",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:09:08.113606+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ノイズを含むロングリードのマルチスケールハイブリッド補正。",
+    "abstract_ja": "ロングリードシーケンシングは優れたゲノム解像度を実現する一方で、1～15%というエラー率がその妨げとなっている。既存の補正手法は、真の生物学的変異を除去することなくシーケンシングエラーを抑制することに苦慮することが多く、過剰補正を招く。DADECは、厳格なde Bruijnグラフ（DBG）補正、ハプロタイプを考慮したショートリードアライメントの精緻化、および許容的なDBG復元からなる信頼度順のフレームワークを通じて、このトレードオフに対処する。7つのシミュレーションデータセットと3つの実データセットにおいて、DADECは高いハプロタイプカバレッジを維持しつつ、ほとんどのベンチマーク設定で最小のミスマッチ率およびインデル率を達成した。また、DADECはアセンブリのコンティニュイティと系統レベルのメタゲノム分類も改善した。グラウンドトゥルースを含む独立してシミュレーションされたArabidopsis thalianaデータセットにおいて、DADECは次善の手法と比較して、補正イベントの偽発見率および偽陰性率をそれぞれ38.9%および40.2%低減した。したがって、DADECはノイズの多いロングリードに対して正確なハイブリッド補正戦略を提供し、過剰補正を抑制しつつハプロタイプの表現を維持する。"
   }
 ]
