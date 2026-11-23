@@ -324187,5 +324187,286 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "糖尿病性足潰瘍バイオフィルムにおけるデュアルターゲット・クオラムセンシング阻害剤探索のためのマルチタスク機械学習戦略の提案",
     "abstract_ja": "慢性糖尿病性足潰瘍（DFU）は、主に多菌種バイオフィルムの強靭さにより、臨床上の重大な課題となっている。黄色ブドウ球菌（Staphylococcus aureus）と緑膿菌（Pseudomonas aeruginosa）が同一の創傷環境に存在する場合、薬剤耐性バイオフィルムを形成することがあり、そこでは種特異的なクオラムセンシング（QS）系によって部分的に制御されるコンテキスト依存的な協調作用が、持続性に寄与している。単一標的治療では、両菌の調節プログラムに対処することはできない。本展望では、機械学習、マルチタスク仮想スクリーニング、および段階的な実験カスケードを組み合わせて、二重作用型QS阻害剤の優先順位付けを行う計算戦略を提案するが、実装は行わない。我々は、グラム陰性菌のLasR受容体とグラム陽性菌のAgrA調節因子が、構造的には無関係であるものの、単一の低分子化合物が両者を阻害するのに十分なファーマコフォアレベルのリガンド親和性を共有しているという仮説を立てる。このような種特異的な2つのQS経路の二重阻害は、種間シグナル伝達の直接的な遮断とは異なり、後者には別途の根拠が必要となる。我々は、確立されたエビデンスと仮説および提案手法を区別し、収束テストと反証可能なゴー／ノーゴー基準を提示するとともに、データの調和、モデルの検証、および創傷特異的な制約について論じる。もしこの仮説が正しければ、このような化合物は、特定の条件下で従来の抗菌薬の活性を高め、創傷治癒を促進し得る抗ウイルス性アジュバントとして機能する可能性がある。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.03541-25",
+    "title": "Bovine and human serum albumins promote recovery of culturability in diphenyleneiodonium-induced viable but non-culturable <i>Mycobacterium tuberculosis</i>, potentially involving protein kinase activity.",
+    "abstract": "We investigated the mechanisms underlying the fetal bovine serum (FBS)-induced reactivation of diphenyleneiodonium (DPI)-induced viable but non-culturable (VBNC) state of Mycobacterium tuberculosis (Mtb) using the H37Rv strain. We found that bovine serum albumin (BSA), a major component of FBS, was sufficient to promote recovery of culturability in DPI-induced VBNC Mtb cells under our experimental conditions. Human serum albumin also showed a similar effect, whereas mouse serum albumin and egg-white albumin (ovalbumin) did not induce comparable recovery, suggesting that specific structural or biochemical features shared by bovine and human serum albumin may contribute to this process. In addition, antioxidative agents, including N-acetyl-L-cysteine (NAC), did not induce reactivation, suggesting that the antioxidative property alone is insufficient to explain the effect of BSA. Recovery of culturability was suppressed by protein kinase inhibitors, such as H89 and staurosporine, which are known to target multiple kinases, including serine/threonine protein kinases in Mtb. These findings suggest that protein kinase activity may be involved in BSA-induced recovery of culturability from the DPI-induced VBNC Mtb cells. Overall, our study identifies albumin-dependent recovery of culturability in DPI-induced VBNC model of Mtb and highlights the need to compare recovery mechanisms across distinct dormancy models.ImportanceMycobacterium tuberculosis (Mtb) cells can enter a viable but non-culturable (VBNC) state under stress, complicating the interpretation of bacterial survival and recovery in experimental dormancy models. However, the factors that restore culturability from defined VBNC populations remain less understood. This study shows that serum albumin promotes recovery of culturability from Mtb cells rendered VBNC state by diphenyleneiodonium (DPI) treatment. The effect was observed with bovine and human serum albumins but not mouse serum albumin or ovalbumin, indicating that albumin-dependent recovery is not a general property of all albumins. The lack of comparable recovery by the antioxidant N-acetyl-L-cysteine (NAC) further suggests that the antioxidative activity alone does not explain this phenomenon. By identifying albumin-dependent recovery in a defined DPI-induced VBNC model, this work provides a basis for testing whether similar or distinct recovery mechanisms operate in other Mtb dormancy models.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.03541-25",
+    "date": "2026-10-21",
+    "authors": "Morishige Y, Murase Y, Chikamatsu K, Yamada H, Aono A, Igarashi Y, Kamada K, Shimomura Y, Hosoya M, Mitarai S.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42904634",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42904634",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5484,
+    "collected_at": "2026-11-23T12:33:52.871848+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.1128/spectrum.03541-25"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0eec9fc5f87b91a6906b2814d733414b4b4ae7434174e03e01f6f1482bc4de8b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:39:30.513363+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d6ce15a4a1494dab5d9bd51c2ab02a34ff89cb37f881a197b3d32c9786b6fc46",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:39:30.513363+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ウシおよびヒト血清アルブミンは、ジフェニレンヨードニウム誘導性の生存可能だが培養不能な<i>Mycobacterium tuberculosis</i>の培養能の回復を促進し、タンパク質キナーゼ活性が関与している可能性がある。",
+    "abstract_ja": "本研究では、H37Rv株を用いて、ウシ血清（BSA）によるジフェニレンヨードニウム（DPI）誘導性の結核菌（Mtb）の生存可能だが培養不能（VBNC）状態の再活性化メカニズムを調査した。その結果、我々の実験条件下では、FBSの主要成分であるウシ血清アルブミン（BSA）が、DPI誘導性VBNC Mtb細胞の培養能回復を促進するのに十分であることが判明した。ヒト血清アルブミンも同様の効果を示したが、マウス血清アルブミンおよび卵白アルブミン（オバルブミン）では同等の回復は誘導されず、ウシおよびヒト血清アルブミンに共通する特定の構造的または生化学的特徴がこのプロセスに寄与している可能性が示唆された。さらに、N-アセチル-L-システイン（NAC）を含む抗酸化剤は再活性化を誘導しなかったことから、抗酸化特性だけではBSAの効果を説明するには不十分であることが示唆された。培養能の回復は、Mtbにおけるセリン/スレオニンプロテインキナーゼを含む複数のキナーゼを標的とすることが知られているH89やスタウロスポリンなどのプロテインキナーゼ阻害剤によって抑制された。これらの知見は、DPI誘導性VBNC Mtb細胞からのBSA誘導性培養能回復に、プロテインキナーゼ活性が関与している可能性を示唆している。総じて、本研究はDPI誘導性VBNC Mtbモデルにおけるアルブミン依存的な培養能回復を同定し、異なる休眠モデル間で回復メカニズムを比較する必要性を強調するものである。重要性：結核菌（Mtb）細胞はストレス下で生存可能だが培養不能（VBNC）状態に陥ることがあり、実験用休眠モデルにおける細菌の生存および回復の解釈を困難にしている。しかし、特定のVBNC集団から培養能を回復させる要因については、依然として十分に解明されていない。本研究は、血清アルブミンが、ジフェニレンヨードニウム（DPI）処理によってVBNC状態となったMtb細胞からの培養能回復を促進することを示した。この効果はウシおよびヒト血清アルブミンで認められたが、マウス血清アルブミンやオバルブミンでは認められず、アルブミン依存的な回復がすべてのアルブミンに共通する特性ではないことが示された。抗酸化剤であるN-アセチル-L-システイン（NAC）による同等の回復が認められなかったことは、抗酸化活性だけではこの現象を説明できないことをさらに示唆している。特定のDPI誘導性VBNCモデルにおいてアルブミン依存的な回復を同定したことで、本研究は、他のMtb休眠モデルにおいても同様または異なる回復メカニズムが機能しているかを検証するための基礎を提供するものである。"
+  },
+  {
+    "id": "10.1093/nar/gkag1263",
+    "title": "Translons upstream of protein-coding regions rather than their products are crucial for proliferation of human cells of distinct origin",
+    "abstract": "AbstractUpstream open reading frames (uORFs) are a widespread class of translated regions (translons) occurring in 5′ leaders of messenger RNAs. They serve critical roles in post-transcriptional regulation and some are known to encode small proteins and peptideins. Yet it is not known which of these modes of function is more critical for human cells. We conducted a CRISPR-Cas9 mutagenesis screening targeting 969 translated human uORFs across three cell lines of distinct origin. Disruption of 155 uORFs impaired cell proliferation, although these effects were highly cell-type specific, with only six shared across all cell lines. Neither evolutionary conservation, comparative protein-coding potential, nor population mutational constraint distinguished uORF hits. Instead, high-throughput analysis of CRISPR-induced mutations combined with reporter assays demonstrated that proliferation phenotypes arise from altered cis-regulation of coding sequence (CDS) translation. In particular, uORFs located within short 5′ leaders were disproportionately sensitive to indels, which frequently changed the uORF–CDS configuration, resulting in altered gene expression. We further identified naturally occurring human variants that are predicted to perturb these uORFs–CDS configurations, potentially contributing to disease phenotypes. Together, these findings identify uORF translation as a pervasive layer of gene-expression control. This study demonstrates that for most uORFs, it is their native translation rather than the activity of their products that is critical for the proliferation of human cells. It also provides a systematic resource for investigating uORF functions.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1263",
+    "date": "2026-11-23",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1263/9113951?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "transcript"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5528,
+    "collected_at": "2026-11-23T12:44:27.540400+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/3091.xml"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.1093/nar/gkag1263"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ec1cad30b520567e770716c1e761a8b89637a646cbe2c36baac799947fbcdb0f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:39:30.513363+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5c8f613091d9f28646390dda4fa76d72f4489339a09143506020ff0fd859fc2d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:39:30.513363+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "タンパク質産物ではなく、タンパク質コード領域の上流に位置するトランスロンは、異なる起源を持つヒト細胞の増殖に不可欠である。",
+    "abstract_ja": "要旨：上流オープンリーディングフレーム（uORF）は、メッセンジャーRNAの5′リーダーに存在する広範な翻訳領域（トランスロン）の一種である。これらは転写後調節において極めて重要な役割を果たしており、中には低分子タンパク質やペプチドインをコードすることが知られているものもある。しかし、これらの機能様式のうち、どれがヒト細胞にとってより重要であるかは明らかになっていない。我々は、起源の異なる3つの細胞株を対象に、969種類のヒト翻訳型uORFを標的としたCRISPR-Cas9変異導入スクリーニングを実施した。155種類のuORFを破壊すると細胞増殖が阻害されたが、これらの影響は細胞種特異性が非常に高く、全細胞株に共通していたのはわずか6種類であった。進化的保存性、比較タンパク質コーディング能、あるいは集団変異制約のいずれも、uORFヒットの識別要因とはならなかった。むしろ、CRISPR誘導変異のハイスループット解析とレポーターアッセイを組み合わせた結果、増殖表現型はコーディング配列（CDS）翻訳のシス調節の変化に起因することが示された。特に、短い5′リーダー内に位置するuORFはインデルに対して不釣り合いに感受性が高く、これによりuORF–CDS構成が頻繁に変化し、結果として遺伝子発現の変動が引き起こされた。さらに、これらのuORF–CDS構成を撹乱し、疾患表現型に寄与する可能性があると予測される天然に存在するヒトバリアントを同定した。以上の知見を総合すると、uORF翻訳は遺伝子発現制御における遍在的な層であることが明らかとなった。本研究は、ほとんどのuORFにおいて、ヒト細胞の増殖に不可欠なのは産物の活性ではなく、そのネイティブな翻訳であることを示した。また、uORFの機能を調査するための体系的なリソースを提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/spectrum.01169-26",
+    "title": "Preliminary stability studies of a β-SARS-CoV-2 virus-like particle vaccine.",
+    "abstract": "We aimed to study the stability of a Beta (β)-SARS-CoV-2 virus-like particle (VLP) vaccine in a series of preliminary experiments using selective stabilizing excipients. β-SARS-CoV-2 VLPs were produced and purified using established methodologies. The thermostability of VLPs was tested at 4°C and -30°C in the presence or absence of stabilizers polysorbate 80, sorbitol, or L-histidine in the presence of a physiological NaCl concentration of 137 mM. The integrity of VLPs was assessed using ELISA, Western immunoblot, and dynamic light scatter (DLS). β-SARS-CoV-2 VLPs were stable at 4°C for 14 days, and the addition of stabilizing excipients improved stability compared to VLPs in PBS alone. Storage of VLPs at -80°C maintained particle integrity by DLS analysis for up to 2 years. Excipients helped to maintain the antigenicity of the VLPs by ELISA and Western immunoblot, and DLS analysis revealed that VLPs retained their particulate structure.IMPORTANCESARS-CoV-2 continues to circulate globally and cause significant illness. The problem of waning immunity to mRNA/LNPs has necessitated frequent boosters to keep pace with emerging variants. The development of alternative vaccines, therefore, remains a priority. Protein- based vaccines, like VLPs, offer a safe alternative able to produce longer-lasting immune responses. In this preliminary stability analysis, the β-SARS-CoV-2 VLPs were found to be stable at 4°C, and the addition of excipients improved VLP stability. Storage of VLPs at -30°C and -80°C also showed that the VLPs are stable for extended periods. Our findings will be of importance for the ongoing development of a SARS-CoV-2 VLP-based vaccine.",
+    "journal": "Microbiology Spectrum",
+    "doi": "10.1128/spectrum.01169-26",
+    "date": "2026-10-21",
+    "authors": "Edeling MA, Earnest L, Yap AHY, Montoya JC, Hans D, Torresi J.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42904729",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42904729",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5486,
+    "collected_at": "2026-11-23T12:33:52.871848+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.1128/spectrum.01169-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "020a7831b05c890cba2e284a67472ea41f859ac25a4e5831d8cf1a1991940223",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:39:30.513363+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7b7138c8bb9d6ce78500138414efaca8a25a974d5bb58e3a0e990db942b6fc8a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:39:30.513363+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "β-SARS-CoV-2ウイルス様粒子ワクチンの予備的安定性試験",
+    "abstract_ja": "本研究では、選択的な安定化アジュバントを用いた一連の予備実験により、β-SARS-CoV-2ウイルス様粒子（VLP）ワクチンの安定性を評価することを目的とした。β-SARS-CoV-2 VLPは、確立された手法を用いて作製および精製した。VLPの熱安定性は、生理的NaCl濃度137 mMの条件下で、安定化剤であるポリソルベート80、ソルビトール、またはL-ヒスチジンの存在有無により、4°Cおよび-30°Cで試験した。VLPの完全性は、ELISA、ウェスタン免疫ブロット、および動的光散乱法（DLS）を用いて評価した。β-SARS-CoV-2 VLPは4°Cで14日間安定であり、安定化アジュバントの添加により、PBS単独のVLPと比較して安定性が向上した。VLPを-80°Cで保存した場合、DLS解析により最大2年間にわたり粒子の完全性が維持された。アジュバントは、ELISAおよびウェスタン免疫ブロットによりVLPの抗原性の維持に寄与し、DLS解析の結果、VLPが粒子構造を保持していることが明らかになった。意義SARS-CoV-2は世界的に流行し続けており、重篤な疾患を引き起こしている。mRNA/LNPに対する免疫の減衰という問題により、新たな変異株の出現に追随するための頻回なブースター接種が必要となっている。したがって、代替ワクチンの開発は依然として優先課題である。VLPのようなタンパク質ベースのワクチンは、より持続的な免疫応答を誘導できる安全な代替手段となる。本予備的な安定性解析において、β-SARS-CoV-2 VLPは4°Cで安定であり、アジュバントの添加によりVLPの安定性が向上することが示された。また、VLPを-30°Cおよび-80°Cで保存した場合においても、VLPが長期間安定であることが示された。本知見は、現在進行中のSARS-CoV-2 VLPベースのワクチン開発において重要となるであろう。"
+  },
+  {
+    "id": "10.1093/nar/gkag1237",
+    "title": "AAV-mediated XIST deletion in female human hepatocytes with skewed X-inactivation induces limited reactivation of the X-linked OTC gene in vivo",
+    "abstract": "AbstractReactivation of silenced wild-type alleles on the inactive X chromosome (Xi) offers a promising therapeutic avenue for X-linked disorders affecting females. The long non-coding RNA XIST is central to Xi silencing, yet its complete loss risks chromosome-wide dosage imbalance. To explore reactivation in a translational context, we employed chimeric mouse–human FRG livers repopulated with primary hepatocytes from a female patient with ornithine transcarbamylase (OTC) deficiency exhibiting highly skewed X-inactivation. Adeno-associated virus (AAV)-mediated CRISPR–Cas9 delivery was used to disrupt XIST in vivo to assess effects on chromatin landscape and OTC expression. Despite differential XIST promoter methylation, the Xi remained accessible to CRISPR–Cas9, with editing frequencies comparable to those of the active X chromosome. XIST deletion induced limited reactivation of the wild-type OTC allele and was accompanied by broader epigenetic effects. CUT&RUN profiling distinguished effects of vector delivery and XIST deletion, including global H3K4me3 reduction after AAV transduction, X chromosome-restricted H3K27me3 reduction after XIST deletion, and broader H3K27ac reduction in edited hepatocytes. These findings demonstrate the feasibility of manipulating the human Xi in vivo while revealing distinct Xi-specific and broader chromatin effects. Together, they highlight the need for precise, locus-specific strategies to achieve therapeutic gene reactivation while preserving chromosome-wide epigenetic regulation.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1237",
+    "date": "2026-11-23",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1237/9113950?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5529,
+    "collected_at": "2026-11-23T12:44:27.540400+00:00",
+    "collected_date": "2026-11-23",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/3091.xml"
+    ],
+    "first_seen": "2026-11-23",
+    "related_dois": [
+      "10.1093/nar/gkag1237"
+    ],
+    "translation": {
+      "title": {
+        "hash": "77159fc8ad9a24fa02466c99f296d9d9c1198cbd84752d0bfce61d470ae53897",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:39:30.513363+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b3b1b01374e9e1fa46465153f1999a0af5a5b6004aad4c4a3f581acbf719da0b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-23T13:39:30.513363+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "X染色体不活性化の偏りを伴うヒト雌性肝細胞におけるAAV介在性XIST欠失は、生体内でX連鎖性OTC遺伝子の限定的な再活性化を誘導する。",
+    "abstract_ja": "要旨 不活性なX染色体（Xi）上のサイレンシングされた野生型アレルの再活性化は、女性に影響を及ぼすX連鎖性疾患に対する有望な治療手段となる。長鎖非コードRNA XISTはXiのサイレンシングにおいて中心的な役割を担うが、その完全な喪失は染色体全体にわたる用量不均衡を招くリスクがある。翻訳学的な文脈における再活性化を検討するため、我々は、高度に偏ったX染色体不活性化を示すオルニチントランスカルバミラーゼ（OTC）欠損症の女性患者由来の初代肝細胞を再導入した、マウス・ヒトキメラFRG肝臓を用いた。アデノ随伴ウイルス（AAV）媒介性CRISPR–Cas9デリバリーを用いてin vivoでXISTを破壊し、クロマチンランドスケープおよびOTC発現への影響を評価した。XISTプロモーターのメチル化に差異があったにもかかわらず、XiはCRISPR–Cas9に対してアクセス可能な状態を維持しており、編集頻度は活性型X染色体と同等であった。XISTの欠失は野生型OTCアレルの限定的な再活性化を誘導し、それに伴ってより広範なエピジェネティックな効果が認められた。CUT&RUNプロファイリングにより、ベクターデリバリーとXIST欠失の影響が区別され、AAV導入後の全般的なH3K4me3の減少、XIST欠失後のX染色体特異的なH3K27me3の減少、および編集された肝細胞におけるより広範なH3K27acの減少が認められた。これらの知見は、in vivoでヒトXiを操作することの実現可能性を示すとともに、Xi特異的な効果とより広範なクロマチン効果を明らかにするものである。これらを総合すると、染色体全体のエピジェネティック調節を維持しつつ、治療的な遺伝子再活性化を実現するための、精密かつ遺伝子座特異的な戦略の必要性が浮き彫りとなる。"
   }
 ]
