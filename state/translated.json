@@ -330318,5 +330318,309 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "変動する標的：非定常選択がウイルスの適応度の教師なし予測を支配する",
     "abstract_ja": "変異がウイルスの適応度をどのように変化させるかを予測することは、ゲノムサーベイランスおよびワクチン設計の中核をなす。しかし、最も精度の高い教師あり変異効果予測器の根拠となる表現型データは、ほとんどの新興病原体において得られていない。したがって、配列、その進化履歴、およびタンパク質構造のみを用いたラベルフリーかつ教師なしのアプローチがどのような性能を示すかは不明である。この未解決の課題に取り組むため、我々は、本質的複製適応度、抗原逃避、および実現増殖という、解釈可能な主要項を推定するモジュール式の完全教師なしパイプラインを構築した。各項は複数の推定器によって生成されるため、適応度予測器は検証可能なモデル選択となる。ProteinGymの21種類のウイルス深層変異スキャンアッセイを用いて本質的項をベンチマークした結果、6億5,000万パラメータの単一配列タンパク質言語モデル（PLM）はウイルス適応度の予測精度が低く、一方で単純な部位非依存アライメントモデルは性能を2倍以上に向上させ、特にPLMの学習に含まれていない抗原表面タンパク質において最大の向上が見られた。一方、タンパク質アライメントに基づくPLM（MSA Transformer、Tranception）は、単一配列PLMで失われた精度を回復するが、単純なアライメントを大幅に上回ることはない。したがって、ウイルス適応度を予測する上で最も重要な特徴は、モデルの規模やアーキテクチャではなく、タンパク質アライメントである。我々の主要な結果は進化論的なものである。SARS-CoV-2のスパイクおよびインフルエンザH3N2ヘマグルチニンの年代が特定された配列を用いた結果、アライメントの時代そのものが、ウイルス固有の精度決定因子であることが明らかになった。これは、選択が非定常なプロセスであり、それ自体がウイルス固有の性質を持つことを示している。適応度の系統的変異選択推定器は、はるかに単純で計算コストの低いアライメントモデルに及ばない。総じて、本研究は、教師なしのウイルス適応度予測が、モデリングの問題であると同時に進化論的な問題でもあることを示している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "bioRxiv",
+        "query": "details/biorxiv/2026-10-20/2026-11-10",
+        "scope": "candidate"
+      }
+    ],
+    "id": "10.64898/2026.08.26.739472",
+    "doi": "10.64898/2026.08.26.739472",
+    "title": "Lineage-specific X chromosome inactivation escape and skew underlie sex-biased immune gene dosage and deleterious variant exposure",
+    "abstract": "The X chromosome carries an unusually high density of immune genes and is a major contributor to sex differences in immune function and autoimmune diseases. In females, X-chromosome inactivation (XCI) has two major functional consequences: it shapes X-linked gene dosage through XCI escape and determines the cellular exposure of heterozygous X-linked variants through XCI skew. Yet because XCI creates a mosaic of cells expressing different parental X chromosomes, these properties have remained largely inaccessible in individual women, becoming measurable only where XCI is non-random or after aggregation across large cohorts. Consequently, how X-linked variation contributes to sex-biased immunity and differs between individual women has remained unresolved. Here we present scDaisyChain, a graph-based framework that reconstructs chromosome-scale X haplotypes directly from heterozygous SNPs and single-cell long-read transcriptomes. scDaisyChain achieves near-ground-truth accuracy in highly polymorphic mouse hybrids and shows strong concordance with orthogonal long-read whole-genome phasing in human samples. Applied to peripheral blood immune cells from healthy women, it reveals a lineage-specific escape program in which lymphoid cells escape XCI more broadly than monocytes, with corresponding gains in the inactive X chromatin accessibility and female-biased expression. Lineage-specific skew further alters the proportion of cells expressing each heterozygous X-linked variant, a property we term variant exposure. Predicted deleterious variants are preferentially found in low-exposure states, exemplified by a splice-altering TLR8 variant expressed in few cytotoxic T cells. In rheumatoid arthritis (RA), the monocyte compartment - which has the lowest escape in health - shows reproducible inactive X dysregulation converging on a trained-immunity programme linked to disease flare and synovial macrophage activation, with elevated escape of IL13RA1 and HDAC8. These findings establish lineage-specific escape, skew and variant exposure as quantifiable, patient-resolved determinants of sex-biased immune gene dosage and X-linked variant penetrance in health and autoimmune disease, resolving a dimension of female biology that has been previously inaccessible in individual donors.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "2",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.08.26.739472"
+    ],
+    "date": "2026-10-21",
+    "authors": "Kavanagh, D.; Steel, A.; King, H. E.; Vieira, H. G. S.; Kumar, K. R.; Masle-Farquhar, E.; King, C.; Weatheritt, R. J.; Skvortsova, K.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.08.26.739472v2",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "transcriptome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5540,
+    "collected_at": "2026-11-24T14:50:01.882069+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-24",
+    "translation": {
+      "title": {
+        "hash": "a6d2990d5d6a5e49ebfd7485c1b86a6b0949d15155f94ee061514689922f565b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T15:33:24.022742+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "75b1aa4d77aef4db024b44c47bcb5c1ece861f50c7a4593badfc61b64c76b4f0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T15:33:24.022742+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "系統特異的なX染色体不活性化の逃避と偏りが、性差による免疫遺伝子量および有害変異への曝露の基盤となっている。",
+    "abstract_ja": "X染色体は免疫遺伝子を異常に高い密度で保持しており、免疫機能の性差や自己免疫疾患の主要な要因となっている。女性において、X染色体不活性化（XCI）には2つの主要な機能的帰結がある。すなわち、XCIエスケープを通じてX連鎖遺伝子の用量を規定することと、XCIスキューを通じてヘテロ接合型X連鎖変異体の細胞内露出を決定することである。しかし、XCIは異なる親由来のX染色体を発現する細胞のモザイクを形成するため、これらの特性は個々の女性においては概ね把握できず、XCIが非ランダムである場合や、大規模なコホートにおける集約後になって初めて測定可能となる。その結果、X連鎖変異がいかにして性バイアスのある免疫に寄与し、個々の女性間でどのように異なるのかは未解明のままであった。本研究では、ヘテロ接合型SNPおよびシングルセル・ロングリードトランスクリプトームから直接、染色体スケールのXハプロタイプを再構築するグラフベースのフレームワーク「scDaisyChain」を提案する。scDaisyChainは、高度に多型性を示すマウスハイブリッドにおいてほぼ真値に近い精度を達成し、ヒトサンプルにおける直交的なロングリード全ゲノムフェイジングと強い一致を示す。健康な女性の末梢血免疫細胞に適用したところ、リンパ系細胞が単球よりも広範にXCIをエスケープする系統特異的なエスケーププログラムが明らかになり、それに伴い不活性Xクロマチンのアクセシビリティと女性バイアス的な発現が増加していた。系統特異的なスキューは、各ヘテロ接合型X連鎖変異体を発現する細胞の割合をさらに変化させ、我々はこの特性を「変異体露出」と呼ぶ。予測された有害変異は、少数の細胞傷害性T細胞で発現するスプライス改変型TLR8変異体に代表されるように、低露出状態で優先的に認められる。関節リウマチ（RA）では、健常状態でエスケープが最も低い単球コンパートメントにおいて、疾患フレアおよび滑膜マクロファージ活性化に関連する訓練免疫プログラムへと収束する再現性のある不活性X調節不全が認められ、IL13RA1およびHDAC8のエスケープが亢進していた。これらの知見は、系統特異的なエスケープ、スキュー、および変異体露出が、健常状態および自己免疫疾患における性バイアスのある免疫遺伝子用量およびX連鎖変異体の浸透率の定量可能かつ患者固有の決定要因であることを立証し、個々のドナーにおいてはこれまで把握できなかった女性生物学の一側面を明らかにするものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "bioRxiv",
+        "query": "details/biorxiv/2026-10-20/2026-11-10",
+        "scope": "candidate"
+      }
+    ],
+    "id": "10.64898/2026.10.03.756322",
+    "doi": "10.64898/2026.10.03.756322",
+    "title": "Reforestation without Belowground Recovery: Sediment Microbiomes and Organic Carbon in Caribbean Mangroves",
+    "abstract": "Mangrove reforestation is expanding across the Caribbean, but restoration success is still judged almost exclusively by tree survival and canopy cover. Whether the sediment microbiome, which governs carbon burial and nutrient cycling, follows the recovery of the vegetation remains largely unknown. We combined 16S rRNA gene metabarcoding (V4, Illumina MiSeq) with CHNS elemental analysis, pH and salinity measurements to compare sediment prokaryotic communities along 0-100 cm profiles in a reference, a reforested (Rhizophora mangle plantings since 2019) and an altered mangrove within the Las Dunas de Las Calderas Natural Monument, Dominican Republic (39 cores pooled into 28 depth-resolved composite samples). Reference sediments contained 2.5-5.5-fold more organic carbon (median 7.5% vs 3.0% in altered and 1.3% in reforested sediments), had higher C/N ratios and were less alkaline (pH 8.2 vs 8.8). Reference communities were more diverse and even, and differed in composition from both disturbed stands (pairwise PERMANOVA, R^2 ~ 0.09, adjusted P = 0.0015), whereas reforested and altered communities were statistically indistinguishable (R^2 = 0.04, P = 0.25). Disturbed sediments were dominated by Cyanobacteriota (~41-45% of reads), which tracked high pH, whereas reference sediments were enriched in Chloroflexota, Thermodesulfobacteriota and Thermoproteota, lineages linked to anaerobic degradation of complex organic matter and sulfate reduction. Depth structured communities by separating surface from subsurface layers, and sediment organic carbon and nitrogen were the only significant constraints in distance-based redundancy analysis. These results indicate that, within a few years of the first plantings (2019), reforestation had not restored the carbon-rich, anaerobic sediment habitat of the reference forest. We propose sediment organic carbon and microbial community structure as complementary indicators for mangrove restoration monitoring in the Caribbean.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "2",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.10.03.756322"
+    ],
+    "date": "2026-10-21",
+    "authors": "Lopez-Chevalier, H. B.; Avelino Perez, A. N.; Suriel Jaime, J. E.; Garcia Encarnacion, L.; Cabrera-Hernandez, J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.03.756322v2",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "microbial",
+        "microbiome",
+        "microbiomes",
+        "prokaryotic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "16S rRNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5541,
+    "collected_at": "2026-11-24T14:50:01.882069+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-24",
+    "translation": {
+      "title": {
+        "hash": "e605ac8b897e1cdca431bdf5d07a693f866a5bcd22707650085cbc81ae26e196",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T15:33:24.022742+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "bd5c76795c6cd7b7e7ba03152084401e86aa87937b117aa5a797d3828aeea9f1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T15:33:24.022742+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "地下回復を伴わない再造林：カリブ海マングローブにおける堆積物微生物叢と有機炭素",
+    "abstract_ja": "カリブ海全域でマングローブの再植林が拡大しているが、復元の成否は依然としてほぼ専ら樹木の生存率と樹冠被覆率によって判断されている。炭素固定と栄養循環を司る堆積物微生物叢が、植生の回復に伴って変化するかどうかは、依然として大部分が不明である。本研究では、16S rRNA遺伝子メタバーコーディング（V4, Illumina MiSeq）とCHNS元素分析、pHおよび塩分濃度の測定を組み合わせ、ドミニカ共和国のラス・ドゥナス・デ・ラス・カルデラス自然記念物内にある基準地、再植林地（2019年以降にRhizophora mangleを植栽）、および改変マングローブの0～100 cmプロファイルに沿って、堆積物原核生物群集を比較した（39本のコアを統合し、深度分解能を有する28個の複合サンプルを作成）。基準堆積物は、有機炭素量が2.5～5.5倍多く（中央値：改変堆積物 3.0% に対し再植林堆積物 7.5%、1.3%）、C/N比が高く、アルカリ性が低かった（pH 8.2 対 8.8）。基準群集はより多様で均質であり、その組成は両撹乱林とは異なっていた（ペアワイズPERMANOVA, R^2 ~ 0.09, 調整後P = 0.0015）一方、再植林地と改変群集は統計的に区別がつかなかった（R^2 = 0.04, P = 0.25）。撹乱堆積物ではシアノバクテリオータ（リードの約41～45%）が優占し、高いpHを追跡していたが、基準堆積物ではクロロフレクタータ、サーモデスルフォバクテリオータ、およびサーモプロテオータが豊富であり、これらは複雑な有機物の嫌気的分解および硫酸塩還元に関連する系統であった。表層と亜表層を分離することで群集は深度構造を示し、堆積物有機炭素と窒素が、距離に基づく冗長性解析における唯一の有意な制約因子であった。これらの結果は、最初の植栽（2019年）から数年以内には、再植林によって基準林の炭素に富む嫌気性堆積物生息地が復元されていなかったことを示している。我々は、カリブ海におけるマングローブ復元モニタリングの補完的な指標として、堆積物有機炭素および微生物群集構造を提案する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "bioRxiv",
+        "query": "details/biorxiv/2026-10-20/2026-11-10",
+        "scope": "candidate"
+      }
+    ],
+    "id": "10.64898/2026.10.19.760252",
+    "doi": "10.64898/2026.10.19.760252",
+    "title": "Bayesian Variable Selection Approaches to Identifying Selection in Evolutionary Datasets",
+    "abstract": "We consider the problem of identifying individual sites and characters under selection in phylogenetic datasets. We introduce an approach based on the application of Bayesian variable selection to mutation-selection models, which enables both sites and selection coefficients to be explicitly excluded from the model in order to control parameter complexity. We provide an accelerated Gibbs sampling algorithm for model selection and parameter estimation, which enables our approach to scale to realistic sequence lengths and dataset sizes. We compare this approach to previous models that do not produce sparse solutions but attempt to control complexity through Dirichlet-process (DP) mixture model prior distributions. We demonstrate that the Bayesian variable selection approach outperforms the DP approach for a wide range of settings and selection signal strengths, while offering additional advantages of sparsity and interpretability. We also identify a problem of the DP prior producing \"phantom selection\" artifacts, on both simulated and real datasets, which the Bayesian variable selection approach avoids.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.10.19.760252"
+    ],
+    "date": "2026-10-21",
+    "authors": "Li, Y.; Schmidler, S.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.19.760252v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "algorithm",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 5542,
+    "collected_at": "2026-11-24T14:50:01.882069+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-24",
+    "translation": {
+      "title": {
+        "hash": "8e30b16ed2442f5f8a5c7f8b6b98aff3f570747e6b0947320d7874d558edafaa",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T15:33:24.022742+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d506f932cb24430607cb6336c0d13acf5135031db71496f09626694304b13f82",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T15:33:24.022742+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "進化データセットにおける選択を同定するためのベイズ変数選択手法",
+    "abstract_ja": "系統データセットにおける選択下の個々の部位および文字の同定問題を検討する。変異選択モデルにベイズ変数選択を適用する手法を導入し、パラメータの複雑さを制御するために、部位と選択係数の両方をモデルから明示的に除外することを可能にする。モデル選択およびパラメータ推定のための高速化されたギブスサンプリングアルゴリズムを提示し、これにより本手法を現実的な配列長やデータセットサイズまで拡張可能とする。この手法を、スパースな解を生成せず、ディリクレ過程（DP）混合モデルの事前分布を通じて複雑さを制御しようとする従来のモデルと比較する。広範な設定および選択シグナル強度において、ベイズ変数選択手法がDP手法を上回る性能を示すとともに、スパース性と解釈可能性というさらなる利点を持つことを実証する。また、シミュレーションデータセットおよび実データセットの双方において、DP事前分布が「ファントム選択」アーティファクトを生じさせる問題を特定し、ベイズ変数選択手法がこれを回避することを示す。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "bioRxiv",
+        "query": "details/biorxiv/2026-10-20/2026-11-10",
+        "scope": "candidate"
+      }
+    ],
+    "id": "10.1101/2025.04.20.649691",
+    "doi": "10.1101/2025.04.20.649691",
+    "title": "CompleteBin: A transformer-based framework unlocks microbial dark matter through improved short contig binning",
+    "abstract": "Metagenomic binning is crucial for reconstructing microbial genomes from metagenomes. However, existing tools perform poorly in complex communities, where short contigs from low-abundance organisms predominate. This limits the deciphering of community composition and the functions it encodes. Here we present CompleteBin, a Transformer-based framework that bins contigs as short as 850 bp by combining context-based sequence tokenization, taxonomic embeddings from a Transformer pre-trained on reference genomes, and dynamic multi-view contrastive learning. We benchmarked CompleteBin against five binners using 80 CAMI II and 54 real-world metagenomes, yielding 111 CAMI II evaluation instances through the use of both gold-standard and independently assemblies. AMBER evaluation showed that CompleteBin achieved the highest base-pair-level F1 score in every CAMI II dataset across single-sample, multi-sample and co-assembly modes. CompleteBin also generally recovered more near-complete (NC) and medium-quality-or-higher (MQ+) metagenome-assembled genomes (MAGs) in both CAMI II and the real-world datasets. In cold-seep sediments, CompleteBin recovered 227 MQ+ strain-level genome bins (StGBs) that no other binner did, spanning 33 phyla. Contigs assigned to MQ+ MAGs only by CompleteBin encoded 473,671 non-redundant genes. Community-scale metabolic modelling further identified 777 StGBs encoding both complete nitrate and sulfate reduction pathways, 154 of which were not fully recovered by other binners, highlighting understudied microbial contributors to local element cycling.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "4",
+    "published_doi": "",
+    "related_dois": [
+      "10.1101/2025.04.20.649691"
+    ],
+    "date": "2026-10-21",
+    "authors": "Zou, B.; Zhang, Z.; Wang, X.; Tao, R.; Gu, N.; Kristiansen, K.; Li, S.; Han, M.; Zhang, L.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.1101/2025.04.20.649691v4",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "genome",
+        "metagenom",
+        "metagenome",
+        "metagenomes",
+        "metagenomic",
+        "metagenomic binning",
+        "microbial",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assemblies",
+          "assembly",
+          "binning",
+          "genom",
+          "genome",
+          "metagenom",
+          "metagenome",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5544,
+    "collected_at": "2026-11-24T14:50:01.882069+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-24",
+    "translation": {
+      "title": {
+        "hash": "405064ca736a8e66a8d091d58f9dd1d1c7c33be0999e2be5b9a936e5dd48cd5b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T15:33:24.022742+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "45e70fb18b24c7536c407e39418e7f57d7b7e11caec2559e55cff2a999fd7c64",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T15:33:24.022742+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "CompleteBin: トランスフォーマーベースのフレームワークによる、ショートコンティグ・ビニングの改良を通じた微生物ダークマターの解明",
+    "abstract_ja": "メタゲノムからの微生物ゲノムの再構築において、メタゲノムビニングは極めて重要である。しかし、既存のツールは、低存在量生物由来の短いコンティグが支配的な複雑なコミュニティにおいて性能が劣る。このため、コミュニティ組成およびそれがコードする機能の解明が制限されている。本研究では、コンテキストベースの配列トークン化、リファレンスゲノムで事前学習されたTransformerによる分類学的埋め込み、および動的マルチビュー対照学習を組み合わせることで、850 bpという短いコンティグをビンニングするTransformerベースのフレームワーク「CompleteBin」を提案する。我々は、80件のCAMI IIおよび54件の実世界メタゲノムを用いて5つのビナーとCompleteBinをベンチマーク評価し、ゴールドスタンダードおよび独立したアセンブリの両方を用いることで111件のCAMI II評価インスタンスを得た。AMBERによる評価の結果、CompleteBinは単一サンプル、マルチサンプル、および共アセンブリの各モードにおいて、すべてのCAMI IIデータセットで最高の塩基対レベルF1スコアを達成した。また、CompleteBinはCAMI IIおよび実世界データセットの双方において、概してより完全な状態に近い（NC）および中程度以上の品質（MQ+）のメタゲノムアセンブルゲノム（MAG）をより多く回収した。コールドシープ堆積物において、CompleteBinは他のどのビナーも回収できなかった227件のMQ+株レベルゲノムビン（StGBs）を回収し、これは33の門にわたっていた。CompleteBinによってのみMQ+ MAGに割り当てられたコンティグには、473,671個の非冗長遺伝子がコードされていた。コミュニティスケールの代謝モデリングにより、硝酸および硫酸の両方の還元経路をコードする777件のStGBがさらに同定され、そのうち154件は他のビナーでは完全に回収されていなかった。このことは、局所的な元素循環に寄与する、十分に研究されていない微生物因子を浮き彫りにしている。"
   }
 ]
