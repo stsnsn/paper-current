@@ -333696,5 +333696,286 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "CellWHISPERは、構造的な近接性から直接的な細胞間コミュニケーションを解き明かす。",
     "abstract_ja": "空間トランスクリプトミクスにより、接触依存的な直接的な細胞間コミュニケーションを推論することが可能となるが、既存のツールは細胞種や遺伝子発現の空間的構造に起因して、エラー率が高くなる傾向がある。本研究では、空間トランスクリプトミクスデータから、ギャップ結合やリガンド-受容体シグナル伝達を含む接触媒介性コミュニケーションを推論するためのフレームワーク「CellWHISPER」を提案する。CellWHISPERは、細胞種特異的な発現や空間的組織化による交絡効果を考慮した統計的手法を用いてエラーを制御する。閉形式の有意性スコアにより、大規模データの解析が可能となる。潜在変数モデルは、反復的なパターンを細胞種間およびシグナル伝達遺伝子間の選好マップへと蒸留する。我々は、2つの技術（Stereo-seq、Xenium）、2種の生物、および3つの組織を用いてCellWHISPERを実証した。マウス脳においては、包括的なコネキシン相互作用マップが得られた。免疫染色により、既存の手法では優先的に検出できなかった、アストロサイト、ミクログリア、および内皮細胞間のCellWHISPER予測によるコネキシン43媒介性インターフェースが確認された。強い空間勾配を持つ組織であるヒト結腸および皮膚において、CellWHISPERは勾配に沿った、および勾配に依存しない双方のコミュニケーション機構を復元した。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "bioRxiv",
+        "query": "details/biorxiv/2026-10-20/2026-11-10",
+        "scope": "candidate"
+      }
+    ],
+    "id": "10.64898/2026.03.09.710472",
+    "doi": "10.64898/2026.03.09.710472",
+    "title": "Coiled-coil homo-oligomerization and disaggregase Hsp104 act in parallel to stabilize orphan septins",
+    "abstract": "Multiple septin family proteins co-assemble with strict subunit stoichiometry into hetero-oligomers. In the absence of native septin partners, purified septins aggregate in vitro, and \"orphan\" septins are found in pathological aggregates associated with neurodegenerative diseases. Cytosolic chaperones bind the septin GTPase domain to promote on-pathway septin folding but it was unclear how cells manage orphan septins to maintain subunit stoichiometry. Most septins have C-terminal domains (CTDs) that form heteromeric coiled coils within or between septin complexes. Here we present evidence that orphan yeast septins are protected from proteasomal degradation by forming transient coiled-coil homodimers and trimers and, in parallel, by the disaggregase chaperone Hsp104. Septins unable to undergo CTD-mediated homo-oligomerization require Hsp104 to accumulate to super-stoichiometric levels. We show that septin-encoding mRNAs differ in copy number per cell and subcellular localization, creating opportunities for transient subunit imbalances. These findings reveal a novel role for coiled coils and the proteostasis machinery in the fidelity of higher-order septin assembly.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "5",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.03.09.710472"
+    ],
+    "date": "2026-10-22",
+    "authors": "Cavini, I. A.; Yeager, R. M.; Velasquez, A.; Pinto, A. P. A.; Araujo, A. P. U.; Garratt, R. C.; McMurray, M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.03.09.710472v5",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5572,
+    "collected_at": "2026-11-24T21:11:07.209251+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-24",
+    "translation": {
+      "title": {
+        "hash": "22d467a868dcdae1d8d1152f1cf835028e34ebbcf692c9354fd880c259c456f2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T22:00:44.494879+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ad060317ea06a5fc09e78cb30d37c92b64c4bda70373738e67a3c1b9a25b3929",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T22:00:44.494879+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "コイルドコイル相同オリゴマー化とディスアグリゲーゼHsp104は並行して作用し、オーファンセプチンを安定化させる",
+    "abstract_ja": "複数のセプチンファミリータンパク質は、厳密なサブユニット化学量論比に従って会合し、ヘテロオリゴマーを形成する。天然のセプチンパートナーが存在しない場合、精製セプチンはin vitroで凝集し、神経変性疾患に関連する病理学的凝集体には「オーファン」セプチンが認められる。細胞質シャペロンはセプチンGTPaseドメインに結合してパスウェイ上のセプチンフォールディングを促進するが、細胞がサブユニット化学量論比を維持するためにオーファンセプチンをどのように制御しているかは不明であった。ほとんどのセプチンは、セプチン複合体内または複合体間でヘテロマー性コイルドコイルを形成するC末端ドメイン（CTD）を有する。本研究では、酵母のオーファンセプチンが、一過性のコイルドコイルホモ二量体および三量体を形成すること、ならびに並行してディスアグリゲーゼシャペロンHsp104によってプロテアソーム分解から保護されていることを示す証拠を提示する。CTD介在性のホモオリゴマー化が不可能なセプチンは、Hsp104が超化学量論的レベルまで蓄積することを必要とする。我々は、セプチンをコードするmRNAが細胞あたりのコピー数および細胞内局在において異なり、これが一過性のサブユニット不均衡が生じる要因となることを示す。これらの知見は、高次セプチン集合の忠実度におけるコイルドコイルおよびプロテオスタシス機構の新たな役割を明らかにするものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "bioRxiv",
+        "query": "details/biorxiv/2026-10-20/2026-11-10",
+        "scope": "candidate"
+      }
+    ],
+    "id": "10.64898/2026.05.19.726264",
+    "doi": "10.64898/2026.05.19.726264",
+    "title": "Differential Gene Expression in the Tropical House Cricket and Its Iridovirus in Healthy versus Diseased Specimens",
+    "abstract": "The tropical house cricket, Gryllodes sigillatus, is a mass-produced insect that is used as a protein source for pets and livestock. However, intensive mass-rearing conditions, coupled with high genetic relatedness, create an ideal environment for the spread of pathogenic microbes that severely impact production. Cricket iridovirus (CrIV) is a pathogen that impedes cricket growth and causes significant losses for cricket farmers. Interestingly, recent studies have shown that CrIV is often present asymptomatically, yet the molecular basis of the emergence of disease symptoms remains unknown. To address this, we sampled healthy and diseased crickets and examined differences in cricket and CrIV gene expression via RNAseq. Using differential gene expression analysis and functional enrichment analysis, we found significant differences in host and viral gene expression between healthy and diseased crickets, including genes involved in immunity. Interestingly, while we observed high CrIV gene expression across the entire CrIV genome in sick populations, healthy asymptomatic populations showed elevated expression at a single viral locus. Our results shed light not only on the cricket immune response to CrIV infection but also identify a viral gene that is highly expressed during covert infections, suggesting its potential role in suppressing the host's immune response. These findings enhance our understanding of how CrIV interacts with its cricket host, providing essential insights for developing targeted strategies to manage CrIV outbreaks in cricket mass-rearing facilities.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "2",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.05.19.726264"
+    ],
+    "date": "2026-10-22",
+    "authors": "Hinton, J. A.; Walt, H. K.; Duffield, K. R.; Ramirez, J. L.; Meyer, F.; Hoffmann, F. G.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.05.19.726264v2",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbe",
+        "microbes",
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5573,
+    "collected_at": "2026-11-24T21:11:07.209251+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-24",
+    "translation": {
+      "title": {
+        "hash": "22bb1dcff48e228b597dbac28d82f42d18831e72327d0e1540f7332de1c35ac8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T22:00:44.494879+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "657c20b44377054c291aebb9869c21d64cfa5f247b9ff38f10d9deb2018f23dd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T22:00:44.494879+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "熱帯家屋コオロギおよびそのイリドウイルスにおける健常個体と病個体の遺伝子発現の差異",
+    "abstract_ja": "熱帯家屋コオロギ（Gryllodes sigillatus）は、ペットや家畜のタンパク質源として大量生産されている昆虫である。しかし、集約的な大量飼育環境と高い遺伝的近縁性が相まって、生産に深刻な影響を及ぼす病原性微生物が蔓延する理想的な環境が形成されている。コオロギイリドウイルス（CrIV）は、コオロギの成長を阻害し、コオロギ養殖業者に多大な損失をもたらす病原体である。興味深いことに、近年の研究では、CrIVはしばしば無症状で存在することが示されているが、疾患症状の発現に関する分子基盤は依然として不明である。この課題に対処するため、我々は健康なコオロギと疾患個体をサンプリングし、RNAseqを用いてコオロギとCrIVの遺伝子発現の差異を検討した。発現変動解析および機能濃縮解析を用いた結果、免疫に関わる遺伝子を含め、健康なコオロギと疾患個体の間で宿主およびウイルスの遺伝子発現に有意な差があることを見出した。興味深いことに、疾患個体群ではCrIVゲノム全体にわたって高いCrIV遺伝子発現が認められたのに対し、健康な無症状個体群では単一のウイルス遺伝子座において発現の上昇が認められた。本研究の結果は、CrIV感染に対するコオロギの免疫応答を明らかにするだけでなく、潜伏感染時に高発現するウイルス遺伝子を同定し、宿主の免疫応答を抑制する潜在的な役割を示唆している。これらの知見は、CrIVがコオロギ宿主とどのように相互作用するかについての理解を深めるものであり、コオロギの大量飼育施設におけるCrIV発生を管理するための標的戦略を策定する上で不可欠な知見を提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "bioRxiv",
+        "query": "details/biorxiv/2026-10-20/2026-11-10",
+        "scope": "candidate"
+      }
+    ],
+    "id": "10.64898/2026.06.22.733418",
+    "doi": "10.64898/2026.06.22.733418",
+    "title": "Directional information flow as a tool for analyzing protein allostery",
+    "abstract": "The ability to tune protein function through the binding of modulatory ligands enables the development of therapeutics that steer a biological system away from dysfunctional states underlying disease. Understanding the dynamic mechanisms by which allosteric ligands alter protein function remains an important open question. Dynamical network models allow us to quantify information flow between protein functional sites. However, existing network models use time-symmetric metrics for computing information from correlated residue motions extracted from molecular dynamics (MD) simulations, failing to fully capture directional information flow between sites. Here, we developed a Python library, TEntroPy, and analysis workflow using transfer entropy to generate a directional protein network from equilibrium MD trajectories. Applying this workflow to proteins with known allosteric ligands, we identified residues in both allosteric and orthosteric (primary) binding sites acting as broadcasters and receivers of information. We then computed optimal paths of directional information flow between binding sites. The presence of temporal asymmetry in residue coupling identified from simulations of the unbound (apo) state suggests that directional information flow is encoded in the intrinsic dynamics of the protein. To test this, we perturbed key binding-site residues and demonstrated that our TE-weighted network captures perturbation-induced changes in dynamics along communication routes between binding sites. Our work highlights transfer entropy as an additional tool for understanding the changes in flexibility and rigidity that drive dynamic mechanisms of allosteric communication.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "2",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.06.22.733418"
+    ],
+    "date": "2026-10-22",
+    "authors": "Yovanno, R. A.; Lau, A. Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.06.22.733418v2",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "gene",
+        "protein",
+        "tool",
+        "workflow"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "gene",
+          "protein",
+          "tool",
+          "workflow"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5574,
+    "collected_at": "2026-11-24T21:11:07.209251+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-24",
+    "translation": {
+      "title": {
+        "hash": "8d05838b725de7b3ba5491be299958e99fd9a1f7aa31bf60019c7ae5a02498f3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T22:00:44.494879+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6121f591e9dabbb695e34d2058b1dc046a677252832803e47299ecf921b5de59",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T22:00:44.494879+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "タンパク質アロステリシス解析ツールとしての方向性情報フロー",
+    "abstract_ja": "調節リガンドの結合を介してタンパク質機能を調節できる能力により、疾患の根底にある機能不全状態から生物学的システムを導く治療薬の開発が可能となる。アロステリックリガンドがタンパク質機能を変化させる動的メカニズムの解明は、依然として重要な未解決課題である。動的ネットワークモデルを用いることで、タンパク質機能部位間の情報フローを定量化できる。しかし、既存のネットワークモデルでは、分子動力学（MD）シミュレーションから抽出した相関残基運動の情報計算に時間対称な指標を用いており、部位間の方向性のある情報フローを十分に捉えきれていない。本研究では、平衡状態のMD軌跡から方向性のあるタンパク質ネットワークを生成するため、PythonライブラリTEntroPyと転移エントロピーを用いた解析ワークフローを開発した。このワークフローをアロステリックリガンドが既知のタンパク質に適用し、アロステリック結合部位とオルソステリック（一次）結合部位の両方において、情報の発信源および受信源として機能する残基を同定した。次いで、結合部位間における方向性のある情報フローの最適経路を算出した。非結合（アポ）状態のシミュレーションから同定された残基カップリングにおける時間的非対称性の存在は、方向性のある情報フローがタンパク質固有のダイナミクスに符号化されていることを示唆している。これを検証するため、主要な結合部位残基に摂動を加え、我々のTE重み付きネットワークが、結合部位間の通信経路に沿った摂動誘発性のダイナミクス変化を捉えることを示した。本研究は、アロステリック通信の動的メカニズムを駆動する柔軟性と剛性の変化を理解するための追加的なツールとして、転移エントロピーの有用性を強調するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "bioRxiv",
+        "query": "details/biorxiv/2026-10-20/2026-11-10",
+        "scope": "candidate"
+      }
+    ],
+    "id": "10.64898/2026.07.13.738248",
+    "doi": "10.64898/2026.07.13.738248",
+    "title": "MYC Suppresses Mitochondrial Function in Hepatocellular Carcinoma through NRF1-Driven Receptor-Mediated Mitophagy",
+    "abstract": "MYC is a canonical driver of mitochondrial biogenesis, yet its role in mitochondrial homeostasis in cancer remains incompletely understood. Here we show that MYC paradoxically suppresses mitochondrial function in hepatocellular carcinoma (HCC) through elevated receptor-mediated mitophagy. Pan-cancer TCGA analysis revealed that MYC activity exhibited discordant nuclear and mtDNA-encoded mitochondrial gene expression, particularly in liver cancer. Using genetically defined murine HCC models, we demonstrate that MYC, but not b-catenin (CTNNB1), drives mitochondrial fragmentation and turnover through a MYC-NRF1-FUNDC1/PGAM5/DNM1L (DRP1) transcriptional axis. Genetic or pharmacologic inhibition of this axis reduced mitophagy and restored oxidative phosphorylation in tumors while extending survival of tumor-bearing mice. Tumors expressing yeast NDI1, which bypasses Complex I to promote electron transport, restored OXPHOS and reduced tumor burden independent of mitophagy. Our data demonstrate that suppression of mitochondrial OXPHOS unexpectedly supports HCC tumor growth and implicates mitochondrial quality control as a novel therapeutic vulnerability in patients with MYC-amplified HCC.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "2",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.07.13.738248"
+    ],
+    "date": "2026-10-22",
+    "authors": "Lesner, N. P.; Kim, L. C.; Shelton, S. D.; Landis, M.; Cai, X.; Zheng, D.; Parnaik, T.; Bartman, C.; Keith, B.; Simon, M. C.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.07.13.738248v2",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5575,
+    "collected_at": "2026-11-24T21:11:07.209251+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-24",
+    "translation": {
+      "title": {
+        "hash": "8c4edfc4615a32516c3e8a9fb1909679fec5861308b4fd83c3876009ae2d3298",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T22:00:44.494879+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "75d3d45019c2fbb277d43117e213cefa3a45e522aa065732c9041fe59a6ec843",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T22:00:44.494879+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "MYCはNRF1誘導性受容体介在性ミトファジーを介して肝細胞癌のミトコンドリア機能を抑制する",
+    "abstract_ja": "MYCはミトコンドリア生合成の正準的なドライバーであるが、がんにおけるミトコンドリア恒常性での役割については依然として十分に解明されていない。本研究では、MYCが受容体介在性ミトファジーの亢進を介して、肝細胞癌（HCC）において逆説的にミトコンドリア機能を抑制することを示す。汎がんTCGA解析により、特に肝癌において、MYC活性が核内およびmtDNAコード型ミトコンドリア遺伝子の発現に不一致を示すことが明らかとなった。遺伝学的に定義されたマウスHCCモデルを用いて、b-カテニン（CTNNB1）ではなくMYCが、MYC-NRF1-FUNDC1/PGAM5/DNM1L（DRP1）転写軸を介してミトコンドリアの断片化とターンオーバーを駆動することを実証した。この軸を遺伝学的または薬理学的に阻害すると、腫瘍におけるミトファジーが減少し、酸化的リン酸化が回復するとともに、腫瘍担持マウスの生存期間が延長した。複合体Iをバイパスして電子伝達を促進する酵母NDI1を発現する腫瘍は、ミトファジーとは独立してOXPHOSを回復させ、腫瘍負荷を軽減した。我々のデータは、ミトコンドリアOXPHOSの抑制が予想外にHCC腫瘍の増殖を支持することを示しており、MYC増幅型HCC患者における新たな治療上の脆弱性として、ミトコンドリア品質管理が関与していることを示唆している。"
   }
 ]
