@@ -329098,5 +329098,83 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "臨床的に意義のある薬剤耐性アレルの優先順位付けのためのマルチスケール予測フレームワーク",
     "abstract_ja": "世界的な重大脅威である薬剤耐性の出現に関する確立されたin vitro指標は、広範な抗生物質の使用後、in vitroで発見されたどの変異が実世界で支配的になるかを予測できないことがある。本研究では、遺伝的制約と集団薬物動態を統合したマルチスケール計算フレームワークを導入し、フルオロキノロン系抗生物質シプロフロキサシンに対する耐性の歴史的事例であるAcinetobacter baumanniiにおける耐性アレルの成功を説明するために適用する。固有のヌクレオチド置換確率を、変動する薬物曝露下での連続時間確率的モデリングと組み合わせることで、本フレームワークは、より稀なアレルよりも実世界で最も一般的なgyrAフルオロキノロン耐性アレルS81Lを明確に優先させ、その臨床的成功を反映している。gyrAは、標的空間が制約された直接的な活性部位-薬物-標的相互作用の概念実証事例となる一方で、ヌクレオチド置換確率は、耐性決定遺伝子pmrBおよびadeSにおけるアレルの成功を説明できていないことが観察された。さらに、「バーチャルツイン」コホートシミュレーションにより、薬物浸透の制限や免疫機能の低下が選択的ウィンドウを拡大し、稀で適応度の低いアレルを救済することが明らかになった。これにより、抗生物質開発におけるモデルに基づく将来的なリスク予測への理解が進展する。"
+  },
+  {
+    "id": "10.64898/2026.11.23.768557",
+    "title": "Klebsiella taiwanensis sp. nov., and Pseudomonas ficus sp. nov., novel taxa isolated from figs (Ficus)",
+    "abstract": "Two bacterial strains, WOUb02T and WOUb67T, were isolated from fresh figs (Ficus spp.) collected from the island of Taiwan. Cells of WOUb02T and WOUb67T were Gram-stain-negative rods. Strain WOUb02T was non-motile, whereas WOUb67T exhibited motility. Physiologically, both strains grew optimally at 0.5% (w/v) NaCl and pH 8.0; WOUb02T grew optimally at 37{degrees}C, whereas WOUb67T grew optimally at 30{degrees}C. Based on 16S rRNA gene sequence similarity, the closest relatives to strains WOUb02T and WOUb67T were Klebsiella terrigena ATCC 33257T (98.2%) and Pseudomonas putida NBRC 14164T (99.9%) respectively. Subsequent phylogenetic analysis based on 16S rRNA gene sequences revealed that strains WOUb02T and WOUb67T formed distinct lineages within the genera Klebsiella and Pseudomonas, respectively. Further genomic analyses revealed that WOUb02T and WOUb67T shared average nucleotide identity and digital DNA-DNA hybridization values <95.0% and <70.0%, below the currently accepted thresholds for species-level delineation. Based on phenotypic and genotypic data, strains WOUb02T and WOUb67T could be distinguished from other species with validly published names and are considered to represent novel species in the genera Klebsiella and Pseudomonas, respectively, for which the names Klebsiella taiwanensis sp. nov., and Pseudomonas ficus sp. nov., are proposed. The type strains are WOUb02T (=NRRL-B 65719T =CCUG 77855T) and WOUb67T (=NRRL-B 65720T =CCUG 77856T).",
+    "journal": "",
+    "doi": "10.64898/2026.11.23.768557",
+    "date": "2026-11-23",
+    "authors": "Miller, S., Link, A. C., Lu, N., Moser, K. A., Wang, J., LAWSON, P. A., Woodruff, G. C.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.23.768557v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "Pseudomonas",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5576,
+    "collected_at": "2026-11-24T11:05:36.802078+00:00",
+    "collected_date": "2026-11-24",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.64898/2026.11.23.768557"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6b3aa991ab22e31852acaa0d6e27d9690ed5e5786ee1fca277710cbe1c4c4a90",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T12:01:47.461813+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5d00426b8eec6ffa791629bd696fecba593b3b87f57f159e4eaedc6edcda36b6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T12:01:47.461813+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "イチジク属（Ficus）から分離された新分類群 Klebsiella taiwanensis sp. nov. および Pseudomonas ficus sp. nov.",
+    "abstract_ja": "台湾島で採取した新鮮なイチジク（Ficus spp.）から、WOUb02TおよびWOUb67Tの2株の細菌が分離された。WOUb02TおよびWOUb67Tの細胞はグラム染色陰性桿菌であった。WOUb02T株は運動性を示さなかったが、WOUb67T株は運動性を示した。生理学的には、両株とも0.5% (w/v) NaClおよびpH 8.0で最適増殖し、WOUb02Tは37{degrees}Cで、WOUb67Tは30{degrees}Cで最適増殖した。16S rRNA遺伝子配列の類似性に基づくと、WOUb02T株およびWOUb67T株に最も近縁な菌株は、それぞれKlebsiella terrigena ATCC 33257T（98.2%）およびPseudomonas putida NBRC 14164T（99.9%）であった。続いて16S rRNA遺伝子配列に基づく系統解析を行った結果、WOUb02T株およびWOUb67T株は、それぞれKlebsiella属およびPseudomonas属内で異なる系統を形成していることが明らかになった。さらなるゲノム解析により、WOUb02T株とWOUb67T株は平均ヌクレオチド同一性およびデジタルDNA-DNAハイブリダイゼーション値がそれぞれ95.0%未満および70.0%未満であり、これらは種レベルの区分において現在認められている閾値を下回っていることが判明した。表現型および遺伝子型データに基づき、WOUb02T株およびWOUb67T株は、有効に公表された名称を持つ他の種と区別でき、それぞれKlebsiella属およびPseudomonas属における新種であると考えられ、Klebsiella taiwanensis sp. nov. および Pseudomonas ficus sp. nov. という名称が提案される。タイプ株はWOUb02T (=NRRL-B 65719T =CCUG 77855T) およびWOUb67T (=NRRL-B 65720T =CCUG 77856T) である。"
   }
 ]
