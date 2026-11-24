@@ -455295,5 +455295,657 @@
     "related_dois": [
       "10.1128/jcm.01069-26"
     ]
+  },
+  {
+    "id": "10.1093/femsyr/foag063",
+    "title": "Safety Evaluation and Stress Tolerance of the Evolved Probiotic Yeast Saccharomyces boulardii SBPY3_EV for Functional Food Applications",
+    "abstract": "AbstractThe selection of robust probiotic strains with high gastrointestinal (GI) persistence is critical for the development of effective functional foods. Evolved yeast strain, Saccharomyces boulardii SBPY3_EV, was characterized through whole-genome sequencing (WGS) and functional phenotyping. WGS analysis confirmed high genomic integrity (99.2% BUSCO completeness) and phylogenetic identity with reference S. boulardii strains, supporting its status as a safe probiotic candidate. Safety evaluations further demonstrated non-hemolytic activity and susceptibility to clinically relevant azole antifungals. Phenotypic assays revealed that SBPY3_EV possesses superior GI fitness compared to its parental lineage and commercial standards. Evolved strain exhibited a significant 3.51-fold increase in acid tolerance (pH 3.0) and maintained robust viability in the presence of 1.5% bile salts and 9% NaCl. In vitro colonization assays using Caco-2 and HT-29 intestinal epithelial models demonstrated that SBPY3_EV achieves exceptional adhesion rates (80.4%–84.7%), significantly outperforming the reference probiotic Lacticaseibacillus rhamnosus GG. Furthermore, SBPY3_EV showed high survival (88–100%) in the gastric and during simulated small intestinal transit and exerted antagonistic activity against key foodborne pathogens, including Escherichia coli and Staphylococcus aureus. These findings provide a molecular and physiological basis for the enhanced performance of SBPY3_EV, positioning it as a highly resilient next-generation probiotic for food and nutraceutical applications.",
+    "journal": "FEMS Yeast Research",
+    "doi": "10.1093/femsyr/foag063",
+    "date": "2026-11-23",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://academic.oup.com/femsyr/advance-article/doi/10.1093/femsyr/foag063/9116420?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "Saccharomyces",
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5387/advanceAccess_3248.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5533,
+    "collected_at": "2026-11-24T01:01:00.011480+00:00",
+    "collected_date": "2026-11-24",
+    "sources": [
+      "https://academic.oup.com/rss/site_5387/advanceAccess_3248.xml"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1093/femsyr/foag063"
+    ]
+  },
+  {
+    "id": "10.1093/bioinformatics/btag854",
+    "title": "GSP: a multi-scale metric for evaluation of 3D RNA structure predictions",
+    "abstract": "AbstractMotivationAccurate prediction of RNA 3D structures remains a central challenge in structural bioinformatics, necessitating reliable measures to quantify similarity between predicted models and experimentally determined reference structures. Currently, many scoring functions are available to assess different aspects of the tertiary structures of biomolecules. On the one hand, global measures average local irregularities, so that structures with distortions in different regions might generally be considered structurally similar. On the other hand, local conformational measures focus on specific inter-residue interactions and often fail to capture the broader topological context. Thus, there is a lack of methods capable of comprehensively assessing structural discrepancies across various spatial scales.ResultsTo address this gap, we introduce Geometric Spherical Precision (GSP), a novel multi-scale score that assesses the quality of 3D RNA and RNP complex predictions. It integrates multiple partial scores computed from local geometric agreements into a single, easy-to-read, normalized score for ranking these predictions. We demonstrate that GSP reliably identifies models with comparable overall deviations, while maintaining strong agreement with global measures. These properties make it a useful tool for benchmarking and comparing 3D RNA structures and RNP complexes.Availability and ImplementationThe GSP script and evaluation results against state-of-the-art measures on the RNA-Puzzles and CASP15 datasets are available at https://doi.org/10.5281/zenodo.19608328.Supplementary informationSupplementary data are available at Bioinformatics online.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag854",
+    "date": "2026-11-23",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag854/9116087?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "method",
+        "prediction"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "RNA",
+          "method",
+          "prediction"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5534,
+    "collected_at": "2026-11-24T01:01:00.011480+00:00",
+    "collected_date": "2026-11-24",
+    "sources": [
+      "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1093/bioinformatics/btag854"
+    ]
+  },
+  {
+    "id": "10.1093/bioinformatics/btag853",
+    "title": "BioBatchNet: A Dual-Encoder Framework for Robust Batch Effect Correction in Imaging Mass Cytometry",
+    "abstract": "AbstractMotivationImaging Mass Cytometry (IMC) is a cutting-edge technology for analysing spatially resolved protein expression at the single-cell level. However, its downstream analyses are often hindered by batch effects, which introduce systematic biases and obscure biological variations. Existing correction methods, largely developed for scRNA-seq data, face challenges in adapting to IMC data due to differences in data characteristics. Moreover, these methods struggle to achieve precise control, leading to either over-correction by removing critical biological information, or under-correction by leaving residual batch effects. Furthermore, IMC data often feature overlapping cell populations, complicating clustering and downstream analysis. These challenges underscore the need for a robust and controllable batch effect correction approach tailored to IMC data.ResultsWe present BioBatchNet, a dual-encoder framework utilising adversarial training to explicitly disentangle batch-specific and biological signals. BioBatchNet enables controllable batch effect correction, balancing correction with preservation of biological variation. We evaluated BioBatchNet on three IMC datasets, where it outperformed seven benchmarking methods with robustness in both correction and biological signal conservation. Additionally, we developed a Constrained-Pairwise-Clustering (CPC) method, which employs constrained pairs to improve clustering performance, even in datasets with overlapping cell populations. To validate its generalisability, we adapted BioBatchNet for scRNA-seq datasets by altering the data likelihood from Gaussian to Zero-Inflated Negative Binomial distribution. This adapted version achieved competitive performance across four scRNA-seq datasets, obtaining the highest overall score on three of them. These results demonstrate BioBatchNet’s generalisability and robustness in correcting batch effects across diverse single-cell datasets and underscore its potential for large-scale biological analyses.Availability and ImplementationThe source code is available at https://github.com/UoM-HealthAI/BioBatchNet, with an archived snapshot on Zenodo (DOI: https://doi.org/10.5281/zenodo.18783840).",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag853",
+    "date": "2026-11-23",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag853/9116086?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5535,
+    "collected_at": "2026-11-24T01:01:00.011480+00:00",
+    "collected_date": "2026-11-24",
+    "sources": [
+      "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1093/bioinformatics/btag853"
+    ]
+  },
+  {
+    "id": "10.3389/fmicb.2026.2023654",
+    "title": "Immune checkpoint modulation beyond cancer: a conceptual framework for small-molecule host-directed antiviral therapy",
+    "abstract": "Immune checkpoints are important regulators of antiviral immunity, but their roles in viral infections are more complex than the conventional model of immune inhibition. Although sustained checkpoint signaling can impair antiviral T-cell function and contribute to viral persistence, it can also limit immune-mediated tissue damage. This dual role presents a major challenge for therapeutic intervention, as indiscriminate checkpoint inhibition may improve viral control at the expense of increased immunopathology. In this review, we examine how viral infections reshape immune checkpoint networks through antiviral signaling, protein homeostasis, cellular metabolism, and tissue-specific immune regulation. We discuss the implications of these mechanisms for chronic viral infections, including human immunodeficiency virus and hepatitis B and C viruses, as well as acute respiratory infections caused by influenza A virus, severe acute respiratory syndrome coronavirus 2, and respiratory syncytial virus. Particular attention is given to small-molecule checkpoint modulators and their potential to regulate protein interactions, stability, localization, and signaling beyond conventional receptor–ligand blockade. We distinguish the pharmacological evidence supporting these compounds, which is derived primarily from oncology-related research, from the much more limited evidence of their direct antiviral activity. However, direct evidence that these compounds can achieve effective checkpoint modulation while improving viral control and limiting tissue injury remains limited. We therefore discuss the need for rigorous target validation and a more precise approach to patient selection and treatment design. Integrating viral burden, antiviral T-cell function, checkpoint activity, and inflammatory status may help identify patients most likely to benefit from intervention and guide treatment timing, intensity, and discontinuation. Combining checkpoint modulation with direct-acting antivirals or other host-directed therapies may offer additional benefits if viral suppression and immune restoration can be appropriately balanced. A shift from sustained checkpoint blockade toward context-dependent immune modulation may provide a basis for developing more precise host-directed antiviral strategies.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.2023654",
+    "date": "2026-11-23",
+    "authors": "Xianfeng Hui",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.2023654",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5536,
+    "collected_at": "2026-11-24T01:01:00.011480+00:00",
+    "collected_date": "2026-11-24",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.3389/fmicb.2026.2023654"
+    ]
+  },
+  {
+    "id": "10.1186/s42523-026-00661-7",
+    "title": "Pichia kudriavzevii supplementation alters rumen microbiome and enhances milk performance in heat-stressed dairy buffaloes",
+    "abstract": "Yeast is widely used as a probiotic feed additive in ruminant nutrition. However, its effects on rumen function and milk performance in heat-stressed buffaloes remain poorly understood. To address this, we investigated the physiological and microbial responses to Pichia kudriavzevii Y8 supplementation. Twenty-seven dairy buffaloes under heat stress were randomly assigned to three groups: a control group (CON, basal diet), a low-dose supplementation group (LPK, basal diet + 2 × 1011 CFU/head/day), and a high-dose supplementation group (HPK, basal diet + 4 × 1011 CFU/head/day). Throughout the experimental period, all animals were exposed to heat stress, with the Buffalo Comfort Climatic Conditions Index consistently exceeding 34.65. The results showed that Y8 supplementation significantly lowered rectal temperature and respiratory rate, while increasing dry matter intake and the apparent digestibility of dry matter, crude protein, neutral detergent fiber, and acid detergent fiber. It simultaneously enhanced the yields of milk fat, protein, and lactose, whereas the milk yield was unchanged. Serum indicators analysis revealed elevated total protein and urea nitrogen concentrations, along with reduced triglyceride concentration in Y8 supplemented groups. Rumen fermentation parameters showed increased concentrations of acetate, propionate, and total volatile fatty acids in Y8 supplemented groups. Amplicon sequencing (16S, 18S, and ITS) revealed that Y8 altered bacterial beta-diversity and increased the relative abundance of Prevotella. Metagenomic analysis further showed that the abundance of genes involved in pyruvate metabolism (pycA, pta, and aceE), branched-chain amino acid degradation (tyrB and sad), lactate utilization (lldD), and succinate synthesis (PCCA, MCEE, and acnB) were enriched, whereas genes associated with the propionate synthesis pathway (porABD) were decreased in Y8 supplemented group. Collectively, Y8 supplementation improved milk performance in dairy buffaloes by modulating rumen microbial composition and metabolic functions, and serves as a potential candidate for dietary intervention under heat stress.",
+    "journal": "Animal Microbiome",
+    "doi": "10.1186/s42523-026-00661-7",
+    "date": "2026-11-23",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s42523-026-00661-7",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "metagenom",
+        "metagenomic",
+        "microbial",
+        "microbiome",
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=42523",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5537,
+    "collected_at": "2026-11-24T01:01:00.011480+00:00",
+    "collected_date": "2026-11-24",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=42523"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1186/s42523-026-00661-7"
+    ]
+  },
+  {
+    "id": "10.1186/s42523-026-00660-8",
+    "title": "Effects of dietary tannins and Asparagopsis taxiformis on lactation performance, metabolic status, rumen fermentation, and microbial ecology in early-lactation Holstein cows",
+    "abstract": "Dietary feed additives that modify rumen fermentation can affect microbial ecology and cow-level performance, but responses may differ by additive type and physiological stage. This study compared dietary tannins and the red macroalga Asparagopsis taxiformis (AT) in early-lactation dairy cows. Thirty multiparous Holstein cows (48 ± 5 DIM) were assigned to a 10-d adaptation period followed by a 20-d experimental period and allocated to one of three diets: control (CON), tannin-supplemented diet (TAN; 300 g/cow per day of quebracho–chestnut tannin premix), or AT-supplemented diet (ASP; 150 g/cow per day). Tannin supplementation increased milk yield, fat-corrected milk, and energy-corrected milk, and was associated with lower serum non-esterified fatty acids (NEFA), lower β-hydroxybutyrate (BHB), and greater total antioxidant capacity. In contrast, ASP did not improve milk production and was associated with the highest NEFA concentration. Total ruminal volatile fatty acid concentration did not differ among diets, but ASP increased propionate, whereas TAN increased butyrate and n-valeric acid and reduced ruminal NH₃-N. ASP showed stronger separation from CON and TAN in bacterial and archaeal communities, lower bacterial and archaeal Shannon diversity, lower abundance of Methanosphaera spp., lower protozoal diversity, and greater dominance of Entodinium spp. In contrast, tannin supplementation produced more moderate rumen ecological changes, with bacterial and archaeal communities remaining more similar to CON. These results indicate that tannin and AT supplementation generated distinct host–rumen response profiles in early-lactation dairy cows. Tannin supplementation was associated with higher milk output and more favorable energy-metabolism and antioxidant indicators. By contrast, AT produced more pronounced microbial and predicted functional shifts, but these responses were not accompanied by improved lactational performance or metabolic status. These findings support cautious evaluation of AT use in early-lactation cows when animal-performance, metabolic, fermentation, and microbial endpoints are considered together.",
+    "journal": "Animal Microbiome",
+    "doi": "10.1186/s42523-026-00660-8",
+    "date": "2026-11-23",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s42523-026-00660-8",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "archaea",
+        "archaeal",
+        "bacteria",
+        "bacterial",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=42523",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5538,
+    "collected_at": "2026-11-24T01:01:00.011480+00:00",
+    "collected_date": "2026-11-24",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=42523"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1186/s42523-026-00660-8"
+    ]
+  },
+  {
+    "id": "10.1186/s13059-026-04327-0",
+    "title": "G2PT: a genotype–phenotype transformer to assess and explain polygenic risk",
+    "abstract": "Genome-wide association studies have linked millions of genetic variants to biomedical phenotypes, but their utility has been limited by lack of mechanistic understanding and widespread epistatic interactions. Here, we introduce the Genotype-to-Phenotype Transformer (G2PT), a framework for modeling hierarchical information flow among variants, genes, multigenic systems, and phenotypes. We train G2PT to model the genetics of metabolic traits including insulin resistance, LDL and type 2 diabetes. G2PT predicts these traits with accuracy comparable to best-in-class methods, demonstrates transferability across cohorts, and captures epistatic effects. This work positions hierarchical graph transformers as a next-generation approach to polygenic risk interpretation.",
+    "journal": "Genome Biology",
+    "doi": "10.1186/s13059-026-04327-0",
+    "date": "2026-11-23",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s13059-026-04327-0",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=13059",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5539,
+    "collected_at": "2026-11-24T01:01:00.011480+00:00",
+    "collected_date": "2026-11-24",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=13059"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1186/s13059-026-04327-0"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.21.768310",
+    "title": "Oral microbiome and DNA virome profiling in pigs reveals age-associated dynamics and extracellular recovery of Streptococcus suis-associated phage lineages",
+    "abstract": "The pig oral cavity is a critical interface for microbial transmission and herd health monitoring, yet its microbiome and virome remains poorly characterised. We performed shotgun metagenomic sequencing of oral fluids from pigs across 15 commercial farms in Ireland, using paired bulk and virus-like particles (VLP) enrichment to capture comprehensive microbial and DNA virome diversity. Microbial communities shifted progressively with age, with early post-weaning animals enriched in environmental genera such as Pseudomonas and Staphylococcus and later stages dominated by lactic acid bacteria and anaerobes. Only 20.6% of vOTUs could be assigned to a known genus, with the most abundant being Astrithrvirus, which increased with age. Both microbiome and DNA virome exhibited predictable, coordinated age-associated succession with strong cross-domain coupling supported by virus-host networks. Functional profiling of the microbiome revealed that predicted carbohydrate substrates tracked the dietary transitions, while accessory viral functions partitioned by lifestyle and host. The early post-weaning stage was characterised by high abundance of viral integration and excision functions, as well as elevated resistome diversity that was almost exclusively of prokaryotic origin rather than viral. Importantly, 26 of the 25,223 vOTUs identified were predicted to target Streptococcus suis, providing the first metagenomic catalogue of such phages from pig oral environments. These findings expand our understanding of oral microbiome-virome dynamics and establish a framework for integrated microbiome and viromics approaches that could enable therapeutic phage discovery and inform microbiome-targeted interventions in pig production systems.",
+    "journal": "",
+    "doi": "10.64898/2026.11.21.768310",
+    "date": "2026-11-23",
+    "authors": "Osei, E. K., Ornelas, M. A. S., Garcia Manzanilla, E., Mahony, J., Kenny, J. G.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.21.768310v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Pseudomonas",
+        "bacteria",
+        "metagenom",
+        "metagenomic",
+        "microbial",
+        "microbiome",
+        "phage",
+        "phages",
+        "prokaryotic",
+        "viral",
+        "virome",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5540,
+    "collected_at": "2026-11-24T01:01:00.011480+00:00",
+    "collected_date": "2026-11-24",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.64898/2026.11.21.768310"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.16.766480",
+    "title": "Integrative structural biology of a giant marine virus reveals architectural and functional complexity beyond icosahedral symmetry",
+    "abstract": "Knowledge of giant virus diversity has expanded rapidly; however, isolated representatives remain scarce, and few have been examined at high resolution. Here, we characterized haptophyte-infecting Prymnesium kappa virus RF02 (PkV-RF02) using integrative structural biology. The ~3 [A] resolution structure obtained by block-based cryo-electron microscopy reconstruction shows a pseudoT=219 icosahedral shell built from over 20 different proteins and approximately 10,000 polypeptides, a multi-layered stabilization network reinforced by 20,000 disulphide bridges, two penton variants evenly distributed in the capsid, and a protein channel crossing the internal membrane. Cross-linking mass spectrometry defines the intricate capsid-membrane-core interaction network, which includes a second major capsid protein, a third penton variant, and multiple biochemical functions packaged within the virion. Phospho- and glycoproteomics reveal widespread post-translational modifications, with approximately 50% of proteins phosphorylated and uncommon methyl-N-acetylated viosamine glycans. This study provides a comprehensive structural and interaction map that highlights organizational and functional innovations underlying giant virus assembly.",
+    "journal": "",
+    "doi": "10.64898/2026.11.16.766480",
+    "date": "2026-11-23",
+    "authors": "Otaegi-Ugartemendia, S., Marabini, R., Herrera-Nieto, P., Condezo, G. N., Mühlberg, L., Wang, H., Snijder, J., Viner, R., Ortiz-Loo, L., San Martin, C., Sandaa, R.-A., Ortiz-Loo, L.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.16.766480v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5541,
+    "collected_at": "2026-11-24T01:01:00.011480+00:00",
+    "collected_date": "2026-11-24",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.64898/2026.11.16.766480"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.20.768218",
+    "title": "Transposon-driven pervasive genome restructuring and regulatory evolution in early-diverging Holomycota",
+    "abstract": "Early-diverging non-Dikarya fungi showcase major evolutionary transitions in the fungal kingdom, share features with other eukaryotic clades and bacteria, and include pathogens of significant concern. These lineages contain some of the most reduced and expanded genome architectures of the fungal kingdom and have adopted unique DNA methylation systems. Yet, the evolutionary trajectory of early-diverging non-Dikarya fungi remains poorly understood. A key driver is thought to be transposable elements, which shape genomic plasticity, organization and regulation. Here, we perform a comprehensive comparative analysis across the Holomycota to chart drivers of early fungal evolution. We demonstrate that contrasting transposon dynamics directly shape genomic diversity across these lineages, fueling extensive protein domain expansions through widespread co-option. This heterogeneous landscape is regulated by a multi-layered epigenetic network impacting chromatin configuration, and we reveal a distinct transcriptional activation role for adenine methylation over specific transposons. Beyond driving functional innovation, mobile elements serve as a source of regulatory diversification, providing transcription factor binding sites at key chromosomal features. Furthermore, synteny tracking uncovers multiple whole-genome duplication events across Mucoromycotina, where DNA transposons preferentially accumulate at duplication breakpoints and undergo rapid inactivation. Strikingly, we also show that horizontal transposon transfers frequently cross deep evolutionary boundaries, including cross-kingdom exchanges with protists. Together, our findings illuminate key drivers of genome architecture in non-Dikarya fungi and reshape our understanding of genome dynamics across the fungal kingdom.",
+    "journal": "",
+    "doi": "10.64898/2026.11.20.768218",
+    "date": "2026-11-23",
+    "authors": "Lax, C., Tahiri, G., Croll, D.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.20.768218v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "fungal",
+        "fungi",
+        "protist",
+        "protists"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "evolution",
+          "genom",
+          "genome",
+          "genomic",
+          "transcript"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5542,
+    "collected_at": "2026-11-24T01:01:00.011480+00:00",
+    "collected_date": "2026-11-24",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.64898/2026.11.20.768218"
+    ]
+  },
+  {
+    "id": "10.1093/femsmc/xtag056",
+    "title": "Longitudinal analysis of vaccine-associated alterations in the faecal microbiota of layer chickens using a vaccination schedule representative of commercial practice",
+    "abstract": "AbstractThe gut microbiota is crucial for immune development and overall health in chickens. In commercial production, birds routinely receive multiple vaccines during early life. While individual vaccines are known to affect microbial composition, the impact of complex, multi-vaccine programs, as used in the poultry industry, is not well understood. This pilot longitudinal study examined the impact of multiple live and inactivated vaccines, given at commercially relevant times from an early age, on gut microbial diversity and composition in layer chickens. We characterized microbiota profiles using 16S rRNA gene sequencing at pre- and post-vaccination timepoints across different vaccine groups. Overall, microbial diversity remained stable across most vaccines, indicating strong resilience of the gut microbiota to repeated immunological interventions. Differential abundance analyses didn’t identify significant changes in taxa following vaccination. The gut microbial community also showed stability after the completion of the vaccination schedule. These preliminary findings underscore the robustness of the chicken gut ecosystem and lay a foundation for future research into microbiome-vaccine interactions and their implications for poultry health, immunity, and production efficiency.",
+    "journal": "FEMS Microbes",
+    "doi": "10.1093/femsmc/xtag056",
+    "date": "2026-11-23",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/femsmicrobes/article/doi/10.1093/femsmc/xtag056/9116426?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "microbial",
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6274/4057.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5543,
+    "collected_at": "2026-11-24T01:01:00.011480+00:00",
+    "collected_date": "2026-11-24",
+    "sources": [
+      "https://academic.oup.com/rss/site_6274/4057.xml"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1093/femsmc/xtag056"
+    ]
+  },
+  {
+    "id": "10.1038/s41522-026-01193-3",
+    "title": "Aspergillus neoalliaceus suppresses Saposhnikovia divaricata root rot through functional reprogramming of the rhizosphere microbiome",
+    "abstract": "Aspergillus neoalliaceus suppresses Saposhnikovia divaricata root rot through functional reprogramming of the rhizosphere microbiome",
+    "journal": "npj Biofilms and Microbiomes",
+    "doi": "10.1038/s41522-026-01193-3",
+    "date": "2026-11-23",
+    "authors": "Zhongming Han",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.nature.com/articles/s41522-026-01193-3",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Aspergillus",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.nature.com/npjbiofilms.rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5544,
+    "collected_at": "2026-11-24T01:01:00.011480+00:00",
+    "collected_date": "2026-11-24",
+    "sources": [
+      "https://www.nature.com/npjbiofilms.rss"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1038/s41522-026-01193-3"
+    ]
   }
 ]
