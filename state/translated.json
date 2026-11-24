@@ -330622,5 +330622,295 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "CompleteBin: トランスフォーマーベースのフレームワークによる、ショートコンティグ・ビニングの改良を通じた微生物ダークマターの解明",
     "abstract_ja": "メタゲノムからの微生物ゲノムの再構築において、メタゲノムビニングは極めて重要である。しかし、既存のツールは、低存在量生物由来の短いコンティグが支配的な複雑なコミュニティにおいて性能が劣る。このため、コミュニティ組成およびそれがコードする機能の解明が制限されている。本研究では、コンテキストベースの配列トークン化、リファレンスゲノムで事前学習されたTransformerによる分類学的埋め込み、および動的マルチビュー対照学習を組み合わせることで、850 bpという短いコンティグをビンニングするTransformerベースのフレームワーク「CompleteBin」を提案する。我々は、80件のCAMI IIおよび54件の実世界メタゲノムを用いて5つのビナーとCompleteBinをベンチマーク評価し、ゴールドスタンダードおよび独立したアセンブリの両方を用いることで111件のCAMI II評価インスタンスを得た。AMBERによる評価の結果、CompleteBinは単一サンプル、マルチサンプル、および共アセンブリの各モードにおいて、すべてのCAMI IIデータセットで最高の塩基対レベルF1スコアを達成した。また、CompleteBinはCAMI IIおよび実世界データセットの双方において、概してより完全な状態に近い（NC）および中程度以上の品質（MQ+）のメタゲノムアセンブルゲノム（MAG）をより多く回収した。コールドシープ堆積物において、CompleteBinは他のどのビナーも回収できなかった227件のMQ+株レベルゲノムビン（StGBs）を回収し、これは33の門にわたっていた。CompleteBinによってのみMQ+ MAGに割り当てられたコンティグには、473,671個の非冗長遺伝子がコードされていた。コミュニティスケールの代謝モデリングにより、硝酸および硫酸の両方の還元経路をコードする777件のStGBがさらに同定され、そのうち154件は他のビナーでは完全に回収されていなかった。このことは、局所的な元素循環に寄与する、十分に研究されていない微生物因子を浮き彫りにしている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "bioRxiv",
+        "query": "details/biorxiv/2026-10-20/2026-11-10",
+        "scope": "candidate"
+      }
+    ],
+    "id": "10.64898/2026.10.20.760339",
+    "doi": "10.64898/2026.10.20.760339",
+    "title": "High-fidelity bispecific protease KRysin for deeper plasma proteomics and phosphoproteomics",
+    "abstract": "Bottom-up proteomics relies on efficient and reproducible proteolytic digestion. Yet trypsin, the most widely used protease, frequently misses cleavages, particularly near prolines, acidic and phosphorylated residues. Incomplete digestion inflates search space, dilutes peptide signal, and limits depth and reproducibility, especially in challenging matrices such as plasma and phosphoproteomics. Here we present KRysin, a recombinant bispecific protease that cleaves C-terminal to lysine and arginine with very high specificity and efficiency, generating tryptic peptides compatible with standard proteomics workflows. In HeLa digests, ~99% of KRysin-generated peptides ended in lysine or arginine, including at sites followed by proline, and only 0.2% of peptides contained an internal (missed-cleaved) arginine and 6% an internal lysine, compared with 9% and 25%, respectively, for trypsin. Using narrow-window DIA at 60 samples-per-day, KRysin quantified close to 50,000 class I phosphosites, >10,000 more than trypsin-based workflows, and identified up to 40% more plasma protein groups, uniquely revealing receptors, cytokines, and growth factors. KRysin therefore provides a direct alternative to trypsin wherever digestion completeness, speed and PTM coverage are limiting.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.10.20.760339"
+    ],
+    "date": "2026-10-21",
+    "authors": "Batth, T. S.; Hernandez-Rollan, C.; Koenig, C.; Mao, F. L.; Olsen, J. V.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.20.760339v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "gene",
+        "proteomic",
+        "workflow"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "gene",
+          "proteomic",
+          "workflow"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5545,
+    "collected_at": "2026-11-24T14:50:01.882069+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-24",
+    "translation": {
+      "title": {
+        "hash": "8feae4748ab0de44052df470deefd832f3262bcafc757a6886779abc73c98220",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T15:36:26.695585+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a43539f8b0272d605757363ffb150d564a09df16a8924cf890bddfabebe7b239",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T15:36:26.695585+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "より詳細な血漿プロテオミクスおよびリン酸化プロテオミクスのための高忠実度二重特異性プロテアーゼKRysin",
+    "abstract_ja": "ボトムアッププロテオミクスは、効率的かつ再現性の高いタンパク質分解に依存している。しかし、最も広く用いられているプロテアーゼであるトリプシンは、特にプロリンや酸性残基、リン酸化残基の近傍において、切断を見逃すことが頻繁にある。不完全な消化は探索空間を拡大させ、ペプチドシグナルを希釈し、特に血漿やリン酸化プロテオミクスのような困難なマトリックスにおいて、深度と再現性を制限する。本報では、極めて高い特異性と効率でC末端のリシンおよびアルギニンを切断し、標準的なプロテオミクスワークフローに適合するトリプシンペプチドを生成する組換え二重特異性プロテアーゼKRysinを提案する。HeLa消化において、KRysinが生成したペプチドの約99%が、プロリンに続く部位を含めリシンまたはアルギニンで終端しており、内部（切断漏れ）のアルギニンを含むペプチドはわずか0.2%、内部リシンを含むものは6%であったのに対し、トリプシンではそれぞれ9%および25%であった。1日60サンプルのナローウィンドウDIAを用いたところ、KRysinは50,000個近いクラスIリン酸化部位を定量し（トリプシンベースのワークフローより10,000個以上多い）、最大40%多くの血漿タンパク質群を同定し、受容体、サイトカイン、および増殖因子を独自に明らかにした。したがって、KRysinは、消化の完全性、速度、およびPTMカバレッジが制限となるあらゆる場面において、トリプシンに代わる直接的な選択肢となる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "bioRxiv",
+        "query": "details/biorxiv/2026-10-20/2026-11-10",
+        "scope": "candidate"
+      }
+    ],
+    "id": "10.64898/2026.10.20.760354",
+    "doi": "10.64898/2026.10.20.760354",
+    "title": "Genetically programmable molecular framework for constructing precision recombinant human ECM mimics",
+    "abstract": "Engineering extracellular matrix (ECM) mimetic materials that combine molecular precision of synthetic material options with native biological complexity remains a central challenge in biomaterials science. Here, we present a genetically programmable hydrogel platform that enables independent control of mechanical and biological properties including matrix composition, mechanics, viscoelasticity, and biochemical signaling using recombinant human ECM building blocks assembled via isopeptide chemistry. Modular protein ECM crosslinkers containing complete folded ECM domains equipped with terminal SpyTag peptides were integrated within SpyCatcher-functionalized interchangeable natural polysaccharide backbones to generate fully defined matrices with decoupled material parameters. Point mutations on crosslinker SpyTags within the bond interface varied bond affinity from covalent to physical bonding, allowing tuned stress-relaxation behaviors across physiologically relevant regimes without altering matrix composition nor stiffness. Using colorectal cancer models, we show that polymer identity and matrix viscoelasticity independently regulate spheroid growth, invasion capabilities, and dispersion. Importantly, recombinant ECM domains recapitulated native adhesion functions and provide a structurally encoded layer of biological information. This hydrogel platform provides a molecular framework for constructing precision recombinant human ECM mimics with broad applicability across biomaterials science, mechanobiology, disease modeling, tissue engineering, and regenerative medicine.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.10.20.760354"
+    ],
+    "date": "2026-10-21",
+    "authors": "Evans, A. D.; Keranen, J.; Rauhalinna, S.; Mombeinipour, M.; Hossain, H.; Turkki, P.; Oommen, O. P.; Hytonen, V. P.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.20.760354v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene",
+        "genetic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "framework",
+          "gene",
+          "genetic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5546,
+    "collected_at": "2026-11-24T14:50:01.882069+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-24",
+    "translation": {
+      "title": {
+        "hash": "1c136d8f27e6fc462b7b554825fc9800c36786c6def696b57dcdf356f7b5c014",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T15:36:26.695585+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "04a231d530cdca6a239fd389719d9ca3f00c79b143ac0b1a6bb116800afa8ba6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T15:36:26.695585+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "精密な組換えヒトECMミミック構築のための遺伝的にプログラム可能な分子骨格",
+    "abstract_ja": "合成材料の選択肢が持つ分子レベルの精密さと、天然生体の複雑性を兼ね備えた細胞外マトリックス（ECM）模倣材料の開発は、バイオマテリアル科学における中心的な課題であり続けている。本研究では、イソペプチド化学を用いて構築した組換えヒトECM構成単位により、マトリックス組成、力学特性、粘弾性、および生化学的シグナル伝達を含む機械的・生物学的特性を独立して制御可能な、遺伝的にプログラム可能なハイドロゲルプラットフォームを提案する。末端SpyTagペプチドを備えた完全な折り畳み型ECMドメインを含むモジュール式タンパク質ECM架橋剤を、SpyCatcher機能化型の交換可能な天然多糖類バックボーンに組み込むことで、材料パラメータを分離した完全に定義されたマトリックスを実現した。結合界面における架橋剤SpyTagの点変異により、結合親和性を共有結合から物理的結合まで変化させ、マトリックス組成や剛性を変更することなく、生理学的に関連のある領域にわたってストレス緩和挙動を制御することが可能となった。大腸がんモデルを用いて、ポリマーの種類およびマトリックスの粘弾性が、スフェロイドの増殖、浸潤能、および分散を独立して調節することを示した。重要な点として、組換えECMドメインは天然の接着機能を再現し、構造的にコードされた生物学的情報の層を提供している。このハイドロゲルプラットフォームは、バイオマテリアル科学、メカノバイオロジー、疾患モデリング、組織工学、および再生医療にわたる幅広い応用が可能な、精密な組換えヒトECM模倣体を構築するための分子フレームワークを提供する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "bioRxiv",
+        "query": "details/biorxiv/2026-10-20/2026-11-10",
+        "scope": "candidate"
+      }
+    ],
+    "id": "10.64898/2026.10.20.760424",
+    "doi": "10.64898/2026.10.20.760424",
+    "title": "High-quality genome assembly of several Noccaea caerulescens accessions reveals gene expansion events associated with metal adaptation and hyperaccumulation",
+    "abstract": "Since the beginning of the 20th century, the growth of the world's population and industrial development have led to increased soil pollution with metals, which poses a threat to the environment and human health. In this context, plants that are adapted to metalliferous soils and hyperaccumulate metals offer an opportunity to develop phytotechnologies for remediating metal-polluted soils. However, the molecular mechanisms by which plants tolerate and hyperaccumulate metals are not yet fully understood, which limits the improvement of these technologies. The metal hyperaccumulator species Noccaea caerulescens, belonging to the Brassicaceae family, is being developed as a genetic model to decipher these mechanisms. In this study, we have significantly improved the genome assembly of the N. caerulescens Cira accession and have produced high-quality assemblies for five additional accessions originating from different soil types and genetic groups. We used these high-quality assemblies to identify gene copy number variation associated with the metal hyperaccumulation trait in the Noccaea genus. Our analysis revealed that gene copy number variation affects a wide variety of biological functions in Noccaea, including genes that encode metal transporters belonging to the HMA, NRAMP and ZIP families. Notably, duplications affecting the magnesium transporter MGR2 suggest that the adaptation to ultramafic soils may be an ancestral trait in Noccaea. Finally, the association of transposable elements with gene duplications suggests that transposon activity may have played an important role in the evolution of metal hyperaccumulation in this genus.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.10.20.760424"
+    ],
+    "date": "2026-10-21",
+    "authors": "Kuzmik, M.; Courtin, O.; Klopp, C.; Carpentier, M.-C.; rodde, n.; callot, c.; Ausset, A.; Lopez-Roques, C.; Vandecasteele, C.; gautier, v.; Belmonte, e.; Flaven, e.; Devaux, C.; Mignot, A.; Mirouze, M.; MERLOT, S.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.20.760424v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "assembly",
+        "gene",
+        "genome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assemblies",
+          "assembly",
+          "evolution",
+          "genom",
+          "genome"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 5547,
+    "collected_at": "2026-11-24T14:50:01.882069+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-24",
+    "translation": {
+      "title": {
+        "hash": "86ed3cc51a169815f0f47759f26192c8b4c64273e7d241c7e81366dd89183d13",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T15:36:26.695585+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d86974297858fea947b42f3e297e78cf4587a17262dbe6a4d4094a8207232a43",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T15:36:26.695585+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "数系統のNoccaea caerulescensの高品質なゲノムアセンブリにより、金属適応および超蓄積に関連する遺伝子拡張事象が明らかになった。",
+    "abstract_ja": "20世紀初頭以降、世界人口の増加と産業発展に伴い、金属による土壌汚染が深刻化しており、環境および人の健康に対する脅威となっている。こうした背景から、金属質土壌に適応し金属を超蓄積する植物は、金属汚染土壌を浄化するための植物工学的技術を開発する好機となる。しかし、植物が金属を耐性化し超蓄積する分子メカニズムはまだ十分に解明されておらず、それがこれらの技術の向上を制限する要因となっている。アブラナ科に属する金属超蓄積種 Noccaea caerulescens は、これらのメカニズムを解明するための遺伝モデルとして開発が進められている。本研究では、N. caerulescens Cira アクセッションのゲノムアセンブリを大幅に改良し、異なる土壌タイプおよび遺伝的グループに由来するさらに5つのアクセッションについて高品質なアセンブリを作製した。これらの高品質なアセンブリを用いて、Noccaea 属における金属超蓄積形質に関連する遺伝子コピー数変異を同定した。解析の結果、遺伝子コピー数変異が Noccaea 属の多岐にわたる生物学的機能に影響を及ぼしており、その中には HMA、NRAMP、および ZIP ファミリーに属する金属輸送体をコードする遺伝子が含まれていることが明らかになった。特筆すべきは、マグネシウム輸送体 MGR2 に影響を与える重複が、超塩基性土壌への適応が Noccaea 属における祖先形質である可能性を示唆している点である。最後に、転移因子と遺伝子重複の関連性は、本属における金属超蓄積の進化においてトランスポゾン活性が重要な役割を果たした可能性を示唆している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "bioRxiv",
+        "query": "details/biorxiv/2026-10-20/2026-11-10",
+        "scope": "candidate"
+      }
+    ],
+    "id": "10.64898/2026.10.20.760427",
+    "doi": "10.64898/2026.10.20.760427",
+    "title": "Making the Impossible Possible: Uniting TMT and DIA for Scalable Low-Input-Proteomics",
+    "abstract": "Isobaric multiplexing using tandem mass tags (TMT) and data-independent acquisition (DIA) are two powerful techniques in quantitative proteomics, each offering distinct advantages. Combining these strategies provides synergistic benefits for low-input applications such as single-cell proteomics (SCP). However, integrating these strategies has remained challenging due to co-isolation interference and increased data complexity. Here, we present a systematic, identification-linked evaluation of a hybrid DIA-TMTpro 18-plex workflow on the Orbitrap Astral mass spectrometer (MS). Using a two-proteome interference model of human and yeast digests, we benchmarked quantitative accuracy and precision of TMT based DDA and DIA acquisition strategies across a range of isolation windows, injection times and input amounts. We provide READ (Reporter Ion Extractor and Annotation Director), an in-house developed Python-based tool which enables streamlined reporter ion (RI) quantification and co-isolation purity assessment. Using READ, TMT-based quantification becomes possible from DIA-focused search engines like Spectronaut or DIA-NN, which do not natively support TMT. We show that co-isolation interference drives both ratio compression and ratio inflation in TMT RI-based quantification regardless of acquisition mode. As an interference-resistant alternative, we further evaluated quantification via TMT complementary ions, which achieved near-label free quantitative accuracy at the cost of reduced plexing capacity and proteome depth. Together, these results establish practical guidelines for combining DIA and TMTpro on the Orbitrap Astral mass spectrometer and provide a foundation for extending DIA-TMT workflows to low-input applications such as SCP, where sensitivity, accuracy and throughput are critical.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.10.20.760427"
+    ],
+    "date": "2026-10-21",
+    "authors": "Thierer, T.; Birklbauer, M. J.; Dorfer, V.; Mechtler, K.; Matzinger, M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.20.760427v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5548,
+    "collected_at": "2026-11-24T14:50:01.882069+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-24",
+    "translation": {
+      "title": {
+        "hash": "b3c22f5de686e27806963a47cbccdf6d52db201ac5fe8574eb88f74bfe60d17a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T15:36:26.695585+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d9a617c0b9a18edbdc5477730378499b7596ba72774dbce1d9a66dcaae734528",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T15:36:26.695585+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "不可能を可能にする：スケーラブルな低入力プロテオミクスに向けたTMTとDIAの統合",
+    "abstract_ja": "タンデム質量タグ（TMT）とデータ独立型取得（DIA）を用いた等圧マルチプレクシングは、定量プロテオミクスにおける2つの強力な手法であり、それぞれに異なる利点がある。これらの戦略を組み合わせることで、シングルセルプロテオミクス（SCP）などの低入力アプリケーションにおいて相乗的な効果が得られる。しかし、これらの戦略の統合は、共単離干渉やデータの複雑化により依然として困難な課題となっていた。本研究では、Orbitrap Astral質量分析計（MS）におけるハイブリッドDIA-TMTpro 18-plexワークフローの、同定に紐づいた系統的な評価結果を報告する。ヒトおよび酵母消化物の2プロテオーム干渉モデルを用い、さまざまな単離ウィンドウ、注入時間、および入力量にわたって、TMTベースのDDAおよびDIA取得戦略の定量精度と精密度をベンチマークした。また、リポーターイオン（RI）の定量および共単離純度の評価を効率化する、自社開発のPythonベースツールであるREAD（Reporter Ion Extractor and Annotation Director）を提供する。READを用いることで、TMTをネイティブにサポートしていないSpectronautやDIA-NNのようなDIA特化型検索エンジンにおいても、TMTベースの定量が可能となる。我々は、取得モードに関わらず、共単離干渉がTMT RIベースの定量において比率の圧縮と比率の膨張の両方を引き起こすことを示した。干渉耐性のある代替案として、TMT相補イオンによる定量をさらに評価したところ、プレクシング容量とプロテオーム深度の低下という代償はあるものの、ほぼラベルフリーの定量精度を達成した。以上の結果を総合すると、Orbitrap Astral質量分析計におけるDIAとTMTproの組み合わせに関する実用的なガイドラインが確立され、感度、精度、およびスループットが極めて重要となるSCPなどの低入力アプリケーションへDIA-TMTワークフローを拡張するための基盤が提供される。"
   }
 ]
