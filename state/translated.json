@@ -332785,5 +332785,319 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "相補的構成要素を用いた分散表現の学習 ― エピソード記憶符号化のための生成的近似フレームワーク",
     "abstract_ja": "エピソード記憶は、記憶を効率的に保存しつつ、詳細を保持しなければならない。本研究では、生成ニューラルネットワークモデルが凍結された重みを通じて入力を近似し、同一の重みによって入力を再構成できる起点を生成するという、記憶符号化のフレームワークを提案する。これにより、相互に可逆的な皮質-海馬マッピングが不要となり、計算コストと記憶精度のトレードオフが実現するとともに、刺激空間の統計的規則性を利用して、ネットワーク全体に分散した表現を見出すことができる。我々は、この原理をトイモデルおよび大規模な画像生成AIモデルで実装し、記憶精度をより近い近似として操作化した。本モデルは、記憶類似性タスク（Mnemonic Similarity Task）における主要な知見を再現している。すなわち、加齢集団で観察されるように、浅い符号化はルアー拒絶を選択的に阻害する。さらに、符号化は専門知識から恩恵を受ける。ドメイン特化型にファインチューニングされたモデルは、他ドメインの画像よりも、自身のドメインの画像に対してより少ない近似ステップで済む。最後に、潜在起点の表現幾何学は内側側頭葉に類似しているが、ネットワークの重みを通じた再構成は、視覚階層を逆順に辿る。本フレームワークは、再構成可能な起点を探索する生成的な手法が直接的に検索経路を見出すという、記憶符号化に関する簡潔かつ柔軟な説明を提供する。"
+  },
+  {
+    "id": "10.64898/2026.11.17.767414",
+    "title": "Characterizing the Effects of Filtration on Microbial Diversity, Reproducibility, and Genome Recovery from Wastewater",
+    "abstract": "Filtration is widely used in wastewater microbiome workflows, but how pore size, filtration tactics, and sampled fraction shape microbial profiles across sequencing approaches remains unclear. We compared direct and sequential filtration of wastewater through 3-, 0.45-, and 0.22- micro meter filters and analyzed filter-retained and corresponding filtrates using 16S rRNA gene and ITS amplicon sequencing, shotgun metagenomics, and metatranscriptomics. Filtrates generally yielded higher microbial alpha diversity but greater between-replicate variability, whereas filters produced more reproducible bacterial DNA profiles. Fraction-dependent differences were strongest for fungal and DNA viral communities, which separated between filters and filtrates, while bacterial DNA communities were largely shared across fractions. These patterns demonstrate that pore size does not act as a strict size cutoff in wastewater for bacteria. DNA viruses were consistently enriched in filtrates, which also yielded more viral genomes. In contrast, filters yielded more bacterial metagenome-assembled genomes, but overall bacterial genome recovery was limited. Bacterial and viral metatranscriptomic profiles were comparatively variable and did not support selection of a single preferred fraction for RNA-based recovery. Direct and sequential filtration also produced distinct profiles at the same terminal pore size, indicating that filtration history influences the recovered community. Together, these results suggest that wastewater processing workflow should therefore be selected according to the intended use case.",
+    "journal": "",
+    "doi": "10.64898/2026.11.17.767414",
+    "date": "2026-11-24",
+    "authors": "Ruth, N., Daligault, H., Martinez, T., Hatch, A., Chain, P., Shakya, M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.17.767414v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "bacteria",
+        "bacterial",
+        "fungal",
+        "metagenom",
+        "metagenome",
+        "metagenomics",
+        "metatranscriptom",
+        "metatranscriptomic",
+        "metatranscriptomics",
+        "microbial",
+        "microbiome",
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "metagenom",
+          "metagenome",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5601,
+    "collected_at": "2026-11-24T21:21:51.319977+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.64898/2026.11.17.767414"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a048c640d5764be5539c2fae37a1a5813ac2d5db96e93969eb044dba76f564ad",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T21:51:48.898162+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1480f3890a28eda5b577c4d857d67fa8a2d999fbb33fdce208b8264e27692652",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T21:51:48.898162+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "排水からの微生物多様性、再現性、およびゲノム回収に及ぼすろ過効果の特性評価",
+    "abstract_ja": "廃水マイクロバイオームのワークフローにおいてろ過は広く用いられているが、孔径、ろ過手法、およびサンプリング画分が、シーケンシング手法ごとの微生物プロファイルにどのような影響を与えるかは依然として不明である。本研究では、3μm、0.45μm、および0.22μmのマイクロメートルフィルターを用いた廃水の直接ろ過および逐次ろ過を比較し、フィルターに捕捉された画分および対応するろ液を、16S rRNA遺伝子およびITSアンプリコンシーケンシング、ショットガンメタゲノミクス、およびメタトランスクリプトミクスを用いて解析した。ろ液は一般に微生物のアルファ多様性が高かった一方で、レプリカ間の変動性がより大きかったのに対し、フィルターではより再現性の高い細菌DNAプロファイルが得られた。画分依存的な差異は、フィルターとろ液の間で分離されていた真菌およびDNAウイルス群集において最も顕著であり、一方で細菌DNA群集は画分間でほぼ共通していた。これらのパターンは、廃水中の細菌において、孔径が厳格なサイズの閾値として機能しないことを示している。DNAウイルスは一貫してろ液において濃縮されており、ろ液からはより多くのウイルスゲノムが得られた。対照的に、フィルターでは細菌のメタゲノムアセンブルゲノムがより多く得られたが、全体的な細菌ゲノムの回収量は限定的であった。細菌およびウイルスのメタトランスクリプトームプロファイルは相対的に変動が大きく、RNAベースの回収において単一の好適画分を選択することを支持するものではなかった。また、直接ろ過と逐次ろ過では、同一の末端孔径においても異なるプロファイルが得られ、ろ過履歴が回収される群集に影響を与えることが示された。以上の結果を総合すると、廃水処理ワークフローは想定されるユースケースに応じて選択されるべきであることが示唆される。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "bioRxiv",
+        "query": "details/biorxiv/2026-10-20/2026-11-10",
+        "scope": "candidate"
+      }
+    ],
+    "id": "10.1101/2025.06.05.658122",
+    "doi": "10.1101/2025.06.05.658122",
+    "title": "A genetically informed atlas of transcriptomic programs from massive human RNA-seq compendia",
+    "abstract": "Genetic risk for complex disease acts through coordinated gene programs in specic tissues and cellular contexts, which single-gene analyses cannot resolve. Interpretable gene modules can capture these programs, but prior-informed methods have not scaled to large expression compendia, andgenetic associations have not been integrated with modules learned at this scale. Here we present CLAMP, a fast, memory-ecient prior-informed framework that learns interpretable gene modules from such compendia and integrates them with genetic associations and drug signatures. CLAMP recovered cell-type composition and tissue organization more accurately than existing decomposition methods. Training on 605,614 ARCHS4 samples increased pathway and genetic-trait recovery, and projection into these modules recovered programs missed by study-specic models. ARCHS4 modules also ranked known drug-disease pairs better than modules learned from smaller compendia or individual genes. In reproducible consensus modules, cell-type, pathway, drug-response and genetic evidence converged on shared processes, placing CRISPR-validated lipid regulators missed by singlegene tests in disease-associated programs. CLAMP is available through Bioconductor, and its trained models provide a genetically informed atlas of gene programs for interpreting complex disease.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "3",
+    "published_doi": "",
+    "related_dois": [
+      "10.1101/2025.06.05.658122"
+    ],
+    "date": "2026-10-23",
+    "authors": "Subirana-Granes, M.; Zhang, H.; Nandi, S.; Hoffman, J.; Rasolofomanana-Rajery, S.; Elshobaky, R.; Gillenwater, L. A.; McKim, A. P.; Costello, J. C.; Chikina, M.; Pividori, M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.1101/2025.06.05.658122v3",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene",
+        "genetic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5587,
+    "collected_at": "2026-11-24T21:11:07.209251+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-24",
+    "translation": {
+      "title": {
+        "hash": "6983e831da4402e01a889339024d5bfc22a03aa47dbaffae89f18dcc5adce7c6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T21:51:48.898162+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "cf5c9e694a7a1ec772bf5aae8f8469a6bbe8b2155fe99909430a9f24548c704f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T21:51:48.898162+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "大規模なヒトRNA-seqコンピデンシアに基づく、遺伝学的知見を有するトランスクリプトームプログラム・アトラス",
+    "abstract_ja": "複雑な疾患の遺伝的リスクは、特定の組織や細胞コンテキストにおける協調的な遺伝子プログラムを介して作用しており、単一遺伝子解析ではこれを解明できない。解釈可能な遺伝子モジュールを用いればこれらのプログラムを捉えることができるが、事前知識に基づく手法は大規模な発現コンピデンシアへのスケールアップができず、遺伝的関連性もこの規模で学習されたモジュールに統合されてこなかった。本研究では、こうしたコンピデンシアから解釈可能な遺伝子モジュールを学習し、それらを遺伝的関連性や薬剤シグネチャーと統合する、高速かつメモリ効率に優れた事前知識ベースのフレームワーク「CLAMP」を提案する。CLAMPは、既存の分解手法よりも正確に細胞種構成と組織構造を復元した。605,614件のARCHS4サンプルを用いた学習により、パスウェイおよび遺伝的形質の復元精度が向上し、これらのモジュールへの投影によって、研究固有のモデルでは捉えきれなかったプログラムを復元することができた。また、ARCHS4モジュールは、より小規模なコンピデンシアや個別の遺伝子から学習したモジュールよりも、既知の薬剤-疾患ペアをより正確にランク付けした。再現可能なコンセンサスモジュールにおいて、細胞種、パスウェイ、薬剤応答、および遺伝的エビデンスは共通のプロセスへと収束し、単一遺伝子テストでは捉えきれなかったCRISPR検証済みの脂質調節因子を、疾患関連プログラムの中に位置づけた。CLAMPはBioconductorを通じて利用可能であり、その学習済みモデルは、複雑な疾患を解釈するための遺伝的知見に基づく遺伝子プログラムアトラスを提供する。"
+  },
+  {
+    "id": "10.64898/2026.11.12.766285",
+    "title": "Annotated reference genome for the Critically Endangered, paleoendemic Bermuda skink (Plestiodon longirostris)",
+    "abstract": "Skinks, one of the largest vertebrate families with over 1,500 described species, are represented by only 19 publicly available chromosome-level genome assemblies. Here, we present the first whole-genome assembly of the Bermuda skink, Plestiodon longirostris, a Critically Endangered, evolutionarily distinct, and endemic species. We conducted a de novo genome assembly using Oxford Nanopore Technology long reads, followed by reference-guided scaffolding against the five-lined skink Plestiodon fasciatus and Gilberts skink Plestiodon gilberti genomes. We generated a 1.496 Gb assembly with 2,579 scaffold contigs over 500 bp in length, a scaffold N50 of 224.1 Mb, with 98.7% Benchmarking Universal Single-Copy Orthologs (BUSCO) completeness score and 94.8% of gene annotations transferred from the P. fasciatus annotated genome. Repetitive elements comprised 48.37% of the genome, including 33.79% unclassified repeats, while 9% of transposable element sequences contained internal stop codons, consistent with other reptile genomes. Synteny analysis revealed strong conservation of macrochromosomes and gene order through the Plestiodon genus, and progressive chromosomal rearrangement with increased phylogenetic distance across the wider skink family. We also present the first mitogenome for the species. These genomic resources will further evolutionary research in the skink family and will facilitate applied conservation genomic approaches in this Critically Endangered species.",
+    "journal": "",
+    "doi": "10.64898/2026.11.12.766285",
+    "date": "2026-11-24",
+    "authors": "Greenwood, O., Burchall-Busby, K., Raynor, H., Jones-Mussenden, K., Williams, L. J., Griffiths, R. A., Outerbridge, M. E., Rouja, J.-P., Turner, H. S., Cain, B., Garcia, G. n., Jain, M. n., Weldon, C., Griffiths, S. M.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.12.766285v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "assembly",
+        "genome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "assemblies",
+          "assembly",
+          "evolution",
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5602,
+    "collected_at": "2026-11-24T21:21:51.319977+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.64898/2026.11.12.766285"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f36fa6d3a17ea28c98068cca8d51368b8132c66abe5135a36b89213802fe3f92",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T21:51:48.898162+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "11f1f0771a30397d618729066d37bd1a4291124218052f8a11df6911d90a36c5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T21:51:48.898162+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "絶滅危惧IA類の古地域固有種バミューダスキンク（Plestiodon longirostris）のアノテーション済みリファレンスゲノム",
+    "abstract_ja": "1,500種以上が記載されている脊椎動物最大級の科の一つであるスキンク類において、公開されている染色体レベルのゲノムアセンブリはわずか19例にとどまる。本研究では、絶滅危惧IA類に指定され、進化的に特異かつ固有種であるバミューダスキンク（Plestiodon longirostris）の初の全ゲノムアセンブリを提示する。我々は、Oxford Nanopore Technologyのロングリードを用いたde novoゲノムアセンブリを行い、続いて5線スキンク（Plestiodon fasciatus）およびギルバーツスキンク（Plestiodon gilberti）のゲノムをリファレンスガイドとしたスキャフォールディングを実施した。その結果、全長500 bp超のスキャフォールドコンティグを2,579個含む1.496 Gbのアセンブリを生成し、スキャフォールドN50は224.1 Mb、Benchmarking Universal Single-Copy Orthologs (BUSCO) の完全性スコアは98.7%、遺伝子アノテーションの94.8%がP. fasciatusのアノテーション済みゲノムから転移された。反復要素はゲノムの48.37%を占め、そのうち33.79%が未分類の反復配列であった。また、転移可能要素配列の9%に内部終止コドンが含まれており、これは他の爬虫類ゲノムの傾向と一致していた。シンテニー解析により、Plestiodon属全体を通じて大染色体と遺伝子配列の強固な保存性が認められた一方、より広範なスキンク科全体では系統的距離の増大に伴い、染色体の再編成が進行していることが明らかになった。さらに、本種の初のミトゲノムを提示する。これらのゲノムリソースは、スキンク科の進化研究をさらに推進し、本絶滅危惧IA類における応用保全ゲノミクスアプローチを促進するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "bioRxiv",
+        "query": "details/biorxiv/2026-10-20/2026-11-10",
+        "scope": "candidate"
+      }
+    ],
+    "id": "10.64898/2026.08.03.742406",
+    "doi": "10.64898/2026.08.03.742406",
+    "title": "Reference-free and robust copy number inference in single-cell tumor transcriptomes",
+    "abstract": "Copy number changes are a hallmark of cancer and reveal which cells are malignant and how tumors evolve. Single-cell RNA sequencing is widely used to infer them in individual tumor cells. Existing methods do so by normalizing each cell against a reference of normal cells. As a result, their output depends on which cells are analyzed together, they often label normal cells as aneuploid, and they struggle in samples without normal cells. Here we present REFCON, a deep-learning model that infers copy number from each cell's own expression, without a reference. We evaluated REFCON on more than 410,000 held-out cells from cell lines, organoids and 112 tumors of nine cancer types, profiled with seven sequencing technologies. It agreed more closely with single-cell DNA than existing methods, was unaffected by sample composition, and labeled far fewer normal cells as aneuploid. In patient-derived organoids, which contain no normal cells, it gave consistent profiles across passages and tracked clonal evolution. REFCON addresses long-standing limitations of reference-based inference and enables robust, reference-free copy number calling from single-cell transcriptomes.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "2",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.08.03.742406"
+    ],
+    "date": "2026-10-23",
+    "authors": "Gencturk, M. M.; Cicek, A. E.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.08.03.742406v2",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "inference",
+        "transcriptome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "evolution",
+          "transcript"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 5588,
+    "collected_at": "2026-11-24T21:11:07.209251+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-24",
+    "translation": {
+      "title": {
+        "hash": "108fadd5f7171578f65450a8c57b65e20cd77aaec27029953ea9bc29104d1bfc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T21:51:48.898162+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7c2469690e1321653ebb5823a4cbb45f5420ed9f16eb73ea49cf0a4cd14d5474",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T21:51:48.898162+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "単一細胞腫瘍トランスクリプトームにおけるリファレンスフリーかつ頑健なコピー数推定",
+    "abstract_ja": "コピー数の変化はがんの特徴的な所見であり、どの細胞が悪性であるか、また腫瘍がどのように進展するかを明らかにする。単一細胞RNAシーケンシングは、個々の腫瘍細胞においてこれらの変化を推定するために広く用いられている。既存の手法では、正常細胞のリファレンスを基準として各細胞を正規化することで推定を行う。その結果、得られる出力はどの細胞をまとめて解析するかに依存し、正常細胞が異数体としてラベル付けされることが多く、正常細胞を含まないサンプルでは性能が低下する。本研究では、リファレンスを用いず、各細胞自身の発現からコピー数を推定する深層学習モデル「REFCON」を提案する。我々は、細胞株、オルガノイド、および9種類のがん種にわたる112個の腫瘍から得られた41万個以上のホールドアウト細胞を用いてREFCONを評価し、7種類のシーケンシング技術でプロファイルを作成した。その結果、既存の手法よりも単一細胞DNAの結果とより密接に一致し、サンプル組成の影響を受けず、正常細胞が異数体としてラベル付けされる割合も大幅に低かった。正常細胞を含まない患者由来オルガノイドにおいても、パスウェイ間で一貫したプロファイルが得られ、クローンの進化を追跡することができた。REFCONは、リファレンスに基づく推定における長年の限界を解消し、単一細胞トランスクリプトームからの堅牢でリファレンスフリーなコピー数判定を可能にする。"
   }
 ]
