@@ -331498,5 +331498,309 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ピロプトリジンは、多機能なステロール感知性細菌毒素である。",
     "abstract_ja": "ガスデルミン孔は、免疫防御機構であるピロプトーシスにおける細胞の自己犠牲を媒介する。本稿では、ガスデルミンのフォールドが進化の過程で、膜を標的とする細菌毒素へと転用された仕組みについて述べる。我々がピロプトリシンと呼ぶこれらのタンパク質は、ガスデルミンとコレステロール依存性サイトリシンのキメラである。サイトリシンと同様に、ピロプトリシンはコレステロールに富む膜に対して活性を示すが、サイトリシンとは異なり、哺乳類細胞に対する活性は低い。ピロプトリシンの構造スナップショットは、その二重相同性を裏付けるとともに、膜挿入に向けて準備された事前組織化複合体を明らかにしている。予想外なことに、ピロプトリシンはステロール含有量が著しく低い膜においてもin vitroおよびin vivoで活性を示し、殺虫活性を有することが判明した。本研究の結果は、ガスデルミンのフォールドが、細胞の内外から細胞死を誘導し得る汎用性の高い孔形成足場であることを立証するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "bioRxiv",
+        "query": "details/biorxiv/2026-10-20/2026-11-10",
+        "scope": "candidate"
+      }
+    ],
+    "id": "10.64898/2026.10.08.757592",
+    "doi": "10.64898/2026.10.08.757592",
+    "title": "The ABC-F protein Uup, Rescues Stalled Ribosomal Termination Complexes to Modulate DNA Maintenance",
+    "abstract": "The cytosolic ATP-binding cassette F (ABC-F) family modulates ribosomal activity in eukaryotes and prokaryotes. Although they all bind to the E site of the ribosome, some bacterial ABC-Fs confer resistance to ribosome-targeting antibiotics, while housekeeping members have poorly defined roles. Interestingly, in Escherichia coli, which possesses four ABC-F (EttA, Uup, YbiT and YheS), Uup has been rather implicated in DNA recombination. Using an unbiased approach, we reconcile this apparent discrepancy by showing that Uup's involvement in DNA recombination is indirect and is dictated by Uup-mediated regulation of the last steps of translation that rescues problematic translation of genes involved in DNA maintenance such as ssb and dnaX. Accordingly, the elongated cell phenotype observed in uup deletion background is reverted by expressing a ssb variant that no longer depends on Uup. Unlike its paralog EttA, which helps ribosomes in translating proteins with repeats of negatively charged residues in the N-terminal 30 amino acids, Uup instead facilitates the rescue of stalled translation termination events that, in its absence, are handled by the tmRNA pathway.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "2",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.10.08.757592"
+    ],
+    "date": "2026-10-21",
+    "authors": "Wawszczyk, A.; Ngo, S.; Hamon, M.; Monlezun, L.; Boel, G.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.08.757592v2",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "bacteria",
+        "bacterial",
+        "prokaryote"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5557,
+    "collected_at": "2026-11-24T14:50:01.882069+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-24",
+    "translation": {
+      "title": {
+        "hash": "6613babcacc899f9e568f8a3433f3760cce01aad4006ecbeebf0995890c1030e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T15:44:33.808357+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "beba5475d511d1fded39fe4caf41c63d9ae342aded2cd9c20ef54c9a3e6dc2d8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T15:44:33.808357+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ABC-Fタンパク質Uupは、停止したリボソーム終結複合体をレスキューしてDNA維持を調節する。",
+    "abstract_ja": "細胞質のATP結合カセットF（ABC-F）ファミリーは、真核生物および原核生物においてリボソーム活性を調節する。これらはいずれもリボソームのE部位に結合するが、一部の細菌ABC-Fはリボソーム標的型抗生物質への耐性を付与する一方、ハウスキーピングメンバーの役割は十分に解明されていない。興味深いことに、4種類のABC-F（EttA、Uup、YbiT、YheS）を有する大腸菌（Escherichia coli）において、UupはDNA組換えに関与していると考えられてきた。我々はバイアスのないアプローチを用い、UupのDNA組換えへの関与が間接的なものであること、また、ssbやdnaXといったDNA維持に関与する遺伝子の問題のある翻訳を救済する、Uupを介した翻訳最終段階の調節によって決定されていることを示すことで、この見かけ上の矛盾を解消した。したがって、uup欠損背景で観察される伸長した細胞表現型は、Uupに依存しなくなったssb変異体を発現させることで回復する。N末端30アミノ酸に負に帯電した残基の反復配列を持つタンパク質の翻訳においてリボソームを補助するパラログのEttAとは異なり、Uupは代わりに、Uupが不在であればtmRNA経路によって処理される、停止した翻訳終結事象の救済を促進する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "bioRxiv",
+        "query": "details/biorxiv/2026-10-20/2026-11-10",
+        "scope": "candidate"
+      }
+    ],
+    "id": "10.64898/2026.01.16.699994",
+    "doi": "10.64898/2026.01.16.699994",
+    "title": "Gain and loss of gut symbionts during stingless bee diversification is linked to host group size",
+    "abstract": "Microbiomes typically vary between closely related host species, but how and why they diverge during host diversification remain poorly understood. In bees, the evolution of eusociality is thought to have promoted symbiosis with specialized gut bacteria, including Snodgrassella and Gilliamella. While these symbionts are common in bumble bees and honey bees, some stingless bees, a closely related clade of eusocial bees, lack them. Here, we tested whether group size, a fundamental trait of social organisms with implications for microbial transmission and function, explains symbiont gain and loss in stingless bees. Using specimens from a global (though mostly Neotropical) collection, we performed 16S rRNA gene sequencing and qPCR on adult worker bees representing 29 species from 18 genera. Phylogenetic models indicate that bee species with larger colonies are more likely to harbor Snodgrassella and Gilliamella. We propose two underlying mechanisms: challenges faced by large groups (e.g., disease risk) select for symbionts that supply needed functionality (e.g., pathogen protection), or large groups are less prone to transmission bottlenecks and stochastic symbiont loss. While deeper sampling within species is still needed, these findings highlight group size as a driver of microbiome evolution in stingless bees and, potentially, in other social hosts.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "2",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.01.16.699994"
+    ],
+    "date": "2026-10-21",
+    "authors": "Villabona Buitrago, N. A.; Vazquez, A.; Schlauch, J.; Rasmussen, C.; Joyce, R.; Martinez, C. M.; Hammer, T.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.01.16.699994v2",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "bacteria",
+        "microbial",
+        "microbiome",
+        "microbiomes"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "evolution",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 5558,
+    "collected_at": "2026-11-24T14:50:01.882069+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-24",
+    "translation": {
+      "title": {
+        "hash": "1af2b28c089e138e18c63ecceddea8b54243d2e44fa16a49f2b622daa7c556de",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T15:44:33.808357+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f56d27779f239028154f73157ef17d60a45e2fb64dd866ddb0a63edae9d38fd6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T15:44:33.808357+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "刺針を持たないハチの多様化に伴う腸内共生菌の増減は、宿主群のサイズと関連している。",
+    "abstract_ja": "マイクロバイオームは通常、近縁な宿主種間で異なるが、宿主の多様化に伴いどのように、またなぜ分岐するのかについては、まだ十分に解明されていない。ミツバチでは、真社会性の進化が、Snodgrassella属やGilliamella属を含む特殊な腸内細菌との共生を促進したと考えられている。これらの共生菌はマルハナバチやミツバチでは一般的だが、真社会性ミツバチの近縁系統である一部のハリナシバチでは欠如している。本研究では、微生物の伝播と機能に影響を及ぼす社会性生物の基本形質である群サイズが、ハリナシバチにおける共生菌の獲得と喪失を説明するかどうかを検証した。世界的な（ただし主に新熱帯区の）コレクションから得られた標本を用い、18属29種の成虫働きバチを対象に16S rRNA遺伝子シーケンシングおよびqPCRを実施した。系統モデルは、コロニー規模が大きいミツバチ種ほど、Snodgrassella属およびGilliamella属を保有する可能性が高いことを示している。我々は、2つの根底にあるメカニズムを提案する。すなわち、大規模群が抱える課題（例：疾病リスク）が、必要な機能（例：病原体防御）を提供する共生菌を淘汰するか、あるいは大規模群は伝播ボトルネックや確率的な共生菌の喪失が起こりにくいということである。種内でのさらなるサンプリングが依然として必要ではあるが、これらの知見は、ハリナシバチ、そして潜在的には他の社会性宿主においても、群サイズがマイクロバイオーム進化の駆動要因であることを浮き彫りにしている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "bioRxiv",
+        "query": "details/biorxiv/2026-10-20/2026-11-10",
+        "scope": "candidate"
+      }
+    ],
+    "id": "10.64898/2026.06.22.733698",
+    "doi": "10.64898/2026.06.22.733698",
+    "title": "Diversifications of both the three domains of life and SARS-CoV-2 possibly driven by biases between amino acid biosynthetic families",
+    "abstract": "All cellular life forms fall under the three-domain classification of life, raising a fundamental evolutionary question: why does this classification feature three rather than two or four? To answer this question, a more general method, rather than the traditional one based on comparing small-subunit ribosomal RNAs, is required. The three-base periodicity in genomes is a common feature of both cellular life forms and viruses, which is species-specifically biased between amino acid biosynthetic families. Based on comparing the corresponding proteomic feature among all life forms, a global triangular diversification picture has been obtained, whose three angular regions correspond to the three domains, respectively. This mechanism of diversification of life attributes the evolutionary driving forces behind the diversification of the three domains of life to the biases between amino acid biosynthetic families. Notably, the same mechanism also applies to the contemporary diversification of SARS-CoV-2, whose reasonable results in turn corroborate the above explanation of primordial diversification of life and in addition shed light on the mechanism of speciation.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "2",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.06.22.733698"
+    ],
+    "date": "2026-10-21",
+    "authors": "Li, D. J.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.06.22.733698v2",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 5559,
+    "collected_at": "2026-11-24T14:50:01.882069+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-24",
+    "translation": {
+      "title": {
+        "hash": "e8ae5f22efba68314269981f303a9f57d1d79d75d7ca8565d0010742ae5c8439",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T15:44:33.808357+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d7da07f119cc129495c81f5d0147fbbe4fb8a3d40b49dfab9323a5b4c649db44",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T15:44:33.808357+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "アミノ酸生合成ファミリー間のバイアスが駆動する可能性のある、生命の3つのドメインおよびSARS-CoV-2の双方における多様化",
+    "abstract_ja": "あらゆる細胞生命体は生命の3ドメイン分類に属しており、この分類においてなぜ2つあるいは4つではなく3つという区分が設けられているのかという根本的な進化論的問いが提起されている。この問いに答えるには、小サブユニットリボソームRNAの比較に基づく従来の手法ではなく、より汎用的な手法が必要となる。ゲノムにおける3塩基周期性は、細胞生命体とウイルスの双方に共通する特徴であり、アミノ酸生合成ファミリー間で種特異的な偏りが見られる。あらゆる生命体における対応するプロテオーム特性を比較した結果、世界的な三角形の多様化パターンが得られ、その3つの角領域はそれぞれ3つのドメインに対応している。生命のこの多様化メカニズムは、生命の3ドメインの多様化を駆動する進化的要因を、アミノ酸生合成ファミリー間の偏りに帰するものである。特筆すべきは、同様のメカニズムがSARS-CoV-2の現代における多様化にも適用可能であり、その妥当な結果が、上述の生命の原初的多様化に関する説明を裏付けるとともに、種分化のメカニズムを解明する一助となっている点である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "bioRxiv",
+        "query": "details/biorxiv/2026-10-20/2026-11-10",
+        "scope": "candidate"
+      }
+    ],
+    "id": "10.64898/2026.10.19.760188",
+    "doi": "10.64898/2026.10.19.760188",
+    "title": "A fast neutron mutant resource for Ipomoea purpurea reveals dose-dependent genomic and phenotypic variation",
+    "abstract": "A central goal in evolutionary biology is to understand the genomic basis of phenotypic traits, yet this pursuit is often constrained by a lack of accessible phenotypic and genetic variation, particularly in non-model organisms. Fast neutron irradiation offers a powerful approach for generating such variation, as it does not require prior genomic resources, established transformation systems, or reference mutant collections. Here, we describe the development and characterization of the first fast neutron mutant library in Ipomoea purpurea (common morning glory), a noxious agricultural weed and established model system in evolutionary ecology. We exposed an I. purpurea reference genotype to three levels of irradiation and developed 1,043 lines third generation lines and characterized the phenotypic and genetic variation in a subset of 200. Phenotypic screens identified seven mutant lines exhibiting eleven distinct phenotypes, and revealed higher phenotypic variance for anther-stigma distance, flower number, and pollen count relative to a non-irradiated control line. We further identified genetic variation across eight phenotypic traits among the mutant lines. Together, these results show that fast neutron mutagenesis generates novel phenotypic and genetic variation in ecologically relevant traits, offering the research community a new genomic resource for an established model in evolutionary ecology.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.10.19.760188"
+    ],
+    "date": "2026-10-20",
+    "authors": "Jameel, M. I.; Guza, M.; Cobb, M.; Baldwin, E. A.; Leebens-Mack, J.; Parrott, W. A.; Baucom, R.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.19.760188v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "gene",
+        "genetic",
+        "genomic",
+        "resource"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genomic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 5536,
+    "collected_at": "2026-11-24T14:50:01.882069+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-24",
+    "translation": {
+      "title": {
+        "hash": "c772c3d2416d8d47d84585617ab518d8550d13cc0e4a194eae0ebb1e6ec4e020",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T15:44:33.808357+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "39030f08a498a970c2953618976c01c0348af6ddbd89f1bbadca6f6379549e20",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T15:44:33.808357+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Ipomoea purpureaの高速中性子変異体資源から明らかになった用量依存的なゲノムおよび表現型の変異",
+    "abstract_ja": "進化生物学における中心的な目標は、表現型形質のゲノム基盤を解明することであるが、この取り組みは、特に非モデル生物において、利用可能な表現型および遺伝的変異の不足によって制約を受けることが多い。高速中性子照射は、事前のゲノム資源や確立された形質転換系、あるいは参照変異体コレクションを必要としないため、こうした変異を作製するための強力な手法となる。本研究では、有害な農業雑草であり、進化生態学における確立されたモデル系であるIpomoea purpurea（アサガオ）において、初の高速中性子変異体ライブラリの開発と特性解析について報告する。我々は、I. purpureaの参照遺伝子型を3段階の照射レベルにさらし、1,043系統の第3世代系統を作製するとともに、そのうち200系統のサブセットについて表現型および遺伝的変異を特性解析した。表現型スクリーニングにより、11種類の異なる表現型を示す7系統の変異体を同定し、非照射対照系統と比較して、葯・柱頭間距離、花数、および花粉数においてより高い表現型分散が認められた。さらに、変異体系統間において8つの表現型形質にわたる遺伝的変異を同定した。以上の結果を総合すると、高速中性子突然変異導入法は、生態学的に重要な形質において新規の表現型および遺伝的変異を生じさせ、進化生態学における確立されたモデルに対する新たなゲノム資源を研究コミュニティに提供することが示された。"
   }
 ]
