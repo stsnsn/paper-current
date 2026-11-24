@@ -325529,5 +325529,301 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "G2PT: 多遺伝子リスクの評価と説明のための遺伝子型－表現型トランスフォーマー",
     "abstract_ja": "ゲノムワイド関連解析により、数百万もの遺伝的変異が生物医学的表現型と関連付けられてきたが、その有用性はメカニズムの解明不足や広範なエピスタシス相互作用によって制限されてきた。本研究では、変異、遺伝子、多遺伝子系、および表現型間の階層的な情報フローをモデル化するためのフレームワークであるGenotype-to-Phenotype Transformer（G2PT）を提案する。我々は、インスリン抵抗性、LDLおよび2型糖尿病を含む代謝形質の遺伝学をモデル化するようにG2PTを学習させた。G2PTは、これらの形質をクラス最高水準の手法に匹敵する精度で予測し、コホート間の転移可能性を示し、エピスタシス効果を捉える。本研究は、階層的グラフトランスフォーマーを、多遺伝子リスク解釈における次世代のアプローチとして位置づけるものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 4",
+        "query": "(JOURNAL:\"Infection and Immunity\" OR JOURNAL:\"Antimicrobial Agents and Chemotherapy\" OR JOURNAL:\"Journal of Clinical Microbiology\" OR JOURNAL:\"Microbiology Resource Announcements\" OR JOURNAL:\"Nature\" OR JOURNAL:\"Nature Microbiology\" OR JOURNAL:\"Nature Ecology & Evolution\" OR JOURNAL:\"Nature Communications\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1038/s41564-026-02521-1",
+    "title": "Systemic exposure to typhoid toxin primes the murine vascular endothelium for intestinal perforation during Salmonella Typhi infection.",
+    "abstract": "Intestinal perforation is a late complication and the leading cause of death in typhoid fever, but its mechanism has remained undefined. Here, using sequential exposure to the PltC form of typhoid toxin followed by oral Salmonella Typhi infection, we develop a mouse model of late-stage human typhoid, when circulating toxin precedes the onset of intestinal pathology. Systemic exposure to the toxin renders otherwise resistant mice susceptible to oral infection and establishes a transient vascular endothelial priming state, resulting in vascular injury, haemorrhage and lethal intestinal perforation localized to Peyer's patches. These lesions were accompanied by the appearance in blood of microbiota-derived taxa, consistent with translocation across a breached small-intestinal barrier. Lethality required the SPI-1 type-III secretion system (T3SS), which drives intestinal inflammation, but not the SPI-2 T3SS, which drives systemic infection, indicating that death results from intestinal rather than disseminated infection. Although PltC-typhoid toxin causes leucopaenia, loss of circulating white cells was not sufficient for sensitization. Endothelial-specific expression of CMAH, which masks the toxin's Neu5Ac receptors, prevented priming and disease. These findings define intestinal perforation as a typhoid toxin-dependent vascular-barrier disease.",
+    "journal": "Nature Microbiology",
+    "doi": "10.1038/s41564-026-02521-1",
+    "date": "2026-10-29",
+    "authors": "Zhao H, Hua C, Hur JI, Lara-Tejero M, Galán JE.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42957851",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42957851",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5504,
+    "collected_at": "2026-11-24T00:50:26.638667+00:00",
+    "collected_date": "2026-11-24",
+    "sources": [
+      "Europe PMC journals 4"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1038/s41564-026-02521-1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "41061d2bee4d0299564a8b46c58af1e81eea2d9df6b83fc1f67a2d1ca6983391",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T01:27:59.324027+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7d2205e4b972a0e4381735eb360cb7ea5895f25387cc987c0f7630f6f0c17438",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T01:27:59.324027+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "腸チフス毒素への全身曝露は、サルモネラ属菌（Salmonella Typhi）感染時にマウスの血管内皮を腸管穿孔へと素因化する。",
+    "abstract_ja": "腸管穿孔は腸チフスにおける晩期合併症であり、主要な死因であるが、その機序は未解明のままである。本研究では、腸チフス毒素のPltC型への逐次曝露と、それに続くサルモネラ菌（Salmonella Typhi）の経口感染を用いることで、循環毒素が腸管病理の発症に先行するヒト腸チフス晩期型のマウスモデルを構築した。毒素への全身曝露により、本来耐性を持つマウスが経口感染に対して感受性となり、一過性の血管内皮プライミング状態が確立され、その結果、血管損傷、出血、およびパイエル板に局在する致死的な腸管穿孔が引き起こされた。これらの病変には、破断した小腸バリアを介した移行と一致する、微生物叢由来の分類群の血中への出現が伴っていた。致死には腸管炎症を惹起するSPI-1型III分泌システム（T3SS）が必要であったが、全身感染を惹起するSPI-2型T3SSは不要であった。このことは、死亡が播種性感染ではなく腸管感染に起因することを示している。PltC型腸チフス毒素は白血球減少を引き起こすが、循環白血球の喪失だけでは感作には不十分であった。毒素のNeu5Ac受容体を遮蔽するCMAHの内皮特異的発現は、プライミングおよび疾患の発症を阻止した。これらの知見は、腸管穿孔を腸チフス毒素依存性の血管バリア疾患として定義するものである。"
+  },
+  {
+    "id": "10.1038/s41522-026-01193-3",
+    "title": "Aspergillus neoalliaceus suppresses Saposhnikovia divaricata root rot through functional reprogramming of the rhizosphere microbiome",
+    "abstract": "Aspergillus neoalliaceus suppresses Saposhnikovia divaricata root rot through functional reprogramming of the rhizosphere microbiome",
+    "journal": "npj Biofilms and Microbiomes",
+    "doi": "10.1038/s41522-026-01193-3",
+    "date": "2026-11-23",
+    "authors": "Zhongming Han",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.nature.com/articles/s41522-026-01193-3",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Aspergillus",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.nature.com/npjbiofilms.rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5544,
+    "collected_at": "2026-11-24T01:01:00.011480+00:00",
+    "collected_date": "2026-11-24",
+    "sources": [
+      "https://www.nature.com/npjbiofilms.rss"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1038/s41522-026-01193-3"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0b99a2fea06a77e18b4c380eb2a01982d500758ee31bd0a3fa4bdba0bd3ff423",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T01:27:59.324027+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0b99a2fea06a77e18b4c380eb2a01982d500758ee31bd0a3fa4bdba0bd3ff423",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T01:27:59.324027+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Aspergillus neoalliaceusは、根圏微生物叢の機能的リプログラミングを介してSaposhnikovia divaricataの根腐れを抑制する。",
+    "abstract_ja": "Aspergillus neoalliaceusは、根圏微生物叢の機能的リプログラミングを介してSaposhnikovia divaricataの根腐れを抑制する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 4",
+        "query": "(JOURNAL:\"Infection and Immunity\" OR JOURNAL:\"Antimicrobial Agents and Chemotherapy\" OR JOURNAL:\"Journal of Clinical Microbiology\" OR JOURNAL:\"Microbiology Resource Announcements\" OR JOURNAL:\"Nature\" OR JOURNAL:\"Nature Microbiology\" OR JOURNAL:\"Nature Ecology & Evolution\" OR JOURNAL:\"Nature Communications\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1038/s41564-026-02526-w",
+    "title": "Lack of ancestral SARS-CoV-2 imprinting promotes Omicron sublineage BA.3.2.2 infection in children.",
+    "abstract": "The ongoing SARS-CoV-2 evolution is constrained by population-level immune imprinting. Recent genomic surveillance revealed an unexpected demographic shift with the Omicron sublineage BA.3.2.2 being predominant in paediatric populations globally. Here we show that this paediatric susceptibility arises from the absence of immune imprinting against ancestral SARS-CoV-2 Wuhan strain. Serological analyses reveal a failure to neutralize BA.3.2.2 in young children with no ancestral strain exposure. Single-B-cell sequencing analyses demonstrate that BA.3.2.2 evades Omicron-specific Class 1/4 neutralizing antibodies that target the ACE2-binding site, encoded by immunoglobulin heavy-chain variable (IGHV) germline genes IGHV2-5 and IGHV5-51, which dominate in weakly imprinted individuals. BA.3.2.2 remains susceptible to broadly cross-reactive Class 1 antibodies, encoded by IGHV3-53/66, typically enriched in adults with strong Wuhan-strain imprinting, such as mRNA vaccine recipients. Together, these findings show that classic immune imprinting provides superior protection against a highly divergent variant, explaining the age-biased transmission of BA.3.2.2, and informing future paediatric vaccination strategies.",
+    "journal": "Nature Microbiology",
+    "doi": "10.1038/s41564-026-02526-w",
+    "date": "2026-10-26",
+    "authors": "Niu X, Xiong D, He P, Yu L, Li Y, Cai X, An R, Wang Y, Kong R, Yu Y, Wang J, Wang Q, Huang J, Zhang B, Zhu T, Zhao T, Huang J, Jian F, Shao F, Huang Z, Chen X, Shen Z, Jin R, Xie Z, Chen X, Tan X, Cao Y.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42934357",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42934357",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genomic"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 5510,
+    "collected_at": "2026-11-24T00:50:26.638667+00:00",
+    "collected_date": "2026-11-24",
+    "sources": [
+      "Europe PMC journals 4"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1038/s41564-026-02526-w"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2f13cd1984822264fe26a7e78ecf15bf8c58dfb367a118a7061156b573d0c574",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T01:27:59.324027+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a23dffa29d65e0ce8a4a9b0553212edd4b02d9d5081e4233a633741a9f566948",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T01:27:59.324027+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "祖先株におけるSARS-CoV-2インプリンティングの欠如が、小児におけるオミクロン亜系統BA.3.2.2感染を促進する。",
+    "abstract_ja": "SARS-CoV-2の継続的な進化は、集団レベルの免疫インプリンティングによって制約を受けている。近年のゲノムサーベイランスにより、世界的な小児集団においてオミクロン亜系統BA.3.2.2が優勢となるという予期せぬ人口動態の変化が明らかになった。本研究では、この小児における感受性が、祖先株であるSARS-CoV-2武漢株に対する免疫インプリンティングの欠如に起因することを示す。血清学的解析により、祖先株への曝露歴のない幼児において、BA.3.2.2を中和できないことが明らかになった。単一B細胞シーケンシング解析により、BA.3.2.2が、弱インプリンティング個体で優位な免疫グロブリン重鎖可変（IGHV）生殖細胞系遺伝子IGHV2-5およびIGHV5-51によってコードされるACE2結合部位を標的とするオミクロン株特異的なクラス1/4中和抗体を回避することが示された。BA.3.2.2は、通常、mRNAワクチン接種者など武漢株のインプリンティングが強い成人に豊富に存在する、IGHV3-53/66によってコードされる広範な交差反応性クラス1抗体に対して依然として感受性を示す。以上の知見を総合すると、古典的な免疫インプリンティングが高度に分岐した変異株に対して優れた防御能を提供することが示され、BA.3.2.2の年齢偏向的な伝播の説明となるとともに、今後の小児ワクチン接種戦略に示唆を与えるものである。"
+  },
+  {
+    "id": "10.64898/2026.11.21.768310",
+    "title": "Oral microbiome and DNA virome profiling in pigs reveals age-associated dynamics and extracellular recovery of Streptococcus suis-associated phage lineages",
+    "abstract": "The pig oral cavity is a critical interface for microbial transmission and herd health monitoring, yet its microbiome and virome remains poorly characterised. We performed shotgun metagenomic sequencing of oral fluids from pigs across 15 commercial farms in Ireland, using paired bulk and virus-like particles (VLP) enrichment to capture comprehensive microbial and DNA virome diversity. Microbial communities shifted progressively with age, with early post-weaning animals enriched in environmental genera such as Pseudomonas and Staphylococcus and later stages dominated by lactic acid bacteria and anaerobes. Only 20.6% of vOTUs could be assigned to a known genus, with the most abundant being Astrithrvirus, which increased with age. Both microbiome and DNA virome exhibited predictable, coordinated age-associated succession with strong cross-domain coupling supported by virus-host networks. Functional profiling of the microbiome revealed that predicted carbohydrate substrates tracked the dietary transitions, while accessory viral functions partitioned by lifestyle and host. The early post-weaning stage was characterised by high abundance of viral integration and excision functions, as well as elevated resistome diversity that was almost exclusively of prokaryotic origin rather than viral. Importantly, 26 of the 25,223 vOTUs identified were predicted to target Streptococcus suis, providing the first metagenomic catalogue of such phages from pig oral environments. These findings expand our understanding of oral microbiome-virome dynamics and establish a framework for integrated microbiome and viromics approaches that could enable therapeutic phage discovery and inform microbiome-targeted interventions in pig production systems.",
+    "journal": "",
+    "doi": "10.64898/2026.11.21.768310",
+    "date": "2026-11-23",
+    "authors": "Osei, E. K., Ornelas, M. A. S., Garcia Manzanilla, E., Mahony, J., Kenny, J. G.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.21.768310v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Pseudomonas",
+        "bacteria",
+        "metagenom",
+        "metagenomic",
+        "microbial",
+        "microbiome",
+        "phage",
+        "phages",
+        "prokaryotic",
+        "viral",
+        "virome",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5540,
+    "collected_at": "2026-11-24T01:01:00.011480+00:00",
+    "collected_date": "2026-11-24",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.64898/2026.11.21.768310"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e905c549287ea5f210c917a3076e9428d5d0a3a1cd5fa90644f8ef611097fe23",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T01:27:59.324027+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b5ba8ddac6caf80018e371551e1732ba03a2658d6724975df9dbc95bc19bceec",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T01:27:59.324027+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ブタの口腔マイクロバイオームおよびDNAバイロームプロファイリングにより明らかになった、Streptococcus suis関連ファージ系統の加齢に伴う動態と細胞外回収",
+    "abstract_ja": "豚の口腔は、微生物伝播および群の健康モニタリングにおける重要な界面であるが、そのマイクロバイオームおよびバイロームは依然として十分に解明されていない。我々は、アイルランド国内の商業農場15か所から採取した豚の口腔液に対し、ペア化したバルク粒子およびウイルス様粒子（VLP）濃縮法を用いたショットガンメタゲノムシーケンシングを実施し、微生物およびDNAバイロームの包括的な多様性を捕捉した。微生物群集は年齢とともに漸次的に変化し、離乳後早期の個体ではPseudomonasやStaphylococcusなどの環境由来の属が濃縮され、後期には乳酸菌や嫌気性菌が支配的となった。既知の属に帰属させられたvOTUはわずか20.6%であり、最も豊富であったのはAstrithrvirusで、年齢とともに増加した。マイクロバイオームとDNAバイロームはともに、ウイルス-宿主ネットワークに支えられた強力なドメイン間結合を伴う、予測可能な協調的な加齢に伴う遷移を示した。マイクロバイオームの機能プロファイリングにより、予測された糖基質が飼料の移行に伴って変化した一方、付随的なウイルス機能は生活様式や宿主によって分画されていることが明らかになった。離乳後早期の段階は、ウイルスの組み込みおよび切除機能の高存在量に加え、ウイルス由来ではなくほぼ専ら原核生物由来であるレジストーム多様性の亢進によって特徴づけられた。重要な点として、同定された25,223個のvOTUのうち26個がStreptococcus suisを標的とすることが予測され、豚の口腔環境におけるこのようなファージの初のメタゲノムカタログが構築された。これらの知見は、口腔マイクロバイオーム-バイローム動態に関する理解を深めるとともに、治療用ファージの発見を可能にし、豚生産システムにおけるマイクロバイオーム標的介入に資する、統合的なマイクロバイオームおよびバイロミクスアプローチの枠組みを確立するものである。"
   }
 ]
