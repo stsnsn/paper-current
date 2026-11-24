@@ -460664,5 +460664,1274 @@
     "related_dois": [
       "10.1038/s41467-026-79791-0"
     ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 6",
+        "query": "(JOURNAL:\"Microbial Genomics\" OR JOURNAL:\"Microbiology\" OR JOURNAL:\"Aquatic Microbial Ecology\" OR JOURNAL:\"PNAS\" OR JOURNAL:\"PLOS Biology\" OR JOURNAL:\"PLOS Genetics\" OR JOURNAL:\"Genome Research\" OR JOURNAL:\"Genome Biology\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "expression-of-concern",
+      "journal article",
+      "expression of concern"
+    ],
+    "id": "10.1073/pnas.2637565123",
+    "title": "Expression of Concern for Cordero et al., Combination of tucatinib and neural stem cells secreting anti-HER2 antibody prolongs survival of mice with metastatic brain cancer.",
+    "abstract": "",
+    "journal": "PNAS",
+    "doi": "10.1073/pnas.2637565123",
+    "date": "2026-11-09",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43002688",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13778575",
+    "pmid": "43002688",
+    "metadata_source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13778575/fullTextXML",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5566,
+    "collected_at": "2026-11-24T21:11:07.209251+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "Europe PMC journals 6"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1073/pnas.2637565123"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 8",
+        "query": "(JOURNAL:\"Microbial Biotechnology\" OR JOURNAL:\"Extremophiles\" OR JOURNAL:\"Genome Biology and Evolution\" OR JOURNAL:\"Molecular Biology and Evolution\" OR JOURNAL:\"Molecular Ecology\" OR JOURNAL:\"Molecular Ecology Resources\" OR JOURNAL:\"Molecular Phylogenetics and Evolution\" OR JOURNAL:\"Bioinformatics Advances\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1093/bioadv/vbag333",
+    "title": "ToxiFusion: integrating contextual and compositional sequence representations for toxic peptide prediction.",
+    "abstract": "MotivationAccurately predicting of toxic peptides from sequence information is important for peptide safety assessment and therapeutic development. However, reported performance of computational predictors can be affected by representation limitations and evaluation bias.ResultsWe present ToxiFusion, a leakage-controlled framework that integrates protein language model-derived contextual representations with interpretable sequence descriptors to predict toxic peptides. ToxiFusion combines ProtBERT embeddings with amino acid composition and dipeptide composition features using an XGBoost classifier. Preprocessing, model selection, and threshold optimization used training-derived information only. On the locked ToxTeller independent test set, ToxiFusion achieved a Matthews correlation coefficient of 0.718. External evaluation on an overlap-audited ToxIBTL cohort achieved a Matthews correlation coefficient of 0.835 after removing exact training-sequence overlaps. Ablation analyses supported incremental contributions from the representation blocks, while feature-attribution analyses showed broadly consistent patterns for contextual and compositional features across evaluation cohorts. ToxiFusion provides a reproducible framework for toxic peptide prediction and highlights the importance of leakage-controlled validation.Availability and implementationSource code, frozen model artifacts, processed data, and analysis outputs are available at https://github.com/ameneayyoubi-hub/ToxFusion.",
+    "journal": "Bioinformatics Advances",
+    "doi": "10.1093/bioadv/vbag333",
+    "date": "2026-11-04",
+    "authors": "Ayyoubi A, Khosravi MH, Khosravi A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43066507",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43066507",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "prediction",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "prediction",
+          "sequence"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5568,
+    "collected_at": "2026-11-24T21:11:07.209251+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "Europe PMC journals 8"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1093/bioadv/vbag333"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "bioRxiv",
+        "query": "details/biorxiv/2026-10-20/2026-11-10",
+        "scope": "candidate"
+      }
+    ],
+    "id": "10.1101/2025.04.16.648998",
+    "doi": "10.1101/2025.04.16.648998",
+    "title": "Cell type-specific epigenomic variation and its association with genotype in the human breast",
+    "abstract": "Background: Understanding the interplay between genomic variation and the epigenome is fundamental to the study of development and mechanisms of disease. Previous studies have leveraged population-scale genotype surveys to associate alleles with epigenomic states in heterogenous tissue types. However, epigenomes are inherently cell type-specific, giving rise to unique genome-epigenome interactions that can influence distinct functional states and susceptibility to disease. Moreover, the extent of individual variation in cell type-specific epigenotypes remains poorly understood, posing additional challenges to accurately link genotypes with epigenomic features. Results: We generated comprehensive genomic and epigenomic profiles of four functionally defined human breast epithelial cell types from eight healthy individuals. To quantify inter-individual epigenomic variation, we developed a statistical framework that measures variability in histone modification landscapes across individuals. This analysis revealed substantially greater variation in repressive chromatin marked by H3K27me3 than in active chromatin marked by H3K27ac and H3K4me3. Integrative chromatin state analysis further identified enhancer elements as the principal source of epigenomic divergence between individuals. Stable enhancer states corresponded to high-confidence cis-regulatory elements that underpin cell type-specific transcriptional programs, whereas variable enhancer states were enriched for environmentally responsive regulatory circuits. Mapping genetic variants associated with chromatin state variation uncovered extensive cell type specificity, with nearly 90% of regulatory variants detected in only a single cell type. These associations were strongly enriched within active regulatory chromatin and, when integrated with gene expression, enabled the prioritization of functional regulatory variants. We experimentally validated one such variant, rs75071948, demonstrating allele-specific regulation of ANXA1 expression using CRISPR/Cas9 genome editing. Conclusions: Our study defines the landscape of normal epigenomic variation across the major human breast epithelial cell types and demonstrates that genome-epigenome interactions are highly cell type-specific. These findings establish cell type as a critical determinant of the functional interpretation of regulatory genetic variation and provide a framework for understanding how inherited genetic variation shapes normal breast biology and disease susceptibility.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "4",
+    "published_doi": "",
+    "related_dois": [
+      "10.1101/2025.04.16.648998"
+    ],
+    "date": "2026-10-22",
+    "authors": "Hauduc, A.; Steif, J.; Bilenky, M.; Moksa, M. M.; Cao, Q.; Ding, S.; Eaves, C. J.; Hirst, M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.1101/2025.04.16.648998v4",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "epigenomic",
+        "framework"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5569,
+    "collected_at": "2026-11-24T21:11:07.209251+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-24"
+  },
+  {
+    "discovery": [
+      {
+        "source": "bioRxiv",
+        "query": "details/biorxiv/2026-10-20/2026-11-10",
+        "scope": "candidate"
+      }
+    ],
+    "id": "10.64898/2026.01.07.697982",
+    "doi": "10.64898/2026.01.07.697982",
+    "title": "CellWHISPER disentangles direct cell-cell communication from structural proximity",
+    "abstract": "Spatial transcriptomics makes it possible to infer direct, contact-dependent cellular communication, but existing tools are prone to high error rates due to spatial structure in cell types and gene expression. We present CellWHISPER, a framework for inferring contact-mediated communication, including gap junctions and ligand-receptor signaling, from spatial transcriptomics data. CellWHISPER controls errors with a statistical procedure that accounts for confounding effects of cell-type-specific expression and spatial organization. Closed-form significance scores enable analysis of large data. A latent variable model distills recurrent patterns into maps of preferences among cell types and signaling genes. We demonstrate CellWHISPER on two technologies (Stereo-seq, Xenium), two species and three tissues. In mouse brain it yields a comprehensive connexin-interaction map. Immunostaining confirmed CellWHISPER-predicted Connexin 43-mediated interfaces among astrocytes, microglia and endothelial cells, which existing approaches fail to prioritize. In human colon and skin, tissues with strong spatial gradients, CellWHISPER recovers communication mechanisms both along and independent of the gradient.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "3",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.01.07.697982"
+    ],
+    "date": "2026-10-22",
+    "authors": "Kumar, A.; Moctezuma, F. R.; Aggarwal, B.; Zhang, N.; Coskun, A. F.; Sinha, S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.01.07.697982v3",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "transcriptomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5570,
+    "collected_at": "2026-11-24T21:11:07.209251+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-24"
+  },
+  {
+    "discovery": [
+      {
+        "source": "bioRxiv",
+        "query": "details/biorxiv/2026-10-20/2026-11-10",
+        "scope": "candidate"
+      }
+    ],
+    "id": "10.64898/2026.03.09.710472",
+    "doi": "10.64898/2026.03.09.710472",
+    "title": "Coiled-coil homo-oligomerization and disaggregase Hsp104 act in parallel to stabilize orphan septins",
+    "abstract": "Multiple septin family proteins co-assemble with strict subunit stoichiometry into hetero-oligomers. In the absence of native septin partners, purified septins aggregate in vitro, and \"orphan\" septins are found in pathological aggregates associated with neurodegenerative diseases. Cytosolic chaperones bind the septin GTPase domain to promote on-pathway septin folding but it was unclear how cells manage orphan septins to maintain subunit stoichiometry. Most septins have C-terminal domains (CTDs) that form heteromeric coiled coils within or between septin complexes. Here we present evidence that orphan yeast septins are protected from proteasomal degradation by forming transient coiled-coil homodimers and trimers and, in parallel, by the disaggregase chaperone Hsp104. Septins unable to undergo CTD-mediated homo-oligomerization require Hsp104 to accumulate to super-stoichiometric levels. We show that septin-encoding mRNAs differ in copy number per cell and subcellular localization, creating opportunities for transient subunit imbalances. These findings reveal a novel role for coiled coils and the proteostasis machinery in the fidelity of higher-order septin assembly.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "5",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.03.09.710472"
+    ],
+    "date": "2026-10-22",
+    "authors": "Cavini, I. A.; Yeager, R. M.; Velasquez, A.; Pinto, A. P. A.; Araujo, A. P. U.; Garratt, R. C.; McMurray, M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.03.09.710472v5",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5572,
+    "collected_at": "2026-11-24T21:11:07.209251+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-24"
+  },
+  {
+    "discovery": [
+      {
+        "source": "bioRxiv",
+        "query": "details/biorxiv/2026-10-20/2026-11-10",
+        "scope": "candidate"
+      }
+    ],
+    "id": "10.64898/2026.05.19.726264",
+    "doi": "10.64898/2026.05.19.726264",
+    "title": "Differential Gene Expression in the Tropical House Cricket and Its Iridovirus in Healthy versus Diseased Specimens",
+    "abstract": "The tropical house cricket, Gryllodes sigillatus, is a mass-produced insect that is used as a protein source for pets and livestock. However, intensive mass-rearing conditions, coupled with high genetic relatedness, create an ideal environment for the spread of pathogenic microbes that severely impact production. Cricket iridovirus (CrIV) is a pathogen that impedes cricket growth and causes significant losses for cricket farmers. Interestingly, recent studies have shown that CrIV is often present asymptomatically, yet the molecular basis of the emergence of disease symptoms remains unknown. To address this, we sampled healthy and diseased crickets and examined differences in cricket and CrIV gene expression via RNAseq. Using differential gene expression analysis and functional enrichment analysis, we found significant differences in host and viral gene expression between healthy and diseased crickets, including genes involved in immunity. Interestingly, while we observed high CrIV gene expression across the entire CrIV genome in sick populations, healthy asymptomatic populations showed elevated expression at a single viral locus. Our results shed light not only on the cricket immune response to CrIV infection but also identify a viral gene that is highly expressed during covert infections, suggesting its potential role in suppressing the host's immune response. These findings enhance our understanding of how CrIV interacts with its cricket host, providing essential insights for developing targeted strategies to manage CrIV outbreaks in cricket mass-rearing facilities.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "2",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.05.19.726264"
+    ],
+    "date": "2026-10-22",
+    "authors": "Hinton, J. A.; Walt, H. K.; Duffield, K. R.; Ramirez, J. L.; Meyer, F.; Hoffmann, F. G.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.05.19.726264v2",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbe",
+        "microbes",
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5573,
+    "collected_at": "2026-11-24T21:11:07.209251+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-24"
+  },
+  {
+    "discovery": [
+      {
+        "source": "bioRxiv",
+        "query": "details/biorxiv/2026-10-20/2026-11-10",
+        "scope": "candidate"
+      }
+    ],
+    "id": "10.64898/2026.06.22.733418",
+    "doi": "10.64898/2026.06.22.733418",
+    "title": "Directional information flow as a tool for analyzing protein allostery",
+    "abstract": "The ability to tune protein function through the binding of modulatory ligands enables the development of therapeutics that steer a biological system away from dysfunctional states underlying disease. Understanding the dynamic mechanisms by which allosteric ligands alter protein function remains an important open question. Dynamical network models allow us to quantify information flow between protein functional sites. However, existing network models use time-symmetric metrics for computing information from correlated residue motions extracted from molecular dynamics (MD) simulations, failing to fully capture directional information flow between sites. Here, we developed a Python library, TEntroPy, and analysis workflow using transfer entropy to generate a directional protein network from equilibrium MD trajectories. Applying this workflow to proteins with known allosteric ligands, we identified residues in both allosteric and orthosteric (primary) binding sites acting as broadcasters and receivers of information. We then computed optimal paths of directional information flow between binding sites. The presence of temporal asymmetry in residue coupling identified from simulations of the unbound (apo) state suggests that directional information flow is encoded in the intrinsic dynamics of the protein. To test this, we perturbed key binding-site residues and demonstrated that our TE-weighted network captures perturbation-induced changes in dynamics along communication routes between binding sites. Our work highlights transfer entropy as an additional tool for understanding the changes in flexibility and rigidity that drive dynamic mechanisms of allosteric communication.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "2",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.06.22.733418"
+    ],
+    "date": "2026-10-22",
+    "authors": "Yovanno, R. A.; Lau, A. Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.06.22.733418v2",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "gene",
+        "protein",
+        "tool",
+        "workflow"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "gene",
+          "protein",
+          "tool",
+          "workflow"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5574,
+    "collected_at": "2026-11-24T21:11:07.209251+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-24"
+  },
+  {
+    "discovery": [
+      {
+        "source": "bioRxiv",
+        "query": "details/biorxiv/2026-10-20/2026-11-10",
+        "scope": "candidate"
+      }
+    ],
+    "id": "10.64898/2026.07.13.738248",
+    "doi": "10.64898/2026.07.13.738248",
+    "title": "MYC Suppresses Mitochondrial Function in Hepatocellular Carcinoma through NRF1-Driven Receptor-Mediated Mitophagy",
+    "abstract": "MYC is a canonical driver of mitochondrial biogenesis, yet its role in mitochondrial homeostasis in cancer remains incompletely understood. Here we show that MYC paradoxically suppresses mitochondrial function in hepatocellular carcinoma (HCC) through elevated receptor-mediated mitophagy. Pan-cancer TCGA analysis revealed that MYC activity exhibited discordant nuclear and mtDNA-encoded mitochondrial gene expression, particularly in liver cancer. Using genetically defined murine HCC models, we demonstrate that MYC, but not b-catenin (CTNNB1), drives mitochondrial fragmentation and turnover through a MYC-NRF1-FUNDC1/PGAM5/DNM1L (DRP1) transcriptional axis. Genetic or pharmacologic inhibition of this axis reduced mitophagy and restored oxidative phosphorylation in tumors while extending survival of tumor-bearing mice. Tumors expressing yeast NDI1, which bypasses Complex I to promote electron transport, restored OXPHOS and reduced tumor burden independent of mitophagy. Our data demonstrate that suppression of mitochondrial OXPHOS unexpectedly supports HCC tumor growth and implicates mitochondrial quality control as a novel therapeutic vulnerability in patients with MYC-amplified HCC.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "2",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.07.13.738248"
+    ],
+    "date": "2026-10-22",
+    "authors": "Lesner, N. P.; Kim, L. C.; Shelton, S. D.; Landis, M.; Cai, X.; Zheng, D.; Parnaik, T.; Bartman, C.; Keith, B.; Simon, M. C.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.07.13.738248v2",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5575,
+    "collected_at": "2026-11-24T21:11:07.209251+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-24"
+  },
+  {
+    "discovery": [
+      {
+        "source": "bioRxiv",
+        "query": "details/biorxiv/2026-10-20/2026-11-10",
+        "scope": "candidate"
+      }
+    ],
+    "id": "10.1101/2025.02.20.639352",
+    "doi": "10.1101/2025.02.20.639352",
+    "title": "Inducible, virus-free direct lineage reprogramming enhances scalable generation of human inner ear hair cell-like cells",
+    "abstract": "Mammalian inner ear sensory hair cells are highly sensitive to environmental stress and do not regenerate, making hearing loss progressive and permanent. The paucity and extreme inaccessibility of these cells hinder the development of regenerative and otoprotective strategies, Direct lineage reprogramming to generate large quantities of hair cell-like cells in vitro offers a promising approach to overcome these experimental bottlenecks. Previously, we identified four transcription factors-Six1, Atoh1, Pou4f3, and Gfi1 (SAPG)-capable of converting mouse embryonic fibroblasts, adult tail tip fibroblasts, and postnatal mouse supporting cells into induced hair cell-like cells through retroviral or lentiviral transduction (Menendez et al., 2020). Here, we developed a virus-free, inducible system using a stable human induced pluripotent stem (iPS) cell line carrying doxycycline-inducible SAPG. Our inducible system significantly increases reprogramming efficiency compared to retroviral methods, achieving a ~19-fold greater conversion to a hair cell fate in half the time. Immunostaining, Western blot, and single-nucleus RNA-seq analyses confirm the expression of hair cell-specific markers and activation of hair cell gene networks in reprogrammed cells. The reprogrammed hair cells closely resemble developing fetal hair cells, as evidenced by comparison with a human fetal inner ear dataset. Electrophysiological analysis reveals that the induced hair cell-like cells exhibit diverse voltage-dependent ion currents, including robust, quick-activating, slowly inactivating currents characteristic of primary hair cells. This virus-free approach improves scalability, reproducibility, and the modeling of hair cell differentiation, offering significant potential for hair cell regenerative strategies and preclinical drug discovery targeting ototoxicity and otoprotection.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "2",
+    "published_doi": "",
+    "related_dois": [
+      "10.1101/2025.02.20.639352"
+    ],
+    "date": "2026-10-22",
+    "authors": "Rainey, R. N.; Houman, S. D.; Menendez, L.; Chang, R.; Tao, L.; Bugacov, H.; McMahon, A. P.; Kalluri, R.; Oghalai, J. S.; Groves, A. K.; Segil, N.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.1101/2025.02.20.639352v2",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5576,
+    "collected_at": "2026-11-24T21:11:07.209251+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-24"
+  },
+  {
+    "discovery": [
+      {
+        "source": "bioRxiv",
+        "query": "details/biorxiv/2026-10-20/2026-11-10",
+        "scope": "candidate"
+      }
+    ],
+    "id": "10.64898/2026.03.14.711833",
+    "doi": "10.64898/2026.03.14.711833",
+    "title": "kinGEMs: A Robust and Scalable Framework for Resource-Constraint Models through Stochastic Tuning of Deep Learning-Predicted Kinetic Parameters",
+    "abstract": "The construction of accurate enzyme-constrained genome-scale models (ecGEMs) remains a critical challenge in systems biology, limited by sparse kinetic data and the need for biologically meaningful representations. This work presents an integrated framework combining CPI-Pred, a deep learning model to predict kinetic parameters (kcat) from sequence and compound embeddings, with kinGEMs, a pipeline to incorporate these uncertainty-aware parameters into ecGEMs for metabolic optimization. By leveraging representations at multiple scales, the approach captures sequence, structure, and kinetic data to enhance model generalizability and accuracy. Rigorous benchmarking demonstrates the framework's capability to predict growth rates and fluxes that are consistent with experimental observations and measured proteome fractions, reduce median flux variability by several folds, and yield better-constrained metabolic models by explicitly accounting for the uncertainty inherent in ML-predicted kinetic parameters. kinGEMs successfully generated ecGEMs for 93 models spanning a phylogenetically diverse set of organisms including Gram-negative and Gram-positive bacteria, mycobacteria, parasitic protists, fungi, and mammalian cell lines. These innovations breakdown the barrier to application of ecGEMs to non-model organisms and open new avenues for metabolic engineering and synthetic biology in more industrially relevant hosts.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "2",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.03.14.711833"
+    ],
+    "date": "2026-10-22",
+    "authors": "A. Barghout, R.; Chinas Serrano, L.; Sanchez-Lengeling, B.; Mahadevan, R.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.03.14.711833v2",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "fungi",
+        "protist",
+        "protists"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 5577,
+    "collected_at": "2026-11-24T21:11:07.209251+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-24"
+  },
+  {
+    "discovery": [
+      {
+        "source": "bioRxiv",
+        "query": "details/biorxiv/2026-10-20/2026-11-10",
+        "scope": "candidate"
+      }
+    ],
+    "id": "10.64898/2026.10.16.759407",
+    "doi": "10.64898/2026.10.16.759407",
+    "title": "msallsearchpy: Universal Search Engine with Enhanced Performance for High-Flow Quantitative LC-MS Proteomics",
+    "abstract": "Recent studies have demonstrated that the flow rates of a few ul/min can be a more efficient alternative to nanoLC-based proteome analysis. We present a novel search engine, msallsearchpy, applicable to data acquired using all existing proteome-wide acquisition methods including DIA, DDA and MS1-only, with enhanced efficiency for higher flow rate analysis. For the data acquired using Orbitrap FTMS at the flow rates of up to 400 ul/min, msallsearchpy demonstrates significantly improved identification and quantification performance compared with the state-of-the-art DDA and DIA alternatives. As one of the striking examples, msallsearchpy provides 2000 protein identifications for the DDA data acquired for 20 ng proteomic samples and flow rate of 50 uL/min, compared with the none by popular search engines. The results provide further support to the currently floating ideas in quantitative proteomics regarding the use of high-flow rates as a more efficient alternative to nanoLC.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.10.16.759407"
+    ],
+    "date": "2026-10-22",
+    "authors": "Ivanov, M. V.; Garibova, L. A.; Emekeeva, D. D.; Postoenko, V. I.; Kazakova, E. M.; Shelepchikov, A. A.; Tretyakov, A. V.; Tarasova, I. A.; Gorshkov, M. V.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.16.759407v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "method",
+        "proteome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "method",
+          "proteome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5578,
+    "collected_at": "2026-11-24T21:11:07.209251+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-24"
+  },
+  {
+    "discovery": [
+      {
+        "source": "bioRxiv",
+        "query": "details/biorxiv/2026-10-20/2026-11-10",
+        "scope": "candidate"
+      }
+    ],
+    "id": "10.64898/2026.01.07.698308",
+    "doi": "10.64898/2026.01.07.698308",
+    "title": "msmu: a computational framework for provenance-aware mass spectrometry-based proteomics analysis",
+    "abstract": "Heterogeneous data formats and analysis pipelines in computational proteomics hinder reproducibility, interoperability, and reuse of processed data. We present msmu, an open-source Python package that implements a modular, provenance-aware pipeline for post-search processing. Within a single MuData object, msmu links representations across peptide-spectrum match, peptide, and protein levels to machine-actionable provenance that records operations, parameter choices, software versions, and the execution environment. The object's provenance log directly enables workflow replay with content-hash verification, without separately maintained scripts or provenance records. We demonstrate cross-platform reproducibility between macOS and Debian; replay reproduces the original protein inference map exactly (Jaccard indices = 1), with protein q-values and intensities agreeing to machine precision (root-mean-square deviation [≤] 2.0X10-17; maximum absolute difference [≤] 1.8X10-15). Furthermore, the same data structure supports seamless integration of proteomics with other MuData-compatible modalities. By coupling proteomics data with verifiable provenance in a single object, msmu advances FAIR-aligned reuse and multimodal interoperability.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "2",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.01.07.698308"
+    ],
+    "date": "2026-10-22",
+    "authors": "Choi, H.-W.; Lee, B.; Kang, U.-B.; Huh, S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.01.07.698308v2",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "proteomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "framework",
+          "proteomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5579,
+    "collected_at": "2026-11-24T21:11:07.209251+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-24"
+  },
+  {
+    "discovery": [
+      {
+        "source": "bioRxiv",
+        "query": "details/biorxiv/2026-10-20/2026-11-10",
+        "scope": "candidate"
+      }
+    ],
+    "id": "10.64898/2026.04.03.716176",
+    "doi": "10.64898/2026.04.03.716176",
+    "title": "Control of cell division by an Acinetobacter baumannii protein with a nucleotidyl cyclase-like domain",
+    "abstract": "Acinetobacter baumannii has diverged substantially from model {gamma}-proteobacteria, complicating our understanding of the antibiotic-resistant pathogen. A major area of divergence is cell division. A. baumannii lacks widely conserved division enzymes such as FtsEX and relies on gene products with no similarity to well-characterized proteins. Key among these is AdvA, which we previously identified by Tn-seq as essential for division. AdvA comprises an N-terminal membrane/periplasmic region linked to an unannotated cytoplasmic domain, and most advA transposon insertions were lethal except within the linker. How AdvA functions and why insertions showed this positional bias were unclear. Here we combine genetic, localization, two-hybrid, and structural analyses to define roles for AdvA domains in cell division. Removing the N-terminal region or partially truncating the cytoplasmic domain caused lethal division defects. The lethal division block in AdvA-deficient bacteria was associated with failure to recruit early and late divisome proteins to Z-rings but was suppressed by mutations in late septal synthesis genes (ftsB and ftsW). The cytoplasmic domain bound the early Z-ring protein ZipA, while the N-terminal region mediated dimerization, and both contributed to Z-ring localization. Finally, the crystal structure of the cytoplasmic domain revealed a highly divergent adenylyl/guanylyl cyclase-like fold lacking canonical catalytic and dimerization sites and possessing unusual features, including a positively charged tip and extra C-terminal helix, critical for ZipA binding and division. The essential C-terminal addition helps explain the transposon and truncation effects and facilitated identification of a distant homolog in Pseudomonas aeruginosa. These results reveal an atypical cyclase-like protein governing bacterial division. Importance: The multidrug-resistant sepsis pathogen Acinetobacter baumannii poses an urgent threat to public health. How A. baumannii accomplishes cell division without key conserved factors is not well understood, but this information could lead to improved antimicrobial strategies. We demonstrate that a protein (AdvA) bearing a previously unrecognized structure has a critical role in cell division in the pathogen. The structure resembles nucleotide cyclase enzymes, but it has lost their typical catalytic properties and instead uses noncanonical sites and structural additions to enable assembly of the cell division machine. This atypical domain is found in other pathogens such as Pseudomonas aeruginosa, in which it is also connected to cell division. This work opens new avenues to understand division in multidrug-resistant hospital-acquired bacteria.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "3",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.04.03.716176"
+    ],
+    "date": "2026-10-22",
+    "authors": "Farinha, A.; Soo, M. W.; Minasov, G.; Inniss, N. L.; Shuvalova, L.; Dharamdasani, V.; Finkler, J.; Stearns, O.; Shenoy, T.; Kim, C.; Satchell, K. J.; Geisinger, E.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.04.03.716176v3",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Pseudomonas",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5580,
+    "collected_at": "2026-11-24T21:11:07.209251+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-24"
+  },
+  {
+    "discovery": [
+      {
+        "source": "bioRxiv",
+        "query": "details/biorxiv/2026-10-20/2026-11-10",
+        "scope": "candidate"
+      }
+    ],
+    "id": "10.64898/2026.09.17.752497",
+    "doi": "10.64898/2026.09.17.752497",
+    "title": "ISP Platform powered by Geneformer: Framework for Cross-Species, State-feedback, and Multi-Gene In Silico Perturbation Screens with Application to iPS Cell State Transitions",
+    "abstract": "In silico perturbation (ISP) enables virtual genetic screens by simulating targeted genetic manipulations in cells, prioritizing candidate genes before experiments. However, executing ISP requires programming expertise, limiting its use by experimental biologists. Here, we present the ISP Platform (https://github.com/YuyaSanaki/ISP-Platform, version 1.0.2), which automates ISP powered by Geneformer without code execution. The platform enables cross-species analyses in both directions by independently selecting input species and human or mouse Geneformer models. It also supports multi-gene ISP and implements State-feedback ISP, which predicts the gene expression ranking after each perturbation and feeds it into the next one. In single-cell transcriptomes of human and mouse induced pluripotent stem cells (iPSCs), genome-wide knockdown screens prioritized core pluripotency regulators with both species-matched and swapped models. In silico overexpression of seven pluripotency genes shifted somatic cells toward iPSCs more than the Yamanaka factors did. State-feedback ISP simulated all 24 orders of the Yamanaka factors and separated a factor-specific effect in every order, largest when POU5F1 or SOX2 came first. A pairwise in silico overexpression screen nominated candidate modulators of the primed-to-naive transition beyond the NANOG and KLF2 benchmark. The ISP Platform makes Cross-species, State-feedback, and Multi-gene ISP available through a graphical user interface to guide experimental validation.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "2",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.09.17.752497"
+    ],
+    "date": "2026-10-22",
+    "authors": "Sanaki, Y.; Shigenobu, S.; Niwa, R.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.09.17.752497v2",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5581,
+    "collected_at": "2026-11-24T21:11:07.209251+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-24"
+  },
+  {
+    "discovery": [
+      {
+        "source": "bioRxiv",
+        "query": "details/biorxiv/2026-10-20/2026-11-10",
+        "scope": "candidate"
+      }
+    ],
+    "id": "10.64898/2026.04.29.721692",
+    "doi": "10.64898/2026.04.29.721692",
+    "title": "DPLM: Dynamics-aware Protein Language Model via contrastive learning between sequence and molecular dynamics simulation trajectory",
+    "abstract": "Protein dynamics captures the interactions between residues and the conformational changes they undergo. Encoding such information could enhance a deep learning model's ability to predict protein properties. Here we introduce a dynamics-aware protein language model (DPLM) that encodes protein dynamics into a sequence-derived representation. We represent each molecular dynamics (MD) trajectory as a sequence of backbone C contact maps and encode it with a Video Vision Transformer (ViViT). We then align the ViViT-derived dynamics embedding with the ESM2-derived sequence embedding using dual-view contrastive learning. The root-mean-square fluctuation correlation and dynamic cross-correlation matrix reconstruction confirm that contrastive learning incorporates dynamics information into the sequence embedding. We applied DPLM as a protein representation backbone for predicting diverse dynamics-related downstream tasks, including liquid-liquid phase separation, cryptic-site detection, and mutation effect on protein thermal stability. DPLM shows strong performance, especially where the evolutionary or structural signal is weak. These results show that learning the geometry of molecular motion yields transferable dynamic information that complements the evolutionary and structural features of existing PLMs.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "2",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.04.29.721692"
+    ],
+    "date": "2026-10-22",
+    "authors": "Jiang, Y.; Wang, D.; Ihoeghian, N.; Imam, I. A.; Chen, J.; Xu, D.; Shao, Q.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.04.29.721692v2",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "protein",
+        "sequence",
+        "simulation"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 5582,
+    "collected_at": "2026-11-24T21:11:07.209251+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-24"
+  },
+  {
+    "discovery": [
+      {
+        "source": "bioRxiv",
+        "query": "details/biorxiv/2026-10-20/2026-11-10",
+        "scope": "candidate"
+      }
+    ],
+    "id": "10.64898/2026.10.12.758456",
+    "doi": "10.64898/2026.10.12.758456",
+    "title": "Beyond Better Models: Barriers and a Path Forward in Generalisable TCR Antigen Specificity Prediction",
+    "abstract": "T cells are at the centre of adaptive immunity, protecting the organism against infection and cancer. T cell receptors (TCRs), expressed on the surface of T cells, enable the recognition of target cells through interactions with peptides presented by major histocompatibility complex (pMHC) molecules. Reliable, large-scale mapping of TCRs to their cognate pMHCs remains a holy grail of modern systems immunology, with far-reaching implications for cancer immunotherapy, vaccine development, and the understanding and treatment of autoimmune diseases. While exhaustive experimental mapping remains intractable due to the enormous combinatorial sequence space of TCRs and pMHCs, computational approaches offer a promising alternative. Consequently, we have witnessed increasingly sophisticated computational models of TCR antigen specificity, from small neural networks to deep generative models and large protein language models. However, several independent benchmarks have shown that these models, despite their size and sophistication, largely fail to generalise to TCRs or pMHCs not present in the data available during model development. Here, we investigate possible reasons for this and suggest a path forward to generalisable TCR:pMHC prediction. First, our analysis of the largest public repositories of TCR:pMHC data reveals significant biases towards a small number of antigens and MHC molecules, sparse sampling of TCR sequence space per pMHC, as well as inconsistencies and inaccuracies in data collation. Second, we show the importance of carefully setting up model evaluation to measure discrimination based on antigen specificity instead of confounding factors present in the evaluation data. Finally, we highlight the need for and propose how best to match the evaluation metric with the specific downstream application of the predictions. Our investigation suggests that we, as a community, need more representative and better curated data, and a robust set of metrics and benchmarks to guide future model development towards generalisable TCR:pMHC specificity prediction.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "2",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.10.12.758456"
+    ],
+    "date": "2026-10-22",
+    "authors": "Ilievski, I.; Antanaviciute, A.; Ogg, G.; Koohy, H.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.12.758456v2",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "gene",
+        "prediction"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "gene",
+          "prediction"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5583,
+    "collected_at": "2026-11-24T21:11:07.209251+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-24"
+  },
+  {
+    "discovery": [
+      {
+        "source": "bioRxiv",
+        "query": "details/biorxiv/2026-10-20/2026-11-10",
+        "scope": "candidate"
+      }
+    ],
+    "id": "10.64898/2026.04.08.717340",
+    "doi": "10.64898/2026.04.08.717340",
+    "title": "Comparative genomics of zooxanthellate and azooxanthellate Palythoa (Cnidaria: Zoantharia) provides insights into symbiosis evolution and the origin of palytoxin",
+    "abstract": "Zoantharians (Cnidaria) are globally distributed from shallow reefs to the deep sea, yet their genomic resources remain scarce. Within the zoantharian genus Palythoa, most species harbor photosymbiotic dinoflagellates, whereas some have secondarily lost this symbiosis, allowing genomic changes associated with symbiotic status to be examined. Palythoa is also the original source of palytoxin, one of the most potent marine toxins known, but whether it is produced by the host or by associated microorganisms remains unresolved. Here we generated high-quality genome assemblies of two zooxanthellate Palythoa species and compared five Palythoa genomes spanning both symbiotic states with those of other anthozoans. Across anthozoans, genome size scaled with transposable element content, particularly retrotransposons. The azooxanthellate lineage carries substitutions in conserved domains of the symbiosis-related proteins LePin and NPC2 and shows rapid evolution of the lectin gene CLEC4A, whereas NF-{kappa}B and V-type H+-ATPase remain conserved. Palythoa genomes showed no lineage-specific expansion of polyketide synthase (PKS) genes; cnidarian PKS genes were restricted to P. caribaeorum and P. sp. sakurajimensis (clade III). In contrast, 27 bacterial PKS sequences were recovered from metatranscriptomes and a metagenome-assembled genome across species, including an azooxanthellate species, indicating that they derive from associated bacterial rather than Symbiodiniaceae. These genomes provide a comparative framework for zoantharians and reveal genomic changes associated with symbiotic status. We propose that palytoxin originates from associated bacteria rather than from the host, a hypothesis that can be tested by identifying the producing bacteria and their biosynthetic gene clusters.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "2",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.04.08.717340"
+    ],
+    "date": "2026-10-23",
+    "authors": "Yoshioka, Y.; Shoguchi, E.; Chiu, Y.-L.; Kawamitsu, M.; Reimer, J. D.; Yamashita, H.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.04.08.717340v2",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "dinoflagellate",
+        "metagenom",
+        "metagenome",
+        "metatranscriptom",
+        "metatranscriptomes",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [
+          "assemblies",
+          "evolution",
+          "genom",
+          "genome",
+          "genomic",
+          "metagenom",
+          "metagenome"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 5584,
+    "collected_at": "2026-11-24T21:11:07.209251+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-24"
+  },
+  {
+    "discovery": [
+      {
+        "source": "bioRxiv",
+        "query": "details/biorxiv/2026-10-20/2026-11-10",
+        "scope": "candidate"
+      }
+    ],
+    "id": "10.64898/2026.07.14.738515",
+    "doi": "10.64898/2026.07.14.738515",
+    "title": "From Lotka-Volterra Dynamics to Community Assembly: Theory, Topography, and Empirical Applications",
+    "abstract": "1. Community assembly graphs (CAGs) summarize which species combinations can coexist and how single-species invasions drive transitions between them, encoding the pathways, alternative endpoints, and cycles that make up a community's assembly history. Constructing CAGs from dynamical models requires methods that are both computationally tractable and faithful to the underlying ecological dynamics. However, existing methods rely on restrictive assumptions, such as global stability, that exclude alternative stable states and non-equilibrium dynamics known to occur in empirical systems. 2. We develop a computational pipeline that constructs CAGs from any generalized Lotka--Volterra model. Building on the invasion graph framework and its connection to permanence, the pipeline verifies that community dynamics are bounded, identifies which subsets of species coexist in the sense of permanence, determines which single-species invasions are dynamically realized, and assigns each community a topographic height equal to the length of the longest assembly path leading to it. We also provide a numerical algorithm to simulate the dynamics of community assembly. 3. We prove several general properties of the resulting graphs, including that a successful invader is never excluded by the residents it invades, and that, in the absence of assembly cycles, permanent communities can be reassembled by introducing their species one at a time in the right order. We prove that the CAG faithfully reproduces the compositional shifts seen in the numerically simulated dynamics of assembly. Applying the pipeline to three empirically based models (a New Zealand grassland, a European pasture, and a Puerto Rican ant community), we show how competition strength and mutualistic feedbacks reshape the assembly landscape and how intransitive competition generates assembly cycles. 4. Our approach accommodates alternative stable states and non-equilibrium dynamics without requiring global stability, and it turns the long-standing landscape metaphor into a quantitative, mechanistically grounded object by resolving what ``height'' means. More broadly, it makes the topography of the assembly pathways measurable, providing a way to compare the historical contingency and predictability of the assembly in ecological systems.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "2",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.07.14.738515"
+    ],
+    "date": "2026-10-23",
+    "authors": "Schreiber, S.; Brennan, J.; Spaak, J. W.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.07.14.738515v2",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "gene",
+        "pipeline"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5585,
+    "collected_at": "2026-11-24T21:11:07.209251+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-24"
+  },
+  {
+    "discovery": [
+      {
+        "source": "bioRxiv",
+        "query": "details/biorxiv/2026-10-20/2026-11-10",
+        "scope": "candidate"
+      }
+    ],
+    "id": "10.64898/2026.10.18.759853",
+    "doi": "10.64898/2026.10.18.759853",
+    "title": "Learning distributed representations with complementary components - A generative approximation framework for episodic memory encoding",
+    "abstract": "Episodic memory must preserve detail while storing memories efficiently. We propose a framework of memory encoding in which generative neural network models approximate input through their frozen weights, yielding starting points from which the same weights can reinstate the input. This removes the need for mutually invertible cortical-hippocampal mappings, realizes a tradeoff between computational effort and mnemonic precision, and uses statistical regularities of the stimulus space to find representations that are distributed across the network. We implement this principle with a toy model and with large image-generation AI models, operationalizing mnemonic precision as closer approximation. Our model reproduces key findings from the Mnemonic Similarity Task: shallow encoding selectively impairs lure rejection, as observed in aging populations. Encoding further benefits from expertise: domain-finetuned models need fewer approximation steps for images from their own domain than for images from other domains. Finally, the representational geometry of latent starting points resembles medial temporal lobe but reinstatement through the weights of the network traverses the visual hierarchy in reverse order. Our framework offers a parsimonious and flexible account of memory encoding, where a generative search for a reinstatement-capable starting point finds a path for retrieval directly.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.10.18.759853"
+    ],
+    "date": "2026-10-23",
+    "authors": "Liu, H.; Mattar, M.; Michelmann, S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.18.759853v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "framework",
+          "gene"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5586,
+    "collected_at": "2026-11-24T21:11:07.209251+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-24"
+  },
+  {
+    "discovery": [
+      {
+        "source": "bioRxiv",
+        "query": "details/biorxiv/2026-10-20/2026-11-10",
+        "scope": "candidate"
+      }
+    ],
+    "id": "10.1101/2025.06.05.658122",
+    "doi": "10.1101/2025.06.05.658122",
+    "title": "A genetically informed atlas of transcriptomic programs from massive human RNA-seq compendia",
+    "abstract": "Genetic risk for complex disease acts through coordinated gene programs in specic tissues and cellular contexts, which single-gene analyses cannot resolve. Interpretable gene modules can capture these programs, but prior-informed methods have not scaled to large expression compendia, andgenetic associations have not been integrated with modules learned at this scale. Here we present CLAMP, a fast, memory-ecient prior-informed framework that learns interpretable gene modules from such compendia and integrates them with genetic associations and drug signatures. CLAMP recovered cell-type composition and tissue organization more accurately than existing decomposition methods. Training on 605,614 ARCHS4 samples increased pathway and genetic-trait recovery, and projection into these modules recovered programs missed by study-specic models. ARCHS4 modules also ranked known drug-disease pairs better than modules learned from smaller compendia or individual genes. In reproducible consensus modules, cell-type, pathway, drug-response and genetic evidence converged on shared processes, placing CRISPR-validated lipid regulators missed by singlegene tests in disease-associated programs. CLAMP is available through Bioconductor, and its trained models provide a genetically informed atlas of gene programs for interpreting complex disease.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "3",
+    "published_doi": "",
+    "related_dois": [
+      "10.1101/2025.06.05.658122"
+    ],
+    "date": "2026-10-23",
+    "authors": "Subirana-Granes, M.; Zhang, H.; Nandi, S.; Hoffman, J.; Rasolofomanana-Rajery, S.; Elshobaky, R.; Gillenwater, L. A.; McKim, A. P.; Costello, J. C.; Chikina, M.; Pividori, M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.1101/2025.06.05.658122v3",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene",
+        "genetic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5587,
+    "collected_at": "2026-11-24T21:11:07.209251+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-24"
+  },
+  {
+    "discovery": [
+      {
+        "source": "bioRxiv",
+        "query": "details/biorxiv/2026-10-20/2026-11-10",
+        "scope": "candidate"
+      }
+    ],
+    "id": "10.64898/2026.08.03.742406",
+    "doi": "10.64898/2026.08.03.742406",
+    "title": "Reference-free and robust copy number inference in single-cell tumor transcriptomes",
+    "abstract": "Copy number changes are a hallmark of cancer and reveal which cells are malignant and how tumors evolve. Single-cell RNA sequencing is widely used to infer them in individual tumor cells. Existing methods do so by normalizing each cell against a reference of normal cells. As a result, their output depends on which cells are analyzed together, they often label normal cells as aneuploid, and they struggle in samples without normal cells. Here we present REFCON, a deep-learning model that infers copy number from each cell's own expression, without a reference. We evaluated REFCON on more than 410,000 held-out cells from cell lines, organoids and 112 tumors of nine cancer types, profiled with seven sequencing technologies. It agreed more closely with single-cell DNA than existing methods, was unaffected by sample composition, and labeled far fewer normal cells as aneuploid. In patient-derived organoids, which contain no normal cells, it gave consistent profiles across passages and tracked clonal evolution. REFCON addresses long-standing limitations of reference-based inference and enables robust, reference-free copy number calling from single-cell transcriptomes.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "2",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.08.03.742406"
+    ],
+    "date": "2026-10-23",
+    "authors": "Gencturk, M. M.; Cicek, A. E.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.08.03.742406v2",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "inference",
+        "transcriptome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "evolution",
+          "transcript"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 5588,
+    "collected_at": "2026-11-24T21:11:07.209251+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-24"
+  },
+  {
+    "discovery": [
+      {
+        "source": "bioRxiv",
+        "query": "details/biorxiv/2026-10-20/2026-11-10",
+        "scope": "candidate"
+      }
+    ],
+    "id": "10.64898/2026.10.21.760723",
+    "doi": "10.64898/2026.10.21.760723",
+    "title": "A heat-assisted ttLbCas12a workflow incorporating crRNA 3'-tailing enables efficient multiplex biallelic genome editing in hybrid poplar",
+    "abstract": "In forest trees, high genome-editing efficiency in primary transformants is particularly important for functional genomics and trait improvement, as long generation times severely limit the use of subsequent generations to recover fully edited genotypes. This challenge is further compounded in hybrid poplar, where paralogous gene copies and allelic variation make efficient multiplex editing particularly difficult. We optimized LbCas12a-mediated editing in Populus x canescens (Populus tremula x Populus alba), clone INRA 717-1B4, by targeting four paralogous PtaABA8ox4 loci using temperature-tolerant ttLbCas12a, a two-stage heat treatment, and crRNA 3'-tailing. The heat-treatment regime preserved transgenic recovery, while ttLbCas12a-based constructs and heat treatment substantially increased biallelic editing. All seven lines in the highest-performing group, combining ttLbCas12a, 3'-tailed crRNAs, and heat treatment, were biallelically edited at all four targets. crRNA 3'-tailing altered predicted secondary structures and showed a consistent numerical tendency toward improved editing, but its independent effect was not statistically resolved. Mutations were dominated by small deletions, and biallelic out-of-frame recovery increased in ttLbCas12a-based contexts without scaling proportionally with biallelic editing. Thus, heat-assisted ttLbCas12a-mediated approaches enable efficient multiplex editing in hybrid poplar, whereas genotype quality remains dependent on repair outcome and somatic uniformity.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.10.21.760723"
+    ],
+    "date": "2026-10-23",
+    "authors": "Zahn, V.; Fendel, A.; Fladung, M.; Bruegmann, T.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.21.760723v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "genome",
+        "workflow"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5589,
+    "collected_at": "2026-11-24T21:11:07.209251+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-24"
+  },
+  {
+    "discovery": [
+      {
+        "source": "bioRxiv",
+        "query": "details/biorxiv/2026-10-20/2026-11-10",
+        "scope": "candidate"
+      }
+    ],
+    "id": "10.64898/2025.12.20.695663",
+    "doi": "10.64898/2025.12.20.695663",
+    "title": "OCTRON - a general purpose segmentation and tracking pipeline for behavioral experiments",
+    "abstract": "Quantifying animal behavior across species with complex, deformable body plans requires capturing full-body shape rather than sparse skeletal keypoints. Yet accessible, end-to-end tools that take researchers from mask annotation through model training to reliable multi-object tracking are lacking. Here we present OCTRON, a fully trainable pipeline for multi-object segmentation, detection, and tracking that is broadly applicable across experimental setups and organisms. OCTRON leverages large segmentation foundation models to rapidly generate experimenter-supervised annotations from minimal input, overcoming the manual labeling bottleneck of supervised segmentation. These annotations train compact, task-specific models: segmentation networks for extracting pixel-level information such as shape and appearance, or lightweight detection networks for fast centroid tracking. Coupled with multi-object trackers and an interactive track-curation interface in napari, OCTRON enables complete behavioral quantification with minimal manual intervention. We validate OCTRON across species from transparent marine annelids to camouflaging cuttlefish, and in multi-species behavioral assays.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "2",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2025.12.20.695663"
+    ],
+    "date": "2026-10-23",
+    "authors": "Jacobsen, R. I.; van Eekelen, N. M.; Roald-Arboel, M.; Minano, S.; Humphrey, L.; Renton, J.; Honda, T.; van Rooij, E.; Rivera, J.; Arenas, O. M.; Lumpkin, E. A.; Maccuro, S.; Buresch, K. C.; Seuntjens, E.; Obenhaus, H. A.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2025.12.20.695663v2",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "gene",
+        "pipeline"
+      ],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [
+          "annotation"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5591,
+    "collected_at": "2026-11-24T21:11:07.209251+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-24"
   }
 ]

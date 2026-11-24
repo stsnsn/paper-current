@@ -164,7 +164,7 @@
   "backfill_request_status": {
     "id": "collection-recovery-2026-11-10",
     "phase": "in_progress",
-    "additional": 29,
+    "additional": 23,
     "coverage": {
       "Europe PMC watchlist": {
         "ok": true,
@@ -227,7 +227,7 @@
       },
       "Europe PMC journals 6": {
         "ok": false,
-        "retrieved": 140,
+        "retrieved": 155,
         "query": "(JOURNAL:\"Microbial Genomics\" OR JOURNAL:\"Microbiology\" OR JOURNAL:\"Aquatic Microbial Ecology\" OR JOURNAL:\"PNAS\" OR JOURNAL:\"PLOS Biology\" OR JOURNAL:\"PLOS Genetics\" OR JOURNAL:\"Genome Research\" OR JOURNAL:\"Genome Biology\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
         "publication_start": "2026-10-20"
       },
@@ -240,7 +240,7 @@
       },
       "Europe PMC journals 8": {
         "ok": false,
-        "retrieved": 55,
+        "retrieved": 90,
         "query": "(JOURNAL:\"Microbial Biotechnology\" OR JOURNAL:\"Extremophiles\" OR JOURNAL:\"Genome Biology and Evolution\" OR JOURNAL:\"Molecular Biology and Evolution\" OR JOURNAL:\"Molecular Ecology\" OR JOURNAL:\"Molecular Ecology Resources\" OR JOURNAL:\"Molecular Phylogenetics and Evolution\" OR JOURNAL:\"Bioinformatics Advances\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
         "publication_start": "2026-10-20"
       },
@@ -270,13 +270,13 @@
       },
       "bioRxiv": {
         "ok": false,
-        "retrieved": 600,
+        "retrieved": 900,
         "query": "details/biorxiv/2026-10-20/2026-11-10"
       }
     },
     "collection_exit_code": -9,
     "budget_exhausted": true,
-    "updated_at": "2026-11-24T15:00:24.672010+00:00"
+    "updated_at": "2026-11-24T21:21:37.492182+00:00"
   },
   "last_publication_slot": "2026-11-24T21:12:00+09:00"
 }
