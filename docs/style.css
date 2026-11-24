@@ -396,3 +396,36 @@ footer a:hover { text-decoration: underline; }
 
 .explorer-nav-link { display: inline-flex; align-items: center; min-height: 44px; padding: 10px 18px; border: 1px solid var(--line); border-radius: 10px; text-decoration: none; color: var(--ink); font-size: 13px; }
 .explorer-nav-link:hover { background: var(--tint); }
+
+/* Give both header controls the same shape and visual weight. */
+header nav { gap: 8px; }
+header nav .quiet, .saved-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 7px;
+  min-height: 40px;
+  padding: 8px 11px;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  background: #ffffff80;
+  font-size: 12px;
+  font-weight: 500;
+  white-space: nowrap;
+}
+header nav .quiet { color: var(--muted); }
+.saved-button { color: var(--ink); }
+header nav .quiet:hover, .saved-button:hover {
+  background: #fff;
+  border-color: #b3ccd6;
+}
+.saved-button svg { width: 16px; height: 16px; flex-shrink: 0; }
+.saved-count {
+  color: var(--muted);
+  font-size: 11px;
+  font-weight: 500;
+  font-variant-numeric: tabular-nums;
+}
+@media (max-width: 760px) {
+  header nav .quiet, .saved-button { padding: 8px 9px; font-size: 12px; }
+}

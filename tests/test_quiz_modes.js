@@ -298,7 +298,8 @@ assert.match(warnings[2],/cannot be undone.*JSON or CSV/);
 assert.equal(storage.get('paper-current-saved'),'{}');
 assert.equal(run('Object.keys(read(savedKey,{})).length'),0);
 assert.equal(run('JSON.stringify(state)'),progress);
-assert.equal(elements.get('#savedBtn').textContent,'Read later 0');
+assert.equal(elements.get('#savedLabel').textContent,'Read later');
+assert.equal(elements.get('#savedCount').textContent,0);
 assert(app.innerHTML.includes('No saved papers yet.'));
 assert(!app.innerHTML.includes('data-action="clear-saved"'));
 
