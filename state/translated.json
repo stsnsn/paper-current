@@ -325261,5 +325261,273 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "機能性食品への応用に向けた進化型プロバイオティクス酵母Saccharomyces boulardii SBPY3_EVの安全性評価およびストレス耐性",
     "abstract_ja": "要旨 高い消化管（GI）持続性を有する頑健なプロバイオティクス菌株の選定は、効果的な機能性食品の開発において極めて重要である。進化株である酵母菌 Saccharomyces boulardii SBPY3_EV について、全ゲノムシーケンシング（WGS）および機能的フェノタイピングにより特性解析を行った。WGS解析により、高いゲノム完全性（BUSCO完全性99.2%）および参照 S. boulardii 株との系統学的同一性が確認され、安全なプロバイオティクス候補としての地位が裏付けられた。安全性評価では、非溶血活性および臨床的に重要なアゾール系抗真菌薬への感受性がさらに実証された。表現型アッセイの結果、SBPY3_EV は親系統や市販標準株と比較して優れたGI適応性を有することが明らかとなった。進化株は酸耐性（pH 3.0）が3.51倍に有意に向上し、1.5%胆汁酸塩および9% NaCl存在下においても強固な生存能を維持した。Caco-2およびHT-29腸上皮モデルを用いたin vitro定着アッセイでは、SBPY3_EV が極めて高い接着率（80.4%–84.7%）を達成し、参照プロバイオティクスである Lacticaseibacillus rhamnosus GG を有意に上回ることが示された。さらに、SBPY3_EV は胃内および模擬小腸通過において高い生存率（88–100%）を示し、Escherichia coli や Staphylococcus aureus を含む主要な食品由来病原体に対して拮抗活性を示した。これらの知見は、SBPY3_EV の性能向上に関する分子・生理学的根拠を提供するものであり、食品およびニュートラシューティカル用途における極めて強靭な次世代プロバイオティクスとしての位置付けを示すものである。"
+  },
+  {
+    "id": "10.1186/s42523-026-00660-8",
+    "title": "Effects of dietary tannins and Asparagopsis taxiformis on lactation performance, metabolic status, rumen fermentation, and microbial ecology in early-lactation Holstein cows",
+    "abstract": "Dietary feed additives that modify rumen fermentation can affect microbial ecology and cow-level performance, but responses may differ by additive type and physiological stage. This study compared dietary tannins and the red macroalga Asparagopsis taxiformis (AT) in early-lactation dairy cows. Thirty multiparous Holstein cows (48 ± 5 DIM) were assigned to a 10-d adaptation period followed by a 20-d experimental period and allocated to one of three diets: control (CON), tannin-supplemented diet (TAN; 300 g/cow per day of quebracho–chestnut tannin premix), or AT-supplemented diet (ASP; 150 g/cow per day). Tannin supplementation increased milk yield, fat-corrected milk, and energy-corrected milk, and was associated with lower serum non-esterified fatty acids (NEFA), lower β-hydroxybutyrate (BHB), and greater total antioxidant capacity. In contrast, ASP did not improve milk production and was associated with the highest NEFA concentration. Total ruminal volatile fatty acid concentration did not differ among diets, but ASP increased propionate, whereas TAN increased butyrate and n-valeric acid and reduced ruminal NH₃-N. ASP showed stronger separation from CON and TAN in bacterial and archaeal communities, lower bacterial and archaeal Shannon diversity, lower abundance of Methanosphaera spp., lower protozoal diversity, and greater dominance of Entodinium spp. In contrast, tannin supplementation produced more moderate rumen ecological changes, with bacterial and archaeal communities remaining more similar to CON. These results indicate that tannin and AT supplementation generated distinct host–rumen response profiles in early-lactation dairy cows. Tannin supplementation was associated with higher milk output and more favorable energy-metabolism and antioxidant indicators. By contrast, AT produced more pronounced microbial and predicted functional shifts, but these responses were not accompanied by improved lactational performance or metabolic status. These findings support cautious evaluation of AT use in early-lactation cows when animal-performance, metabolic, fermentation, and microbial endpoints are considered together.",
+    "journal": "Animal Microbiome",
+    "doi": "10.1186/s42523-026-00660-8",
+    "date": "2026-11-23",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s42523-026-00660-8",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "archaea",
+        "archaeal",
+        "bacteria",
+        "bacterial",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=42523",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5538,
+    "collected_at": "2026-11-24T01:01:00.011480+00:00",
+    "collected_date": "2026-11-24",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=42523"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1186/s42523-026-00660-8"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8999609f3742f50c54f244618ad3e06613857e812f990eb4dc669f1624c6ab9b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T01:25:04.046574+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "96bfc6db8925c673f414dfab30c3b9f14665bb0ba7f01b2d54e3b4fa91d42408",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T01:25:04.046574+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "泌乳初期のホルスタイン牛における飼料タンニンおよびAsparagopsis taxiformisが泌乳成績、代謝状態、ルーメン発酵および微生物生態に及ぼす影響",
+    "abstract_ja": "ルーメン発酵を変化させる飼料添加物は、微生物生態および牛レベルのパフォーマンスに影響を及ぼし得るが、その反応は添加物の種類や生理的段階によって異なる可能性がある。本研究では、泌乳初期の乳牛を対象に、飼料タンニンと紅藻類Asparagopsis taxiformis（AT）を比較した。経産回数の多いホルスタイン牛30頭（48 ± 5 DIM）を、10日間の適応期間とその後の20日間の実験期間に割り付け、3種類の飼料（対照飼料（CON）、タンニン補給飼料（TAN；ケブラチョ・チェスナットタンニンプレミックスを1頭あたり1日300g）、またはAT補給飼料（ASP；1頭あたり1日150g））のいずれかに割り当てた。タンニン補給は、乳量、脂肪補正乳量、およびエネルギー補正乳量を増加させ、血清非エステル化脂肪酸（NEFA）およびβ-ヒドロキシ酪酸（BHB）の低下、ならびに総抗酸化能の向上と関連していた。対照的に、ASPは乳量を増加させず、NEFA濃度が最も高い結果となった。総ルーメン揮発性脂肪酸濃度は飼料間で差が認められなかったが、ASPはプロピオン酸を増加させ、一方でTANは酪酸およびn-バレリン酸を増加させ、ルーメン内NH₃-Nを減少させた。ASPは、細菌群集および古細菌群集においてCONおよびTANよりも強い分離を示し、細菌および古細菌のシャノン多様性が低く、Methanosphaera属の存在量が少なく、原生動物の多様性が低く、Entodinium属の優位性が高かった。対照的に、タンニン補給によるルーメン生態学的変化はより緩やかであり、細菌群集および古細菌群集はCONに近い状態を維持した。これらの結果は、泌乳初期の乳牛において、タンニンおよびATの補給がそれぞれ異なる宿主・ルーメン反応プロファイルを惹起したことを示している。タンニン補給は、乳量の増加およびより良好なエネルギー代謝および抗酸化指標と関連していた。対照的に、ATはより顕著な微生物学的変化および予測される機能的変化をもたらしたが、これらの反応に泌乳パフォーマンスや代謝状態の改善は伴わなかった。これらの知見は、動物のパフォーマンス、代謝、発酵、および微生物学的エンドポイントを総合的に考慮した場合、泌乳初期の牛におけるATの使用を慎重に評価することを支持するものである。"
+  },
+  {
+    "id": "10.1093/bioinformatics/btag853",
+    "title": "BioBatchNet: A Dual-Encoder Framework for Robust Batch Effect Correction in Imaging Mass Cytometry",
+    "abstract": "AbstractMotivationImaging Mass Cytometry (IMC) is a cutting-edge technology for analysing spatially resolved protein expression at the single-cell level. However, its downstream analyses are often hindered by batch effects, which introduce systematic biases and obscure biological variations. Existing correction methods, largely developed for scRNA-seq data, face challenges in adapting to IMC data due to differences in data characteristics. Moreover, these methods struggle to achieve precise control, leading to either over-correction by removing critical biological information, or under-correction by leaving residual batch effects. Furthermore, IMC data often feature overlapping cell populations, complicating clustering and downstream analysis. These challenges underscore the need for a robust and controllable batch effect correction approach tailored to IMC data.ResultsWe present BioBatchNet, a dual-encoder framework utilising adversarial training to explicitly disentangle batch-specific and biological signals. BioBatchNet enables controllable batch effect correction, balancing correction with preservation of biological variation. We evaluated BioBatchNet on three IMC datasets, where it outperformed seven benchmarking methods with robustness in both correction and biological signal conservation. Additionally, we developed a Constrained-Pairwise-Clustering (CPC) method, which employs constrained pairs to improve clustering performance, even in datasets with overlapping cell populations. To validate its generalisability, we adapted BioBatchNet for scRNA-seq datasets by altering the data likelihood from Gaussian to Zero-Inflated Negative Binomial distribution. This adapted version achieved competitive performance across four scRNA-seq datasets, obtaining the highest overall score on three of them. These results demonstrate BioBatchNet’s generalisability and robustness in correcting batch effects across diverse single-cell datasets and underscore its potential for large-scale biological analyses.Availability and ImplementationThe source code is available at https://github.com/UoM-HealthAI/BioBatchNet, with an archived snapshot on Zenodo (DOI: https://doi.org/10.5281/zenodo.18783840).",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag853",
+    "date": "2026-11-23",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag853/9116086?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5535,
+    "collected_at": "2026-11-24T01:01:00.011480+00:00",
+    "collected_date": "2026-11-24",
+    "sources": [
+      "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1093/bioinformatics/btag853"
+    ],
+    "translation": {
+      "title": {
+        "hash": "1eb67e3dec308d12ad37e8fd9b78f4e9d158d945dc9d5a171a9f293ca2201e5d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T01:25:04.046574+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4a36ce90b21366d219e3e1882f350783e3023d16e75c5eb6bc3f20d103391256",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T01:25:04.046574+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "BioBatchNet: イメージング質量サイトメトリーにおける頑健なバッチ効果補正のためのデュアルエンコーダフレームワーク",
+    "abstract_ja": "要旨動機イメージング質量サイトメトリー（IMC）は、単一細胞レベルで空間分解能を有するタンパク質発現を解析するための最先端技術である。しかし、その下流解析は、系統的なバイアスを導入し生物学的変動を不明瞭にするバッチ効果によって妨げられることが多い。主にscRNA-seqデータ向けに開発された既存の補正手法は、データ特性の違いにより、IMCデータへの適応に課題を抱えている。さらに、これらの手法は精密な制御を実現することが困難であり、重要な生物学的情報を除去する過剰補正、あるいは残存するバッチ効果を放置する過小補正のいずれかを招く。また、IMCデータでは細胞集団が重複していることが多く、クラスタリングや下流解析を複雑にする。これらの課題は、IMCデータに特化した、堅牢かつ制御可能なバッチ効果補正手法の必要性を浮き彫りにしている。結果我々は、敵対的学習を用いてバッチ固有のシグナルと生物学的シグナルを明示的に分離するデュアルエンコーダフレームワーク「BioBatchNet」を提案する。BioBatchNetは、補正と生物学的変動の保存のバランスを取りながら、制御可能なバッチ効果補正を実現する。3つのIMCデータセットを用いてBioBatchNetを評価したところ、補正と生物学的シグナルの保存の両面において堅牢性を示し、7つのベンチマーク手法を上回る性能を達成した。さらに、細胞集団が重複するデータセットにおいてもクラスタリング性能を向上させるため、制約付きペアを用いる制約付きペアワイズクラスタリング（Constrained-Pairwise-Clustering: CPC）手法を開発した。その一般化可能性を検証するため、データの尤度をガウス分布からゼロインフレート負二項分布に変更することで、BioBatchNetをscRNA-seqデータセットに適応させた。この適応版は4つのscRNA-seqデータセットにおいて競争力のある性能を示し、そのうち3つのデータセットで最高の総合スコアを獲得した。これらの結果は、多様な単一細胞データセットにおけるバッチ効果補正におけるBioBatchNetの一般化可能性と堅牢性を実証するものであり、大規模な生物学的解析への可能性を示唆している。利用可能性と実装ソースコードは https://github.com/UoM-HealthAI/BioBatchNet で公開されており、Zenodoにアーカイブ済みのスナップショット（DOI: https://doi.org/10.5281/zenodo.18783840）も提供されている。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.2023654",
+    "title": "Immune checkpoint modulation beyond cancer: a conceptual framework for small-molecule host-directed antiviral therapy",
+    "abstract": "Immune checkpoints are important regulators of antiviral immunity, but their roles in viral infections are more complex than the conventional model of immune inhibition. Although sustained checkpoint signaling can impair antiviral T-cell function and contribute to viral persistence, it can also limit immune-mediated tissue damage. This dual role presents a major challenge for therapeutic intervention, as indiscriminate checkpoint inhibition may improve viral control at the expense of increased immunopathology. In this review, we examine how viral infections reshape immune checkpoint networks through antiviral signaling, protein homeostasis, cellular metabolism, and tissue-specific immune regulation. We discuss the implications of these mechanisms for chronic viral infections, including human immunodeficiency virus and hepatitis B and C viruses, as well as acute respiratory infections caused by influenza A virus, severe acute respiratory syndrome coronavirus 2, and respiratory syncytial virus. Particular attention is given to small-molecule checkpoint modulators and their potential to regulate protein interactions, stability, localization, and signaling beyond conventional receptor–ligand blockade. We distinguish the pharmacological evidence supporting these compounds, which is derived primarily from oncology-related research, from the much more limited evidence of their direct antiviral activity. However, direct evidence that these compounds can achieve effective checkpoint modulation while improving viral control and limiting tissue injury remains limited. We therefore discuss the need for rigorous target validation and a more precise approach to patient selection and treatment design. Integrating viral burden, antiviral T-cell function, checkpoint activity, and inflammatory status may help identify patients most likely to benefit from intervention and guide treatment timing, intensity, and discontinuation. Combining checkpoint modulation with direct-acting antivirals or other host-directed therapies may offer additional benefits if viral suppression and immune restoration can be appropriately balanced. A shift from sustained checkpoint blockade toward context-dependent immune modulation may provide a basis for developing more precise host-directed antiviral strategies.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.2023654",
+    "date": "2026-11-23",
+    "authors": "Xianfeng Hui",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.2023654",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5536,
+    "collected_at": "2026-11-24T01:01:00.011480+00:00",
+    "collected_date": "2026-11-24",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.3389/fmicb.2026.2023654"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0c9fc232a3f41b87ae4824fef33ef078c40cb6eb7c0e46d7e24a6524cd728a9e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T01:25:04.046574+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a4416ce1b864e1b8194f1431f29f317b45025393ee4d01a57dac0d5864060315",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T01:25:04.046574+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "がんを超えた免疫チェックポイント調節：低分子ホスト指向性抗ウイルス療法の概念的枠組み",
+    "abstract_ja": "免疫チェックポイントは抗ウイルス免疫の重要な調節因子であるが、ウイルス感染におけるその役割は、従来の免疫抑制モデルよりも複雑である。持続的なチェックポイントシグナル伝達は、抗ウイルスT細胞機能を損ないウイルスの持続に寄与する一方で、免疫介在性の組織損傷を制限することもある。この二面的な役割は、無差別なチェックポイント阻害が免疫病理の増悪と引き換えにウイルス制御を改善する可能性があるため、治療介入における大きな課題となっている。本総説では、抗ウイルスシグナル伝達、タンパク質恒常性、細胞代謝、および組織特異的な免疫調節を通じて、ウイルス感染が免疫チェックポイントネットワークをどのように再構築するかを検討する。ヒト免疫不全ウイルスやB型・C型肝炎ウイルスを含む慢性ウイルス感染症、ならびにA型インフルエンザウイルス、重症急性呼吸器症候群コロナウイルス2、および呼吸器合胞体ウイルスによる急性呼吸器感染症に対するこれらの機序の意義について論じる。特に、低分子チェックポイント調節薬と、従来の受容体－リガンド遮断を超えてタンパク質相互作用、安定性、局在、およびシグナル伝達を調節する可能性に着目する。主に腫瘍学関連の研究から得られたこれらの化合物を支持する薬理学的根拠を、直接的な抗ウイルス活性に関するはるかに限定的な根拠と区別する。しかしながら、これらの化合物がウイルス制御を改善し組織損傷を制限しつつ、効果的なチェックポイント調節を実現できるという直接的な証拠は依然として限られている。したがって、厳格な標的検証と、より精密な患者選択および治療設計へのアプローチの必要性について論じる。ウイルス量、抗ウイルスT細胞機能、チェックポイント活性、および炎症状態を統合することで、介入から利益を得る可能性が最も高い患者を特定し、治療のタイミング、強度、および中止の指針とすることができる可能性がある。ウイルス抑制と免疫回復を適切にバランスさせることができれば、チェックポイント調節を直接作用型抗ウイルス薬やその他の宿主指向性療法と組み合わせることで、さらなる利点が得られる可能性がある。持続的なチェックポイント遮断からコンテキスト依存的な免疫調節への移行は、より精密な宿主指向性抗ウイルス戦略を開発するための基盤となり得る。"
+  },
+  {
+    "id": "10.1186/s13059-026-04327-0",
+    "title": "G2PT: a genotype–phenotype transformer to assess and explain polygenic risk",
+    "abstract": "Genome-wide association studies have linked millions of genetic variants to biomedical phenotypes, but their utility has been limited by lack of mechanistic understanding and widespread epistatic interactions. Here, we introduce the Genotype-to-Phenotype Transformer (G2PT), a framework for modeling hierarchical information flow among variants, genes, multigenic systems, and phenotypes. We train G2PT to model the genetics of metabolic traits including insulin resistance, LDL and type 2 diabetes. G2PT predicts these traits with accuracy comparable to best-in-class methods, demonstrates transferability across cohorts, and captures epistatic effects. This work positions hierarchical graph transformers as a next-generation approach to polygenic risk interpretation.",
+    "journal": "Genome Biology",
+    "doi": "10.1186/s13059-026-04327-0",
+    "date": "2026-11-23",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s13059-026-04327-0",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=13059",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5539,
+    "collected_at": "2026-11-24T01:01:00.011480+00:00",
+    "collected_date": "2026-11-24",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=13059"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1186/s13059-026-04327-0"
+    ],
+    "translation": {
+      "title": {
+        "hash": "af4d6359e03b3c2114871832f6d980af57057c0d74823f3cda95df4383bb43ad",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T01:25:04.046574+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "70360a292b006244207396cb90797bcf5f7eb6653de1d3e34fc14c60148b3728",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T01:25:04.046574+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "G2PT: 多遺伝子リスクの評価と説明のための遺伝子型－表現型トランスフォーマー",
+    "abstract_ja": "ゲノムワイド関連解析により、数百万もの遺伝的変異が生物医学的表現型と関連付けられてきたが、その有用性はメカニズムの解明不足や広範なエピスタシス相互作用によって制限されてきた。本研究では、変異、遺伝子、多遺伝子系、および表現型間の階層的な情報フローをモデル化するためのフレームワークであるGenotype-to-Phenotype Transformer（G2PT）を提案する。我々は、インスリン抵抗性、LDLおよび2型糖尿病を含む代謝形質の遺伝学をモデル化するようにG2PTを学習させた。G2PTは、これらの形質をクラス最高水準の手法に匹敵する精度で予測し、コホート間の転移可能性を示し、エピスタシス効果を捉える。本研究は、階層的グラフトランスフォーマーを、多遺伝子リスク解釈における次世代のアプローチとして位置づけるものである。"
   }
 ]
