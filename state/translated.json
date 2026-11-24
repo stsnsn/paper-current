@@ -327450,5 +327450,273 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "気候エミュレーションにおける最適シナリオ設計。",
     "abstract_ja": "物理システム向けの深層学習が普及し続ける中、汎化性能を向上させる取り組みは、主に物理的制約を組み込んだアーキテクチャの設計に重点が置かれてきた。しかし、機械学習による代理気候モデル（エミュレータ）においては、訓練データの生成に一般的に用いられる既存シナリオの構造的多様性の低さが、予測能力の上限となっていることが示されている。本研究では、汎化性能を向上させるために、訓練データセット自体を最適化できるかを検討する。我々は、訓練データに含まれていない、構造的に異なる新たなシナリオに汎化可能なエミュレータを生成するデータセットを作成する手法を提案する。微分可能な単純気候モデル（SCM）を用いて、訓練データの摂動に対するエミュレータ損失の感度を算出し、エミュレータの能力を最大化するように訓練データを反復的に更新する。SCMの場合、このように最適化された単一のシナリオで訓練されたエミュレータは、標準的なScenario Model Intercomparison Project（ScenarioMIP）の6つの経路で訓練されたエミュレータを上回る性能を示す。より小規模なデータセットで訓練したにもかかわらず、このような高い予測能力を実現しており、単一の強制力による実行を行うことなく、異なる気候強制力主体（例：温室効果ガス対エアロゾル）の固有の物理的挙動をうまく分離できていることが分かった。さらに、SCMを用いて最適化したシナリオを中程度の複雑さを持つ気候モデルの駆動に用いた場合、ScenarioMIPの出力で訓練した場合よりも、より高度な能力を持つエミュレータを生成する訓練データセットが得られることを実証する。我々の結果は、フルスケールの気候モデルを運用するという計算制約のある環境において、従来の排出経路のセットを拡充するよりも、動的に豊かな少数のシナリオを生成する方が、エミュレーションおよびシステム応答の特性評価においてより大きな限界価値をもたらすことを示唆している。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1986709",
+    "title": "Molecular detection of selected virulence genes of Escherichia coli and Staphylococcus aureus isolated from raw milk in Morogoro, Tanzania",
+    "abstract": "Bacterial contamination in raw cow milk is a significant public health concern which may lead to milk-borne diseases. This study investigated the microbial contamination of raw milk and used molecular methods to identify virulence genes in the isolated bacteria. A total of 200 raw milk samples from 200 dairy cattle were randomly collected from dairy farms across Morogoro region. The samples were examined for the detection of Escherichia coli and Staphylococcus aureus by microbiological methods and confirmed by biochemical assays. The obtained results revealed that the prevalence of E. coli and S. aureus in the examined raw milk samples was 8% (16/200) and 12% (24/200), respectively. Moreover, Polymerase Chain Reaction (PCR) was employed for the detection of stx1, hlyA, ompA, and eaeA virulence genes specific for E. coli. The detected virulence genes in E. coli isolates were: ompA (43.8%), stx1 (25.0%), eaeA (31.2%), and hlyA (0.0%). In addition, PCR was applied for the detection of icaA, sea, hla, and pvl virulence genes in S. aureus isolates. The findings of this study showed that only the hla gene was detected in 25% of the examined S. aureus isolates, whereas icaA, sea, and pvl genes were not detected. These findings underscore the need for comprehensive food risk assessment to evaluate the potential public health hazards associated with the consumption of contaminated raw milk.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1986709",
+    "date": "2026-11-24",
+    "authors": "Gaymary Bakari",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1986709",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "bacteria",
+        "bacterial",
+        "microbial",
+        "microbiological"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5562,
+    "collected_at": "2026-11-24T11:05:36.802078+00:00",
+    "collected_date": "2026-11-24",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.3389/fmicb.2026.1986709"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b08ab78f410348473ee3b7e228d7d2dcb6e0e85933d38560d8324be0ab1f8700",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T11:45:19.802195+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f88032f22292c525d09d2e737536bba354e4f04d8638b5388aff5647fdde758f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T11:45:19.802195+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "タンザニア・モロゴロの生乳から分離された大腸菌および黄色ブドウ球菌の選定された病原性遺伝子の分子生物学的検出",
+    "abstract_ja": "生乳における細菌汚染は、乳汁媒介性疾患を引き起こす可能性があり、公衆衛生上の重大な懸念事項である。本研究では、生乳の微生物汚染を調査し、分子生物学的手法を用いて分離菌の病原性遺伝子を同定した。モロゴロ地域全域の酪農場から、乳牛200頭から計200検体の生乳を無作為に採取した。これらの検体について、微生物学的手法によりEscherichia coliおよびStaphylococcus aureusの検出を行い、生化学的アッセイにより確認した。得られた結果から、検査した生乳検体におけるE. coliおよびS. aureusの検出率は、それぞれ8%（16/200）および12%（24/200）であった。さらに、E. coliに特異的なstx1、hlyA、ompA、およびeaeA病原性遺伝子の検出にポリメラーゼ連鎖反応（PCR）を用いた。E. coli分離株において検出された病原性遺伝子は、ompA（43.8%）、stx1（25.0%）、eaeA（31.2%）、およびhlyA（0.0%）であった。加えて、S. aureus分離株におけるicaA、sea、hla、およびpvl病原性遺伝子の検出にPCRを適用した。本研究の結果、検査したS. aureus分離株の25%においてhla遺伝子のみが検出された一方、icaA、sea、およびpvl遺伝子は検出されなかった。これらの知見は、汚染された生乳の摂取に伴う潜在的な公衆衛生上のリスクを評価するため、包括的な食品リスクアセスメントが必要であることを強調している。"
+  },
+  {
+    "id": "10.1093/nar/gkag1211",
+    "title": "Database resources of the National Center for Biotechnology Information in 2027",
+    "abstract": "AbstractThe National Center for Biotechnology Information (NCBI) provides biomedical data resources including PubMed®, a repository of citations and abstracts published in life science journals, and ClinicalTrials.gov, a repository of clinical research summaries. NCBI also hosts a multitude of resources providing nucleotide sequences and sequence-derived products, such as proteins and protein structures. Search and retrieval operations are available for most of the 40 distinct repositories, knowledgebases, and services. The E-utilities and NCBI Datasets serve as the programming interface for most of these. Resources receiving significant updates in the past year include PubMed®, PubMed Central® (PMC), SciENcv, ClinicalTrials.gov, ClinVar, dbSNP, dbGaP, GTR, MedGen®, Pathogen Detection and the National Database of Antibiotic Resistant Organisms, and PubChem®. These resources can be accessed through the NCBI home page at https://www.ncbi.nlm.nih.gov.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1211",
+    "date": "2026-11-24",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1211/9119053?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5547,
+    "collected_at": "2026-11-24T11:05:36.802078+00:00",
+    "collected_date": "2026-11-24",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1093/nar/gkag1211"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f1b44ea597aa8f723c73e7b414a14ba8ec7c5c2bdc705b16823c441ad3191252",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T11:45:19.802195+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b83112f5068f9b0521a3ed2f4ec75431d06c6dc695e84aac4b6ea5a027b70fc3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T11:45:19.802195+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "2027年における国立生物工学情報センターのデータベースリソース",
+    "abstract_ja": "概要 米国国立生物工学情報センター（NCBI）は、生命科学分野の学術誌に掲載された引用文献および抄録のリポジトリであるPubMed®や、臨床研究の要約リポジトリであるClinicalTrials.govなどの生物医学データリソースを提供している。また、NCBIは、ヌクレオチド配列および配列由来産物（タンパク質やタンパク質構造など）を提供する多数のリソースをホストしている。40の個別のリポジトリ、ナレッジベース、およびサービスの大部分において、検索および取得操作が可能である。E-utilitiesおよびNCBI Datasetsは、これらの多くにおけるプログラミングインターフェースとして機能している。過去1年間に大幅な更新が行われたリソースには、PubMed®、PubMed Central® (PMC)、SciENcv、ClinicalTrials.gov、ClinVar、dbSNP、dbGaP、GTR、MedGen®、Pathogen Detection and the National Database of Antibiotic Resistant Organisms、およびPubChem®が含まれる。これらのリソースは、NCBIのホームページ（https://www.ncbi.nlm.nih.gov）からアクセスできる。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.2031368",
+    "title": "Removal performance and mechanism of incredibly low carbon/nitrogen ratio wastewater via anammox-enhanced anoxic/oxic/oxic/anoxic process under different temperatures",
+    "abstract": "Temperature visibly affects microbial community structure and activity in bioreactors, thereby affecting the removal of pollutants; therefore, the adaptability to temperature is a crucial indicator for evaluating the application prospects of a new process. In this study, a lab-scale anammox-enhanced anoxic/oxic/oxic/anoxic process was developed to treat wastewater severely deficient in carbon sources under different test water temperatures (TWTs), whose C/N (COD/total nitrogen (TN)) ratio was only 1.66–1.70. The effluent TN, total phosphorus, and COD could still meet the specific discharge standards as TWT decreased (25 ± 1 °C to 15 ± 1 °C), and their removal rates slightly decreased from 97.77 ± 0.076%, 94.23 ± 2.72% and 96.43 ± 0.36% to 92.14 ± 0.13%, 93.73 ± 0.40% and 95.13 ± 0.078%, respectively, indicating a high adaptability to TWTs. Hydrolyzed microorganisms and refractory organic matter (ROM) provided a carbon source for denitrification, resulting in efficient COD removal and an incredibly low sludge yield coefficient (0.025–0.027 kg MLSS/kg COD) under different TWTs. Multiple N removal pathways were achieved in the bioreactor, including partial nitrification–denitrification, partial nitrification–anammox, and partial denitrification–anammox, which remarkably improved the N removal efficiency and adaptability under different TWTs. Phosphorus was removed via precipitation with Mn2+ to generate Mn3(PO4)2. The carbon and N removal mechanisms were elucidated via the multiple identified functional bacteria and genes related to denitrification, nitrification, hydrolysis and anammox, and metatranscriptomics further revealed their metabolic mechanisms. Marked changes in their abundance demonstrated the influence of TWTs on the functional microbiota and their metabolic activity.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.2031368",
+    "date": "2026-11-24",
+    "authors": "Mingguo Peng",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.2031368",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "metatranscriptom",
+        "metatranscriptomics",
+        "microbial",
+        "microbiota",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5563,
+    "collected_at": "2026-11-24T11:05:36.802078+00:00",
+    "collected_date": "2026-11-24",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.3389/fmicb.2026.2031368"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4f43942b238678c92cb075a45a4f018a82f1cbb4d9e33c83a1118e641a0b159b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T11:45:19.802195+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f1c1a7b37db4226b693dca4f20e6b44aa858f96bdb796f7ef81a54af99d46093",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T11:45:19.802195+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "異なる温度条件下におけるアナモックス強化型無酸素/好気/好気/無酸素プロセスによる極めて低い炭素・窒素比の排水の除去性能とメカニズム",
+    "abstract_ja": "温度はバイオリアクターにおける微生物群集の構造と活性に顕著な影響を及ぼし、それによって汚染物質の除去に影響を与える。したがって、温度に対する適応性は、新規プロセスの適用可能性を評価する上で極めて重要な指標となる。本研究では、C/N（COD/全窒素（TN））比がわずか1.66–1.70である炭素源が著しく不足した廃水を、異なる試験水温（TWT）条件下で処理するため、ラボスケールのアナモックス強化型無酸素/好気/好気/無酸素プロセスを開発した。TWTの低下（25 ± 1 °Cから15 ± 1 °C）に伴い、処理水のTN、全リン、およびCODは依然として特定排出基準を満たすことができ、その除去率はそれぞれ97.77 ± 0.076%、94.23 ± 2.72%、96.43 ± 0.36%から92.14 ± 0.13%、93.73 ± 0.40%、95.13 ± 0.078%へとわずかに低下し、TWTに対する高い適応性が示された。加水分解された微生物および難分解性有機物（ROM）が脱窒の炭素源となり、異なるTWT条件下で効率的なCOD除去と極めて低い汚泥収量係数（0.025–0.027 kg MLSS/kg COD）を実現した。バイオリアクター内では、部分硝化－脱窒、部分硝化－アナモックス、および部分脱窒－アナモックスを含む複数のN除去経路が達成され、これにより異なるTWT条件下でのN除去効率と適応性が著しく向上した。リンはMn2+による沈殿により除去され、Mn3(PO4)2が生成された。炭素およびNの除去機構は、同定された複数の機能性細菌および脱窒、硝化、加水分解、アナモックスに関連する遺伝子を通じて解明され、メタトランスクリプトミクスによってその代謝機構がさらに明らかになった。これらの存在量の顕著な変化は、TWTが機能性微生物叢およびその代謝活性に及ぼす影響を示している。"
+  },
+  {
+    "id": "10.1093/nar/gkag1285",
+    "title": "Disease-responsive promoters enable precisely controlled gene therapy",
+    "abstract": "AbstractAdeno associated virus (AAV)-mediated gene therapy holds great promise for curing various diseases, but uncontrolled expression of transgenes in both healthy and diseased cells driven by constitutively active general promoters is a potential safety risk. Controlled gene therapy can be achieved using a disease-responsive promoter (DRP) that drives expression of a therapeutic gene only in diseased cells and shuts off once the cells become healthy again. We used correlative analysis of ATAC-seq and ncRNA-seq of healthy and diseased retinal ganglion cells (RGCs) to identify and characterize two DRPs that possess unique DRP activities in two mouse models of optic neuropathy. We further optimized one DRP to generate DRP-3L2, which has minimum promoter activity in naïve healthy RGCs, but drives potent neuroprotective gene expression in diseased RGCs and then abates after RGCs are protected and returning to health. Our proof-of-concept studies demonstrate that DRP-mediated precisely controlled gene therapy provides a new and promising neuroprotective strategy for CNS axonopathies.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1285",
+    "date": "2026-11-24",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1285/9119058?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5577,
+    "collected_at": "2026-11-24T11:05:36.802078+00:00",
+    "collected_date": "2026-11-24",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/3091.xml"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1093/nar/gkag1285"
+    ],
+    "translation": {
+      "title": {
+        "hash": "49d266fb236915561135271f38f68283828d229e061616d40ff7f9ec6a38addf",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T11:45:19.802195+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9bf3415172ef675bbfba8a871637882927cd22a3bb7c23d3d95aad842aa92ddb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T11:45:19.802195+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "疾患応答性プロモーターにより、精密に制御された遺伝子治療が可能となる",
+    "abstract_ja": "要旨アデノ随伴ウイルス（AAV）媒介性遺伝子治療は、さまざまな疾患の治療に大きな可能性を秘めているが、恒常的に活性な汎用プロモーターによって正常細胞および疾患細胞の双方でトランスジーンが制御不能に発現することは、潜在的な安全上のリスクとなる。疾患応答性プロモーター（DRP）を用いれば、疾患細胞においてのみ治療遺伝子の発現を誘導し、細胞が再び正常になると発現を停止させることで、制御された遺伝子治療を実現できる。我々は、正常および疾患網膜神経節細胞（RGC）のATAC-seqおよびncRNA-seqの相関解析を行い、視神経障害の2つのマウスモデルにおいて特有のDRP活性を有する2種類のDRPを同定し、その特性を明らかにした。さらに、一方のDRPを最適化してDRP-3L2を作製した。このDRPは、未処置の正常RGCではプロモーター活性が最小限である一方、疾患RGCでは強力な神経保護遺伝子発現を誘導し、RGCが保護されて正常状態に戻ると発現が減弱する。我々の概念実証研究は、DRP媒介性の精密に制御された遺伝子治療が、中枢神経系（CNS）軸索障害に対する新規かつ有望な神経保護戦略となることを示している。"
   }
 ]
