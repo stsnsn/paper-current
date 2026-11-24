@@ -461933,5 +461933,788 @@
       "bioRxiv"
     ],
     "first_seen": "2026-11-24"
+  },
+  {
+    "id": "10.1038/s41564-026-02546-6",
+    "title": "Mycobacterium tuberculosis calls the cough",
+    "abstract": "Cough protects the airways but helps respiratory pathogens to spread. Identifying phenolic glycolipid as an additional Mycobacterium tuberculosis cell wall component that activates sensory neurons and induces cough suggests an expanded repertoire of triggers and potential targets for disrupting this response in tuberculosis.",
+    "journal": "Nature Microbiology",
+    "doi": "10.1038/s41564-026-02546-6",
+    "date": "2026-11-24",
+    "authors": "Céline Cougoule",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.nature.com/articles/s41564-026-02546-6",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.nature.com/nmicrobiol.rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5593,
+    "collected_at": "2026-11-24T21:21:51.319977+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "https://www.nature.com/nmicrobiol.rss"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1038/s41564-026-02546-6"
+    ]
+  },
+  {
+    "id": "10.1038/s41564-026-02539-5",
+    "title": "Time-resolved single-cell phenotyping identifies two major classes of antimicrobial peptides with shared principles and key trade-offs",
+    "abstract": "A time-resolved single-cell imaging pipeline reveals that, across a diverse set of antimicrobial peptides, fast kinetics are traded off with efficacy against dense bacterial populations.",
+    "journal": "Nature Microbiology",
+    "doi": "10.1038/s41564-026-02539-5",
+    "date": "2026-11-24",
+    "authors": "Christine Jacobs-Wagner",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.nature.com/articles/s41564-026-02539-5",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.nature.com/nmicrobiol.rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5594,
+    "collected_at": "2026-11-24T21:21:51.319977+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "https://www.nature.com/nmicrobiol.rss"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1038/s41564-026-02539-5"
+    ]
+  },
+  {
+    "id": "10.1038/s41564-026-02551-9",
+    "title": "A conserved oscillatory system that positions the divisome in Archaea",
+    "abstract": "The widely conserved and broadly distributed DipABC system enables precise cell division across FtsZ-employing archaea, and is an example of convergent evolution with the bacterial Min system.",
+    "journal": "Nature Microbiology",
+    "doi": "10.1038/s41564-026-02551-9",
+    "date": "2026-11-24",
+    "authors": "Sonja-Verena Albers",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.nature.com/articles/s41564-026-02551-9",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "archaea",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.nature.com/nmicrobiol.rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5595,
+    "collected_at": "2026-11-24T21:21:51.319977+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "https://www.nature.com/nmicrobiol.rss"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1038/s41564-026-02551-9"
+    ]
+  },
+  {
+    "id": "10.1038/s41564-026-02533-x",
+    "title": "Mycobacterial phenolic glycolipid triggers ATP-mediated neuronal signalling and cough",
+    "abstract": "Certain strains of Mycobacterium tuberculosis produce a phenolic glycolipid that activates sensory neurons and triggers cough through ATP signalling, revealing a potential mechanism that may promote transmission.",
+    "journal": "Nature Microbiology",
+    "doi": "10.1038/s41564-026-02533-x",
+    "date": "2026-11-24",
+    "authors": "Michael U. Shiloh",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.nature.com/articles/s41564-026-02533-x",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.nature.com/nmicrobiol.rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5596,
+    "collected_at": "2026-11-24T21:21:51.319977+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "https://www.nature.com/nmicrobiol.rss"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1038/s41564-026-02533-x"
+    ]
+  },
+  {
+    "id": "10.1038/s41564-026-02538-6",
+    "title": "Structural basis for proton-powered secretion by the bacterial flagellar export machinery",
+    "abstract": "Structural and functional analyses of the proton-dependent export apparatus that powers secretion of flagellar components in Salmonella reveal architectural similarities with rotary motors.",
+    "journal": "Nature Microbiology",
+    "doi": "10.1038/s41564-026-02538-6",
+    "date": "2026-11-24",
+    "authors": "Susan M. Lea",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.nature.com/articles/s41564-026-02538-6",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.nature.com/nmicrobiol.rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5597,
+    "collected_at": "2026-11-24T21:21:51.319977+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "https://www.nature.com/nmicrobiol.rss"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1038/s41564-026-02538-6"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.22.768462",
+    "title": "Poxvirus-induced concurrent activation of SAMD9 and ERK establishes a unique immune state with heightened IFN-I responses to danger signals",
+    "abstract": "Mammalian poxviruses must overcome the cellular restriction factor SAMD9 to establish productive infection. SAMD9 is a widely expressed cytoplasmic sensor of double-stranded nucleic acids (dsNA) that induces type-1 interferon (IFN-I) responses and possesses anticodon-nuclease activity targeting tRNAphe specifically. To counteract SAMD9, poxviruses have evolved dedicated antagonists, including myxoma virus (MYXV) M062, which blocks both dsNA sensing and tRNAphe-nuclease activity. However, the significance of tRNAphe depletion during poxvirus infection has remained unclear. Here, we showed that mammalian poxviruses exhibit an unexpected enrichment of phenylalanine within their proteomes and preferentially utilize UUU phenylalanine codon. In contrast, host interferon-stimulated genes (ISGs) have lower phenylalanine frequencies than poxviruses and instead preferentially utilize UUC codon. Together with the known preferentially translational impairment of UUU-rich transcripts following SAMD9-mediated tRNAphe depletion, these findings suggest a mechanism by which unobstructed SAMD9 disproportionally restricts poxvirus protein synthesis while preserving host antiviral protein production. Next, using an M062-deficient MYXV mutant ({Delta}M062R), we characterized the cellular consequences of unrestricted SAMD9 activation. Unlike vaccinia virus lacking the SAMD9 antagonists C7 and K1 (VACV-{Delta}C7L/K1L), {Delta}M062R infection induced robust ERK1/2 signaling and preserved cell growth despite SAMD9 activation. Meanwhile, {Delta}M062R infection sustained expression of antiviral and proinflammatory proteins while restricting viral protein synthesis. This established a unique cellular state characterized by heightened responsiveness to subsequent innate immune stimulation. These findings identify a previously unrecognized interaction between SAMD9-mediated translation control and ERK1/2 signaling that renders a buffering effect to catastrophic SAMD9-mediated translation shutdown and thus provide new insight into antiviral restriction and innate immune regulation.",
+    "journal": "",
+    "doi": "10.64898/2026.11.22.768462",
+    "date": "2026-11-24",
+    "authors": "Liu, J., Raza, T., Ma, L., Peterson, E. A., Liem, J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.22.768462v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5598,
+    "collected_at": "2026-11-24T21:21:51.319977+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.64898/2026.11.22.768462"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.22.768463",
+    "title": "Cryo-EM-based examinations of honey bee colony losses reveal structural insights into acute bee paralysis virus maturation and mechanical carriage",
+    "abstract": "Honey bee colony losses pose a complex and significant agricultural problem in the United States and Europe, which has also been linked to viruses. As opposed to a purely sequence-based approach, we used cryogenic electron microscopy (cryo-EM) as an alternative sequencing- and culture-independent diagnostic tool to investigate viral pathogens associated with colony losses in the state of Texas. By purifying a limited number of viral particles directly from degraded hive remains, we could establish the identity of acute bee paralysis virus (ABPV) at the species level without prior sequencing data at 3.1 Å resolution, reconstructed of only 443 particles. We showed that small hive beetles carry mature ABPV virions, both within their digestive tract and attached to their cuticle. We successfully utilized cryo- EM to infer active ABPV replication from honey bee carcasses by reconstructing the virion structure of immature provirions at 2.35- and 2.53 [A], respectively, even several days after the collapse, despite the degradation of negative-strand RNA intermediates. Structural characterization of these immature particles revealed that ABPV capsids assemble around a condensed genomic core with the nucleic acid gradually expanding to occupy the capsid interior, ultimately bringing the VP0 structural protein in contact with VP3, which cleaves VP0 to structural proteins VP2 and 4. Together, our findings establish cryo-EM as a complementary diagnostic approach that simultaneously enables viral identification, replication-state assessment, and structural characterization, providing unprecedented insights into the maturation process of aparaviruses, a lineage of honey bee-infecting picorna-like viruses at the forefront of colony losses.",
+    "journal": "",
+    "doi": "10.64898/2026.11.22.768463",
+    "date": "2026-11-24",
+    "authors": "Medina Duran, J. H., Penzes, J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.22.768463v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5599,
+    "collected_at": "2026-11-24T21:21:51.319977+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.64898/2026.11.22.768463"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.23.768597",
+    "title": "A 6-week all-liquid caloric restriction diet reduced abundance of some butyrate-producing bacteria while increasing abundance of mucin-degrading bacteria",
+    "abstract": "Caloric restriction diets are a common diet strategy to reduce excess weight and obesity. The diets work by lowering the number of calories or energy input below a human's normal energy expenditure creating an energy deficit. Caloric restriction diet meals can be composed of whole foods, meal replacement shakes, or a combination of the two. While the effects of these diets on human metabolism are well-known, the effects of these diets and the durability of these effects on the human gut microbiome are less well-known. The objective of this work was to investigate the effects of a 6-week all-liquid caloric restriction diet on the human gut microbiota using 16S rRNA gene amplicon sequencing to assess changes in diversity, community composition, and predicted function. We found that during the diet period beta-diversity shifts significantly away from what it was before the intervention (baseline), and returns to baseline a week after the diet. During the diet period we also observed a decrease in abundance of fiber-degrading and butyrate-producing bacteria with a simultaneous increase in abundance of mucin-degrading bacteria with a return to baseline level abundances in the post-diet period. Despite a liquid diet relatively high in carbohydrate (59% carbohydrate, 25% fat, 16% protein), predicted function analysis showed a shift in substrate preference away from dietary carbohydrates towards protein and host-glycans during the diet period. These findings suggest that despite the overall high carbohydrate content all-liquid caloric restriction diets deprive the gut microbiota of their preferred nutrient source due to the overall decline in calorie delivery which forces them to consume alternative nutrient sources like protein and host-glycans.",
+    "journal": "",
+    "doi": "10.64898/2026.11.23.768597",
+    "date": "2026-11-24",
+    "authors": "Dirks, B., Nirmalkar, K., Votruba, S., Hollstein, T., Krakoff, J., Krajmalnik-Brown, R.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.23.768597v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "bacteria",
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "16S rRNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5600,
+    "collected_at": "2026-11-24T21:21:51.319977+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.64898/2026.11.23.768597"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.17.767414",
+    "title": "Characterizing the Effects of Filtration on Microbial Diversity, Reproducibility, and Genome Recovery from Wastewater",
+    "abstract": "Filtration is widely used in wastewater microbiome workflows, but how pore size, filtration tactics, and sampled fraction shape microbial profiles across sequencing approaches remains unclear. We compared direct and sequential filtration of wastewater through 3-, 0.45-, and 0.22- micro meter filters and analyzed filter-retained and corresponding filtrates using 16S rRNA gene and ITS amplicon sequencing, shotgun metagenomics, and metatranscriptomics. Filtrates generally yielded higher microbial alpha diversity but greater between-replicate variability, whereas filters produced more reproducible bacterial DNA profiles. Fraction-dependent differences were strongest for fungal and DNA viral communities, which separated between filters and filtrates, while bacterial DNA communities were largely shared across fractions. These patterns demonstrate that pore size does not act as a strict size cutoff in wastewater for bacteria. DNA viruses were consistently enriched in filtrates, which also yielded more viral genomes. In contrast, filters yielded more bacterial metagenome-assembled genomes, but overall bacterial genome recovery was limited. Bacterial and viral metatranscriptomic profiles were comparatively variable and did not support selection of a single preferred fraction for RNA-based recovery. Direct and sequential filtration also produced distinct profiles at the same terminal pore size, indicating that filtration history influences the recovered community. Together, these results suggest that wastewater processing workflow should therefore be selected according to the intended use case.",
+    "journal": "",
+    "doi": "10.64898/2026.11.17.767414",
+    "date": "2026-11-24",
+    "authors": "Ruth, N., Daligault, H., Martinez, T., Hatch, A., Chain, P., Shakya, M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.17.767414v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "bacteria",
+        "bacterial",
+        "fungal",
+        "metagenom",
+        "metagenome",
+        "metagenomics",
+        "metatranscriptom",
+        "metatranscriptomic",
+        "metatranscriptomics",
+        "microbial",
+        "microbiome",
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "metagenom",
+          "metagenome",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5601,
+    "collected_at": "2026-11-24T21:21:51.319977+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.64898/2026.11.17.767414"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.12.766285",
+    "title": "Annotated reference genome for the Critically Endangered, paleoendemic Bermuda skink (Plestiodon longirostris)",
+    "abstract": "Skinks, one of the largest vertebrate families with over 1,500 described species, are represented by only 19 publicly available chromosome-level genome assemblies. Here, we present the first whole-genome assembly of the Bermuda skink, Plestiodon longirostris, a Critically Endangered, evolutionarily distinct, and endemic species. We conducted a de novo genome assembly using Oxford Nanopore Technology long reads, followed by reference-guided scaffolding against the five-lined skink Plestiodon fasciatus and Gilberts skink Plestiodon gilberti genomes. We generated a 1.496 Gb assembly with 2,579 scaffold contigs over 500 bp in length, a scaffold N50 of 224.1 Mb, with 98.7% Benchmarking Universal Single-Copy Orthologs (BUSCO) completeness score and 94.8% of gene annotations transferred from the P. fasciatus annotated genome. Repetitive elements comprised 48.37% of the genome, including 33.79% unclassified repeats, while 9% of transposable element sequences contained internal stop codons, consistent with other reptile genomes. Synteny analysis revealed strong conservation of macrochromosomes and gene order through the Plestiodon genus, and progressive chromosomal rearrangement with increased phylogenetic distance across the wider skink family. We also present the first mitogenome for the species. These genomic resources will further evolutionary research in the skink family and will facilitate applied conservation genomic approaches in this Critically Endangered species.",
+    "journal": "",
+    "doi": "10.64898/2026.11.12.766285",
+    "date": "2026-11-24",
+    "authors": "Greenwood, O., Burchall-Busby, K., Raynor, H., Jones-Mussenden, K., Williams, L. J., Griffiths, R. A., Outerbridge, M. E., Rouja, J.-P., Turner, H. S., Cain, B., Garcia, G. n., Jain, M. n., Weldon, C., Griffiths, S. M.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.12.766285v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "assembly",
+        "genome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "assemblies",
+          "assembly",
+          "evolution",
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5602,
+    "collected_at": "2026-11-24T21:21:51.319977+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.64898/2026.11.12.766285"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.19.767897",
+    "title": "The 'near T2T' Canton-S assembly is inconsistent with other Canton-S genomes",
+    "abstract": "Canton-S is among the most widely used Drosophila melanogaster strains, underlying substantial community infrastructure, including serving as a wild-type strain for: genetics studies; studying phenotypes, especially in behavioral studies; and complex trait mapping studies among many others. The recent 'near T2T' assembly of Canton-S (LIU et al.) is presented as delivering modern sequencing and assembly quality to the Drosophila community via this important strain. I find that this assembly is inconsistent with three other independently sequenced Canton-S genome assemblies on a magnitude comparable to differences between distinct strains, raising concerns about its genetic identity that the community should consider when choosing whether to adopt it as a resource.",
+    "journal": "",
+    "doi": "10.64898/2026.11.19.767897",
+    "date": "2026-11-24",
+    "authors": "Emerson, J. J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.19.767897v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "assembly",
+        "genome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assemblies",
+          "assembly",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5603,
+    "collected_at": "2026-11-24T21:21:51.319977+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.64898/2026.11.19.767897"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.22.768399",
+    "title": "High prevalence and diversity of nematodes associated with Europe's most destructive forest pest, revealed by off-target genomic data",
+    "abstract": "We know very little about the biotic interactions of most species on our planet, including many organisms that play a crucial role in ecosystem networks. One highly cost-effective way of reconstructing these networks is to analyse the rapidly growing collections of high-throughput sequencing datasets. In this study, we examine a large whole-genome resequencing dataset for the spruce bark beetle (Ips typographus), one of Europe's most destructive forest pests, to determine the diversity and distribution of associated organisms that such datasets can reveal. We found that from among metagenomic datasets for 312 adult beetles from across the species' European range, 69% contained small subunit ribosomal RNA (SSU rRNA) reads from other eukaryotic organisms, most often nematodes. Among 13 rRNA-reconstructed nematode species, Contortylenchus sp. and Micoletzkya sp. were the most prevalent taxa across the European populations. Frequently, nematode DNA comprised a large proportion of the sequencing libraries, suggesting a significant impact on the host. Mitochondrial genes reconstructed for many of these beetles provided additional phylogenetic resolution, although the reconstruction success varied. Overall, our results demonstrate potential for reconstructing the key biological associations using sequencing data originally generated for a different purpose, highlighting a path towards comprehensive survey of interactions likely to substantially influence the population dynamics of ecologically significant species.",
+    "journal": "",
+    "doi": "10.64898/2026.11.22.768399",
+    "date": "2026-11-24",
+    "authors": "Morales-Garcia, J., Nowak, K., Zielinski, P., Lukasik, P., Nadachowska-Brzyska, K.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.22.768399v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "genomic",
+          "metagenom",
+          "metagenomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5604,
+    "collected_at": "2026-11-24T21:21:51.319977+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.64898/2026.11.22.768399"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.19.767916",
+    "title": "Divergent immune trajectories distinguish resistance and susceptibility to bacterial leaf streak in wheat",
+    "abstract": "Bacterial leaf streak (BLS) is an increasingly important disease affecting several cereal crops. The mechanisms linking quantitative trait loci for resistance to downstream immune response against BLS in wheat remain poorly understood. Here, we developed a chromosome-scale genome assembly of the BLS resistant cultivar Boost. With de novo annotation of Boost and Timstein (susceptible cultivar) assemblies, we established a cultivar-resolved framework for dissecting BLS resistance. Both cultivars encoded highly similar immune receptor repertoires, but the major resistance locus, QBls.fcu-3B.1, comprised a divergent receptor kinase haplotype with extensive structural variations, divergent tandem receptor arrays, and constitutively elevated expression of multiple receptor kinases in the resistant cultivar. Candidate receptor kinases in Boost exhibited conserved intracellular kinase domains but substantial divergence among extracellular recognition domains relative to their syntenic homologs in Timstein. Dual reference transcriptome analyses at 24, 48, and 96 hours after inoculation (HAI) revealing contrasting immune trajectories in resistant and susceptible cultivars. Boost progressed through a focused signaling transition at 48 HAI, followed by coordinated activation of several defense modules, such as antimicrobial metabolism, cell wall reinforcement, transcriptional regulation, and immune homeostasis. In contrast, the susceptible cultivar underwent coordinated repression of these defense-related modules together with chromatin-associated transcriptional changes and induction of host transcriptional machinery during disease establishment. Our findings suggest that quantitative resistance to BLS is associated not simply with immune receptor composition, but also with constitutive immune surveillance and temporal coordination of downstream defense, providing a putative mechanistic framework linking natural genomic variations to quantitative BLS resistance in wheat.",
+    "journal": "",
+    "doi": "10.64898/2026.11.19.767916",
+    "date": "2026-11-24",
+    "authors": "Singh, J., Gudi, S., Maughan, P. J., Liu, Z., Seneviratne, S., Running, K. L. D., Acharya, K., Green, A. J., Glover, K. D., Gill, U., Faris, J., Gupta, R.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.19.767916v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "assembly",
+        "bacteria",
+        "bacterial",
+        "genome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "assemblies",
+          "assembly",
+          "genom",
+          "genome",
+          "genomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5605,
+    "collected_at": "2026-11-24T21:21:51.319977+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.64898/2026.11.19.767916"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.20.768052",
+    "title": "Diversity of Environmental and Genome-Associated Eukaryotic Circular Rep-Encoding Single-Stranded DNA Viruses",
+    "abstract": "Circular Rep-encoding single-stranded (CRESS) DNA viruses are widespread across diverse environments, yet their genomic diversity, evolutionary relationships, and associations with eukaryotic hosts remain poorly understood. Here, we investigated the evolutionary diversity of CRESS DNA viruses by integrating replication-associated protein (Rep) sequences from environmental viral metagenomes, publicly available viral references, and endogenous viral elements (EVEs) identified in fungal and algal genomes. Genome-wide screening revealed numerous EVEs distributed across diverse fungal and algal lineages, highlighting the potential historical associations between CRESS DNA viruses and eukaryotic hosts. Phylogenetic analyses revealed considerable diversity among CRESS DNA viruses, including sequences that could not be assigned to currently recognized viral families. Yet, several of these unclassified sequences formed well-supported monophyletic clades, suggesting that existing taxonomic classifications may require further revision. Furthermore, phylogenetic relationships within and among established viral families suggest that existing taxonomic boundaries may not fully capture the evolutionary diversity of these viruses. The phylogenetic placement of fungal and algal EVEs alongside environmental and reference viral sequences further provides insights into the evolutionary relationships between CRESS DNA viruses and eukaryotic genomes. Collectively, our findings expand the known evolutionary diversity of CRESS DNA viruses, identify distinct viral lineages requiring further taxonomic evaluation, and provide a framework for investigating their genomic evolution, taxonomic relationships, and associations with eukaryotic hosts.",
+    "journal": "",
+    "doi": "10.64898/2026.11.20.768052",
+    "date": "2026-11-24",
+    "authors": "Bezuidt, O. K., Schulz, F.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.20.768052v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungal",
+        "metagenom",
+        "metagenomes",
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "evolution",
+          "genom",
+          "genome",
+          "genomic",
+          "metagenom",
+          "metagenome",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5606,
+    "collected_at": "2026-11-24T21:21:51.319977+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.64898/2026.11.20.768052"
+    ]
   }
 ]
