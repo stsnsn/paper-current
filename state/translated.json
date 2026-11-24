@@ -327718,5 +327718,278 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "疾患応答性プロモーターにより、精密に制御された遺伝子治療が可能となる",
     "abstract_ja": "要旨アデノ随伴ウイルス（AAV）媒介性遺伝子治療は、さまざまな疾患の治療に大きな可能性を秘めているが、恒常的に活性な汎用プロモーターによって正常細胞および疾患細胞の双方でトランスジーンが制御不能に発現することは、潜在的な安全上のリスクとなる。疾患応答性プロモーター（DRP）を用いれば、疾患細胞においてのみ治療遺伝子の発現を誘導し、細胞が再び正常になると発現を停止させることで、制御された遺伝子治療を実現できる。我々は、正常および疾患網膜神経節細胞（RGC）のATAC-seqおよびncRNA-seqの相関解析を行い、視神経障害の2つのマウスモデルにおいて特有のDRP活性を有する2種類のDRPを同定し、その特性を明らかにした。さらに、一方のDRPを最適化してDRP-3L2を作製した。このDRPは、未処置の正常RGCではプロモーター活性が最小限である一方、疾患RGCでは強力な神経保護遺伝子発現を誘導し、RGCが保護されて正常状態に戻ると発現が減弱する。我々の概念実証研究は、DRP媒介性の精密に制御された遺伝子治療が、中枢神経系（CNS）軸索障害に対する新規かつ有望な神経保護戦略となることを示している。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.2001314",
+    "title": "Molecular typing of bedaquiline resistant Mycobacterium tuberculosis isolates from MDR-TB patients",
+    "abstract": "BackgroundTuberculosis (TB) continues to be a significant global public health issue, especially with the rise and spread of multidrug-resistant tuberculosis (MDR-TB). Bedaquiline (BDQ), a new diarylquinoline medication, has greatly improved treatment outcomes for MDR-TB. However, the growing number of cases of BDQ resistance puts its long-term effectiveness at risk. To improve treatment plans and make tuberculosis control programs stronger, it is important to know how BDQ resistance works at the molecular level. This is the first study from north Karnataka to find the incidence & mutations associated with the novel drug BDQ.Methods and resultsThis laboratory-based prospective study was performed at the Culture and Drug Susceptibility Testing (C&DST) Laboratory, KMCRI Hubli, Karnataka, India for duration of 3 years. Total of 19,895 clinical samples were evaluated from 11 districts of Karnataka. Of these, 556 (2.79%) were found to be MDR. The MGIT 960 system was used to assess the drug susceptibility of 389 MDR-TB isolates, excluding out those that were contaminated or failed to grow in subculture. Of these, 25 isolates (6.43%) exhibited phenotypic resistance to BDQ. Whole-genome sequencing (WGS) was performed on nine of 25 BDQ resistant isolates in order to determine the genetic factors that contribute to resistance. 6/9 (66%) of isolates had mutations associated with BDQ resistance, all of which were frameshift mutations in the mmpR5 (Rv0678) gene, a transcriptional regulator of the mmpL5–mmpS5 efflux pump operon. No mutations were found in the atpE or pepQ genes. Two phenotypically resistant isolates had no known resistance-associated mutations, indicating the potential existence of other resistance mechanisms. Lineage analysis showed that BDQ-resistant isolates were from Lineage 3 (Delhi/CAS), Lineage 1 (EAI), and Lineage 4 (Euro-American). Thus, indicating that BDQ resistance is not lineage-specific.ConclusionThe study demonstrate a concerning incidence of BDQ resistance among MDR-TB isolates in North Karnataka and illustrates that efflux pump deregulation, mediated by mmpR5 mutations, is the primary mechanism. The results highlight the necessity of combining phenotypic drug susceptibility testing with whole-genome sequencing for the early identification, monitoring, and efficient treatment of BDQ-resistant tuberculosis. Furthermore, improving outcomes in this high-risk category may involve addressing clinical factors like nutritional status, comorbidities, and adherence assistance.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.2001314",
+    "date": "2026-11-24",
+    "authors": "N. Geetha",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.2001314",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5564,
+    "collected_at": "2026-11-24T11:05:36.802078+00:00",
+    "collected_date": "2026-11-24",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.3389/fmicb.2026.2001314"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e9ab3df42b92c9f0d3e108ae9965e007ad3527bdaca5e6d33901f017f1c7861c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T11:48:04.768433+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "144cf10fade29064b84ec497d929d057213b8ca11bd1fe1e17dfce39eeff5505",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T11:48:04.768433+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "MDR-TB患者由来のベダキリン耐性結核菌分離株の分子型判定",
+    "abstract_ja": "背景結核（TB）は、特に多剤耐性結核（MDR-TB）の増加と拡大に伴い、依然として世界的な重大な公衆衛生上の課題となっている。新規ジアリールキノリン系薬剤であるベダキリン（BDQ）は、MDR-TBの治療成績を大幅に改善させた。しかし、BDQ耐性症例の増加により、その長期的な有効性が危ぶまれている。治療計画を改善し、結核対策プログラムを強化するためには、BDQ耐性が分子レベルでどのように作用するのかを解明することが重要である。本研究は、北カルナータカ州において、新規薬剤BDQに関連する発生率および変異を調査した初の研究である。方法および結果本前向き研究室ベースの研究は、インド・カルナータカ州KMCRI Hubliの培養・薬剤感受性試験（C&DST）研究室において、3年間にわたり実施された。カルナータカ州の11地区から計19,895検体の臨床検体が評価された。このうち556検体（2.79%）がMDRであることが判明した。汚染された検体やサブカルチャーで増殖しなかった検体を除き、389株のMDR-TB分離株の薬剤感受性評価にMGIT 960システムを用いた。このうち25株（6.43%）がBDQに対する表現型耐性を示した。耐性に寄与する遺伝的要因を特定するため、BDQ耐性分離株25株のうち9株に対して全ゲノムシーケンシング（WGS）を実施した。9株中6株（66%）にBDQ耐性に関連する変異が認められ、これらはすべて、mmpL5–mmpS5排出ポンプオペロンの転写調節因子であるmmpR5（Rv0678）遺伝子のフレームシフト変異であった。atpEまたはpepQ遺伝子に変異は認められなかった。表現型耐性を示した2株には既知の耐性関連変異が認められず、他の耐性機序が存在する可能性が示唆された。系統解析の結果、BDQ耐性分離株は系統3（Delhi/CAS）、系統1（EAI）、および系統4（Euro-American）に由来することが示された。したがって、BDQ耐性は系統特異的なものではないことが示された。結論本研究は、北カルナータカ州のMDR-TB分離株においてBDQ耐性が懸念される頻度で発生していることを実証し、mmpR5変異を介した排出ポンプの調節不全が主要な機序であることを明らかにした。本結果は、BDQ耐性結核の早期特定、モニタリング、および効率的な治療のために、表現型薬剤感受性試験と全ゲノムシーケンシングを組み合わせる必要性を強調するものである。さらに、この高リスクカテゴリーにおける治療成績の向上には、栄養状態、併存疾患、およびアドヒアランス支援といった臨床的要因への対処が含まれる可能性がある。"
+  },
+  {
+    "id": "10.1093/nar/gkag1259",
+    "title": "RNA fine-tunes KAT5 activity to shape chromatin acetylation during active transcription",
+    "abstract": "AbstractKAT5 is a prominent histone acetyltransferase that deposits acetylation on histone H4 to regulate transcription, genome stability, and cell fate decisions. Although the chromatin recruitment of KAT5 and its associated NuA4/TIP60 complex is well characterized, the molecular mechanisms that regulate its catalytic activity are still largely unknown. Here, we identify RNA as a direct and reversible modulator of KAT5 activity. Using single-end enhanced crosslinking and immunoprecipitation sequencing (seCLIP-seq), we find that KAT5 binds RNA in cells with a strong preference for GC-rich mRNA sequences enriched near transcription start sites. Unexpectedly, loss of KAT5–RNA interactions during acute transcriptional inhibition triggers rapid and pronounced promoter hyperacetylation. Biochemical and structural analyses suggest that RNA engages an RNA-sensing autoinhibitory region within the HAT domain, sterically blocking substrate access to the catalytic pocket and thereby suppressing KAT5 acetyltransferase activity. Our findings uncover nascent RNA as a reversible allosteric inhibitor of KAT5, revealing an RNA-directed feedback mechanism that modulates promoter acetylation and gene expression.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1259",
+    "date": "2026-11-24",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1259/9119057?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5578,
+    "collected_at": "2026-11-24T11:05:36.802078+00:00",
+    "collected_date": "2026-11-24",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/3091.xml"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1093/nar/gkag1259"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3312395ae9d9b6a1b381cd89ce196d186bc564154e028771e34384f30b7f8fd6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T11:48:04.768433+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f96f1bd2bac57ef6187cfb731a6ffa4607159bd7ac23375838f416c9deb073b6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T11:48:04.768433+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "RNAはKAT5活性を微調整し、活発な転写過程におけるクロマチンアセチル化を制御する。",
+    "abstract_ja": "AbstractKAT5は、ヒストンH4にアセチル化を付加することで、転写、ゲノム安定性、および細胞運命の決定を調節する主要なヒストンアセチル化酵素である。KAT5およびその関連NuA4/TIP60複合体のクロマチンへの動員については十分に解明されているが、その触媒活性を調節する分子機構は依然として大部分が不明である。本研究では、RNAがKAT5活性の直接的かつ可逆的な調節因子であることを同定した。シングルエンド増強架橋法および免疫沈降シーケンシング（seCLIP-seq）を用いて、KAT5が細胞内でRNAに結合し、転写開始部位付近に濃縮されたGCリッチなmRNA配列を強く好むことを見出した。予想外なことに、急性転写抑制時にKAT5–RNA相互作用が失われると、迅速かつ顕著なプロモーターの過アセチル化が誘発される。生化学的および構造解析により、RNAがHATドメイン内のRNA感知型自己抑制領域に結合し、基質の触媒ポケットへのアクセスを立体的に遮断することで、KAT5アセチル化酵素活性を抑制することが示唆された。本研究の知見は、新生RNAがKAT5の可逆的なアロステリック阻害因子であることを明らかにし、プロモーターのアセチル化と遺伝子発現を調節するRNA誘導性フィードバック機構を提示するものである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.2004715",
+    "title": "Microbial genetic potential for arsenic–sulfur–iron coupling in high-arsenic groundwater of the Kuitun River Basin",
+    "abstract": "Geogenic arsenic contamination of groundwater is a widespread environmental problem, yet microbial functional links among arsenic, sulfur, and iron in aquifers remain poorly resolved. We conducted an exploratory, hypothesis-generating secondary analysis of 11 groundwater metagenomes from the Kuitun River Basin, Xinjiang (six low-arsenic, LA; five high-arsenic, HA), integrating hydrogeochemical data with a targeted As-S-Fe gene set. No new sequencing data were generated. Arsenic was positively correlated with iron (r = 0.684, raw p = 0.02; FDR q = 0.053). Eight genes showed nominal abundance differences between LA and HA groups (raw p < 0.05), including the sulfur-related gene iscS, as well as ssuA, dmdC, sqr, and feoB, but none survived Benjamini-Hochberg FDR correction. No gene–environment association survived global FDR correction across 112 tests; within-factor FDR identified exploratory associations of sulfur- and iron-related genes with arsenic, dissolved oxygen, and manganese. Results were broadly consistent between TPM and CLR normalization. Species-gene and environment–gene networks identified candidate taxa-gene associations, but leave-one-out analyses indicated limited network robustness. These patterns provide a hypothesis-generating basis for future validation of As-S-Fe functional links in high-arsenic groundwater.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.2004715",
+    "date": "2026-11-24",
+    "authors": "Jinming Zhang",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.2004715",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomes",
+        "microbial"
+      ],
+      "context": {
+        "marine": [
+          "river"
+        ],
+        "genomics": [
+          "metagenom",
+          "metagenome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5565,
+    "collected_at": "2026-11-24T11:05:36.802078+00:00",
+    "collected_date": "2026-11-24",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.3389/fmicb.2026.2004715"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a1c6fdee3319fe2f95723871779efd8ff0bea579a809e400a6dbf5beb6f86c96",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T11:48:04.768433+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "44f23ad20a94c0bc56de414f624d78c56b10a75201d1628e5171e571740c01c2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T11:48:04.768433+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "クイトゥン川流域の高濃度ヒ素含有地下水におけるヒ素－硫黄－鉄カップリングの微生物遺伝的ポテンシャル",
+    "abstract_ja": "地下水の地質学的ヒ素汚染は広範な環境問題であるが、帯水層におけるヒ素、硫黄、および鉄の微生物学的機能関連性は依然として十分に解明されていない。本研究では、新疆クイトゥン川流域の地下水メタゲノム11セット（低ヒ素群LA 6セット、高ヒ素群HA 5セット）を対象に、水文地球化学データと標的としたAs-S-Fe遺伝子セットを統合した、探索的かつ仮説生成的な二次解析を実施した。新たなシーケンシングデータは得られなかった。ヒ素は鉄と正の相関を示した（r = 0.684, raw p = 0.02; FDR q = 0.053）。硫黄関連遺伝子のiscSをはじめ、ssuA、dmdC、sqr、feoBを含む8つの遺伝子において、LA群とHA群の間で名目上の存在量差が認められた（raw p < 0.05）が、ベンジャミニ・ホッホバーグFDR補正を通過した遺伝子はなかった。112回の検定にわたるグローバルFDR補正において、遺伝子と環境の関連性は認められなかった。因子内FDR解析では、硫黄および鉄関連遺伝子と、ヒ素、溶存酸素、およびマンガンとの間に探索的な関連性が認められた。結果はTPMおよびCLR正規化間で概ね一致した。種-遺伝子および環境-遺伝子ネットワークにより候補となる分類群-遺伝子関連性が同定されたが、leave-one-out解析ではネットワークの頑健性が限定的であることが示された。これらのパターンは、高ヒ素地下水におけるAs-S-Fe機能関連性の今後の検証に向けた仮説生成の基盤となるものである。"
+  },
+  {
+    "id": "10.1093/nar/gkag1247",
+    "title": "Differential co-localization analysis of multi-sample and multi-condition experiments with spatialFDA",
+    "abstract": "AbstractAdvances in spatial omics data generation have led to an explosion in new datasets that record the spatial location of transcripts and proteins. However, challenges remain in the analysis of spatial omics data. One important analysis is differential cellular co-localization (CCoL): the quantification of the clustering, or spacing, of one or more cell types across multiple conditions. Our framework spatialFDA combines methodology from spatial statistics with functional data analysis to accurately quantify and test for differences between conditions in CCoL across spatial scales. Using two simulation studies, we show that spatialFDA performs well in controlled settings. Furthermore, spatialFDA recovers known biological processes in type-1 diabetes and adds insights about the CCoL strength in space. spatialFDA is readily available as an open-source Bioconductor R package.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1247",
+    "date": "2026-11-24",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1247/9119056?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5579,
+    "collected_at": "2026-11-24T11:05:36.802078+00:00",
+    "collected_date": "2026-11-24",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/3091.xml"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1093/nar/gkag1247"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e65819842f792c4f2884df15bcc77c4b2efdb72b91b31bb31eb190525cccedf8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T11:48:04.768433+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c165ac0d46bac19ef9883edc2630b1b9e05f6e50c5dfad3b23fc112966054aa9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T11:48:04.768433+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "spatialFDAを用いた多サンプル・多条件実験における微分共局在解析",
+    "abstract_ja": "要旨空間オミクスデータ生成の進展により、転写産物やタンパク質の空間的位置を記録する新たなデータセットが急増している。しかし、空間オミクスデータの解析には依然として課題が残っている。重要な解析手法の一つに、微分細胞共局在（differential cellular co-localization: CCoL）がある。これは、複数の条件下における1つ以上の細胞種のクラスタリング、すなわち間隔を定量化するものである。我々のフレームワークであるspatialFDAは、空間統計学の手法と関数データ解析を組み合わせることで、空間スケールにわたるCCoLの条件間の差異を正確に定量化し、検証する。2つのシミュレーション研究を通じて、spatialFDAが制御された条件下で良好な性能を発揮することを示す。さらに、spatialFDAは1型糖尿病における既知の生物学的プロセスを再現し、空間的なCCoL強度に関する知見を提供する。spatialFDAは、オープンソースのBioconductor®パッケージとして容易に利用可能である。"
   }
 ]
