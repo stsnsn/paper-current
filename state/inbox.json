@@ -460129,5 +460129,540 @@
       "bioRxiv"
     ],
     "first_seen": "2026-11-24"
+  },
+  {
+    "id": "10.1093/ismejo/wrag296",
+    "title": "Salinity shapes within- and between-host infection dynamics of the oyster pathogen Vibrio aestuarianus",
+    "abstract": "AbstractEnvironmental variability plays a central role in shaping infectious disease dynamics in marine ecosystems, yet the mechanistic basis of its effects on host–pathogen interactions remains largely unresolved. Recurrent adult mortalities of the Pacific oyster (Magallana gigas) are frequently associated with Vibrio aestuarianus subsp. francensis, but the environmental drivers of outbreak dynamics remain poorly understood.Using complementary approaches spanning national surveillance, field monitoring, controlled experiments, and separate bacterial and host transcriptomic analyses, we assessed distinct aspects of the relationship between salinity and disease dynamics. Twelve years of surveillance data showed that V. aestuarianus was more frequently detected at sites classified as variable-salinity environments, while lower salinity was associated with greater oyster mortality during field monitoring in the Thau Lagoon (France). Under controlled conditions, low salinity increased oyster mortality and enhanced transmission by promoting bacterial shedding, viability and relative dominance in seawater. Transcriptomic analyses showed that low salinity induces the expression of metabolic, stress-response, and virulence-associated genes in V. aestuarianus, while high salinity primarily triggers osmotic stress adaptation. Separate transcriptomic analyses revealed that oyster haemocytes exhibited a salinity-dependent shift. Low salinity is associated with metabolically intensive processes whereas higher salinity conditions are characterized by enrichment of immune-related signalling pathways during infection. Together, these complementary datasets support salinity as an important ecological regulator of V. aestuarianus disease dynamics and identify candidate physiological processes that may contribute to the observed phenotypes. Integrating salinity into disease risk assessment may improve prediction and management of oyster mortality under increasing hydrological variability in coastal environments.",
+    "journal": "The ISME Journal",
+    "doi": "10.1093/ismejo/wrag296",
+    "date": "2026-11-24",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://academic.oup.com/ismej/advance-article/doi/10.1093/ismejo/wrag296/9121219?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Vibrio",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [
+          "marine",
+          "seawater"
+        ],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6594/advanceAccess_4179.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5583,
+    "collected_at": "2026-11-24T15:00:38.912417+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "https://academic.oup.com/rss/site_6594/advanceAccess_4179.xml"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1093/ismejo/wrag296"
+    ]
+  },
+  {
+    "id": "10.1093/ismeco/ycag342",
+    "title": "Isotopic fractionation patterns during heterotrophic nitrification by Alcaligenes faecalis",
+    "abstract": "ABSTRACTThe observation of nitrification by heterotrophic bacteria indicates that chemolithoautotrophs are not the only microorganisms with this capability, but the environmental relevance of heterotrophic nitrification remains unclear. Stable nitrogen (N) isotope ratios can reveal underlying biochemical pathways. We investigated the N isotope effects of the heterotrophic nitrifier Alcaligenes faecalis, which converted ammonium (NH4+) into hydroxylamine (20%, NH2OH), nitrite (5%, NO2-), and nitrous oxide (0.6%, N2O); the remainder of NH4+ was attributed to incorporation into biomass, confirming NH4+ assimilation as the primary consumption pathway. The net N isotope effect for total NH4+ consumption was 13.8 ± 0.4‰, which is within the reported range for bacterial NH4+ assimilation and generally lower than values reported for ammonia oxidation. Along with low-δ15N biomass, NH4+ conversion produced 15N-depleted NH2OH, NO2-, and N2O, which became progressively enriched in 15N over time as NH4+ consumption proceeded. With a time-resolved isotope-mass balance model, we estimated similar isotope effects for NH2OH and biomass formation (16.2 ± 0.6‰ and 14.5 ± 1.5‰, respectively). NO2- showed an inverse isotope effect with respect to NH2OH, its closest measured precursor, ending up as the most 15N-enriched product pool. The N2O exhibited an elevated site preference (24‰ to 38‰), indicating contributions from NH2OH decomposition and its reaction with nitric oxide. More broadly, heterotrophic nitrification may represent an underappreciated link between N assimilation and the production of reactive N intermediates and N2O with potential implications for N cycling in natural ecosystems.",
+    "journal": "ISME Communications",
+    "doi": "10.1093/ismeco/ycag342",
+    "date": "2026-11-24",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/ismecommun/advance-article/doi/10.1093/ismeco/ycag342/9121218?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6596/advanceAccess_4180.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5584,
+    "collected_at": "2026-11-24T15:00:38.912417+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "https://academic.oup.com/rss/site_6596/advanceAccess_4180.xml"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1093/ismeco/ycag342"
+    ]
+  },
+  {
+    "id": "10.1093/femsmc/xtag059",
+    "title": "Interconnection and redundant function of 7-hydroxytropolone and pyoverdine in the anti-Phytophthora activity of P. donghuensis R32",
+    "abstract": "AbstractDespite iron’s environmental abundance, its bioavailability is severely limited due to its low solubility under oxic conditions. Microorganisms have evolved high-affinity iron-chelating molecules—siderophores—to acquire this essential nutrient, a trait with significant potential for biocontrol in agriculture. While pyoverdine (PVD) produced by Pseudomonas species is extensively studied, 7-hydroxytropolone (7-HT) has only recently emerged as a siderophore of interest in this field. P. donghuensis is a species that produces both siderophores, PVD and 7-HT, and several strains exhibit broad-spectrum antagonistic activity against plant pathogens. The strain of interest in this study, P. donghuensis R32, inhibits the potato pathogen P. infestans in different developmental stages. Previous findings showed that PVD plays a minor role in anti-Phytophthora activity; however, it remained unclear whether this observation reflected functional redundancy between PVD and 7-HT. Here, we evaluated newly generated 7-HT-deficient mutants to elucidate the functional relationship between these two siderophores and their relative contribution to the anti-Phytophthora activity of the strain. In both in vitro mycelial growth assays and potato leaf disc infections, single-siderophore mutants maintained high inhibitory efficacy. In contrast, mutants impaired in both 7-HT and PVD biosynthesis exhibited a significant loss of antagonistic activity. These results demonstrate that 7-hydroxytropolone and pyoverdine function redundantly to drive the anti-Phytophthora activity of P. donghuensis R32.",
+    "journal": "FEMS Microbes",
+    "doi": "10.1093/femsmc/xtag059",
+    "date": "2026-11-24",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/femsmicrobes/advance-article/doi/10.1093/femsmc/xtag059/9121032?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Pseudomonas",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6274/advanceAccess_4057.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5585,
+    "collected_at": "2026-11-24T15:00:38.912417+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "https://academic.oup.com/rss/site_6274/advanceAccess_4057.xml"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1093/femsmc/xtag059"
+    ]
+  },
+  {
+    "id": "10.1093/bioinformatics/btag830",
+    "title": "Bridging Graph and Pairwise Learning for Gene Regulatory Network Inference from scRNA-seq Data",
+    "abstract": "AbstractMotivationGene regulatory networks (GRNs) capture the underlying interactions through which transcription factors (TFs) regulate genes. Based on gene expression data, existing GRN inference approaches generally fall into two categories: graph-based methods, which model the GRN as a whole graph, and pairwise-based methods, which decompose the GRN into individual TF–target gene pairs for modeling. However, each approach exhibits limitations that are precisely the strengths of its counterpart. Graph-based methods tend to overfit due to their reliance on a single training graph, whereas pairwise-based methods benefit from abundant TF–target training pairs. In contrast, pairwise-based methods overlook the global topological structure, which is essential for comprehensively capturing regulatory mechanisms.ResultsTo address these limitations, we propose scGPL, an end-to-end unified framework that jointly models global regulatory topology and local interactions. scGPL extracts macro-level features from the global regulatory graph and introduces a dynamic, importance-guided subgraph sampling mechanism to capture fine-grained local dependencies. By fusing global representations with subgraph-enhanced local features, our framework bridges the gap between the two paradigms, incorporating essential whole-graph topological dependencies while retaining the data abundance advantage of pairwise methods. Extensive experiments on seven benchmark datasets demonstrate that scGPL consistently achieves state-of-the-art performance, with up to 13.7% improvement over the strongest baseline, validating the effectiveness of our integrative design.Availability and implementationThe source code is maintained on GitHub (https://github.com/talent-hang/scGPL), and the datasets and versioned releases are archived at https://doi.org/10.5281/zenodo.21608485 for reproducibility.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag830",
+    "date": "2026-11-24",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag830/9121058?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "gene",
+        "inference"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5586,
+    "collected_at": "2026-11-24T15:00:38.912417+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1093/bioinformatics/btag830"
+    ]
+  },
+  {
+    "id": "10.1093/bioinformatics/btag856",
+    "title": "Fast genomic read alignment with minibwa",
+    "abstract": "AbstractMotivationBWA-MEM remains a popular short-read mapper especially for the purpose of variant calling. Several groups have accelerated this algorithm as it has been the performance bottleneck of many current workflows. However, constrained by the original design, these drop-in replacements could only achieve limited speedup. Breaking changes to BWA-MEM are required for further improvement.ResultsWe developed minibwa for aligning short and accurate long reads against a reference genome. It combines BWA-MEM variable-length seeding with minimap2 chaining and base alignment. It speeds up BWA-MEM2 further with additional prefetch for seeding, new heuristics to skip unnecessary mate rescue and reduced effort in highly repetitive regions where reads would anyway be wrongly mapped due to structural changes. Minibwa is about four times as fast as BWA-MEM and over twice as fast as BWA-MEM2 at comparable accuracy. It also natively supports directional bisulfite sequencing data to high mapping accuracy.Availability and implementationhttps://github.com/lh3/minibwa",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag856",
+    "date": "2026-11-24",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag856/9121057?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "alignment",
+        "genomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5587,
+    "collected_at": "2026-11-24T15:00:38.912417+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1093/bioinformatics/btag856"
+    ]
+  },
+  {
+    "id": "10.1093/bioinformatics/btag851",
+    "title": "SpatialMuSC: Spatial Graph-Conditioned Diffusion Refinement for Robust Spatial Multi-Omics Integration",
+    "abstract": "AbstractMotivationEmerging spatial multi-omics technologies enable the simultaneous profiling of multiple molecular layers within the same tissue section, offering new opportunities to interrogate tissue organization in its native spatial context. However, sequencing-derived spatial multi-omics data are often affected by intrinsic perturbations, such as technical noise, missing values, sparsity and measurement bias. These perturbations make existing methods that mainly use spatial graphs for neighborhood aggregation insufficient to recover continuous tissue-region structures, while unconstrained representation learning may propagate noisy associations and lead to fragmented spatial domains.ResultsWe present SpatialMuSC, a robust spatial multi-omics integration framework centering on spatial graph-conditioned diffusion refinement and perturbation-invariant fusion consistency. SpatialMuSC introduces spatial topology as conditional information into the latent diffusion process, enabling spatial adjacency to guide neighborhood aggregation, spatial structure propagation and graph-aware denoising of latent states. Perturbation-invariant fusion consistency further encourages stable multi-omic fusion under perturbed observations. We evaluate SpatialMuSC on diverse spatial multi-omics datasets across different tissues and sequencing platforms, including 10x Visium, Stereo-CITE-seq, SPOTS and spatial epigenome–transcriptome data. Across these benchmarks, SpatialMuSC consistently outperforms ten state-of-the-art methods in spatial domain identification and tissue-structure preservation. Ablation analyses confirm the contributions of graph-conditioned diffusion refinement and perturbation-invariant fusion consistency, rather than post hoc graph smoothing or graph propagation alone. In particular, SpatialMuSC effectively distinguishes adjacent tissue regions, preserves block-wise smoothness and layered architectures, and shows more stable performance in missing-observation stress tests, while hippocampal marker, enrichment, and paired RNA–ATAC analyses identify a GCL-associated neuronal program and a TTR-associated accessibility feature in a choroid plexus-enriched domain.Availability and ImplementationThe source code is available at https://github.com/CSUBioGroup/SpatialMuSC.Supplementary InformationSupplementary data are available online.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag851",
+    "date": "2026-11-23",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag851/9117701?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5588,
+    "collected_at": "2026-11-24T15:00:38.912417+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1093/bioinformatics/btag851"
+    ]
+  },
+  {
+    "id": "10.1093/bioinformatics/btag857",
+    "title": "GLAND: Resolving small and non-continuous tissue domains via a hybrid attention mechanism",
+    "abstract": "AbstractMotivationRecent advances in spatial transcriptomic technology provide unprecedented insights into tissue architecture by enabling high-throughput gene expression profiling with the corresponding spatial context. While identifying spatial domains is a prerequisite for understanding tissue heterogeneity and functional organization, current computational methods often fail to resolve non-continuous or small domains that, despite their biological significance, exhibit complex spatial distribution.ResultsWe present GLAND, a deep learning framework with a hybrid attention mechanism designed to capture multi-scale spatial dependencies. GLAND utilizes a spatial outlier detection strategy to refine the spatial graph, coupled with a hybrid encoder that simultaneously captures long-range biological similarity and localized spatial continuity. Comprehensive benchmarking across 39 slices and 7 spatial transcriptomic platforms demonstrates that GLAND achieves superior performance in identifying not only traditional continuous spatial domains but also non-continuous and small domains. Within the complex tumor microenvironment, GLAND accurately resolves non-continuous tumor regions and small lymphoid aggregates. Its learned spot embeddings bridge spatial gaps by preserving the transcriptomic identity of tumor domains across distal locations, facilitating a unified characterization of heterogeneous tissue landscapes.Availability and implementationGLAND is freely available at https://github.com/CSUBioGroup/GLAND. All data have been deposited to Zenodo at https://zenodo.org/records/18756215.Supplementary informationSupplementary data are available at Bioinformatics online.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag857",
+    "date": "2026-11-23",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag857/9117700?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5589,
+    "collected_at": "2026-11-24T15:00:38.912417+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1093/bioinformatics/btag857"
+    ]
+  },
+  {
+    "id": "10.3389/fmicb.2026.1944259",
+    "title": "Taxon-conditioned metagenomics links an omeprazole-associated MprF-family signal to Streptococcus expansion",
+    "abstract": "InroductionProton pump inhibitors (PPIs) enrich oral taxa in stool, but apparent functional shifts may arise from expansion of carrier lineages rather than within-lineage trait enrichment.MethodsWe reanalyzed 216 longitudinal stool metagenomes from 72 healthy participants, including randomized omeprazole (PPI; n = 21) and famotidine (histamine-2 receptor antagonist [H2RA]; n = 24) groups, with a probiotic-only group (n = 27) providing contextual trajectories.ResultsFive global endpoints—antibiotic resistance gene (ARG) feature richness, ARG Shannon diversity, metagenome-assembled genome (MAG)-weighted ARG, virulence-factor, and mobile-genetic-element annotation-hit densities—showed no PPI–H2RA differences at day 7 or 21 (all Benjamini–Hochberg q ≥ 0.931). A category-level MAG screen nevertheless identified a day-7 MprF-family signal, with an adjusted PPI:H2RA ratio of 3.280 (95% CI, 1.906–5.643; p = 1.78 × 10−5). Eighty-three MAGs carried MprF-family homologs, including 46 Streptococcus MAGs. Total Streptococcus abundance showed an adjusted ratio of 4.355, and conditioning on its day-7 abundance attenuated the MprF ratio to 1.270 (95% CI, 0.622–2.593; p = 0.512). Both MprF-positive and MprF-negative Streptococcus lineages increased, whereas carrier fraction, carrier-to-non-carrier ratio, and within-genus MprF density showed no evidence of enrichment. Protein-level analysis of 96 candidate records further revealed heterogeneous PF09924 phylogeny and membrane architectures rather than a single interchangeable resistance determinant.DiscussionThese findings indicate that the day-7 community MprF-family signal primarily reflected broad Streptococcus expansion involving a pre-existing carrier reservoir, rather than preferential enrichment of MprF within the genus, underscoring the importance of taxon-aware interpretation of metagenomic functional signals.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1944259",
+    "date": "2026-11-24",
+    "authors": "Bihong Zhu",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1944259",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenome",
+        "metagenome-assembled genome",
+        "metagenomes",
+        "metagenomic",
+        "metagenomics"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "genom",
+          "genome",
+          "metagenom",
+          "metagenome",
+          "metagenomic",
+          "phylogen",
+          "phylogeny"
+        ],
+        "evolution": [
+          "phylogeny"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5590,
+    "collected_at": "2026-11-24T15:00:38.912417+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.3389/fmicb.2026.1944259"
+    ]
+  },
+  {
+    "id": "10.3389/fmicb.2026.2025135",
+    "title": "Oral microbiome dysbiosis in obese patients with type 2 diabetes mellitus: a case–control study in a Chinese population",
+    "abstract": "BackgroundThe relationship between type 2 diabetes mellitus (T2DM) and oral microbiome dysbiosis remains controversial. Most previous studies used non-obese healthy controls, making it difficult to distinguish the effects of chronic hyperglycemia from those of obesity itself on the oral microbiome; comparative studies in Chinese populations that directly compare obese individuals with and without T2DM—thereby controlling for this key confounder—remain scarce. Whether oral microbial features add predictive value beyond routine clinical variables is also unclear.MethodsIn this cross-sectional case–control study, 140 obese adults from Suzhou, China (89 obese patients with T2DM and 51 obese controls, comparable in age and sex) provided saliva for 16S rRNA gene V3–V4 sequencing. We compared α- and β-diversity, genus-level community composition (centered log-ratio-transformed abundances, logistic regression adjusted for age, sex, and body weight, with Benjamini–Hochberg multiple-testing correction), LEfSe differential genera, Tax4Fun functional prediction, and co-occurrence networks. The predictive value of clinical variables, differential genera, and their combination was evaluated by nested cross-validation with in-fold feature selection.ResultsSalivary α-diversity (observed features and Shannon indices) was significantly higher in the Ob/T2DM group, whereas β-diversity and overall community structure did not differ significantly. After adjustment, six genera were significantly associated with T2DM (FDR < 0.05): Streptococcus, Rothia, Haemophilus, and Veillonella negatively, and Rikenellaceae RC9 gut group and Clostridiales bacterium feline oral taxon 148 positively. Co-occurrence network structure was similar between groups, with no T2DM-specific core genus. Random forest achieved the highest AUC (0.754) when clinical variables were combined with the differential genera, but unbiased in-fold genus selection indicated limited incremental predictive value (ΔAUC = +0.019, 95% CI − 0.091 to 0.125, p = 0.757).ConclusionAmong obese individuals, T2DM primarily altered the relative abundances of specific genera—decreased oral commensals Streptococcus, Rothia, Haemophilus, and Veillonella and enrichment of the gut-derived Rikenellaceae RC9 gut group and Clostridiales bacterium feline oral taxon 148—rather than restructuring the overall community, and the incremental predictive value of genus-level features was limited. Genus-level oral microbial features are therefore not yet sufficient as clinical biomarkers for T2DM; larger, multicenter, metagenomic, and longitudinal studies are needed to clarify their causal and translational value.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.2025135",
+    "date": "2026-11-24",
+    "authors": "Feng Chen",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.2025135",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "bacterium",
+        "metagenom",
+        "metagenomic",
+        "microbial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5591,
+    "collected_at": "2026-11-24T15:00:38.912417+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.3389/fmicb.2026.2025135"
+    ]
+  },
+  {
+    "id": "10.1038/s41467-026-79791-0",
+    "title": "EcoVAE: a generative deep learning method for global species distribution prediction",
+    "abstract": "Predicting where species live is key to protecting biodiversity. The authors present EcoVAE, a generative model that rapidly and accurately predicts global species distributions, reveals species associations, and identifies sampling gaps.",
+    "journal": "Nature Communications",
+    "doi": "10.1038/s41467-026-79791-0",
+    "date": "2026-11-24",
+    "authors": "Charles C. Davis",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.nature.com/articles/s41467-026-79791-0",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "gene",
+        "method",
+        "prediction"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "gene",
+          "method",
+          "prediction"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.nature.com/ncomms.rss",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5592,
+    "collected_at": "2026-11-24T15:00:38.912417+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "https://www.nature.com/ncomms.rss"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1038/s41467-026-79791-0"
+    ]
   }
 ]
