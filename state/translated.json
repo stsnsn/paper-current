@@ -333977,5 +333977,291 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "MYCはNRF1誘導性受容体介在性ミトファジーを介して肝細胞癌のミトコンドリア機能を抑制する",
     "abstract_ja": "MYCはミトコンドリア生合成の正準的なドライバーであるが、がんにおけるミトコンドリア恒常性での役割については依然として十分に解明されていない。本研究では、MYCが受容体介在性ミトファジーの亢進を介して、肝細胞癌（HCC）において逆説的にミトコンドリア機能を抑制することを示す。汎がんTCGA解析により、特に肝癌において、MYC活性が核内およびmtDNAコード型ミトコンドリア遺伝子の発現に不一致を示すことが明らかとなった。遺伝学的に定義されたマウスHCCモデルを用いて、b-カテニン（CTNNB1）ではなくMYCが、MYC-NRF1-FUNDC1/PGAM5/DNM1L（DRP1）転写軸を介してミトコンドリアの断片化とターンオーバーを駆動することを実証した。この軸を遺伝学的または薬理学的に阻害すると、腫瘍におけるミトファジーが減少し、酸化的リン酸化が回復するとともに、腫瘍担持マウスの生存期間が延長した。複合体Iをバイパスして電子伝達を促進する酵母NDI1を発現する腫瘍は、ミトファジーとは独立してOXPHOSを回復させ、腫瘍負荷を軽減した。我々のデータは、ミトコンドリアOXPHOSの抑制が予想外にHCC腫瘍の増殖を支持することを示しており、MYC増幅型HCC患者における新たな治療上の脆弱性として、ミトコンドリア品質管理が関与していることを示唆している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "bioRxiv",
+        "query": "details/biorxiv/2026-10-20/2026-11-10",
+        "scope": "candidate"
+      }
+    ],
+    "id": "10.1101/2025.02.20.639352",
+    "doi": "10.1101/2025.02.20.639352",
+    "title": "Inducible, virus-free direct lineage reprogramming enhances scalable generation of human inner ear hair cell-like cells",
+    "abstract": "Mammalian inner ear sensory hair cells are highly sensitive to environmental stress and do not regenerate, making hearing loss progressive and permanent. The paucity and extreme inaccessibility of these cells hinder the development of regenerative and otoprotective strategies, Direct lineage reprogramming to generate large quantities of hair cell-like cells in vitro offers a promising approach to overcome these experimental bottlenecks. Previously, we identified four transcription factors-Six1, Atoh1, Pou4f3, and Gfi1 (SAPG)-capable of converting mouse embryonic fibroblasts, adult tail tip fibroblasts, and postnatal mouse supporting cells into induced hair cell-like cells through retroviral or lentiviral transduction (Menendez et al., 2020). Here, we developed a virus-free, inducible system using a stable human induced pluripotent stem (iPS) cell line carrying doxycycline-inducible SAPG. Our inducible system significantly increases reprogramming efficiency compared to retroviral methods, achieving a ~19-fold greater conversion to a hair cell fate in half the time. Immunostaining, Western blot, and single-nucleus RNA-seq analyses confirm the expression of hair cell-specific markers and activation of hair cell gene networks in reprogrammed cells. The reprogrammed hair cells closely resemble developing fetal hair cells, as evidenced by comparison with a human fetal inner ear dataset. Electrophysiological analysis reveals that the induced hair cell-like cells exhibit diverse voltage-dependent ion currents, including robust, quick-activating, slowly inactivating currents characteristic of primary hair cells. This virus-free approach improves scalability, reproducibility, and the modeling of hair cell differentiation, offering significant potential for hair cell regenerative strategies and preclinical drug discovery targeting ototoxicity and otoprotection.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "2",
+    "published_doi": "",
+    "related_dois": [
+      "10.1101/2025.02.20.639352"
+    ],
+    "date": "2026-10-22",
+    "authors": "Rainey, R. N.; Houman, S. D.; Menendez, L.; Chang, R.; Tao, L.; Bugacov, H.; McMahon, A. P.; Kalluri, R.; Oghalai, J. S.; Groves, A. K.; Segil, N.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.1101/2025.02.20.639352v2",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5576,
+    "collected_at": "2026-11-24T21:11:07.209251+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-24",
+    "translation": {
+      "title": {
+        "hash": "071ee16e8ca0e99fc9edde35c0c9bb9bf0a5618ccd3a9b91bd7cba4084418469",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T22:03:38.948326+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1cb0076faeaa104d95ac0f055b3ca117e2eab2537998cae64de6101807809fd1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T22:03:38.948326+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "誘導性かつウイルスフリーの直接系統リプログラミングは、ヒト内耳有毛細胞様細胞のスケーラブルな作製を促進する。",
+    "abstract_ja": "哺乳類の内耳にある感覚有毛細胞は、環境ストレスに対して極めて敏感であり、再生も起こらないため、聴力喪失は進行性かつ不可逆的となる。これらの細胞の希少性と極めて高い到達困難さが、再生および耳保護戦略の開発を妨げている。in vitroで大量の有毛細胞様細胞を誘導するための直接系譜リプログラミングは、これらの実験的なボトルネックを克服するための有望なアプローチである。我々は以前、レトロウイルスまたはレンチウイルス導入を通じて、マウス胚性線維芽細胞、成体尾端線維芽細胞、および出生後のマウス支持細胞を誘導性有毛細胞様細胞へと転換可能な4つの転写因子（Six1、Atoh1、Pou4f3、およびGfi1 (SAPG)）を同定した（Menendez et al., 2020）。本研究では、ドキシサイクリン誘導性SAPGを保持する安定したヒト人工多能性幹細胞（iPS）細胞株を用いた、ウイルスフリーの誘導系を開発した。我々の誘導系は、レトロウイルス法と比較してリプログラミング効率を著しく向上させ、半分の時間で有毛細胞運命への転換率を約19倍に高めた。免疫染色、ウェスタンブロット、およびシングルヌクレウスRNA-seq解析により、リプログラミングされた細胞における有毛細胞特異的マーカーの発現および有毛細胞遺伝子ネットワークの活性化が確認された。リプログラミングされた有毛細胞は、ヒト胎児内耳データセットとの比較により、発達中の胎児有毛細胞に酷似していることが示された。電気生理学的解析により、誘導された有毛細胞様細胞は、一次有毛細胞に特徴的な強固で迅速に活性化し、緩やかに不活性化する電流を含む、多様な電位依存性イオン電流を示すことが明らかになった。このウイルスフリーのアプローチは、スケーラビリティ、再現性、および有毛細胞分化のモデリングを向上させ、有毛細胞再生戦略や、耳毒性および耳保護を標的とした前臨床段階の創薬において大きな可能性を秘めている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "bioRxiv",
+        "query": "details/biorxiv/2026-10-20/2026-11-10",
+        "scope": "candidate"
+      }
+    ],
+    "id": "10.64898/2026.03.14.711833",
+    "doi": "10.64898/2026.03.14.711833",
+    "title": "kinGEMs: A Robust and Scalable Framework for Resource-Constraint Models through Stochastic Tuning of Deep Learning-Predicted Kinetic Parameters",
+    "abstract": "The construction of accurate enzyme-constrained genome-scale models (ecGEMs) remains a critical challenge in systems biology, limited by sparse kinetic data and the need for biologically meaningful representations. This work presents an integrated framework combining CPI-Pred, a deep learning model to predict kinetic parameters (kcat) from sequence and compound embeddings, with kinGEMs, a pipeline to incorporate these uncertainty-aware parameters into ecGEMs for metabolic optimization. By leveraging representations at multiple scales, the approach captures sequence, structure, and kinetic data to enhance model generalizability and accuracy. Rigorous benchmarking demonstrates the framework's capability to predict growth rates and fluxes that are consistent with experimental observations and measured proteome fractions, reduce median flux variability by several folds, and yield better-constrained metabolic models by explicitly accounting for the uncertainty inherent in ML-predicted kinetic parameters. kinGEMs successfully generated ecGEMs for 93 models spanning a phylogenetically diverse set of organisms including Gram-negative and Gram-positive bacteria, mycobacteria, parasitic protists, fungi, and mammalian cell lines. These innovations breakdown the barrier to application of ecGEMs to non-model organisms and open new avenues for metabolic engineering and synthetic biology in more industrially relevant hosts.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "2",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.03.14.711833"
+    ],
+    "date": "2026-10-22",
+    "authors": "A. Barghout, R.; Chinas Serrano, L.; Sanchez-Lengeling, B.; Mahadevan, R.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.03.14.711833v2",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "fungi",
+        "protist",
+        "protists"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 5577,
+    "collected_at": "2026-11-24T21:11:07.209251+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-24",
+    "translation": {
+      "title": {
+        "hash": "f06a79876a4a707f95ffd46172fc078b23010c7ede766b3d47e4ecc73aba81df",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T22:03:38.948326+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "71bd7b00dea5b1d43d8d88444f65da47bb6a11bbf1a256624cfc8c410950265e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T22:03:38.948326+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "kinGEMs: 深層学習で予測した運動パラメータの確率的チューニングによるリソース制約モデル向けの頑健かつスケーラブルなフレームワーク",
+    "abstract_ja": "正確な酵素制約付きゲノムスケールモデル（ecGEMs）の構築は、限られた速度論的データと生物学的に意味のある表現の必要性という制約により、システム生物学における依然として重大な課題となっている。本研究では、配列および化合物の埋め込み表現から速度論的パラメータ（kcat）を予測する深層学習モデルであるCPI-Predと、これらの不確実性を考慮したパラメータを代謝最適化用のecGEMsに組み込むパイプラインであるkinGEMsを組み合わせた統合フレームワークを提案する。複数のスケールにおける表現を活用することで、本手法は配列、構造、および速度論的データを捕捉し、モデルの汎化性能と精度を向上させる。厳格なベンチマーク評価により、本フレームワークが、実験観察結果や測定されたプロテオーム分画と整合する増殖速度およびフラックスを予測し、フラックスの中央値変動を数倍低減させ、さらに機械学習で予測された速度論的パラメータに固有の不確実性を明示的に考慮することで、より制約の厳しい代謝モデルを生成できる能力を有することが実証された。kinGEMsは、グラム陰性菌およびグラム陽性菌、マイコバクテリア、寄生性原生生物、真菌、および哺乳類細胞株を含む、系統的に多様な生物群にわたる93のモデルに対してecGEMsの生成に成功した。これらの革新は、非モデル生物へのecGEMs適用の障壁を取り除き、より産業的に関連性の高い宿主における代謝工学および合成生物学の新たな道を切り拓くものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "bioRxiv",
+        "query": "details/biorxiv/2026-10-20/2026-11-10",
+        "scope": "candidate"
+      }
+    ],
+    "id": "10.64898/2026.10.16.759407",
+    "doi": "10.64898/2026.10.16.759407",
+    "title": "msallsearchpy: Universal Search Engine with Enhanced Performance for High-Flow Quantitative LC-MS Proteomics",
+    "abstract": "Recent studies have demonstrated that the flow rates of a few ul/min can be a more efficient alternative to nanoLC-based proteome analysis. We present a novel search engine, msallsearchpy, applicable to data acquired using all existing proteome-wide acquisition methods including DIA, DDA and MS1-only, with enhanced efficiency for higher flow rate analysis. For the data acquired using Orbitrap FTMS at the flow rates of up to 400 ul/min, msallsearchpy demonstrates significantly improved identification and quantification performance compared with the state-of-the-art DDA and DIA alternatives. As one of the striking examples, msallsearchpy provides 2000 protein identifications for the DDA data acquired for 20 ng proteomic samples and flow rate of 50 uL/min, compared with the none by popular search engines. The results provide further support to the currently floating ideas in quantitative proteomics regarding the use of high-flow rates as a more efficient alternative to nanoLC.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.10.16.759407"
+    ],
+    "date": "2026-10-22",
+    "authors": "Ivanov, M. V.; Garibova, L. A.; Emekeeva, D. D.; Postoenko, V. I.; Kazakova, E. M.; Shelepchikov, A. A.; Tretyakov, A. V.; Tarasova, I. A.; Gorshkov, M. V.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.16.759407v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "method",
+        "proteome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "method",
+          "proteome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5578,
+    "collected_at": "2026-11-24T21:11:07.209251+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-24",
+    "translation": {
+      "title": {
+        "hash": "18bc927d2c8f6c57cc7dadcdcae27b3d671ad543dcfa7dd3eafac38d037eff7f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T22:03:38.948326+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "eb1d19b99b609f83b421e8bafa52f7990d2cfaa032446fad64a29fd05ae8b8af",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T22:03:38.948326+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "msallsearchpy: 高スループット定量LC-MSプロテオミクス向けの性能向上を実現した汎用検索エンジン",
+    "abstract_ja": "近年の研究により、数μL/minの流速がナノLCベースのプロテオーム解析に代わるより効率的な手法となり得ることが示されている。本研究では、DIA、DDA、およびMS1-onlyを含む既存のあらゆるプロテオームワイド取得法を用いて得られたデータに適用可能で、より高流速解析における効率性を向上させた新規検索エンジンmsallsearchpyを提案する。Orbitrap FTMSを用いて最大400 μL/minの流速で取得したデータにおいて、msallsearchpyは、最先端のDDAおよびDIAの代替手法と比較して、同定および定量性能が著しく向上していることを示した。顕著な例として、20 ngのプロテオームサンプルを流速50 μL/minで取得しDDAで解析したデータに対し、msallsearchpyは2,000件のタンパク質同定結果を提示したのに対し、一般的な検索エンジンでは同定結果が得られなかった。これらの結果は、ナノLCに代わるより効率的な手法として高流速を用いることに関する、定量プロテオミクス分野で現在検討されている構想をさらに裏付けるものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "bioRxiv",
+        "query": "details/biorxiv/2026-10-20/2026-11-10",
+        "scope": "candidate"
+      }
+    ],
+    "id": "10.64898/2026.01.07.698308",
+    "doi": "10.64898/2026.01.07.698308",
+    "title": "msmu: a computational framework for provenance-aware mass spectrometry-based proteomics analysis",
+    "abstract": "Heterogeneous data formats and analysis pipelines in computational proteomics hinder reproducibility, interoperability, and reuse of processed data. We present msmu, an open-source Python package that implements a modular, provenance-aware pipeline for post-search processing. Within a single MuData object, msmu links representations across peptide-spectrum match, peptide, and protein levels to machine-actionable provenance that records operations, parameter choices, software versions, and the execution environment. The object's provenance log directly enables workflow replay with content-hash verification, without separately maintained scripts or provenance records. We demonstrate cross-platform reproducibility between macOS and Debian; replay reproduces the original protein inference map exactly (Jaccard indices = 1), with protein q-values and intensities agreeing to machine precision (root-mean-square deviation [≤] 2.0X10-17; maximum absolute difference [≤] 1.8X10-15). Furthermore, the same data structure supports seamless integration of proteomics with other MuData-compatible modalities. By coupling proteomics data with verifiable provenance in a single object, msmu advances FAIR-aligned reuse and multimodal interoperability.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "2",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.01.07.698308"
+    ],
+    "date": "2026-10-22",
+    "authors": "Choi, H.-W.; Lee, B.; Kang, U.-B.; Huh, S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.01.07.698308v2",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "proteomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "framework",
+          "proteomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5579,
+    "collected_at": "2026-11-24T21:11:07.209251+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-24",
+    "translation": {
+      "title": {
+        "hash": "a3609e591a3e86891dba52385ab4fa4509f1059f895ac10ec9a2c32cbf47835b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T22:03:38.948326+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "45d5d142f5d603e93aef4ea1df7898d33585e7175d42c94f51bd5eade0478c30",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T22:03:38.948326+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "msmu: プロベナンスを考慮した質量分析ベースのプロテオミクス解析のための計算フレームワーク",
+    "abstract_ja": "計算プロテオミクスにおける異種データフォーマットや解析パイプラインは、処理済みデータの再現性、相互運用性、および再利用を妨げる要因となっている。本稿では、ポストサーチ処理向けに、モジュール式でプロベナンスを考慮したパイプラインを実装したオープンソースのPythonパッケージ「msmu」を提案する。msmuは単一のMuDataオブジェクト内で、ペプチドスペクトルマッチ、ペプチド、およびタンパク質レベルにわたる表現を、操作内容、パラメータ選択、ソフトウェアバージョン、および実行環境を記録する、マシンで実行可能なプロベナンスへと紐付ける。このオブジェクトのプロベナンスログにより、別途スクリプトやプロベナンスレコードを管理することなく、コンテンツハッシュ検証を用いたワークフローのリプレイが直接的に可能となる。我々はmacOSとDebian間でのクロスプラットフォームな再現性を実証した。リプレイにより、元のタンパク質推論マップが正確に再現され（ジャカード指数 = 1）、タンパク質のq値および強度はマシン精度で一致した（二乗平均平方根偏差 [≤] 2.0X10-17、最大絶対差 [≤] 1.8X10-15）。さらに、同一のデータ構造により、プロテオミクスと他のMuData互換モダリティとのシームレスな統合が可能となる。プロテオミクスデータと検証可能なプロベナンスを単一のオブジェクトに統合することで、msmuはFAIRに準拠した再利用とマルチモーダルな相互運用性を推進する。"
   }
 ]
