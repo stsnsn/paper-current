@@ -329462,5 +329462,294 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "Alcaligenes faecalisによる従属栄養硝化における同位体分別パターン",
     "abstract_ja": "要旨 従属栄養細菌による硝化の観察は、化学合成独立栄養生物がこの能力を持つ唯一の微生物ではないことを示しているが、従属栄養硝化の環境的意義は依然として不明である。安定した窒素（N）同位体比からは、根底にある生化学的経路を明らかにすることができる。我々は、アンモニウム（NH4+）をヒドロキシルアミン（20%, NH2OH）、亜硝酸塩（5%, NO2-）、および亜酸化窒素（0.6%, N2O）に変換する従属栄養硝化菌 Alcaligenes faecalis のN同位体効果を調査した。残りのNH4+はバイオマスへの取り込みに起因するとされ、NH4+同化が主要な消費経路であることが確認された。全NH4+消費による正味のN同位体効果は13.8 ± 0.4‰であり、これは細菌によるNH4+同化で報告されている範囲内であり、一般にアンモニア酸化で報告されている値よりも低い。低δ15Nバイオマスとともに、NH4+変換により15N枯渇型のNH2OH、NO2-、およびN2Oが生成され、NH4+消費が進むにつれて時間の経過とともに15Nが漸次的に濃縮された。時間分解同位体質量収支モデルを用いて、NH2OHおよびバイオマス形成における同様の同位体効果（それぞれ16.2 ± 0.6‰および14.5 ± 1.5‰）を推定した。NO2-は、最も近い測定前駆体であるNH2OHに対して逆の同位体効果を示し、最終的に最も15Nが濃縮された生成物プールとなった。N2Oは高いサイト選好性（24‰～38‰）を示し、NH2OHの分解および一酸化窒素との反応による寄与が示唆された。より広範には、従属栄養硝化は、N同化と反応性N中間体およびN2Oの生成との間の、十分に認識されていない関連性を表している可能性があり、自然生態系におけるN循環に潜在的な影響を及ぼす可能性がある。"
+  },
+  {
+    "id": "10.1093/bioinformatics/btag856",
+    "title": "Fast genomic read alignment with minibwa",
+    "abstract": "AbstractMotivationBWA-MEM remains a popular short-read mapper especially for the purpose of variant calling. Several groups have accelerated this algorithm as it has been the performance bottleneck of many current workflows. However, constrained by the original design, these drop-in replacements could only achieve limited speedup. Breaking changes to BWA-MEM are required for further improvement.ResultsWe developed minibwa for aligning short and accurate long reads against a reference genome. It combines BWA-MEM variable-length seeding with minimap2 chaining and base alignment. It speeds up BWA-MEM2 further with additional prefetch for seeding, new heuristics to skip unnecessary mate rescue and reduced effort in highly repetitive regions where reads would anyway be wrongly mapped due to structural changes. Minibwa is about four times as fast as BWA-MEM and over twice as fast as BWA-MEM2 at comparable accuracy. It also natively supports directional bisulfite sequencing data to high mapping accuracy.Availability and implementationhttps://github.com/lh3/minibwa",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag856",
+    "date": "2026-11-24",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag856/9121057?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "alignment",
+        "genomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5587,
+    "collected_at": "2026-11-24T15:00:38.912417+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1093/bioinformatics/btag856"
+    ],
+    "translation": {
+      "title": {
+        "hash": "15254253bf59e47f7d20b4af2c5dd344c78ec15c684bb02ab2db4c500f65fab7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T15:25:14.324989+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ffd3c09a04b60b6b000b694ca96fe3d4f4231652ad655dcf7158e1ab56304baf",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T15:25:14.324989+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "minibwaによる高速なゲノムリードアライメント",
+    "abstract_ja": "概要動機BWA-MEMは、特にバリアントコールの目的において、依然として広く利用されているショートリードマッパーである。多くの現行ワークフローにおいて性能のボトルネックとなっていたため、複数の研究グループがこのアルゴリズムの高速化に取り組んできた。しかし、元の設計上の制約により、こうした直接的な置き換えでは限定的な高速化しか実現できなかった。さらなる改善には、BWA-MEMに対する破壊的変更が必要である。結果ショートかつ高精度なロングリードをリファレンスゲノムにアライメントするためのminibwaを開発した。本手法は、BWA-MEMの可変長シーディングに、minimap2のチェイニングと塩基アライメントを組み合わせたものである。シーディング用の追加プリフェッチ、不要なメイトレスキューをスキップする新たなヒューリスティック、および構造変化によりいずれにせよ誤ってマッピングされる可能性が高い高反復領域における処理負荷の軽減により、BWA-MEM2をさらに高速化した。Minibwaは、同等の精度において、BWA-MEMの約4倍、BWA-MEM2の2倍以上の速度を実現している。また、方向性ビスルフィトシーケンシングデータをネイティブにサポートし、高いマッピング精度を実現している。利用可能性と実装https://github.com/lh3/minibwa"
+  },
+  {
+    "id": "10.3389/fmicb.2026.2025135",
+    "title": "Oral microbiome dysbiosis in obese patients with type 2 diabetes mellitus: a case–control study in a Chinese population",
+    "abstract": "BackgroundThe relationship between type 2 diabetes mellitus (T2DM) and oral microbiome dysbiosis remains controversial. Most previous studies used non-obese healthy controls, making it difficult to distinguish the effects of chronic hyperglycemia from those of obesity itself on the oral microbiome; comparative studies in Chinese populations that directly compare obese individuals with and without T2DM—thereby controlling for this key confounder—remain scarce. Whether oral microbial features add predictive value beyond routine clinical variables is also unclear.MethodsIn this cross-sectional case–control study, 140 obese adults from Suzhou, China (89 obese patients with T2DM and 51 obese controls, comparable in age and sex) provided saliva for 16S rRNA gene V3–V4 sequencing. We compared α- and β-diversity, genus-level community composition (centered log-ratio-transformed abundances, logistic regression adjusted for age, sex, and body weight, with Benjamini–Hochberg multiple-testing correction), LEfSe differential genera, Tax4Fun functional prediction, and co-occurrence networks. The predictive value of clinical variables, differential genera, and their combination was evaluated by nested cross-validation with in-fold feature selection.ResultsSalivary α-diversity (observed features and Shannon indices) was significantly higher in the Ob/T2DM group, whereas β-diversity and overall community structure did not differ significantly. After adjustment, six genera were significantly associated with T2DM (FDR < 0.05): Streptococcus, Rothia, Haemophilus, and Veillonella negatively, and Rikenellaceae RC9 gut group and Clostridiales bacterium feline oral taxon 148 positively. Co-occurrence network structure was similar between groups, with no T2DM-specific core genus. Random forest achieved the highest AUC (0.754) when clinical variables were combined with the differential genera, but unbiased in-fold genus selection indicated limited incremental predictive value (ΔAUC = +0.019, 95% CI − 0.091 to 0.125, p = 0.757).ConclusionAmong obese individuals, T2DM primarily altered the relative abundances of specific genera—decreased oral commensals Streptococcus, Rothia, Haemophilus, and Veillonella and enrichment of the gut-derived Rikenellaceae RC9 gut group and Clostridiales bacterium feline oral taxon 148—rather than restructuring the overall community, and the incremental predictive value of genus-level features was limited. Genus-level oral microbial features are therefore not yet sufficient as clinical biomarkers for T2DM; larger, multicenter, metagenomic, and longitudinal studies are needed to clarify their causal and translational value.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.2025135",
+    "date": "2026-11-24",
+    "authors": "Feng Chen",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.2025135",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "bacterium",
+        "metagenom",
+        "metagenomic",
+        "microbial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5591,
+    "collected_at": "2026-11-24T15:00:38.912417+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.3389/fmicb.2026.2025135"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ec6c37e7e13878e223e27513c7946e4a06f738d3aff5835c4680804159f11bb2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T15:25:14.324989+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5c5a963df1213654ceaaf71d0a534de87ad413ed0fb7faa661aa8e80632eb272",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T15:25:14.324989+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "2型糖尿病を有する肥満患者における口腔微生物叢の乱れ：中国人集団を対象とした症例対照研究",
+    "abstract_ja": "背景2型糖尿病（T2DM）と口腔マイクロバイオームのディスバイオーシスとの関係については、依然として議論が分かれている。これまでの研究の多くは非肥満の健常対照群を対象としており、慢性高血糖の影響と肥満そのものの影響を口腔マイクロバイオームにおいて区別することは困難であった。肥満者とT2DMの有無を直接比較し、この重要な交絡因子を制御した中国人集団における比較研究は依然として少ない。また、口腔微生物学的特徴が、通常の臨床変数を超えて予測価値を持つかどうかも不明である。方法本横断的症例対照研究では、中国蘇州の肥満成人140名（T2DMを有する肥満患者89名と、年齢および性別が同等の肥満対照群51名）から、16S rRNA遺伝子V3–V4シーケンシング用の唾液を提供してもらった。α-およびβ-多様性、属レベルのコミュニティ組成（中心対数比変換後の存在量を用い、年齢、性別、体重で調整したロジスティック回帰分析を行い、Benjamini–Hochberg多重検定補正を適用）、LEfSe差次属、Tax4Fun機能予測、および共起ネットワークを比較した。臨床変数、差次属、およびそれらの組み合わせの予測価値は、in-fold特徴量選択を用いた入れ子型交差検証により評価した。結果唾液のα-多様性（観測特徴量およびShannon指数）は、Ob/T2DM群で有意に高かったが、β-多様性および全体的なコミュニティ構造に有意な差は認められなかった。調整後、6つの属がT2DMと有意に関連していた（FDR < 0.05）：Streptococcus、Rothia、Haemophilus、およびVeillonellaは負の関連を、Rikenellaceae RC9腸内群およびClostridiales bacterium feline oral taxon 148は正の関連を示した。共起ネットワーク構造は群間で同様であり、T2DM特異的なコア属は認められなかった。臨床変数と差次属を組み合わせた場合、ランダムフォレストが最高のAUC（0.754）を示したが、バイアスのないin-fold属選択では、増分予測価値は限定的であった（ΔAUC = +0.019, 95% CI − 0.091 to 0.125, p = 0.757）。結論肥満者において、T2DMはコミュニティ全体を再構築するのではなく、主に特定の属の相対存在量を変化させた（口腔常在菌であるStreptococcus、Rothia、Haemophilus、およびVeillonellaの減少、ならびに腸内由来のRikenellaceae RC9腸内群およびClostridiales bacterium feline oral taxon 148の濃縮）。したがって、属レベルの特徴量の増分予測価値は限定的であった。以上のことから、属レベルの口腔微生物学的特徴は、T2DMの臨床バイオマーカーとしてはまだ不十分であり、その因果的およびトランスレーショナルな価値を明らかにするためには、より大規模な多施設共同メタゲノム研究および縦断的研究が必要である。"
+  },
+  {
+    "id": "10.1038/s41467-026-79791-0",
+    "title": "EcoVAE: a generative deep learning method for global species distribution prediction",
+    "abstract": "Predicting where species live is key to protecting biodiversity. The authors present EcoVAE, a generative model that rapidly and accurately predicts global species distributions, reveals species associations, and identifies sampling gaps.",
+    "journal": "Nature Communications",
+    "doi": "10.1038/s41467-026-79791-0",
+    "date": "2026-11-24",
+    "authors": "Charles C. Davis",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.nature.com/articles/s41467-026-79791-0",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "gene",
+        "method",
+        "prediction"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "gene",
+          "method",
+          "prediction"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.nature.com/ncomms.rss",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5592,
+    "collected_at": "2026-11-24T15:00:38.912417+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "https://www.nature.com/ncomms.rss"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1038/s41467-026-79791-0"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9616fbc6fcd42dcb83435b94063737a15e4b8cf21d470f8ea7d0fac2a5b41095",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T15:25:14.324989+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "32e5a7196f0df3a503a73ec82847854f7caab1cd143fa7843af616f00f938cf2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T15:25:14.324989+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "EcoVAE: 全球的な種分布予測のための生成的深層学習手法",
+    "abstract_ja": "種の生息域を予測することは、生物多様性を保護する上で極めて重要である。著者らは、全球的な種の分布を迅速かつ正確に予測し、種間の関連性を明らかにするとともに、サンプリングの空白を特定する生成モデル「EcoVAE」を提案する。"
+  },
+  {
+    "id": "10.1093/ismejo/wrag296",
+    "title": "Salinity shapes within- and between-host infection dynamics of the oyster pathogen Vibrio aestuarianus",
+    "abstract": "AbstractEnvironmental variability plays a central role in shaping infectious disease dynamics in marine ecosystems, yet the mechanistic basis of its effects on host–pathogen interactions remains largely unresolved. Recurrent adult mortalities of the Pacific oyster (Magallana gigas) are frequently associated with Vibrio aestuarianus subsp. francensis, but the environmental drivers of outbreak dynamics remain poorly understood.Using complementary approaches spanning national surveillance, field monitoring, controlled experiments, and separate bacterial and host transcriptomic analyses, we assessed distinct aspects of the relationship between salinity and disease dynamics. Twelve years of surveillance data showed that V. aestuarianus was more frequently detected at sites classified as variable-salinity environments, while lower salinity was associated with greater oyster mortality during field monitoring in the Thau Lagoon (France). Under controlled conditions, low salinity increased oyster mortality and enhanced transmission by promoting bacterial shedding, viability and relative dominance in seawater. Transcriptomic analyses showed that low salinity induces the expression of metabolic, stress-response, and virulence-associated genes in V. aestuarianus, while high salinity primarily triggers osmotic stress adaptation. Separate transcriptomic analyses revealed that oyster haemocytes exhibited a salinity-dependent shift. Low salinity is associated with metabolically intensive processes whereas higher salinity conditions are characterized by enrichment of immune-related signalling pathways during infection. Together, these complementary datasets support salinity as an important ecological regulator of V. aestuarianus disease dynamics and identify candidate physiological processes that may contribute to the observed phenotypes. Integrating salinity into disease risk assessment may improve prediction and management of oyster mortality under increasing hydrological variability in coastal environments.",
+    "journal": "The ISME Journal",
+    "doi": "10.1093/ismejo/wrag296",
+    "date": "2026-11-24",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://academic.oup.com/ismej/advance-article/doi/10.1093/ismejo/wrag296/9121219?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Vibrio",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [
+          "marine",
+          "seawater"
+        ],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6594/advanceAccess_4179.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5583,
+    "collected_at": "2026-11-24T15:00:38.912417+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "https://academic.oup.com/rss/site_6594/advanceAccess_4179.xml"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1093/ismejo/wrag296"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8a916072797446f59b504b09df3d35ce97d32ca1280163d9d62b59a862339a61",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T15:25:14.324989+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8178cd40d85ec685fd62b992ee88fcc9504df3f053df059951237feaaa6056a0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T15:25:14.324989+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "塩分濃度がカキ病原菌Vibrio aestuarianusの宿主内および宿主間における感染動態に及ぼす影響",
+    "abstract_ja": "要旨環境変動は海洋生態系における感染症の動態形成において中心的な役割を果たすが、宿主－病原体相互作用に及ぼす影響の機序的基盤は依然として大部分が未解明である。太平洋牡蠣（Magallana gigas）における成体の反復的な死亡は、Vibrio aestuarianus subsp. francensisに関連して頻繁に認められるが、アウトブレイク動態の環境的駆動要因については十分に解明されていない。国家レベルのサーベイランス、フィールドモニタリング、対照実験、および細菌と宿主の個別のトランスクリプトーム解析にわたる相補的なアプローチを用い、塩分濃度と疾患動態の関係における異なる側面を評価した。12年間にわたるサーベイランスデータにより、V. aestuarianusは変動塩分環境に分類される地点でより頻繁に検出された一方、トーラグーン（フランス）でのフィールドモニタリングでは、低塩分濃度が牡蠣の死亡率の上昇と関連していることが示された。制御条件下では、低塩分濃度が細菌の脱落、生存率、および海水中での相対的優位性を促進することで、牡蠣の死亡率を上昇させ、伝播を増強させた。トランスクリプトーム解析の結果、低塩分濃度はV. aestuarianusにおいて代謝、ストレス応答、および病原性関連遺伝子の発現を誘導する一方、高塩分濃度は主に浸透圧ストレス適応を誘発することが明らかになった。個別のトランスクリプトーム解析により、牡蠣の血球に塩分濃度依存的な変化が生じることが判明した。低塩分濃度は代謝的に負荷の高いプロセスに関連しているのに対し、高塩分条件下では感染時に免疫関連シグナル伝達経路が濃縮されることが特徴である。これらの相補的なデータセットを総合すると、塩分濃度がV. aestuarianusの疾患動態における重要な生態学的調節因子であることが支持され、観察された表現型に寄与し得る候補的な生理学的プロセスが特定された。沿岸環境における水文変動の増大に伴い、疾患リスク評価に塩分濃度を組み込むことで、牡蠣の死亡率の予測および管理が改善される可能性がある。"
   }
 ]
