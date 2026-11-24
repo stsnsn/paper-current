@@ -328269,5 +328269,285 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "BGC Atlas v2: 分類学的・環境的コンテキストを備えた大規模な生合成遺伝子クラスター",
     "abstract_ja": "抄録ゲノミクスおよびメタゲノム研究により、微生物が極めて多様な二次代謝物を産生する能力を有することが明らかになっている。これらの化合物は微生物間相互作用において重要な役割を果たすとともに、医薬品やその他の有用な天然物の主要な供給源となっているが、この生合成ポテンシャルのうち実験的に特性解析されているのはごく一部に過ぎない。BGC Atlasは、生合成遺伝子クラスター（BGC）をゲノムおよび環境の文脈に位置づけることで、この大部分が未解析である多様性を探索するために開発された。本稿では、コレクションを8倍以上に拡大して予測BGC数を1,600万件以上とし、メタゲノムアセンブリからメタゲノムアセンブルドゲノム、シングルアンプリフィケーションゲノム、および分離株ゲノムへと範囲を広げたBGC Atlas v2を紹介する。本リリースでは、ほぼすべてのBGCに対する分類学的割り当て、整合化された環境メタデータ、生合成・分類・環境・地理的特性にわたるネスト検索、およびBGCがコードする遺伝子に対するタンパク質配列検索を提供している。また、その規模は、細菌および古細菌の生合成多様性のうち、どれほどが未探索のままであるかを浮き彫りにしている。パスウェイを関連するファミリー、生物体、および環境に結びつけることで、BGC Atlas v2は天然物の発見や、分類群および生態系にわたる原核生物の生合成多様性の調査を支援する。BGC Atlas v2は、https://bgc-atlas.ziemertlab.com/ にて無料で利用可能である。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1900497",
+    "title": "Global acetylome profiling reveals extensive lysine acetylation in Acinetobacter baumannii bacteriophage proteins",
+    "abstract": "Post-translational modifications (PTMs) are increasingly recognized as potential regulators of bacteriophage–host interactions, yet their functions remain largely undefined. Here, we present a proteome-wide characterization of lysine acetylation in a bacteriophage, using Acinetobacter baumannii myovirus vB_AbaM_DLP3 as a model to investigate phage protein acetylation during infection. An optimized proteomic workflow that greatly reduces chemical artifacts and improves peptide identification accuracy enabled detection of 79 acetylated proteins, representing nearly one-third (79 of 265) of the DLP3 proteome. Comparative analysis of purified virions and infected host cells revealed distinct acetylation profiles, with substantially more acetylated proteins detected during infection than in purified phage particles. Acetylation was identified in proteins involved in DNA replication, genome packaging, structural assembly, host recognition, as well as hypothetical proteins with no annotated function. Structural modeling identified conserved acetylation sites within the major capsid protein and gp32-like single-stranded DNA-binding protein that localize to structurally conserved domains in homologous bacteriophage T4 proteins. Together, these findings establish lysine acetylation as a widespread feature of the DLP3 proteome and provide the first proteome-wide characterization of phage lysine acetylation during infection. This work expands current understanding of phage post-translational modifications and provides a foundation for future studies investigating the functional roles of these modifications in phage biology.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1900497",
+    "date": "2026-11-24",
+    "authors": "Danielle L. Peters",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1900497",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteriophage",
+        "phage"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "assembly",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5568,
+    "collected_at": "2026-11-24T11:05:36.802078+00:00",
+    "collected_date": "2026-11-24",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.3389/fmicb.2026.1900497"
+    ],
+    "translation": {
+      "title": {
+        "hash": "cb26dc4f9f21d8879d75112dd776153d5e2075dec97d01c6c031d12c00dd35d5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T11:53:40.644964+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e64a0e777b59548473a0d205cb1f1d25277acd61f700dca09e79538de5c856be",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T11:53:40.644964+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "グローバルなアセチルームプロファイリングにより、Acinetobacter baumanniiバクテリオファージタンパク質における広範なリシンアセチル化が明らかになった。",
+    "abstract_ja": "翻訳後修飾（PTMs）は、バクテリオファージと宿主の相互作用の潜在的な調節因子として認識されつつあるが、その機能は依然として大部分が未解明である。本研究では、Acinetobacter baumannii myovirus vB_AbaM_DLP3をモデルとして、感染過程におけるファージタンパク質のアセチル化を調査し、バクテリオファージにおけるリシンアセチル化のプロテオーム全域にわたる特性解析を行う。化学的アーティファクトを大幅に低減し、ペプチド同定精度を向上させた最適化プロテオームワークフローにより、DLP3プロテオームのほぼ3分の1（265個中79個）に相当する79個のアセチル化タンパク質を検出した。精製ビリオンと感染宿主細胞の比較解析により、異なるアセチル化プロファイルが明らかになり、精製ファージ粒子よりも感染過程で著しく多くのアセチル化タンパク質が検出された。アセチル化は、DNA複製、ゲノムパッケージング、構造構築、宿主認識に関与するタンパク質のほか、機能がアノテーションされていない仮説上のタンパク質においても認められた。構造モデリングにより、主要なカプシドタンパク質およびgp32様一本鎖DNA結合タンパク質内に、相同なバクテリオファージT4タンパク質の構造的に保存されたドメインに局在する保存的なアセチル化部位が同定された。以上の知見を総合すると、リシンアセチル化はDLP3プロテオームの広範な特徴であることが立証され、感染過程におけるファージのリシンアセチル化の初のプロテオーム全域にわたる特性解析が得られた。本研究は、ファージの翻訳後修飾に関する現在の理解を拡張し、ファージ生物学におけるこれらの修飾の機能的役割を調査する今後の研究の基盤となるものである。"
+  },
+  {
+    "id": "10.1093/nar/gkag1154",
+    "title": "MissenseDB: proteome-wide human missense variant effect prediction database with structural context",
+    "abstract": "AbstractMissense variant-effect predictors now provide proteome-scale estimates of amino acid substitution impact, but their outputs remain distributed across independent resources and are difficult to explore jointly with protein structural and human-variation context. We present MissenseDB, a residue-centric database integrating three architecturally distinct transformer-based predictors, AlphaMissense, VESM-3B, and VESPA, across the reviewed human proteome. MissenseDB contains 10 734 339 residue positions across 19 436 canonical human proteins, with complete three-predictor coverage for 19 434 proteins. Predictor outputs are linked to 211 731 UniProt-to-structure mappings, residue-level secondary-structure and molecular-context annotations, and Pfam domain membership, together with 59 851 HUMSAVAR missense variants enriched with population allele frequencies and ClinVar annotations. Raw predictor scores are provided together with empirically calibrated probabilities referenced to a common prior, on which a single decision threshold applies; on this calibrated scale all three predictors agree on ~75%–77% of pathogenic and benign variants. An interactive interface couples protein-wide sequence tracks with three-dimensional structural visualization and provides access to the complete 19-substitution landscape at individual residues. REST endpoints support protein-, residue-, and proteome-scale retrieval, while versioned relational database snapshots and a genomic coordinate lookup table enabling direct mapping from GRCh38 VCF coordinates to UniProt residues enable reproducible bulk analysis. MissenseDB is freely accessible without registration at https://biosig.lab.uq.edu.au/missense_db.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1154",
+    "date": "2026-11-23",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1154/9113974?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "database",
+        "prediction",
+        "predictor",
+        "proteome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5549,
+    "collected_at": "2026-11-24T11:05:36.802078+00:00",
+    "collected_date": "2026-11-24",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1093/nar/gkag1154"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6285aad284515c0d8261a38f73db269bccb068b6b1b57980cb596610970e361d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T11:53:40.644964+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2e070031e7d71c9fa6d073489f9498486f9aece8c29049156cc80925f615ebb6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T11:53:40.644964+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "MissenseDB: 構造的コンテキストを備えたプロテオーム全域のヒトミスセンス変異影響予測データベース",
+    "abstract_ja": "要旨：Missenseバリアント効果予測器は、現在アミノ酸置換の影響についてプロテオームスケールの推定値を提供しているが、その出力は独立したリソースに分散したままであり、タンパク質構造やヒト変異コンテキストと共同で探索することは困難である。本稿では、レビュー対象としたヒトプロテオーム全体にわたり、アーキテクチャの異なる3つのTransformerベースの予測器（AlphaMissense、VESM-3B、VESPA）を統合した残基中心型データベース「MissenseDB」を提案する。MissenseDBは、19,436個の正準ヒトタンパク質にわたる10,734,339箇所の残基位置を収録しており、19,434個のタンパク質に対して3つの予測器による完全なカバレッジを実現している。予測器の出力は、211,731件のUniProt-構造マッピング、残基レベルの二次構造および分子コンテキストアノテーション、ならびにPfamドメイン所属に紐付けられており、さらに、集団アレル頻度とClinVarアノテーションで拡充された59,851件のHUMSAVARミスセンスバリアントが含まれている。生の予測器スコアは、共通の事前分布を参照した経験的に較正された確率とともに提供され、単一の判定閾値が適用される。この較正済みスケールにおいて、3つの予測器はすべて、病原性および良性バリアントの約75%～77%について一致している。インタラクティブなインターフェースにより、タンパク質全体の配列トラックと3次元構造可視化が連携し、個々の残基における完全な19箇所置換ランドスケープへのアクセスが可能となる。RESTエンドポイントはタンパク質、残基、およびプロテオームスケールの検索をサポートし、バージョン管理されたリレーショナルデータベースのスナップショットと、GRCh38 VCF座標からUniProt残基への直接マッピングを可能にするゲノム座標ルックアップテーブルにより、再現可能なバルク解析が可能となる。MissenseDBは、登録不要で https://biosig.lab.uq.edu.au/missense_db から無料で利用可能である。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1931418",
+    "title": "Integrated cecal microbiota and metabolome analyses reveal stage-specific microbiota–metabolite associations underlying host responses during Eimeria tenella infection in Wenchang chickens",
+    "abstract": "Eimeria tenella infection is a major cause of intestinal damage and economic losses in poultry, yet the dynamic coordination among intestinal barrier function, immune responses, and cecal microbiota at distinct stages remains to be fully resolved. In this study, we characterized the temporal dynamics of intestinal barrier function, immune responses, and the cecal microbiota and metabolome in Wenchang chickens (WCCs). Chickens were experimentally infected with E. tenella and sampled at 2, 4, and 7 days postinfection (dpi). Infection significantly reduced body weight gain and induced typical cecal lesions without mortality, with oocyst shedding peaking at 6 and 7 dpi. At 2 dpi, goblet cell density and the expression of barrier-related genes (JAM2, MUC2, ZO-2, OCLN, CLDN1) were significantly decreased. Stage-dependent remodeling of barrier genes was evident: JAM2 and CLDN1 remained suppressed, ZO-2 further decreased at 7 dpi, while OCLN partially recovered to control levels. Immune responses were dynamically regulated: sustained upregulation of interferon-γ (IFN-γ) occurred at 2 and 4 dpi, followed by suppression at 7 dpi. Interleukin-6 (IL-6) and IL-10 exhibited transient, sharp surges specifically at 4 dpi, preceding a global decline of cytokines at 7 dpi. Cecal microbiota analysis revealed stage-dependent dysbiosis, characterized by reduced alpha diversity, depletion of short-chain fatty acid-producing bacteria (Faecalibacterium, Lactobacillus), and enrichment of Escherichia–Shigella at 4 and 7 dpi. Untargeted metabolomics identified 69, 658, and 642 differentially abundant metabolites at 2, 4, and 7 dpi, respectively. Pathway enrichment showed that 2 dpi was dominated by amino acid, energy, and nucleotide metabolism; at 4 dpi, pathway diversity expanded substantially to include signal transduction and cellular processes; and at 7 dpi, both metabolic and signaling pathways remained enriched. Integrated microbiota–metabolome analysis demonstrated that associations between microbial taxa and metabolites became progressively more structured over the course of infection, paralleling the dynamics of barrier disruption and immune responses. These findings reveal stage-specific, coordinated alterations in the intestinal barrier, immunity, microbiota, and metabolism during E. tenella infection in WCCs, providing a foundation for stage-targeted intervention strategies.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1931418",
+    "date": "2026-11-24",
+    "authors": "Liang Qu",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1931418",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "bacteria",
+        "microbial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5569,
+    "collected_at": "2026-11-24T11:05:36.802078+00:00",
+    "collected_date": "2026-11-24",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.3389/fmicb.2026.1931418"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b5c6c5a34370fabac1c4db543886f5695176f2f4dfd44b2cd1533524334101b2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T11:53:40.644964+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "02a920260c56ff46b0c06ff0a490b51d708a35714b87a0d7a88a20c79c0d0b13",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T11:53:40.644964+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "盲腸微生物叢およびメタボロームの統合解析により、温昌鶏におけるEimeria tenella感染時の宿主応答の基盤となる、ステージ特異的な微生物叢－代謝物間の関連性が明らかになった。",
+    "abstract_ja": "Eimeria tenella感染は、家禽における腸管損傷および経済的損失の主要な原因であるが、異なる段階における腸管バリア機能、免疫応答、および盲腸微生物叢の動的な協調関係については、いまだ十分に解明されていない。本研究では、温昌鶏（WCC）を対象に、腸管バリア機能、免疫応答、および盲腸微生物叢とメタボロームの時間的動態を特性評価した。鶏にE. tenellaを実験的に感染させ、感染後2、4、7日（dpi）に検体を採取した。感染により体重増加が有意に抑制され、死亡を伴わずに典型的な盲腸病変が誘発され、オーシストの排出は6および7 dpiでピークに達した。2 dpiにおいて、杯細胞密度およびバリア関連遺伝子（JAM2、MUC2、ZO-2、OCLN、CLDN1）の発現が有意に低下した。バリア遺伝子の段階依存的なリモデリングが認められ、JAM2とCLDN1は抑制されたままであり、ZO-2は7 dpiでさらに減少した一方、OCLNは部分的に回復して制御レベルに達した。免疫応答は動的に調節されており、2および4 dpiでインターフェロンγ（IFN-γ）の持続的な上昇が認められ、続いて7 dpiで抑制された。インターロイキン-6（IL-6）およびIL-10は、特に4 dpiで一過性の急激な上昇を示し、その後7 dpiでサイトカインの全般的な減少に至った。盲腸微生物叢の解析により、段階依存的なディスバイオーシスが認められ、4および7 dpiにおいてα多様性の低下、短鎖脂肪酸産生菌（Faecalibacterium、Lactobacillus）の枯渇、およびEscherichia–Shigellaの濃縮が特徴的に認められた。非標的メタボロミクスにより、2、4、7 dpiでそれぞれ69、658、642種類の発現変動代謝物が同定された。パスウェイの濃縮解析では、2 dpiではアミノ酸、エネルギー、およびヌクレオチド代謝が支配的であり、4 dpiではパスウェイの多様性がシグナル伝達や細胞プロセスを含むまで大幅に拡大し、7 dpiでは代謝パスウェイとシグナル伝達パスウェイの両方が引き続き濃縮されていることが示された。微生物叢とメタボロームの統合解析により、感染の経過に伴い、微生物分類群と代謝物との関連が次第に構造化され、それがバリア機能の破綻と免疫応答の動態と並行して進行することが示された。これらの知見は、WCCにおけるE. tenella感染時の腸管バリア、免疫、微生物叢、および代謝における段階特異的かつ協調的な変化を明らかにするものであり、段階を標的とした介入戦略の基盤となるものである。"
+  },
+  {
+    "id": "10.1093/nar/gkag1206",
+    "title": "BFVD v3—the atlas of predicted viral protein structures",
+    "abstract": "AbstractThe Big Fantastic Virus Database (BFVD) v3 is the most comprehensive resource for ColabFold–AlphaFold2-predicted viral protein structures. It holds 5 776 417 structures of nearly all viral sequences in UniProt 2025_03, a 16.4-fold increase compared to the representative-only catalogs of BFVD v1 and v2. Structure prediction quality has also improved, with high-confidence predictions accounting for 75.3% of BFVD v3 entries. Contributing factors include Logan’s enormous sequence assembly, now mined for the entire BFVD v3 instead of only for shallow alignments, alongside continued prediction quality improvements. BFVD v3 covers 72.7% of International Committee on Taxonomy of Viruses virus species, 1.54-fold more than BFVD v2. With this version, the fraction of fully covered viral reference proteomes increases from 1.5% to 72.6%. BFVD v3 thus brings us closer to a structural catalog of the known virosphere and is freely available at bfvd.steineggerlab.workers.dev and bfvd.foldseek.com.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1206",
+    "date": "2026-11-23",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1206/9113973?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5550,
+    "collected_at": "2026-11-24T11:05:36.802078+00:00",
+    "collected_date": "2026-11-24",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1093/nar/gkag1206"
+    ],
+    "translation": {
+      "title": {
+        "hash": "bf153b1402ad4bef3230dc851b54bd4b918eb9e50a3d1db1a2e901dff804c151",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T11:53:40.644964+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f2411cc623c62f85350620578db5f9104c79fd8f6c71dbc8f76db0ff08448dd2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T11:53:40.644964+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "BFVD v3—予測ウイルスタンパク質構造アトラス",
+    "abstract_ja": "要旨 Big Fantastic Virus Database (BFVD) v3は、ColabFold–AlphaFold2によって予測されたウイルスタンパク質構造に関する最も包括的なリソースである。本データベースは、UniProt 2025_03におけるほぼすべてのウイルス配列の構造を5 776 417件収録しており、代表的な配列のみを収録していたBFVD v1およびv2のカタログと比較して16.4倍の増加となった。構造予測の品質も向上しており、信頼度の高い予測がBFVD v3のエントリの75.3%を占めている。寄与要因としては、浅いアライメントだけでなくBFVD v3全体を対象にマイニングされたLoganによる膨大な配列アセンブリと、継続的な予測品質の向上が挙げられる。BFVD v3は、国際ウイルス分類委員会（International Committee on Taxonomy of Viruses）のウイルス種の72.7%をカバーしており、これはBFVD v2を1.54倍上回る。このバージョンにより、完全にカバーされたウイルスリファレンスプロテオームの割合は1.5%から72.6%に上昇した。したがって、BFVD v3は既知のウイルス圏（virosphere）の構造カタログの実現に一歩近づくものであり、bfvd.steineggerlab.workers.dev および bfvd.foldseek.com で無料で利用可能である。"
   }
 ]
