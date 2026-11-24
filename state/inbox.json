@@ -455947,5 +455947,524 @@
     "related_dois": [
       "10.1038/s41522-026-01193-3"
     ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/jvi.01485-26",
+    "title": "Mutations in the nsP1 dodecamerization surface impair Semliki Forest virus RNA synthesis in mosquito cells.",
+    "abstract": "Positive-sense RNA (+ssRNA) viruses remodel host membranes to form replication organelles (ROs), a process largely driven by the oligomerization of virus-encoded membrane-binding proteins. In the case of Togaviruses, non-structural protein 1 (nsP1) assembles into dodecameric rings that serve as scaffolds bridging viral replication spherules with the host plasma membrane. However, the precise role and necessity of nsP1 oligomerization in viral replication remain incompletely understood. In this study, we employed structure-based computational modeling to design nsP1 mutants predicted to disrupt monomer-monomer interactions within the dodecamer. Molecular dynamics simulations further indicated that these mutations may impair the membrane-binding affinity of nsP1. Western blotting was performed under denatured reducing conditions, and confocal microscopy was used to assess the expression levels and subcellular localization of mutant nsP1, respectively. Mutant proteins appear to not be stably retained at the plasma membrane, instead being mislocalized to endosomal compartments. Three-component trans-replicase assays and viral challenge experiments revealed that nsP1 dodecamerization-surface mutants are deficient in their ability to support viral replication. This study highlights the critical role of nsP1 dodecamerization in Togavirus replication and proposes a potential antiviral strategy targeting oligomeric protein structures in +RNA viruses.ImportanceTogaviruses are emerging arboviruses capable of causing severe disease and sporadic outbreaks. During viral replication, viral nsP1 assembles into dodecameric rings that anchor replication organelles called spherules to host membranes; however, the functional necessity of the oligomeric organization remains poorly defined. In this study, we combined structure-based modeling, molecular dynamics simulations, and cell-based assays to investigate how mutations that are predicted to destabilize nsP1 oligomers affect viral replication. We found that these mutations reduced membrane-binding affinity, altered subcellular localization, and nsP1 harboring these mutations failed to support viral RNA replication. These findings indicate that nsP1 dodecamerization is required for its stabilization on plasma membranes. More broadly, our findings suggest that targeting the oligomerization of membrane-associated replication proteins represents a viable antiviral strategy for Togaviruses and potentially other positive-sense RNA viruses.",
+    "journal": "Journal of Virology",
+    "doi": "10.1128/jvi.01485-26",
+    "date": "2026-11-09",
+    "authors": "Xin Q, Kavil S, Konno MN, Anderson MAE, Alphey L.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43001908",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43001908",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5520,
+    "collected_at": "2026-11-24T10:55:02.039739+00:00",
+    "collected_date": "2026-11-24",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1128/jvi.01485-26"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/jvi.01451-26",
+    "title": "Outstanding scientific talent devoted to consequential problems.",
+    "abstract": "We take a moment to pause and recognize the lasting impact of Dr. Ralph S. Baric's career on virology and pandemic preparedness.",
+    "journal": "Journal of Virology",
+    "doi": "10.1128/jvi.01451-26",
+    "date": "2026-11-05",
+    "authors": "Frieman MB, Menachery VD, Alumni of the Baric lab.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42986120",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42986120",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5524,
+    "collected_at": "2026-11-24T10:55:02.039739+00:00",
+    "collected_date": "2026-11-24",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1128/jvi.01451-26"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 6",
+        "query": "(JOURNAL:\"Microbial Genomics\" OR JOURNAL:\"Microbiology\" OR JOURNAL:\"Aquatic Microbial Ecology\" OR JOURNAL:\"PNAS\" OR JOURNAL:\"PLOS Biology\" OR JOURNAL:\"PLOS Genetics\" OR JOURNAL:\"Genome Research\" OR JOURNAL:\"Genome Biology\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1099/mic.0.001792",
+    "title": "A citywide metagenomic analysis reveals surface-specific microbiome and resistome patterns in outdoor urban environments across Liverpool, UK.",
+    "abstract": "Urbanization is rapidly increasing worldwide, with increasing attention focused on its consequences for human populations. Despite the importance of outdoor urban environments for biodiversity and human wellbeing, their microbial ecology remains poorly characterized, particularly in relation to emerging microbial threats including antimicrobial resistance (AMR). Where previous studies have targeted individual urban niches, we used shotgun metagenomic sequencing to assess microbial community composition and antimicrobial resistance genes (ARGs) across five outdoor surface types at a citywide level: Touchpoints, Pathways, Soil, Refuse and Watersides. Microbial community composition differed significantly between surface types, with surface identity explaining 33.1% of variation, compared with 15.7% explained by council ward. Soil harboured the most compositionally distinct communities, whereas Touchpoints and Refuse showed greater overlap, with Pathways and Watersides occupying an intermediate position between the Touchpoint/Refuse and Soil communities. Touchpoints had significantly higher ARG abundance than Pathways, Soil and Watersides, with Refuse showing greater variability driven largely by a single high-abundance observation; following sensitivity analysis, Touchpoints were also significantly higher than Refuse. ARGs were rarely detected in Pathways, Watersides and Soil. These findings provide a citywide baseline showing that outdoor urban surfaces support distinct microbial communities and resistance profiles, with the strongest ARG signals observed on frequently contacted surfaces. This highlights the value of surface-specific metagenomic surveillance for characterizing the urban microbial and AMR landscape.",
+    "journal": "Microbiology",
+    "doi": "10.1099/mic.0.001792",
+    "date": "2026-11-01",
+    "authors": "Ackers-Johnson G, O'Ferrall AM, Holmes A, Allman E, Ambrose P, Breen A, Cutcliffe A, D'Arcy K, Goodman R, Kingdon A, McLeman A, Moyo S, Pulmones R, Rajib MD, Sharma P, Shore E, Clerkin K, Moore M, McNeil H, Roberts AP.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43038042",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13773349",
+    "pmid": "43038042",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomic",
+        "microbial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5526,
+    "collected_at": "2026-11-24T10:55:02.039739+00:00",
+    "collected_date": "2026-11-24",
+    "sources": [
+      "Europe PMC journals 6"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1099/mic.0.001792"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 6",
+        "query": "(JOURNAL:\"Microbial Genomics\" OR JOURNAL:\"Microbiology\" OR JOURNAL:\"Aquatic Microbial Ecology\" OR JOURNAL:\"PNAS\" OR JOURNAL:\"PLOS Biology\" OR JOURNAL:\"PLOS Genetics\" OR JOURNAL:\"Genome Research\" OR JOURNAL:\"Genome Biology\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1099/mic.0.001789",
+    "title": "Effects of <i>Pseudomonas aeruginosa</i> on gut microbiota and short-chain fatty acid production: insights from <i>Akkermansia muciniphila</i> and <i>Faecalibacterium prausnitzii</i>.",
+    "abstract": "Akkermansia muciniphila (Am) and Faecalibacterium prausnitzii (Fp) are prominent members of the human gut microbiota and play important roles in maintaining intestinal health. A key interaction between these micro-organisms involves metabolic cross-feeding, where colonocyte-derived mucin substrates are utilized by Am to produce acetate, which in turn supports butyrate production by Fp. Butyrate serves as a major energy source for colonocytes and contributes to the maintenance of gut barrier function. We hypothesized that this cooperative interaction may be vulnerable to disruption by opportunistic pathogens such as Pseudomonas aeruginosa (Pa). In this study, we examined the impact of Pa (PAO1 strain) on the stability of Am-Fp co-cultures and the resulting effects on short-chain fatty acid (SCFA) production using an anaerobic in vitro system. Co-cultures were exposed to (a) Pa culture filtrates (Pa CFs), (b) Pa CF mixed with non-pathogenic biotechnology microbial mixture (BMM) culture filtrate, (c) BMM CF alone or (d) media controls. Bacterial growth was monitored by OD and species-specific 16S rDNA PCR/qPCR, while total SCFAs, butyrate and mucin were quantified by ELISA. Under control conditions, mucin-supplemented co-cultures displayed stable growth and robust production of SCFAs, including butyrate. In contrast, exposure to Pa CF led to reduced growth of both organisms, with a pronounced effect on Fp, and was associated with marked decreases in SCFA and butyrate levels. Growth-normalized metabolite analysis further indicated that reductions in butyrate could not be explained solely by decreased biomass, suggesting impairment of cross-feeding function. This inhibitory effect was not alleviated by the presence of BMM during Pa CF preparation. Importantly, while mucin levels declined over time as expected, no significant difference in mucin consumption was observed following Pa CF treatment after normalization to growth. Culture filtrates from non-pathogenic micro-organisms alone had no significant impact on growth trend or metabolite production. Together, these findings show that Am-Fp cross-feeding can be reproduced in a controlled, animal-free system and that Pa-derived factors selectively disrupt this interaction, primarily affecting functional outputs such as butyrate production rather than substrate availability. This work highlights the sensitivity of gut microbial metabolic networks to opportunistic pathogens and supports the use of simplified in vitro models to study mechanisms of microbial disruption.",
+    "journal": "Microbiology",
+    "doi": "10.1099/mic.0.001789",
+    "date": "2026-11-01",
+    "authors": "Moteshareie H, Curtin K, Tayabali AF.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43038034",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13773350",
+    "pmid": "43038034",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rdna",
+        "Pseudomonas",
+        "bacteria",
+        "bacterial",
+        "micro-organisms",
+        "microbial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5527,
+    "collected_at": "2026-11-24T10:55:02.039739+00:00",
+    "collected_date": "2026-11-24",
+    "sources": [
+      "Europe PMC journals 6"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1099/mic.0.001789"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 6",
+        "query": "(JOURNAL:\"Microbial Genomics\" OR JOURNAL:\"Microbiology\" OR JOURNAL:\"Aquatic Microbial Ecology\" OR JOURNAL:\"PNAS\" OR JOURNAL:\"PLOS Biology\" OR JOURNAL:\"PLOS Genetics\" OR JOURNAL:\"Genome Research\" OR JOURNAL:\"Genome Biology\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "review-article",
+      "review",
+      "journal article"
+    ],
+    "id": "10.1099/mic.0.001765",
+    "title": "Purple reign: the outsized impact and potential of <i>Chromobacterium</i> on quorum sensing research.",
+    "abstract": "Members of the Chromobacterium genus - instantly recognizable for their vivid purple pigment - have played a disproportionately influential role in shaping quorum sensing research. The discovery that violacein production in the model species Chromobacterium subtsugae is governed by an N-acyl l-homoserine lactone (AHL)-based LuxI/LuxR signalling system ignited a wave of breakthroughs in the field. With its genetic simplicity and visually striking phenotype, Chromobacterium emerged as a powerful and accessible model, enabling sensitive detection of AHLs across diverse bacteria and opening the door to fundamental insights into signalling promiscuity, interspecies communication and the molecular logic of quorum sensing pathways. In this review, we highlight both the foundational discoveries and ongoing contributions of the Chromobacterium genus, arguing that it has been central not only to the origins of AHL-based quorum sensing research but also to the field's expansion towards increasingly sophisticated, community-level perspectives that continue to define its trajectory today - and into the future.",
+    "journal": "Microbiology",
+    "doi": "10.1099/mic.0.001765",
+    "date": "2026-11-01",
+    "authors": "Yarkosky EJ, Miranda SW, Blackwell HE, Chandler JR.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42986310",
+    "preprint": false,
+    "review": true,
+    "pmcid": "PMC13739290",
+    "pmid": "42986310",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5528,
+    "collected_at": "2026-11-24T10:55:02.039739+00:00",
+    "collected_date": "2026-11-24",
+    "sources": [
+      "Europe PMC journals 6"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1099/mic.0.001765"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 6",
+        "query": "(JOURNAL:\"Microbial Genomics\" OR JOURNAL:\"Microbiology\" OR JOURNAL:\"Aquatic Microbial Ecology\" OR JOURNAL:\"PNAS\" OR JOURNAL:\"PLOS Biology\" OR JOURNAL:\"PLOS Genetics\" OR JOURNAL:\"Genome Research\" OR JOURNAL:\"Genome Biology\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "article-commentary",
+      "comment",
+      "journal article"
+    ],
+    "id": "10.1073/pnas.2634314123",
+    "title": "Realizing environmental benefits through the diffusion of smart farming innovations.",
+    "abstract": "",
+    "journal": "PNAS",
+    "doi": "10.1073/pnas.2634314123",
+    "date": "2026-11-09",
+    "authors": "Khanna M.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43002686",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13778519",
+    "pmid": "43002686",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5530,
+    "collected_at": "2026-11-24T10:55:02.039739+00:00",
+    "collected_date": "2026-11-24",
+    "sources": [
+      "Europe PMC journals 6"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1073/pnas.2634314123"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 6",
+        "query": "(JOURNAL:\"Microbial Genomics\" OR JOURNAL:\"Microbiology\" OR JOURNAL:\"Aquatic Microbial Ecology\" OR JOURNAL:\"PNAS\" OR JOURNAL:\"PLOS Biology\" OR JOURNAL:\"PLOS Genetics\" OR JOURNAL:\"Genome Research\" OR JOURNAL:\"Genome Biology\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1073/pnas.2620731123",
+    "title": "Optimal scenario design for climate emulation.",
+    "abstract": "As deep learning for physical systems continues to grow in popularity, efforts to improve generalizability have primarily focused on designing architectures that embed physical constraints. However, for machine-learning surrogate climate models (emulators), we show that the low structural diversity in existing scenarios commonly used to generate training data places a ceiling on predictive skill. Here, we examine whether training datasets themselves can be optimized to improve generalization. We introduce a method to create datasets that produce emulators capable of generalizing to new, structurally different scenarios absent from the training data. We use a differentiable simple climate model (SCM) to calculate the sensitivity of emulator loss to perturbations in the training data, iteratively updating the training data to maximize emulator skill. For an SCM, an emulator trained on one scenario optimized in this fashion outperforms an emulator trained on six standard Scenario Model Intercomparison Project (ScenarioMIP) pathways. We achieve this higher predictive skill despite training on a smaller dataset, finding that our emulator successfully isolates distinct physical behaviors of different climate forcing agents (e.g., greenhouse gases vs. aerosols) without single-forcing runs. We then demonstrate that scenarios optimized using an SCM, when used to drive an intermediate-complexity climate model, produce a training dataset that yields a more skillful emulator than training on ScenarioMIP outputs. Our results suggest that, in the compute-constrained environment of running full-scale climate models, generating a small number of dynamically rich scenarios provides greater marginal value for emulation and characterizing system responses than expanding the suite of traditional emissions pathways.",
+    "journal": "PNAS",
+    "doi": "10.1073/pnas.2620731123",
+    "date": "2026-11-09",
+    "authors": "Womack CB, Bouabid S, Sokolov A, Salunke P, Flierl G, Eastham SD, Selin NE.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43002674",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43002674",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "gene",
+        "method"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "gene",
+          "method"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5531,
+    "collected_at": "2026-11-24T10:55:02.039739+00:00",
+    "collected_date": "2026-11-24",
+    "sources": [
+      "Europe PMC journals 6"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1073/pnas.2620731123"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 8",
+        "query": "(JOURNAL:\"Microbial Biotechnology\" OR JOURNAL:\"Extremophiles\" OR JOURNAL:\"Genome Biology and Evolution\" OR JOURNAL:\"Molecular Biology and Evolution\" OR JOURNAL:\"Molecular Ecology\" OR JOURNAL:\"Molecular Ecology Resources\" OR JOURNAL:\"Molecular Phylogenetics and Evolution\" OR JOURNAL:\"Bioinformatics Advances\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "evaluation study",
+      "journal article"
+    ],
+    "id": "10.1111/1755-0998.70233",
+    "title": "Gastro16: A Novel eDNA Metabarcoding Marker for Detecting Gastropod Diversity in Marine Environments.",
+    "abstract": "The diversity of gastropod assemblages can be used to assess changes in environmental conditions because of their close associations with other organisms, short lifespans and sensitivity to ecological shifts. Their hyper-diversity in marine environments can be partly attributed to the specialisation of the often overlooked and under-sampled cryptic and smaller gastropods, leading to an underestimation of biodiversity. This underscores the need for molecular approaches to enable more efficient detection. However, current universal metabarcoding markers may lack the specificity and resolution to evaluate exceptionally diverse groups such as gastropods. Here, we develop a short gastropod-focused metabarcoding marker 'Gastro16', a novel primer pair that targets an 84-100-bp segment within the mitochondrial 16S rRNA gene, and construct a comprehensive reference library comprising 7335 sequences representing 312 or 55% of known gastropod families. To test the marker's utility, we characterised spatial and temporal patterns of gastropod diversity through metabarcoding Gastro16 and Leray-XT (a marker based on the cytochrome c oxidase subunit I gene; COI) of environmental samples collected from 25 sites along the Norwegian coast and for 15 months from an experimental aquaculture site. Metabarcoding with Gastro16 retrieved more gastropod sequence reads and up to 11 times more gastropod molecular operational taxonomic units compared to COI. Accordingly, the new marker detected greater numbers of gastropod subclasses, orders and families than the COI marker. We present the overall taxonomic diversity of the identified gastropods and their relative occurrences and demonstrate its value for detecting contemporary gastropod diversity, with potential applications to past ecosystems remaining to be tested.",
+    "journal": "Molecular Ecology Resources",
+    "doi": "10.1111/1755-0998.70233",
+    "date": "2026-11-01",
+    "authors": "Torres AF, Moles J, Puillandre N, Buge B, Peijnenburg KTCA, Præbel K, Renema W, Todd JA, Wangensteen OS.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43036001",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13771470",
+    "pmid": "43036001",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna"
+      ],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 5532,
+    "collected_at": "2026-11-24T10:55:02.039739+00:00",
+    "collected_date": "2026-11-24",
+    "sources": [
+      "Europe PMC journals 8"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1111/1755-0998.70233"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 8",
+        "query": "(JOURNAL:\"Microbial Biotechnology\" OR JOURNAL:\"Extremophiles\" OR JOURNAL:\"Genome Biology and Evolution\" OR JOURNAL:\"Molecular Biology and Evolution\" OR JOURNAL:\"Molecular Ecology\" OR JOURNAL:\"Molecular Ecology Resources\" OR JOURNAL:\"Molecular Phylogenetics and Evolution\" OR JOURNAL:\"Bioinformatics Advances\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "in brief",
+      "in-brief"
+    ],
+    "id": "epmc:PMC:PMC13750293",
+    "title": "Highlight: Swedish Butterfly Genomes Catching Up to Population Declines",
+    "abstract": "",
+    "journal": "Genome Biology and Evolution",
+    "doi": "",
+    "date": "2026-11-01",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/PMC/PMC13750293",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13750293",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5533,
+    "collected_at": "2026-11-24T10:55:02.039739+00:00",
+    "collected_date": "2026-11-24",
+    "sources": [
+      "Europe PMC journals 8"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": []
   }
 ]
