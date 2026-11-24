@@ -331940,5 +331940,283 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "Dawnn: 一般的および希少な細胞集団を対象としたニューラルネットワークによる単一細胞差異存在量解析",
     "abstract_ja": "シングルセルトランスクリプトミクスにおける一般的な課題は、細胞状態や細胞種によって定義されることが多く、あるサンプルや条件において他の条件よりも豊富に存在する細胞集団を同定することである。しかし、既存の手法は、検出率が低いか、あるいは偽陽性率が高いという課題を抱えており、特に存在量の差が一部の細胞状態や細胞種に限定されている場合や、希少な細胞集団に起因する場合にその傾向が顕著である。本研究では、シミュレーションデータセットおよび生物学的データセットの双方において、現行のツールよりも高い精度で差次的存在量を検出できる事前学習済みニューラルネットワーク「Dawnn」を提案する。さらに、Dawnnは既報の知見を補完・拡張するとともに、肺イオン細胞のような極めて稀な細胞種を含む、一般的な細胞種および希少な細胞種の双方において、既存手法よりも局所的な差次的存在量を示す領域でより多くの細胞を同定する。これにより、差異や細胞集団の存在頻度にかかわらず、細胞集団における存在量変化の同定を進展させ、シングルセル解像度における新たな生物学的知見の獲得が期待される。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 8",
+        "query": "(JOURNAL:\"Microbial Biotechnology\" OR JOURNAL:\"Extremophiles\" OR JOURNAL:\"Genome Biology and Evolution\" OR JOURNAL:\"Molecular Biology and Evolution\" OR JOURNAL:\"Molecular Ecology\" OR JOURNAL:\"Molecular Ecology Resources\" OR JOURNAL:\"Molecular Phylogenetics and Evolution\" OR JOURNAL:\"Bioinformatics Advances\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1093/bioadv/vbag333",
+    "title": "ToxiFusion: integrating contextual and compositional sequence representations for toxic peptide prediction.",
+    "abstract": "MotivationAccurately predicting of toxic peptides from sequence information is important for peptide safety assessment and therapeutic development. However, reported performance of computational predictors can be affected by representation limitations and evaluation bias.ResultsWe present ToxiFusion, a leakage-controlled framework that integrates protein language model-derived contextual representations with interpretable sequence descriptors to predict toxic peptides. ToxiFusion combines ProtBERT embeddings with amino acid composition and dipeptide composition features using an XGBoost classifier. Preprocessing, model selection, and threshold optimization used training-derived information only. On the locked ToxTeller independent test set, ToxiFusion achieved a Matthews correlation coefficient of 0.718. External evaluation on an overlap-audited ToxIBTL cohort achieved a Matthews correlation coefficient of 0.835 after removing exact training-sequence overlaps. Ablation analyses supported incremental contributions from the representation blocks, while feature-attribution analyses showed broadly consistent patterns for contextual and compositional features across evaluation cohorts. ToxiFusion provides a reproducible framework for toxic peptide prediction and highlights the importance of leakage-controlled validation.Availability and implementationSource code, frozen model artifacts, processed data, and analysis outputs are available at https://github.com/ameneayyoubi-hub/ToxFusion.",
+    "journal": "Bioinformatics Advances",
+    "doi": "10.1093/bioadv/vbag333",
+    "date": "2026-11-04",
+    "authors": "Ayyoubi A, Khosravi MH, Khosravi A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43066507",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43066507",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "prediction",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "prediction",
+          "sequence"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5568,
+    "collected_at": "2026-11-24T21:11:07.209251+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "Europe PMC journals 8"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1093/bioadv/vbag333"
+    ],
+    "translation": {
+      "title": {
+        "hash": "34ada89d984de9abadc14303e06f64a914c05a3f3f942591707bbcbb059324b6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T21:43:30.489618+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "fdf8125b0e3b3062bfcaf6a1bf9d070fdcf50b3793115eca5a698ddda6d09bf6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T21:43:30.489618+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ToxiFusion: 毒性ペプチド予測に向けた文脈的・構成的系列表現の統合",
+    "abstract_ja": "動機配列情報から毒性ペプチドを正確に予測することは、ペプチドの安全性評価および治療薬開発において重要である。しかし、計算機予測器の報告されている性能は、表現の限界や評価バイアスの影響を受ける可能性がある。結果タンパク質言語モデルから導出された文脈表現と、解釈可能な配列記述子を統合して毒性ペプチドを予測する、リーク制御型フレームワーク「ToxiFusion」を提案する。ToxiFusionは、ProtBERT埋め込み表現を、XGBoost分類器を用いてアミノ酸組成およびジペプチド組成の特徴量と組み合わせる。前処理、モデル選択、および閾値の最適化には、訓練データ由来の情報のみを使用した。ロックされたToxTeller独立テストセットにおいて、ToxiFusionは0.718のMatthews相関係数を達成した。オーバーラップ監査済みのToxIBTLコホートを用いた外部評価では、訓練配列の厳密なオーバーラップを除去した後、0.835のMatthews相関係数が得られた。アブレーション解析により、表現ブロックによる漸進的な寄与が裏付けられ、特徴量寄与度解析では、評価コホート間で文脈特徴量および組成特徴量について概ね一貫したパターンが示された。ToxiFusionは、毒性ペプチド予測のための再現可能なフレームワークを提供し、リーク制御型検証の重要性を強調するものである。利用可能性と実装ソースコード、凍結済みモデルアーティファクト、処理済みデータ、および解析出力は、https://github.com/ameneayyoubi-hub/ToxFusion で公開されている。"
+  },
+  {
+    "id": "10.1038/s41564-026-02546-6",
+    "title": "Mycobacterium tuberculosis calls the cough",
+    "abstract": "Cough protects the airways but helps respiratory pathogens to spread. Identifying phenolic glycolipid as an additional Mycobacterium tuberculosis cell wall component that activates sensory neurons and induces cough suggests an expanded repertoire of triggers and potential targets for disrupting this response in tuberculosis.",
+    "journal": "Nature Microbiology",
+    "doi": "10.1038/s41564-026-02546-6",
+    "date": "2026-11-24",
+    "authors": "Céline Cougoule",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.nature.com/articles/s41564-026-02546-6",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.nature.com/nmicrobiol.rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5593,
+    "collected_at": "2026-11-24T21:21:51.319977+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "https://www.nature.com/nmicrobiol.rss"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1038/s41564-026-02546-6"
+    ],
+    "translation": {
+      "title": {
+        "hash": "592033cd6ec7bba6d98ffb1cbb78471c8410f971b5859d8c25e15fec7f75eea1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T21:43:30.489618+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "49400ad306aee6070634d5f1e077a85724ef4c273f49e914cae5494fab2adc28",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T21:43:30.489618+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "結核菌は咳を誘発する。",
+    "abstract_ja": "咳嗽は気道を保護する一方で、呼吸器病原体の拡散を助長する。フェノール性糖脂質が、感覚ニューロンを活性化し咳嗽を誘発する結核菌細胞壁の追加成分として同定されたことは、結核におけるこの反応を阻害するためのトリガーおよび潜在的な標的のレパートリーが拡大したことを示唆している。"
+  },
+  {
+    "id": "10.1038/s41564-026-02539-5",
+    "title": "Time-resolved single-cell phenotyping identifies two major classes of antimicrobial peptides with shared principles and key trade-offs",
+    "abstract": "A time-resolved single-cell imaging pipeline reveals that, across a diverse set of antimicrobial peptides, fast kinetics are traded off with efficacy against dense bacterial populations.",
+    "journal": "Nature Microbiology",
+    "doi": "10.1038/s41564-026-02539-5",
+    "date": "2026-11-24",
+    "authors": "Christine Jacobs-Wagner",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.nature.com/articles/s41564-026-02539-5",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.nature.com/nmicrobiol.rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5594,
+    "collected_at": "2026-11-24T21:21:51.319977+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "https://www.nature.com/nmicrobiol.rss"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1038/s41564-026-02539-5"
+    ],
+    "translation": {
+      "title": {
+        "hash": "371b9bc4981194c1efb8dbbf441ab8e9cc20e6caa0119befe62760eb4c5ff4b3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T21:43:30.489618+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "577299e9244eb46bc88d7bc7bfe72b76aa4d989acb98dbedc6f1ae10154fd9b2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T21:43:30.489618+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "時間分解単一細胞フェノタイピングにより、共通の原理と主要なトレードオフを有する2つの主要な抗微生物ペプチドクラスが同定された。",
+    "abstract_ja": "時間分解単一細胞イメージングパイプラインにより、多様な抗菌ペプチド群において、高速な動態と高密度の細菌集団に対する有効性がトレードオフの関係にあることが明らかになった。"
+  },
+  {
+    "id": "10.1038/s41564-026-02551-9",
+    "title": "A conserved oscillatory system that positions the divisome in Archaea",
+    "abstract": "The widely conserved and broadly distributed DipABC system enables precise cell division across FtsZ-employing archaea, and is an example of convergent evolution with the bacterial Min system.",
+    "journal": "Nature Microbiology",
+    "doi": "10.1038/s41564-026-02551-9",
+    "date": "2026-11-24",
+    "authors": "Sonja-Verena Albers",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.nature.com/articles/s41564-026-02551-9",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "archaea",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.nature.com/nmicrobiol.rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5595,
+    "collected_at": "2026-11-24T21:21:51.319977+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "https://www.nature.com/nmicrobiol.rss"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1038/s41564-026-02551-9"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e9e40d48980beea44affb820f1d0339c86d7655469a0318dc3c68b76f8eee210",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T21:43:30.489618+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7c3b0f08f674f037b4bb745860824de0411af099b17d592902bd9b8504c71448",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T21:43:30.489618+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "古細菌において二倍体の位置を決定する保存された振動系",
+    "abstract_ja": "広く保存され、広範に分布するDipABCシステムは、FtsZを利用する古細菌において精密な細胞分裂を可能にするとともに、細菌のMinシステムとの収斂進化の一例となっている。"
   }
 ]
