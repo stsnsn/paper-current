@@ -331198,5 +331198,305 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "凍結タンパク質言語モデル（ESM2）と構造由来残基事前分布を用いた、HER2上のVHHナノボディエピトープおよびパラトープの配列のみによる予測",
     "abstract_ja": "抗体がどの抗原残基に接触するか（エピトープ）、およびどの抗体残基が接触するか（パラトープ）をマッピングすることは、治療用抗体工学の中核をなすが、最も精度の高い手法の多くは、解明済みまたは予測済みの三次元複合体を必要とする。本研究では、配列のみを用いた定式化に取り組む。すなわち、いかなる段階においても三次元構造の予測を行わず、2つの配列のみからHER2エピトープとシングルドメイン抗体（VHH、またはナノボディ）のパラトープを予測する。我々は、厳密に特徴量抽出器として用いられる凍結済みのESM2 650Mタンパク質言語モデルを、チェーンエンコーダ用の軽量な学習可能モジュール、共有クロスアテンションブロック、およびエピトープ、パラトープ、バインダーヘッド（12.2Mの学習可能パラメータ）と組み合わせ、これらを3つの公開ソース（SPIQ 2026の主催者が公開予定のHER2結合およびブロッキング競合アッセイ「AVIDa hHER2」、著者らは本データセットを公開する権利を有しない）、残基レベルの抗体-抗原接触（SAbDab2）、および2つの参照抗体結晶構造を用いて共同で学習させた。ブロッキング競合シグナルは、HER2ドメインを符号化する符号を持つトラスツズマブマイナスペルツズマブのコントラストへとデコンファウンドされ、これは学習ターゲットとしてのみ使用され、モデル入力としては決して使用されない。テストセットを一度だけ開封した3者間の配列クラスターレベルの分割において、バインダーヘッドはPR AUC 0.999、パラトープヘッドは0.659に達した一方、新規抗原に対する残基レベルのエピトープ予測はベースライン（0.070）に近いままであり、この制限は封印された分割によって隠されるのではなくむしろ露呈するものである。配列のみの手法では、ホールドアウトしたクローンの87.7%において競合由来のHER2ドメイン（競合クラス）を復元でき、リークのない結果が得られた。HER2に特化しては、25個のマイニング済みHER2抗体複合体から構築し、leave-one-out法で検証した残基プライマーを用い、ドメインが正しければ0.26～0.29の残基PR AUCに達し、これは言語モデルヘッドのみの場合の約3.6倍となる。我々は、テストクローンごとに2つの提出バリアント（完全配列のみによる予測と、競合情報を考慮した予測）を公開・報告し、どのデータがどこで使用されたかを文書化する。キーワード：エピトープ予測；パラトープ予測；ナノボディ；VHH；HER2；タンパク質言語モデル；ESM2；クロスアテンション；抗体-抗原界面；リークセーフ評価。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "bioRxiv",
+        "query": "details/biorxiv/2026-10-20/2026-11-10",
+        "scope": "candidate"
+      }
+    ],
+    "id": "10.64898/2026.07.15.738633",
+    "doi": "10.64898/2026.07.15.738633",
+    "title": "Open and Hybridized: The Topology of Chloroplast Barrel Proteins",
+    "abstract": "Despite their central role in metabolite exchange, lipid trafficking, and protein import, chloroplast outer envelope beta-barrel proteins lack a dedicated comprehensive sequence database spanning many plant proteomes. Here we present the database COB (chloroplast outer-envelope beta-barrel), consisting of 16,586 beta-barrel sequences which we organize across ten protein categories and an uncharacterized group. COB was constructed using a machine learning classifier that identifies chloroplast beta-barrels based on features derived from evolutionary protein contact maps. Analysis of COB reveals that Streptophyta have more barrels overall and use a greater variety of solute transporters than Chlorophyta. Furthermore, we find considerable structural diversity across OEP categories, including variation in beta-strand count and a high prevalence of open barrel conformations not observed in bacterial outer membrane proteins. Structure predictions for Arabidopsis thaliana outer envelope proteins identified candidate hybrid barrel assemblies, with TOC159 family members emerging as universal interaction partners. We also report single-chain multi-barrel domain architectures in the chloroplast outer envelope, a topology previously described only in Gram-negative bacteria. Finally, we find chloroplast membrane barrels have more open topologies and shorter strands than bacterial membrane barrels. COB provides a comprehensive sequence resource for chloroplast outer envelope beta-barrels and establishes a foundation for investigating the evolution, structure, and function of the chloroplast outer envelope.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "2",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.07.15.738633"
+    ],
+    "date": "2026-10-21",
+    "authors": "Proctor, E.; Montezano, D.; Copeland, M. M.; Slusky, J. S. G.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.07.15.738633v2",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "database",
+        "protein",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assemblies",
+          "evolution"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 5553,
+    "collected_at": "2026-11-24T14:50:01.882069+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-24",
+    "translation": {
+      "title": {
+        "hash": "f65bcefde578a74b890e5a03f2cc65e2541cef4955a2fdb517b22e26641d2ec9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T15:42:17.955464+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "74f6a98c8de37940f70cf73d38d79c83a1e5c60a9aeb4b8f94b8cb112651c499",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T15:42:17.955464+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "オープンかつハイブリッド化：葉緑体バレルタンパク質のトポロジー",
+    "abstract_ja": "葉緑体の外被βバレルタンパク質は、代謝産物交換、脂質輸送、およびタンパク質取り込みにおいて中心的な役割を担っているにもかかわらず、多くの植物プロテオームを網羅する専用の包括的な配列データベースが存在しない。本研究では、16,586個のβバレル配列からなり、これらを10のタンパク質カテゴリーと未特性化グループに分類して整理したデータベースCOB（chloroplast outer-envelope beta-barrel）を提示する。COBは、進化的なタンパク質接触マップから得られた特徴に基づいて葉緑体βバレルを同定する機械学習分類器を用いて構築された。COBの解析により、ストレプトフィタ類はクロロフィタ類よりも全体としてバレル数が多く、より多様な溶質輸送体を利用していることが明らかになった。さらに、OEPカテゴリー間において顕著な構造的多様性が認められ、βストランド数の変動や、細菌の外膜タンパク質では観察されないオープンバレル構造の高い頻度が確認された。シロイヌナズナの外被タンパク質の構造予測では、候補となるハイブリッドバレルアセンブリが同定され、TOC159ファミリーメンバーが普遍的な相互作用パートナーとして浮上した。また、葉緑体外被におけるシングルチェーン・マルチバレルドメイン構造についても報告するが、これはこれまでグラム陰性菌においてのみ報告されていたトポロジーである。最後に、葉緑体膜バレルは、細菌膜バレルよりもオープンなトポロジーを持ち、ストランド長が短いことが明らかになった。COBは、葉緑体外被βバレルの包括的な配列リソースを提供し、葉緑体外被の進化、構造、および機能を研究するための基盤を確立するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "bioRxiv",
+        "query": "details/biorxiv/2026-10-20/2026-11-10",
+        "scope": "candidate"
+      }
+    ],
+    "id": "10.64898/2026.09.21.749940",
+    "doi": "10.64898/2026.09.21.749940",
+    "title": "A Community-Driven Single-Cell PBMC Reference Integrating Landmark Datasets Spanning Health and Disease",
+    "abstract": "Blood provides an accessible window into human health, yet the absence of a peripheral blood mononuclear cells (PBMCs) reference with standardized immune cell annotations has constrained comparisons between single-cell RNA sequencing (scRNAseq) studies. Here, we present HARP (Human Cell Atlas Reference for PBMCs), an integrated atlas of ~9 million PBMCs from >2,600 donors across 15 studies spanning four continents, encompassing diverse populations, neonates to 97 years, across health and diverse immune-related diseases. We developed optimized integration workflows, including novel label-free metrics to assess integration quality, and generated community-driven consensus annotations for 192 immune cell subsets, identifying rare populations representing as few as 0.004% of PBMCs. HARP reveals coordinated cellular modules associated with age, sex, and disease, identifies female-biased interferon and inflammatory gene programs and their perturbation by COVID-19, and uncovers a novel sexual dimorphism in prostaglandin signaling. Finally, we introduce scTiger, a hierarchical label-transfer framework that accurately projects these 192 cell annotations onto ~18 million additional PBMCs, providing a robust and transferable reference for harmonizing future PBMC studies. HARP provides a high-resolution community-driven reference atlas for PBMC annotation and analysis, as a basis for emerging clinical applications of single-cell genomics.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "2",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.09.21.749940"
+    ],
+    "date": "2026-10-21",
+    "authors": "Cujba, A.-M.; Aguilar-Fernandez, S.; Antoinette, A.; Said, W.; Mueller, M. F.; Kock, K. H.; Nestor, J.; Sonthalia, R.; Buyamin, E. V.; Rawat, P.; Predeus, A.; Kretschmer, L.; Fei, L.; Slowikowski, K.; Sen, P.; Cosgriff, C. V.; MGH COVID-19 Collection & Processing Team,  ; Dufva, O.; Askari, M.; Kimler, K.; Futey, M.; Zucchi, I.; Chatzigeorgiou, A.; Nejad, P.; Jin, L.; Bowen, B.; Yang, A.; Lindeboom, R. G. H.; Normand, R.; Megas, S.; Ando, Y.; Chatterjee, A.; Park, J.-E.; Majumder, P. P.; Matangkasombut, P.; Charoensawan, V.; Shin, J. W.; Park, W.-Y.; Asian Immune Diversity Atlas (AIDA) Network",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.09.21.749940v2",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "annotation",
+        "gene",
+        "workflow"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5554,
+    "collected_at": "2026-11-24T14:50:01.882069+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-24",
+    "translation": {
+      "title": {
+        "hash": "fe277d5d7e846bbff1cfd95387264dc4dde725406c95d8b3a4c3dd64643abdb1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T15:42:17.955464+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9fb46cd890592c7052fce09cb9725912df6a8194bc9f69b99112bbfff823f5b2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T15:42:17.955464+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "健康と疾患にわたる画期的なデータセットを統合した、コミュニティ主導のシングルセルPBMCリファレンス",
+    "abstract_ja": "血液はヒトの健康状態を把握するための身近な指標となるが、標準化された免疫細胞アノテーションを備えた末梢血単核球（PBMC）リファレンスが存在しないため、シングルセルRNAシーケンシング（scRNAseq）研究間の比較が制限されてきた。本研究では、4大陸にわたる15の研究、新生児から97歳までの多様な集団、健康状態および多様な免疫関連疾患を網羅する、2,600人以上のドナー由来の約900万個のPBMCからなる統合アトラス「HARP（Human Cell Atlas Reference for PBMCs）」を提案する。我々は、統合品質を評価するための新規ラベルフリー指標を含む最適化された統合ワークフローを開発し、192種類の免疫細胞サブセットについてコミュニティ主導のコンセンサスアノテーションを生成することで、PBMCのわずか0.004%に相当する希少な集団を同定した。HARPは、年齢、性別、および疾患に関連する協調的な細胞モジュールを明らかにし、女性に偏ったインターフェロンおよび炎症性遺伝子プログラムとCOVID-19によるそれらの摂動を特定し、さらにプロスタグランジンシグナル伝達における新たな性的二型を明らかにした。最後に、これら192種類の細胞アノテーションを約1,800万個の追加PBMCに正確に投影する階層型ラベル転送フレームワーク「scTiger」を導入し、今後のPBMC研究を調和させるための堅牢で転用可能なリファレンスを提供する。HARPは、シングルセルゲノミクスの新たな臨床応用の基盤として、PBMCのアノテーションおよび解析のための高解像度なコミュニティ主導のリファレンスアトラスを提供する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "bioRxiv",
+        "query": "details/biorxiv/2026-10-20/2026-11-10",
+        "scope": "candidate"
+      }
+    ],
+    "id": "10.1101/2025.09.13.676059",
+    "doi": "10.1101/2025.09.13.676059",
+    "title": "RNA folding drives species-dependent host mRNA partitioning in Ebola virus condensates",
+    "abstract": "RNA viruses form membraneless condensates in host cells to drive replication, but whether these compartments regulate host RNAs remains unclear. Using MERFISH-based subcellular transcriptomics, we quantified cellular mRNA recruitment into Ebola virus condensates under basal and IFN-stimulated states. We find in the basal state, cellular RNAs with minimally folded coding regions are selectively recruited. Under IFN-stimulation, however, interferon-stimulated genes (ISGs) with structured 3'UTRs concentrate in viral condensates. We find both RNA structural features are conserved in the viral genome and support its retention in condensates. In parallel, for cellular mRNAs, we find partitioning into condensates prolongs RNA half-life and amplifies, rather than dampening, ISG expression. Fruit bats, which do not experience severe disease from RNA viruses, instead have ISGs with reduced 3'UTR folding, and may evade condensate-sequestration, enabling balanced antiviral responses. This selective stabilization links condensate function to RNA regulation as a molecular determinant of viral-host co-evolution and disease pathogenesis.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "3",
+    "published_doi": "",
+    "related_dois": [
+      "10.1101/2025.09.13.676059"
+    ],
+    "date": "2026-10-21",
+    "authors": "Fang, J.; Lam, D. C.; Mah, C.; Watanabe, R.; Tanner, H. M.; Comi, T.; Cai, Y.; Chen, C.; te Velthuis, A. J. W.; Brangwynne, C. P.; Yeo, G. W.; Saphire, E. O.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.1101/2025.09.13.676059v3",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 5555,
+    "collected_at": "2026-11-24T14:50:01.882069+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-24",
+    "translation": {
+      "title": {
+        "hash": "0a45ff1b17c8c9274ef253bb422b0180473641be7f7f026bfb345c093a1ac6a6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T15:42:17.955464+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "08cc818e8dda7b4ba9a556e6819a200398b07d9e513e5436327da89745c1b698",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T15:42:17.955464+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "RNAフォールディングがエボラウイルス凝縮体における種依存的な宿主mRNA分配を駆動する",
+    "abstract_ja": "RNAウイルスは宿主細胞内で膜のない凝縮体を形成して複製を促進するが、これらの区画が宿主RNAを制御しているかどうかは依然として不明である。我々はMERFISHベースのサブセルラートランスクリプトミクスを用いて、基礎状態およびIFN刺激状態におけるエボラウイルス凝縮体への細胞mRNAの動員を定量化した。その結果、基礎状態では、コーディング領域の折り畳みが最小限である細胞RNAが選択的に動員されることが分かった。一方、IFN刺激下では、構造化された3'UTRを持つインターフェロン刺激遺伝子（ISG）がウイルス凝縮体に集積する。我々は、これら両方のRNA構造的特徴がウイルスゲノムにおいて保存されており、凝縮体への保持を裏付けていることを見出した。並行して、細胞mRNAについては、凝縮体への分配がRNAの半減期を延長させ、ISGの発現を抑制するのではなくむしろ増幅させることが明らかになった。RNAウイルスによる重篤な疾患を発症しないオオコウモリは、代わりに3'UTRの折り畳みが減少したISGを有しており、凝縮体への隔離を回避することで、バランスの取れた抗ウイルス応答を可能にしている可能性がある。この選択的な安定化は、凝縮体機能をRNA調節へと結びつけ、ウイルスと宿主の共進化および疾患病態形成の分子決定因子として位置づけるものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "bioRxiv",
+        "query": "details/biorxiv/2026-10-20/2026-11-10",
+        "scope": "candidate"
+      }
+    ],
+    "id": "10.64898/2026.10.05.756811",
+    "doi": "10.64898/2026.10.05.756811",
+    "title": "Pyroptolysins are versatile, sterol-sensing bacterial toxins",
+    "abstract": "Gasdermin pores mediate cellular self-sacrifice for the immune defense pyroptosis. Here we describe how the gasdermin fold was repurposed during evolution into a membrane targeting bacterial toxin. These proteins, which we call pyroptolysins, are chimeras of gasdermins and cholesterol-dependent cytolysins. Like the cytolysins, pyroptolysins are active on cholesterol-rich membranes, but unlike cytolysins, they are poorly active on mammalian cells. Structural snapshots of the pyroptolysins confirm their dual homology and reveal pre-organized complexes primed for membrane insertion. Unexpectedly, we found the pyroptolysins to be active in vitro and in vivo on membranes with remarkably low sterol content, displaying insecticidal activity. Our results establish the gasdermin fold as a versatile pore-forming scaffold, capable of inducing cell death from the inside and the outside of cells.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "2",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.10.05.756811"
+    ],
+    "date": "2026-10-21",
+    "authors": "Patterson, M.; Rakowski, A. L.; Kote, E.; Como-Mosconi, A. C.; Huang, B.; Mayer, M. L.; Johnson, A. G.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.05.756811v2",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 5556,
+    "collected_at": "2026-11-24T14:50:01.882069+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-24",
+    "translation": {
+      "title": {
+        "hash": "c24addc0816ffc06afe3ce0964019e4735fa8d184dfc268fa06130cd03830509",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T15:42:17.955464+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "fb360fdacffff2b0b5f94ff06548b893ee1b3b2f6a3dbf0b791b1397631dfec3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T15:42:17.955464+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ピロプトリジンは、多機能なステロール感知性細菌毒素である。",
+    "abstract_ja": "ガスデルミン孔は、免疫防御機構であるピロプトーシスにおける細胞の自己犠牲を媒介する。本稿では、ガスデルミンのフォールドが進化の過程で、膜を標的とする細菌毒素へと転用された仕組みについて述べる。我々がピロプトリシンと呼ぶこれらのタンパク質は、ガスデルミンとコレステロール依存性サイトリシンのキメラである。サイトリシンと同様に、ピロプトリシンはコレステロールに富む膜に対して活性を示すが、サイトリシンとは異なり、哺乳類細胞に対する活性は低い。ピロプトリシンの構造スナップショットは、その二重相同性を裏付けるとともに、膜挿入に向けて準備された事前組織化複合体を明らかにしている。予想外なことに、ピロプトリシンはステロール含有量が著しく低い膜においてもin vitroおよびin vivoで活性を示し、殺虫活性を有することが判明した。本研究の結果は、ガスデルミンのフォールドが、細胞の内外から細胞死を誘導し得る汎用性の高い孔形成足場であることを立証するものである。"
   }
 ]
