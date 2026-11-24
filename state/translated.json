@@ -329176,5 +329176,291 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "イチジク属（Ficus）から分離された新分類群 Klebsiella taiwanensis sp. nov. および Pseudomonas ficus sp. nov.",
     "abstract_ja": "台湾島で採取した新鮮なイチジク（Ficus spp.）から、WOUb02TおよびWOUb67Tの2株の細菌が分離された。WOUb02TおよびWOUb67Tの細胞はグラム染色陰性桿菌であった。WOUb02T株は運動性を示さなかったが、WOUb67T株は運動性を示した。生理学的には、両株とも0.5% (w/v) NaClおよびpH 8.0で最適増殖し、WOUb02Tは37{degrees}Cで、WOUb67Tは30{degrees}Cで最適増殖した。16S rRNA遺伝子配列の類似性に基づくと、WOUb02T株およびWOUb67T株に最も近縁な菌株は、それぞれKlebsiella terrigena ATCC 33257T（98.2%）およびPseudomonas putida NBRC 14164T（99.9%）であった。続いて16S rRNA遺伝子配列に基づく系統解析を行った結果、WOUb02T株およびWOUb67T株は、それぞれKlebsiella属およびPseudomonas属内で異なる系統を形成していることが明らかになった。さらなるゲノム解析により、WOUb02T株とWOUb67T株は平均ヌクレオチド同一性およびデジタルDNA-DNAハイブリダイゼーション値がそれぞれ95.0%未満および70.0%未満であり、これらは種レベルの区分において現在認められている閾値を下回っていることが判明した。表現型および遺伝子型データに基づき、WOUb02T株およびWOUb67T株は、有効に公表された名称を持つ他の種と区別でき、それぞれKlebsiella属およびPseudomonas属における新種であると考えられ、Klebsiella taiwanensis sp. nov. および Pseudomonas ficus sp. nov. という名称が提案される。タイプ株はWOUb02T (=NRRL-B 65719T =CCUG 77855T) およびWOUb67T (=NRRL-B 65720T =CCUG 77856T) である。"
+  },
+  {
+    "id": "10.1093/bioinformatics/btag830",
+    "title": "Bridging Graph and Pairwise Learning for Gene Regulatory Network Inference from scRNA-seq Data",
+    "abstract": "AbstractMotivationGene regulatory networks (GRNs) capture the underlying interactions through which transcription factors (TFs) regulate genes. Based on gene expression data, existing GRN inference approaches generally fall into two categories: graph-based methods, which model the GRN as a whole graph, and pairwise-based methods, which decompose the GRN into individual TF–target gene pairs for modeling. However, each approach exhibits limitations that are precisely the strengths of its counterpart. Graph-based methods tend to overfit due to their reliance on a single training graph, whereas pairwise-based methods benefit from abundant TF–target training pairs. In contrast, pairwise-based methods overlook the global topological structure, which is essential for comprehensively capturing regulatory mechanisms.ResultsTo address these limitations, we propose scGPL, an end-to-end unified framework that jointly models global regulatory topology and local interactions. scGPL extracts macro-level features from the global regulatory graph and introduces a dynamic, importance-guided subgraph sampling mechanism to capture fine-grained local dependencies. By fusing global representations with subgraph-enhanced local features, our framework bridges the gap between the two paradigms, incorporating essential whole-graph topological dependencies while retaining the data abundance advantage of pairwise methods. Extensive experiments on seven benchmark datasets demonstrate that scGPL consistently achieves state-of-the-art performance, with up to 13.7% improvement over the strongest baseline, validating the effectiveness of our integrative design.Availability and implementationThe source code is maintained on GitHub (https://github.com/talent-hang/scGPL), and the datasets and versioned releases are archived at https://doi.org/10.5281/zenodo.21608485 for reproducibility.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag830",
+    "date": "2026-11-24",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag830/9121058?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "gene",
+        "inference"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5586,
+    "collected_at": "2026-11-24T15:00:38.912417+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1093/bioinformatics/btag830"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5f0a1ace24eea5dcc0fdcafca4cb6367eefc6f059b2249326cb70a02180cebdc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T15:22:09.865991+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "bef35c75425cc6f6e3d64ae82fec89ade6037e897f58a686ed94a89ad244df3c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T15:22:09.865991+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "scRNA-seqデータからの遺伝子調節ネットワーク推論に向けたグラフ学習とペアワイズ学習の橋渡し",
+    "abstract_ja": "要旨動機遺伝子調節ネットワーク（GRN）は、転写因子（TF）が遺伝子を調節する際の根底にある相互作用を捉えるものである。遺伝子発現データに基づく既存のGRN推論手法は、一般に、GRNを単一のグラフとしてモデル化するグラフベース手法と、GRNを個々のTF–標的遺伝子ペアに分解してモデル化するペアワイズベース手法の2つのカテゴリーに分類される。しかし、それぞれの手法には、相手方の強みとも言える特有の限界が存在する。グラフベース手法は、単一の学習グラフに依存するため過学習に陥りやすい一方、ペアワイズベース手法は豊富なTF–標的学習ペアという利点を持つ。対照的に、ペアワイズベース手法は、調節機構を包括的に捉えるために不可欠な大域的なトポロジー構造を見落としている。結果これらの限界に対処するため、我々は大域的な調節トポロジーと局所的な相互作用を共同でモデル化するエンドツーエンドの統合フレームワークであるscGPLを提案する。scGPLは、大域的な調節グラフからマクロレベルの特徴量を抽出し、動的な重要度誘導型サブグラフサンプリング機構を導入することで、微細な局所的依存関係を捉える。大域的な表現とサブグラフで強化された局所的特徴量を融合させることで、本フレームワークはこれら2つのパラダイム間のギャップを埋め、ペアワイズ手法のデータ豊富さという利点を維持しつつ、不可欠なグラフ全体のトポロジー的依存関係を組み込んでいる。7つのベンチマークデータセットを用いた広範な実験により、scGPLが一貫して最先端の性能を達成し、最強のベースラインに対して最大13.7%の改善を示したことが実証され、我々の統合的な設計の有効性が検証された。利用可能性と実装ソースコードはGitHub（https://github.com/talent-hang/scGPL）で公開されており、再現性を確保するため、データセットおよびバージョン管理されたリリースはhttps://doi.org/10.5281/zenodo.21608485にアーカイブされている。"
+  },
+  {
+    "id": "10.1093/femsmc/xtag059",
+    "title": "Interconnection and redundant function of 7-hydroxytropolone and pyoverdine in the anti-Phytophthora activity of P. donghuensis R32",
+    "abstract": "AbstractDespite iron’s environmental abundance, its bioavailability is severely limited due to its low solubility under oxic conditions. Microorganisms have evolved high-affinity iron-chelating molecules—siderophores—to acquire this essential nutrient, a trait with significant potential for biocontrol in agriculture. While pyoverdine (PVD) produced by Pseudomonas species is extensively studied, 7-hydroxytropolone (7-HT) has only recently emerged as a siderophore of interest in this field. P. donghuensis is a species that produces both siderophores, PVD and 7-HT, and several strains exhibit broad-spectrum antagonistic activity against plant pathogens. The strain of interest in this study, P. donghuensis R32, inhibits the potato pathogen P. infestans in different developmental stages. Previous findings showed that PVD plays a minor role in anti-Phytophthora activity; however, it remained unclear whether this observation reflected functional redundancy between PVD and 7-HT. Here, we evaluated newly generated 7-HT-deficient mutants to elucidate the functional relationship between these two siderophores and their relative contribution to the anti-Phytophthora activity of the strain. In both in vitro mycelial growth assays and potato leaf disc infections, single-siderophore mutants maintained high inhibitory efficacy. In contrast, mutants impaired in both 7-HT and PVD biosynthesis exhibited a significant loss of antagonistic activity. These results demonstrate that 7-hydroxytropolone and pyoverdine function redundantly to drive the anti-Phytophthora activity of P. donghuensis R32.",
+    "journal": "FEMS Microbes",
+    "doi": "10.1093/femsmc/xtag059",
+    "date": "2026-11-24",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/femsmicrobes/advance-article/doi/10.1093/femsmc/xtag059/9121032?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Pseudomonas",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6274/advanceAccess_4057.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5585,
+    "collected_at": "2026-11-24T15:00:38.912417+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "https://academic.oup.com/rss/site_6274/advanceAccess_4057.xml"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1093/femsmc/xtag059"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d16726983fe814113ef2b39ae9ddb3f13b50c7b476b2fc126b2d0f4ceacd51e0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T15:22:09.865991+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7fcae5d28a83a0a025e0e7bbd0864e8a15d5cdedc4c9e9e3e1afa718f2952dcc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T15:22:09.865991+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "P. donghuensis R32の抗フィトフソラ活性における7-ヒドロキシトロポロンおよびピオベルジンの相互作用と冗長機能",
+    "abstract_ja": "要旨鉄は環境中に豊富に存在するものの、好気的条件下での溶解度が低いため、その生体利用能は著しく制限されている。微生物は、この必須栄養素を獲得するために高親和性の鉄キレート分子であるシデロフォアを進化させており、この特性は農業における生物的防除に大きな可能性を秘めている。Pseudomonas属菌が産生するピオベルジン（PVD）は広く研究されているが、7-ヒドロキシトロポロン（7-HT）がこの分野で注目されるシデロフォアとして登場したのは最近のことである。P. donghuensisは、PVDと7-HTの両方のシデロフォアを産生する種であり、いくつかの株は植物病原体に対して広範な拮抗活性を示す。本研究で注目した株であるP. donghuensis R32は、ジャガイモ病原体P. infestansを異なる発育段階で阻害する。先行研究では、PVDが抗フィトフソラ活性において果たす役割は小さいことが示されていたが、この観察結果がPVDと7-HTの機能的な冗長性を反映しているかどうかは不明であった。本研究では、新たに作製した7-HT欠損変異体を評価し、これら2つのシデロフォア間の機能的関係と、当該株の抗フィトフソラ活性に対する相対的な寄与を明らかにした。in vitroの菌糸増殖アッセイおよびジャガイモ葉ディスク感染の両方において、単一シデロフォア変異体は高い阻害効果を維持した。対照的に、7-HTおよびPVDの両方の生合成が障害された変異体では、拮抗活性が著しく低下した。これらの結果は、7-ヒドロキシトロポロンとピオベルジンが冗長的に機能して、P. donghuensis R32の抗フィトフソラ活性を駆動していることを示している。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1944259",
+    "title": "Taxon-conditioned metagenomics links an omeprazole-associated MprF-family signal to Streptococcus expansion",
+    "abstract": "InroductionProton pump inhibitors (PPIs) enrich oral taxa in stool, but apparent functional shifts may arise from expansion of carrier lineages rather than within-lineage trait enrichment.MethodsWe reanalyzed 216 longitudinal stool metagenomes from 72 healthy participants, including randomized omeprazole (PPI; n = 21) and famotidine (histamine-2 receptor antagonist [H2RA]; n = 24) groups, with a probiotic-only group (n = 27) providing contextual trajectories.ResultsFive global endpoints—antibiotic resistance gene (ARG) feature richness, ARG Shannon diversity, metagenome-assembled genome (MAG)-weighted ARG, virulence-factor, and mobile-genetic-element annotation-hit densities—showed no PPI–H2RA differences at day 7 or 21 (all Benjamini–Hochberg q ≥ 0.931). A category-level MAG screen nevertheless identified a day-7 MprF-family signal, with an adjusted PPI:H2RA ratio of 3.280 (95% CI, 1.906–5.643; p = 1.78 × 10−5). Eighty-three MAGs carried MprF-family homologs, including 46 Streptococcus MAGs. Total Streptococcus abundance showed an adjusted ratio of 4.355, and conditioning on its day-7 abundance attenuated the MprF ratio to 1.270 (95% CI, 0.622–2.593; p = 0.512). Both MprF-positive and MprF-negative Streptococcus lineages increased, whereas carrier fraction, carrier-to-non-carrier ratio, and within-genus MprF density showed no evidence of enrichment. Protein-level analysis of 96 candidate records further revealed heterogeneous PF09924 phylogeny and membrane architectures rather than a single interchangeable resistance determinant.DiscussionThese findings indicate that the day-7 community MprF-family signal primarily reflected broad Streptococcus expansion involving a pre-existing carrier reservoir, rather than preferential enrichment of MprF within the genus, underscoring the importance of taxon-aware interpretation of metagenomic functional signals.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1944259",
+    "date": "2026-11-24",
+    "authors": "Bihong Zhu",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1944259",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenome",
+        "metagenome-assembled genome",
+        "metagenomes",
+        "metagenomic",
+        "metagenomics"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "genom",
+          "genome",
+          "metagenom",
+          "metagenome",
+          "metagenomic",
+          "phylogen",
+          "phylogeny"
+        ],
+        "evolution": [
+          "phylogeny"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5590,
+    "collected_at": "2026-11-24T15:00:38.912417+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.3389/fmicb.2026.1944259"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ddbc78fc3878f1d5d802485c84457eaa6c12cbc7b80307dbcee189d6aa5c9da4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T15:22:09.865991+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "791faae072f167dd39a46c04458bf0323cc0c474cdc0865be725fa732a9b3b91",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T15:22:09.865991+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "分類群条件付きメタゲノミクスにより、オメプラゾール関連のMprFファミリーシグナルとストレプトコッカス属の増殖との関連性が明らかになった。",
+    "abstract_ja": "Inroductionプロトンポンプ阻害薬（PPI）は、糞便中の経口分類群を濃縮させるが、見かけ上の機能的シフトは、系統内における形質の濃縮ではなく、キャリア系統の拡大に起因する可能性がある。方法：無作為化試験に供したオメプラゾール（PPI; n = 21）およびファモチジン（ヒスタミン-2受容体拮抗薬 [H2RA]; n = 24）投与群、ならびにコンテキスト・トラジェクトリを提供するプロバイオティクス単独投与群（n = 27）を含む、健常被験者72名から得られた216件の経時的糞便メタゲノムを再解析した。結果：抗生物質耐性遺伝子（ARG）特徴の豊富度、ARGシャノン多様性、メタゲノムアセンブルドゲノム（MAG）重み付きARG、病原性因子、および可動性遺伝要素アノテーションヒット密度という5つのグローバルエンドポイントにおいて、7日目および21日目でPPIとH2RAの差は認められなかった（すべてBenjamini–Hochberg q ≥ 0.931）。それにもかかわらず、カテゴリレベルのMAGスクリーニングにより、7日目にMprFファミリーのシグナルが同定され、調整後PPI:H2RA比は3.280（95% CI, 1.906–5.643; p = 1.78 × 10⁻⁵）であった。83件のMAGがMprFファミリーホモログを保持しており、そのうち46件はStreptococcus属のMAGであった。Streptococcus属の総存在量の調整後比は4.355であり、7日目の存在量で条件付けるとMprF比は1.270（95% CI, 0.622–2.593; p = 0.512）に低下した。MprF陽性およびMprF陰性の両方のStreptococcus系統が増加したが、キャリア分率、キャリア対非キャリア比、および属内MprF密度に濃縮の証拠は認められなかった。96件の候補レコードのタンパク質レベル解析により、単一の相互交換可能な耐性決定因子ではなく、PF09924の系統樹および膜構造が多様であることがさらに明らかになった。考察：これらの知見は、7日目のコミュニティMprFファミリーシグナルが、属内でのMprFの優先的な濃縮ではなく、既存のキャリアリザーバーを伴う広範なStreptococcus属の拡大を主に反映していたことを示しており、メタゲノム機能的シグナルの分類群を考慮した解釈の重要性を強調するものである。"
+  },
+  {
+    "id": "10.1093/ismeco/ycag342",
+    "title": "Isotopic fractionation patterns during heterotrophic nitrification by Alcaligenes faecalis",
+    "abstract": "ABSTRACTThe observation of nitrification by heterotrophic bacteria indicates that chemolithoautotrophs are not the only microorganisms with this capability, but the environmental relevance of heterotrophic nitrification remains unclear. Stable nitrogen (N) isotope ratios can reveal underlying biochemical pathways. We investigated the N isotope effects of the heterotrophic nitrifier Alcaligenes faecalis, which converted ammonium (NH4+) into hydroxylamine (20%, NH2OH), nitrite (5%, NO2-), and nitrous oxide (0.6%, N2O); the remainder of NH4+ was attributed to incorporation into biomass, confirming NH4+ assimilation as the primary consumption pathway. The net N isotope effect for total NH4+ consumption was 13.8 ± 0.4‰, which is within the reported range for bacterial NH4+ assimilation and generally lower than values reported for ammonia oxidation. Along with low-δ15N biomass, NH4+ conversion produced 15N-depleted NH2OH, NO2-, and N2O, which became progressively enriched in 15N over time as NH4+ consumption proceeded. With a time-resolved isotope-mass balance model, we estimated similar isotope effects for NH2OH and biomass formation (16.2 ± 0.6‰ and 14.5 ± 1.5‰, respectively). NO2- showed an inverse isotope effect with respect to NH2OH, its closest measured precursor, ending up as the most 15N-enriched product pool. The N2O exhibited an elevated site preference (24‰ to 38‰), indicating contributions from NH2OH decomposition and its reaction with nitric oxide. More broadly, heterotrophic nitrification may represent an underappreciated link between N assimilation and the production of reactive N intermediates and N2O with potential implications for N cycling in natural ecosystems.",
+    "journal": "ISME Communications",
+    "doi": "10.1093/ismeco/ycag342",
+    "date": "2026-11-24",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/ismecommun/advance-article/doi/10.1093/ismeco/ycag342/9121218?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6596/advanceAccess_4180.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5584,
+    "collected_at": "2026-11-24T15:00:38.912417+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "https://academic.oup.com/rss/site_6596/advanceAccess_4180.xml"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1093/ismeco/ycag342"
+    ],
+    "translation": {
+      "title": {
+        "hash": "af2956535096523b11e2605e1ab5da9151ad90baae1c618a721971baa667ca13",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T15:22:09.865991+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ccf1cf979cd95adc7debabf15ffdd5dc808565ef94512f9a7574f30ed4bbd0ec",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T15:22:09.865991+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Alcaligenes faecalisによる従属栄養硝化における同位体分別パターン",
+    "abstract_ja": "要旨 従属栄養細菌による硝化の観察は、化学合成独立栄養生物がこの能力を持つ唯一の微生物ではないことを示しているが、従属栄養硝化の環境的意義は依然として不明である。安定した窒素（N）同位体比からは、根底にある生化学的経路を明らかにすることができる。我々は、アンモニウム（NH4+）をヒドロキシルアミン（20%, NH2OH）、亜硝酸塩（5%, NO2-）、および亜酸化窒素（0.6%, N2O）に変換する従属栄養硝化菌 Alcaligenes faecalis のN同位体効果を調査した。残りのNH4+はバイオマスへの取り込みに起因するとされ、NH4+同化が主要な消費経路であることが確認された。全NH4+消費による正味のN同位体効果は13.8 ± 0.4‰であり、これは細菌によるNH4+同化で報告されている範囲内であり、一般にアンモニア酸化で報告されている値よりも低い。低δ15Nバイオマスとともに、NH4+変換により15N枯渇型のNH2OH、NO2-、およびN2Oが生成され、NH4+消費が進むにつれて時間の経過とともに15Nが漸次的に濃縮された。時間分解同位体質量収支モデルを用いて、NH2OHおよびバイオマス形成における同様の同位体効果（それぞれ16.2 ± 0.6‰および14.5 ± 1.5‰）を推定した。NO2-は、最も近い測定前駆体であるNH2OHに対して逆の同位体効果を示し、最終的に最も15Nが濃縮された生成物プールとなった。N2Oは高いサイト選好性（24‰～38‰）を示し、NH2OHの分解および一酸化窒素との反応による寄与が示唆された。より広範には、従属栄養硝化は、N同化と反応性N中間体およびN2Oの生成との間の、十分に認識されていない関連性を表している可能性があり、自然生態系におけるN循環に潜在的な影響を及ぼす可能性がある。"
   }
 ]
