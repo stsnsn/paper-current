@@ -326556,5 +326556,303 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "nsP1の十二量体化表面の変異は、蚊の細胞におけるセムリキフォレストウイルスのRNA合成を阻害する。",
     "abstract_ja": "プラス鎖RNA（+ssRNA）ウイルスは、宿主膜をリモデリングして複製オルガネラ（RO）を形成するが、この過程は主にウイルスがコードする膜結合タンパク質のオリゴマー化によって駆動される。トガウイルスの場合、非構造タンパク質1（nsP1）は十二量体リングへと集合し、ウイルス複製スフェルールと宿主細胞膜を橋渡しする足場として機能する。しかし、ウイルス複製におけるnsP1オリゴマー化の正確な役割と必要性については、まだ十分に解明されていない。本研究では、構造ベースの計算モデリングを用いて、十二量体内のモノマー間相互作用を阻害すると予測されるnsP1変異体を設計した。分子動力学シミュレーションにより、これらの変異がnsP1の膜結合親和性を損なう可能性がさらに示された。変性還元条件下でウェスタンブロッティングを行い、共焦点顕微鏡を用いて変異型nsP1の発現レベルと細胞内局在をそれぞれ評価した。変異タンパク質は細胞膜に安定的に保持されず、代わりにエンドソーム区画へと誤局在すると考えられる。3成分トランスレプリカーゼアッセイおよびウイルスチャレンジ実験により、nsP1の十二量体化－表面変異体はウイルス複製を支持する能力に欠けることが明らかとなった。本研究は、トガウイルスの複製におけるnsP1十二量体化の重要な役割を強調するとともに、+RNAウイルスのオリゴマータンパク質構造を標的とした潜在的な抗ウイルス戦略を提案するものである。重要性トガウイルスは、重篤な疾患や散発的なアウトブレイクを引き起こし得る新興アルボウイルスである。ウイルス複製の際、ウイルスnsP1は十二量体リングへと集合し、スフェルールと呼ばれる複製オルガネラを宿主膜に固定するが、オリゴマー組織化の機能的な必要性は依然として十分に解明されていない。本研究では、構造ベースのモデリング、分子動力学シミュレーション、および細胞ベースのアッセイを組み合わせて、nsP1オリゴマーを不安定化させると予測される変異がウイルス複製にどのような影響を及ぼすかを調査した。その結果、これらの変異が膜結合親和性を低下させ、細胞内局在を変化させ、さらにこれらの変異を有するnsP1はウイルスRNA複製を支持できないことが判明した。これらの知見は、細胞膜上での安定化にnsP1の十二量体化が必要であることを示している。より広範には、我々の知見は、膜関連複製タンパク質のオリゴマー化を標的とすることが、トガウイルスおよび潜在的に他のプラス鎖RNAウイルスに対する有効な抗ウイルス戦略となり得ることを示唆している。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.2007287",
+    "title": "Capsular polysaccharide-associated resistance to phage PP270 enhances susceptibility to phage KP270 in Vibrio parahaemolyticus VP270",
+    "abstract": "The emergence of bacterial resistance can limit the effectiveness of phage treatment. We investigated whether resistance to phage PP270 could increase susceptibility to phage KP270 and improve bacterial suppression under combined treatment. We independently selected EV5-2-2 from Vibrio parahaemolyticus (V. parahaemolyticus) VP270 as a derivative resistant to PP270. This derivative carried an ugd mutation, had lower uronic acid content in the extracted capsular polysaccharide (CPS) fraction, and was used as the host to isolate a new phage KP270 from aquaculture water. Of 24 mutants resistant to PP270, 22 carried mutations in genes involved in CPS production; spot assays showed that all 24 mutants resistant to PP270 were susceptible to KP270. Of 24 mutants resistant to KP270, 19 carried mutations in genes involved in type IV pili. Gene deletion, complementation, and adsorption assays demonstrated a functional contribution of type IV pilus-associated genes to efficient KP270 adsorption. Deletion of ugd lowered CPS-associated uronic acid content and increased KP270 adsorption and Efficiency Of Plating (EOP), whereas complementation reversed these changes, linking ugd function to both polysaccharide and infection phenotypes. Combined treatment with PP270 and KP270 maintained bacterial counts at approximately 102 CFU/mL from 2 to 8 h and approximately 103 CFU/mL at 12 h, prolonging suppression compared with the rapid rebound after PP270 alone. Separately, four of six cultures receiving both phages maintained OD600 below 0.2 for 24 h, whereas cultures treated with either phage alone exceeded an OD600 of 3. Combined treatment delayed enrichment of resistance to PP270. KP270 added at inoculation significantly reduced attached biomass at 48 h, and three of six cultures receiving both phages reached near background levels. These results reveal a resistance-associated susceptibility switch: CPS-associated changes that conferred resistance to PP270 also enhanced KP270 infection, while type IV pilus-associated genes contributed to efficient KP270 adsorption. By linking this susceptibility switch to prolonged bacterial suppression and delayed enrichment of resistance to PP270, this study establishes bacterial surface remodeling induced by resistance as a mechanistic basis for selecting phage partners for combination treatment.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.2007287",
+    "date": "2026-11-24",
+    "authors": "Wei Zhang",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.2007287",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Vibrio",
+        "bacteria",
+        "bacterial",
+        "phage",
+        "phages"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5559,
+    "collected_at": "2026-11-24T11:05:36.802078+00:00",
+    "collected_date": "2026-11-24",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.3389/fmicb.2026.2007287"
+    ],
+    "translation": {
+      "title": {
+        "hash": "363f6d2def53a6538b216ad3add1dc31662fb0815c0f852d4e0c6f620ff735e0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T11:36:17.510751+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2c082ef46768609bc40bc0af1c51dcadaa06906b1f6854d43a76ded40927d269",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T11:36:17.510751+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "莢膜多糖類関連のファージPP270耐性は、腸炎ビブリオVP270におけるファージKP270への感受性を高める。",
+    "abstract_ja": "細菌の耐性獲得は、ファージ治療の有効性を制限し得る。我々は、ファージPP270に対する耐性がファージKP270への感受性を高め、併用治療下での細菌抑制能を向上させるかどうかを検討した。我々は、Vibrio parahaemolyticus (V. parahaemolyticus) VP270から、PP270耐性誘導体としてEV5-2-2を独立して選抜した。この誘導体はugd変異を有し、抽出した莢膜多糖類（CPS）画分中のウロン酸含有量が低く、養殖水から新規ファージKP270を単離するための宿主として用いられた。PP270耐性変異体24株のうち、22株はCPS産生に関与する遺伝子に変異を有しており、スポットアッセイの結果、PP270耐性変異体24株すべてがKP270に対して感受性を示した。KP270耐性変異体24株のうち、19株はIV型線毛に関与する遺伝子に変異を有していた。遺伝子欠失、相補、および吸着アッセイにより、IV型線毛関連遺伝子が効率的なKP270吸着に機能的に寄与していることが示された。ugdの欠失はCPS関連ウロン酸含有量を低下させ、KP270の吸着および塗抹効率（EOP）を上昇させたが、相補はこれらの変化を逆転させ、ugdの機能が多糖類および感染の両方の表現型に関連していることを明らかにした。PP270とKP270の併用治療により、細菌数は2〜8時間で約102 CFU/mL、12時間後には約103 CFU/mLに維持され、PP270単独投与後の急速なリバウンドと比較して抑制が延長した。個別に、両ファージを投与した6培養株のうち4株は24時間にわたってOD600を0.2未満に維持したが、いずれか一方のファージのみを投与した培養株ではOD600が3を超えた。併用治療により、PP270に対する耐性の増強が遅延した。接種時に添加したKP270は、48時間後に付着バイオマスを有意に減少させ、両ファージを投与した6培養株のうち3株は背景レベル付近に達した。これらの結果は、耐性に関連する感受性スイッチを明らかにしている。すなわち、PP270への耐性を付与するCPS関連の変化はKP270感染も促進し、一方でIV型線毛関連遺伝子は効率的なKP270吸着に寄与していた。この感受性スイッチを細菌抑制の延長およびPP270耐性の増強遅延に結びつけることで、本研究は、耐性によって誘導される細菌表面リモデリングを、併用治療のためのファージパートナー選抜の機序的基盤として確立した。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/jvi.01451-26",
+    "title": "Outstanding scientific talent devoted to consequential problems.",
+    "abstract": "We take a moment to pause and recognize the lasting impact of Dr. Ralph S. Baric's career on virology and pandemic preparedness.",
+    "journal": "Journal of Virology",
+    "doi": "10.1128/jvi.01451-26",
+    "date": "2026-11-05",
+    "authors": "Frieman MB, Menachery VD, Alumni of the Baric lab.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42986120",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42986120",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5524,
+    "collected_at": "2026-11-24T10:55:02.039739+00:00",
+    "collected_date": "2026-11-24",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1128/jvi.01451-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "70b5f9de8513a4aac6768fe3c4fe0d4008db77de2fa316ff7a3bb0a380a5f20b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T11:36:17.510751+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "eba1cbe3446ab934b77e25187c180f765a584f5f2cd34f5a6785b54f06f3d4de",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T11:36:17.510751+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "重大な課題に取り組む卓越した科学的才能。",
+    "abstract_ja": "ここで一度立ち止まり、ラルフ・S・バリック博士の経歴がウイルス学およびパンデミックへの備えに及ぼした永続的な影響に思いを馳せたい。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 6",
+        "query": "(JOURNAL:\"Microbial Genomics\" OR JOURNAL:\"Microbiology\" OR JOURNAL:\"Aquatic Microbial Ecology\" OR JOURNAL:\"PNAS\" OR JOURNAL:\"PLOS Biology\" OR JOURNAL:\"PLOS Genetics\" OR JOURNAL:\"Genome Research\" OR JOURNAL:\"Genome Biology\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1099/mic.0.001792",
+    "title": "A citywide metagenomic analysis reveals surface-specific microbiome and resistome patterns in outdoor urban environments across Liverpool, UK.",
+    "abstract": "Urbanization is rapidly increasing worldwide, with increasing attention focused on its consequences for human populations. Despite the importance of outdoor urban environments for biodiversity and human wellbeing, their microbial ecology remains poorly characterized, particularly in relation to emerging microbial threats including antimicrobial resistance (AMR). Where previous studies have targeted individual urban niches, we used shotgun metagenomic sequencing to assess microbial community composition and antimicrobial resistance genes (ARGs) across five outdoor surface types at a citywide level: Touchpoints, Pathways, Soil, Refuse and Watersides. Microbial community composition differed significantly between surface types, with surface identity explaining 33.1% of variation, compared with 15.7% explained by council ward. Soil harboured the most compositionally distinct communities, whereas Touchpoints and Refuse showed greater overlap, with Pathways and Watersides occupying an intermediate position between the Touchpoint/Refuse and Soil communities. Touchpoints had significantly higher ARG abundance than Pathways, Soil and Watersides, with Refuse showing greater variability driven largely by a single high-abundance observation; following sensitivity analysis, Touchpoints were also significantly higher than Refuse. ARGs were rarely detected in Pathways, Watersides and Soil. These findings provide a citywide baseline showing that outdoor urban surfaces support distinct microbial communities and resistance profiles, with the strongest ARG signals observed on frequently contacted surfaces. This highlights the value of surface-specific metagenomic surveillance for characterizing the urban microbial and AMR landscape.",
+    "journal": "Microbiology",
+    "doi": "10.1099/mic.0.001792",
+    "date": "2026-11-01",
+    "authors": "Ackers-Johnson G, O'Ferrall AM, Holmes A, Allman E, Ambrose P, Breen A, Cutcliffe A, D'Arcy K, Goodman R, Kingdon A, McLeman A, Moyo S, Pulmones R, Rajib MD, Sharma P, Shore E, Clerkin K, Moore M, McNeil H, Roberts AP.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43038042",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13773349",
+    "pmid": "43038042",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomic",
+        "microbial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5526,
+    "collected_at": "2026-11-24T10:55:02.039739+00:00",
+    "collected_date": "2026-11-24",
+    "sources": [
+      "Europe PMC journals 6"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1099/mic.0.001792"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9f367fcfe6e9ed293a7be26993cb44cbca76167757742bc0cf3c4029be5d5583",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T11:36:17.510751+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "fa905306a436cbc03a85d13f205c01eceb20580620a854339c72331ee8ef3cc6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T11:36:17.510751+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "市全域を対象としたメタゲノム解析により、英国リバプールの都市屋外環境における表面特異的なマイクロバイオームおよびレジストームのパターンが明らかになった。",
+    "abstract_ja": "世界的に都市化が急速に進行しており、それが人類の集団に及ぼす影響への注目が高まっている。都市の屋外環境は生物多様性と人間のウェルビーイングにとって重要であるにもかかわらず、その微生物生態学、特に薬剤耐性（AMR）を含む新たな微生物脅威との関連については、依然として十分に解明されていない。先行研究では個々の都市ニッチを対象としていたが、本研究ではショットガンメタゲノムシーケンシングを用い、市全域レベルで、タッチポイント、パスウェイ、土壌、廃棄物、水辺という5種類の屋外地表タイプにおける微生物群集組成および薬剤耐性遺伝子（ARG）を評価した。微生物群集組成は地表タイプ間で有意に異なり、地表の特性が変動の33.1%を説明するのに対し、行政区では15.7%であった。土壌は最も組成的に異なる群集を有していた一方、タッチポイントと廃棄物では重複がより大きく、パスウェイと水辺はタッチポイント/廃棄物群集と土壌群集の中間的な位置にあった。タッチポイントはパスウェイ、土壌、水辺よりもARGの存在量が有意に高く、廃棄物では主に単一の高存在量の観測値に起因する大きな変動が見られた。感度分析の結果、タッチポイントも廃棄物より有意に高かった。パスウェイ、水辺、土壌ではARGはほとんど検出されなかった。これらの知見は、都市の屋外地表が固有の微生物群集と耐性プロファイルを維持していることを示す市全域のベースラインを提示するものであり、特に接触頻度の高い地表において最も強いARGシグナルが観察された。このことは、都市の微生物およびAMRランドスケープを特性評価する上で、地表特異的なメタゲノムサーベイランスが有効であることを浮き彫りにしている。"
+  },
+  {
+    "id": "10.1186/s40168-026-02577-5",
+    "title": "Stress-dependent rhizosphere reorganization reveals distinct bacterial strategies for pendimethalin processing in potato",
+    "abstract": "Background\n                     Rhizosphere microorganisms can contribute to plant tolerance to chemical stress, but how these effects vary with increasing levels of herbicide exposure remains poorly understood. In particular, it can be difficult to distinguish the direct plant growth-promoting effects of an introduced bacterium from effects associated with altered herbicide fate and rhizosphere microbial responses. Pendimethalin (PDM) is a dinitroaniline herbicide that can impair potato development and tuber formation, providing a suitable system for examining these responses across different levels of herbicide stress. Here, we investigated how the plant growth-promoting rhizobacterium (PGPR) Enterobacter asburiae S13 affects potato responses to PDM and how these plant-level effects are associated with rhizosphere community responses and strain-specific PDM-processing phenotypes.\n                  \n                     Results\n                     S13 alleviated PDM-induced inhibition of stolon development and tuber formation. Its effect on PDM fate depended on herbicide intensity: under lower PDM exposure, S13 improved plant performance without accelerating PDM dissipation, whereas under higher exposure, plant recovery coincided with reduced rhizosphere PDM residues. 16 S rRNA gene sequencing and shotgun metagenomics showed that PDM and S13 altered rhizosphere community assembly and metagenome-encoded functional potential, including xenobiotic-processing and nitrate/nitrite-metabolism functions. High-PDM-removal Lelliottia amnigena isolates were recovered exclusively from the high-PDM, S13-inoculated treatment, indicating selective recovery of a functionally distinct cultivable subset rather than expansion of the total L. amnigena population. A representative isolate, L. amnigena M36, also alleviated PDM injury in natural soil but displayed a PDM-handling strategy distinct from that of S13. S13 showed stronger extracellular association and sequestration of PDM, whereas M36 exhibited greater parent-PDM disappearance, intracellular nitrite accumulation, and an M36-specific intracellular transformation signature consistent with a putative NO2-to-OH substitution. Comparative genomics showed that both strains carried conserved nitrate/nitrite-metabolism systems, whereas M36 additionally contained nirC and a second nitrate-reductase locus, narUZYWV. Genetic perturbation supported a functional contribution of these modules: introduction of M36-derived nirC into S13 increased NiR activity and enhanced PDM processing, whereas replacement of narUZYWV in M36 reduced NR activity, intracellular nitrite accumulation, and PDM processing. These effects occurred despite opposite changes in bacterial growth, linking nitrate/nitrite metabolism to strain-specific PDM handling rather than biomass accumulation alone.\n                  \n                     Conclusions\n                     S13-mediated protection of potato from PDM is stress dependent and extends beyond parent-compound removal. By connecting rhizosphere functional responses with cultivation-guided isolation, comparative genomics, physiological phenotyping, and complementary genetic perturbations, this study identifies nitrate/nitrite metabolism as a contributor to bacterial PDM processing. These findings provide a framework for developing microbial inoculants that integrate plant protection, chemical-stress tolerance, and pollutant-processing capacity.\n                     \nVideo Abstract",
+    "journal": "Microbiome",
+    "doi": "10.1186/s40168-026-02577-5",
+    "date": "2026-11-24",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s40168-026-02577-5",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "bacterium",
+        "metagenom",
+        "metagenome",
+        "metagenomics",
+        "microbial",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "genom",
+          "genomic",
+          "metagenom",
+          "metagenome",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=40168",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5571,
+    "collected_at": "2026-11-24T11:05:36.802078+00:00",
+    "collected_date": "2026-11-24",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=40168"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1186/s40168-026-02577-5"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ae6601fea6d674efbd4d0affe7729185325f2d15434590542d79d9dd25f6a3a4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T11:36:17.510751+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "79d1549100648a580d79e7b60a7199ce460301a266c0b65f0cfc2d40467cd423",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T11:36:17.510751+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ストレス依存的な根圏再編成から明らかになったジャガイモにおけるペンジメサリン処理の特異的な細菌戦略",
+    "abstract_ja": "背景\n                     根圏微生物は植物の化学的ストレス耐性に寄与し得るが、除草剤曝露量の増加に伴いこれらの効果がどのように変化するかについては、依然として十分に解明されていない。特に、導入された細菌による直接的な植物成長促進効果と、除草剤の運命変化および根圏微生物応答に関連する効果とを区別することは困難な場合がある。ペンディメタリン（PDM）はジニトロアニリン系除草剤であり、ジャガイモの生育および塊茎形成を阻害するため、異なるレベルの除草剤ストレスにおけるこれらの応答を検討するのに適した系となる。本研究では、植物成長促進根圏細菌（PGPR）であるEnterobacter asburiae S13が、PDMに対するジャガイモの応答にどのように影響するか、また、これらの植物レベルの効果が根圏コミュニティの応答および菌株特異的なPDM処理表現型とどのように関連しているかを調査した。\n                  \n                     結果\n                     S13は、PDM誘発性のストロン発達および塊茎形成の抑制を緩和した。PDMの運命に対するその効果は除草剤濃度に依存しており、低濃度のPDM曝露下では、S13はPDMの消散を加速させることなく植物のパフォーマンスを向上させたが、高濃度曝露下では、植物の回復は根圏におけるPDM残留量の減少と一致した。16S rRNA遺伝子シーケンシングおよびショットガンメタゲノミクスにより、PDMおよびS13が根圏コミュニティの構成および、外来物質処理や硝酸/亜硝酸代謝機能を含むメタゲノム符号化機能ポテンシャルを変化させることが示された。高PDM除去能を持つLelliottia amnigena分離株は、高PDM・S13接種処理群からのみ回収され、これはL. amnigenaの全個体群の拡大ではなく、機能的に異なる培養可能なサブセットの選択的な回収であることを示していた。代表的な分離株であるL. amnigena M36も、自然土壌においてPDMによる損傷を緩和したが、S13とは異なるPDM処理戦略を示した。S13はPDMのより強い細胞外結合および隔離を示したのに対し、M36は親化合物であるPDMの消失がより顕著であり、細胞内亜硝酸蓄積、および推定されるNO2からOHへの置換と一致するM36特異的な細胞内変換シグネチャーを示した。比較ゲノミクスにより、両菌株ともに保存された硝酸/亜硝酸代謝系を保持していたが、M36はさらにnirCおよび第2の硝酸還元酵素遺伝子座であるnarUZYWVを含んでいた。遺伝的摂動により、これらのモジュールの機能的寄与が裏付けられた。M36由来のnirCをS13に導入すると、NiR活性が増加しPDM処理が促進された一方、M36のnarUZYWVを置換すると、NR活性、細胞内亜硝酸蓄積、およびPDM処理が減少した。これらの効果は細菌の増殖における相反する変化にもかかわらず生じており、硝酸/亜硝酸代謝が単なるバイオマス蓄積ではなく、菌株特異的なPDM処理に関連していることを示唆している。\n                  \n                     結論\n                     S13によるPDMからのジャガイモ保護はストレス依存的であり、親化合物の除去にとどまらない。根圏の機能的応答を、栽培誘導分離、比較ゲノミクス、生理学的表現型解析、および相補的な遺伝的摂動と結びつけることで、本研究は硝酸/亜硝酸代謝が細菌のPDM処理に寄与する因子であることを明らかにした。これらの知見は、植物保護、化学的ストレス耐性、および汚染物質処理能力を統合した微生物接種剤を開発するための枠組みを提供するものである。\n                     \nビデオ抄録"
   }
 ]
