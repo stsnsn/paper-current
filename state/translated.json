@@ -324971,5 +324971,295 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "maoPはSalmonella TyphimuriumにおいてcsgDを介してバイオフィルム形成に影響を及ぼす。",
     "abstract_ja": "バイオフィルム形成は、ほとんどの細菌のライフサイクルにおける重要な過程であり、多くの場合表面に付着した多細胞凝集体の形成を伴う。この過程を制御する複雑な調節経路については広範な研究が行われてきたが、多くの側面が十分に解明されていない。もともと染色体構成における役割から命名されたMaoPは、大腸菌（Escherichia coli）およびサルモネラ属菌エンテリカ血清型ティフィムリウム（Salmonella enterica serovar Typhimurium）のバイオフィルム形成に重要な影響を及ぼすことがこれまでに示されている。本研究では、S. Typhimurium 14028SにおけるMaoPがバイオフィルム形成にどのように影響するかをさらに検討した。我々は、maoPの欠損により、バイオフィルムマトリックス構成成分であるcurliおよびセルロースの産生が減少し、バイオフィルム形成が有意に抑制されること、またこれが中心的なバイオフィルム調節因子csgDの転写産物量の減少に関連していることを示した。WT株およびmaoP欠損株のバイオフィルムのトランスクリプトームを比較した結果、MaoPがcsgDおよびそのレギュロンに及ぼす顕著な影響が確認された。MaoPがバイオフィルム形成にどのように影響するかをさらに検討するため、{Delta}maoP背景においてcurliの産生を回復させた抑制変異体を選択するためのバイオフィルム進化実験を行った。これらの変異体のシーケンシングにより、csgDの上流にcsgDの転写産物量を増加させ、バイオフィルム形成を野生型レベルまで回復させる一塩基多型が同定された。結論として、我々の知見は、MaoPが中心的なバイオフィルム調節因子CsgDの制御を通じてバイオフィルム形成の調節に関与する経路を示唆している。"
+  },
+  {
+    "id": "10.1186/s42523-026-00661-7",
+    "title": "Pichia kudriavzevii supplementation alters rumen microbiome and enhances milk performance in heat-stressed dairy buffaloes",
+    "abstract": "Yeast is widely used as a probiotic feed additive in ruminant nutrition. However, its effects on rumen function and milk performance in heat-stressed buffaloes remain poorly understood. To address this, we investigated the physiological and microbial responses to Pichia kudriavzevii Y8 supplementation. Twenty-seven dairy buffaloes under heat stress were randomly assigned to three groups: a control group (CON, basal diet), a low-dose supplementation group (LPK, basal diet + 2 × 1011 CFU/head/day), and a high-dose supplementation group (HPK, basal diet + 4 × 1011 CFU/head/day). Throughout the experimental period, all animals were exposed to heat stress, with the Buffalo Comfort Climatic Conditions Index consistently exceeding 34.65. The results showed that Y8 supplementation significantly lowered rectal temperature and respiratory rate, while increasing dry matter intake and the apparent digestibility of dry matter, crude protein, neutral detergent fiber, and acid detergent fiber. It simultaneously enhanced the yields of milk fat, protein, and lactose, whereas the milk yield was unchanged. Serum indicators analysis revealed elevated total protein and urea nitrogen concentrations, along with reduced triglyceride concentration in Y8 supplemented groups. Rumen fermentation parameters showed increased concentrations of acetate, propionate, and total volatile fatty acids in Y8 supplemented groups. Amplicon sequencing (16S, 18S, and ITS) revealed that Y8 altered bacterial beta-diversity and increased the relative abundance of Prevotella. Metagenomic analysis further showed that the abundance of genes involved in pyruvate metabolism (pycA, pta, and aceE), branched-chain amino acid degradation (tyrB and sad), lactate utilization (lldD), and succinate synthesis (PCCA, MCEE, and acnB) were enriched, whereas genes associated with the propionate synthesis pathway (porABD) were decreased in Y8 supplemented group. Collectively, Y8 supplementation improved milk performance in dairy buffaloes by modulating rumen microbial composition and metabolic functions, and serves as a potential candidate for dietary intervention under heat stress.",
+    "journal": "Animal Microbiome",
+    "doi": "10.1186/s42523-026-00661-7",
+    "date": "2026-11-23",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s42523-026-00661-7",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "metagenom",
+        "metagenomic",
+        "microbial",
+        "microbiome",
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=42523",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5537,
+    "collected_at": "2026-11-24T01:01:00.011480+00:00",
+    "collected_date": "2026-11-24",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=42523"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1186/s42523-026-00661-7"
+    ],
+    "translation": {
+      "title": {
+        "hash": "1b195fb922a3aff9ca2c6e925fb8fb6a45c8ad08e02db0e4ee645309cbcdcefb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T01:22:14.258431+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "041968c0ab382c277357593c8b6d677253e9a91e1b7554e23b4b4d3c9525e48b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T01:22:14.258431+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Pichia kudriavzeviiの補給は、暑熱ストレスを受けた乳用水牛のルーメン微生物叢を変化させ、乳性能を向上させる。",
+    "abstract_ja": "酵母は、反芻動物の栄養管理においてプロバイオティクス飼料添加物として広く利用されている。しかし、暑熱ストレス下にある水牛のルーメン機能および乳性能に及ぼす影響については、依然として十分に解明されていない。この課題に対処するため、本研究ではPichia kudriavzevii Y8添加に対する生理学的および微生物学的反応を検討した。暑熱ストレス下にある乳用水牛27頭を、対照群（CON、基本飼料）、低用量添加群（LPK、基本飼料 + 2 × 10¹¹ CFU/頭/日）、および高用量添加群（HPK、基本飼料 + 4 × 10¹¹ CFU/頭/日）の3群に無作為に割り付けた。実験期間中、すべての個体に暑熱ストレスを負荷し、Buffalo Comfort Climatic Conditions Indexは一貫して34.65を超えた。その結果、Y8添加により直腸温と呼吸数が有意に低下し、一方で乾物摂取量ならびに乾物、粗タンパク質、中性界面活性剤繊維、および酸性界面活性剤繊維の見かけの消化率が増加した。同時に、乳脂肪、タンパク質、および乳糖の収量が増加したが、乳量は変化しなかった。血清指標の解析により、Y8添加群では総タンパク質および尿素窒素濃度の上昇とともに、トリグリセリド濃度の低下が認められた。ルーメン発酵パラメータでは、Y8添加群において酢酸、プロピオン酸、および総揮発性脂肪酸の濃度上昇が認められた。アンプリコンシーケンシング（16S、18S、およびITS）により、Y8が細菌のβ多様性を変化させ、Prevotellaの相対存在量を増加させることが明らかになった。メタゲノム解析では、ピルビン酸代謝（pycA、pta、およびaceE）、分岐鎖アミノ酸分解（tyrBおよびsad）、乳酸利用（lldD）、およびコハク酸合成（PCCA、MCEE、およびacnB）に関与する遺伝子の存在量が増加した一方、プロピオン酸合成経路に関連する遺伝子（porABD）はY8添加群で減少していた。総じて、Y8添加はルーメン微生物組成および代謝機能を調節することで乳用水牛の乳性能を向上させ、暑熱ストレス下における飼料介入の潜在的な候補となり得る。"
+  },
+  {
+    "id": "10.1093/bioinformatics/btag854",
+    "title": "GSP: a multi-scale metric for evaluation of 3D RNA structure predictions",
+    "abstract": "AbstractMotivationAccurate prediction of RNA 3D structures remains a central challenge in structural bioinformatics, necessitating reliable measures to quantify similarity between predicted models and experimentally determined reference structures. Currently, many scoring functions are available to assess different aspects of the tertiary structures of biomolecules. On the one hand, global measures average local irregularities, so that structures with distortions in different regions might generally be considered structurally similar. On the other hand, local conformational measures focus on specific inter-residue interactions and often fail to capture the broader topological context. Thus, there is a lack of methods capable of comprehensively assessing structural discrepancies across various spatial scales.ResultsTo address this gap, we introduce Geometric Spherical Precision (GSP), a novel multi-scale score that assesses the quality of 3D RNA and RNP complex predictions. It integrates multiple partial scores computed from local geometric agreements into a single, easy-to-read, normalized score for ranking these predictions. We demonstrate that GSP reliably identifies models with comparable overall deviations, while maintaining strong agreement with global measures. These properties make it a useful tool for benchmarking and comparing 3D RNA structures and RNP complexes.Availability and ImplementationThe GSP script and evaluation results against state-of-the-art measures on the RNA-Puzzles and CASP15 datasets are available at https://doi.org/10.5281/zenodo.19608328.Supplementary informationSupplementary data are available at Bioinformatics online.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag854",
+    "date": "2026-11-23",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag854/9116087?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "method",
+        "prediction"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "RNA",
+          "method",
+          "prediction"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5534,
+    "collected_at": "2026-11-24T01:01:00.011480+00:00",
+    "collected_date": "2026-11-24",
+    "sources": [
+      "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1093/bioinformatics/btag854"
+    ],
+    "translation": {
+      "title": {
+        "hash": "eddabf9ed0057fa2ee2439ac6dd3bdbbd931e474f98b48098e1edf49a5fc701f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T01:22:14.258431+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ac810df4afcc56b2c07185515065a3f8a2cdf6648863bb1a543104f2b76e513b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T01:22:14.258431+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "GSP: 3次元RNA構造予測評価のためのマルチスケール指標",
+    "abstract_ja": "要旨動機RNA 3D構造の高精度な予測は、構造バイオインフォマティクスにおける中心的な課題であり続けており、予測モデルと実験的に決定された参照構造との類似性を定量化するための信頼性の高い指標が必要とされている。現在、生体分子の三次構造のさまざまな側面を評価するためのスコアリング関数が数多く提供されている。一方で、大域的な指標は局所的な不規則性を平均化するため、異なる領域に歪みを持つ構造であっても、一般的に構造的に類似しているとみなされがちである。他方で、局所的なコンフォメーション指標は特定の残基間相互作用に焦点を当てており、より広範なトポロジカルな文脈を捉えきれないことが多い。したがって、さまざまな空間スケールにわたる構造的乖離を包括的に評価できる手法が不足している。結果このギャップを埋めるため、我々は3D RNAおよびRNP複合体予測の品質を評価する新たなマルチスケールスコアであるGeometric Spherical Precision (GSP) を提案する。本スコアは、局所的な幾何学的一致から算出された複数の部分的スコアを、単一の読み取りやすく正規化されたスコアに統合し、これらの予測をランク付けする。我々は、GSPが大域的な指標との強い一致を維持しつつ、全体的な偏差が同程度のモデルを確実に識別できることを実証する。これらの特性により、本スコアは3D RNA構造およびRNP複合体のベンチマークおよび比較のための有用なツールとなる。利用可能性と実装GSPスクリプトおよび、RNA-PuzzlesおよびCASP15データセットにおける最先端の指標との比較評価結果は、https://doi.org/10.5281/zenodo.19608328 で公開されている。補足情報補足データはBioinformatics onlineで入手可能である。"
+  },
+  {
+    "id": "10.1093/femsmc/xtag056",
+    "title": "Longitudinal analysis of vaccine-associated alterations in the faecal microbiota of layer chickens using a vaccination schedule representative of commercial practice",
+    "abstract": "AbstractThe gut microbiota is crucial for immune development and overall health in chickens. In commercial production, birds routinely receive multiple vaccines during early life. While individual vaccines are known to affect microbial composition, the impact of complex, multi-vaccine programs, as used in the poultry industry, is not well understood. This pilot longitudinal study examined the impact of multiple live and inactivated vaccines, given at commercially relevant times from an early age, on gut microbial diversity and composition in layer chickens. We characterized microbiota profiles using 16S rRNA gene sequencing at pre- and post-vaccination timepoints across different vaccine groups. Overall, microbial diversity remained stable across most vaccines, indicating strong resilience of the gut microbiota to repeated immunological interventions. Differential abundance analyses didn’t identify significant changes in taxa following vaccination. The gut microbial community also showed stability after the completion of the vaccination schedule. These preliminary findings underscore the robustness of the chicken gut ecosystem and lay a foundation for future research into microbiome-vaccine interactions and their implications for poultry health, immunity, and production efficiency.",
+    "journal": "FEMS Microbes",
+    "doi": "10.1093/femsmc/xtag056",
+    "date": "2026-11-23",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/femsmicrobes/article/doi/10.1093/femsmc/xtag056/9116426?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "microbial",
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6274/4057.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5543,
+    "collected_at": "2026-11-24T01:01:00.011480+00:00",
+    "collected_date": "2026-11-24",
+    "sources": [
+      "https://academic.oup.com/rss/site_6274/4057.xml"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1093/femsmc/xtag056"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d6650f1e11410b815c5343f5732e35ddd07c6b776dd85c82403b68594fe5a29d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T01:22:14.258431+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "854f42ac3f5be01c023ddc7e026fb7f84aba218834689094354bcd53c0a4e0a3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T01:22:14.258431+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "商業慣行を代表するワクチン接種スケジュールを用いた採卵鶏の糞便微生物叢におけるワクチン関連変化の縦断的解析",
+    "abstract_ja": "要旨 腸内細菌叢は、鶏の免疫発達および全身の健康において極めて重要である。商業生産においては、鶏は生後早期に複数のワクチンを日常的に接種される。個々のワクチンが微生物組成に影響を及ぼすことは知られているが、家禽産業で採用されているような複合的な多ワクチンプログラムの影響については、十分に解明されていない。本パイロット縦断研究では、若齢期から商業的に適切な時期に投与された複数の生ワクチンおよび不活化ワクチンが、採卵鶏の腸内微生物の多様性と組成に及ぼす影響を検討した。異なるワクチン群において、ワクチン接種前後の時点における16S rRNA遺伝子シーケンシングを用いて、微生物叢プロファイルを解析した。全体として、ほとんどのワクチンにおいて微生物多様性は安定しており、反復的な免疫学的介入に対する腸内細菌叢の高い耐性が示された。差次的存在量解析では、ワクチン接種後の分類群における有意な変化は認められなかった。また、腸内微生物群集はワクチン接種スケジュールの完了後においても安定性を示した。これらの予備的な知見は、鶏の腸管生態系の頑健性を裏付けるものであり、マイクロバイオームとワクチンの相互作用、およびそれが家禽の健康、免疫、生産効率に及ぼす影響に関する今後の研究の基盤となるものである。"
+  },
+  {
+    "id": "10.1093/femsyr/foag063",
+    "title": "Safety Evaluation and Stress Tolerance of the Evolved Probiotic Yeast Saccharomyces boulardii SBPY3_EV for Functional Food Applications",
+    "abstract": "AbstractThe selection of robust probiotic strains with high gastrointestinal (GI) persistence is critical for the development of effective functional foods. Evolved yeast strain, Saccharomyces boulardii SBPY3_EV, was characterized through whole-genome sequencing (WGS) and functional phenotyping. WGS analysis confirmed high genomic integrity (99.2% BUSCO completeness) and phylogenetic identity with reference S. boulardii strains, supporting its status as a safe probiotic candidate. Safety evaluations further demonstrated non-hemolytic activity and susceptibility to clinically relevant azole antifungals. Phenotypic assays revealed that SBPY3_EV possesses superior GI fitness compared to its parental lineage and commercial standards. Evolved strain exhibited a significant 3.51-fold increase in acid tolerance (pH 3.0) and maintained robust viability in the presence of 1.5% bile salts and 9% NaCl. In vitro colonization assays using Caco-2 and HT-29 intestinal epithelial models demonstrated that SBPY3_EV achieves exceptional adhesion rates (80.4%–84.7%), significantly outperforming the reference probiotic Lacticaseibacillus rhamnosus GG. Furthermore, SBPY3_EV showed high survival (88–100%) in the gastric and during simulated small intestinal transit and exerted antagonistic activity against key foodborne pathogens, including Escherichia coli and Staphylococcus aureus. These findings provide a molecular and physiological basis for the enhanced performance of SBPY3_EV, positioning it as a highly resilient next-generation probiotic for food and nutraceutical applications.",
+    "journal": "FEMS Yeast Research",
+    "doi": "10.1093/femsyr/foag063",
+    "date": "2026-11-23",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://academic.oup.com/femsyr/advance-article/doi/10.1093/femsyr/foag063/9116420?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "Saccharomyces",
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5387/advanceAccess_3248.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5533,
+    "collected_at": "2026-11-24T01:01:00.011480+00:00",
+    "collected_date": "2026-11-24",
+    "sources": [
+      "https://academic.oup.com/rss/site_5387/advanceAccess_3248.xml"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1093/femsyr/foag063"
+    ],
+    "translation": {
+      "title": {
+        "hash": "717f35d9924612e66b754334f682f2eb49eb6e6a9da89c16cb201e5ebc1e8982",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T01:22:14.258431+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ea9d7d54d135f340590c9065dc3eaac7c155958d59ec2a9964c03abdc21bfc71",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T01:22:14.258431+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "機能性食品への応用に向けた進化型プロバイオティクス酵母Saccharomyces boulardii SBPY3_EVの安全性評価およびストレス耐性",
+    "abstract_ja": "要旨 高い消化管（GI）持続性を有する頑健なプロバイオティクス菌株の選定は、効果的な機能性食品の開発において極めて重要である。進化株である酵母菌 Saccharomyces boulardii SBPY3_EV について、全ゲノムシーケンシング（WGS）および機能的フェノタイピングにより特性解析を行った。WGS解析により、高いゲノム完全性（BUSCO完全性99.2%）および参照 S. boulardii 株との系統学的同一性が確認され、安全なプロバイオティクス候補としての地位が裏付けられた。安全性評価では、非溶血活性および臨床的に重要なアゾール系抗真菌薬への感受性がさらに実証された。表現型アッセイの結果、SBPY3_EV は親系統や市販標準株と比較して優れたGI適応性を有することが明らかとなった。進化株は酸耐性（pH 3.0）が3.51倍に有意に向上し、1.5%胆汁酸塩および9% NaCl存在下においても強固な生存能を維持した。Caco-2およびHT-29腸上皮モデルを用いたin vitro定着アッセイでは、SBPY3_EV が極めて高い接着率（80.4%–84.7%）を達成し、参照プロバイオティクスである Lacticaseibacillus rhamnosus GG を有意に上回ることが示された。さらに、SBPY3_EV は胃内および模擬小腸通過において高い生存率（88–100%）を示し、Escherichia coli や Staphylococcus aureus を含む主要な食品由来病原体に対して拮抗活性を示した。これらの知見は、SBPY3_EV の性能向上に関する分子・生理学的根拠を提供するものであり、食品およびニュートラシューティカル用途における極めて強靭な次世代プロバイオティクスとしての位置付けを示すものである。"
   }
 ]
