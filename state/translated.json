@@ -332218,5 +332218,292 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "古細菌において二倍体の位置を決定する保存された振動系",
     "abstract_ja": "広く保存され、広範に分布するDipABCシステムは、FtsZを利用する古細菌において精密な細胞分裂を可能にするとともに、細菌のMinシステムとの収斂進化の一例となっている。"
+  },
+  {
+    "id": "10.1038/s41564-026-02533-x",
+    "title": "Mycobacterial phenolic glycolipid triggers ATP-mediated neuronal signalling and cough",
+    "abstract": "Certain strains of Mycobacterium tuberculosis produce a phenolic glycolipid that activates sensory neurons and triggers cough through ATP signalling, revealing a potential mechanism that may promote transmission.",
+    "journal": "Nature Microbiology",
+    "doi": "10.1038/s41564-026-02533-x",
+    "date": "2026-11-24",
+    "authors": "Michael U. Shiloh",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.nature.com/articles/s41564-026-02533-x",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.nature.com/nmicrobiol.rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5596,
+    "collected_at": "2026-11-24T21:21:51.319977+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "https://www.nature.com/nmicrobiol.rss"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1038/s41564-026-02533-x"
+    ],
+    "translation": {
+      "title": {
+        "hash": "159ffc5926da3ef8b54799b532c097477f526c546fc01cfafdb15bb09a46a518",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T21:45:36.536292+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "fff979c1481061f9b90d16e67fe21ce4ea813680df3ef9b915a91f47f3becb00",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T21:45:36.536292+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "マイコバクテリア由来のフェノール性糖脂質は、ATP介在性の神経シグナル伝達と咳嗽を誘発する。",
+    "abstract_ja": "結核菌の特定の菌株は、感覚ニューロンを活性化し、ATPシグナル伝達を介して咳を誘発するフェノール性糖脂質を産生する。これは、伝播を促進する可能性のある機序を明らかにするものである。"
+  },
+  {
+    "id": "10.1038/s41564-026-02538-6",
+    "title": "Structural basis for proton-powered secretion by the bacterial flagellar export machinery",
+    "abstract": "Structural and functional analyses of the proton-dependent export apparatus that powers secretion of flagellar components in Salmonella reveal architectural similarities with rotary motors.",
+    "journal": "Nature Microbiology",
+    "doi": "10.1038/s41564-026-02538-6",
+    "date": "2026-11-24",
+    "authors": "Susan M. Lea",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.nature.com/articles/s41564-026-02538-6",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.nature.com/nmicrobiol.rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5597,
+    "collected_at": "2026-11-24T21:21:51.319977+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "https://www.nature.com/nmicrobiol.rss"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1038/s41564-026-02538-6"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d2c751482c00a11b11027cd7e953bdc0eeec9d34211101b66872bba3b0e1904a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T21:45:36.536292+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d319094104cc4dbde20084c62f8bb4a1cc0797369f6d0e3a26c5da11b8f6103f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T21:45:36.536292+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "細菌の鞭毛輸出機構によるプロトン駆動型分泌の構造的基盤",
+    "abstract_ja": "サルモネラ菌の鞭毛構成成分の分泌を担うプロトン依存性輸出装置の構造的・機能的解析により、回転モーターとの構造的類似性が明らかになった。"
+  },
+  {
+    "id": "10.64898/2026.11.22.768462",
+    "title": "Poxvirus-induced concurrent activation of SAMD9 and ERK establishes a unique immune state with heightened IFN-I responses to danger signals",
+    "abstract": "Mammalian poxviruses must overcome the cellular restriction factor SAMD9 to establish productive infection. SAMD9 is a widely expressed cytoplasmic sensor of double-stranded nucleic acids (dsNA) that induces type-1 interferon (IFN-I) responses and possesses anticodon-nuclease activity targeting tRNAphe specifically. To counteract SAMD9, poxviruses have evolved dedicated antagonists, including myxoma virus (MYXV) M062, which blocks both dsNA sensing and tRNAphe-nuclease activity. However, the significance of tRNAphe depletion during poxvirus infection has remained unclear. Here, we showed that mammalian poxviruses exhibit an unexpected enrichment of phenylalanine within their proteomes and preferentially utilize UUU phenylalanine codon. In contrast, host interferon-stimulated genes (ISGs) have lower phenylalanine frequencies than poxviruses and instead preferentially utilize UUC codon. Together with the known preferentially translational impairment of UUU-rich transcripts following SAMD9-mediated tRNAphe depletion, these findings suggest a mechanism by which unobstructed SAMD9 disproportionally restricts poxvirus protein synthesis while preserving host antiviral protein production. Next, using an M062-deficient MYXV mutant ({Delta}M062R), we characterized the cellular consequences of unrestricted SAMD9 activation. Unlike vaccinia virus lacking the SAMD9 antagonists C7 and K1 (VACV-{Delta}C7L/K1L), {Delta}M062R infection induced robust ERK1/2 signaling and preserved cell growth despite SAMD9 activation. Meanwhile, {Delta}M062R infection sustained expression of antiviral and proinflammatory proteins while restricting viral protein synthesis. This established a unique cellular state characterized by heightened responsiveness to subsequent innate immune stimulation. These findings identify a previously unrecognized interaction between SAMD9-mediated translation control and ERK1/2 signaling that renders a buffering effect to catastrophic SAMD9-mediated translation shutdown and thus provide new insight into antiviral restriction and innate immune regulation.",
+    "journal": "",
+    "doi": "10.64898/2026.11.22.768462",
+    "date": "2026-11-24",
+    "authors": "Liu, J., Raza, T., Ma, L., Peterson, E. A., Liem, J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.22.768462v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5598,
+    "collected_at": "2026-11-24T21:21:51.319977+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.64898/2026.11.22.768462"
+    ],
+    "translation": {
+      "title": {
+        "hash": "15c6115fddd759cf4769da017ecca15a84738323ccd019a3182f4aad69dee604",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T21:45:36.536292+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "aa81664443cfde7639306bfd0cd5a77230e4a062304be4fb7bf95c54163a2d34",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T21:45:36.536292+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ポックスウイルス誘導性のSAMD9およびERKの同時活性化は、危険シグナルに対するIFN-I応答が亢進した特異的な免疫状態を形成する。",
+    "abstract_ja": "哺乳類ポックスウイルスが生産的な感染を確立するには、細胞制限因子SAMD9を克服しなければならない。SAMD9は、1型インターフェロン（IFN-I）応答を誘導し、tRNApheを特異的に標的とするアンチコドンヌクレアーゼ活性を有する、広く発現している二本鎖核酸（dsNA）の細胞質センサーである。SAMD9に対抗するため、ポックスウイルスは、dsNA感知とtRNApheヌクレアーゼ活性の両方を阻害するマイクソマウイルス（MYXV）M062を含む専用のアンタゴニストを進化させてきた。しかし、ポックスウイルス感染におけるtRNAphe枯渇の意義は不明なままであった。本研究では、哺乳類ポックスウイルスがプロテオーム内でフェニルアラニンの予期せぬ濃縮を示し、UUUフェニルアラニンコドンを優先的に利用することを明らかにした。対照的に、宿主のインターフェロン刺激遺伝子（ISGs）はポックスウイルスよりもフェニルアラニンの頻度が低く、代わりにUUCコドンを優先的に利用する。SAMD9介在性のtRNAphe枯渇後にUUUリッチ転写産物の翻訳が優先的に阻害されるという既知の知見と合わせると、これらの結果は、阻害されていないSAMD9が宿主の抗ウイルスタンパク質産生を維持しつつ、ポックスウイルスのタンパク質合成を不釣り合いに制限するメカニズムを示唆している。次に、M062欠損MYXV変異体（{Delta}M062R）を用いて、無制限なSAMD9活性化による細胞レベルの影響を特性評価した。SAMD9アンタゴニストC7およびK1を欠くワクシニアウイルス（VACV-{Delta}C7L/K1L）とは異なり、{Delta}M062R感染はSAMD9活性化にもかかわらず、強力なERK1/2シグナル伝達を誘導し、細胞増殖を維持した。一方、{Delta}M062R感染は、ウイルスタンパク質合成を制限しつつ、抗ウイルスタンパク質および炎症性タンパク質の発現を維持した。これにより、その後の自然免疫刺激に対する応答性が亢進することを特徴とする、独自の細胞状態が確立された。これらの知見は、SAMD9介在性の翻訳制御とERK1/2シグナル伝達との間に、これまで認識されていなかった相互作用があることを特定したものであり、壊滅的なSAMD9介在性の翻訳停止に対する緩衝効果をもたらし、抗ウイルス制限および自然免疫調節に関する新たな知見を提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "bioRxiv",
+        "query": "details/biorxiv/2026-10-20/2026-11-10",
+        "scope": "candidate"
+      }
+    ],
+    "id": "10.64898/2026.04.08.717340",
+    "doi": "10.64898/2026.04.08.717340",
+    "title": "Comparative genomics of zooxanthellate and azooxanthellate Palythoa (Cnidaria: Zoantharia) provides insights into symbiosis evolution and the origin of palytoxin",
+    "abstract": "Zoantharians (Cnidaria) are globally distributed from shallow reefs to the deep sea, yet their genomic resources remain scarce. Within the zoantharian genus Palythoa, most species harbor photosymbiotic dinoflagellates, whereas some have secondarily lost this symbiosis, allowing genomic changes associated with symbiotic status to be examined. Palythoa is also the original source of palytoxin, one of the most potent marine toxins known, but whether it is produced by the host or by associated microorganisms remains unresolved. Here we generated high-quality genome assemblies of two zooxanthellate Palythoa species and compared five Palythoa genomes spanning both symbiotic states with those of other anthozoans. Across anthozoans, genome size scaled with transposable element content, particularly retrotransposons. The azooxanthellate lineage carries substitutions in conserved domains of the symbiosis-related proteins LePin and NPC2 and shows rapid evolution of the lectin gene CLEC4A, whereas NF-{kappa}B and V-type H+-ATPase remain conserved. Palythoa genomes showed no lineage-specific expansion of polyketide synthase (PKS) genes; cnidarian PKS genes were restricted to P. caribaeorum and P. sp. sakurajimensis (clade III). In contrast, 27 bacterial PKS sequences were recovered from metatranscriptomes and a metagenome-assembled genome across species, including an azooxanthellate species, indicating that they derive from associated bacterial rather than Symbiodiniaceae. These genomes provide a comparative framework for zoantharians and reveal genomic changes associated with symbiotic status. We propose that palytoxin originates from associated bacteria rather than from the host, a hypothesis that can be tested by identifying the producing bacteria and their biosynthetic gene clusters.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "2",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.04.08.717340"
+    ],
+    "date": "2026-10-23",
+    "authors": "Yoshioka, Y.; Shoguchi, E.; Chiu, Y.-L.; Kawamitsu, M.; Reimer, J. D.; Yamashita, H.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.04.08.717340v2",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "dinoflagellate",
+        "metagenom",
+        "metagenome",
+        "metatranscriptom",
+        "metatranscriptomes",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [
+          "assemblies",
+          "evolution",
+          "genom",
+          "genome",
+          "genomic",
+          "metagenom",
+          "metagenome"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 5584,
+    "collected_at": "2026-11-24T21:11:07.209251+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-24",
+    "translation": {
+      "title": {
+        "hash": "ebad046b04f5cbc72ad7ef2b3f0f9bd60fb85f3f7986e128cde298bb6ac5243d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T21:45:36.536292+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ad0a3b9abf18d515ef5d16e38611b15a0a17e1e42c5e0c01f42a2c80031039a6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T21:45:36.536292+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "褐虫藻類および褐虫藻類のPalythoa（刺胞動物門：褐虫藻綱）の比較ゲノミクスは、共生の進化とパリトキシンの起源に関する知見をもたらす。",
+    "abstract_ja": "ゾアンサリア（刺胞動物）は浅い礁から深海まで世界的に分布しているが、そのゲノム資源は依然として乏しい。ゾアンサリアのパリトア属では、ほとんどの種が光共生性渦鞭毛藻を宿しているが、一部の種ではこの共生が二次的に失われており、共生状態に伴うゲノム変化を調べることができる。パリトア属はまた、既知の最も強力な海洋毒素の一つであるパリトキシンの起源であるが、それが宿主によって産生されるのか、あるいは共生微生物によって産生されるのかは未解明である。ここで我々は、2種の褐虫藻性パリトア属の高品質なゲノムアセンブリを作成し、共生状態にわたる5つのパリトア属ゲノムを他の花虫類のゲノムと比較した。花虫類全体において、ゲノムサイズは転移因子、特にレトロトランスポゾンの含有量に比例していた。無酸素サンショウウオ類の系統は、共生関連タンパク質LePinおよびNPC2の保存ドメインに置換を有し、レクチン遺伝子CLEC4Aの急速な進化を示す一方、NF-{kappa}BおよびV型H+-ATPaseは保存されていた。パリトア属のゲノムでは、ポリケチド合成酵素（PKS）遺伝子の系統特異的な拡大は認められず、刺胞動物のPKS遺伝子はP. caribaeorumおよびP. sp. sakurajimensis（クレードIII）に限定されていた。対照的に、無酸素サンショウウオ類1種を含む種間のメタトランスクリプトームおよびメタゲノムアセンブリゲノムから、27個の細菌PKS配列が回収され、これらはSymbiodiniaceaeではなく共生細菌に由来することが示された。これらのゲノムはゾアンサリアの比較枠組みを提供し、共生状態に伴うゲノム変化を明らかにする。我々は、パリトキシンが宿主ではなく共生細菌に由来することを提唱しており、この仮説は産生細菌とその生合成遺伝子クラスターを同定することで検証できる。"
   }
 ]
