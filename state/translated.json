@@ -330026,5 +330026,297 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "TFAM依存性ミトコンドリア適応度がCD8⁺ T細胞免疫病理を制限し、ウイルス性肺炎における防御免疫を維持する",
     "abstract_ja": "呼吸器系ウイルス感染症において、CD8 T細胞はウイルス感染細胞を死滅させ、抗原特異的な免疫記憶を形成するが、過剰または調節不全の応答も肺の免疫病理に寄与し得る。最適なCD8 T細胞エフェクター応答および記憶応答の発現と維持はミトコンドリアの適応度に依存しており、この適応度は複数の生理学的・病理学的条件下で損なわれる可能性がある。しかし、ミトコンドリア適応度の低下が抗ウイルスCD8 T細胞応答にどのような影響を及ぼすかについては、依然として十分に解明されていない。本研究では、CD8 T細胞特異的なTFAMハプロ不全マウスモデルを用いて、完全なTFAM喪失に伴う重篤なミトコンドリア機能障害を伴わずに中程度のミトコンドリアストレスを誘導し、生理学的条件に関連するミトコンドリア摂動の遺伝的に制御されたモデルを構築した。TFAM不全はミトコンドリアの完全性と細胞の生体エネルギー代謝を乱し、CD8 T細胞におけるミトコンドリアDNA量および酸化ストレスを増加させた。原発性A型インフルエンザウイルス（IAV）感染において、TFAM不全のCD8 T細胞は、肺の免疫病理に関連する細胞傷害活性および炎症応答の亢進を示し、続いて機能的な疲弊の進行、抗原特異的応答の減弱、および防御免疫の低下が認められた。これらの知見の生理学的関連性と一致して、高齢個体由来のCD8 T細胞ではTFAM発現およびミトコンドリア機能の低下が認められた。総じて、本研究の結果は、中程度のミトコンドリアストレスが抗ウイルスCD8 T細胞応答の軌跡を変化させ、急性感染時には病原性エフェクター活性を促進する一方で、その後の防御免疫を損なうことを実証している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "bioRxiv",
+        "query": "details/biorxiv/2026-10-20/2026-11-10",
+        "scope": "candidate"
+      }
+    ],
+    "id": "10.64898/2025.12.05.692231",
+    "doi": "10.64898/2025.12.05.692231",
+    "title": "Unimeth: A unified transformer framework for accurate DNA methylation detection from nanopore reads",
+    "abstract": "Nanopore sequencing enables direct detection of DNA modifications from native DNA. However, accurate methylation calling across species, sequence contexts, modification types and chemistries remains challenging. We developed Unimeth, a transformer-based framework that jointly processes raw signals and basecalled sequences to predict methylation at all target sites within read patches. Unimeth uses multi-phase training that combines signal pre-training, methylation fine-tuning and site-level calibration. We evaluated Unimeth for 5mC and 6mA detection using public and in-house datasets spanning 14 organisms, R9.4.1 and R10.4.1 nanopore chemistries, and wild-type, mutant and enzyme-treated samples. Unimeth improved plant 5mC detection in non-CpG contexts, reduced false-positive calls in low-methylation samples and maintained high performance for 5mCpG detection. We also sequenced an Alzheimer's disease brain sample and further validated Unimeth. For 6mA, Unimeth reduced background calls while retaining signals for nucleosome profiling and gene-level analysis. Unimeth provides an open-source framework for methylation detection across modification types, species and nanopore chemistries.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "4",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2025.12.05.692231"
+    ],
+    "date": "2026-10-22",
+    "authors": "Wang, S.; Ni, P.; Xiao, Y.; Sheng, T.; Huang, N.; Shu, Y.; Li, H.-D.; Shen, L.; Yan, X.-X.; Zhai, J.; Luo, F.; Wang, J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2025.12.05.692231v4",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "DNA",
+        "framework",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5562,
+    "collected_at": "2026-11-24T14:50:01.882069+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-24",
+    "translation": {
+      "title": {
+        "hash": "d48d008f386a2d57f2aade0fd2358fcbc941dc9e03a8061180539490cc77e76d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T15:30:51.093802+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "919cf109d83bb37b70ae5b64d18a187085051ed4721eccceb09f44e600cff559",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T15:30:51.093802+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Unimeth: ナノポアリードからの高精度なDNAメチル化検出のための統合型トランスフォーマーフレームワーク",
+    "abstract_ja": "ナノポアシーケンシングにより、天然DNAからのDNA修飾の直接検出が可能となっている。しかし、種、配列コンテキスト、修飾タイプ、および化学的手法を横断した正確なメチル化コールは依然として困難な課題である。我々は、生信号とベースコール済み配列を統合的に処理し、リードパッチ内のすべての標的部位におけるメチル化を予測するTransformerベースのフレームワーク「Unimeth」を開発した。Unimethは、信号の事前学習、メチル化のファインチューニング、および部位レベルのキャリブレーションを組み合わせたマルチフェーズ学習を採用している。我々は、14種の生物、R9.4.1およびR10.4.1ナノポア化学的手法、ならびに野生型、変異体、および酵素処理サンプルにわたる公開および社内データセットを用いて、5mCおよび6mA検出におけるUnimethの評価を行った。Unimethは、非CpGコンテキストにおける植物の5mC検出精度を向上させ、低メチル化サンプルにおける偽陽性コールを減少させ、5mCpG検出においても高い性能を維持した。また、アルツハイマー病の脳サンプルのシーケンシングを行い、Unimethの検証をさらに進めた。6mAに関しては、Unimethはバックグラウンドコールを減少させつつ、ヌクレオソームプロファイリングおよび遺伝子レベルの解析のための信号を保持した。Unimethは、修飾タイプ、種、およびナノポア化学的手法を横断したメチル化検出のためのオープンソースフレームワークを提供する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "bioRxiv",
+        "query": "details/biorxiv/2026-10-20/2026-11-10",
+        "scope": "candidate"
+      }
+    ],
+    "id": "10.64898/2026.06.17.732839",
+    "doi": "10.64898/2026.06.17.732839",
+    "title": "Structural Basis for Dimeric Genome Selection by HIV-1",
+    "abstract": "HIV-1 selects and packages a dimeric RNA genome into assembling virions, a requirement for strand transfer-mediated recombination during reverse transcription. Conserved RNA elements within the 5'-leader that promote dimerization and packaging have been identified (dimer initiation signal, DIS; core encapsidation signal, {Psi} CES; respectively), but the molecular mechanism that couples these processes remains unknown. Using an in vitro virus assembly assay, we show that dimeric HIV-1 5'-Leader RNAs promote assembly of viral Gag proteins into protein lattices resembling those of immature virions, whereas monomeric 5'-Leader constructs with similar affinities for Gag do not. Assembly requires the cellular factor, inositol hexakisphosphate, mimicking biology. Cryogenic electron microscopy (cryoEM) and tomography (cryoTM) studies of nascent assemblies are consistent with a structural model in which the dimeric DIS2 helix bridges two elongated 6-helix bundles formed by the SP1 domains of adjacent Gag hexamers. The structure positions clusters of RNA-binding zinc knuckles from Gag's nucleocapsid domain in close proximity to clusters of conserved guanosines shown here to be essential for genome packaging. Our findings suggest that DIS2 functions as a molecular ruler, organizing Gag hexamers into structures optimized for Gag recruitment and Gag lattice expansion.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "2",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.06.17.732839"
+    ],
+    "date": "2026-10-22",
+    "authors": "Hollmann, N. M.; Kharytonchyk, S.; Buchanan, A.; Phillips, C.; Ledbetter, A.; Ahmed, F.; Adelstein, A.; Barry, K.; Geleta, S.; Burnett, C.; Telesnitsky, A.; Ganser-Pornillos, B.; Pornillos, O.; Summers, M. F.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.06.17.732839v2",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assemblies",
+          "assembly",
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5563,
+    "collected_at": "2026-11-24T14:50:01.882069+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-24",
+    "translation": {
+      "title": {
+        "hash": "085dd15a1bd3d2d595e0b2d7763ee875a2e348ba99230c8c9a8a18d4a678a5ba",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T15:30:51.093802+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "88aa00bac9ac071dbc55744a1db99dfb2929378ee1d73b6415bb5f9ebc6c8440",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T15:30:51.093802+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "HIV-1による二量体ゲノム選択の構造的基盤",
+    "abstract_ja": "HIV-1は、二量体RNAゲノムを選択・パッケージングして組み立て型ビリオンを形成するが、これは逆転写における鎖転移介在性組換えに必須である。5'-リーダー内において二量体化とパッケージングを促進する保存RNAエレメント（それぞれ二量体開始シグナル、DIS；コアエンカプシデーションシグナル、{Psi} CES）が同定されているが、これらのプロセスを連関させる分子機構は依然として不明である。in vitroウイルス組み立てアッセイを用いて、我々は、二量体HIV-1 5'-リーダーRNAが、未成熟ビリオンのそれに類似したタンパク質格子へのウイルスGagタンパク質の組み立てを促進する一方で、Gagに対して同様の親和性を持つ単量体5'-リーダー構築体では促進されないことを示す。組み立てには、細胞因子であるイノシトールヘキサキホスフェートの模倣的な生物学的作用が必要である。新生組み立て体の極低温電子顕微鏡（cryoEM）およびトモグラフィー（cryoTM）による研究は、二量体DIS2ヘリックスが、隣接するGagヘキサマーのSP1ドメインによって形成された2つの伸長した6-ヘリックス束を架橋するという構造モデルと一致している。この構造では、Gagのヌクレオカプシドドメイン由来のRNA結合性亜鉛ナックルのクラスターが、本研究でゲノムパッケージングに必須であることが示された保存グアノシンのクラスターに近接して配置されている。我々の知見は、DIS2が分子定規として機能し、GagヘキサマーをGagリクルートメントおよびGag格子拡大に最適化された構造へと組織化することを示唆している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "bioRxiv",
+        "query": "details/biorxiv/2026-10-20/2026-11-10",
+        "scope": "candidate"
+      }
+    ],
+    "id": "10.1101/2025.02.21.639569",
+    "doi": "10.1101/2025.02.21.639569",
+    "title": "CyclicCAE: A Conformational Autoencoder for Efficient Heterochiral Macrocyclic Conformational Sampling",
+    "abstract": "Peptide macrocycles are a promising therapeutic class. The inclusion of heterochiral and non-natural amino acids allows far more folds and functions to be accessed, but creates challenges for rational design -- particularly for sampling plausible mainchain conformations. We developed a conformational autoencoder called CyclicCAE to rapidly generate energetically favourable macrocycle scaffolds for heterochiral design and structure prediction. Given the absence of large, available macrocycle datasets, we created a custom dataset in silico using physics-based simulation methods. Trained on this, CyclicCAE produces energetically stable mainchain conformations and designable scaffolds more rapidly than the current state-of-the-art method, the Rosetta software suite's Generalized Kinematic Closure (GeneralizedKIC) method. We show that, despite being trained exclusively on synthetic data, CyclicCAE accurately captures the conformations accessible to peptide macrocycles found in the Protein Data Bank, with considerable speed advantages over GeneralizedKIC. We also demonstrate that CyclicCAE enables users to perform energy minimization in isolation or in a target-bound context, to generate structurally similar or diverse outputs by Markov Chain Monte Carlo sampling, and to conduct inpainting with fixed motifs. This method, which we release under a free and open source licence, will accelerate macrocycle design pipelines, speeding the development of peptide therapeutics.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "4",
+    "published_doi": "",
+    "related_dois": [
+      "10.1101/2025.02.21.639569"
+    ],
+    "date": "2026-10-22",
+    "authors": "Powers, A. C.; Renfrew, P. D.; Hosseinzadeh, P.; Mulligan, V. K.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.1101/2025.02.21.639569v4",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "gene",
+        "prediction"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "gene",
+          "prediction"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5564,
+    "collected_at": "2026-11-24T14:50:01.882069+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-24",
+    "translation": {
+      "title": {
+        "hash": "c65aa28ad683d0ceb6ece7783845a0bf458eae9459a78bb2a27dff274013dc87",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T15:30:51.093802+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6a372d4b01ab134920b741d79478cf084906eacf2a3c9240c6bb3e8aa32de246",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T15:30:51.093802+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "CyclicCAE: 効率的なヘテロキラル大環状コンフォメーションサンプリングのためのコンフォメーションオートエンコーダ",
+    "abstract_ja": "ペプチド大環状構造は、有望な治療標的クラスである。ヘテロキラルなアミノ酸や非天然アミノ酸を組み込むことで、はるかに多くのフォールドや機能を探索することが可能になる一方で、合理的設計――特に妥当な主鎖コンフォメーションのサンプリング――において課題が生じる。我々は、ヘテロキラル設計および構造予測のために、エネルギー的に有利な大環状骨格を迅速に生成するコンフォメーション・オートエンコーダ「CyclicCAE」を開発した。利用可能な大規模な大環状構造データセットが存在しないため、物理ベースのシミュレーション手法を用いてin silicoでカスタムデータセットを構築した。このデータセットで学習させたCyclicCAEは、現在の最先端手法であるRosettaソフトウェアスイートの一般化運動学的閉包（GeneralizedKIC）法よりも迅速に、エネルギー的に安定な主鎖コンフォメーションおよび設計可能な骨格を生成する。合成データのみで学習させたにもかかわらず、CyclicCAEがProtein Data Bankに収録されているペプチド大環状構造で到達可能なコンフォメーションを正確に捉え、GeneralizedKICに対して大幅な速度上の優位性を持つことを示す。また、CyclicCAEを用いることで、ユーザーが単独または標的結合状態でエネルギー最小化を行い、マルコフ連鎖モンテカルロサンプリングによって構造的に類似した、あるいは多様な出力を生成し、固定モチーフを用いたインペインティングを実施できることも実証する。フリーかつオープンソースライセンスで公開する本手法は、大環状構造設計パイプラインを加速させ、ペプチド治療薬の開発を迅速化させるだろう。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "bioRxiv",
+        "query": "details/biorxiv/2026-10-20/2026-11-10",
+        "scope": "candidate"
+      }
+    ],
+    "id": "10.64898/2026.09.17.752359",
+    "doi": "10.64898/2026.09.17.752359",
+    "title": "A moving target: non-stationary selection governs unsupervised prediction of viral fitness",
+    "abstract": "Anticipating how mutations change viral fitness is central to genomic surveillance and vaccine design. However, the phenotypic data behind the most accurate supervised variant-effect predictors is unavailable for most emerging pathogens. It is therefore unclear how a label-free, unsupervised approach would perform using only sequences, their evolutionary history, and their protein structure. To address this outstanding question, we assemble a modular, fully unsupervised pipeline that estimates key interpretable terms: intrinsic replicative fitness, antigenic escape, and realized growth. Each term is produced by more than one estimator, so that the fitness predictor becomes a testable model choice. Benchmarking the intrinsic term on 21 viral deep-mutational-scanning assays from ProteinGym, we find that a 650-million-parameter single-sequence protein language model (PLM) is a weak predictor of viral fitness, whereas a simple site-independent alignment model more than doubles performance, with the largest gains obtained for the antigenic surface proteins not included in the training of the PLM. On the other hand, PMLs based on protein alignment (MSA Transformer, Tranception) regain the accuracy lost with the single-sequence PML, but do not significantly exceed the simple alignment. Therefore, the most important feature to predict viral fitness is the protein alignment, not model scale or architecture. Our central result is evolutionary: using dated sequences of SARS-CoV-2 spike and influenza H3N2 hemagglutinin, we find that the epoch of the alignment is itself a virus-specific determinant of accuracy. This demonstrates that selection is a non-stationary process, in a manner that is itself virus-specific. A phylogenetic mutation-selection estimator of fitness does not match the far simpler and less computationally expensive alignment model. Altogether, this work shows that unsupervised viral fitness prediction is as much an evolutionary problem as a modeling one.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "2",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.09.17.752359"
+    ],
+    "date": "2026-10-22",
+    "authors": "Aris-Brosou, S.; Vilain, M.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.09.17.752359v2",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 5565,
+    "collected_at": "2026-11-24T14:50:01.882069+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-24",
+    "translation": {
+      "title": {
+        "hash": "85e38a328e2d1128ea82cd6d401e9cbf237dd68f48515a5119b3baf977dbe159",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T15:30:51.093802+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "fd0492de98332ff6fd482cabba1e9139e24867ef46f2fbc540a55457bcc61a89",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T15:30:51.093802+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "変動する標的：非定常選択がウイルスの適応度の教師なし予測を支配する",
+    "abstract_ja": "変異がウイルスの適応度をどのように変化させるかを予測することは、ゲノムサーベイランスおよびワクチン設計の中核をなす。しかし、最も精度の高い教師あり変異効果予測器の根拠となる表現型データは、ほとんどの新興病原体において得られていない。したがって、配列、その進化履歴、およびタンパク質構造のみを用いたラベルフリーかつ教師なしのアプローチがどのような性能を示すかは不明である。この未解決の課題に取り組むため、我々は、本質的複製適応度、抗原逃避、および実現増殖という、解釈可能な主要項を推定するモジュール式の完全教師なしパイプラインを構築した。各項は複数の推定器によって生成されるため、適応度予測器は検証可能なモデル選択となる。ProteinGymの21種類のウイルス深層変異スキャンアッセイを用いて本質的項をベンチマークした結果、6億5,000万パラメータの単一配列タンパク質言語モデル（PLM）はウイルス適応度の予測精度が低く、一方で単純な部位非依存アライメントモデルは性能を2倍以上に向上させ、特にPLMの学習に含まれていない抗原表面タンパク質において最大の向上が見られた。一方、タンパク質アライメントに基づくPLM（MSA Transformer、Tranception）は、単一配列PLMで失われた精度を回復するが、単純なアライメントを大幅に上回ることはない。したがって、ウイルス適応度を予測する上で最も重要な特徴は、モデルの規模やアーキテクチャではなく、タンパク質アライメントである。我々の主要な結果は進化論的なものである。SARS-CoV-2のスパイクおよびインフルエンザH3N2ヘマグルチニンの年代が特定された配列を用いた結果、アライメントの時代そのものが、ウイルス固有の精度決定因子であることが明らかになった。これは、選択が非定常なプロセスであり、それ自体がウイルス固有の性質を持つことを示している。適応度の系統的変異選択推定器は、はるかに単純で計算コストの低いアライメントモデルに及ばない。総じて、本研究は、教師なしのウイルス適応度予測が、モデリングの問題であると同時に進化論的な問題でもあることを示している。"
   }
 ]
