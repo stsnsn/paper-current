@@ -328549,5 +328549,283 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "BFVD v3—予測ウイルスタンパク質構造アトラス",
     "abstract_ja": "要旨 Big Fantastic Virus Database (BFVD) v3は、ColabFold–AlphaFold2によって予測されたウイルスタンパク質構造に関する最も包括的なリソースである。本データベースは、UniProt 2025_03におけるほぼすべてのウイルス配列の構造を5 776 417件収録しており、代表的な配列のみを収録していたBFVD v1およびv2のカタログと比較して16.4倍の増加となった。構造予測の品質も向上しており、信頼度の高い予測がBFVD v3のエントリの75.3%を占めている。寄与要因としては、浅いアライメントだけでなくBFVD v3全体を対象にマイニングされたLoganによる膨大な配列アセンブリと、継続的な予測品質の向上が挙げられる。BFVD v3は、国際ウイルス分類委員会（International Committee on Taxonomy of Viruses）のウイルス種の72.7%をカバーしており、これはBFVD v2を1.54倍上回る。このバージョンにより、完全にカバーされたウイルスリファレンスプロテオームの割合は1.5%から72.6%に上昇した。したがって、BFVD v3は既知のウイルス圏（virosphere）の構造カタログの実現に一歩近づくものであり、bfvd.steineggerlab.workers.dev および bfvd.foldseek.com で無料で利用可能である。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1985564",
+    "title": "Straw return reshapes rhizosphere microbial communities and enhances integrated soil fertility in black soil spring wheat fields",
+    "abstract": "IntroductionReturning straw to the field is an important measure to improve cultivated land quality. However, how straw return rates shape the restructuring of crop rhizosphere microbial communities and their effects on integrated soil fertility have not been thoroughly analyzed.MethodsUsing a located straw return field trial in the black soil region of the western Greater Khingan Mountains, we examined spring wheat rhizosphere soil under three treatments: no (CK, 0 kg/hm2), half (WSH, 1,500 kg/hm2), and full straw return (WSF, 3,000 kg/hm2). Through weighted membership function analysis, amplicon sequencing, and structural equation modeling (SEM), we assessed the responses of rhizosphere microbial community structure and comprehensive soil fertility to straw return.ResultsCompared with CK, the WSF treatment significantly increased soil organic carbon, microbial biomass carbon, and microbial biomass nitrogen, whereas WSH significantly raised total, ammonium, and nitrate nitrogen. Additionally, WSH significantly enhanced the Chao1 and PD indices of rhizosphere microorganisms, increased the relative abundance of Cladosporium, Alternaria, and Epicoccum, and reduced the abundance of Valsonectria and Fusicolla. Both WSH and WSF significantly improved the integrated fertility index (IFI), with WSH raising it by 95% relative to CK. Structural equation modeling identified microbial community structure as the direct factor of the IFI improvement.ConclusionOur findings indicate that straw return enhances soil fertility through elevated organic carbon and nutrient contents and rhizosphere microbial restructuring, offering theoretical support for efficient straw utilization and sustainable spring wheat production in the black soil region of the western Greater Khingan Mountains.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1985564",
+    "date": "2026-11-24",
+    "authors": "Liuxi Yi",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1985564",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5570,
+    "collected_at": "2026-11-24T11:05:36.802078+00:00",
+    "collected_date": "2026-11-24",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.3389/fmicb.2026.1985564"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a38dc8e1079109f09a238c7d8291a9cfaa50d407fa2f238b7eda95578e37e17e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T11:56:38.142154+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5c98dd1df59e88240fc0b9825b3e6ec0ca3f1983e926ffc30a415f37404343af",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T11:56:38.142154+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "わらの還元は黒土春小麦圃場の根圏微生物群集を再編し、土壌肥沃度の統合的な向上をもたらす。",
+    "abstract_ja": "はじめに わらの圃場還元は、耕作地の質を向上させるための重要な施策である。しかし、わら還元率が作物根圏微生物群集の再構成や統合的土壌肥沃度への影響をどのように形作るかについては、十分に解析されていない。方法 大興安嶺山脈西部の黒土地域におけるわら還元圃場試験を用い、春小麦の根圏土壌を、無還元（CK, 0 kg/hm2）、半還元（WSH, 1,500 kg/hm2）、および完全還元（WSF, 3,000 kg/hm2）の3つの処理条件下で検討した。重み付きメンバーシップ関数解析、アンプリコンシーケンシング、および構造方程式モデリング（SEM）を用いて、わら還元に対する根圏微生物群集構造および総合的土壌肥沃度の応答を評価した。結果 CKと比較して、WSF処理では土壌有機炭素、微生物バイオマス炭素、および微生物バイオマス窒素が有意に増加し、一方でWSHでは全窒素、アンモニウム窒素、および硝酸窒素が有意に増加した。さらに、WSHは根圏微生物のChao1およびPD指数を有意に上昇させ、Cladosporium、Alternaria、およびEpicoccumの相対存在量を増加させ、ValsonectriaおよびFusicollaの存在量を減少させた。WSHとWSFはともに統合肥沃度指数（IFI）を有意に改善し、WSHはCKと比較して95%の向上を示した。構造方程式モデリングにより、微生物群集構造がIFI改善の直接的な要因であることが特定された。結論 本研究の知見は、わら還元が有機炭素および養分含有量の増加ならびに根圏微生物の再構成を通じて土壌肥沃度を向上させることを示しており、大興安嶺山脈西部の黒土地域における効率的なわら利用と持続可能な春小麦生産を理論的に裏付けるものである。"
+  },
+  {
+    "id": "10.1093/nar/gkag1252",
+    "title": "DrugMAP 3.0: an enriched molecular atlas featuring ADMET endpoints, pharmacogenomic perturbations, and bioactivity atlas of drugs",
+    "abstract": "AbstractThe paradigm of targeted therapeutics has shifted from static drug–target interactions to systemic absorption, distribution, metabolism, excretion, and toxicity (ADMET) endpoints, dynamic transcriptomic perturbation signatures, and quantitative binding affinities, thereby amplifying the demand for multidimensional pharmacological atlases. In other words, it is necessary to bridge systemic safety profiles, cellular responses, and molecular interactions. However, such integrative data were inadequately covered by existing databases. In this study, DrugMAP was therefore substantially updated, which accumulated (i) 112 470 fine-grained ADMET endpoint profiles covering 126 endpoints for over 7680 drugs; (ii) 406 360 pharmacogenomic signatures for 3484 chemical perturbations and 11 033 molecules; and (iii) a quantitative bioactivity atlas covering molecular affinities, cellular sensitivity, and cytotoxicity for over 15 812 drugs and 4155 drug-interacting molecules. With the growing demand for quantitative pharmacology and the rapidly growing interest in AI-assisted drug discovery, DrugMAP is expected to act as an indispensable supplement to existing databases to facilitate drug discovery. DrugMAP is freely accessible at https://idrblab.org/drugmap/",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1252",
+    "date": "2026-11-23",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1252/9111121?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5551,
+    "collected_at": "2026-11-24T11:05:36.802078+00:00",
+    "collected_date": "2026-11-24",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1093/nar/gkag1252"
+    ],
+    "translation": {
+      "title": {
+        "hash": "abf6b3cba8d02a07e12b33ce6e1b712706b3e9b3cbc4481d14fce93a1a017159",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T11:56:38.142154+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "514b880f920fe944e7d8bc9ba29cfc1521ea55388cb70e673a5b4a7a5ad34e9d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T11:56:38.142154+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "DrugMAP 3.0：ADMETエンドポイント、薬理ゲノム摂動、および薬物の生物活性アトラスを備えた拡充版分子アトラス",
+    "abstract_ja": "要旨 標的治療のパラダイムは、静的な薬物－標的相互作用から、全身的な吸収、分布、代謝、排泄、および毒性（ADMET）エンドポイント、動的なトランスクリプトーム摂動シグネチャー、および定量的な結合親和性へと移行しており、それに伴い多次元的な薬理学アトラスへの需要が高まっている。言い換えれば、全身的な安全性プロファイル、細胞応答、および分子間相互作用を橋渡しすることが必要である。しかし、こうした統合的なデータは、既存のデータベースでは十分に網羅されていなかった。そこで本研究では、DrugMAPを大幅に更新し、(i) 7,680種類以上の薬物を対象に126のエンドポイントを網羅する112,470件の精緻なADMETエンドポイントプロファイル、(ii) 3,484種類の化学的摂動および11,033個の分子に関する406,360件の薬理ゲノムシグネチャー、および(iii) 15,812種類以上の薬物と4,155個の薬物相互作用分子の分子親和性、細胞感受性、および細胞毒性を網羅する定量的生物活性アトラスを蓄積した。定量薬理学への需要の高まりと、AI支援による創薬への関心の急速な拡大に伴い、DrugMAPは創薬を促進する既存のデータベースにとって不可欠な補完的ツールとなることが期待される。DrugMAPは https://idrblab.org/drugmap/ で無料で利用可能である。"
+  },
+  {
+    "id": "10.1093/nar/gkag1235",
+    "title": "MGnify analyses in 2027: enhancing the depth and breadth of analyses across metabarcoding, unassembled metagenomes, and assembled datasets",
+    "abstract": "AbstractMicrobiome derived nucleic acid sequence analysis has become an increasingly important aspect of many scientific fields. MGnify (https://www.ebi.ac.uk/metagenomics/) provides standardized, versioned analysis pipelines for the taxonomic and functional characterization of microbiome samples. The latest release of the MGnify pipelines (version 6) provides amplicon sequence variant analysis, expanded functional annotations including viral and mobilome for assembly analysis, and a streamlined minimal raw-reads analysis. We have improved the reusability of the pipelines through transition to Nextflow as a workflow language and have undertaken a substantial overhaul of our automation systems, using Prefect to orchestrate the pipeline execution. Finally, we have released a new version of our programmatic and bulk access services to better support large-scale computational access of data, as well as rationalizing our contig browser to improve in-browser performance. These improvements serve to support the use of MGnify pipelines and data products going forward, and improve the AI-readiness of our outputs.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1235",
+    "date": "2026-11-23",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1235/9111120?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomes",
+        "metagenomics",
+        "microbiome",
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "assembly",
+          "metagenom",
+          "metagenome",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5552,
+    "collected_at": "2026-11-24T11:05:36.802078+00:00",
+    "collected_date": "2026-11-24",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1093/nar/gkag1235"
+    ],
+    "translation": {
+      "title": {
+        "hash": "75e155cb5de65feb2d43021aaa71ee10cd39993e5124dbb7be3830b4d98e8d93",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T11:56:38.142154+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9ca0b13c3effcf86059f1110b616bc9be347b23fce34a14669ec38cc4c71504d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T11:56:38.142154+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "2027年におけるMGnifyの解析：メタバーコーディング、未アセンブルのメタゲノム、およびアセンブル済みデータセットにわたる解析の深度と幅の拡充",
+    "abstract_ja": "要旨マイクロバイオーム由来の核酸配列解析は、多くの科学分野においてますます重要な側面となっている。MGnify (https://www.ebi.ac.uk/metagenomics/) は、マイクロバイオームサンプルの分類学的および機能的特性解析のための、標準化されバージョン管理された解析パイプラインを提供している。MGnifyパイプラインの最新リリース（バージョン6）では、アンプリコン配列バリアント解析、アセンブリ解析向けのウイルスおよびモジュロームを含む拡張機能アノテーション、および効率化された最小限の生リード解析が提供されている。我々は、ワークフロー言語としてNextflowへ移行することでパイプラインの再利用性を向上させたほか、Prefectを用いてパイプライン実行をオーケストレートし、自動化システムの大幅な刷新を行った。最後に、データの大規模な計算アクセスをより適切に支援するため、プログラム型およびバルクアクセスサービスの新バージョンをリリースするとともに、ブラウザ内でのパフォーマンス向上に向けてコンティグブラウザの合理化を行った。これらの改善は、今後のMGnifyパイプラインおよびデータプロダクトの利用を支援し、出力のAI対応性を向上させるものである。"
+  },
+  {
+    "id": "10.1093/nar/gkag1261",
+    "title": "MIsoTEx: a mammalian transcript-isoform classification framework and database for exploring tissue distribution, expression stability, and abundance patterns",
+    "abstract": "AbstractAlternative splicing generates transcript isoforms with distinct tissue-expression patterns, but resources integrating transcript distribution, abundance consistency, and relative abundance remain limited. We developed MIsoTEx (Mammalian Isoform Tissue Expression Resource), a database and expression-pattern-based classification framework for protein-coding iso-mRNAs in human, mouse, and rat. RNA-seq datasets from GTEx, ARCHS4, and newly curated datasets from SRA were used to construct catalogs, following stringent selection of normal adult tissue samples. Ubiquitously detected iso-mRNAs were classified as uniformly abundant (UUni) or variably abundant (UVar), while tissue-associated iso-mRNAs were classified as tissue-predominant (TPred), tissue-exclusive (TExcl), tissue-poor (TPoor), or tissue-absent (TAbsn). These classes were further divided into five relative-abundance sub-classes, with confidence scores assigned to tissue-associated classifications. MIsoTEx contains ~147 000 protein-coding iso-mRNAs and supports gene- and transcript-based queries, tissue-pattern searches, cross-species comparison of orthologs with concordant expression, and analysis of user-supplied expression data to identify candidate control iso-mRNAs. Comparisons with independent RNA-seq, RT-PCR, and published expression datasets provided support for aspects of the classification framework. Functional enrichment analysis revealed distinct biological associations among selected expression-based categories. MIsoTEx facilitates transcript-level exploration of mammalian tissue-expression patterns and helps identify candidate reference iso-mRNAs for experimental evaluation. The database can be accessed using the link: https://resources.ibab.ac.in/MIsoTEx/.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1261",
+    "date": "2026-11-23",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1261/9111119?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "classification",
+        "database",
+        "framework",
+        "protein",
+        "resource"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5553,
+    "collected_at": "2026-11-24T11:05:36.802078+00:00",
+    "collected_date": "2026-11-24",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1093/nar/gkag1261"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c59a3d9de4f8954684343380c46c024f229ea712c853d604b6d25f266eef47b7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T11:56:38.142154+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "dd35ab31799c22dafe019b7ecb785a8596eda420f72403dc70151b930cda34ba",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T11:56:38.142154+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "MIsoTEx：組織分布、発現安定性、および存在量パターンを探索するための哺乳類転写産物アイソフォーム分類フレームワークおよびデータベース",
+    "abstract_ja": "要旨：選択的スプライシングは、組織発現パターンが異なる転写産物アイソフォームを生成するが、転写産物の分布、存在量の一貫性、および相対存在量を統合したリソースは依然として限られている。我々は、ヒト、マウス、およびラットにおけるタンパク質コードiso-mRNAを対象としたデータベースおよび発現パターンに基づく分類フレームワークであるMIsoTEx（Mammalian Isoform Tissue Expression Resource）を開発した。正常成人組織サンプルの厳格な選別を経て、GTExおよびARCHS4のRNA-seqデータセット、ならびにSRAから新たにキュレーションされたデータセットを用いてカタログを構築した。遍在的に検出されたiso-mRNAは、均一存在量（UUni）または変動存在量（UVar）に分類され、組織関連iso-mRNAは、組織優位（TPred）、組織特異的（TExcl）、組織貧弱（TPoor）、または組織非存在（TAbsn）に分類された。これらのクラスはさらに5つの相対存在量サブクラスに分割され、組織関連の分類には信頼度スコアが付与された。MIsoTExは約147,000個のタンパク質コードiso-mRNAを収録しており、遺伝子および転写産物に基づくクエリ、組織パターン検索、発現が一致するオルソログの種間比較、およびユーザー提供の発現データの解析による候補コントロールiso-mRNAの同定をサポートしている。独立したRNA-seq、RT-PCR、および既報の発現データセットとの比較により、分類フレームワークの諸側面が裏付けられた。機能エンリッチメント解析により、選定された発現ベースのカテゴリ間で明確な生物学的関連性が明らかになった。MIsoTExは、哺乳類の組織発現パターンの転写産物レベルの探索を容易にし、実験的評価のための候補リファレンスiso-mRNAの同定を支援する。本データベースは、リンク：https://resources.ibab.ac.in/MIsoTEx/ からアクセス可能である。"
   }
 ]
