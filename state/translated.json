@@ -332505,5 +332505,285 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "褐虫藻類および褐虫藻類のPalythoa（刺胞動物門：褐虫藻綱）の比較ゲノミクスは、共生の進化とパリトキシンの起源に関する知見をもたらす。",
     "abstract_ja": "ゾアンサリア（刺胞動物）は浅い礁から深海まで世界的に分布しているが、そのゲノム資源は依然として乏しい。ゾアンサリアのパリトア属では、ほとんどの種が光共生性渦鞭毛藻を宿しているが、一部の種ではこの共生が二次的に失われており、共生状態に伴うゲノム変化を調べることができる。パリトア属はまた、既知の最も強力な海洋毒素の一つであるパリトキシンの起源であるが、それが宿主によって産生されるのか、あるいは共生微生物によって産生されるのかは未解明である。ここで我々は、2種の褐虫藻性パリトア属の高品質なゲノムアセンブリを作成し、共生状態にわたる5つのパリトア属ゲノムを他の花虫類のゲノムと比較した。花虫類全体において、ゲノムサイズは転移因子、特にレトロトランスポゾンの含有量に比例していた。無酸素サンショウウオ類の系統は、共生関連タンパク質LePinおよびNPC2の保存ドメインに置換を有し、レクチン遺伝子CLEC4Aの急速な進化を示す一方、NF-{kappa}BおよびV型H+-ATPaseは保存されていた。パリトア属のゲノムでは、ポリケチド合成酵素（PKS）遺伝子の系統特異的な拡大は認められず、刺胞動物のPKS遺伝子はP. caribaeorumおよびP. sp. sakurajimensis（クレードIII）に限定されていた。対照的に、無酸素サンショウウオ類1種を含む種間のメタトランスクリプトームおよびメタゲノムアセンブリゲノムから、27個の細菌PKS配列が回収され、これらはSymbiodiniaceaeではなく共生細菌に由来することが示された。これらのゲノムはゾアンサリアの比較枠組みを提供し、共生状態に伴うゲノム変化を明らかにする。我々は、パリトキシンが宿主ではなく共生細菌に由来することを提唱しており、この仮説は産生細菌とその生合成遺伝子クラスターを同定することで検証できる。"
+  },
+  {
+    "id": "10.64898/2026.11.22.768463",
+    "title": "Cryo-EM-based examinations of honey bee colony losses reveal structural insights into acute bee paralysis virus maturation and mechanical carriage",
+    "abstract": "Honey bee colony losses pose a complex and significant agricultural problem in the United States and Europe, which has also been linked to viruses. As opposed to a purely sequence-based approach, we used cryogenic electron microscopy (cryo-EM) as an alternative sequencing- and culture-independent diagnostic tool to investigate viral pathogens associated with colony losses in the state of Texas. By purifying a limited number of viral particles directly from degraded hive remains, we could establish the identity of acute bee paralysis virus (ABPV) at the species level without prior sequencing data at 3.1 Å resolution, reconstructed of only 443 particles. We showed that small hive beetles carry mature ABPV virions, both within their digestive tract and attached to their cuticle. We successfully utilized cryo- EM to infer active ABPV replication from honey bee carcasses by reconstructing the virion structure of immature provirions at 2.35- and 2.53 [A], respectively, even several days after the collapse, despite the degradation of negative-strand RNA intermediates. Structural characterization of these immature particles revealed that ABPV capsids assemble around a condensed genomic core with the nucleic acid gradually expanding to occupy the capsid interior, ultimately bringing the VP0 structural protein in contact with VP3, which cleaves VP0 to structural proteins VP2 and 4. Together, our findings establish cryo-EM as a complementary diagnostic approach that simultaneously enables viral identification, replication-state assessment, and structural characterization, providing unprecedented insights into the maturation process of aparaviruses, a lineage of honey bee-infecting picorna-like viruses at the forefront of colony losses.",
+    "journal": "",
+    "doi": "10.64898/2026.11.22.768463",
+    "date": "2026-11-24",
+    "authors": "Medina Duran, J. H., Penzes, J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.22.768463v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5599,
+    "collected_at": "2026-11-24T21:21:51.319977+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.64898/2026.11.22.768463"
+    ],
+    "translation": {
+      "title": {
+        "hash": "236f64ba638f103d4ecd365081f8ac3fd3a39bbafd4731c2d399f79f58bdd044",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T21:48:41.895073+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "50f2a3448a7cf732c60805168735ceea789ee8068328204741bea0ec566781ca",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T21:48:41.895073+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "クライオ電子顕微鏡法を用いたミツバチコロニー喪失の解析により、急性蜂麻痺ウイルスの成熟と機械的運搬に関する構造的知見が明らかになった。",
+    "abstract_ja": "ミツバチのコロニー喪失は、米国および欧州において複雑かつ重大な農業上の問題となっており、ウイルスとの関連も指摘されている。純粋なシーケンシングに基づく手法とは異なり、我々は代替的なシーケンシングおよび培養に依存しない診断ツールとして極低温電子顕微鏡法（cryo-EM）を用い、テキサス州におけるコロニー喪失に関連するウイルス病原体の調査を行った。劣化した巣箱の残骸から直接少数のウイルス粒子を精製することで、事前のシーケンシングデータがなくとも、わずか443粒子から3.1 Åの分解能で急性ミツバチ麻痺ウイルス（ABPV）の種レベルでの同定に成功した。我々は、小型の巣箱甲虫が、消化管内およびクチクラに付着した状態の両方で成熟したABPVビリオンを運搬していることを示した。また、負鎖RNA中間体の分解が進んでいるにもかかわらず、崩壊から数日経過した後であっても、未成熟なプロビリオンのビリオン構造をそれぞれ2.35および2.53 [A]で再構築することで、cryo-EMを用いてミツバチの死骸から活性型ABPVの複製を推定することに成功した。これらの未成熟粒子の構造解析により、ABPVのカプシドは凝縮したゲノムコアの周囲に組み立てられ、核酸が徐々に拡大してカプシド内部を占有し、最終的にVP0構造タンパク質がVP3と接触し、VP3がVP0を構造タンパク質VP2およびVP4へと切断することが明らかになった。以上の知見は、cryo-EMがウイルスの同定、複製状態の評価、および構造解析を同時に可能にする補完的な診断手法であることを立証するものであり、コロニー喪失の最前線にあるミツバチ感染性ピコルナ様ウイルスの系統であるアパラウイルスの成熟過程について、前例のない知見を提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "bioRxiv",
+        "query": "details/biorxiv/2026-10-20/2026-11-10",
+        "scope": "candidate"
+      }
+    ],
+    "id": "10.64898/2026.07.14.738515",
+    "doi": "10.64898/2026.07.14.738515",
+    "title": "From Lotka-Volterra Dynamics to Community Assembly: Theory, Topography, and Empirical Applications",
+    "abstract": "1. Community assembly graphs (CAGs) summarize which species combinations can coexist and how single-species invasions drive transitions between them, encoding the pathways, alternative endpoints, and cycles that make up a community's assembly history. Constructing CAGs from dynamical models requires methods that are both computationally tractable and faithful to the underlying ecological dynamics. However, existing methods rely on restrictive assumptions, such as global stability, that exclude alternative stable states and non-equilibrium dynamics known to occur in empirical systems. 2. We develop a computational pipeline that constructs CAGs from any generalized Lotka--Volterra model. Building on the invasion graph framework and its connection to permanence, the pipeline verifies that community dynamics are bounded, identifies which subsets of species coexist in the sense of permanence, determines which single-species invasions are dynamically realized, and assigns each community a topographic height equal to the length of the longest assembly path leading to it. We also provide a numerical algorithm to simulate the dynamics of community assembly. 3. We prove several general properties of the resulting graphs, including that a successful invader is never excluded by the residents it invades, and that, in the absence of assembly cycles, permanent communities can be reassembled by introducing their species one at a time in the right order. We prove that the CAG faithfully reproduces the compositional shifts seen in the numerically simulated dynamics of assembly. Applying the pipeline to three empirically based models (a New Zealand grassland, a European pasture, and a Puerto Rican ant community), we show how competition strength and mutualistic feedbacks reshape the assembly landscape and how intransitive competition generates assembly cycles. 4. Our approach accommodates alternative stable states and non-equilibrium dynamics without requiring global stability, and it turns the long-standing landscape metaphor into a quantitative, mechanistically grounded object by resolving what ``height'' means. More broadly, it makes the topography of the assembly pathways measurable, providing a way to compare the historical contingency and predictability of the assembly in ecological systems.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "2",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.07.14.738515"
+    ],
+    "date": "2026-10-23",
+    "authors": "Schreiber, S.; Brennan, J.; Spaak, J. W.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.07.14.738515v2",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "gene",
+        "pipeline"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5585,
+    "collected_at": "2026-11-24T21:11:07.209251+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-24",
+    "translation": {
+      "title": {
+        "hash": "708bc86dd722cdf95b5aea79d183cc315b07a13f87a411c2b5ce1042287e3809",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T21:48:41.895073+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ec7b7f319b932a68925d1f118a77b104727017228b4da5cc43254c20e3180f06",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T21:48:41.895073+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ロトカ＝ヴォルテラ力学からコミュニティ・アセンブリへ：理論、地形、および実証的応用",
+    "abstract_ja": "1. 群集アセンブリグラフ（CAG）は、どの種の組み合わせが共存可能か、また単一種の侵入がそれらの間の遷移をどのように駆動するかを要約し、群集のアセンブリ履歴を構成する経路、代替的な終端点、およびサイクルを符号化する。力学モデルからCAGを構築するには、計算量的に扱いやすく、かつ基礎となる生態学的ダイナミクスに忠実な手法が必要である。しかし、既存の手法は大域的安定性などの制約的な仮定に依存しており、実証的な系で生じることが知られている代替的な安定状態や非平衡ダイナミクスを排除している。 2. 我々は、任意の一般化ロトカ＝ヴォルテラモデルからCAGを構築する計算パイプラインを開発する。侵入グラフの枠組みとパーマンエンス（永続性）との関連性に基づき、本パイプラインは、群集ダイナミクスが有界であることを検証し、パーマンエンスの観点からどの種の部分集合が共存するかを特定し、どの単一種の侵入が動的に実現されるかを判定し、各群集にそこへ至る最長のアセンブリ経路の長さに等しい地形的高さを割り当てる。また、群集アセンブリのダイナミクスをシミュレートするための数値アルゴリズムを提供する。 3. 我々は、得られたグラフのいくつかの一般的性質を証明する。これには、うまく侵入した種が侵入先の在来種によって排除されることは決してないこと、およびアセンブリサイクルが存在しない場合、種を適切な順序で一つずつ導入することで永続的な群集を再構成できることが含まれる。我々は、CAGが数値的にシミュレートされたアセンブリのダイナミクスに見られる組成的シフトを忠実に再現することを証明する。このパイプラインを実証的な3つのモデル（ニュージーランドの草原、ヨーロッパの牧草地、およびプエルトリコのアリ群集）に適用し、競争強度と相利共生的フィードバックがアセンブリのランドスケープをどのように再形成するか、また非推移的競争がいかにしてアセンブリサイクルを生成するかを示す。 4. 我々のアプローチは、大域的安定性を必要とせずに代替的な安定状態や非平衡ダイナミクスに対応し、「高さ」が何を意味するのかを解明することで、長年用いられてきたランドスケープというメタファーを、定量的かつ機構論的に根拠付けられた対象へと転換する。より広範には、アセンブリ経路の地形性を測定可能にし、生態学的系におけるアセンブリの歴史的な偶発性と予測可能性を比較する手段を提供する。"
+  },
+  {
+    "id": "10.64898/2026.11.23.768597",
+    "title": "A 6-week all-liquid caloric restriction diet reduced abundance of some butyrate-producing bacteria while increasing abundance of mucin-degrading bacteria",
+    "abstract": "Caloric restriction diets are a common diet strategy to reduce excess weight and obesity. The diets work by lowering the number of calories or energy input below a human's normal energy expenditure creating an energy deficit. Caloric restriction diet meals can be composed of whole foods, meal replacement shakes, or a combination of the two. While the effects of these diets on human metabolism are well-known, the effects of these diets and the durability of these effects on the human gut microbiome are less well-known. The objective of this work was to investigate the effects of a 6-week all-liquid caloric restriction diet on the human gut microbiota using 16S rRNA gene amplicon sequencing to assess changes in diversity, community composition, and predicted function. We found that during the diet period beta-diversity shifts significantly away from what it was before the intervention (baseline), and returns to baseline a week after the diet. During the diet period we also observed a decrease in abundance of fiber-degrading and butyrate-producing bacteria with a simultaneous increase in abundance of mucin-degrading bacteria with a return to baseline level abundances in the post-diet period. Despite a liquid diet relatively high in carbohydrate (59% carbohydrate, 25% fat, 16% protein), predicted function analysis showed a shift in substrate preference away from dietary carbohydrates towards protein and host-glycans during the diet period. These findings suggest that despite the overall high carbohydrate content all-liquid caloric restriction diets deprive the gut microbiota of their preferred nutrient source due to the overall decline in calorie delivery which forces them to consume alternative nutrient sources like protein and host-glycans.",
+    "journal": "",
+    "doi": "10.64898/2026.11.23.768597",
+    "date": "2026-11-24",
+    "authors": "Dirks, B., Nirmalkar, K., Votruba, S., Hollstein, T., Krakoff, J., Krajmalnik-Brown, R.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.23.768597v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "bacteria",
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "16S rRNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5600,
+    "collected_at": "2026-11-24T21:21:51.319977+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.64898/2026.11.23.768597"
+    ],
+    "translation": {
+      "title": {
+        "hash": "208bd4e5cfcb8906b2e88330a4ecf9fe3853d96f41c57c2807724362ff13371d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T21:48:41.895073+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "aa38a6bbe3d013d63102691a1d0cb487b28e71fed9e1d83fe8f86f5391afdfb5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T21:48:41.895073+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "6週間の完全液体カロリー制限食により、一部の酪酸産生菌の存在量が減少する一方で、ムチン分解菌の存在量が増加した。",
+    "abstract_ja": "カロリー制限食は、過剰な体重や肥満を軽減するための一般的な食事戦略である。この食事法は、摂取カロリーまたはエネルギー量をヒトの通常のエネルギー消費量未満に抑えることで、エネルギー欠損状態を作り出す。カロリー制限食の食事は、ホールフード、食事代用シェイク、あるいはその組み合わせで構成される。こうした食事法がヒトの代謝に及ぼす影響はよく知られているが、ヒトの腸内マイクロバイオームに対する影響や、その効果の持続性についてはあまり知られていない。本研究の目的は、16S rRNA遺伝子アンプリコンシーケンシングを用いて多様性、コミュニティ組成、および予測機能の変化を評価し、6週間の完全液体カロリー制限食がヒト腸内微生物叢に及ぼす影響を調査することであった。その結果、制限期間中、β多様性は介入前（ベースライン）から有意に乖離し、制限終了から1週間後にベースラインに戻ることがわかった。また、制限期間中、食物繊維分解菌および酪酸産生菌の存在量が減少する一方で、ムチン分解菌の存在量は同時に増加し、制限終了後にはベースラインレベルに戻った。炭水化物が比較的多い液体食（炭水化物59%、脂質25%、タンパク質16%）であったにもかかわらず、予測機能解析により、制限期間中、基質選好性が食事性炭水化物からタンパク質および宿主糖鎖へとシフトすることが示された。これらの知見は、全体的な炭水化物含有量が高いにもかかわらず、完全液体カロリー制限食が総カロリー供給量の減少によって腸内微生物叢から好ましい栄養源を奪い、その結果、タンパク質や宿主糖鎖といった代替的な栄養源の摂取を強いることを示唆している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "bioRxiv",
+        "query": "details/biorxiv/2026-10-20/2026-11-10",
+        "scope": "candidate"
+      }
+    ],
+    "id": "10.64898/2026.10.18.759853",
+    "doi": "10.64898/2026.10.18.759853",
+    "title": "Learning distributed representations with complementary components - A generative approximation framework for episodic memory encoding",
+    "abstract": "Episodic memory must preserve detail while storing memories efficiently. We propose a framework of memory encoding in which generative neural network models approximate input through their frozen weights, yielding starting points from which the same weights can reinstate the input. This removes the need for mutually invertible cortical-hippocampal mappings, realizes a tradeoff between computational effort and mnemonic precision, and uses statistical regularities of the stimulus space to find representations that are distributed across the network. We implement this principle with a toy model and with large image-generation AI models, operationalizing mnemonic precision as closer approximation. Our model reproduces key findings from the Mnemonic Similarity Task: shallow encoding selectively impairs lure rejection, as observed in aging populations. Encoding further benefits from expertise: domain-finetuned models need fewer approximation steps for images from their own domain than for images from other domains. Finally, the representational geometry of latent starting points resembles medial temporal lobe but reinstatement through the weights of the network traverses the visual hierarchy in reverse order. Our framework offers a parsimonious and flexible account of memory encoding, where a generative search for a reinstatement-capable starting point finds a path for retrieval directly.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.10.18.759853"
+    ],
+    "date": "2026-10-23",
+    "authors": "Liu, H.; Mattar, M.; Michelmann, S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.18.759853v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "framework",
+          "gene"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5586,
+    "collected_at": "2026-11-24T21:11:07.209251+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-24",
+    "translation": {
+      "title": {
+        "hash": "409063a5fa6cccea581aab5f5cd4b87872fc33e11b6b8462968d24faf6e3b552",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T21:48:41.895073+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "00916def88aef87215cd2f97c6ad73e40f1d6add6b35c845381e0a54b2be8060",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T21:48:41.895073+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "相補的構成要素を用いた分散表現の学習 ― エピソード記憶符号化のための生成的近似フレームワーク",
+    "abstract_ja": "エピソード記憶は、記憶を効率的に保存しつつ、詳細を保持しなければならない。本研究では、生成ニューラルネットワークモデルが凍結された重みを通じて入力を近似し、同一の重みによって入力を再構成できる起点を生成するという、記憶符号化のフレームワークを提案する。これにより、相互に可逆的な皮質-海馬マッピングが不要となり、計算コストと記憶精度のトレードオフが実現するとともに、刺激空間の統計的規則性を利用して、ネットワーク全体に分散した表現を見出すことができる。我々は、この原理をトイモデルおよび大規模な画像生成AIモデルで実装し、記憶精度をより近い近似として操作化した。本モデルは、記憶類似性タスク（Mnemonic Similarity Task）における主要な知見を再現している。すなわち、加齢集団で観察されるように、浅い符号化はルアー拒絶を選択的に阻害する。さらに、符号化は専門知識から恩恵を受ける。ドメイン特化型にファインチューニングされたモデルは、他ドメインの画像よりも、自身のドメインの画像に対してより少ない近似ステップで済む。最後に、潜在起点の表現幾何学は内側側頭葉に類似しているが、ネットワークの重みを通じた再構成は、視覚階層を逆順に辿る。本フレームワークは、再構成可能な起点を探索する生成的な手法が直接的に検索経路を見出すという、記憶符号化に関する簡潔かつ柔軟な説明を提供する。"
   }
 ]
