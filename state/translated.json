@@ -333099,5 +333099,299 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "単一細胞腫瘍トランスクリプトームにおけるリファレンスフリーかつ頑健なコピー数推定",
     "abstract_ja": "コピー数の変化はがんの特徴的な所見であり、どの細胞が悪性であるか、また腫瘍がどのように進展するかを明らかにする。単一細胞RNAシーケンシングは、個々の腫瘍細胞においてこれらの変化を推定するために広く用いられている。既存の手法では、正常細胞のリファレンスを基準として各細胞を正規化することで推定を行う。その結果、得られる出力はどの細胞をまとめて解析するかに依存し、正常細胞が異数体としてラベル付けされることが多く、正常細胞を含まないサンプルでは性能が低下する。本研究では、リファレンスを用いず、各細胞自身の発現からコピー数を推定する深層学習モデル「REFCON」を提案する。我々は、細胞株、オルガノイド、および9種類のがん種にわたる112個の腫瘍から得られた41万個以上のホールドアウト細胞を用いてREFCONを評価し、7種類のシーケンシング技術でプロファイルを作成した。その結果、既存の手法よりも単一細胞DNAの結果とより密接に一致し、サンプル組成の影響を受けず、正常細胞が異数体としてラベル付けされる割合も大幅に低かった。正常細胞を含まない患者由来オルガノイドにおいても、パスウェイ間で一貫したプロファイルが得られ、クローンの進化を追跡することができた。REFCONは、リファレンスに基づく推定における長年の限界を解消し、単一細胞トランスクリプトームからの堅牢でリファレンスフリーなコピー数判定を可能にする。"
+  },
+  {
+    "id": "10.64898/2026.11.19.767897",
+    "title": "The 'near T2T' Canton-S assembly is inconsistent with other Canton-S genomes",
+    "abstract": "Canton-S is among the most widely used Drosophila melanogaster strains, underlying substantial community infrastructure, including serving as a wild-type strain for: genetics studies; studying phenotypes, especially in behavioral studies; and complex trait mapping studies among many others. The recent 'near T2T' assembly of Canton-S (LIU et al.) is presented as delivering modern sequencing and assembly quality to the Drosophila community via this important strain. I find that this assembly is inconsistent with three other independently sequenced Canton-S genome assemblies on a magnitude comparable to differences between distinct strains, raising concerns about its genetic identity that the community should consider when choosing whether to adopt it as a resource.",
+    "journal": "",
+    "doi": "10.64898/2026.11.19.767897",
+    "date": "2026-11-24",
+    "authors": "Emerson, J. J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.19.767897v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "assembly",
+        "genome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assemblies",
+          "assembly",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5603,
+    "collected_at": "2026-11-24T21:21:51.319977+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.64898/2026.11.19.767897"
+    ],
+    "translation": {
+      "title": {
+        "hash": "dddaf2c5e09c5e5fc07dbb506a691d2be775536a1b6486777624af2285686cc1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T21:54:44.585443+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "46e0403c435c4ebfd88c7f2c7b012bd4969e2c235cba1c7ca6afa9de8b26b03d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T21:54:44.585443+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "「near T2T」のCanton-Sアセンブリは、他のCanton-Sゲノムと一致しない。",
+    "abstract_ja": "Canton-Sは、最も広く利用されているDrosophila melanogaster系統の一つであり、遺伝学研究、表現型の解析（特に行動研究において）、および複合形質マッピング研究など、多岐にわたる分野の野生型系統として機能するなど、広範なコミュニティ基盤を支えている。最近行われたCanton-Sの「near T2T」アセンブリ（LIU et al.）は、この重要な系統を通じて、現代的なシーケンシングおよびアセンブリ品質をDrosophilaコミュニティに提供するものとして提示されている。筆者は、このアセンブリが、独立してシーケンシングされた他の3つのCanton-Sゲノムアセンブリと、異なる系統間の差異に匹敵する規模で不一致であることを見出した。このことは、本系統をリソースとして採用するかどうかを検討する際に、コミュニティが考慮すべき遺伝的同一性に関する懸念を生じさせるものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "bioRxiv",
+        "query": "details/biorxiv/2026-10-20/2026-11-10",
+        "scope": "candidate"
+      }
+    ],
+    "id": "10.64898/2026.10.21.760723",
+    "doi": "10.64898/2026.10.21.760723",
+    "title": "A heat-assisted ttLbCas12a workflow incorporating crRNA 3'-tailing enables efficient multiplex biallelic genome editing in hybrid poplar",
+    "abstract": "In forest trees, high genome-editing efficiency in primary transformants is particularly important for functional genomics and trait improvement, as long generation times severely limit the use of subsequent generations to recover fully edited genotypes. This challenge is further compounded in hybrid poplar, where paralogous gene copies and allelic variation make efficient multiplex editing particularly difficult. We optimized LbCas12a-mediated editing in Populus x canescens (Populus tremula x Populus alba), clone INRA 717-1B4, by targeting four paralogous PtaABA8ox4 loci using temperature-tolerant ttLbCas12a, a two-stage heat treatment, and crRNA 3'-tailing. The heat-treatment regime preserved transgenic recovery, while ttLbCas12a-based constructs and heat treatment substantially increased biallelic editing. All seven lines in the highest-performing group, combining ttLbCas12a, 3'-tailed crRNAs, and heat treatment, were biallelically edited at all four targets. crRNA 3'-tailing altered predicted secondary structures and showed a consistent numerical tendency toward improved editing, but its independent effect was not statistically resolved. Mutations were dominated by small deletions, and biallelic out-of-frame recovery increased in ttLbCas12a-based contexts without scaling proportionally with biallelic editing. Thus, heat-assisted ttLbCas12a-mediated approaches enable efficient multiplex editing in hybrid poplar, whereas genotype quality remains dependent on repair outcome and somatic uniformity.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.10.21.760723"
+    ],
+    "date": "2026-10-23",
+    "authors": "Zahn, V.; Fendel, A.; Fladung, M.; Bruegmann, T.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.21.760723v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "genome",
+        "workflow"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5589,
+    "collected_at": "2026-11-24T21:11:07.209251+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-24",
+    "translation": {
+      "title": {
+        "hash": "a15ba41ee8bfcc16d551112ac16414d3a3f50b0d4608c7a016757660d5b66ffc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T21:54:44.585443+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7ff9a54c53538d57d10723f256a11794a0261e20e20e6d5ea4eb8eb4e37a6135",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T21:54:44.585443+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "crRNA 3'-テイル付加を組み込んだ熱アシスト型ttLbCas12aワークフローにより、ハイブリッドポプラにおける効率的な多重バイアレルゲノム編集が可能となる。",
+    "abstract_ja": "森林樹木において、一次形質転換体における高いゲノム編集効率は、機能ゲノミクスや形質改良において特に重要である。これは、世代交代に時間を要するため、完全に編集された遺伝子型を回復させるための後続世代の利用が著しく制限されるからである。この課題は、パラログ遺伝子コピーやアレル変異により効率的なマルチプレックス編集が特に困難なハイブリッドポプラにおいてさらに深刻化する。我々は、温度耐性型ttLbCas12a、2段階の熱処理、およびcrRNAの3'-テイル化を用いて、4つのパラログPtaABA8ox4遺伝子座を標的とし、Populus x canescens (Populus tremula x Populus alba) のクローンINRA 717-1B4におけるLbCas12a介在性編集を最適化した。この熱処理レジメンはトランスジェニック回復を維持しつつ、ttLbCas12aベースのコンストラクトと熱処理によってバイアレル編集が大幅に向上した。ttLbCas12a、3'-テイル化crRNA、および熱処理を組み合わせた最高性能群の7系統すべてにおいて、4つの標的すべてでバイアレル編集が認められた。crRNAの3'-テイル化は予測される二次構造を変化させ、編集向上への一貫した数値的傾向を示したが、その独立した効果は統計的に有意ではなかった。変異は小規模な欠失が支配的であり、バイアレルのフレーム外回復は、バイアレル編集に比例して増加することなく、ttLbCas12aベースの条件下で増加した。したがって、熱アシスト型ttLbCas12a介在性アプローチは、ハイブリッドポプラにおける効率的なマルチプレックス編集を可能にするが、遺伝子型の品質は依然として修復結果と体細胞の均一性に依存する。"
+  },
+  {
+    "id": "10.64898/2026.11.22.768399",
+    "title": "High prevalence and diversity of nematodes associated with Europe's most destructive forest pest, revealed by off-target genomic data",
+    "abstract": "We know very little about the biotic interactions of most species on our planet, including many organisms that play a crucial role in ecosystem networks. One highly cost-effective way of reconstructing these networks is to analyse the rapidly growing collections of high-throughput sequencing datasets. In this study, we examine a large whole-genome resequencing dataset for the spruce bark beetle (Ips typographus), one of Europe's most destructive forest pests, to determine the diversity and distribution of associated organisms that such datasets can reveal. We found that from among metagenomic datasets for 312 adult beetles from across the species' European range, 69% contained small subunit ribosomal RNA (SSU rRNA) reads from other eukaryotic organisms, most often nematodes. Among 13 rRNA-reconstructed nematode species, Contortylenchus sp. and Micoletzkya sp. were the most prevalent taxa across the European populations. Frequently, nematode DNA comprised a large proportion of the sequencing libraries, suggesting a significant impact on the host. Mitochondrial genes reconstructed for many of these beetles provided additional phylogenetic resolution, although the reconstruction success varied. Overall, our results demonstrate potential for reconstructing the key biological associations using sequencing data originally generated for a different purpose, highlighting a path towards comprehensive survey of interactions likely to substantially influence the population dynamics of ecologically significant species.",
+    "journal": "",
+    "doi": "10.64898/2026.11.22.768399",
+    "date": "2026-11-24",
+    "authors": "Morales-Garcia, J., Nowak, K., Zielinski, P., Lukasik, P., Nadachowska-Brzyska, K.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.22.768399v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "genomic",
+          "metagenom",
+          "metagenomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5604,
+    "collected_at": "2026-11-24T21:21:51.319977+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.64898/2026.11.22.768399"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c1268ba01331ab4e8119e641ca759a8fe4d6bfc0e8079703528741015a89343b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T21:54:44.585443+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7bcd0d9a4b0a2ef039edb864ea5ab679ac318b07a166366cd1319970dfb8fa9d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T21:54:44.585443+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "オフターゲットゲノムデータから明らかになった、欧州で最も破壊的な森林害虫に関連する線虫の高い出現率と多様性",
+    "abstract_ja": "地球上のほとんどの種における生物間相互作用については、生態系ネットワークにおいて極めて重要な役割を担う多くの生物を含め、ほとんど解明されていない。こうしたネットワークを再構築するための非常に費用対効果の高い手法の一つは、急速に増加しているハイスループットシーケンシングデータセットを解析することである。本研究では、欧州で最も破壊的な森林害虫の一つであるトウヒキクイムシ（Ips typographus）の大規模な全ゲノム再シーケンシングデータセットを検討し、こうしたデータセットによって明らかにできる関連生物の多様性と分布を明らかにした。欧州の分布域全域から得られた成虫312個体のメタゲノムデータセットのうち、69%に他の真核生物（主に線虫）由来の小サブユニットリボソームRNA（SSU rRNA）リードが含まれていることが判明した。rRNAから再構築された13種の線虫のうち、Contortylenchus sp. および Micoletzkya sp. が欧州の個体群において最も頻度の高い分類群であった。多くの場合、線虫のDNAがシーケンシングライブラリの大部分を占めており、宿主への顕著な影響が示唆された。これらの甲虫の多くで再構築されたミトコンドリア遺伝子は、再構築の成功率にばらつきはあったものの、さらなる系統学的解像度をもたらした。総じて、本研究の結果は、本来別の目的で生成されたシーケンシングデータを用いて主要な生物学的関連性を再構築できる可能性を示しており、生態学的に重要な種の個体群動態に多大な影響を及ぼし得る相互作用の包括的な調査に向けた道筋を浮き彫りにしている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "bioRxiv",
+        "query": "details/biorxiv/2026-10-20/2026-11-10",
+        "scope": "candidate"
+      }
+    ],
+    "id": "10.64898/2025.12.20.695663",
+    "doi": "10.64898/2025.12.20.695663",
+    "title": "OCTRON - a general purpose segmentation and tracking pipeline for behavioral experiments",
+    "abstract": "Quantifying animal behavior across species with complex, deformable body plans requires capturing full-body shape rather than sparse skeletal keypoints. Yet accessible, end-to-end tools that take researchers from mask annotation through model training to reliable multi-object tracking are lacking. Here we present OCTRON, a fully trainable pipeline for multi-object segmentation, detection, and tracking that is broadly applicable across experimental setups and organisms. OCTRON leverages large segmentation foundation models to rapidly generate experimenter-supervised annotations from minimal input, overcoming the manual labeling bottleneck of supervised segmentation. These annotations train compact, task-specific models: segmentation networks for extracting pixel-level information such as shape and appearance, or lightweight detection networks for fast centroid tracking. Coupled with multi-object trackers and an interactive track-curation interface in napari, OCTRON enables complete behavioral quantification with minimal manual intervention. We validate OCTRON across species from transparent marine annelids to camouflaging cuttlefish, and in multi-species behavioral assays.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "2",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2025.12.20.695663"
+    ],
+    "date": "2026-10-23",
+    "authors": "Jacobsen, R. I.; van Eekelen, N. M.; Roald-Arboel, M.; Minano, S.; Humphrey, L.; Renton, J.; Honda, T.; van Rooij, E.; Rivera, J.; Arenas, O. M.; Lumpkin, E. A.; Maccuro, S.; Buresch, K. C.; Seuntjens, E.; Obenhaus, H. A.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2025.12.20.695663v2",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "gene",
+        "pipeline"
+      ],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [
+          "annotation"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5591,
+    "collected_at": "2026-11-24T21:11:07.209251+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-24",
+    "translation": {
+      "title": {
+        "hash": "455e7a4543e8c7d495b6016df0660e323ceeffb271df753fd59690ed474f7496",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T21:54:44.585443+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "914ae90c8d0ea1139d997f864ec81b3f2091cddb339967e6d47894bcc21596e9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T21:54:44.585443+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "OCTRON - 行動実験向け汎用セグメンテーション・トラッキングパイプライン",
+    "abstract_ja": "複雑で変形可能な身体構造を持つ種間で動物行動を定量化するには、疎な骨格キーポイントではなく全身形状を捉える必要がある。しかし、マスクアノテーションからモデル学習、そして信頼性の高いマルチオブジェクトトラッキングまでを研究者が一貫して行える、利用しやすいエンドツーエンドのツールが不足している。本研究では、実験設定や生物種を問わず幅広く適用可能な、マルチオブジェクトセグメンテーション、検出、およびトラッキングのための完全学習型パイプライン「OCTRON」を提案する。OCTRONは大規模なセグメンテーション基盤モデルを活用し、最小限の入力から実験者による教師ありアノテーションを迅速に生成することで、教師ありセグメンテーションにおける手動ラベリングのボトルネックを克服する。これらのアノテーションは、形状や外観といったピクセルレベルの情報を抽出するためのセグメンテーションネットワークや、高速な重心トラッキングのための軽量な検出ネットワークといった、コンパクトでタスク特化型のモデルを学習させる。マルチオブジェクトトラッカーおよびnapariにおけるインタラクティブなトラックキュレーションインターフェースと組み合わせることで、OCTRONは最小限の手動介入で完全な行動定量化を実現する。我々は、透明な海洋環形動物から擬態するコウイカに至るまでの種間、および多種行動アッセイにおいてOCTRONの有効性を検証する。"
   }
 ]
