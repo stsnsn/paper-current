@@ -330912,5 +330912,291 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "不可能を可能にする：スケーラブルな低入力プロテオミクスに向けたTMTとDIAの統合",
     "abstract_ja": "タンデム質量タグ（TMT）とデータ独立型取得（DIA）を用いた等圧マルチプレクシングは、定量プロテオミクスにおける2つの強力な手法であり、それぞれに異なる利点がある。これらの戦略を組み合わせることで、シングルセルプロテオミクス（SCP）などの低入力アプリケーションにおいて相乗的な効果が得られる。しかし、これらの戦略の統合は、共単離干渉やデータの複雑化により依然として困難な課題となっていた。本研究では、Orbitrap Astral質量分析計（MS）におけるハイブリッドDIA-TMTpro 18-plexワークフローの、同定に紐づいた系統的な評価結果を報告する。ヒトおよび酵母消化物の2プロテオーム干渉モデルを用い、さまざまな単離ウィンドウ、注入時間、および入力量にわたって、TMTベースのDDAおよびDIA取得戦略の定量精度と精密度をベンチマークした。また、リポーターイオン（RI）の定量および共単離純度の評価を効率化する、自社開発のPythonベースツールであるREAD（Reporter Ion Extractor and Annotation Director）を提供する。READを用いることで、TMTをネイティブにサポートしていないSpectronautやDIA-NNのようなDIA特化型検索エンジンにおいても、TMTベースの定量が可能となる。我々は、取得モードに関わらず、共単離干渉がTMT RIベースの定量において比率の圧縮と比率の膨張の両方を引き起こすことを示した。干渉耐性のある代替案として、TMT相補イオンによる定量をさらに評価したところ、プレクシング容量とプロテオーム深度の低下という代償はあるものの、ほぼラベルフリーの定量精度を達成した。以上の結果を総合すると、Orbitrap Astral質量分析計におけるDIAとTMTproの組み合わせに関する実用的なガイドラインが確立され、感度、精度、およびスループットが極めて重要となるSCPなどの低入力アプリケーションへDIA-TMTワークフローを拡張するための基盤が提供される。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "bioRxiv",
+        "query": "details/biorxiv/2026-10-20/2026-11-10",
+        "scope": "candidate"
+      }
+    ],
+    "id": "10.64898/2026.10.15.759469",
+    "doi": "10.64898/2026.10.15.759469",
+    "title": "Robust Identification of Drug Mechanism of Action Associated Genes Across Heterogeneous Drug Treated Datasets",
+    "abstract": "Identifying genes associated with the mechanism of action (MOA) of anticancer therapies is essential for understanding drug response. Functional genomics approaches, including genome-wide CRISPR knock out screens, enable systematic gene prioritization following treatment; however, findings from individual datasets are typically interpreted after identifying overlapping genes across datasets to confirm biological hypotheses. Integrating such heterogeneous datasets remains challenging due to variability across experimental conditions. Existing approaches can miss biologically relevant genes due to dataset-specific noise, can fail to capture genes exhibiting consistent but moderate effects across studies. Here, we present ConcuRx, a statistical framework for cross-study integration and gene prioritization across heterogeneous CRISPR drug-response screens. This approach produces more stable gene rankings than single-dataset analyses, improving prioritization of known MOA-associated genes and recovering biologically relevant genes that are overlooked by average- and overlap-based approaches. Applied to CRISPR drug-response screens for the synergistic drug pair of ATR and PARP inhibitors, ConcuRx strengthened support for 15 experimentally validated hypotheses collected from published studies, including mechanisms supported by independent studies not included in the ConcuRx analysis. These findings demonstrate that modelling between-study variability improves identification and prioritization of MOA-associated genes and provides a robust strategy for integrating heterogeneous functional genomics data in precision oncology.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.10.15.759469"
+    ],
+    "date": "2026-10-21",
+    "authors": "Sharmin, M.; Aziz, M.; Mathe, E.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.15.759469v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5549,
+    "collected_at": "2026-11-24T14:50:01.882069+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-24",
+    "translation": {
+      "title": {
+        "hash": "3f03c38d1ed6624c8fb24d9d9b0a14f06c9f77eae69be2060fd237a9267ba49c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T15:39:01.207005+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b013a9483137182b495d4a5cc50ad72449959fdaf42e77d2ade4cc6ad7f6e4a0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T15:39:01.207005+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "不均一な薬物治療データセットにおける薬物作用機序関連遺伝子の頑健な同定",
+    "abstract_ja": "抗がん療法の作用機序（MOA）に関連する遺伝子を同定することは、薬剤応答を理解する上で不可欠である。ゲノムワイドCRISPRノックアウトスクリーニングを含む機能ゲノミクスアプローチにより、治療後の系統的な遺伝子優先順位付けが可能となるが、個々のデータセットから得られた知見は通常、生物学的仮説を検証するためにデータセット間で重複する遺伝子を同定した後に解釈される。このような異種データセットの統合は、実験条件間のばらつきにより依然として困難である。既存のアプローチでは、データセット固有のノイズにより生物学的に関連のある遺伝子を見逃す可能性があり、また、研究間で一貫しつつも中程度の効果を示す遺伝子を捉えきれない場合がある。本研究では、異種CRISPR薬剤応答スクリーニングにわたる研究間統合および遺伝子優先順位付けのための統計的フレームワークであるConcuRxを提案する。このアプローチは、単一データセット解析よりも安定した遺伝子ランキングを生成し、既知のMOA関連遺伝子の優先順位付けを改善し、平均値ベースや重複ベースのアプローチでは見落とされる生物学的に関連のある遺伝子を復元する。ATRおよびPARP阻害剤の相乗的薬剤ペアに対するCRISPR薬剤応答スクリーニングに適用したところ、ConcuRxは、ConcuRx解析に含まれていない独立した研究によって支持された機序を含め、既報の研究から収集された実験的に検証済みの15の仮説に対する支持を強化した。これらの知見は、研究間のばらつきをモデル化することで、MOA関連遺伝子の同定と優先順位付けが改善され、精密腫瘍学における異種機能ゲノミクスデータの統合のための堅牢な戦略が提供されることを示している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "bioRxiv",
+        "query": "details/biorxiv/2026-10-20/2026-11-10",
+        "scope": "candidate"
+      }
+    ],
+    "id": "10.1101/2025.02.01.636034",
+    "doi": "10.1101/2025.02.01.636034",
+    "title": "The acidic N-terminus of HHARI and neddylation are essential for the activation and maintenance of RIG-I-mediated type I interferon response",
+    "abstract": "Human homolog of Ariadne (HHARI) is a RING-between-RING ubiquitin E3 ligase which interacts with cullin-RING E3 ligase (CRL) complexes. HHARI has been implicated in the type-I interferon anti-viral response. However, how HHARI drives interferon signalling is not fully understood and the function of the unique, highly conserved acidic N-terminal domain of the protein is unknown. Here, we show that HHARI stimulates interferon-{beta} secretion and autocrine type-I interferon signalling by directly targeting the viral RNA sensor RIG-I (Retinoic Acid-Inducible Gene I) in a neddylation-dependent manner. This suggests that neddylation inhibition could be used to treat interferonopathies and related diseases. Truncated HHARI containing only the N-terminal acidic/UBA-like domains retained the ability to induce interferon signalling in a neddylation-dependent mechanism. HHARI-mediated interferon-{beta} secretion was enhanced by overexpression of cullins 1-5. The N-terminal acidic/UBA-like domain of HHARI is critical for RIG-I activation and interferon signalling, as removal of these domains inactivated the pro-interferon phenotype. We propose a mechanism by which the N-terminus of HHARI interacts with all neddylated cullins leading to endogenous HHARI activation. This suggests a model in which the N-terminus of HHARI 'unlocks' and activates neddylated cullins, which in turn are required for activation of HHARI itself. As cullins typically form modular cullin-RING ligase super-assemblies our findings imply that the HHARI N-terminus domain is a critical regulator of the versatile CRL system, which, through widespread protein ubiquitylation, controls many eukaryotic cell functions.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "2",
+    "published_doi": "",
+    "related_dois": [
+      "10.1101/2025.02.01.636034"
+    ],
+    "date": "2026-10-21",
+    "authors": "Kontra, I.; Ward, H.; Vinluan, F.; Lau, R.; Rajeeve, V.; Cutillas, P.; Stieglitz, B.; Lewis, M. J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.1101/2025.02.01.636034v2",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assemblies"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5550,
+    "collected_at": "2026-11-24T14:50:01.882069+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-24",
+    "translation": {
+      "title": {
+        "hash": "e582179d12752f2b75b4958b681a75351b6e9114ed9491799b264c41c2c8e43e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T15:39:01.207005+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "eae7241b4cab2bde2948a75a79eb29a609821ad9106731ddc7d6ce6bc7f6dc64",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T15:39:01.207005+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "HHARIおよびネディレーションの酸性N末端は、RIG-I介在性I型インターフェロン応答の活性化と維持に必須である。",
+    "abstract_ja": "Ariadneのヒトホモログ（HHARI）は、cullin-RING E3リガーゼ（CRL）複合体と相互作用するRING-between-RING型ユビキチンE3リガーゼである。HHARIはI型インターフェロン抗ウイルス応答に関与していることが示唆されている。しかし、HHARIがどのようにインターフェロンシグナル伝達を駆動するのかは完全には解明されておらず、本タンパク質の特異的かつ高度に保存された酸性N末端ドメインの機能も不明である。本研究では、HHARIがネディレーション依存的にウイルスRNAセンサーRIG-I（レチノイン酸誘導性遺伝子I）を直接標的とすることで、インターフェロン-{β}分泌およびオートクリン型I型インターフェロンシグナル伝達を刺激することを示す。このことは、ネディレーション阻害がインターフェロン病および関連疾患の治療に利用できる可能性を示唆している。N末端の酸性/UBA様ドメインのみを含む切断型HHARIは、ネディレーション依存的な機構でインターフェロンシグナル伝達を誘導する能力を保持していた。HHARI介在性のインターフェロン-{β}分泌は、cullin 1-5の過剰発現によって増強された。HHARIのN末端酸性/UBA様ドメインはRIG-Iの活性化およびインターフェロンシグナル伝達に不可欠であり、これらのドメインを除去するとプロインターフェロン表現型が不活化された。我々は、HHARIのN末端がすべてのネディレーション型cullinと相互作用し、内因性HHARIの活性化をもたらす機構を提案する。これは、HHARIのN末端がネディレーション型cullinを「アンロック」して活性化し、それがひいてはHHARI自体の活性化に必要となるというモデルを示唆している。cullinは通常、モジュール型のcullin-RINGリガーゼ超集合体を形成するため、我々の知見は、HHARIのN末端ドメインが、広範なタンパク質ユビキチン化を通じて多くの真核細胞機能を制御する多機能なCRL系の重要な調節因子であることを意味している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "bioRxiv",
+        "query": "details/biorxiv/2026-10-20/2026-11-10",
+        "scope": "candidate"
+      }
+    ],
+    "id": "10.64898/2026.09.20.747267",
+    "doi": "10.64898/2026.09.20.747267",
+    "title": "Fecal virome addition promotes biofilm biomass and produces distinct bacterial responses in biofilm and planktonic communities in an in vitro colon model",
+    "abstract": "The gut microbiota is spatially organized, but microorganisms at the intestinal mucus surface remain understudied in virome microbiota research. Here, we investigated how fecal virome addition affects biofilm biomass and bacterial composition in surface-attached and planktonic communities using a biofilm-adapted in vitro colon model, CoMiniGut. Fecal samples were collected from three healthy donors at two time points approximately one year apart. Fecal communities from both collection time points were fermented for 48 h in CoMiniGut reactors containing mucin-coated glass beads. Each community was exposed separately to virome fractions from all three donors, testing autologous and heterologous combinations alongside matched microbiome-only controls. Two parallel CoMiniGut systems provided two reactor replicates for each donor treatment combination at each collection time point. Biofilm biomass was quantified by crystal violet staining, and biofilm-associated and planktonic communities from the same reactors were characterized by 16S rRNA gene sequencing. Across 36 reactor-level observations representing combinations of bacterial donor, virome donor, fecal collection time point, and CoMiniGut system, biomass was classified as increased in 18, neutral in 11, and decreased in 7. Each observation represented the mean of 5 - 6 beads normalized to the matched microbiome-only control. Among non-neutral observations, increases were more frequent than decreases (18 versus 7; two-sided exact binomial test, P = 0.043), whereas the magnitude of the relative change did not differ significantly between Increase and Decrease observations (P = 0.220). Virome addition also explained a small but significant proportion of variation in bacterial community composition (R2 = 0.024, P = 0.029), without substantially altering alpha diversity. No interaction between virome treatment and growth mode was detected for the overall community-level response, while separate differential-abundance analyses identified different sets of virome-associated taxa in biofilm-associated and planktonic samples. Thus, fecal virome addition was associated with a directional bias towards increased biofilm biomass and with distinct taxonomic patterns in biofilm-associated and planktonic communities, without extensive community restructuring.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "2",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.09.20.747267"
+    ],
+    "date": "2026-10-21",
+    "authors": "Mortensen, A. S.; Holm, C. F.; Roeder, H. L.; Rasmussen, T. S.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.09.20.747267v2",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "bacteria",
+        "bacterial",
+        "microbiome",
+        "microbiota",
+        "microorganism",
+        "microorganisms",
+        "virome"
+      ],
+      "context": {
+        "marine": [
+          "plankton"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 5551,
+    "collected_at": "2026-11-24T14:50:01.882069+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-24",
+    "translation": {
+      "title": {
+        "hash": "709b2587af96f7eebde3dedeecb7f4dbcb9e30f2d7eb0c33499b72e6f79ae35e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T15:39:01.207005+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "cf2c2a0c6085e18e4445bd76046453596ed9375877998392926cdebab315419e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T15:39:01.207005+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "糞便バイロームの添加はバイオフィルムバイオマスを増加させ、in vitro結腸モデルにおけるバイオフィルムおよびプランクトン群集に特有の細菌応答を惹起する。",
+    "abstract_ja": "腸内細菌叢は空間的に構成されているが、腸管粘液表面の微生物については、ビローム微生物叢研究において十分に解明されていない。本研究では、バイオフィルム適応型in vitro大腸モデルであるCoMiniGutを用い、糞便ビロームの添加が表面付着性およびプランクトン性コミュニティにおけるバイオフィルムバイオマスと細菌組成にどのような影響を及ぼすかを検討した。健常ドナー3名から、約1年の間隔を空けて2つの時点で糞便サンプルを採取した。両採取時点の糞便コミュニティを、ムチン被覆ガラスビーズを含むCoMiniGutリアクター内で48時間発酵させた。各コミュニティを3名すべてのドナー由来のビローム画分に個別に曝露し、自家および他家の組み合わせに加え、対応するマイクロバイオームのみの対照群を用いて試験を行った。2つの並列CoMiniGutシステムにより、各採取時点における各ドナー処理組み合わせにつき2つのリアクターレプリカが提供された。バイオフィルムバイオマスはクリスタルバイオレット染色により定量し、同一リアクター由来のバイオフィルム関連コミュニティおよびプランクトン性コミュニティを16S rRNA遺伝子シーケンシングにより特性解析した。細菌ドナー、ビロームドナー、糞便採取時点、およびCoMiniGutシステムの組み合わせを表す36件のリアクターレベルの観察結果において、バイオマスは18件で増加、11件で中立、7件で減少と分類された。各観察結果は、対応するマイクロバイオームのみの対照群で正規化した5～6個のビーズの平均値であった。非中立な観察結果のうち、増加は減少よりも頻繁に認められた（18例対7例；両側厳密二項検定、P = 0.043）が、相対変化の大きさは増加と減少の観察結果間で有意な差は認められなかった（P = 0.220）。また、ビロームの添加は、アルファ多様性を実質的に変化させることなく、細菌コミュニティ組成の変動のわずかではあるが有意な割合を説明した（R2 = 0.024, P = 0.029）。コミュニティレベルの全体的な応答において、ビローム処理と増殖様式との間の相互作用は検出されなかったが、個別の差次存在量解析により、バイオフィルム関連サンプルとプランクトン性サンプルで異なるビローム関連分類群のセットが同定された。したがって、糞便ビロームの添加は、広範なコミュニティ再構成を伴うことなく、バイオフィルムバイオマスの増加に向けた方向性のあるバイアス、およびバイオフィルム関連コミュニティとプランクトン性コミュニティにおける明確な分類学的パターンと関連していた。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "bioRxiv",
+        "query": "details/biorxiv/2026-10-20/2026-11-10",
+        "scope": "candidate"
+      }
+    ],
+    "id": "10.64898/2026.10.15.759522",
+    "doi": "10.64898/2026.10.15.759522",
+    "title": "Sequence-only prediction of VHH nanobody epitopes and paratopes on HER2 with a frozen protein language model ( ESM2) and a structure-derived residue prior",
+    "abstract": "Mapping which antigen residues an antibody contacts (the epitope) and which antibody residues do the contacting (the paratope) is central to therapeutic antibody engineering, yet most accurate methods require a solved or predicted three dimensional complex. We address a sequence only formulation: predict the HER2 epitope and the single domain antibody (VHH, or nanobody) paratope from the two sequences alone, with no three dimensional structure prediction at any stage. We pair a frozen ESM2 650M protein language model, used strictly as a feature extractor, with a lightweight trainable module per chain encoders, a shared cross attention block, and epitope, paratope and binder heads (12.2M trainable parameters) trained jointly on three public sources: HER2 binding and blocking competition assays (\"AVIDa hHER2\" to be published by organizers of SEPIQ 2026 The authors have no right to share the dataset to public ), residue level antibody antigen contacts (SAbDab2), and two reference antibody crystal structures. The blocking competition signal is de confounded into a trastuzumab minus pertuzumab contrast whose sign encodes the HER2 domain and which is used only as a training target, never as a model input. Under a three way, sequence cluster level split with a test set opened exactly once, the binder head reaches PR AUC 0.999 and the paratope head 0.659, while residue level epitope prediction on novel antigens remains near baseline (0.070) a limitation the sealed split exposes rather than hides. Sequence alone recovers the competition derived HER2 domain (the competitor class) for 87.7% of held out clones, a leakage free result. For HER2 specifically, a residue prior built from 25 mined HER2 antibody complexes and validated by leave one out reaches 0.26 to 0.29 residue PR AUC once the domain is correct, roughly 3.6 times the language model head alone. We release and report two submission variants per test clone, a fully sequence only prediction and a competition informed one ,and document which data were used where. Keywords: epitope prediction; paratope prediction; nanobody; VHH; HER2; protein language model; ESM2; cross attention; antibody antigen interface; leakage safe evaluation.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.10.15.759522"
+    ],
+    "date": "2026-10-21",
+    "authors": "Babu, D.; Pandurangan, S.; Agilisium Consulting,  ",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.15.759522v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "prediction",
+        "protein",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "prediction",
+          "protein",
+          "sequence"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5552,
+    "collected_at": "2026-11-24T14:50:01.882069+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-24",
+    "translation": {
+      "title": {
+        "hash": "a231fede496bbeca1d1173ed78f8d6c82ce6a7e369e22f8eeef45c69dd21de8d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T15:39:01.207005+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "44d15c9f01aaf92d835885f1e5ba920b5f6e0ef6f1c4c325d6ae7b350485b858",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T15:39:01.207005+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "凍結タンパク質言語モデル（ESM2）と構造由来残基事前分布を用いた、HER2上のVHHナノボディエピトープおよびパラトープの配列のみによる予測",
+    "abstract_ja": "抗体がどの抗原残基に接触するか（エピトープ）、およびどの抗体残基が接触するか（パラトープ）をマッピングすることは、治療用抗体工学の中核をなすが、最も精度の高い手法の多くは、解明済みまたは予測済みの三次元複合体を必要とする。本研究では、配列のみを用いた定式化に取り組む。すなわち、いかなる段階においても三次元構造の予測を行わず、2つの配列のみからHER2エピトープとシングルドメイン抗体（VHH、またはナノボディ）のパラトープを予測する。我々は、厳密に特徴量抽出器として用いられる凍結済みのESM2 650Mタンパク質言語モデルを、チェーンエンコーダ用の軽量な学習可能モジュール、共有クロスアテンションブロック、およびエピトープ、パラトープ、バインダーヘッド（12.2Mの学習可能パラメータ）と組み合わせ、これらを3つの公開ソース（SPIQ 2026の主催者が公開予定のHER2結合およびブロッキング競合アッセイ「AVIDa hHER2」、著者らは本データセットを公開する権利を有しない）、残基レベルの抗体-抗原接触（SAbDab2）、および2つの参照抗体結晶構造を用いて共同で学習させた。ブロッキング競合シグナルは、HER2ドメインを符号化する符号を持つトラスツズマブマイナスペルツズマブのコントラストへとデコンファウンドされ、これは学習ターゲットとしてのみ使用され、モデル入力としては決して使用されない。テストセットを一度だけ開封した3者間の配列クラスターレベルの分割において、バインダーヘッドはPR AUC 0.999、パラトープヘッドは0.659に達した一方、新規抗原に対する残基レベルのエピトープ予測はベースライン（0.070）に近いままであり、この制限は封印された分割によって隠されるのではなくむしろ露呈するものである。配列のみの手法では、ホールドアウトしたクローンの87.7%において競合由来のHER2ドメイン（競合クラス）を復元でき、リークのない結果が得られた。HER2に特化しては、25個のマイニング済みHER2抗体複合体から構築し、leave-one-out法で検証した残基プライマーを用い、ドメインが正しければ0.26～0.29の残基PR AUCに達し、これは言語モデルヘッドのみの場合の約3.6倍となる。我々は、テストクローンごとに2つの提出バリアント（完全配列のみによる予測と、競合情報を考慮した予測）を公開・報告し、どのデータがどこで使用されたかを文書化する。キーワード：エピトープ予測；パラトープ予測；ナノボディ；VHH；HER2；タンパク質言語モデル；ESM2；クロスアテンション；抗体-抗原界面；リークセーフ評価。"
   }
 ]
