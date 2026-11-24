@@ -326271,5 +326271,290 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "黄連解毒湯は腸内細菌叢の変化を介して動脈硬化を軽減する―肝TMA/FMO3/TMAO軸：マイクロバイオームプロファイリング、UHPLC–MS/MS、AlphaFold3に基づく分子シミュレーション、および実験的検証の統合",
     "abstract_ja": "背景Huang-Lian-Jie-Du煎剤（HLJDD）は抗動脈硬化作用を示すが、腸内細菌叢の変化およびトリメチルアミン（TMA）／フラビン含有モノオキシゲナーゼ3（FMO3）／トリメチルアミンN-オキシド（TMAO）関連代謝との関連性については、いまだ十分に解明されていない。方法高脂肪・高コレステロール（HFHC）食を給餌したApoE−/−マウスに、HLJDDまたはシムバスタチンを投与した。動脈硬化病変、肝脂質蓄積、血清脂質プロファイル、循環TMAおよびTMAO濃度、ならびに肝FMO3発現を評価した。腸内細菌叢は、16S rRNAシーケンシング、多変数解析、および2種の菌種と3つのTMA関連遺伝子を標的とした結腸内容物qPCRにより評価した。HLJDD水煎剤の構成成分をUHPLC-Q-Orbitrap-MS/MSによりプロファイリングし、AlphaFold3に基づく分子ドッキングおよびFMO3に対する100 ns分子動力学シミュレーションと統合した。選定した化合物について、遊離脂肪酸処理HepG2細胞におけるFMO3発現への影響を評価した。結果Huang-Lian-Jie-Du煎剤は、HFHC給餌ApoE−/−マウスにおいて肝脂質蓄積および動脈硬化性病理学的変化を軽減し、血清脂質プロファイルを改善した。これらの効果に伴い、循環TMAおよびTMAO濃度、ならびに肝FMO3発現の低下が認められた。HLJDDはα多様性に有意な影響を及ぼさずに、腸内細菌叢の構造を変化させた。LEfSeおよびランダムフォレスト解析では、AkkermansiaとBilophilaが優先的に同定された。Akkermansiaは有意に増加し、脂質指標と相関したが、Bilophilaは有意ではない傾向を示し、TMAOと負の相関を示した。結腸内容物qPCRでは、Akkermansia muciniphilaおよびBilophila wadsworthiaの存在量が増加し、cutCの存在量が減少したが、cntAおよびgrdHに有意な差は認められなかった。RDAは、属レベルの組成と代謝変数との関連を示した。UHPLC-Q-Orbitrap-MS/MSプロファイリングに続く薬物動態スクリーニングにより、FMO3ドッキング候補として14種類の構成成分が同定され、そのうちlimonin、berberine、およびdihydrooroxylin Aは、それぞれ−10.4、−8.5、および−8.4 kcal/molという良好な予測結合エネルギーを示した。分子動力学およびMM/PBSA解析では、limoninとberberineが優先的に同定され、いずれも脂質過剰負荷HepG2細胞においてFMO3発現を低下させた。結論Huang-Lian-Jie-Du煎剤は、HFHC給餌ApoE−/−マウスにおいて動脈硬化性病理学的変化を軽減し、脂質プロファイルを改善した。これに伴い、腸内細菌叢のリモデリング、cutC存在量の減少、循環TMAおよびTMAO濃度の低下、ならびに肝FMO3発現の低下が認められた。これらの知見は、微生物のコリン依存性TMA産生能および肝FMO3発現の調節が、HLJDDの抗動脈硬化効果に寄与している可能性を示唆している。また、limoninおよびberberineは脂質過剰負荷HepG2細胞においてFMO3発現を低下させたことから、さらなる検討対象となる候補構成成分として同定された。"
+  },
+  {
+    "id": "10.1111/1758-2229.70473",
+    "title": "Discovery and Functional Characterization of Salinity‐Responsive Promoters in Pseudomonas putida KT2440",
+    "abstract": "A fluorescent system encoded on a plasmid was used to screen and characterize putative promoters from intergenic regions of stress‐related genes identified in silico in Pseudomonas putida KT2440. This approach enabled the quantitative assessment of promoters exhibiting differential activation in response to varying NaCl concentrations.\n\nABSTRACT\nWhile microbial bioprocesses offer environmental advantages, their reliance on freshwater remains a significant challenge. Seawater presents a sustainable alternative; however, its high salinity often limits microbial growth and survival. This study aimed to identify salt stress‐responsive biological parts for microbial engineering in the versatile synthetic biology chassis Pseudomonas putida KT2440. Using available transcriptomic data, we identified intergenic regions upstream of genes consistently upregulated under saline and other industrially relevant conditions. These regions were cloned into a reporter plasmid and functionally evaluated in KT2440. We characterized two novel salt‐inducible promoters: PPP_1833 and PPP_4707. Compared to standard media, supplementation with 3.5% (w/v) NaCl increased their integrated fluorescence by 4.9‐fold and 8.5‐fold, respectively. Furthermore, both promoters maintained robust activity in an artificial seawater‐based medium. Conversely, neither promoter showed activity in Escherichia coli DH10B under identical conditions, highlighting species‐specific regulatory differences in salinity response. These findings introduce two new salt‐responsive regulatory elements in P. putida KT2440, expanding the genetic toolkit for optimizing bioprocesses in saline environments.\n\nA fluorescent system encoded on a plasmid was used to screen and characterize putative promoters from intergenic regions of stress-related genes identified in silico in Pseudomonas putida KT2440. This approach enabled the quantitative assessment of promoters exhibiting differential activation in response to varying NaCl concentrations.\n\nABSTRACT\nWhile microbial bioprocesses offer environmental advantages, their reliance on freshwater remains a significant challenge. Seawater presents a sustainable alternative; however, its high salinity often limits microbial growth and survival. This study aimed to identify salt stress-responsive biological parts for microbial engineering in the versatile synthetic biology chassis Pseudomonas putida KT2440. Using available transcriptomic data, we identified intergenic regions upstream of genes consistently upregulated under saline and other industrially relevant conditions. These regions were cloned into a reporter plasmid and functionally evaluated in KT2440. We characterized two novel salt-inducible promoters: PPP_1833 and PPP_4707. Compared to standard media, supplementation with 3.5% (w/v) NaCl increased their integrated fluorescence by 4.9-fold and 8.5-fold, respectively. Furthermore, both promoters maintained robust activity in an artificial seawater-based medium. Conversely, neither promoter showed activity in Escherichia coli DH10B under identical conditions, highlighting species-specific regulatory differences in salinity response. These findings introduce two new salt-responsive regulatory elements in P. putida KT2440, expanding the genetic toolkit for optimizing bioprocesses in saline environments.",
+    "journal": "Environmental Microbiology Reports",
+    "doi": "10.1111/1758-2229.70473",
+    "date": "2026-11-23",
+    "authors": "Camila Marques de Simone, \nGuilherme Marcelino Viana de Siqueira, \nMaría‐Eugenia Guazzaroni",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1758-2229.70473?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "Pseudomonas",
+        "microbial"
+      ],
+      "context": {
+        "marine": [
+          "freshwater",
+          "seawater"
+        ],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://onlinelibrary.wiley.com/feed/17582229/most-recent",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5582,
+    "collected_at": "2026-11-24T11:05:36.802078+00:00",
+    "collected_date": "2026-11-24",
+    "sources": [
+      "https://onlinelibrary.wiley.com/feed/17582229/most-recent"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1111/1758-2229.70473"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0c0ab07e95817448a2b4d0d12c94442879970598bc4b2929af3260486e6ca405",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T11:32:32.020768+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "fc85891f05b4763aa40746249d80de1bdd3ef57a1c27e444a367f88f49dd6031",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T11:32:32.020768+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Pseudomonas putida KT2440における塩濃度応答性プロモーターの発見と機能解析",
+    "abstract_ja": "プラスミドにコードされた蛍光システムを用いて、Pseudomonas putida KT2440においてin silicoで同定されたストレス関連遺伝子の遺伝子間領域から、推定プロモーターのスクリーニングおよび特性解析を行った。この手法により、NaCl濃度の変化に応じて異なる活性化を示すプロモーターの定量的評価が可能となった。\n\n要旨\n微生物のバイオプロセスは環境上の利点をもたらす一方で、淡水への依存が依然として大きな課題となっている。海水は持続可能な代替手段となるが、その高い塩分濃度が微生物の増殖や生存を制限することが多い。本研究では、汎用性の高い合成生物学シャーシであるPseudomonas putida KT2440における微生物工学のための、塩ストレス応答性生物学的構成要素を同定することを目的とした。利用可能なトランスクリプトームデータを用いて、塩水およびその他の工業的に有用な条件下で一貫して発現が上昇する遺伝子の上流にある遺伝子間領域を同定した。これらの領域をレポータープラスミドにクローニングし、KT2440において機能的評価を行った。その結果、PPP_1833およびPPP_4707という2つの新規塩誘導性プロモーターを特性解析した。標準培地と比較して、3.5% (w/v) NaClの添加により、それぞれの積分蛍光が4.9倍および8.5倍に増加した。さらに、両プロモーターは人工海水ベースの培地においても強固な活性を維持した。対照的に、同一条件下においていずれのプロモーターもEscherichia coli DH10Bでは活性を示さず、塩分応答における種特異的な調節上の差異が浮き彫りとなった。これらの知見は、P. putida KT2440に2つの新たな塩応答性調節要素を導入するものであり、塩水環境におけるバイオプロセス最適化のための遺伝的ツールキットを拡充するものである。\n\nプラスミドにコードされた蛍光システムを用いて、Pseudomonas putida KT2440においてin silicoで同定されたストレス関連遺伝子の遺伝子間領域から、推定プロモーターのスクリーニングおよび特性解析を行った。この手法により、NaCl濃度の変化に応じて異なる活性化を示すプロモーターの定量的評価が可能となった。\n\n要旨\n微生物のバイオプロセスは環境上の利点をもたらす一方で、淡水への依存が依然として大きな課題となっている。海水は持続可能な代替手段となるが、その高い塩分濃度が微生物の増殖や生存を制限することが多い。本研究では、汎用性の高い合成生物学シャーシであるPseudomonas putida KT2440における微生物工学のための、塩ストレス応答性生物学的構成要素を同定することを目的とした。利用可能なトランスクリプトームデータを用いて、塩水およびその他の工業的に有用な条件下で一貫して発現が上昇する遺伝子の上流にある遺伝子間領域を同定した。これらの領域をレポータープラスミドにクローニングし、KT2440において機能的評価を行った。その結果、PPP_1833およびPPP_4707という2つの新規塩誘導性プロモーターを特性解析した。標準培地と比較して、3.5% (w/v) NaClの添加により、それぞれの積分蛍光が4.9倍および8.5倍に増加した。さらに、両プロモーターは人工海水ベースの培地においても強固な活性を維持した。対照的に、同一条件下においていずれのプロモーターもEscherichia coli DH10Bでは活性を示さず、塩分応答における種特異的な調節上の差異が浮き彫りとなった。これらの知見は、P. putida KT2440に2つの新たな塩応答性調節要素を導入するものであり、塩水環境におけるバイオプロセス最適化のための遺伝的ツールキットを拡充するものである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1996762",
+    "title": "Alterations in gut microbiota composition and their associations with glycemic control and lipid profile in type 2 diabetes mellitus: a case–control study in an Egyptian cohort",
+    "abstract": "IntroductionType 2 diabetes mellitus (T2DM) is characterized by chronic hyperglycemia, insulin resistance, and dyslipidemia, and accumulating evidence implicates alterations in the gut microbiota in its pathogenesis; however, data from Egyptian populations remain scarce.MethodsThis case–control study enrolled 25 adults with newly diagnosed T2DM and 25 age and sex-matched healthy controls. Clinical and biochemical parameters were measured, and stool samples were analyzed by quantitative real-time PCR (qPCR) to determine the relative abundance of four bacterial phyla (Proteobacteria, Firmicutes, Bacteroidetes, Actinobacteria) and two genera (Enterococcus, Bacteroides), normalized to the universal 16S rRNA signal. Associations between microbial abundance and metabolic parameters were examined using correlation and multivariable regression analyses.ResultsPatients with T2DM had significantly higher fasting blood glucose, HbA1c, triglycerides, and LDL-cholesterol, and lower HDL-cholesterol, than controls (all p < 0.05). Relative abundances of Proteobacteria, Firmicutes, Bacteroidetes, Enterococcus, and Bacteroides were significantly higher in patients with T2DM (all p ≤ 0.005), whereas Actinobacteria was significantly lower (p < 0.001). Within the T2DM group, Firmicutes and Proteobacteria correlated positively with fasting glucose, HbA1c, triglycerides, and LDL-cholesterol, while Actinobacteria correlated negatively with these parameters and positively with HDL-cholesterol; these associations were markedly attenuated among controls. T2DM status remained independently associated with altered abundance of all six taxa after adjustment for age, sex, BMI, diet, physical activity, and medication use, and the pattern persisted in drug-naïve and non-obese subgroup analyses.ConclusionThese findings indicate that gut microbial dysbiosis is associated with T2DM and its metabolic correlates in this Egyptian cohort; however, given the cross-sectional design, the targeted qPCR panel, and the single-center sample, the results should be interpreted as correlative rather than causal and require confirmation in larger, sequencing-based, longitudinal studies.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1996762",
+    "date": "2026-11-24",
+    "authors": "Eman Hamdy Mohamed",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1996762",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "bacteria",
+        "bacterial",
+        "microbial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5558,
+    "collected_at": "2026-11-24T11:05:36.802078+00:00",
+    "collected_date": "2026-11-24",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.3389/fmicb.2026.1996762"
+    ],
+    "translation": {
+      "title": {
+        "hash": "dcc8a6ec8886b3e34521deafb03658faef92fe08c7cc46331216342c0c5bb15c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T11:32:32.020768+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7ba834d0c61695d3ea47209d8560712b6b5ea95ee8fc7c0b0b8d5bf4df2c91f2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T11:32:32.020768+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "2型糖尿病における腸内細菌叢組成の変化と血糖コントロールおよび脂質プロファイルとの関連：エジプト人コホートを対象とした症例対照研究",
+    "abstract_ja": "はじめに2型糖尿病（T2DM）は、慢性的な高血糖、インスリン抵抗性、および脂質異常症を特徴とし、その病態形成に腸内細菌叢の変化が関与していることを示すエビデンスが蓄積されつつあるが、エジプト人集団におけるデータは依然として乏しい。方法本症例対照研究では、新たにT2DMと診断された成人25例と、年齢および性別を一致させた健常対照群25例を対象とした。臨床的および生化学的パラメータを測定し、便検体を定量リアルタイムPCR（qPCR）で解析して、普遍的な16S rRNAシグナルで正規化した4つの細菌門（Proteobacteria、Firmicutes、Bacteroidetes、Actinobacteria）および2つの属（Enterococcus、Bacteroides）の相対存在量を算出した。微生物の存在量と代謝パラメータとの関連を、相関分析および多変数回帰分析を用いて検討した。結果T2DM患者では、対照群と比較して、空腹時血糖値、HbA1c、トリグリセリド、およびLDLコレステロールが有意に高く、HDLコレステロールが有意に低かった（すべて p < 0.05）。Proteobacteria、Firmicutes、Bacteroidetes、Enterococcus、およびBacteroidesの相対存在量はT2DM患者で有意に高く（すべて p ≤ 0.005）、一方でActinobacteriaは有意に低かった（p < 0.001）。T2DM群内では、FirmicutesおよびProteobacteriaは空腹時血糖値、HbA1c、トリグリセリド、およびLDLコレステロールと正の相関を示したが、Actinobacteriaはこれらのパラメータと負の相関を示し、HDLコレステロールとは正の相関を示した。これらの関連性は、対照群では著しく減弱していた。年齢、性別、BMI、食事、身体活動、および薬剤使用を調整した後でも、T2DMの状態は6つの分類群すべての存在量の変化と独立して関連しており、このパターンは薬剤未投与群および非肥満サブグループの解析においても維持されていた。結論これらの知見は、本エジプト人コホートにおいて、腸内細菌叢のディスバイオーシスがT2DMおよびその代謝関連因子と関連していることを示している。しかし、横断的デザイン、標的型qPCRパネル、および単一施設サンプルであることから、結果は因果関係ではなく相関関係として解釈されるべきであり、より大規模なシーケンシングに基づく縦断的研究による確認が必要である。"
+  },
+  {
+    "id": "10.1186/s13059-026-04357-8",
+    "title": "AURA decomposes spatial gene expression to reveal composition-dependent regulation",
+    "abstract": "Spatial transcriptomics at single-cell resolution can relate each cell’s expression to its surroundings, yet analyses still depend on predefined domains or niches. We present AURA, a statistical framework that tests and quantifies how a cell type’s gene expression depends on the continuous composition of its local neighborhood, separating this from cell-level transcriptional output and flagging transcript spillover. AURA is calibrated in simulations, scales to millions of cells, and applies to Xenium, CosMx and Visium HD data. Across lymph node, fibrotic lung and cancer, it reveals widespread small composition-dependent effects organized into a few interpretable axes.",
+    "journal": "Genome Biology",
+    "doi": "10.1186/s13059-026-04357-8",
+    "date": "2026-11-24",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s13059-026-04357-8",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=13059",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5574,
+    "collected_at": "2026-11-24T11:05:36.802078+00:00",
+    "collected_date": "2026-11-24",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=13059"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1186/s13059-026-04357-8"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a4e91de92db25ca5cbda515cabdc84ddadd1ffc3862c994eb746e03d62ebccb4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T11:32:32.020768+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a77c49aba02c961cdb216e08728ca735275ed034d0b5ef22352e88477064ddc6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T11:32:32.020768+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "AURAは空間的な遺伝子発現を分解し、組成依存的な制御を明らかにする。",
+    "abstract_ja": "単一細胞解像度の空間トランスクリプトミクスにより、各細胞の発現を周囲環境と関連付けることが可能となったが、解析は依然としてあらかじめ定義されたドメインやニッチに依存している。本稿では、細胞種の遺伝子発現が局所近傍の連続的な組成にどのように依存するかを検証・定量化し、これを細胞レベルの転写出力から分離してトランスクリプトのスピルオーバーを検出する統計的フレームワーク「AURA」を提案する。AURAはシミュレーションで較正されており、数百万個の細胞までスケール可能で、Xenium、CosMx、およびVisium HDのデータに適用できる。リンパ節、線維化肺、およびがんにおいて、解釈可能な少数の軸に整理された、広範な小規模組成依存的効果を明らかにする。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/jvi.01485-26",
+    "title": "Mutations in the nsP1 dodecamerization surface impair Semliki Forest virus RNA synthesis in mosquito cells.",
+    "abstract": "Positive-sense RNA (+ssRNA) viruses remodel host membranes to form replication organelles (ROs), a process largely driven by the oligomerization of virus-encoded membrane-binding proteins. In the case of Togaviruses, non-structural protein 1 (nsP1) assembles into dodecameric rings that serve as scaffolds bridging viral replication spherules with the host plasma membrane. However, the precise role and necessity of nsP1 oligomerization in viral replication remain incompletely understood. In this study, we employed structure-based computational modeling to design nsP1 mutants predicted to disrupt monomer-monomer interactions within the dodecamer. Molecular dynamics simulations further indicated that these mutations may impair the membrane-binding affinity of nsP1. Western blotting was performed under denatured reducing conditions, and confocal microscopy was used to assess the expression levels and subcellular localization of mutant nsP1, respectively. Mutant proteins appear to not be stably retained at the plasma membrane, instead being mislocalized to endosomal compartments. Three-component trans-replicase assays and viral challenge experiments revealed that nsP1 dodecamerization-surface mutants are deficient in their ability to support viral replication. This study highlights the critical role of nsP1 dodecamerization in Togavirus replication and proposes a potential antiviral strategy targeting oligomeric protein structures in +RNA viruses.ImportanceTogaviruses are emerging arboviruses capable of causing severe disease and sporadic outbreaks. During viral replication, viral nsP1 assembles into dodecameric rings that anchor replication organelles called spherules to host membranes; however, the functional necessity of the oligomeric organization remains poorly defined. In this study, we combined structure-based modeling, molecular dynamics simulations, and cell-based assays to investigate how mutations that are predicted to destabilize nsP1 oligomers affect viral replication. We found that these mutations reduced membrane-binding affinity, altered subcellular localization, and nsP1 harboring these mutations failed to support viral RNA replication. These findings indicate that nsP1 dodecamerization is required for its stabilization on plasma membranes. More broadly, our findings suggest that targeting the oligomerization of membrane-associated replication proteins represents a viable antiviral strategy for Togaviruses and potentially other positive-sense RNA viruses.",
+    "journal": "Journal of Virology",
+    "doi": "10.1128/jvi.01485-26",
+    "date": "2026-11-09",
+    "authors": "Xin Q, Kavil S, Konno MN, Anderson MAE, Alphey L.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43001908",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43001908",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5520,
+    "collected_at": "2026-11-24T10:55:02.039739+00:00",
+    "collected_date": "2026-11-24",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1128/jvi.01485-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "153a011115a6ff8f09e398af2742601e02fb74e9daadd0821678bc208cd43763",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T11:32:32.020768+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3072deea836e8e884e2bdcb650c2d945ede9338831d39489e370cff826e5d624",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T11:32:32.020768+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "nsP1の十二量体化表面の変異は、蚊の細胞におけるセムリキフォレストウイルスのRNA合成を阻害する。",
+    "abstract_ja": "プラス鎖RNA（+ssRNA）ウイルスは、宿主膜をリモデリングして複製オルガネラ（RO）を形成するが、この過程は主にウイルスがコードする膜結合タンパク質のオリゴマー化によって駆動される。トガウイルスの場合、非構造タンパク質1（nsP1）は十二量体リングへと集合し、ウイルス複製スフェルールと宿主細胞膜を橋渡しする足場として機能する。しかし、ウイルス複製におけるnsP1オリゴマー化の正確な役割と必要性については、まだ十分に解明されていない。本研究では、構造ベースの計算モデリングを用いて、十二量体内のモノマー間相互作用を阻害すると予測されるnsP1変異体を設計した。分子動力学シミュレーションにより、これらの変異がnsP1の膜結合親和性を損なう可能性がさらに示された。変性還元条件下でウェスタンブロッティングを行い、共焦点顕微鏡を用いて変異型nsP1の発現レベルと細胞内局在をそれぞれ評価した。変異タンパク質は細胞膜に安定的に保持されず、代わりにエンドソーム区画へと誤局在すると考えられる。3成分トランスレプリカーゼアッセイおよびウイルスチャレンジ実験により、nsP1の十二量体化－表面変異体はウイルス複製を支持する能力に欠けることが明らかとなった。本研究は、トガウイルスの複製におけるnsP1十二量体化の重要な役割を強調するとともに、+RNAウイルスのオリゴマータンパク質構造を標的とした潜在的な抗ウイルス戦略を提案するものである。重要性トガウイルスは、重篤な疾患や散発的なアウトブレイクを引き起こし得る新興アルボウイルスである。ウイルス複製の際、ウイルスnsP1は十二量体リングへと集合し、スフェルールと呼ばれる複製オルガネラを宿主膜に固定するが、オリゴマー組織化の機能的な必要性は依然として十分に解明されていない。本研究では、構造ベースのモデリング、分子動力学シミュレーション、および細胞ベースのアッセイを組み合わせて、nsP1オリゴマーを不安定化させると予測される変異がウイルス複製にどのような影響を及ぼすかを調査した。その結果、これらの変異が膜結合親和性を低下させ、細胞内局在を変化させ、さらにこれらの変異を有するnsP1はウイルスRNA複製を支持できないことが判明した。これらの知見は、細胞膜上での安定化にnsP1の十二量体化が必要であることを示している。より広範には、我々の知見は、膜関連複製タンパク質のオリゴマー化を標的とすることが、トガウイルスおよび潜在的に他のプラス鎖RNAウイルスに対する有効な抗ウイルス戦略となり得ることを示唆している。"
   }
 ]
