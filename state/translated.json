@@ -327158,5 +327158,297 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ラットを超えて：Rat Genome Databaseにおける四半世紀にわたる疾患モデル統合",
     "abstract_ja": "要旨 ラットゲノムデータベース（RGD, https://rgd.mcw.edu）は、ラットのゲノム、遺伝、表現型、および疾患データに関する多種対応のナレッジベースであり、主要なオンラインリソースである。過去6年間で、RGDには3つの新種、2つのラットリファレンスゲノムアセンブリ、ピーター・ドリス博士のグループによる8つのラット系統de novoアセンブリ、およびハイブリッドラット・ディスカバリー・パネルの118の固有系統のバリアントデータを含む、新たなデータが組み込まれた。メタデータの体系的な手動キュレーションと、GEOデータベースからのRNA-Seqデータの一貫した再処理により、標準化されたトランスクリプトームデータの膨大なデータセットが追加された。RGDの疾患中心の取り組みは継続しており、4つの新たな疾患ポータルが作成されたことで、ポータルの総数は16に達し、既存の3つのポータルが更新された。RGDのデータマイニングおよび解析ツールのうち4つが、よりシンプルで直感的な外観と操作感、および追加機能を備えるよう再設計された。RGDの主要なゲノムブラウザは、種間および種内のアセンブリ間の解析を容易にするために設計されたブラウザであるJBrowse 2へとアップグレードされた。RGDのツールやデータの利用についてより詳しく知りたい研究者を支援するため、RGDはウェブサイトのヘルプページおよびビデオチュートリアルの改善・拡充プロジェクトを開始した。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.2033957",
+    "title": "Bacillus subtilis Y32 promotes foxtail millet growth and yield by reprogramming root nitrogen and phenylpropanoid metabolism",
+    "abstract": "Plant growth-promoting bacteria provide a sustainable means of improving agricultural production, yet the regulatory networks underlying their phytobeneficial effects remain incompletely understood. In this study, we evaluated the phosphate-solubilizing bacterium Bacillus subtilis Y32 in foxtail millet under pot and field conditions and examined the molecular processes associated with its growth-promoting activity. Y32 inoculation promoted root architectural development, increased soil phosphorus availability, and was associated with a 20.2% increase in field grain yield in this trial. Integrated transcriptomic and metabolomic profiling of Y32-inoculated roots revealed reprogramming of nitrogen assimilation and phenylpropanoid pathway. The coordinated upregulation of inorganic nitrogen transporters and assimilation enzymes coincided with the accumulation of putative L-glutamate and L-asparagine. Within the phenylpropanoid pathway, lower abundance of putative coniferyl alcohol, coupled with the induction of peroxidases, laccases, and cellulose synthase, suggested a dynamic cell wall remodeling process. These findings demonstrate that B. subtilis Y32 supports crop growth by integrating nutritional optimization with root remodeling, providing a mechanistic foundation for its development as a multifunctional biofertilizer.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.2033957",
+    "date": "2026-11-24",
+    "authors": "Chunxiao Zhang",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.2033957",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Bacillus",
+        "bacteria",
+        "bacterium"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5561,
+    "collected_at": "2026-11-24T11:05:36.802078+00:00",
+    "collected_date": "2026-11-24",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.3389/fmicb.2026.2033957"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6712ee6b6ac34990d9312df544d2b59dfd7c50363134fe7d1e21974e4e144857",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T11:42:54.889970+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9aeaafde30218f63da732c8c84675faaede0528c9cd1e1a7c274b0463c05edcc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T11:42:54.889970+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Bacillus subtilis Y32は、根の窒素およびフェニルプロパノイド代謝をリプログラミングすることで、アワの生育と収量を促進する。",
+    "abstract_ja": "植物成長促進細菌は、農業生産を向上させる持続可能な手段となるが、その植物有益効果の基盤となる調節ネットワークは依然として十分に解明されていない。本研究では、リン酸可溶化細菌であるBacillus subtilis Y32をポットおよび圃場条件下でアワにおいて評価し、その成長促進活性に関連する分子プロセスを検討した。Y32の接種は根の構造発達を促進し、土壌リンの利用可能性を高め、本試験では圃場での穀物収量の20.2%増加に関連していた。Y32接種根の統合的なトランスクリプトームおよびメタボロームプロファイリングにより、窒素同化およびフェニルプロパノイド経路のリプログラミングが明らかになった。無機窒素輸送体および同化酵素の協調的なアップレギュレーションは、推定L-グルタミン酸およびL-アスパラギンの蓄積と一致していた。フェニルプロパノイド経路においては、推定コニフェリルアルコールの存在量の低下が、ペルオキシダーゼ、ラッカーゼ、およびセルロース合成酵素の誘導と相まって、動的な細胞壁リモデリングプロセスを示唆していた。これらの知見は、B. subtilis Y32が栄養最適化と根のリモデリングを統合することで作物の成長を支え、多機能バイオ肥料としての開発に向けた機構的基盤を提供することを示している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 6",
+        "query": "(JOURNAL:\"Microbial Genomics\" OR JOURNAL:\"Microbiology\" OR JOURNAL:\"Aquatic Microbial Ecology\" OR JOURNAL:\"PNAS\" OR JOURNAL:\"PLOS Biology\" OR JOURNAL:\"PLOS Genetics\" OR JOURNAL:\"Genome Research\" OR JOURNAL:\"Genome Biology\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "review-article",
+      "review",
+      "journal article"
+    ],
+    "id": "10.1099/mic.0.001765",
+    "title": "Purple reign: the outsized impact and potential of <i>Chromobacterium</i> on quorum sensing research.",
+    "abstract": "Members of the Chromobacterium genus - instantly recognizable for their vivid purple pigment - have played a disproportionately influential role in shaping quorum sensing research. The discovery that violacein production in the model species Chromobacterium subtsugae is governed by an N-acyl l-homoserine lactone (AHL)-based LuxI/LuxR signalling system ignited a wave of breakthroughs in the field. With its genetic simplicity and visually striking phenotype, Chromobacterium emerged as a powerful and accessible model, enabling sensitive detection of AHLs across diverse bacteria and opening the door to fundamental insights into signalling promiscuity, interspecies communication and the molecular logic of quorum sensing pathways. In this review, we highlight both the foundational discoveries and ongoing contributions of the Chromobacterium genus, arguing that it has been central not only to the origins of AHL-based quorum sensing research but also to the field's expansion towards increasingly sophisticated, community-level perspectives that continue to define its trajectory today - and into the future.",
+    "journal": "Microbiology",
+    "doi": "10.1099/mic.0.001765",
+    "date": "2026-11-01",
+    "authors": "Yarkosky EJ, Miranda SW, Blackwell HE, Chandler JR.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42986310",
+    "preprint": false,
+    "review": true,
+    "pmcid": "PMC13739290",
+    "pmid": "42986310",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5528,
+    "collected_at": "2026-11-24T10:55:02.039739+00:00",
+    "collected_date": "2026-11-24",
+    "sources": [
+      "Europe PMC journals 6"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1099/mic.0.001765"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d0e408477f0d9e74f8387bc852f1dcbf2023f2bb23f1a710aca06cd6c032eb78",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T11:42:54.889970+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "fd0e096ea4009acc00634694e73484b19920827cde6229964d24ad9a1a4a58d9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T11:42:54.889970+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "パープル・レイン：クオラムセンシング研究における<i>Chromobacterium</i>の絶大な影響力と可能性。",
+    "abstract_ja": "鮮やかな紫色の色素によって一目で識別できるクロモバクテリウム属の細菌は、クオラムセンシング研究の形成において不釣り合いなほど大きな影響力を果たしてきた。モデル種であるChromobacterium subtsugaeにおけるビオラセイン産生が、N-アシル-L-ホモセリンラクトン（AHL）に基づくLuxI/LuxRシグナル伝達系によって制御されているという発見は、この分野における一連の画期的な進展の契機となった。遺伝的構造の単純さと視覚的に際立った表現型を持つクロモバクテリウムは、強力かつ扱いやすいモデルとなり、多様な細菌におけるAHLの高感度な検出を可能にしたほか、シグナル伝達のプロミシシティ、種間コミュニケーション、およびクオラムセンシング経路の分子論理に関する基礎的な知見への道を切り拓いた。本総説では、クロモバクテリウム属の基礎的な発見と現在進行中の貢献の双方に焦点を当て、同属がAHLベースのクオラムセンシング研究の起源のみならず、今日そして将来にわたってその方向性を規定し続ける、より精緻なコミュニティレベルの視点へと分野を拡大させる上で中心的な役割を果たしてきたことを論じる。"
+  },
+  {
+    "id": "10.1093/nar/gkag1229",
+    "title": "OMA orthology in 2027: orthology, ancestral gene repertoires, and comparative genomics at scale",
+    "abstract": "AbstractOMA is a longstanding resource for inferring and exploring orthologous relationships across the tree of life. Here, we describe recent developments that broaden the comparative genomics information and analyses supported by the OMA ecosystem. The latest OMA release contains 2983 extant genomes and 1226 ancestral genome reconstructions spanning all domains of life, with expanded eukaryotic representation and quality-assessed genome selection. We integrated protein structure-aware information across all proteins in OMA, providing structure-derived 3Di representations and structural alignments for hierarchical orthologous groups. For custom datasets, FastOMA enables scalable orthology across thousands of genomes, while OrthoXML-tools facilitates interoperable manipulation and downstream analysis of orthology data. Building on previous resources for ancestral gene repertoire and gene order reconstruction, an extended chromosome viewer enables richer exploration of gene order in extant and reconstructed ancestral genomes, including gene adjacency evolution and integrated downstream analyses. Functional analysis has been extended through the OMA REST API, enabling customizable Gene Ontology enrichment analyses of extant and ancestral gene sets. Finally, updated training resources and support for private deployments broaden access to the OMA ecosystem. Together, these developments provide an integrated framework for studying gene families and genome evolution from sequences, structures, and evolutionary context. OMA is freely accessible at https://omabrowser.org/.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1229",
+    "date": "2026-11-24",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1229/9119054?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5546,
+    "collected_at": "2026-11-24T11:05:36.802078+00:00",
+    "collected_date": "2026-11-24",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1093/nar/gkag1229"
+    ],
+    "translation": {
+      "title": {
+        "hash": "23298f5743269953cc42bab196625dde994bc47dbf591c5a922be9f29347d718",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T11:42:54.889970+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "99872e1dfddc3fb6297d002ac25f072081e7e2940074aa54102824c8b99211fa",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T11:42:54.889970+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "2027年におけるOMAのオーソロジー：オーソロジー、祖先遺伝子レパートリー、および大規模比較ゲノミクス",
+    "abstract_ja": "AbstractOMAは、生命の系統樹におけるオーソログ関係の推論および探索のための長年活用されてきたリソースである。本稿では、OMAエコシステムがサポートする比較ゲノミクス情報および解析を拡充する最新の進展について述べる。最新のOMAリリースには、生命のあらゆるドメインにわたる2,983個の現生ゲノムと1,226個の祖先ゲノム再構築が含まれており、真核生物の網羅範囲の拡大と品質評価済みのゲノム選定が行われている。我々はOMA内の全タンパク質にタンパク質構造認識情報を統合し、階層的なオーソロググループに対する構造由来の3Di表現および構造アライメントを提供した。カスタムデータセットについては、FastOMAにより数千のゲノムにわたるスケーラブルなオーソロジーが可能となり、OrthoXML-toolsはオーソロジーデータの相互運用可能な操作およびダウンストリーム解析を容易にする。祖先遺伝子レパートリーおよび遺伝子順序の再構築に関する従来のリソースを基盤として、拡張された染色体ビューアにより、遺伝子隣接性の進化や統合的なダウンストリーム解析を含む、現生および再構築された祖先ゲノムにおける遺伝子順序のより詳細な探索が可能となった。機能解析はOMA REST APIを通じて拡張され、現生および祖先遺伝子セットに対するカスタマイズ可能なGene Ontologyエンリッチメント解析が可能となった。最後に、更新されたトレーニングリソースとプライベートデプロイメントへのサポートにより、OMAエコシステムへのアクセスが拡大した。これらの進展が相まって、配列、構造、および進化的コンテキストから遺伝子ファミリーとゲノム進化を研究するための統合的なフレームワークが提供される。OMAは https://omabrowser.org/ で無料で利用可能である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 6",
+        "query": "(JOURNAL:\"Microbial Genomics\" OR JOURNAL:\"Microbiology\" OR JOURNAL:\"Aquatic Microbial Ecology\" OR JOURNAL:\"PNAS\" OR JOURNAL:\"PLOS Biology\" OR JOURNAL:\"PLOS Genetics\" OR JOURNAL:\"Genome Research\" OR JOURNAL:\"Genome Biology\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1073/pnas.2620731123",
+    "title": "Optimal scenario design for climate emulation.",
+    "abstract": "As deep learning for physical systems continues to grow in popularity, efforts to improve generalizability have primarily focused on designing architectures that embed physical constraints. However, for machine-learning surrogate climate models (emulators), we show that the low structural diversity in existing scenarios commonly used to generate training data places a ceiling on predictive skill. Here, we examine whether training datasets themselves can be optimized to improve generalization. We introduce a method to create datasets that produce emulators capable of generalizing to new, structurally different scenarios absent from the training data. We use a differentiable simple climate model (SCM) to calculate the sensitivity of emulator loss to perturbations in the training data, iteratively updating the training data to maximize emulator skill. For an SCM, an emulator trained on one scenario optimized in this fashion outperforms an emulator trained on six standard Scenario Model Intercomparison Project (ScenarioMIP) pathways. We achieve this higher predictive skill despite training on a smaller dataset, finding that our emulator successfully isolates distinct physical behaviors of different climate forcing agents (e.g., greenhouse gases vs. aerosols) without single-forcing runs. We then demonstrate that scenarios optimized using an SCM, when used to drive an intermediate-complexity climate model, produce a training dataset that yields a more skillful emulator than training on ScenarioMIP outputs. Our results suggest that, in the compute-constrained environment of running full-scale climate models, generating a small number of dynamically rich scenarios provides greater marginal value for emulation and characterizing system responses than expanding the suite of traditional emissions pathways.",
+    "journal": "PNAS",
+    "doi": "10.1073/pnas.2620731123",
+    "date": "2026-11-09",
+    "authors": "Womack CB, Bouabid S, Sokolov A, Salunke P, Flierl G, Eastham SD, Selin NE.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43002674",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43002674",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "gene",
+        "method"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "gene",
+          "method"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5531,
+    "collected_at": "2026-11-24T10:55:02.039739+00:00",
+    "collected_date": "2026-11-24",
+    "sources": [
+      "Europe PMC journals 6"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1073/pnas.2620731123"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c8849c8a54214cace39acb5da8b47d9694d058a6684a2d3ab90cbf81942c7134",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T11:42:54.889970+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2afe73e2baa57d2faee12e11ff2fef10ca7bebf64487e6bdfbffa9d3ec9c5116",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T11:42:54.889970+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "気候エミュレーションにおける最適シナリオ設計。",
+    "abstract_ja": "物理システム向けの深層学習が普及し続ける中、汎化性能を向上させる取り組みは、主に物理的制約を組み込んだアーキテクチャの設計に重点が置かれてきた。しかし、機械学習による代理気候モデル（エミュレータ）においては、訓練データの生成に一般的に用いられる既存シナリオの構造的多様性の低さが、予測能力の上限となっていることが示されている。本研究では、汎化性能を向上させるために、訓練データセット自体を最適化できるかを検討する。我々は、訓練データに含まれていない、構造的に異なる新たなシナリオに汎化可能なエミュレータを生成するデータセットを作成する手法を提案する。微分可能な単純気候モデル（SCM）を用いて、訓練データの摂動に対するエミュレータ損失の感度を算出し、エミュレータの能力を最大化するように訓練データを反復的に更新する。SCMの場合、このように最適化された単一のシナリオで訓練されたエミュレータは、標準的なScenario Model Intercomparison Project（ScenarioMIP）の6つの経路で訓練されたエミュレータを上回る性能を示す。より小規模なデータセットで訓練したにもかかわらず、このような高い予測能力を実現しており、単一の強制力による実行を行うことなく、異なる気候強制力主体（例：温室効果ガス対エアロゾル）の固有の物理的挙動をうまく分離できていることが分かった。さらに、SCMを用いて最適化したシナリオを中程度の複雑さを持つ気候モデルの駆動に用いた場合、ScenarioMIPの出力で訓練した場合よりも、より高度な能力を持つエミュレータを生成する訓練データセットが得られることを実証する。我々の結果は、フルスケールの気候モデルを運用するという計算制約のある環境において、従来の排出経路のセットを拡充するよりも、動的に豊かな少数のシナリオを生成する方が、エミュレーションおよびシステム応答の特性評価においてより大きな限界価値をもたらすことを示唆している。"
   }
 ]
