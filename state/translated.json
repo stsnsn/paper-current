@@ -328827,5 +328827,276 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "MIsoTEx：組織分布、発現安定性、および存在量パターンを探索するための哺乳類転写産物アイソフォーム分類フレームワークおよびデータベース",
     "abstract_ja": "要旨：選択的スプライシングは、組織発現パターンが異なる転写産物アイソフォームを生成するが、転写産物の分布、存在量の一貫性、および相対存在量を統合したリソースは依然として限られている。我々は、ヒト、マウス、およびラットにおけるタンパク質コードiso-mRNAを対象としたデータベースおよび発現パターンに基づく分類フレームワークであるMIsoTEx（Mammalian Isoform Tissue Expression Resource）を開発した。正常成人組織サンプルの厳格な選別を経て、GTExおよびARCHS4のRNA-seqデータセット、ならびにSRAから新たにキュレーションされたデータセットを用いてカタログを構築した。遍在的に検出されたiso-mRNAは、均一存在量（UUni）または変動存在量（UVar）に分類され、組織関連iso-mRNAは、組織優位（TPred）、組織特異的（TExcl）、組織貧弱（TPoor）、または組織非存在（TAbsn）に分類された。これらのクラスはさらに5つの相対存在量サブクラスに分割され、組織関連の分類には信頼度スコアが付与された。MIsoTExは約147,000個のタンパク質コードiso-mRNAを収録しており、遺伝子および転写産物に基づくクエリ、組織パターン検索、発現が一致するオルソログの種間比較、およびユーザー提供の発現データの解析による候補コントロールiso-mRNAの同定をサポートしている。独立したRNA-seq、RT-PCR、および既報の発現データセットとの比較により、分類フレームワークの諸側面が裏付けられた。機能エンリッチメント解析により、選定された発現ベースのカテゴリ間で明確な生物学的関連性が明らかになった。MIsoTExは、哺乳類の組織発現パターンの転写産物レベルの探索を容易にし、実験的評価のための候補リファレンスiso-mRNAの同定を支援する。本データベースは、リンク：https://resources.ibab.ac.in/MIsoTEx/ からアクセス可能である。"
+  },
+  {
+    "id": "10.1093/nar/gkag1245",
+    "title": "VEuPathDB: 2026 update on data, tools, and infrastructure for eukaryotic pathogens, vectors, and hosts",
+    "abstract": "AbstractThe eukaryotic pathogen, vector, and host informatics resource (VEuPathDB, https://veupathdb.org) provides open access to genomic and other large-scale data for protozoan and fungal pathogens, arthropod vectors, and their hosts, supporting >800 organisms and 2602 datasets across 12 component databases, OrthoMCL, and the newly added dataExplorer, as of Release 71 (August 2026). Since our last update, 292 datasets have been integrated, gene product descriptions improved, and OrthoMCL expanded to over 819 000 orthology groups spanning 9.2 million proteins. Artificial intelligence-assisted approaches now support dataset curation, community gene annotation, and experimental summaries of transcriptomic evidence on gene pages, each subject to expert or user review. The new My Datasets workspace lets researchers upload, analyze, and share their own data alongside curated datasets, and a guided interface supports differential expression analysis without programming. Infrastructure has been consolidated from 15 Oracle databases into a single PostgreSQL platform, with data-processing pipelines migrated to containerized Nextflow workflows. This period was also defined by the loss of the long-standing US federal award that funded VEuPathDB, its temporary closure in September 2024, and its restoration under a community-supported model of voluntary tiered subscriptions, donations, and philanthropic support, with all data and tools remaining freely accessible.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1245",
+    "date": "2026-11-23",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1245/9111118?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungal"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "genom",
+          "genomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5554,
+    "collected_at": "2026-11-24T11:05:36.802078+00:00",
+    "collected_date": "2026-11-24",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1093/nar/gkag1245"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b06633cf3f7cba3c321c4db9354e48c154cac3bc7c3ecc3ac3ceb4799b813f8a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T11:59:17.520575+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b917c5ef1f8392d4e7c6486ba23604348ec0f927c4571865f40359154be0744d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T11:59:17.520575+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "VEuPathDB：真核生物の病原体、媒介生物、および宿主に関するデータ、ツール、インフラの2026年更新版",
+    "abstract_ja": "概要真核生物の病原体・媒介生物・宿主インフォマティクスリソース（VEuPathDB, https://veupathdb.org）は、原虫および真菌の病原体、節足動物の媒介生物、およびその宿主に関するゲノムデータやその他の大規模データへのオープンアクセスを提供しており、リリース71（2026年8月）時点で、12のコンポーネントデータベース、OrthoMCL、および新たに追加されたdataExplorerにわたり、800種以上の生物と2,602のデータセットをサポートしている。前回の更新以降、292のデータセットが統合され、遺伝子産物の記述が改善されたほか、OrthoMCLは920万個のタンパク質にわたる819,000以上のオーソロジーグループへと拡張された。人工知能を活用した手法により、データセットのキュレーション、コミュニティによる遺伝子アノテーション、および遺伝子ページ上でのトランスクリプトームエビデンスの実験サマリーの作成が可能となり、それぞれ専門家またはユーザーによるレビューが行われる。新しいMy Datasetsワークスペースでは、研究者が自身のデータをキュレーション済みデータセットと共にアップロード、解析、共有できるようになり、ガイド付きインターフェースによってプログラミング不要で発現変動解析が行える。インフラストラクチャは、15のOracleデータベースから単一のPostgreSQLプラットフォームへと統合され、データ処理パイプラインはコンテナ化されたNextflowワークフローに移行した。また、本期間は、VEuPathDBに資金を提供していた長年の米国連邦政府助成金の喪失、2024年9月の一時閉鎖、そして、任意の段階的サブスクリプション、寄付、および慈善支援というコミュニティ支援モデルの下での復活によって特徴づけられ、すべてのデータとツールは引き続き無料で利用可能である。"
+  },
+  {
+    "id": "10.1093/nar/gkag1251",
+    "title": "Conserved Domain Database 2026 update",
+    "abstract": "AbstractProtein domain and protein family models comprising the Conserved Domain Database (CDD) are widely used at the National Center of Biotechnology Information to inform protein textual and graphical summary pages with the location of domain footprints, domain architecture, and derived functional sites, and to name proteins by domain architecture when names cannot be obtained from higher-ranked, more specific sources. CDD continues to add novel protein domain models, constructed as multiple sequence alignments, to its collection via import of external data sources and an in-house curation effort. CDD has been available publicly for ~25 years and continues to update a substantial archive of pre-computed annotation for rapid dissemination of information, provide live database search services that can support moderate numbers of requests, and downloadable data and software to run data analyses locally. CDD can be accessed at https://www.ncbi.nlm.nih.gov/Structure/cdd/cdd.shtml.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1251",
+    "date": "2026-11-23",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1251/9111117?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5555,
+    "collected_at": "2026-11-24T11:05:36.802078+00:00",
+    "collected_date": "2026-11-24",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1093/nar/gkag1251"
+    ],
+    "translation": {
+      "title": {
+        "hash": "516a2e4f51dcde7df57017b41fc3e43cfb0bca95876a71cf17e7165a54c49e87",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T11:59:17.520575+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "07cbdb69980c2a636e4c77c9249df9d56229bd63dc0d2cc240de8c826ed02497",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T11:59:17.520575+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "保存ドメインデータベース 2026年更新版",
+    "abstract_ja": "概要：Conserved Domain Database (CDD) を構成するタンパク質ドメインおよびタンパク質ファミリーモデルは、国立生物工学情報センターにおいて、ドメインフットプリント、ドメイン構造、および派生機能部位の位置を示すタンパク質のテキストおよび図表形式の概要ページの作成や、より上位のより具体的な情報源から名称が得られない場合にドメイン構造に基づいてタンパク質を命名するために広く利用されている。CDDは、外部データソースのインポートおよび内部でのキュレーション作業を通じて、多重配列アライメントとして構築された新規タンパク質ドメインモデルを継続的にコレクションに追加している。CDDは約25年にわたり一般公開されており、情報の迅速な普及を目的とした膨大な事前計算アノテーションアーカイブの更新、中規模のリクエストに対応可能なライブデータベース検索サービスの提供、およびローカルでデータ解析を実行するためのダウンロード可能なデータとソフトウェアの提供を続けている。CDDは https://www.ncbi.nlm.nih.gov/Structure/cdd/cdd.shtml からアクセス可能である。"
+  },
+  {
+    "id": "10.1093/nar/gkag1254",
+    "title": "miRTarBase 11.0: an evidence-centred resource for experimentally supported microRNA–target interactions",
+    "abstract": "AbstractMicroRNAs (miRNAs) regulate gene expression through sequence-dependent interactions with target RNAs, but different experimental approaches capture distinct aspects of miRNA–target interactions (MTIs). miRTarBase 11.0 contains 9771 947 MTI records derived from literature curation, integrated CLASHub chimeric-pairing data and processed Argonaute cross-linking and immunoprecipitation (AGO-CLIP) data, encompassing 5010 miRNAs and 31 539 target genes. To support interaction-level interpretation, the resource distinguishes direct pairing evidence, AGO occupancy, functional validation, and contextual support. Integration of CLASHub provides binding-site-resolved evidence of direct miRNA–target pairing, while updated AGO CLIP processing defines high-confidence and conserved interaction classes. A rule-based score summarises annotated targeting or binding methods, protein- and RNA-related assays, rescue experiments, and functional assays, while complementary tiers distinguish method combinations. RNA2Immune places MTIs in immune-cell and disease contexts; Rfam 15.0 and miRBase v23 provide harmonized miRNA family, sequence, and identifier annotations; and NPInter v5.0 links upstream noncoding RNA regulators to miRNA–target networks. A Qwen3.6–27B-assisted workflow supports full-text and figure-based curation with human verification. The redesigned Django and Nginx platform supports secure operation, stable deployment and responsive access to evidence-ranked searches, contextual browsing, network views, and data downloads. miRTarBase 11.0 is freely available without registration at https://awi.cuhk.edu.cn/miRTarBase/.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1254",
+    "date": "2026-11-23",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1254/9111116?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5556,
+    "collected_at": "2026-11-24T11:05:36.802078+00:00",
+    "collected_date": "2026-11-24",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1093/nar/gkag1254"
+    ],
+    "translation": {
+      "title": {
+        "hash": "34f27b9a39bb55fdd38a8a5de0ce8e8feffc59827268f29f22d5ce8b84f1ded3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T11:59:17.520575+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b1efccde50a386d8e0080325a22ed0d862031ea989010efb719ffabdaad7b6ca",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T11:59:17.520575+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "miRTarBase 11.0：実験的に裏付けられたmicroRNA–標的相互作用に関するエビデンス中心のリソース",
+    "abstract_ja": "要旨マイクロRNA（miRNA）は、標的RNAとの配列依存的な相互作用を通じて遺伝子発現を調節するが、実験手法によってmiRNA–標的相互作用（MTI）の異なる側面が捉えられる。miRTarBase 11.0には、文献キュレーション、統合されたCLASHubキメラペアリングデータ、および処理済みのArgonaute架橋・免疫沈降（AGO-CLIP）データから得られた9,771 947件のMTIレコードが含まれており、5,010種類のmiRNAと31 539種類の標的遺伝子を網羅している。相互作用レベルの解釈を支援するため、本リソースでは直接的なペアリングの証拠、AGO占有率、機能的検証、およびコンテキスト上の裏付けを区別している。CLASHubの統合により、miRNA–標的間の直接的なペアリングに関する結合部位分解能の証拠が提供され、更新されたAGO CLIP処理によって高信頼度かつ保存的な相互作用クラスが定義される。ルールベースのスコアは、アノテーション済みのターゲティングまたは結合法、タンパク質およびRNA関連アッセイ、レスキュー実験、および機能的アッセイを要約し、補完的なティアによって手法の組み合わせを区別する。RNA2Immuneは、MTIを免疫細胞および疾患のコンテキストに位置づけ、Rfam 15.0およびmiRBase v23は、調和されたmiRNAファミリー、配列、および識別子のアノテーションを提供し、NPInter v5.0は、上流の非コードRNA調節因子をmiRNA–標的ネットワークに紐付ける。Qwen3.6–27B支援のワークフローは、ヒトによる検証を伴う全文および図ベースのキュレーションをサポートする。再設計されたDjangoおよびNginxプラットフォームは、セキュアな運用、安定したデプロイメント、ならびに証拠ランク付け検索、コンテキストブラウジング、ネットワークビュー、およびデータダウンロードへの応答性の高いアクセスをサポートする。miRTarBase 11.0は、https://awi.cuhk.edu.cn/miRTarBase/ にて登録不要で無料で利用可能である。"
+  },
+  {
+    "id": "10.64898/2026.11.20.768016",
+    "title": "A multi-scale forecasting framework to prioritize clinically-relevant antibiotic resistance alleles",
+    "abstract": "Established in vitro measures for the emergence of antimicrobial resistance, a critical global threat, can fail to predict which in vitro discovered mutations will dominate in the real world following widespread antibiotic use. Here, we introduce a multi-scale computational framework integrating genetic constraints and population pharmacokinetics and apply it to explain resistance allele success in Acinetobacter baumannii for the historic case of resistance to the fluoroquinolone antibiotic ciprofloxacin. By coupling intrinsic nucleotide substitution likelihoods with continuous-time stochastic modeling under fluctuating drug exposures, our framework clearly prioritizes the most common real world gyrA fluoroquinolone resistance allele S81L over rarer alleles, reflecting its clinical success. While gyrA serves as a proof-of-concept case study for direct, active-site drug-target interactions where the target space is constrained, we observe that the nucleotide substitution likelihoods are not explaining allele success in resistance-determining genes pmrB and adeS. Furthermore, \"virtual twin\" cohort simulations reveal that restricted drug penetration or compromised immunity expands selective windows, rescuing rare, low-fitness alleles. This advances our understanding of prospective, model-informed risk prediction during antibiotic development.",
+    "journal": "",
+    "doi": "10.64898/2026.11.20.768016",
+    "date": "2026-11-23",
+    "authors": "Obeng, N., Rodoni, A., Niggli, Q., Dylus, D., Bradley, K. A., Mueller-Breckenridge, A. J., Trauner, A., Pritchard, J. R.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.20.768016v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene",
+        "genetic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "framework",
+          "gene",
+          "genetic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5575,
+    "collected_at": "2026-11-24T11:05:36.802078+00:00",
+    "collected_date": "2026-11-24",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.64898/2026.11.20.768016"
+    ],
+    "translation": {
+      "title": {
+        "hash": "893dafb4949fc4673a16f61ef80ec8e33b25429b30eb3228c70ab196c6f5845d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T11:59:17.520575+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3b6f0de20c886d80bd5a774a9fed5b3c4836c4466955eb0a70fde18f2cb6c892",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T11:59:17.520575+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "臨床的に意義のある薬剤耐性アレルの優先順位付けのためのマルチスケール予測フレームワーク",
+    "abstract_ja": "世界的な重大脅威である薬剤耐性の出現に関する確立されたin vitro指標は、広範な抗生物質の使用後、in vitroで発見されたどの変異が実世界で支配的になるかを予測できないことがある。本研究では、遺伝的制約と集団薬物動態を統合したマルチスケール計算フレームワークを導入し、フルオロキノロン系抗生物質シプロフロキサシンに対する耐性の歴史的事例であるAcinetobacter baumanniiにおける耐性アレルの成功を説明するために適用する。固有のヌクレオチド置換確率を、変動する薬物曝露下での連続時間確率的モデリングと組み合わせることで、本フレームワークは、より稀なアレルよりも実世界で最も一般的なgyrAフルオロキノロン耐性アレルS81Lを明確に優先させ、その臨床的成功を反映している。gyrAは、標的空間が制約された直接的な活性部位-薬物-標的相互作用の概念実証事例となる一方で、ヌクレオチド置換確率は、耐性決定遺伝子pmrBおよびadeSにおけるアレルの成功を説明できていないことが観察された。さらに、「バーチャルツイン」コホートシミュレーションにより、薬物浸透の制限や免疫機能の低下が選択的ウィンドウを拡大し、稀で適応度の低いアレルを救済することが明らかになった。これにより、抗生物質開発におけるモデルに基づく将来的なリスク予測への理解が進展する。"
   }
 ]
