@@ -326854,5 +326854,309 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ストレス依存的な根圏再編成から明らかになったジャガイモにおけるペンジメサリン処理の特異的な細菌戦略",
     "abstract_ja": "背景\n                     根圏微生物は植物の化学的ストレス耐性に寄与し得るが、除草剤曝露量の増加に伴いこれらの効果がどのように変化するかについては、依然として十分に解明されていない。特に、導入された細菌による直接的な植物成長促進効果と、除草剤の運命変化および根圏微生物応答に関連する効果とを区別することは困難な場合がある。ペンディメタリン（PDM）はジニトロアニリン系除草剤であり、ジャガイモの生育および塊茎形成を阻害するため、異なるレベルの除草剤ストレスにおけるこれらの応答を検討するのに適した系となる。本研究では、植物成長促進根圏細菌（PGPR）であるEnterobacter asburiae S13が、PDMに対するジャガイモの応答にどのように影響するか、また、これらの植物レベルの効果が根圏コミュニティの応答および菌株特異的なPDM処理表現型とどのように関連しているかを調査した。\n                  \n                     結果\n                     S13は、PDM誘発性のストロン発達および塊茎形成の抑制を緩和した。PDMの運命に対するその効果は除草剤濃度に依存しており、低濃度のPDM曝露下では、S13はPDMの消散を加速させることなく植物のパフォーマンスを向上させたが、高濃度曝露下では、植物の回復は根圏におけるPDM残留量の減少と一致した。16S rRNA遺伝子シーケンシングおよびショットガンメタゲノミクスにより、PDMおよびS13が根圏コミュニティの構成および、外来物質処理や硝酸/亜硝酸代謝機能を含むメタゲノム符号化機能ポテンシャルを変化させることが示された。高PDM除去能を持つLelliottia amnigena分離株は、高PDM・S13接種処理群からのみ回収され、これはL. amnigenaの全個体群の拡大ではなく、機能的に異なる培養可能なサブセットの選択的な回収であることを示していた。代表的な分離株であるL. amnigena M36も、自然土壌においてPDMによる損傷を緩和したが、S13とは異なるPDM処理戦略を示した。S13はPDMのより強い細胞外結合および隔離を示したのに対し、M36は親化合物であるPDMの消失がより顕著であり、細胞内亜硝酸蓄積、および推定されるNO2からOHへの置換と一致するM36特異的な細胞内変換シグネチャーを示した。比較ゲノミクスにより、両菌株ともに保存された硝酸/亜硝酸代謝系を保持していたが、M36はさらにnirCおよび第2の硝酸還元酵素遺伝子座であるnarUZYWVを含んでいた。遺伝的摂動により、これらのモジュールの機能的寄与が裏付けられた。M36由来のnirCをS13に導入すると、NiR活性が増加しPDM処理が促進された一方、M36のnarUZYWVを置換すると、NR活性、細胞内亜硝酸蓄積、およびPDM処理が減少した。これらの効果は細菌の増殖における相反する変化にもかかわらず生じており、硝酸/亜硝酸代謝が単なるバイオマス蓄積ではなく、菌株特異的なPDM処理に関連していることを示唆している。\n                  \n                     結論\n                     S13によるPDMからのジャガイモ保護はストレス依存的であり、親化合物の除去にとどまらない。根圏の機能的応答を、栽培誘導分離、比較ゲノミクス、生理学的表現型解析、および相補的な遺伝的摂動と結びつけることで、本研究は硝酸/亜硝酸代謝が細菌のPDM処理に寄与する因子であることを明らかにした。これらの知見は、植物保護、化学的ストレス耐性、および汚染物質処理能力を統合した微生物接種剤を開発するための枠組みを提供するものである。\n                     \nビデオ抄録"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1972689",
+    "title": "Full-length BK polyomavirus genome sequencing reveals extensive intra-sample genetic heterogeneity in kidney transplant recipients",
+    "abstract": "IntroductionBK polyomavirus (BKPyV) reactivation after kidney transplantation can cause persistent viruria, viremia, BKPyV-associated nephropathy (BKPyVAN), and graft dysfunction. Current monitoring relies largely on qPCR and partial-genome assays, which do not resolve linked variants or structural changes across the approximately 5.1-kb circular viral genome.MethodsWe developed a long-read workflow combining long-range PCR, PolyseqOne nanopore sequencing, and a custom pipeline for quality filtering, haplotype-aware read clustering, consensus assembly, subtype classification, and detection of single nucleotide polymorphisms (SNPs) and structural variants for near-full-length BKPyV genome characterization directly from urine samples of kidney transplant recipients. A total of 167 clinically stable kidney transplant recipients followed between June 2020 and December 2025 were screened; 56 urine samples with detectable urinary BKPyV DNA and sufficient quality were subjected to sequencing, and 52 datasets with valid BKPyV sequences were retained for downstream analyses.ResultsNear-full-length genome coverage was obtained across the analyzed samples. Dominant haplotypes from 52 datasets were used for comparative phylogenetic analysis, which showed a predominance of subtype Ic, followed by IVc-1 and less frequent subgroups. Long-read clustering resolved intra-sample heterogeneity, including minor haplotypes carrying linked SNPs and deletion-containing variants that were not apparent from coverage depth alone. We also identified previously unreported single-nucleotide polymorphisms across different subtypes.DiscussionThis workflow provides a practical framework for haplotype-resolved BKPyV genomic surveillance and establishes a foundation for future longitudinal studies linking viral genetic variation with clinical outcomes after kidney transplantation.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1972689",
+    "date": "2026-11-24",
+    "authors": "Lin Chen",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1972689",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "assembly",
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5560,
+    "collected_at": "2026-11-24T11:05:36.802078+00:00",
+    "collected_date": "2026-11-24",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.3389/fmicb.2026.1972689"
+    ],
+    "translation": {
+      "title": {
+        "hash": "91ca4e065fdc166e17bf6e63be668114e0d308b2cabbdc1b4b12703791e6e544",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T11:39:57.163345+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6ccd4989c8815295b732e7c0c2329e088e2fae7b72ff87df453fe339d6e98b23",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T11:39:57.163345+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "BKポリオーマウイルスの全長ゲノム配列解析により、腎移植レシピエントにおけるサンプル内広範な遺伝的不均一性が明らかになった。",
+    "abstract_ja": "はじめに腎移植後のBKポリオーマウイルス（BKPyV）再活性化は、持続性のウイルス尿、ウイルス血症、BKPyV関連腎症（BKPyVAN）、およびグラフト機能不全を引き起こす可能性がある。現在のモニタリングは主にqPCRおよび部分ゲノム解析に依存しているが、これらの手法では、約5.1 kbの環状ウイルスゲノム全体にわたる連鎖変異や構造変化を解明することはできない。方法我々は、長距離PCR、PolyseqOneナノポアシーケンシング、および品質フィルタリング、ハプロタイプを考慮したリードクラスタリング、コンセンサスアセンブリ、サブタイプ分類、ならびに一塩基多型（SNP）および構造変異の検出のためのカスタムパイプラインを組み合わせたロングリードワークフローを開発し、腎移植レシピエントの尿検体から直接、ほぼ全長のBKPyVゲノム特性解析を行った。2020年6月から2025年12月の間に追跡調査された臨床的に安定した腎移植レシピエント計167例をスクリーニングし、尿中BKPyV DNAが検出可能で十分な品質を有する56検体のシーケンシングを実施し、有効なBKPyV配列を含む52のデータセットを後続解析のために保持した。結果解析対象検体全体にわたって、ほぼ全長のゲノムカバレッジが得られた。52のデータセットから得られた優位なハプロタイプを比較系統解析に用いたところ、サブタイプIcが優位であり、次いでIVc-1、それより頻度の低いサブグループの順であることが示された。ロングリードクラスタリングにより、カバレッジ深度だけでは明らかにならなかった、連鎖SNPを有するマイナーハプロタイプや欠失を含む変異など、検体内の不均一性が解消された。また、異なるサブタイプ間で、これまで報告されていなかった一塩基多型を同定した。考察本ワークフローは、ハプロタイプを特定したBKPyVゲノムサーベイランスのための実用的な枠組みを提供するものであり、腎移植後のウイルス遺伝的変異と臨床転帰を関連付ける今後の縦断的研究の基盤となるものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 6",
+        "query": "(JOURNAL:\"Microbial Genomics\" OR JOURNAL:\"Microbiology\" OR JOURNAL:\"Aquatic Microbial Ecology\" OR JOURNAL:\"PNAS\" OR JOURNAL:\"PLOS Biology\" OR JOURNAL:\"PLOS Genetics\" OR JOURNAL:\"Genome Research\" OR JOURNAL:\"Genome Biology\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1099/mic.0.001789",
+    "title": "Effects of <i>Pseudomonas aeruginosa</i> on gut microbiota and short-chain fatty acid production: insights from <i>Akkermansia muciniphila</i> and <i>Faecalibacterium prausnitzii</i>.",
+    "abstract": "Akkermansia muciniphila (Am) and Faecalibacterium prausnitzii (Fp) are prominent members of the human gut microbiota and play important roles in maintaining intestinal health. A key interaction between these micro-organisms involves metabolic cross-feeding, where colonocyte-derived mucin substrates are utilized by Am to produce acetate, which in turn supports butyrate production by Fp. Butyrate serves as a major energy source for colonocytes and contributes to the maintenance of gut barrier function. We hypothesized that this cooperative interaction may be vulnerable to disruption by opportunistic pathogens such as Pseudomonas aeruginosa (Pa). In this study, we examined the impact of Pa (PAO1 strain) on the stability of Am-Fp co-cultures and the resulting effects on short-chain fatty acid (SCFA) production using an anaerobic in vitro system. Co-cultures were exposed to (a) Pa culture filtrates (Pa CFs), (b) Pa CF mixed with non-pathogenic biotechnology microbial mixture (BMM) culture filtrate, (c) BMM CF alone or (d) media controls. Bacterial growth was monitored by OD and species-specific 16S rDNA PCR/qPCR, while total SCFAs, butyrate and mucin were quantified by ELISA. Under control conditions, mucin-supplemented co-cultures displayed stable growth and robust production of SCFAs, including butyrate. In contrast, exposure to Pa CF led to reduced growth of both organisms, with a pronounced effect on Fp, and was associated with marked decreases in SCFA and butyrate levels. Growth-normalized metabolite analysis further indicated that reductions in butyrate could not be explained solely by decreased biomass, suggesting impairment of cross-feeding function. This inhibitory effect was not alleviated by the presence of BMM during Pa CF preparation. Importantly, while mucin levels declined over time as expected, no significant difference in mucin consumption was observed following Pa CF treatment after normalization to growth. Culture filtrates from non-pathogenic micro-organisms alone had no significant impact on growth trend or metabolite production. Together, these findings show that Am-Fp cross-feeding can be reproduced in a controlled, animal-free system and that Pa-derived factors selectively disrupt this interaction, primarily affecting functional outputs such as butyrate production rather than substrate availability. This work highlights the sensitivity of gut microbial metabolic networks to opportunistic pathogens and supports the use of simplified in vitro models to study mechanisms of microbial disruption.",
+    "journal": "Microbiology",
+    "doi": "10.1099/mic.0.001789",
+    "date": "2026-11-01",
+    "authors": "Moteshareie H, Curtin K, Tayabali AF.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43038034",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13773350",
+    "pmid": "43038034",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rdna",
+        "Pseudomonas",
+        "bacteria",
+        "bacterial",
+        "micro-organisms",
+        "microbial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5527,
+    "collected_at": "2026-11-24T10:55:02.039739+00:00",
+    "collected_date": "2026-11-24",
+    "sources": [
+      "Europe PMC journals 6"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1099/mic.0.001789"
+    ],
+    "translation": {
+      "title": {
+        "hash": "daec7c417d778eac33e4c7578ed2fc34cf2771409cf0b08577078038de3281ac",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T11:39:57.163345+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7c036003f7d6da5b181d03796fef358329e0cfb4c6fe80378693a55494b442a4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T11:39:57.163345+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "<i>Pseudomonas aeruginosa</i>が腸内細菌叢および短鎖脂肪酸産生に及ぼす影響：<i>Akkermansia muciniphila</i>および<i>Faecalibacterium prausnitzii</i>からの知見",
+    "abstract_ja": "Akkermansia muciniphila (Am) および Faecalibacterium prausnitzii (Fp) はヒト腸内細菌叢の主要な構成員であり、腸管の健康維持において重要な役割を果たしている。これらの微生物間の主要な相互作用の一つに代謝クロスフィーディングがあり、大腸細胞由来のムチン基質が Am によって利用されて酢酸が産生され、それがさらに Fp による酪酸産生を支える。酪酸は大腸細胞の主要なエネルギー源となり、腸管バリア機能の維持に寄与する。我々は、この協調的な相互作用が、Pseudomonas aeruginosa (Pa) などの日和見病原体によって阻害されやすいという仮説を立てた。本研究では、嫌気性in vitro系を用いて、Pa (PAO1株) が Am-Fp 共培養の安定性に及ぼす影響と、それに伴う短鎖脂肪酸 (SCFA) 産生への影響を検討した。共培養系を、(a) Pa 培養濾液 (Pa CFs)、(b) Pa CF と非病原性バイオテクノロジー微生物混合物 (BMM) 培養濾液の混合物、(c) BMM CF 単独、または (d) 対照培地に曝露した。細菌の増殖はOD法および種特異的16S rDNA PCR/qPCRによりモニタリングし、総SCFA、酪酸、およびムチンはELISA法により定量した。対照条件下では、ムチンを添加した共培養系は安定した増殖を示し、酪酸を含むSCFAを旺盛に産生した。対照的に、Pa CF への曝露は両生物の増殖を低下させ、特にFpに顕著な影響を及ぼし、SCFAおよび酪酸レベルの著しい低下を伴った。増殖正規化代謝物解析により、酪酸の減少はバイオマスの減少のみでは説明できず、クロスフィーディング機能の障害が示唆された。この抑制効果は、Pa CF調製時にBMMを存在させても軽減されなかった。重要な点として、ムチンレベルは予想通り経時的に低下したが、増殖正規化後のPa CF処理において、ムチン消費量に有意な差は認められなかった。非病原性微生物単独の培養濾液は、増殖傾向や代謝物産生に有意な影響を及ぼさなかった。以上の知見は、Am-Fp クロスフィーディングが制御された動物非使用系で再現可能であること、およびPa由来因子がこの相互作用を選択的に阻害し、基質の利用可能性よりも主に酪酸産生などの機能的出力に影響を与えることを示している。本研究は、腸内微生物代謝ネットワークの日和見病原体に対する感受性の高さを浮き彫りにし、微生物の阻害メカニズムを研究するための簡略化されたin vitroモデルの利用を支持するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 8",
+        "query": "(JOURNAL:\"Microbial Biotechnology\" OR JOURNAL:\"Extremophiles\" OR JOURNAL:\"Genome Biology and Evolution\" OR JOURNAL:\"Molecular Biology and Evolution\" OR JOURNAL:\"Molecular Ecology\" OR JOURNAL:\"Molecular Ecology Resources\" OR JOURNAL:\"Molecular Phylogenetics and Evolution\" OR JOURNAL:\"Bioinformatics Advances\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "evaluation study",
+      "journal article"
+    ],
+    "id": "10.1111/1755-0998.70233",
+    "title": "Gastro16: A Novel eDNA Metabarcoding Marker for Detecting Gastropod Diversity in Marine Environments.",
+    "abstract": "The diversity of gastropod assemblages can be used to assess changes in environmental conditions because of their close associations with other organisms, short lifespans and sensitivity to ecological shifts. Their hyper-diversity in marine environments can be partly attributed to the specialisation of the often overlooked and under-sampled cryptic and smaller gastropods, leading to an underestimation of biodiversity. This underscores the need for molecular approaches to enable more efficient detection. However, current universal metabarcoding markers may lack the specificity and resolution to evaluate exceptionally diverse groups such as gastropods. Here, we develop a short gastropod-focused metabarcoding marker 'Gastro16', a novel primer pair that targets an 84-100-bp segment within the mitochondrial 16S rRNA gene, and construct a comprehensive reference library comprising 7335 sequences representing 312 or 55% of known gastropod families. To test the marker's utility, we characterised spatial and temporal patterns of gastropod diversity through metabarcoding Gastro16 and Leray-XT (a marker based on the cytochrome c oxidase subunit I gene; COI) of environmental samples collected from 25 sites along the Norwegian coast and for 15 months from an experimental aquaculture site. Metabarcoding with Gastro16 retrieved more gastropod sequence reads and up to 11 times more gastropod molecular operational taxonomic units compared to COI. Accordingly, the new marker detected greater numbers of gastropod subclasses, orders and families than the COI marker. We present the overall taxonomic diversity of the identified gastropods and their relative occurrences and demonstrate its value for detecting contemporary gastropod diversity, with potential applications to past ecosystems remaining to be tested.",
+    "journal": "Molecular Ecology Resources",
+    "doi": "10.1111/1755-0998.70233",
+    "date": "2026-11-01",
+    "authors": "Torres AF, Moles J, Puillandre N, Buge B, Peijnenburg KTCA, Præbel K, Renema W, Todd JA, Wangensteen OS.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43036001",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13771470",
+    "pmid": "43036001",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna"
+      ],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "collection_order": 5532,
+    "collected_at": "2026-11-24T10:55:02.039739+00:00",
+    "collected_date": "2026-11-24",
+    "sources": [
+      "Europe PMC journals 8"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1111/1755-0998.70233"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ef6460fa614c6fbf8632d999336f09ec1179ea714546ce5316ed938708ce84ea",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T11:39:57.163345+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "490d9c3a2513866cb5054b20ab124b61007fbe49f14c3d83236289e351bc192c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T11:39:57.163345+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Gastro16：海洋環境における腹足類の多様性を検出するための新規eDNAメタバーコーディングマーカー",
+    "abstract_ja": "腹足類の群集の多様性は、他の生物との密接な関連性、短い寿命、および生態学的変動への感受性から、環境条件の変化を評価する上で活用できる。海洋環境におけるこれらの群集の極めて高い多様性は、しばしば見過ごされサンプリングも不十分な隠蔽性の腹足類や小型の腹足類の特化に一部起因しており、それが生物多様性の過小評価につながっている。このことは、より効率的な検出を可能にする分子生物学的アプローチの必要性を浮き彫りにしている。しかし、現行の汎用メタバーコーディングマーカーでは、腹足類のような極めて多様性の高いグループを評価するには特異性と解像度が不足している可能性がある。本研究では、腹足類に特化した短鎖メタバーコーディングマーカー「Gastro16」を開発した。これはミトコンドリア16S rRNA遺伝子内の84～100 bpのセグメントを標的とする新規プライマーペアであり、既知の腹足類科の312%または55%に相当する7,335個の配列からなる包括的なリファレンスライブラリを構築した。このマーカーの有用性を検証するため、ノルウェー沿岸の25地点から採取した環境サンプル、および実験的養殖場から15か月間にわたって採取したサンプルに対し、Gastro16およびLeray-XT（シトクロムcオキシダーゼサブユニットI遺伝子［COI］に基づくマーカー）を用いたメタバーコーディングにより、腹足類の多様性の空間的・時間的パターンを特性評価した。Gastro16を用いたメタバーコーディングでは、COIと比較して、より多くの腹足類配列リードが得られ、腹足類の分子運用分類単位は最大11倍多く検出された。したがって、この新規マーカーは、COIマーカーよりも多くの腹足類亜綱、目、および科を検出した。我々は、同定された腹足類の全体的な分類学的多様性とその相対的な出現頻度を提示し、現代の腹足類の多様性を検出する上での有用性を実証した。なお、過去の生態系への適用可能性については、今後の検証を待つ必要がある。"
+  },
+  {
+    "id": "10.1093/nar/gkag1207",
+    "title": "Beyond the rat: over a quarter century of disease model integration at the Rat Genome Database",
+    "abstract": "AbstractThe Rat Genome Database (RGD, https://rgd.mcw.edu) is a multispecies knowledgebase and the primary online resource for genomic, genetic, phenotypic, and disease data for rat. In the past 6 years, RGD has incorporated new data, including three new species, two rat reference genome assemblies, eight rat strain de novo assemblies from Dr Peter Doris’ group, and variant data for 118 unique strains from the Hybrid Rat Discovery Panel. Systematic manual curation of metadata and consistent reprocessing of RNA-Seq data from the GEO database have resulted in the addition of a substantial dataset of standardized transcriptomic data. RGD’s disease-centric focus has continued with the creation of four new disease portals, bringing the total number of portals up to sixteen and three existing portals have been updated. Four of RGD’s data mining and analysis tools were redesigned with a cleaner, more intuitive look and feel and additional functionality. RGD’s primary genome browser has been upgraded to JBrowse 2, a browser designed to facilitate analyses across species and between assemblies within a species. To support researchers wanting to learn more about using RGD’s tools and data, RGD has begun a project to improve and expand the website’s help pages and video tutorials.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1207",
+    "date": "2026-11-24",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1207/9119059?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "database",
+        "genome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assemblies",
+          "genom",
+          "genome",
+          "genomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5545,
+    "collected_at": "2026-11-24T11:05:36.802078+00:00",
+    "collected_date": "2026-11-24",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1093/nar/gkag1207"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c8a669fc018bbb2e3f2529e26ce27160f2177f6649e7bd18dcbf77f265274228",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T11:39:57.163345+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2fae3d5b8840d535327d4c4cff3e763c5baf050bd076fcf7cebe10cfff761e31",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T11:39:57.163345+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ラットを超えて：Rat Genome Databaseにおける四半世紀にわたる疾患モデル統合",
+    "abstract_ja": "要旨 ラットゲノムデータベース（RGD, https://rgd.mcw.edu）は、ラットのゲノム、遺伝、表現型、および疾患データに関する多種対応のナレッジベースであり、主要なオンラインリソースである。過去6年間で、RGDには3つの新種、2つのラットリファレンスゲノムアセンブリ、ピーター・ドリス博士のグループによる8つのラット系統de novoアセンブリ、およびハイブリッドラット・ディスカバリー・パネルの118の固有系統のバリアントデータを含む、新たなデータが組み込まれた。メタデータの体系的な手動キュレーションと、GEOデータベースからのRNA-Seqデータの一貫した再処理により、標準化されたトランスクリプトームデータの膨大なデータセットが追加された。RGDの疾患中心の取り組みは継続しており、4つの新たな疾患ポータルが作成されたことで、ポータルの総数は16に達し、既存の3つのポータルが更新された。RGDのデータマイニングおよび解析ツールのうち4つが、よりシンプルで直感的な外観と操作感、および追加機能を備えるよう再設計された。RGDの主要なゲノムブラウザは、種間および種内のアセンブリ間の解析を容易にするために設計されたブラウザであるJBrowse 2へとアップグレードされた。RGDのツールやデータの利用についてより詳しく知りたい研究者を支援するため、RGDはウェブサイトのヘルプページおよびビデオチュートリアルの改善・拡充プロジェクトを開始した。"
   }
 ]
