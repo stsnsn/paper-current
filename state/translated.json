@@ -331802,5 +331802,143 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "Ipomoea purpureaの高速中性子変異体資源から明らかになった用量依存的なゲノムおよび表現型の変異",
     "abstract_ja": "進化生物学における中心的な目標は、表現型形質のゲノム基盤を解明することであるが、この取り組みは、特に非モデル生物において、利用可能な表現型および遺伝的変異の不足によって制約を受けることが多い。高速中性子照射は、事前のゲノム資源や確立された形質転換系、あるいは参照変異体コレクションを必要としないため、こうした変異を作製するための強力な手法となる。本研究では、有害な農業雑草であり、進化生態学における確立されたモデル系であるIpomoea purpurea（アサガオ）において、初の高速中性子変異体ライブラリの開発と特性解析について報告する。我々は、I. purpureaの参照遺伝子型を3段階の照射レベルにさらし、1,043系統の第3世代系統を作製するとともに、そのうち200系統のサブセットについて表現型および遺伝的変異を特性解析した。表現型スクリーニングにより、11種類の異なる表現型を示す7系統の変異体を同定し、非照射対照系統と比較して、葯・柱頭間距離、花数、および花粉数においてより高い表現型分散が認められた。さらに、変異体系統間において8つの表現型形質にわたる遺伝的変異を同定した。以上の結果を総合すると、高速中性子突然変異導入法は、生態学的に重要な形質において新規の表現型および遺伝的変異を生じさせ、進化生態学における確立されたモデルに対する新たなゲノム資源を研究コミュニティに提供することが示された。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "bioRxiv",
+        "query": "details/biorxiv/2026-10-20/2026-11-10",
+        "scope": "candidate"
+      }
+    ],
+    "id": "10.64898/2026.10.19.760045",
+    "doi": "10.64898/2026.10.19.760045",
+    "title": "Virtual lineages: in silico lineage tracing from single-cell and spatial transcriptomes",
+    "abstract": "Experimental lineage tracing reveals histories and fates of individual cells but is costly and often impractical, particularly in primary human tissues. Gene expression differences that persist across cell divisions provide a basis for inferring ancestry from more accessible single cell transcriptomes, yet accurate lineage reconstruction remains challenging. Here, we introduce isCORAL, an in silico lineage-tracing framework that reconstructs clonal relationships and maps cell-fate dynamics from transcriptome snapshots alone. By identifying memory genes with heritable expression differences, isCORAL infers probabilistic clonal relationships and uses them to construct clone-oriented embeddings and dynamic cell-fate maps. Across diverse lineage-tracing datasets, isCORAL markedly outperforms tested alternatives in both memory-gene identification and lineage reconstruction. We use isCORAL to resolve early fate biases among transcriptionally similar hematopoietic stem cells and predict distinct developmental routes to shared outcomes. We extend isCORAL to spatial transcriptomics, validating inferred clonal relationships against an experimentally recorded lineage tree in mouse tumors and inferring early epiblast and amnion dynamics in a human embryo. Together, isCORAL enables lineage-resolved studies of development and disease from standard single cell and spatial transcriptomes, and provides an explicit representation of lineage memory for future virtual cell models.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.10.19.760045"
+    ],
+    "date": "2026-10-20",
+    "authors": "Lin, Y.; Lin, Y.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.19.760045v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "transcriptome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5537,
+    "collected_at": "2026-11-24T14:50:01.882069+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-24",
+    "translation": {
+      "title": {
+        "hash": "e682ee7a5f05142be376205e589db51635829461a7a02608370b397ffbc4b3d6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T15:46:53.783945+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "09e34762768c07fbcc462ae9e2a2a90d594a9c1bfe45a42b2b1e53f3003145bc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T15:46:53.783945+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "仮想系統：単一細胞および空間トランスクリプトームからのin silico系統追跡",
+    "abstract_ja": "実験的な系統追跡は、個々の細胞の履歴や運命を明らかにするが、特にヒトの一次組織においてはコストが高く、しばしば実用的ではない。細胞分裂を経ても持続する遺伝子発現の差異は、より入手しやすい単一細胞トランスクリプトームから祖先系統を推定するための根拠となるが、正確な系統再構築は依然として困難な課題である。本研究では、トランスクリプトームのスナップショットのみからクローン関係を再構築し、細胞運命の動態をマッピングするin silico系統追跡フレームワークであるisCORALを提案する。isCORALは、遺伝性の発現差異を持つメモリー遺伝子を同定することで、確率的なクローン関係を推定し、それらを用いてクローン指向型の埋め込み表現および動的な細胞運命マップを構築する。多様な系統追跡データセットにおいて、isCORALはメモリー遺伝子の同定と系統再構築の両面で、検証した代替手法を著しく上回る性能を示した。我々はisCORALを用いて、転写的に類似した造血幹細胞間に見られる初期運命バイアスを解消し、共通の結果に至る異なる発生経路を予測した。さらに、isCORALを空間トランスクリプトミクスへと拡張し、マウス腫瘍において推定されたクローン関係を実験的に記録された系統樹と照合して検証するとともに、ヒト胚における初期エピブラストおよび羊膜の動態を推定した。総じて、isCORALは、標準的な単一細胞および空間トランスクリプトームから発生と疾患の系統分解研究を可能にし、将来の仮想細胞モデルに向けた系統記憶の明示的な表現を提供する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "bioRxiv",
+        "query": "details/biorxiv/2026-10-20/2026-11-10",
+        "scope": "candidate"
+      }
+    ],
+    "id": "10.1101/2023.05.05.539427",
+    "doi": "10.1101/2023.05.05.539427",
+    "title": "Dawnn: single-cell differential abundance with neural networks for common and rare cell populations",
+    "abstract": "A common task in single-cell transcriptomics is the identification of cell populations, often defined by their cell state or type, that are more abundant in one sample or condition than another. Existing methods, however, suffer from either low discovery rates or high rates of false positives, particularly when differences in abundance are confined to some cell states or types or stemming from rare cell populations. We introduce Dawnn, a pre-trained neural network able to find differential abundance with higher accuracy than current tools, both on simulated and biological datasets. Further, Dawnn recovers and extends published findings and discovers more cells in regions with localised differential abundance than existing methods for both common and rare cell types, including extremely uncommon ones such as pulmonary ionocytes. We thus advance the identification of abundance changes in cell populations, regardless of how prevalent the differences and populations are, promising novel biological insights at single-cell resolution.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "3",
+    "published_doi": "",
+    "related_dois": [
+      "10.1101/2023.05.05.539427"
+    ],
+    "date": "2026-10-20",
+    "authors": "Hall, G. T.; Castellano, S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.1101/2023.05.05.539427v3",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "biological data",
+        "tool"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5538,
+    "collected_at": "2026-11-24T14:50:01.882069+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-24",
+    "translation": {
+      "title": {
+        "hash": "221afb1b20cbf5c1a77a3f6c97feb56e58396e7df81f7eef220ca8b32b37b372",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T15:46:53.783945+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5fbcc4fd7f28d47cb9ab603bb0ec92bd82846a3c6933b49d466c6a38ddb7a70d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T15:46:53.783945+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Dawnn: 一般的および希少な細胞集団を対象としたニューラルネットワークによる単一細胞差異存在量解析",
+    "abstract_ja": "シングルセルトランスクリプトミクスにおける一般的な課題は、細胞状態や細胞種によって定義されることが多く、あるサンプルや条件において他の条件よりも豊富に存在する細胞集団を同定することである。しかし、既存の手法は、検出率が低いか、あるいは偽陽性率が高いという課題を抱えており、特に存在量の差が一部の細胞状態や細胞種に限定されている場合や、希少な細胞集団に起因する場合にその傾向が顕著である。本研究では、シミュレーションデータセットおよび生物学的データセットの双方において、現行のツールよりも高い精度で差次的存在量を検出できる事前学習済みニューラルネットワーク「Dawnn」を提案する。さらに、Dawnnは既報の知見を補完・拡張するとともに、肺イオン細胞のような極めて稀な細胞種を含む、一般的な細胞種および希少な細胞種の双方において、既存手法よりも局所的な差次的存在量を示す領域でより多くの細胞を同定する。これにより、差異や細胞集団の存在頻度にかかわらず、細胞集団における存在量変化の同定を進展させ、シングルセル解像度における新たな生物学的知見の獲得が期待される。"
   }
 ]
