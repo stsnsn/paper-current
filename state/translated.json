@@ -325977,5 +325977,299 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "初期分岐ホロ菌類におけるトランスポゾン駆動型の広範なゲノム再構成と調節進化",
     "abstract_ja": "初期に分岐した非二核菌類は、菌界における主要な進化的転換を示しており、他の真核生物系統や細菌と共通の特徴を持つとともに、重大な懸念対象となる病原体も含んでいる。これらの系統は、菌界において最も還元的かつ拡張されたゲノム構造の一部を有し、独自のDNAメチル化系を獲得している。しかしながら、初期に分岐した非二核菌類の進化的軌跡については、依然として十分に解明されていない。主要な駆動要因は、ゲノムの可塑性、構成、および調節を形作るトランスポゾン要素であると考えられている。本研究では、ホロマイコタ全体にわたる包括的な比較解析を行い、初期菌類進化の駆動要因を明らかにする。我々は、対照的なトランスポゾン動態がこれらの系統間のゲノム多様性を直接的に形作り、広範な共選択を通じて大規模なタンパク質ドメインの拡張を促進していることを示す。この不均一なランドスケープは、クロマチン構成に影響を与える多層的なエピジェネティックネットワークによって調節されており、特定のトランスポゾンに対するアデニンメチル化の明確な転写活性化役割を明らかにする。機能的革新を駆動するだけでなく、可動性要素は調節の多様化の源として機能し、主要な染色体部位に転写因子結合部位を提供する。さらに、シンテニー追跡により、ムコルモクソティナ類において複数の全ゲノム重複事象が検出され、そこではDNAトランスポゾンが重複切断点に優先的に蓄積し、急速に不活性化することが明らかになった。特筆すべきことに、水平方向のトランスポゾン転移が、原生生物との界を越えた交換を含む、深い進化的境界を頻繁に越えていることも示す。以上の知見を総合すると、非二核菌類におけるゲノム構造の主要な駆動要因が明らかになり、菌界全体におけるゲノム動態の理解が刷新される。"
+  },
+  {
+    "id": "10.1111/1462-2920.70499",
+    "title": "Active Viral Addition Enhances Terrestrial Dissolved Organic Matter Mineralization via Microbial Community Restructuring in Reservoir Water",
+    "abstract": "Active viral addition increased CO2 accumulation ~3.7‐fold during terrestrial dissolved organic matter mineralization in reservoir water. This coincided with a prokaryotic community shift, where Bacteroidia declined and Gammaproteobacteria enriched. Viral activity also drove molecular remodelling of DOM, reducing refractory compounds (lignin‐like, condensed aromatics) while raising labile fractions (carbohydrate‐like, protein/amino sugar‐like), thereby accelerating carbon turnover.\n\nABSTRACT\nThe role of viruses in regulating the transformation and mineralization of terrestrial dissolved organic matter (tDOM) in reservoir ecosystems remains unclear. We conducted a microcosm experiment with Three Gorges Reservoir water amended with riparian soil‐derived tDOM and different levels of active virus‐like particle (VLP) to test whether viruses regulate tDOM mineralization by reshaping prokaryotic communities and DOM molecular composition. The results show that active viral addition significantly enhanced CO2 accumulation (approximately 3.7‐fold). This was coupled with a prokaryotic community shift, characterized by a marked decrease in Bacteroidia (from 35.67% to 10.67%–16.16%) and an increase in Gammaproteobacteria (from 47.36% to 65.26%–70.08%). At the molecular level, viral addition was associated with lower double bond equivalent (DBE) and modified aromaticity index (AImod), as well as reduced relative contributions of carboxyl‐rich alicyclic molecules (CRAMs), lignin‐like, and condensed aromatic‐like compounds. In contrast, more labile fractions (e.g., carbohydrate‐like and protein/amino sugar‐like compounds) accounted for a larger share of the DOM pool. These findings demonstrate that active viral addition can enhance tDOM‐associated carbon processing in reservoir water by coupling prokaryotic community restructuring with molecular‐level DOM reworking.\n\nActive viral addition increased CO2 accumulation ~3.7-fold during terrestrial dissolved organic matter mineralization in reservoir water. This coincided with a prokaryotic community shift, where Bacteroidia declined and Gammaproteobacteria enriched. Viral activity also drove molecular remodelling of DOM, reducing refractory compounds (lignin-like, condensed aromatics) while raising labile fractions (carbohydrate-like, protein/amino sugar-like), thereby accelerating carbon turnover.\n\nABSTRACT\nThe role of viruses in regulating the transformation and mineralization of terrestrial dissolved organic matter (tDOM) in reservoir ecosystems remains unclear. We conducted a microcosm experiment with Three Gorges Reservoir water amended with riparian soil-derived tDOM and different levels of active virus-like particle (VLP) to test whether viruses regulate tDOM mineralization by reshaping prokaryotic communities and DOM molecular composition. The results show that active viral addition significantly enhanced CO2 accumulation (approximately 3.7-fold). This was coupled with a prokaryotic community shift, characterized by a marked decrease in Bacteroidia (from 35.67% to 10.67%–16.16%) and an increase in Gammaproteobacteria (from 47.36% to 65.26%–70.08%). At the molecular level, viral addition was associated with lower double bond equivalent (DBE) and modified aromaticity index (AImod), as well as reduced relative contributions of carboxyl-rich alicyclic molecules (CRAMs), lignin-like, and condensed aromatic-like compounds. In contrast, more labile fractions (e.g., carbohydrate-like and protein/amino sugar-like compounds) accounted for a larger share of the DOM pool. These findings demonstrate that active viral addition can enhance tDOM-associated carbon processing in reservoir water by coupling prokaryotic community restructuring with molecular-level DOM reworking.",
+    "journal": "Environmental Microbiology",
+    "doi": "10.1111/1462-2920.70499",
+    "date": "2026-11-24",
+    "authors": "Min Cai, \nPingping Zhang, \nJian Yang, \nBeichen Wang, \nXiaoxi Sun, \nHongchen Jiang",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.70499?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial",
+        "prokaryotic",
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://onlinelibrary.wiley.com/feed/14622920/most-recent",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5573,
+    "collected_at": "2026-11-24T11:05:36.802078+00:00",
+    "collected_date": "2026-11-24",
+    "sources": [
+      "https://onlinelibrary.wiley.com/feed/14622920/most-recent"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1111/1462-2920.70499"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7734db72eee75cb962c851e1e1b5e74beb6d037951c6748a4c0e096553327611",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T11:27:08.683461+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a86709bfc78fd4d38a075636faf4e6b4ff958c701c2660b98ddf229f25aea5c4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T11:27:08.683461+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "活発なウイルス添加は、貯留層水における微生物群集の再構成を介して陸域溶存有機物の無機化を促進する。",
+    "abstract_ja": "活性ウイルスの添加により、貯留水における陸域溶存有機物の無機化過程においてCO2蓄積が約3.7倍に増加した。これは原核生物群集のシフトと一致しており、バクテロイデス属が減少し、ガンマプロテオバクテリア属が増加した。また、ウイルス活性はDOMの分子構造改変を誘導し、難分解性化合物（リグニン様、縮合芳香族化合物）を減少させる一方で、不安定分画（糖質様、タンパク質／アミノ糖様）を増加させ、これにより炭素循環を加速させた。\n\n要旨\n貯留水生態系における陸域溶存有機物（tDOM）の変換および無機化の調節におけるウイルスの役割は依然として不明である。本研究では、河畔土壌由来のtDOMおよび異なるレベルの活性ウイルス様粒子（VLP）を添加したスリー・ゴージズ貯留水を用いてマイクロコスム実験を行い、ウイルスが原核生物群集およびDOMの分子組成を再構築することでtDOMの無機化を調節するかどうかを検証した。その結果、活性ウイルスの添加によりCO2蓄積が有意に増加した（約3.7倍）。これは原核生物群集のシフトを伴っており、バクテロイデス属の顕著な減少（35.67%から10.67%–16.16%へ）と、ガンマプロテオバクテリア属の増加（47.36%から65.26%–70.08%へ）が認められた。分子レベルでは、ウイルス添加は二重結合当量（DBE）および修飾芳香族性指数（AImod）の低下、ならびにカルボキシル基に富む脂環式分子（CRAMs）、リグニン様化合物、および縮合芳香族様化合物の相対的寄与の減少と関連していた。対照的に、より不安定な分画（例：糖質様化合物およびタンパク質／アミノ糖様化合物）がDOMプールにおいてより大きな割合を占めていた。これらの知見は、活性ウイルスの添加が、原核生物群集の再構成と分子レベルのDOM再構築を連動させることで、貯留水におけるtDOM関連の炭素処理を促進し得ることを示している。\n\n活性ウイルスの添加により、貯留水における陸域溶存有機物の無機化過程においてCO2蓄積が約3.7倍に増加した。これは原核生物群集のシフトと一致しており、バクテロイデス属が減少し、ガンマプロテオバクテリア属が増加した。また、ウイルス活性はDOMの分子構造改変を誘導し、難分解性化合物（リグニン様、縮合芳香族化合物）を減少させる一方で、不安定分画（糖質様、タンパク質／アミノ糖様）を増加させ、これにより炭素循環を加速させた。\n\n要旨\n貯留水生態系における陸域溶存有機物（tDOM）の変換および無機化の調節におけるウイルスの役割は依然として不明である。本研究では、河畔土壌由来のtDOMおよび異なるレベルの活性ウイルス様粒子（VLP）を添加したスリー・ゴージズ貯留水を用いてマイクロコスム実験を行い、ウイルスが原核生物群集およびDOMの分子組成を再構築することでtDOMの無機化を調節するかどうかを検証した。その結果、活性ウイルスの添加によりCO2蓄積が有意に増加した（約3.7倍）。これは原核生物群集のシフトを伴っており、バクテロイデス属の顕著な減少（35.67%から10.67%–16.16%へ）と、ガンマプロテオバクテリア属の増加（47.36%から65.26%–70.08%へ）が認められた。分子レベルでは、ウイルス添加は二重結合当量（DBE）および修飾芳香族性指数（AImod）の低下、ならびにカルボキシル基に富む脂環式分子（CRAMs）、リグニン様化合物、および縮合芳香族様化合物の相対的寄与の減少と関連していた。対照的に、より不安定な分画（例：糖質様化合物およびタンパク質／アミノ糖様化合物）がDOMプールにおいてより大きな割合を占めていた。これらの知見は、活性ウイルスの添加が、原核生物群集の再構成と分子レベルのDOM再構築を連動させることで、貯留水におけるtDOM関連の炭素処理を促進し得ることを示している。"
+  },
+  {
+    "id": "10.1111/1758-2229.70458",
+    "title": "Genomic Determinants of Taxis in Pelagic SAR324 Bacteria From the Cold, High‐Pressure Deep Ocean",
+    "abstract": "Our study presents three key findings. First, SAR324‐related SAGs encode a complete flagellar‐driven chemosensory system with a non‐canonical signalling architecture: the absence of a predicted standalone CheY and the identification of a predicted dual‐domain REC–CHD response regulator suggest that cyclic second messengers, rather than phospho‐CheY, may serve as the primary flagellar control signal. Second, metagenomic and metatranscriptomic recruitment reveals depth‐structured differences in the predicted amino acid composition of key flagellar proteins—including FliN, FliK, FlhG, and MCP. These compositional shifts, together with depth‐structured nucleotide identity and synonymous codon usage patterns suggest adaptation of the tactic machinery to extreme hydrostatic pressure. Third, SAR324 taxis‐related sequences are recovered predominantly from free‐living rather than particle‐attached metagenomic fractions, supporting the hypothesis that this lineage uses flagellar‐based taxis as an active foraging strategy to locate patchily distributed organic matter in the deep ocean.\n\nABSTRACT\nIn the deep pelagic ocean, organic matter is typically scarce, making taxis potentially essential for heterotrophic microorganisms to locate and acquire it. We analysed SAR324 single amplified genomes and identified a predicted core chemosensory domain architecture consistent with the F7 and F8 classes, associated with flagellar‐driven taxis. The absence of a canonical standalone CheY and the identification of a predicted dual‐domain REC–CHD response regulator suggest that second messengers may serve as the primary signalling output for taxis. Recruitment of SAR324 taxis sequences across global ocean metagenomes revealed a cluster with higher read coverage below 2800 m than in shallower depths. This deep cluster exhibits distinct nucleotide and predicted amino‐acid compositions in genes involved in flagellar‐based taxis, including chemoreceptors MCP, flagellar biosynthesis protein FlhG, the motor switch component FliN, and hook‐length control protein FliK. These compositional shifts, together with depth‐structured synonymous codon usage patterns, are consistent with structural and/or translational adaptation of the flagellar machinery to extreme hydrostatic pressure. Higher read recruitment in free‐living than in particle‐attached deep‐sea metagenomes suggests that SAR324 is predominantly free‐living. These findings suggest that SAR324 employs taxis as a foraging strategy specifically adapted to the physical and nutritional constraints of the deep ocean.\n\nOur study presents three key findings. First, SAR324-related SAGs encode a complete flagellar-driven chemosensory system with a non-canonical signalling architecture: the absence of a predicted standalone CheY and the identification of a predicted dual-domain REC–CHD response regulator suggest that cyclic second messengers, rather than phospho-CheY, may serve as the primary flagellar control signal. Second, metagenomic and metatranscriptomic recruitment reveals depth-structured differences in the predicted amino acid composition of key flagellar proteins—including FliN, FliK, FlhG, and MCP. These compositional shifts, together with depth-structured nucleotide identity and synonymous codon usage patterns suggest adaptation of the tactic machinery to extreme hydrostatic pressure. Third, SAR324 taxis-related sequences are recovered predominantly from free-living rather than particle-attached metagenomic fractions, supporting the hypothesis that this lineage uses flagellar-based taxis as an active foraging strategy to locate patchily distributed organic matter in the deep ocean.\n\nABSTRACT\nIn the deep pelagic ocean, organic matter is typically scarce, making taxis potentially essential for heterotrophic microorganisms to locate and acquire it. We analysed SAR324 single amplified genomes and identified a predicted core chemosensory domain architecture consistent with the F7 and F8 classes, associated with flagellar-driven taxis. The absence of a canonical standalone CheY and the identification of a predicted dual-domain REC–CHD response regulator suggest that second messengers may serve as the primary signalling output for taxis. Recruitment of SAR324 taxis sequences across global ocean metagenomes revealed a cluster with higher read coverage below 2800 m than in shallower depths. This deep cluster exhibits distinct nucleotide and predicted amino-acid compositions in genes involved in flagellar-based taxis, including chemoreceptors MCP, flagellar biosynthesis protein FlhG, the motor switch component FliN, and hook-length control protein FliK. These compositional shifts, together with depth-structured synonymous codon usage patterns, are consistent with structural and/or translational adaptation of the flagellar machinery to extreme hydrostatic pressure. Higher read recruitment in free-living than in particle-attached deep-sea metagenomes suggests that SAR324 is predominantly free-living. These findings suggest that SAR324 employs taxis as a foraging strategy specifically adapted to the physical and nutritional constraints of the deep ocean.",
+    "journal": "Environmental Microbiology Reports",
+    "doi": "10.1111/1758-2229.70458",
+    "date": "2026-11-24",
+    "authors": "Paula Ruiz‐Fernández, \nEdgart Flores, \nMatías Castro, \nRamunas Stepanauskas, \nOsvaldo Ulloa",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1758-2229.70458?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "metagenom",
+        "metagenomes",
+        "metagenomic",
+        "metatranscriptom",
+        "metatranscriptomic",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [
+          "ocean"
+        ],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic",
+          "metagenom",
+          "metagenome",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://onlinelibrary.wiley.com/feed/17582229/most-recent",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5581,
+    "collected_at": "2026-11-24T11:05:36.802078+00:00",
+    "collected_date": "2026-11-24",
+    "sources": [
+      "https://onlinelibrary.wiley.com/feed/17582229/most-recent"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1111/1758-2229.70458"
+    ],
+    "translation": {
+      "title": {
+        "hash": "08abe38a137ce8ef876d8b216905575caaf2aa39a8c7e662cd873d6379d318fc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T11:27:08.683461+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a9da7fca69c0a9356780605990eb8e90ea4bbf6532d6ed51b1e24787309def1d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T11:27:08.683461+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "低温高圧深海由来の外洋性SAR324細菌におけるタキシスのゲノム決定因子",
+    "abstract_ja": "本研究では、3つの主要な知見を提示する。第一に、SAR324関連SAGsは、非正準的なシグナル伝達アーキテクチャを持つ完全な鞭毛駆動型化学感覚システムをコードしている。予測される単独のCheYの欠如と、予測されるデュアルドメインREC–CHD応答調節因子の同定は、リン酸化CheYではなく、環状セカンドメッセンジャーが主要な鞭毛制御シグナルとして機能している可能性を示唆している。第二に、メタゲノムおよびメタトランスクリプトームによるリクルートにより、FliN、FliK、FlhG、MCPを含む主要な鞭毛タンパク質の予測アミノ酸組成に、深度構造的な差異があることが明らかになった。これらの組成変化は、深度構造的なヌクレオチド同一性および同義コドン使用パターンとともに、極限的な静水圧に対するタクティクス機構の適応を示唆している。第三に、SAR324タクシス関連配列は、粒子付着型ではなく自由生活型のメタゲノム画分から主に回収されており、この系統が深海において点在する有機物を探索するための能動的な採餌戦略として、鞭毛ベースのタクシスを利用しているという仮説を支持している。\n\n要旨\n深海外洋では通常、有機物が乏しいため、従属栄養微生物が有機物を探索し獲得する上でタクシスが不可欠である可能性がある。我々はSAR324の単一増幅ゲノムを解析し、鞭毛駆動型タクシスに関連する、F7およびF8クラスと整合する予測コア化学感覚ドメインアーキテクチャを同定した。正準的な単独CheYの欠如と、予測されるデュアルドメインREC–CHD応答調節因子の同定は、セカンドメッセンジャーがタクシスの主要なシグナル出力として機能している可能性を示唆している。全球海洋メタゲノムにおけるSAR324タクシス配列のリクルートにより、浅海域よりも水深2800 m以深でリードカバレッジが高いクラスターが明らかになった。この深層クラスターは、化学受容体MCP、鞭毛生合成タンパク質FlhG、モータースイッチ構成要素FliN、およびフック長制御タンパク質FliKを含む、鞭毛ベースのタクシスに関与する遺伝子において、明確なヌクレオチド組成および予測アミノ酸組成を示す。これらの組成変化は、深度構造的な同義コドン使用パターンとともに、極限的な静水圧に対する鞭毛機構の構造的および／または翻訳的適応と整合している。粒子付着型よりも自由生活型の深海メタゲノムにおいてリードリクルート率が高いことは、SAR324が主に自由生活型であることを示唆している。これらの知見は、SAR324が深海の物理的および栄養的制約に特異的に適応した採餌戦略としてタクシスを利用していることを示唆している。\n\n本研究では、3つの主要な知見を提示する。第一に、SAR324関連SAGsは、非正準的なシグナル伝達アーキテクチャを持つ完全な鞭毛駆動型化学感覚システムをコードしている。予測される単独CheYの欠如と、予測されるデュアルドメインREC–CHD応答調節因子の同定は、リン酸化CheYではなく、環状セカンドメッセンジャーが主要な鞭毛制御シグナルとして機能している可能性を示唆している。第二に、メタゲノムおよびメタトランスクリプトームによるリクルートにより、FliN、FliK、FlhG、MCPを含む主要な鞭毛タンパク質の予測アミノ酸組成に、深度構造的な差異があることが明らかになった。これらの組成変化は、深度構造的なヌクレオチド同一性および同義コドン使用パターンとともに、極限的な静水圧に対するタクティクス機構の適応を示唆している。第三に、SAR324タクシス関連配列は、粒子付着型ではなく自由生活型のメタゲノム画分から主に回収されており、この系統が深海において点在する有機物を探索するための能動的な採餌戦略として、鞭毛ベースのタクシスを利用しているという仮説を支持している。\n\n要旨\n深海外洋では通常、有機物が乏しいため、従属栄養微生物が有機物を探索し獲得する上でタクシスが不可欠である可能性がある。我々はSAR324の単一増幅ゲノムを解析し、鞭毛駆動型タクシスに関連する、F7およびF8クラスと整合する予測コア化学感覚ドメインアーキテクチャを同定した。正準的な単独CheYの欠如と、予測されるデュアルドメインREC–CHD応答調節因子の同定は、セカンドメッセンジャーがタクシスの主要なシグナル出力として機能している可能性を示唆している。全球海洋メタゲノムにおけるSAR324タクシス配列のリクルートにより、浅海域よりも水深2800 m以深でリードカバレッジが高いクラスターが明らかになった。この深層クラスターは、化学受容体MCP、鞭毛生合成タンパク質FlhG、モータースイッチ構成要素FliN、およびフック長制御タンパク質FliKを含む、鞭毛ベースのタクシスに関与する遺伝子において、明確なヌクレオチド組成および予測アミノ酸組成を示す。これらの組成変化は、深度構造的な同義コドン使用パターンとともに、極限的な静水圧に対する鞭毛機構の構造的および／または翻訳的適応と整合している。粒子付着型よりも自由生活型の深海メタゲノムにおいてリードリクルート率が高いことは、SAR324が主に自由生活型であることを示唆している。これらの知見は、SAR324が深海の物理的および栄養的制約に特異的に適応した採餌戦略としてタクシスを利用していることを示唆している。"
+  },
+  {
+    "id": "10.1186/s40793-026-00983-8",
+    "title": "Genotype-by-environment interaction significantly drives bacterial endophyte communities in maize stalks",
+    "abstract": "Background\n                     Many microbes are known to boost the performance of crop plants, and their use as crop treatments (“biologicals”) is an active area of research and commercialization. Although many identified microbes can boost plant production under laboratory settings, most fail to translate to field settings, and even the ones that are commercialized are often unreliable. While many factors likely underlie these issues, one that has been underexplored is the idea that interactions between plants and microbes can vary across both different host genetics and different environments, and that specific combinations of host and environment can result in very different microbial outcomes.\n                  \n                     Results\n                     To quantify how a plant microbiome can change across host genotype and environment and to determine the relative importance of these factors, we sampled maize stalks from 20 specific hybrid varieties grown at 18 locations in the United States. 16S rRNA gene sequencing was performed on all samples, which after quality filtering resulted in 19 hybrid genotypes across 15 locations; an unexpected, last-minute seed substitution also resulted in a large number of genotypes (~80) with low replication, which were used only for environmental analysis. We find that the stalk microbiome is highly variable, with a handful of bacterial taxa conserved at broader taxonomic levels (Phylum, Class) and almost none at finer levels (Genus, Species). Local environment and genotype-by-environment interactions both had consistently large and significant effects on the microbial community (typical explained variation of 10–28% as measured by alpha- and beta-diversity summary statistics, individual taxa, and inferred functional capacity), whereas host genotype had little to no consistent effect across environments (typical explained variation of <10%). We also identified specific soil factors (pH and potassium) as the most significant environmental drivers of the community, even though these communities were living inside the stalks.\n                  \n                     Conclusions\n                     Taken together, our results indicate that while host genetics can significantly affect the stalk microbial community, these effects are almost entirely predicated on interactions with the environment. These results imply that reliable deployment of microbes for crop production will require significant investment in trials across many locations and genetic backgrounds, either to estimate the genotype-by-environment (GxE) effects directly or to screen for microbes whose effects are less dependent on these two factors.",
+    "journal": "Environmental Microbiome",
+    "doi": "10.1186/s40793-026-00983-8",
+    "date": "2026-11-24",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s40793-026-00983-8",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "bacteria",
+        "bacterial",
+        "microbe",
+        "microbes",
+        "microbial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=40793",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5572,
+    "collected_at": "2026-11-24T11:05:36.802078+00:00",
+    "collected_date": "2026-11-24",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=40793"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1186/s40793-026-00983-8"
+    ],
+    "translation": {
+      "title": {
+        "hash": "774b522928274faf43717c6619ac954c375fa3c578e1ce62c2cedf8472a23733",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T11:27:08.683461+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "87ca6d559dbc801d6eab556819e5833690819c1b6fd77b5daa1375376dc8e6a9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T11:27:08.683461+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "遺伝子型と環境の相互作用が、トウモロコシ茎における細菌内生菌群集を有意に駆動する",
+    "abstract_ja": "背景\n                     多くの微生物が作物の生育性能を向上させることが知られており、作物処理剤（「バイオ製剤」）としての利用は、活発な研究および商業化の分野となっている。同定された微生物の多くは実験室環境下で植物の生産性を向上させることができるが、その大部分は圃場環境では機能せず、商業化されているものでさえ信頼性に欠けることが多い。これらの問題の背景には多くの要因が考えられるが、十分に検討されてこなかった点の一つに、植物と微生物の相互作用は宿主の遺伝的特性や環境によって異なる可能性があり、宿主と環境の特定の組み合わせによって、微生物学的な結果が大きく異なるという考え方がある。\n                  \n                     結果\n                     植物マイクロバイオームが宿主の遺伝子型や環境によってどのように変化するかを定量化し、これらの要因の相対的な重要性を明らかにするため、米国の18地点で栽培された20種類の特定のハイブリッド品種のトウモロコシ茎をサンプリングした。すべてのサンプルに対して16S rRNA遺伝子シーケンシングを実施し、品質フィルタリングの結果、15地点で19種類のハイブリッド遺伝子型が得られた。また、予期せぬ直前の種子の差し替えにより、再現性の低い遺伝子型が多数（約80種類）生じたが、これらは環境解析にのみ使用した。その結果、茎のマイクロバイオームは非常に変動性が高く、広範な分類レベル（門、綱）では少数の細菌分類群が保存されていたが、より詳細なレベル（属、種）ではほとんど保存されていなかった。局所環境と遺伝子型・環境間の相互作用は、いずれも微生物群集に対して一貫して大きく有意な影響を及ぼしていた（α多様性およびβ多様性の要約統計量、個々の分類群、および推定機能能で測定した典型的な説明変動は10～28%であった）。一方、宿主の遺伝子型が環境間で一貫した影響を及ぼすことはほとんど、あるいは全くなかった（典型的な説明変動は10%未満）。また、これらの群集は茎の内部で生存していたにもかかわらず、特定の土壌要因（pHおよびカリウム）が群集の最も有意な環境ドライバーであることを同定した。\n                  \n                     結論\n                     以上の結果を総合すると、宿主の遺伝的特性が茎の微生物群集に有意な影響を及ぼし得るものの、これらの影響はほぼ完全に環境との相互作用に基づいていることが示される。これらの結果は、作物生産への微生物の信頼性の高い導入には、遺伝子型・環境（GxE）効果を直接推定するか、あるいはこれら2つの要因への依存度が低い微生物をスクリーニングするために、多くの地点および遺伝的背景にわたる試験への多大な投資が必要であることを示唆している。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.2006724",
+    "title": "Huang-Lian-Jie-Du Decoction attenuates atherosclerosis with changes in the gut microbiota–liver TMA/FMO3/TMAO axis: integrating microbiome profiling, UHPLC–MS/MS, AlphaFold3-based molecular simulations, and experimental validation",
+    "abstract": "BackgroundHuang-Lian-Jie-Du Decoction (HLJDD) has shown anti-atherosclerotic effects, but its associations with gut microbial alterations and trimethylamine (TMA)/flavin-containing monooxygenase 3 (FMO3)/trimethylamine N-oxide (TMAO)-related metabolism remain incompletely characterized.MethodsApoE−/− mice fed a high-fat, high-cholesterol (HFHC) diet were treated with HLJDD or simvastatin. Atherosclerotic lesions, hepatic lipid accumulation, serum lipid profiles, circulating TMA and TMAO levels and hepatic FMO3 expression were evaluated. Gut microbiota were assessed by 16S rRNA sequencing, multivariate analyses, and colonic-content qPCR targeting two species and three TMA-related genes. Constituents of the HLJDD aqueous decoction were profiled by UHPLC-Q-Orbitrap-MS/MS and integrated with AlphaFold3-based molecular docking and 100-ns molecular dynamics simulations against FMO3. Selected compounds were evaluated for their effects on FMO3 expression in free fatty acid-treated HepG2 cells.ResultsHuang-Lian-Jie-Du Decoction attenuated hepatic lipid accumulation and atherosclerotic pathological changes in HFHC-fed ApoE−/− mice and improved serum lipid profiles. These effects were accompanied by reductions in circulating TMA and TMAO levels and hepatic FMO3 expression. HLJDD altered gut microbial community structure without significantly affecting α-diversity. LEfSe and random forest analyses prioritized Akkermansia and Bilophila; Akkermansia increased significantly and correlated with lipid indices, whereas Bilophila showed a non-significant trend and correlated negatively with TMAO. Colonic-content qPCR showed increased Akkermansia muciniphila and Bilophila wadsworthia abundance and decreased cutC abundance, whereas cntA and grdH showed no significant differences. RDA associated genus-level composition with metabolic variables. UHPLC-Q-Orbitrap-MS/MS profiling followed by pharmacokinetic screening identified 14 constituents for FMO3 docking, among which limonin, berberine, and dihydrooroxylin A showed favorable predicted binding energies of −10.4, −8.5, and −8.4 kcal/mol, respectively. Molecular dynamics and MM/PBSA analyses prioritized limonin and berberine, both of which reduced FMO3 expression in lipid-overloaded HepG2 cells.ConclusionHuang-Lian-Jie-Du Decoction attenuated atherosclerotic pathological changes and improved lipid profiles in HFHC-fed ApoE−/− mice, accompanied by gut microbial remodeling, reduced cutC abundance, lower circulating TMA and TMAO levels, and decreased hepatic FMO3 expression. These findings suggest that modulation of microbial choline-dependent TMA-producing potential and hepatic FMO3 expression may contribute to the anti-atherosclerotic effects of HLJDD. Limonin and berberine also reduced FMO3 expression in lipid-overloaded HepG2 cells, identifying them as candidate constituents for further investigation.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.2006724",
+    "date": "2026-11-24",
+    "authors": "Qi Yu",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.2006724",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "microbial",
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "16S rRNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5557,
+    "collected_at": "2026-11-24T11:05:36.802078+00:00",
+    "collected_date": "2026-11-24",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.3389/fmicb.2026.2006724"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2a19639c4e6b461b91d87abe357571461b90528d073ea43bb73771aafecda55b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T11:27:08.683461+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0c832c04de418018790a7b0bd31c19e1bb84b185d13d9f0c5c46bf6ac656178e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T11:27:08.683461+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "黄連解毒湯は腸内細菌叢の変化を介して動脈硬化を軽減する―肝TMA/FMO3/TMAO軸：マイクロバイオームプロファイリング、UHPLC–MS/MS、AlphaFold3に基づく分子シミュレーション、および実験的検証の統合",
+    "abstract_ja": "背景Huang-Lian-Jie-Du煎剤（HLJDD）は抗動脈硬化作用を示すが、腸内細菌叢の変化およびトリメチルアミン（TMA）／フラビン含有モノオキシゲナーゼ3（FMO3）／トリメチルアミンN-オキシド（TMAO）関連代謝との関連性については、いまだ十分に解明されていない。方法高脂肪・高コレステロール（HFHC）食を給餌したApoE−/−マウスに、HLJDDまたはシムバスタチンを投与した。動脈硬化病変、肝脂質蓄積、血清脂質プロファイル、循環TMAおよびTMAO濃度、ならびに肝FMO3発現を評価した。腸内細菌叢は、16S rRNAシーケンシング、多変数解析、および2種の菌種と3つのTMA関連遺伝子を標的とした結腸内容物qPCRにより評価した。HLJDD水煎剤の構成成分をUHPLC-Q-Orbitrap-MS/MSによりプロファイリングし、AlphaFold3に基づく分子ドッキングおよびFMO3に対する100 ns分子動力学シミュレーションと統合した。選定した化合物について、遊離脂肪酸処理HepG2細胞におけるFMO3発現への影響を評価した。結果Huang-Lian-Jie-Du煎剤は、HFHC給餌ApoE−/−マウスにおいて肝脂質蓄積および動脈硬化性病理学的変化を軽減し、血清脂質プロファイルを改善した。これらの効果に伴い、循環TMAおよびTMAO濃度、ならびに肝FMO3発現の低下が認められた。HLJDDはα多様性に有意な影響を及ぼさずに、腸内細菌叢の構造を変化させた。LEfSeおよびランダムフォレスト解析では、AkkermansiaとBilophilaが優先的に同定された。Akkermansiaは有意に増加し、脂質指標と相関したが、Bilophilaは有意ではない傾向を示し、TMAOと負の相関を示した。結腸内容物qPCRでは、Akkermansia muciniphilaおよびBilophila wadsworthiaの存在量が増加し、cutCの存在量が減少したが、cntAおよびgrdHに有意な差は認められなかった。RDAは、属レベルの組成と代謝変数との関連を示した。UHPLC-Q-Orbitrap-MS/MSプロファイリングに続く薬物動態スクリーニングにより、FMO3ドッキング候補として14種類の構成成分が同定され、そのうちlimonin、berberine、およびdihydrooroxylin Aは、それぞれ−10.4、−8.5、および−8.4 kcal/molという良好な予測結合エネルギーを示した。分子動力学およびMM/PBSA解析では、limoninとberberineが優先的に同定され、いずれも脂質過剰負荷HepG2細胞においてFMO3発現を低下させた。結論Huang-Lian-Jie-Du煎剤は、HFHC給餌ApoE−/−マウスにおいて動脈硬化性病理学的変化を軽減し、脂質プロファイルを改善した。これに伴い、腸内細菌叢のリモデリング、cutC存在量の減少、循環TMAおよびTMAO濃度の低下、ならびに肝FMO3発現の低下が認められた。これらの知見は、微生物のコリン依存性TMA産生能および肝FMO3発現の調節が、HLJDDの抗動脈硬化効果に寄与している可能性を示唆している。また、limoninおよびberberineは脂質過剰負荷HepG2細胞においてFMO3発現を低下させたことから、さらなる検討対象となる候補構成成分として同定された。"
   }
 ]
