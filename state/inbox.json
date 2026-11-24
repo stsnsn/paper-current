@@ -454861,5 +454861,439 @@
     "related_dois": [
       "10.1038/s41522-026-01205-2"
     ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 4",
+        "query": "(JOURNAL:\"Infection and Immunity\" OR JOURNAL:\"Antimicrobial Agents and Chemotherapy\" OR JOURNAL:\"Journal of Clinical Microbiology\" OR JOURNAL:\"Microbiology Resource Announcements\" OR JOURNAL:\"Nature\" OR JOURNAL:\"Nature Microbiology\" OR JOURNAL:\"Nature Ecology & Evolution\" OR JOURNAL:\"Nature Communications\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1038/s41564-026-02521-1",
+    "title": "Systemic exposure to typhoid toxin primes the murine vascular endothelium for intestinal perforation during Salmonella Typhi infection.",
+    "abstract": "Intestinal perforation is a late complication and the leading cause of death in typhoid fever, but its mechanism has remained undefined. Here, using sequential exposure to the PltC form of typhoid toxin followed by oral Salmonella Typhi infection, we develop a mouse model of late-stage human typhoid, when circulating toxin precedes the onset of intestinal pathology. Systemic exposure to the toxin renders otherwise resistant mice susceptible to oral infection and establishes a transient vascular endothelial priming state, resulting in vascular injury, haemorrhage and lethal intestinal perforation localized to Peyer's patches. These lesions were accompanied by the appearance in blood of microbiota-derived taxa, consistent with translocation across a breached small-intestinal barrier. Lethality required the SPI-1 type-III secretion system (T3SS), which drives intestinal inflammation, but not the SPI-2 T3SS, which drives systemic infection, indicating that death results from intestinal rather than disseminated infection. Although PltC-typhoid toxin causes leucopaenia, loss of circulating white cells was not sufficient for sensitization. Endothelial-specific expression of CMAH, which masks the toxin's Neu5Ac receptors, prevented priming and disease. These findings define intestinal perforation as a typhoid toxin-dependent vascular-barrier disease.",
+    "journal": "Nature Microbiology",
+    "doi": "10.1038/s41564-026-02521-1",
+    "date": "2026-10-29",
+    "authors": "Zhao H, Hua C, Hur JI, Lara-Tejero M, Galán JE.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42957851",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42957851",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5504,
+    "collected_at": "2026-11-24T00:50:26.638667+00:00",
+    "collected_date": "2026-11-24",
+    "sources": [
+      "Europe PMC journals 4"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1038/s41564-026-02521-1"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 4",
+        "query": "(JOURNAL:\"Infection and Immunity\" OR JOURNAL:\"Antimicrobial Agents and Chemotherapy\" OR JOURNAL:\"Journal of Clinical Microbiology\" OR JOURNAL:\"Microbiology Resource Announcements\" OR JOURNAL:\"Nature\" OR JOURNAL:\"Nature Microbiology\" OR JOURNAL:\"Nature Ecology & Evolution\" OR JOURNAL:\"Nature Communications\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1038/s41559-026-03230-y",
+    "title": "Bumblebee hotspot.",
+    "abstract": "",
+    "journal": "Nature Ecology & Evolution",
+    "doi": "10.1038/s41559-026-03230-y",
+    "date": "2026-11-01",
+    "authors": "Domingues V.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42875520",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42875520",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5505,
+    "collected_at": "2026-11-24T00:50:26.638667+00:00",
+    "collected_date": "2026-11-24",
+    "sources": [
+      "Europe PMC journals 4"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1038/s41559-026-03230-y"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 4",
+        "query": "(JOURNAL:\"Infection and Immunity\" OR JOURNAL:\"Antimicrobial Agents and Chemotherapy\" OR JOURNAL:\"Journal of Clinical Microbiology\" OR JOURNAL:\"Microbiology Resource Announcements\" OR JOURNAL:\"Nature\" OR JOURNAL:\"Nature Microbiology\" OR JOURNAL:\"Nature Ecology & Evolution\" OR JOURNAL:\"Nature Communications\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1038/s41559-026-03211-1",
+    "title": "More biodiversity means stronger, more reliable ecosystem functioning worldwide.",
+    "abstract": "",
+    "journal": "Nature Ecology & Evolution",
+    "doi": "10.1038/s41559-026-03211-1",
+    "date": "2026-11-01",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42844406",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42844406",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5506,
+    "collected_at": "2026-11-24T00:50:26.638667+00:00",
+    "collected_date": "2026-11-24",
+    "sources": [
+      "Europe PMC journals 4"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1038/s41559-026-03211-1"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 4",
+        "query": "(JOURNAL:\"Infection and Immunity\" OR JOURNAL:\"Antimicrobial Agents and Chemotherapy\" OR JOURNAL:\"Journal of Clinical Microbiology\" OR JOURNAL:\"Microbiology Resource Announcements\" OR JOURNAL:\"Nature\" OR JOURNAL:\"Nature Microbiology\" OR JOURNAL:\"Nature Ecology & Evolution\" OR JOURNAL:\"Nature Communications\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1038/s41559-026-03187-y",
+    "title": "The ethical costs of remotely sensing tropical forest understories.",
+    "abstract": "",
+    "journal": "Nature Ecology & Evolution",
+    "doi": "10.1038/s41559-026-03187-y",
+    "date": "2026-11-01",
+    "authors": "Hes G, Kuppel S, Baldi G, Penha D, Barretto-Tesoro G, Dorosan MD, Vergel A, Sarmiento CJS, Stokes FJ, Neves E, Peters MJH, Roberts P.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42749871",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42749871",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5507,
+    "collected_at": "2026-11-24T00:50:26.638667+00:00",
+    "collected_date": "2026-11-24",
+    "sources": [
+      "Europe PMC journals 4"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1038/s41559-026-03187-y"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 4",
+        "query": "(JOURNAL:\"Infection and Immunity\" OR JOURNAL:\"Antimicrobial Agents and Chemotherapy\" OR JOURNAL:\"Journal of Clinical Microbiology\" OR JOURNAL:\"Microbiology Resource Announcements\" OR JOURNAL:\"Nature\" OR JOURNAL:\"Nature Microbiology\" OR JOURNAL:\"Nature Ecology & Evolution\" OR JOURNAL:\"Nature Communications\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1038/s41559-026-03223-x",
+    "title": "Combining conservation strategies.",
+    "abstract": "",
+    "journal": "Nature Ecology & Evolution",
+    "doi": "10.1038/s41559-026-03223-x",
+    "date": "2026-11-01",
+    "authors": "Andriuzzi W.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42844405",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42844405",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5508,
+    "collected_at": "2026-11-24T00:50:26.638667+00:00",
+    "collected_date": "2026-11-24",
+    "sources": [
+      "Europe PMC journals 4"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1038/s41559-026-03223-x"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 4",
+        "query": "(JOURNAL:\"Infection and Immunity\" OR JOURNAL:\"Antimicrobial Agents and Chemotherapy\" OR JOURNAL:\"Journal of Clinical Microbiology\" OR JOURNAL:\"Microbiology Resource Announcements\" OR JOURNAL:\"Nature\" OR JOURNAL:\"Nature Microbiology\" OR JOURNAL:\"Nature Ecology & Evolution\" OR JOURNAL:\"Nature Communications\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1038/s41564-026-02518-w",
+    "title": "Questioning the role of antibody-dependent enhancement in severe dengue.",
+    "abstract": "",
+    "journal": "Nature Microbiology",
+    "doi": "10.1038/s41564-026-02518-w",
+    "date": "2026-10-23",
+    "authors": "Ooi EE, Waickman AT, Kalimuddin S.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42919969",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42919969",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5509,
+    "collected_at": "2026-11-24T00:50:26.638667+00:00",
+    "collected_date": "2026-11-24",
+    "sources": [
+      "Europe PMC journals 4"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1038/s41564-026-02518-w"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 4",
+        "query": "(JOURNAL:\"Infection and Immunity\" OR JOURNAL:\"Antimicrobial Agents and Chemotherapy\" OR JOURNAL:\"Journal of Clinical Microbiology\" OR JOURNAL:\"Microbiology Resource Announcements\" OR JOURNAL:\"Nature\" OR JOURNAL:\"Nature Microbiology\" OR JOURNAL:\"Nature Ecology & Evolution\" OR JOURNAL:\"Nature Communications\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1038/s41564-026-02526-w",
+    "title": "Lack of ancestral SARS-CoV-2 imprinting promotes Omicron sublineage BA.3.2.2 infection in children.",
+    "abstract": "The ongoing SARS-CoV-2 evolution is constrained by population-level immune imprinting. Recent genomic surveillance revealed an unexpected demographic shift with the Omicron sublineage BA.3.2.2 being predominant in paediatric populations globally. Here we show that this paediatric susceptibility arises from the absence of immune imprinting against ancestral SARS-CoV-2 Wuhan strain. Serological analyses reveal a failure to neutralize BA.3.2.2 in young children with no ancestral strain exposure. Single-B-cell sequencing analyses demonstrate that BA.3.2.2 evades Omicron-specific Class 1/4 neutralizing antibodies that target the ACE2-binding site, encoded by immunoglobulin heavy-chain variable (IGHV) germline genes IGHV2-5 and IGHV5-51, which dominate in weakly imprinted individuals. BA.3.2.2 remains susceptible to broadly cross-reactive Class 1 antibodies, encoded by IGHV3-53/66, typically enriched in adults with strong Wuhan-strain imprinting, such as mRNA vaccine recipients. Together, these findings show that classic immune imprinting provides superior protection against a highly divergent variant, explaining the age-biased transmission of BA.3.2.2, and informing future paediatric vaccination strategies.",
+    "journal": "Nature Microbiology",
+    "doi": "10.1038/s41564-026-02526-w",
+    "date": "2026-10-26",
+    "authors": "Niu X, Xiong D, He P, Yu L, Li Y, Cai X, An R, Wang Y, Kong R, Yu Y, Wang J, Wang Q, Huang J, Zhang B, Zhu T, Zhao T, Huang J, Jian F, Shao F, Huang Z, Chen X, Shen Z, Jin R, Xie Z, Chen X, Tan X, Cao Y.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42934357",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42934357",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genomic"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 5510,
+    "collected_at": "2026-11-24T00:50:26.638667+00:00",
+    "collected_date": "2026-11-24",
+    "sources": [
+      "Europe PMC journals 4"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1038/s41564-026-02526-w"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 4",
+        "query": "(JOURNAL:\"Infection and Immunity\" OR JOURNAL:\"Antimicrobial Agents and Chemotherapy\" OR JOURNAL:\"Journal of Clinical Microbiology\" OR JOURNAL:\"Microbiology Resource Announcements\" OR JOURNAL:\"Nature\" OR JOURNAL:\"Nature Microbiology\" OR JOURNAL:\"Nature Ecology & Evolution\" OR JOURNAL:\"Nature Communications\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "letter"
+    ],
+    "id": "10.1128/jcm.01069-26",
+    "title": "Does <i>Legionella</i> 5S rRNA PCR melting temperature analysis discriminate high-risk species and increased disease severity or does it simply reflect test selection bias?",
+    "abstract": "",
+    "journal": "Journal of Clinical Microbiology",
+    "doi": "10.1128/jcm.01069-26",
+    "date": "2026-10-27",
+    "authors": "Edelstein PH.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42937332",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13753787",
+    "pmid": "42937332",
+    "metadata_source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13753787/fullTextXML",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5515,
+    "collected_at": "2026-11-24T00:50:26.638667+00:00",
+    "collected_date": "2026-11-24",
+    "sources": [
+      "Europe PMC journals 4"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1128/jcm.01069-26"
+    ]
   }
 ]
