@@ -6,92 +6,6 @@
     "addition_tracking_since": "2026-11-08T16:41:37.586944+09:00",
     "addition_history": [
       {
-        "at": "2026-11-22T03:10:31.431372+09:00",
-        "papers": [
-          {
-            "id": "10.1099/mgen.0.001877",
-            "preprint": false
-          },
-          {
-            "id": "10.1099/mgen.0.001905",
-            "preprint": false
-          },
-          {
-            "id": "10.1093/ismejo/wrag292",
-            "preprint": false
-          },
-          {
-            "id": "10.1099/ijsem.0.007345",
-            "preprint": false
-          },
-          {
-            "id": "10.1111/1755-0998.70219",
-            "preprint": false
-          },
-          {
-            "id": "10.1099/ijsem.0.007351",
-            "preprint": false
-          },
-          {
-            "id": "10.1099/mgen.0.001879",
-            "preprint": false
-          },
-          {
-            "id": "10.1099/ijsem.0.007327",
-            "preprint": false
-          },
-          {
-            "id": "10.1093/bib/bbag638",
-            "preprint": false
-          },
-          {
-            "id": "10.64898/2026.11.20.768214",
-            "preprint": true
-          }
-        ]
-      },
-      {
-        "at": "2026-11-22T06:23:39.855554+09:00",
-        "papers": [
-          {
-            "id": "10.64898/2026.10.27.762241",
-            "preprint": true
-          },
-          {
-            "id": "10.20944/preprints202611.0154.v1",
-            "preprint": true
-          },
-          {
-            "id": "10.12688/wellcomeopenres.28131.1",
-            "preprint": true
-          },
-          {
-            "id": "10.21203/rs.3.rs-11218928/v1",
-            "preprint": true
-          },
-          {
-            "id": "10.20944/preprints202611.0215.v1",
-            "preprint": true
-          },
-          {
-            "id": "10.21203/rs.3.rs-11507263/v1",
-            "preprint": true
-          },
-          {
-            "id": "10.64898/2026.10.28.762220",
-            "preprint": true
-          },
-          {
-            "id": "10.3389/fmicb.2026.1995208",
-            "preprint": false
-          },
-          {
-            "id": "10.3389/fmicb.2026.1949712",
-            "preprint": false
-          }
-        ]
-      },
-      {
         "at": "2026-11-22T16:30:19.403286+09:00",
         "papers": [
           {
@@ -487,71 +401,91 @@
             "preprint": false
           }
         ]
+      },
+      {
+        "at": "2026-11-24T10:32:14.519344+09:00",
+        "papers": [
+          {
+            "id": "10.64898/2026.11.16.766480",
+            "preprint": true
+          },
+          {
+            "id": "10.1186/s42523-026-00660-8",
+            "preprint": false
+          },
+          {
+            "id": "10.64898/2026.11.20.768218",
+            "preprint": true
+          },
+          {
+            "id": "10.1186/s13059-026-04327-0",
+            "preprint": false
+          },
+          {
+            "id": "10.1038/s41564-026-02521-1",
+            "preprint": false
+          },
+          {
+            "id": "10.3389/fmicb.2026.2023654",
+            "preprint": false
+          },
+          {
+            "id": "10.1038/s41564-026-02526-w",
+            "preprint": false
+          },
+          {
+            "id": "10.1093/femsmc/xtag056",
+            "preprint": false
+          },
+          {
+            "id": "10.1186/s42523-026-00661-7",
+            "preprint": false
+          },
+          {
+            "id": "10.1093/bioinformatics/btag853",
+            "preprint": false
+          },
+          {
+            "id": "10.1093/bioinformatics/btag854",
+            "preprint": false
+          },
+          {
+            "id": "10.1038/s41522-026-01193-3",
+            "preprint": false
+          },
+          {
+            "id": "10.64898/2026.11.21.768310",
+            "preprint": true
+          },
+          {
+            "id": "10.1093/femsyr/foag063",
+            "preprint": false
+          }
+        ]
       }
     ],
     "date": "2026-11-23",
     "publication_mode": "daily",
-    "updated_at": "2026-11-23T22:48:48.639900+09:00",
-    "daily_updated_at": "2026-11-23T22:48:48.639900+09:00",
+    "updated_at": "2026-11-24T10:32:14.519344+09:00",
+    "daily_updated_at": "2026-11-24T10:32:14.519344+09:00",
     "week_ends_at": "2026-11-30T00:00:00+09:00",
     "added_ids": [
-      "10.3389/fmicb.2026.1873087",
-      "10.3389/fmicb.2026.2034543",
-      "10.64898/2026.11.20.767877",
-      "10.3389/fmicb.2026.1966662",
-      "10.1128/jb.00420-26",
-      "10.64898/2026.11.22.768343",
-      "10.1016/j.isci.2026.118150",
-      "10.1128/spectrum.01048-26",
-      "10.1128/spectrum.01569-26",
-      "10.3389/fmicb.2026.1915848",
-      "10.1093/bioinformatics/btag849",
-      "10.64898/2026.11.19.767610",
-      "10.1128/spectrum.02253-26",
-      "10.1186/s40168-026-02585-5",
-      "10.3389/fmicb.2026.1971086",
-      "10.1128/aem.01488-26",
-      "10.1093/bioinformatics/btag847",
-      "10.3389/fmicb.2026.2022869",
-      "10.3389/fmicb.2026.2022598",
-      "10.1128/spectrum.03541-25",
-      "10.1128/jb.00407-26",
-      "10.64898/2026.11.22.768452",
-      "10.1093/nargab/lqag143",
-      "10.1128/spectrum.00294-26",
-      "10.1128/aem.01749-26",
-      "10.1128/aem.01858-26",
-      "10.3389/fmicb.2026.1956644",
-      "10.3389/fmicb.2026.2011058",
-      "10.1093/bioinformatics/btag848",
-      "10.1128/spectrum.02731-26",
-      "10.1093/nar/gkag1258",
-      "10.1093/nar/gkag1237",
-      "10.1093/nar/gkag1287",
-      "10.3389/fmicb.2026.1959697",
-      "10.1093/nar/gkag1226",
-      "10.1093/nar/gkag1263",
-      "10.1128/jvi.00902-26",
-      "10.1128/spectrum.01118-26",
-      "10.3389/fmicb.2026.1989361",
-      "10.1038/s41522-026-01205-2",
-      "10.1128/spectrum.01169-26",
-      "10.1093/nar/gkag1275",
-      "10.3389/fmicb.2026.1945493",
-      "10.1128/jb.00233-26",
-      "10.1128/spectrum.04232-25",
-      "10.1093/nar/gkag1308",
-      "10.1093/nar/gkag1209",
-      "10.3389/fmicb.2026.1970201",
-      "10.3389/fmicb.2026.2025257",
-      "10.1128/aem.01816-26",
-      "10.1128/spectrum.01970-26",
-      "10.1093/nargab/lqag133",
-      "10.1016/j.isci.2026.118134",
-      "10.1016/j.isci.2026.118094",
-      "10.1128/aem.01631-26"
+      "10.64898/2026.11.16.766480",
+      "10.1186/s42523-026-00660-8",
+      "10.64898/2026.11.20.768218",
+      "10.1186/s13059-026-04327-0",
+      "10.1038/s41564-026-02521-1",
+      "10.3389/fmicb.2026.2023654",
+      "10.1038/s41564-026-02526-w",
+      "10.1093/femsmc/xtag056",
+      "10.1186/s42523-026-00661-7",
+      "10.1093/bioinformatics/btag853",
+      "10.1093/bioinformatics/btag854",
+      "10.1038/s41522-026-01193-3",
+      "10.64898/2026.11.21.768310",
+      "10.1093/femsyr/foag063"
     ],
-    "added_date": "2026-11-23"
+    "added_date": "2026-11-24"
   },
   "papers": [
     {
@@ -6776,6 +6710,1124 @@
         "Applied and Environmental Microbiology",
         "Bioactive materials",
         "Pediatric health, medicine and therapeutics"
+      ]
+    },
+    {
+      "id": "10.64898/2026.11.16.766480",
+      "title": "Integrative structural biology of a giant marine virus reveals architectural and functional complexity beyond icosahedral symmetry",
+      "abstract": "Knowledge of giant virus diversity has expanded rapidly; however, isolated representatives remain scarce, and few have been examined at high resolution. Here, we characterized haptophyte-infecting Prymnesium kappa virus RF02 (PkV-RF02) using integrative structural biology. The ~3 [A] resolution structure obtained by block-based cryo-electron microscopy reconstruction shows a pseudoT=219 icosahedral shell built from over 20 different proteins and approximately 10,000 polypeptides, a multi-layered stabilization network reinforced by 20,000 disulphide bridges, two penton variants evenly distributed in the capsid, and a protein channel crossing the internal membrane. Cross-linking mass spectrometry defines the intricate capsid-membrane-core interaction network, which includes a second major capsid protein, a third penton variant, and multiple biochemical functions packaged within the virion. Phospho- and glycoproteomics reveal widespread post-translational modifications, with approximately 50% of proteins phosphorylated and uncommon methyl-N-acetylated viosamine glycans. This study provides a comprehensive structural and interaction map that highlights organizational and functional innovations underlying giant virus assembly.",
+      "journal": "",
+      "doi": "10.64898/2026.11.16.766480",
+      "date": "2026-11-23",
+      "authors": "Otaegi-Ugartemendia, S., Marabini, R., Herrera-Nieto, P., Condezo, G. N., Mühlberg, L., Wang, H., Snijder, J., Viner, R., Ortiz-Loo, L., San Martin, C., Sandaa, R.-A., Ortiz-Loo, L.",
+      "tags": [
+        "微生物ゲノミクス",
+        "海洋微生物"
+      ],
+      "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.16.766480v1?rss=1",
+      "abstract_source": "rss",
+      "preprint": true,
+      "topic_filter": {
+        "accepted": true,
+        "reason": "microbial_evidence",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "virus"
+        ],
+        "context": {
+          "marine": [
+            "marine"
+          ],
+          "genomics": [
+            "assembly"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "海洋微生物",
+          "微生物ゲノミクス"
+        ]
+      },
+      "discovery": [
+        {
+          "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+          "query": "RSS feed",
+          "scope": "candidate"
+        }
+      ],
+      "collection_order": 5541,
+      "collected_at": "2026-11-24T01:01:00.011480+00:00",
+      "collected_date": "2026-11-24",
+      "sources": [
+        "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+      ],
+      "first_seen": "2026-11-24",
+      "related_dois": [
+        "10.64898/2026.11.16.766480"
+      ],
+      "translation": {
+        "title": {
+          "hash": "2e355f72eb10b94f9914fd4cbeee7f042a396b81079a1f5c48dad4433386e5eb",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-24T01:30:23.961137+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "b72ba028e6eefd5190ffc14167120865a9110eaa83dab7c95e08c34dca99f503",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-24T01:30:23.961137+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "巨大海洋ウイルスの統合的構造生物学が明かす、正二十面体対称性を超えた構造的・機能的複雑性",
+      "abstract_ja": "巨大ウイルスの多様性に関する知見は急速に拡大しているが、単離された代表株は依然として少なく、高分解能で解析されたものもほとんどない。本研究では、統合的構造生物学を用いて、ハプト藻感染性のPrymnesium kappaウイルスRF02（PkV-RF02）の特性解析を行った。ブロックベースのクライオ電子顕微鏡再構成により得られた約3 [A]分解能の構造は、20種類以上の異なるタンパク質と約10,000個のポリペプチドから構築された擬似T=219正二十面体シェル、20,000本のジスルフィド架橋によって補強された多層安定化ネットワーク、カプシド内に均等に分布する2つのペントン変異体、および内膜を横断するタンパク質チャネルを示している。架橋質量分析により、第2の主要カプシドタンパク質、第3のペントン変異体、およびビリオン内にパッケージングされた複数の生化学的機能を含む、複雑なカプシド-膜コア相互作用ネットワークが明らかになった。リン酸化および糖タンパク質プロテオミクス解析により、広範な翻訳後修飾が認められ、タンパク質の約50%がリン酸化され、稀なメチル-N-アセチル化ビオサミン糖鎖が認められた。本研究は、巨大ウイルスの集合の根底にある組織化および機能的革新を浮き彫りにする、包括的な構造および相互作用マップを提供するものである。",
+      "answer_journal": null,
+      "question_type": "forecast",
+      "options": [
+        "Gut microbes reports",
+        "Translational psychiatry",
+        "Zhonghua kou qiang yi xue za zhi = Zhonghua kouqiang yixue zazhi = Chinese journal of stomatology",
+        "Translational cancer research"
+      ]
+    },
+    {
+      "id": "10.1186/s42523-026-00660-8",
+      "title": "Effects of dietary tannins and Asparagopsis taxiformis on lactation performance, metabolic status, rumen fermentation, and microbial ecology in early-lactation Holstein cows",
+      "abstract": "Dietary feed additives that modify rumen fermentation can affect microbial ecology and cow-level performance, but responses may differ by additive type and physiological stage. This study compared dietary tannins and the red macroalga Asparagopsis taxiformis (AT) in early-lactation dairy cows. Thirty multiparous Holstein cows (48 ± 5 DIM) were assigned to a 10-d adaptation period followed by a 20-d experimental period and allocated to one of three diets: control (CON), tannin-supplemented diet (TAN; 300 g/cow per day of quebracho–chestnut tannin premix), or AT-supplemented diet (ASP; 150 g/cow per day). Tannin supplementation increased milk yield, fat-corrected milk, and energy-corrected milk, and was associated with lower serum non-esterified fatty acids (NEFA), lower β-hydroxybutyrate (BHB), and greater total antioxidant capacity. In contrast, ASP did not improve milk production and was associated with the highest NEFA concentration. Total ruminal volatile fatty acid concentration did not differ among diets, but ASP increased propionate, whereas TAN increased butyrate and n-valeric acid and reduced ruminal NH₃-N. ASP showed stronger separation from CON and TAN in bacterial and archaeal communities, lower bacterial and archaeal Shannon diversity, lower abundance of Methanosphaera spp., lower protozoal diversity, and greater dominance of Entodinium spp. In contrast, tannin supplementation produced more moderate rumen ecological changes, with bacterial and archaeal communities remaining more similar to CON. These results indicate that tannin and AT supplementation generated distinct host–rumen response profiles in early-lactation dairy cows. Tannin supplementation was associated with higher milk output and more favorable energy-metabolism and antioxidant indicators. By contrast, AT produced more pronounced microbial and predicted functional shifts, but these responses were not accompanied by improved lactational performance or metabolic status. These findings support cautious evaluation of AT use in early-lactation cows when animal-performance, metabolic, fermentation, and microbial endpoints are considered together.",
+      "journal": "Animal Microbiome",
+      "doi": "10.1186/s42523-026-00660-8",
+      "date": "2026-11-23",
+      "authors": "",
+      "tags": [
+        "微生物学"
+      ],
+      "source_url": "https://link.springer.com/article/10.1186/s42523-026-00660-8",
+      "abstract_source": "rss",
+      "preprint": false,
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "archaea",
+          "archaeal",
+          "bacteria",
+          "bacterial",
+          "microbial"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [],
+          "evolution": []
+        },
+        "tags": [
+          "微生物学"
+        ]
+      },
+      "discovery": [
+        {
+          "source": "https://link.springer.com/search.rss?facet-journal-id=42523",
+          "query": "RSS feed",
+          "scope": "journal"
+        }
+      ],
+      "collection_order": 5538,
+      "collected_at": "2026-11-24T01:01:00.011480+00:00",
+      "collected_date": "2026-11-24",
+      "sources": [
+        "https://link.springer.com/search.rss?facet-journal-id=42523"
+      ],
+      "first_seen": "2026-11-24",
+      "related_dois": [
+        "10.1186/s42523-026-00660-8"
+      ],
+      "translation": {
+        "title": {
+          "hash": "8999609f3742f50c54f244618ad3e06613857e812f990eb4dc669f1624c6ab9b",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-24T01:25:04.046574+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "96bfc6db8925c673f414dfab30c3b9f14665bb0ba7f01b2d54e3b4fa91d42408",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-24T01:25:04.046574+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "泌乳初期のホルスタイン牛における飼料タンニンおよびAsparagopsis taxiformisが泌乳成績、代謝状態、ルーメン発酵および微生物生態に及ぼす影響",
+      "abstract_ja": "ルーメン発酵を変化させる飼料添加物は、微生物生態および牛レベルのパフォーマンスに影響を及ぼし得るが、その反応は添加物の種類や生理的段階によって異なる可能性がある。本研究では、泌乳初期の乳牛を対象に、飼料タンニンと紅藻類Asparagopsis taxiformis（AT）を比較した。経産回数の多いホルスタイン牛30頭（48 ± 5 DIM）を、10日間の適応期間とその後の20日間の実験期間に割り付け、3種類の飼料（対照飼料（CON）、タンニン補給飼料（TAN；ケブラチョ・チェスナットタンニンプレミックスを1頭あたり1日300g）、またはAT補給飼料（ASP；1頭あたり1日150g））のいずれかに割り当てた。タンニン補給は、乳量、脂肪補正乳量、およびエネルギー補正乳量を増加させ、血清非エステル化脂肪酸（NEFA）およびβ-ヒドロキシ酪酸（BHB）の低下、ならびに総抗酸化能の向上と関連していた。対照的に、ASPは乳量を増加させず、NEFA濃度が最も高い結果となった。総ルーメン揮発性脂肪酸濃度は飼料間で差が認められなかったが、ASPはプロピオン酸を増加させ、一方でTANは酪酸およびn-バレリン酸を増加させ、ルーメン内NH₃-Nを減少させた。ASPは、細菌群集および古細菌群集においてCONおよびTANよりも強い分離を示し、細菌および古細菌のシャノン多様性が低く、Methanosphaera属の存在量が少なく、原生動物の多様性が低く、Entodinium属の優位性が高かった。対照的に、タンニン補給によるルーメン生態学的変化はより緩やかであり、細菌群集および古細菌群集はCONに近い状態を維持した。これらの結果は、泌乳初期の乳牛において、タンニンおよびATの補給がそれぞれ異なる宿主・ルーメン反応プロファイルを惹起したことを示している。タンニン補給は、乳量の増加およびより良好なエネルギー代謝および抗酸化指標と関連していた。対照的に、ATはより顕著な微生物学的変化および予測される機能的変化をもたらしたが、これらの反応に泌乳パフォーマンスや代謝状態の改善は伴わなかった。これらの知見は、動物のパフォーマンス、代謝、発酵、および微生物学的エンドポイントを総合的に考慮した場合、泌乳初期の牛におけるATの使用を慎重に評価することを支持するものである。",
+      "answer_journal": "Animal Microbiome",
+      "question_type": "published",
+      "options": [
+        "Bioorganic chemistry",
+        "Animal Microbiome",
+        "Transplant infectious disease : an official journal of the Transplantation Society",
+        "Journal of molecular neuroscience : MN"
+      ]
+    },
+    {
+      "id": "10.64898/2026.11.20.768218",
+      "title": "Transposon-driven pervasive genome restructuring and regulatory evolution in early-diverging Holomycota",
+      "abstract": "Early-diverging non-Dikarya fungi showcase major evolutionary transitions in the fungal kingdom, share features with other eukaryotic clades and bacteria, and include pathogens of significant concern. These lineages contain some of the most reduced and expanded genome architectures of the fungal kingdom and have adopted unique DNA methylation systems. Yet, the evolutionary trajectory of early-diverging non-Dikarya fungi remains poorly understood. A key driver is thought to be transposable elements, which shape genomic plasticity, organization and regulation. Here, we perform a comprehensive comparative analysis across the Holomycota to chart drivers of early fungal evolution. We demonstrate that contrasting transposon dynamics directly shape genomic diversity across these lineages, fueling extensive protein domain expansions through widespread co-option. This heterogeneous landscape is regulated by a multi-layered epigenetic network impacting chromatin configuration, and we reveal a distinct transcriptional activation role for adenine methylation over specific transposons. Beyond driving functional innovation, mobile elements serve as a source of regulatory diversification, providing transcription factor binding sites at key chromosomal features. Furthermore, synteny tracking uncovers multiple whole-genome duplication events across Mucoromycotina, where DNA transposons preferentially accumulate at duplication breakpoints and undergo rapid inactivation. Strikingly, we also show that horizontal transposon transfers frequently cross deep evolutionary boundaries, including cross-kingdom exchanges with protists. Together, our findings illuminate key drivers of genome architecture in non-Dikarya fungi and reshape our understanding of genome dynamics across the fungal kingdom.",
+      "journal": "",
+      "doi": "10.64898/2026.11.20.768218",
+      "date": "2026-11-23",
+      "authors": "Lax, C., Tahiri, G., Croll, D.",
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ],
+      "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.20.768218v1?rss=1",
+      "abstract_source": "rss",
+      "preprint": true,
+      "topic_filter": {
+        "accepted": true,
+        "reason": "microbial_evidence",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "bacteria",
+          "fungal",
+          "fungi",
+          "protist",
+          "protists"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "DNA",
+            "evolution",
+            "genom",
+            "genome",
+            "genomic",
+            "transcript"
+          ],
+          "evolution": [
+            "evolution",
+            "evolutionary"
+          ]
+        },
+        "tags": [
+          "微生物ゲノミクス",
+          "微生物進化"
+        ]
+      },
+      "discovery": [
+        {
+          "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+          "query": "RSS feed",
+          "scope": "candidate"
+        }
+      ],
+      "collection_order": 5542,
+      "collected_at": "2026-11-24T01:01:00.011480+00:00",
+      "collected_date": "2026-11-24",
+      "sources": [
+        "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+      ],
+      "first_seen": "2026-11-24",
+      "related_dois": [
+        "10.64898/2026.11.20.768218"
+      ],
+      "translation": {
+        "title": {
+          "hash": "6fa3f17cb8584f245703017c48879bb9782809426bc6757cbf4a88625706bc66",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-24T01:30:23.961137+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "d43ce5763797ddef729b375219f2ff17527e6920f5e0acbc92aa18b88f120faa",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-24T01:30:23.961137+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "初期分岐ホロ菌類におけるトランスポゾン駆動型の広範なゲノム再構成と調節進化",
+      "abstract_ja": "初期に分岐した非二核菌類は、菌界における主要な進化的転換を示しており、他の真核生物系統や細菌と共通の特徴を持つとともに、重大な懸念対象となる病原体も含んでいる。これらの系統は、菌界において最も還元的かつ拡張されたゲノム構造の一部を有し、独自のDNAメチル化系を獲得している。しかしながら、初期に分岐した非二核菌類の進化的軌跡については、依然として十分に解明されていない。主要な駆動要因は、ゲノムの可塑性、構成、および調節を形作るトランスポゾン要素であると考えられている。本研究では、ホロマイコタ全体にわたる包括的な比較解析を行い、初期菌類進化の駆動要因を明らかにする。我々は、対照的なトランスポゾン動態がこれらの系統間のゲノム多様性を直接的に形作り、広範な共選択を通じて大規模なタンパク質ドメインの拡張を促進していることを示す。この不均一なランドスケープは、クロマチン構成に影響を与える多層的なエピジェネティックネットワークによって調節されており、特定のトランスポゾンに対するアデニンメチル化の明確な転写活性化役割を明らかにする。機能的革新を駆動するだけでなく、可動性要素は調節の多様化の源として機能し、主要な染色体部位に転写因子結合部位を提供する。さらに、シンテニー追跡により、ムコルモクソティナ類において複数の全ゲノム重複事象が検出され、そこではDNAトランスポゾンが重複切断点に優先的に蓄積し、急速に不活性化することが明らかになった。特筆すべきことに、水平方向のトランスポゾン転移が、原生生物との界を越えた交換を含む、深い進化的境界を頻繁に越えていることも示す。以上の知見を総合すると、非二核菌類におけるゲノム構造の主要な駆動要因が明らかになり、菌界全体におけるゲノム動態の理解が刷新される。",
+      "answer_journal": null,
+      "question_type": "forecast",
+      "options": [
+        "CNS neuroscience & therapeutics",
+        "Current protein & peptide science",
+        "Journal of molecular evolution",
+        "Journal of cellular and molecular medicine"
+      ]
+    },
+    {
+      "id": "10.1186/s13059-026-04327-0",
+      "title": "G2PT: a genotype–phenotype transformer to assess and explain polygenic risk",
+      "abstract": "Genome-wide association studies have linked millions of genetic variants to biomedical phenotypes, but their utility has been limited by lack of mechanistic understanding and widespread epistatic interactions. Here, we introduce the Genotype-to-Phenotype Transformer (G2PT), a framework for modeling hierarchical information flow among variants, genes, multigenic systems, and phenotypes. We train G2PT to model the genetics of metabolic traits including insulin resistance, LDL and type 2 diabetes. G2PT predicts these traits with accuracy comparable to best-in-class methods, demonstrates transferability across cohorts, and captures epistatic effects. This work positions hierarchical graph transformers as a next-generation approach to polygenic risk interpretation.",
+      "journal": "Genome Biology",
+      "doi": "10.1186/s13059-026-04327-0",
+      "date": "2026-11-23",
+      "authors": "",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://link.springer.com/article/10.1186/s13059-026-04327-0",
+      "abstract_source": "rss",
+      "preprint": false,
+      "topic_filter": {
+        "accepted": true,
+        "reason": "bioinformatics_method_or_resource",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "framework",
+          "gene"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "genom",
+            "genome"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "discovery": [
+        {
+          "source": "https://link.springer.com/search.rss?facet-journal-id=13059",
+          "query": "RSS feed",
+          "scope": "candidate"
+        }
+      ],
+      "collection_order": 5539,
+      "collected_at": "2026-11-24T01:01:00.011480+00:00",
+      "collected_date": "2026-11-24",
+      "sources": [
+        "https://link.springer.com/search.rss?facet-journal-id=13059"
+      ],
+      "first_seen": "2026-11-24",
+      "related_dois": [
+        "10.1186/s13059-026-04327-0"
+      ],
+      "translation": {
+        "title": {
+          "hash": "af4d6359e03b3c2114871832f6d980af57057c0d74823f3cda95df4383bb43ad",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-24T01:25:04.046574+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "70360a292b006244207396cb90797bcf5f7eb6653de1d3e34fc14c60148b3728",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-24T01:25:04.046574+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "G2PT: 多遺伝子リスクの評価と説明のための遺伝子型－表現型トランスフォーマー",
+      "abstract_ja": "ゲノムワイド関連解析により、数百万もの遺伝的変異が生物医学的表現型と関連付けられてきたが、その有用性はメカニズムの解明不足や広範なエピスタシス相互作用によって制限されてきた。本研究では、変異、遺伝子、多遺伝子系、および表現型間の階層的な情報フローをモデル化するためのフレームワークであるGenotype-to-Phenotype Transformer（G2PT）を提案する。我々は、インスリン抵抗性、LDLおよび2型糖尿病を含む代謝形質の遺伝学をモデル化するようにG2PTを学習させた。G2PTは、これらの形質をクラス最高水準の手法に匹敵する精度で予測し、コホート間の転移可能性を示し、エピスタシス効果を捉える。本研究は、階層的グラフトランスフォーマーを、多遺伝子リスク解釈における次世代のアプローチとして位置づけるものである。",
+      "answer_journal": "Genome Biology",
+      "question_type": "published",
+      "options": [
+        "Tropical medicine and health",
+        "Genome Biology",
+        "BMC medical imaging",
+        "BMC veterinary research"
+      ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC journals 4",
+          "query": "(JOURNAL:\"Infection and Immunity\" OR JOURNAL:\"Antimicrobial Agents and Chemotherapy\" OR JOURNAL:\"Journal of Clinical Microbiology\" OR JOURNAL:\"Microbiology Resource Announcements\" OR JOURNAL:\"Nature\" OR JOURNAL:\"Nature Microbiology\" OR JOURNAL:\"Nature Ecology & Evolution\" OR JOURNAL:\"Nature Communications\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "journal article"
+      ],
+      "id": "10.1038/s41564-026-02521-1",
+      "title": "Systemic exposure to typhoid toxin primes the murine vascular endothelium for intestinal perforation during Salmonella Typhi infection.",
+      "abstract": "Intestinal perforation is a late complication and the leading cause of death in typhoid fever, but its mechanism has remained undefined. Here, using sequential exposure to the PltC form of typhoid toxin followed by oral Salmonella Typhi infection, we develop a mouse model of late-stage human typhoid, when circulating toxin precedes the onset of intestinal pathology. Systemic exposure to the toxin renders otherwise resistant mice susceptible to oral infection and establishes a transient vascular endothelial priming state, resulting in vascular injury, haemorrhage and lethal intestinal perforation localized to Peyer's patches. These lesions were accompanied by the appearance in blood of microbiota-derived taxa, consistent with translocation across a breached small-intestinal barrier. Lethality required the SPI-1 type-III secretion system (T3SS), which drives intestinal inflammation, but not the SPI-2 T3SS, which drives systemic infection, indicating that death results from intestinal rather than disseminated infection. Although PltC-typhoid toxin causes leucopaenia, loss of circulating white cells was not sufficient for sensitization. Endothelial-specific expression of CMAH, which masks the toxin's Neu5Ac receptors, prevented priming and disease. These findings define intestinal perforation as a typhoid toxin-dependent vascular-barrier disease.",
+      "journal": "Nature Microbiology",
+      "doi": "10.1038/s41564-026-02521-1",
+      "date": "2026-10-29",
+      "authors": "Zhao H, Hua C, Hur JI, Lara-Tejero M, Galán JE.",
+      "tags": [
+        "微生物学"
+      ],
+      "source_url": "https://europepmc.org/article/MED/42957851",
+      "preprint": false,
+      "review": false,
+      "pmcid": "",
+      "pmid": "42957851",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "microbiota"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [],
+          "evolution": []
+        },
+        "tags": [
+          "微生物学"
+        ]
+      },
+      "collection_order": 5504,
+      "collected_at": "2026-11-24T00:50:26.638667+00:00",
+      "collected_date": "2026-11-24",
+      "sources": [
+        "Europe PMC journals 4"
+      ],
+      "first_seen": "2026-11-24",
+      "related_dois": [
+        "10.1038/s41564-026-02521-1"
+      ],
+      "translation": {
+        "title": {
+          "hash": "41061d2bee4d0299564a8b46c58af1e81eea2d9df6b83fc1f67a2d1ca6983391",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-24T01:27:59.324027+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "7d2205e4b972a0e4381735eb360cb7ea5895f25387cc987c0f7630f6f0c17438",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-24T01:27:59.324027+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "腸チフス毒素への全身曝露は、サルモネラ属菌（Salmonella Typhi）感染時にマウスの血管内皮を腸管穿孔へと素因化する。",
+      "abstract_ja": "腸管穿孔は腸チフスにおける晩期合併症であり、主要な死因であるが、その機序は未解明のままである。本研究では、腸チフス毒素のPltC型への逐次曝露と、それに続くサルモネラ菌（Salmonella Typhi）の経口感染を用いることで、循環毒素が腸管病理の発症に先行するヒト腸チフス晩期型のマウスモデルを構築した。毒素への全身曝露により、本来耐性を持つマウスが経口感染に対して感受性となり、一過性の血管内皮プライミング状態が確立され、その結果、血管損傷、出血、およびパイエル板に局在する致死的な腸管穿孔が引き起こされた。これらの病変には、破断した小腸バリアを介した移行と一致する、微生物叢由来の分類群の血中への出現が伴っていた。致死には腸管炎症を惹起するSPI-1型III分泌システム（T3SS）が必要であったが、全身感染を惹起するSPI-2型T3SSは不要であった。このことは、死亡が播種性感染ではなく腸管感染に起因することを示している。PltC型腸チフス毒素は白血球減少を引き起こすが、循環白血球の喪失だけでは感作には不十分であった。毒素のNeu5Ac受容体を遮蔽するCMAHの内皮特異的発現は、プライミングおよび疾患の発症を阻止した。これらの知見は、腸管穿孔を腸チフス毒素依存性の血管バリア疾患として定義するものである。",
+      "answer_journal": "Nature Microbiology",
+      "question_type": "published",
+      "options": [
+        "Bioinformatics Advances",
+        "Nature Microbiology",
+        "Journal of theoretical biology",
+        "Journal of aquatic animal health"
+      ]
+    },
+    {
+      "id": "10.3389/fmicb.2026.2023654",
+      "title": "Immune checkpoint modulation beyond cancer: a conceptual framework for small-molecule host-directed antiviral therapy",
+      "abstract": "Immune checkpoints are important regulators of antiviral immunity, but their roles in viral infections are more complex than the conventional model of immune inhibition. Although sustained checkpoint signaling can impair antiviral T-cell function and contribute to viral persistence, it can also limit immune-mediated tissue damage. This dual role presents a major challenge for therapeutic intervention, as indiscriminate checkpoint inhibition may improve viral control at the expense of increased immunopathology. In this review, we examine how viral infections reshape immune checkpoint networks through antiviral signaling, protein homeostasis, cellular metabolism, and tissue-specific immune regulation. We discuss the implications of these mechanisms for chronic viral infections, including human immunodeficiency virus and hepatitis B and C viruses, as well as acute respiratory infections caused by influenza A virus, severe acute respiratory syndrome coronavirus 2, and respiratory syncytial virus. Particular attention is given to small-molecule checkpoint modulators and their potential to regulate protein interactions, stability, localization, and signaling beyond conventional receptor–ligand blockade. We distinguish the pharmacological evidence supporting these compounds, which is derived primarily from oncology-related research, from the much more limited evidence of their direct antiviral activity. However, direct evidence that these compounds can achieve effective checkpoint modulation while improving viral control and limiting tissue injury remains limited. We therefore discuss the need for rigorous target validation and a more precise approach to patient selection and treatment design. Integrating viral burden, antiviral T-cell function, checkpoint activity, and inflammatory status may help identify patients most likely to benefit from intervention and guide treatment timing, intensity, and discontinuation. Combining checkpoint modulation with direct-acting antivirals or other host-directed therapies may offer additional benefits if viral suppression and immune restoration can be appropriately balanced. A shift from sustained checkpoint blockade toward context-dependent immune modulation may provide a basis for developing more precise host-directed antiviral strategies.",
+      "journal": "Frontiers in Microbiology",
+      "doi": "10.3389/fmicb.2026.2023654",
+      "date": "2026-11-23",
+      "authors": "Xianfeng Hui",
+      "tags": [
+        "微生物学"
+      ],
+      "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.2023654",
+      "abstract_source": "rss",
+      "preprint": false,
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "viral",
+          "virus",
+          "viruses"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [],
+          "evolution": []
+        },
+        "tags": [
+          "微生物学"
+        ]
+      },
+      "discovery": [
+        {
+          "source": "https://www.frontiersin.org/journals/microbiology/rss",
+          "query": "RSS feed",
+          "scope": "journal"
+        }
+      ],
+      "collection_order": 5536,
+      "collected_at": "2026-11-24T01:01:00.011480+00:00",
+      "collected_date": "2026-11-24",
+      "sources": [
+        "https://www.frontiersin.org/journals/microbiology/rss"
+      ],
+      "first_seen": "2026-11-24",
+      "related_dois": [
+        "10.3389/fmicb.2026.2023654"
+      ],
+      "translation": {
+        "title": {
+          "hash": "0c9fc232a3f41b87ae4824fef33ef078c40cb6eb7c0e46d7e24a6524cd728a9e",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-24T01:25:04.046574+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "a4416ce1b864e1b8194f1431f29f317b45025393ee4d01a57dac0d5864060315",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-24T01:25:04.046574+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "がんを超えた免疫チェックポイント調節：低分子ホスト指向性抗ウイルス療法の概念的枠組み",
+      "abstract_ja": "免疫チェックポイントは抗ウイルス免疫の重要な調節因子であるが、ウイルス感染におけるその役割は、従来の免疫抑制モデルよりも複雑である。持続的なチェックポイントシグナル伝達は、抗ウイルスT細胞機能を損ないウイルスの持続に寄与する一方で、免疫介在性の組織損傷を制限することもある。この二面的な役割は、無差別なチェックポイント阻害が免疫病理の増悪と引き換えにウイルス制御を改善する可能性があるため、治療介入における大きな課題となっている。本総説では、抗ウイルスシグナル伝達、タンパク質恒常性、細胞代謝、および組織特異的な免疫調節を通じて、ウイルス感染が免疫チェックポイントネットワークをどのように再構築するかを検討する。ヒト免疫不全ウイルスやB型・C型肝炎ウイルスを含む慢性ウイルス感染症、ならびにA型インフルエンザウイルス、重症急性呼吸器症候群コロナウイルス2、および呼吸器合胞体ウイルスによる急性呼吸器感染症に対するこれらの機序の意義について論じる。特に、低分子チェックポイント調節薬と、従来の受容体－リガンド遮断を超えてタンパク質相互作用、安定性、局在、およびシグナル伝達を調節する可能性に着目する。主に腫瘍学関連の研究から得られたこれらの化合物を支持する薬理学的根拠を、直接的な抗ウイルス活性に関するはるかに限定的な根拠と区別する。しかしながら、これらの化合物がウイルス制御を改善し組織損傷を制限しつつ、効果的なチェックポイント調節を実現できるという直接的な証拠は依然として限られている。したがって、厳格な標的検証と、より精密な患者選択および治療設計へのアプローチの必要性について論じる。ウイルス量、抗ウイルスT細胞機能、チェックポイント活性、および炎症状態を統合することで、介入から利益を得る可能性が最も高い患者を特定し、治療のタイミング、強度、および中止の指針とすることができる可能性がある。ウイルス抑制と免疫回復を適切にバランスさせることができれば、チェックポイント調節を直接作用型抗ウイルス薬やその他の宿主指向性療法と組み合わせることで、さらなる利点が得られる可能性がある。持続的なチェックポイント遮断からコンテキスト依存的な免疫調節への移行は、より精密な宿主指向性抗ウイルス戦略を開発するための基盤となり得る。",
+      "answer_journal": "Frontiers in Microbiology",
+      "question_type": "published",
+      "options": [
+        "Current microbiology",
+        "Naunyn-Schmiedeberg's archives of pharmacology",
+        "Journal of integrative plant biology",
+        "Frontiers in Microbiology"
+      ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC journals 4",
+          "query": "(JOURNAL:\"Infection and Immunity\" OR JOURNAL:\"Antimicrobial Agents and Chemotherapy\" OR JOURNAL:\"Journal of Clinical Microbiology\" OR JOURNAL:\"Microbiology Resource Announcements\" OR JOURNAL:\"Nature\" OR JOURNAL:\"Nature Microbiology\" OR JOURNAL:\"Nature Ecology & Evolution\" OR JOURNAL:\"Nature Communications\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "journal article"
+      ],
+      "id": "10.1038/s41564-026-02526-w",
+      "title": "Lack of ancestral SARS-CoV-2 imprinting promotes Omicron sublineage BA.3.2.2 infection in children.",
+      "abstract": "The ongoing SARS-CoV-2 evolution is constrained by population-level immune imprinting. Recent genomic surveillance revealed an unexpected demographic shift with the Omicron sublineage BA.3.2.2 being predominant in paediatric populations globally. Here we show that this paediatric susceptibility arises from the absence of immune imprinting against ancestral SARS-CoV-2 Wuhan strain. Serological analyses reveal a failure to neutralize BA.3.2.2 in young children with no ancestral strain exposure. Single-B-cell sequencing analyses demonstrate that BA.3.2.2 evades Omicron-specific Class 1/4 neutralizing antibodies that target the ACE2-binding site, encoded by immunoglobulin heavy-chain variable (IGHV) germline genes IGHV2-5 and IGHV5-51, which dominate in weakly imprinted individuals. BA.3.2.2 remains susceptible to broadly cross-reactive Class 1 antibodies, encoded by IGHV3-53/66, typically enriched in adults with strong Wuhan-strain imprinting, such as mRNA vaccine recipients. Together, these findings show that classic immune imprinting provides superior protection against a highly divergent variant, explaining the age-biased transmission of BA.3.2.2, and informing future paediatric vaccination strategies.",
+      "journal": "Nature Microbiology",
+      "doi": "10.1038/s41564-026-02526-w",
+      "date": "2026-10-26",
+      "authors": "Niu X, Xiong D, He P, Yu L, Li Y, Cai X, An R, Wang Y, Kong R, Yu Y, Wang J, Wang Q, Huang J, Zhang B, Zhu T, Zhao T, Huang J, Jian F, Shao F, Huang Z, Chen X, Shen Z, Jin R, Xie Z, Chen X, Tan X, Cao Y.",
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ],
+      "source_url": "https://europepmc.org/article/MED/42934357",
+      "preprint": false,
+      "review": false,
+      "pmcid": "",
+      "pmid": "42934357",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "evolution",
+            "genom",
+            "genomic"
+          ],
+          "evolution": [
+            "evolution"
+          ]
+        },
+        "tags": [
+          "微生物ゲノミクス",
+          "微生物進化"
+        ]
+      },
+      "collection_order": 5510,
+      "collected_at": "2026-11-24T00:50:26.638667+00:00",
+      "collected_date": "2026-11-24",
+      "sources": [
+        "Europe PMC journals 4"
+      ],
+      "first_seen": "2026-11-24",
+      "related_dois": [
+        "10.1038/s41564-026-02526-w"
+      ],
+      "translation": {
+        "title": {
+          "hash": "2f13cd1984822264fe26a7e78ecf15bf8c58dfb367a118a7061156b573d0c574",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-24T01:27:59.324027+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "a23dffa29d65e0ce8a4a9b0553212edd4b02d9d5081e4233a633741a9f566948",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-24T01:27:59.324027+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "祖先株におけるSARS-CoV-2インプリンティングの欠如が、小児におけるオミクロン亜系統BA.3.2.2感染を促進する。",
+      "abstract_ja": "SARS-CoV-2の継続的な進化は、集団レベルの免疫インプリンティングによって制約を受けている。近年のゲノムサーベイランスにより、世界的な小児集団においてオミクロン亜系統BA.3.2.2が優勢となるという予期せぬ人口動態の変化が明らかになった。本研究では、この小児における感受性が、祖先株であるSARS-CoV-2武漢株に対する免疫インプリンティングの欠如に起因することを示す。血清学的解析により、祖先株への曝露歴のない幼児において、BA.3.2.2を中和できないことが明らかになった。単一B細胞シーケンシング解析により、BA.3.2.2が、弱インプリンティング個体で優位な免疫グロブリン重鎖可変（IGHV）生殖細胞系遺伝子IGHV2-5およびIGHV5-51によってコードされるACE2結合部位を標的とするオミクロン株特異的なクラス1/4中和抗体を回避することが示された。BA.3.2.2は、通常、mRNAワクチン接種者など武漢株のインプリンティングが強い成人に豊富に存在する、IGHV3-53/66によってコードされる広範な交差反応性クラス1抗体に対して依然として感受性を示す。以上の知見を総合すると、古典的な免疫インプリンティングが高度に分岐した変異株に対して優れた防御能を提供することが示され、BA.3.2.2の年齢偏向的な伝播の説明となるとともに、今後の小児ワクチン接種戦略に示唆を与えるものである。",
+      "answer_journal": "Nature Microbiology",
+      "question_type": "published",
+      "options": [
+        "Molecular medicine reports",
+        "Nature Microbiology",
+        "Progress in neuro-psychopharmacology & biological psychiatry",
+        "Viruses"
+      ]
+    },
+    {
+      "id": "10.1093/femsmc/xtag056",
+      "title": "Longitudinal analysis of vaccine-associated alterations in the faecal microbiota of layer chickens using a vaccination schedule representative of commercial practice",
+      "abstract": "AbstractThe gut microbiota is crucial for immune development and overall health in chickens. In commercial production, birds routinely receive multiple vaccines during early life. While individual vaccines are known to affect microbial composition, the impact of complex, multi-vaccine programs, as used in the poultry industry, is not well understood. This pilot longitudinal study examined the impact of multiple live and inactivated vaccines, given at commercially relevant times from an early age, on gut microbial diversity and composition in layer chickens. We characterized microbiota profiles using 16S rRNA gene sequencing at pre- and post-vaccination timepoints across different vaccine groups. Overall, microbial diversity remained stable across most vaccines, indicating strong resilience of the gut microbiota to repeated immunological interventions. Differential abundance analyses didn’t identify significant changes in taxa following vaccination. The gut microbial community also showed stability after the completion of the vaccination schedule. These preliminary findings underscore the robustness of the chicken gut ecosystem and lay a foundation for future research into microbiome-vaccine interactions and their implications for poultry health, immunity, and production efficiency.",
+      "journal": "FEMS Microbes",
+      "doi": "10.1093/femsmc/xtag056",
+      "date": "2026-11-23",
+      "authors": "",
+      "tags": [
+        "微生物学"
+      ],
+      "source_url": "https://academic.oup.com/femsmicrobes/article/doi/10.1093/femsmc/xtag056/9116426?rss=1",
+      "abstract_source": "rss",
+      "preprint": false,
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "16s rrna",
+          "microbial",
+          "microbiome",
+          "microbiota"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [],
+          "evolution": []
+        },
+        "tags": [
+          "微生物学"
+        ]
+      },
+      "discovery": [
+        {
+          "source": "https://academic.oup.com/rss/site_6274/4057.xml",
+          "query": "RSS feed",
+          "scope": "journal"
+        }
+      ],
+      "collection_order": 5543,
+      "collected_at": "2026-11-24T01:01:00.011480+00:00",
+      "collected_date": "2026-11-24",
+      "sources": [
+        "https://academic.oup.com/rss/site_6274/4057.xml"
+      ],
+      "first_seen": "2026-11-24",
+      "related_dois": [
+        "10.1093/femsmc/xtag056"
+      ],
+      "translation": {
+        "title": {
+          "hash": "d6650f1e11410b815c5343f5732e35ddd07c6b776dd85c82403b68594fe5a29d",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-24T01:22:14.258431+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "854f42ac3f5be01c023ddc7e026fb7f84aba218834689094354bcd53c0a4e0a3",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-24T01:22:14.258431+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "商業慣行を代表するワクチン接種スケジュールを用いた採卵鶏の糞便微生物叢におけるワクチン関連変化の縦断的解析",
+      "abstract_ja": "要旨 腸内細菌叢は、鶏の免疫発達および全身の健康において極めて重要である。商業生産においては、鶏は生後早期に複数のワクチンを日常的に接種される。個々のワクチンが微生物組成に影響を及ぼすことは知られているが、家禽産業で採用されているような複合的な多ワクチンプログラムの影響については、十分に解明されていない。本パイロット縦断研究では、若齢期から商業的に適切な時期に投与された複数の生ワクチンおよび不活化ワクチンが、採卵鶏の腸内微生物の多様性と組成に及ぼす影響を検討した。異なるワクチン群において、ワクチン接種前後の時点における16S rRNA遺伝子シーケンシングを用いて、微生物叢プロファイルを解析した。全体として、ほとんどのワクチンにおいて微生物多様性は安定しており、反復的な免疫学的介入に対する腸内細菌叢の高い耐性が示された。差次的存在量解析では、ワクチン接種後の分類群における有意な変化は認められなかった。また、腸内微生物群集はワクチン接種スケジュールの完了後においても安定性を示した。これらの予備的な知見は、鶏の腸管生態系の頑健性を裏付けるものであり、マイクロバイオームとワクチンの相互作用、およびそれが家禽の健康、免疫、生産効率に及ぼす影響に関する今後の研究の基盤となるものである。",
+      "answer_journal": "FEMS Microbes",
+      "question_type": "published",
+      "options": [
+        "Cancer cell",
+        "FEMS Microbes",
+        "Breast cancer (Tokyo, Japan)",
+        "Acta crystallographica. Section F, Structural biology communications"
+      ]
+    },
+    {
+      "id": "10.1186/s42523-026-00661-7",
+      "title": "Pichia kudriavzevii supplementation alters rumen microbiome and enhances milk performance in heat-stressed dairy buffaloes",
+      "abstract": "Yeast is widely used as a probiotic feed additive in ruminant nutrition. However, its effects on rumen function and milk performance in heat-stressed buffaloes remain poorly understood. To address this, we investigated the physiological and microbial responses to Pichia kudriavzevii Y8 supplementation. Twenty-seven dairy buffaloes under heat stress were randomly assigned to three groups: a control group (CON, basal diet), a low-dose supplementation group (LPK, basal diet + 2 × 1011 CFU/head/day), and a high-dose supplementation group (HPK, basal diet + 4 × 1011 CFU/head/day). Throughout the experimental period, all animals were exposed to heat stress, with the Buffalo Comfort Climatic Conditions Index consistently exceeding 34.65. The results showed that Y8 supplementation significantly lowered rectal temperature and respiratory rate, while increasing dry matter intake and the apparent digestibility of dry matter, crude protein, neutral detergent fiber, and acid detergent fiber. It simultaneously enhanced the yields of milk fat, protein, and lactose, whereas the milk yield was unchanged. Serum indicators analysis revealed elevated total protein and urea nitrogen concentrations, along with reduced triglyceride concentration in Y8 supplemented groups. Rumen fermentation parameters showed increased concentrations of acetate, propionate, and total volatile fatty acids in Y8 supplemented groups. Amplicon sequencing (16S, 18S, and ITS) revealed that Y8 altered bacterial beta-diversity and increased the relative abundance of Prevotella. Metagenomic analysis further showed that the abundance of genes involved in pyruvate metabolism (pycA, pta, and aceE), branched-chain amino acid degradation (tyrB and sad), lactate utilization (lldD), and succinate synthesis (PCCA, MCEE, and acnB) were enriched, whereas genes associated with the propionate synthesis pathway (porABD) were decreased in Y8 supplemented group. Collectively, Y8 supplementation improved milk performance in dairy buffaloes by modulating rumen microbial composition and metabolic functions, and serves as a potential candidate for dietary intervention under heat stress.",
+      "journal": "Animal Microbiome",
+      "doi": "10.1186/s42523-026-00661-7",
+      "date": "2026-11-23",
+      "authors": "",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://link.springer.com/article/10.1186/s42523-026-00661-7",
+      "abstract_source": "rss",
+      "preprint": false,
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "bacteria",
+          "bacterial",
+          "metagenom",
+          "metagenomic",
+          "microbial",
+          "microbiome",
+          "yeast"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "metagenom",
+            "metagenomic"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "discovery": [
+        {
+          "source": "https://link.springer.com/search.rss?facet-journal-id=42523",
+          "query": "RSS feed",
+          "scope": "journal"
+        }
+      ],
+      "collection_order": 5537,
+      "collected_at": "2026-11-24T01:01:00.011480+00:00",
+      "collected_date": "2026-11-24",
+      "sources": [
+        "https://link.springer.com/search.rss?facet-journal-id=42523"
+      ],
+      "first_seen": "2026-11-24",
+      "related_dois": [
+        "10.1186/s42523-026-00661-7"
+      ],
+      "translation": {
+        "title": {
+          "hash": "1b195fb922a3aff9ca2c6e925fb8fb6a45c8ad08e02db0e4ee645309cbcdcefb",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-24T01:22:14.258431+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "041968c0ab382c277357593c8b6d677253e9a91e1b7554e23b4b4d3c9525e48b",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-24T01:22:14.258431+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "Pichia kudriavzeviiの補給は、暑熱ストレスを受けた乳用水牛のルーメン微生物叢を変化させ、乳性能を向上させる。",
+      "abstract_ja": "酵母は、反芻動物の栄養管理においてプロバイオティクス飼料添加物として広く利用されている。しかし、暑熱ストレス下にある水牛のルーメン機能および乳性能に及ぼす影響については、依然として十分に解明されていない。この課題に対処するため、本研究ではPichia kudriavzevii Y8添加に対する生理学的および微生物学的反応を検討した。暑熱ストレス下にある乳用水牛27頭を、対照群（CON、基本飼料）、低用量添加群（LPK、基本飼料 + 2 × 10¹¹ CFU/頭/日）、および高用量添加群（HPK、基本飼料 + 4 × 10¹¹ CFU/頭/日）の3群に無作為に割り付けた。実験期間中、すべての個体に暑熱ストレスを負荷し、Buffalo Comfort Climatic Conditions Indexは一貫して34.65を超えた。その結果、Y8添加により直腸温と呼吸数が有意に低下し、一方で乾物摂取量ならびに乾物、粗タンパク質、中性界面活性剤繊維、および酸性界面活性剤繊維の見かけの消化率が増加した。同時に、乳脂肪、タンパク質、および乳糖の収量が増加したが、乳量は変化しなかった。血清指標の解析により、Y8添加群では総タンパク質および尿素窒素濃度の上昇とともに、トリグリセリド濃度の低下が認められた。ルーメン発酵パラメータでは、Y8添加群において酢酸、プロピオン酸、および総揮発性脂肪酸の濃度上昇が認められた。アンプリコンシーケンシング（16S、18S、およびITS）により、Y8が細菌のβ多様性を変化させ、Prevotellaの相対存在量を増加させることが明らかになった。メタゲノム解析では、ピルビン酸代謝（pycA、pta、およびaceE）、分岐鎖アミノ酸分解（tyrBおよびsad）、乳酸利用（lldD）、およびコハク酸合成（PCCA、MCEE、およびacnB）に関与する遺伝子の存在量が増加した一方、プロピオン酸合成経路に関連する遺伝子（porABD）はY8添加群で減少していた。総じて、Y8添加はルーメン微生物組成および代謝機能を調節することで乳用水牛の乳性能を向上させ、暑熱ストレス下における飼料介入の潜在的な候補となり得る。",
+      "answer_journal": "Animal Microbiome",
+      "question_type": "published",
+      "options": [
+        "Animal Microbiome",
+        "Access microbiology",
+        "Veterinary immunology and immunopathology",
+        "Genome Biology and Evolution"
+      ]
+    },
+    {
+      "id": "10.1093/bioinformatics/btag853",
+      "title": "BioBatchNet: A Dual-Encoder Framework for Robust Batch Effect Correction in Imaging Mass Cytometry",
+      "abstract": "AbstractMotivationImaging Mass Cytometry (IMC) is a cutting-edge technology for analysing spatially resolved protein expression at the single-cell level. However, its downstream analyses are often hindered by batch effects, which introduce systematic biases and obscure biological variations. Existing correction methods, largely developed for scRNA-seq data, face challenges in adapting to IMC data due to differences in data characteristics. Moreover, these methods struggle to achieve precise control, leading to either over-correction by removing critical biological information, or under-correction by leaving residual batch effects. Furthermore, IMC data often feature overlapping cell populations, complicating clustering and downstream analysis. These challenges underscore the need for a robust and controllable batch effect correction approach tailored to IMC data.ResultsWe present BioBatchNet, a dual-encoder framework utilising adversarial training to explicitly disentangle batch-specific and biological signals. BioBatchNet enables controllable batch effect correction, balancing correction with preservation of biological variation. We evaluated BioBatchNet on three IMC datasets, where it outperformed seven benchmarking methods with robustness in both correction and biological signal conservation. Additionally, we developed a Constrained-Pairwise-Clustering (CPC) method, which employs constrained pairs to improve clustering performance, even in datasets with overlapping cell populations. To validate its generalisability, we adapted BioBatchNet for scRNA-seq datasets by altering the data likelihood from Gaussian to Zero-Inflated Negative Binomial distribution. This adapted version achieved competitive performance across four scRNA-seq datasets, obtaining the highest overall score on three of them. These results demonstrate BioBatchNet’s generalisability and robustness in correcting batch effects across diverse single-cell datasets and underscore its potential for large-scale biological analyses.Availability and ImplementationThe source code is available at https://github.com/UoM-HealthAI/BioBatchNet, with an archived snapshot on Zenodo (DOI: https://doi.org/10.5281/zenodo.18783840).",
+      "journal": "Bioinformatics",
+      "doi": "10.1093/bioinformatics/btag853",
+      "date": "2026-11-23",
+      "authors": "",
+      "tags": [
+        "微生物学"
+      ],
+      "source_url": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag853/9116086?rss=1",
+      "abstract_source": "rss",
+      "preprint": false,
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [],
+        "context": {
+          "marine": [],
+          "genomics": [],
+          "evolution": []
+        },
+        "tags": [
+          "微生物学"
+        ]
+      },
+      "discovery": [
+        {
+          "source": "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml",
+          "query": "RSS feed",
+          "scope": "journal"
+        }
+      ],
+      "collection_order": 5535,
+      "collected_at": "2026-11-24T01:01:00.011480+00:00",
+      "collected_date": "2026-11-24",
+      "sources": [
+        "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"
+      ],
+      "first_seen": "2026-11-24",
+      "related_dois": [
+        "10.1093/bioinformatics/btag853"
+      ],
+      "translation": {
+        "title": {
+          "hash": "1eb67e3dec308d12ad37e8fd9b78f4e9d158d945dc9d5a171a9f293ca2201e5d",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-24T01:25:04.046574+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "4a36ce90b21366d219e3e1882f350783e3023d16e75c5eb6bc3f20d103391256",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-24T01:25:04.046574+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "BioBatchNet: イメージング質量サイトメトリーにおける頑健なバッチ効果補正のためのデュアルエンコーダフレームワーク",
+      "abstract_ja": "要旨動機イメージング質量サイトメトリー（IMC）は、単一細胞レベルで空間分解能を有するタンパク質発現を解析するための最先端技術である。しかし、その下流解析は、系統的なバイアスを導入し生物学的変動を不明瞭にするバッチ効果によって妨げられることが多い。主にscRNA-seqデータ向けに開発された既存の補正手法は、データ特性の違いにより、IMCデータへの適応に課題を抱えている。さらに、これらの手法は精密な制御を実現することが困難であり、重要な生物学的情報を除去する過剰補正、あるいは残存するバッチ効果を放置する過小補正のいずれかを招く。また、IMCデータでは細胞集団が重複していることが多く、クラスタリングや下流解析を複雑にする。これらの課題は、IMCデータに特化した、堅牢かつ制御可能なバッチ効果補正手法の必要性を浮き彫りにしている。結果我々は、敵対的学習を用いてバッチ固有のシグナルと生物学的シグナルを明示的に分離するデュアルエンコーダフレームワーク「BioBatchNet」を提案する。BioBatchNetは、補正と生物学的変動の保存のバランスを取りながら、制御可能なバッチ効果補正を実現する。3つのIMCデータセットを用いてBioBatchNetを評価したところ、補正と生物学的シグナルの保存の両面において堅牢性を示し、7つのベンチマーク手法を上回る性能を達成した。さらに、細胞集団が重複するデータセットにおいてもクラスタリング性能を向上させるため、制約付きペアを用いる制約付きペアワイズクラスタリング（Constrained-Pairwise-Clustering: CPC）手法を開発した。その一般化可能性を検証するため、データの尤度をガウス分布からゼロインフレート負二項分布に変更することで、BioBatchNetをscRNA-seqデータセットに適応させた。この適応版は4つのscRNA-seqデータセットにおいて競争力のある性能を示し、そのうち3つのデータセットで最高の総合スコアを獲得した。これらの結果は、多様な単一細胞データセットにおけるバッチ効果補正におけるBioBatchNetの一般化可能性と堅牢性を実証するものであり、大規模な生物学的解析への可能性を示唆している。利用可能性と実装ソースコードは https://github.com/UoM-HealthAI/BioBatchNet で公開されており、Zenodoにアーカイブ済みのスナップショット（DOI: https://doi.org/10.5281/zenodo.18783840）も提供されている。",
+      "answer_journal": "Bioinformatics",
+      "question_type": "published",
+      "options": [
+        "Psycho-oncology",
+        "Experimental & applied acarology",
+        "Physiological genomics",
+        "Bioinformatics"
+      ]
+    },
+    {
+      "id": "10.1093/bioinformatics/btag854",
+      "title": "GSP: a multi-scale metric for evaluation of 3D RNA structure predictions",
+      "abstract": "AbstractMotivationAccurate prediction of RNA 3D structures remains a central challenge in structural bioinformatics, necessitating reliable measures to quantify similarity between predicted models and experimentally determined reference structures. Currently, many scoring functions are available to assess different aspects of the tertiary structures of biomolecules. On the one hand, global measures average local irregularities, so that structures with distortions in different regions might generally be considered structurally similar. On the other hand, local conformational measures focus on specific inter-residue interactions and often fail to capture the broader topological context. Thus, there is a lack of methods capable of comprehensively assessing structural discrepancies across various spatial scales.ResultsTo address this gap, we introduce Geometric Spherical Precision (GSP), a novel multi-scale score that assesses the quality of 3D RNA and RNP complex predictions. It integrates multiple partial scores computed from local geometric agreements into a single, easy-to-read, normalized score for ranking these predictions. We demonstrate that GSP reliably identifies models with comparable overall deviations, while maintaining strong agreement with global measures. These properties make it a useful tool for benchmarking and comparing 3D RNA structures and RNP complexes.Availability and ImplementationThe GSP script and evaluation results against state-of-the-art measures on the RNA-Puzzles and CASP15 datasets are available at https://doi.org/10.5281/zenodo.19608328.Supplementary informationSupplementary data are available at Bioinformatics online.",
+      "journal": "Bioinformatics",
+      "doi": "10.1093/bioinformatics/btag854",
+      "date": "2026-11-23",
+      "authors": "",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag854/9116087?rss=1",
+      "abstract_source": "rss",
+      "preprint": false,
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "RNA",
+          "method",
+          "prediction"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "RNA",
+            "method",
+            "prediction"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "discovery": [
+        {
+          "source": "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml",
+          "query": "RSS feed",
+          "scope": "journal"
+        }
+      ],
+      "collection_order": 5534,
+      "collected_at": "2026-11-24T01:01:00.011480+00:00",
+      "collected_date": "2026-11-24",
+      "sources": [
+        "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"
+      ],
+      "first_seen": "2026-11-24",
+      "related_dois": [
+        "10.1093/bioinformatics/btag854"
+      ],
+      "translation": {
+        "title": {
+          "hash": "eddabf9ed0057fa2ee2439ac6dd3bdbbd931e474f98b48098e1edf49a5fc701f",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-24T01:22:14.258431+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "ac810df4afcc56b2c07185515065a3f8a2cdf6648863bb1a543104f2b76e513b",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-24T01:22:14.258431+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "GSP: 3次元RNA構造予測評価のためのマルチスケール指標",
+      "abstract_ja": "要旨動機RNA 3D構造の高精度な予測は、構造バイオインフォマティクスにおける中心的な課題であり続けており、予測モデルと実験的に決定された参照構造との類似性を定量化するための信頼性の高い指標が必要とされている。現在、生体分子の三次構造のさまざまな側面を評価するためのスコアリング関数が数多く提供されている。一方で、大域的な指標は局所的な不規則性を平均化するため、異なる領域に歪みを持つ構造であっても、一般的に構造的に類似しているとみなされがちである。他方で、局所的なコンフォメーション指標は特定の残基間相互作用に焦点を当てており、より広範なトポロジカルな文脈を捉えきれないことが多い。したがって、さまざまな空間スケールにわたる構造的乖離を包括的に評価できる手法が不足している。結果このギャップを埋めるため、我々は3D RNAおよびRNP複合体予測の品質を評価する新たなマルチスケールスコアであるGeometric Spherical Precision (GSP) を提案する。本スコアは、局所的な幾何学的一致から算出された複数の部分的スコアを、単一の読み取りやすく正規化されたスコアに統合し、これらの予測をランク付けする。我々は、GSPが大域的な指標との強い一致を維持しつつ、全体的な偏差が同程度のモデルを確実に識別できることを実証する。これらの特性により、本スコアは3D RNA構造およびRNP複合体のベンチマークおよび比較のための有用なツールとなる。利用可能性と実装GSPスクリプトおよび、RNA-PuzzlesおよびCASP15データセットにおける最先端の指標との比較評価結果は、https://doi.org/10.5281/zenodo.19608328 で公開されている。補足情報補足データはBioinformatics onlineで入手可能である。",
+      "answer_journal": "Bioinformatics",
+      "question_type": "published",
+      "options": [
+        "Bioinformatics",
+        "Methods in enzymology",
+        "Journal of molecular recognition : JMR",
+        "Journal of global health"
+      ]
+    },
+    {
+      "id": "10.1038/s41522-026-01193-3",
+      "title": "Aspergillus neoalliaceus suppresses Saposhnikovia divaricata root rot through functional reprogramming of the rhizosphere microbiome",
+      "abstract": "Aspergillus neoalliaceus suppresses Saposhnikovia divaricata root rot through functional reprogramming of the rhizosphere microbiome",
+      "journal": "npj Biofilms and Microbiomes",
+      "doi": "10.1038/s41522-026-01193-3",
+      "date": "2026-11-23",
+      "authors": "Zhongming Han",
+      "tags": [
+        "微生物学"
+      ],
+      "source_url": "https://www.nature.com/articles/s41522-026-01193-3",
+      "abstract_source": "rss",
+      "preprint": false,
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "Aspergillus",
+          "microbiome"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [],
+          "evolution": []
+        },
+        "tags": [
+          "微生物学"
+        ]
+      },
+      "discovery": [
+        {
+          "source": "https://www.nature.com/npjbiofilms.rss",
+          "query": "RSS feed",
+          "scope": "journal"
+        }
+      ],
+      "collection_order": 5544,
+      "collected_at": "2026-11-24T01:01:00.011480+00:00",
+      "collected_date": "2026-11-24",
+      "sources": [
+        "https://www.nature.com/npjbiofilms.rss"
+      ],
+      "first_seen": "2026-11-24",
+      "related_dois": [
+        "10.1038/s41522-026-01193-3"
+      ],
+      "translation": {
+        "title": {
+          "hash": "0b99a2fea06a77e18b4c380eb2a01982d500758ee31bd0a3fa4bdba0bd3ff423",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-24T01:27:59.324027+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "0b99a2fea06a77e18b4c380eb2a01982d500758ee31bd0a3fa4bdba0bd3ff423",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-24T01:27:59.324027+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "Aspergillus neoalliaceusは、根圏微生物叢の機能的リプログラミングを介してSaposhnikovia divaricataの根腐れを抑制する。",
+      "abstract_ja": "Aspergillus neoalliaceusは、根圏微生物叢の機能的リプログラミングを介してSaposhnikovia divaricataの根腐れを抑制する。",
+      "answer_journal": "npj Biofilms and Microbiomes",
+      "question_type": "published",
+      "options": [
+        "Advanced healthcare materials",
+        "Journal of leukocyte biology",
+        "PLoS medicine",
+        "npj Biofilms and Microbiomes"
+      ]
+    },
+    {
+      "id": "10.64898/2026.11.21.768310",
+      "title": "Oral microbiome and DNA virome profiling in pigs reveals age-associated dynamics and extracellular recovery of Streptococcus suis-associated phage lineages",
+      "abstract": "The pig oral cavity is a critical interface for microbial transmission and herd health monitoring, yet its microbiome and virome remains poorly characterised. We performed shotgun metagenomic sequencing of oral fluids from pigs across 15 commercial farms in Ireland, using paired bulk and virus-like particles (VLP) enrichment to capture comprehensive microbial and DNA virome diversity. Microbial communities shifted progressively with age, with early post-weaning animals enriched in environmental genera such as Pseudomonas and Staphylococcus and later stages dominated by lactic acid bacteria and anaerobes. Only 20.6% of vOTUs could be assigned to a known genus, with the most abundant being Astrithrvirus, which increased with age. Both microbiome and DNA virome exhibited predictable, coordinated age-associated succession with strong cross-domain coupling supported by virus-host networks. Functional profiling of the microbiome revealed that predicted carbohydrate substrates tracked the dietary transitions, while accessory viral functions partitioned by lifestyle and host. The early post-weaning stage was characterised by high abundance of viral integration and excision functions, as well as elevated resistome diversity that was almost exclusively of prokaryotic origin rather than viral. Importantly, 26 of the 25,223 vOTUs identified were predicted to target Streptococcus suis, providing the first metagenomic catalogue of such phages from pig oral environments. These findings expand our understanding of oral microbiome-virome dynamics and establish a framework for integrated microbiome and viromics approaches that could enable therapeutic phage discovery and inform microbiome-targeted interventions in pig production systems.",
+      "journal": "",
+      "doi": "10.64898/2026.11.21.768310",
+      "date": "2026-11-23",
+      "authors": "Osei, E. K., Ornelas, M. A. S., Garcia Manzanilla, E., Mahony, J., Kenny, J. G.",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.21.768310v1?rss=1",
+      "abstract_source": "rss",
+      "preprint": true,
+      "topic_filter": {
+        "accepted": true,
+        "reason": "microbial_evidence",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "Pseudomonas",
+          "bacteria",
+          "metagenom",
+          "metagenomic",
+          "microbial",
+          "microbiome",
+          "phage",
+          "phages",
+          "prokaryotic",
+          "viral",
+          "virome",
+          "virus"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "DNA",
+            "metagenom",
+            "metagenomic"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "discovery": [
+        {
+          "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+          "query": "RSS feed",
+          "scope": "candidate"
+        }
+      ],
+      "collection_order": 5540,
+      "collected_at": "2026-11-24T01:01:00.011480+00:00",
+      "collected_date": "2026-11-24",
+      "sources": [
+        "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+      ],
+      "first_seen": "2026-11-24",
+      "related_dois": [
+        "10.64898/2026.11.21.768310"
+      ],
+      "translation": {
+        "title": {
+          "hash": "e905c549287ea5f210c917a3076e9428d5d0a3a1cd5fa90644f8ef611097fe23",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-24T01:27:59.324027+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "b5ba8ddac6caf80018e371551e1732ba03a2658d6724975df9dbc95bc19bceec",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-24T01:27:59.324027+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "ブタの口腔マイクロバイオームおよびDNAバイロームプロファイリングにより明らかになった、Streptococcus suis関連ファージ系統の加齢に伴う動態と細胞外回収",
+      "abstract_ja": "豚の口腔は、微生物伝播および群の健康モニタリングにおける重要な界面であるが、そのマイクロバイオームおよびバイロームは依然として十分に解明されていない。我々は、アイルランド国内の商業農場15か所から採取した豚の口腔液に対し、ペア化したバルク粒子およびウイルス様粒子（VLP）濃縮法を用いたショットガンメタゲノムシーケンシングを実施し、微生物およびDNAバイロームの包括的な多様性を捕捉した。微生物群集は年齢とともに漸次的に変化し、離乳後早期の個体ではPseudomonasやStaphylococcusなどの環境由来の属が濃縮され、後期には乳酸菌や嫌気性菌が支配的となった。既知の属に帰属させられたvOTUはわずか20.6%であり、最も豊富であったのはAstrithrvirusで、年齢とともに増加した。マイクロバイオームとDNAバイロームはともに、ウイルス-宿主ネットワークに支えられた強力なドメイン間結合を伴う、予測可能な協調的な加齢に伴う遷移を示した。マイクロバイオームの機能プロファイリングにより、予測された糖基質が飼料の移行に伴って変化した一方、付随的なウイルス機能は生活様式や宿主によって分画されていることが明らかになった。離乳後早期の段階は、ウイルスの組み込みおよび切除機能の高存在量に加え、ウイルス由来ではなくほぼ専ら原核生物由来であるレジストーム多様性の亢進によって特徴づけられた。重要な点として、同定された25,223個のvOTUのうち26個がStreptococcus suisを標的とすることが予測され、豚の口腔環境におけるこのようなファージの初のメタゲノムカタログが構築された。これらの知見は、口腔マイクロバイオーム-バイローム動態に関する理解を深めるとともに、治療用ファージの発見を可能にし、豚生産システムにおけるマイクロバイオーム標的介入に資する、統合的なマイクロバイオームおよびバイロミクスアプローチの枠組みを確立するものである。",
+      "answer_journal": null,
+      "question_type": "forecast",
+      "options": [
+        "Parasitology international",
+        "ACS chemical neuroscience",
+        "Physics in medicine and biology",
+        "Neural regeneration research"
+      ]
+    },
+    {
+      "id": "10.1093/femsyr/foag063",
+      "title": "Safety Evaluation and Stress Tolerance of the Evolved Probiotic Yeast Saccharomyces boulardii SBPY3_EV for Functional Food Applications",
+      "abstract": "AbstractThe selection of robust probiotic strains with high gastrointestinal (GI) persistence is critical for the development of effective functional foods. Evolved yeast strain, Saccharomyces boulardii SBPY3_EV, was characterized through whole-genome sequencing (WGS) and functional phenotyping. WGS analysis confirmed high genomic integrity (99.2% BUSCO completeness) and phylogenetic identity with reference S. boulardii strains, supporting its status as a safe probiotic candidate. Safety evaluations further demonstrated non-hemolytic activity and susceptibility to clinically relevant azole antifungals. Phenotypic assays revealed that SBPY3_EV possesses superior GI fitness compared to its parental lineage and commercial standards. Evolved strain exhibited a significant 3.51-fold increase in acid tolerance (pH 3.0) and maintained robust viability in the presence of 1.5% bile salts and 9% NaCl. In vitro colonization assays using Caco-2 and HT-29 intestinal epithelial models demonstrated that SBPY3_EV achieves exceptional adhesion rates (80.4%–84.7%), significantly outperforming the reference probiotic Lacticaseibacillus rhamnosus GG. Furthermore, SBPY3_EV showed high survival (88–100%) in the gastric and during simulated small intestinal transit and exerted antagonistic activity against key foodborne pathogens, including Escherichia coli and Staphylococcus aureus. These findings provide a molecular and physiological basis for the enhanced performance of SBPY3_EV, positioning it as a highly resilient next-generation probiotic for food and nutraceutical applications.",
+      "journal": "FEMS Yeast Research",
+      "doi": "10.1093/femsyr/foag063",
+      "date": "2026-11-23",
+      "authors": "",
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ],
+      "source_url": "https://academic.oup.com/femsyr/advance-article/doi/10.1093/femsyr/foag063/9116420?rss=1",
+      "abstract_source": "rss",
+      "preprint": false,
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "Escherichia",
+          "Saccharomyces",
+          "yeast"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "genom",
+            "genome",
+            "genomic",
+            "phylogen",
+            "phylogenetic"
+          ],
+          "evolution": [
+            "phylogenetic"
+          ]
+        },
+        "tags": [
+          "微生物ゲノミクス",
+          "微生物進化"
+        ]
+      },
+      "discovery": [
+        {
+          "source": "https://academic.oup.com/rss/site_5387/advanceAccess_3248.xml",
+          "query": "RSS feed",
+          "scope": "journal"
+        }
+      ],
+      "collection_order": 5533,
+      "collected_at": "2026-11-24T01:01:00.011480+00:00",
+      "collected_date": "2026-11-24",
+      "sources": [
+        "https://academic.oup.com/rss/site_5387/advanceAccess_3248.xml"
+      ],
+      "first_seen": "2026-11-24",
+      "related_dois": [
+        "10.1093/femsyr/foag063"
+      ],
+      "translation": {
+        "title": {
+          "hash": "717f35d9924612e66b754334f682f2eb49eb6e6a9da89c16cb201e5ebc1e8982",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-24T01:22:14.258431+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "ea9d7d54d135f340590c9065dc3eaac7c155958d59ec2a9964c03abdc21bfc71",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-24T01:22:14.258431+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "機能性食品への応用に向けた進化型プロバイオティクス酵母Saccharomyces boulardii SBPY3_EVの安全性評価およびストレス耐性",
+      "abstract_ja": "要旨 高い消化管（GI）持続性を有する頑健なプロバイオティクス菌株の選定は、効果的な機能性食品の開発において極めて重要である。進化株である酵母菌 Saccharomyces boulardii SBPY3_EV について、全ゲノムシーケンシング（WGS）および機能的フェノタイピングにより特性解析を行った。WGS解析により、高いゲノム完全性（BUSCO完全性99.2%）および参照 S. boulardii 株との系統学的同一性が確認され、安全なプロバイオティクス候補としての地位が裏付けられた。安全性評価では、非溶血活性および臨床的に重要なアゾール系抗真菌薬への感受性がさらに実証された。表現型アッセイの結果、SBPY3_EV は親系統や市販標準株と比較して優れたGI適応性を有することが明らかとなった。進化株は酸耐性（pH 3.0）が3.51倍に有意に向上し、1.5%胆汁酸塩および9% NaCl存在下においても強固な生存能を維持した。Caco-2およびHT-29腸上皮モデルを用いたin vitro定着アッセイでは、SBPY3_EV が極めて高い接着率（80.4%–84.7%）を達成し、参照プロバイオティクスである Lacticaseibacillus rhamnosus GG を有意に上回ることが示された。さらに、SBPY3_EV は胃内および模擬小腸通過において高い生存率（88–100%）を示し、Escherichia coli や Staphylococcus aureus を含む主要な食品由来病原体に対して拮抗活性を示した。これらの知見は、SBPY3_EV の性能向上に関する分子・生理学的根拠を提供するものであり、食品およびニュートラシューティカル用途における極めて強靭な次世代プロバイオティクスとしての位置付けを示すものである。",
+      "answer_journal": "FEMS Yeast Research",
+      "question_type": "published",
+      "options": [
+        "Revue neurologique",
+        "The Plant journal : for cell and molecular biology",
+        "Radiation oncology (London, England)",
+        "FEMS Yeast Research"
       ]
     }
   ],
