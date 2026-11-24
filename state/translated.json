@@ -333393,5 +333393,308 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "OCTRON - 行動実験向け汎用セグメンテーション・トラッキングパイプライン",
     "abstract_ja": "複雑で変形可能な身体構造を持つ種間で動物行動を定量化するには、疎な骨格キーポイントではなく全身形状を捉える必要がある。しかし、マスクアノテーションからモデル学習、そして信頼性の高いマルチオブジェクトトラッキングまでを研究者が一貫して行える、利用しやすいエンドツーエンドのツールが不足している。本研究では、実験設定や生物種を問わず幅広く適用可能な、マルチオブジェクトセグメンテーション、検出、およびトラッキングのための完全学習型パイプライン「OCTRON」を提案する。OCTRONは大規模なセグメンテーション基盤モデルを活用し、最小限の入力から実験者による教師ありアノテーションを迅速に生成することで、教師ありセグメンテーションにおける手動ラベリングのボトルネックを克服する。これらのアノテーションは、形状や外観といったピクセルレベルの情報を抽出するためのセグメンテーションネットワークや、高速な重心トラッキングのための軽量な検出ネットワークといった、コンパクトでタスク特化型のモデルを学習させる。マルチオブジェクトトラッカーおよびnapariにおけるインタラクティブなトラックキュレーションインターフェースと組み合わせることで、OCTRONは最小限の手動介入で完全な行動定量化を実現する。我々は、透明な海洋環形動物から擬態するコウイカに至るまでの種間、および多種行動アッセイにおいてOCTRONの有効性を検証する。"
+  },
+  {
+    "id": "10.64898/2026.11.19.767916",
+    "title": "Divergent immune trajectories distinguish resistance and susceptibility to bacterial leaf streak in wheat",
+    "abstract": "Bacterial leaf streak (BLS) is an increasingly important disease affecting several cereal crops. The mechanisms linking quantitative trait loci for resistance to downstream immune response against BLS in wheat remain poorly understood. Here, we developed a chromosome-scale genome assembly of the BLS resistant cultivar Boost. With de novo annotation of Boost and Timstein (susceptible cultivar) assemblies, we established a cultivar-resolved framework for dissecting BLS resistance. Both cultivars encoded highly similar immune receptor repertoires, but the major resistance locus, QBls.fcu-3B.1, comprised a divergent receptor kinase haplotype with extensive structural variations, divergent tandem receptor arrays, and constitutively elevated expression of multiple receptor kinases in the resistant cultivar. Candidate receptor kinases in Boost exhibited conserved intracellular kinase domains but substantial divergence among extracellular recognition domains relative to their syntenic homologs in Timstein. Dual reference transcriptome analyses at 24, 48, and 96 hours after inoculation (HAI) revealing contrasting immune trajectories in resistant and susceptible cultivars. Boost progressed through a focused signaling transition at 48 HAI, followed by coordinated activation of several defense modules, such as antimicrobial metabolism, cell wall reinforcement, transcriptional regulation, and immune homeostasis. In contrast, the susceptible cultivar underwent coordinated repression of these defense-related modules together with chromatin-associated transcriptional changes and induction of host transcriptional machinery during disease establishment. Our findings suggest that quantitative resistance to BLS is associated not simply with immune receptor composition, but also with constitutive immune surveillance and temporal coordination of downstream defense, providing a putative mechanistic framework linking natural genomic variations to quantitative BLS resistance in wheat.",
+    "journal": "",
+    "doi": "10.64898/2026.11.19.767916",
+    "date": "2026-11-24",
+    "authors": "Singh, J., Gudi, S., Maughan, P. J., Liu, Z., Seneviratne, S., Running, K. L. D., Acharya, K., Green, A. J., Glover, K. D., Gill, U., Faris, J., Gupta, R.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.19.767916v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "assembly",
+        "bacteria",
+        "bacterial",
+        "genome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "assemblies",
+          "assembly",
+          "genom",
+          "genome",
+          "genomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5605,
+    "collected_at": "2026-11-24T21:21:51.319977+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.64898/2026.11.19.767916"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8cd6b08b0c0300b8aab400ccde086710f3317de0074e80bd7af467b4865b0a32",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T21:57:34.500330+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "cc89e03708289814a8fefafcc3e0159b222602947d6ca4f0fef1ca376a7de7d4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T21:57:34.500330+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "分岐する免疫軌跡がコムギの細菌性葉条斑に対する抵抗性と感受性を区別する",
+    "abstract_ja": "細菌性葉条斑病（BLS）は、複数の穀物作物に影響を及ぼす、ますます重要性を増している病害である。小麦におけるBLSに対する下流の免疫応答耐性の量的形質遺伝子座を結びつけるメカニズムについては、依然として十分に解明されていない。本研究では、BLS耐性品種Boostの染色体スケールのゲノムアセンブリを構築した。BoostおよびTimstein（感受性品種）のアセンブリをde novoアノテーションすることにより、BLS耐性を解析するための品種解像度の高いフレームワークを確立した。両品種は極めて類似した免疫受容体レパトアを有していたが、主要な耐性遺伝子座であるQBls.fcu-3B.1は、耐性品種において広範な構造変異、分岐したタンデム受容体アレイ、および複数の受容体キナーゼの恒常的な発現上昇を伴う、分岐した受容体キナーゼハプロタイプを構成していた。Boostにおける候補受容体キナーゼは、保存された細胞内キナーゼドメインを示したが、Timsteinのシンテニックホモログと比較して、細胞外認識ドメインには著しい分岐が認められた。接種後24、48、および96時間（HAI）における二重リファレンストランスクリプトーム解析により、耐性品種と感受性品種で対照的な免疫軌跡が明らかになった。Boostは48 HAIにおいて集中的なシグナル伝達遷移を経て、続いて抗菌代謝、細胞壁強化、転写調節、および免疫恒常性といった複数の防御モジュールの協調的な活性化を示した。対照的に、感受性品種では、病害成立過程において、これらの防御関連モジュールの協調的な抑制とともに、クロマチン関連の転写変化および宿主転写機構の誘導が認められた。本研究の知見は、BLSに対する量的耐性が単に免疫受容体の組成だけでなく、恒常的な免疫監視および下流防御の時間的協調とも関連していることを示唆しており、天然のゲノム変異と小麦におけるBLSの量的耐性を結びつける推定的なメカニズム的枠組みを提示するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "bioRxiv",
+        "query": "details/biorxiv/2026-10-20/2026-11-10",
+        "scope": "candidate"
+      }
+    ],
+    "id": "10.1101/2025.04.16.648998",
+    "doi": "10.1101/2025.04.16.648998",
+    "title": "Cell type-specific epigenomic variation and its association with genotype in the human breast",
+    "abstract": "Background: Understanding the interplay between genomic variation and the epigenome is fundamental to the study of development and mechanisms of disease. Previous studies have leveraged population-scale genotype surveys to associate alleles with epigenomic states in heterogenous tissue types. However, epigenomes are inherently cell type-specific, giving rise to unique genome-epigenome interactions that can influence distinct functional states and susceptibility to disease. Moreover, the extent of individual variation in cell type-specific epigenotypes remains poorly understood, posing additional challenges to accurately link genotypes with epigenomic features. Results: We generated comprehensive genomic and epigenomic profiles of four functionally defined human breast epithelial cell types from eight healthy individuals. To quantify inter-individual epigenomic variation, we developed a statistical framework that measures variability in histone modification landscapes across individuals. This analysis revealed substantially greater variation in repressive chromatin marked by H3K27me3 than in active chromatin marked by H3K27ac and H3K4me3. Integrative chromatin state analysis further identified enhancer elements as the principal source of epigenomic divergence between individuals. Stable enhancer states corresponded to high-confidence cis-regulatory elements that underpin cell type-specific transcriptional programs, whereas variable enhancer states were enriched for environmentally responsive regulatory circuits. Mapping genetic variants associated with chromatin state variation uncovered extensive cell type specificity, with nearly 90% of regulatory variants detected in only a single cell type. These associations were strongly enriched within active regulatory chromatin and, when integrated with gene expression, enabled the prioritization of functional regulatory variants. We experimentally validated one such variant, rs75071948, demonstrating allele-specific regulation of ANXA1 expression using CRISPR/Cas9 genome editing. Conclusions: Our study defines the landscape of normal epigenomic variation across the major human breast epithelial cell types and demonstrates that genome-epigenome interactions are highly cell type-specific. These findings establish cell type as a critical determinant of the functional interpretation of regulatory genetic variation and provide a framework for understanding how inherited genetic variation shapes normal breast biology and disease susceptibility.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "4",
+    "published_doi": "",
+    "related_dois": [
+      "10.1101/2025.04.16.648998"
+    ],
+    "date": "2026-10-22",
+    "authors": "Hauduc, A.; Steif, J.; Bilenky, M.; Moksa, M. M.; Cao, Q.; Ding, S.; Eaves, C. J.; Hirst, M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.1101/2025.04.16.648998v4",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "epigenomic",
+        "framework"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5569,
+    "collected_at": "2026-11-24T21:11:07.209251+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-24",
+    "translation": {
+      "title": {
+        "hash": "81d5bb506a0bcc85171071444947f2902fd381e4f24aa296810b25b4854c515f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T21:57:34.500330+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "439d32133e4001f0fdd16cbef4bf93b752feeff77154f284cfc3c30276393eb9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T21:57:34.500330+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ヒト乳房における細胞種特異的なエピゲノム変動と遺伝子型との関連",
+    "abstract_ja": "背景：ゲノム変異とエピゲノムの相互作用を理解することは、発生および疾患メカニズムの研究において不可欠である。これまでの研究では、集団規模の遺伝子型調査を活用し、不均一な組織型においてアレルとエピゲノム状態との関連を明らかにしてきた。しかし、エピゲノムは本質的に細胞型特異的であり、それによって、異なる機能的状態や疾患感受性に影響を及ぼし得る特有のゲノム・エピゲノム相互作用が生じる。さらに、細胞型特異的なエピ Genotypeの個体間変異の程度は依然として十分に解明されておらず、遺伝子型とエピゲノム特性を正確に結びつける上でさらなる課題となっている。結果：我々は、健常者8名から得られた、機能的に定義された4種類のヒト乳腺上皮細胞型について、包括的なゲノムおよびエピゲノムプロファイルを作成した。個体間のエピゲノム変異を定量化するため、個体間におけるヒストン修飾ランドスケープの変動性を測定する統計的枠組みを開発した。この解析により、H3K27acおよびH3K4me3で標識された活性クロマチンよりも、H3K27me3で標識された抑制性クロマチンにおいて著しく大きな変異が認められた。統合的なクロマチン状態解析により、エンハンサーエレメントが個体間のエピゲノム分化の主要な要因であることがさらに特定された。安定したエンハンサー状態は、細胞型特異的な転写プログラムを支える高信頼度のシス調節エレメントに対応していた一方、変動的なエンハンサー状態には環境応答性調節回路が豊富に含まれていた。クロマチン状態の変動に関連する遺伝子変異をマッピングしたところ、広範な細胞型特異性が明らかになり、調節変異のほぼ90%が単一の細胞型のみで検出された。これらの関連性は活性調節クロマチンにおいて強く濃縮されており、遺伝子発現と統合することで、機能的な調節変異の優先順位付けが可能となった。我々は、このような変異の一つであるrs75071948を実験的に検証し、CRISPR/Cas9ゲノム編集を用いてANXA1発現のアレル特異的な調節を実証した。結論：本研究は、主要なヒト乳腺上皮細胞型における正常なエピゲノム変異のランドスケープを定義し、ゲノム・エピゲノム相互作用が極めて細胞型特異的であることを示した。これらの知見は、細胞型が調節遺伝的変異の機能的解釈における重要な決定要因であることを立証し、遺伝的変異が正常な乳腺生物学および疾患感受性をどのように形作るかを理解するための枠組みを提供するものである。"
+  },
+  {
+    "id": "10.64898/2026.11.20.768052",
+    "title": "Diversity of Environmental and Genome-Associated Eukaryotic Circular Rep-Encoding Single-Stranded DNA Viruses",
+    "abstract": "Circular Rep-encoding single-stranded (CRESS) DNA viruses are widespread across diverse environments, yet their genomic diversity, evolutionary relationships, and associations with eukaryotic hosts remain poorly understood. Here, we investigated the evolutionary diversity of CRESS DNA viruses by integrating replication-associated protein (Rep) sequences from environmental viral metagenomes, publicly available viral references, and endogenous viral elements (EVEs) identified in fungal and algal genomes. Genome-wide screening revealed numerous EVEs distributed across diverse fungal and algal lineages, highlighting the potential historical associations between CRESS DNA viruses and eukaryotic hosts. Phylogenetic analyses revealed considerable diversity among CRESS DNA viruses, including sequences that could not be assigned to currently recognized viral families. Yet, several of these unclassified sequences formed well-supported monophyletic clades, suggesting that existing taxonomic classifications may require further revision. Furthermore, phylogenetic relationships within and among established viral families suggest that existing taxonomic boundaries may not fully capture the evolutionary diversity of these viruses. The phylogenetic placement of fungal and algal EVEs alongside environmental and reference viral sequences further provides insights into the evolutionary relationships between CRESS DNA viruses and eukaryotic genomes. Collectively, our findings expand the known evolutionary diversity of CRESS DNA viruses, identify distinct viral lineages requiring further taxonomic evaluation, and provide a framework for investigating their genomic evolution, taxonomic relationships, and associations with eukaryotic hosts.",
+    "journal": "",
+    "doi": "10.64898/2026.11.20.768052",
+    "date": "2026-11-24",
+    "authors": "Bezuidt, O. K., Schulz, F.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.20.768052v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungal",
+        "metagenom",
+        "metagenomes",
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "evolution",
+          "genom",
+          "genome",
+          "genomic",
+          "metagenom",
+          "metagenome",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5606,
+    "collected_at": "2026-11-24T21:21:51.319977+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.64898/2026.11.20.768052"
+    ],
+    "translation": {
+      "title": {
+        "hash": "cac69938a801731cf3f57ebf878c052279713d0525132e263a5dee93a52b9aa4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T21:57:34.500330+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "23a12dc90063b7dfaf1e27459b84dbee14f79e73511a365d86edf1286c30845b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T21:57:34.500330+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "環境およびゲノム関連真核生物環状Repエンコード一本鎖DNAウイルスの多様性",
+    "abstract_ja": "環状Repエンコード一本鎖（CRESS）DNAウイルスは多様な環境に広く分布しているが、そのゲノム多様性、進化的関係、および真核生物宿主との関連性については十分に解明されていない。本研究では、環境ウイルスメタゲノム、公開されているウイルスリファレンス、および真菌・藻類ゲノムで同定された内在性ウイルスエレメント（EVE）から複製関連タンパク質（Rep）配列を統合することで、CRESS DNAウイルスの進化的多様性を調査した。ゲノムワイドスクリーニングにより、多様な真菌・藻類系統に分布する多数のEVEが明らかになり、CRESS DNAウイルスと真核生物宿主との間に歴史的な関連性が存在する可能性が示された。系統解析の結果、現在認められているウイルス科に分類できない配列を含む、CRESS DNAウイルス間の相当な多様性が明らかになった。しかし、これらの未分類配列のいくつかは十分に支持された単系統群を形成しており、既存の分類体系にはさらなる改訂が必要であることが示唆された。さらに、確立されたウイルス科内および科間の系統関係は、既存の分類学的境界がこれらのウイルスの進化的多様性を完全には捉えきれていない可能性を示唆している。真菌・藻類EVEを環境およびリファレンスウイルス配列と共に系統的に配置することで、CRESS DNAウイルスと真核生物ゲノムとの進化的関係に関するさらなる知見が得られた。総じて、本研究の知見は、CRESS DNAウイルスの既知の進化的多様性を拡大し、さらなる分類学的評価を必要とする異なるウイルス系統を同定するとともに、そのゲノム進化、分類学的関係、および真核生物宿主との関連性を調査するための枠組みを提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "bioRxiv",
+        "query": "details/biorxiv/2026-10-20/2026-11-10",
+        "scope": "candidate"
+      }
+    ],
+    "id": "10.64898/2026.01.07.697982",
+    "doi": "10.64898/2026.01.07.697982",
+    "title": "CellWHISPER disentangles direct cell-cell communication from structural proximity",
+    "abstract": "Spatial transcriptomics makes it possible to infer direct, contact-dependent cellular communication, but existing tools are prone to high error rates due to spatial structure in cell types and gene expression. We present CellWHISPER, a framework for inferring contact-mediated communication, including gap junctions and ligand-receptor signaling, from spatial transcriptomics data. CellWHISPER controls errors with a statistical procedure that accounts for confounding effects of cell-type-specific expression and spatial organization. Closed-form significance scores enable analysis of large data. A latent variable model distills recurrent patterns into maps of preferences among cell types and signaling genes. We demonstrate CellWHISPER on two technologies (Stereo-seq, Xenium), two species and three tissues. In mouse brain it yields a comprehensive connexin-interaction map. Immunostaining confirmed CellWHISPER-predicted Connexin 43-mediated interfaces among astrocytes, microglia and endothelial cells, which existing approaches fail to prioritize. In human colon and skin, tissues with strong spatial gradients, CellWHISPER recovers communication mechanisms both along and independent of the gradient.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "3",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.01.07.697982"
+    ],
+    "date": "2026-10-22",
+    "authors": "Kumar, A.; Moctezuma, F. R.; Aggarwal, B.; Zhang, N.; Coskun, A. F.; Sinha, S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.01.07.697982v3",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "transcriptomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5570,
+    "collected_at": "2026-11-24T21:11:07.209251+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-24",
+    "translation": {
+      "title": {
+        "hash": "281128d0ecfb3b68d31710a144f0817204b452ec289d6d82608c1798eb73aade",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T21:57:34.500330+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "18d5e4a45b4bf1f0cd19d44215695ceeed8026adbe26946d476abd898d04851f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T21:57:34.500330+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "CellWHISPERは、構造的な近接性から直接的な細胞間コミュニケーションを解き明かす。",
+    "abstract_ja": "空間トランスクリプトミクスにより、接触依存的な直接的な細胞間コミュニケーションを推論することが可能となるが、既存のツールは細胞種や遺伝子発現の空間的構造に起因して、エラー率が高くなる傾向がある。本研究では、空間トランスクリプトミクスデータから、ギャップ結合やリガンド-受容体シグナル伝達を含む接触媒介性コミュニケーションを推論するためのフレームワーク「CellWHISPER」を提案する。CellWHISPERは、細胞種特異的な発現や空間的組織化による交絡効果を考慮した統計的手法を用いてエラーを制御する。閉形式の有意性スコアにより、大規模データの解析が可能となる。潜在変数モデルは、反復的なパターンを細胞種間およびシグナル伝達遺伝子間の選好マップへと蒸留する。我々は、2つの技術（Stereo-seq、Xenium）、2種の生物、および3つの組織を用いてCellWHISPERを実証した。マウス脳においては、包括的なコネキシン相互作用マップが得られた。免疫染色により、既存の手法では優先的に検出できなかった、アストロサイト、ミクログリア、および内皮細胞間のCellWHISPER予測によるコネキシン43媒介性インターフェースが確認された。強い空間勾配を持つ組織であるヒト結腸および皮膚において、CellWHISPERは勾配に沿った、および勾配に依存しない双方のコミュニケーション機構を復元した。"
   }
 ]
