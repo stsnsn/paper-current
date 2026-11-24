@@ -325825,5 +325825,157 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ブタの口腔マイクロバイオームおよびDNAバイロームプロファイリングにより明らかになった、Streptococcus suis関連ファージ系統の加齢に伴う動態と細胞外回収",
     "abstract_ja": "豚の口腔は、微生物伝播および群の健康モニタリングにおける重要な界面であるが、そのマイクロバイオームおよびバイロームは依然として十分に解明されていない。我々は、アイルランド国内の商業農場15か所から採取した豚の口腔液に対し、ペア化したバルク粒子およびウイルス様粒子（VLP）濃縮法を用いたショットガンメタゲノムシーケンシングを実施し、微生物およびDNAバイロームの包括的な多様性を捕捉した。微生物群集は年齢とともに漸次的に変化し、離乳後早期の個体ではPseudomonasやStaphylococcusなどの環境由来の属が濃縮され、後期には乳酸菌や嫌気性菌が支配的となった。既知の属に帰属させられたvOTUはわずか20.6%であり、最も豊富であったのはAstrithrvirusで、年齢とともに増加した。マイクロバイオームとDNAバイロームはともに、ウイルス-宿主ネットワークに支えられた強力なドメイン間結合を伴う、予測可能な協調的な加齢に伴う遷移を示した。マイクロバイオームの機能プロファイリングにより、予測された糖基質が飼料の移行に伴って変化した一方、付随的なウイルス機能は生活様式や宿主によって分画されていることが明らかになった。離乳後早期の段階は、ウイルスの組み込みおよび切除機能の高存在量に加え、ウイルス由来ではなくほぼ専ら原核生物由来であるレジストーム多様性の亢進によって特徴づけられた。重要な点として、同定された25,223個のvOTUのうち26個がStreptococcus suisを標的とすることが予測され、豚の口腔環境におけるこのようなファージの初のメタゲノムカタログが構築された。これらの知見は、口腔マイクロバイオーム-バイローム動態に関する理解を深めるとともに、治療用ファージの発見を可能にし、豚生産システムにおけるマイクロバイオーム標的介入に資する、統合的なマイクロバイオームおよびバイロミクスアプローチの枠組みを確立するものである。"
+  },
+  {
+    "id": "10.64898/2026.11.16.766480",
+    "title": "Integrative structural biology of a giant marine virus reveals architectural and functional complexity beyond icosahedral symmetry",
+    "abstract": "Knowledge of giant virus diversity has expanded rapidly; however, isolated representatives remain scarce, and few have been examined at high resolution. Here, we characterized haptophyte-infecting Prymnesium kappa virus RF02 (PkV-RF02) using integrative structural biology. The ~3 [A] resolution structure obtained by block-based cryo-electron microscopy reconstruction shows a pseudoT=219 icosahedral shell built from over 20 different proteins and approximately 10,000 polypeptides, a multi-layered stabilization network reinforced by 20,000 disulphide bridges, two penton variants evenly distributed in the capsid, and a protein channel crossing the internal membrane. Cross-linking mass spectrometry defines the intricate capsid-membrane-core interaction network, which includes a second major capsid protein, a third penton variant, and multiple biochemical functions packaged within the virion. Phospho- and glycoproteomics reveal widespread post-translational modifications, with approximately 50% of proteins phosphorylated and uncommon methyl-N-acetylated viosamine glycans. This study provides a comprehensive structural and interaction map that highlights organizational and functional innovations underlying giant virus assembly.",
+    "journal": "",
+    "doi": "10.64898/2026.11.16.766480",
+    "date": "2026-11-23",
+    "authors": "Otaegi-Ugartemendia, S., Marabini, R., Herrera-Nieto, P., Condezo, G. N., Mühlberg, L., Wang, H., Snijder, J., Viner, R., Ortiz-Loo, L., San Martin, C., Sandaa, R.-A., Ortiz-Loo, L.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.16.766480v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5541,
+    "collected_at": "2026-11-24T01:01:00.011480+00:00",
+    "collected_date": "2026-11-24",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.64898/2026.11.16.766480"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2e355f72eb10b94f9914fd4cbeee7f042a396b81079a1f5c48dad4433386e5eb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T01:30:23.961137+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b72ba028e6eefd5190ffc14167120865a9110eaa83dab7c95e08c34dca99f503",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T01:30:23.961137+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "巨大海洋ウイルスの統合的構造生物学が明かす、正二十面体対称性を超えた構造的・機能的複雑性",
+    "abstract_ja": "巨大ウイルスの多様性に関する知見は急速に拡大しているが、単離された代表株は依然として少なく、高分解能で解析されたものもほとんどない。本研究では、統合的構造生物学を用いて、ハプト藻感染性のPrymnesium kappaウイルスRF02（PkV-RF02）の特性解析を行った。ブロックベースのクライオ電子顕微鏡再構成により得られた約3 [A]分解能の構造は、20種類以上の異なるタンパク質と約10,000個のポリペプチドから構築された擬似T=219正二十面体シェル、20,000本のジスルフィド架橋によって補強された多層安定化ネットワーク、カプシド内に均等に分布する2つのペントン変異体、および内膜を横断するタンパク質チャネルを示している。架橋質量分析により、第2の主要カプシドタンパク質、第3のペントン変異体、およびビリオン内にパッケージングされた複数の生化学的機能を含む、複雑なカプシド-膜コア相互作用ネットワークが明らかになった。リン酸化および糖タンパク質プロテオミクス解析により、広範な翻訳後修飾が認められ、タンパク質の約50%がリン酸化され、稀なメチル-N-アセチル化ビオサミン糖鎖が認められた。本研究は、巨大ウイルスの集合の根底にある組織化および機能的革新を浮き彫りにする、包括的な構造および相互作用マップを提供するものである。"
+  },
+  {
+    "id": "10.64898/2026.11.20.768218",
+    "title": "Transposon-driven pervasive genome restructuring and regulatory evolution in early-diverging Holomycota",
+    "abstract": "Early-diverging non-Dikarya fungi showcase major evolutionary transitions in the fungal kingdom, share features with other eukaryotic clades and bacteria, and include pathogens of significant concern. These lineages contain some of the most reduced and expanded genome architectures of the fungal kingdom and have adopted unique DNA methylation systems. Yet, the evolutionary trajectory of early-diverging non-Dikarya fungi remains poorly understood. A key driver is thought to be transposable elements, which shape genomic plasticity, organization and regulation. Here, we perform a comprehensive comparative analysis across the Holomycota to chart drivers of early fungal evolution. We demonstrate that contrasting transposon dynamics directly shape genomic diversity across these lineages, fueling extensive protein domain expansions through widespread co-option. This heterogeneous landscape is regulated by a multi-layered epigenetic network impacting chromatin configuration, and we reveal a distinct transcriptional activation role for adenine methylation over specific transposons. Beyond driving functional innovation, mobile elements serve as a source of regulatory diversification, providing transcription factor binding sites at key chromosomal features. Furthermore, synteny tracking uncovers multiple whole-genome duplication events across Mucoromycotina, where DNA transposons preferentially accumulate at duplication breakpoints and undergo rapid inactivation. Strikingly, we also show that horizontal transposon transfers frequently cross deep evolutionary boundaries, including cross-kingdom exchanges with protists. Together, our findings illuminate key drivers of genome architecture in non-Dikarya fungi and reshape our understanding of genome dynamics across the fungal kingdom.",
+    "journal": "",
+    "doi": "10.64898/2026.11.20.768218",
+    "date": "2026-11-23",
+    "authors": "Lax, C., Tahiri, G., Croll, D.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.20.768218v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "fungal",
+        "fungi",
+        "protist",
+        "protists"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "evolution",
+          "genom",
+          "genome",
+          "genomic",
+          "transcript"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5542,
+    "collected_at": "2026-11-24T01:01:00.011480+00:00",
+    "collected_date": "2026-11-24",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.64898/2026.11.20.768218"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6fa3f17cb8584f245703017c48879bb9782809426bc6757cbf4a88625706bc66",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T01:30:23.961137+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d43ce5763797ddef729b375219f2ff17527e6920f5e0acbc92aa18b88f120faa",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T01:30:23.961137+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "初期分岐ホロ菌類におけるトランスポゾン駆動型の広範なゲノム再構成と調節進化",
+    "abstract_ja": "初期に分岐した非二核菌類は、菌界における主要な進化的転換を示しており、他の真核生物系統や細菌と共通の特徴を持つとともに、重大な懸念対象となる病原体も含んでいる。これらの系統は、菌界において最も還元的かつ拡張されたゲノム構造の一部を有し、独自のDNAメチル化系を獲得している。しかしながら、初期に分岐した非二核菌類の進化的軌跡については、依然として十分に解明されていない。主要な駆動要因は、ゲノムの可塑性、構成、および調節を形作るトランスポゾン要素であると考えられている。本研究では、ホロマイコタ全体にわたる包括的な比較解析を行い、初期菌類進化の駆動要因を明らかにする。我々は、対照的なトランスポゾン動態がこれらの系統間のゲノム多様性を直接的に形作り、広範な共選択を通じて大規模なタンパク質ドメインの拡張を促進していることを示す。この不均一なランドスケープは、クロマチン構成に影響を与える多層的なエピジェネティックネットワークによって調節されており、特定のトランスポゾンに対するアデニンメチル化の明確な転写活性化役割を明らかにする。機能的革新を駆動するだけでなく、可動性要素は調節の多様化の源として機能し、主要な染色体部位に転写因子結合部位を提供する。さらに、シンテニー追跡により、ムコルモクソティナ類において複数の全ゲノム重複事象が検出され、そこではDNAトランスポゾンが重複切断点に優先的に蓄積し、急速に不活性化することが明らかになった。特筆すべきことに、水平方向のトランスポゾン転移が、原生生物との界を越えた交換を含む、深い進化的境界を頻繁に越えていることも示す。以上の知見を総合すると、非二核菌類におけるゲノム構造の主要な駆動要因が明らかになり、菌界全体におけるゲノム動態の理解が刷新される。"
   }
 ]
