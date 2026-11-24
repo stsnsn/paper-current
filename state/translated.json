@@ -329751,5 +329751,280 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "塩分濃度がカキ病原菌Vibrio aestuarianusの宿主内および宿主間における感染動態に及ぼす影響",
     "abstract_ja": "要旨環境変動は海洋生態系における感染症の動態形成において中心的な役割を果たすが、宿主－病原体相互作用に及ぼす影響の機序的基盤は依然として大部分が未解明である。太平洋牡蠣（Magallana gigas）における成体の反復的な死亡は、Vibrio aestuarianus subsp. francensisに関連して頻繁に認められるが、アウトブレイク動態の環境的駆動要因については十分に解明されていない。国家レベルのサーベイランス、フィールドモニタリング、対照実験、および細菌と宿主の個別のトランスクリプトーム解析にわたる相補的なアプローチを用い、塩分濃度と疾患動態の関係における異なる側面を評価した。12年間にわたるサーベイランスデータにより、V. aestuarianusは変動塩分環境に分類される地点でより頻繁に検出された一方、トーラグーン（フランス）でのフィールドモニタリングでは、低塩分濃度が牡蠣の死亡率の上昇と関連していることが示された。制御条件下では、低塩分濃度が細菌の脱落、生存率、および海水中での相対的優位性を促進することで、牡蠣の死亡率を上昇させ、伝播を増強させた。トランスクリプトーム解析の結果、低塩分濃度はV. aestuarianusにおいて代謝、ストレス応答、および病原性関連遺伝子の発現を誘導する一方、高塩分濃度は主に浸透圧ストレス適応を誘発することが明らかになった。個別のトランスクリプトーム解析により、牡蠣の血球に塩分濃度依存的な変化が生じることが判明した。低塩分濃度は代謝的に負荷の高いプロセスに関連しているのに対し、高塩分条件下では感染時に免疫関連シグナル伝達経路が濃縮されることが特徴である。これらの相補的なデータセットを総合すると、塩分濃度がV. aestuarianusの疾患動態における重要な生態学的調節因子であることが支持され、観察された表現型に寄与し得る候補的な生理学的プロセスが特定された。沿岸環境における水文変動の増大に伴い、疾患リスク評価に塩分濃度を組み込むことで、牡蠣の死亡率の予測および管理が改善される可能性がある。"
+  },
+  {
+    "id": "10.1093/bioinformatics/btag851",
+    "title": "SpatialMuSC: Spatial Graph-Conditioned Diffusion Refinement for Robust Spatial Multi-Omics Integration",
+    "abstract": "AbstractMotivationEmerging spatial multi-omics technologies enable the simultaneous profiling of multiple molecular layers within the same tissue section, offering new opportunities to interrogate tissue organization in its native spatial context. However, sequencing-derived spatial multi-omics data are often affected by intrinsic perturbations, such as technical noise, missing values, sparsity and measurement bias. These perturbations make existing methods that mainly use spatial graphs for neighborhood aggregation insufficient to recover continuous tissue-region structures, while unconstrained representation learning may propagate noisy associations and lead to fragmented spatial domains.ResultsWe present SpatialMuSC, a robust spatial multi-omics integration framework centering on spatial graph-conditioned diffusion refinement and perturbation-invariant fusion consistency. SpatialMuSC introduces spatial topology as conditional information into the latent diffusion process, enabling spatial adjacency to guide neighborhood aggregation, spatial structure propagation and graph-aware denoising of latent states. Perturbation-invariant fusion consistency further encourages stable multi-omic fusion under perturbed observations. We evaluate SpatialMuSC on diverse spatial multi-omics datasets across different tissues and sequencing platforms, including 10x Visium, Stereo-CITE-seq, SPOTS and spatial epigenome–transcriptome data. Across these benchmarks, SpatialMuSC consistently outperforms ten state-of-the-art methods in spatial domain identification and tissue-structure preservation. Ablation analyses confirm the contributions of graph-conditioned diffusion refinement and perturbation-invariant fusion consistency, rather than post hoc graph smoothing or graph propagation alone. In particular, SpatialMuSC effectively distinguishes adjacent tissue regions, preserves block-wise smoothness and layered architectures, and shows more stable performance in missing-observation stress tests, while hippocampal marker, enrichment, and paired RNA–ATAC analyses identify a GCL-associated neuronal program and a TTR-associated accessibility feature in a choroid plexus-enriched domain.Availability and ImplementationThe source code is available at https://github.com/CSUBioGroup/SpatialMuSC.Supplementary InformationSupplementary data are available online.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag851",
+    "date": "2026-11-23",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag851/9117701?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5588,
+    "collected_at": "2026-11-24T15:00:38.912417+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1093/bioinformatics/btag851"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9c2b860b9a6b75be1bbf2dc89057b283d8e44845e2f33723ffe32b87d391e504",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T15:28:11.077302+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4a9f738bb96df4144c0b5368dcd3f18d968df42f57659c4cf8493ac139f9cebf",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T15:28:11.077302+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "SpatialMuSC: 頑健な空間マルチオミクス統合のための空間グラフ条件付き拡散精緻化",
+    "abstract_ja": "要旨動機新興の空間マルチオミクス技術により、同一組織切片内における複数の分子層の同時プロファイリングが可能となり、組織構造を本来の空間的コンテキストで解析する新たな機会がもたらされている。しかし、シーケンシングから得られる空間マルチオミクスデータは、テクニカルノイズ、欠損値、スパース性、測定バイアスといった固有の摂動の影響を受けることが多い。こうした摂動により、主に空間グラフを用いて近傍集約を行う既存の手法では、連続的な組織領域構造を復元するには不十分であり、一方で制約のない表現学習はノイズを含む関連性を伝播させ、空間ドメインの断片化を招く可能性がある。結果空間グラフ条件付き拡散精緻化と摂動不変の融合一貫性を中核とする、堅牢な空間マルチオミクス統合フレームワーク「SpatialMuSC」を提案する。SpatialMuSCは、潜在拡散プロセスに条件情報として空間トポロジーを導入することで、空間的隣接性を近傍集約、空間構造の伝播、および潜在状態のグラフ認識型デノイジングの指針として活用することを可能にする。さらに、摂動不変の融合一貫性により、摂動を受けた観測条件下においても安定したマルチオミクス融合が促進される。10x Visium、Stereo-CITE-seq、SPOTS、および空間エピゲノム・トランスクリプトームデータを含む、異なる組織およびシーケンシングプラットフォームにわたる多様な空間マルチオミクスデータセットを用いてSpatialMuSCを評価した。これらのベンチマークにおいて、SpatialMuSCは空間ドメイン同定および組織構造の保持において、10種類の最先端手法を一貫して上回る性能を示した。アブレーション解析により、事後的なグラフ平滑化やグラフ伝播のみではなく、グラフ条件付き拡散精緻化と摂動不変の融合一貫性の寄与が確認された。特に、SpatialMuSCは隣接する組織領域を効果的に区別し、ブロック単位の平滑性と階層構造を保持し、欠損観測ストレステストにおいてより安定した性能を示した。また、海馬マーカー、エンリッチメント、およびペアRNA-ATAC解析により、脈絡叢エンリッチメントドメインにおけるGCL関連ニューロンプログラムとTTR関連アクセシビリティ特徴量が同定された。利用可能性と実装ソースコードは https://github.com/CSUBioGroup/SpatialMuSC で公開されている。補足情報補足データはオンラインで入手可能である。"
+  },
+  {
+    "id": "10.1093/bioinformatics/btag857",
+    "title": "GLAND: Resolving small and non-continuous tissue domains via a hybrid attention mechanism",
+    "abstract": "AbstractMotivationRecent advances in spatial transcriptomic technology provide unprecedented insights into tissue architecture by enabling high-throughput gene expression profiling with the corresponding spatial context. While identifying spatial domains is a prerequisite for understanding tissue heterogeneity and functional organization, current computational methods often fail to resolve non-continuous or small domains that, despite their biological significance, exhibit complex spatial distribution.ResultsWe present GLAND, a deep learning framework with a hybrid attention mechanism designed to capture multi-scale spatial dependencies. GLAND utilizes a spatial outlier detection strategy to refine the spatial graph, coupled with a hybrid encoder that simultaneously captures long-range biological similarity and localized spatial continuity. Comprehensive benchmarking across 39 slices and 7 spatial transcriptomic platforms demonstrates that GLAND achieves superior performance in identifying not only traditional continuous spatial domains but also non-continuous and small domains. Within the complex tumor microenvironment, GLAND accurately resolves non-continuous tumor regions and small lymphoid aggregates. Its learned spot embeddings bridge spatial gaps by preserving the transcriptomic identity of tumor domains across distal locations, facilitating a unified characterization of heterogeneous tissue landscapes.Availability and implementationGLAND is freely available at https://github.com/CSUBioGroup/GLAND. All data have been deposited to Zenodo at https://zenodo.org/records/18756215.Supplementary informationSupplementary data are available at Bioinformatics online.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag857",
+    "date": "2026-11-23",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag857/9117700?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5589,
+    "collected_at": "2026-11-24T15:00:38.912417+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"
+    ],
+    "first_seen": "2026-11-24",
+    "related_dois": [
+      "10.1093/bioinformatics/btag857"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0873dc27e2561bef9d8175fc774387ee4fd0be299da4ad180da9f34aa08a12c1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T15:28:11.077302+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5177d28f95c990ec498110955c8663a471a44bfb3d81bdfed1453c894af6159f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T15:28:11.077302+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "GLAND: ハイブリッドアテンション機構による小規模かつ非連続な組織領域の解消",
+    "abstract_ja": "要旨動機空間トランスクリプトミクス技術の近年の進展により、対応する空間的コンテキストを伴うハイスループットな遺伝子発現プロファイリングが可能となり、組織構造に関する前例のない知見が得られている。空間ドメインの同定は、組織の不均一性と機能的組織化を理解するための前提条件であるが、現在の計算手法では、生物学的意義はあるものの、複雑な空間分布を示す非連続領域や小規模領域を分解できないことが多い。結果マルチスケールの空間的依存関係を捉えるよう設計されたハイブリッドアテンション機構を備えた深層学習フレームワーク「GLAND」を提案する。GLANDは、空間グラフを精緻化するための空間外れ値検出戦略と、長距離の生物学的類似性と局所的な空間的連続性を同時に捉えるハイブリッドエンコーダを組み合わせている。39のスライスおよび7つの空間トランスクリプトミクスプラットフォームにわたる包括的なベンチマークにより、GLANDが従来の連続的な空間ドメインだけでなく、非連続領域や小規模領域の同定においても優れた性能を発揮することが実証された。複雑な腫瘍微小環境において、GLANDは非連続な腫瘍領域や小規模なリンパ系凝集体を高精度に分解する。学習されたスポット埋め込みは、遠位部位間における腫瘍ドメインのトランスクリプトーム同一性を保持することで空間的なギャップを埋め、不均一な組織景観の統一的な特性評価を促進する。利用可能性と実装GLANDは https://github.com/CSUBioGroup/GLAND で無料で利用可能である。すべてのデータは Zenodo（https://zenodo.org/records/18756215）に寄託されている。補足情報補足データは Bioinformatics online で入手可能である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "bioRxiv",
+        "query": "details/biorxiv/2026-10-20/2026-11-10",
+        "scope": "candidate"
+      }
+    ],
+    "id": "10.64898/2026.10.08.757571",
+    "doi": "10.64898/2026.10.08.757571",
+    "title": "Genome-scale mapping of plant transcription factor effector domains reveals conserved regulatory principles across eukaryotes",
+    "abstract": "Eukaryotic life spans species that diverged over a billion years ago, yet our molecular view of gene regulation remains heavily skewed toward Opisthokonta model systems, particularly yeast and humans. The degree to which the protein features governing transcriptional regulation are conserved across eukaryotes or have diversified within individual eukaryotic supergroups remains unresolved. To provide a distinct evolutionary reference point, we used a massively parallel reporter assay in plant cells to identify transcriptional effector domains and define their sequence constraints, measuring ~26,000 protein fragments tiling nearly all Arabidopsis transcription factors (1,859 proteins). Comparison with the activity of the same peptide sequences in yeast revealed that activation is governed by a mixture of deeply conserved biochemical features and lineage-dependent functional differences across widely divergent eukaryotic lineages. Likewise, plant repression domains are governed by flexible sequence grammars that extend beyond conserved repression motifs. Together, these results reveal both broadly conserved and clade-specific principles governing eukaryotic transcriptional regulation.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "2",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.10.08.757571"
+    ],
+    "date": "2026-10-22",
+    "authors": "Alamos, S.; Sarkiss, A. E.; Rapp, J. T.; Lachwani, A.; Ornelas, I. J.; Kesselhaut, M. A.; Tibocha-Bonilla, J. D.; Lanctot, A.; Nunez, J. K.; Garcia Martin, H.; Shih, P. M.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.08.757571v2",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 5560,
+    "collected_at": "2026-11-24T14:50:01.882069+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-24",
+    "translation": {
+      "title": {
+        "hash": "cf95dd4c1f74ce939e2f98bd765d7e55e4baa98c179f40462b9fd90231cc5172",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T15:28:11.077302+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d786935df1f0ba2166d6949cdcd16d1efb781fa6b66050de334659d484d33951",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T15:28:11.077302+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "植物転写因子エフェクタードメインのゲノムワイドマッピングにより、真核生物間で保存された調節原理が明らかになった。",
+    "abstract_ja": "真核生物の寿命は、10億年以上前に分岐した種にわたっているが、遺伝子調節に関する我々の分子生物学的知見は、依然として後生動物のモデル系、特に酵母やヒトに大きく偏っている。転写調節を司るタンパク質の特徴が、真核生物間でどの程度保存されているのか、あるいは個々の真核生物スーパーグループ内でどのように多様化したのかは、未解明のままである。明確な進化上の参照点を提供するため、我々は植物細胞を用いた大規模並列レポーターアッセイを用いて転写エフェクタードメインを同定し、その配列制約を定義するとともに、ほぼすべてのシロイヌナズナ転写因子（1,859タンパク質）をカバーする約26,000個のタンパク質断片を測定した。酵母における同一ペプチド配列の活性と比較した結果、活性化は、高度に保存された生化学的特徴と、大きく分岐した真核生物系統間における系統依存的な機能的差異が混在して制御されていることが明らかになった。同様に、植物の抑制ドメインは、保存された抑制モチーフを超えた柔軟な配列グラマーによって制御されている。これらの結果を総合すると、真核生物の転写調節を支配する、広範に保存された原理とクレード特異的な原理の双方が明らかになる。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "bioRxiv",
+        "query": "details/biorxiv/2026-10-20/2026-11-10",
+        "scope": "candidate"
+      }
+    ],
+    "id": "10.64898/2026.09.24.754254",
+    "doi": "10.64898/2026.09.24.754254",
+    "title": "TFAM Dependent Mitochondrial Fitness Limits CD8⁺ T Cell Immunopathology and Sustains Protective Immunity during Viral Pneumonia",
+    "abstract": "During respiratory virus infections, CD8 T cells kill virus-infected cells and establish antigen-specific immune memory, but excessive or dysregulated responses can also contribute to lung immunopathology. The development and maintenance of optimal CD8 T cell effector and memory responses depend on mitochondrial fitness, which can be compromised across multiple physiologic and pathologic conditions. However, how impaired mitochondrial fitness affect antiviral CD8 T cell responses remains poorly understood. Here, we used a CD8 T cell-specific TFAM-haploinsufficient mouse model to induce moderate mitochondrial stress without the severe mitochondrial dysfunction associated with complete TFAM loss, providing a genetically controlled model of mitochondrial perturbations relevant to physiologic conditions. TFAM insufficiency disrupted mitochondrial integrity and cellular bioenergetics and increased mitochondrial DNA and oxidative stress in CD8 T cells. During primary influenza A virus (IAV) infection, TFAM-insufficient CD8 T cells exhibited heightened cytotoxic activity and inflammatory responses associated with lung immunopathology, followed by progressive functional exhaustion, diminished antigen-specific responses, and impaired protective immunity. Consistent with the physiologic relevance of these findings, CD8 T cells from older individuals exhibited reduced TFAM expression and mitochondrial function. Collectively, our findings demonstrate that moderate mitochondrial stress can alter the trajectory of antiviral CD8 T cell responses, promoting pathogenic effector activity during acute infection while compromising subsequent protective immunity.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "2",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.09.24.754254"
+    ],
+    "date": "2026-10-22",
+    "authors": "Navaeiseddighi, Z.; Guo, K.; Hasan, S. S.; Wang, Z.; Mishra, R.; Schmit, T.; Ahsan, J.; Moser, E. J.; Hur, J.; Yount, J. S.; Mathur, R.; Zhou, L.; Khan, N.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.09.24.754254v2",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5561,
+    "collected_at": "2026-11-24T14:50:01.882069+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-24",
+    "translation": {
+      "title": {
+        "hash": "60ef989141c75246b3eb50747c72a453f1e3de1aebd167637a384ed3f54653fe",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T15:28:11.077302+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "cfcbc59ee3fa7b2220ba110e464503f10c375c405910ddf1449ee556ee1daec5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-24T15:28:11.077302+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "TFAM依存性ミトコンドリア適応度がCD8⁺ T細胞免疫病理を制限し、ウイルス性肺炎における防御免疫を維持する",
+    "abstract_ja": "呼吸器系ウイルス感染症において、CD8 T細胞はウイルス感染細胞を死滅させ、抗原特異的な免疫記憶を形成するが、過剰または調節不全の応答も肺の免疫病理に寄与し得る。最適なCD8 T細胞エフェクター応答および記憶応答の発現と維持はミトコンドリアの適応度に依存しており、この適応度は複数の生理学的・病理学的条件下で損なわれる可能性がある。しかし、ミトコンドリア適応度の低下が抗ウイルスCD8 T細胞応答にどのような影響を及ぼすかについては、依然として十分に解明されていない。本研究では、CD8 T細胞特異的なTFAMハプロ不全マウスモデルを用いて、完全なTFAM喪失に伴う重篤なミトコンドリア機能障害を伴わずに中程度のミトコンドリアストレスを誘導し、生理学的条件に関連するミトコンドリア摂動の遺伝的に制御されたモデルを構築した。TFAM不全はミトコンドリアの完全性と細胞の生体エネルギー代謝を乱し、CD8 T細胞におけるミトコンドリアDNA量および酸化ストレスを増加させた。原発性A型インフルエンザウイルス（IAV）感染において、TFAM不全のCD8 T細胞は、肺の免疫病理に関連する細胞傷害活性および炎症応答の亢進を示し、続いて機能的な疲弊の進行、抗原特異的応答の減弱、および防御免疫の低下が認められた。これらの知見の生理学的関連性と一致して、高齢個体由来のCD8 T細胞ではTFAM発現およびミトコンドリア機能の低下が認められた。総じて、本研究の結果は、中程度のミトコンドリアストレスが抗ウイルスCD8 T細胞応答の軌跡を変化させ、急性感染時には病原性エフェクター活性を促進する一方で、その後の防御免疫を損なうことを実証している。"
   }
 ]
