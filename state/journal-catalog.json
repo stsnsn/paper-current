@@ -6355,6 +6355,7 @@
   {
     "name": "Molecular Ecology Resources",
     "scope": [
+      "ecology",
       "genomics",
       "microbiology"
     ]
