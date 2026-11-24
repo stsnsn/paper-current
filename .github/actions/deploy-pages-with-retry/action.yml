@@ -1,0 +1,39 @@
+name: Deploy Pages with retry
+description: Retry failed Pages deployments three times, waiting 30 seconds between attempts.
+outputs:
+  page_url:
+    description: URL of the deployed Pages site
+    value: ${{ steps.attempt_1.outputs.page_url || steps.attempt_2.outputs.page_url || steps.attempt_3.outputs.page_url || steps.attempt_4.outputs.page_url }}
+runs:
+  using: composite
+  steps:
+    - name: Deploy Pages (attempt 1 of 4)
+      id: attempt_1
+      continue-on-error: true
+      uses: actions/deploy-pages@v4
+    - name: Wait 30 seconds before retry 1
+      if: ${{ steps.attempt_1.outcome == 'failure' }}
+      shell: bash
+      run: sleep 30
+    - name: Deploy Pages (attempt 2 of 4)
+      id: attempt_2
+      if: ${{ steps.attempt_1.outcome == 'failure' }}
+      continue-on-error: true
+      uses: actions/deploy-pages@v4
+    - name: Wait 30 seconds before retry 2
+      if: ${{ steps.attempt_2.outcome == 'failure' }}
+      shell: bash
+      run: sleep 30
+    - name: Deploy Pages (attempt 3 of 4)
+      id: attempt_3
+      if: ${{ steps.attempt_2.outcome == 'failure' }}
+      continue-on-error: true
+      uses: actions/deploy-pages@v4
+    - name: Wait 30 seconds before retry 3
+      if: ${{ steps.attempt_3.outcome == 'failure' }}
+      shell: bash
+      run: sleep 30
+    - name: Deploy Pages (attempt 4 of 4)
+      id: attempt_4
+      if: ${{ steps.attempt_3.outcome == 'failure' }}
+      uses: actions/deploy-pages@v4

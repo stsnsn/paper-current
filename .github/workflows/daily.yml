@@ -9,6 +9,7 @@ on:
     paths:
       - '.github/workflows/daily.yml'
       - '.github/actions/setup-plamo/**'
+      - '.github/actions/deploy-pages-with-retry/**'
       - 'scripts/cloud_daily.py'
       - 'config/cloud.json'
       - 'config/backfill-request.json'
@@ -115,4 +116,4 @@ jobs:
           path: docs
       - id: deploy
         if: steps.prepare.outputs.publication_due == 'true'
-        uses: actions/deploy-pages@v4
+        uses: ./.github/actions/deploy-pages-with-retry

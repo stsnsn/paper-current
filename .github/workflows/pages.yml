@@ -2,7 +2,7 @@ name: Publish quiz
 on:
   push:
     branches: [main]
-    paths: ['docs/**', '.github/workflows/pages.yml']
+    paths: ['docs/**', '.github/workflows/pages.yml', '.github/actions/deploy-pages-with-retry/**']
   workflow_dispatch:
 permissions:
   contents: read
@@ -26,4 +26,4 @@ jobs:
         with:
           path: docs
       - id: deploy
-        uses: actions/deploy-pages@v4
+        uses: ./.github/actions/deploy-pages-with-retry
