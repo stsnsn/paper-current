@@ -16,7 +16,8 @@ const stateKey=()=> 'paper-current-v1:'+DATA.issue.id+(contentMode==='latest'?':
 let papers=selectPapers(DATA),key='paper-current-v1:'+DATA.issue.id;
 let mode=read('paper-current-mode','professional');if(!['beginner','professional'].includes(mode))mode='professional';
 key=stateKey();
-let state=read(key,{batch:0,index:0,screen:'home',answers:{}}),saved=read('paper-current-saved',{}),uiLang=read('paper-current-ui-language','ja'),selection=null;
+const savedKey='paper-current-saved';
+let state=read(key,{batch:0,index:0,screen:'home',answers:{}}),saved=read(savedKey,{}),uiLang=read('paper-current-ui-language','ja'),selection=null;
 if(!['ja','en'].includes(uiLang))uiLang='ja';
 const t=(ja,en)=>uiLang==='ja'?ja:en;
 let paperLang=uiLang,paperLanguageManuallyChosen=false;
@@ -65,7 +66,15 @@ function optionsFor(p){
 }
 const allComplete=()=>papers.length>0&&papers.every(p=>state.answers[p.id]?.final!==undefined||state.answers[p.id]?.skipped===true);
 function changeMode(next){const scrollPosition=[window.scrollX||0,window.scrollY||0];persist();mode=next;key=stateKey();state=read(key,{batch:0,index:0,screen:'home',answers:{}});selection=null;state.screen='home';persist();mountScrollPosition=scrollPosition;render()}
-function toggleSaved(p){const scrollPosition=[window.scrollX||0,window.scrollY||0];if(saved[p.id])delete saved[p.id];else saved[p.id]={id:p.id,title:p.title,title_ja:p.title_ja,journal:p.journal,doi:p.doi};persist();mountScrollPosition=scrollPosition;render()}
+function toggleSaved(p){
+  const scrollPosition=[window.scrollX||0,window.scrollY||0];
+  const next={...saved};
+  if(next[p.id])delete next[p.id];
+  else next[p.id]={id:p.id,title:p.title,title_ja:p.title_ja,journal:p.journal,doi:p.doi,source_url:p.source_url};
+  if(!persistSaved(next))saved=next;
+  mountScrollPosition=scrollPosition;
+  render();
+}
 const hasProgress=()=>Object.keys(state.answers).length>0||state.batch>0||state.index>0||(state.lap||1)>1||Boolean(state.history?.length);
 function restartProgress(){if(!papers.length)return;state={batch:0,index:0,screen:'quiz',answers:{},lap:1,optionSets:{},optionVersions:{}};selection=null;resumeUnanswered()}
 function replay(){if(!allComplete())return;state.history=state.history||[];state.history.push({lap:state.lap||1,answers:state.answers});state.answers={};delete state.paperOrder;state.optionSets={};state.optionVersions={};state.batch=0;state.index=0;state.lap=(state.lap||1)+1;state.screen='home';selection=null;persist();render()}
@@ -103,7 +112,13 @@ function shareButton(p){return typeof navigator!=='undefined'&&typeof navigator.
 async function sharePaper(p,button){if(!p)return;const status=button.parentElement.querySelector('.share-status');status.textContent='';try{await navigator.share({title:localizedTitle(p).replace(/<[^>]*>/g,''),url:link(p)})}catch(error){if(error.name!=='AbortError')status.textContent=t('共有できませんでした。もう一度お試しください。','Could not share. Please try again.')}}
 const tag=x=>uiLang==='ja'?x:({'海洋微生物':'Marine microbiology','微生物ゲノミクス':'Microbial genomics','微生物学':'Microbiology','微生物進化':'Microbial evolution'}[x]||x);
 const resultMark=(p,a)=>a.skipped?t('スキップ','Skipped'):forecast(p)?t('採点待ち','Pending'):(a.first===answer(p)?'○':'×')+' → '+(a.final===answer(p)?'○':'×');
-function persist(){try{localStorage.setItem(key,JSON.stringify(state));localStorage.setItem('paper-current-mode',JSON.stringify(mode));localStorage.setItem('paper-current-content',JSON.stringify(contentMode));localStorage.setItem('paper-current-saved',JSON.stringify(saved));localStorage.setItem('paper-current-ui-language',JSON.stringify(uiLang))}catch{storageOK=false}}
+function persist(){try{localStorage.setItem(key,JSON.stringify(state));localStorage.setItem('paper-current-mode',JSON.stringify(mode));localStorage.setItem('paper-current-content',JSON.stringify(contentMode));localStorage.setItem('paper-current-ui-language',JSON.stringify(uiLang))}catch{storageOK=false}}
+function persistSaved(next){
+  try{localStorage.setItem(savedKey,JSON.stringify(next))}
+  catch{storageOK=false;return false}
+  saved=next;
+  return true;
+}
 function mount(html){app.innerHTML=html;document.documentElement.lang=uiLang;document.title=t('Paper Current — 新着論文クイズ','Paper Current — Weekly paper quiz');document.querySelector('#savedBtn').textContent=t('あとで読む','Read later')+' '+Object.keys(saved).length;document.querySelector('#languageBtn').textContent=uiLang==='ja'?'UI: English':'UI: 日本語';document.querySelector('#languageBtn').lang=uiLang==='ja'?'en':'ja';const footerTop=document.querySelector('#footer-top');if(footerTop)footerTop.textContent=t('トップに戻る ↑','Back to top ↑');act('paper-lang',el=>changePaperLanguage(el.dataset.paperLang));act('latest-home',returnToLatest);act('archive-browser',openArchiveBrowser);act('content',el=>changeContent(el.dataset.content));bindTooltips();act('share',el=>sharePaper(papers.find(p=>p.id===el.dataset.id)||saved[el.dataset.id],el));if(mountScrollPosition){window.scrollTo(...mountScrollPosition);mountScrollPosition=null}else window.scrollTo(0,0)}
 function act(name,fn){app.querySelectorAll('[data-action="'+name+'"]').forEach(el=>el.onclick=()=>fn(el))}
 function changeContent(next){if(!['journals','biorxiv','latest'].includes(next))return;archiveBrowserOpen=false;persist();contentMode=next;papers=selectPapers(DATA);key=stateKey();state=read(key,{batch:0,index:0,screen:'home',answers:{}});state.screen='home';selection=null;persist();render()}
@@ -198,7 +213,7 @@ mount(`<div class="eyebrow">${t('今回の結果','ROUND COMPLETE')}</div><h1>${
 let view='quiz';
 function readingListCSV(rows){
   const cell=value=>{let text=String(value??'');if(/^\s*[=+\-@]/.test(text))text="'"+text;return '"'+text.replace(/"/g,'""')+'"'};
-  const records=[['id','title','title_ja','journal','doi','url'],...rows.map(p=>[p.id,p.title,p.title_ja,p.journal,p.doi,canonicalDOI(p.doi)?link(p):''])];
+  const records=[['id','title','title_ja','journal','doi','url'],...rows.map(p=>[p.id,p.title,p.title_ja,p.journal,p.doi,link(p)||''])];
   return '\uFEFF'+records.map(row=>row.map(cell).join(',')).join('\r\n')+'\r\n';
 }
 function downloadReadingList(format){
@@ -206,7 +221,21 @@ function downloadReadingList(format){
   const url=URL.createObjectURL(new Blob([content],{type:csv?'text/csv;charset=utf-8':'application/json'}));
   const a=document.createElement('a');a.href=url;a.download='paper-current-reading-list.'+(csv?'csv':'json');a.click();setTimeout(()=>URL.revokeObjectURL(url),1000);
 }
-function savedView(){view='saved';mount(`<div class="eyebrow">${t('保存した論文','SAVED PAPERS')}</div><h1>${t('あとで読む','Read later')}</h1><p class="muted">${t('このブラウザに保存された論文です。','Papers saved in this browser.')}</p><div class="actions"><button class="secondary" data-action="back">${contentMode==='latest'?t('論文一覧に戻る','Back to papers'):t('クイズに戻る','Back to quiz')}</button><button class="quiet" data-action="export">${t('一覧をJSONで保存','Export JSON')}</button><button class="quiet" data-action="export-csv">${t('一覧をCSVで保存','Export CSV')}</button></div>${Object.values(saved).map(p=>`<div class="saved-item"><h3 data-reading-key="${esc(p.id)}:title" lang="${paperLang}">${titleHTML(localizedTitle(p))}</h3><span class="badge">${esc(p.journal)}</span> <a href="${esc(link(p))}" target="_blank" rel="noopener">${t('原著を読む','Read paper')} ↗</a>${shareButton(p)}<button class="quiet" data-action="remove" data-id="${esc(p.id)}">${t('保存を解除','Remove')}</button></div>`).join('')||'<p style="margin-top:40px">'+t('保存した論文はありません。','No saved papers yet.')+'</p>'}`);act('back',render);act('remove',el=>{delete saved[el.dataset.id];persist();savedView()});act('export',()=>downloadReadingList('json'));act('export-csv',()=>downloadReadingList('csv'))}
+function clearReadingList(){
+  if(!Object.keys(saved).length)return;
+  const confirmed=window.confirm(t(
+    '「あとで読む」の論文をすべて削除すると、元に戻せません。記録を残したい場合は、先に一覧をJSONまたはCSVでダウンロードしてください。\n\nすべて削除しますか？',
+    'Removing all papers from Read later cannot be undone. To keep a copy, download the list as JSON or CSV first.\n\nRemove all saved papers?'
+  ));
+  if(!confirmed)return;
+  if(!persistSaved({})){
+    window.alert(t('一覧をクリアできませんでした。ブラウザの保存設定を確認してください。','Could not clear the list. Check your browser’s storage settings.'));
+    return;
+  }
+  savedView();
+  app.querySelector('[data-action="back"]')?.focus();
+}
+function savedView(){view='saved';mount(`<div class="eyebrow">${t('保存した論文','SAVED PAPERS')}</div><h1>${t('あとで読む','Read later')}</h1><p class="muted">${t('このブラウザに保存された論文です。','Papers saved in this browser.')}</p><div class="actions"><button class="secondary" data-action="back">${contentMode==='latest'?t('論文一覧に戻る','Back to papers'):t('クイズに戻る','Back to quiz')}</button><button class="quiet" data-action="export">${t('一覧をJSONで保存','Export JSON')}</button><button class="quiet" data-action="export-csv">${t('一覧をCSVで保存','Export CSV')}</button>${Object.keys(saved).length?`<button class="quiet" data-action="clear-saved">${t('一覧をクリア','Clear list')}</button>`:''}</div>${Object.values(saved).map(p=>`<div class="saved-item"><h3 data-reading-key="${esc(p.id)}:title" lang="${paperLang}">${titleHTML(localizedTitle(p))}</h3><span class="badge">${esc(p.journal)}</span> <a href="${esc(link(p))}" target="_blank" rel="noopener">${t('原著を読む','Read paper')} ↗</a>${shareButton(p)}<button class="quiet" data-action="remove" data-id="${esc(p.id)}">${t('保存を解除','Remove')}</button></div>`).join('')||'<p style="margin-top:40px">'+t('保存した論文はありません。','No saved papers yet.')+'</p>'}`);act('back',render);act('remove',el=>{const next={...saved};delete next[el.dataset.id];if(!persistSaved(next))saved=next;savedView()});act('clear-saved',clearReadingList);act('export',()=>downloadReadingList('json'));act('export-csv',()=>downloadReadingList('csv'))}
 function openArchiveBrowser(){persist();archiveBrowserOpen=true;state.screen='home';render()}
 function archiveBrowserView(){view='archives';mount(`${contentPicker()}<div class="page-heading"><h1>${t('バックナンバー','Back issues')}</h1></div><section id="archive-panel"></section>`);renderArchivePanel()}
 function render(){view='quiz';if(archiveBrowserOpen)return archiveBrowserView();if(contentMode==='latest')return latestView();if(state.screen==='summary')summary();else if(state.screen==='quiz')quiz();else home()}
@@ -242,9 +271,15 @@ async function openArchive(id){
   const entry=archiveIndex?.issues.find(i=>i.id===id);if(!entry)return;
   if(!/^data\/issues\/[a-zA-Z0-9_-]+\.json$/.test(entry.path))return;
   const panel=document.querySelector('#archive-panel');
-  try{const r=await fetch(entry.path);if(!r.ok)throw Error('HTTP '+r.status);const data=await r.json();if(!Array.isArray(data.papers)||data.issue?.id!==id)throw Error('Invalid archive');contentMode='latest';switchIssue(data,true);archiveBrowserOpen=false;latestQuery='';latestTopic='all';latestSource='all';latestSource='all';try{history.replaceState(null,'','?issue='+encodeURIComponent(id))}catch{}state.screen='home';persist();render();return true}
+  try{const r=await fetch(entry.path);if(!r.ok)throw Error('HTTP '+r.status);const data=await r.json();if(!Array.isArray(data.papers)||data.issue?.id!==id)throw Error('Invalid archive');contentMode='latest';switchIssue(data,true);archiveBrowserOpen=false;latestQuery='';latestTopic='all';latestSource='all';try{history.replaceState(null,'','?issue='+encodeURIComponent(id))}catch{}state.screen='home';persist();render();return true}
   catch{if(panel){const p=document.createElement('p');p.className='hint';p.textContent=t('この回を読み込めませんでした。もう一度お試しください。','Unable to load this issue. Please try again.');panel.appendChild(p)}return false}
 }
 function changeUILanguage(next){if(!['ja','en'].includes(next))return;uiLang=next;if(!paperLanguageManuallyChosen)paperLang=uiLang;persist();if(view==='saved')savedView();else render()}
 document.querySelector('#savedBtn').onclick=savedView;document.querySelector('#languageBtn').onclick=()=>changeUILanguage(uiLang==='ja'?'en':'ja');
+window.addEventListener?.('storage',event=>{
+  if(event.storageArea!==localStorage||(event.key!==savedKey&&event.key!==null))return;
+  saved=read(savedKey,{});
+  mountScrollPosition=[window.scrollX||0,window.scrollY||0];
+  if(view==='saved')savedView();else render();
+});
 (async()=>{const route=new URLSearchParams(location.search);if(route.get('saved')==='1'){savedView();return}if(['journals','latest'].includes(route.get('content'))){changeContent(route.get('content'));return}if(new URLSearchParams(location.search).get('browse')==='archives'){openArchiveBrowser();return}const requested=new URLSearchParams(location.search).get('issue');if(requested){await loadArchiveIndex();if(archivedEntries().some(i=>i.id===requested)&&await openArchive(requested))return}render()})();

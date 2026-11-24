@@ -1,6 +1,6 @@
 const assert=require('node:assert/strict'),fs=require('node:fs'),vm=require('node:vm');
 const elements=new Map(),storage=new Map([['paper-current-content',JSON.stringify('journals')],['paper-current-home-version','1']]);
-const app={innerHTML:'',querySelectorAll(){return []}};
+const app={innerHTML:'',querySelector(){return null},querySelectorAll(){return []}};
 const document={documentElement:{},querySelector(s){if(s==='#app')return app;if(s==='#archive-panel')return null;if(!elements.has(s))elements.set(s,{});return elements.get(s)}};
 const data={issue:{id:'test'},papers:Array.from({length:7},(_,i)=>({id:'10.1234/'+i,doi:'10.1234/'+i,title:'Paper '+i,journal:'The ISME Journal',options:['The ISME Journal','Nature','Science','mBio']}))};
 const ctx=vm.createContext({console,document,window:{PAPER_DATA:data,scrollTo(){}},localStorage:{getItem:k=>storage.get(k),setItem:(k,v)=>storage.set(k,v)},location:{search:'',pathname:'/'},history:{replaceState(){}},URLSearchParams});
@@ -263,3 +263,47 @@ const priorAnchorScrollCount=ctx.scrollCalls.length;
 run('restoreReadingAnchor(readingPosition)');assert.equal(ctx.scrollCalls.length,priorAnchorScrollCount);
 app.querySelectorAll=originalQueryAll;
 console.log('Language changes anchor the visible title or relative abstract position despite text reflow.');
+
+// Exercise the bound clear button, including cancel, storage failure and reload.
+run("uiLang='ja';saved={};toggleSaved({id:'source-only',title:'Paper',source_url:'https://example.org/paper'})");
+assert(run("readingListCSV(Object.values(saved)).includes('https://example.org/paper')"));
+const clearButton={};
+app.querySelectorAll=selector=>selector==='[data-action="clear-saved"]'?[clearButton]:[];
+run('savedView()');
+assert(app.innerHTML.includes('一覧をクリア'));
+assert(app.innerHTML.includes('https://example.org/paper'));
+const storedList=storage.get('paper-current-saved'),progress=run('JSON.stringify(state)');
+const warnings=[];
+ctx.window.confirm=message=>{warnings.push(message);return false};
+clearButton.onclick();
+assert.equal(warnings.length,1);
+assert.match(warnings[0],/元に戻せません.*JSONまたはCSV/);
+assert.equal(storage.get('paper-current-saved'),storedList);
+assert.equal(run('JSON.stringify(saved)'),storedList);
+
+ctx.window.confirm=message=>{warnings.push(message);return true};
+let failureMessage;
+ctx.window.alert=message=>{failureMessage=message};
+const originalSetItem=ctx.localStorage.setItem;
+ctx.localStorage.setItem=()=>{throw new Error('storage unavailable')};
+clearButton.onclick();
+assert.match(failureMessage,/クリアできません/);
+assert.equal(run('JSON.stringify(saved)'),storedList);
+ctx.localStorage.setItem=originalSetItem;
+
+run("uiLang='en';savedView()");
+clearButton.onclick();
+assert.equal(warnings.length,3);
+assert.match(warnings[2],/cannot be undone.*JSON or CSV/);
+assert.equal(storage.get('paper-current-saved'),'{}');
+assert.equal(run('Object.keys(read(savedKey,{})).length'),0);
+assert.equal(run('JSON.stringify(state)'),progress);
+assert.equal(elements.get('#savedBtn').textContent,'Read later 0');
+assert(app.innerHTML.includes('No saved papers yet.'));
+assert(!app.innerHTML.includes('data-action="clear-saved"'));
+
+// A stale tab saving quiz progress must not resurrect the cleared entries.
+run("saved={'source-only':{id:'source-only'}};persist()");
+assert.equal(storage.get('paper-current-saved'),'{}');
+app.querySelectorAll=originalQueryAll;
+console.log('Read-later clear confirms once, handles storage failures, and preserves quiz progress.');
