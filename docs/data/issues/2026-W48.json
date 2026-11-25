@@ -6,80 +6,6 @@
     "addition_tracking_since": "2026-11-08T16:41:37.586944+09:00",
     "addition_history": [
       {
-        "at": "2026-11-23T07:23:09.742625+09:00",
-        "papers": [
-          {
-            "id": "10.64898/2026.10.28.762655",
-            "preprint": true
-          },
-          {
-            "id": "10.3389/fmicb.2026.1995610",
-            "preprint": false
-          },
-          {
-            "id": "10.1093/bib/bbag613",
-            "preprint": false
-          },
-          {
-            "id": "10.64898/2026.10.26.762091",
-            "preprint": true
-          },
-          {
-            "id": "10.21203/rs.3.rs-10760302/v1",
-            "preprint": true
-          },
-          {
-            "id": "10.3389/fmicb.2026.1977925",
-            "preprint": false
-          }
-        ]
-      },
-      {
-        "at": "2026-11-23T12:25:11.199383+09:00",
-        "papers": [
-          {
-            "id": "10.3389/fmicb.2026.1853821",
-            "preprint": false
-          },
-          {
-            "id": "10.64898/2026.10.28.762254",
-            "preprint": true
-          },
-          {
-            "id": "10.1126/sciadv.aee7939",
-            "preprint": false
-          },
-          {
-            "id": "10.21203/rs.3.rs-11548746/v1",
-            "preprint": true
-          },
-          {
-            "id": "10.21203/rs.3.rs-11546208/v1",
-            "preprint": true
-          },
-          {
-            "id": "10.1186/s13059-026-04358-7",
-            "preprint": false
-          },
-          {
-            "id": "10.21203/rs.3.rs-11214932/v1",
-            "preprint": true
-          },
-          {
-            "id": "10.12688/wellcomeopenres.28140.1",
-            "preprint": true
-          },
-          {
-            "id": "10.64898/2026.10.29.26366564",
-            "preprint": true
-          },
-          {
-            "id": "10.21203/rs.3.rs-11533831/v1",
-            "preprint": true
-          }
-        ]
-      },
-      {
         "at": "2026-11-23T22:48:48.639900+09:00",
         "papers": [
           {
@@ -855,50 +781,59 @@
             "preprint": false
           }
         ]
+      },
+      {
+        "at": "2026-11-25T13:52:17.770095+09:00",
+        "papers": [
+          {
+            "id": "10.64898/2026.11.23.768638",
+            "preprint": true
+          },
+          {
+            "id": "10.1038/s41579-026-01371-2",
+            "preprint": false
+          },
+          {
+            "id": "10.64898/2026.11.23.768699",
+            "preprint": true
+          },
+          {
+            "id": "10.1128/mra.00944-26",
+            "preprint": false
+          },
+          {
+            "id": "10.1186/s40168-026-02581-9",
+            "preprint": false
+          },
+          {
+            "id": "10.64898/2026.11.23.768569",
+            "preprint": true
+          },
+          {
+            "id": "10.1186/s13059-026-04360-z",
+            "preprint": false
+          },
+          {
+            "id": "10.1186/s40168-026-02570-y",
+            "preprint": false
+          }
+        ]
       }
     ],
     "date": "2026-11-23",
     "publication_mode": "daily",
-    "updated_at": "2026-11-25T07:10:05.887139+09:00",
-    "daily_updated_at": "2026-11-25T07:10:05.887139+09:00",
+    "updated_at": "2026-11-25T13:52:17.770095+09:00",
+    "daily_updated_at": "2026-11-25T13:52:17.770095+09:00",
     "week_ends_at": "2026-11-30T00:00:00+09:00",
     "added_ids": [
-      "10.64898/2025.12.20.695663",
-      "10.64898/2026.11.23.768597",
-      "10.64898/2026.04.08.717340",
-      "10.1093/bioadv/vbag333",
-      "10.64898/2026.10.21.760723",
-      "10.64898/2026.07.13.738248",
-      "10.64898/2026.06.22.733418",
-      "10.1038/s41564-026-02533-x",
-      "10.64898/2026.08.03.742406",
-      "10.64898/2026.10.12.758456",
-      "10.1038/s41564-026-02546-6",
-      "10.64898/2026.05.19.726264",
-      "10.1038/s41564-026-02538-6",
-      "10.64898/2026.11.22.768399",
-      "10.64898/2026.10.16.759407",
-      "10.64898/2026.04.29.721692",
-      "10.64898/2026.07.14.738515",
-      "10.1038/s41564-026-02539-5",
-      "10.64898/2026.11.12.766285",
-      "10.64898/2026.11.19.767916",
-      "10.64898/2026.11.22.768462",
-      "10.64898/2026.11.19.767897",
-      "10.64898/2026.03.09.710472",
-      "10.64898/2026.03.14.711833",
-      "10.1101/2025.02.20.639352",
-      "10.1101/2025.06.05.658122",
-      "10.64898/2026.11.20.768052",
-      "10.64898/2026.01.07.697982",
-      "10.64898/2026.01.07.698308",
-      "10.1101/2025.04.16.648998",
-      "10.64898/2026.04.03.716176",
-      "10.64898/2026.10.18.759853",
-      "10.64898/2026.11.17.767414",
-      "10.64898/2026.11.22.768463",
-      "10.64898/2026.09.17.752497",
-      "10.1038/s41564-026-02551-9"
+      "10.64898/2026.11.23.768638",
+      "10.1038/s41579-026-01371-2",
+      "10.64898/2026.11.23.768699",
+      "10.1128/mra.00944-26",
+      "10.1186/s40168-026-02581-9",
+      "10.64898/2026.11.23.768569",
+      "10.1186/s13059-026-04360-z",
+      "10.1186/s40168-026-02570-y"
     ],
     "added_date": "2026-11-25"
   },
@@ -17767,6 +17702,628 @@
         "Information (Basel)",
         "Nature Microbiology",
         "The Neuroscientist : a review journal bringing neurobiology, neurology and psychiatry"
+      ]
+    },
+    {
+      "id": "10.64898/2026.11.23.768638",
+      "title": "A cell-based screen identifies host-directed inhibitors and nutrient-conditional antimicrobials against intracellular S. flexneri dissemination",
+      "abstract": "Multidrug-resistant S. flexneri is a World Health Organization priority pathogen for which no universally licensed vaccine is currently available. Most antimicrobial screening platforms involve planktonic bacteria replicating in nutrient-rich medium, a condition that does not reflect the intracellular niche in which S. flexneri replicates and spreads and systematically excludes compounds whose activity depends on the host environment. Here, we screened the 1,581 compounds of the National Cancer Institute Diversity Set VII for inhibitors of S. flexneri dissemination in human colonic HT-29 monolayers by high-content microscopy. By applying sequential counter-screens, we identified six hits falling into two mechanistically distinct classes. Four compounds restricted dissemination without detectable antibacterial activity or host toxicity at the concentrations used. NSC310113 and Thiosangivamycin (NSC105827) implicate host matrix metalloprotease activity in cell-to-cell spread and host CDK2 in epithelial cell invasion. Two additional compounds, NSC45641 and NSC367428, were antibacte-rial only under nutrient-limited conditions and would have been described as inactive by conventional screening. NSC45641 is an adenine analog imposing a purine limitation reversible by adenine supplementation. The uracil analog NSC367428, whose activity requires the bacterial uracil phosphoribosyltransferase Upp, is consistent with perturbation of pyrimidine metabolism in both minimal medium and in HT-29 cells. Together, these findings demonstrate that cell-based dissemination screening of the NCI Diversity Set VII identified two classes of inhibitors that would likely be missed by conventional nutrient-rich medium screening, highlighting nutrient-conditional antimicrobials as promising starting points for developing treatments against intracellular pathogens.",
+      "journal": "",
+      "doi": "10.64898/2026.11.23.768638",
+      "date": "2026-11-24",
+      "authors": "Rolland, S. J., Miyake, T., Devairakkham, E., Engel, D. A., Agaisse, H. F.",
+      "tags": [
+        "海洋微生物"
+      ],
+      "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.23.768638v1?rss=1",
+      "abstract_source": "rss",
+      "preprint": true,
+      "topic_filter": {
+        "accepted": true,
+        "reason": "microbial_evidence",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "bacteria",
+          "bacterial"
+        ],
+        "context": {
+          "marine": [
+            "plankton"
+          ],
+          "genomics": [],
+          "evolution": []
+        },
+        "tags": [
+          "海洋微生物"
+        ]
+      },
+      "discovery": [
+        {
+          "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+          "query": "RSS feed",
+          "scope": "candidate"
+        }
+      ],
+      "collection_order": 5611,
+      "collected_at": "2026-11-25T04:25:54.454456+00:00",
+      "collected_date": "2026-11-25",
+      "sources": [
+        "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+      ],
+      "first_seen": "2026-11-25",
+      "related_dois": [
+        "10.64898/2026.11.23.768638"
+      ],
+      "translation": {
+        "title": {
+          "hash": "024f68f7414d7aaf16ba1c5d3f8ad87420f1afb9f49b2520c4d421d77894de9a",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-25T04:49:16.864608+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "064372f2a7ba04f50518abe05d5ddc17757853eb0962f64d1b9094be6cc38f71",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-25T04:49:16.864608+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "細胞ベースのスクリーニングにより、細胞内S. flexneriの播種に対する宿主指向性阻害剤および栄養条件依存性抗菌薬を同定した。",
+      "abstract_ja": "多剤耐性S. flexneriは世界保健機関（WHO）の優先病原体であり、現在、普遍的に承認されたワクチンは存在しない。ほとんどの抗菌薬スクリーニングプラットフォームでは、栄養豊富な培地内で増殖するプランクトン性細菌が用いられているが、この条件は、S. flexneriが増殖・拡散し、宿主環境に依存して活性を示す化合物を系統的に排除する細胞内ニッチを反映していない。本研究では、米国国立がん研究所（NCI）のDiversity Set VIIに含まれる1,581種類の化合物を対象に、ハイコンテンツ顕微鏡法を用いて、ヒト結腸HT-29単層におけるS. flexneriの拡散阻害剤のスクリーニングを行った。逐次的なカウンタースクリーニングを適用した結果、機序的に異なる2つのクラスに属する6つのヒット化合物を同定した。このうち4つの化合物は、使用した濃度において、検出可能な抗菌活性や宿主毒性を示すことなく拡散を抑制した。NSC310113およびThiosangivamycin（NSC105827）は、細胞間拡散における宿主マトリックスメタロプロテアーゼ活性と、上皮細胞浸潤における宿主CDK2の関与を示唆していた。さらに2つの化合物、NSC45641およびNSC367428は、栄養制限条件下でのみ抗菌活性を示し、従来のスクリーニングでは不活性と判定されていたであろう。NSC45641はアデニン類似体であり、アデニン補充によって可逆的なプリン制限を課す。その活性に細菌由来のウラシルホスホリボシルトランスフェラーゼUppを必要とするウラシル類似体NSC367428は、最小培地およびHT-29細胞の双方におけるピリミジン代謝の撹乱と一致している。以上の知見は、NCI Diversity Set VIIの細胞ベースの拡散スクリーニングにより、従来の栄養豊富な培地を用いたスクリーニングでは見逃される可能性が高い2つのクラスの阻害剤が同定されたことを示しており、細胞内病原体に対する治療法開発の有望な出発点として、栄養条件依存性抗菌薬を浮き彫りにしている。",
+      "answer_journal": null,
+      "question_type": "forecast",
+      "options": [
+        "Current opinion in microbiology",
+        "Renal failure",
+        "International journal of hygiene and environmental health",
+        "Current opinion in structural biology"
+      ]
+    },
+    {
+      "id": "10.1038/s41579-026-01371-2",
+      "title": "Integrating partner violence into HIV prevention and care for women",
+      "abstract": "Intimate partner violence can undermine women’s ability to access and safely use HIV prevention and treatment worldwide. HIV services and research must move beyond documenting violence to adopt confidential, flexible, trauma-informed care, trained first-line support and feasible referral pathways that protect biomedical effectiveness when women’s autonomy is constrained.",
+      "journal": "Nature Reviews Microbiology",
+      "doi": "10.1038/s41579-026-01371-2",
+      "date": "2026-11-25",
+      "authors": "Claudia P. Cortes",
+      "tags": [
+        "微生物学"
+      ],
+      "source_url": "https://www.nature.com/articles/s41579-026-01371-2",
+      "abstract_source": "rss",
+      "preprint": false,
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [],
+        "context": {
+          "marine": [],
+          "genomics": [],
+          "evolution": []
+        },
+        "tags": [
+          "微生物学"
+        ]
+      },
+      "discovery": [
+        {
+          "source": "https://www.nature.com/nrmicro.rss",
+          "query": "RSS feed",
+          "scope": "journal"
+        }
+      ],
+      "collection_order": 5613,
+      "collected_at": "2026-11-25T04:25:54.454456+00:00",
+      "collected_date": "2026-11-25",
+      "sources": [
+        "https://www.nature.com/nrmicro.rss"
+      ],
+      "first_seen": "2026-11-25",
+      "related_dois": [
+        "10.1038/s41579-026-01371-2"
+      ],
+      "translation": {
+        "title": {
+          "hash": "f03d873b9f9b442cf691446ee175226bec1f7d149526590e670665510105f58c",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-25T04:47:11.156933+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "3c854d0f4b043a25aa419059d969cec5f329d37f0c88fc642ffaca49dcef0750",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-25T04:47:11.156933+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "女性のHIV予防とケアへのパートナー暴力の統合",
+      "abstract_ja": "親密なパートナーからの暴力は、世界中で女性がHIVの予防・治療を受け、安全に利用する能力を損なう恐れがある。HIV関連のサービスや研究は、暴力の記録にとどまらず、機密性が保たれた柔軟なトラウマインフォームドケア、訓練を受けた一次支援、そして女性の自律性が制限されている状況においても生物医学的な有効性を確保できる実効性のある紹介経路の整備へと移行しなければならない。",
+      "answer_journal": "Nature Reviews Microbiology",
+      "question_type": "published",
+      "options": [
+        "Documenta ophthalmologica. Advances in ophthalmology",
+        "Current neuropharmacology",
+        "Journal of gastrointestinal oncology",
+        "Nature Reviews Microbiology"
+      ]
+    },
+    {
+      "id": "10.64898/2026.11.23.768699",
+      "title": "Cold atmospheric plasma for improved sustainability and fish welfare in recirculating aquaculture systems",
+      "abstract": "Decontamination of water is mandatory for the cultivation of aquatic species in recirculating aquaculture systems (RAS). Avoiding economic and ecological losses while ensuring safe conditions is important for the future introduction of new technologies. Therefore, the implementation of cold atmospheric plasma (CAP) within RAS was examined for the first time. For the integration of this technology two equal RAS were set up, one using CAP, the other one ultraviolet light (UV) for water decontamination. Experiments with Rainbow trout (Oncorhynchus mykiss) were performed for three weeks to compare CAP with UV as reference. The CAP device was switched on intermittently for 8 hours daily (with intervals of 10 min on and 30 min off), while two UV lamps were turned on continuously throughout the entire time of 3 weeks, which required more energy. Fish development was tracked by fish weight and stress levels (cortisol measurements). Values for pH, conductivity, oxygen, temperature, microbial load, microbiome and ion composition were also monitored. Microbial loads for both setups were reduced by four orders of magnitude. The biodiversity of the microbiome of the two technologies was similar with a beta-diversity between 19 and 25. Deviations within each setup were low with the alpha-diversity ranging from 2.23-2.93 (CAP) and 2.42-2.79 (UV). The water monitoring revealed similar results for pH value, conductivity, oxygen and temperature. No differences for the cortisol measurements and also the fish weight were determined. The results demonstrate CAP as a competitive and more energy efficient alternative to UV benefiting fish welfare and development in a similar way. The equal development of fish and water parameters and low energy consumption compared to UV makes CAP an energy efficient tool, likewise enhancing fish welfare.",
+      "journal": "",
+      "doi": "10.64898/2026.11.23.768699",
+      "date": "2026-11-24",
+      "authors": "Balazinski, M., Hahn, V., Hoehne, C., Wagner, R., Poehlein, A., Arndt, G.-M., Weltmann, K.-D., Basen, M., Kolb, J. F.",
+      "tags": [
+        "海洋微生物"
+      ],
+      "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.23.768699v1?rss=1",
+      "abstract_source": "rss",
+      "preprint": true,
+      "topic_filter": {
+        "accepted": true,
+        "reason": "microbial_evidence",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "microbial",
+          "microbiome"
+        ],
+        "context": {
+          "marine": [
+            "aquatic"
+          ],
+          "genomics": [],
+          "evolution": []
+        },
+        "tags": [
+          "海洋微生物"
+        ]
+      },
+      "discovery": [
+        {
+          "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+          "query": "RSS feed",
+          "scope": "candidate"
+        }
+      ],
+      "collection_order": 5610,
+      "collected_at": "2026-11-25T04:25:54.454456+00:00",
+      "collected_date": "2026-11-25",
+      "sources": [
+        "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+      ],
+      "first_seen": "2026-11-25",
+      "related_dois": [
+        "10.64898/2026.11.23.768699"
+      ],
+      "translation": {
+        "title": {
+          "hash": "aec76ea650bd75d700e62f0ba161d59b11e422dd12fb3a0b87f9fd1d3555f1b7",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-25T04:49:16.864608+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "5012b7b2514c8140c66d6307c1ba8345f98ab1510be21cbb637ec97c5beb983f",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-25T04:49:16.864608+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "循環式養殖システムにおける持続可能性と魚類福祉向上のための低温大気プラズマ",
+      "abstract_ja": "循環式水産養殖システム（RAS）における水の除染は、水生種の養殖において必須である。経済的・生態学的損失を回避しつつ安全な環境を確保することは、今後の新技術導入において重要である。そこで、RAS内における冷大気プラズマ（CAP）の導入について初めて検討を行った。本技術の統合のため、2基の同一構成のRASを設置し、一方にはCAPを、もう一方には水の除染用に紫外線（UV）を用いた。CAPと基準となるUVを比較するため、ニジマス（Oncorhynchus mykiss）を用いた実験を3週間にわたって実施した。CAP装置は1日8時間、間欠的に作動させ（作動10分、停止30分）、一方で2基のUVランプは3週間の全期間を通じて連続的に点灯させたため、より多くのエネルギーを必要とした。魚の発育は、魚体重量およびストレスレベル（コルチゾール測定値）によって追跡した。また、pH、導電率、酸素、温度、微生物負荷、マイクロバイオーム、およびイオン組成の値についてもモニタリングを行った。両構成において、微生物負荷は4桁減少した。2つの技術におけるマイクロバイオームの生物多様性は類似しており、β多様性は19～25の範囲であった。各構成内での偏差は低く、α多様性は2.23～2.93（CAP）および2.42～2.79（UV）の範囲であった。水質モニタリングの結果、pH値、導電率、酸素、および温度について同様の結果が得られた。コルチゾール測定値および魚体重量については差が認められなかった。これらの結果は、CAPがUVに代わる競争力のあるよりエネルギー効率の高い選択肢であり、同様に魚の福祉と発育に有益であることを示している。魚および水質パラメータの均一な発育と、UVと比較して低いエネルギー消費量により、CAPはエネルギー効率の高いツールとなり、同様に魚の福祉を向上させる。",
+      "answer_journal": null,
+      "question_type": "forecast",
+      "options": [
+        "American journal of botany",
+        "Medical and veterinary entomology",
+        "Developmental and comparative immunology",
+        "The Journal of nutritional biochemistry"
+      ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC journals 4",
+          "query": "(JOURNAL:\"Infection and Immunity\" OR JOURNAL:\"Antimicrobial Agents and Chemotherapy\" OR JOURNAL:\"Journal of Clinical Microbiology\" OR JOURNAL:\"Microbiology Resource Announcements\" OR JOURNAL:\"Nature\" OR JOURNAL:\"Nature Microbiology\" OR JOURNAL:\"Nature Ecology & Evolution\" OR JOURNAL:\"Nature Communications\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "journal article"
+      ],
+      "id": "10.1128/mra.00944-26",
+      "title": "Draft genome sequences of two <i>Stenotrophomonas muris</i> isolates, CBAS 1154 and CBAS 1234, recovered from patients with ICU-acquired ventilator-associated sepsis.",
+      "abstract": "We report the high-quality draft genome sequences of two clinical Stenotrophomonas muris isolates recovered from the lower respiratory tract of intensive care unit patients with ventilator-associated sepsis in Rio de Janeiro, Brazil. Based on our review of the available literature, we found no previous records of this species from Brazil.",
+      "journal": "Microbiology Resource Announcements",
+      "doi": "10.1128/mra.00944-26",
+      "date": "2026-11-09",
+      "authors": "Machado E, Rabelo E, Ferrari DDdM, Cristina Amorim Silveira Verduc R, Vellozo Dos Reis L, Monteiro de Barros Titonelli A, Ribeiro Gomes de Queiroz Crespo I, de Assis Coco R, de Lima EM, Lourenço ND, Pavoni Gomes Chagas T, Rodrigues CAS, Basílio de Miranda A, Gomes HM, Souza Leão R, Suffys PN, Gomes MZR, Catanho M.",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://europepmc.org/article/MED/43001781",
+      "preprint": false,
+      "review": false,
+      "pmcid": "",
+      "pmid": "43001781",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "genom",
+            "genome"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "collection_order": 5595,
+      "collected_at": "2026-11-25T04:15:19.670056+00:00",
+      "collected_date": "2026-11-25",
+      "sources": [
+        "Europe PMC journals 4"
+      ],
+      "first_seen": "2026-11-25",
+      "related_dois": [
+        "10.1128/mra.00944-26"
+      ],
+      "translation": {
+        "title": {
+          "hash": "0f76acfeccc44b8f492d5650b567fd045ddeb7d2b88abb4b37cee255f4801336",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-25T04:47:11.156933+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "b91accefb4e4f400f54955cf0515d74d39f9394444731b61165d551306d49316",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-25T04:47:11.156933+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "ICU獲得性人工呼吸器関連敗血症患者から回収された2株の<i>Stenotrophomonas muris</i>分離株、CBAS 1154およびCBAS 1234のドラフトゲノム配列。",
+      "abstract_ja": "ブラジル・リオデジャネイロの集中治療室において、人工呼吸器関連敗血症を発症した患者の下気道から回収された2株の臨床用Stenotrophomonas muris分離株の高品質なドラフトゲノム配列を報告する。既報文献を検討した結果、ブラジルにおいて本種の記録はこれまで確認されていない。",
+      "answer_journal": "Microbiology Resource Announcements",
+      "question_type": "published",
+      "options": [
+        "Current oncology reports",
+        "American journal of epidemiology",
+        "Science immunology",
+        "Microbiology Resource Announcements"
+      ]
+    },
+    {
+      "id": "10.1186/s40168-026-02581-9",
+      "title": "Synergistic therapeutic effects of endolysin BNT331 and a Lactobacillus crispatus consortium in a human vagina chip model of bacterial vaginosis",
+      "abstract": "Background\n                     Bacterial vaginosis (BV) is a vaginal infection caused by an imbalance in the vaginal microbiome characterized by a decrease in healthy bacteria, which are normally dominated by Lactobacillus species including Lactobacillus crispatus, along with a concomitant increase in dysbiotic bacteria, such as Gardnerella. Current treatments commonly fail to fully eradicate BV, and the lack of more effective therapies is due in part to the absence of relevant human models.\n                  \n                     Results\n                     We used a human vagina-on-a-chip (Vagina Chip) microfluidic culture device that has been previously shown to faithfully recapitulate the human vaginal microenvironment as well as the inflammatory and injurious effects of G. vaginalis to test the therapeutic efficacy of a consortium of L. crispatus alone or in combination with endolysin BNT331, which specifically targets and lyses Gardnerella. These studies revealed that when L. crispatus was added alone, it suppressed inflammation even though it failed to engraft or displace the G. vaginalis bacteria. In contrast, BNT331 effectively killed Gardnerella in dysbiotic Vagina Chip. Importantly, the combined administration of both treatments resulted in restoration of a healthier vaginal microenvironment, as indicated by higher engraftment of L. crispatus on-chip, inhibition of G. vaginalis, and a reduction in inflammation. Similar effects of this combined treatment were observed when administered to Vagina Chips infected with vaginal swab samples from BV patients.\n                  \n                     Conclusions\n                     The results from this study suggest that combination of a live biotherapeutic product composed of a L. crispatus consortium with a potent antimicrobial agent that targets G. vaginalis, such as BNT331, may offer an effective therapeutic strategy for patients with BV.\n                     \nVideo Abstract",
+      "journal": "Microbiome",
+      "doi": "10.1186/s40168-026-02581-9",
+      "date": "2026-11-25",
+      "authors": "",
+      "tags": [
+        "微生物学"
+      ],
+      "source_url": "https://link.springer.com/article/10.1186/s40168-026-02581-9",
+      "abstract_source": "rss",
+      "preprint": false,
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "bacteria",
+          "bacterial",
+          "microbiome"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [],
+          "evolution": []
+        },
+        "tags": [
+          "微生物学"
+        ]
+      },
+      "discovery": [
+        {
+          "source": "https://link.springer.com/search.rss?facet-journal-id=40168",
+          "query": "RSS feed",
+          "scope": "journal"
+        }
+      ],
+      "collection_order": 5608,
+      "collected_at": "2026-11-25T04:25:54.454456+00:00",
+      "collected_date": "2026-11-25",
+      "sources": [
+        "https://link.springer.com/search.rss?facet-journal-id=40168"
+      ],
+      "first_seen": "2026-11-25",
+      "related_dois": [
+        "10.1186/s40168-026-02581-9"
+      ],
+      "translation": {
+        "title": {
+          "hash": "42cb420898845c0156d1e4c27148719706ae87c343cb211e585628b659930491",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-25T04:49:16.864608+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "dfd33cfe68df0d15098d75f3447108cbcbf48eeed7ac050d2d77f98587cad7b9",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-25T04:49:16.864608+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "細菌性腟症のヒト腟チップモデルにおけるエンドリシンBNT331とLactobacillus crispatusコンソーシアムの相乗的な治療効果",
+      "abstract_ja": "背景\n                     細菌性腟症（BV）は、通常Lactobacillus crispatusを含むLactobacillus属菌が優位である健康な細菌の減少と、Gardnerellaなどのディスバイオティクス菌の同時増加を特徴とする、腟内マイクロバイオームのバランス異常によって引き起こされる腟感染症である。現在の治療法では一般的にBVを完全に根絶することはできず、より効果的な治療法が不足している要因の一つに、関連するヒトモデルが存在しないことが挙げられる。\n                  \n                     結果\n                     我々は、ヒト腟微小環境ならびにG. vaginalisによる炎症および傷害作用を忠実に再現することが既に示されているヒト腟オンチップ（Vagina Chip）マイクロ流体培養デバイスを用い、L. crispatus単独、またはGardnerellaを特異的に標的として溶解するエンドリシンBNT331との併用による治療効果を検証した。これらの研究により、L. crispatusを単独で添加した場合、G. vaginalis菌の定着や置換には至らなかったものの、炎症を抑制することが明らかになった。対照的に、BNT331はディスバイオティクス状態のVagina ChipにおいてGardnerellaを効果的に死滅させた。重要な点として、両治療法の併用投与により、オンチップ上でのL. crispatusの定着率の向上、G. vaginalisの抑制、および炎症の軽減が認められ、より健全な腟微小環境の回復がもたらされた。同様の併用治療効果は、BV患者の腟スワブ検体で感染させたVagina Chipに投与した場合にも観察された。\n                  \n                     結論\n                     本研究の結果は、L. crispatusコンソーシアムからなる生体内治療製品と、BNT331などのG. vaginalisを標的とする強力な抗菌薬との併用が、BV患者に対する有効な治療戦略となり得ることを示唆している。\n                     \nビデオ抄録",
+      "answer_journal": "Microbiome",
+      "question_type": "published",
+      "options": [
+        "Pharmaceuticals (Basel, Switzerland)",
+        "Microbiome",
+        "Dalton transactions (Cambridge, England : 2003)",
+        "Future microbiology"
+      ]
+    },
+    {
+      "id": "10.64898/2026.11.23.768569",
+      "title": "Evaluating WGS-based methods as an in silico replacement of phage typing for historical continuity and host association in  Salmonella Typhimurium",
+      "abstract": "Salmonella enterica serovar Typhimurium (STm) poses a significant burden on public health worldwide. The Anderson phage typing scheme has historically supported surveillance, outbreak investigations and source attribution through associations between phage types and animal hosts. However, limitations inherent to the scheme have led to the gradual replacement of phage typing by whole-genome sequencing (WGS)-based methods. In this study, we applied statistical and machine learning approaches to 1,329 high-quality STm whole-genome sequences to compare phage typing with hierarchical clustering of core-genome multilocus sequence typing (HierCC) and the single nucleotide polymorphism (SNP) address. We observed low congruence (< 0.60) between phage typing and WGS-based approaches. Nevertheless, a random forest model using WGS-based subtypes as features was able to predict all phage types with high specificity ([≥] 0.94) and at least 80% recall for 10 of the 24 analysed phage types. These included phage types of human and veterinary epidemiological importance, including DT193, DT104, DT2, DT40, DT56, DT9, and DT99. We then assessed whether WGS-based subtyping methods could replace the host-association feature of phage typing. At higher distance thresholds ([≥] 100) WGS-based subtyping methods were more informative of animal host species and displayed stronger host-associations than phage types for 11 of the 12 animal hosts, with significantly stronger associations for ducks, finches, and pigs (all p < 0.05). Thus, despite low congruence between phage types and WGS-based subtypes, our random forest model accurately predicted several epidemiologically important phage types, including those important to public health and veterinary surveillance, supporting its potential as an in silico alternative for those phage types. Finally, our findings suggest HierCC and SNP address methods can capture the host-association information historically derived from phage typing.",
+      "journal": "",
+      "doi": "10.64898/2026.11.23.768569",
+      "date": "2026-11-24",
+      "authors": "Kolodziejczyk, G. M., Guzinski, J., Wanelik, K. M., Arnold, M., Couto Alves, A., Petrovska, L., Ritchie, J. M.",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.23.768569v1?rss=1",
+      "abstract_source": "rss",
+      "preprint": true,
+      "topic_filter": {
+        "accepted": true,
+        "reason": "microbial_evidence",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "phage"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "genom",
+            "genome"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "discovery": [
+        {
+          "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+          "query": "RSS feed",
+          "scope": "candidate"
+        }
+      ],
+      "collection_order": 5612,
+      "collected_at": "2026-11-25T04:25:54.454456+00:00",
+      "collected_date": "2026-11-25",
+      "sources": [
+        "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+      ],
+      "first_seen": "2026-11-25",
+      "related_dois": [
+        "10.64898/2026.11.23.768569"
+      ],
+      "translation": {
+        "title": {
+          "hash": "a1d330e2ad51f6a9ed709f81a3107775e90e25347c368ec2de2b6aae2febe89e",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-25T04:49:16.864608+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "63f69dbcc9d69b852ca253f5073e9c9db223b99d16d852d8b8940d2308709cda",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-25T04:49:16.864608+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "Salmonella Typhimuriumにおける歴史的連続性と宿主関連性の解析に向けた、ファージタイピングのin silico代替法としてのWGSベースの手法の評価",
+      "abstract_ja": "Salmonella enterica serovar Typhimurium (STm) は、世界的に公衆衛生上の重大な負担となっている。アンダーソン・ファージタイピング法は、従来、ファージ型と動物宿主との関連性を通じて、サーベイランス、アウトブレイク調査、および発生源の特定を支援してきた。しかし、本手法に固有の限界により、ファージタイピングは全ゲノムシーケンシング（WGS）に基づく手法へと徐々に置き換えられてきた。本研究では、1,329件の高品質なSTm全ゲノム配列に対し、統計的手法および機械学習アプローチを適用し、ファージタイピングをコアゲノム多遺伝子座配列タイピングの階層的クラスタリング（HierCC）および一塩基多型（SNP）アドレスと比較した。その結果、ファージタイピングとWGSベースの手法との間には低い一致度（< 0.60）が認められた。それにもかかわらず、WGSベースのサブタイプを特徴量として用いたランダムフォレストモデルは、高い特異度（[≥] 0.94）で全てのファージ型を予測でき、解析した24種類のファージ型のうち10種類において少なくとも80%の再現率を示した。これらには、DT193、DT104、DT2、DT40、DT56、DT9、およびDT99を含む、ヒトおよび獣医学上の疫学的に重要なファージ型が含まれていた。次に、WGSベースのサブタイピング手法がファージタイピングの宿主関連特徴量を代替できるかを評価した。より高い距離閾値（[≥] 100）において、WGSベースのサブタイピング手法は動物宿主種についてより有益な情報を提供し、12種類の動物宿主のうち11種類でファージ型よりも強い宿主関連を示した。特にアヒル、フィンチ、およびブタにおいて有意に強い関連が認められた（すべて p < 0.05）。したがって、ファージ型とWGSベースのサブタイプとの一致度は低いものの、我々のランダムフォレストモデルは、公衆衛生および獣医学サーベイランスにおいて重要なものを含む、疫学的に重要な複数のファージ型を正確に予測し、これらのファージ型に対するin silico代替手法としての可能性を裏付けた。最後に、本研究の結果は、HierCCおよびSNPアドレス手法が、従来ファージタイピングから得られてきた宿主関連情報を捉え得ることを示唆している。",
+      "answer_journal": null,
+      "question_type": "forecast",
+      "options": [
+        "Biology",
+        "JAMA ophthalmology",
+        "Trends in plant science",
+        "Journal of environmental management"
+      ]
+    },
+    {
+      "id": "10.1186/s13059-026-04360-z",
+      "title": "A long-read metagenomic catalog of near-finished bacterial genomes from Shanghai pet dogs captures gut microbial diversity across geographically distinct cohorts",
+      "abstract": "Background\n                     Pet dogs are considered part of the family, and understanding their gut microbiomes can provide insights into both animal and household health. Most comprehensive studies, however, relied on short-read sequencing, resulting in fragmented metagenome-assembled genomes (MAGs) that miss mobile genetic elements, antimicrobial resistance genes, and ribosomal genes.\n                  \n                     Results\n                     We apply deep long-read metagenomics, polished with short reads, to fecal samples from 51 urban pet dogs in Shanghai, generating 2,676 MAGs representing 320 bacterial species. Approximately 72% of these MAGs achieve near-finished quality and often improve on the corresponding publicly available reference genomes. Comparisons with external datasets show that our Shanghai-based MAG catalog is representative of urban pet dogs worldwide, with a median read-mapping rate above 90%. Moreover, we retrieve 185 nonredundant clusters of circular extrachromosomal elements, including elements linked to antimicrobial resistance, which are also detected in external dog gut datasets. Finally, long-read metagenomics reveals a dynamic genome architecture, including a putative secondary chromosome in a Fusobacterium species.\n                  \n                     Conclusions\n                     We provide a high-quality reference resource and demonstrate the power of deep long-read metagenomics to resolve microbial diversity and genome architecture in complex host-associated microbiomes.",
+      "journal": "Genome Biology",
+      "doi": "10.1186/s13059-026-04360-z",
+      "date": "2026-11-25",
+      "authors": "",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://link.springer.com/article/10.1186/s13059-026-04360-z",
+      "abstract_source": "rss",
+      "preprint": false,
+      "topic_filter": {
+        "accepted": true,
+        "reason": "microbial_evidence",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "bacteria",
+          "bacterial",
+          "genome",
+          "metagenom",
+          "metagenome",
+          "metagenomic",
+          "metagenomics",
+          "microbial",
+          "microbiome",
+          "microbiomes",
+          "resource"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "genom",
+            "genome",
+            "metagenom",
+            "metagenome",
+            "metagenomic"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "discovery": [
+        {
+          "source": "https://link.springer.com/search.rss?facet-journal-id=13059",
+          "query": "RSS feed",
+          "scope": "candidate"
+        }
+      ],
+      "collection_order": 5609,
+      "collected_at": "2026-11-25T04:25:54.454456+00:00",
+      "collected_date": "2026-11-25",
+      "sources": [
+        "https://link.springer.com/search.rss?facet-journal-id=13059"
+      ],
+      "first_seen": "2026-11-25",
+      "related_dois": [
+        "10.1186/s13059-026-04360-z"
+      ],
+      "translation": {
+        "title": {
+          "hash": "1d2271cde124c43044e2ac919d89c15caf91fabf9c9996806d34589032e4110a",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-25T04:47:11.156933+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "f097df883af5c8946025b59f02a5f27beec2f53560db07a005cde966e4938885",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-25T04:47:11.156933+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "上海の飼い犬から得られた、ほぼ完成状態にある細菌ゲノムのロングリード・メタゲノムカタログは、地理的に異なるコホートにわたる腸内微生物の多様性を捉えている。",
+      "abstract_ja": "背景\n                     ペット犬は家族の一員とみなされており、その腸内微生物叢を理解することは、動物および家庭の双方の健康に関する知見をもたらす。しかし、最も包括的な研究の多くはショートリードシーケンシングに依存しており、その結果、可動性遺伝要素、薬剤耐性遺伝子、およびリボソーム遺伝子を欠いた断片的なメタゲノムアセンブルゲノム（MAG）が生成されていた。\n                  \n                     結果\n                     本研究では、ショートリードで精緻化されたディープロングリードメタゲノミクスを、上海の都市部のペット犬51頭の糞便サンプルに適用し、320種の細菌を代表する2,676個のMAGを生成した。これらのMAGの約72%がほぼ完成に近い品質に達しており、多くの場合、公開されている対応するリファレンスゲノムよりも精度が向上していた。外部データセットとの比較により、本研究の上海ベースのMAGカタログは世界中の都市部のペット犬を代表するものであり、リードマッピング率の中央値は90%を超えていることが示された。さらに、薬剤耐性に関連する要素を含む、非冗長な環状染色体外要素のクラスターを185個抽出した。これらの要素は、外部の犬の腸内データセットにおいても検出されている。最後に、ロングリードメタゲノミクスにより、Fusobacterium属の一種における推定二次染色体を含む、動的なゲノム構造が明らかになった。\n                  \n                     結論\n                     本研究では、高品質なリファレンスリソースを提供するとともに、複雑な宿主関連微生物叢における微生物多様性とゲノム構造を解明する上でのディープロングリードメタゲノミクスの有用性を実証した。",
+      "answer_journal": "Genome Biology",
+      "question_type": "published",
+      "options": [
+        "Journal of inflammation research",
+        "Genome Biology",
+        "Cell biology international",
+        "Case reports in pediatrics"
+      ]
+    },
+    {
+      "id": "10.1186/s40168-026-02570-y",
+      "title": "Endophytic fungi shape tree epigenomes and enhance thermotolerance under climate warming",
+      "abstract": "Background\n                Rising global temperatures threaten the survival and regeneration of temperate and boreal forests. Yet how microbial symbioses contribute to tree heat-resilience remains unclear.\n              \n                Results\n                Here, we integrated field ecological surveys with controlled multi-omics analyses and found that soil fungal diversity declined, accompanied by enrichment of potentially beneficial taxa along regional variation in max temperature of the warmest month (BIO5). Inoculation with representative endophytes significantly promoted birch (Betula platyphylla) growth and photosynthetic performance under non-stress conditions. Furthermore, endophytic fungi enhance thermal tolerance in birch by establishing a transcriptional chromatin state at heat-responsive genes that facilitates their activation under heat stress. Integrative network analyses identified regulatory networks linking fungal symbiosis to thermotolerance pathways.\n              \n                Conclusion\n                These findings connect macroecological patterns to molecular mechanisms, uncovering an epigenetic basis for microbe-mediated heat adaptation in trees and highlighting symbiotic fungi as both key partners and practical means to strengthen forest resilience under climate warming.\n                \n\n                  \n                    \n                      \n                        Video Abstract",
+      "journal": "Microbiome",
+      "doi": "10.1186/s40168-026-02570-y",
+      "date": "2026-11-25",
+      "authors": "",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://link.springer.com/article/10.1186/s40168-026-02570-y",
+      "abstract_source": "rss",
+      "preprint": false,
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "fungal",
+          "fungi",
+          "microbe",
+          "microbial"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "transcript"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "discovery": [
+        {
+          "source": "https://link.springer.com/search.rss?facet-journal-id=40168",
+          "query": "RSS feed",
+          "scope": "journal"
+        }
+      ],
+      "collection_order": 5607,
+      "collected_at": "2026-11-25T04:25:54.454456+00:00",
+      "collected_date": "2026-11-25",
+      "sources": [
+        "https://link.springer.com/search.rss?facet-journal-id=40168"
+      ],
+      "first_seen": "2026-11-25",
+      "related_dois": [
+        "10.1186/s40168-026-02570-y"
+      ],
+      "translation": {
+        "title": {
+          "hash": "4668f9a4eccd34d7f7774bc3c603bf1db7a3aeeaf3a37615d48e887a8405f8c3",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-25T04:47:11.156933+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "fead16790e29b81d93c32e5a15b75878a66db3410a820db6a082483f162a61c5",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-25T04:47:11.156933+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "内生菌は樹木のエピゲノムを形成し、気候温暖化下における耐熱性を高める。",
+      "abstract_ja": "背景\n                地球規模の気温上昇は、温帯林および北方林の生存と再生を脅かしている。しかし、微生物共生が樹木の熱耐性にどのように寄与しているかは依然として不明である。\n              \n                結果\n                本研究では、野外生態学的調査と制御されたマルチオミクス解析を統合し、土壌真菌の多様性が低下し、それに伴い最暖月の最高気温（BIO5）の地域差に沿って潜在的に有益な分類群が増加することを見出した。代表的な内生菌の接種は、非ストレス条件下においてシラカバ（Betula platyphylla）の成長と光合成能を有意に促進した。さらに、内生菌は熱応答性遺伝子において転写クロマチン状態を形成し、熱ストレス下での活性化を促進することで、シラカバの耐熱性を高める。統合的なネットワーク解析により、真菌共生と耐熱性経路を結びつける調節ネットワークが同定された。\n              \n                結論\n                これらの知見は、マクロ生態学的パターンを分子メカニズムに結びつけ、樹木における微生物介在性の熱適応のエピジェネティックな基盤を明らかにするとともに、気候温暖化下で森林のレジリエンスを強化するための重要なパートナーおよび実用的な手段として共生菌を浮き彫りにした。\n                \n\n                  \n                    \n                      \n                        ビデオ要旨",
+      "answer_journal": "Microbiome",
+      "question_type": "published",
+      "options": [
+        "Food chemistry: X",
+        "Microbiome",
+        "Molecular carcinogenesis",
+        "Lancet (London, England)"
       ]
     }
   ],
