@@ -335107,5 +335107,292 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "Salmonella Typhimuriumにおける歴史的連続性と宿主関連性の解析に向けた、ファージタイピングのin silico代替法としてのWGSベースの手法の評価",
     "abstract_ja": "Salmonella enterica serovar Typhimurium (STm) は、世界的に公衆衛生上の重大な負担となっている。アンダーソン・ファージタイピング法は、従来、ファージ型と動物宿主との関連性を通じて、サーベイランス、アウトブレイク調査、および発生源の特定を支援してきた。しかし、本手法に固有の限界により、ファージタイピングは全ゲノムシーケンシング（WGS）に基づく手法へと徐々に置き換えられてきた。本研究では、1,329件の高品質なSTm全ゲノム配列に対し、統計的手法および機械学習アプローチを適用し、ファージタイピングをコアゲノム多遺伝子座配列タイピングの階層的クラスタリング（HierCC）および一塩基多型（SNP）アドレスと比較した。その結果、ファージタイピングとWGSベースの手法との間には低い一致度（< 0.60）が認められた。それにもかかわらず、WGSベースのサブタイプを特徴量として用いたランダムフォレストモデルは、高い特異度（[≥] 0.94）で全てのファージ型を予測でき、解析した24種類のファージ型のうち10種類において少なくとも80%の再現率を示した。これらには、DT193、DT104、DT2、DT40、DT56、DT9、およびDT99を含む、ヒトおよび獣医学上の疫学的に重要なファージ型が含まれていた。次に、WGSベースのサブタイピング手法がファージタイピングの宿主関連特徴量を代替できるかを評価した。より高い距離閾値（[≥] 100）において、WGSベースのサブタイピング手法は動物宿主種についてより有益な情報を提供し、12種類の動物宿主のうち11種類でファージ型よりも強い宿主関連を示した。特にアヒル、フィンチ、およびブタにおいて有意に強い関連が認められた（すべて p < 0.05）。したがって、ファージ型とWGSベースのサブタイプとの一致度は低いものの、我々のランダムフォレストモデルは、公衆衛生および獣医学サーベイランスにおいて重要なものを含む、疫学的に重要な複数のファージ型を正確に予測し、これらのファージ型に対するin silico代替手法としての可能性を裏付けた。最後に、本研究の結果は、HierCCおよびSNPアドレス手法が、従来ファージタイピングから得られてきた宿主関連情報を捉え得ることを示唆している。"
+  },
+  {
+    "id": "10.1016/j.cell.2026.10.042",
+    "title": "Revisiting the chemical alphabet of nucleic acids",
+    "abstract": "Nearly two decades after the discovery of natural phosphorothioates in bacterial DNA, Maman et al. now demonstrate their existence in archaeal RNA. By identifying the responsible writer enzymes and revealing a role in tRNA stabilization, they establish phosphorothioation as a biologically relevant RNA modification. This discovery invites us to reconsider the traditional boundaries between the chemical alphabets of DNA and RNA.",
+    "journal": "Cell",
+    "doi": "10.1016/j.cell.2026.10.042",
+    "date": "2026-11-25",
+    "authors": "Stefanie Kaiser",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.cell.com/cell/fulltext/S0092-8674(26)01335-8?rss=yes",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "archaea",
+        "archaeal",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.cell.com/cell/current.rss",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5641,
+    "collected_at": "2026-11-25T15:46:29.923395+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.cell.com/cell/current.rss"
+    ],
+    "first_seen": "2026-11-25",
+    "related_dois": [
+      "10.1016/j.cell.2026.10.042"
+    ],
+    "translation": {
+      "title": {
+        "hash": "be62033e7cad8af3daee911f619c45ca2d72bff91c955ff7356ee4b27033842c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-25T16:07:57.758103+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1b50a5938339c31392dd7df671c03c99ced622d0671452fa5b7be9df3c7f403b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-25T16:07:57.758103+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "核酸の化学アルファベットを再考する",
+    "abstract_ja": "細菌DNAにおける天然のホスホロチオエートの発見から20年近くを経て、Mamanらは今回、古細菌RNAにおけるその存在を実証した。関与するライター酵素を同定し、tRNA安定化における役割を明らかにすることで、彼らはホスホロチオエート化を生物学的に意義のあるRNA修飾として確立した。この発見は、DNAとRNAの化学的アルファベット間の従来の境界を再考させるものである。"
+  },
+  {
+    "id": "10.1111/1462-2920.70506",
+    "title": "Eight Unique, Novel Pseudoxanthomonas and Pseudomonas Bacteriophages Provide First Insight Into the Viral Ecology of Agaricus bisporus Mushroom Compost",
+    "abstract": "The microbes in mushroom compost are essential for button mushroom production, especially nitrifiers such as Pseudoxanthomonas. We report eight diverse and novel bacteriophages from compost, belonging to five new genera, which are stable at high temperatures and use Pseudoxanthomonas and Pseudomonas spp. as hosts.\n\nABSTRACT\nButton mushrooms (Agaricus bisporus) are cultivated commercially on a specialised compost prepared mainly from wheat straw and poultry manure, which is selective for growth of Agaricus. During composting, a succession of bacterial communities transform these substrates into productive compost and reach a stable, climax community dominated by Pseudoxanthomonas. These bacterial dynamics have been well studied, but the presence and role of bacteriophages in mushroom compost is unknown. Here, we report the first observations of eight novel, genomically diverse bacteriophages isolated from mushroom compost. These include four phages infecting Pseudoxanthomonas taiwanensis, three infecting Pseudoxanthomonas suwonensis and one Pseudomonas aeruginosa phage belonging to genus Yuavirus. The isolated phages are morphologically diverse, spanning siphovirus, podovirus and Inoviridae morphotypes. They are stable at high temperatures and their genomes share little resemblance to known phage genomes, with the Pseudoxanthomonas phages belonging to five new genera. The novelty of these phages provides new insights into phage diversity and contributes to a broader understanding of the overall microbial community within mushroom compost. Their interactions with their bacterial hosts have implications for the growth of button mushrooms and this study provides a foundational starting point for investigating the function of bacteriophages in the mushroom composting process.\n\nThe microbes in mushroom compost are essential for button mushroom production, especially nitrifiers such as Pseudoxanthomonas. We report eight diverse and novel bacteriophages from compost, belonging to five new genera, which are stable at high temperatures and use Pseudoxanthomonas and Pseudomonas spp. as hosts.\n\nABSTRACT\nButton mushrooms (Agaricus bisporus) are cultivated commercially on a specialised compost prepared mainly from wheat straw and poultry manure, which is selective for growth of Agaricus. During composting, a succession of bacterial communities transform these substrates into productive compost and reach a stable, climax community dominated by Pseudoxanthomonas. These bacterial dynamics have been well studied, but the presence and role of bacteriophages in mushroom compost is unknown. Here, we report the first observations of eight novel, genomically diverse bacteriophages isolated from mushroom compost. These include four phages infecting Pseudoxanthomonas taiwanensis, three infecting Pseudoxanthomonas suwonensis and one Pseudomonas aeruginosa phage belonging to genus Yuavirus. The isolated phages are morphologically diverse, spanning siphovirus, podovirus and Inoviridae morphotypes. They are stable at high temperatures and their genomes share little resemblance to known phage genomes, with the Pseudoxanthomonas phages belonging to five new genera. The novelty of these phages provides new insights into phage diversity and contributes to a broader understanding of the overall microbial community within mushroom compost. Their interactions with their bacterial hosts have implications for the growth of button mushrooms and this study provides a foundational starting point for investigating the function of bacteriophages in the mushroom composting process.",
+    "journal": "Environmental Microbiology",
+    "doi": "10.1111/1462-2920.70506",
+    "date": "2026-11-24",
+    "authors": "Rebecca M. Martin, \nMeghann Thai, \nMichael A. Kertesz",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.70506?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Pseudomonas",
+        "bacteria",
+        "bacterial",
+        "bacteriophage",
+        "bacteriophages",
+        "microbe",
+        "microbes",
+        "microbial",
+        "phage",
+        "phages",
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://onlinelibrary.wiley.com/feed/14622920/most-recent",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5645,
+    "collected_at": "2026-11-25T15:46:29.923395+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://onlinelibrary.wiley.com/feed/14622920/most-recent"
+    ],
+    "first_seen": "2026-11-25",
+    "related_dois": [
+      "10.1111/1462-2920.70506"
+    ],
+    "translation": {
+      "title": {
+        "hash": "992e922839835b779d3b27e37c57dc3718e5ab3cdda900fe0d06618d5d570531",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-25T16:07:57.758103+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b63def8291ee2a7d747ed923e6a167b45c00a7e51da5e57640efb5c0b58dbd2c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-25T16:07:57.758103+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "8種の特異かつ新規なシュードキサントモナス・シュードモナス細菌ファージによるAgaricus bisporusキノコ堆肥のウイルス生態に関する初の知見",
+    "abstract_ja": "キノコ堆肥中の微生物は、ボタンマッシュルームの生産に不可欠であり、特にPseudoxanthomonasなどの硝化菌が重要である。本報では、堆肥から得られた、5つの新属に属する多様かつ新規のバクテリオファージ8種について報告する。これらは高温下で安定しており、PseudoxanthomonasおよびPseudomonas属を宿主とする。\n\n要旨\nボタンマッシュルーム（Agaricus bisporus）は、主に小麦わらと家禽糞尿から調製され、Agaricusの生育に選択的な専用堆肥を用いて商業的に栽培されている。堆肥化の過程において、一連の細菌群集がこれらの基質を生産性の高い堆肥へと変換し、Pseudoxanthomonasが優占する安定した極相群集に達する。こうした細菌動態については十分に研究されてきたが、キノコ堆肥におけるバクテリオファージの存在とその役割は不明である。本報では、キノコ堆肥から単離された、ゲノム的に多様な8種の新規バクテリオファージを初めて報告する。これらには、Pseudoxanthomonas taiwanensisに感染する4種のファージ、Pseudoxanthomonas suwonensisに感染する3種のファージ、およびYuavirus属に属するPseudomonas aeruginosaファージ1種が含まれる。単離されたファージは形態的に多様であり、シフォウイルス、ポドウイルス、およびイノウイルス科の形態型にわたる。これらは高温下で安定しており、そのゲノムは既知のファージゲノムとほとんど類似しておらず、Pseudoxanthomonasファージは5つの新属に属している。これらのファージの新規性は、ファージの多様性に関する新たな知見をもたらし、キノコ堆肥内の微生物群集全体のより広範な理解に寄与する。細菌宿主との相互作用はボタンマッシュルームの生育に影響を及ぼし、本研究はキノコ堆肥化プロセスにおけるバクテリオファージの機能を調査するための基礎的な出発点となる。\n\nキノコ堆肥中の微生物は、ボタンマッシュルームの生産に不可欠であり、特にPseudoxanthomonasなどの硝化菌が重要である。本報では、堆肥から得られた、5つの新属に属する多様かつ新規のバクテリオファージ8種について報告する。これらは高温下で安定しており、PseudoxanthomonasおよびPseudomonas属を宿主とする。\n\n要旨\nボタンマッシュルーム（Agaricus bisporus）は、主に小麦わらと家禽糞尿から調製され、Agaricusの生育に選択的な専用堆肥を用いて商業的に栽培されている。堆肥化の過程において、一連の細菌群集がこれらの基質を生産性の高い堆肥へと変換し、Pseudoxanthomonasが優占する安定した極相群集に達する。こうした細菌動態については十分に研究されてきたが、キノコ堆肥におけるバクテリオファージの存在とその役割は不明である。本報では、キノコ堆肥から単離された、ゲノム的に多様な8種の新規バクテリオファージを初めて報告する。これらには、Pseudoxanthomonas taiwanensisに感染する4種のファージ、Pseudoxanthomonas suwonensisに感染する3種のファージ、およびYuavirus属に属するPseudomonas aeruginosaファージ1種が含まれる。単離されたファージは形態的に多様であり、シフォウイルス、ポドウイルス、およびイノウイルス科の形態型にわたる。これらは高温下で安定しており、そのゲノムは既知のファージゲノムとほとんど類似しておらず、Pseudoxanthomonasファージは5つの新属に属している。これらのファージの新規性は、ファージの多様性に関する新たな知見をもたらし、キノコ堆肥内の微生物群集全体のより広範な理解に寄与する。細菌宿主との相互作用はボタンマッシュルームの生育に影響を及ぼし、本研究はキノコ堆肥化プロセスにおけるバクテリオファージの機能を調査するための基礎的な出発点となる。"
+  },
+  {
+    "id": "10.1111/1758-2229.70441",
+    "title": "Millennial‐Scale Persistence and Long‐Term Dormancy of Bloom‐Forming Cyanobacteria in the Baltic Sea Revealed by Viable Resting Stages and Sedimentary Ancient DNA",
+    "abstract": "Integrating cyanobacterial akinetes and sedaDNA from Baltic Sea sediments (~7200 yr BP) reveals millennial‐scale fluctuations in Nostocales abundance and a pronounced increase in all parameters since the 1990s. These findings highlight the exceptional longevity of cyanobacterial resting stages, long‐term population dynamics, and the value of multi‐proxy approaches for reconstructing past ecosystem changes.\n\nABSTRACT\nBlooms of filamentous diazotrophic cyanobacteria (Nostocales) have occurred in the Baltic Sea for millennia but are expected to intensify under ongoing climate warming and eutrophication, with consequences for ecosystem health. Nostocales form resting stages (akinetes) that are preserved in sediments, enabling reconstruction of past bloom dynamics. We investigated past and contemporary variability in the abundance of bloom‐forming Nostocales by analysing akinetes and sedimentary ancient DNA (sedaDNA) metabarcoding from central Baltic Sea sediments, spanning ~7200 calibrated years before present (cal yr BP). Akinete viability was assessed by dead‐cell staining and fluorescence microscopy. Akinetes were present back to ~3580 cal yr BP, with 98% remaining viable for up to 200 years and the oldest viable akinete persisting up to ~1450 years, highlighting resilience in hypoxic Baltic Sea sediments. SedaDNA extended the Nostocales record back to ~7150 cal yr BP. Both parameters showed a significant increase in Nostocales abundance since the 1990s, likely driven by past anthropogenic nutrient inputs before and ongoing climate warming in the Baltic Sea. The findings highlight the value of a multi‐parameter approach, while discrepancies between akinete and sedaDNA records underscore the complexity of reconstructing past cyanobacterial abundance from sedimentary archives.\n\nIntegrating cyanobacterial akinetes and sedaDNA from Baltic Sea sediments (~7200 yr BP) reveals millennial-scale fluctuations in Nostocales abundance and a pronounced increase in all parameters since the 1990s. These findings highlight the exceptional longevity of cyanobacterial resting stages, long-term population dynamics, and the value of multi-proxy approaches for reconstructing past ecosystem changes.\n\nABSTRACT\nBlooms of filamentous diazotrophic cyanobacteria (Nostocales) have occurred in the Baltic Sea for millennia but are expected to intensify under ongoing climate warming and eutrophication, with consequences for ecosystem health. Nostocales form resting stages (akinetes) that are preserved in sediments, enabling reconstruction of past bloom dynamics. We investigated past and contemporary variability in the abundance of bloom-forming Nostocales by analysing akinetes and sedimentary ancient DNA (sedaDNA) metabarcoding from central Baltic Sea sediments, spanning ~7200 calibrated years before present (cal yr BP). Akinete viability was assessed by dead-cell staining and fluorescence microscopy. Akinetes were present back to ~3580 cal yr BP, with 98% remaining viable for up to 200 years and the oldest viable akinete persisting up to ~1450 years, highlighting resilience in hypoxic Baltic Sea sediments. SedaDNA extended the Nostocales record back to ~7150 cal yr BP. Both parameters showed a significant increase in Nostocales abundance since the 1990s, likely driven by past anthropogenic nutrient inputs before and ongoing climate warming in the Baltic Sea. The findings highlight the value of a multi-parameter approach, while discrepancies between akinete and sedaDNA records underscore the complexity of reconstructing past cyanobacterial abundance from sedimentary archives.",
+    "journal": "Environmental Microbiology Reports",
+    "doi": "10.1111/1758-2229.70441",
+    "date": "2026-11-24",
+    "authors": "Cynthia Medwed, \nJuliane Romahn, \nJérôme Kaiser, \nMiklós Bálint, \nSarah Bolius, \nHelge W. Arz, \nAnke Kremp",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1758-2229.70441?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "cyanobacteria",
+        "cyanobacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://onlinelibrary.wiley.com/feed/17582229/most-recent",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5651,
+    "collected_at": "2026-11-25T15:46:29.923395+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://onlinelibrary.wiley.com/feed/17582229/most-recent"
+    ],
+    "first_seen": "2026-11-25",
+    "related_dois": [
+      "10.1111/1758-2229.70441"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8abe036f43dba670de273e5cb27af82b1f71830fd789bb1a8b8dd81c8a1dd3e5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-25T16:07:57.758103+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "bcc6aa4a2d5d9442082ef6382f77a4f861f80f348b347f6b4425d3f797d54d03",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-25T16:07:57.758103+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "生存可能な休眠期と堆積古DNAから解明するバルト海における花成シアノバクテリアのミレニアムスケールの持続性と長期休眠",
+    "abstract_ja": "バルト海堆積物（約7200 yr BP）由来のシアノバクテリア・アキネテスとsedaDNAを統合解析した結果、Nostocalesの存在量に千年規模の変動が認められ、1990年代以降、すべてのパラメータにおいて顕著な増加が観察された。これらの知見は、シアノバクテリアの休眠段階の極めて長い寿命、長期的な個体群動態、および過去の生態系変化を復元するためのマルチプロキシ手法の有用性を浮き彫りにしている。\n\n要旨\n糸状性窒素固定シアノバクテリア（Nostocales）の大発生はバルト海において数千年にわたり発生してきたが、現在進行中の気候温暖化と富栄養化の下でさらに激化すると予想されており、生態系の健全性に影響を及ぼす。Nostocalesは堆積物中に保存される休眠段階（アキネテス）を形成するため、過去の大発生動態の復元が可能となる。本研究では、現在から遡ること約7200暦年（cal yr BP）にわたるバルト海中部堆積物から、アキネテスおよび堆積古DNA（sedaDNA）のメタバーコーディングを解析し、大発生を形成するNostocalesの存在量における過去および現代の変動を調査した。アキネテスの生存能は、死細胞染色法および蛍光顕微鏡法により評価した。アキネテスは約3580 cal yr BPまで存在しており、その98%が最大200 年間生存し、最古の生存アキネテスは約1450 年間にわたって存続していたことから、低酸素状態のバルト海堆積物における耐性が示された。sedaDNAにより、Nostocalesの記録は約7150 cal yr BPまで遡って得られた。両パラメータともに、1990年代以降Nostocalesの存在量が有意に増加しており、これは過去の人為的な栄養塩投入と、現在進行中のバルト海の気候温暖化によるものと考えられる。これらの知見はマルチパラメータアプローチの有用性を強調する一方で、アキネテスとsedaDNAの記録間の不一致は、堆積物アーカイブから過去のシアノバクテリア存在量を復元することの複雑さを浮き彫りにしている。\n\nバルト海堆積物（約7200 yr BP）由来のシアノバクテリア・アキネテスとsedaDNAを統合解析した結果、Nostocalesの存在量に千年規模の変動が認められ、1990年代以降、すべてのパラメータにおいて顕著な増加が観察された。これらの知見は、シアノバクテリアの休眠段階の極めて長い寿命、長期的な個体群動態、および過去の生態系変化を復元するためのマルチプロキシ手法の有用性を浮き彫りにしている。\n\n要旨\n糸状性窒素固定シアノバクテリア（Nostocales）の大発生はバルト海において数千年にわたり発生してきたが、現在進行中の気候温暖化と富栄養化の下でさらに激化すると予想されており、生態系の健全性に影響を及ぼす。Nostocalesは堆積物中に保存される休眠段階（アキネテス）を形成するため、過去の大発生動態の復元が可能となる。本研究では、現在から遡ること約7200暦年（cal yr BP）にわたるバルト海中部堆積物から、アキネテスおよび堆積古DNA（sedaDNA）のメタバーコーディングを解析し、大発生を形成するNostocalesの存在量における過去および現代の変動を調査した。アキネテスの生存能は、死細胞染色法および蛍光顕微鏡法により評価した。アキネテスは約3580 cal yr BPまで存在しており、その98%が最大200 年間生存し、最古の生存アキネテスは約1450 年間にわたって存続していたことから、低酸素状態のバルト海堆積物における耐性が示された。sedaDNAにより、Nostocalesの記録は約7150 cal yr BPまで遡って得られた。両パラメータともに、1990年代以降Nostocalesの存在量が有意に増加しており、これは過去の人為的な栄養塩投入と、現在進行中のバルト海の気候温暖化によるものと考えられる。これらの知見はマルチパラメータアプローチの有用性を強調する一方で、アキネテスとsedaDNAの記録間の不一致は、堆積物アーカイブから過去のシアノバクテリア存在量を復元することの複雑さを浮き彫りにしている。"
+  },
+  {
+    "id": "10.1186/s40793-026-00991-8",
+    "title": "Temporal phyllosphere microbiome and leaf metabolome responses to powdery mildew infection in cucumber",
+    "abstract": "Background\n                     Powdery mildew alters the leaf habitat while disease severity, treatment, and sampling time change together. This covariance makes it difficult to distinguish microbe-metabolite relationships from coordinated responses to infection. We integrated a 21-day bacterial 16​S rRNA gene survey and untargeted leaf metabolomics in cucumber (Cucumis sativus) inoculated with Podosphaera xanthii, and used factorial, composition-aware, cross-validated, and covariate-sensitivity analyses to assess the robustness of the observed patterns.\n                  \n                     Results\n                     Powdery mildew altered phyllosphere bacterial community composition. In a full-factorial Bray-Curtis PERMANOVA, the leaf treatment effect explained 4.62% of variation (P = 0.0062) and the treatment-by-time interaction explained 7.99% (P = 0.0255). The soil treatment main effect was not significant (R2 = 3.82%, P = 0.0872). MaAsLin3 identified higher relative abundances of Sphingomonas, Methylobacterium-Methylorubrum, Pseudomonas, and Mycobacterium in infected leaves; CLR and ANCOM-BC2 sensitivity analyses supported the direction of the principal treatment contrasts but did not establish absolute enrichment. Leaf metabolomes separated by treatment in OPLS-DA (R2Y = 0.976, Q2 = 0.854; 1,000-permutation P = 0.001 for Q2). Alpha-linolenic acid and butanoate pathway treatment effects remained significant in a log-transformed, feature-standardized sensitivity analysis. A genus-based Random Forest estimated percentage disease index with repeated nested-CV R2 = 0.694 across all samples, but performance was weaker within infected plants (R2 = 0.397). Although original disease-index-adjusted correlations linked Methylobacterium with alpha-linolenic acid and butanoate metabolism, these relationships were not significant after treatment adjustment or within infected plants.\n                  \n                     Conclusions\n                     Powdery mildew was associated with coordinated temporal changes in the cucumber phyllosphere microbiome and leaf metabolome. The relative-abundance and pathway treatment signals were consistent across several sensitivity analyses, whereas the microbe-pathway correlations were largely structured by the treatment contrast. The correlation and machine-learning results should therefore be used to prioritize hypotheses, not to infer disease-independent microbial functions.",
+    "journal": "Environmental Microbiome",
+    "doi": "10.1186/s40793-026-00991-8",
+    "date": "2026-11-25",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s40793-026-00991-8",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Pseudomonas",
+        "bacteria",
+        "bacterial",
+        "microbe",
+        "microbial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=40793",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5644,
+    "collected_at": "2026-11-25T15:46:29.923395+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=40793"
+    ],
+    "first_seen": "2026-11-25",
+    "related_dois": [
+      "10.1186/s40793-026-00991-8"
+    ],
+    "translation": {
+      "title": {
+        "hash": "431e8e51b818795a55f0c5e9879a92be032ec07ad9822c8a472e74a8d3bab5aa",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-25T16:07:57.758103+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3b6c625f0e3ffb3059a1e21db3af44f1b883420f789785908cc11514189bfcde",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-25T16:07:57.758103+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "キュウリのうどんこ病感染に対する葉圏微生物叢および葉メタボロームの応答",
+    "abstract_ja": "背景\n                     うどんこ病は葉の生息環境を変化させる一方で、病害の重症度、処理、およびサンプリング時期は連動して変化する。このような共分散により、微生物と代謝物の関係を、感染に対する協調的な応答から区別することは困難である。本研究では、Podosphaera xanthiiを接種したキュウリ（Cucumis sativus）を対象に、21日間の細菌16S rRNA遺伝子サーベイと非標的型葉メタボロミクスを統合し、因子解析、組成考慮型解析、交差検証、および共変量感度解析を用いて、観察されたパターンの頑健性を評価した。\n                  \n                     結果\n                     うどんこ病は葉圏細菌群集の組成を変化させた。全因子Bray-Curtis PERMANOVAにおいて、葉の処理効果は変動の4.62%を説明し（P = 0.0062）、処理と時期の交互作用は7.99%を説明した（P = 0.0255）。土壌処理の主効果は有意ではなかった（R2 = 3.82%, P = 0.0872）。MaAsLin3により、感染葉においてSphingomonas、Methylobacterium-Methylorubrum、Pseudomonas、およびMycobacteriumの相対存在量が高いことが同定された。CLRおよびANCOM-BC2感度解析は、主要な処理間の対比の方向性を支持したが、絶対的な濃縮までは立証されなかった。OPLS-DAによる処理別葉メタボローム解析（R2Y = 0.976, Q2 = 0.854; Q2の1,000-permutation P = 0.001）では、アルファリノレン酸およびブタノ酸経路の処理効果が有意に維持された。属ベースのランダムフォレストによる病害指数の推定値は、反復入れ子型CVにおいて全サンプルでR2 = 0.694であったが、感染個体内では性能が低下した（R2 = 0.397）。元の病害指数調整済み相関ではMethylobacteriumがアルファリノレン酸およびブタノ酸代謝と関連していたが、これらの関係は処理調整後や感染個体内では有意ではなかった。\n                  \n                     結論\n                     うどんこ病は、キュウリの葉圏微生物叢および葉メタボロームにおける協調的な時間的変化と関連していた。相対存在量および経路処理のシグナルは複数の感度解析において一貫していたが、微生物と経路の相関は主に処理の対比によって規定されていた。したがって、相関および機械学習の結果は、仮説の優先順位付けに用いるべきであり、病害に依存しない微生物機能を推論するために用いるべきではない。"
   }
 ]
