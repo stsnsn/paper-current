@@ -463191,5 +463191,323 @@
     "related_dois": [
       "10.1038/s41579-026-01371-2"
     ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 8",
+        "query": "(JOURNAL:\"Microbial Biotechnology\" OR JOURNAL:\"Extremophiles\" OR JOURNAL:\"Genome Biology and Evolution\" OR JOURNAL:\"Molecular Biology and Evolution\" OR JOURNAL:\"Molecular Ecology\" OR JOURNAL:\"Molecular Ecology Resources\" OR JOURNAL:\"Molecular Phylogenetics and Evolution\" OR JOURNAL:\"Bioinformatics Advances\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "epmc:PMC:PMC13788535",
+    "title": "Early‐Life Thyroid Hormones Promote Telomere Elongation and Link Telomere Dynamics to Long‐Term Behaviour and Performance",
+    "abstract": "",
+    "journal": "Molecular Ecology",
+    "doi": "",
+    "date": "2026-11-01",
+    "authors": "Oefele M, Hau M, Mulder E, Ruuskanen S, Casagrande S.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/PMC/PMC13788535",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13788535",
+    "pmid": "",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5596,
+    "collected_at": "2026-11-25T15:35:54.776965+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "Europe PMC journals 8"
+    ],
+    "first_seen": "2026-11-25",
+    "related_dois": []
+  },
+  {
+    "discovery": [
+      {
+        "source": "bioRxiv",
+        "query": "details/biorxiv/2026-10-20/2026-11-10",
+        "scope": "candidate"
+      }
+    ],
+    "id": "10.64898/2026.05.05.722837",
+    "doi": "10.64898/2026.05.05.722837",
+    "title": "NI2+ AND ZN2+-BINDING DNA MOTIFS REVEALED IN DNA APTAMERS TO AFRICAN SWINE FEVER VIRUS",
+    "abstract": "Rapid and accurate diagnosis of viral and bacterial infections is a significant challenge in medicine and veterinary science, especially in the case of epidemically dangerous pathogens. The African swine fever virus (ASFV) causes annual outbreaks among livestock, causing in significant economic losses for farmers. Artificial recognition elements, DNA aptamers, have been identified as a suitable tool for point-of-care diagnostics due to their high affinity and specificity for the target, as well as stability at ambient temperatures during storage. This study reports for the first time on DNA aptamers that can bind ASFV particles. The aptamers were generated using a single-round selection process; they bound to both recombinant p54 protein and ASFV particles as well as exhibited antiviral properties. Functional activity of one of the aptamers depended on Ni2+, which was a dopant during the selection process; this cation increased aptamer affinity by 100-fold. A combination of techniques was used to predict the structure of Ni2+-regulated aptamer identifying a new non-canonical DNA motif. Cation-dependent regulation of aptamer activity is promising as it allows regeneration of affine carriers and biosensors with chelating agents, while addition of Ni2+ restores the high-affine aptamer conformation.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "2",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.05.05.722837"
+    ],
+    "date": "2026-10-23",
+    "authors": "Aliyeva, R.; Mushenkov, V.; Meshcheryakova, N.; Zaborova, O.; Oleynikov, I.; Mukhametova, L.; Eremin, S.; Koltsova, G.; Nechaev, A.; Tsvetkov, V. B.; Zavyalova, E.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.05.05.722837v2",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5597,
+    "collected_at": "2026-11-25T15:35:54.776965+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-25"
+  },
+  {
+    "discovery": [
+      {
+        "source": "bioRxiv",
+        "query": "details/biorxiv/2026-10-20/2026-11-10",
+        "scope": "candidate"
+      }
+    ],
+    "id": "10.64898/2026.10.08.755845",
+    "doi": "10.64898/2026.10.08.755845",
+    "title": "Disruption of cAMP Signalling and RNA Regulation Confers Cefiderocol Resistance in Acinetobacter baumannii",
+    "abstract": "Cefiderocol is a siderophore-conjugated cephalosporin used to treat severe multidrug-resistant Gram-negative infections. Its recent prioritisation for US national preparedness underscores its clinical importance, yet resistance can emerge despite apparent in vitro susceptibility. Here, we identify two regulatory routes to cefiderocol resistance in carbapenem-resistant Acinetobacter baumannii (CRAB): mutation of the cAMP-producing adenylate cyclase CavA and truncation of the glycine-rich RNA-binding domain of the post-transcriptional regulator Hfq. These variants occurred in contemporary clinical isolates, conferred resistance in a murine CRAB lung-infection model and imposed minimal fitness costs. In Escherichia coli, deletion of the CavA orthologue cyaA increased competitive fitness during sub-inhibitory cefiderocol exposure. Hfq-CLASH and integrated omics revealed Hfq-dependent regulation of Fur-associated iron homeostasis in A. baumannii. Under iron limitation, truncated-Hfq induced a defence-primed state that attenuated siderophore uptake and reduced cefiderocol activity. These findings identify bacterial regulatory state and iron availability as determinants of cefiderocol susceptibility, with implications for resistance surveillance and susceptibility testing.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "2",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.10.08.755845"
+    ],
+    "date": "2026-10-23",
+    "authors": "De Oliveira, D. M. P.; Heaton, R.; Whyte, H.; Buedenbender, L.; Indraratna, A.; Nguyen, N. T. K.; Phan, M.-D.; Alquethamy, S. F.; Hirose, Y.; Permana, B.; Wright, A.; Peleg, A. Y.; Nochomovitz, M.; Harris, P. N. A.; Ramsay, K. A.; Holmes, P.; Blaskovich, M. A. T.; Paterson, D. L.; Boyce, J. D.; Everest-Dass, A.; Schembri, M. A.; Tree, J. J.; Walker, M. J.; Forde, B. M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.08.755845v2",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5598,
+    "collected_at": "2026-11-25T15:35:54.776965+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-25"
+  },
+  {
+    "discovery": [
+      {
+        "source": "bioRxiv",
+        "query": "details/biorxiv/2026-10-20/2026-11-10",
+        "scope": "candidate"
+      }
+    ],
+    "id": "10.64898/2026.10.20.760537",
+    "doi": "10.64898/2026.10.20.760537",
+    "title": "Averaging in gene perturbation benchmarks hides perturbation-strength variation: Consequences for model evaluation",
+    "abstract": "Perturbation-response benchmarks usually represent each genetic intervention by averaging all cells assigned that perturbation label. We inquire what perturbation-strength information is lost by this averaging, and whether current model predictions preserve enough perturbation-specific information for this perturbation-strength variation to be evaluated. Using X-Atlas/Orion CRISPRi screens, we use depth-corrected guide abundance as a cell-level proxy for perturbation strength and examine how transcriptional responses vary within a nominal perturbation. Higher perturbation strength is associated with greater response reproducibility. The effect is present in two human cell lines, HCT116 and HEK293T, but is larger in HCT116. For model evaluation, HCT116 retrieval tests show that observed responses preserve perturbation identity, whereas the evaluated STATE and Cell2Sentence predictions do not reliably recover it, hence the question of within-perturbation strength information cannot be meaningfully evaluated.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.10.20.760537"
+    ],
+    "date": "2026-10-23",
+    "authors": "Sharma, Y. S.; Subramaniyam, M.; Passariello, P.; Jay, D.; Render, D.; Szegedy, M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.20.760537v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "benchmark",
+        "gene"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5599,
+    "collected_at": "2026-11-25T15:35:54.776965+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-25"
+  },
+  {
+    "discovery": [
+      {
+        "source": "bioRxiv",
+        "query": "details/biorxiv/2026-10-20/2026-11-10",
+        "scope": "candidate"
+      }
+    ],
+    "id": "10.64898/2026.02.23.706394",
+    "doi": "10.64898/2026.02.23.706394",
+    "title": "Unified Transcriptome and Mechanics Map of the Intact Mammalian Preimplantation Embryo In Situ",
+    "abstract": "The development and maintenance of multicellular tissues require that cell states be closely coupled to their local environment, including geometric and mechanical cues. However, studying this coupling in intact tissues has been challenging, because existing measurement technologies cannot simultaneously assess mechanical properties and molecularly defined cell states. To address this gap, we introduce the Unified Transcriptome and Mechanics Map (UTMM), a method for concurrent measurement of the transcriptome and cytoplasmic stiffness (high-frequency intracellular mechanical compliance) within intact 3D multicellular structures. UTMM relies on two innovations: (1) a targeted in situ RNA sequencing approach for intact 3D embryos (3DISS), and (2) a strategy that leverages high-frequency intracellular organelle fluctuations to provide a relative, non-invasive readout of cell-level viscoelastic compliance in situ. We applied UTMM to mouse embryos from the zygote through the morula stage to characterize how RNA expression and intracellular mechanical state becomes coupled during early lineage specification. Our data reveal that, in the early morula, transcriptional and morphological distinctions emerge between trophectoderm and inner cell mass (ICM) lineages, coinciding with a gradual increase in intracellular compliance (softening) across all cells from the 2-cell through morula stages. Furthermore, we observe that early lineage biases associated with distinct mechanical states, reflecting emerging developmental programs. When we osmotically delayed this softening, embryonic progression was impeded, supporting a functional relationship between intracellular material state and developmental timing. Extending this approach to neural stem cells in the adult brain (NSCs), we further show that proliferated NSCs exhibit greater intracellular compliance than quiescent NSCs, NSC state-dependent differences in the mechanical properties and that the analytical framework can resolve biologically associated mechanical differences in a distinct tissue context. Together, these results demonstrate UTMM's ability to bridge molecular and mechanical dynamics in multicellular systems, providing a powerful framework for investigating how molecular state, geometry, and intracellular mechanics become coordinated during multicellular development.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "2",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.02.23.706394"
+    ],
+    "date": "2026-10-23",
+    "authors": "Habibi, E.; Sinha, A.; Yang, H.; Yadollahpour, P.; Rodriguez-Aller, R.; Li, Y.; Lee, L.; Wollensak, D. A.; Chiang, Z. D.; Sakkas, D.; Boyden, E. S.; Saghatelyan, A.; Guo, M.; Regev, A.; Chen, F.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.02.23.706394v2",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "method",
+        "transcriptome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5600,
+    "collected_at": "2026-11-25T15:35:54.776965+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-25"
+  },
+  {
+    "discovery": [
+      {
+        "source": "bioRxiv",
+        "query": "details/biorxiv/2026-10-20/2026-11-10",
+        "scope": "candidate"
+      }
+    ],
+    "id": "10.64898/2026.10.22.760851",
+    "doi": "10.64898/2026.10.22.760851",
+    "title": "AI-guided discovery of natural pocket proteins for portable small-molecule sensing",
+    "abstract": "Recognition-element development remains an important practical challenge in small-molecule biosensing. Here, we present DWCLASS, an AI-guided workflow that combines screening of natural pocket proteins, molecular dynamics simulations, experimental binding assessment, and portable metasurface plasmonic sensing. Using thiamine (vitamin B1, thiamine) and 25-hydroxyvitamin D3 [25(OH)D3] as model analytes, the workflow identified binding responses in 7 of 16 tested analyte-protein pairs (43.8%). Selected proteins were incorporated into a competitive MetaSPR assay with gold nanoparticle amplification and acoustic mixing. The portable device provided a 240 s measurement step for prepared samples. Serum LODs were 2.98 ppt for thiamine and 3.82 ppt for 25(OH)D. Preliminary measurements of human serum specimens were compared with commercial ELISA to explore performance in biological samples. This study establishes an integrated route from AI-assisted screening of natural proteins to portable assay development for two chemically distinct vitamin analytes. Applicability to additional targets and clinical reference accuracy remain to be established.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.10.22.760851"
+    ],
+    "date": "2026-10-23",
+    "authors": "Huang, L.; Yang, Y.; Jiang, c.; fan, h.; Li, Y.; Zhang, Y.; Zhang, Y.; Li, D.; Zhou, H.; Chen, Y.; Hu, W.; Guan, J.; Liu, X.; Sun, C.; Liu, G. L.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.22.760851v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "protein",
+        "simulation",
+        "workflow"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "protein",
+          "simulation",
+          "workflow"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5601,
+    "collected_at": "2026-11-25T15:35:54.776965+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-25"
   }
 ]
