@@ -462716,5 +462716,114 @@
     "related_dois": [
       "10.64898/2026.11.20.768052"
     ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 4",
+        "query": "(JOURNAL:\"Infection and Immunity\" OR JOURNAL:\"Antimicrobial Agents and Chemotherapy\" OR JOURNAL:\"Journal of Clinical Microbiology\" OR JOURNAL:\"Microbiology Resource Announcements\" OR JOURNAL:\"Nature\" OR JOURNAL:\"Nature Microbiology\" OR JOURNAL:\"Nature Ecology & Evolution\" OR JOURNAL:\"Nature Communications\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "letter"
+    ],
+    "id": "10.1128/iai.00436-26",
+    "title": "Biomarker and pathogenicity claims for antiphospholipid antibodies in post-treatment Lyme disease syndrome.",
+    "abstract": "",
+    "journal": "Infection and Immunity",
+    "doi": "10.1128/iai.00436-26",
+    "date": "2026-10-20",
+    "authors": "Alaedini A, Wormser GP, Crow MK.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42900183",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13750121",
+    "pmid": "42900183",
+    "metadata_source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13750121/fullTextXML",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5594,
+    "collected_at": "2026-11-25T04:15:19.670056+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "Europe PMC journals 4"
+    ],
+    "first_seen": "2026-11-25",
+    "related_dois": [
+      "10.1128/iai.00436-26"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 4",
+        "query": "(JOURNAL:\"Infection and Immunity\" OR JOURNAL:\"Antimicrobial Agents and Chemotherapy\" OR JOURNAL:\"Journal of Clinical Microbiology\" OR JOURNAL:\"Microbiology Resource Announcements\" OR JOURNAL:\"Nature\" OR JOURNAL:\"Nature Microbiology\" OR JOURNAL:\"Nature Ecology & Evolution\" OR JOURNAL:\"Nature Communications\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/mra.00944-26",
+    "title": "Draft genome sequences of two <i>Stenotrophomonas muris</i> isolates, CBAS 1154 and CBAS 1234, recovered from patients with ICU-acquired ventilator-associated sepsis.",
+    "abstract": "We report the high-quality draft genome sequences of two clinical Stenotrophomonas muris isolates recovered from the lower respiratory tract of intensive care unit patients with ventilator-associated sepsis in Rio de Janeiro, Brazil. Based on our review of the available literature, we found no previous records of this species from Brazil.",
+    "journal": "Microbiology Resource Announcements",
+    "doi": "10.1128/mra.00944-26",
+    "date": "2026-11-09",
+    "authors": "Machado E, Rabelo E, Ferrari DDdM, Cristina Amorim Silveira Verduc R, Vellozo Dos Reis L, Monteiro de Barros Titonelli A, Ribeiro Gomes de Queiroz Crespo I, de Assis Coco R, de Lima EM, Lourenço ND, Pavoni Gomes Chagas T, Rodrigues CAS, Basílio de Miranda A, Gomes HM, Souza Leão R, Suffys PN, Gomes MZR, Catanho M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43001781",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43001781",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5595,
+    "collected_at": "2026-11-25T04:15:19.670056+00:00",
+    "collected_date": "2026-11-25",
+    "sources": [
+      "Europe PMC journals 4"
+    ],
+    "first_seen": "2026-11-25",
+    "related_dois": [
+      "10.1128/mra.00944-26"
+    ]
   }
 ]

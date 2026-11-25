@@ -25,9 +25,9 @@
     },
     "Europe PMC bioinformatics": {
       "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
-      "cursor": "AoIIQBrGRig1NjgxMTQ1Mg==",
-      "retrieved": 9750,
-      "accepted": 2355,
+      "cursor": "AoIIQBqSBig1NjkxMDQ5NQ==",
+      "retrieved": 9780,
+      "accepted": 2356,
       "done": false
     },
     "Europe PMC journals 1": {
@@ -53,9 +53,9 @@
     },
     "Europe PMC journals 4": {
       "query": "(JOURNAL:\"Infection and Immunity\" OR JOURNAL:\"Antimicrobial Agents and Chemotherapy\" OR JOURNAL:\"Journal of Clinical Microbiology\" OR JOURNAL:\"Microbiology Resource Announcements\" OR JOURNAL:\"Nature\" OR JOURNAL:\"Nature Microbiology\" OR JOURNAL:\"Nature Ecology & Evolution\" OR JOURNAL:\"Nature Communications\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
-      "cursor": "AoIIQEHLHyg1Njc4OTc5Nw==",
-      "retrieved": 75,
-      "accepted": 63,
+      "cursor": "AoIIQD2h0Cg1Njg4MDg2OA==",
+      "retrieved": 85,
+      "accepted": 73,
       "done": false
     },
     "Europe PMC journals 8": {
@@ -74,9 +74,9 @@
     },
     "Europe PMC journals 6": {
       "query": "(JOURNAL:\"Microbial Genomics\" OR JOURNAL:\"Microbiology\" OR JOURNAL:\"Aquatic Microbial Ecology\" OR JOURNAL:\"PNAS\" OR JOURNAL:\"PLOS Biology\" OR JOURNAL:\"PLOS Genetics\" OR JOURNAL:\"Genome Research\" OR JOURNAL:\"Genome Biology\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
-      "cursor": "AoIIQASplig1Njg4MTc1Ng==",
-      "retrieved": 155,
-      "accepted": 61,
+      "cursor": "AoIIQARmgCg1Njg4MTc1Nw==",
+      "retrieved": 190,
+      "accepted": 73,
       "done": false
     },
     "Europe PMC journals 10": {
@@ -75457,6 +75457,11 @@
           "source": "Europe PMC topics",
           "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
           "scope": "target"
+        },
+        {
+          "source": "Europe PMC journals 4",
+          "query": "(JOURNAL:\"Infection and Immunity\" OR JOURNAL:\"Antimicrobial Agents and Chemotherapy\" OR JOURNAL:\"Journal of Clinical Microbiology\" OR JOURNAL:\"Microbiology Resource Announcements\" OR JOURNAL:\"Nature\" OR JOURNAL:\"Nature Microbiology\" OR JOURNAL:\"Nature Ecology & Evolution\" OR JOURNAL:\"Nature Communications\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
         }
       ],
       "publication_types": [
@@ -75507,6 +75512,7 @@
       "collected_at": "2026-11-13T16:20:52.922504+00:00",
       "collected_date": "2026-11-14",
       "sources": [
+        "Europe PMC journals 4",
         "Europe PMC topics"
       ],
       "first_seen": "2026-11-13"
@@ -303833,6 +303839,11 @@
           "source": "Europe PMC bioinformatics",
           "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
           "scope": "candidate"
+        },
+        {
+          "source": "Europe PMC journals 4",
+          "query": "(JOURNAL:\"Infection and Immunity\" OR JOURNAL:\"Antimicrobial Agents and Chemotherapy\" OR JOURNAL:\"Journal of Clinical Microbiology\" OR JOURNAL:\"Microbiology Resource Announcements\" OR JOURNAL:\"Nature\" OR JOURNAL:\"Nature Microbiology\" OR JOURNAL:\"Nature Ecology & Evolution\" OR JOURNAL:\"Nature Communications\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
         }
       ],
       "publication_types": [
@@ -303878,7 +303889,8 @@
       "collected_at": "2026-11-17T14:23:16.206081+00:00",
       "collected_date": "2026-11-17",
       "sources": [
-        "Europe PMC bioinformatics"
+        "Europe PMC bioinformatics",
+        "Europe PMC journals 4"
       ],
       "first_seen": "2026-11-17"
     },
@@ -310927,6 +310939,11 @@
           "source": "Europe PMC bioinformatics",
           "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
           "scope": "candidate"
+        },
+        {
+          "source": "Europe PMC journals 4",
+          "query": "(JOURNAL:\"Infection and Immunity\" OR JOURNAL:\"Antimicrobial Agents and Chemotherapy\" OR JOURNAL:\"Journal of Clinical Microbiology\" OR JOURNAL:\"Microbiology Resource Announcements\" OR JOURNAL:\"Nature\" OR JOURNAL:\"Nature Microbiology\" OR JOURNAL:\"Nature Ecology & Evolution\" OR JOURNAL:\"Nature Communications\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
         }
       ],
       "publication_types": [
@@ -310970,7 +310987,8 @@
       "collected_at": "2026-11-19T21:31:24.770122+00:00",
       "collected_date": "2026-11-20",
       "sources": [
-        "Europe PMC bioinformatics"
+        "Europe PMC bioinformatics",
+        "Europe PMC journals 4"
       ],
       "first_seen": "2026-11-19"
     },
@@ -333474,7 +333492,7 @@
       "review": false,
       "pmcid": "PMC13778575",
       "pmid": "43002688",
-      "metadata_source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13778575/fullTextXML",
+      "metadata_source_url": "",
       "abstract_source": "Europe PMC",
       "topic_filter": {
         "accepted": false,
@@ -334891,6 +334909,215 @@
         "bioRxiv"
       ],
       "first_seen": "2026-11-24"
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC journals 4",
+          "query": "(JOURNAL:\"Infection and Immunity\" OR JOURNAL:\"Antimicrobial Agents and Chemotherapy\" OR JOURNAL:\"Journal of Clinical Microbiology\" OR JOURNAL:\"Microbiology Resource Announcements\" OR JOURNAL:\"Nature\" OR JOURNAL:\"Nature Microbiology\" OR JOURNAL:\"Nature Ecology & Evolution\" OR JOURNAL:\"Nature Communications\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "reply",
+        "journal article"
+      ],
+      "id": "10.1128/jcm.01077-26",
+      "title": "Reply to Edelstein, \"Does <i>Legionella</i> 5S rRNA PCR melting temperature analysis discriminate high-risk species and increased disease severity or does it simply reflect test selection bias?\"",
+      "abstract": "",
+      "journal": "Journal of Clinical Microbiology",
+      "doi": "10.1128/jcm.01077-26",
+      "date": "2026-10-27",
+      "authors": "Pulsipher AM, Khattar G, Patel R, Simner PJ.",
+      "tags": [
+        "微生物学"
+      ],
+      "source_url": "https://europepmc.org/article/MED/42937356",
+      "preprint": false,
+      "review": false,
+      "pmcid": "PMC13753827",
+      "pmid": "42937356",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [],
+        "context": {
+          "marine": [],
+          "genomics": [],
+          "evolution": []
+        },
+        "tags": [
+          "微生物学"
+        ]
+      },
+      "collection_order": 5592,
+      "collected_at": "2026-11-25T04:15:19.670056+00:00",
+      "collected_date": "2026-11-25",
+      "sources": [
+        "Europe PMC journals 4"
+      ],
+      "first_seen": "2026-11-25"
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC journals 4",
+          "query": "(JOURNAL:\"Infection and Immunity\" OR JOURNAL:\"Antimicrobial Agents and Chemotherapy\" OR JOURNAL:\"Journal of Clinical Microbiology\" OR JOURNAL:\"Microbiology Resource Announcements\" OR JOURNAL:\"Nature\" OR JOURNAL:\"Nature Microbiology\" OR JOURNAL:\"Nature Ecology & Evolution\" OR JOURNAL:\"Nature Communications\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "research-article",
+        "evaluation study",
+        "journal article"
+      ],
+      "id": "10.1128/jcm.00727-26",
+      "title": "Update to the CDC influenza A(H3) subtyping assay for improved detection of influenza A(H3N2) viruses, including subclade K viruses.",
+      "abstract": "Influenza A(H3N2) viruses circulate globally and cause respiratory illness. The FDA-cleared CDC Human Influenza Virus Real-Time RT-PCR Influenza A (H3/H1pdm09) Subtyping assay is used to subtype seasonal influenza A viruses. However, emerging mutations in the H3 reverse primer region raised concerns about reduced assay sensitivity for contemporary circulating viruses. We updated the H3 assay by redesigning the reverse primer to target a more conserved region of the hemagglutinin gene, and incorporating minor adjustments into the forward primer and probe. Analytical sensitivity, inclusivity, and exclusivity evaluations were performed using cultured influenza viruses, synthetic RNA, and panels of non-influenza respiratory pathogens. Clinical performance was evaluated using seasonal A(H3N2) residual respiratory specimens. The updated assay (H3_v2) demonstrated analytical sensitivity comparable to or improved over the initial H3 assay, with a limit of detection of approximately 101.7-102.1 EID50/mL and five copies of RNA per reaction. Improved performance was observed for viruses containing A21G with T23G, T23C, or T23A double mismatches in the reverse primer, with a measurable Ct value shift between the initial H3 and H3_v2 assay. The assay showed 100% agreement with expected results in 139 clinical specimens, and no cross-reactivity with other influenza subtypes or other respiratory pathogens. These findings indicate the updated H3_v2 assay improves sensitivity for contemporary and emerging seasonal A(H3N2) viruses while maintaining high specificity. This update ensures continued reliable detection of seasonal A(H3N2), including genetically drifted A(H3N2) viruses, such as the recently emerged A(H3N2) subclade K viruses, and supports global influenza surveillance and diagnostic preparedness.ImportanceAccurate detection and subtyping of influenza A(H3N2) viruses are essential for clinical diagnostics, outbreak response, and global influenza surveillance. The emergence and fixation of mutations leading to primer mismatches in the FDA-cleared CDC A(H3) real-time RT-PCR assay raised concerns about reduced sensitivity for contemporary circulating A(H3N2) viruses. To address this, we redesigned the reverse primer and optimized additional assay components to improve detection of currently circulating seasonal A(H3N2) viruses. The updated H3_v2 assay restores and enhances sensitivity, including for viruses harboring key reverse primer mismatches, while maintaining high specificity and complete agreement with clinical specimens. This update ensures reliable detection of seasonal influenza A(H3N2) and A(H3N2) variant viruses, including recently emerged A(H3N2) subclade K viruses, and strengthens diagnostic preparedness and surveillance capacity nationally and internationally.",
+      "journal": "Journal of Clinical Microbiology",
+      "doi": "10.1128/jcm.00727-26",
+      "date": "2026-10-27",
+      "authors": "Shu B, Liddell J, Wong P, Duron ES, Liu J, Hassell N, DaSilva J, Wu K-H, Foust A, Kondor RJ, Davis CT, Kirby MK.",
+      "tags": [
+        "微生物学"
+      ],
+      "source_url": "https://europepmc.org/article/MED/42937320",
+      "preprint": false,
+      "review": false,
+      "pmcid": "PMC13753822",
+      "pmid": "42937320",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "virus",
+          "viruses"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [],
+          "evolution": []
+        },
+        "tags": [
+          "微生物学"
+        ]
+      },
+      "collection_order": 5593,
+      "collected_at": "2026-11-25T04:15:19.670056+00:00",
+      "collected_date": "2026-11-25",
+      "sources": [
+        "Europe PMC journals 4"
+      ],
+      "first_seen": "2026-11-25"
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC journals 4",
+          "query": "(JOURNAL:\"Infection and Immunity\" OR JOURNAL:\"Antimicrobial Agents and Chemotherapy\" OR JOURNAL:\"Journal of Clinical Microbiology\" OR JOURNAL:\"Microbiology Resource Announcements\" OR JOURNAL:\"Nature\" OR JOURNAL:\"Nature Microbiology\" OR JOURNAL:\"Nature Ecology & Evolution\" OR JOURNAL:\"Nature Communications\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "letter"
+      ],
+      "id": "10.1128/iai.00436-26",
+      "title": "Biomarker and pathogenicity claims for antiphospholipid antibodies in post-treatment Lyme disease syndrome.",
+      "abstract": "",
+      "journal": "Infection and Immunity",
+      "doi": "10.1128/iai.00436-26",
+      "date": "2026-10-20",
+      "authors": "Alaedini A, Wormser GP, Crow MK.",
+      "tags": [
+        "微生物学"
+      ],
+      "source_url": "https://europepmc.org/article/MED/42900183",
+      "preprint": false,
+      "review": false,
+      "pmcid": "PMC13750121",
+      "pmid": "42900183",
+      "metadata_source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13750121/fullTextXML",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [],
+        "context": {
+          "marine": [],
+          "genomics": [],
+          "evolution": []
+        },
+        "tags": [
+          "微生物学"
+        ]
+      },
+      "collection_order": 5594,
+      "collected_at": "2026-11-25T04:15:19.670056+00:00",
+      "collected_date": "2026-11-25",
+      "sources": [
+        "Europe PMC journals 4"
+      ],
+      "first_seen": "2026-11-25"
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC journals 4",
+          "query": "(JOURNAL:\"Infection and Immunity\" OR JOURNAL:\"Antimicrobial Agents and Chemotherapy\" OR JOURNAL:\"Journal of Clinical Microbiology\" OR JOURNAL:\"Microbiology Resource Announcements\" OR JOURNAL:\"Nature\" OR JOURNAL:\"Nature Microbiology\" OR JOURNAL:\"Nature Ecology & Evolution\" OR JOURNAL:\"Nature Communications\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "journal article"
+      ],
+      "id": "10.1128/mra.00944-26",
+      "title": "Draft genome sequences of two <i>Stenotrophomonas muris</i> isolates, CBAS 1154 and CBAS 1234, recovered from patients with ICU-acquired ventilator-associated sepsis.",
+      "abstract": "We report the high-quality draft genome sequences of two clinical Stenotrophomonas muris isolates recovered from the lower respiratory tract of intensive care unit patients with ventilator-associated sepsis in Rio de Janeiro, Brazil. Based on our review of the available literature, we found no previous records of this species from Brazil.",
+      "journal": "Microbiology Resource Announcements",
+      "doi": "10.1128/mra.00944-26",
+      "date": "2026-11-09",
+      "authors": "Machado E, Rabelo E, Ferrari DDdM, Cristina Amorim Silveira Verduc R, Vellozo Dos Reis L, Monteiro de Barros Titonelli A, Ribeiro Gomes de Queiroz Crespo I, de Assis Coco R, de Lima EM, Lourenço ND, Pavoni Gomes Chagas T, Rodrigues CAS, Basílio de Miranda A, Gomes HM, Souza Leão R, Suffys PN, Gomes MZR, Catanho M.",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://europepmc.org/article/MED/43001781",
+      "preprint": false,
+      "review": false,
+      "pmcid": "",
+      "pmid": "43001781",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "genom",
+            "genome"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "collection_order": 5595,
+      "collected_at": "2026-11-25T04:15:19.670056+00:00",
+      "collected_date": "2026-11-25",
+      "sources": [
+        "Europe PMC journals 4"
+      ],
+      "first_seen": "2026-11-25"
     }
   ],
   "decisions": [
@@ -456825,6 +457052,38 @@
               "海洋微生物"
             ]
           }
+        },
+        {
+          "source": "Europe PMC journals 6",
+          "discovery": [
+            {
+              "source": "Europe PMC journals 6",
+              "query": "(JOURNAL:\"Microbial Genomics\" OR JOURNAL:\"Microbiology\" OR JOURNAL:\"Aquatic Microbial Ecology\" OR JOURNAL:\"PNAS\" OR JOURNAL:\"PLOS Biology\" OR JOURNAL:\"PLOS Genetics\" OR JOURNAL:\"Genome Research\" OR JOURNAL:\"Genome Biology\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+              "scope": "candidate"
+            }
+          ],
+          "decision": {
+            "accepted": true,
+            "reason": "microbial_evidence",
+            "version": "microbial-rules-v3",
+            "matched": [
+              "bacteria",
+              "cyanobacteria",
+              "cyanobacterial"
+            ],
+            "context": {
+              "marine": [
+                "marine",
+                "ocean",
+                "seawater"
+              ],
+              "genomics": [],
+              "evolution": []
+            },
+            "tags": [
+              "海洋微生物"
+            ]
+          }
         }
       ],
       "id": "10.1073/pnas.2608195123",
@@ -459115,6 +459374,102 @@
               "source": "Europe PMC topics",
               "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
               "scope": "target"
+            }
+          ],
+          "decision": {
+            "accepted": true,
+            "reason": "microbial_evidence",
+            "version": "microbial-rules-v3",
+            "matched": [
+              "bacteria",
+              "bacterial",
+              "microbial",
+              "microbiome",
+              "microbiomes"
+            ],
+            "context": {
+              "marine": [],
+              "genomics": [
+                "assembly"
+              ],
+              "evolution": []
+            },
+            "tags": [
+              "微生物ゲノミクス"
+            ]
+          }
+        },
+        {
+          "source": "Europe PMC journals 6",
+          "discovery": [
+            {
+              "source": "Europe PMC journals 6",
+              "query": "(JOURNAL:\"Microbial Genomics\" OR JOURNAL:\"Microbiology\" OR JOURNAL:\"Aquatic Microbial Ecology\" OR JOURNAL:\"PNAS\" OR JOURNAL:\"PLOS Biology\" OR JOURNAL:\"PLOS Genetics\" OR JOURNAL:\"Genome Research\" OR JOURNAL:\"Genome Biology\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+              "scope": "candidate"
+            }
+          ],
+          "decision": {
+            "accepted": true,
+            "reason": "microbial_evidence",
+            "version": "microbial-rules-v3",
+            "matched": [
+              "bacteria",
+              "bacterial",
+              "microbial",
+              "microbiome",
+              "microbiomes"
+            ],
+            "context": {
+              "marine": [],
+              "genomics": [
+                "assembly"
+              ],
+              "evolution": []
+            },
+            "tags": [
+              "微生物ゲノミクス"
+            ]
+          }
+        },
+        {
+          "source": "Europe PMC journals 6",
+          "discovery": [
+            {
+              "source": "Europe PMC journals 6",
+              "query": "(JOURNAL:\"Microbial Genomics\" OR JOURNAL:\"Microbiology\" OR JOURNAL:\"Aquatic Microbial Ecology\" OR JOURNAL:\"PNAS\" OR JOURNAL:\"PLOS Biology\" OR JOURNAL:\"PLOS Genetics\" OR JOURNAL:\"Genome Research\" OR JOURNAL:\"Genome Biology\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+              "scope": "candidate"
+            }
+          ],
+          "decision": {
+            "accepted": true,
+            "reason": "microbial_evidence",
+            "version": "microbial-rules-v3",
+            "matched": [
+              "bacteria",
+              "bacterial",
+              "microbial",
+              "microbiome",
+              "microbiomes"
+            ],
+            "context": {
+              "marine": [],
+              "genomics": [
+                "assembly"
+              ],
+              "evolution": []
+            },
+            "tags": [
+              "微生物ゲノミクス"
+            ]
+          }
+        },
+        {
+          "source": "Europe PMC journals 6",
+          "discovery": [
+            {
+              "source": "Europe PMC journals 6",
+              "query": "(JOURNAL:\"Microbial Genomics\" OR JOURNAL:\"Microbiology\" OR JOURNAL:\"Aquatic Microbial Ecology\" OR JOURNAL:\"PNAS\" OR JOURNAL:\"PLOS Biology\" OR JOURNAL:\"PLOS Genetics\" OR JOURNAL:\"Genome Research\" OR JOURNAL:\"Genome Biology\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+              "scope": "candidate"
             }
           ],
           "decision": {
@@ -463124,6 +463479,39 @@
               "微生物ゲノミクス"
             ]
           }
+        },
+        {
+          "source": "Europe PMC journals 4",
+          "discovery": [
+            {
+              "source": "Europe PMC journals 4",
+              "query": "(JOURNAL:\"Infection and Immunity\" OR JOURNAL:\"Antimicrobial Agents and Chemotherapy\" OR JOURNAL:\"Journal of Clinical Microbiology\" OR JOURNAL:\"Microbiology Resource Announcements\" OR JOURNAL:\"Nature\" OR JOURNAL:\"Nature Microbiology\" OR JOURNAL:\"Nature Ecology & Evolution\" OR JOURNAL:\"Nature Communications\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+              "scope": "candidate"
+            }
+          ],
+          "decision": {
+            "accepted": true,
+            "reason": "unfiltered_journal",
+            "version": "microbial-rules-v3",
+            "matched": [
+              "Escherichia"
+            ],
+            "context": {
+              "marine": [
+                "freshwater",
+                "lake"
+              ],
+              "genomics": [
+                "genom",
+                "genome"
+              ],
+              "evolution": []
+            },
+            "tags": [
+              "海洋微生物",
+              "微生物ゲノミクス"
+            ]
+          }
         }
       ],
       "id": "10.1128/mra.00667-26",
@@ -463131,14 +463519,15 @@
       "metadata_status": "ready",
       "discovery": [
         {
-          "source": "Europe PMC topics",
-          "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
-          "scope": "target"
+          "source": "Europe PMC journals 4",
+          "query": "(JOURNAL:\"Infection and Immunity\" OR JOURNAL:\"Antimicrobial Agents and Chemotherapy\" OR JOURNAL:\"Journal of Clinical Microbiology\" OR JOURNAL:\"Microbiology Resource Announcements\" OR JOURNAL:\"Nature\" OR JOURNAL:\"Nature Microbiology\" OR JOURNAL:\"Nature Ecology & Evolution\" OR JOURNAL:\"Nature Communications\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
         }
       ],
       "title": "Draft genome sequences of four <i>Escherichia coli</i> strains from lake water in Dhaka, Bangladesh.",
       "journal": "Microbiology resource announcements",
       "sources": [
+        "Europe PMC journals 4",
         "Europe PMC topics"
       ],
       "decision": {
@@ -577303,6 +577692,35 @@
               "source": "Europe PMC topics",
               "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
               "scope": "target"
+            }
+          ],
+          "decision": {
+            "accepted": true,
+            "reason": "microbial_evidence",
+            "version": "microbial-rules-v3",
+            "matched": [
+              "bacteria",
+              "bacterial"
+            ],
+            "context": {
+              "marine": [],
+              "genomics": [
+                "transcript"
+              ],
+              "evolution": []
+            },
+            "tags": [
+              "微生物ゲノミクス"
+            ]
+          }
+        },
+        {
+          "source": "Europe PMC journals 6",
+          "discovery": [
+            {
+              "source": "Europe PMC journals 6",
+              "query": "(JOURNAL:\"Microbial Genomics\" OR JOURNAL:\"Microbiology\" OR JOURNAL:\"Aquatic Microbial Ecology\" OR JOURNAL:\"PNAS\" OR JOURNAL:\"PLOS Biology\" OR JOURNAL:\"PLOS Genetics\" OR JOURNAL:\"Genome Research\" OR JOURNAL:\"Genome Biology\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+              "scope": "candidate"
             }
           ],
           "decision": {
@@ -1004520,6 +1004938,34 @@
               "微生物ゲノミクス"
             ]
           }
+        },
+        {
+          "source": "Europe PMC journals 4",
+          "discovery": [
+            {
+              "source": "Europe PMC journals 4",
+              "query": "(JOURNAL:\"Infection and Immunity\" OR JOURNAL:\"Antimicrobial Agents and Chemotherapy\" OR JOURNAL:\"Journal of Clinical Microbiology\" OR JOURNAL:\"Microbiology Resource Announcements\" OR JOURNAL:\"Nature\" OR JOURNAL:\"Nature Microbiology\" OR JOURNAL:\"Nature Ecology & Evolution\" OR JOURNAL:\"Nature Communications\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+              "scope": "candidate"
+            }
+          ],
+          "decision": {
+            "accepted": true,
+            "reason": "unfiltered_journal",
+            "version": "microbial-rules-v3",
+            "matched": [],
+            "context": {
+              "marine": [],
+              "genomics": [
+                "genom",
+                "genome",
+                "genomic"
+              ],
+              "evolution": []
+            },
+            "tags": [
+              "微生物ゲノミクス"
+            ]
+          }
         }
       ],
       "id": "10.1128/jcm.00514-26",
@@ -1004527,15 +1004973,16 @@
       "metadata_status": "ready",
       "discovery": [
         {
-          "source": "Europe PMC bioinformatics",
-          "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "source": "Europe PMC journals 4",
+          "query": "(JOURNAL:\"Infection and Immunity\" OR JOURNAL:\"Antimicrobial Agents and Chemotherapy\" OR JOURNAL:\"Journal of Clinical Microbiology\" OR JOURNAL:\"Microbiology Resource Announcements\" OR JOURNAL:\"Nature\" OR JOURNAL:\"Nature Microbiology\" OR JOURNAL:\"Nature Ecology & Evolution\" OR JOURNAL:\"Nature Communications\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
           "scope": "candidate"
         }
       ],
       "title": "Whole genome-based characterization of virulence and antimicrobial resistance determinants in clinical <i>Campylobacter jejuni</i> isolates from Minnesota, 2018-2021.",
       "journal": "Journal of clinical microbiology",
       "sources": [
-        "Europe PMC bioinformatics"
+        "Europe PMC bioinformatics",
+        "Europe PMC journals 4"
       ],
       "decision": {
         "accepted": true,
@@ -1078604,6 +1079051,33 @@
               "微生物ゲノミクス"
             ]
           }
+        },
+        {
+          "source": "Europe PMC journals 4",
+          "discovery": [
+            {
+              "source": "Europe PMC journals 4",
+              "query": "(JOURNAL:\"Infection and Immunity\" OR JOURNAL:\"Antimicrobial Agents and Chemotherapy\" OR JOURNAL:\"Journal of Clinical Microbiology\" OR JOURNAL:\"Microbiology Resource Announcements\" OR JOURNAL:\"Nature\" OR JOURNAL:\"Nature Microbiology\" OR JOURNAL:\"Nature Ecology & Evolution\" OR JOURNAL:\"Nature Communications\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+              "scope": "candidate"
+            }
+          ],
+          "decision": {
+            "accepted": true,
+            "reason": "unfiltered_journal",
+            "version": "microbial-rules-v3",
+            "matched": [],
+            "context": {
+              "marine": [],
+              "genomics": [
+                "genom",
+                "genome"
+              ],
+              "evolution": []
+            },
+            "tags": [
+              "微生物ゲノミクス"
+            ]
+          }
         }
       ],
       "id": "10.1128/mra.01075-26",
@@ -1078611,15 +1079085,16 @@
       "metadata_status": "ready",
       "discovery": [
         {
-          "source": "Europe PMC bioinformatics",
-          "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "source": "Europe PMC journals 4",
+          "query": "(JOURNAL:\"Infection and Immunity\" OR JOURNAL:\"Antimicrobial Agents and Chemotherapy\" OR JOURNAL:\"Journal of Clinical Microbiology\" OR JOURNAL:\"Microbiology Resource Announcements\" OR JOURNAL:\"Nature\" OR JOURNAL:\"Nature Microbiology\" OR JOURNAL:\"Nature Ecology & Evolution\" OR JOURNAL:\"Nature Communications\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
           "scope": "candidate"
         }
       ],
       "title": "Secretome proteomic data set of <i>Filobasidium magnum</i> PLANB_3024 cultured with poly(lactic acid).",
       "journal": "Microbiology resource announcements",
       "sources": [
-        "Europe PMC bioinformatics"
+        "Europe PMC bioinformatics",
+        "Europe PMC journals 4"
       ],
       "decision": {
         "accepted": true,
@@ -1192195,6 +1192670,30 @@
               "微生物学"
             ]
           }
+        },
+        {
+          "source": "Europe PMC bioinformatics",
+          "discovery": [
+            {
+              "source": "Europe PMC bioinformatics",
+              "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+              "scope": "candidate"
+            }
+          ],
+          "decision": {
+            "accepted": false,
+            "reason": "no_microbial_evidence",
+            "version": "microbial-rules-v3",
+            "matched": [],
+            "context": {
+              "marine": [],
+              "genomics": [],
+              "evolution": []
+            },
+            "tags": [
+              "微生物学"
+            ]
+          }
         }
       ],
       "id": "10.21203/rs.3.rs-11380903/v1",
@@ -1192229,6 +1192728,30 @@
     },
     {
       "attempts": [
+        {
+          "source": "Europe PMC bioinformatics",
+          "discovery": [
+            {
+              "source": "Europe PMC bioinformatics",
+              "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+              "scope": "candidate"
+            }
+          ],
+          "decision": {
+            "accepted": false,
+            "reason": "no_microbial_evidence",
+            "version": "microbial-rules-v3",
+            "matched": [],
+            "context": {
+              "marine": [],
+              "genomics": [],
+              "evolution": []
+            },
+            "tags": [
+              "微生物学"
+            ]
+          }
+        },
         {
           "source": "Europe PMC bioinformatics",
           "discovery": [
@@ -1201624,6 +1202147,30 @@
               "微生物学"
             ]
           }
+        },
+        {
+          "source": "Europe PMC bioinformatics",
+          "discovery": [
+            {
+              "source": "Europe PMC bioinformatics",
+              "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+              "scope": "candidate"
+            }
+          ],
+          "decision": {
+            "accepted": false,
+            "reason": "no_microbial_evidence",
+            "version": "microbial-rules-v3",
+            "matched": [],
+            "context": {
+              "marine": [],
+              "genomics": [],
+              "evolution": []
+            },
+            "tags": [
+              "微生物学"
+            ]
+          }
         }
       ],
       "id": "10.9758/cpn.26.1519",
@@ -1201658,6 +1202205,30 @@
     },
     {
       "attempts": [
+        {
+          "source": "Europe PMC bioinformatics",
+          "discovery": [
+            {
+              "source": "Europe PMC bioinformatics",
+              "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+              "scope": "candidate"
+            }
+          ],
+          "decision": {
+            "accepted": false,
+            "reason": "no_microbial_evidence",
+            "version": "microbial-rules-v3",
+            "matched": [],
+            "context": {
+              "marine": [],
+              "genomics": [],
+              "evolution": []
+            },
+            "tags": [
+              "微生物学"
+            ]
+          }
+        },
         {
           "source": "Europe PMC bioinformatics",
           "discovery": [
@@ -1201786,6 +1202357,30 @@
               "微生物学"
             ]
           }
+        },
+        {
+          "source": "Europe PMC bioinformatics",
+          "discovery": [
+            {
+              "source": "Europe PMC bioinformatics",
+              "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+              "scope": "candidate"
+            }
+          ],
+          "decision": {
+            "accepted": false,
+            "reason": "no_microbial_evidence",
+            "version": "microbial-rules-v3",
+            "matched": [],
+            "context": {
+              "marine": [],
+              "genomics": [],
+              "evolution": []
+            },
+            "tags": [
+              "微生物学"
+            ]
+          }
         }
       ],
       "id": "10.3238/arztebl.m2026.0140",
@@ -1201820,6 +1202415,30 @@
     },
     {
       "attempts": [
+        {
+          "source": "Europe PMC bioinformatics",
+          "discovery": [
+            {
+              "source": "Europe PMC bioinformatics",
+              "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+              "scope": "candidate"
+            }
+          ],
+          "decision": {
+            "accepted": false,
+            "reason": "no_microbial_evidence",
+            "version": "microbial-rules-v3",
+            "matched": [],
+            "context": {
+              "marine": [],
+              "genomics": [],
+              "evolution": []
+            },
+            "tags": [
+              "微生物学"
+            ]
+          }
+        },
         {
           "source": "Europe PMC bioinformatics",
           "discovery": [
@@ -1201948,6 +1202567,30 @@
               "微生物学"
             ]
           }
+        },
+        {
+          "source": "Europe PMC bioinformatics",
+          "discovery": [
+            {
+              "source": "Europe PMC bioinformatics",
+              "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+              "scope": "candidate"
+            }
+          ],
+          "decision": {
+            "accepted": false,
+            "reason": "no_microbial_evidence",
+            "version": "microbial-rules-v3",
+            "matched": [],
+            "context": {
+              "marine": [],
+              "genomics": [],
+              "evolution": []
+            },
+            "tags": [
+              "微生物学"
+            ]
+          }
         }
       ],
       "id": "10.3892/ol.2026.15923",
@@ -1201982,6 +1202625,30 @@
     },
     {
       "attempts": [
+        {
+          "source": "Europe PMC bioinformatics",
+          "discovery": [
+            {
+              "source": "Europe PMC bioinformatics",
+              "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+              "scope": "candidate"
+            }
+          ],
+          "decision": {
+            "accepted": false,
+            "reason": "no_microbial_evidence",
+            "version": "microbial-rules-v3",
+            "matched": [],
+            "context": {
+              "marine": [],
+              "genomics": [],
+              "evolution": []
+            },
+            "tags": [
+              "微生物学"
+            ]
+          }
+        },
         {
           "source": "Europe PMC bioinformatics",
           "discovery": [
@@ -1202110,6 +1202777,30 @@
               "微生物学"
             ]
           }
+        },
+        {
+          "source": "Europe PMC bioinformatics",
+          "discovery": [
+            {
+              "source": "Europe PMC bioinformatics",
+              "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+              "scope": "candidate"
+            }
+          ],
+          "decision": {
+            "accepted": false,
+            "reason": "no_microbial_evidence",
+            "version": "microbial-rules-v3",
+            "matched": [],
+            "context": {
+              "marine": [],
+              "genomics": [],
+              "evolution": []
+            },
+            "tags": [
+              "微生物学"
+            ]
+          }
         }
       ],
       "id": "10.3390/ma19214576",
@@ -1202144,6 +1202835,35 @@
     },
     {
       "attempts": [
+        {
+          "source": "Europe PMC bioinformatics",
+          "discovery": [
+            {
+              "source": "Europe PMC bioinformatics",
+              "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+              "scope": "candidate"
+            }
+          ],
+          "decision": {
+            "accepted": false,
+            "reason": "no_microbial_evidence",
+            "version": "microbial-rules-v3",
+            "matched": [],
+            "context": {
+              "marine": [],
+              "genomics": [
+                "evolution"
+              ],
+              "evolution": [
+                "evolution"
+              ]
+            },
+            "tags": [
+              "微生物ゲノミクス",
+              "微生物進化"
+            ]
+          }
+        },
         {
           "source": "Europe PMC bioinformatics",
           "discovery": [
@@ -1202287,6 +1203007,30 @@
               "微生物学"
             ]
           }
+        },
+        {
+          "source": "Europe PMC bioinformatics",
+          "discovery": [
+            {
+              "source": "Europe PMC bioinformatics",
+              "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+              "scope": "candidate"
+            }
+          ],
+          "decision": {
+            "accepted": false,
+            "reason": "no_microbial_evidence",
+            "version": "microbial-rules-v3",
+            "matched": [],
+            "context": {
+              "marine": [],
+              "genomics": [],
+              "evolution": []
+            },
+            "tags": [
+              "微生物学"
+            ]
+          }
         }
       ],
       "id": "10.3390/nu18213585",
@@ -1202321,6 +1203065,33 @@
     },
     {
       "attempts": [
+        {
+          "source": "Europe PMC bioinformatics",
+          "discovery": [
+            {
+              "source": "Europe PMC bioinformatics",
+              "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+              "scope": "candidate"
+            }
+          ],
+          "decision": {
+            "accepted": false,
+            "reason": "no_microbial_evidence",
+            "version": "microbial-rules-v3",
+            "matched": [
+              "microbial",
+              "microbiome"
+            ],
+            "context": {
+              "marine": [],
+              "genomics": [],
+              "evolution": []
+            },
+            "tags": [
+              "微生物学"
+            ]
+          }
+        },
         {
           "source": "Europe PMC bioinformatics",
           "discovery": [
@@ -1202458,6 +1203229,30 @@
               "微生物学"
             ]
           }
+        },
+        {
+          "source": "Europe PMC bioinformatics",
+          "discovery": [
+            {
+              "source": "Europe PMC bioinformatics",
+              "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+              "scope": "candidate"
+            }
+          ],
+          "decision": {
+            "accepted": false,
+            "reason": "no_microbial_evidence",
+            "version": "microbial-rules-v3",
+            "matched": [],
+            "context": {
+              "marine": [],
+              "genomics": [],
+              "evolution": []
+            },
+            "tags": [
+              "微生物学"
+            ]
+          }
         }
       ],
       "id": "10.3390/nu18213582",
@@ -1202492,6 +1203287,30 @@
     },
     {
       "attempts": [
+        {
+          "source": "Europe PMC bioinformatics",
+          "discovery": [
+            {
+              "source": "Europe PMC bioinformatics",
+              "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+              "scope": "candidate"
+            }
+          ],
+          "decision": {
+            "accepted": false,
+            "reason": "no_microbial_evidence",
+            "version": "microbial-rules-v3",
+            "matched": [],
+            "context": {
+              "marine": [],
+              "genomics": [],
+              "evolution": []
+            },
+            "tags": [
+              "微生物学"
+            ]
+          }
+        },
         {
           "source": "Europe PMC bioinformatics",
           "discovery": [
@@ -1202628,6 +1203447,34 @@
               "微生物ゲノミクス"
             ]
           }
+        },
+        {
+          "source": "Europe PMC bioinformatics",
+          "discovery": [
+            {
+              "source": "Europe PMC bioinformatics",
+              "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+              "scope": "candidate"
+            }
+          ],
+          "decision": {
+            "accepted": false,
+            "reason": "no_microbial_evidence",
+            "version": "microbial-rules-v3",
+            "matched": [],
+            "context": {
+              "marine": [],
+              "genomics": [
+                "annotation",
+                "genom",
+                "genome"
+              ],
+              "evolution": []
+            },
+            "tags": [
+              "微生物ゲノミクス"
+            ]
+          }
         }
       ],
       "id": "10.3390/plants15213355",
@@ -1202666,6 +1203513,32 @@
     },
     {
       "attempts": [
+        {
+          "source": "Europe PMC bioinformatics",
+          "discovery": [
+            {
+              "source": "Europe PMC bioinformatics",
+              "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+              "scope": "candidate"
+            }
+          ],
+          "decision": {
+            "accepted": false,
+            "reason": "no_microbial_evidence",
+            "version": "microbial-rules-v3",
+            "matched": [
+              "microbial"
+            ],
+            "context": {
+              "marine": [],
+              "genomics": [],
+              "evolution": []
+            },
+            "tags": [
+              "微生物学"
+            ]
+          }
+        },
         {
           "source": "Europe PMC bioinformatics",
           "discovery": [
@@ -1202812,6 +1203685,36 @@
               "微生物進化"
             ]
           }
+        },
+        {
+          "source": "Europe PMC bioinformatics",
+          "discovery": [
+            {
+              "source": "Europe PMC bioinformatics",
+              "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+              "scope": "candidate"
+            }
+          ],
+          "decision": {
+            "accepted": false,
+            "reason": "no_microbial_evidence",
+            "version": "microbial-rules-v3",
+            "matched": [],
+            "context": {
+              "marine": [],
+              "genomics": [
+                "evolution"
+              ],
+              "evolution": [
+                "evolution",
+                "evolutionary"
+              ]
+            },
+            "tags": [
+              "微生物ゲノミクス",
+              "微生物進化"
+            ]
+          }
         }
       ],
       "id": "10.3390/plants15213348",
@@ -1202852,6 +1203755,30 @@
     },
     {
       "attempts": [
+        {
+          "source": "Europe PMC bioinformatics",
+          "discovery": [
+            {
+              "source": "Europe PMC bioinformatics",
+              "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+              "scope": "candidate"
+            }
+          ],
+          "decision": {
+            "accepted": false,
+            "reason": "no_microbial_evidence",
+            "version": "microbial-rules-v3",
+            "matched": [],
+            "context": {
+              "marine": [],
+              "genomics": [],
+              "evolution": []
+            },
+            "tags": [
+              "微生物学"
+            ]
+          }
+        },
         {
           "source": "Europe PMC bioinformatics",
           "discovery": [
@@ -1202980,6 +1203907,30 @@
               "微生物学"
             ]
           }
+        },
+        {
+          "source": "Europe PMC bioinformatics",
+          "discovery": [
+            {
+              "source": "Europe PMC bioinformatics",
+              "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+              "scope": "candidate"
+            }
+          ],
+          "decision": {
+            "accepted": false,
+            "reason": "no_microbial_evidence",
+            "version": "microbial-rules-v3",
+            "matched": [],
+            "context": {
+              "marine": [],
+              "genomics": [],
+              "evolution": []
+            },
+            "tags": [
+              "微生物学"
+            ]
+          }
         }
       ],
       "id": "10.3390/diagnostics16213560",
@@ -1203014,6 +1203965,33 @@
     },
     {
       "attempts": [
+        {
+          "source": "Europe PMC bioinformatics",
+          "discovery": [
+            {
+              "source": "Europe PMC bioinformatics",
+              "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+              "scope": "candidate"
+            }
+          ],
+          "decision": {
+            "accepted": false,
+            "reason": "no_microbial_evidence",
+            "version": "microbial-rules-v3",
+            "matched": [],
+            "context": {
+              "marine": [],
+              "genomics": [
+                "assemblies",
+                "transcript"
+              ],
+              "evolution": []
+            },
+            "tags": [
+              "微生物ゲノミクス"
+            ]
+          }
+        },
         {
           "source": "Europe PMC bioinformatics",
           "discovery": [
@@ -1203155,6 +1204133,32 @@
               "微生物ゲノミクス"
             ]
           }
+        },
+        {
+          "source": "Europe PMC bioinformatics",
+          "discovery": [
+            {
+              "source": "Europe PMC bioinformatics",
+              "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+              "scope": "candidate"
+            }
+          ],
+          "decision": {
+            "accepted": false,
+            "reason": "no_microbial_evidence",
+            "version": "microbial-rules-v3",
+            "matched": [],
+            "context": {
+              "marine": [],
+              "genomics": [
+                "DNA"
+              ],
+              "evolution": []
+            },
+            "tags": [
+              "微生物ゲノミクス"
+            ]
+          }
         }
       ],
       "id": "10.3390/ijms27219691",
@@ -1203191,6 +1204195,33 @@
     },
     {
       "attempts": [
+        {
+          "source": "Europe PMC bioinformatics",
+          "discovery": [
+            {
+              "source": "Europe PMC bioinformatics",
+              "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+              "scope": "candidate"
+            }
+          ],
+          "decision": {
+            "accepted": false,
+            "reason": "no_microbial_evidence",
+            "version": "microbial-rules-v3",
+            "matched": [],
+            "context": {
+              "marine": [],
+              "genomics": [
+                "annotation",
+                "transcript"
+              ],
+              "evolution": []
+            },
+            "tags": [
+              "微生物ゲノミクス"
+            ]
+          }
+        },
         {
           "source": "Europe PMC bioinformatics",
           "discovery": [
@@ -1203332,6 +1204363,32 @@
               "微生物学"
             ]
           }
+        },
+        {
+          "source": "Europe PMC bioinformatics",
+          "discovery": [
+            {
+              "source": "Europe PMC bioinformatics",
+              "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+              "scope": "candidate"
+            }
+          ],
+          "decision": {
+            "accepted": false,
+            "reason": "no_microbial_evidence",
+            "version": "microbial-rules-v3",
+            "matched": [
+              "microbiota"
+            ],
+            "context": {
+              "marine": [],
+              "genomics": [],
+              "evolution": []
+            },
+            "tags": [
+              "微生物学"
+            ]
+          }
         }
       ],
       "id": "10.3390/foods15213872",
@@ -1203368,6 +1204425,32 @@
     },
     {
       "attempts": [
+        {
+          "source": "Europe PMC bioinformatics",
+          "discovery": [
+            {
+              "source": "Europe PMC bioinformatics",
+              "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+              "scope": "candidate"
+            }
+          ],
+          "decision": {
+            "accepted": false,
+            "reason": "no_microbial_evidence",
+            "version": "microbial-rules-v3",
+            "matched": [],
+            "context": {
+              "marine": [],
+              "genomics": [
+                "transcript"
+              ],
+              "evolution": []
+            },
+            "tags": [
+              "微生物ゲノミクス"
+            ]
+          }
+        },
         {
           "source": "Europe PMC bioinformatics",
           "discovery": [
@@ -1203514,6 +1204597,36 @@
               "微生物ゲノミクス"
             ]
           }
+        },
+        {
+          "source": "Europe PMC bioinformatics",
+          "discovery": [
+            {
+              "source": "Europe PMC bioinformatics",
+              "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+              "scope": "candidate"
+            }
+          ],
+          "decision": {
+            "accepted": true,
+            "reason": "bioinformatics_method_or_resource",
+            "version": "microbial-rules-v3",
+            "matched": [
+              "metabolomic",
+              "simulation"
+            ],
+            "context": {
+              "marine": [],
+              "genomics": [
+                "metabolomic",
+                "simulation"
+              ],
+              "evolution": []
+            },
+            "tags": [
+              "微生物ゲノミクス"
+            ]
+          }
         }
       ],
       "id": "10.1021/acsomega.6c07662",
@@ -1203554,6 +1204667,32 @@
     },
     {
       "attempts": [
+        {
+          "source": "Europe PMC bioinformatics",
+          "discovery": [
+            {
+              "source": "Europe PMC bioinformatics",
+              "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+              "scope": "candidate"
+            }
+          ],
+          "decision": {
+            "accepted": false,
+            "reason": "no_microbial_evidence",
+            "version": "microbial-rules-v3",
+            "matched": [
+              "microbial"
+            ],
+            "context": {
+              "marine": [],
+              "genomics": [],
+              "evolution": []
+            },
+            "tags": [
+              "微生物学"
+            ]
+          }
+        },
         {
           "source": "Europe PMC bioinformatics",
           "discovery": [
@@ -1214203,6 +1215342,37 @@
               "微生物学"
             ]
           }
+        },
+        {
+          "source": "Europe PMC journals 4",
+          "discovery": [
+            {
+              "source": "Europe PMC journals 4",
+              "query": "(JOURNAL:\"Infection and Immunity\" OR JOURNAL:\"Antimicrobial Agents and Chemotherapy\" OR JOURNAL:\"Journal of Clinical Microbiology\" OR JOURNAL:\"Microbiology Resource Announcements\" OR JOURNAL:\"Nature\" OR JOURNAL:\"Nature Microbiology\" OR JOURNAL:\"Nature Ecology & Evolution\" OR JOURNAL:\"Nature Communications\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+              "scope": "candidate"
+            }
+          ],
+          "decision": {
+            "accepted": true,
+            "reason": "unfiltered_journal",
+            "version": "microbial-rules-v3",
+            "matched": [
+              "Escherichia",
+              "bacteria",
+              "bacterial",
+              "fungal",
+              "viral",
+              "virus"
+            ],
+            "context": {
+              "marine": [],
+              "genomics": [],
+              "evolution": []
+            },
+            "tags": [
+              "微生物学"
+            ]
+          }
         }
       ],
       "id": "10.1128/jcm.00738-26",
@@ -1214269,6 +1215439,32 @@
               "微生物学"
             ]
           }
+        },
+        {
+          "source": "Europe PMC journals 4",
+          "discovery": [
+            {
+              "source": "Europe PMC journals 4",
+              "query": "(JOURNAL:\"Infection and Immunity\" OR JOURNAL:\"Antimicrobial Agents and Chemotherapy\" OR JOURNAL:\"Journal of Clinical Microbiology\" OR JOURNAL:\"Microbiology Resource Announcements\" OR JOURNAL:\"Nature\" OR JOURNAL:\"Nature Microbiology\" OR JOURNAL:\"Nature Ecology & Evolution\" OR JOURNAL:\"Nature Communications\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+              "scope": "candidate"
+            }
+          ],
+          "decision": {
+            "accepted": true,
+            "reason": "unfiltered_journal",
+            "version": "microbial-rules-v3",
+            "matched": [
+              "Aspergillus"
+            ],
+            "context": {
+              "marine": [],
+              "genomics": [],
+              "evolution": []
+            },
+            "tags": [
+              "微生物学"
+            ]
+          }
         }
       ],
       "id": "10.1128/jcm.01140-26",
@@ -1214305,6 +1215501,32 @@
     },
     {
       "attempts": [
+        {
+          "source": "Europe PMC journals 4",
+          "discovery": [
+            {
+              "source": "Europe PMC journals 4",
+              "query": "(JOURNAL:\"Infection and Immunity\" OR JOURNAL:\"Antimicrobial Agents and Chemotherapy\" OR JOURNAL:\"Journal of Clinical Microbiology\" OR JOURNAL:\"Microbiology Resource Announcements\" OR JOURNAL:\"Nature\" OR JOURNAL:\"Nature Microbiology\" OR JOURNAL:\"Nature Ecology & Evolution\" OR JOURNAL:\"Nature Communications\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+              "scope": "candidate"
+            }
+          ],
+          "decision": {
+            "accepted": true,
+            "reason": "unfiltered_journal",
+            "version": "microbial-rules-v3",
+            "matched": [
+              "fungal"
+            ],
+            "context": {
+              "marine": [],
+              "genomics": [],
+              "evolution": []
+            },
+            "tags": [
+              "微生物学"
+            ]
+          }
+        },
         {
           "source": "Europe PMC journals 4",
           "discovery": [
@@ -1215175,6 +1216397,30 @@
               "微生物学"
             ]
           }
+        },
+        {
+          "source": "Europe PMC journals 6",
+          "discovery": [
+            {
+              "source": "Europe PMC journals 6",
+              "query": "(JOURNAL:\"Microbial Genomics\" OR JOURNAL:\"Microbiology\" OR JOURNAL:\"Aquatic Microbial Ecology\" OR JOURNAL:\"PNAS\" OR JOURNAL:\"PLOS Biology\" OR JOURNAL:\"PLOS Genetics\" OR JOURNAL:\"Genome Research\" OR JOURNAL:\"Genome Biology\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+              "scope": "candidate"
+            }
+          ],
+          "decision": {
+            "accepted": false,
+            "reason": "no_microbial_evidence",
+            "version": "microbial-rules-v3",
+            "matched": [],
+            "context": {
+              "marine": [],
+              "genomics": [],
+              "evolution": []
+            },
+            "tags": [
+              "微生物学"
+            ]
+          }
         }
       ],
       "id": "10.1073/pnas.2614289123",
@@ -1215209,6 +1216455,30 @@
     },
     {
       "attempts": [
+        {
+          "source": "Europe PMC journals 6",
+          "discovery": [
+            {
+              "source": "Europe PMC journals 6",
+              "query": "(JOURNAL:\"Microbial Genomics\" OR JOURNAL:\"Microbiology\" OR JOURNAL:\"Aquatic Microbial Ecology\" OR JOURNAL:\"PNAS\" OR JOURNAL:\"PLOS Biology\" OR JOURNAL:\"PLOS Genetics\" OR JOURNAL:\"Genome Research\" OR JOURNAL:\"Genome Biology\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+              "scope": "candidate"
+            }
+          ],
+          "decision": {
+            "accepted": false,
+            "reason": "metadata_pending",
+            "version": "microbial-rules-v3",
+            "matched": [],
+            "context": {
+              "marine": [],
+              "genomics": [],
+              "evolution": []
+            },
+            "tags": [
+              "微生物学"
+            ]
+          }
+        },
         {
           "source": "Europe PMC journals 6",
           "discovery": [
@@ -1215289,6 +1216559,30 @@
               "微生物学"
             ]
           }
+        },
+        {
+          "source": "Europe PMC journals 6",
+          "discovery": [
+            {
+              "source": "Europe PMC journals 6",
+              "query": "(JOURNAL:\"Microbial Genomics\" OR JOURNAL:\"Microbiology\" OR JOURNAL:\"Aquatic Microbial Ecology\" OR JOURNAL:\"PNAS\" OR JOURNAL:\"PLOS Biology\" OR JOURNAL:\"PLOS Genetics\" OR JOURNAL:\"Genome Research\" OR JOURNAL:\"Genome Biology\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+              "scope": "candidate"
+            }
+          ],
+          "decision": {
+            "accepted": false,
+            "reason": "no_microbial_evidence",
+            "version": "microbial-rules-v3",
+            "matched": [],
+            "context": {
+              "marine": [],
+              "genomics": [],
+              "evolution": []
+            },
+            "tags": [
+              "微生物学"
+            ]
+          }
         }
       ],
       "id": "10.1073/pnas.2619145123",
@@ -1215323,6 +1216617,33 @@
     },
     {
       "attempts": [
+        {
+          "source": "Europe PMC journals 6",
+          "discovery": [
+            {
+              "source": "Europe PMC journals 6",
+              "query": "(JOURNAL:\"Microbial Genomics\" OR JOURNAL:\"Microbiology\" OR JOURNAL:\"Aquatic Microbial Ecology\" OR JOURNAL:\"PNAS\" OR JOURNAL:\"PLOS Biology\" OR JOURNAL:\"PLOS Genetics\" OR JOURNAL:\"Genome Research\" OR JOURNAL:\"Genome Biology\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+              "scope": "candidate"
+            }
+          ],
+          "decision": {
+            "accepted": false,
+            "reason": "no_microbial_evidence",
+            "version": "microbial-rules-v3",
+            "matched": [
+              "viral",
+              "virus"
+            ],
+            "context": {
+              "marine": [],
+              "genomics": [],
+              "evolution": []
+            },
+            "tags": [
+              "微生物学"
+            ]
+          }
+        },
         {
           "source": "Europe PMC journals 6",
           "discovery": [
@@ -1215409,6 +1216730,30 @@
               "微生物学"
             ]
           }
+        },
+        {
+          "source": "Europe PMC journals 6",
+          "discovery": [
+            {
+              "source": "Europe PMC journals 6",
+              "query": "(JOURNAL:\"Microbial Genomics\" OR JOURNAL:\"Microbiology\" OR JOURNAL:\"Aquatic Microbial Ecology\" OR JOURNAL:\"PNAS\" OR JOURNAL:\"PLOS Biology\" OR JOURNAL:\"PLOS Genetics\" OR JOURNAL:\"Genome Research\" OR JOURNAL:\"Genome Biology\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+              "scope": "candidate"
+            }
+          ],
+          "decision": {
+            "accepted": false,
+            "reason": "no_microbial_evidence",
+            "version": "microbial-rules-v3",
+            "matched": [],
+            "context": {
+              "marine": [],
+              "genomics": [],
+              "evolution": []
+            },
+            "tags": [
+              "微生物学"
+            ]
+          }
         }
       ],
       "id": "10.1073/pnas.2609811123",
@@ -1215443,6 +1216788,32 @@
     },
     {
       "attempts": [
+        {
+          "source": "Europe PMC journals 6",
+          "discovery": [
+            {
+              "source": "Europe PMC journals 6",
+              "query": "(JOURNAL:\"Microbial Genomics\" OR JOURNAL:\"Microbiology\" OR JOURNAL:\"Aquatic Microbial Ecology\" OR JOURNAL:\"PNAS\" OR JOURNAL:\"PLOS Biology\" OR JOURNAL:\"PLOS Genetics\" OR JOURNAL:\"Genome Research\" OR JOURNAL:\"Genome Biology\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+              "scope": "candidate"
+            }
+          ],
+          "decision": {
+            "accepted": false,
+            "reason": "no_microbial_evidence",
+            "version": "microbial-rules-v3",
+            "matched": [],
+            "context": {
+              "marine": [],
+              "genomics": [
+                "transcript"
+              ],
+              "evolution": []
+            },
+            "tags": [
+              "微生物ゲノミクス"
+            ]
+          }
+        },
         {
           "source": "Europe PMC journals 6",
           "discovery": [
@@ -1215504,6 +1216875,33 @@
     },
     {
       "attempts": [
+        {
+          "source": "Europe PMC journals 6",
+          "discovery": [
+            {
+              "source": "Europe PMC journals 6",
+              "query": "(JOURNAL:\"Microbial Genomics\" OR JOURNAL:\"Microbiology\" OR JOURNAL:\"Aquatic Microbial Ecology\" OR JOURNAL:\"PNAS\" OR JOURNAL:\"PLOS Biology\" OR JOURNAL:\"PLOS Genetics\" OR JOURNAL:\"Genome Research\" OR JOURNAL:\"Genome Biology\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+              "scope": "candidate"
+            }
+          ],
+          "decision": {
+            "accepted": false,
+            "reason": "no_microbial_evidence",
+            "version": "microbial-rules-v3",
+            "matched": [
+              "virus",
+              "viruses"
+            ],
+            "context": {
+              "marine": [],
+              "genomics": [],
+              "evolution": []
+            },
+            "tags": [
+              "微生物学"
+            ]
+          }
+        },
         {
           "source": "Europe PMC journals 6",
           "discovery": [
@@ -1215592,6 +1216990,32 @@
               "微生物学"
             ]
           }
+        },
+        {
+          "source": "Europe PMC journals 6",
+          "discovery": [
+            {
+              "source": "Europe PMC journals 6",
+              "query": "(JOURNAL:\"Microbial Genomics\" OR JOURNAL:\"Microbiology\" OR JOURNAL:\"Aquatic Microbial Ecology\" OR JOURNAL:\"PNAS\" OR JOURNAL:\"PLOS Biology\" OR JOURNAL:\"PLOS Genetics\" OR JOURNAL:\"Genome Research\" OR JOURNAL:\"Genome Biology\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+              "scope": "candidate"
+            }
+          ],
+          "decision": {
+            "accepted": false,
+            "reason": "no_microbial_evidence",
+            "version": "microbial-rules-v3",
+            "matched": [
+              "bacteria"
+            ],
+            "context": {
+              "marine": [],
+              "genomics": [],
+              "evolution": []
+            },
+            "tags": [
+              "微生物学"
+            ]
+          }
         }
       ],
       "id": "10.1073/pnas.2626865123",
@@ -1215628,6 +1217052,32 @@
     },
     {
       "attempts": [
+        {
+          "source": "Europe PMC journals 6",
+          "discovery": [
+            {
+              "source": "Europe PMC journals 6",
+              "query": "(JOURNAL:\"Microbial Genomics\" OR JOURNAL:\"Microbiology\" OR JOURNAL:\"Aquatic Microbial Ecology\" OR JOURNAL:\"PNAS\" OR JOURNAL:\"PLOS Biology\" OR JOURNAL:\"PLOS Genetics\" OR JOURNAL:\"Genome Research\" OR JOURNAL:\"Genome Biology\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+              "scope": "candidate"
+            }
+          ],
+          "decision": {
+            "accepted": false,
+            "reason": "no_microbial_evidence",
+            "version": "microbial-rules-v3",
+            "matched": [],
+            "context": {
+              "marine": [],
+              "genomics": [
+                "transcript"
+              ],
+              "evolution": []
+            },
+            "tags": [
+              "微生物ゲノミクス"
+            ]
+          }
+        },
         {
           "source": "Europe PMC journals 6",
           "discovery": [
@@ -1215762,6 +1217212,30 @@
               "微生物学"
             ]
           }
+        },
+        {
+          "source": "Europe PMC journals 6",
+          "discovery": [
+            {
+              "source": "Europe PMC journals 6",
+              "query": "(JOURNAL:\"Microbial Genomics\" OR JOURNAL:\"Microbiology\" OR JOURNAL:\"Aquatic Microbial Ecology\" OR JOURNAL:\"PNAS\" OR JOURNAL:\"PLOS Biology\" OR JOURNAL:\"PLOS Genetics\" OR JOURNAL:\"Genome Research\" OR JOURNAL:\"Genome Biology\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+              "scope": "candidate"
+            }
+          ],
+          "decision": {
+            "accepted": false,
+            "reason": "no_microbial_evidence",
+            "version": "microbial-rules-v3",
+            "matched": [],
+            "context": {
+              "marine": [],
+              "genomics": [],
+              "evolution": []
+            },
+            "tags": [
+              "微生物学"
+            ]
+          }
         }
       ],
       "id": "10.1073/pnas.2625327123",
@@ -1215796,6 +1217270,30 @@
     },
     {
       "attempts": [
+        {
+          "source": "Europe PMC journals 6",
+          "discovery": [
+            {
+              "source": "Europe PMC journals 6",
+              "query": "(JOURNAL:\"Microbial Genomics\" OR JOURNAL:\"Microbiology\" OR JOURNAL:\"Aquatic Microbial Ecology\" OR JOURNAL:\"PNAS\" OR JOURNAL:\"PLOS Biology\" OR JOURNAL:\"PLOS Genetics\" OR JOURNAL:\"Genome Research\" OR JOURNAL:\"Genome Biology\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+              "scope": "candidate"
+            }
+          ],
+          "decision": {
+            "accepted": false,
+            "reason": "no_microbial_evidence",
+            "version": "microbial-rules-v3",
+            "matched": [],
+            "context": {
+              "marine": [],
+              "genomics": [],
+              "evolution": []
+            },
+            "tags": [
+              "微生物学"
+            ]
+          }
+        },
         {
           "source": "Europe PMC journals 6",
           "discovery": [
@@ -1215924,6 +1217422,30 @@
               "微生物学"
             ]
           }
+        },
+        {
+          "source": "Europe PMC journals 6",
+          "discovery": [
+            {
+              "source": "Europe PMC journals 6",
+              "query": "(JOURNAL:\"Microbial Genomics\" OR JOURNAL:\"Microbiology\" OR JOURNAL:\"Aquatic Microbial Ecology\" OR JOURNAL:\"PNAS\" OR JOURNAL:\"PLOS Biology\" OR JOURNAL:\"PLOS Genetics\" OR JOURNAL:\"Genome Research\" OR JOURNAL:\"Genome Biology\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+              "scope": "candidate"
+            }
+          ],
+          "decision": {
+            "accepted": false,
+            "reason": "no_microbial_evidence",
+            "version": "microbial-rules-v3",
+            "matched": [],
+            "context": {
+              "marine": [],
+              "genomics": [],
+              "evolution": []
+            },
+            "tags": [
+              "微生物学"
+            ]
+          }
         }
       ],
       "id": "10.1073/pnas.2614506123",
@@ -1216005,6 +1217527,30 @@
               "微生物学"
             ]
           }
+        },
+        {
+          "source": "Europe PMC journals 6",
+          "discovery": [
+            {
+              "source": "Europe PMC journals 6",
+              "query": "(JOURNAL:\"Microbial Genomics\" OR JOURNAL:\"Microbiology\" OR JOURNAL:\"Aquatic Microbial Ecology\" OR JOURNAL:\"PNAS\" OR JOURNAL:\"PLOS Biology\" OR JOURNAL:\"PLOS Genetics\" OR JOURNAL:\"Genome Research\" OR JOURNAL:\"Genome Biology\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+              "scope": "candidate"
+            }
+          ],
+          "decision": {
+            "accepted": false,
+            "reason": "no_microbial_evidence",
+            "version": "microbial-rules-v3",
+            "matched": [],
+            "context": {
+              "marine": [],
+              "genomics": [],
+              "evolution": []
+            },
+            "tags": [
+              "微生物学"
+            ]
+          }
         }
       ],
       "id": "10.1073/pnas.2625546123",
@@ -1216039,6 +1217585,33 @@
     },
     {
       "attempts": [
+        {
+          "source": "Europe PMC journals 6",
+          "discovery": [
+            {
+              "source": "Europe PMC journals 6",
+              "query": "(JOURNAL:\"Microbial Genomics\" OR JOURNAL:\"Microbiology\" OR JOURNAL:\"Aquatic Microbial Ecology\" OR JOURNAL:\"PNAS\" OR JOURNAL:\"PLOS Biology\" OR JOURNAL:\"PLOS Genetics\" OR JOURNAL:\"Genome Research\" OR JOURNAL:\"Genome Biology\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+              "scope": "candidate"
+            }
+          ],
+          "decision": {
+            "accepted": false,
+            "reason": "no_microbial_evidence",
+            "version": "microbial-rules-v3",
+            "matched": [],
+            "context": {
+              "marine": [],
+              "genomics": [
+                "assemblies",
+                "assembly"
+              ],
+              "evolution": []
+            },
+            "tags": [
+              "微生物ゲノミクス"
+            ]
+          }
+        },
         {
           "source": "Europe PMC journals 6",
           "discovery": [
@@ -1216182,6 +1217755,33 @@
               "微生物ゲノミクス"
             ]
           }
+        },
+        {
+          "source": "Europe PMC journals 6",
+          "discovery": [
+            {
+              "source": "Europe PMC journals 6",
+              "query": "(JOURNAL:\"Microbial Genomics\" OR JOURNAL:\"Microbiology\" OR JOURNAL:\"Aquatic Microbial Ecology\" OR JOURNAL:\"PNAS\" OR JOURNAL:\"PLOS Biology\" OR JOURNAL:\"PLOS Genetics\" OR JOURNAL:\"Genome Research\" OR JOURNAL:\"Genome Biology\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+              "scope": "candidate"
+            }
+          ],
+          "decision": {
+            "accepted": false,
+            "reason": "no_microbial_evidence",
+            "version": "microbial-rules-v3",
+            "matched": [],
+            "context": {
+              "marine": [],
+              "genomics": [
+                "DNA",
+                "transcript"
+              ],
+              "evolution": []
+            },
+            "tags": [
+              "微生物ゲノミクス"
+            ]
+          }
         }
       ],
       "id": "10.1073/pnas.2623767123",
@@ -1216266,6 +1217866,78 @@
               "微生物学"
             ]
           }
+        },
+        {
+          "source": "Europe PMC journals 6",
+          "discovery": [
+            {
+              "source": "Europe PMC journals 6",
+              "query": "(JOURNAL:\"Microbial Genomics\" OR JOURNAL:\"Microbiology\" OR JOURNAL:\"Aquatic Microbial Ecology\" OR JOURNAL:\"PNAS\" OR JOURNAL:\"PLOS Biology\" OR JOURNAL:\"PLOS Genetics\" OR JOURNAL:\"Genome Research\" OR JOURNAL:\"Genome Biology\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+              "scope": "candidate"
+            }
+          ],
+          "decision": {
+            "accepted": false,
+            "reason": "metadata_pending",
+            "version": "microbial-rules-v3",
+            "matched": [],
+            "context": {
+              "marine": [],
+              "genomics": [],
+              "evolution": []
+            },
+            "tags": [
+              "微生物学"
+            ]
+          }
+        },
+        {
+          "source": "Europe PMC journals 6",
+          "discovery": [
+            {
+              "source": "Europe PMC journals 6",
+              "query": "(JOURNAL:\"Microbial Genomics\" OR JOURNAL:\"Microbiology\" OR JOURNAL:\"Aquatic Microbial Ecology\" OR JOURNAL:\"PNAS\" OR JOURNAL:\"PLOS Biology\" OR JOURNAL:\"PLOS Genetics\" OR JOURNAL:\"Genome Research\" OR JOURNAL:\"Genome Biology\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+              "scope": "candidate"
+            }
+          ],
+          "decision": {
+            "accepted": false,
+            "reason": "metadata_pending",
+            "version": "microbial-rules-v3",
+            "matched": [],
+            "context": {
+              "marine": [],
+              "genomics": [],
+              "evolution": []
+            },
+            "tags": [
+              "微生物学"
+            ]
+          }
+        },
+        {
+          "source": "Europe PMC journals 6",
+          "discovery": [
+            {
+              "source": "Europe PMC journals 6",
+              "query": "(JOURNAL:\"Microbial Genomics\" OR JOURNAL:\"Microbiology\" OR JOURNAL:\"Aquatic Microbial Ecology\" OR JOURNAL:\"PNAS\" OR JOURNAL:\"PLOS Biology\" OR JOURNAL:\"PLOS Genetics\" OR JOURNAL:\"Genome Research\" OR JOURNAL:\"Genome Biology\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+              "scope": "candidate"
+            }
+          ],
+          "decision": {
+            "accepted": false,
+            "reason": "metadata_pending",
+            "version": "microbial-rules-v3",
+            "matched": [],
+            "context": {
+              "marine": [],
+              "genomics": [],
+              "evolution": []
+            },
+            "tags": [
+              "微生物学"
+            ]
+          }
         }
       ],
       "id": "10.1073/pnas.2634314123",
@@ -1216300,6 +1217972,84 @@
     },
     {
       "attempts": [
+        {
+          "source": "Europe PMC journals 6",
+          "discovery": [
+            {
+              "source": "Europe PMC journals 6",
+              "query": "(JOURNAL:\"Microbial Genomics\" OR JOURNAL:\"Microbiology\" OR JOURNAL:\"Aquatic Microbial Ecology\" OR JOURNAL:\"PNAS\" OR JOURNAL:\"PLOS Biology\" OR JOURNAL:\"PLOS Genetics\" OR JOURNAL:\"Genome Research\" OR JOURNAL:\"Genome Biology\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+              "scope": "candidate"
+            }
+          ],
+          "decision": {
+            "accepted": false,
+            "reason": "no_microbial_evidence",
+            "version": "microbial-rules-v3",
+            "matched": [
+              "virus"
+            ],
+            "context": {
+              "marine": [],
+              "genomics": [],
+              "evolution": []
+            },
+            "tags": [
+              "微生物学"
+            ]
+          }
+        },
+        {
+          "source": "Europe PMC journals 6",
+          "discovery": [
+            {
+              "source": "Europe PMC journals 6",
+              "query": "(JOURNAL:\"Microbial Genomics\" OR JOURNAL:\"Microbiology\" OR JOURNAL:\"Aquatic Microbial Ecology\" OR JOURNAL:\"PNAS\" OR JOURNAL:\"PLOS Biology\" OR JOURNAL:\"PLOS Genetics\" OR JOURNAL:\"Genome Research\" OR JOURNAL:\"Genome Biology\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+              "scope": "candidate"
+            }
+          ],
+          "decision": {
+            "accepted": false,
+            "reason": "no_microbial_evidence",
+            "version": "microbial-rules-v3",
+            "matched": [
+              "virus"
+            ],
+            "context": {
+              "marine": [],
+              "genomics": [],
+              "evolution": []
+            },
+            "tags": [
+              "微生物学"
+            ]
+          }
+        },
+        {
+          "source": "Europe PMC journals 6",
+          "discovery": [
+            {
+              "source": "Europe PMC journals 6",
+              "query": "(JOURNAL:\"Microbial Genomics\" OR JOURNAL:\"Microbiology\" OR JOURNAL:\"Aquatic Microbial Ecology\" OR JOURNAL:\"PNAS\" OR JOURNAL:\"PLOS Biology\" OR JOURNAL:\"PLOS Genetics\" OR JOURNAL:\"Genome Research\" OR JOURNAL:\"Genome Biology\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+              "scope": "candidate"
+            }
+          ],
+          "decision": {
+            "accepted": false,
+            "reason": "no_microbial_evidence",
+            "version": "microbial-rules-v3",
+            "matched": [
+              "virus"
+            ],
+            "context": {
+              "marine": [],
+              "genomics": [],
+              "evolution": []
+            },
+            "tags": [
+              "微生物学"
+            ]
+          }
+        },
         {
           "source": "Europe PMC journals 6",
           "discovery": [
@@ -1216446,6 +1218196,66 @@
               "微生物ゲノミクス"
             ]
           }
+        },
+        {
+          "source": "Europe PMC journals 6",
+          "discovery": [
+            {
+              "source": "Europe PMC journals 6",
+              "query": "(JOURNAL:\"Microbial Genomics\" OR JOURNAL:\"Microbiology\" OR JOURNAL:\"Aquatic Microbial Ecology\" OR JOURNAL:\"PNAS\" OR JOURNAL:\"PLOS Biology\" OR JOURNAL:\"PLOS Genetics\" OR JOURNAL:\"Genome Research\" OR JOURNAL:\"Genome Biology\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+              "scope": "candidate"
+            }
+          ],
+          "decision": {
+            "accepted": true,
+            "reason": "bioinformatics_method_or_resource",
+            "version": "microbial-rules-v3",
+            "matched": [
+              "gene",
+              "method"
+            ],
+            "context": {
+              "marine": [],
+              "genomics": [
+                "gene",
+                "method"
+              ],
+              "evolution": []
+            },
+            "tags": [
+              "微生物ゲノミクス"
+            ]
+          }
+        },
+        {
+          "source": "Europe PMC journals 6",
+          "discovery": [
+            {
+              "source": "Europe PMC journals 6",
+              "query": "(JOURNAL:\"Microbial Genomics\" OR JOURNAL:\"Microbiology\" OR JOURNAL:\"Aquatic Microbial Ecology\" OR JOURNAL:\"PNAS\" OR JOURNAL:\"PLOS Biology\" OR JOURNAL:\"PLOS Genetics\" OR JOURNAL:\"Genome Research\" OR JOURNAL:\"Genome Biology\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+              "scope": "candidate"
+            }
+          ],
+          "decision": {
+            "accepted": true,
+            "reason": "bioinformatics_method_or_resource",
+            "version": "microbial-rules-v3",
+            "matched": [
+              "gene",
+              "method"
+            ],
+            "context": {
+              "marine": [],
+              "genomics": [
+                "gene",
+                "method"
+              ],
+              "evolution": []
+            },
+            "tags": [
+              "微生物ゲノミクス"
+            ]
+          }
         }
       ],
       "id": "10.1073/pnas.2620731123",
@@ -1216486,6 +1218296,54 @@
     },
     {
       "attempts": [
+        {
+          "source": "Europe PMC journals 6",
+          "discovery": [
+            {
+              "source": "Europe PMC journals 6",
+              "query": "(JOURNAL:\"Microbial Genomics\" OR JOURNAL:\"Microbiology\" OR JOURNAL:\"Aquatic Microbial Ecology\" OR JOURNAL:\"PNAS\" OR JOURNAL:\"PLOS Biology\" OR JOURNAL:\"PLOS Genetics\" OR JOURNAL:\"Genome Research\" OR JOURNAL:\"Genome Biology\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+              "scope": "candidate"
+            }
+          ],
+          "decision": {
+            "accepted": false,
+            "reason": "no_microbial_evidence",
+            "version": "microbial-rules-v3",
+            "matched": [],
+            "context": {
+              "marine": [],
+              "genomics": [],
+              "evolution": []
+            },
+            "tags": [
+              "微生物学"
+            ]
+          }
+        },
+        {
+          "source": "Europe PMC journals 6",
+          "discovery": [
+            {
+              "source": "Europe PMC journals 6",
+              "query": "(JOURNAL:\"Microbial Genomics\" OR JOURNAL:\"Microbiology\" OR JOURNAL:\"Aquatic Microbial Ecology\" OR JOURNAL:\"PNAS\" OR JOURNAL:\"PLOS Biology\" OR JOURNAL:\"PLOS Genetics\" OR JOURNAL:\"Genome Research\" OR JOURNAL:\"Genome Biology\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+              "scope": "candidate"
+            }
+          ],
+          "decision": {
+            "accepted": false,
+            "reason": "no_microbial_evidence",
+            "version": "microbial-rules-v3",
+            "matched": [],
+            "context": {
+              "marine": [],
+              "genomics": [],
+              "evolution": []
+            },
+            "tags": [
+              "微生物学"
+            ]
+          }
+        },
         {
           "source": "Europe PMC journals 6",
           "discovery": [
@@ -1244822,6 +1246680,30 @@
               "微生物学"
             ]
           }
+        },
+        {
+          "source": "Europe PMC journals 6",
+          "discovery": [
+            {
+              "source": "Europe PMC journals 6",
+              "query": "(JOURNAL:\"Microbial Genomics\" OR JOURNAL:\"Microbiology\" OR JOURNAL:\"Aquatic Microbial Ecology\" OR JOURNAL:\"PNAS\" OR JOURNAL:\"PLOS Biology\" OR JOURNAL:\"PLOS Genetics\" OR JOURNAL:\"Genome Research\" OR JOURNAL:\"Genome Biology\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+              "scope": "candidate"
+            }
+          ],
+          "decision": {
+            "accepted": false,
+            "reason": "metadata_pending",
+            "version": "microbial-rules-v3",
+            "matched": [],
+            "context": {
+              "marine": [],
+              "genomics": [],
+              "evolution": []
+            },
+            "tags": [
+              "微生物学"
+            ]
+          }
         }
       ],
       "id": "10.1073/pnas.2637565123",
@@ -1244856,6 +1246738,30 @@
     },
     {
       "attempts": [
+        {
+          "source": "Europe PMC journals 6",
+          "discovery": [
+            {
+              "source": "Europe PMC journals 6",
+              "query": "(JOURNAL:\"Microbial Genomics\" OR JOURNAL:\"Microbiology\" OR JOURNAL:\"Aquatic Microbial Ecology\" OR JOURNAL:\"PNAS\" OR JOURNAL:\"PLOS Biology\" OR JOURNAL:\"PLOS Genetics\" OR JOURNAL:\"Genome Research\" OR JOURNAL:\"Genome Biology\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+              "scope": "candidate"
+            }
+          ],
+          "decision": {
+            "accepted": false,
+            "reason": "no_microbial_evidence",
+            "version": "microbial-rules-v3",
+            "matched": [],
+            "context": {
+              "marine": [],
+              "genomics": [],
+              "evolution": []
+            },
+            "tags": [
+              "微生物学"
+            ]
+          }
+        },
         {
           "source": "Europe PMC journals 6",
           "discovery": [
@@ -1260010,6 +1261916,445 @@
           "微生物学"
         ]
       }
+    },
+    {
+      "attempts": [
+        {
+          "source": "Europe PMC journals 4",
+          "discovery": [
+            {
+              "source": "Europe PMC journals 4",
+              "query": "(JOURNAL:\"Infection and Immunity\" OR JOURNAL:\"Antimicrobial Agents and Chemotherapy\" OR JOURNAL:\"Journal of Clinical Microbiology\" OR JOURNAL:\"Microbiology Resource Announcements\" OR JOURNAL:\"Nature\" OR JOURNAL:\"Nature Microbiology\" OR JOURNAL:\"Nature Ecology & Evolution\" OR JOURNAL:\"Nature Communications\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+              "scope": "candidate"
+            }
+          ],
+          "decision": {
+            "accepted": true,
+            "reason": "unfiltered_journal",
+            "version": "microbial-rules-v3",
+            "matched": [],
+            "context": {
+              "marine": [],
+              "genomics": [],
+              "evolution": []
+            },
+            "tags": [
+              "微生物学"
+            ]
+          }
+        }
+      ],
+      "id": "10.1128/jcm.01077-26",
+      "doi": "10.1128/jcm.01077-26",
+      "metadata_status": "pending",
+      "discovery": [
+        {
+          "source": "Europe PMC journals 4",
+          "query": "(JOURNAL:\"Infection and Immunity\" OR JOURNAL:\"Antimicrobial Agents and Chemotherapy\" OR JOURNAL:\"Journal of Clinical Microbiology\" OR JOURNAL:\"Microbiology Resource Announcements\" OR JOURNAL:\"Nature\" OR JOURNAL:\"Nature Microbiology\" OR JOURNAL:\"Nature Ecology & Evolution\" OR JOURNAL:\"Nature Communications\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "title": "Reply to Edelstein, \"Does <i>Legionella</i> 5S rRNA PCR melting temperature analysis discriminate high-risk species and increased disease severity or does it simply reflect test selection bias?\"",
+      "journal": "Journal of clinical microbiology",
+      "sources": [
+        "Europe PMC journals 4"
+      ],
+      "decision": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [],
+        "context": {
+          "marine": [],
+          "genomics": [],
+          "evolution": []
+        },
+        "tags": [
+          "微生物学"
+        ]
+      }
+    },
+    {
+      "attempts": [
+        {
+          "source": "Europe PMC journals 4",
+          "discovery": [
+            {
+              "source": "Europe PMC journals 4",
+              "query": "(JOURNAL:\"Infection and Immunity\" OR JOURNAL:\"Antimicrobial Agents and Chemotherapy\" OR JOURNAL:\"Journal of Clinical Microbiology\" OR JOURNAL:\"Microbiology Resource Announcements\" OR JOURNAL:\"Nature\" OR JOURNAL:\"Nature Microbiology\" OR JOURNAL:\"Nature Ecology & Evolution\" OR JOURNAL:\"Nature Communications\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+              "scope": "candidate"
+            }
+          ],
+          "decision": {
+            "accepted": true,
+            "reason": "unfiltered_journal",
+            "version": "microbial-rules-v3",
+            "matched": [
+              "virus",
+              "viruses"
+            ],
+            "context": {
+              "marine": [],
+              "genomics": [],
+              "evolution": []
+            },
+            "tags": [
+              "微生物学"
+            ]
+          }
+        }
+      ],
+      "id": "10.1128/jcm.00727-26",
+      "doi": "10.1128/jcm.00727-26",
+      "metadata_status": "ready",
+      "discovery": [
+        {
+          "source": "Europe PMC journals 4",
+          "query": "(JOURNAL:\"Infection and Immunity\" OR JOURNAL:\"Antimicrobial Agents and Chemotherapy\" OR JOURNAL:\"Journal of Clinical Microbiology\" OR JOURNAL:\"Microbiology Resource Announcements\" OR JOURNAL:\"Nature\" OR JOURNAL:\"Nature Microbiology\" OR JOURNAL:\"Nature Ecology & Evolution\" OR JOURNAL:\"Nature Communications\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "title": "Update to the CDC influenza A(H3) subtyping assay for improved detection of influenza A(H3N2) viruses, including subclade K viruses.",
+      "journal": "Journal of clinical microbiology",
+      "sources": [
+        "Europe PMC journals 4"
+      ],
+      "decision": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "virus",
+          "viruses"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [],
+          "evolution": []
+        },
+        "tags": [
+          "微生物学"
+        ]
+      }
+    },
+    {
+      "attempts": [
+        {
+          "source": "Europe PMC journals 4",
+          "discovery": [
+            {
+              "source": "Europe PMC journals 4",
+              "query": "(JOURNAL:\"Infection and Immunity\" OR JOURNAL:\"Antimicrobial Agents and Chemotherapy\" OR JOURNAL:\"Journal of Clinical Microbiology\" OR JOURNAL:\"Microbiology Resource Announcements\" OR JOURNAL:\"Nature\" OR JOURNAL:\"Nature Microbiology\" OR JOURNAL:\"Nature Ecology & Evolution\" OR JOURNAL:\"Nature Communications\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+              "scope": "candidate"
+            }
+          ],
+          "decision": {
+            "accepted": true,
+            "reason": "unfiltered_journal",
+            "version": "microbial-rules-v3",
+            "matched": [],
+            "context": {
+              "marine": [],
+              "genomics": [],
+              "evolution": []
+            },
+            "tags": [
+              "微生物学"
+            ]
+          }
+        }
+      ],
+      "id": "10.1128/iai.00436-26",
+      "doi": "10.1128/iai.00436-26",
+      "metadata_status": "pending",
+      "discovery": [
+        {
+          "source": "Europe PMC journals 4",
+          "query": "(JOURNAL:\"Infection and Immunity\" OR JOURNAL:\"Antimicrobial Agents and Chemotherapy\" OR JOURNAL:\"Journal of Clinical Microbiology\" OR JOURNAL:\"Microbiology Resource Announcements\" OR JOURNAL:\"Nature\" OR JOURNAL:\"Nature Microbiology\" OR JOURNAL:\"Nature Ecology & Evolution\" OR JOURNAL:\"Nature Communications\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "title": "Biomarker and pathogenicity claims for antiphospholipid antibodies in post-treatment Lyme disease syndrome.",
+      "journal": "Infection and immunity",
+      "sources": [
+        "Europe PMC journals 4"
+      ],
+      "decision": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [],
+        "context": {
+          "marine": [],
+          "genomics": [],
+          "evolution": []
+        },
+        "tags": [
+          "微生物学"
+        ]
+      }
+    },
+    {
+      "attempts": [
+        {
+          "source": "Europe PMC journals 4",
+          "discovery": [
+            {
+              "source": "Europe PMC journals 4",
+              "query": "(JOURNAL:\"Infection and Immunity\" OR JOURNAL:\"Antimicrobial Agents and Chemotherapy\" OR JOURNAL:\"Journal of Clinical Microbiology\" OR JOURNAL:\"Microbiology Resource Announcements\" OR JOURNAL:\"Nature\" OR JOURNAL:\"Nature Microbiology\" OR JOURNAL:\"Nature Ecology & Evolution\" OR JOURNAL:\"Nature Communications\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+              "scope": "candidate"
+            }
+          ],
+          "decision": {
+            "accepted": true,
+            "reason": "unfiltered_journal",
+            "version": "microbial-rules-v3",
+            "matched": [],
+            "context": {
+              "marine": [],
+              "genomics": [
+                "genom",
+                "genome"
+              ],
+              "evolution": []
+            },
+            "tags": [
+              "微生物ゲノミクス"
+            ]
+          }
+        }
+      ],
+      "id": "10.1128/mra.00944-26",
+      "doi": "10.1128/mra.00944-26",
+      "metadata_status": "ready",
+      "discovery": [
+        {
+          "source": "Europe PMC journals 4",
+          "query": "(JOURNAL:\"Infection and Immunity\" OR JOURNAL:\"Antimicrobial Agents and Chemotherapy\" OR JOURNAL:\"Journal of Clinical Microbiology\" OR JOURNAL:\"Microbiology Resource Announcements\" OR JOURNAL:\"Nature\" OR JOURNAL:\"Nature Microbiology\" OR JOURNAL:\"Nature Ecology & Evolution\" OR JOURNAL:\"Nature Communications\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "title": "Draft genome sequences of two <i>Stenotrophomonas muris</i> isolates, CBAS 1154 and CBAS 1234, recovered from patients with ICU-acquired ventilator-associated sepsis.",
+      "journal": "Microbiology resource announcements",
+      "sources": [
+        "Europe PMC journals 4"
+      ],
+      "decision": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "genom",
+            "genome"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      }
+    },
+    {
+      "attempts": [
+        {
+          "source": "Europe PMC journals 6",
+          "discovery": [
+            {
+              "source": "Europe PMC journals 6",
+              "query": "(JOURNAL:\"Microbial Genomics\" OR JOURNAL:\"Microbiology\" OR JOURNAL:\"Aquatic Microbial Ecology\" OR JOURNAL:\"PNAS\" OR JOURNAL:\"PLOS Biology\" OR JOURNAL:\"PLOS Genetics\" OR JOURNAL:\"Genome Research\" OR JOURNAL:\"Genome Biology\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+              "scope": "candidate"
+            }
+          ],
+          "decision": {
+            "accepted": false,
+            "reason": "no_microbial_evidence",
+            "version": "microbial-rules-v3",
+            "matched": [
+              "Escherichia",
+              "bacteria",
+              "bacterial"
+            ],
+            "context": {
+              "marine": [],
+              "genomics": [],
+              "evolution": []
+            },
+            "tags": [
+              "微生物学"
+            ]
+          }
+        }
+      ],
+      "id": "10.1073/pnas.2621083123",
+      "doi": "10.1073/pnas.2621083123",
+      "metadata_status": "ready",
+      "discovery": [
+        {
+          "source": "Europe PMC journals 6",
+          "query": "(JOURNAL:\"Microbial Genomics\" OR JOURNAL:\"Microbiology\" OR JOURNAL:\"Aquatic Microbial Ecology\" OR JOURNAL:\"PNAS\" OR JOURNAL:\"PLOS Biology\" OR JOURNAL:\"PLOS Genetics\" OR JOURNAL:\"Genome Research\" OR JOURNAL:\"Genome Biology\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "title": "Signaling mechanism of the transmembrane energy receptor Aer.",
+      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+      "sources": [
+        "Europe PMC journals 6"
+      ],
+      "decision": {
+        "accepted": false,
+        "reason": "no_microbial_evidence",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "Escherichia",
+          "bacteria",
+          "bacterial"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [],
+          "evolution": []
+        },
+        "tags": [
+          "微生物学"
+        ]
+      }
+    },
+    {
+      "attempts": [
+        {
+          "source": "Europe PMC journals 6",
+          "discovery": [
+            {
+              "source": "Europe PMC journals 6",
+              "query": "(JOURNAL:\"Microbial Genomics\" OR JOURNAL:\"Microbiology\" OR JOURNAL:\"Aquatic Microbial Ecology\" OR JOURNAL:\"PNAS\" OR JOURNAL:\"PLOS Biology\" OR JOURNAL:\"PLOS Genetics\" OR JOURNAL:\"Genome Research\" OR JOURNAL:\"Genome Biology\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+              "scope": "candidate"
+            }
+          ],
+          "decision": {
+            "accepted": false,
+            "reason": "no_microbial_evidence",
+            "version": "microbial-rules-v3",
+            "matched": [],
+            "context": {
+              "marine": [],
+              "genomics": [
+                "evolution"
+              ],
+              "evolution": [
+                "evolution"
+              ]
+            },
+            "tags": [
+              "微生物ゲノミクス",
+              "微生物進化"
+            ]
+          }
+        }
+      ],
+      "id": "10.1073/pnas.2612817123",
+      "doi": "10.1073/pnas.2612817123",
+      "metadata_status": "ready",
+      "discovery": [
+        {
+          "source": "Europe PMC journals 6",
+          "query": "(JOURNAL:\"Microbial Genomics\" OR JOURNAL:\"Microbiology\" OR JOURNAL:\"Aquatic Microbial Ecology\" OR JOURNAL:\"PNAS\" OR JOURNAL:\"PLOS Biology\" OR JOURNAL:\"PLOS Genetics\" OR JOURNAL:\"Genome Research\" OR JOURNAL:\"Genome Biology\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "title": "A replaceable soma enables negative senescence in harvester ants.",
+      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+      "sources": [
+        "Europe PMC journals 6"
+      ],
+      "decision": {
+        "accepted": false,
+        "reason": "no_microbial_evidence",
+        "version": "microbial-rules-v3",
+        "matched": [],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "evolution"
+          ],
+          "evolution": [
+            "evolution"
+          ]
+        },
+        "tags": [
+          "微生物ゲノミクス",
+          "微生物進化"
+        ]
+      }
+    },
+    {
+      "attempts": [
+        {
+          "source": "Europe PMC journals 6",
+          "discovery": [
+            {
+              "source": "Europe PMC journals 6",
+              "query": "(JOURNAL:\"Microbial Genomics\" OR JOURNAL:\"Microbiology\" OR JOURNAL:\"Aquatic Microbial Ecology\" OR JOURNAL:\"PNAS\" OR JOURNAL:\"PLOS Biology\" OR JOURNAL:\"PLOS Genetics\" OR JOURNAL:\"Genome Research\" OR JOURNAL:\"Genome Biology\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+              "scope": "candidate"
+            }
+          ],
+          "decision": {
+            "accepted": false,
+            "reason": "no_microbial_evidence",
+            "version": "microbial-rules-v3",
+            "matched": [],
+            "context": {
+              "marine": [],
+              "genomics": [
+                "evolution"
+              ],
+              "evolution": [
+                "evolution"
+              ]
+            },
+            "tags": [
+              "微生物ゲノミクス",
+              "微生物進化"
+            ]
+          }
+        }
+      ],
+      "id": "10.1073/pnas.2604442123",
+      "doi": "10.1073/pnas.2604442123",
+      "metadata_status": "ready",
+      "discovery": [
+        {
+          "source": "Europe PMC journals 6",
+          "query": "(JOURNAL:\"Microbial Genomics\" OR JOURNAL:\"Microbiology\" OR JOURNAL:\"Aquatic Microbial Ecology\" OR JOURNAL:\"PNAS\" OR JOURNAL:\"PLOS Biology\" OR JOURNAL:\"PLOS Genetics\" OR JOURNAL:\"Genome Research\" OR JOURNAL:\"Genome Biology\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "title": "Intensification of compound wind drought and heatwave events under climate change.",
+      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+      "sources": [
+        "Europe PMC journals 6"
+      ],
+      "decision": {
+        "accepted": false,
+        "reason": "no_microbial_evidence",
+        "version": "microbial-rules-v3",
+        "matched": [],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "evolution"
+          ],
+          "evolution": [
+            "evolution"
+          ]
+        },
+        "tags": [
+          "微生物ゲノミクス",
+          "微生物進化"
+        ]
+      }
     }
   ],
   "coverage": {
@@ -1260036,7 +1262381,7 @@
     },
     "Europe PMC bioinformatics": {
       "ok": false,
-      "retrieved": 9750,
+      "retrieved": 9780,
       "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
       "publication_start": "2026-10-20"
     },
@@ -1260062,7 +1262407,7 @@
     },
     "Europe PMC journals 4": {
       "ok": false,
-      "retrieved": 75,
+      "retrieved": 85,
       "query": "(JOURNAL:\"Infection and Immunity\" OR JOURNAL:\"Antimicrobial Agents and Chemotherapy\" OR JOURNAL:\"Journal of Clinical Microbiology\" OR JOURNAL:\"Microbiology Resource Announcements\" OR JOURNAL:\"Nature\" OR JOURNAL:\"Nature Microbiology\" OR JOURNAL:\"Nature Ecology & Evolution\" OR JOURNAL:\"Nature Communications\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
       "publication_start": "2026-10-20"
     },
@@ -1260074,7 +1262419,8 @@
     },
     "Europe PMC journals 6": {
       "ok": false,
-      "retrieved": 155,
+      "retrieved": 190,
+      "accepted": 73,
       "query": "(JOURNAL:\"Microbial Genomics\" OR JOURNAL:\"Microbiology\" OR JOURNAL:\"Aquatic Microbial Ecology\" OR JOURNAL:\"PNAS\" OR JOURNAL:\"PLOS Biology\" OR JOURNAL:\"PLOS Genetics\" OR JOURNAL:\"Genome Research\" OR JOURNAL:\"Genome Biology\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
       "publication_start": "2026-10-20"
     },
