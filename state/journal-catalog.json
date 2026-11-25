@@ -3449,6 +3449,7 @@
   {
     "name": "Genome Biology",
     "scope": [
+      "ecology",
       "genomics",
       "microbiology"
     ]
