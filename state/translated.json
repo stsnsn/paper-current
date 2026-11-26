@@ -343516,5 +343516,290 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "細胞におけるヌルアレルの分子表現型（MorPhiC）データリソース",
     "abstract_ja": "要旨MorPhiCデータポータルは、ヒト遺伝子の標的型不活性化による分子および細胞レベルの影響をマッピングする「細胞内ヌルアレルの分子表現型（MorPhiC）コンソーシアム」の公開リソースである。本ポータルは、バルクおよびシングルセルRNA-seq、Perturb-seq、SLAM-seq、クロマチンアクセシビリティプロファイリング、メタボロミクスを含む、機能ゲノミクスおよび表現型解析アッセイから得られた生データ、処理済みデータ、および統一的に解析されたデータセットを統合している。リリース4（2026年8月）では、DNA、RNA、およびタンパク質産物を標的とした相補的な摂動戦略を用い、ヒト誘導多能性幹細胞および胚様体、オルガノイド、分化モデルを含む派生系における300遺伝子以上の摂動へとリソースを拡張した。中心的な進展は遺伝子中心のナビゲーションであり、遺伝子ページでは実験背景、摂動戦略、細胞モデル、データセット、表現型解析のエビデンス、および標準化された解析結果が集約されており、インタラクティブな可視化によって発現変動、濃縮、およびアッセイ固有の結果が提示される。データセットページでは、メタデータ、プロトコル、解析概要、および生データ・処理済みファイルの公開リポジトリへのリンクが提供されており、また本ポータルではコンソーシアムが作成したノックアウト細胞株もカタログ化されている。MorPhiCデータセットを、必須性、メンデル遺伝疾患との関連、および哺乳類表現型に関する外部アノテーションと統合し、メタデータ、解析出力、およびアーカイブ提出ワークフローを標準化することで、本ポータルはヒト遺伝子の機能喪失を大規模に研究するための再利用可能なリソースを提供している。本リソースは https://morphic.bio/data で利用可能である。"
+  },
+  {
+    "id": "10.1093/nar/gkag1250",
+    "title": "OrthoDB and BUSCO update: broader phylogenomic sampling, deeper homology searches, and AI-agent support",
+    "abstract": "AbstractOrthoDB (https://www.orthodb.org) provides evolutionary and functional annotations of orthologous genes across the broadest range of organismal diversity. It extends experimentally acquired knowledge from well-studied organisms to newly sequenced genomes, delineating orthologous groups (OGs) hierarchically at explicit taxonomic levels and annotating them with collated functional evidence and evolutionary traits. This release updates eukaryotic coverage to 5768 genomes, including 132 mammalian genomes re-annotated with Tiberius, and incorporates an updated selection of the latest available fungal and protist genomes. The OGs were recomputed de novo with OrthoLoger from MMseqs2 candidate homology searches using optimized parameters. To better recover remote homology at the Eukaryota root and among divergent protist sequences, we used the The Embedded Alphabet (TEA) protein-language-model-derived alphabet. This increased OG assignment, with greater representation of least diverged orthologs. BUSCO lineage datasets were rebuilt for eukaryotes using broader and more evenly represented species sampling, further extending their value for metagenome-assembled genomes and microbial eukaryotes. The OrthoDB web interface now includes a source-linked conversational assistant, and a Model Context Protocol layer exposes public API endpoints to external AI agents. OrthoDB remains accessible through the web, bulk downloads, REST, SPARQL/RDF, Python, and R/Bioconductor; BUSCO and OrthoLoger are available from https://busco.ezlab.org and https://orthologer.ezlab.org.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1250",
+    "date": "2026-11-26",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1250/9133937?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungal",
+        "metagenom",
+        "metagenome",
+        "microbial",
+        "protist"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "evolution",
+          "genom",
+          "genome",
+          "metagenom",
+          "metagenome",
+          "phylogen",
+          "phylogenomic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5763,
+    "collected_at": "2026-11-26T19:48:23.275553+00:00",
+    "collected_date": "2026-11-27",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1093/nar/gkag1250"
+    ],
+    "translation": {
+      "title": {
+        "hash": "147cf4dcce5714302b76d0ca459dbe3a94ef71c5adcd185a154c8802c0b99d98",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T20:20:42.504083+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8c69b7b0c320a7a56298e733cbb35ebe832ccb53928d62f0423baeebe48a2e34",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T20:20:42.504083+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "OrthoDBおよびBUSCOのアップデート：より広範な系統ゲノムサンプリング、より詳細な相同性検索、およびAIエージェント対応",
+    "abstract_ja": "OrthoDB (https://www.orthodb.org) は、極めて広範な生物多様性にわたるオーソログ遺伝子の進化的および機能的なアノテーションを提供する。本プロジェクトは、十分に研究された生物から実験的に得られた知見を、新たに配列決定されたゲノムへと拡張し、オーソロググループ（OG）を明示的な分類学的レベルで階層的に定義するとともに、収集された機能的根拠と進化形質を用いてアノテーションを付与する。今回のリリースでは、Tiberiusを用いて再アノテーションされた132の哺乳類ゲノムを含む5,768の真核生物ゲノムへとカバレッジを更新し、入手可能な最新の真菌および原生生物ゲノムの更新されたセレクションを組み込んだ。OGは、最適化されたパラメータを用いたMMseqs2の候補ホモロジー検索に基づき、OrthoLogerを用いてde novoで再計算された。真核生物のルートおよび分岐した原生生物配列間における遠隔ホモロジーをより適切に復元するため、The Embedded Alphabet (TEA) タンパク質言語モデル由来のアルファベットを採用した。これにより、最も分岐の少ないオーソログの代表性が高まり、OGの割り当て精度が向上した。真核生物向けのBUSCO系統データセットは、より広範かつ均等に代表された種サンプリングを用いて再構築され、メタゲノムアセンブルゲノムや微生物真核生物に対する有用性がさらに拡大した。OrthoDBのウェブインターフェースには、ソースリンク付きの対話型アシスタントが導入され、Model Context Protocolレイヤーによって公開APIエンドポイントが外部AIエージェントに提供されるようになった。OrthoDBは引き続き、ウェブ、一括ダウンロード、REST、SPARQL/RDF、Python、およびR/Bioconductorを通じて利用可能である。また、BUSCOおよびOrthoLogerは https://busco.ezlab.org および https://orthologer.ezlab.org から利用できる。"
+  },
+  {
+    "id": "10.1093/nar/gkag1197",
+    "title": "Androgen stimulation rapidly reorganizes temporal 3D genome and epigenome states to trigger AR-mediated transcription in prostate cancer",
+    "abstract": "AbstractAndrogen receptor (AR)-mediated transcription drives prostate cancer progression and remains a critical therapeutic target. AR activation by androgens triggers nuclear translocation, DNA binding at AR regulatory elements (AREs), and transcription initiation. This process involves co-factors such as FOXA1, epigenetic modifications, and three-dimensional (3D) chromatin interactions. However, the temporal coordination of these events during AR-mediated transcription remains poorly understood. Using a time-course androgen stimulation model in prostate cancer cells, we first integrated temporal multi-omics data within the MOFA+/MEFISTO framework, which identified three distinct temporal factors underlying AR-mediated transcriptional dynamics, and then used higher-resolution early time-course profiling to further explore the chromatin and transcriptional context of these temporal patterns. Our combined analyses revealed that rapid AR binding at gene promoters, as early as 5 min, is crucial for initiating nascent transcription of AR target genes. We found that H3K27 acetylation at flanking AREs, pre-marked by constitutive FOXA1 binding, occurs prior to AR recruitment. Additionally, androgen stimulation induced a temporal early shift in nascent transcription from MYC to AR target genes, associated with transient disruption of 3D chromatin interactions. Finally, we showed that CRISPR-mediated inhibition of AR-associated chromatin contacts suppresses distal linked target genes, demonstrating that dynamic genome architecture is functionally required for AR-driven transcription. Together these findings uncover the dynamic reorganization of 3D chromatin structure and transcription factor binding post-androgen stimulation, resulting in distinct temporal epigenomic states.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1197",
+    "date": "2026-11-26",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1197/9133973?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5771,
+    "collected_at": "2026-11-26T19:48:23.275553+00:00",
+    "collected_date": "2026-11-27",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/3091.xml"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1093/nar/gkag1197"
+    ],
+    "translation": {
+      "title": {
+        "hash": "136be99c18bc79dae5e6446729c4c2a5f5e05077297387267b516de16e414069",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T20:20:42.504083+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f9869f67a0c5673499e49ee9c28c2573a2a5d153d7ec3e506926a37cb7847bf4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T20:20:42.504083+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "アンドロゲン刺激は、前立腺癌におけるAR介在性転写を惹起するため、側頭3次元ゲノムおよびエピゲノムの状態を速やかに再編成する。",
+    "abstract_ja": "要旨アンドロゲン受容体（AR）介在性転写は前立腺癌の進行を駆動し、依然として重要な治療標的である。アンドロゲンによるAR活性化は、核内移行、AR調節エレメント（ARE）へのDNA結合、および転写開始を誘発する。この過程には、FOXA1などの共因子、エピジェネティック修飾、および三次元（3D）クロマチン相互作用が関与している。しかし、AR介在性転写におけるこれらの事象の時間的協調については、依然として十分に解明されていない。前立腺癌細胞を用いたタイムコース・アンドロゲン刺激モデルを用い、まずMOFA+/MEFISTOフレームワーク内で時間的マルチオミクスデータを統合し、AR介在性転写ダイナミクスの根底にある3つの異なる時間的因子を同定した。次いで、より高解像度の早期タイムコースプロファイリングを用いて、これらの時間的パターンのクロマチンおよび転写コンテキストをさらに探索した。統合解析の結果、早ければ5分という早い段階での遺伝子プロモーターへの迅速なAR結合が、AR標的遺伝子の新生転写を開始させる上で極めて重要であることが明らかになった。また、恒常的なFOXA1結合によってあらかじめ標識された隣接AREにおけるH3K27アセチル化が、ARの動員に先立って起こることが判明した。さらに、アンドロゲン刺激により、新生転写がMYCからAR標的遺伝子へと時間的に早期シフトし、これが3Dクロマチン相互作用の一過性の破綻に関連していることが示された。最後に、CRISPRによるAR関連クロマチン接触の阻害が遠位連結標的遺伝子を抑制することを示し、動的なゲノム構造がAR駆動性転写に機能的に必要であることを実証した。これらの知見を総合すると、アンドロゲン刺激後の3Dクロマチン構造および転写因子結合の動的な再編成が明らかになり、その結果として異なる時間的エピゲノム状態がもたらされることが示された。"
+  },
+  {
+    "id": "10.1093/nar/gkag1242",
+    "title": "Single-molecule quantitative analysis of mechanical stability and unfolding kinetics of intermolecular G-quadruplexes",
+    "abstract": "AbstractIntermolecular G-quadruplexes (Inter-G4s) are implicated in long-range nucleic acid interactions, transcriptional regulation, and phase separation, yet how RNA/DNA strand composition shapes their mechanical stability and folding behavior remains poorly understood. Heterotypic RNA–DNA (R–D) Inter-G4s are particularly difficult to resolve because ensemble measurements cannot readily distinguish them from coexisting RNA–RNA (R–R) and DNA–DNA (D–D) assemblies. We developed Inter-GDP, a single-molecule platform that tethers two G-rich strands within one DNA construct, enabling repeated Inter-G4 folding and unfolding measurements. We established the platform using CSB II and two additional G4-forming sequences derived from structurally resolved bimolecular DNA G4s. Across three sequence contexts, the mean unfolding force followed the same ordering, R–R > D–D > R–D. BG4 responses were sequence- and construct-dependent, with reduced mean unfolding forces observed for Inter-G4 constructs associated with parallel bulk CD signatures. Simulations of a D–D Inter-G4 model suggested local conformational remodeling and lower G-quartet-core hydrogen-bond counts in BG4-containing trajectories. Together, our work establishes Inter-GDP as a single-molecule method for quantitative analysis of Inter-G4 mechanical stability and protein-associated effects.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1242",
+    "date": "2026-11-26",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1242/9133948?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "assemblies",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5772,
+    "collected_at": "2026-11-26T19:48:23.275553+00:00",
+    "collected_date": "2026-11-27",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/3091.xml"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1093/nar/gkag1242"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7a0356e974aaecbb555795f00987fd0d5aeff829e5c70498a657c1a5f635e871",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T20:20:42.504083+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "57221729ea46ec36880c92c7d20237314f49f1bdeefdd9651af1b6563f5d4606",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T20:20:42.504083+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "分子間G四重鎖の機械的安定性とアンフォールディング速度論の単分子定量解析",
+    "abstract_ja": "要旨 分子間G-四重鎖（Inter-G4s）は、長距離の核酸相互作用、転写調節、および相分離に関与しているが、RNA/DNA鎖の組成がそれらの機械的安定性やフォールディング挙動をどのように規定するのかについては、依然として十分に解明されていない。ヘテロ型のRNA–DNA（R–D）Inter-G4sは、アンサンブル測定では共存するRNA–RNA（R–R）およびDNA–DNA（D–D）アセンブリと容易に区別できないため、解析が特に困難である。我々は、2本のGリッチ鎖を単一のDNA構造内に固定する単分子プラットフォーム「Inter-GDP」を開発し、Inter-G4の繰り返しのフォールディングおよびアンフォールディング測定を可能にした。本プラットフォームは、CSB IIと、構造解析済みの二分子DNA G4sから導出された2つの追加G4形成配列を用いて構築した。3つの配列コンテキストにおいて、平均アンフォールディング力はR–R > D–D > R–Dという同一の順序に従った。BG4の応答は配列および構造に依存し、平行なバルクCDシグネチャーを持つInter-G4構造体において、平均アンフォールディング力の低下が観察された。D–D Inter-G4モデルのシミュレーションでは、BG4を含む軌跡において、局所的なコンフォメーション再編成とG-四重鎖コアの水素結合数の減少が示唆された。以上の結果から、本研究はInter-GDPを、Inter-G4の機械的安定性およびタンパク質関連効果を定量的に解析するための単分子手法として確立するものである。"
+  },
+  {
+    "id": "10.1093/nar/gkag1289",
+    "title": "SHFL engages CCR4–NOT to promote CNOT3-dependent mRNA decay",
+    "abstract": "AbstractSHFL (Shiftless) is an interferon-stimulated antiviral factor implicated in multiple modes of viral restriction, including inhibition of −1 programmed ribosomal frameshifting (−1 PRF). However, how SHFL interfaces with host post-transcriptional regulatory pathways remains incompletely understood. Here, we show that SHFL promotes mRNA turnover through the CCR4–NOT-associated 5′–3′ mRNA decay pathway. SHFL reduced the abundance of −1 PRF-containing reporters and induced mRNA decay when tethered to the 3′ untranslated region, indicating that SHFL-mediated RNA turnover can be triggered independently of the −1 PRF context. Mechanistically, SHFL interacted with endogenous CNOT3 and directly associated with the reconstituted CNOT1/2/3 NOT module in vitro. Functional analyses further showed that CNOT3 is required for efficient SHFL-mediated mRNA decay. In contrast, SHFL-mediated repression of −1 PRF-dependent translation remained intact in CNOT3 knockout cells, supporting a mechanistic separation between SHFL-mediated mRNA decay and −1 PRF translational repression. Transcriptome analyses under non-infectious conditions further suggested that SHFL overexpression is associated with selective changes in inflammatory and interferon-responsive gene-expression modules. Together, these findings identify CNOT3-dependent engagement of the CCR4–NOT mRNA decay machinery as a post-transcriptional mechanism used by SHFL, while positioning −1 PRF repression as a separable SHFL activity.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1289",
+    "date": "2026-11-26",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1289/9133947?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5773,
+    "collected_at": "2026-11-26T19:48:23.275553+00:00",
+    "collected_date": "2026-11-27",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/3091.xml"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1093/nar/gkag1289"
+    ],
+    "translation": {
+      "title": {
+        "hash": "913e84f24ab6415d132b23cb6b43727f026dcdd931d6e18a2a9663e33b5b35e6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T20:20:42.504083+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2a7537ca22e5f6d14567570e7688f932ec8da4c651cd74134af343fe7b4c31ed",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T20:20:42.504083+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "SHFLはCCR4–NOTに作用してCNOT3依存的なmRNA分解を促進する。",
+    "abstract_ja": "要旨SHFL（Shiftless）は、−1プログラムドリボソームフレームシフト（−1 PRF）の抑制を含む、複数のウイルス制限様式に関与するインターフェロン刺激性抗ウイルス因子である。しかし、SHFLが宿主の転写後調節経路とどのように相互作用するかについては、未だ十分に解明されていない。本研究では、SHFLがCCR4–NOT関連5′–3′ mRNA分解経路を介してmRNAターンオーバーを促進することを示す。SHFLを3′非翻訳領域に係留させたところ、−1 PRF含有レポーターの存在量が減少し、mRNA分解が誘導された。このことは、SHFL介在性のRNAターンオーバーが−1 PRFのコンテキストとは独立して誘発され得ることを示している。機構的には、SHFLは内因性CNOT3と相互作用し、in vitroにおいて再構成されたCNOT1/2/3 NOTモジュールと直接結合した。機能解析により、効率的なSHFL介在性mRNA分解にはCNOT3が必要であることがさらに示された。対照的に、−1 PRF依存的な翻訳に対するSHFL介在性の抑制はCNOT3ノックアウト細胞においても維持されており、SHFL介在性mRNA分解と−1 PRFによる翻訳抑制との間に機構的な分離があることが支持された。非感染条件下でのトランスクリプトーム解析により、SHFLの過剰発現が炎症性およびインターフェロン応答性遺伝子発現モジュールの選択的な変化に関連していることがさらに示唆された。以上の知見を総合すると、CNOT3依存的なCCR4–NOT mRNA分解機構への関与がSHFLによる転写後機構として同定されるとともに、−1 PRFによる抑制は分離可能なSHFL活性として位置づけられる。"
   }
 ]
