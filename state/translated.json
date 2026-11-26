@@ -340390,5 +340390,285 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "低分子量有機酸産生能を有する過剰汚泥由来Enterococcus faecium：機能評価および代謝特性解析",
     "abstract_ja": "余剰汚泥から単離されたEnterococcus faecium WN‐18は、好気的および嫌気的条件下において、グルコースを同量の低分子量有機酸へと変換した。酸素の利用可能性がピルビン酸由来の代謝を転換させ、好気的には酢酸およびプロピオン酸を、嫌気的には乳酸およびギ酸を優先的に生成させることで、酸組成を調整するための実用的な手段を提供した。\n\n要旨\n低分子量有機酸（LMWOAs）は、環境バイオテクノロジーにおいて炭素源および電子供与体として広く利用されているが、その外部からの補給は運用コストを増大させる。本研究では、LMWOA産生株WN‐18を余剰汚泥から単離し、Enterococcus faeciumと同定した。WN‐18は、好気的および嫌気的条件の双方において、乳酸、酢酸、プロピオン酸およびギ酸を産生した。28時間後、総正味LMWOA蓄積量は、好気的条件下で17.36 ± 1.24、嫌気的条件下で18.13 ± 0.59 g/Lに達した（平均 ± SD, n = 3）。対応する見かけ上の総LMWOA収量は、それぞれ測定グルコース枯渇量あたり0.87 ± 0.06および0.91 ± 0.03 g/gであった。酢酸およびプロピオン酸の蓄積量は好気的培養下で高く、一方で乳酸の蓄積量は嫌気的培養下で高かった。ゲノムアノテーションにより、完全な解糖系経路および乳酸、ギ酸、酢酸の産生に関連する遺伝子が明らかになった。解析した9つのEnterococcusゲノムにおいて、解糖系およびギ酸・酢酸産生に関連する主要な遺伝子群は保存されていたが、糖取り込みおよび推定プロピオン酸関連成分は株間で異なっていた。10時間後、嫌気的培養物は好気的培養物と比較して、ldhAおよびpflDの発現が高く、pta、pdhBおよびaceFの発現が低かった。これらの発現パターンは、28時間後の嫌気的培養物における平均乳酸・ギ酸蓄積量の増加および酢酸蓄積量の減少に対応していた。WN‐18は、好気的培養下では酢酸およびプロピオン酸に富む発酵液を、嫌気的培養下では乳酸に富む発酵液を産生し、この相違は、異なる有機酸要求性を持つバイオプロセスに対する本汚泥由来株の可能性を浮き彫りにしている。\n\n余剰汚泥から単離されたEnterococcus faecium WN-18は、好気的および嫌気的条件下において、グルコースを同量の低分子量有機酸へと変換した。酸素の利用可能性がピルビン酸由来の代謝を転換させ、好気的には酢酸およびプロピオン酸を、嫌気的には乳酸およびギ酸を優先的に生成させることで、酸組成を調整するための実用的な手段を提供した。\n\n要旨\n低分子量有機酸（LMWOAs）は、環境バイオテクノロジーにおいて炭素源および電子供与体として広く利用されているが、その外部からの補給は運用コストを増大させる。本研究では、LMWOA産生株WN-18を余剰汚泥から単離し、Enterococcus faeciumと同定した。WN-18は、好気的および嫌気的条件の双方において、乳酸、酢酸、プロピオン酸およびギ酸を産生した。28時間後、総正味LMWOA蓄積量は、好気的条件下で17.36 ± 1.24、嫌気的条件下で18.13 ± 0.59 g/Lに達した（平均 ± SD, n = 3）。対応する見かけ上の総LMWOA収量は、それぞれ測定グルコース枯渇量あたり0.87 ± 0.06および0.91 ± 0.03 g/gであった。酢酸およびプロピオン酸の蓄積量は好気的培養下で高く、一方で乳酸の蓄積量は嫌気的培養下で高かった。ゲノムアノテーションにより、完全な解糖系経路および乳酸、ギ酸、酢酸の産生に関連する遺伝子が明らかになった。解析した9つのEnterococcusゲノムにおいて、解糖系およびギ酸・酢酸産生に関連する主要な遺伝子群は保存されていたが、糖取り込みおよび推定プロピオン酸関連成分は株間で異なっていた。10時間後、嫌気的培養物は好気的培養物と比較して、ldhAおよびpflDの発現が高く、pta、pdhBおよびaceFの発現が低かった。これらの発現パターンは、28時間後の嫌気的培養物における平均乳酸・ギ酸蓄積量の増加および酢酸蓄積量の減少に対応していた。WN-18は、好気的培養下では酢酸およびプロピオン酸に富む発酵液を、嫌気的培養下では乳酸に富む発酵液を産生し、この相違は、異なる有機酸要求性を持つバイオプロセスに対する本汚泥由来株の可能性を浮き彫りにしている。"
+  },
+  {
+    "id": "10.1093/bioinformatics/btag859",
+    "title": "HARP-RPA: Interface-Aware HeteroPairFormer for Protein-RNA Binding Affinity Prediction",
+    "abstract": "AbstractMotivationProtein-RNA binding affinity quantifies how strongly an RNA-binding protein recognizes its RNA partner and is central to understanding post-transcriptional regulation and RNA-targeted therapeutic design. This prediction problem is difficult because the binding signal is not carried by protein or RNA sequences alone, but by chemically heterogeneous residue-base contacts formed at flexible three-dimensional interfaces. Existing sequence-centric models tend to compress a complex into global representations, whereas descriptor-based structural methods often encode only predefined interaction patterns. A remaining challenge is therefore to learn affinity from the local protein-RNA interface while retaining the contextual information provided by modern protein and RNA language models.ResultsWe introduce HARP-RPA, an interface-aware HeteroPairFormer that models protein-RNA complexes through heterogeneous residue/base pairs. It combines pretrained protein/RNA language-model embeddings with relation-aware structural pair features that distinguish intra-protein, intra-RNA, cross-interface, and special-token relations. Token and pair representations are jointly refined, and the readout integrates global complex evidence with local interface signals. On the PRA310 and PRA201 five-fold benchmarks, HARP-RPA achieves PCC/SCC values of 0.621/0.633 and 0.580/0.598, respectively, with competitive RMSE and MAE. The learned representation also transfers to the mCSM-RNA mutation-effect benchmark, achieving RMSE/MAE of 0.962/0.839 and PCC/SCC of 0.563/0.581 after supervised fine-tuning. Stratified, hard-case, and ablation analyses further support its robustness and component contributions.Availability and implementationCode is available at https://github.com/wbw176-netizen/HARP-RPA, with version v1.0.0 archived at https://doi.org/10.5281/zenodo.23486566.Supplementary informationSupplementary data are available at Bioinformatics online.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag859",
+    "date": "2026-11-24",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag859/9122360?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "prediction",
+        "protein"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5717,
+    "collected_at": "2026-11-26T09:41:35.790521+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1093/bioinformatics/btag859"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7d802beca41246ed6223c3fa5811bf6b5266025358785d28689d4561c8ed7d7d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T10:15:17.090981+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ae310bed9733cc16e6be73b2244aed8b663a7ed47affbab3ffadbe03d58fcefa",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T10:15:17.090981+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "HARP-RPA: タンパク質-RNA結合親和性予測のためのインターフェース認識型HeteroPairFormer",
+    "abstract_ja": "要旨動機タンパク質-RNA結合親和性は、RNA結合タンパク質がRNAパートナーをどの程度強く認識するかを定量化するものであり、転写後調節の理解およびRNA標的治療の設計において中核的な役割を果たす。この予測問題が困難なのは、結合シグナルがタンパク質やRNA配列のみによって担われるのではなく、柔軟な三次元界面において形成される化学的に不均一な残基-塩基間接触によって担われるためである。既存の配列中心型モデルは、複雑な構造を大域的な表現へと圧縮する傾向がある一方、記述子ベースの構造解析手法は、多くの場合、あらかじめ定義された相互作用パターンのみを符号化する。したがって、現代のタンパク質およびRNA言語モデルが提供する文脈情報を保持しつつ、局所的なタンパク質-RNA界面から親和性を学習することが依然として課題となっている。結果我々は、不均一な残基/塩基ペアを通じてタンパク質-RNA複合体をモデル化する、界面認識型HeteroPairFormerであるHARP-RPAを提案する。本モデルは、事前学習済みのタンパク質/RNA言語モデル埋め込みと、タンパク質内、RNA内、界面間、および特殊トークン間の関係を区別する関係認識型構造ペア特徴量を組み合わせる。トークン表現とペア表現は共同で精緻化され、リードアウトでは大域的な複合体エビデンスと局所的な界面シグナルが統合される。PRA310およびPRA201の5分割ベンチマークにおいて、HARP-RPAはそれぞれ0.621/0.633および0.580/0.598のPCC/SCC値を達成し、RMSEおよびMAEにおいても競争力のある性能を示した。学習済み表現はmCSM-RNA変異効果ベンチマークにも転移可能であり、教師ありファインチューニング後に0.962/0.839のRMSE/MAEおよび0.563/0.581のPCC/SCCを達成した。層別化解析、ハードケース解析、およびアブレーション解析により、その頑健性と構成要素の寄与がさらに裏付けられた。利用可能性および実装コードは https://github.com/wbw176-netizen/HARP-RPA で公開されており、バージョンv1.0.0は https://doi.org/10.5281/zenodo.23486566 にアーカイブされている。補足情報補足データはBioinformatics onlineで入手可能である。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.2019924",
+    "title": "A juvenile BALB/c mouse model for short-window, multi-tissue quantitative pharmacodynamic assessment of antiviral activity against contemporary clade IIb monkeypox virus",
+    "abstract": "Monkeypox virus (MPV) clade IIb continues to circulate following the 2022 global outbreak, underscoring the need for practical small-animal systems in which antivirals can be evaluated quantitatively against contemporary isolates. Here, we evaluated a juvenile BALB/c mouse model infected with the 2022 clade IIb clinical isolate WIBP-MPXV-001. Three tissues (ovary, lung, and spleen) and three quantitative readouts (infectious virus titer, viral DNA load, and organ index) were assessed within a defined 5-day window. A parallel cohort monitored through day 14 tested whether that window captures measurable viral burden. Female weanling BALB/c mice were intraperitoneally inoculated with 107 PFU of MPV and developed a consistent systemic disease phenotype by day 5, characterized by ruffled fur and reduced activity. Severe bilateral ovarian enlargement was accompanied by high ovarian infectious virus burdens (median 6.74 log10 PFU/g). Three cidofovir (CDV; 100 mg/kg, s.c.) regimens were evaluated: prophylaxis at −1 dpi, a single dose at 0 dpi (2 h post-challenge), and two doses at 0 + 3 dpi (first dose 2 h post-challenge). All three prevented the clinical signs observed in untreated animals and significantly reduced ovarian infectious titers. Ovarian indices were reduced under all three regimens. Infectious virus was detectable in the lung and spleen of untreated animals but fell below the assay detection limit in all treated animals. Lung viral DNA loads were also significantly reduced, whereas the splenic reduction was not significant and the ovarian reduction reached significance only with prophylaxis. In the 14-day cohort, one untreated mouse died on day 6, and recoverable infectious virus fell below the assay detection limit in all surviving animals while viral DNA remained detectable. The 5-day window therefore captures a period during which antiviral effects can be compared quantitatively. These findings support the juvenile BALB/c model as a complementary approach for short-window, multi-tissue pharmacodynamic evaluation of antiviral activity against contemporary clade IIb MPV.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.2019924",
+    "date": "2026-11-26",
+    "authors": "Zejun Wang",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.2019924",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5725,
+    "collected_at": "2026-11-26T09:41:35.790521+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.3389/fmicb.2026.2019924"
+    ],
+    "translation": {
+      "title": {
+        "hash": "433f33f1fd575f635c7dcbe1d4acd97eb8bbbc4ebc52d64c3544126ab12ba7b7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T10:15:17.090981+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3f757e14dd73bef930f3480f11c8c89e1d8cc7ef05e49a5860db666f936c514c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T10:15:17.090981+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "現代のクレードIIbサル痘ウイルスに対する抗ウイルス活性の短窓・多組織定量薬力学的評価のためのBALB/cマウス幼若モデル",
+    "abstract_ja": "サル痘ウイルス（MPV）クレードIIbは、2022年の世界的なアウトブレイク後も依然として流行しており、現代の分離株に対して抗ウイルス薬を定量的に評価できる実用的な小動物モデルの必要性が浮き彫りとなっている。本研究では、2022年クレードIIbの臨床分離株WIBP-MPXV-001に感染させた幼若BALB/cマウスモデルを評価した。規定の5日間の期間において、3つの組織（卵巣、肺、脾臓）および3つの定量的指標（感染性ウイルス力価、ウイルスDNA量、臓器指標）を評価した。14日目までモニタリングした並行コホートを用いて、当該期間が測定可能なウイルス量を捉えられるかを検証した。離乳期の雌BALB/cマウスに107 PFUのMPVを腹腔内接種したところ、5日目までに被毛の乱れと活動性の低下を特徴とする一貫した全身性疾患表現型が認められた。重度の両側性卵巣腫大に伴い、高い卵巣感染性ウイルス量が認められた（中央値 6.74 log10 PFU/g）。シドフォビル（CDV; 100 mg/kg, 皮下投与）の3つの投与レジメンを評価した：−1 dpiでの予防投与、0 dpi（チャレンジ2時間後）での単回投与、および0 + 3 dpiでの2回投与（初回投与はチャレンジ2時間後）である。これら3つのレジメンはいずれも、未治療動物で観察された臨床徴候を抑制し、卵巣感染性力価を有意に低下させた。卵巣指標は3つのレジメンすべてで低下した。感染性ウイルスは、未治療動物の肺および脾臓で検出可能であったが、治療を受けたすべての動物においてアッセイ検出限界を下回った。肺のウイルスDNA量も有意に減少したが、脾臓の減少は有意ではなく、卵巣の減少は予防投与においてのみ有意となった。14日間のコホートでは、未治療マウス1匹が6日目に死亡し、生存したすべての動物において回復可能な感染性ウイルスがアッセイ検出限界を下回った一方、ウイルスDNAは検出可能なままであった。したがって、5日間の期間は、抗ウイルス効果を定量的に比較できる期間を捉えるものである。これらの知見は、現代のクレードIIb MPVに対する抗ウイルス活性の、短期間・多組織にわたる薬力学的評価のための補完的なアプローチとして、幼若BALB/cモデルを支持するものである。"
+  },
+  {
+    "id": "10.1111/1751-7915.70465",
+    "title": "Constraint‐Based Combinatorial Screening Identifies a Single Bacterial Partner That Restores Microalgal Growth in an Inhibitory Waste Feedstock",
+    "abstract": "Constraint‐based screening of 1159 algal‐bacterial consortia revealed rare, strain‐specific partnerships that rescue algal growth under inhibitory waste conditions, particularly with Flagellimonas sp. (No. 18). These findings establish a scalable framework to identify functional consortia for waste valorisation.\n\nABSTRACT\nMicroalgae–bacteria interactions provide a route to engineer growth behaviour under chemically constrained environments, yet effective partnerships remain difficult to predict from monoculture traits alone. Here, we use industrial compost leachate as a defined inhibitory background to render growth rescue a measurable signature of functional interaction. Under 20% leachate, both axenic Nannochloropsis oculata and most co‐cultures with bacterial isolates exhibited strong growth suppression. A small number of defined algal–bacterial consortia converted this suppressed state into sustained algal growth, and the effect was strain‐dependent rather than a general consequence of bacterial presence. A combinatorial screen comprising 1159 consortia was evaluated using a differential, rate‐based growth score derived from algal specific growth rate. Growth rescue was rare and directional. High‐performance outcomes were concentrated in consortia containing Flagellimonas sp., and the single‐partner No. 18 condition itself produced strong rescue. Flask‐scale cultivation of selected exemplars using optical density (740 nm) preserved the tier‐level separation observed in fluorescence‐based screening, supporting cross‐format concordance of the screening outcome. Microscopy of selected exemplar consortia additionally revealed cellulose‐associated structures and intracellular lipid‐associated inclusions within the harvested biomass. As their chemical composition was not resolved, these inclusions are reported as a secondary phenotypic observation without assignment to polyhydroxyalkanoates or other specific storage polymers. Together, these results show that constraint‐based screening can identify algal–bacterial partnerships that restore growth under an inhibitory waste‐stream and trace the observed effect to defined microbial members.\n\nConstraint-based screening of 1159 algal-bacterial consortia revealed rare, strain-specific partnerships that rescue algal growth under inhibitory waste conditions, particularly with Flagellimonas sp. (No. 18). These findings establish a scalable framework to identify functional consortia for waste valorisation.\n\nABSTRACT\nMicroalgae–bacteria interactions provide a route to engineer growth behaviour under chemically constrained environments, yet effective partnerships remain difficult to predict from monoculture traits alone. Here, we use industrial compost leachate as a defined inhibitory background to render growth rescue a measurable signature of functional interaction. Under 20% leachate, both axenic Nannochloropsis oculata and most co-cultures with bacterial isolates exhibited strong growth suppression. A small number of defined algal–bacterial consortia converted this suppressed state into sustained algal growth, and the effect was strain-dependent rather than a general consequence of bacterial presence. A combinatorial screen comprising 1159 consortia was evaluated using a differential, rate-based growth score derived from algal specific growth rate. Growth rescue was rare and directional. High-performance outcomes were concentrated in consortia containing Flagellimonas sp., and the single-partner No. 18 condition itself produced strong rescue. Flask-scale cultivation of selected exemplars using optical density (740 nm) preserved the tier-level separation observed in fluorescence-based screening, supporting cross-format concordance of the screening outcome. Microscopy of selected exemplar consortia additionally revealed cellulose-associated structures and intracellular lipid-associated inclusions within the harvested biomass. As their chemical composition was not resolved, these inclusions are reported as a secondary phenotypic observation without assignment to polyhydroxyalkanoates or other specific storage polymers. Together, these results show that constraint-based screening can identify algal–bacterial partnerships that restore growth under an inhibitory waste-stream and trace the observed effect to defined microbial members.",
+    "journal": "Microbial Biotechnology",
+    "doi": "10.1111/1751-7915.70465",
+    "date": "2026-11-23",
+    "authors": "Zongting Cai, \nJose Ricardo Cachay‐Morante, \nMahendra Raut, \nIpsita Roy, \nJagroop Pandhal",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1751-7915.70465?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "microalgae",
+        "microalgal",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://onlinelibrary.wiley.com/feed/17517915/most-recent",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5748,
+    "collected_at": "2026-11-26T09:41:35.790521+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://onlinelibrary.wiley.com/feed/17517915/most-recent"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1111/1751-7915.70465"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2fc623fb00325edd118de104935b397b109e070cd9e63eee40a38da6f0cfacb1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T10:15:17.090981+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b6604546f0276a8bfabf6fc46fefcb2ca5ed9530a3c85d88218e865e29150ffa",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T10:15:17.090981+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "制約ベースの組合せスクリーニングにより、阻害性廃棄物原料において微細藻類の増殖を回復させる単一の細菌パートナーを同定した",
+    "abstract_ja": "1,159組の藻類・細菌コンソーシアムを対象とした制約ベースのスクリーニングにより、抑制的な廃棄物条件下で藻類の増殖を回復させる、稀な菌株特異的なパートナーシップが明らかとなった。特にFlagellimonas sp. (No. 18)においてその傾向が顕著であった。これらの知見は、廃棄物資源化に向けた機能的なコンソーシアムを同定するための、拡張可能なフレームワークを確立するものである。\n\n要旨\n微細藻類と細菌の相互作用は、化学的に制約された環境下で増殖挙動を制御する手段となるが、単一培養の形質のみから効果的なパートナーシップを予測することは依然として困難である。本研究では、工業用堆肥浸出液を明確な抑制背景として用いることで、増殖回復を機能的相互作用の測定可能な指標とした。20%の浸出液条件下では、無菌状態のNannochloropsis oculataおよび細菌分離株とのほとんどの共培養において、強い増殖抑制が認められた。少数の特定された藻類・細菌コンソーシアムは、この抑制状態を持続的な藻類増殖へと転換させ、その効果は細菌存在による全般的な結果ではなく、菌株依存的なものであった。1,159組のコンソーシアムからなる組み合わせスクリーニングを、藻類特異的な増殖速度から導出された微分的な速度ベースの増殖スコアを用いて評価した。増殖回復は稀であり、かつ方向性を持っていた。高い性能を示す結果はFlagellimonas sp.を含むコンソーシアムに集中しており、単一パートナーのNo. 18条件自体も強い回復をもたらした。光学密度（740 nm）を用いた選定例株のフラスコスケール培養では、蛍光ベースのスクリーニングで観察された階層レベルの分離が維持され、スクリーニング結果のクロスフォーマットにおける一致性が裏付けられた。選定例コンソーシアムの顕微鏡観察により、回収したバイオマス内にセルロース関連構造および細胞内脂質関連包有体が認められた。化学組成が解明されなかったため、これらの包有体は、ポリヒドロキシアルカノエートやその他の特定の貯蔵ポリマーへの帰属を行わない二次的な表現型観察結果として報告する。以上の結果を総合すると、制約ベースのスクリーニングによって、抑制的な廃棄物ストリーム下で増殖を回復させる藻類・細菌パートナーシップを同定でき、観察された効果を特定の微生物メンバーにまで遡って追跡できることが示される。\n\n1,159組の藻類・細菌コンソーシアムを対象とした制約ベースのスクリーニングにより、抑制的な廃棄物条件下で藻類の増殖を回復させる、稀な菌株特異的なパートナーシップが明らかとなった。特にFlagellimonas sp. (No. 18)においてその傾向が顕著であった。これらの知見は、廃棄物資源化に向けた機能的なコンソーシアムを同定するための、拡張可能なフレームワークを確立するものである。\n\n要旨\n微細藻類と細菌の相互作用は、化学的に制約された環境下で増殖挙動を制御する手段となるが、単一培養の形質のみから効果的なパートナーシップを予測することは依然として困難である。本研究では、工業用堆肥浸出液を明確な抑制背景として用いることで、増殖回復を機能的相互作用の測定可能な指標とした。20%の浸出液条件下では、無菌状態のNannochloropsis oculataおよび細菌分離株とのほとんどの共培養において、強い増殖抑制が認められた。少数の特定された藻類・細菌コンソーシアムは、この抑制状態を持続的な藻類増殖へと転換させ、その効果は細菌存在による全般的な結果ではなく、菌株依存的なものであった。1,159組のコンソーシアムからなる組み合わせスクリーニングを、藻類特異的な増殖速度から導出された微分的な速度ベースの増殖スコアを用いて評価した。増殖回復は稀であり、かつ方向性を持っていた。高い性能を示す結果はFlagellimonas sp.を含むコンソーシアムに集中しており、単一パートナーのNo. 18条件自体も強い回復をもたらした。光学密度（740 nm）を用いた選定例株のフラスコスケール培養では、蛍光ベースのスクリーニングで観察された階層レベルの分離が維持され、スクリーニング結果のクロスフォーマットにおける一致性が裏付けられた。選定例コンソーシアムの顕微鏡観察により、回収したバイオマス内にセルロース関連構造および細胞内脂質関連包有体が認められた。化学組成が解明されなかったため、これらの包有体は、ポリヒドロキシアルカノエートやその他の特定の貯蔵ポリマーへの帰属を行わない二次的な表現型観察結果として報告する。以上の結果を総合すると、制約ベースのスクリーニングによって、抑制的な廃棄物ストリーム下で増殖を回復させる藻類・細菌パートナーシップを同定でき、観察された効果を特定の微生物メンバーにまで遡って追跡できることが示される。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 4",
+        "query": "(JOURNAL:\"Infection and Immunity\" OR JOURNAL:\"Antimicrobial Agents and Chemotherapy\" OR JOURNAL:\"Journal of Clinical Microbiology\" OR JOURNAL:\"Microbiology Resource Announcements\" OR JOURNAL:\"Nature\" OR JOURNAL:\"Nature Microbiology\" OR JOURNAL:\"Nature Ecology & Evolution\" OR JOURNAL:\"Nature Communications\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/mra.01076-26",
+    "title": "Complete genomes of <i>Rhodobacter sphaeroides</i> DSM158 and its substrain H2.",
+    "abstract": "Rhodobacter sphaeroides DSM158 substrain H2 (SubH2) has the potential to produce photoheterotrophic hydrogen gas from wastewater. We present two annotated hybrid genome assemblies for strain DSM158 and its laboratory-derived substrain H2 based on Illumina and MinION reads. Both assemblies consist of two chromosomes and four plasmids and show >99% BUSCO completeness.",
+    "journal": "Microbiology Resource Announcements",
+    "doi": "10.1128/mra.01076-26",
+    "date": "2026-11-09",
+    "authors": "Nauruschat A, Leidenfrost RM, Wappler NC, Wünschiers R.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43001778",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43001778",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assemblies",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5605,
+    "collected_at": "2026-11-26T09:31:03.499381+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "Europe PMC journals 4"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1128/mra.01076-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a58e9b9147adcbdfcee8aaf45b08b99613e0069686036c0d1e108e12d189a779",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T10:15:17.090981+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "979994ed2763be6c1dee6e01e2f5a0a7a13e3ec424f77770b56c2b82fe3b796c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T10:15:17.090981+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "<i>Rhodobacter sphaeroides</i> DSM158およびその亜株H2の全ゲノム",
+    "abstract_ja": "Rhodobacter sphaeroides DSM158 亜株 H2 (SubH2) は、廃水から光従属栄養的に水素ガスを生成する可能性を有している。本報では、IlluminaおよびMinIONリードに基づき、株DSM158およびその実験室由来の亜株H2について、アノテーション済みの2つのハイブリッドゲノムアセンブリを提示する。両アセンブリは2本の染色体と4本のプラスミドから構成されており、99%を超えるBUSCO完全性を示す。"
   }
 ]
