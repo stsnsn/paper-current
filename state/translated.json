@@ -341743,5 +341743,287 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "Candida albicans TLO遺伝子ファミリーのパラログは、不完全な冗長性を伴う相互接続された機能ネットワークを形成する。",
     "abstract_ja": "要旨 遺伝子重複は通常、生物に選択的優位性をもたらさないため、個体群から除去されることになる。重複が適応度の低下を招かない、あるいは適応度を高める稀なケースでは、重複プロセスの繰り返しを通じて遺伝子ファミリーが形成されることがある。遺伝子重複の機能については詳細に研究されてきたが、重複の繰り返しがパラログの冗長性にどのような影響を及ぼし、新たなパラログや新規機能の出現をいかに制限し得るかについて検討した研究はほとんどない。本研究では、系統特異的な拡張により得られたパラログ間の分子的・生物学的機能の冗長性を検証するため、Candida albicansのテロメア関連（TLO）遺伝子ファミリーのメンバー14種それぞれについて、単一欠失変異体パネルを構築した。TLOタンパク質は、メディエーター転写調節複合体の相互置換可能なサブユニットとして機能し、ゲノム全体の遺伝子発現に影響を及ぼす可能性がある。冗長性が最も一般的な結果であり、単一のTLO遺伝子を欠く株における表現型アッセイの約90%で観察された。しかし、14種のパラログのうち12種の変異体は、炭素利用から生体内病原性に至るまでの表現型において、有意な非冗長機能を示した。2つのTLO遺伝子を欠く二重変異体は、正および負の相乗的な表現型の両方を示し、パラログ間でクロストークや協調的な調節が一般的であることが示唆された。以上の結果を総合すると、本研究は、最近出現したパラログが、他の遺伝子ファミリーメンバーとの冗長性を保持しつつも非冗長機能を獲得し、高度に相互接続された機能ネットワークを形成し得ることを示している。"
+  },
+  {
+    "id": "10.1093/bioinformatics/btag865",
+    "title": "scPriorDiff: Bridging Single-Cell Modalities through Biological Network Prior-Guided Latent Diffusion",
+    "abstract": "AbstractMotivationSingle-cell multi-omics sequencing enables joint profiling of gene expression and chromatin accessibility, yet high-quality paired data remain scarce. Cross-modal translation based on generative modeling enables inference of an unmeasured modality from limited paired observations. However, substantial differences between gene expression and chromatin accessibility complicate cross-modal relationship modeling and the effective use of observed-modality information to guide target-modality generation.ResultsWe propose scPriorDiff, a biological network prior-guided conditional latent diffusion model. scPriorDiff integrates diverse biological networks into a multimodal heterogeneous graph and employs a message-passing graph neural network (GNN) to learn biologically informed modality-specific representations that capture cross-modal and intra-modal relationships. To enable full-graph representation learning, a prior-regularized cross-modal completion module infers target-modality node representations during inference. The GNN-derived source representation conditions diffusion for target-modality generation. Across six paired single-cell multi-omics datasets, scPriorDiff outperformed eight representative methods and showed strong generalization across batches and to unseen cell types. Downstream analyses further demonstrated that the generated profiles preserved cell identities, molecular signatures, and biologically relevant functions.AvailabilityThe scPriorDiff software is publicly available at https://github.com/ChrisOliver2345/scPriorDiff and archived on Zenodo at https://doi.org/10.5281/zenodo.23408383.Supplementary informationSupplementary data are available as a separate file.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag865",
+    "date": "2026-11-24",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag865/9122355?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5722,
+    "collected_at": "2026-11-26T09:41:35.790521+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1093/bioinformatics/btag865"
+    ],
+    "translation": {
+      "title": {
+        "hash": "abb6e9ca656164e535a37a4bba734f2c3ec080314fb013a342b3a0f3de8a4e6b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T10:28:34.504132+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "45e0ea638eab086bc4e416fb01ee784a00a31f67fce7f4b5d38a9db0a97f3170",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T10:28:34.504132+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "scPriorDiff: 生物学的ネットワーク事前分布誘導型潜在拡散による単一細胞モダリティ間の橋渡し",
+    "abstract_ja": "要旨動機シングルセルマルチオミクスシーケンシングにより、遺伝子発現とクロマチンアクセシビリティの同時プロファイリングが可能となったが、高品質なペアデータは依然として不足している。生成モデリングに基づくクロスモーダル変換により、限られたペア観測から未測定のモダリティを推論することが可能となる。しかし、遺伝子発現とクロマチンアクセシビリティの間には顕著な差異があるため、クロスモーダルな関係モデリングや、観測モダリティ情報をターゲットモダリティ生成の指針として効果的に活用することが困難となっている。結果我々は、生物学的ネットワークの事前分布に導かれた条件付き潜在拡散モデルであるscPriorDiffを提案する。scPriorDiffは、多様な生物学的ネットワークをマルチモーダルなヘテロジニアスグラフに統合し、メッセージパッシング型グラフニューラルネットワーク（GNN）を用いて、クロスモーダルおよびイントラモーダルな関係を捉える生物学的知見に基づいたモダリティ固有の表現を学習する。フルグラフ表現の学習を可能にするため、事前正則化済みのクロスモーダル補完モジュールが、推論時にターゲットモダリティのノード表現を推論する。GNNから導出されたソース表現が、ターゲットモダリティ生成のための拡散を条件付ける。6つのペアシングルセルマルチオミクスデータセットにおいて、scPriorDiffは8つの代表的な手法を上回り、バッチ間および未知の細胞種に対しても強力な汎化性能を示した。ダウンストリーム解析により、生成されたプロファイルが細胞の識別情報、分子シグネチャー、および生物学的に関連のある機能を保持していることがさらに実証された。利用可能性scPriorDiffソフトウェアは、https://github.com/ChrisOliver2345/scPriorDiff で公開されており、Zenodo（https://doi.org/10.5281/zenodo.23408383）にアーカイブされている。補足情報補足データは別ファイルとして提供されている。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1977219",
+    "title": "FeoAB disruption alters intracellular iron homeostasis without reversing PmrAB mutation-driven colistin resistance in Salmonella Typhimurium",
+    "abstract": "IntroductionPmrAB activation is an important chromosomal mechanism of colistin resistance in Salmonella enterica and can be accompanied by changes in bacterial iron homeostasis. However, whether FeoAB-mediated ferrous iron uptake is required to maintain an established PmrAB mutation-mediated resistant state remains unclear.MethodsIn this study, previously characterized colistin-resistant PmrAL105P and PmrBR93P strains derived from Salmonella enterica serovar Typhimurium ATCC 14028 were used to examine the contribution of FeoAB to resistance maintenance. The feoA and feoB genes were individually deleted, and colistin susceptibility, feoAB expression, intracellular iron, expression of lipid A modification-associated genes, transcription of the O-antigen chain-length regulators fepE and wzzST, lipid A profiles, cell-associated colistin binding, and outer membrane permeability were evaluated.ResultsBoth PmrAB-mutant strains showed elevated feoA and feoB transcription, ranging from 2.58- to 3.36-fold relative to WT14. Intracellular Fe2+ increased from 0.68 nmol/mg protein in WT14 to 1.01 and 1.16 nmol/mg protein in the PmrAL105P and PmrBR93P mutants, respectively. Deletion of feoA or feoB reduced intracellular Fe2+ to 0.53–0.71 nmol/mg protein, whereas the colistin MIC remained unchanged at 8 μg/mL in all resistant derivatives, including under the Chelex-treated medium conditions. Expression of pmrE, pmrH, and pmrK remained elevated after FeoAB disruption, whereas transcription of the O-antigen chain-length regulators fepE and wzzST showed only modest variation. Lipid A analysis showed that characteristic L-Ara4N-associated ions at m/z 1927.2 and 2165.2 remained detectable after feoA or feoB deletion. Reduced cell-associated colistin binding and lower NPN uptake were also retained.DiscussionThese findings indicate that FeoAB contributes to the altered intracellular iron homeostasis associated with PmrAB-mutant strains but is dispensable for maintaining the MIC-defined colistin-resistant phenotype under the tested conditions. The persistence of the PmrA-regulated L-Ara4N pathway after FeoAB disruption supports the conclusion that FeoAB-associated iron remodeling is not sufficient as a single determinant for reversing this resistance-proximal pathway.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1977219",
+    "date": "2026-11-26",
+    "authors": "Xiaochen Huang",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1977219",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5731,
+    "collected_at": "2026-11-26T09:41:35.790521+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.3389/fmicb.2026.1977219"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8c00c8ed47745517a82d343d34477f9dd541851944944e23b436b747eb9d688a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T10:28:34.504132+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c92a063b5655e3b16c9dbbfb6675e2a35051e6a4f76a64457e1c6a5037345817",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T10:28:34.504132+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "FeoABの機能不全は、Salmonella TyphimuriumにおけるPmrAB変異誘発性のコリスチン耐性を逆転させることなく、細胞内鉄恒常性を変化させる。",
+    "abstract_ja": "はじめにPmrABの活性化は、Salmonella entericaにおけるコリスチン耐性の重要な染色体機構であり、細菌の鉄恒常性の変化を伴うことがある。しかし、確立されたPmrAB変異介在性の耐性状態の維持に、FeoABを介した二価鉄の取り込みが必要であるか否かは依然として不明である。方法本研究では、Salmonella enterica serovar Typhimurium ATCC 14028由来の既報のコリスチン耐性PmrAL105PおよびPmrBR93P株を用い、耐性維持に対するFeoABの寄与を検討した。feoAおよびfeoB遺伝子を個別に欠損させ、コリスチン感受性、feoAB発現、細胞内鉄、脂質A修飾関連遺伝子の発現、O抗原鎖長調節因子fepEおよびwzzSTの転写、脂質Aプロファイル、細胞結合型コリスチン結合、および外膜透過性を評価した。結果PmrAB変異株はいずれも、WT14と比較してfeoAおよびfeoBの転写が2.58～3.36倍に亢進していた。細胞内Fe2+は、WT14の0.68 nmol/mgタンパク質から、PmrAL105PおよびPmrBR93P変異株ではそれぞれ1.01および1.16 nmol/mgタンパク質に増加した。feoAまたはfeoBの欠損により、細胞内Fe2+は0.53～0.71 nmol/mgタンパク質に減少したが、Chelex処理培地条件下を含め、すべての耐性誘導体においてコリスチンMICは8 μg/mLで不変であった。pmrE、pmrH、およびpmrKの発現はFeoABの破壊後も亢進したままであったが、O抗原鎖長調節因子fepEおよびwzzSTの転写にはわずかな変動しか認められなかった。脂質A解析の結果、m/z 1927.2および2165.2における特徴的なL-Ara4N関連イオンは、feoAまたはfeoBの欠損後も検出可能であった。細胞結合型コリスチン結合の減少およびNPN取り込みの低下も維持されていた。考察これらの知見は、FeoABがPmrAB変異株に関連する細胞内鉄恒常性の変化に寄与しているものの、試験条件下においてMICで定義されるコリスチン耐性表現型の維持には必須ではないことを示している。FeoABの破壊後もPmrA調節下のL-Ara4N経路が持続することは、FeoAB関連の鉄リモデリングが、この耐性近接経路を逆転させるための単一の決定因子としては不十分であるという結論を支持するものである。"
+  },
+  {
+    "id": "10.1111/mec.70673",
+    "title": "Geoclimatic and Host‐Driven Speciation in Colletotrichum",
+    "abstract": "ABSTRACT\nUnderstanding speciation in plant pathogens is essential for predicting the emergence of novel virulent strains and deciphering biodiversity dynamics. This study explored the evolutionary history and diversification patterns of Colletotrichum, a globally significant plant‐pathogenic fungal genus. Divergence dating analysis places the origin of Colletotrichum in the middle Eocene (~47.57 Mya) with an ancestral state of broad host range, followed by host specialization particularly towards monocots and legumes during the Eocene–Oligocene transition (~32–39 Mya), a period coinciding with global cooling and aridification. While early‐diverging lineages formed during this period (i.e., C. gigasporum and C. orbiculare species complexes) exhibit limited extant diversity, the genus in general underwent accelerated diversification from the late Miocene onward. This acceleration is particularly prominent within the C. gloeosporioides species complex, which may be related to Pliocene vegetation shifts and late Neogene‐Quaternary environmental changes. Genomic analyses revealed that genome size evolution in Colletotrichum is significantly correlated with phylogenetic constraints and repetitive sequence ratio. We also observed extensive gene tree‐species tree incongruence, suggesting roles for incomplete lineage sorting or introgression. Overall, our findings reveal a macroevolutionary pattern in which ancient climatic shifts, host adaptation dynamics, and genomic plasticity have jointly shaped Colletotrichum diversification, while possible anthropogenic effects on the youngest lineages remain further investigation.\nABSTRACT\nUnderstanding speciation in plant pathogens is essential for predicting the emergence of novel virulent strains and deciphering biodiversity dynamics. This study explored the evolutionary history and diversification patterns of Colletotrichum, a globally significant plant-pathogenic fungal genus. Divergence dating analysis places the origin of Colletotrichum in the middle Eocene (~47.57 Mya) with an ancestral state of broad host range, followed by host specialization particularly towards monocots and legumes during the Eocene–Oligocene transition (~32–39 Mya), a period coinciding with global cooling and aridification. While early-diverging lineages formed during this period (i.e., C. gigasporum and C. orbiculare species complexes) exhibit limited extant diversity, the genus in general underwent accelerated diversification from the late Miocene onward. This acceleration is particularly prominent within the C. gloeosporioides species complex, which may be related to Pliocene vegetation shifts and late Neogene-Quaternary environmental changes. Genomic analyses revealed that genome size evolution in Colletotrichum is significantly correlated with phylogenetic constraints and repetitive sequence ratio. We also observed extensive gene tree-species tree incongruence, suggesting roles for incomplete lineage sorting or introgression. Overall, our findings reveal a macroevolutionary pattern in which ancient climatic shifts, host adaptation dynamics, and genomic plasticity have jointly shaped Colletotrichum diversification, while possible anthropogenic effects on the youngest lineages remain further investigation.",
+    "journal": "Molecular Ecology",
+    "doi": "10.1111/mec.70673",
+    "date": "2026-11-20",
+    "authors": "Fang Liu, \nZiying Ma, \nDa Li, \nLei Cai",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://onlinelibrary.wiley.com/doi/10.1111/mec.70673?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungal"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://onlinelibrary.wiley.com/feed/1365294x/most-recent",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5754,
+    "collected_at": "2026-11-26T09:41:35.790521+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://onlinelibrary.wiley.com/feed/1365294x/most-recent"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1111/mec.70673"
+    ],
+    "translation": {
+      "title": {
+        "hash": "969a0bade43ff2a3624b8830e2653ff1d7de23b665e9630df7d61a1e338836b6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T10:28:34.504132+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "450e9d3c1cd8616a95483b0fdec384131e0a64f1146961a9bc889e86923f8039",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T10:28:34.504132+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "コレトトリクム属における地質気候および宿主駆動型の種分化",
+    "abstract_ja": "要旨\n植物病原菌における種分化の理解は、新規強毒株の出現予測や生物多様性動態の解明に不可欠である。本研究では、世界的に重要な植物病原性真菌属であるColletotrichum属の進化史と多様化パターンを調査した。分岐年代解析により、Colletotrichum属の起源は始新世中期（約47.57百万年前）であり、祖先状態では広範な宿主範囲を有していた後、地球規模の寒冷化と乾燥化と時期を同じくする始新世－漸新世移行期（約32～39百万年前）に、特に単子葉植物やマメ科植物への宿主特化が進んだことが明らかになった。この時期に形成された初期分岐系統（すなわちC. gigasporumおよびC. orbiculare種複合体）の現存多様性は限定的である一方、属全体としては中新世後期以降、多様化が加速した。この加速は特にC. gloeosporioides種複合体において顕著であり、これは鮮新世の植生変動や新第三紀後期から第四紀にかけての環境変化に関連している可能性がある。ゲノム解析の結果、Colletotrichum属におけるゲノムサイズの進化は、系統的制約および反復配列比と有意に相関していることが明らかになった。また、遺伝子系統樹と種系統樹の間に広範な不一致が認められ、不完全な系統分化や遺伝子浸透の関与が示唆された。総じて、本研究の知見は、古代の気候変動、宿主適応動態、およびゲノム可塑性が共同してColletotrichum属の多様化を形作ったという大進化的パターンを明らかにしており、一方で、最若系統に対する人為的な影響の可能性についてはさらなる調査が必要である。\n要旨\n植物病原菌における種分化の理解は、新規強毒株の出現予測や生物多様性動態の解明に不可欠である。本研究では、世界的に重要な植物病原性真菌属であるColletotrichum属の進化史と多様化パターンを調査した。分岐年代解析により、Colletotrichum属の起源は始新世中期（約47.57百万年前）であり、祖先状態では広範な宿主範囲を有していた後、地球規模の寒冷化と乾燥化と時期を同じくする始新世－漸新世移行期（約32～39百万年前）に、特に単子葉植物やマメ科植物への宿主特化が進んだことが明らかになった。この時期に形成された初期分岐系統（すなわちC. gigasporumおよびC. orbiculare種複合体）の現存多様性は限定的である一方、属全体としては中新世後期以降、多様化が加速した。この加速は特にC. gloeosporioides種複合体において顕著であり、これは鮮新世の植生変動や新第三紀後期から第四紀にかけての環境変化に関連している可能性がある。ゲノム解析の結果、Colletotrichum属におけるゲノムサイズの進化は、系統的制約および反復配列比と有意に相関していることが明らかになった。また、遺伝子系統樹と種系統樹の間に広範な不一致が認められ、不完全な系統分化や遺伝子浸透の関与が示唆された。総じて、本研究の知見は、古代の気候変動、宿主適応動態、およびゲノム可塑性が共同してColletotrichum属の多様化を形作ったという大進化的パターンを明らかにしており、一方で、最若系統に対する人為的な影響の可能性についてはさらなる調査が必要である。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.2029479",
+    "title": "Rhizosphere bacterial and fungal community responses to long-term tillage and manure addition in rainfed winter wheat",
+    "abstract": "Long-term tillage and manure addition can alter the rhizosphere microbial communities, but the responses of bacteria and fungi may differ. In a rainfed winter wheat experiment established in 2007 in Shanxi, China, we compared rhizosphere microbial communities under conventional tillage (CT), minimum tillage (MT), with and without manure addition (CT + M and MT + M). Using 16S rRNA gene and internal transcribed spacer (ITS) amplicon sequencing, we assessed microbial diversity, taxonomic composition, co-occurrence networks, and their associations with soil properties. Manure addition increased bacterial richness, whereas fungal richness was affected by manure addition and its interaction with tillage. Neither bacterial nor fungal Shannon index differed significantly among treatments. Tillage significantly affected overall fungal community composition, whereas none of the treatment factors significantly affected overall bacterial community composition. Among dominant taxa, manure addition affected certain bacterial groups, whereas tillage affected several fungal groups. Compared with the CT treatment, other treatments exhibited fewer network links, lower network density, and higher modularity. The MT + M treatment had the highest soil organic carbon, available phosphorus, and available potassium contents. These findings highlight distinct responses of bacterial and fungal communities to long-term tillage and manure management and their associations with soil properties in rainfed wheat systems.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.2029479",
+    "date": "2026-11-26",
+    "authors": "Xinnan Zhou",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.2029479",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "bacteria",
+        "bacterial",
+        "fungal",
+        "fungi",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "16S rRNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5732,
+    "collected_at": "2026-11-26T09:41:35.790521+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.3389/fmicb.2026.2029479"
+    ],
+    "translation": {
+      "title": {
+        "hash": "63859caf2ef794ab5b90a0975f2588577dc6c91e4e25c42020cae6ec742a09b5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T10:28:34.504132+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "cb58afbf9eccdafcb4c1ab43194adb0ce2bc8659a5fe994bdb025ba1e67a065e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T10:28:34.504132+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "天水栽培冬小麦における長期耕起および堆肥施用の根圏細菌・真菌群集の応答",
+    "abstract_ja": "長期耕起と堆肥施用は根圏微生物群集を変化させ得るが、細菌と真菌の応答は異なる場合がある。2007年に中国山西省で実施された天水小麦の実験において、慣行耕起（CT）、最小耕起（MT）、および堆肥施用の有無（CT + MおよびMT + M）における根圏微生物群集を比較した。16S rRNA遺伝子および内部転写スペーサー（ITS）アンプリコンシーケンシングを用いて、微生物多様性、分類学的組成、共起ネットワーク、およびそれらと土壌特性との関連性を評価した。堆肥施用は細菌の豊富さを増加させた一方、真菌の豊富さは堆肥施用およびその耕起との相互作用の影響を受けた。細菌および真菌のシャノン指数は、処理間において有意な差は認められなかった。耕起は真菌群集全体の組成に有意な影響を及ぼしたが、処理要因のいずれも細菌群集全体の組成に有意な影響を及ぼさなかった。優占分類群のうち、堆肥施用は特定の細菌群に影響を与え、一方で耕起は複数の真菌群に影響を与えた。CT処理と比較して、他の処理ではネットワークリンク数が少なく、ネットワーク密度が低く、モジュラリティが高かった。MT + M処理では、土壌有機炭素、可給態リン、および可給態カリウムの含有量が最も高かった。これらの知見は、天水小麦系における長期耕起および堆肥管理に対する細菌群集と真菌群集の顕著な応答と、それらと土壌特性との関連性を浮き彫りにしている。"
   }
 ]
