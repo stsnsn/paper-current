@@ -339840,5 +339840,280 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "抑制を超えて：モノテルペンに曝露されたアグロバクテリウム・ラジオバクターにおける成長停止から遺伝子制御まで",
     "abstract_ja": "モノテルペン曝露がAgrobacterium radiobacterに及ぼす影響\n\n要旨\n精油の主要成分であるモノテルペンは、広範な抗菌活性を示し、持続可能な作物保護のための有望な候補となる。本研究では、抗菌活性試験、リアルタイム増殖モニタリング、マトリックス支援レーザー脱離イオン化飛行時間型質量分析（MALDI-TOF MS）によるスペクトルプロファイリング、および遺伝子発現解析を組み合わせた統合的アプローチを用い、構造的に異なる7種類のモノテルペンに対する生物防除細菌Agrobacterium radiobacterの応答を検討した。D-カルボンが最も高い抗菌効力（MIC50 = 0.318 mg/mL）を示した一方、β-ピネンおよびボルニルアセテートの活性は最も低かった。リアルタイム増殖モニタリングでは、顕著な時間依存性の抑制が認められ、最初の0～3時間は強い初期抑制が見られた後、部分的な増殖回復が認められた。MALDI-TOF MS解析により、細菌タンパク質スペクトルに構造特異的な変化が認められ、(S)-(–)-リモネンおよびボルニルアセテートが最も顕著な変化を誘発したのに対し、β-ピネンおよびサビネンの影響は比較的軽微であった。階層的クラスター解析により、モノテルペン誘発応答を検出する上で最も識別性の高い時点は3時間後であることが特定された。遺伝子発現解析では、exoY、hrcS、ftsI、achI、およびncpAchの化合物特異的な調節が認められ、最も強い転写変化はα-ピネン、D-カルボン、および3-カレンに関連していた。総じて、抗菌活性、増殖動態、タンパク質スペクトルプロファイル、および遺伝子発現にわたって観察された不一致は、モノテルペンが単一のメカニズムで作用するのではなく、構造依存的な複数の作用様式を惹起することを示している。これらの知見は、植物代謝物と根圏細菌の相互作用に関する機序的な洞察を与えるとともに、生物防除システムにおける抗菌活性評価のための統合的アプローチの重要性を強調するものである。\n\nモノテルペン曝露がAgrobacterium radiobacterに及ぼす影響\n\n要旨\n精油の主要成分であるモノテルペンは、広範な抗菌活性を示し、持続可能な作物保護のための有望な候補となる。本研究では、抗菌活性試験、リアルタイム増殖モニタリング、マトリックス支援レーザー脱離イオン化飛行時間型質量分析（MALDI-TOF MS）によるスペクトルプロファイリング、および遺伝子発現解析を組み合わせた統合的アプローチを用い、構造的に異なる7種類のモノテルペンに対する生物防除細菌Agrobacterium radiobacterの応答を検討した。D-カルボンが最も高い抗菌効力（MIC50 = 0.318 mg/mL）を示した一方、β-ピネンおよびボルニルアセテートの活性は最も低かった。リアルタイム増殖モニタリングでは、顕著な時間依存性の抑制が認められ、最初の0～3時間は強い初期抑制が見られた後、部分的な増殖回復が認められた。MALDI-TOF MS解析により、細菌タンパク質スペクトルに構造特異的な変化が認められ、(S)-(–)-リモネンおよびボルニルアセテートが最も顕著な変化を誘発したのに対し、β-ピネンおよびサビネンの影響は比較的軽微であった。階層的クラスター解析により、モノテルペン誘発応答を検出する上で最も識別性の高い時点は3時間後であることが特定された。遺伝子発現解析では、exoY、hrcS、ftsI、achI、およびncpAchの化合物特異的な調節が認められ、最も強い転写変化はα-ピネン、D-カルボン、および3-カレンに関連していた。総じて、抗菌活性、増殖動態、タンパク質スペクトルプロファイル、および遺伝子発現にわたって観察された不一致は、モノテルペンが単一のメカニズムで作用するのではなく、構造依存的な複数の作用様式を惹起することを示している。これらの知見は、植物代謝物と根圏細菌の相互作用に関する機序的な洞察を与えるとともに、生物防除システムにおける抗菌活性評価のための統合的アプローチの重要性を強調するものである。"
+  },
+  {
+    "id": "10.1093/bioinformatics/btag862",
+    "title": "ReactifpTM: an accessible reimplementation of actifpTM",
+    "abstract": "AbstractMotivationThe actual interface pTM score (actifpTM) is a modified version of the ipTM score that limits the calculation to only those residues at the interface. Whilst actifpTM provides an effective interface confidence score, a limiting factor is that it makes use of the predicted aligned error (PAE) with probabilities, information that is generated during a ColabFold run, but not output by the package or other model prediction software. The consequent inability to generate actifpTM scores for the results of software such as AlphaFold 2 or AlphaFold 3 has limited its adoption. With reactifpTM we address this problem by providing a standalone tool that can be run on the standard outputs of most model prediction packages.ResultsUsing the same underlying principles as actifpTM, reactifpTM has been developed to use standard output files from model prediction software (a model and corresponding PAE) to perform an actifpTM-like calculation.ColabFold models were generated for a dataset of 1078 known interfaces in the PDB. A strong correlation was shown between actifpTM and reactifpTM for this dataset.Availability and implementationreactifpTM is coded in Python. All scripts and associated documentation are available from https://github.com/hlasimpk/reactifptm or https://pypi.org/project/reactifptm.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag862",
+    "date": "2026-11-24",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag862/9122362?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5715,
+    "collected_at": "2026-11-26T09:41:35.790521+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1093/bioinformatics/btag862"
+    ],
+    "translation": {
+      "title": {
+        "hash": "880f9d7e3fbb26b3a76f7f6f33815b0328bf4b93502aa8b04efdd8db7c6e53bb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T10:09:01.240140+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "bffcf01711d5bc5805f413f3e61caeebe85d801e5f3f1cc0f32d4781a0ff4e81",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T10:09:01.240140+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ReactifpTM: actifpTMのアクセシブルな再実装",
+    "abstract_ja": "概要動機実際のインターフェースpTMスコア（actifpTM）は、計算対象をインターフェース上の残基のみに限定したipTMスコアの改良版である。actifpTMは有効なインターフェース信頼度スコアを提供する一方で、制約となる要因は、ColabFoldの実行中に生成されるがパッケージや他のモデル予測ソフトウェアからは出力されない情報である「確率付き予測アライメント誤差（PAE）」を利用している点にある。その結果、AlphaFold 2やAlphaFold 3などのソフトウェアの結果に対してactifpTMスコアを生成できず、普及が制限されてきた。reactifpTMでは、ほとんどのモデル予測パッケージの標準出力で実行可能なスタンドアロンツールを提供することで、この課題に対処する。結果actifpTMと同様の基本原理に基づき、reactifpTMはモデル予測ソフトウェアの標準出力ファイル（モデルおよび対応するPAE）を用いて、actifpTMと同様の計算を行うように開発された。PDBにある既知のインターフェース1,078件のデータセットに対してColabFoldモデルを生成した。このデータセットにおいて、actifpTMとreactifpTMの間には強い相関が認められた。利用可能性と実装reactifpTMはPythonで記述されている。すべてのスクリプトおよび関連ドキュメントは、https://github.com/hlasimpk/reactifptm または https://pypi.org/project/reactifptm から入手可能である。"
+  },
+  {
+    "id": "10.1111/1462-2920.70476",
+    "title": "Distance‐ and Direction‐Dependent Effects of Macroalgae on Early Epilithic Bacterial Assemblages and Coral Settlement Processes",
+    "abstract": "By conditioning tiles in situ, this study showed that macroalgae shape epilithic bacterial assemblages, with strong effects 1 cm downstream. Settlement of coral larvae coincided with distance‐ and flow‐dependent bacterial shifts and responded to specific bacterial taxa. Recruit survival was consistently reduced near and downstream of Dictyota bartayresiana. This study demonstrates how macroalgae can structure coral settlement at the centimetre‐scales, a process likely mediated by epilithic bacterial assemblages.\n\nABSTRACT\nWhile the expansion of macroalgae on coral reefs is a global concern, the spatial scales and mechanisms through which macroalgae inhibit coral recruitment processes and the role of epilithic bacteria in coral settlement remain inadequately understood. Using tiles preconditioned at three distances of two algal species in both up and down‐current directions, we show that macroalgae shape early epilithic bacterial assemblages, with strong effects 1 cm downstream of both algae. When exposing the tiles to larvae of two coral species in ex situ settlement experiments, the coral Acropora pulchra showed reduced larval settlement on cryptic surfaces of tiles conditioned 1 cm up and downstream of the alga Dictyota bartayresiana, whereas the coral Pocillopora acuta showed the opposite pattern. Specific bacterial taxa within the families Bdellovibrionaceae, Pirellulaceae, Flavobacteriaceae and Rhodobacteraceae were associated with P. acuta settlement with differences across algal species. When tiles with coral spat were returned to their initial positions on the reef, spat survival was consistently reduced closer to, and particularly 1 cm downstream of, D. bartayresiana. These results demonstrate that macroalgae influence coral settlement and post‐settlement survival at centimetre scales through distance‐ and flow‐dependent effects and indicate that these effects may be mediated by epilithic bacterial assemblages.\n\nBy conditioning tiles in situ, this study showed that macroalgae shape epilithic bacterial assemblages, with strong effects 1 cm downstream. Settlement of coral larvae coincided with distance- and flow-dependent bacterial shifts and responded to specific bacterial taxa. Recruit survival was consistently reduced near and downstream of Dictyota bartayresiana. This study demonstrates how macroalgae can structure coral settlement at the centimetre-scales, a process likely mediated by epilithic bacterial assemblages.\n\nABSTRACT\nWhile the expansion of macroalgae on coral reefs is a global concern, the spatial scales and mechanisms through which macroalgae inhibit coral recruitment processes and the role of epilithic bacteria in coral settlement remain inadequately understood. Using tiles preconditioned at three distances of two algal species in both up and down-current directions, we show that macroalgae shape early epilithic bacterial assemblages, with strong effects 1 cm downstream of both algae. When exposing the tiles to larvae of two coral species in ex situ settlement experiments, the coral Acropora pulchra showed reduced larval settlement on cryptic surfaces of tiles conditioned 1 cm up and downstream of the alga Dictyota bartayresiana, whereas the coral Pocillopora acuta showed the opposite pattern. Specific bacterial taxa within the families Bdellovibrionaceae, Pirellulaceae, Flavobacteriaceae and Rhodobacteraceae were associated with P. acuta settlement with differences across algal species. When tiles with coral spat were returned to their initial positions on the reef, spat survival was consistently reduced closer to, and particularly 1 cm downstream of, D. bartayresiana. These results demonstrate that macroalgae influence coral settlement and post-settlement survival at centimetre scales through distance- and flow-dependent effects and indicate that these effects may be mediated by epilithic bacterial assemblages.",
+    "journal": "Environmental Microbiology",
+    "doi": "10.1111/1462-2920.70476",
+    "date": "2026-11-25",
+    "authors": "Chloé Pozas‐Schacre, \nHugo Bischoff, \nCamille Clerissi, \nMaggy M. Nugues",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.70476?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://onlinelibrary.wiley.com/feed/14622920/most-recent",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5745,
+    "collected_at": "2026-11-26T09:41:35.790521+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://onlinelibrary.wiley.com/feed/14622920/most-recent"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1111/1462-2920.70476"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c76525e8c162b4150108d2648bd74d40cc1c8cdcc553a9b760d06c0f85f3ce7c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T10:09:01.240140+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "014c20843e573656c5fcf0e38478e5f4dead01434263c4d0cae568531d6a3e0a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T10:09:01.240140+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "大型藻類が初期岩上細菌群集およびサンゴ定着過程に及ぼす距離・方向依存的影響",
+    "abstract_ja": "本研究では、タイルを現地（in situ）で条件付けすることにより、大型藻類が岩上細菌群集を形成し、その影響が下流1 cmまで強く及ぶことを示した。サンゴ幼生の定着は、距離および流速に依存した細菌の移動と一致し、特定の細菌分類群に反応した。新加入個体の生存率は、Dictyota bartayresianaの近傍および下流において一貫して低下した。本研究は、大型藻類がセンチメートルスケールでサンゴの定着を構造化し得ること、およびこのプロセスが岩上細菌群集によって媒介されている可能性が高いことを実証している。\n\n要旨\nサンゴ礁における大型藻類の拡大は世界的な懸念事項であるが、大型藻類がサンゴの新加入プロセスを抑制する空間スケールとメカニズム、およびサンゴの定着における岩上細菌の役割については、依然として十分に解明されていない。上下両方向の2種の藻類を用いて3つの距離で事前条件付けしたタイルを用い、大型藻類が初期の岩上細菌群集を形成し、両藻類の下流1 cmまで強い影響を及ぼすことを示した。ex situ定着実験においてタイルを2種のサンゴ幼生に曝露させたところ、サンゴAcropora pulchraは、藻類Dictyota bartayresianaの上流および下流1 cmで条件付けられたタイルの隠蔽面において幼生の定着が低下したが、サンゴPocillopora acutaでは逆のパターンを示した。Bdellovibrionaceae科、Pirellulaceae科、Flavobacteriaceae科、およびRhodobacteraceae科の特定の細菌分類群はP. acutaの定着に関連していたが、その差異は藻類の種によって異なっていた。サンゴ幼生（spat）を含むタイルを礁上の初期位置に戻したところ、幼生の生存率はD. bartayresianaの近傍、特に下流1 cmにおいて一貫して低下した。これらの結果は、大型藻類が距離および流速に依存した影響を通じて、センチメートルスケールでサンゴの定着および定着後の生存に影響を及ぼすことを実証しており、これらの影響が岩上細菌群集によって媒介されている可能性を示唆している。\n\n本研究では、タイルを現地（in situ）で条件付けすることにより、大型藻類が岩上細菌群集を形成し、その影響が下流1 cmまで強く及ぶことを示した。サンゴ幼生の定着は、距離および流速に依存した細菌の移動と一致し、特定の細菌分類群に反応した。新加入個体の生存率は、Dictyota bartayresianaの近傍および下流において一貫して低下した。本研究は、大型藻類がセンチメートルスケールでサンゴの定着を構造化し得ること、およびこのプロセスが岩上細菌群集によって媒介されている可能性が高いことを実証している。\n\n要旨\nサンゴ礁における大型藻類の拡大は世界的な懸念事項であるが、大型藻類がサンゴの新加入プロセスを抑制する空間スケールとメカニズム、およびサンゴの定着における岩上細菌の役割については、依然として十分に解明されていない。上下両方向の2種の藻類を用いて3つの距離で事前条件付けしたタイルを用い、大型藻類が初期の岩上細菌群集を形成し、両藻類の下流1 cmまで強い影響を及ぼすことを示した。ex situ定着実験においてタイルを2種のサンゴ幼生に曝露させたところ、サンゴAcropora pulchraは、藻類Dictyota bartayresianaの上流および下流1 cmで条件付けられたタイルの隠蔽面において幼生の定着が低下したが、サンゴPocillopora acutaでは逆のパターンを示した。Bdellovibrionaceae科、Pirellulaceae科、Flavobacteriaceae科、およびRhodobacteraceae科の特定の細菌分類群はP. acutaの定着に関連していたが、その差異は藻類の種によって異なっていた。サンゴ幼生（spat）を含むタイルを礁上の初期位置に戻したところ、幼生の生存率はD. bartayresianaの近傍、特に下流1 cmにおいて一貫して低下した。これらの結果は、大型藻類が距離および流速に依存した影響を通じて、センチメートルスケールでサンゴの定着および定着後の生存に影響を及ぼすことを実証しており、これらの影響が岩上細菌群集によって媒介されている可能性を示唆している。"
+  },
+  {
+    "id": "10.3389/fmars.2026.2011555",
+    "title": "Microbe-mineral interactions drive the geochemical and microbial divergence of fast-growing ferromanganese nodules in the Baltic Sea",
+    "abstract": "Ferromanganese (Fe-Mn) nodules in the Baltic Sea grow up to three orders of magnitude faster than their deep-sea counterparts, providing a unique natural laboratory for studying microbe-mineral interactions in ore genesis on human historical timescales. Using an integrated geochemical (ICP-MS/AES), mineralogical (XRD, 57Fe Mössbauer spectroscopy), molecular ecological and genomic analysis (16S rRNA sequencing) of paired nodule-sediment samples from the eastern Gulf of Finland, we demonstrate that microbial communities are not passive inhabitants but active contributors to nodule formation and mineral transformation. Two distinct nodule types were analyzed: Mn-rich (up to 21% Mn, Mn/Fe = 1.26-4.46), dominated by birnessite, and Fe-rich (up to 29% Fe, Mn/Fe = 0.05-0.38), composed of ferrihydrite, feroxyhyte, and goethite. Microtextural analysis (SEM-EDS) reveals abundant microfossils and biofilm-like structures with extracellular polymeric matrix and clear elemental partitioning (Fe in Fe-rich vs. Mn in Mn-rich microfossils) indicative of active in situ biomineralization processes within the nodules. The two nodule types contain distinct microbiomes, with some taxa shared between them. Mn-rich nodules host more unique phylotypes and are enriched in potential Mn-oxidizing prokaryotes (Nitrospiraceae and Hyphomicrobiaceae families), whose abundance correlates with Mn and Cu content. In contrast, Fe-rich nodules are dominated by the SAR324 clade and EET-capable phylotypes correlating with Fe and P. The sediment microbial population serves as the primary source for nodule microbial communities and undergoes a metabolic switch upon incorporation into the nodules. In Mn-rich nodules, this switch promotes Mn-oxidizing pathways, while in Fe-rich ones it favors EET-driven Fe(III) reduction. We propose a synergetic model where abiotic oxygen-driven metal oxidation and biotic enzymatic pathways are differentially balanced within each nodule type, ultimately determining metal accumulation. This study positions Baltic Fe-Mn nodules as a valuable reference point for understanding biogeochemical cycles in marine mineral systems and underscores the need to integrate microbiological data into genetic models of both shallow-water and deep-sea ore formation.",
+    "journal": "Frontiers in Marine Science",
+    "doi": "10.3389/fmars.2026.2011555",
+    "date": "2026-11-26",
+    "authors": "Sergey Gavrilov",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmars.2026.2011555",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "microbe",
+        "microbial",
+        "microbiological",
+        "microbiome",
+        "microbiomes",
+        "prokaryote"
+      ],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/marine-science/rss",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5738,
+    "collected_at": "2026-11-26T09:41:35.790521+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.frontiersin.org/journals/marine-science/rss"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.3389/fmars.2026.2011555"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f56ca64d1ecc98558f00ceee4334ea66576f88c9b3d5dfceaee538cc6d05c8c2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T10:09:01.240140+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "461296e9794e08e437c7044b47aa520cd880ca73c024846d9123d4fb61503ec0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T10:09:01.240140+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "微生物－鉱物相互作用がバルト海における成長速度の速いフェロマンガン団塊の地球化学的・微生物学的分化を駆動する",
+    "abstract_ja": "バルト海の鉄マンガン（Fe-Mn）団塊は、深海の団塊に比べて最大3桁速く成長し、人類の歴史規模における鉱床生成過程における微生物と鉱物の相互作用を研究するための、類まれな天然の実験場となっている。フィンランド湾東部の団塊と堆積物のペア試料を用い、統合的な地球化学的分析（ICP-MS/AES）、鉱物学的分析（XRD、57Feメスバウアー分光法）、および分子生態学的・ゲノム解析（16S rRNAシーケンシング）を行った結果、微生物群集は受動的な居住者ではなく、団塊形成と鉱物変成に能動的に寄与する存在であることが示された。分析対象としたのは、ビルネサイトが主体となるMn富化型（最大21% Mn、Mn/Fe = 1.26-4.46）と、フェリハイドライト、フェロキサイト、ゲータイトからなるFe富化型（最大29% Fe、Mn/Fe = 0.05-0.38）という2つの異なる団塊タイプである。微小組織解析（SEM-EDS）により、豊富な微化石と、細胞外高分子マトリックスおよび明確な元素分配（Fe富化型微化石中のFeとMn富化型微化石中のMn）を伴うバイオフィルム様構造が明らかになり、これは団塊内部で能動的なin situ生物鉱物化プロセスが進行していることを示している。これら2つの団塊タイプはそれぞれ異なる微生物叢を有しており、一部の分類群は共通している。Mn富化型団塊にはより特異的な系統型が存在し、潜在的なMn酸化能を持つ原核生物（Nitrospiraceae科およびHyphomicrobiaceae科）が豊富に含まれており、その存在量はMnおよびCu含有量と相関している。対照的に、Fe富化型団塊ではSAR324クレードおよびFeおよびPと相関するEET能を有する系統型が主体となっている。堆積物微生物集団は団塊微生物群集の主要な供給源として機能し、団塊に取り込まれる際に代謝スイッチを起こす。Mn富化型団塊ではこのスイッチがMn酸化経路を促進する一方、Fe富化型団塊ではEET駆動型のFe(III)還元が優先される。我々は、非生物的な酸素駆動型金属酸化と生物的な酵素経路が各団塊タイプ内で異なるバランスで機能し、最終的に金属蓄積を決定づけるという相乗的モデルを提案する。本研究は、バルト海のFe-Mn団塊を海洋鉱物系における生物地球化学的サイクルを理解するための貴重な参照点として位置づけるとともに、浅海および深海の両方の鉱床形成に関する遺伝モデルに微生物学的データを統合する必要性を強調するものである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1985110",
+    "title": "Joint effects of spatial scale and environmental factors on the assembly mechanisms of ectomycorrhizal fungal communities in subalpine meadow herbaceous plants",
+    "abstract": "BackgroundEctomycorrhizae (ECM) play a crucial role in maintaining plant community stability and nutrient cycling. Previous studies have primarily focused on woody plants, with relatively little attention paid to ECM in herbaceous plants. The subalpine meadows of Inner Mongolia are located in the arid-semiarid transition zone and have a fragile ecological environment.MethodsTherefore, this study investigated ectomycorrhizal fungi (EMF) associated with herbaceous plants in six typical subalpine sites in this region. By integrating morphological observations, high-throughput sequencing, and network analysis, we systematically examined the diversity, community distribution patterns, and assembly mechanisms of herbaceous plant EMF.ResultsA total of 28 ECM morphological types were identified, dominated by carotenoid-like and filamentous forms, with the dominant clades being /tomentella-thelephora and /sebacina. Annual mean temperature, available phosphorus, and ammonium nitrogen were identified as key limiting factors. The community exhibited significant geographical clustering (R2 = 0.307) and highly significant distance decay (p < 0.001). At the local scale, heterogeneous selection prevailed in complex habitats, whereas ecological drift dominated in homogeneous environments. Environmental heterogeneity altered the topology of co-occurrence networks, leading to geographic replacement of keystone species; SEM analysis revealed that geographic climate indirectly regulated communities through soil, while co-occurrence network complexity was strongly associated with diversity.ConclusionThis study elucidates the distribution patterns and underlying mechanisms of the EMF of subalpine herbaceous plants in Inner Mongolia, providing a basis for regional biodiversity conservation and vegetation restoration.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1985110",
+    "date": "2026-11-26",
+    "authors": "Yongjun Fan",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1985110",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungal",
+        "fungi"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5723,
+    "collected_at": "2026-11-26T09:41:35.790521+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.3389/fmicb.2026.1985110"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8b93aa69f3e9637ee848c73c74d5f3994c755dc6b5aec295a9004588ebb86871",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T10:09:01.240140+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a7a277ff70d3fc1f32565fa28ff5395d880501ac4e4d82c311820f5379abe238",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T10:09:01.240140+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "亜高山帯草原草本における外生菌根菌群集の形成機構に及ぼす空間スケールと環境要因の複合的影響",
+    "abstract_ja": "背景外生菌根（ECM）は、植物群落の安定性と栄養循環の維持において極めて重要な役割を果たしている。これまでの研究は主に木本植物を対象としており、草本植物におけるECMへの注目は比較的少なかった。内モンゴルの亜高山帯草原は、乾燥・半乾燥移行帯に位置し、脆弱な生態環境を有している。方法したがって、本研究では、同地域の代表的な6つの亜高山帯地点において、草本植物に関連する外生菌根菌（EMF）を調査した。形態学的観察、ハイスループットシーケンシング、およびネットワーク解析を統合することで、草本植物EMFの多様性、群落分布パターン、およびアセンブリ機構を系統的に検討した。結果計28種類のECM形態型が同定され、カロテノイド様形態および糸状形態が優勢であり、主要なクレードは/tomentella-thelephoraおよび/sebacinaであった。年平均気温、可給態リン、およびアンモニウム窒素が主要な制限要因として同定された。群落は顕著な地理的クラスター形成（R2 = 0.307）と、極めて有意な距離減衰（p < 0.001）を示した。局所スケールでは、複雑な生息地において不均一な選択が支配的であった一方、均質な環境では生態学的ドリフトが支配的であった。環境の不均一性は共起ネットワークのトポロジーを変化させ、キーストーン種の地理的置換をもたらした。SEM解析により、地理的気候が土壌を介して間接的に群落を調節していることが明らかになり、共起ネットワークの複雑性は多様性と強く関連していた。結論本研究は、内モンゴルの亜高山帯草本植物におけるEMFの分布パターンとその根底にあるメカニズムを解明し、地域の生物多様性保全および植生復元の基礎を提供するものである。"
   }
 ]
