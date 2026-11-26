@@ -335394,5 +335394,300 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "キュウリのうどんこ病感染に対する葉圏微生物叢および葉メタボロームの応答",
     "abstract_ja": "背景\n                     うどんこ病は葉の生息環境を変化させる一方で、病害の重症度、処理、およびサンプリング時期は連動して変化する。このような共分散により、微生物と代謝物の関係を、感染に対する協調的な応答から区別することは困難である。本研究では、Podosphaera xanthiiを接種したキュウリ（Cucumis sativus）を対象に、21日間の細菌16S rRNA遺伝子サーベイと非標的型葉メタボロミクスを統合し、因子解析、組成考慮型解析、交差検証、および共変量感度解析を用いて、観察されたパターンの頑健性を評価した。\n                  \n                     結果\n                     うどんこ病は葉圏細菌群集の組成を変化させた。全因子Bray-Curtis PERMANOVAにおいて、葉の処理効果は変動の4.62%を説明し（P = 0.0062）、処理と時期の交互作用は7.99%を説明した（P = 0.0255）。土壌処理の主効果は有意ではなかった（R2 = 3.82%, P = 0.0872）。MaAsLin3により、感染葉においてSphingomonas、Methylobacterium-Methylorubrum、Pseudomonas、およびMycobacteriumの相対存在量が高いことが同定された。CLRおよびANCOM-BC2感度解析は、主要な処理間の対比の方向性を支持したが、絶対的な濃縮までは立証されなかった。OPLS-DAによる処理別葉メタボローム解析（R2Y = 0.976, Q2 = 0.854; Q2の1,000-permutation P = 0.001）では、アルファリノレン酸およびブタノ酸経路の処理効果が有意に維持された。属ベースのランダムフォレストによる病害指数の推定値は、反復入れ子型CVにおいて全サンプルでR2 = 0.694であったが、感染個体内では性能が低下した（R2 = 0.397）。元の病害指数調整済み相関ではMethylobacteriumがアルファリノレン酸およびブタノ酸代謝と関連していたが、これらの関係は処理調整後や感染個体内では有意ではなかった。\n                  \n                     結論\n                     うどんこ病は、キュウリの葉圏微生物叢および葉メタボロームにおける協調的な時間的変化と関連していた。相対存在量および経路処理のシグナルは複数の感度解析において一貫していたが、微生物と経路の相関は主に処理の対比によって規定されていた。したがって、相関および機械学習の結果は、仮説の優先順位付けに用いるべきであり、病害に依存しない微生物機能を推論するために用いるべきではない。"
+  },
+  {
+    "id": "10.1093/femsyr/foag065",
+    "title": "Pantothenic acid deficiency induces strain-specific physiological adaptation in the wine yeasts Lachancea spp.",
+    "abstract": "AbstractPantothenic acid (PA; vitamin B5) is the precursor of Coenzyme A (CoA). Although this cofactor plays a critical role in metabolism, wine yeast requirement for PA is poorly understood, particularly in non-Saccharomyces yeasts, including the commercially relevant yeast genus Lachancea. This study aimed to investigate the PA requirement of Lachancea spp. and the impact of a deficiency on their physiology. Screening of 20 strains showed that most strains displayed impaired growth when inoculated in a medium devoid of PA. The data revealed differences in strains’ requirements for PA and intracellular CoA to sustain optimal development. Indeed, the most sensitive strains to PA deficiency were also those consuming the most exogenous PA and containing the highest intracellular CoA concentration. Deficiency in this vitamin also impacted cells morphology with smaller cells and cell aggregation, as well as an altered metabolic profile. This study contributes to the general knowledge on the PA requirement of one of the main winemaking yeast genus, Lachancea, the consequences on their physiology, and the potential impact on wine chemical composition.",
+    "journal": "FEMS Yeast Research",
+    "doi": "10.1093/femsyr/foag065",
+    "date": "2026-11-25",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/femsyr/advance-article/doi/10.1093/femsyr/foag065/9122385?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Saccharomyces",
+        "yeast",
+        "yeasts"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5387/advanceAccess_3248.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5654,
+    "collected_at": "2026-11-26T00:30:40.165307+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://academic.oup.com/rss/site_5387/advanceAccess_3248.xml"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1093/femsyr/foag065"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f566162c5d931fc4a00e6e505d853fca3991dfd1dbd67460a8fb1b450884ea3d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T00:52:25.887734+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2a2e79ef8afc80aca8c44747017a9e6d0a5b15e67e69be791b9c5649c07ece38",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T00:52:25.887734+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "パントテン酸欠乏は、ワイン酵母Lachancea属において菌株特異的な生理的適応を誘導する。",
+    "abstract_ja": "要旨パントテン酸（PA；ビタミンB5）は、コエンザイムA（CoA）の前駆体である。この補因子は代謝において極めて重要な役割を果たすが、ワイン酵母におけるPA要求性については、特に商業的に重要な酵母属であるLachanceaを含む非サッカロマイセス属酵母において十分に解明されていない。本研究では、Lachancea属のPA要求性と、欠乏が細胞生理学に及ぼす影響を調査することを目的とした。20株を対象としたスクリーニングの結果、ほとんどの株がPAを欠く培地に接種されると生育障害を示すことが明らかになった。データからは、最適な発育を維持するためのPAおよび細胞内CoAに対する要求性が株によって異なることが示された。実際、PA欠乏に対して最も感受性の高い株は、外因性PAの消費量が最も多く、かつ細胞内CoA濃度が最も高い株であった。このビタミンの欠乏は、細胞形態に影響を及ぼし、細胞の小型化や凝集を引き起こしたほか、代謝プロファイルの変化ももたらした。本研究は、主要なワイン醸造酵母属の一つであるLachanceaのPA要求性、その生理学的帰結、およびワインの化学組成に及ぼし得る影響に関する知見に寄与するものである。"
+  },
+  {
+    "id": "10.3389/fmars.2026.1984103",
+    "title": "Bacterial isolates, microbiome structure and host pathology during a mass mortality event in Arca noae from the Ebro Delta (Northwestern Mediterranean Sea, Spain)",
+    "abstract": "Mass mortality events affecting marine bivalves can have important ecological and socioeconomic consequences, yet their underlying causes often remain poorly understood. The Noah’s ark shell (Arca noae) is an ecologically and commercially valuable Mediterranean bivalve, and in July 2022, approximately 90% of individuals in natural populations from the Ebro Delta (northwestern Mediterranean Sea) were affected by a severe mortality event. To investigate potential factors contributing to this event, a mortality-affected site was compared with a nearby site where no mortality was observed, integrating environmental, microbiological, histopathological, and experimental evidence. A total of 166 bacterial isolates were recovered, with Acinetobacter johnsonii and Enterobacter sp. exclusively detected in samples from the mortality-affected site. Experimental challenges with one representative isolate of each bacterial taxon showed that both isolates significantly reduced host survival, resulting in cumulative mortalities of 81–85%, compared with 26% in controls, indicating their potential to contribute to host mortality under the experimental conditions tested. Samples from the mortality-affected site showed marked differences in microbiome composition, including reduced alpha diversity and differences in community structure, together with higher relative abundances of Acinetobacter, Enterobacter, and Stenotrophomonas. Histopathological examination revealed more severe lesions in the digestive gland and gills, including hemocytic infiltration, epithelial sloughing, and necrosis. Environmental analyses revealed significant differences in temperature, salinity, dissolved oxygen, and chlorophyll-a between sites, suggesting that environmental conditions may have contributed to host susceptibility. Together, these findings support a multifactorial mortality scenario in which environmental conditions, host alterations, and differences in the microbiome may have interacted to contribute to mortality in A. noae. This integrated evidence highlights the complexity of mortality events in this species and provides a basis for future surveillance and health management of natural populations.",
+    "journal": "Frontiers in Marine Science",
+    "doi": "10.3389/fmars.2026.1984103",
+    "date": "2026-11-25",
+    "authors": "Dolors Furones",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmars.2026.1984103",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "microbiological",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/marine-science/rss",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5634,
+    "collected_at": "2026-11-25T15:46:29.923395+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.frontiersin.org/journals/marine-science/rss"
+    ],
+    "first_seen": "2026-11-25",
+    "related_dois": [
+      "10.3389/fmars.2026.1984103"
+    ],
+    "translation": {
+      "title": {
+        "hash": "78379b852be0a08f10dcc7f6e690558b2348278aeea0236d2b4090fa00312c61",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T00:52:25.887734+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e261e7f2392e1e9e149f1f42407bb586202b10ebc09e56a7ca67eacbc743ee50",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T00:52:25.887734+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "エブロ川デルタ（スペイン・地中海北西部）におけるArca noaeの大量死発生時の細菌分離株、マイクロバイオーム構造および宿主病理",
+    "abstract_ja": "海洋二枚貝に影響を及ぼす大量死事象は、生態学的および社会経済的な重大な影響を及ぼす可能性があるが、その根本的な原因は依然として十分に解明されていないことが多い。ノアの方舟貝（Arca noae）は生態学的および商業的に価値の高い地中海産二枚貝であり、2022年7月には、エブロデルタ（地中海北西部）の自然個体群の約90%が深刻な大量死事象の影響を受けた。この事象に寄与した可能性のある要因を調査するため、環境、微生物学的、組織病理学的、および実験的な証拠を統合し、大量死の影響を受けた地点と死亡が観察されなかった近隣の地点を比較した。計166株の細菌分離株が回収され、大量死の影響を受けた地点のサンプルからはAcinetobacter johnsoniiおよびEnterobacter sp.のみが検出された。各細菌分類群の代表的な分離株1株を用いた実験的検証により、両分離株ともに宿主の生存率を有意に低下させ、対照群の26%に対し、累積死亡率が81～85%に達したことが示された。これは、試験した実験条件下において宿主の死亡に寄与し得る可能性を示唆している。大量死の影響を受けた地点のサンプルでは、アルファ多様性の低下や群集構造の相違を含むマイクロバイオーム組成の顕著な差異が認められ、併せてAcinetobacter、Enterobacter、およびStenotrophomonasの相対存在量の増加が認められた。組織病理学的検査では、血球浸潤、上皮剥離、および壊死を含む、消化腺および鰓におけるより重度の病変が認められた。環境解析の結果、地点間で温度、塩分濃度、溶存酸素、およびクロロフィルaに有意な差が認められ、環境条件が宿主の感受性に寄与した可能性が示唆された。これらの知見を総合すると、環境条件、宿主の変化、およびマイクロバイオームの相違が相互に作用してA. noaeの死亡に寄与したという多因子的な死亡シナリオが支持される。この統合的な証拠は、本種における大量死事象の複雑さを浮き彫りにし、自然個体群の今後のモニタリングおよび衛生管理の基礎となるものである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.2002737",
+    "title": "Distinct assembly processes and driving factors of abundant and rare microbial communities in karst spring sediments",
+    "abstract": "Karst springs are critical freshwater resources and hydrological interfaces linking groundwater, surface water, and bedrock environments, with their sediments supporting diverse microbial communities. However, the ecological differentiation and assembly mechanisms of abundant and rare microbial taxa in karst spring sediments remain poorly understood. Here, we collected spring sediment samples from the Baiyi Basin, southwestern China, to characterize abundant and rare bacterial and fungal communities and identify the ecological processes and environmental and spatial factors structuring their assembly. Using high-throughput sequencing combined with statistical analyses, we compared their distribution patterns and quantified the relative contributions of community assembly processes and associated environmental and spatial drivers. The results showed that rare bacterial and fungal communities had higher within-sample diversity, whereas abundant communities displayed stronger spatial structuring of β-diversity and steeper distance–decay relationships. Both abundant and rare bacterial and fungal communities were primarily shaped by environmental rather than spatial variables, with abundant taxa exhibiting higher explained variation. Assembly of abundant bacteria and fungi was predominantly stochastic, whereas rare taxa were shaped mainly by deterministic processes. Specifically, dispersal limitation dominated abundant bacterial and fungal assembly. Rare bacterial assembly was dominated by homogeneous selection, whereas rare fungal assembly reflected the joint effects of heterogeneous selection and dispersal limitation. Geographic distance was the strongest predictor of both abundant and rare bacterial community assembly. With increasing geographic distance, abundant bacterial assembly shifted from stochastic processes to heterogeneous selection, whereas rare bacteria shifted from homogeneous selection to stochastic processes. Both abundant and rare fungal assemblages were most affected by TP differences, with both shifting from stochastic processes to heterogeneous selection as TP differences increased. Together, these results demonstrate that abundant and rare microbial taxa in karst spring sediments are governed by contrasting assembly mechanisms and exhibit distinct sensitivities to spatial and environmental heterogeneity.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.2002737",
+    "date": "2026-11-25",
+    "authors": "En-Min Zhou",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.2002737",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "fungal",
+        "fungi",
+        "microbial"
+      ],
+      "context": {
+        "marine": [
+          "freshwater"
+        ],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5614,
+    "collected_at": "2026-11-25T15:46:29.923395+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-25",
+    "related_dois": [
+      "10.3389/fmicb.2026.2002737"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d83148ab2bd7bd3396631da7d1bdcc0907b7229ecc221bed3e4b6e67892c3353",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T00:52:25.887734+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3fbacbb6c3b5d64c8594efa17fa5ba42ecd7a1e7a52441641aafc9c1a207402a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T00:52:25.887734+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "カルスト湧水堆積物における豊富および希少な微生物群集の特異な集合過程と駆動要因",
+    "abstract_ja": "カルスト湧水は、地下水、地表水、および基盤岩環境を結ぶ極めて重要な淡水資源および水文学的界面であり、その堆積物は多様な微生物群集を支えている。しかし、カルスト湧水堆積物における豊富に存在する微生物分類群と希少微生物分類群の生態学的分化および集合機構については、依然として十分に解明されていない。本研究では、中国南西部の白夷盆地から湧水堆積物の試料を採取し、豊富に存在する細菌および真菌群集の特性を明らかにするとともに、それらの集合を構造化する生態学的プロセスならびに環境的・空間的要因を同定した。ハイスループットシーケンシングと統計解析を組み合わせることで、これらの分布パターンを比較し、群集集合プロセスとそれに関連する環境的・空間的駆動要因の相対的な寄与度を定量化した。その結果、希少細菌および真菌群集は試料内多様性が高い一方、豊富に存在する群集はβ多様性の空間的構造化がより強く、距離－減衰関係がより急峻であることが示された。豊富に存在する細菌および真菌群集は、空間的変数よりも主に環境的変数によって形成されており、豊富に存在する分類群の方が説明変動が高かった。豊富に存在する細菌および真菌の集合は主に確率的であったのに対し、希少分類群は主に決定論的プロセスによって形成されていた。具体的には、豊富に存在する細菌および真菌の集合では分散制限が支配的であった。希少細菌の集合は均質選択が支配的であった一方、希少真菌の集合は不均質選択と分散制限の複合的な影響を反映していた。地理的距離は、豊富に存在する細菌群集と希少細菌群集の双方の集合において最も強力な予測因子であった。地理的距離が増すにつれて、豊富に存在する細菌の集合は確率的プロセスから不均質選択へと移行し、一方で希少細菌は均質選択から確率的プロセスへと移行した。豊富に存在する真菌および希少真菌の集合はいずれもTP差の影響を最も強く受けており、TP差の増加に伴い、双方とも確率的プロセスから不均質選択へと移行した。以上の結果を総合すると、カルスト湧水堆積物における豊富に存在する微生物分類群と希少微生物分類群は、対照的な集合機構によって支配されており、空間的および環境的な不均質性に対して異なる感受性を示すことが明らかになった。"
+  },
+  {
+    "id": "10.1186/s13059-026-04318-1",
+    "title": "Evaluating metagenomic analyses for undercharacterized environments",
+    "abstract": "Background\n                     Non-human-associated microbial communities play important biological roles, but they remain less understood than human-associated communities. Environmental samples from soil, ocean, and other ecosystems often contain 70% to 90% uncharacterized species, representing considerable uncharacterized microbial diversity. Here, we assess the impact of key environmental sample properties, including sequencing depth, species diversity, and the proportion of uncharacterized taxa, on a variety of state-of-the-art metagenomic analysis methods.\n                  \n                     Results\n                     We evaluate reference-based methods, including Centrifuge, Kraken 2/Bracken 2, MetaPhlAn 2/3/4, mOTUs3, and Metaxa2, and assembly-based methods, including MEGAHIT and metaSPAdes with MetaBAT binning, on 300 simulated taxonomic profiles and 348 real environmental samples from diverse ecosystems. In simulated datasets, all methods perform similarly at high taxonomic ranks, but newer marker-based methods incorporating metagenome-assembled genomes outperform others at lower taxonomic levels. Assembly-based methods require sequencing depth of at least 7.5 gigabase pairs and struggle with high-diversity communities. In real environmental data, taxonomic profiles assigned to the same sample by different methods show little agreement at lower taxonomic levels, but the methods agree better on community beta diversity estimates and on estimates of the relationships between environmental parameters and individual microbial features.\n                  \n                     Conclusions\n                     We conclude that the choice of taxonomic profiler depends on several factors, including the diversity and characterization of the underlying metagenomes, sequencing depth, and the biological question of interest. We recommend using multiple complementary approaches for comprehensive environmental microbiome analysis.",
+    "journal": "Genome Biology",
+    "doi": "10.1186/s13059-026-04318-1",
+    "date": "2026-11-25",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s13059-026-04318-1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenome",
+        "metagenome-assembled genome",
+        "metagenomes",
+        "metagenomic",
+        "microbial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [
+          "ocean"
+        ],
+        "genomics": [
+          "assembly",
+          "binning",
+          "genom",
+          "genome",
+          "metagenom",
+          "metagenome",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=13059",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5647,
+    "collected_at": "2026-11-25T15:46:29.923395+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=13059"
+    ],
+    "first_seen": "2026-11-25",
+    "related_dois": [
+      "10.1186/s13059-026-04318-1"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3df374197161d96d3df37c53bf4e199d90249e0ebf98a5c45c2e49d3c29783ce",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T00:52:25.887734+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "350aa3ecb307ceca0e7ed7ebda11741513b7ef59da1e03d8173930a350a61e94",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T00:52:25.887734+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "特性評価が不十分な環境におけるメタゲノム解析の評価",
+    "abstract_ja": "背景\n                     ヒト関連以外の微生物群集は重要な生物学的役割を担っているが、ヒト関連の群集に比べると十分に解明されていない。土壌、海洋、その他の生態系の環境試料には、70%～90%の未特性化種が含まれていることが多く、相当量の未特性化微生物多様性が存在する。本稿では、シーケンシング深度、種多様性、未特性化分類群の割合を含む主要な環境試料特性が、さまざまな最先端のメタゲノム解析手法に与える影響を評価する。\n                  \n                     結果\n                     Centrifuge、Kraken 2/Bracken 2、MetaPhlAn 2/3/4、mOTUs3、Metaxa2などのリファレンスベースの手法と、MEGAHITおよびMetaBATビンニングを用いたmetaSPAdesなどのアセンブリベースの手法を、多様な生態系から得られた300個のシミュレーション分類プロファイルと348個の実際の環境試料で評価した。シミュレーションデータセットでは、すべての手法が高分類ランクにおいて同様の性能を示したが、メタゲノムアセンブルゲノムを組み込んだ新しいマーカーベースの手法は、より低い分類レベルにおいて他の手法を上回る性能を示した。アセンブリベースの手法は少なくとも7.5ギガベース対のシーケンシング深度を必要とし、高多様性群集の解析に苦戦する。実際の環境データでは、異なる手法で同じ試料に割り当てられた分類プロファイルは、低い分類レベルではほとんど一致しなかったが、群集ベータ多様性の推定値や、環境パラメータと個々の微生物特徴との関係の推定値については、手法間の一致度が高かった。\n                  \n                     結論\n                     分類プロファイラーの選択は、基盤となるメタゲノムの多様性と特性解析、シーケンシング深度、および関心のある生物学的問いなど、いくつかの要因に依存すると結論付ける。包括的な環境マイクロバイオーム解析には、複数の相補的なアプローチを用いることを推奨する。"
   }
 ]
