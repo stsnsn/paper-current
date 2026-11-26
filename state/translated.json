@@ -335689,5 +335689,297 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "特性評価が不十分な環境におけるメタゲノム解析の評価",
     "abstract_ja": "背景\n                     ヒト関連以外の微生物群集は重要な生物学的役割を担っているが、ヒト関連の群集に比べると十分に解明されていない。土壌、海洋、その他の生態系の環境試料には、70%～90%の未特性化種が含まれていることが多く、相当量の未特性化微生物多様性が存在する。本稿では、シーケンシング深度、種多様性、未特性化分類群の割合を含む主要な環境試料特性が、さまざまな最先端のメタゲノム解析手法に与える影響を評価する。\n                  \n                     結果\n                     Centrifuge、Kraken 2/Bracken 2、MetaPhlAn 2/3/4、mOTUs3、Metaxa2などのリファレンスベースの手法と、MEGAHITおよびMetaBATビンニングを用いたmetaSPAdesなどのアセンブリベースの手法を、多様な生態系から得られた300個のシミュレーション分類プロファイルと348個の実際の環境試料で評価した。シミュレーションデータセットでは、すべての手法が高分類ランクにおいて同様の性能を示したが、メタゲノムアセンブルゲノムを組み込んだ新しいマーカーベースの手法は、より低い分類レベルにおいて他の手法を上回る性能を示した。アセンブリベースの手法は少なくとも7.5ギガベース対のシーケンシング深度を必要とし、高多様性群集の解析に苦戦する。実際の環境データでは、異なる手法で同じ試料に割り当てられた分類プロファイルは、低い分類レベルではほとんど一致しなかったが、群集ベータ多様性の推定値や、環境パラメータと個々の微生物特徴との関係の推定値については、手法間の一致度が高かった。\n                  \n                     結論\n                     分類プロファイラーの選択は、基盤となるメタゲノムの多様性と特性解析、シーケンシング深度、および関心のある生物学的問いなど、いくつかの要因に依存すると結論付ける。包括的な環境マイクロバイオーム解析には、複数の相補的なアプローチを用いることを推奨する。"
+  },
+  {
+    "id": "10.3389/fmars.2026.1981790",
+    "title": "Temporal association of the diatom Actinocyclus cf. subtilis with the late phase of Ostreopsis blooms in Mediterranean coastal communities",
+    "abstract": "The toxigenic marine dinoflagellate Ostreopsis cf. ovata and accompanying periphytic diatoms were studied over two annual cycles on a reef platform at Llavaneres, Catalonia, Spain. In each year, as the Ostreopsis bloom peaked, a large centric diatom began to appear and became dominant as the Ostreopsis declined. Previous records at Llavaneres and elsewhere along Catalan and Mediterranean coast, and also on the Atlantic coast of the Basque country, similarly document a temporal association between the later phases of Ostreopsis blooms and the abundance of a large centric diatom. The diatom at Llavaneres and at Donostia was identified as Actinocyclus cf. subtilis and examination of historical materials revealed close agreement between the Llavaneres specimens and some of the earliest records of A. subtilis, in brown mucilaginous growths on rocks in the UK. Elsewhere, large centric diatoms associated with Ostreopsis in the benthos have sometimes been identified as the planktonic genus Coscinodiscus, but this may be because the pseudonodulus characteristic of Actinocyclus cannot be detected in living or uncleaned cells. The association between Ostreopsis and Actinocyclus is often physically close, with healthy Actinocyclus growing alongside Ostreopsis in a common mucilaginous matrix. Our findings are significant in (1) demonstrating an in situ shift in dominance from Ostreopsis to Actinocyclus at a number of Mediterranean and NE Atlantic sites, consistent with (2) a possible tolerance of Actinocyclus to any allelochemicals produced by Ostreopsis; (3) providing clear documentation of A.cf. subtilis, including recognition of living cells, LM and SEM characterization, and an rbcL based phylogeny; and (4) highlighting a temporal association that suggests Actinocyclus could be explored further as a potential indicator of Ostreopsis bloom decline.",
+    "journal": "Frontiers in Marine Science",
+    "doi": "10.3389/fmars.2026.1981790",
+    "date": "2026-11-25",
+    "authors": "Rosa Trobajo",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmars.2026.1981790",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Diatom",
+        "Diatoms",
+        "diatom",
+        "dinoflagellate"
+      ],
+      "context": {
+        "marine": [
+          "marine",
+          "plankton"
+        ],
+        "genomics": [
+          "phylogen",
+          "phylogeny"
+        ],
+        "evolution": [
+          "phylogeny"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/marine-science/rss",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5635,
+    "collected_at": "2026-11-25T15:46:29.923395+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.frontiersin.org/journals/marine-science/rss"
+    ],
+    "first_seen": "2026-11-25",
+    "related_dois": [
+      "10.3389/fmars.2026.1981790"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3b06d52a923b6972617f2257bd78e87be301202a5a3a890cec81864df287cf38",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T00:55:56.327568+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f9f02e56a7590d031934363096233aa76e9ca768e9198f8432bf7a8977279c5f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T00:55:56.327568+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "地中海沿岸群集における珪藻 Actinocyclus cf. subtilis と Ostreopsis ブルーム後期との時間的関連性",
+    "abstract_ja": "スペイン・カタルーニャ州リャバネレスの礁プラットフォームにおいて、毒素産生性海洋渦鞭毛藻Ostreopsis cf. ovataおよびそれに随伴する周生珪藻を、2年間のサイクルにわたって調査した。毎年、Ostreopsisのブルームがピークに達すると、大型の中心珪藻が出現し始め、Ostreopsisの衰退に伴い優占するようになった。リャバネレスおよびカタルーニャ・地中海沿岸の他地域、ならびにバスク地方の大西洋沿岸における先行記録においても、同様にOstreopsisブルームの後期相と大型中心珪藻の存在量との間に時間的関連性が認められている。リャバネレスおよびドノスティアの珪藻はActinocyclus cf. subtilisと同定され、過去の資料を精査した結果、リャバネレスの標本と、英国の岩石上の褐色の粘液状増殖体として記録されたA. subtilisの最初期の記録の一部との間に密接な一致が見られた。その他の地域では、底生域でOstreopsisに随伴する大型中心珪藻が、プランクトン性の属であるCoscinodiscusと同定されることがあるが、これはActinocyclusに特徴的な擬結節が、生きた細胞や未洗浄の細胞では検出できないためである可能性がある。OstreopsisとActinocyclusの共存関係は物理的に近接していることが多く、健全なActinocyclusが共通の粘液状マトリックスの中でOstreopsisと並んで生育している。本研究の知見は、(1) 地中海および北東大西洋の複数の地点において、OstreopsisからActinocyclusへの優占性のin situな移行を実証した点、(2) ActinocyclusがOstreopsisによって産生されるあらゆるアレロケミカルに対して耐性を持つ可能性を示した点、(3) 生きた細胞の同定、LMおよびSEMによる特性評価、ならびにrbcLに基づく系統樹を含む、A.cf. subtilisの明確な記録を提示した点、および(4) ActinocyclusがOstreopsisブルーム衰退の潜在的な指標としてさらに検討され得ることを示唆する時間的関連性を明らかにした点において、重要である。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1945220",
+    "title": "High-dose azithromycin exposure from 5 weeks of age is associated with greater body-weight gain and gut microbiota and fecal metabolome differences in mice",
+    "abstract": "BackgroundEarly-life antibiotic exposure has been associated with subsequent metabolic outcomes, but the microbial and metabolic features associated with different antibiotic exposures remain incompletely characterized.MethodsTo characterize gut microbiota and fecal metabolome profiles associated with high-dose azithromycin exposure from 5 weeks of age, we administered azithromycin (AZM, 100 mg/kg/day) to C57BL/6 J mice by daily intragastric gavage for 4 weeks, with a parallel cefaclor (CEC) comparator and vehicle control. Gut microbiota composition and functional profiles were assessed by shotgun metagenomic sequencing, and fecal metabolites were characterized by untargeted LC–MS/MS metabolomics.ResultsHigh-dose AZM exposure from 5 weeks of age was associated with greater body-weight gain relative to controls and with differences in gut microbiota composition. Akkermansia muciniphila and Flavonifractor plautii showed significant differences in both AZM-versus-Control and AZM-versus-CEC comparisons in ANCOM-BC2 analyses, whereas Adlercreutzia equolifaciens was enriched in both antibiotic groups and did not distinguish AZM from CEC. Functional and metabolomic analyses identified differences in predicted microbial pathways and fecal amino acid and lipid metabolite profiles. The CEC group, administered at 20 mg/kg/day, did not show significantly greater body-weight gain than controls under the conditions tested. Because treatment was completely confounded with cage, body-weight, microbiome and multi-omics treatment comparisons should be considered exploratory rather than confirmatory.ConclusionOur findings indicate that high-dose azithromycin exposure from 5 weeks of age was associated with greater body-weight gain and differences in gut microbiota and fecal metabolome profiles in male mice. These exploratory associations warrant further investigation to determine their reproducibility and underlying mechanisms.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1945220",
+    "date": "2026-11-25",
+    "authors": "Shunfeng Mao",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1945220",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomic",
+        "microbial",
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5615,
+    "collected_at": "2026-11-25T15:46:29.923395+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-25",
+    "related_dois": [
+      "10.3389/fmicb.2026.1945220"
+    ],
+    "translation": {
+      "title": {
+        "hash": "accd7f46ce653e38c2e0cac240bf1b19f0f96c3b102ae4cffe1399acf7603363",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T00:55:56.327568+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d1ea8e485b4c5b97785c230ec82e1a857088d49c5b72524f70a440b7e51b85dc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T00:55:56.327568+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "生後5週からの高用量アジスロマイシン曝露は、マウスにおいて体重増加の増大ならびに腸内細菌叢および糞便メタボロームの差異と関連している。",
+    "abstract_ja": "背景 生後5週からの高用量アジスロマイシン曝露は、その後の代謝転帰との関連が指摘されているが、異なる抗生物質曝露に伴う微生物学的および代謝学的特性については、いまだ十分に解明されていない。方法 生後5週からの高用量アジスロマイシン曝露に関連する腸内細菌叢および糞便メタボロームプロファイルを解析するため、C57BL/6 Jマウスにアジスロマイシン（AZM, 100 mg/kg/日）を4週間にわたり毎日胃内投与し、並行してセファクロル（CEC）対照群および溶媒対照群を設けた。腸内細菌叢の組成および機能プロファイルはショットガンメタゲノムシーケンシングにより評価し、糞便代謝物は非標的型LC–MS/MSメタボロミクスにより解析した。結果 生後5週からの高用量AZM曝露は、対照群と比較して体重増加量が大きく、腸内細菌叢の組成にも差異が認められた。ANCOM-BC2解析において、Akkermansia muciniphilaおよびFlavonifractor plautiiは、AZM対対照群およびAZM対CECの両比較において有意な差を示したが、Adlercreutzia equolifaciensは両抗生物質群で濃縮されており、AZMとCECの区別は認められなかった。機能解析およびメタボローム解析により、予測される微生物経路ならびに糞便中のアミノ酸および脂質代謝物プロファイルに差異が認められた。20 mg/kg/日を投与したCEC群では、試験条件下において対照群よりも有意な体重増加は認められなかった。本処置はケージ、体重、マイクロバイオーム、およびマルチオミクスによる処置比較と完全に交絡していたため、これらの比較は検証的なものではなく、探索的なものとして捉えるべきである。結論 本研究の結果は、生後5週からの高用量アジスロマイシン曝露が、雄マウスにおいて体重増加量の増大ならびに腸内細菌叢および糞便メタボロームプロファイルの差異と関連していたことを示している。これらの探索的な関連性は、その再現性および根底にある機序を明らかにするため、さらなる調査が必要である。"
+  },
+  {
+    "id": "10.1186/s13059-026-04359-6",
+    "title": "Long-range genomic loci stochastically assemble into hierarchical chromosome structures",
+    "abstract": "Background\n                     One fundamental yet open question is how eukaryotic chromosomes fold into segregated territories, a process essential for gene transcription and cell fate. Although several models describe how chromosomal loops form at shorter scales, the mechanisms governing large-scale chromosome organization across distances greater than 100 Mb remain poorly understood.\n                  \n                     Results\n                     Through analyses of multiple sequencing- and imaging-based datasets, we identify long-range chromosomal backbone loop structures that span more than 100 Mb, extending beyond the scale explained by several existing DNA loop models. Live-cell imaging using sequence-specific CRISPR-dCas9 fluorescent labeling shows that some long-range loops remain stable for at least 10 min. Biophysical modeling further demonstrates that their formation is driven by a multivalent binding mechanism. Epigenetic profiling and spatial density analyses indicate that many of these structures form independently of known large-scale nuclear structures.\n                  \n                     Conclusions\n                     Our findings suggest a redundant, distributed clustering mechanism that ensures the robustness of chromosome organization across cell types and against mutations. This mechanism coordinates large-scale chromosome compaction while simultaneously guiding the formation of smaller-scale chromosomal structures, offering a new framework for understanding genome folding and its role in cell identity.",
+    "journal": "Genome Biology",
+    "doi": "10.1186/s13059-026-04359-6",
+    "date": "2026-11-25",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s13059-026-04359-6",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "genome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "genomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=13059",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5648,
+    "collected_at": "2026-11-25T15:46:29.923395+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=13059"
+    ],
+    "first_seen": "2026-11-25",
+    "related_dois": [
+      "10.1186/s13059-026-04359-6"
+    ],
+    "translation": {
+      "title": {
+        "hash": "97c80ac2f62cdf9331ab731ac68ad14ff9d7c9dfb827b6058127e0d51814a417",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T00:55:56.327568+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0525547053b22bd3ce3c18baadca52a21b45ae78dd563fa74657bc0d550756c4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T00:55:56.327568+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "長距離ゲノム遺伝子座が確率的に階層的な染色体構造へと組み上がる",
+    "abstract_ja": "背景\n                     基本的でありながら未解決の課題の一つは、真核生物の染色体がいかにして分離領域へと折り畳まれるかということであり、このプロセスは遺伝子転写や細胞運命にとって不可欠である。染色体ループがより小規模なスケールで形成される仕組みについてはいくつかのモデルが提唱されているが、100 Mbを超える距離にわたる大規模な染色体組織化を支配するメカニズムについては、依然として十分に解明されていない。\n                  \n                     結果\n                     シーケンシングおよびイメージングに基づく複数のデータセットの解析を通じて、我々は100 Mbを超える範囲に及ぶ長距離の染色体バックボーンループ構造を同定した。これは、既存のいくつかのDNAループモデルで説明されるスケールを凌駕するものである。配列特異的CRISPR-dCas9蛍光標識を用いた生細胞イメージングにより、一部の長距離ループが少なくとも10分間にわたって安定に維持されることが示された。生物物理学的モデリングにより、これらの形成が多価結合メカニズムによって駆動されていることがさらに実証された。エピジェネティックプロファイリングおよび空間密度解析の結果、これらの構造の多くが既知の大規模な核構造とは独立して形成されることが示された。\n                  \n                     結論\n                     本研究の知見は、細胞種を問わず、また変異に対しても染色体組織化の頑健性を確保する、冗長かつ分散型のクラスタリングメカニズムの存在を示唆している。このメカニズムは、大規模な染色体凝縮を協調させると同時に、より小規模な染色体構造の形成を誘導しており、ゲノムの折り畳みと細胞アイデンティティにおけるその役割を理解するための新たな枠組みを提供するものである。"
+  },
+  {
+    "id": "10.1093/ismeco/ycag345",
+    "title": "Environmental selection structures the modular prokaryotic community turnover along a longitudinal North Atlantic transect",
+    "abstract": "AbstractMarine prokaryotic communities can exhibit high turnover within ocean basins, but the ecological level at which this occurs and the drivers affecting it are not yet fully understood. In this study, we analysed 16S rRNA gene metabarcoding data from surface waters along a 6,500 km longitudinal transect across the North Atlantic Ocean, from Florida to the Gulf of Cadiz. Community turnover was primarily influenced by environmental selection acting along a coupled spatial-environmental gradient. In particular, this turnover was evident through community replacement, but particularly through the reorganisation of four dominant ecological modules, defined as recurrent groups of co-occurring taxa, with distinct environmental preferences. Oceanographic connectivity provided a constrained dispersal context, where more connected samples displayed higher module similarity. Overall, these results demonstrate that biogeography along this transect is primarily structured by deterministic processes and emerges through the reorganisation of ecologically coherent modules within a hydrodynamically constrained context.",
+    "journal": "ISME Communications",
+    "doi": "10.1093/ismeco/ycag345",
+    "date": "2026-11-25",
+    "authors": "",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://academic.oup.com/ismecommun/advance-article/doi/10.1093/ismeco/ycag345/9122637?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "prokaryotic"
+      ],
+      "context": {
+        "marine": [
+          "ocean"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6596/advanceAccess_4180.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5653,
+    "collected_at": "2026-11-26T00:30:40.165307+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://academic.oup.com/rss/site_6596/advanceAccess_4180.xml"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1093/ismeco/ycag345"
+    ],
+    "translation": {
+      "title": {
+        "hash": "09f1fdd52df82e94e5767d164af95db33907903349e8fcc4ce959aa3fd155b06",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T00:55:56.327568+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "66a8f15443b44ad0392058346df775a27452f409849a3fd8c78f7e457541d4e5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T00:55:56.327568+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "環境選択が北大西洋の縦断的横断線沿いにおけるモジュール型原核生物群集の入れ替わりを構造化する",
+    "abstract_ja": "要旨 海洋原核生物群集は、海盆内で高いターンオーバーを示すことがあるが、それが生態学的などのレベルで生じ、どのような要因が影響しているのかについては、まだ十分に解明されていない。本研究では、フロリダからカディス湾に至る北大西洋の6,500 kmにわたる縦断的トランセクト沿いの表層水から得られた16S rRNA遺伝子メタバーコーディングデータを解析した。群集のターンオーバーは、主に連成した空間・環境勾配に沿った環境選択の影響を受けた。特に、このターンオーバーは群集の置換、とりわけ、異なる環境選好を持つ共起分類群の反復的なグループとして定義される4つの支配的な生態学的モジュールの再編成を通じて顕著に認められた。海洋学的な連結性は分散を制約する環境をもたらし、より連結性の高いサンプルほどモジュールの類似性が高かった。総じて、これらの結果は、本トランセクト沿いの生物地理学が主に決定論的なプロセスによって構造化されており、流体力学的に制約された環境下で生態学的に整合性のあるモジュールの再編成を通じて現れることを示している。"
   }
 ]
