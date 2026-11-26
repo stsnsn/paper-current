@@ -468500,5 +468500,236 @@
     "related_dois": [
       "10.64898/2026.11.23.768618"
     ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/jvi.01228-26",
+    "title": "Naturally circulating reoviruses exhibit enhanced intestinal persistence and altered enteric protease dependence compared to lab-adapted strains.",
+    "abstract": "Mammalian orthoreoviruses (reoviruses) commonly infect many mammals, persist on surfaces and in bodies of water, and represent a safe model to study enteric viruses. Extensive research has been performed on prototype reovirus strains, specifically T1L and T3D, in murine L929 fibroblasts. However, T1L/T3D were found to have greater sensitivity to endosomal cathepsin L/B than sewage-derived isolates that rely on intestinal trypsin/chymotrypsin to process virions extracellularly prior to infection. To further understand how cultural adaptation affects reovirus characteristics in L929 cells and intestines, replicative capabilities of lab- and sewage-derived reoviruses were measured in L929 cells following exposure of virions to intestinal luminal factors and in the intestinal tract following oral inoculation of mice. In vitro biochemical analysis of post-entry replication steps and in vivo results of early innate and adaptive immune profiles did not distinguish viruses based on source. In contrast, sewage-derived reoviruses were found at higher titers than lab strains in ileal and colonic tissues, luminal content, and fecal shedding. Increased persistence in vivo was associated with greater resistance to proteolysis and infectious stability in the presence of intestinal lumen factors, particularly from the colon. Furthermore, reovirus uncoating in vivo depended not only on intestinal trypsin/chymotrypsin, as previously described, but also on EDTA-sensitive metalloproteases that differentially process lab- and sewage-derived reoviruses. Altogether, these findings demonstrate that environmental reoviruses are optimized for fecal-oral transmission by enhanced extracellular stability and resistance to intestinal proteases, whereas lab strains adapted to infect well in vitro at the cost of reduced robustness in the gut environment.IMPORTANCEMost of what we know about enteric virus entry and uncoating comes from long-passaged lab strains studied under simplified conditions with added trypsin or chymotrypsin. Here, we directly compare these canonical reovirus lab strains to minimally passaged, sewage-derived isolates in a murine oral infection model. We find that, once entry is equalized, post-entry replication steps are broadly similar, but naturally circulating strains achieve higher titers in distal gut segments and feces, resist proteolysis by colonic lumen factors, and rely on a broader, regionally distinct set of intestinal proteases, including metalloproteases, for uncoating. These results reveal that the true protease usage of enteric viruses in vivo is more complex than suggested by standard culture systems, with capsid sequences tuned to balance efficient replication, environmental stability, and fecal-oral transmission.",
+    "journal": "Journal of Virology",
+    "doi": "10.1128/jvi.01228-26",
+    "date": "2026-11-04",
+    "authors": "Lin QF, Surgenor K, Footz T, Eaton HE, Shmulevitz M.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42980342",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42980342",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5603,
+    "collected_at": "2026-11-26T09:31:03.499381+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1128/jvi.01228-26"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 4",
+        "query": "(JOURNAL:\"Infection and Immunity\" OR JOURNAL:\"Antimicrobial Agents and Chemotherapy\" OR JOURNAL:\"Journal of Clinical Microbiology\" OR JOURNAL:\"Microbiology Resource Announcements\" OR JOURNAL:\"Nature\" OR JOURNAL:\"Nature Microbiology\" OR JOURNAL:\"Nature Ecology & Evolution\" OR JOURNAL:\"Nature Communications\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/mra.01076-26",
+    "title": "Complete genomes of <i>Rhodobacter sphaeroides</i> DSM158 and its substrain H2.",
+    "abstract": "Rhodobacter sphaeroides DSM158 substrain H2 (SubH2) has the potential to produce photoheterotrophic hydrogen gas from wastewater. We present two annotated hybrid genome assemblies for strain DSM158 and its laboratory-derived substrain H2 based on Illumina and MinION reads. Both assemblies consist of two chromosomes and four plasmids and show >99% BUSCO completeness.",
+    "journal": "Microbiology Resource Announcements",
+    "doi": "10.1128/mra.01076-26",
+    "date": "2026-11-09",
+    "authors": "Nauruschat A, Leidenfrost RM, Wappler NC, Wünschiers R.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43001778",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43001778",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assemblies",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5605,
+    "collected_at": "2026-11-26T09:31:03.499381+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "Europe PMC journals 4"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1128/mra.01076-26"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 8",
+        "query": "(JOURNAL:\"Microbial Biotechnology\" OR JOURNAL:\"Extremophiles\" OR JOURNAL:\"Genome Biology and Evolution\" OR JOURNAL:\"Molecular Biology and Evolution\" OR JOURNAL:\"Molecular Ecology\" OR JOURNAL:\"Molecular Ecology Resources\" OR JOURNAL:\"Molecular Phylogenetics and Evolution\" OR JOURNAL:\"Bioinformatics Advances\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1093/bioadv/vbag317",
+    "title": "oddSNP: a predictive framework for optimizing multiplexed single-cell RNA-seq experiments.",
+    "abstract": "MotivationDonor multiplexing is a powerful strategy to increase scale, lower the costs, and reduce batch effects in single-cell RNA sequencing (scRNAseq), but clear guidelines for experimental design are lacking, forcing researchers to risk costly demultiplexing failures.ResultsWe introduce SNP-Information Content (SNP-IC), a quantitative metric computable from simple unpooled pilot data that accurately predicts the success of genotype-based demultiplexing. Across multiple large-scale datasets using stem cell and organoid models, we establish a robust SNP-IC threshold of approximately 50, above which cells can be reliably assigned to their donor of origin. For more challenging genotype-free approaches, we define a pairwise metric, cpSNP-IC, and demonstrate a much higher requirement of approximately 3000.Availability and implementationOur open-source framework, oddSNP, implements this predictive model to enable in-silico titration of sequencing depth and donor complexity, allowing researchers to optimize study design before large-scale deployment, while managing costs and minimizing the risk of catastrophic data loss. oddSNP can be installed directly from PyPI and Bioconda. Source code is also freely available from GitHub at https://www.github.com/nemoto-lab/oddSNP (with release versions also available in Zenodo at DOI 10.5281/zenodo.19378022). Novel scRNAseq data used as part of this study is available at the Gene Expression Omnibus (GEO) website under accession GSE334633.",
+    "journal": "Bioinformatics Advances",
+    "doi": "10.1093/bioadv/vbag317",
+    "date": "2026-11-03",
+    "authors": "Allendes Osorio RS, Nishimura T, Shigihara Y, Kimura M, Takebe T, Nemoto T.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43080886",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43080886",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "framework"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "RNA",
+          "framework"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5607,
+    "collected_at": "2026-11-26T09:31:03.499381+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "Europe PMC journals 8"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1093/bioadv/vbag317"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 8",
+        "query": "(JOURNAL:\"Microbial Biotechnology\" OR JOURNAL:\"Extremophiles\" OR JOURNAL:\"Genome Biology and Evolution\" OR JOURNAL:\"Molecular Biology and Evolution\" OR JOURNAL:\"Molecular Ecology\" OR JOURNAL:\"Molecular Ecology Resources\" OR JOURNAL:\"Molecular Phylogenetics and Evolution\" OR JOURNAL:\"Bioinformatics Advances\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1093/bioadv/vbag327",
+    "title": "A multiscale framework for hypothesis generation from sex-stratified X-linked gene networks.",
+    "abstract": "MotivationStratified gene co-expression network analyses compare molecular organization across biological groups; however, their interpretation is challenged by cohort imbalance, network instability, correlation-method dependence, and multiplicity. These issues are particularly relevant when comparing network structures across heterogeneous cohorts, where apparent patterns may not be reproducible.ResultsThis study presents a reproducible framework for stratified gene co-expression network analysis. It integrates cohort balancing, bootstrap-stabilised consensus networks, topology-based statistics, paired label permutations, multiplicity control, and correlation-method benchmarking. Its design distinguishes robust statistical evidence from exploratory signals and their biological interpretation. The framework is illustrated through a multi-cancer case study of sex-associated co-expression network organization among X-linked genes classified as escape, inactive, or variably escaping from X-chromosome inactivation. The analysis included 15 cancer cohorts from The Cancer Genome Atlas (TCGA) and 90 sex-stratified networks, enabling systematic comparison of network structure across cancer types and X-inactivation gene classes. Across 315 paired permutation tests, none survived Benjamini-Hochberg correction, providing no multiplicity-adjusted evidence. Nevertheless, exploratory graphlet profiles revealed cancer- and gene-class-specific patterns of network organization, highlighting candidate structures for independent replication. The case study illustrates how the framework can distinguish nominal or visually compelling differences from multiplicity-adjusted evidence while preserving informative exploratory patterns for structured hypothesis generation.Availability and implementationThe pipeline source code is available at https://github.com/ad03-coder/xgenes. The analysis uses data generated by the TCGA Research Network (https://www.cancer.gov/tcga), obtained from the GDC Data Portal (https://portal.gdc.cancer.gov/).",
+    "journal": "Bioinformatics Advances",
+    "doi": "10.1093/bioadv/vbag327",
+    "date": "2026-10-30",
+    "authors": "Defilippo A, Glass K, Veltri P, Guzzi PH.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43066175",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43066175",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5608,
+    "collected_at": "2026-11-26T09:31:03.499381+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "Europe PMC journals 8"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1093/bioadv/vbag327"
+    ]
   }
 ]
