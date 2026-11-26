@@ -339070,5 +339070,217 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "微生物間のペアワイズ相互作用の解釈可能な予測に向けた役割認識型ライングラフニューラルネットワーク",
     "abstract_ja": "微生物種が互いの増殖にどのような影響を及ぼすかを予測することは、微生物生態学における重要な課題である。39種類の炭素条件下で共培養された20種の土壌細菌（15,074回の方向性測定）からなる、利用可能な最大規模のペアワイズ相互作用データセットの一つを用い、単培養増殖、代謝プロファイル、および系統樹から、ある種が別の種の増殖に正または負の影響を及ぼすかを予測した。既存の機械学習手法では、同一条件下で同一種を共有する実験は生物学的に関連しているにもかかわらず、各測定値を独立したサンプルとして扱う。そこで本研究では、データをロール認識型ライングラフとして表現した。各ノードを1回の方向性測定とし、同一の炭素条件下で同一のエフェクターまたは同一の影響を受ける種を共有する場合に、2つのノードを接続する。これにより、グラフニューラルネットワーク（GNN）が関連する相互作用間の情報を伝達することが可能となる。我々のロール認識型GAT-SAGEモデルは、単方向予測において81.38%のF1スコアを達成し、従来報告されていたExtreme Gradient Boosting（XGBoost）の73.79%を上回った。双方向相互作用タイプ（相利共生、競争、寄生）において、GAT-SAGEは60.34%のマクロF1スコアを記録した。これは、グラフ構造を持たないニューラルネットワークの55.71%を上回ったが、XGBoostの64.24%を下回った。相利共生は、すべてのモデルにおいて予測が困難なままであった。レイヤーごとの関連性伝播により、単方向の影響は主に単培養増殖に依存する一方、双方向相互作用タイプは炭素環境により強く依存することが示された。したがって、相互作用実験の依存構造をエンコードすることは、各測定値の特徴量を超えた情報を加え、微生物間相互作用に関する解釈可能な知見を提供する。"
+  },
+  {
+    "id": "10.64898/2026.11.24.768820",
+    "title": "The blue dragon nudibranch (Glaucus atlanticus) shifts to less venomous prey in the Mediterranean, with no evidence of defensive microbial symbionts",
+    "abstract": "Glaucus atlanticus (\"blue dragon\"), is an aeolid nudibranch that acquires chemical defense through sequestration of nematocysts from its primary prey, the highly venomous Physalia physalis (\"Portuguese man-of-war\"). In August 2025 hundreds of G. atlanticus individuals appeared near Alicante (Spain), prompting temporary beach closures due to concerns about potential envenomation. This unusual occurrence, in a region where P. physalis is typically absent, raises questions about the trophic ecology and defensive strategies of this species under novel environmental conditions. Here, we used COI metabarcoding of gut to characterize the diet of G. atlanticus and combined it with 16S rRNA gene sequencing of cerata, gut, mucus, and central dorsal epidermis to assess potential microbial transfer from alternative prey that could contribute to the synthesis of defensive compounds, given that the role of microbes in chemical defense of aeolid nudibranchs was not assessed previously. We detected a trophic shift toward alternative cnidarian prey, including Pelagia noctiluca and Porpita porpita, which are not considered highly hazardous. Microbiome comparisons with P. porpita, as well as comparison of core microbiomes across different body parts of G. atlanticus, revealed no evidence of prey-derived transfer of mutualistic bacteria. Instead, G. atlanticus harbored distinct microbial communities dominated by environmentally widespread taxa, including potential opportunistic pathogens, with no indication of symbionts associated with defensive functions. Altogether, these findings indicate that, despite trophic flexibility, G. atlanticus may have limited capacity to maintain its defensive mechanisms in the absence of its primary prey.",
+    "journal": "",
+    "doi": "10.64898/2026.11.24.768820",
+    "date": "2026-11-24",
+    "authors": "Porcel Sanchis, D., Ortiz-Maiques, A., Alberola Mora, I., Piedecausa Narejos, M. A., Avila, C., Alvarez-Trasobares, I., Prieto, L., Dzunkova, M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.24.768820v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "bacteria",
+        "microbe",
+        "microbes",
+        "microbial",
+        "microbiome",
+        "microbiomes"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "16S rRNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5703,
+    "collected_at": "2026-11-26T00:30:40.165307+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.64898/2026.11.24.768820"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d9b3bd3f5a398101420b7f2416cbc371ac26eb53977add2251ed18e4363ded0e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:38:01.375844+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "134d792d2e5cf2f9c2c073da48e349c28b886fe26f39cdc06826297c86be7495",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:38:01.375844+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "アオドラゴンウミウシ（Glaucus atlanticus）は地中海において毒性の低い獲物へと移行するが、防御的な微生物共生体の存在を示す証拠は認められない。",
+    "abstract_ja": "Glaucus atlanticus（「ブルードラゴン」）は、主要な獲物である猛毒のPhysalia physalis（「ポルトガルマンオ」）から刺胞を隔離することで化学的防御機構を獲得するエオリドウミウシの一種である。2025年8月、スペインのアリカンテ近海に数百個体のG. atlanticusが出現し、中毒への懸念から一時的にビーチが閉鎖された。通常P. physalisが生息しないこの地域でこのような異例の現象が発生したことは、新たな環境条件下における本種の栄養生態および防御戦略に疑問を投げかけるものである。本研究では、腸管のCOIメタバーコーディングを用いてG. atlanticusの食性を特性評価し、これに頭頂部、腸管、粘液、および中央背側表皮の16S rRNA遺伝子シーケンシングを組み合わせることで、防御化合物の合成に寄与し得る代替獲物からの微生物移行の可能性を評価した。これは、エオリドウミウシの化学的防御における微生物の役割がこれまで評価されてこなかったためである。その結果、Pelagia noctilucaやPorpita porpitaなど、一般的に危険性が高いとはみなされない代替的な刺胞動物獲物への栄養段階のシフトが認められた。P. porpitaとのマイクロバイオーム比較、およびG. atlanticusの異なる身体部位間におけるコアマイクロバイオームの比較では、相利共生細菌の獲物由来の移行を示す証拠は認められなかった。むしろ、G. atlanticusは、潜在的な日和見病原体を含む環境的に広範に分布する分類群が優占する独自の微生物群集を保持しており、防御機能に関連する共生菌の存在は見られなかった。総じて、これらの知見は、栄養段階の柔軟性はあるものの、G. atlanticusは主要な獲物が不在の状態では、防御機構を維持する能力が限られている可能性を示唆している。"
+  },
+  {
+    "id": "10.64898/2026.11.24.768809",
+    "title": "Bulk RNA-seq data of an Adherent-Invasive Escherichia coli Strain ZVL and Its exuR-Knockout Mutant",
+    "abstract": "Adherent-invasive Escherichia coli (AIEC) is a subtype of pathogenic E. coli associated with Crohn's disease. AIEC strains are characterized by the ability to adhere to and invade epithelial cells, survive and replicate within macrophages. Despite many years of research, the mechanisms of virulence and pathogenicity still remain not fully understood. Previous studies have shown that the virulence-associated phenotype of some isolates can be reversibly eliminated by changing the growth medium, specifically by switching from M9 minimal medium supplemented with propionate to M9 supplemented with glucose. This phenomenon was also observed in ZVL, an AIEC isolate from our laboratory collection. Since certain sugar acids, particularly hexuronates, have been shown to contribute to gut colonization by other bacterial pathogens, their role in AIEC has not been reported in the literature. Therefore, we aimed to investigate whether the hexuronate degradation pathway influences the adhesion and invasion properties of AIEC. To this end, we generated a CRISPR-based deletion mutant lacking exuR, which encodes a transcriptional repressor of the Ashwell pathway, and performed bulk RNA sequencing of wild-type ZVL and the exuR mutant. Both strains were grown in M9 minimal medium supplemented with either glucose or sodium propionate. Caco-2 cell assays were used to assess bacterial adhesion and invasion under both growth conditions. Our results suggest that deletion of exuR affects the invasion phenotype following growth in propionate-supplemented medium.",
+    "journal": "",
+    "doi": "10.64898/2026.11.24.768809",
+    "date": "2026-11-24",
+    "authors": "Mikhailycheva, M., Trusov, N., Galyamina, M., Shirokov, D., Urazaeva, D., Avshalumov, A., Borzenko, N., Semenov, A., Pobeguts, O., Gorbachev, A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.24.768809v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5704,
+    "collected_at": "2026-11-26T00:30:40.165307+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.64898/2026.11.24.768809"
+    ],
+    "translation": {
+      "title": {
+        "hash": "15c9577280fa251546cb263d9dc9a1e5c362e444113bdcf1cbd32d2c8f7c94ca",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:38:01.375844+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2c57899a101d5b96d4917182a54b27a0d9ce3c90111cde40ba16fdf8e9cb0b67",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:38:01.375844+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "接着性侵襲性大腸菌株ZVLおよびそのexuRノックアウト変異体のバルクRNA-seqデータ",
+    "abstract_ja": "付着性侵襲性大腸菌（AIEC）は、クローン病に関連する病原性大腸菌の亜型である。AIEC株は、上皮細胞への付着・侵襲能、およびマクロファージ内での生存・増殖能を特徴とする。長年にわたる研究にもかかわらず、その病原性および病原性の機序は依然として完全には解明されていない。先行研究では、一部の分離株の病原性関連表現型が、増殖培地の変更、具体的にはプロピオン酸添加M9最小培地からグルコース添加M9への切り替えによって可逆的に消失することが示されている。この現象は、当研究室のコレクションに属するAIEC分離株であるZVLにおいても観察された。特定の糖酸、特にヘキロン酸が他の細菌性病原体による腸内定着に寄与することが示されている一方で、AIECにおけるそれらの役割については文献で報告されていない。そこで我々は、ヘキロン酸分解経路がAIECの付着・侵襲特性に影響を与えるかどうかを調査することを目的とした。この目的のため、Ashwell経路の転写抑制因子をコードするexuRを欠損させたCRISPRベースの欠失変異株を作製し、野生型ZVLおよびexuR変異株のバルクRNAシーケンシングを行った。両株は、グルコースまたはプロピオン酸ナトリウムを添加したM9最小培地で培養した。両増殖条件下における細菌の付着および侵襲を評価するため、Caco-2細胞アッセイを用いた。我々の結果は、exuRの欠失が、プロピオン酸添加培地での増殖後の侵襲表現型に影響を与えることを示唆している。"
+  },
+  {
+    "id": "10.64898/2026.11.23.768492",
+    "title": "Live vibratome sectioning of human lung and cerebral organoids for infection studies with respiratory and neurotropic viruses",
+    "abstract": "We present a robust, reproducible protocol for generating live, thin (300 micrometer) vibratome sections from human lung organoids and human cerebral organoids. The method preserves the native three-dimensional tissue architecture, cellular heterogeneity, and viability for at least 7 days in culture, providing a physiologically relevant platform for investigating respiratory and neurotropic virus infection. Following infection, samples can be fixed, cryoprotected, and embedded for downstream cryosectioning. These organoid sections support efficient analyses of viral entry, replication, and host responses. The technique is readily compatible with immunofluorescence, RNA in situ hybridization, spatial transcriptomics, live-cell imaging, and a wide range of advanced molecular and cellular assays. On average, five sections can be obtained from a single organoid, substantially increasing experimental throughput while reducing costs and biological variability. By combining the physiological complexity of three-dimensional organoid systems with the accessibility and scalability of tissue-section-based assays, this platform bridges a critical gap in respiratory and neuronal disease modeling. The protocol provides a versatile and high-resolution framework for studying respiratory and neurotropic viral pathogenesis, host-pathogen interactions, and therapeutic interventions in human lung as well as brain tissue.",
+    "journal": "",
+    "doi": "10.64898/2026.11.23.768492",
+    "date": "2026-11-24",
+    "authors": "Herrmann, S. T., Ip, W. H., Bertzbach, L. D., Müller, T., Schnettler, E., Pfaender, S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.23.768492v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5705,
+    "collected_at": "2026-11-26T00:30:40.165307+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.64898/2026.11.23.768492"
+    ],
+    "translation": {
+      "title": {
+        "hash": "01af6cb977d7e561ab1feedb9d17e3ecdff4bd266f6b5ccaef4fe4ea34c2008b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:38:01.375844+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "cb2cf1b19bbc17bcc110c057429d73e8ba6f4bff92c23bb11c8fcf3e44fa1064",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:38:01.375844+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "呼吸器系および神経系ウイルスの感染研究に向けたヒト肺および脳オルガノイドのライブビブラトーム切片作製",
+    "abstract_ja": "本報では、ヒト肺オルガノイドおよびヒト脳オルガノイドから、生体内の薄い（300マイクロメートル）振動切片を作製するための、堅牢かつ再現性の高いプロトコルを提示する。本手法は、本来の三次元組織構造、細胞不均一性、および生存能を培養下で少なくとも7日間維持し、呼吸器系および神経向性ウイルス感染を研究するための生理学的に意義のあるプラットフォームを提供する。感染後、試料は固定、凍結保護処理、および後続のクライオセセションのための埋め込みが可能である。これらのオルガノイド切片は、ウイルスの侵入、複製、および宿主応答の効率的な解析を可能にする。本技術は、免疫蛍光法、RNA in situハイブリダイゼーション法、空間トランスクリプトミクス、生細胞イメージング、および広範な高度な分子・細胞アッセイと容易に併用可能である。平均して単一のオルガノイドから5枚の切片が得られ、コストと生物学的ばらつきを低減しつつ、実験スループットを大幅に向上させる。三次元オルガノイド系の生理学的複雑性と、組織切片ベースのアッセイの簡便性と拡張性を組み合わせることで、本プラットフォームは呼吸器系および神経疾患のモデリングにおける重要なギャップを埋めるものである。本プロトコルは、ヒトの肺および脳組織における呼吸器系および神経向性ウイルスの病態形成、宿主・病原体相互作用、および治療的介入を研究するための、汎用性の高い高解像度フレームワークを提供する。"
   }
 ]
