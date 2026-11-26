@@ -336546,5 +336546,279 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ドライバー遺伝子における中立変異スペクトルからの逸脱は、ミスセンス発がん変異の影響の分布を明らかにする",
     "abstract_ja": "by Anastasia V. Stolyarova, Georgii A. Bazykin\n\n多くのがんドライバー遺伝子が同定されているものの、これらの遺伝子内で腫瘍形成を促進し得る変異の全セットは依然として不明である。変異のがんへの寄与は、その発生確率と、それが付与する選択的優位性の両方に依存する。本稿では、中立的な期待値と比較して、選択がドライバー遺伝子において観察されるミスセンス変異のスペクトルをどのように偏らせるかを定量化する指標を導入し、それを用いて、潜在的なドライバー変異の総数および個々の遺伝子内における適応度効果の分布を推定する手法を開発する。この枠組みを大規模ながんコホートに適用した結果、ほとんどのがん遺伝子ではほぼすべての可能なミスセンスドライバー変異がすでに観察されている一方で、ほとんどの腫瘍抑制遺伝子では大部分が未発見のままであることが推定された。これらの結果は、突然変異と選択が遺伝子クラス全体のヌクレオチド変異をどのように形作るかという点における根本的な相違を明らかにするとともに、新たに検出された変異を解釈するための枠組みを提供するものである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1971060",
+    "title": "Promotion of idiopathic pulmonary fibrosis pathogenesis by Stenotrophomonas maltophilia",
+    "abstract": "RationaleWhether changes in lung microbiota causally contribute to idiopathic pulmonary fibrosis (IPF) progression remains largely unknown.ObjectivesTo examine lung microbiome-metabolome relationships in patients with IPF and the potential pathogenic role of Stenotrophomonas maltophilia.MethodsWe performed 16S rRNA gene sequencing on lung tissues from 89 patients with IPF undergoing lung transplantation and 87 donor lungs. To investigate Stenotrophomonas maltophilia-associated metabolic alterations, untargeted metabolomics analysis was performed on lung tissues from 16 IPF samples with high Stenotrophomonas abundance and 14 healthy donor control samples. Integrated analyses assessed correlations between microbial taxa and individual metabolites. Fluorescence in situ hybridization localized bacterial strains within IPF lung tissues. Primary human lung fibroblasts were co-cultured with live or heat-inactivated bacteria to assess viability and migration.Main resultsThe α-diversity of IPF lungs showed lower operational taxonomic unit counts (P = 0.0081) and Chao1 (P = 0.0169). The β-diversity analysis also indicated different microbial community compositions between IPF and donor groups (P < 0.05). Stenotrophomonas was the most differentially abundant genus in IPF lungs. Metabolic profiles differed across multiple pathways, including amino acids and L-carnitine derivatives. Stenotrophomonas abundance correlated strongly with specific metabolites involved in lipid and energy metabolism, including phosphatidylcholines and palmitoylcarnitine. Live, but not heat-inactivated, Stenotrophomonas maltophilia significantly increased lung fibroblast viability and migration in vitro.ConclusionsThe lung microbial community is substantially altered in IPF. Stenotrophomonas maltophilia enrichment is strongly associated with specific metabolic reprogramming in IPF compared with donor lung tissue. Stenotrophomonas maltophilia enrichment is associated with host metabolic changes, particularly in lipid and mitochondrial energy pathways. Its effects on fibroblast viability and migration may contribute to IPF pathogenesis, making the Stenotrophomonas maltophilia-host metabolic axis a potential therapeutic target.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1971060",
+    "date": "2026-11-25",
+    "authors": "Jingyu Chen",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1971060",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "bacteria",
+        "bacterial",
+        "microbial",
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "16S rRNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5618,
+    "collected_at": "2026-11-25T15:46:29.923395+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-25",
+    "related_dois": [
+      "10.3389/fmicb.2026.1971060"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f57ae78e68c7ae445f55c82063e357d4cd865718f94fa043bd1d63717370bed3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:05:35.442399+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c0703696a04a6fa795ef25d1aa81e253e7d7e3e9a6aad54767eb4297282f2067",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:05:35.442399+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Stenotrophomonas maltophiliaによる特発性肺線維症の病態形成の促進",
+    "abstract_ja": "根拠肺微生物叢の変化が特発性肺線維症（IPF）の進行に因果的に寄与しているか否かは、依然として大部分が不明である。目的IPF患者における肺マイクロバイオームとメタボロームの関連性、およびStenotrophomonas maltophiliaの潜在的な病原性役割を検討すること。方法肺移植を受けるIPF患者89例の肺組織およびドナー肺87例の肺組織に対し、16S rRNA遺伝子シーケンシングを実施した。Stenotrophomonas maltophiliaに関連する代謝変化を調べるため、Stenotrophomonasの存在量が高いIPF検体16例および健常ドナー対照検体14例の肺組織を対象に、非標的メタボロミクス解析を行った。統合解析により、微生物分類群と個々の代謝物との相関を評価した。蛍光in situハイブリダイゼーションにより、IPF肺組織内における細菌株の局在を特定した。初代ヒト肺線維芽細胞を生菌または熱不活化細菌と共培養し、生存能および遊走能を評価した。主な結果IPF肺のα多様性では、操作分類単位数（P = 0.0081）およびChao1（P = 0.0169）が低値を示した。β多様性解析においても、IPF群とドナー群の間で微生物群集組成に差異が認められた（P < 0.05）。Stenotrophomonasは、IPF肺において最も差異的に存在量の多い属であった。代謝プロファイルは、アミノ酸やL-カルニチン誘導体を含む複数の経路にわたって異なっていた。Stenotrophomonasの存在量は、ホスファチジルコリンやパルミトイルカルニチンを含む、脂質およびエネルギー代謝に関与する特定の代謝物と強く相関していた。熱不活化されていない生菌のStenotrophomonas maltophiliaは、in vitroにおいて肺線維芽細胞の生存能および遊走能を有意に亢進させた。結論IPFでは肺微生物群集が著しく変化している。ドナー肺組織と比較して、IPFにおけるStenotrophomonas maltophiliaの濃縮は、特定の代謝リプログラミングと強く関連している。Stenotrophomonas maltophiliaの濃縮は、宿主の代謝変化、特に脂質およびミトコンドリアエネルギー経路の変化に関連している。線維芽細胞の生存能および遊走能に及ぼす影響がIPFの病態形成に寄与している可能性があり、Stenotrophomonas maltophiliaと宿主の代謝軸は潜在的な治療標的となり得る。"
+  },
+  {
+    "id": "10.1038/s41564-026-02525-x",
+    "title": "Mapping unsolved lipidomes accelerates lipid discovery in major bacterial pathogens",
+    "abstract": "A discovery lipidomics pipeline reveals unknown lipids in Mycobacterium tuberculosis and other bacterial pathogens.",
+    "journal": "Nature Microbiology",
+    "doi": "10.1038/s41564-026-02525-x",
+    "date": "2026-11-25",
+    "authors": "D. Branch Moody",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.nature.com/articles/s41564-026-02525-x",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.nature.com/nmicrobiol.rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5638,
+    "collected_at": "2026-11-25T15:46:29.923395+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.nature.com/nmicrobiol.rss"
+    ],
+    "first_seen": "2026-11-25",
+    "related_dois": [
+      "10.1038/s41564-026-02525-x"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8772c5a1aaeebeaa47c52b110e7d8535c03138c4496c4bb94669e159b1bbf46c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:05:35.442399+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ec59c90037a1d30edfa2a29ae8bb43a32c9a3dfc8effc09ebf111243a60c4a1b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:05:35.442399+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "未解明のリピドドームのマッピングは、主要な細菌病原体における脂質の発見を促進する。",
+    "abstract_ja": "新規リピドミクスパイプラインにより、結核菌およびその他の細菌性病原体における未知の脂質が明らかになった。"
+  },
+  {
+    "id": "10.1093/ismejo/wrag295",
+    "title": "Cell death and growth dynamics shape DNA-replication-based estimates of microbial growth",
+    "abstract": "AbstractA widely used approach for estimating bacterial growth rates is the origin-to-terminus ratio, or peak-to-trough ratio (PTR), which estimates DNA replication activity from origin and terminus copy numbers. Although PTR is theoretically related to bacterial growth rate, it is often compared with, or used to reason about, changes in population size, which reflect the balance between cell division and loss. These quantities may therefore diverge when cell death is appreciable. Here, we used stochastic, cell-based modelling and controlled laboratory experiments to examine how cell death affects the relationship between PTR and changes in population size. We show that transient stress-induced mortality and heterogeneous survival can cause PTR to fail to reflect changes in population size but still reflect bacterial growth rate. We experimentally validated these predictions by exposing Escherichia coli to osmotic shock or antibiotics, and measuring change in population size and DNA replication activity. We further show that initial physiological state, lag before replication resumes, and abrupt growth arrest can alter the relationship between PTR and change in population size. In the presence of mortality, lag can make PTR more reflective of changes in population size whereas it decreases its correspondence with bacterial growth rate. Together, these results demonstrate how cell death and changes in replication dynamics can bias the interpretation of PTR-based estimates of population change under controlled laboratory conditions.",
+    "journal": "The ISME Journal",
+    "doi": "10.1093/ismejo/wrag295",
+    "date": "2026-11-25",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/ismej/advance-article/doi/10.1093/ismejo/wrag295/9122847?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "bacteria",
+        "bacterial",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6594/advanceAccess_4179.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5652,
+    "collected_at": "2026-11-26T00:30:40.165307+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://academic.oup.com/rss/site_6594/advanceAccess_4179.xml"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1093/ismejo/wrag295"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d2ae16edac53e189e96b74ae941a96d0120c1e8086a5aef41beccb51b65bb3c3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:05:35.442399+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5836cd8a0a18ea29d046b081f815a042e2c0c8d3355430333587c3a6baedb361",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:05:35.442399+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "細胞死と増殖動態が、微生物増殖のDNA複製に基づく推定値を規定する",
+    "abstract_ja": "要旨 細菌の増殖速度を推定するために広く用いられている手法に、起点・終端比（origin-to-terminus ratio）、あるいはピーク・トラフ比（peak-to-trough ratio: PTR）がある。これは、起点および終端のコピー数からDNA複製活性を推定するものである。PTRは理論的に細菌の増殖速度と関連しているが、細胞分裂と喪失のバランスを反映する個体群サイズの変化と比較されたり、あるいはその変化を推論するために用いられたりすることが多い。したがって、細胞死が顕著な場合には、これらの定量値に乖離が生じることがある。本研究では、確率的な細胞ベースのモデリングと制御された実験室実験を用いて、細胞死がPTRと個体群サイズの変化との関係にどのような影響を及ぼすかを検討した。その結果、一過性のストレス誘発性致死や不均一な生存により、PTRが個体群サイズの変化を反映できなくなりつつも、細菌の増殖速度は反映し得ることを示した。我々は、大腸菌（Escherichia coli）を浸透圧ショックや抗生物質に曝露し、個体群サイズとDNA複製活性の変化を測定することで、これらの予測を実験的に検証した。さらに、初期の生理的状態、複製再開までのラグ、および急激な増殖停止が、PTRと個体群サイズの変化との関係を変化させ得ることを示した。致死が存在する場合、ラグによってPTRは個体群サイズの変化をより正確に反映するようになる一方で、細菌の増殖速度との対応関係は低下する。以上の結果を総合すると、制御された実験室条件下において、細胞死と複製ダイナミクスの変化が、PTRに基づく個体群変化の推定値の解釈にどのようなバイアスをもたらし得るかが明らかとなった。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1996899",
+    "title": "Distribution of organic acids in root exudates of typical plants in alpine meadows and their effects on the abundance of soil denitrification functional genes",
+    "abstract": "Alpine meadows are important ecological barriers on the Qinghai-Tibet Plateau and potential hotspots of soil nitrous oxide (N2O) emissions. However, the underlying biochemical processes, particularly the mechanisms by which root exudates mediate denitrification, remain unclear. In this study, roots of Lolium perenne, Vicia unijuga, Stellera chamaejasme, Elymus dahuricus, and Dianthus superbus, which are typical dominant plants in alpine meadows, were selected as the study subjects. The composition and concentrations of organic acids in root exudates from different plants were analyzed. The effects of different organic acids on the abundance of soil culturable denitrifying bacteria and the abundance of denitrification functional genes (nirS, nirK, and nosZ I) were investigated. The results showed that 32 organic acids were detected in the root exudates of the five typical plants in the alpine meadow, among which 12-Hydroxystearic acid and 16-Hydroxyhexadecanoic acid were the main components. MPN analysis showed that the number of culturable denitrifying bacteria was generally lower in the treatment group than in the control group at 20 and 60 d, but increased at 100 d. The qPCR analysis showed that the effects of different organic acids on the abundance of soil denitrification functional genes varied, but the abundances of nirS, nirK, and nosZ I generally decreased with increasing culture time, with the highest values at 20 d. Three-way analysis of variance showed that the interaction among organic acid type, concentration, and culture time significantly affected the abundances of denitrification functional genes. In addition, organic acid treatments altered the (nirS + nirK)/nosZ I ratio. In particular, the (nirS + nirK)/nosZ I ratio under 12-Hydroxystearic acid treatment was significantly lower than that in the blank control at 100 d, suggesting that root exudates may shift the balance between the genetic potential for N2O production and reduction by altering the relative abundances of denitrification functional genes. This study suggests that organic acids may influence the genetic potential for soil denitrification in alpine meadows, providing a theoretical basis for understanding nitrogen cycling and guiding future research on greenhouse gas mitigation in this ecosystem.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1996899",
+    "date": "2026-11-25",
+    "authors": "Yanlin Li",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1996899",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5619,
+    "collected_at": "2026-11-25T15:46:29.923395+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-25",
+    "related_dois": [
+      "10.3389/fmicb.2026.1996899"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4a214361031690dd1312d61deb3c020b5a60fe82bedeafa60b03b73d081846ea",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:05:35.442399+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c015e81132fd6a1260aa9cb28fe4c2bd2757a411c1aff0d124db3743780e831c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:05:35.442399+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "高山草原の代表的な植物の根分泌物における有機酸の分布と、土壌脱窒機能遺伝子の存在量に及ぼす影響",
+    "abstract_ja": "高山草原は青蔵高原における重要な生態学的障壁であり、土壌亜酸化窒素（N2O）排出の潜在的なホットスポットである。しかし、その根底にある生化学的プロセス、特に根分泌物が脱窒を媒介するメカニズムは依然として不明である。本研究では、高山草原の代表的な優占植物であるLolium perenne、Vicia unijuga、Stellera chamaejasme、Elymus dahuricus、およびDianthus superbusの根を研究対象として選定した。異なる植物の根分泌物に含まれる有機酸の組成と濃度を分析した。各種有機酸が土壌の培養可能な脱窒細菌の存在量および脱窒機能遺伝子（nirS、nirK、nosZ I）の存在量に及ぼす影響を検討した。その結果、高山草原の5種の代表的な植物の根分泌物から32種類の有機酸が検出され、そのうち12-ヒドロキシステアリン酸と16-ヒドロキシヘキサデカン酸が主成分であった。MPN解析の結果、培養可能な脱窒細菌の数は、20日および60日では一般に対照群よりも処理群で少なかったが、100日では増加した。qPCR解析により、各種有機酸が土壌脱窒機能遺伝子の存在量に及ぼす影響は多様であったが、nirS、nirK、およびnosZ Iの存在量は一般に培養時間の増加とともに減少し、20日で最大値を示した。3元配置分散分析の結果、有機酸の種類、濃度、および培養時間の相互作用が脱窒機能遺伝子の存在量に有意な影響を及ぼすことが示された。さらに、有機酸処理によって(nirS + nirK)/nosZ I比が変化した。特に、12-ヒドロキシステアリン酸処理下における(nirS + nirK)/nosZ I比は、100日においてブランク対照群よりも有意に低く、根分泌物が脱窒機能遺伝子の相対存在量を変化させることで、N2O生成と還元の遺伝的ポテンシャル間のバランスを変化させる可能性が示唆された。本研究は、有機酸が高山草原における土壌脱窒の遺伝的ポテンシャルに影響を及ぼす可能性を示唆しており、窒素循環を理解するための理論的根拠を提供するとともに、本生態系における温室効果ガス緩和に関する今後の研究を導くものである。"
   }
 ]
