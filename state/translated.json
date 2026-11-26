@@ -337094,5 +337094,277 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "河川や湖沼における抗生物質耐性遺伝子の供給源と駆動要因",
     "abstract_ja": "河川および湖沼の薬剤耐性プロファイルの包括的な解析により、河川における薬剤耐性への水産養殖の寄与度が高まっていることが明らかになった。また、環境監視および早期警戒システムの強化に向けた知見が得られた。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.2008171",
+    "title": "Additional pathogen detection by targeted next-generation sequencing is associated with adjustment of antimicrobial therapy in pulmonary infection",
+    "abstract": "BackgroundTargeted next-generation sequencing (tNGS) can expand respiratory pathogen detection, but the relationship between additional microbiological findings and antimicrobial treatment decisions requires further characterization. We compared tNGS with conventional microbiological tests (CMTs), examined differences by immune status, and evaluated associations with treatment adjustment.MethodsThis single-center, retrospective study included 279 patients with clinically adjudicated pulmonary infections, comprising 196 immunocompetent and 83 immunocompromised patients. Paired detection proportions, standardized pathogen-set agreement, and polymicrobial co-detection were compared. A multivariable logistic regression analysis assessed the association between incremental tNGS findings and antimicrobial adjustment. A separate interrupted time-series analysis examined departmental antibiotic use density (AUD) over 12 months before and 12 months after tNGS implementation, excluding the transition month.ResultsThe overall detection rate was 87.8% among patients tested with tNGS and 61.3% among those tested with CMTs, a paired difference of 26.5 percentage points (95% confidence interval [CI], 20.8–32.4). Excluding human herpesviruses (HHVs), detection remained higher with tNGS (86.7% vs. 61.3%). Polymicrobial co-detection occurred in 52.0% of patients with tNGS vs. 17.6% with CMTs, and with tNGS it was more frequent among immunocompromised than immunocompetent patients (74.7% vs. 42.3%). Complete, partial, and discordant pathogen-set agreements accounted for 26.5%, 35.5%, and 38.0% of cases, respectively. CMT-negative/tNGS-positive status was associated with antimicrobial adjustment (adjusted odds ratio [aOR], 4.22; 95% CI, 2.09–8.50). Among the 171 CMT-positive patients, detecting additional tNGS taxa was also associated with antimicrobial adjustment (aOR, 2.14; 95% CI, 1.11–4.13). Departmental AUD showed an immediate decrease of 21.52 units (95% CI, 7.24–35.80) after tNGS implementation.ConclusiontNGS provided additional pathogen information across immune-status groups, with a greater burden of polymicrobial co-detection in immunocompromised patients. Incremental findings were associated with antimicrobial treatment adjustment in the primary analyses, although the association in the CMT-positive subgroup remained uncertain under combined strict restrictions. Prospective evaluation is needed to determine whether these treatment changes improve antimicrobial stewardship or clinical outcomes.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.2008171",
+    "date": "2026-11-25",
+    "authors": "Dan Xue",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.2008171",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbiological"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5622,
+    "collected_at": "2026-11-25T15:46:29.923395+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-25",
+    "related_dois": [
+      "10.3389/fmicb.2026.2008171"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5bb84ca3ab344807b64ce9b209adca2768a6b424554dbc73fa9113db7ba7db77",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:12:34.084657+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "15fcba0c8514a35e4c0cc02fd4f47f0a441f039f15a609b057b589671650d875",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:12:34.084657+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "標的型次世代シーケンシングによる追加の病原体検出は、肺感染症における抗菌薬療法の調整に関連している。",
+    "abstract_ja": "背景標的型次世代シーケンシング（tNGS）は呼吸器病原体の検出を拡大できるが、追加的な微生物学的所見と抗菌薬治療の決定との関連性については、さらなる特性評価が必要である。本研究では、tNGSと従来の微生物学的検査（CMT）を比較し、免疫状態による差異を検討し、治療調整との関連を評価した。方法本単施設後方視的研究には、臨床的に診断された肺感染症患者279例（免疫能正常患者196例、免疫不全患者83例）が組み入れられた。ペア検出率、標準化された病原体セット一致率、および多菌種共検出を比較した。多変数ロジスティック回帰分析を用いて、tNGSによる追加所見と抗菌薬調整との関連を評価した。別途、中断時系列解析を行い、移行月を除いたtNGS導入前後12か月間における診療科別の抗菌薬使用密度（AUD）を検討した。結果tNGSで検査した患者の全体的な検出率は87.8%であったのに対し、CMTで検査した患者では61.3%であり、ペア差は26.5パーセントポイント（95%信頼区間［CI］：20.8–32.4）であった。ヒトヘルペスウイルス（HHV）を除くと、tNGSの方が検出率が高かった（86.7% vs. 61.3%）。多菌種共検出は、tNGS患者の52.0%に認められたのに対し、CMTでは17.6%であった。また、tNGSでは免疫能正常患者よりも免疫不全患者で頻度が高かった（74.7% vs. 42.3%）。病原体セットの完全一致、部分一致、および不一致の割合は、それぞれ症例の26.5%、35.5%、38.0%であった。CMT陰性／tNGS陽性のステータスは、抗菌薬調整と関連していた（調整オッズ比［aOR］：4.22; 95% CI：2.09–8.50）。CMT陽性患者171例において、追加のtNGS分類群の検出も抗菌薬調整と関連していた（aOR：2.14; 95% CI：1.11–4.13）。診療科別のAUDは、tNGS導入後に21.52ユニット（95% CI：7.24–35.80）の即時的な減少を示した。結論tNGSは、免疫状態グループ間で追加的な病原体情報を提供し、免疫不全患者において多菌種共検出の負担がより大きかった。主要解析において、追加所見は抗菌薬治療の調整と関連していたが、CMT陽性サブグループにおける関連性は、厳格な制限を併用しても不確実なままであった。これらの治療変更が抗菌薬適正使用や臨床転帰を改善するかどうかを判断するには、前向き評価が必要である。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1923155",
+    "title": "Changes in iodine speciation in cultivation media induced by selected filamentous fungi revealed by capillary isotachophoresis",
+    "abstract": "IntroductionThis study investigated the ability of filamentous fungi to transform inorganic iodine species and the potential implications for fungal iodine biovolatilization.MethodsSix filamentous fungi were cultivated for 14 days in Sabouraud broth supplemented with potassium iodide (KI) or potassium iodate (KIO3) at an iodine concentration of 10 mg L−1. Residual iodine species in spent cultivation media were determined by capillary isotachophoresis.ResultsAll investigated fungi promoted the conversion of iodate to iodide to varying extents, demonstrating their participation in iodine redox transformations. The highest iodate reduction efficiencies were observed for Aspergillus. tenuissima, Trichoderma. viride, and Fusarium. poae, whereas Aaspergillus. terreus exhibited the lowest reduction capacity.DiscussionThe observed speciation patterns closely corresponded with previously reported accumulation and volatilization data, supporting the hypothesis that fungal biovolatilization proceeds through an initial reduction of iodate to iodide followed by methylation. These findings demonstrate that filamentous fungi modify iodine speciation, with potential implications for iodine mobility and bioavailability, and provide insight into microbial contributions to environmental iodine cycling.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1923155",
+    "date": "2026-11-25",
+    "authors": "Peter Matúš",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1923155",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Aspergillus",
+        "fungal",
+        "fungi",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5623,
+    "collected_at": "2026-11-25T15:46:29.923395+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-25",
+    "related_dois": [
+      "10.3389/fmicb.2026.1923155"
+    ],
+    "translation": {
+      "title": {
+        "hash": "bff08b2eca27750be3a96ec5af67f12ffb3dc998571570d5293bdd661253f800",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:12:34.084657+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "129bae994ae59e918618b8ce3b3a0accdcc0652db96cfc25862559ecc19b0062",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:12:34.084657+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "キャピラリー等速流法により明らかにした、選抜した糸状菌が培養液中で惹起するヨウ素の化学種変化",
+    "abstract_ja": "はじめに本研究では、糸状菌による無機ヨウ素種の変換能と、真菌によるヨウ素生揮発化への潜在的な影響について検討した。方法6種の糸状菌を、ヨウ素濃度10 mg L−1のヨウ化カリウム（KI）またはヨウ素酸カリウム（KIO3）を添加したサブロー培地で14日間培養した。使用済み培養液中の残留ヨウ素種をキャピラリー等速光度法により定量した。結果調査したすべての真菌において、ヨウ素酸からヨウ化物への変換がさまざまな程度で促進され、ヨウ素の酸化還元変換への関与が示された。ヨウ素酸の還元効率が最も高かったのはAspergillus tenuissima、Trichoderma viride、およびFusarium poaeであり、一方でAaspergillus terreusは最低の還元能を示した。考察観察された種分化パターンは、既報の蓄積および揮発化データと密接に一致しており、真菌による生揮発化が、まずヨウ素酸からヨウ化物への還元が行われ、続いてメチル化が起こるという仮説を支持するものである。これらの知見は、糸状菌がヨウ素の種分化を修飾することを示しており、ヨウ素の移動性とバイオアベイラビリティに潜在的な影響を及ぼすとともに、環境中のヨウ素循環に対する微生物の寄与に関する知見を与えるものである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.2017283",
+    "title": "Nitrogen fertilization differentially reshapes rhizosphere and bulk soil microbial communities in coastal saline-alkali rice paddies",
+    "abstract": "Nitrogen (N) fertilization strongly affects crop productivity and soil microbial assembly, yet its ecological effects in coastal saline-alkali rice systems remain poorly understood. Here, we conducted a field experiment in coastal saline-alkali rice paddies in Panjin, northeastern China, under three N-input regimes: zero-N input (N0), half-rate N (N1/2), and full-rate N (N1). By integrating high-throughput amplicon sequencing with agronomic and physiological assessments, we evaluated microbial dynamics across rhizosphere and bulk soils and their links to rice growth and yield. N fertilization significantly increased tiller number, leaf area index, dry matter accumulation, and grain yield, accompanied by clear microbial community differentiation between rhizosphere and bulk soil. In bulk soil, bacterial α-diversity peaked under N1/2, whereas rhizosphere bacterial diversity declined progressively with N input. Conversely, fungal α-diversity decreased with N application in bulk soil but increased in the rhizosphere. Co-occurrence network analysis showed that, from N0 to N1, the proportion of negative edges increased from 37.9% to 49.0% in bulk soil, whereas the rhizosphere network maintained a relatively stable proportion of negative edges (50.1% under N0, 45.3% under N1/2, and 51.1% under N1). PICRUSt2-based functional predictions indicated greater microbial functional potential in the rhizosphere than in bulk soil, although several specific pathways showed lower predicted relative abundances under N addition. Notably, the relative abundances of Geobacter (iron reduction/nutrient mobilization), Lutibacter (macromolecular C/N mineralization), and Hannaella (osmotic stress adaptation/growth promotion) were strongly and positively correlated with major yield-related traits. Overall, yield gains under N application were accompanied by shifts in belowground microbial communities, revealing a potential trade-off between crop productivity and microbial diversity. These findings provide a solid theoretical foundation for leveraging microbiome-based strategies to optimize N input and enhance fertilizer use efficiency in coastal saline-alkali agriculture.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.2017283",
+    "date": "2026-11-25",
+    "authors": "Chanchan Zhou",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.2017283",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "fungal",
+        "microbial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5624,
+    "collected_at": "2026-11-25T15:46:29.923395+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-25",
+    "related_dois": [
+      "10.3389/fmicb.2026.2017283"
+    ],
+    "translation": {
+      "title": {
+        "hash": "accbb179ccac2e06e4483235925da8f2062f2096037f087b8b89b2b5f4a9172b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:12:34.084657+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "fdce73dbfbea287cd7e9eb435699669e0fa2902a6a6fb536b94e728e9c439df8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:12:34.084657+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "窒素施肥は、沿岸部の塩基性・アルカリ性水田における根圏および土壌全体の微生物群集を差異的に再形成する。",
+    "abstract_ja": "窒素（N）施肥は作物の生産性と土壌微生物群集に強く影響を及ぼすが、沿岸部の塩基性アルカリ性稲作体系における生態学的影響については十分に解明されていない。本研究では、中国北東部の盤錦にある沿岸部の塩基性アルカリ性水田において、N投入ゼロ（N0）、半量N（N1/2）、および全量N（N1）の3つのN投入条件下で野外実験を実施した。ハイスループットアンプリコンシーケンシングと農学的・生理学的評価を統合することで、根圏および土壌バルクにおける微生物動態と、それらとイネの生育・収量との関連性を評価した。N施肥により、分げつ数、葉面積指数、乾物蓄積量、および穀粒収量が有意に増加し、根圏と土壌バルクの間で明確な微生物群集の分化が認められた。土壌バルクでは、細菌のα多様性はN1/2条件下でピークに達した一方、根圏の細菌多様性はN投入に伴い漸次低下した。対照的に、真菌のα多様性は土壌バルクではN施用により減少したが、根圏では増加した。共起ネットワーク解析の結果、N0からN1にかけて、土壌バルクにおける負のエッジの割合は37.9%から49.0%に増加したが、根圏ネットワークでは負のエッジの割合が比較的安定して維持された（N0条件下で50.1%、N1/2条件下で45.3%、N1条件下で51.1%）。PICRUSt2に基づく機能予測では、土壌バルクよりも根圏において微生物の機能的ポテンシャルが高いことが示されたが、いくつかの特定の経路ではN添加下で予測相対存在量が低くなった。特に、Geobacter（鉄還元／養分動員）、Lutibacter（高分子C/N無機化）、およびHannaella（浸透圧ストレス適応／生育促進）の相対存在量は、収量に関連する主要な形質と強く正の相関を示した。全体として、N施用による収量増加には地下の微生物群集の変化が伴っており、作物の生産性と微生物多様性の間に潜在的なトレードオフが存在することが明らかになった。これらの知見は、沿岸部の塩基性アルカリ性農業において、微生物叢に基づく戦略を活用してN投入を最適化し、肥料利用効率を向上させるための強固な理論的基盤を提供するものである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.2004601",
+    "title": "Integrative analysis of targeted metabolomics and high-throughput MiSeq sequencing reveals fermented cottonseed meal effects on fat deposition in broilers",
+    "abstract": "IntroductionWe evaluated the nutritional and metabolic responses of broilers to fermented cottonseed meal (FCSM) and a non-fermented Candida tropicalis ZD-3 preparation.MethodsIn a 21-day trial, 180 male Cobb 500 broilers were randomly assigned to diets containing 6% unfermented control material (CON), 6% dried C. tropicalis ZD-3 preparation (ZD-3), or 6% FCSM. We assessed growth performance, apparent nutrient digestibility, fat deposition, and the expression of lipid-related genes. We profiled organic and fatty acids in liver and abdominal fat by targeted metabolomics and characterized the cecal microbiota by 16S rRNA gene sequencing.ResultsCompared with CON, both experimental diets improved dry matter and crude protein digestibility, lowered the feed-to-gain ratio, and significantly reduced abdominal fat yield from 1.66% to 1.17% in ZD-3 and 0.95% in FCSM. Only FCSM increased average daily gain relative to CON. Both treatments decreased hepatic mRNA expression of fatty acid synthase (FAS) and increased that of lipoprotein lipase (LPL). Hepatic succinic and pantothenic acid concentrations were higher with both treatments, and succinic acid in abdominal fat was highest with FCSM. FCSM increased docosahexaenoic acid (DHA) in the liver and arachidonic acid in abdominal fat and decreased erucic acid in both tissues. Both treatments increased cecal microbial richness, and FCSM also increased the Shannon diversity index. FCSM increased the relative abundances of Bacteroides and Phascolarctobacterium, while ZD-3 increased those of Butyricimonas and Parabacteroides. The relative abundances of Bacteroides and Megamonas correlated negatively and positively, respectively, with abdominal fat percentage.DiscussionAt 6% dietary inclusion, FCSM and the dried ZD-3 preparation reduced abdominal fat yield and subcutaneous fat thickness. These responses were accompanied by changes in tissue organic and fatty acid profiles and distinct shifts in cecal microbial composition.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.2004601",
+    "date": "2026-11-25",
+    "authors": "Wenju Zhang",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.2004601",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "Candida",
+        "microbial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5625,
+    "collected_at": "2026-11-25T15:46:29.923395+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-25",
+    "related_dois": [
+      "10.3389/fmicb.2026.2004601"
+    ],
+    "translation": {
+      "title": {
+        "hash": "992e029426586e40381530db749a360b16724e619e3c4bf9fa3d214ad3b32c8b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:12:34.084657+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "fb47a13b2afb60f6c1108556334c6f72b61183552146898344d415803637c315",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:12:34.084657+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "標的メタボロミクスとハイスループットMiSeqシーケンシングの統合解析により、ブロイラーにおける脂肪沈着に及ぼす発酵綿実粕の影響が明らかになった。",
+    "abstract_ja": "はじめに本研究では、ブロイラーにおける発酵綿実粕（FCSM）および非発酵のCandida tropicalis ZD-3調製物の栄養・代謝応答を評価した。方法21日間の試験において、雄のCobb 500ブロイラー180羽を、6%の非発酵対照物質（CON）、6%の乾燥C. tropicalis ZD-3調製物（ZD-3）、または6%のFCSMを含む飼料に無作為に割り当てた。発育成績、見かけの栄養素消化率、脂肪沈着、および脂質関連遺伝子の発現を評価した。標的メタボロミクスにより肝臓および腹部脂肪中の有機物および脂肪酸のプロファイルを解析し、16S rRNA遺伝子シーケンシングにより盲腸微生物叢を特性評価した。結果CONと比較して、両試験飼料ともに乾物および粗タンパク質の消化率を改善し、飼料対増体比を低下させ、腹部脂肪収量を1.66%からZD-3では1.17%へ、FCSMでは0.95%へと有意に減少させた。CONと比較して、FCSMのみが平均日増体量を増加させた。両処理ともに、肝臓における脂肪酸合成酵素（FAS）のmRNA発現を減少させ、リポタンパク質リパーゼ（LPL）の発現を増加させた。肝臓のコハク酸およびパントテン酸濃度は両処理で高く、腹部脂肪中のコハク酸はFCSMで最も高かった。FCSMは肝臓のドコサヘキサエン酸（DHA）および腹部脂肪のアラキドン酸を増加させ、両組織においてエルカ酸を減少させた。両処理ともに盲腸微生物の豊富さを増加させ、FCSMはシャノン多様性指数も増加させた。FCSMはBacteroidesおよびPhascolarctobacteriumの相対存在量を増加させた一方、ZD-3はButyricimonasおよびParabacteroidesの相対存在量を増加させた。BacteroidesおよびMegamonasの相対存在量は、腹部脂肪率とそれぞれ負および正の相関を示した。考察飼料への6%配合において、FCSMおよび乾燥ZD-3調製物は腹部脂肪収量および皮下脂肪厚を減少させた。これらの応答には、組織の有機物および脂肪酸プロファイルの変化、ならびに盲腸微生物組成の顕著な変化が伴っていた。"
   }
 ]
