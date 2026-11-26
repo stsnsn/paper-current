@@ -342025,5 +342025,287 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "天水栽培冬小麦における長期耕起および堆肥施用の根圏細菌・真菌群集の応答",
     "abstract_ja": "長期耕起と堆肥施用は根圏微生物群集を変化させ得るが、細菌と真菌の応答は異なる場合がある。2007年に中国山西省で実施された天水小麦の実験において、慣行耕起（CT）、最小耕起（MT）、および堆肥施用の有無（CT + MおよびMT + M）における根圏微生物群集を比較した。16S rRNA遺伝子および内部転写スペーサー（ITS）アンプリコンシーケンシングを用いて、微生物多様性、分類学的組成、共起ネットワーク、およびそれらと土壌特性との関連性を評価した。堆肥施用は細菌の豊富さを増加させた一方、真菌の豊富さは堆肥施用およびその耕起との相互作用の影響を受けた。細菌および真菌のシャノン指数は、処理間において有意な差は認められなかった。耕起は真菌群集全体の組成に有意な影響を及ぼしたが、処理要因のいずれも細菌群集全体の組成に有意な影響を及ぼさなかった。優占分類群のうち、堆肥施用は特定の細菌群に影響を与え、一方で耕起は複数の真菌群に影響を与えた。CT処理と比較して、他の処理ではネットワークリンク数が少なく、ネットワーク密度が低く、モジュラリティが高かった。MT + M処理では、土壌有機炭素、可給態リン、および可給態カリウムの含有量が最も高かった。これらの知見は、天水小麦系における長期耕起および堆肥管理に対する細菌群集と真菌群集の顕著な応答と、それらと土壌特性との関連性を浮き彫りにしている。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1964478",
+    "title": "Oat β-glucan modulates the cecal microbiota and fatty acid profile, providing insights into gut microbiota-mediated growth promotion in weaned rabbits",
+    "abstract": "While our previous work demonstrated that dietary oat β-glucan improves growth performance (increased BW, ADG and ADFI) and mitigates systemic inflammation (reduced serum TNF-α, IL-1β and LPS) in weaned rabbits via colonic modulation, the upstream mechanisms within the cecum, which is the primary fermentation site, remained unexplored. To bridge this gap using data from the same experimental cohort, the present study specifically examines the cecal ecosystem and its contribution to these phenotypic benefits. Twenty-four three-week-old weaned female New Zealand White rabbits were randomly allocated to a control group (CT) and an oat β-glucan supplementation group (BG, 200 mg/kg body weight) for a 4-week trial. Although supplementation induced no significant changes in cecal morphology, the BG group showed significantly elevated concentrations of propionic acid, valeric acid, hexanoic acid and total short-chain fatty acids (SCFAs) in the cecum (p < 0.05), with butyric acid exhibiting an upward trend (p = 0.052). Although oat β-glucan supplementation did not significantly alter cecal microbiota α or β diversity, it induced specific compositional shifts, most notably a significant increase in the phylum Proteobacteria and the enrichment of certain bacterial genera, particularly Odoribacter. Notably, Odoribacter was positively associated with butyric acid (q = 0.024), and Proteobacteria with propionic acid (q = 0.006). Furthermore, Proteobacteria was negatively associated with LPS (q = 0.023), Odoribacter with TNF-α (q = 0.045), and Blastococcus with ADG (q = 0.031). These metabolic and microbial shifts in the cecum were consistent with a scenario in which they contribute to the aforementioned improvements in performance and inflammation, paralleling the alterations previously identified in the colon and suggesting a coordinated hindgut response to oat β-glucan supplementation. Together, these findings extend the characterization of colonic microbiota alterations induced by oat β-glucan to the cecum and outline an associative framework for its potential contribution to the growth and anti-inflammatory effects observed in this cohort.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1964478",
+    "date": "2026-11-26",
+    "authors": "Suizhong Cao",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1964478",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "microbial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5733,
+    "collected_at": "2026-11-26T09:41:35.790521+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.3389/fmicb.2026.1964478"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7b39c8ec214276bd4a276f8837c7eb77a9a8ffa07ae8da6d55b35e81bf2e546d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T10:31:15.958186+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "73f20f6ff6e54d55d7e4e1ff07043e9e0c3d96879a803ca42e243d24be84dddf",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T10:31:15.958186+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "オーツβ-グルカンは盲腸微生物叢と脂肪酸プロファイルを調節し、離乳ウサギにおける腸内微生物叢を介した成長促進に関する知見をもたらす。",
+    "abstract_ja": "先行研究において、飼料中のオーツβ-グルカンが結腸調節を介して離乳ウサギの成長パフォーマンス（体重、ADGおよびADFIの増加）を改善し、全身性炎症（血清TNF-α、IL-1βおよびLPSの減少）を軽減することが示されたが、主要な発酵部位である盲腸における上流メカニズムについては未解明のままであった。同一の実験コホートのデータを用いてこの知見の空白を埋めるため、本研究では特に盲腸のエコシステムと、これらの表現型上の利点に対するその寄与について検討した。3週齢の離乳雌ニュージーランドホワイトウサギ24匹を、対照群（CT）とオーツβ-グルカン補給群（BG、体重1kgあたり200 mg）に無作為に割り付け、4週間の試験を実施した。補給による盲腸形態の有意な変化は認められなかったが、BG群では盲腸におけるプロピオン酸、バレリン酸、ヘキサン酸および総短鎖脂肪酸（SCFAs）の濃度が有意に上昇し（p < 0.05）、酪酸については上昇傾向が認められた（p = 0.052）。オーツβ-グルカンの補給は盲腸微生物叢のαまたはβ多様性を有意に変化させなかったが、特定の組成変化を誘発し、特にプロテオバクテリア門の有意な増加と、特定の細菌属（特にOdoribacter属）の濃縮が認められた。特筆すべきは、Odoribacter属が酪酸と正の関連を示し（q = 0.024）、プロテオバクテリア門がプロピオン酸と正の関連を示した（q = 0.006）点である。さらに、プロテオバクテリア門はLPSと負の関連を（q = 0.023）、Odoribacter属はTNF-αと負の関連を（q = 0.045）、ブラストコッカス属はADGと負の関連を示した（q = 0.031）。盲腸におけるこれらの代謝および微生物学的変化は、前述のパフォーマンスおよび炎症の改善に寄与するというシナリオと整合しており、これは以前に結腸で同定された変化と並行するものであり、オーツβ-グルカン補給に対する後腸の協調的な応答を示唆している。以上の知見を総合すると、オーツβ-グルカンによって誘導される結腸微生物叢の変化に関する特性解析が盲腸まで拡張され、本コホートで観察された成長および抗炎症効果への潜在的な寄与に関する関連性の枠組みが提示された。"
+  },
+  {
+    "id": "10.1111/mec.70664",
+    "title": "Long‐Term Effects of Clear‐Cutting on Fungal Communities in Boreal Forest Soils",
+    "abstract": "ABSTRACT\nClear‐cut forestry has transformed boreal forests in Fennoscandia into a mosaic of homogeneous forest stands in different successional stages, while the proportion of old‐growth forests that have not been clear‐cut declines every year. We investigated long‐term consequences of clear‐cut forestry on fungal communities in boreal forest soils, focusing on how fungal communities in different soil depths respond to forestry. We established a paired‐plot study design that included 12 Norway spruce stands, clear‐cut 50–90 years ago and now ready for another round of clear‐cutting, each paired with a nearby near‐natural, non‐clear‐cut spruce forest. Fungal communities in seven different soil horizons, including two organic and five mineral horizons, were analysed using DNA metabarcoding of the ITS2 region as a fungal marker. While richness did not differ between the two forest types, community composition did. The fungal communities were strongly structured by soil depth, and a difference in community composition was found between the two forest types in most soil horizons. Numerous fungal groups showed strong long‐term responses to clear‐cut forestry. Archaeorhizomycetes, Elaphomycetaceae and Leotiales were more abundant in near‐natural forest soils and showed clear preferences for different soil horizons. Among ectomycorrhizal fungi, Cortinarius spp. were strongly associated with near‐natural forests. Our results demonstrate that clear‐cut forestry has long‐term effects on boreal soil fungal communities decades after clear‐cutting took place, even in deeper mineral horizons. Responses differed among genera and within ecological guilds, emphasising the importance of investigating the responses within guilds and not solely overall fungal community patterns.\nABSTRACT\nClear-cut forestry has transformed boreal forests in Fennoscandia into a mosaic of homogeneous forest stands in different successional stages, while the proportion of old-growth forests that have not been clear-cut declines every year. We investigated long-term consequences of clear-cut forestry on fungal communities in boreal forest soils, focusing on how fungal communities in different soil depths respond to forestry. We established a paired-plot study design that included 12 Norway spruce stands, clear-cut 50–90 years ago and now ready for another round of clear-cutting, each paired with a nearby near-natural, non-clear-cut spruce forest. Fungal communities in seven different soil horizons, including two organic and five mineral horizons, were analysed using DNA metabarcoding of the ITS2 region as a fungal marker. While richness did not differ between the two forest types, community composition did. The fungal communities were strongly structured by soil depth, and a difference in community composition was found between the two forest types in most soil horizons. Numerous fungal groups showed strong long-term responses to clear-cut forestry. Archaeorhizomycetes, Elaphomycetaceae and Leotiales were more abundant in near-natural forest soils and showed clear preferences for different soil horizons. Among ectomycorrhizal fungi, Cortinarius spp. were strongly associated with near-natural forests. Our results demonstrate that clear-cut forestry has long-term effects on boreal soil fungal communities decades after clear-cutting took place, even in deeper mineral horizons. Responses differed among genera and within ecological guilds, emphasising the importance of investigating the responses within guilds and not solely overall fungal community patterns.",
+    "journal": "Molecular Ecology",
+    "doi": "10.1111/mec.70664",
+    "date": "2026-11-18",
+    "authors": "Eivind Kverme Ronold, \nSundy Maurice, \nO. Janne Kjønaas, \nRieke Lo Madsen, \nJohan Asplund, \nRune Halvorsen, \nInger Skrede, \nAnders K. Krabberød, \nLine Nybakken, \nHåvard Kauserud",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://onlinelibrary.wiley.com/doi/10.1111/mec.70664?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungal",
+        "fungi"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://onlinelibrary.wiley.com/feed/1365294x/most-recent",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5755,
+    "collected_at": "2026-11-26T09:41:35.790521+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://onlinelibrary.wiley.com/feed/1365294x/most-recent"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1111/mec.70664"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f21443ed58009a08874de6ef6e8bad9a2422fc56361e51c5b9efbaba1ea7b3e0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T10:31:15.958186+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a76c049aa0a9933c7ba212eac22392e00cadcfdb228ba67d80807df22c18569c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T10:31:15.958186+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "北方林土壌における皆伐が菌類群集に及ぼす長期的影響",
+    "abstract_ja": "要旨\n皆伐林業により、フェノスカンジアの北方林は異なる遷移段階にある均質な林分のモザイクへと変貌しており、一方で皆伐されていない原生林の割合は年々減少している。本研究では、北方林土壌における菌類群集への皆伐林業の長期的影響を調査し、異なる土壌深度における菌類群集が林業にどのように応答するかに焦点を当てた。我々は、50～90年前に皆伐され、現在再び皆伐が行われる準備が整っている12か所の欧州トウヒ林と、近隣の自然に近い非皆伐トウヒ林をそれぞれペアとした対応プロット設計を採用した。有機層2層と鉱物層5層を含む7つの異なる土壌層における菌類群集を、菌類マーカーとしてITS2領域のDNAメタバーコーディングを用いて解析した。菌類の豊富さは2つの森林タイプ間で差が認められなかったが、群集組成には差が認められた。菌類群集は土壌深度によって強く構造化されており、ほとんどの土壌層において2つの森林タイプ間で群集組成の差異が認められた。数多くの菌類グループが、皆伐林業に対して強い長期的応答を示した。古根菌類、エラフォミケス科、およびレオティウム類は自然に近い森林土壌においてより豊富に存在し、異なる土壌層に対して明確な選好性を示した。外生菌根菌類の中では、Cortinarius属が自然に近い森林と強く関連していた。本研究の結果は、皆伐林業が、皆伐から数十年後であっても、より深い鉱物層においてさえ、北方林土壌の菌類群集に長期的な影響を及ぼすことを示している。応答は属間および生態ギルド内で異なっており、菌類群集全体のパターンだけでなく、ギルド内での応答を調査することの重要性を強調している。\n要旨\n皆伐林業により、フェノスカンジアの北方林は異なる遷移段階にある均質な林分のモザイクへと変貌しており、一方で皆伐されていない原生林の割合は年々減少している。本研究では、北方林土壌における菌類群集への皆伐林業の長期的影響を調査し、異なる土壌深度における菌類群集が林業にどのように応答するかに焦点を当てた。我々は、50～90年前に皆伐され、現在再び皆伐が行われる準備が整っている12か所の欧州トウヒ林と、近隣の自然に近い非皆伐トウヒ林をそれぞれペアとした対応プロット設計を採用した。有機層2層と鉱物層5層を含む7つの異なる土壌層における菌類群集を、菌類マーカーとしてITS2領域のDNAメタバーコーディングを用いて解析した。菌類の豊富さは2つの森林タイプ間で差が認められなかったが、群集組成には差が認められた。菌類群集は土壌深度によって強く構造化されており、ほとんどの土壌層において2つの森林タイプ間で群集組成の差異が認められた。数多くの菌類グループが、皆伐林業に対して強い長期的応答を示した。古根菌類、エラフォミケス科、およびレオティウム類は自然に近い森林土壌においてより豊富に存在し、異なる土壌層に対して明確な選好性を示した。外生菌根菌類の中では、Cortinarius属が自然に近い森林と強く関連していた。本研究の結果は、皆伐林業が、皆伐から数十年後であっても、より深い鉱物層においてさえ、北方林土壌の菌類群集に長期的な影響を及ぼすことを示している。応答は属間および生態ギルド内で異なっており、菌類群集全体のパターンだけでなく、ギルド内での応答を調査することの重要性を強調している。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1996435",
+    "title": "Antifungal activity and putative VOC-mediated inhibition of Botrytis fabiopsis by Streptomyces albidoflavus X13 isolated from Panax notoginseng",
+    "abstract": "In a search for biocontrol agents against gray mold disease of Panax notoginseng, the Streptomyces albidoflavus strain X13 was isolated from healthy P. notoginseng leaves. In dual-culture assays, X13 inhibited the gray mold pathogen Botrytis fabiopsis by 65% and exhibited broad-spectrum antifungal activity against six other P. notoginseng pathogens; foliar application of X13 in pot experiments further achieved 99.52% control efficacy against gray mold. X13 possessed multiple plant growth-promoting traits, including ammonia production, growth on nitrogen-free medium, production of the phytohormones IAA and GA, and ACC deaminase activity, and secreted the extracellular enzymes protease, chitinase, and β-1,3-glucanase. Comparative assays showed that the antagonistic activity of X13 was mediated primarily by volatile organic compounds (VOCs) rather than non-volatile metabolites. Untargeted GC-MS metabolomics identified 154 differentially abundant VOCs, among which dimethyl trisulfide, 2-decanone, and nonanal emerged as the major candidate antifungal compounds, causing mycelial malformation of B. fabiopsis with EC50 values of 274.3, 1,087, and 1,120 μg/L, respectively (theoretical headspace estimates). These findings identify X13 as a promising microbial resource for the eco-friendly biocontrol of gray mold of P. notoginseng; the contribution of VOCs to its efficacy under in planta conditions remains to be verified.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1996435",
+    "date": "2026-11-26",
+    "authors": "Wei-Wei Gao",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1996435",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Streptomyces",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5734,
+    "collected_at": "2026-11-26T09:41:35.790521+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.3389/fmicb.2026.1996435"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6b9401148a687fb5b2c18a103566996f4f4ef51a9515445f3b2b442ac6bd0722",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T10:31:15.958186+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b28ca4b2f64c9b458ef4a4b354c49aace1511fe863ef047f466fcab5d803b751",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T10:31:15.958186+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "オタネニンジンから単離したStreptomyces albidoflavus X13によるBotrytis fabiopsisに対する抗真菌活性および推定VOC介在性阻害作用",
+    "abstract_ja": "オタネニンジンの灰色かび病に対する生物的防除剤の探索において、健全なオタネニンジンの葉からStreptomyces albidoflavus株X13を単離した。二重培養アッセイにおいて、X13は灰色かび病菌Botrytis fabiopsisを65%抑制し、他の6種類のオタネニンジン病原菌に対しても広範な抗真菌活性を示した。ポット試験におけるX13の葉面散布では、さらに灰色かび病に対して99.52%の防除効果が認められた。X13は、アンモニア産生、窒素非含有培地での生育、植物ホルモンIAAおよびGAの産生、ACC脱アミノ酵素活性を含む複数の植物成長促進形質を有し、細胞外酵素としてプロテアーゼ、キチナーゼ、およびβ-1,3-グルカナーゼを分泌した。比較アッセイにより、X13の拮抗活性は、非揮発性代謝物ではなく、主に揮発性有機化合物（VOC）によって媒介されることが示された。非標的型GC-MSメタボロミクスにより154種類の差次的存在量を持つVOCが同定され、そのうちジメチルトリスルフィド、2-デカノン、およびノナナールが主要な抗真菌候補化合物として浮上し、B. fabiopsisに菌糸変形を引き起こした。そのEC50値は、それぞれ274.3、1,087、および1,120 μg/Lであった（理論上のヘッドスペース推定値）。これらの知見は、X13がオタネニンジンの灰色かび病の環境に優しい生物的防除のための有望な微生物資源であることを示しており、植物体内条件下におけるその有効性に対するVOCの寄与については今後の検証が必要である。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1979616",
+    "title": "Long-term starvation, nutrient-triggered resurgence, and the biogeographic distribution of marine bacterial taxa",
+    "abstract": "In natural ecosystems, microorganisms face unpredictable environmental fluctuations, and nutrient starvation is a pervasive stressor. Surface waters of the Mariana Trench region are chronically oligotrophic, with microbial communities alternating between prolonged nutrient deprivation and episodic nutrient pulses. To identify bacterial taxa showing molecular persistence under prolonged starvation and relative resurgence after nutrient replenishment, we incubated Mariana Trench surface seawater in the dark under nutrient deprivation for 24 months and then amended the starved community with either dilute complex organic medium (1/100-strength 2216E) or a simple algal-derived substrate (Synechococcus sp. PCC7002 lysate). Six experimental units were used: two replicate barrels per substrate treatment, one sterile artificial seawater control, and one sterile artificial seawater barrel amended with PCC7002 lysate powder. Community responses were characterized by paired 16S rRNA gene (DNA) and 16S rRNA (cDNA) amplicon sequencing. No direct cell counting was performed, and all abundance values are relative read abundances rather than absolute cell abundances. After 24 months, dissolved organic carbon declined by ca. 10%, but community structure was profoundly reshuffled. Ten initially rare OTUs (each 1% after long-term incubation, consistent with the microbial seed bank concept. Nutrient amendment triggered resurgence of 29 OTUs, which partitioned into three response types with clear treatment-specific preferences. Elevated 16S rRNA:16S rRNA gene ratios indicated enhanced transcriptional activity of resurging populations, with the first detectable response at one day post amendment. Cross-referencing against 39 Tara Oceans surface stations showed that 75% of analyzable starvation-tolerant genera and 82% of analyzable resurgent genera occurred at ≥30 stations across the Pacific, Atlantic, Indian and Southern Oceans. These results suggest that starvation tolerance and nutrient responsiveness are ecological traits associated with broad biogeographic occurrence, supporting a plausible link between microbial life-history strategies and large-scale biogeographic patterns in the oligotrophic ocean, although our correlational data cannot establish causality.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1979616",
+    "date": "2026-11-26",
+    "authors": "Lu Wang",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1979616",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "Synechococcus",
+        "bacteria",
+        "bacterial",
+        "microbial",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [
+          "marine",
+          "ocean",
+          "seawater"
+        ],
+        "genomics": [
+          "DNA",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5735,
+    "collected_at": "2026-11-26T09:41:35.790521+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.3389/fmicb.2026.1979616"
+    ],
+    "translation": {
+      "title": {
+        "hash": "96de216b864b314fea0faebc5a5792bba11b84e75674f9d6d8ccaa51ec4dd19c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T10:31:15.958186+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3853bc4fde64e04ffdc76021c580497a529dcdc18933fc8fbd34527128371189",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T10:31:15.958186+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "長期飢餓、栄養誘起性再興、および海洋細菌分類群の生物地理学的分布",
+    "abstract_ja": "自然生態系において、微生物は予測不能な環境変動に直面しており、栄養飢餓は普遍的なストレス要因となっている。マリアナ海溝地域の表層水は慢性的に貧栄養状態にあり、微生物群集は長期的な栄養欠乏と断続的な栄養パルスを繰り返している。長期の飢餓下で分子的な持続性を示し、栄養補充後に相対的な再興を示す細菌分類群を同定するため、我々はマリアナ海溝の表層海水を栄養欠乏条件下で24か月間暗所で培養し、その後、飢餓状態の群集に希釈複合有機培地（1/100濃度の2216E）または単純な藻類由来基質（Synechococcus sp. PCC7002 ライセート）を添加した。実験単位として、基質処理ごとに2本の反復バレル、1本の無菌人工海水対照バレル、およびPCC7002ライセート粉末を添加した1本の無菌人工海水バレルを用いた。群集の応答は、16S rRNA遺伝子（DNA）および16S rRNA（cDNA）のペアアンプリコンシーケンシングによって特性評価した。直接的な細胞計数は行わず、すべての存在量値は絶対的な細胞存在量ではなく、相対的なリード存在量である。24か月後、溶存有機炭素は約10%減少したが、群集構造は著しく再編された。当初稀であった10種のOTU（長期培養後にはそれぞれ1%となり、これは微生物シードバンクの概念と一致する）が、栄養添加によって29種のOTUの再興が誘発され、これらは処理特異的な明確な選好性を持つ3つの応答タイプに分かれた。16S rRNA:16S rRNA遺伝子比の上昇は、再興した個体群の転写活性の亢進を示しており、添加後1日目に最初の検出可能な応答が認められた。39か所のTara Oceans表層観測所との照合により、解析可能な飢餓耐性属の75%、および解析可能な再興属の82%が、太平洋、大西洋、インド洋、および南氷洋にわたる30か所以上の観測所で認められた。これらの結果は、飢餓耐性と栄養応答性が広範な生物地理学的分布に関連する生態学的形質であることを示唆しており、貧栄養海洋における微生物の生活史戦略と大規模な生物地理学的パターンとの間に妥当な関連性があることを支持しているが、我々の相関データでは因果関係を立証することはできない。"
   }
 ]
