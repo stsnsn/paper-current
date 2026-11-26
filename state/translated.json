@@ -344086,5 +344086,136 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "更新可能なヒトウイルスームデータベースおよびツールキット：ヒトウイルスーム解析のための新規フレームワーク",
     "abstract_ja": "要旨ヒトメタゲノムにおけるウイルス解析の現行の計算手法は、主に消化管検体由来の断片化されたウイルスゲノムで構成される静的なデータベースに依存している。この問題により、消化管外にのみ存在するウイルスの同定が制限され、高品質なゲノムを必要とする解析に支障をきたしている。これらの課題に対処するため、我々は、既存のヒトバイロームデータベースおよび多様なヒト検体メタゲノムアセンブリから統合された、115万件の高品質でクラスタリングおよびアノテーション済みのウイルスゲノムを収録する拡張可能なデータベース「Updateable Human Virome Database (UHVDB)」を構築した。また、ユーザーが(i) ウイルス配列のマイニング、クラスタリング、およびアノテーションによってUHVDBを更新し、(ii) メタゲノムおよびメタトランスクリプトームにおけるウイルスの分類学的プロファイリングを行い、(iii) ファージ対宿主比を用いてファージの複製活性を推定し、(iv) 検出されたウイルスのゲノム特性を特定できる関連ツールキットを開発した。UHVDBおよびその関連ツールキットの有用性を示すため、嚢胞性線維症患者の口腔・気道検体1,949検体と、急性呼吸器感染症患者のメタトランスクリプトームの別個のデータセットを解析した。UHVDBは、健康と疾患に対するウイルスの寄与を定義する能力を拡大する、バイローム解析のための新たなフレームワークである。"
+  },
+  {
+    "id": "10.1093/nar/gkag1265",
+    "title": "ATM-mediated displacement of BRD4 from damaged chromatin",
+    "abstract": "AbstractBromodomain-containing protein 4 (BRD4) is a chromatin reader that plays a critical role in genome maintenance. BRD4 binds to acetylated histones and acts as a scaffold to recruit various factors involved in chromatin remodeling, transcription initiation and elongation, and DNA repair. Despite BRD4’s central role in these key processes, the mechanisms that regulate its activity and dynamic interactions with chromatin are not fully understood. Using Xenopus egg extracts, we identified BRD4 as a novel substrate of the damage response kinase ataxia-telangiectasia mutated (ATM). In response to DNA double-strand breaks, ATM rapidly phosphorylates and displaces BRD4 from acetylated histones. Displacing BRD4 from chromatin promotes histone deacetylation that modulates chromatin accessibility, DNA end processing, and repair. These findings establish a rapid, signaling-dependent mechanism for regulating BRD4 function by controlling its association with chromatin.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1265",
+    "date": "2026-11-26",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1265/9133941?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5778,
+    "collected_at": "2026-11-26T19:48:23.275553+00:00",
+    "collected_date": "2026-11-27",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/3091.xml"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1093/nar/gkag1265"
+    ],
+    "translation": {
+      "title": {
+        "hash": "bb339854a165a9d8b252bb708ab12852442623a2d4bffe2be65348237fb7282d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T20:25:45.529978+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "796a88e13500f999e5e52fe3da4b37bd43e9a3fddb11424e0a49291395dd3d80",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T20:25:45.529978+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ATMを介した損傷クロマチンからのBRD4の置換",
+    "abstract_ja": "要旨ブロモドメイン含有タンパク質4（BRD4）は、ゲノム維持において極めて重要な役割を担うクロマチンリーダーである。BRD4はアセチル化ヒストンに結合し、クロマチンリモデリング、転写開始および伸長、ならびにDNA修復に関与する様々な因子をリクルートするための足場として機能する。これらの主要なプロセスにおいてBRD4が中心的な役割を担っているにもかかわらず、その活性を調節する機構やクロマチンとの動的な相互作用については十分に解明されていない。本研究では、ゼノパス卵抽出液を用いて、BRD4が損傷応答キナーゼである運動失調・毛細血管拡張症変異型（ATM）の新規基質であることを同定した。DNA二本鎖切断に応答して、ATMはBRD4を速やかにリン酸化し、アセチル化ヒストンから除去する。BRD4をクロマチンから除去することでヒストン脱アセチル化が促進され、クロマチンのアクセシビリティ、DNA末端処理、および修復が調節される。これらの知見は、クロマチンとの結合を制御することで、BRD4の機能を調節する迅速かつシグナル依存的な機構を確立するものである。"
+  },
+  {
+    "id": "10.1093/nar/gkag1327",
+    "title": "Editor’s Note on ‘Control of small inhibitory RNA levels and RNA interference by doxycycline induced activation of a minimal RNA polymerase III promoter’",
+    "abstract": "This is an editor’s note regarding: Lahouari Amar, Mathieu Desclaux, Nicole Faucon-Biguet, Jacques Mallet, Roland Vogel, Control of small inhibitory RNA levels and RNA interference by doxycycline induced activation of a minimal RNA polymerase III promoter, Nucleic Acids Research, Volume 34, Issue 5, 1 March 2006, Page e37, https://doi.org/10.1093/nar/gkl034",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1327",
+    "date": "2026-11-26",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1327/9133935?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5779,
+    "collected_at": "2026-11-26T19:48:23.275553+00:00",
+    "collected_date": "2026-11-27",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/3091.xml"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1093/nar/gkag1327"
+    ],
+    "translation": {
+      "title": {
+        "hash": "eb055a83f45e07728b6f170f5676a12557959b4504b24ad06bf0a61faf365e43",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T20:25:45.529978+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c7d495403995b4cdc597eb6626c11a088fb8a45e150b906bab6ccdc09a292e13",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T20:25:45.529978+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "「ドキシサイクリン誘導性の最小RNAポリメラーゼIIIプロモーター活性化による低レベル抑制性RNA量およびRNA干渉の制御」に関する編集者注",
+    "abstract_ja": "以下に関する編集者注：Lahouari Amar, Mathieu Desclaux, Nicole Faucon-Biguet, Jacques Mallet, Roland Vogel, Control of small inhibitory RNA levels and RNA interference by doxycycline induced activation of a minimal RNA polymerase III promoter, Nucleic Acids Research, Volume 34, Issue 5, 1 March 2006, Page e37, https://doi.org/10.1093/nar/gkl034"
   }
 ]
