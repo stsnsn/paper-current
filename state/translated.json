@@ -339282,5 +339282,284 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "呼吸器系および神経系ウイルスの感染研究に向けたヒト肺および脳オルガノイドのライブビブラトーム切片作製",
     "abstract_ja": "本報では、ヒト肺オルガノイドおよびヒト脳オルガノイドから、生体内の薄い（300マイクロメートル）振動切片を作製するための、堅牢かつ再現性の高いプロトコルを提示する。本手法は、本来の三次元組織構造、細胞不均一性、および生存能を培養下で少なくとも7日間維持し、呼吸器系および神経向性ウイルス感染を研究するための生理学的に意義のあるプラットフォームを提供する。感染後、試料は固定、凍結保護処理、および後続のクライオセセションのための埋め込みが可能である。これらのオルガノイド切片は、ウイルスの侵入、複製、および宿主応答の効率的な解析を可能にする。本技術は、免疫蛍光法、RNA in situハイブリダイゼーション法、空間トランスクリプトミクス、生細胞イメージング、および広範な高度な分子・細胞アッセイと容易に併用可能である。平均して単一のオルガノイドから5枚の切片が得られ、コストと生物学的ばらつきを低減しつつ、実験スループットを大幅に向上させる。三次元オルガノイド系の生理学的複雑性と、組織切片ベースのアッセイの簡便性と拡張性を組み合わせることで、本プラットフォームは呼吸器系および神経疾患のモデリングにおける重要なギャップを埋めるものである。本プロトコルは、ヒトの肺および脳組織における呼吸器系および神経向性ウイルスの病態形成、宿主・病原体相互作用、および治療的介入を研究するための、汎用性の高い高解像度フレームワークを提供する。"
+  },
+  {
+    "id": "10.1186/s42523-026-00657-3",
+    "title": "The gut microbiota and metabolomic profiles in cutaneous and renal glomerular vasculopathy-affected dogs reveal a pattern consistent with early-onset starvation",
+    "abstract": "Background\n                     Canine Cutaneous and Renal Glomerular Vasculopathy (CRGV) is a frequently fatal, idiopathic disease characterised by cutaneous lesions and vasculopathy of the glomerular vessels associated with thrombotic microangiopathy and acute kidney injury. Studies have been unable to identify the aetiology of CRGV; however, multiple bacterial causes have been hypothesised with limited evidence. Here, we characterised the faecal microbiota and metabolome of CRGV-affected (n = 85) and medically healthy (MH; n = 96) dogs using 16S rRNA gene sequencing and proton nuclear magnetic resonance spectroscopy (1H NMR).\n                  \n                     Results\n                     Alpha diversity (Shannon entropy, Chao1 richness, observed features) differed significantly between MH and CRGV-affected dogs (p < 0.05 Benjamini–Hochberg (BH) false discovery rate (FDR) -adjusted). A non-metric multidimensional scaling (NMDS) analysis using Bray–Curtis dissimilarity based on family-level abundance (PERMANOVA p = 0.005 BH FDR-adjusted; PERMDISP p = 0.001 BH FDR-adjusted) showed distinct clustering between cohorts. Seven bacterial families (Anaeroplasmataceae, Bacteroidaceae, Clostridiaceae, Enterobacteriaceae, Enterococcaceae, Peptostreptococcaceae, and Ruminococcaceae) were most strongly associated with variation in community structure in the NMDS ordination. Analysis of Compositions of Microbiomes with Bias Correction 2 (ANCOM-BC2), adjusted for metadata variables to account for potential confounding factors (e.g., breed class size), identified seven bacterial families that differed significantly between cohorts (q < 0.05 BH FDR-adjusted); four of these (Enterobacteriaceae, Enterococcaceae, Prevotellaceae, and Veillonellaceae) remained significant in pseudo-count sensitivity analysis. The remaining three (Coriobacteriaceae, Peptostreptococcaceae, and unclassified Clostridia) were not robust to pseudo-count addition. Relative to MH samples, CRGV-affected samples exhibited higher abundance of Enterobacteriaceae and Enterococcaceae, and lower abundance of Prevotellaceae and Veillonellaceae. Metabolomic analysis further revealed differences in several metabolites consistent with a starvation-like metabolic profile (alanine, choline, methylsuccinic acid, and valine).\n                  \n                     Conclusion\n                     Taken together, the elevated amino acids, including branched-chain amino acids (BCAAs), alongside increases in Enterobacteriaceae and Enterococcaceae in CRGV-affected dogs, are consistent with metabolic alterations that resemble profiles reported in humans and murine models. While inappetence is clinically expected in these animals, the combined microbiota–metabolite profile is consistent with a starvation-like metabolic profile, offering new insight into the metabolic profiles associated with CRGV and opening potential avenues to explore nutritional interventions as a supportive treatment for CRGV.\n                  \n                     Graphical Abstract",
+    "journal": "Animal Microbiome",
+    "doi": "10.1186/s42523-026-00657-3",
+    "date": "2026-11-26",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s42523-026-00657-3",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "bacteria",
+        "bacterial",
+        "microbiome",
+        "microbiomes",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=42523",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5741,
+    "collected_at": "2026-11-26T09:41:35.790521+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=42523"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1186/s42523-026-00657-3"
+    ],
+    "translation": {
+      "title": {
+        "hash": "09dc842811618084de4f5459b1a846a1b57c41abf5fa0f0aafd436170cabdbd3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T10:02:51.181296+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ff69f78d2596e3e5a570db23443b62af864cec9b3f5ec61dd5761b1524146865",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T10:02:51.181296+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "皮膚および腎糸球体血管障害を発症した犬における腸内細菌叢およびメタボロームプロファイルは、早期発症性飢餓と一致するパターンを示す。",
+    "abstract_ja": "背景\n                     犬の皮膚・腎糸球体血管症（CRGV）は、血栓性微小血管症および急性腎障害を伴う皮膚病変と糸球体血管の血管障害を特徴とする、しばしば致死的な特発性疾患である。これまでCRGVの病因を特定する研究は行われていないが、限定的なエビデンスに基づき、複数の細菌性原因が仮説として提唱されてきた。本研究では、16S rRNA遺伝子シーケンシングおよびプロトン核磁気共鳴分光法（1H NMR）を用いて、CRGV罹患犬（n = 85）および医学的に健康な犬（MH; n = 96）の糞便微生物叢およびメタボロームを特性評価した。\n                  \n                     結果\n                     アルファ多様性（シャノンエントロピー、Chao1リッチネス、観察された特徴）は、MHとCRGV罹患犬の間で有意に異なっていた（p < 0.05 Benjamini–Hochberg (BH) 偽発見率（FDR）補正後）。ファミリーレベルの存在量に基づくBray–Curtis非類似度を用いた非計量多次元尺度構成法（NMDS）解析（PERMANOVA p = 0.005 BH FDR補正後；PERMDISP p = 0.001 BH FDR補正後）により、コホート間で明確なクラスター形成が認められた。NMDSオードネーションにおいて、7つの細菌ファミリー（Anaeroplasmataceae、Bacteroidaceae、Clostridiaceae、Enterobacteriaceae、Enterococcaceae、Peptostreptococcaceae、およびRuminococcaceae）が、群集構造の変動と最も強く関連していた。潜在的な交絡因子（例：犬種クラスサイズ）を考慮してメタデータ変数を調整したバイアス補正マイクロバイオーム組成解析（ANCOM-BC2）により、コホート間で有意に異なる7つの細菌ファミリーが同定された（q < 0.05 BH FDR補正後）。このうち4つ（Enterobacteriaceae、Enterococcaceae、Prevotellaceae、およびVeillonellaceae）は、擬似カウント感度解析においても有意であった。残りの3つ（Coriobacteriaceae、Peptostreptococcaceae、および未分類のClostridia）は、擬似カウントの追加に対する頑健性を示さなかった。MHサンプルと比較して、CRGV罹患サンプルではEnterobacteriaceaeおよびEnterococcaceaeの存在量が高く、PrevotellaceaeおよびVeillonellaceaeの存在量が低く認められた。メタボローム解析により、飢餓様の代謝プロファイル（アラニン、コリン、メチルコハク酸、およびバリン）と一致する複数の代謝物の差異がさらに明らかになった。\n                  \n                     結論\n                     以上の結果を総合すると、CRGV罹患犬における分岐鎖アミノ酸（BCAAs）を含むアミノ酸の上昇、およびEnterobacteriaceaeとEnterococcaceaeの増加は、ヒトおよびマウスモデルで報告されているプロファイルに類似した代謝変化と一致している。これらの動物では臨床的に食欲不振が予想されるが、微生物叢と代謝物の複合プロファイルは飢餓様の代謝プロファイルと一致しており、CRGVに関連する代謝プロファイルに関する新たな知見を提供するとともに、CRGVの支持療法としての栄養介入を検討する潜在的な道を開くものである。\n                  \n                     Graphical Abstract"
+  },
+  {
+    "id": "10.1093/bioinformatics/btag872",
+    "title": "pdb_cpp: a C ++ library with Python bindings for fast parsing, interface analysis and docking evaluation of macromolecular complexes",
+    "abstract": "AbstractSummarypdb_cpp is an open-source C ++ library with Python bindings that unifies coordinate parsing, atom selection, hydrogen-bond detection, solvent-accessible surface area calculation, and DockQ and TM-score/US-align based structural comparison on one shared coordinate representation, enabling fast end-to-end evaluation of docked and AlphaFold-predicted complexes without repeated format conversion.Availability and implementationpdb_cpp is implemented in C ++ with Python bindings, distributed under the GPL-2.0-or-later license, and available from PyPI and GitHub at https://github.com/samuelmurail/pdb_cpp. Documentation is available at https://pdb-cpp.readthedocs.io.Supplementary informationSupplementary figures and benchmark results for peak memory usage, DockQ, TM-score, and SASA are available online at Bioinformatics.\\",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag872",
+    "date": "2026-11-25",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag872/9131834?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5713,
+    "collected_at": "2026-11-26T09:41:35.790521+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1093/bioinformatics/btag872"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ad24207b7bcc5aff716d28de6717836dd6b7ce7df1003be285592feac8ef7ad2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T10:02:51.181296+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a1c7db08931be8b23879e1e2c0ce688c9cf02b9d72e9f564189c7a792b33666f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T10:02:51.181296+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "pdb_cpp: 高分子複合体の高速なパース、インターフェース解析、およびドッキング評価のためのPythonバインディングを備えたC++ライブラリ",
+    "abstract_ja": "概要pdb_cppは、Pythonバインディングを備えたオープンソースのC++ライブラリであり、座標解析、原子選択、水素結合検出、溶媒アクセス可能表面積の算出、およびDockQとTM-score/US-alignに基づく構造比較を単一の共有座標表現に統合することで、フォーマット変換を繰り返すことなく、ドッキング済み複合体およびAlphaFold予測複合体の高速なエンドツーエンド評価を可能にする。利用可能性と実装pdb_cppはPythonバインディングを備えたC++で実装されており、GPL-2.0-or-laterライセンスの下で配布され、PyPIおよびGitHub（https://github.com/samuelmurail/pdb_cpp）から入手可能である。ドキュメントはhttps://pdb-cpp.readthedocs.ioで公開されている。補足情報ピークメモリ使用量、DockQ、TM-score、およびSASAに関する補足図およびベンチマーク結果は、Bioinformaticsにてオンラインで公開されている。\\"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 8",
+        "query": "(JOURNAL:\"Microbial Biotechnology\" OR JOURNAL:\"Extremophiles\" OR JOURNAL:\"Genome Biology and Evolution\" OR JOURNAL:\"Molecular Biology and Evolution\" OR JOURNAL:\"Molecular Ecology\" OR JOURNAL:\"Molecular Ecology Resources\" OR JOURNAL:\"Molecular Phylogenetics and Evolution\" OR JOURNAL:\"Bioinformatics Advances\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1093/bioadv/vbag317",
+    "title": "oddSNP: a predictive framework for optimizing multiplexed single-cell RNA-seq experiments.",
+    "abstract": "MotivationDonor multiplexing is a powerful strategy to increase scale, lower the costs, and reduce batch effects in single-cell RNA sequencing (scRNAseq), but clear guidelines for experimental design are lacking, forcing researchers to risk costly demultiplexing failures.ResultsWe introduce SNP-Information Content (SNP-IC), a quantitative metric computable from simple unpooled pilot data that accurately predicts the success of genotype-based demultiplexing. Across multiple large-scale datasets using stem cell and organoid models, we establish a robust SNP-IC threshold of approximately 50, above which cells can be reliably assigned to their donor of origin. For more challenging genotype-free approaches, we define a pairwise metric, cpSNP-IC, and demonstrate a much higher requirement of approximately 3000.Availability and implementationOur open-source framework, oddSNP, implements this predictive model to enable in-silico titration of sequencing depth and donor complexity, allowing researchers to optimize study design before large-scale deployment, while managing costs and minimizing the risk of catastrophic data loss. oddSNP can be installed directly from PyPI and Bioconda. Source code is also freely available from GitHub at https://www.github.com/nemoto-lab/oddSNP (with release versions also available in Zenodo at DOI 10.5281/zenodo.19378022). Novel scRNAseq data used as part of this study is available at the Gene Expression Omnibus (GEO) website under accession GSE334633.",
+    "journal": "Bioinformatics Advances",
+    "doi": "10.1093/bioadv/vbag317",
+    "date": "2026-11-03",
+    "authors": "Allendes Osorio RS, Nishimura T, Shigihara Y, Kimura M, Takebe T, Nemoto T.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43080886",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43080886",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "framework"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "RNA",
+          "framework"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5607,
+    "collected_at": "2026-11-26T09:31:03.499381+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "Europe PMC journals 8"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1093/bioadv/vbag317"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6d1e9d9a7d9cb188300f7a4d6571384f9bfc63dd479eaac2e9ae0b08ad6d09cd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T10:02:51.181296+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "869165c39a73b5b47a1e5b82139d4da71b5bac0fb1676fa5e60b747d4145f3fc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T10:02:51.181296+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "oddSNP: マルチプレックス単一細胞RNA-seq実験を最適化するための予測フレームワーク。",
+    "abstract_ja": "動機ドナーマルチプレクシングは、シングルセルRNAシーケンシング（scRNAseq）においてスケールを拡大し、コストを削減し、バッチ効果を軽減するための強力な戦略であるが、実験設計に関する明確なガイドラインが不足しており、研究者はコストのかかるデマルチプレクシングの失敗というリスクを冒さざるを得ない状況にある。結果我々は、単純な未プールのパイロットデータから算出可能で、遺伝子型に基づくデマルチプレクシングの成否を正確に予測する定量的指標「SNP-Information Content（SNP-IC）」を提案する。幹細胞およびオルガノイドモデルを用いた複数の大規模データセットにおいて、約50という頑健なSNP-IC閾値を確立し、この値を超える細胞は由来ドナーに確実に割り当てることができる。より困難な遺伝子型フリーのアプローチについては、ペアワイズ指標であるcpSNP-ICを定義し、約3000というはるかに高い要件を実証する。利用可能性と実装我々のオープンソースフレームワークであるoddSNPは、この予測モデルを実装することで、シーケンシング深度とドナーの複雑性のin-silicoタイトレーションを可能にし、研究者が大規模な展開に先立って研究設計を最適化しつつ、コストを管理し、壊滅的なデータ損失のリスクを最小限に抑えられるようにする。oddSNPはPyPIおよびBiocondaから直接インストール可能である。ソースコードはGitHub（https://www.github.com/nemoto-lab/oddSNP）からも自由に入手可能である（リリース版はZenodo（DOI 10.5281/zenodo.19378022）でも提供されている）。本研究の一部として使用された新規scRNAseqデータは、Gene Expression Omnibus（GEO）ウェブサイトのアクセッション番号GSE334633で公開されている。"
+  },
+  {
+    "id": "10.1111/1462-2920.70501",
+    "title": "Biocrust Type Modulates Soil Multifunctionality and Microbial Responses to Long‐Term Nitrogen Addition",
+    "abstract": "Long‐term nitrogen addition primarily enhanced soil multifunctionality (SMF) in cyanobacterial and moss crusts. Microbial responses were non‐linear and diverged at N3, with reduced community cohesion in cyanobacterial crusts, fungal richness and network complexity in lichen crusts and microbial richness in moss crusts. The dominant SMF regulators were soil pH, microbial network complexity and direct nitrogen effects combined with microbial richness, respectively.\n\nABSTRACT\nBiological soil crusts (BSCs) maintain soil multifunctionality (SMF) in drylands, yet their responses to nitrogen (N) deposition and underlying mechanisms remain unclear. We conducted a 13‐year field N‐addition experiment in the Gurbantunggut Desert, China, using cyanobacterial, lichen and moss crusts exposed to six N‐addition levels (0, 0.3, 0.5, 1.0, 1.5 and 3.0 g N m−2 yr−1; N0, N0.3, N0.5, N1, N1.5 and N3, respectively). N addition enhanced SMF most in moss crusts, whilst its positive effect in lichen crusts diminished at higher N levels. Microbial responses were type‐specific, particularly under N3. In cyanobacterial crusts, microbial richness remained stable whereas bacterial community cohesion declined; in lichen crusts, fungal richness and network complexity decreased; and in moss crusts, microbial richness declined whilst network complexity and community cohesion remained relatively stable. Dominant pathways regulating SMF also differed amongst BSC types. SMF was primarily associated with soil pH in cyanobacterial crusts and microbial network complexity in lichen crusts. In moss crusts, N addition directly promoted SMF, whilst microbial richness and network complexity exerted additional positive effects. Overall, BSC type shapes SMF responses and regulatory pathways under long‐term N enrichment, highlighting the importance of biocrust‐specific mechanisms for predicting dryland ecosystem responses to increasing N deposition.\n\nLong-term nitrogen addition primarily enhanced soil multifunctionality (SMF) in cyanobacterial and moss crusts. Microbial responses were non-linear and diverged at N3, with reduced community cohesion in cyanobacterial crusts, fungal richness and network complexity in lichen crusts and microbial richness in moss crusts. The dominant SMF regulators were soil pH, microbial network complexity and direct nitrogen effects combined with microbial richness, respectively.\n\nABSTRACT\nBiological soil crusts (BSCs) maintain soil multifunctionality (SMF) in drylands, yet their responses to nitrogen (N) deposition and underlying mechanisms remain unclear. We conducted a 13-year field N-addition experiment in the Gurbantunggut Desert, China, using cyanobacterial, lichen and moss crusts exposed to six N-addition levels (0, 0.3, 0.5, 1.0, 1.5 and 3.0 g N m−2 yr−1; N0, N0.3, N0.5, N1, N1.5 and N3, respectively). N addition enhanced SMF most in moss crusts, whilst its positive effect in lichen crusts diminished at higher N levels. Microbial responses were type-specific, particularly under N3. In cyanobacterial crusts, microbial richness remained stable whereas bacterial community cohesion declined; in lichen crusts, fungal richness and network complexity decreased; and in moss crusts, microbial richness declined whilst network complexity and community cohesion remained relatively stable. Dominant pathways regulating SMF also differed amongst BSC types. SMF was primarily associated with soil pH in cyanobacterial crusts and microbial network complexity in lichen crusts. In moss crusts, N addition directly promoted SMF, whilst microbial richness and network complexity exerted additional positive effects. Overall, BSC type shapes SMF responses and regulatory pathways under long-term N enrichment, highlighting the importance of biocrust-specific mechanisms for predicting dryland ecosystem responses to increasing N deposition.",
+    "journal": "Environmental Microbiology",
+    "doi": "10.1111/1462-2920.70501",
+    "date": "2026-11-25",
+    "authors": "Mingming Wang, \nBoyi Song, \nXuyang Wang, \nXiaoying Rong, \nHuiliang Liu, \nBenfeng Yin, \nYe Tao, \nJing Zhang, \nXiaobing Zhou, \nYuanming Zhang",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.70501?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "cyanobacteria",
+        "cyanobacterial",
+        "fungal",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://onlinelibrary.wiley.com/feed/14622920/most-recent",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5742,
+    "collected_at": "2026-11-26T09:41:35.790521+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://onlinelibrary.wiley.com/feed/14622920/most-recent"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1111/1462-2920.70501"
+    ],
+    "translation": {
+      "title": {
+        "hash": "438c928abbc05417a581809a561ffcd61de0778430b01d064759b60ae712953e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T10:02:51.181296+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ca3380fd32b42e2c91a9627b21e44af83c0e5e74b513a9257fd36f614d58b190",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T10:02:51.181296+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "バイオクラスト型は長期窒素施肥に対する土壌の多機能性と微生物応答を調節する",
+    "abstract_ja": "長期的な窒素添加は、主にシアノバクテリアおよびコケ地殻における土壌多機能性（SMF）を向上させた。微生物の応答は非線形であり、N3において乖離が見られた。具体的には、シアノバクテリア地殻では群集凝集性が低下し、地衣類地殻では菌類の豊富さとネットワークの複雑性が低下し、コケ地殻では微生物の豊富さが低下した。SMFの主要な調節因子は、それぞれ土壌pH、微生物ネットワークの複雑性、および微生物の豊富さに組み合わさった直接的な窒素効果であった。\n\n要旨\n生物土壌地殻（BSC）は乾燥地において土壌多機能性（SMF）を維持するが、窒素（N）沈着に対する応答およびその根底にあるメカニズムは依然として不明である。我々は、中国のグルバントゥングット砂漠において、シアノバクテリア、地衣類、およびコケ地殻を用い、6段階の窒素添加量（0, 0.3, 0.5, 1.0, 1.5, 3.0 g N m−2 yr−1；それぞれN0, N0.3, N0.5, N1, N1.5, N3）に曝露させる13年間の野外窒素添加実験を実施した。窒素添加はコケ地殻において最もSMFを向上させたが、地衣類地殻における正の効果は窒素濃度の上昇に伴い減弱した。微生物の応答はタイプ特異的であり、特にN3条件下で顕著であった。シアノバクテリア地殻では、微生物の豊富さは安定していた一方で細菌群集の凝集性が低下し、地衣類地殻では菌類の豊富さとネットワークの複雑性が低下し、コケ地殻では微生物の豊富さが低下した一方でネットワークの複雑性と群集凝集性は比較的安定していた。SMFを調節する主要な経路も、BSCのタイプによって異なっていた。SMFは、シアノバクテリア地殻では主に土壌pHと、地衣類地殻では微生物ネットワークの複雑性と関連していた。コケ地殻では、窒素添加が直接的にSMFを促進し、微生物の豊富さとネットワークの複雑性がさらなる正の効果を及ぼした。総じて、BSCのタイプが長期的な窒素富化下におけるSMF応答および調節経路を規定しており、窒素沈着の増加に対する乾燥地生態系の応答を予測する上で、生物地殻特異的なメカニズムが重要であることが示された。\n\n長期的な窒素添加は、主にシアノバクテリアおよびコケ地殻における土壌多機能性（SMF）を向上させた。微生物の応答は非線形であり、N3において乖離が見られた。具体的には、シアノバクテリア地殻では群集凝集性が低下し、地衣類地殻では菌類の豊富さとネットワークの複雑性が低下し、コケ地殻では微生物の豊富さが低下した。SMFの主要な調節因子は、それぞれ土壌pH、微生物ネットワークの複雑性、および微生物の豊富さに組み合わさった直接的な窒素効果であった。\n\n要旨\n生物土壌地殻（BSC）は乾燥地において土壌多機能性（SMF）を維持するが、窒素（N）沈着に対する応答およびその根底にあるメカニズムは依然として不明である。我々は、中国のグルバントゥングット砂漠において、シアノバクテリア、地衣類、およびコケ地殻を用い、6段階の窒素添加量（0, 0.3, 0.5, 1.0, 1.5, 3.0 g N m−2 yr−1；それぞれN0, N0.3, N0.5, N1, N1.5, N3）に曝露させる13年間の野外窒素添加実験を実施した。窒素添加はコケ地殻において最もSMFを向上させたが、地衣類地殻における正の効果は窒素濃度の上昇に伴い減弱した。微生物の応答はタイプ特異的であり、特にN3条件下で顕著であった。シアノバクテリア地殻では、微生物の豊富さは安定していた一方で細菌群集の凝集性が低下し、地衣類地殻では菌類の豊富さとネットワークの複雑性が低下し、コケ地殻では微生物の豊富さが低下した一方でネットワークの複雑性と群集凝集性は比較的安定していた。SMFを調節する主要な経路も、BSCのタイプによって異なっていた。SMFは、シアノバクテリア地殻では主に土壌pHと、地衣類地殻では微生物ネットワークの複雑性と関連していた。コケ地殻では、窒素添加が直接的にSMFを促進し、微生物の豊富さとネットワークの複雑性がさらなる正の効果を及ぼした。総じて、BSCのタイプが長期的な窒素富化下におけるSMF応答および調節経路を規定しており、窒素沈着の増加に対する乾燥地生態系の応答を予測する上で、生物地殻特異的なメカニズムが重要であることが示された。"
   }
 ]
