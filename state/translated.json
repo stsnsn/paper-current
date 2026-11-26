@@ -336820,5 +336820,279 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "高山草原の代表的な植物の根分泌物における有機酸の分布と、土壌脱窒機能遺伝子の存在量に及ぼす影響",
     "abstract_ja": "高山草原は青蔵高原における重要な生態学的障壁であり、土壌亜酸化窒素（N2O）排出の潜在的なホットスポットである。しかし、その根底にある生化学的プロセス、特に根分泌物が脱窒を媒介するメカニズムは依然として不明である。本研究では、高山草原の代表的な優占植物であるLolium perenne、Vicia unijuga、Stellera chamaejasme、Elymus dahuricus、およびDianthus superbusの根を研究対象として選定した。異なる植物の根分泌物に含まれる有機酸の組成と濃度を分析した。各種有機酸が土壌の培養可能な脱窒細菌の存在量および脱窒機能遺伝子（nirS、nirK、nosZ I）の存在量に及ぼす影響を検討した。その結果、高山草原の5種の代表的な植物の根分泌物から32種類の有機酸が検出され、そのうち12-ヒドロキシステアリン酸と16-ヒドロキシヘキサデカン酸が主成分であった。MPN解析の結果、培養可能な脱窒細菌の数は、20日および60日では一般に対照群よりも処理群で少なかったが、100日では増加した。qPCR解析により、各種有機酸が土壌脱窒機能遺伝子の存在量に及ぼす影響は多様であったが、nirS、nirK、およびnosZ Iの存在量は一般に培養時間の増加とともに減少し、20日で最大値を示した。3元配置分散分析の結果、有機酸の種類、濃度、および培養時間の相互作用が脱窒機能遺伝子の存在量に有意な影響を及ぼすことが示された。さらに、有機酸処理によって(nirS + nirK)/nosZ I比が変化した。特に、12-ヒドロキシステアリン酸処理下における(nirS + nirK)/nosZ I比は、100日においてブランク対照群よりも有意に低く、根分泌物が脱窒機能遺伝子の相対存在量を変化させることで、N2O生成と還元の遺伝的ポテンシャル間のバランスを変化させる可能性が示唆された。本研究は、有機酸が高山草原における土壌脱窒の遺伝的ポテンシャルに影響を及ぼす可能性を示唆しており、窒素循環を理解するための理論的根拠を提供するとともに、本生態系における温室効果ガス緩和に関する今後の研究を導くものである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1969497",
+    "title": "Co-administration of Methanomassiliicoccus luminyensis and Clostridium malenominatum CZB5 modulates the TMA–TMAO axis and atherosclerosis-associated markers in HFD+VD3-treated rats",
+    "abstract": "Background and aimsTrimethylamine N-oxide (TMAO), a gut microbiota-derived metabolite, contributes to atherosclerosis by disturbing lipid metabolism, promoting inflammation, and impairing vascular homeostasis. Methanomassiliicoccus luminyensis can use methylated compounds such as trimethylamine (TMA), and previous in vitro studies showed that Clostridium malenominatum CZB5 (hereafter, B5) can facilitate the growth and methylotrophic activity of M. luminyensis. This study investigated whether co-administration of these microorganisms modulates the intestinal TMA–TMAO axis and atherosclerosis-associated metabolic, inflammatory, and vascular features in HFD+VD3-treated rats.MethodsMale SPF-grade rats were assigned to normal control, HFD+VD3, HFD+B5, HFD+ML, and HFD+B5+ML groups. After antibiotic pretreatment of the HFD+VD3-treated groups, atherosclerosis was induced with a high-fat diet and vitamin D3, followed by gavage with the indicated bacterial preparations. Body weight, serum lipids, TMA and TMAO, aortic histopathology, fecal microbial RNA signals, metagenomic profiles, lipid-metabolism proteins, inflammatory mediators, intestinal barrier proteins, and endothelial injury markers were assessed by biochemical assays, ELISA, qPCR, histology, immunohistochemistry, western blotting, and metagenomic analysis.ResultsRepresentative histological and Oil Red O-stained sections from HFD+VD3-treated rats showed pronounced aortic lesions and lipid deposition. Compared with the HFD+VD3 group, co-administration of B5 and M. luminyensis reduced mean serum TMA from 6.049 to 2.889 μM, corresponding to a 52.2% reduction (P < 0.001), and reduced mean serum TMAO from 75.18 to 46.60 μM, corresponding to a 38.0% reduction (P < 0.001). Hepatic FMO3 relative protein expression decreased from 3.961 to 2.491, a 37.1% reduction (P < 0.001). Compared with M. luminyensis alone, the combined intervention further reduced TMA, TMAO, and FMO3 expression (P = 0.0060, 0.0034, and 0.0014, respectively). Representative histological and Oil Red O-stained sections showed visually less extensive aortic lipid staining and differences in vascular morphology after combined treatment; these image-based observations were descriptive and were not quantitatively analyzed. The combined intervention was also associated with higher fecal M. luminyensis signals, partial restoration of gut microbial community structure, improved intestinal tight-junction protein expression, and reduced vascular adhesion molecule expression.ConclusionCo-administration of C. malenominatum CZB5 and M. luminyensis lowered circulating TMA and TMAO levels and hepatic FMO3 expression and was associated with favorable changes in lipid-handling, intestinal barrier, and vascular inflammatory markers. Representative histological images suggested visually less extensive aortic lipid staining, although lesion burden was not quantitatively evaluated.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1969497",
+    "date": "2026-11-25",
+    "authors": "Shiguo Liu",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1969497",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "metagenom",
+        "metagenomic",
+        "microbial",
+        "microbiota",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5620,
+    "collected_at": "2026-11-25T15:46:29.923395+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-25",
+    "related_dois": [
+      "10.3389/fmicb.2026.1969497"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0b5bee668772b1a90e5f3bdb0bc5aa61ea83d41d85912122a2738386baa1040c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:09:03.516471+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "95a91b4b1f02adcd9cb14e8b59ba815b79b3a441f313f7fafec65a526b7899db",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:09:03.516471+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Methanomassiliicoccus luminyensisおよびClostridium malenominatum CZB5の併用投与は、HFD+VD3投与ラットにおけるTMA–TMAO軸および動脈硬化関連マーカーを調節する。",
+    "abstract_ja": "背景および目的腸内細菌叢由来の代謝物であるトリメチルアミンN-オキシド（TMAO）は、脂質代謝の撹乱、炎症の促進、および血管恒常性の障害を介して動脈硬化に関与する。Methanomassiliicoccus luminyensisはトリメチルアミン（TMA）などのメチル化化合物を利用することができ、先行するin vitro研究では、Clostridium malenominatum CZB5（以下、B5）がM. luminyensisの増殖およびメチル栄養活性を促進し得ることが示されている。本研究では、HFD+VD3投与ラットにおいて、これらの微生物の併用投与が腸管TMA–TMAO軸、および動脈硬化に関連する代謝的、炎症的、血管的特徴を調節するかどうかを検討した。方法SPFグレードの雄ラットを、正常対照群、HFD+VD3群、HFD+B5群、HFD+ML群、およびHFD+B5+ML群に割り付けた。HFD+VD3投与群に抗生物質による前処置を施した後、高脂肪食およびビタミンD3により動脈硬化を誘導し、続いて指示された細菌製剤を胃管投与した。体重、血清脂質、TMAおよびTMAO、大動脈の組織病理学的所見、糞便微生物RNAシグナル、メタゲノムプロファイル、脂質代謝タンパク質、炎症性メディエーター、腸管バリアタンパク質、および内皮損傷マーカーを、生化学的アッセイ、ELISA、qPCR、組織学、免疫組織化学、ウェスタンブロッティング、およびメタゲノム解析により評価した。結果HFD+VD3投与ラットの代表的な組織学的切片およびOil Red O染色切片では、顕著な大動脈病変と脂質沈着が認められた。HFD+VD3群と比較して、B5とM. luminyensisの併用投与により、血清中平均TMAは6.049から2.889 μMへと低下し（52.2%の減少、P < 0.001）、血清中平均TMAOは75.18から46.60 μMへと低下した（38.0%の減少、P < 0.001）。肝FMO3の相対的タンパク質発現は3.961から2.491へと低下し、37.1%の減少を示した（P < 0.001）。M. luminyensis単独投与と比較して、併用介入によりTMA、TMAO、およびFMO3の発現がさらに低下した（それぞれP = 0.0060, 0.0034, 0.0014）。代表的な組織学的切片およびOil Red O染色切片では、併用投与後に大動脈の脂質染色が視覚的に軽度であり、血管形態に差異が認められた。これらの画像に基づく観察結果は記述的なものであり、定量的な解析は行われなかった。また、併用介入は、糞便中M. luminyensisシグナルの上昇、腸内細菌叢構造の部分的な回復、腸管タイトジャンクションタンパク質発現の改善、および血管接着分子発現の低下と関連していた。結論Clostridium malenominatum CZB5とM. luminyensisの併用投与は、血中TMAおよびTMAOレベルならびに肝FMO3発現を低下させ、脂質処理、腸管バリア、および血管の炎症マーカーに好ましい変化をもたらした。代表的な組織学的画像では、病変負荷は定量的に評価されなかったものの、大動脈の脂質染色が視覚的に軽度であることが示唆された。"
+  },
+  {
+    "id": "10.1038/s41564-026-02516-y",
+    "title": "Temperature-sensitive N6-methyladenosine interactions prime the malaria parasite for transmission",
+    "abstract": "The temperature drop accompanying malaria parasite transmission from humans to mosquitoes triggers m6A-mediated mRNA–YTH.2 interactions that rapidly reprogram translation and coordinate developmental progression.",
+    "journal": "Nature Microbiology",
+    "doi": "10.1038/s41564-026-02516-y",
+    "date": "2026-11-25",
+    "authors": "Sebastian Baumgarten",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.nature.com/articles/s41564-026-02516-y",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.nature.com/nmicrobiol.rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5639,
+    "collected_at": "2026-11-25T15:46:29.923395+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.nature.com/nmicrobiol.rss"
+    ],
+    "first_seen": "2026-11-25",
+    "related_dois": [
+      "10.1038/s41564-026-02516-y"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b182e0ff9743286dc1da331776d1b03bd5a61be78b592a2a579878c1fd1be874",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:09:03.516471+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8591b20375032f4fcffc455ed7bb696302fa450f7c5bc493e0f950c6fc08afac",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:09:03.516471+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "温度感受性N6-メチルアデノシン相互作用は、マラリア原虫の伝播準備を整える。",
+    "abstract_ja": "ヒトから蚊へのマラリア原虫の伝播に伴う温度低下は、m6Aを介したmRNA–YTH.2相互作用を誘発し、翻訳を急速にリプログラミングして発生進行を協調させる。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1992864",
+    "title": "Rosa roxburghii Tratt alleviates DSS-induced colitis: gut microbiota and metabolic remodeling accompanied by TGR5/FXR restoration and NLRP3 inflammasome suppression",
+    "abstract": "BackgroundUlcerative colitis (UC) lacks ideal therapies; the edible fruit Rosa roxburghii Tratt (RRT) shows anti-colitis potential, but how it integrates gut microbiota, metabolites, and bile acid receptor/inflammasome signaling is unclear.MethodsDSS-induced colitis mice received RRT. Colonic histopathology, barrier markers, cytokines, oxidative stress, 16S rRNA sequencing, untargeted cecal metabolomics, and TGR5/FXR/NLRP3 inflammasome signaling were assessed.ResultsRRT attenuated mucosal injury and barrier dysfunction, as evidenced by reduced D-lactate and diamine oxidase levels, decreased TNF-α, IFN-γ, IL-6, and MDA levels, and increased CAT activity and GSH levels. RRT treatment was associated with alterations in gut microbial composition, including enrichment of Bacteroides, Parabacteroides, Oscillibacter, Allobaculum, and Parasutterella, as well as changes in cecal metabolite profiles involving amino acid, carbohydrate, energy, vitamin, and lipid-related metabolic pathways, including sphingolipid metabolism. However, no significant differences in predicted microbial functional pathways were observed between the DSS and RRT groups. RRT treatment also increased TGR5/FXR expression and decreased NLRP3, ASC, IL-1β, and IL-18 levels.ConclusionRRT attenuated DSS-induced colitis, accompanied by improvements in intestinal barrier integrity, inflammatory responses, and oxidative stress. These protective effects were associated with alterations in gut microbial composition, cecal metabolic profiles, and TGR5/FXR- and NLRP3-related markers. Although these findings provide insights into the biological responses associated with RRT treatment, further mechanistic investigations are required to establish whether microbiota-derived metabolites contribute causally to its protective effects.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1992864",
+    "date": "2026-11-25",
+    "authors": "Yuepeng Hu",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1992864",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "microbial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "16S rRNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5621,
+    "collected_at": "2026-11-25T15:46:29.923395+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-25",
+    "related_dois": [
+      "10.3389/fmicb.2026.1992864"
+    ],
+    "translation": {
+      "title": {
+        "hash": "96433f8ff047b60f4fd36ced3171c34f983bd783b6a9e382634b1a7cbcd39783",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:09:03.516471+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0f19d7014611a7ef8397bcc5af225c9c0cff07154709ea3af8e67f433e8bd479",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:09:03.516471+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Rosa roxburghii TrattはDSS誘発性大腸炎を軽減する：TGR5/FXRの回復およびNLRP3インフラマソーム抑制を伴う腸内細菌叢と代謝リモデリング",
+    "abstract_ja": "背景潰瘍性大腸炎（UC）には理想的な治療法が存在しない。食用果実であるRosa roxburghii Tratt（RRT）は抗大腸炎作用の可能性を示すが、腸内細菌叢、代謝物、および胆汁酸受容体／インフラマソームシグナル伝達にどのように関与しているかは不明である。方法DSS誘発性大腸炎マウスにRRTを投与した。結腸の組織病理学的検査、バリアマーカー、サイトカイン、酸化ストレス、16S rRNAシーケンシング、非標的型盲腸メタボロミクス、およびTGR5/FXR/NLRP3インフラマソームシグナル伝達を評価した。結果RRTは、D-乳酸およびジアミンオキシダーゼレベルの低下、TNF-α、IFN-γ、IL-6、およびMDAレベルの低下、ならびにCAT活性およびGSHレベルの上昇により、粘膜損傷およびバリア機能不全を軽減した。RRT投与は、Bacteroides、Parabacteroides、Oscillibacter、Allobaculum、およびParasutterellaの増加、ならびにスフィンゴ脂質代謝を含むアミノ酸、炭水化物、エネルギー、ビタミン、および脂質関連代謝経路に関わる盲腸代謝物プロファイルの変化など、腸内細菌叢組成の変化に関連していた。しかし、予測される微生物機能経路において、DSS群とRRT群の間に有意な差は認められなかった。また、RRT投与はTGR5/FXRの発現を増加させ、NLRP3、ASC、IL-1β、およびIL-18レベルを低下させた。結論RRTはDSS誘発性大腸炎を軽減し、それに伴い腸管バリアの完全性、炎症反応、および酸化ストレスの改善が認められた。これらの保護効果は、腸内細菌叢組成、盲腸代謝プロファイル、およびTGR5/FXRおよびNLRP3関連マーカーの変化に関連していた。これらの知見はRRT投与に関連する生物学的応答に関する洞察を与えるが、微生物叢由来の代謝物がその保護効果に因果的に寄与しているかを解明するには、さらなる機序的検討が必要である。"
+  },
+  {
+    "id": "10.1038/s41564-026-02545-7",
+    "title": "Sources and drivers of antibiotic resistance genes across rivers and lakes",
+    "abstract": "A comprehensive analysis of river and lake resistomes reveals the growing contribution of aquaculture to antimicrobial resistance in rivers and offers insights to strengthen environmental surveillance and early-warning systems.",
+    "journal": "Nature Microbiology",
+    "doi": "10.1038/s41564-026-02545-7",
+    "date": "2026-11-25",
+    "authors": "Xun Qian",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://www.nature.com/articles/s41564-026-02545-7",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [
+          "lake",
+          "river"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.nature.com/nmicrobiol.rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5640,
+    "collected_at": "2026-11-25T15:46:29.923395+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.nature.com/nmicrobiol.rss"
+    ],
+    "first_seen": "2026-11-25",
+    "related_dois": [
+      "10.1038/s41564-026-02545-7"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e81626624d6553bdf99a452e88c121e6eb4fbdbc9143fefb6e4b2904b13f17c5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:09:03.516471+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ae566113f7ec03761fd8a4994fef1177c1cf5ac49304f9cf8be961676f3247a6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:09:03.516471+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "河川や湖沼における抗生物質耐性遺伝子の供給源と駆動要因",
+    "abstract_ja": "河川および湖沼の薬剤耐性プロファイルの包括的な解析により、河川における薬剤耐性への水産養殖の寄与度が高まっていることが明らかになった。また、環境監視および早期警戒システムの強化に向けた知見が得られた。"
   }
 ]
