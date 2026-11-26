@@ -340670,5 +340670,297 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "<i>Rhodobacter sphaeroides</i> DSM158およびその亜株H2の全ゲノム",
     "abstract_ja": "Rhodobacter sphaeroides DSM158 亜株 H2 (SubH2) は、廃水から光従属栄養的に水素ガスを生成する可能性を有している。本報では、IlluminaおよびMinIONリードに基づき、株DSM158およびその実験室由来の亜株H2について、アノテーション済みの2つのハイブリッドゲノムアセンブリを提示する。両アセンブリは2本の染色体と4本のプラスミドから構成されており、99%を超えるBUSCO完全性を示す。"
+  },
+  {
+    "id": "10.1093/bioinformatics/btag858",
+    "title": "Nucleic acid 3D structure search and alignment with GTalign",
+    "abstract": "AbstractSummaryStructural comparison of nucleic acids, particularly RNA, is critical for understanding evolutionary and functional relationships beyond sequence similarity, yet efficient tools for large-scale 3D structure search and alignment remain scarce. We extend GTalign to support nucleic acid structures, enabling unified, high-performance alignment across macromolecules. Benchmarking on diverse nucleic acid datasets demonstrates that GTalign achieves higher alignment accuracy, as measured by TM-score, than the other benchmarked methods, while its faster configurations achieve substantially reduced runtimes at the expense of some sensitivity. GTalign thus provides a scalable solution for nucleic acid structure comparison and database search.Availability and Implementationhttps://github.com/minmarg/gtalign_alphaSupplementary informationSupplementary data are available at Bioinformatics online.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag858",
+    "date": "2026-11-24",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag858/9122359?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5718,
+    "collected_at": "2026-11-26T09:41:35.790521+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1093/bioinformatics/btag858"
+    ],
+    "translation": {
+      "title": {
+        "hash": "217a541f52155df5d8bded9273ee1ae4d7a23b9142bdd4e33249c4415bd99874",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T10:18:08.796135+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6e26e554aebed4b93c6892b5c5d5676304bc38b0fec462d9dc7e97959b494d6f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T10:18:08.796135+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "GTalignを用いた核酸の3次元構造検索およびアライメント",
+    "abstract_ja": "要旨 核酸、特にRNAの構造比較は、配列類似性を超えた進化的・機能的関係を理解する上で極めて重要であるが、大規模な3次元構造検索およびアライメントのための効率的なツールは依然として不足している。本研究では、GTalignを拡張して核酸構造に対応させることで、高分子間での統一的かつ高性能なアライメントを可能にした。多様な核酸データセットを用いたベンチマーク評価により、GTalignはTM-scoreで測定したアライメント精度において他の評価対象手法を上回るとともに、より高速な構成を用いることで、一部の感度を犠牲にする代わりに実行時間を大幅に短縮できることが示された。したがって、GTalignは核酸構造比較およびデータベース検索のためのスケーラブルなソリューションを提供する。 利用可能性と実装 https://github.com/minmarg/gtalign_alpha 補足情報 補足データはBioinformatics onlineで公開されている。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1982871",
+    "title": "Differences in the oral microbiota of long-term liver transplant recipients: community structure and predicted functional potential",
+    "abstract": "BackgroundLong-term liver transplant recipients are exposed to sustained immunosuppression and remain vulnerable to infectious and inflammatory complications. The oral microbiota may reflect changes in host immune status and systemic microecological balance, and may also participate in extra-oral inflammation through oral–systemic pathways. However, the oral microbial features of long-term surviving liver transplant recipients, particularly those surviving for more than 5 years after transplantation, remain unclear. This study aimed to characterize the distribution patterns, microbial phenotypes, and potential functional alterations of the oral microbiota in long-term liver transplant recipients.Materials and methodsSaliva samples were obtained from 20 long-term liver transplant recipients (Ltx) and 20 healthy controls (HC). Oral microbial profiles were analyzed by 16S rRNA gene sequencing. Microbial diversity, community structure, differential taxa, predicted phenotypes, and functional pathways were assessed using alpha and beta diversity analyses, linear discriminant analysis effect size (LEfSe), BugBase, PICRUSt2, and KEGG pathway enrichment analysis.ResultsAlpha diversity did not differ significantly between Ltx and HC. In contrast, weighted UniFrac-based principal coordinates analysis (PCoA) and PERMANOVA analysis revealed significant differences in community structure. LEfSe analysis showed enrichment of Neisseria and Fusobacterium and a reduction of Leptotrichia in liver transplant recipients. Phenotype prediction suggested increased aerobic, stress-tolerant, and biofilm-forming features, together with reduced anaerobic features, in the Ltx group. Functional prediction indicated that pathways related to energy metabolism, oxidative stress response, and bacterial secretion systems were more abundant, whereas pathways associated with translation, nucleotide metabolism, cell wall biosynthesis, porphyrin metabolism, and amino acid biosynthesis were reduced.ConclusionIn this exploratory cross-sectional study, long-term liver transplant recipients exhibited differences in oral microbial community composition and predicted functional potential compared with healthy controls, despite similar alpha-diversity indices. The observed differences in predicted traits related to aerobic adaptation, stress tolerance, biofilm formation, and energy metabolism may indicate alterations in the functional potential of the oral microbiota. These findings provide insights into the oral microbial characteristics of long-term liver transplant recipients and may inform future research on oral health management after transplantation.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1982871",
+    "date": "2026-11-26",
+    "authors": "Fei Pan",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1982871",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "bacteria",
+        "bacterial",
+        "microbial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5726,
+    "collected_at": "2026-11-26T09:41:35.790521+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.3389/fmicb.2026.1982871"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c7c68579f9addce2bd712f241e116f54eb31a80699afd2cf75167eef9fb239d2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T10:18:08.796135+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "18cd422e2de19e2d2571c9213862010e0223c5f3fe558890b3122f0cb99f557b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T10:18:08.796135+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "長期肝移植レシピエントの口腔微生物叢の相違：コミュニティ構造と予測される機能的ポテンシャル",
+    "abstract_ja": "背景長期肝移植レシピエントは持続的な免疫抑制状態にあり、感染症や炎症性合併症に対して脆弱である。口腔微生物叢は、宿主の免疫状態や全身性の微小生態学的バランスの変化を反映している可能性があり、また口腔－全身経路を介して口腔外の炎症に関与している可能性もある。しかし、長期生存している肝移植レシピエント、特に移植後5年以上生存している症例における口腔微生物学的特徴は依然として不明である。本研究は、長期肝移植レシピエントにおける口腔微生物叢の分布パターン、微生物表現型、および潜在的な機能的変化を明らかにすることを目的とした。材料および方法長期肝移植レシピエント（Ltx）20例および健常対照群（HC）20例から唾液検体を採取した。口腔微生物プロファイルは、16S rRNA遺伝子シーケンシングにより解析した。微生物多様性、群集構造、判別分類群、予測表現型、および機能的経路は、アルファ多様性およびベータ多様性解析、線形判別分析効果量（LEfSe）、BugBase、PICRUSt2、およびKEGG経路エンリッチメント解析を用いて評価した。結果アルファ多様性は、LtxとHCの間で有意な差は認められなかった。対照的に、重み付きUniFracベースの主成分座標分析（PCoA）およびPERMANOVA解析により、群集構造に有意な差が認められた。LEfSe解析では、肝移植レシピエントにおいてNeisseria属およびFusobacterium属のエンリッチメントと、Leptotrichia属の減少が認められた。表現型予測では、Ltx群において好気性、ストレス耐性、およびバイオフィルム形成特性の亢進と、嫌気性特性の低下が示唆された。機能的予測では、エネルギー代謝、酸化ストレス応答、および細菌分泌系に関連する経路がより豊富である一方、翻訳、ヌクレオチド代謝、細胞壁生合成、ポルフィリン代謝、およびアミノ酸生合成に関連する経路は減少していた。結論本探索的横断的研究において、長期肝移植レシピエントは、アルファ多様性指標が同程度であったにもかかわらず、健常対照群と比較して口腔微生物群集組成および予測機能的ポテンシャルに差異を示した。好気性適応、ストレス耐性、バイオフィルム形成、およびエネルギー代謝に関連する予測形質に認められた差異は、口腔微生物叢の機能的ポテンシャルの変化を示唆している可能性がある。これらの知見は、長期肝移植レシピエントの口腔微生物学的特性に関する知見を提供するものであり、移植後の口腔健康管理に関する今後の研究に資するものである。"
+  },
+  {
+    "id": "10.1111/1751-7915.70484",
+    "title": "Academic Philanthropy: Advancing Education and Societal Advancement by Mobilising the Untapped Intellectual Synthetic Capital of Silver Academia",
+    "abstract": "Contributions of academic philanthropy.\n\nABSTRACT\nThe quest for new knowledge, and knowledge dissemination and application, are central to the functioning and advancement of society. However, despite significant investment by state and philanthropic actors, educational provision remains insufficient to satisfy global demand for education and educators. Education also represents a major form of inequality among peoples. Philanthropic actors may be both wealthy individuals and organisations donating financial assets, and voluntary actors contributing non‐financial assets, such as time, effort, expertise or emotional support. Here we discuss the need to enable and promote academic philanthropy based on the voluntary transfer of knowledge, experience, expertise and synthetic capacity—resources that, unlike material wealth, represent non‐rival public goods that are not diluted but instead grow in value through sharing. Educators and academics are society's professional agents for the acquisition and dissemination of knowledge, its critical interpretation and understanding, and its application. However, mandatory retirement policies in some settings bring these contributions to an abrupt end, resulting in an unnecessary loss of accumulated intellectual capital from the education ecosystem and reduction in potential return on society's long‐term investment in education and research. We argue for a more flexible and adapted retirement framework in which willing and able retired academics—silver academics—may continue contributing their knowledge, expertise and experience to society beyond statutory retirement age. It is essential that such service complements rather than competes with the work of career academics—those in regular employment—by focusing on supportive activities such as mentoring, strategic guidance, serving as a source of institutional memory, and selected educational and administrative tasks. The support of career academics by retirees, and stimulation of retirees by career academics, could create a virtuous cycle of intergenerational intellectual exchange and synthesis. Importantly, unlike wealthy financial philanthropists who are relatively few in number, potential academic philanthropists are very many. Academic philanthropy represents a practical, low cost and readily implementable mechanism for strengthening education ecosystems, reducing widespread inequalities in access to knowledge and increasing return on societal investment in educational capital.\n\nContributions of academic philanthropy.\n\nABSTRACT\nThe quest for new knowledge, and knowledge dissemination and application, are central to the functioning and advancement of society. However, despite significant investment by state and philanthropic actors, educational provision remains insufficient to satisfy global demand for education and educators. Education also represents a major form of inequality among peoples. Philanthropic actors may be both wealthy individuals and organisations donating financial assets, and voluntary actors contributing non-financial assets, such as time, effort, expertise or emotional support. Here we discuss the need to enable and promote academic philanthropy based on the voluntary transfer of knowledge, experience, expertise and synthetic capacity—resources that, unlike material wealth, represent non-rival public goods that are not diluted but instead grow in value through sharing. Educators and academics are society's professional agents for the acquisition and dissemination of knowledge, its critical interpretation and understanding, and its application. However, mandatory retirement policies in some settings bring these contributions to an abrupt end, resulting in an unnecessary loss of accumulated intellectual capital from the education ecosystem and reduction in potential return on society's long-term investment in education and research. We argue for a more flexible and adapted retirement framework in which willing and able retired academics—silver academics—may continue contributing their knowledge, expertise and experience to society beyond statutory retirement age. It is essential that such service complements rather than competes with the work of career academics—those in regular employment—by focusing on supportive activities such as mentoring, strategic guidance, serving as a source of institutional memory, and selected educational and administrative tasks. The support of career academics by retirees, and stimulation of retirees by career academics, could create a virtuous cycle of intergenerational intellectual exchange and synthesis. Importantly, unlike wealthy financial philanthropists who are relatively few in number, potential academic philanthropists are very many. Academic philanthropy represents a practical, low cost and readily implementable mechanism for strengthening education ecosystems, reducing widespread inequalities in access to knowledge and increasing return on societal investment in educational capital.",
+    "journal": "Microbial Biotechnology",
+    "doi": "10.1111/1751-7915.70484",
+    "date": "2026-11-23",
+    "authors": "Kenneth Timmis, \nRachel Armstrong, \nJosé A. Gil, \nLara Amorim, \nFernando Baquero, \nOmry Koren, \nPatricia Bernal, \nMax Chavarria, \nPablo Ivan Nikel, \nChantal Abergel, \nAnna Karnkowska, \nRup Lal, \nJuan Luis Ramos",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1751-7915.70484?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://onlinelibrary.wiley.com/feed/17517915/most-recent",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5749,
+    "collected_at": "2026-11-26T09:41:35.790521+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://onlinelibrary.wiley.com/feed/17517915/most-recent"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1111/1751-7915.70484"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c19d1d3823ee11b445b72de9a1509b51a6b58e550a98539616463325fa308309",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T10:18:08.796135+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d6dc5991d24c43f28d6370d7c8593d28d84daace5d5a5083c0c3287bc966e343",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T10:18:08.796135+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "学術フィランソロピー：シルバーアカデミアの未活用の知的合成資本を動員した教育と社会の発展の推進",
+    "abstract_ja": "学術的フィランソロピーの貢献\n\n要旨\n新たな知識の探究、ならびに知識の普及と応用は、社会の機能と発展の中核をなすものである。しかし、国家やフィランソロピー主体による多大な投資にもかかわらず、教育の提供は、教育および教育者に対する世界的な需要を満たすには依然として不十分である。また、教育は人々の間における主要な不平等の形態でもある。フィランソロピー主体には、金融資産を寄付する富裕層や組織だけでなく、時間、労力、専門知識、あるいは精神的支援といった非金融的資産を提供する自発的な主体も含まれる。本稿では、知識、経験、専門性、および総合的能力の自発的な移転に基づく学術的フィランソロピーを可能にし、促進する必要性について論じる。これらの資源は、物質的富とは異なり、希薄化することなく、むしろ共有を通じて価値が高まる非競合的な公共財である。教育者や研究者は、知識の獲得と普及、その批判的な解釈と理解、およびその応用を担う社会の専門的な担い手である。しかし、一部の環境における強制退職制度は、こうした貢献を突如として断ち切り、その結果、教育エコシステムから蓄積された知的資本の不必要な喪失を招き、教育および研究に対する社会の長期的な投資の潜在的なリターンを減少させる。我々は、意欲と能力のある退職した研究者――シルバー・アカデミックス――が、法定退職年齢を超えても自らの知識、専門性、経験を社会に貢献し続けられる、より柔軟で適応的な退職枠組みを提唱する。こうした貢献が、メンタリング、戦略的指導、組織的記憶の源泉としての役割、および特定の教育的・管理的業務といった支援活動に焦点を当てることで、正規雇用にあるキャリア研究者の業務と競合するのではなく、それを補完することが不可欠である。退職者によるキャリア研究者への支援、およびキャリア研究者による退職者への刺激は、世代を超えた知的交流と総合化の好循環を生み出す可能性がある。重要な点として、数が比較的少ない富裕な金融フィランソロピストとは異なり、潜在的な学術的フィランソロピストは非常に数多く存在する。学術的フィランソロピーは、教育エコシステムを強化し、知識へのアクセスにおける広範な不平等を是正し、教育資本への社会投資のリターンを高めるための、実用的で低コストかつ容易に実施可能なメカニズムである。\n\n学術的フィランソロピーの貢献\n\n要旨\n新たな知識の探究、ならびに知識の普及と応用は、社会の機能と発展の中核をなすものである。しかし、国家やフィランソロピー主体による多大な投資にもかかわらず、教育の提供は、教育および教育者に対する世界的な需要を満たすには依然として不十分である。また、教育は人々の間における主要な不平等の形態でもある。フィランソロピー主体には、金融資産を寄付する富裕層や組織だけでなく、時間、労力、専門知識、あるいは精神的支援といった非金融的資産を提供する自発的な主体も含まれる。本稿では、知識、経験、専門性、および総合的能力の自発的な移転に基づく学術的フィランソロピーを可能にし、促進する必要性について論じる。これらの資源は、物質的富とは異なり、希薄化することなく、むしろ共有を通じて価値が高まる非競合的な公共財である。教育者や研究者は、知識の獲得と普及、その批判的な解釈と理解、およびその応用を担う社会の専門的な担い手である。しかし、一部の環境における強制退職制度は、こうした貢献を突如として断ち切り、その結果、教育エコシステムから蓄積された知的資本の不必要な喪失を招き、教育および研究に対する社会の長期的な投資の潜在的なリターンを減少させる。我々は、意欲と能力のある退職した研究者――シルバー・アカデミックス――が、法定退職年齢を超えても自らの知識、専門性、経験を社会に貢献し続けられる、より柔軟で適応的な退職枠組みを提唱する。こうした貢献が、メンタリング、戦略的指導、組織的記憶の源泉としての役割、および特定の教育的・管理的業務といった支援活動に焦点を当てることで、正規雇用にあるキャリア研究者の業務と競合するのではなく、それを補完することが不可欠である。退職者によるキャリア研究者への支援、およびキャリア研究者による退職者への刺激は、世代を超えた知的交流と総合化の好循環を生み出す可能性がある。重要な点として、数が比較的少ない富裕な金融フィランソロピストとは異なり、潜在的な学術的フィランソロピストは非常に数多く存在する。学術的フィランソロピーは、教育エコシステムを強化し、知識へのアクセスにおける広範な不平等を是正し、教育資本への社会投資のリターンを高めるための、実用的で低コストかつ容易に実施可能なメカニズムである。"
+  },
+  {
+    "id": "10.1186/s40168-026-02582-8",
+    "title": "VirMake: a flexible and user-friendly pipeline for viral taxonomic and functional characterization from shotgun metagenomic sequencing data",
+    "abstract": "Background\n                     Bacteriophages (phages) are recognized as key regulators of microbial communities, and it is pivotal to understand viral ecology, diversity, and evolution. However, identification and characterization of phages from shotgun metagenome sequencing pose unique bioinformatic challenges owing to the inherent complexity and scale of the data.\n                  \n                     Results\n                     Here, we introduce VirMake, a comprehensive, flexible, and scalable pipeline developed for viral taxonomic and functional analysis of shotgun metagenome data. It enables high-throughput end-to-end processing, assembly, and annotation of metagenomic data, including viral sequence identification, taxonomic and functional annotation, and using a modular framework, allows users to integrate viral analysis at different stages of metagenome data analysis. VirMake can be installed on Linux operating systems that support Conda and is freely available at https://github.com/Rounge-lab/VirMake. Here, we showcase VirMake’s capabilities using three metagenome datasets of varying sizes (up to 2.9 Tbp), generated from various environments (human gut and water) and using different sample preparation protocols (virus-like particle enrichment and bulk DNA extraction).\n                  \n                     Conclusions\n                     VirMake enabled robust processing of all datasets, showing viral genome richness, taxonomy, and integration status to vary according to sampling environments and laboratory protocols.\n                     \nVideo Abstract",
+    "journal": "Microbiome",
+    "doi": "10.1186/s40168-026-02582-8",
+    "date": "2026-11-26",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s40168-026-02582-8",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteriophage",
+        "bacteriophages",
+        "metagenom",
+        "metagenome",
+        "metagenomic",
+        "microbial",
+        "phage",
+        "phages",
+        "pipeline",
+        "sequencing",
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "annotation",
+          "assembly",
+          "evolution",
+          "genom",
+          "genome",
+          "metagenom",
+          "metagenome",
+          "metagenomic"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=40168",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5739,
+    "collected_at": "2026-11-26T09:41:35.790521+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=40168"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1186/s40168-026-02582-8"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b1927ff4d63eefc808848b2e3d568f849da407659599adfe776768ddaca93158",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T10:18:08.796135+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ee030ac8f1de342a5baeed4a75040d41a962b7604a652ef0a849bd6194450d55",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T10:18:08.796135+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "VirMake：ショットガンメタゲノムシーケンシングデータからのウイルスの分類学的・機能的特性解析のための、柔軟で使いやすいパイプライン",
+    "abstract_ja": "背景\n                     バクテリオファージ（ファージ）は微生物群集の重要な調節因子として認識されており、ウイルスの生態、多様性、および進化を理解することは極めて重要である。しかし、ショットガンメタゲノムシーケンシングによるファージの同定および特性解析は、データ固有の複雑性と規模に起因して、バイオインフォマティクス上の特有の課題を伴う。\n                  \n                     結果\n                     本報では、ショットガンメタゲノムデータのウイルス分類学的および機能的解析のために開発された、包括的かつ柔軟でスケーラブルなパイプライン「VirMake」を紹介する。本パイプラインは、ウイルス配列の同定、分類学的・機能的アノテーションを含むメタゲノムデータのハイスループットなエンドツーエンド処理、アセンブリ、およびアノテーションを可能にし、モジュール式フレームワークを用いることで、メタゲノムデータ解析の異なる段階におけるウイルス解析を統合することができる。VirMakeは、CondaをサポートするLinuxオペレーティングシステムにインストール可能であり、https://github.com/Rounge-lab/VirMake で無償で公開されている。本稿では、さまざまな環境（ヒト腸管および水）から生成され、異なるサンプル調製プロトコル（ウイルス様粒子の濃縮およびバルクDNA抽出）を用いた、サイズの異なる3つのメタゲノムデータセット（最大2.9 Tbp）を用いて、VirMakeの機能を実証する。\n                  \n                     結論\n                     VirMakeはすべてのデータセットの堅牢な処理を可能にし、サンプリング環境や実験室プロトコルに応じて、ウイルスゲノムの豊富さ、分類、および統合状況が異なることを示した。\n                     \nビデオ抄録"
   }
 ]
