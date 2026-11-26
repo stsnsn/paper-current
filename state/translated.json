@@ -338782,5 +338782,293 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "携帯型低分子センシングに向けたAI誘導型天然ポケットタンパク質の探索",
     "abstract_ja": "認識素子の開発は、低分子バイオセンシングにおける重要な実用的課題であり続けている。本報では、天然ポケットタンパク質のスクリーニング、分子動力学シミュレーション、実験的結合評価、およびポータブルメタサーフェスプラズモニックセンシングを組み合わせたAI誘導型ワークフロー「DWCLASS」を提案する。チアミン（ビタミンB1、チアミン）および25-ヒドロキシビタミンD3 [25(OH)D3] をモデル分析物として用いたところ、本ワークフローは試験した16組の分析物-タンパク質ペアのうち7組（43.8%）で結合応答を同定した。選定したタンパク質は、金ナノ粒子増幅および音響混合を用いた競合型MetaSPRアッセイに組み込まれた。このポータブルデバイスにより、調製した試料に対して240秒の測定ステップが実現した。血清LODは、チアミンで2.98 ppt、25(OH)Dで3.82 pptであった。生体試料における性能を検討するため、ヒト血清検体の予備測定結果を市販のELISAと比較した。本研究は、化学的に異なる2種類のビタミン分析物について、天然タンパク質のAI支援スクリーニングからポータブルアッセイ開発に至る統合的なルートを確立するものである。追加の標的への適用可能性および臨床参照精度については、今後の検証課題である。"
+  },
+  {
+    "id": "10.64898/2026.11.24.769015",
+    "title": "Lateral interactions between antiparallel filaments drive self-assembly of the FtsZ ring in bacterial cell division",
+    "abstract": "The Z-ring is the organiser of cell division in most archaea and bacteria, arriving early at mid-cell and recruiting downstream proteins. While FtsZ protofilaments and their treadmilling dynamics are well understood, how FtsZ assembles into condensed Z-rings remains unknown. Here we determined the Escherichia coli in-cell electron cryotomography (cryo-ET) structure of FtsZ to 6.9 [A] resolution, showing antiparallel double filaments with the C-terminus facing the membrane. Electron cryomicroscopy (cryo-EM) of purified E. coli FtsZ showed these double filaments self-assemble. Cryo-ET of cells showed ordering of FtsZ doublets into bands, which we revealed is regulated by the disordered N-terminal residues. Structures of purified Bacillus subtilis and Thermotoga maritima FtsZ demonstrated that antiparallel lateral interactions are a conserved feature. We describe how self-assembly of the Z-ring occurs through two types of lateral interactions and propose a new role for FtsZ treadmilling in reorganising antiparallel lateral interactions during cell constriction.",
+    "journal": "",
+    "doi": "10.64898/2026.11.24.769015",
+    "date": "2026-11-25",
+    "authors": "McAndrew, M. B. L., Zhang, Y., Rohland, L., Warren, J. O. H., Carloni, G., Krstic, M., Gregory, L. P., Kureisaite-Ciziene, D., Sogues, A., Roberts, D. M., Holden, S., Saric, A., Wehenkel, A. M., Löwe, J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.24.769015v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Bacillus",
+        "Escherichia",
+        "archaea",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5711,
+    "collected_at": "2026-11-26T00:30:40.165307+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.64898/2026.11.24.769015"
+    ],
+    "translation": {
+      "title": {
+        "hash": "46f3b26a0273bd5613de1db5d07fbdb1d67ce4487bc14da896f730a1a005525a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:34:51.127368+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "44588cb36d3a91cd51c386431428ffff478833f25ca20a4d35814f76d1afeec1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:34:51.127368+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "反平行フィラメント間の側方相互作用が、細菌の細胞分裂におけるFtsZリングの自己集合を駆動する",
+    "abstract_ja": "Zリングは、ほとんどの古細菌および細菌において細胞分裂を制御する因子であり、細胞中期という早い段階で出現し、下流のタンパク質を動員する。FtsZプロトフィラメントとそのトレッドミル運動の動態については十分に解明されているが、FtsZがいかにして凝縮したZリングへと組み立てられるかは依然として不明である。本研究では、大腸菌の細胞内電子クライオトモグラフィー（cryo-ET）によりFtsZの構造を6.9 [A]の分解能で決定し、C末端が膜側を向いた反平行な二重フィラメントが存在することを示した。精製した大腸菌FtsZの電子クライオ顕微鏡法（cryo-EM）により、これらの二重フィラメントが自己集合することが示された。細胞のcryo-ETでは、FtsZ二重鎖がバンド状に秩序化していることが示され、これが無秩序なN末端残基によって制御されていることが明らかになった。精製したバチルス・サブティリスおよびサーモトガ・マリティマFtsZの構造解析により、反平行な側方相互作用が保存された特徴であることが示された。我々は、Zリングの自己集合が2種類の側方相互作用を通じて起こることを記述し、細胞収縮時に反平行な側方相互作用を再編成するというFtsZトレッドミル運動の新たな役割を提案する。"
+  },
+  {
+    "id": "10.64898/2026.11.23.768618",
+    "title": "An RNase bacterial toxin family cleaves the anticodon loop across diverse tRNA isotypes",
+    "abstract": "Characterized bacterial tRNase toxins typically recognize individual tRNAs or restricted tRNA subsets. Here, we identify TloR (tRNA loop-targeting RNase), a tRNase with an unusually broad substrate range but a strong positional preference for exposed tRNA loops. Comparative genomic analyses identified TloR homologs across diverse bacterial lineages, where they are frequently embedded in conflict-associated loci. Structural modeling supports assignment of TloR to the recently described BECR-like superfamily, and mutational analyses identify conserved histidines required for toxicity and RNA cleavage. TloR cleaved tRNA and inhibited protein synthesis in a reconstituted translation system without detectable degradation of ribosomal RNA or plasmid DNA. Small-RNA sequencing showed that toxin-induced fragments arise from tRNAs decoding 19 of the 20 amino acids, with fragment endpoints strongly enriched near the anticodon loop. Purified TloR directly cleaved an unmodified tRNA substrate, predominantly within the anticodon loop. TloR therefore defines a family of BECR-like tRNases that combines broad tRNA recognition with positional preference for exposed tRNA loops. Together, these findings establish broad but positionally constrained tRNA cleavage as a distinct targeting strategy for antibacterial RNases.",
+    "journal": "",
+    "doi": "10.64898/2026.11.23.768618",
+    "date": "2026-11-25",
+    "authors": "Lin, J. E., Long, A. R., Pham, K., Bayer-Santos, E.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.23.768618v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5712,
+    "collected_at": "2026-11-26T00:30:40.165307+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.64898/2026.11.23.768618"
+    ],
+    "translation": {
+      "title": {
+        "hash": "429764e048b67a9558ab882a8e89f1a0d1302e265b3f232719a36a2e4ae9a1b8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:34:51.127368+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1efc62a2bdc041d8893b0e4a760bab62167de9a9b2147759801cb931d68e469e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:34:51.127368+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "RNase細菌毒素ファミリーは、多様なtRNAアイソタイプにわたってアンチコドンループを切断する。",
+    "abstract_ja": "特徴的な細菌性tRNAase毒素は、通常、個々のtRNAまたは限定的なtRNAサブセットを認識する。本研究では、基質範囲が異例に広い一方で、露出したtRNAループに対して強い位置的選好性を示すtRNAaseであるTloR（tRNAループ標的型RNase）を同定した。比較ゲノム解析により、多様な細菌系統にわたってTloRホモログが同定され、それらは競合に関連する遺伝子座に頻繁に組み込まれていることが明らかになった。構造モデリングにより、TloRは最近報告されたBECR様スーパーファミリーに分類されることが支持され、変異解析により、毒性およびRNA切断に必要な保存ヒスチジンが同定された。TloRは、リボソームRNAやプラスミドDNAの検出可能な分解を伴わずに、再構成された翻訳系においてtRNAを切断し、タンパク質合成を阻害した。small-RNAシーケンシングにより、毒素誘導性断片は20個のアミノ酸のうち19個をデコードするtRNAに由来し、断片の末端はアンチコドンループ付近に著しく濃縮されていることが示された。精製したTloRは、未修飾のtRNA基質を、主にアンチコドンループ内で直接切断した。したがって、TloRは、広範なtRNA認識と露出したtRNAループへの位置的選好性を兼ね備えたBECR様tRNAaseファミリーを定義するものである。以上の知見を総合すると、広範でありながら位置的に制約されたtRNA切断が、抗菌性RNaseにおける独自の標的化戦略であることが確立される。"
+  },
+  {
+    "id": "10.64898/2026.11.23.768747",
+    "title": "Evolutionary rescue of rare human genetic disorders in yeast models",
+    "abstract": "Several thousand human disease-associated genes have clear yeast orthologs, making yeast an ideal model system for advancing a basic understanding of human disease. We used CRISPR-Cas9 editing to generate 51 yeast strains with 11 human disease-associated variants, focusing on human disease genes involved in protein glycosylation, ribosome maturation, mitochondrial function, and RNA regulation. We find that most of these alleles recapitulate as fitness defects in yeast. To enrich for suppressors, we evolved these populations for 1,000 generations and performed whole genome sequencing. We identified both known and previously unknown suppressor mutations. For example, we identify mutations in DPM1 and RPS9B that compensate for disease phenotypes of ALG7 and SDO1, respectively. Reconstructed strains harboring evolved suppressor mutations and the original disease alleles demonstrate that these suppressors rescue fitness and may compensate for defects in molecular function. By exerting continuous selective pressure over thousands of generations, experimental evolution allows us to select for suppressor mutations, including those with modest fitness effects or occurring at lower frequencies, which are underrepresented in traditional genetic screens. Our results map local genetic interaction networks centered around disease-associated alleles, providing greater insights into disease phenotypes and informing potential targeted therapies for disease management in patients with rare disorders.",
+    "journal": "",
+    "doi": "10.64898/2026.11.23.768747",
+    "date": "2026-11-24",
+    "authors": "Dubyna, B. E., Lang, G. I.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.23.768747v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5649,
+    "collected_at": "2026-11-25T15:46:29.923395+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-25",
+    "related_dois": [
+      "10.64898/2026.11.23.768747"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8ed328b96eb1c276b73dfb7c4f43528f1339eaaa2e92975b43620bb2a6eff690",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:34:51.127368+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4506c21d12896013723c7367e95c0e51d4227c30454ed62f3ae17f1aa336a053",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:34:51.127368+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "酵母モデルを用いたヒト希少遺伝性疾患の進化的救済",
+    "abstract_ja": "数千ものヒト疾患関連遺伝子には明確な酵母オルソログが存在しており、酵母はヒト疾患の基礎的な理解を深めるための理想的なモデル系である。我々は、CRISPR-Cas9編集を用いて、タンパク質糖鎖付加、リボソーム成熟、ミトコンドリア機能、およびRNA調節に関与するヒト疾患遺伝子に焦点を当て、11種類のヒト疾患関連変異を有する51株の酵母株を作製した。これらのアレルの大部分が、酵母において適応度の欠陥として再現されることが判明した。抑制因子を濃縮するため、これらの集団を1,000世代にわたって進化させ、全ゲノムシーケンシングを行った。その結果、既知およびこれまで未知であった抑制因子変異の両方を同定した。例えば、DPM1およびRPS9Bにおいて、それぞれALG7およびSDO1の疾患表現型を代償する変異を同定した。進化した抑制因子変異と元の疾患アレルを保持する再構築株は、これらの抑制因子が適応度を回復させ、分子機能の欠陥を代償し得ることを示している。数千世代にわたる継続的な選択圧をかけることで、実験的進化により、従来の遺伝学的スクリーニングでは十分に検出されていなかった、適応度への影響が軽微なものや、出現頻度の低いものを含む抑制因子変異を選択することが可能となる。我々の結果は、疾患関連アレルを中心とした局所的な遺伝的相互作用ネットワークをマッピングし、疾患表現型に関するより深い知見を提供するとともに、希少疾患患者における疾患管理のための潜在的な標的療法に資するものである。"
+  },
+  {
+    "id": "10.64898/2026.11.23.768606",
+    "title": "Role-Aware Line-Graph Neural Networks for Interpretable Prediction of Pairwise Microbial Interactions",
+    "abstract": "Predicting how microbial species affect each other's growth is a key challenge in microbial ecology. Using one of the largest available pairwise interaction datasets, comprising 20 soil bacteria co-cultured under 39 carbon conditions (15{,}074 directional measurements), we predicted whether one species has a positive or negative effect on the growth of another from monoculture growth, metabolic profiles, and phylogeny. Existing machine learning approaches treat each measurement as an independent sample, although experiments that share a species under the same condition are biologically related. We therefore represented the data as a role-aware line graph: each node is one directional measurement, and two nodes are connected when, under the same carbon condition, they share the same effector or the same affected species. This allows graph neural networks (GNNs) to pass information between related interactions. Our role-aware GAT-SAGE model achieved an F1-score of 81.38% for one-way prediction, outperforming the 73.79% previously reported for Extreme Gradient Boosting (XGBoost). For two-way interaction types (mutualism, competition, and parasitism), GAT-SAGE reached a macro F1-score of 60.34%. This exceeded the 55.71% of a neural network without graph structure but was below the 64.24% of XGBoost. Mutualism remained difficult to predict for all models. Layer-wise relevance propagation showed that one-way effects depend mainly on monoculture growth, whereas two-way interaction types depend more on the carbon environment. Encoding the dependency structure of interaction experiments thus adds information beyond the features of each measurement and provides interpretable insight into microbial interactions.",
+    "journal": "",
+    "doi": "10.64898/2026.11.23.768606",
+    "date": "2026-11-24",
+    "authors": "Gholamzadeh, E., Singla, K., Scherf, N.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.23.768606v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "phylogen",
+          "phylogeny"
+        ],
+        "evolution": [
+          "phylogeny"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5702,
+    "collected_at": "2026-11-26T00:30:40.165307+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.64898/2026.11.23.768606"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e274ca855e5b8d6a738c1054d638a51b6f577e06cc4bf2bb1ce7262a80537049",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:34:51.127368+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "857d4a0008b44014bee54036eb593c673f0539699e0815c8f283c9da96436fdd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:34:51.127368+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "微生物間のペアワイズ相互作用の解釈可能な予測に向けた役割認識型ライングラフニューラルネットワーク",
+    "abstract_ja": "微生物種が互いの増殖にどのような影響を及ぼすかを予測することは、微生物生態学における重要な課題である。39種類の炭素条件下で共培養された20種の土壌細菌（15,074回の方向性測定）からなる、利用可能な最大規模のペアワイズ相互作用データセットの一つを用い、単培養増殖、代謝プロファイル、および系統樹から、ある種が別の種の増殖に正または負の影響を及ぼすかを予測した。既存の機械学習手法では、同一条件下で同一種を共有する実験は生物学的に関連しているにもかかわらず、各測定値を独立したサンプルとして扱う。そこで本研究では、データをロール認識型ライングラフとして表現した。各ノードを1回の方向性測定とし、同一の炭素条件下で同一のエフェクターまたは同一の影響を受ける種を共有する場合に、2つのノードを接続する。これにより、グラフニューラルネットワーク（GNN）が関連する相互作用間の情報を伝達することが可能となる。我々のロール認識型GAT-SAGEモデルは、単方向予測において81.38%のF1スコアを達成し、従来報告されていたExtreme Gradient Boosting（XGBoost）の73.79%を上回った。双方向相互作用タイプ（相利共生、競争、寄生）において、GAT-SAGEは60.34%のマクロF1スコアを記録した。これは、グラフ構造を持たないニューラルネットワークの55.71%を上回ったが、XGBoostの64.24%を下回った。相利共生は、すべてのモデルにおいて予測が困難なままであった。レイヤーごとの関連性伝播により、単方向の影響は主に単培養増殖に依存する一方、双方向相互作用タイプは炭素環境により強く依存することが示された。したがって、相互作用実験の依存構造をエンコードすることは、各測定値の特徴量を超えた情報を加え、微生物間相互作用に関する解釈可能な知見を提供する。"
   }
 ]
