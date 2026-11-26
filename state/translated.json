@@ -336255,5 +336255,296 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "エボラウイルス由来抗体製剤は2026年ブンディブギョウイルス糖タンパク質を交差中和する",
     "abstract_ja": "エボラウイルスによって誘導された抗体は、2026年のアウトブレイクの原因となっているブンディブギョウイルスの糖タンパク質に対する中和活性を保持しており、今回のアウトブレイクにおける既存のエボラ抗体製剤の迅速な評価を裏付けるものである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.2034621",
+    "title": "Mapping the microbiota-gut-brain axis in comorbid functional bowel disorders and anxiety/depression: a bibliometric analysis",
+    "abstract": "BackgroundFunctional bowel disorders (FBDs) frequently coexist with anxiety and depression. Accumulating evidence links this clinical overlap to the microbiota-gut-brain axis. Despite a rapidly expanding volume of literature, a comprehensive quantitative evaluation of this interdisciplinary field remains lacking. This study aims to evaluate the evolutionary trajectory, current research hotspots, and specific molecular mechanisms underlying these comorbid conditions.MethodsA comprehensive multi-database literature retrieval was conducted using the Web of Science Core Collection, Scopus, and PubMed for publications dated between 2016 and 2026. Bibliometric indicators were analyzed utilizing an online bibliometric analysis platform, CiteSpace, VOSviewer, and the “bibliometrix” R package. To translate macroscopic publication trends into precise molecular targets, we subsequently performed an integrated bioinformatic evaluation utilizing protein–protein interaction network and functional enrichment analyses to identify shared genetic networks.ResultsAnnual publication output exhibited steady growth. The USA and the University of Gothenburg emerged as the leading global contributors. Keyword analysis revealed a definitive methodological transition from early reliance on animal models toward massive genomic and clinical data integrations, evidenced by recent burst terms including UK biobank and Mendelian randomization. Furthermore, keyword clustering demonstrated that the microbiota-gut-brain axis serves as the principal biological bridge connecting FBDs with anxiety/depression. Parallel bioinformatic screening isolated shared genetic targets, with BDNF, IL-6, TNF, and TP53 acting as common hub genes. Functional enrichment confirmed that these conditions share a common neuroimmune architecture, heavily dependent on MAPK and PI3K-Akt signaling cascades.ConclusionResearch investigating these comorbidities has shifted from descriptive epidemiology toward targeted microbial and genomic investigations. Based on these structural findings, clinical consensus has formally reclassified FBDs as disorders of gut-brain interaction, establishing that anxiety/depression and FBDs are inextricably linked through shared pathophysiology. Importantly, our literature analysis reveals a clear academic shift from single-discipline symptom management toward multimodal therapeutic strategies that combine cognitive behavioral therapy, dietary modulation, and targeted microbial interventions. However, the clinical efficacy of these approaches was not directly tested in the current study. Future translational research should prioritize large-scale clinical trials to evaluate these literature-supported biological and psychological treatments, leveraging the identified immune-related targets to advance personalized, microbially directed therapies.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.2034621",
+    "date": "2026-11-25",
+    "authors": "Xiaoyu Li",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.2034621",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genomic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5617,
+    "collected_at": "2026-11-25T15:46:29.923395+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-25",
+    "related_dois": [
+      "10.3389/fmicb.2026.2034621"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4a822cf45efbbb70a44137d6a8f6ac3202b85de0cb21a6a144ccb9f8b374d991",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:02:11.675548+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "66f00564887d8486d14b2f1287d4d5be2b74168fc1e5b0d8ee4bd12af0ce5e47",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:02:11.675548+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "併存する機能性腸疾患と不安・抑うつにおける微生物叢－腸－脳軸のマッピング：ビブリオメトリック解析",
+    "abstract_ja": "背景機能性腸疾患（FBDs）は、不安や抑うつと併存することが多い。こうした臨床的重複を微生物叢-腸-脳軸に結びつけるエビデンスが蓄積されつつある。文献量は急速に増加しているものの、この学際的領域に関する包括的な定量的評価は依然として不足している。本研究は、これらの併存疾患の進化的軌跡、現在の研究ホットスポット、および根底にある特定の分子メカニズムを評価することを目的とする。方法Web of Science Core Collection、Scopus、およびPubMedを用いて、2016年から2026年までの出版物を対象に、包括的なマルチデータベース文献検索を実施した。ビブリオメトリクス指標の解析には、オンライン・ビブリオメトリクス解析プラットフォームであるCiteSpace、VOSviewer、およびRパッケージ「bibliometrix」を利用した。マクロな出版動向を精緻な分子標的へと変換するため、続いてタンパク質間相互作用ネットワーク解析および機能エンリッチメント解析を用いた統合的なバイオインフォマティクス評価を行い、共通の遺伝子ネットワークを同定した。結果年間の出版物数は着実な増加を示した。米国およびヨーテボリ大学が世界的な主要貢献機関として浮上した。キーワード解析により、初期の動物モデルへの依存から、大規模なゲノムおよび臨床データの統合へと方法論的に明確な移行が見られた。これは、UK biobankやメンデルランダム化を含む最近のバーストタームによって裏付けられている。さらに、キーワードクラスタリングにより、微生物叢-腸-脳軸がFBDsと不安/抑うつを結ぶ主要な生物学的架け橋となっていることが示された。並行して実施したバイオインフォマティクススクリーニングにより共通の遺伝子標的が抽出され、BDNF、IL-6、TNF、およびTP53が共通のハブ遺伝子として機能していることが明らかになった。機能エンリッチメントにより、これらの疾患が共通の神経免疫構造を共有しており、MAPKおよびPI3K-Aktシグナル伝達カスケードに強く依存していることが確認された。結論これらの併存疾患を研究するアプローチは、記述的疫学から、標的を絞った微生物学的・ゲノム学的研究へと移行している。これらの構造的知見に基づき、臨床的コンセンサスはFBDsを腸-脳相互作用の疾患として正式に再分類し、不安/抑うつとFBDsが共通の病態生理を通じて不可分に結びついていることを立証した。重要な点として、本文献解析は、単一分野による症状管理から、認知行動療法、食事調節、および標的微生物介入を組み合わせたマルチモーダルな治療戦略への明確な学術的転換を明らかにしている。ただし、本研究においてこれらのアプローチの臨床的有効性は直接的に検証されていない。今後のトランスレーショナルリサーチでは、文献で支持されているこれらの生物学的・心理学的治療法を評価するための大規模臨床試験を優先し、同定された免疫関連標的を活用して、個別化された微生物指向型治療を推進すべきである。"
+  },
+  {
+    "id": "10.1186/s40168-026-02579-3",
+    "title": "Individual-specific diurnal viral cycling co-varies with bacterial community assembly on human skin and residential surfaces",
+    "abstract": "Background\n                     Although microbiomes on human skin and residential surfaces exhibit personalized signatures and temporal stability, the temporal dynamics of viromes across these habitats and their potential to predict shifts in the bacterial community structure remain poorly understood. To elucidate the virome, we conducted a 10-day longitudinal, high-resolution metagenomic study of over 400 samples collected twice daily from the palm skin and household surfaces (bed headboards and doorknobs) of four individuals, alongside public fomites collected from subway and park environments. We then used ecological network inference and machine learning frameworks to characterize the spatiotemporal dynamics of viral communities in the samples and their interactions with bacterial hosts.\n                  \n                     Results\n                     We identified 727 distinct viral operational taxonomic units (vOTUs) that exhibited strong individual-specific clustering in skin and corresponding household surface samples but not in public fomite samples. Sampled bacterial communities consistently followed a Weibull abundance distribution characterized by many rare and few dominant taxa across all surface types. In contrast, viral communities exhibited surface-specific log-normal distributions and higher temporal turnover, suggesting greater sensitivity to environmental variation. Virus–bacterium interactions on skin and household surfaces exhibited pronounced temporal rhythms, with recurrent nocturnal intensification and an approximate 48-h periodicity. Using this temporal coupling and viral profiles, we trained machine learning models to predict bacterial composition, achieving R2 values up to 0.61 on palm skin and demonstrating that viral dynamics can reliably track shifts in bacterial communities. The predictive model performance varied by viral lifestyle: putative temperate viruses were stable, time-independent markers, whereas putative virulent viruses responded more dynamically to environmental fluctuations.\n                  \n                     Conclusions\n                     Our findings establish the skin and residential surface virome as a dynamic, rhythmic, and individualized component of the microbiome. Rather than functioning as passive reservoirs, these viral communities encode predictive ecological signatures of their bacterial hosts that are associated with the viral lifestyle, host identity, and environmental context. Our results position the skin and residential surface virome as a sensitive and informative indicator of the state of a microbial community, thus offering new opportunities for non-invasive, virus-based ecological monitoring in both clinical and environmental settings.\n                     \nVideo Abstract",
+    "journal": "Microbiome",
+    "doi": "10.1186/s40168-026-02579-3",
+    "date": "2026-11-25",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s40168-026-02579-3",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "bacterium",
+        "metagenom",
+        "metagenomic",
+        "microbial",
+        "microbiome",
+        "microbiomes",
+        "viral",
+        "virome",
+        "viromes",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=40168",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5643,
+    "collected_at": "2026-11-25T15:46:29.923395+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=40168"
+    ],
+    "first_seen": "2026-11-25",
+    "related_dois": [
+      "10.1186/s40168-026-02579-3"
+    ],
+    "translation": {
+      "title": {
+        "hash": "997310642a0f7ea638645173ce2f3cdd18e57f66717a3e26e31a6eabbbe4d3ae",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:02:11.675548+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "540c5035ce4afed91437d2944e7a6211c5b3d7d591fb933edd06074508ad4a12",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:02:11.675548+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ヒトの皮膚および居住面における個体特異的な日周性ウイルス循環は、細菌群集の形成と共変する",
+    "abstract_ja": "背景\n                     ヒトの皮膚および居住空間表面のマイクロバイオームは、個人固有のシグネチャーと時間的安定性を示すものの、これらの生息環境におけるウイルスームの時間的動態や、細菌群集構造の変化を予測する可能性については、依然として十分に解明されていない。ウイルスームを解明するため、我々は4名の被験者の手のひら皮膚および家庭内表面（ベッドのヘッドボードやドアノブ）から1日2回採取した400点以上のサンプルと、地下鉄や公園などの環境から採取した公共物品を対象に、10日間にわたる縦断的な高解像度メタゲノム研究を実施した。次いで、生態学的ネットワーク推論および機械学習フレームワークを用いて、サンプル中のウイルス群集の時空間動態と、細菌宿主との相互作用を特性評価した。\n                  \n                     結果\n                     我々は、皮膚および対応する家庭内表面サンプルにおいて強い個体特異的なクラスタリングを示す一方で、公共物品サンプルでは示さない、727個の個別のウイルス運用分類単位（vOTU）を同定した。採取された細菌群集は、すべての表面タイプにおいて、希少種が多く優占種が少ないことを特徴とするワイブル豊富度分布に一貫して従っていた。対照的に、ウイルス群集は表面特異的な対数正規分布を示し、より高い時間的ターンオーバーを有しており、環境変動に対する感受性が高いことが示唆された。皮膚および家庭内表面におけるウイルスと細菌の相互作用には顕著な時間的リズムが認められ、夜間の増強が繰り返し起こり、約48時間の周期性を示した。この時間的結合とウイルスプロファイルを用いて機械学習モデルを訓練し、細菌組成の予測を行ったところ、手のひら皮膚において最大0.61のR2値を達成し、ウイルス動態が細菌群集の変化を確実に追跡できることを示した。予測モデルの性能はウイルスの生活様式によって異なり、推定される温帯性ウイルスは安定し時間に依存しないマーカーであったのに対し、推定される強毒性ウイルスは環境変動に対してより動的に反応した。\n                  \n                     結論\n                     本研究の知見は、皮膚および居住空間表面のウイルスームが、マイクロバイオームの動的かつリズム性があり、個別化された構成要素であることを立証するものである。これらのウイルス群集は、受動的なリザーバーとして機能するのではなく、ウイルスの生活様式、宿主の同一性、および環境コンテキストに関連した、細菌宿主の予測的な生態学的シグネチャーをコードしている。我々の結果は、皮膚および居住空間表面のウイルスームを微生物群集の状態を示す感度が高く情報量の多い指標として位置づけるものであり、これにより臨床および環境の両設定において、非侵襲的なウイルスベースの生態学的モニタリングの新たな機会を提供するものである。\n                     \nビデオ抄録"
+  },
+  {
+    "id": "10.1038/s41564-026-02541-x",
+    "title": "Epithelial cell adhesion molecule on alveolar macrophages promotes the clearance of pulmonary bacterial infections",
+    "abstract": "This work identifies EpCAM as a marker of fetal-derived alveolar macrophages that supports bacterial uptake. Influenza infection suppresses EpCAM expression on alveolar macrophages, impairing subsequent bacterial clearance and leaving mice more vulnerable to secondary pneumonia.",
+    "journal": "Nature Microbiology",
+    "doi": "10.1038/s41564-026-02541-x",
+    "date": "2026-11-25",
+    "authors": "Manfred Kopf",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.nature.com/articles/s41564-026-02541-x",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.nature.com/nmicrobiol.rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5637,
+    "collected_at": "2026-11-25T15:46:29.923395+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.nature.com/nmicrobiol.rss"
+    ],
+    "first_seen": "2026-11-25",
+    "related_dois": [
+      "10.1038/s41564-026-02541-x"
+    ],
+    "translation": {
+      "title": {
+        "hash": "08ec3fb263d1a13a201ead70b374a76373c0cbe3814392788c0a62004b746c3d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:02:11.675548+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9d8cb596a9bb2c22ce14a3880ff96a166605c4010887e5294632372ec30a4b03",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:02:11.675548+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "肺胞マクロファージ上の上皮細胞接着分子は肺内細菌感染症の排除を促進する",
+    "abstract_ja": "本研究は、EpCAMが細菌の取り込みを補助する胎児由来肺胞マクロファージのマーカーであることを明らかにした。インフルエンザ感染は肺胞マクロファージにおけるEpCAM発現を抑制し、その後の細菌除去機能を損なうことで、マウスを二次性肺炎に対してより脆弱な状態にする。"
+  },
+  {
+    "id": "10.1371/journal.pgen.1012393",
+    "title": "Deviation from the neutral mutational spectrum in driver genes reveals the distribution of effects of missense oncogenic mutations",
+    "abstract": "by Anastasia V. Stolyarova, Georgii A. Bazykin\n\nAlthough many cancer driver genes have been identified, the full set of variants within these genes that can promote tumorigenesis remains unknown. The contribution of a variant to cancer depends on both its probability of occurrence and the selective advantage it confers. Here, we introduce a metric that quantifies how selection biases the spectrum of observed missense variants in driver genes compared to neutral expectation, and use it to develop a method for estimating the total number of potential driver variants and the distribution of their fitness effects within individual genes. Applying this framework to large cancer cohorts, we estimate that in most oncogenes, nearly all possible missense driver variants have already been observed, whereas in most tumor-suppressor genes, the majority remain undiscovered. These results reveal fundamental differences in how mutation and selection shape nucleotide variation across gene classes and provide a framework for interpreting newly detected variants.",
+    "journal": "PLOS Genetics",
+    "doi": "10.1371/journal.pgen.1012393",
+    "date": "2026-11-25",
+    "authors": "Georgii A. Bazykin",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1012393",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "gene",
+        "method"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "gene",
+          "method"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://journals.plos.org/plosgenetics/feed/atom",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5700,
+    "collected_at": "2026-11-26T00:30:40.165307+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://journals.plos.org/plosgenetics/feed/atom"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1371/journal.pgen.1012393"
+    ],
+    "translation": {
+      "title": {
+        "hash": "18661bc2d803657ce4daa96d232140c91449276980978d973c450e2f7686f8e0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:02:11.675548+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c3a8a180f89beac71d8568b149bf08aa1274b19d8515d64518ed46db5d8ebaf8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:02:11.675548+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ドライバー遺伝子における中立変異スペクトルからの逸脱は、ミスセンス発がん変異の影響の分布を明らかにする",
+    "abstract_ja": "by Anastasia V. Stolyarova, Georgii A. Bazykin\n\n多くのがんドライバー遺伝子が同定されているものの、これらの遺伝子内で腫瘍形成を促進し得る変異の全セットは依然として不明である。変異のがんへの寄与は、その発生確率と、それが付与する選択的優位性の両方に依存する。本稿では、中立的な期待値と比較して、選択がドライバー遺伝子において観察されるミスセンス変異のスペクトルをどのように偏らせるかを定量化する指標を導入し、それを用いて、潜在的なドライバー変異の総数および個々の遺伝子内における適応度効果の分布を推定する手法を開発する。この枠組みを大規模ながんコホートに適用した結果、ほとんどのがん遺伝子ではほぼすべての可能なミスセンスドライバー変異がすでに観察されている一方で、ほとんどの腫瘍抑制遺伝子では大部分が未発見のままであることが推定された。これらの結果は、突然変異と選択が遺伝子クラス全体のヌクレオチド変異をどのように形作るかという点における根本的な相違を明らかにするとともに、新たに検出された変異を解釈するための枠組みを提供するものである。"
   }
 ]
