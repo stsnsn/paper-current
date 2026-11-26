@@ -335981,5 +335981,279 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "環境選択が北大西洋の縦断的横断線沿いにおけるモジュール型原核生物群集の入れ替わりを構造化する",
     "abstract_ja": "要旨 海洋原核生物群集は、海盆内で高いターンオーバーを示すことがあるが、それが生態学的などのレベルで生じ、どのような要因が影響しているのかについては、まだ十分に解明されていない。本研究では、フロリダからカディス湾に至る北大西洋の6,500 kmにわたる縦断的トランセクト沿いの表層水から得られた16S rRNA遺伝子メタバーコーディングデータを解析した。群集のターンオーバーは、主に連成した空間・環境勾配に沿った環境選択の影響を受けた。特に、このターンオーバーは群集の置換、とりわけ、異なる環境選好を持つ共起分類群の反復的なグループとして定義される4つの支配的な生態学的モジュールの再編成を通じて顕著に認められた。海洋学的な連結性は分散を制約する環境をもたらし、より連結性の高いサンプルほどモジュールの類似性が高かった。総じて、これらの結果は、本トランセクト沿いの生物地理学が主に決定論的なプロセスによって構造化されており、流体力学的に制約された環境下で生態学的に整合性のあるモジュールの再編成を通じて現れることを示している。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.2015607",
+    "title": "CelluPred: protein language model-based identification of cellulolytic enzyme candidates",
+    "abstract": "Cellulose-degrading enzymes are valuable targets for biomass conversion, but the growth of protein sequence databases makes experimental screening increasingly difficult. We compared handcrafted sequence descriptors with protein language model (PLM) representations for identifying annotation-defined cellulolytic enzyme candidates. Sixteen feature-based configurations and nine PLMs were evaluated. The PLMs were adapted using either final-two-block fine-tuning (Top-2) or 4-bit quantized low-rank adaptation (QLoRA). Among the feature-based configurations, CatBoost with variance-threshold feature selection achieved the highest Matthews correlation coefficient (MCC, 0.5563). ProtT5-XL-BFD with Top-2 fine-tuning achieved the highest observed test MCC (0.8666; 95% CI: 0.7874–0.9340), with 97.5% precision and 78.0% recall. However, its performance was not statistically superior to that of the other Top-2 models after multiple-comparison correction. Under the shorter training schedule used in this study, QLoRA achieved lower MCC values than Top-2 fine-tuning. We also developed CelluPred, a web interface deploying ProtT5-XL-BFD Top-2 for sequence-based prediction of cellulolytic enzyme candidates. These results support PLM-based prioritization of annotation-defined candidates for subsequent experimental validation.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.2015607",
+    "date": "2026-11-25",
+    "authors": "Xiaoqing Zhao",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.2015607",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5616,
+    "collected_at": "2026-11-25T15:46:29.923395+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-25",
+    "related_dois": [
+      "10.3389/fmicb.2026.2015607"
+    ],
+    "translation": {
+      "title": {
+        "hash": "10c41f61a7af6d18460b952aa4219d3cb4004b2d0ee9e86faaacc23f46e341bb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T00:59:16.706340+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "28b69dc37aa059e997a02c70e7c2a4e6058627ffa3f20afac0d67332e8871e53",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T00:59:16.706340+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "CelluPred: タンパク質言語モデルに基づくセルロース分解酵素候補の同定",
+    "abstract_ja": "セルロース分解酵素はバイオマス変換の有用な標的であるが、タンパク質配列データベースの拡充に伴い、実験的スクリーニングがますます困難になっている。本研究では、アノテーションで定義されたセルロース分解酵素候補を同定するため、手作業で構築した配列記述子とタンパク質言語モデル（PLM）による表現を比較した。特徴量ベースの構成16種類とPLM 9種類を評価した。PLMは、最終2ブロックファインチューニング（Top-2）または4ビット量子化低ランク適応（QLoRA）を用いて調整した。特徴量ベースの構成の中では、分散閾値特徴量選択を用いたCatBoostが最高のマシューズ相関係数（MCC, 0.5563）を達成した。Top-2ファインチューニングを施したProtT5-XL-BFDは、観測されたテストMCC（0.8666; 95% CI: 0.7874–0.9340）が最も高く、適合率97.5%、再現率78.0%を記録した。しかし、多重比較補正後においても、その性能は他のTop-2モデルよりも統計的に優れているとは言えなかった。本研究で採用したより短期間の学習スケジュールでは、QLoRAはTop-2ファインチューニングよりも低いMCC値となった。また、セルロース分解酵素候補の配列ベース予測にProtT5-XL-BFD Top-2をデプロイするウェブインターフェースであるCelluPredを開発した。これらの結果は、後続の実験的検証に向けて、アノテーションで定義された候補をPLMに基づいて優先順位付けすることを支持するものである。"
+  },
+  {
+    "id": "10.1007/s00248-026-02915-y",
+    "title": "Metabarcoding Description of Biofilm Bacterial Communities in Drinking Water Outlets Across a Disinfection Gradient in Healthcare and Industrial Settings",
+    "abstract": "Drinking water biofilms harbor diverse microbial communities, providing protection from environmental and chemical stresses and allowing the persistence of waterborne pathogens. However, species-level surveillance for pathogens such as Legionella and nontuberculous mycobacteria (NTM) remains limited, and the impact of disinfection treatments on their distribution within water biofilms is poorly investigated. In this study, 16S rRNA gene amplicon sequencing was used to characterize the microbial communities of outlet biofilms from healthcare facilities and industries in the metropolitan area of Bologna, Italy (n = 112, sequenced n = 82), with a focus on the distribution and persistence of Legionella spp. and NTM across a gradient of water temperature and hydrogen peroxide-silver disinfection conditions. L. pneumophila was detected exclusively in untreated industry samples, whereas L. anisa persisted across all treatment levels, including the highest disinfectant concentration. NTM were widespread in both environments, but M. gordonae was significantly enriched in disinfectant-treated healthcare samples, suggesting that disinfection is associated with the enrichment of specific species rather than the eradication of a genus. These findings indicate that the current disinfection practices effectively reduce L. pneumophila but reshape rather than eliminate the broader pathogen community, highlighting the need for integrated monitoring strategies.",
+    "journal": "Microbial Ecology",
+    "doi": "10.1007/s00248-026-02915-y",
+    "date": "2026-11-25",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://link.springer.com/article/10.1007/s00248-026-02915-y",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "bacteria",
+        "bacterial",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=248",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5650,
+    "collected_at": "2026-11-25T15:46:29.923395+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=248"
+    ],
+    "first_seen": "2026-11-25",
+    "related_dois": [
+      "10.1007/s00248-026-02915-y"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ae2b7f75961c4765611b74e6e37a2181e0868e3c85f11b73042dd826847e689c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T00:59:16.706340+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6af737cc1e8ecd32696273bedbebcd2db1a691bade95e97d88505eab7acb4801",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T00:59:16.706340+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "医療および産業現場における消毒勾配を挟んだ飲料水取水口のバイオフィルム細菌群集のメタバーコーディングによる記述",
+    "abstract_ja": "飲料水バイオフィルムには多様な微生物群集が存在し、環境的・化学的ストレスからの保護や、水系病原体の持続性をもたらしている。しかし、レジオネラ属菌や非結核性抗酸菌（NTM）などの病原体に関する種レベルのサーベイランスは依然として限定的であり、水バイオフィルム内におけるこれらの分布に消毒処理が及ぼす影響については十分に検討されていない。本研究では、16S rRNA遺伝子アンプリコンシーケンシングを用いて、イタリア・ボローニャ都市圏の医療施設および工業施設の排水口バイオフィルムにおける微生物群集の特性解析を行った（n = 112、シーケンシング実施数 n = 82）。特に、水温勾配および過酸化水素・銀消毒条件におけるLegionella spp.およびNTMの分布と持続性に着目した。L. pneumophilaは未処理の工業施設サンプルからのみ検出された一方、L. anisaは最高濃度の消毒剤を含むすべての処理レベルで持続していた。NTMは両環境において広く分布していたが、M. gordonaeは消毒剤処理を施した医療施設サンプルにおいて有意に濃縮されており、消毒が属の根絶ではなく、特定の種の濃縮に関連していることが示唆された。これらの知見は、現行の消毒手法がL. pneumophilaを効果的に減少させるものの、より広範な病原体群集を排除するのではなく再構成することを示しており、統合的なモニタリング戦略の必要性を浮き彫りにしている。"
+  },
+  {
+    "id": "10.1186/s40168-026-02574-8",
+    "title": "Changes in gene expression in eukaryotic phytoplankton at the Atlantic-Arctic polar front",
+    "abstract": "Background\n                     In the Arctic Ocean, phytoplankton communities, dominated by eukaryotes, sustain the marine food web and influence biogeochemical cycles. While many are endemic, some are transported by currents from the Atlantic Ocean along an environmental gradient that steepens at the polar front. Despite these distinct biogeographies, the functional characteristics of these communities remain poorly characterized.\n                  \n                     Results\n                     Here, we analyzed twenty metatranscriptomes from a North Atlantic–Arctic environmental gradient considering ocean currents transport times. Functions related to the regulation of gene expression and cold acclimation were more abundant in Arctic metatranscriptomes. Using the PHATE dimensionality reduction algorithm, reconstructed transcriptomes of Bacillariophyta, Mamiellales, Pelagophyceae, and Phaeocystales revealed different gene expression patterns, including photosynthesis regulation. All groups showed upregulation of numerous temperature-associated functions, including a shared subset that supports convergent transcriptomic responses under polar conditions.\n                  \n                     Conclusions\n                     This study, based on a new resource of reconstructed transcriptomes, characterizes functional differentiation among eukaryotic phytoplankton communities across the winter North Atlantic and the summer Arctic Ocean. It reveals both lineage-specific gene expression patterns and convergent transcriptomic responses across the polar front in widespread phytoplankton groups. These results advance our understanding of the functional dynamics of phytoplankton along environmental gradients.\n                     \nVideo Abstract",
+    "journal": "Microbiome",
+    "doi": "10.1186/s40168-026-02574-8",
+    "date": "2026-11-25",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s40168-026-02574-8",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metatranscriptom",
+        "metatranscriptomes",
+        "resource",
+        "transcriptome"
+      ],
+      "context": {
+        "marine": [
+          "marine",
+          "ocean",
+          "phytoplankton"
+        ],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=40168",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5642,
+    "collected_at": "2026-11-25T15:46:29.923395+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=40168"
+    ],
+    "first_seen": "2026-11-25",
+    "related_dois": [
+      "10.1186/s40168-026-02574-8"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8180af20413488f433a8fe74658756f4ef8b5dee7ae57659969c485283e8ad62",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T00:59:16.706340+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d4912547bb369939c35cb611b8b7a4da607bcf0c401f393bcfa1d32b2ad6b9ce",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T00:59:16.706340+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "大西洋・北極極前線における真核植物プランクトンの遺伝子発現の変化",
+    "abstract_ja": "背景\n                     北極海では、真核生物が優占する植物プランクトン群集が海洋食物網を支え、生物地球化学的循環に影響を及ぼしている。その多くは固有種であるが、一部は大西洋からの海流によって、極前線で急峻化する環境勾配に沿って輸送されている。こうした異なる生物地理学的特性にもかかわらず、これらの群集の機能的特性は十分に解明されていない。\n                  \n                     結果\n                     本研究では、海流の輸送時間を考慮し、北大西洋－北極環境勾配における20種類のメタトランスクリプトームを解析した。遺伝子発現の調節および寒冷順化に関連する機能は、北極のメタトランスクリプトームにおいてより豊富に認められた。PHATE次元削減アルゴリズムを用いて、Basillariophyta、Mamiellales、Pelagophyceae、およびPhaeocystalesの再構築トランスクリプトームを解析したところ、光合成調節を含む異なる遺伝子発現パターンが明らかになった。すべてのグループにおいて、極地条件下で収斂的なトランスクリプトーム応答を支える共通のサブセットを含め、多数の温度関連機能の亢進が認められた。\n                  \n                     結論\n                     本研究は、再構築トランスクリプトームの新たなリソースに基づき、冬季の北大西洋と夏季の北極海にわたる真核植物プランクトン群集間の機能的分化を明らかにした。また、広範な植物プランクトン群において、系統特異的な遺伝子発現パターンと、極前線を横断する収斂的なトランスクリプトーム応答の両方を明らかにした。これらの結果は、環境勾配に沿った植物プランクトンの機能的動態に関する理解を深めるものである。\n                     \nビデオ抄録"
+  },
+  {
+    "id": "10.1038/s41564-026-02563-5",
+    "title": "Ebola virus-based antibody products cross-neutralize 2026 Bundibugyo virus glycoprotein",
+    "abstract": "Antibodies raised by Ebola virus retain neutralizing activity against the glycoprotein of the Bundibugyo virus causing the 2026 outbreak, supporting the rapid evaluation of existing Ebola antibody products in the current outbreak.",
+    "journal": "Nature Microbiology",
+    "doi": "10.1038/s41564-026-02563-5",
+    "date": "2026-11-25",
+    "authors": "Rafael Delgado",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.nature.com/articles/s41564-026-02563-5",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.nature.com/nmicrobiol.rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5636,
+    "collected_at": "2026-11-25T15:46:29.923395+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.nature.com/nmicrobiol.rss"
+    ],
+    "first_seen": "2026-11-25",
+    "related_dois": [
+      "10.1038/s41564-026-02563-5"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f64f98c8ff5cf28affc6a11254905b423e4de7e29df119bedc8887d73f0c0cce",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T00:59:16.706340+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c0fa5ca235c3c7aa2eaa2b5fe46d919686ad2f182c72e802473a569bc52f31cf",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T00:59:16.706340+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "エボラウイルス由来抗体製剤は2026年ブンディブギョウイルス糖タンパク質を交差中和する",
+    "abstract_ja": "エボラウイルスによって誘導された抗体は、2026年のアウトブレイクの原因となっているブンディブギョウイルスの糖タンパク質に対する中和活性を保持しており、今回のアウトブレイクにおける既存のエボラ抗体製剤の迅速な評価を裏付けるものである。"
   }
 ]
