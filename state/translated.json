@@ -337921,5 +337921,302 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ドキソルビシンを送達するヒスタミン機能化ポリラクチドナノ粒子は、in vitroにおいてAGS胃癌細胞内の特定のヘリコバクター・ピロリ成分の存在下で、血管様ネットワークの形成を抑制する。",
     "abstract_ja": "血管様模倣（VM）とは、がん細胞が血管様構造を形成する能力を指し、胃がんの進展に寄与する可能性がある。本研究では、精製したヘリコバクター・ピロリ（H. pylori）成分、組換えサイトトキシン関連遺伝子A（rCagA）タンパク質およびリポ多糖（LPS）、ならびに大腸菌（Escherichia coli）LPSが、マトリゲル上で培養したAGS胃がん細胞による血管様ネットワーク形成に影響を及ぼすかを検討した。さらに、ドキソルビシンを担持したヒスタミン機能化ポリラクチドナノ粒子（PLA-His-DOX）が、同等の公称DOX濃度（1 μg/mL）において、遊離ドキソルビシン（DOX）と比較してVMプロセスに及ぼす影響を検討した。VMネットワークのトポロジーは画像解析により定量化し、選定したVMおよび血管新生関連マーカーを免疫蛍光法および酵素結合免疫吸着法（ELISA）により評価した。選定した転写産物への影響は、定量リアルタイムポリメラーゼ連鎖反応（qPCR）により評価した。AGS胃がん（GC）細胞は自発的に血管様ネットワークを形成したが、H. pylori rCagA存在下では、血管内皮増殖因子（VEGF）およびVEGF受容体2（VEGFR2）の免疫蛍光シグナルの上昇に伴い、分枝点の数が増加した。エンドグリンおよび血管内皮カドヘリン（VE-cadherin）の変化は、処理条件によって異なっていた。遊離DOXおよびPLA-His-DOXは、検討した細菌成分に同時に曝露させた条件下で、血管様ネットワーク形成を減少させた。ヒスタミンH2およびH4受容体拮抗薬は、DOXまたはPLA-His-DOXの蛍光を減少させたが、完全なナノ粒子の取り込みは認められなかった。得られたデータは、in vitroにおいて選定したH. pylori成分がAGS GC細胞による血管様ネットワーク形成を誘導する潜在的な役割を持つこと、およびPLA-His-DOX NPsがこのプロセスを抑制する能力を有することを示唆している。これらのデータを、H. pylori関連GCモデルおよびより生理学的に代表的な条件下で確認するためには、さらなる研究が必要である。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1983375",
+    "title": "Biochemical and structural characterisation of sugar aminotransferases from thermophilic microorganisms",
+    "abstract": "Sugar aminotransferase (SAT) enzymes catalyse the reversible transamination of keto-sugars to produce amino-sugars of significant pharmaceutical importance. These pyridoxal-5-phosphate (PLP)-dependent enzymes belong to aminotransferase family VI (DegT/DnrJ/EryC1) and are divided into three subgroups (VIα, Viβ, and VIγ) based on substrate specificity. In this study, we report the biochemical and structural characterisation of two thermophilic SAT enzymes, namely, SAT4182 and AVTA6, representing members of subgroups VIα and Viβ, respectively. SAT4182 was identified using metagenomic sequencing of water produced from the Troll oil reservoir and belongs to subgroup VIα, whilst AVTA6 was identified from the thermophilic archaeon Archaeoglobus veneficus and belongs to subgroup VIβ. Both enzymes were successfully overexpressed in Escherichia coli and purified to homogeneity. PLP binding and internal aldimine formation were confirmed spectrophotometrically, with SAT4182 maintaining a stable internal aldimine up to 90 °C and AVTA6 up to 80 °C. Amino acid donor screening revealed that SAT4182 accepts L-glutamate, L-histidine, and L-serine, whilst AVTA6 accepts L-glutamate and L-aspartate, demonstrating broad donor specificity across the two enyzmes. Both enzymes are thermophilic, with optimal activity above 50 °C. The biochemical assays specifically demonstrated the first half-reaction of the transamination mechanism. The crystal structures of SAT4182 and AVTA6 were solved to resolutions of 1.43 Å and 1.27 Å, respectively, revealing the conserved aspartate aminotransferase (AAT type I) fold with PLP covalently bound via a Schiff base to the active-site lysine. Structural analysis revealed that both enzymes complete their active sites at the dimer interface through cross-subunit contributions and identified several distinct structural features that may contribute to different substrate specificities. Analysis of structural features contributing to high thermal stability revealed that SAT4182 relies primarily on an extensive salt bridge network, whilst AVTA6 possesses a unique intrachain disulphide bond. These represent only the second and third thermophilic SAT structures from family VI determined to date, expanding our structural and mechanistic understanding of this enzyme family.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1983375",
+    "date": "2026-11-25",
+    "authors": "Jennifer A. Littlechild",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1983375",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "archaeon",
+        "metagenom",
+        "metagenomic",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5655,
+    "collected_at": "2026-11-26T00:30:40.165307+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.3389/fmicb.2026.1983375"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e4fd47857e4fc38440382cbd9d4ff32800ac4cf82d46cc16a4e116acc0585217",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:25:12.136107+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e8a5cb032c1fc7e858f87f983ac8b47a7f5eda89ba613b930e044d6c28ed42b9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:25:12.136107+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "好熱性微生物由来糖アミノ基転移酵素の生化学的・構造的特性解析",
+    "abstract_ja": "糖アミノ基転移酵素（SAT）酵素は、ケト糖の可逆的なアミノ基転移を触媒し、薬理学的に重要なアミノ糖を生成する。これらのピリドキサル-5-リン酸（PLP）依存性酵素はアミノ基転移酵素ファミリーVI（DegT/DnrJ/EryC1）に属し、基質特異性に基づいて3つのサブグループ（VIα、Viβ、およびVIγ）に分類される。本研究では、サブグループVIαおよびViβにそれぞれ属する2種類の好熱性SAT酵素、すなわちSAT4182およびAVTA6の生化学的および構造的特性解析について報告する。SAT4182は、トロール油貯留層から得られた水のメタゲノムシーケンシングにより同定され、サブグループVIαに属し、一方AVTA6は、好熱性古細菌Archaeoglobus veneficusから同定され、サブグループVIβに属する。両酵素はEscherichia coliにおいて正常に過剰発現し、均一に精製された。PLP結合および内部アルジミン形成は分光光度法により確認され、SAT4182は最大90 °C、AVTA6は最大80 °Cまで安定した内部アルジミンを保持した。アミノ酸供与体スクリーニングの結果、SAT4182はL-グルタミン酸、L-ヒスチジン、およびL-セリンを、AVTA6はL-グルタミン酸およびL-アスパラギン酸をそれぞれ受け入れることが明らかになり、両酵素において広範な供与体特異性が示された。両酵素とも好熱性であり、50 °C以上で至適活性を示す。生化学的アッセイにより、アミノ基転移機構の第一半減反応が具体的に実証された。SAT4182およびAVTA6の結晶構造はそれぞれ1.43 Åおよび1.27 Åの分解能で決定され、活性部位のリシンにシッフ塩基を介してPLPが共有結合した、保存されたアスパラギン酸アミノ基転移酵素（AATタイプI）フォールドが明らかになった。構造解析により、両酵素とも二量体界面においてサブユニット間の寄与を通じて活性部位を形成していることが明らかになり、異なる基質特異性に寄与し得るいくつかの明確な構造的特徴が同定された。高い熱安定性に寄与する構造的特徴の解析により、SAT4182は主に広範な塩橋ネットワークに依存しているのに対し、AVTA6は独自の鎖内ジスルフィド結合を有することが明らかになった。これらは、これまでに決定されたファミリーVIの好熱性SAT構造としてそれぞれ2番目および3番目のものであり、本酵素ファミリーの構造的および機構的な理解を深めるものである。"
+  },
+  {
+    "id": "10.64898/2026.11.24.768875",
+    "title": "Genome-Wide Association Study Identifies Novel Genetic Variants Linked to Meropenem Resistance in Klebsiella pneumoniae",
+    "abstract": "Carbapenem-resistant Enterobacteriaceae have emerged as an urgent public health threat in recent years. Infections caused by carbapenem-resistant Klebsiella pneumoniae in particular are associated with high rates of mortality, especially in immunocompromised patients. Substantial carbapenem resistance remains unexplained in K. pneumoniae even after accounting for known resistance genes. To uncover unknown mechanisms associated with meropenem resistance, we performed a genome-wide association study (GWAS) in 1,705 K. pneumoniae clinical isolates with previously determined resistance profiles to meropenem . We conducted the GWAS by using an elastic net regression to control for genome-wide linkage disequilibrium and combined it with a conditional linear mixed model to control for the presence of genes known to confer carbapenem resistance. The resulting set of variants predicted to be associated with meropenem resistance mapped to genes broadly related to the plasticity of the genome. We developed a visualization tool integrating GWAS results with phenotypic data and polymorphic site information to aid in hypothesis generation, which allowed us to prioritize novel genomic candidates. Our results demonstrate the effectiveness of the combined approach in detecting novel genomic variants associated with meropenem resistance in K. pneumoniae, while controlling for strong bacterial population structure, to advance our understanding of the genetic basis of carbapenem resistance.",
+    "journal": "",
+    "doi": "10.64898/2026.11.24.768875",
+    "date": "2026-11-25",
+    "authors": "Bardiya, O., Clatworthy, A., Bagnall, J., Wijers, C., Natale, V. d., Shigeta, J., Shoresh, N., Hung, D. T.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.24.768875v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "gene",
+        "genomic",
+        "tool",
+        "visualization"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5701,
+    "collected_at": "2026-11-26T00:30:40.165307+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.64898/2026.11.24.768875"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e78b531df07a2164ca8ba62ebabf4a5fe5d8e47629da053dbe0e62dd4402099e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:25:12.136107+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "16d0bac45a1674fdaae857a40dd46d8207ed900a1bb4cb72afb5cdb8aef10c20",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:25:12.136107+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ゲノムワイド関連解析により肺炎桿菌のメロペネム耐性に関連する新規遺伝子変異を同定した",
+    "abstract_ja": "近年、カルバペネム耐性腸内細菌科細菌が喫緊の公衆衛生上の脅威となっている。特にカルバペネム耐性肺炎桿菌（K. pneumoniae）による感染症は、とりわけ免疫不全患者において高い死亡率と関連している。既知の耐性遺伝子を考慮しても、K. pneumoniaeにおける顕著なカルバペネム耐性は依然として解明されていない。メロペネム耐性に関連する未知のメカニズムを解明するため、我々はメロペネム耐性プロファイルが既報であるK. pneumoniaeの臨床分離株1,705株を対象に、ゲノムワイド関連解析（GWAS）を実施した。GWASは、ゲノムワイドな連鎖不平衡を制御するための弾性ネット回帰を用い、さらにカルバペネム耐性を付与することが知られている遺伝子の存在を制御するための条件付き線形混合モデルを組み合わせて行った。メロペネム耐性に関連すると予測された変異のセットは、ゲノムの可塑性と広範に関連する遺伝子にマッピングされた。我々は、仮説立案を支援するため、GWASの結果を表現型データおよび多型部位情報と統合した可視化ツールを開発し、これにより新規のゲノム候補の優先順位付けを可能にした。本研究の結果は、強固な細菌集団構造を制御しつつ、K. pneumoniaeにおけるメロペネム耐性に関連する新規ゲノム変異を検出する上での統合的アプローチの有効性を実証するものであり、カルバペネム耐性の遺伝的基盤に関する理解を深めるものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "bioRxiv",
+        "query": "details/biorxiv/2026-10-20/2026-11-10",
+        "scope": "candidate"
+      }
+    ],
+    "id": "10.64898/2026.05.05.722837",
+    "doi": "10.64898/2026.05.05.722837",
+    "title": "NI2+ AND ZN2+-BINDING DNA MOTIFS REVEALED IN DNA APTAMERS TO AFRICAN SWINE FEVER VIRUS",
+    "abstract": "Rapid and accurate diagnosis of viral and bacterial infections is a significant challenge in medicine and veterinary science, especially in the case of epidemically dangerous pathogens. The African swine fever virus (ASFV) causes annual outbreaks among livestock, causing in significant economic losses for farmers. Artificial recognition elements, DNA aptamers, have been identified as a suitable tool for point-of-care diagnostics due to their high affinity and specificity for the target, as well as stability at ambient temperatures during storage. This study reports for the first time on DNA aptamers that can bind ASFV particles. The aptamers were generated using a single-round selection process; they bound to both recombinant p54 protein and ASFV particles as well as exhibited antiviral properties. Functional activity of one of the aptamers depended on Ni2+, which was a dopant during the selection process; this cation increased aptamer affinity by 100-fold. A combination of techniques was used to predict the structure of Ni2+-regulated aptamer identifying a new non-canonical DNA motif. Cation-dependent regulation of aptamer activity is promising as it allows regeneration of affine carriers and biosensors with chelating agents, while addition of Ni2+ restores the high-affine aptamer conformation.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "2",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.05.05.722837"
+    ],
+    "date": "2026-10-23",
+    "authors": "Aliyeva, R.; Mushenkov, V.; Meshcheryakova, N.; Zaborova, O.; Oleynikov, I.; Mukhametova, L.; Eremin, S.; Koltsova, G.; Nechaev, A.; Tsvetkov, V. B.; Zavyalova, E.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.05.05.722837v2",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5597,
+    "collected_at": "2026-11-25T15:35:54.776965+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-25",
+    "translation": {
+      "title": {
+        "hash": "aa5cec186b0ad9de47fd5c6e11020d3d9ca0201380941cff82f4bc0d1622de84",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:25:12.136107+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4540dd870ace3e7bf74e0ef50fed63fdd21a4c4d4b7cd4fc096edccc423b8f4b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:25:12.136107+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "アフリカ豚熱ウイルスのDNAアプタマーで明らかになったNI2+およびZN2+結合DNAモチーフ",
+    "abstract_ja": "ウイルス性および細菌性感染症の迅速かつ正確な診断は、医学および獣医学において重大な課題となっており、特に流行性に危険な病原体においてその傾向が顕著である。アフリカ豚熱ウイルス（ASFV）は家畜の間で毎年アウトブレイクを引き起こし、農家に多大な経済的損失をもたらしている。人工認識素子であるDNAアプタマーは、標的に対する高い親和性と特異性に加え、保存時の室温での安定性を有することから、ポイントオブケア診断に適したツールとして同定されてきた。本研究では、ASFV粒子に結合可能なDNAアプタマーについて初めて報告する。これらのアプタマーは単一ラウンドの選択プロセスを用いて作製され、組換えp54タンパク質およびASFV粒子の双方に結合するとともに、抗ウイルス特性を示した。アプタマーの一つの機能的活性は、選択プロセスにおけるドーパントであるNi2+に依存しており、このカチオンはアプタマーの親和性を100倍に向上させた。複数の手法を組み合わせてNi2+調節型アプタマーの構造を予測し、新たな非カノニカルDNAモチーフを同定した。アプタマー活性のカチオン依存的な調節は、キレート剤を用いた親和性キャリアやバイオセンサーの再生を可能にするため有望であり、またNi2+の添加によって高親和性アプタマーの立体構造が復元される。"
+  },
+  {
+    "id": "10.64898/2026.11.23.768644",
+    "title": "Inhibition of Bacteriophage Infection by Natural and Synthetic DNA-binding Compounds",
+    "abstract": "The arms race between bacteria and phages involves a wide range of immune and anti-immune systems on both sides. One of the long-known mechanisms of antiphage defense involves DNA intercalators such as daunorubicin and its analogues. Daunorubicin was also shown to inhibit bacterial growth as well as eukaryotic cell division, underlying its use in chemotherapy. Other DNA intercalators and minor groove binding dyes are widely used for nucleic acids staining, but have not been studied for their effects on viral infection. Here, we systematically investigate the effects of known intercalator and DNA-binding agents, including daunorubicin and Hoechst derivatives, on phage infection in Escherichia coli. Using a diverse panel of phages with various replication mechanisms we identify phylogenetic groups sensitive to DNA-binding dyes and determined which stage of the viral life cycle was inhibited. Our data suggest that the active antiviral compounds block early steps of infection without cells killing, arguing against an abortive infection mechanism and lethal membrane permeabilization suggested recently. Together, our results expand the list of small molecules that affect phage infection and reveal DNA binders that inhibit viral DNA entry and/or replication without affecting cell physiology.",
+    "journal": "",
+    "doi": "10.64898/2026.11.23.768644",
+    "date": "2026-11-25",
+    "authors": "Panteleev, V., Petrova, N. F., Moldon, I., Sidorova, A. I., Isaev, A., Andriianov, A., Moiseenko, A., Solyev, P. N., Kulbachiskiy, A., Gelfenbein, D.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.23.768644v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "bacteria",
+        "bacterial",
+        "bacteriophage",
+        "phage",
+        "phages",
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5706,
+    "collected_at": "2026-11-26T00:30:40.165307+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.64898/2026.11.23.768644"
+    ],
+    "translation": {
+      "title": {
+        "hash": "fe2e0b8826f1fa03227c94e6670a38661bd372d46148e6197df1ef0f7eeb7c54",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:25:12.136107+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3fabacf2879d9817475bae948e8e2fcdb3e9cbae11216048d32d5b24892353d5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:25:12.136107+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "天然および合成DNA結合化合物によるバクテリオファージ感染の抑制",
+    "abstract_ja": "細菌とファージの軍拡競争には、双方において広範な免疫系および抗免疫系が関与している。古くから知られている抗ファージ防御機構の一つに、ダウノルビシンおよびその類縁体などのDNAインターカレーターがある。ダウノルビシンは、細菌の増殖および真核細胞の分裂を阻害することも示されており、これが化学療法における利用の根拠となっている。その他のDNAインターカレーターやマイナーグルーブ結合染料は、核酸染色に広く用いられているが、ウイルス感染に及ぼす影響については研究されてこなかった。本研究では、ダウノルビシンやヘキスト誘導体を含む既知のインターカレーターおよびDNA結合剤が、大腸菌（Escherichia coli）におけるファージ感染に及ぼす影響を系統的に調査した。多様な複製機構を持つファージパネルを用いて、DNA結合染料に感受性を示す系統群を同定し、ウイルスライフサイクルのどの段階が阻害されるかを明らかにした。我々のデータは、活性抗ウイルス化合物が細胞死を伴わずに感染の初期段階を遮断することを示唆しており、近年提唱されている感染不全機構や致死的な膜透過化説を否定するものである。以上の結果を総合すると、本研究はファージ感染に影響を及ぼす低分子化合物のリストを拡充するとともに、細胞生理学に影響を与えることなくウイルスDNAの侵入および／または複製を阻害するDNA結合剤を明らかにするものである。"
   }
 ]
