@@ -343244,5 +343244,277 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "TFRegDB v2.0: ヒト転写因子エフェクタードメインの統合データベース",
     "abstract_ja": "要旨転写因子（TF）は、明確に定義されたDNA結合ドメインを介してDNAを認識するが、その調節出力は、転写を活性化または抑制するエフェクタードメインに依存している。ほとんどのエフェクタードメインは、低スループットのレポーターアッセイを用いてタンパク質ごとにマッピングされており、その結果得られたアノテーションは、数十年にわたる文献の中に散在したままである。本稿では、個々のタンパク質アイソフォームレベルで解析された、実験的に裏付けられた転写エフェクタードメインのキュレート済みデータベースであるTFRegDB v2.0を提案する。公開文献に対する言語モデル支援型スクリーニングと全レコードの手動検証を組み合わせ、これらのアノテーションをハイスループットなドメインマッピングスクリーニングと統合することで、64ファミリー、1,072報の論文からキュレートされた、1,268種類のヒトTFにわたる5,277件の実験的に裏付けられたドメインレポートを集約した。これは、我々の以前のコンペンディウムと比較して8.7倍の拡充となる。すべての活性化および抑制ドメインのアノテーションには、事前計算済みのAlphaFold構造モデル、アミノ酸およびヌクレオチド解像度での残基ごとの保存性、計算予測、短い線状モチーフ、生物物理学的および無秩序プロファイル、翻訳後修飾、生殖細胞系列バリアント、およびドメインをコードするエクソン・イントロン構造が併せて提供されており、ユーザーは代替アイソフォームや遺伝的変異がエフェクタードメインの完全性にどのような影響を及ぼすかを評価できる。TFRegDB v2.0は、インタラクティブポータル、公開REST API、および一括ダウンロードを通じて https://tfregdb.com で無料で利用可能であり、今後のリリースに向けてコミュニティから提出されたアノテーションを受け付けている。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1987490",
+    "title": "Carbapenem-resistant Enterobacter cloacae complex: genetic determinants of resistance and molecular epidemiology",
+    "abstract": "The Enterobacter cloacae complex (ECC) comprises taxonomically diverse opportunistic pathogens increasingly associated with healthcare infections and carbapenem resistance. This review synthesizes current evidence on ECC taxonomy, resistance mechanisms, molecular epidemiology and mobile genetic elements (MGEs), with particular emphasis on clinically relevant species and nosocomial dissemination. Carbapenem resistance may result from acquired carbapenemases or from combined mechanisms involving AmpC and/or extended-spectrum β-lactamases, reduced outer membrane permeability and, in selected isolates, efflux activity. A literature-based compilation of 1,136 ECC isolates reported in studies indexed in PubMed encompassed 164 sequence types (STs) and focused on five major carbapenemase types: KPC, NDM, VIM, IMP and OXA-48-like. NDM and VIM were the most frequently reported types within this dataset, with marked geographical variation. Eighteen STs occurred on at least three continents. ST90, ST78 and ST171 ranked highest by isolate count, whereas ST78 was represented in the greatest number of source publications. Evidence from the reviewed studies indicates that both clonal expansion and horizontal transfer of resistance determinants contribute to the dissemination of these lineages. Less frequently reported carbapenemases and evidence from animal and environmental reservoirs are examined separately in the narrative synthesis. These findings highlight the importance of integrated genomic and epidemiological surveillance, while acknowledging the limitations of geographical representation and publication dependent sampling.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1987490",
+    "date": "2026-11-26",
+    "authors": "Cátia Caneiras",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1987490",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5768,
+    "collected_at": "2026-11-26T19:48:23.275553+00:00",
+    "collected_date": "2026-11-27",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.3389/fmicb.2026.1987490"
+    ],
+    "translation": {
+      "title": {
+        "hash": "42e299e781a34f06f0d366acbabc33d06c682b9ed7579235a02f93a0c59114cd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T20:18:15.383853+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "57f84363c9e774b44c7d483eebeb7ed3540d22402427ee86ecc0f204c0c9d053",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T20:18:15.383853+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "カルバペネム耐性Enterobacter cloacae複合体：耐性の遺伝的決定因子と分子疫学",
+    "abstract_ja": "Enterobacter cloacae複合体（ECC）は、分類学的に多様で、医療関連感染症やカルバペネム耐性との関連性がますます高まっている日和見病原体群である。本総説では、ECCの分類、耐性機序、分子疫学、および可動性遺伝因子（MGEs）に関する最新のエビデンスを、特に臨床的に重要な種および院内伝播に重点を置いて統合的に提示する。カルバペネム耐性は、獲得されたカルバペネマーゼ、あるいはAmpCおよび／または広域β-ラクタマーゼ、外膜透過性の低下、および一部の分離株における排出活性が関与する複合的な機序によって生じる可能性がある。PubMedに索引付けされた研究で報告された1,136株のECC分離株を文献に基づき集計した結果、164種類の配列型（ST）が含まれ、KPC、NDM、VIM、IMP、およびOXA-48様の5つの主要なカルバペネマーゼ型に焦点が当てられた。本データセットにおいて最も頻繁に報告された型はNDMおよびVIMであり、顕著な地理的変異が認められた。18種類のSTが少なくとも3つの大陸で検出された。分離株数ではST90、ST78、ST171が上位を占め、一方でST78は最も多くの原著論文で報告されていた。レビューした研究から得られたエビデンスは、耐性決定因子のクローン拡大と水平伝播の双方が、これらの系統の伝播に寄与していることを示している。報告頻度の低いカルバペネマーゼおよび動物・環境リザーバーからのエビデンスについては、ナラティブ・シンセシスにおいて個別に検討した。これらの知見は、地理的な代表性および論文依存的なサンプリングという限界を認めつつも、統合的なゲノムおよび疫学的サーベイランスの重要性を強調するものである。"
+  },
+  {
+    "id": "10.1093/nar/gkag1273",
+    "title": "GTRD 2026: expanded content and resources for deep learning",
+    "abstract": "AbstractGene Transcription Regulation Database (GTRD; https://gtrd.biouml.org/) contains uniformly annotated and processed NGS data related to transcription regulation: ChIP-seq, ChIP-exo, DNase-seq, MNase-seq, ATAC-seq, and RNA-seq. The latest release significantly extends the number of available experiments. All new ChIP-seq data for human transcription factors (TFs) obtained by the Codebook Consortium were processed and annotated; GTRD now covers 85% of all known human TFs. We added new types of information related to transcription regulation: enhancer regions revealed from analysis of CAGE-seq data and single-cell ATAC-seq data. To facilitate the use of GTRD for building deep learning models, we provide direct access to the MySQL database where metadata are stored and have built profiles with single-nucleotide resolution for ChIP-seq and ATAC-seq data.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1273",
+    "date": "2026-11-26",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1273/9133940?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "database",
+        "nucleotide"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5760,
+    "collected_at": "2026-11-26T19:48:23.275553+00:00",
+    "collected_date": "2026-11-27",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1093/nar/gkag1273"
+    ],
+    "translation": {
+      "title": {
+        "hash": "576cf55261e7e77bca976d3904815632d171f95853047f04f9a927a5d9d66cd6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T20:18:15.383853+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9b810a3140e3913ae2a2d51f04bc3e60effa9409faf130facf833a6ed8559e5c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T20:18:15.383853+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "GTRD 2026: 深層学習向けコンテンツとリソースの拡充",
+    "abstract_ja": "概要Gene Transcription Regulation Database (GTRD; https://gtrd.biouml.org/) には、転写調節に関連するNGSデータ（ChIP-seq、ChIP-exo、DNase-seq、MNase-seq、ATAC-seq、およびRNA-seq）が、統一的にアノテーションおよび処理された状態で収録されている。最新のリリースでは、利用可能な実験数が大幅に拡充された。Codebook Consortiumによって取得されたヒト転写因子（TF）に関するすべての新規ChIP-seqデータが処理およびアノテーションされ、GTRDは現在、既知の全ヒトTFの85%をカバーしている。また、転写調節に関連する新たな情報タイプとして、CAGE-seqデータおよびシングルセルATAC-seqデータの解析から明らかになったエンハンサー領域を追加した。深層学習モデルの構築にGTRDを容易に活用できるよう、メタデータが格納されているMySQLデータベースへの直接アクセスを提供するとともに、ChIP-seqおよびATAC-seqデータに対して一塩基分解能のプロファイルを構築した。"
+  },
+  {
+    "id": "10.1093/nar/gkag1228",
+    "title": "IsoAtlas: visual interpretation of known and novel transcript isoforms using population-scale long-read evidence",
+    "abstract": "AbstractLong-read RNA sequencing has revealed extensive transcript diversity, but newly observed isoforms remain difficult to interpret beyond their classification as known or novel. Here, we present IsoAtlas, an interactive multispecies database for visual exploration and population-scale interpretation of transcript isoforms using 1035 human and 414 mouse uniformly processed long-read RNA-sequencing samples. Users can search annotated genes and transcripts or submit novel transcript models in GTF format, visualize their structures, and examine sample-level support, prevalence, expression, tissue and disease context, and sequencing-platform evidence. IsoAtlas integrates structurally equivalent transcripts across GENCODE, RefSeq, and CHESS, consolidating evidence that would otherwise be distributed across annotation-specific identifiers. It further links corresponding human and mouse transcript models, enabling cross-species transcript counterpart lookup and informing the suitability of mouse models for isoform-specific studies. By providing an extensible evidence layer alongside established reference annotations, IsoAtlas supports transcript interpretation beyond known-versus-novel classification. IsoAtlas is freely available at https://isoatlas.org/.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1228",
+    "date": "2026-11-26",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1228/9133939?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "database",
+        "sequencing"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5761,
+    "collected_at": "2026-11-26T19:48:23.275553+00:00",
+    "collected_date": "2026-11-27",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1093/nar/gkag1228"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0ca9db8646b773ed2452cb1b771ae9782e9bd980d88848db85d9d5fc52404b00",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T20:18:15.383853+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a8f54858091a5c06aa0729cdb4a90474512c23d9a14c0f35942bca3fcb8ca5e2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T20:18:15.383853+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "IsoAtlas: 集団規模のロングリードエビデンスを用いた既知および新規転写産物アイソフォームの視覚的解釈",
+    "abstract_ja": "要旨：ロングリードRNAシーケンシングにより広範な転写産物の多様性が明らかとなったが、新たに観察されたアイソフォームについては、既知か新規かという分類を超えて解釈することが依然として困難である。本報では、ヒト1,035例およびマウス414例の均一に処理されたロングリードRNAシーケンシングサンプルを用い、転写産物アイソフォームの視覚的探索および集団規模での解釈を可能にするインタラクティブな多種間データベース「IsoAtlas」を提案する。ユーザーは、アノテーション済みの遺伝子や転写産物を検索したり、GTF形式の新規転写産物モデルを提出したりすることができ、それらの構造を可視化するとともに、サンプルレベルの支持度、出現頻度、発現、組織および疾患のコンテキスト、ならびにシーケンシングプラットフォームによるエビデンスを検証できる。IsoAtlasは、GENCODE、RefSeq、およびCHESSにわたる構造的に等価な転写産物を統合し、本来であればアノテーション固有の識別子に分散していたエビデンスを集約する。さらに、対応するヒトおよびマウスの転写産物モデルを紐付けることで、種をまたいだ転写産物対応物の検索を可能にし、アイソフォーム特異的な研究におけるマウスモデルの適性判断に寄与する。確立されたリファレンスアノテーションに加えて拡張可能なエビデンスレイヤーを提供することで、IsoAtlasは「既知か新規か」という分類を超えた転写産物の解釈を支援する。IsoAtlasは https://isoatlas.org/ で無料で利用可能である。"
+  },
+  {
+    "id": "10.1093/nar/gkag1238",
+    "title": "The molecular phenotypes of null alleles in cells (MorPhiC) data resource",
+    "abstract": "AbstractThe MorPhiC Data Portal is the public resource for the Molecular Phenotypes of Null Alleles in Cells (MorPhiC) Consortium, which maps molecular and cellular consequences of targeted human gene inactivation. The portal integrates raw, processed and uniformly analyzed datasets from functional genomics and phenotyping assays, including bulk and single-cell RNA-seq, Perturb-seq, SLAM-seq, chromatin-accessibility profiling, and metabolomics. Release 4 (August 2026) expands the resource to perturbations of >300 genes in human induced pluripotent stem cells and derivative systems, including embryoid bodies, organoids, and differentiated models, using complementary perturbation strategies targeting DNA, RNA, and protein products. A central advance is gene-centered navigation: gene pages consolidate experimental context, perturbation strategies, cell models, datasets, phenotyping evidence, and standardized analyses, while interactive visualizations expose differential expression, enrichment, and assay-specific results. Dataset pages provide metadata, protocols, analysis summaries, and links to public repositories for raw and processed files; the portal also catalogs consortium-generated knockout cell lines. By integrating MorPhiC datasets with external annotations on essentiality, Mendelian disease associations and mammalian phenotypes, and by standardizing metadata, analysis outputs and archive submission workflows, the portal provides a reusable resource for studying human gene loss-of-function at scale. The resource is available at https://morphic.bio/data.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1238",
+    "date": "2026-11-26",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1238/9133938?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "annotation",
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5762,
+    "collected_at": "2026-11-26T19:48:23.275553+00:00",
+    "collected_date": "2026-11-27",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1093/nar/gkag1238"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d14d3ae185236b76de4eecd4633f618fa99eec0461b4dd642bd39f707603ee89",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T20:18:15.383853+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "182b1a9f9c9437bc28d37a57c1244492eb3e30d99c0abd1248cf81cfefcd6b58",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T20:18:15.383853+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "細胞におけるヌルアレルの分子表現型（MorPhiC）データリソース",
+    "abstract_ja": "要旨MorPhiCデータポータルは、ヒト遺伝子の標的型不活性化による分子および細胞レベルの影響をマッピングする「細胞内ヌルアレルの分子表現型（MorPhiC）コンソーシアム」の公開リソースである。本ポータルは、バルクおよびシングルセルRNA-seq、Perturb-seq、SLAM-seq、クロマチンアクセシビリティプロファイリング、メタボロミクスを含む、機能ゲノミクスおよび表現型解析アッセイから得られた生データ、処理済みデータ、および統一的に解析されたデータセットを統合している。リリース4（2026年8月）では、DNA、RNA、およびタンパク質産物を標的とした相補的な摂動戦略を用い、ヒト誘導多能性幹細胞および胚様体、オルガノイド、分化モデルを含む派生系における300遺伝子以上の摂動へとリソースを拡張した。中心的な進展は遺伝子中心のナビゲーションであり、遺伝子ページでは実験背景、摂動戦略、細胞モデル、データセット、表現型解析のエビデンス、および標準化された解析結果が集約されており、インタラクティブな可視化によって発現変動、濃縮、およびアッセイ固有の結果が提示される。データセットページでは、メタデータ、プロトコル、解析概要、および生データ・処理済みファイルの公開リポジトリへのリンクが提供されており、また本ポータルではコンソーシアムが作成したノックアウト細胞株もカタログ化されている。MorPhiCデータセットを、必須性、メンデル遺伝疾患との関連、および哺乳類表現型に関する外部アノテーションと統合し、メタデータ、解析出力、およびアーカイブ提出ワークフローを標準化することで、本ポータルはヒト遺伝子の機能喪失を大規模に研究するための再利用可能なリソースを提供している。本リソースは https://morphic.bio/data で利用可能である。"
   }
 ]
