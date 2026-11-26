@@ -338498,5 +338498,289 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "遺伝子摂動ベンチマークにおける平均化は摂動強度のばらつきを隠蔽する：モデル評価への影響",
     "abstract_ja": "摂動応答のベンチマークでは通常、各遺伝子介入を、その摂動ラベルが付与された全細胞の平均値として表現する。本稿では、この平均化によってどのような摂動強度情報が失われるのか、また、現在のモデル予測が、この摂動強度の変動を評価するために十分な摂動固有の情報を保持しているかを検討する。X-Atlas/Orion CRISPRiスクリーニングを用い、深度補正済みガイド存在量を摂動強度の細胞レベルの代理指標として用い、名目上の摂動内で転写応答がどのように変動するかを検証する。摂動強度が高いほど、応答の再現性が高くなる。この効果は2つのヒト細胞株（HCT116およびHEK293T）で認められるが、HCT116においてより顕著である。モデル評価において、HCT116のリトリーバルテストでは、観測された応答が摂動の同一性を保持していることが示された一方、評価したSTATEおよびCell2Sentenceの予測ではそれを確実に再現できず、したがって摂動強度内の情報に関する問いを有意義に評価することはできない。"
+  },
+  {
+    "id": "10.64898/2026.11.24.768967",
+    "title": "Distinct chaperones coordinate the type III secretion system assembly and effector secretion in Vibrio parahaemolyticus",
+    "abstract": "Many Gram-negative bacterial pathogens rely on the type III secretion system (T3SS) to deliver virulence factors or effectors into host cells. In Vibrio parahaemolyticus, the leading cause of seafood-borne gastroenteritis, one of the two T3SSs, the T3SS2, is essential for intestinal colonization and infection in the human body. While many T3SS2 effectors have been extensively characterized, the chaperones that guide their biogenesis and coordinate assembly of the T3SS machinery remain poorly understood. Here, combining comparative transcriptomic and proteomic approaches with functional analyses, we reveal that four T3SS2 chaperones exert non-overlapping control over distinct clients for pathogenesis. We further show that these chaperones form a hierarchical, multi-layered checkpoint system that ensures the temporal order of secretion, coordinating injectisome assembly, pore formation, and effector deployment. Our findings provide a quantitative framework for understanding the regulation of T3SS2, demonstrating that discrete non-redundant chaperone-mediated assembly is conserved across diverse Gram-negative pathogens.",
+    "journal": "",
+    "doi": "10.64898/2026.11.24.768967",
+    "date": "2026-11-25",
+    "authors": "Orth, K., Jaishankar, J., Tan, M., Servage, K. A., Kinch, L. N.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.24.768967v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Vibrio",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5709,
+    "collected_at": "2026-11-26T00:30:40.165307+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.64898/2026.11.24.768967"
+    ],
+    "translation": {
+      "title": {
+        "hash": "eeea9fbe5fc773dc4b190c0f93939ceea0fb166cc9f6bba29406fe32c16a80aa",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:31:34.137386+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5389d23d2822f1a380c06bcacc52f67d7309fe0b307ea757dba48f3586de07b4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:31:34.137386+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Vibrio parahaemolyticusにおいて、異なるシャペロンがIII型分泌系の組み立てとエフェクター分泌を協調的に制御している。",
+    "abstract_ja": "多くのグラム陰性菌病原体は、病原因子やエフェクターを宿主細胞内に送達するために、III型分泌システム（T3SS）を利用している。魚介類由来胃腸炎の主要な原因菌である腸炎ビブリオ・パラヘモリティカスでは、2つのT3SSのうちの1つであるT3SS2が、ヒト体内での腸管定着と感染に不可欠である。多くのT3SS2エフェクターについては広範に特性解析が行われてきたが、その生合成を誘導し、T3SS機構の組み立てを調整するシャペロンについては、依然として十分に解明されていない。本研究では、比較トランスクリプトーム解析およびプロテオーム解析に機能解析を組み合わせることで、4種類のT3SS2シャペロンが、病原性発現においてそれぞれ異なるクライアントを重複なく制御していることを明らかにした。さらに、これらのシャペロンが階層的かつ多層的なチェックポイントシステムを形成し、分泌の時間的順序を確保して、インジェクティソームの組み立て、孔形成、およびエフェクターの展開を調整していることを示した。本知見は、T3SS2の調節を理解するための定量的枠組みを提供するものであり、個別の非冗長的なシャペロン介在性組み立てが、多様なグラム陰性病原体間で保存されていることを実証している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "bioRxiv",
+        "query": "details/biorxiv/2026-10-20/2026-11-10",
+        "scope": "candidate"
+      }
+    ],
+    "id": "10.64898/2026.02.23.706394",
+    "doi": "10.64898/2026.02.23.706394",
+    "title": "Unified Transcriptome and Mechanics Map of the Intact Mammalian Preimplantation Embryo In Situ",
+    "abstract": "The development and maintenance of multicellular tissues require that cell states be closely coupled to their local environment, including geometric and mechanical cues. However, studying this coupling in intact tissues has been challenging, because existing measurement technologies cannot simultaneously assess mechanical properties and molecularly defined cell states. To address this gap, we introduce the Unified Transcriptome and Mechanics Map (UTMM), a method for concurrent measurement of the transcriptome and cytoplasmic stiffness (high-frequency intracellular mechanical compliance) within intact 3D multicellular structures. UTMM relies on two innovations: (1) a targeted in situ RNA sequencing approach for intact 3D embryos (3DISS), and (2) a strategy that leverages high-frequency intracellular organelle fluctuations to provide a relative, non-invasive readout of cell-level viscoelastic compliance in situ. We applied UTMM to mouse embryos from the zygote through the morula stage to characterize how RNA expression and intracellular mechanical state becomes coupled during early lineage specification. Our data reveal that, in the early morula, transcriptional and morphological distinctions emerge between trophectoderm and inner cell mass (ICM) lineages, coinciding with a gradual increase in intracellular compliance (softening) across all cells from the 2-cell through morula stages. Furthermore, we observe that early lineage biases associated with distinct mechanical states, reflecting emerging developmental programs. When we osmotically delayed this softening, embryonic progression was impeded, supporting a functional relationship between intracellular material state and developmental timing. Extending this approach to neural stem cells in the adult brain (NSCs), we further show that proliferated NSCs exhibit greater intracellular compliance than quiescent NSCs, NSC state-dependent differences in the mechanical properties and that the analytical framework can resolve biologically associated mechanical differences in a distinct tissue context. Together, these results demonstrate UTMM's ability to bridge molecular and mechanical dynamics in multicellular systems, providing a powerful framework for investigating how molecular state, geometry, and intracellular mechanics become coordinated during multicellular development.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "2",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.02.23.706394"
+    ],
+    "date": "2026-10-23",
+    "authors": "Habibi, E.; Sinha, A.; Yang, H.; Yadollahpour, P.; Rodriguez-Aller, R.; Li, Y.; Lee, L.; Wollensak, D. A.; Chiang, Z. D.; Sakkas, D.; Boyden, E. S.; Saghatelyan, A.; Guo, M.; Regev, A.; Chen, F.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.02.23.706394v2",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "method",
+        "transcriptome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5600,
+    "collected_at": "2026-11-25T15:35:54.776965+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-25",
+    "translation": {
+      "title": {
+        "hash": "170485f5a7e079a4b764691e93a67452229a7952ff2c3a9b1c90dda63ed9bc98",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:31:34.137386+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "889ebeb58910bc5e5b7d702965c3a1f5955719d2c1f46fd50ef78eb0b9d23c1a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:31:34.137386+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "無傷の哺乳類着床前胚の統一トランスクリプトーム・メカニクスマップ In Situ",
+    "abstract_ja": "多細胞組織の発生と維持には、幾何学的および機械的な手がかりを含む細胞状態が、局所環境と密接に連動していることが求められる。しかし、既存の計測技術では機械的特性と分子レベルで定義された細胞状態を同時に評価できないため、無傷の組織においてこの連動性を研究することは困難であった。この課題に対処するため、我々は、無傷の3次元多細胞構造内におけるトランスクリプトームと細胞質剛性（高周波の細胞内機械的コンプライアンス）を同時に計測する手法であるUnified Transcriptome and Mechanics Map（UTMM）を提案する。UTMMは、(1) 無傷の3次元胚に対する標的型in situ RNAシーケンシング手法（3DISS）、および (2) 高周波の細胞内オルガネラ変動を利用して、in situで細胞レベルの粘弾性コンプライアンスを相対的かつ非侵襲的に読み出す戦略、という2つの革新的な手法に基づいている。我々は、受精卵から桑実胚期までのマウス胚にUTMMを適用し、初期の系統分化過程においてRNA発現と細胞内機械的状態がどのように連動するかを特性評価した。その結果、初期桑実胚において、栄養外胚葉と内部細胞塊（ICM）の系統間で転写的および形態的な区別が生じ、それが2細胞期から桑実胚期にかけての全細胞における細胞内コンプライアンスの漸進的な増加（軟化）と一致することが明らかになった。さらに、発生プログラムの発現を反映した、異なる機械的状態に伴う初期の系統的バイアスが観察された。この軟化を浸透圧的に遅延させたところ、胚の進行が阻害され、細胞内物質状態と発生タイミングとの間に機能的な関係があることが裏付けられた。このアプローチを成体脳の神経幹細胞（NSC）に拡張したところ、増殖したNSCは静止期のNSCよりも高い細胞内コンプライアンスを示すこと、機械的特性にNSCの状態依存的な差異があること、およびこの解析フレームワークが特定の組織コンテキストにおいて生物学的に関連のある機械的差異を解明できることがさらに示された。以上の結果を総合すると、これらの知見は、多細胞系における分子動態と機械的動態を橋渡しするUTMMの能力を実証するものであり、多細胞発生過程において分子状態、幾何学的構造、および細胞内力学がどのように協調するかを調査するための強力なフレームワークを提供するものである。"
+  },
+  {
+    "id": "10.64898/2026.11.24.768882",
+    "title": "A microbiota-dependent fitness locus promotes intraspecies competition and cell envelope resilience in gut bacterium Phocaeicola vulgatus",
+    "abstract": "A central question in gut microbial ecology is how dominant bacterial species establish and occupy their niches amid inter- and intraspecies competition. Phocaeicola vulgatus (Pvu) is a Gram-negative anaerobe and prevalent member of the human gut microbiome that can integrate into established gut communities without antibiotic pretreatment, yet mechanisms underlying this competitive success remain poorly understood. Using in vivo transposon insertion sequencing, we identified a three-gene locus that promotes Pvu intraspecies fitness in the presence of a complex microbiota but is dispensable in germ-free hosts. The locus encodes a predicted HU/IHF superfamily histone-like DNA-binding protein (DifH), a hypothetical lipid-binding protein (DifS), and a FadL-like outer-membrane transporter (DifT). In vitro genetic and transcriptomic analyses implicated these genes in cell envelope resilience. Chromatin immunoprecipitation sequencing revealed that DifH binds a specific repetitive DNA motif at its own locus and a limited set of additional loci involved in metabolism, envelope biogenesis, and cellular defense. Together, these findings identify a previously unrecognized fitness locus that promotes cell envelope resilience, enables intraspecies competition, and supports Pvu persistence within complex gut microbial communities. More broadly, these results uncover mechanisms by which this dominant gut commensal secures its niche and suggests avenues to therapeutically modulate gut microbiota composition.",
+    "journal": "",
+    "doi": "10.64898/2026.11.24.768882",
+    "date": "2026-11-25",
+    "authors": "Rassadkina, Y., Jawahar, J., Bradley, A., Neve, R. L., Malkus, P. N., Washington, E. J., Shank, E. A., McCann, J. R., Rawls, J. F.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.24.768882v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "bacterium",
+        "microbial",
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5710,
+    "collected_at": "2026-11-26T00:30:40.165307+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.64898/2026.11.24.768882"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6ba830fcedaacec636b970d267563118be80c0b241d1c05a4696c5576f2c204f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:31:34.137386+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3a93e0415237b3f2e5040fab9fb34bab5516eecbeab1247d881ccb722c71d589",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:31:34.137386+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "腸内細菌Phocaeicola vulgatusにおける微生物叢依存性適応度遺伝子座は、種内競争と細胞外被の強靭性を促進する。",
+    "abstract_ja": "腸内微生物生態学における中心的な問いは、優占的な細菌種が種間および種内競争の中でいかにしてニッチを確立し、占有するかということである。Phocaeicola vulgatus (Pvu) はグラム陰性嫌気性菌であり、ヒト腸内マイクロバイオームに広く分布する菌種である。本菌は抗生物質による前処理なしに既存の腸内コミュニティに組み込まれることができるが、この競争的成功の根底にあるメカニズムは依然として十分に解明されていない。我々は、in vivoトランスポゾン挿入シーケンシングを用いて、複雑な微生物叢が存在する条件下ではPvuの種内適応度を促進するが、無菌宿主では不要となる3遺伝子座を同定した。この遺伝子座は、予測されるHU/IHFスーパーファミリーのヒストン様DNA結合タンパク質 (DifH)、仮説上の脂質結合タンパク質 (DifS)、およびFadL様外膜輸送体 (DifT) をコードしている。in vitroでの遺伝学的およびトランスクリプトーム解析により、これらの遺伝子が細胞外被の耐性に関与していることが示された。クロマチン免疫沈降シーケンシングの結果、DifHは自身の遺伝子座、および代謝、外被生合成、細胞防御に関与する限定的な追加遺伝子座において、特定の反復DNAモチーフに結合することが明らかになった。これらの知見を総合すると、細胞外被の耐性を促進し、種内競争を可能にし、複雑な腸内微生物コミュニティ内でのPvuの持続を支える、これまで認識されていなかった適応度遺伝子座が特定された。より広範には、これらの結果は、この優占的な腸内共生菌がニッチを確保するメカニズムを明らかにするとともに、腸内微生物叢の組成を治療的に調節するための道筋を示唆するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "bioRxiv",
+        "query": "details/biorxiv/2026-10-20/2026-11-10",
+        "scope": "candidate"
+      }
+    ],
+    "id": "10.64898/2026.10.22.760851",
+    "doi": "10.64898/2026.10.22.760851",
+    "title": "AI-guided discovery of natural pocket proteins for portable small-molecule sensing",
+    "abstract": "Recognition-element development remains an important practical challenge in small-molecule biosensing. Here, we present DWCLASS, an AI-guided workflow that combines screening of natural pocket proteins, molecular dynamics simulations, experimental binding assessment, and portable metasurface plasmonic sensing. Using thiamine (vitamin B1, thiamine) and 25-hydroxyvitamin D3 [25(OH)D3] as model analytes, the workflow identified binding responses in 7 of 16 tested analyte-protein pairs (43.8%). Selected proteins were incorporated into a competitive MetaSPR assay with gold nanoparticle amplification and acoustic mixing. The portable device provided a 240 s measurement step for prepared samples. Serum LODs were 2.98 ppt for thiamine and 3.82 ppt for 25(OH)D. Preliminary measurements of human serum specimens were compared with commercial ELISA to explore performance in biological samples. This study establishes an integrated route from AI-assisted screening of natural proteins to portable assay development for two chemically distinct vitamin analytes. Applicability to additional targets and clinical reference accuracy remain to be established.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.10.22.760851"
+    ],
+    "date": "2026-10-23",
+    "authors": "Huang, L.; Yang, Y.; Jiang, c.; fan, h.; Li, Y.; Zhang, Y.; Zhang, Y.; Li, D.; Zhou, H.; Chen, Y.; Hu, W.; Guan, J.; Liu, X.; Sun, C.; Liu, G. L.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.22.760851v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "protein",
+        "simulation",
+        "workflow"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "protein",
+          "simulation",
+          "workflow"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5601,
+    "collected_at": "2026-11-25T15:35:54.776965+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-25",
+    "translation": {
+      "title": {
+        "hash": "1a95f3b95d5f9bc3f094b129238b5e647fd69cef93b0efdc4e46b832ad8a7ac6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:31:34.137386+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "24f56078f9738e952be9c80a9baabf80874883c0d27f6d8af92b04a795125813",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:31:34.137386+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "携帯型低分子センシングに向けたAI誘導型天然ポケットタンパク質の探索",
+    "abstract_ja": "認識素子の開発は、低分子バイオセンシングにおける重要な実用的課題であり続けている。本報では、天然ポケットタンパク質のスクリーニング、分子動力学シミュレーション、実験的結合評価、およびポータブルメタサーフェスプラズモニックセンシングを組み合わせたAI誘導型ワークフロー「DWCLASS」を提案する。チアミン（ビタミンB1、チアミン）および25-ヒドロキシビタミンD3 [25(OH)D3] をモデル分析物として用いたところ、本ワークフローは試験した16組の分析物-タンパク質ペアのうち7組（43.8%）で結合応答を同定した。選定したタンパク質は、金ナノ粒子増幅および音響混合を用いた競合型MetaSPRアッセイに組み込まれた。このポータブルデバイスにより、調製した試料に対して240秒の測定ステップが実現した。血清LODは、チアミンで2.98 ppt、25(OH)Dで3.82 pptであった。生体試料における性能を検討するため、ヒト血清検体の予備測定結果を市販のELISAと比較した。本研究は、化学的に異なる2種類のビタミン分析物について、天然タンパク質のAI支援スクリーニングからポータブルアッセイ開発に至る統合的なルートを確立するものである。追加の標的への適用可能性および臨床参照精度については、今後の検証課題である。"
   }
 ]
