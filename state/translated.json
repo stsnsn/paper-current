@@ -340115,5 +340115,280 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "亜高山帯草原草本における外生菌根菌群集の形成機構に及ぼす空間スケールと環境要因の複合的影響",
     "abstract_ja": "背景外生菌根（ECM）は、植物群落の安定性と栄養循環の維持において極めて重要な役割を果たしている。これまでの研究は主に木本植物を対象としており、草本植物におけるECMへの注目は比較的少なかった。内モンゴルの亜高山帯草原は、乾燥・半乾燥移行帯に位置し、脆弱な生態環境を有している。方法したがって、本研究では、同地域の代表的な6つの亜高山帯地点において、草本植物に関連する外生菌根菌（EMF）を調査した。形態学的観察、ハイスループットシーケンシング、およびネットワーク解析を統合することで、草本植物EMFの多様性、群落分布パターン、およびアセンブリ機構を系統的に検討した。結果計28種類のECM形態型が同定され、カロテノイド様形態および糸状形態が優勢であり、主要なクレードは/tomentella-thelephoraおよび/sebacinaであった。年平均気温、可給態リン、およびアンモニウム窒素が主要な制限要因として同定された。群落は顕著な地理的クラスター形成（R2 = 0.307）と、極めて有意な距離減衰（p < 0.001）を示した。局所スケールでは、複雑な生息地において不均一な選択が支配的であった一方、均質な環境では生態学的ドリフトが支配的であった。環境の不均一性は共起ネットワークのトポロジーを変化させ、キーストーン種の地理的置換をもたらした。SEM解析により、地理的気候が土壌を介して間接的に群落を調節していることが明らかになり、共起ネットワークの複雑性は多様性と強く関連していた。結論本研究は、内モンゴルの亜高山帯草本植物におけるEMFの分布パターンとその根底にあるメカニズムを解明し、地域の生物多様性保全および植生復元の基礎を提供するものである。"
+  },
+  {
+    "id": "10.1093/bioinformatics/btag866",
+    "title": "ProReT: Context-dependent transcriptional program spaces for interpretable transcriptomic drug repurposing",
+    "abstract": "AbstractMotivationTranscriptomic drug repurposing identifies candidate therapeutics by comparing disease-associated expression states with drug-induced perturbations. Most existing connectivity-based approaches use individual genes as the primary representation units, potentially overlooking the coordinated transcriptional programs that organize cellular states and disease phenotypes. Whether transcriptional programs can provide a biologically meaningful representation layer for therapeutic connectivity mapping remains largely unexplored.ResultsWe introduce ProReT, a context-dependent transcriptional program-space framework for interpretable transcriptomic drug repurposing. ProReT projects disease and drug signatures into biologically derived programs and quantifies reversal using regularized Gram whitening. Using K562 and KOLF2.1J program references, we analyzed 28 disease views and benchmarked 25 coverage-qualified views across 1,728 compounds. In the K562 example, program representations retained same-drug and same-mechanism-of-action organization and outperformed selected generic dimensionality-reduction baselines. Reference choice produced distinct disease representations and therapeutic rankings. In multiple myeloma, ProReT prioritized established proteasome inhibitors and linked reversal to proteostasis, translation, and stress programs, while an independent cohort reproduced the overall compound-ranking structure. Together, these results support transcriptional programs as an interpretable intermediate representation that complements gene-level connectivity in context-dependent therapeutic prioritization.Availability and implementationProReT is available as an open-source R package at https://github.com/jiazhiren201988/ProReT, including versioned program references and example multiple myeloma datasets for reproducible analysis. Archived releases and reference resources are available at Zenodo (https://doi.org/10.5281/zenodo.21943239).Supplementary informationSupplementary material is available at Bioinformatics online.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag866",
+    "date": "2026-11-24",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag866/9122361?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5716,
+    "collected_at": "2026-11-26T09:41:35.790521+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1093/bioinformatics/btag866"
+    ],
+    "translation": {
+      "title": {
+        "hash": "aec8438091e704bc1107b223946f5b99f7277183527087091b46d7e192d265d6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T10:11:55.025852+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4cdbdd1d9f5c006d90cafe8a64bd7cc9274a99ea59dd9922ecbf2637be70d044",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T10:11:55.025852+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ProReT: 解釈可能なトランスクリプトーム創薬再開発のためのコンテキスト依存的転写プログラム空間",
+    "abstract_ja": "要旨動機トランスクリプトーム薬物リパーパシングは、疾患関連の発現状態と薬物誘発性の摂動を比較することで、治療候補薬を同定する。既存のコネクティビティベースの手法の多くは個々の遺伝子を主要な表現単位として用いており、細胞状態や疾患表現型を組織化する協調的な転写プログラムを見落としている可能性がある。転写プログラムが治療的コネクティビティマッピングにおいて生物学的に意味のある表現層を提供し得るかについては、依然としてほとんど解明されていない。結果解釈可能なトランスクリプトーム薬物リパーパシングのための、コンテキスト依存的な転写プログラム空間フレームワークであるProReTを提案する。ProReTは、疾患および薬物のシグネチャーを生物学的に導出されたプログラムに投影し、正則化Gramホワイトニングを用いて逆転を定量化する。K562およびKOLF2.1Jのプログラムリファレンスを用い、28種類の疾患ビューを解析し、1,728化合物にわたってカバレッジ基準を満たした25種類のビューをベンチマークした。K562の例では、プログラム表現は同一薬物および同一作用機序の組織化を維持し、選定したジェネリック次元削減ベースラインを上回る性能を示した。リファレンスの選択により、異なる疾患表現と治療ランキングが得られた。多発性骨髄腫において、ProReTは確立されたプロテアソーム阻害薬を優先し、逆転をプロテオスタシス、翻訳、およびストレスプログラムに関連付けた一方、独立したコホートでは化合物の全体的なランキング構造が再現された。これらの結果を総合すると、転写プログラムは、コンテキスト依存的な治療優先順位付けにおいて遺伝子レベルのコネクティビティを補完する、解釈可能な中間表現であることが支持される。利用可能性と実装ProReTは、バージョン管理されたプログラムリファレンスおよび再現可能な解析のための多発性骨髄腫の例示データセットを含むオープンソースのRパッケージとして https://github.com/jiazhiren201988/ProReT で公開されている。アーカイブされたリリースおよびリファレンスリソースはZenodo (https://doi.org/10.5281/zenodo.21943239) で利用可能である。補足情報補足資料はBioinformatics onlineで公開されている。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1953988",
+    "title": "Multi-omics dissection of azo dye degradation in Shewanella xiamenensis LC6 reveals transcriptional and proteomic reprogramming during methyl orange decolorization",
+    "abstract": "Synthetic azo dyes represent major environmental pollutants due to their widespread industrial use, chemical stability, and resistance to conventional wastewater treatment. Shewanella xiamenensis LC6, a bacterium isolated from textile wastewater, has demonstrated remarkable azo dye decolorization capacity, yet the molecular mechanisms underlying this process remain poorly understood. We employed a multi-omics approach combining genomics, transcriptomics (RNA-seq), proteomics (DIA-MS), and quantitative Nuclear Magnetic Resonance (1H-qNMR) to investigate the molecular response of S. xiamenensis LC6 during methyl orange (MO) decolorization. The S. xiamenensis LC6 genome was sequenced using PacBio and Illumina platforms, and differential expression analyses were performed at 20%, 50%, and 90% decolorization stages. Under static, low oxygen conditions, S. xiamenensis LC6 decolorized 98.95% of MO in 12 h and exhibited broad dye-degrading capacity against various azo and anthraquinone dyes. Genome analysis revealed two megaplasmids carrying metal resistance and conjugation genes. Transcriptomic and proteomic profiling identified massive overexpression of FMN-dependent NADH:quinone oxidoreductase (azoR; log₂FC 6.05 transcriptionally, 4.15 and 5.11 proteomically), a protein lacking a signal peptide and transmembrane domains that likely acts as an intracellular quinone reductase rather than a canonical azoreductase. Notably, genes and proteins involved in iron and heme uptake and storage, including TonB-dependent receptors, HutX/HutZ heme utilization proteins and ferritin, were strongly upregulated, indicating a perturbation of iron/heme homeostasis during MO decolorization. The 1H-qNMR analysis confirmed MO azo-bond cleavage and sulfanilic acid accumulation. In conclusion, S. xiamenensis LC6 employs a coordinated multi-layered response to MO decolorization involving azo-bond cleavage, stress adaptation, iron homeostasis, and the induction of dioxygenases and efflux-associated proteins. These findings highlight S. xiamenensis LC6 as a promising candidate for textile effluent bioremediation and provide molecular targets for strain engineering.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1953988",
+    "date": "2026-11-26",
+    "authors": "Pablo Ramirez",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1953988",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacterium"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5724,
+    "collected_at": "2026-11-26T09:41:35.790521+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.3389/fmicb.2026.1953988"
+    ],
+    "translation": {
+      "title": {
+        "hash": "338a330bed3871d4e8ebf4f21812470c7d0e55d05f448090236d3d1cc82ccb6b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T10:11:55.025852+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1f50d05677c078a9dd73e4700243472cc7faf88f1fb29ec8ef86c2d39ee2969e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T10:11:55.025852+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Shewanella xiamenensis LC6におけるアゾ染料分解のマルチオミクス解析により、メチルオレンジ脱色時の転写およびプロテオームのリプログラミングが明らかになった。",
+    "abstract_ja": "合成アゾ染料は、広範な工業利用、化学的安定性、および従来の廃水処理への耐性から、主要な環境汚染物質となっている。繊維廃水から単離された細菌であるShewanella xiamenensis LC6は、顕著なアゾ染料脱色能を示すが、このプロセスの根底にある分子機構は十分に解明されていない。我々は、ゲノミクス、トランスクリプトミクス（RNA-seq）、プロテオミクス（DIA-MS）、および定量核磁気共鳴（1H-qNMR）を組み合わせたマルチオミクスアプローチを用い、メチルオレンジ（MO）脱色時におけるS. xiamenensis LC6の分子応答を調査した。S. xiamenensis LC6のゲノムはPacBioおよびIlluminaプラットフォームを用いてシーケンシングされ、脱色率20%、50%、および90%の段階で発現変動解析を行った。静的かつ低酸素条件下において、S. xiamenensis LC6は12 hでMOの98.95%を脱色し、各種アゾ染料およびアントラキノン染料に対して広範な染料分解能を示した。ゲノム解析により、金属耐性遺伝子および接合遺伝子を保持する2つのメガプラスミドが同定された。トランスクリプトミクスおよびプロテオミクスプロファイリングにより、FMN依存性NADH:キノン酸化還元酵素（azoR；転写レベルでlog₂FC 6.05、プロテオームレベルで4.15および5.11）の大規模な過剰発現が同定された。このタンパク質はシグナルペプチドおよび膜貫通ドメインを欠いており、典型的なアゾ還元酵素ではなく、細胞内キノン還元酵素として機能する可能性が高い。特筆すべきは、TonB依存性受容体、HutX/HutZヘム利用タンパク質、およびフェリチンを含む、鉄およびヘムの取り込み・貯蔵に関与する遺伝子およびタンパク質が強く発現上昇しており、MO脱色時に鉄/ヘム恒常性の乱れが生じていることが示された点である。1H-qNMR解析により、MOのアゾ結合切断とスルファニル酸の蓄積が確認された。結論として、S. xiamenensis LC6は、アゾ結合切断、ストレス適応、鉄恒常性、およびジオキシゲナーゼと排出関連タンパク質の誘導を含む、MO脱色に対する協調的な多層的応答を採用している。これらの知見は、S. xiamenensis LC6が繊維廃水のバイオレメディエーションにおける有望な候補であることを強調するとともに、菌株工学のための分子標的を提供するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/jvi.01228-26",
+    "title": "Naturally circulating reoviruses exhibit enhanced intestinal persistence and altered enteric protease dependence compared to lab-adapted strains.",
+    "abstract": "Mammalian orthoreoviruses (reoviruses) commonly infect many mammals, persist on surfaces and in bodies of water, and represent a safe model to study enteric viruses. Extensive research has been performed on prototype reovirus strains, specifically T1L and T3D, in murine L929 fibroblasts. However, T1L/T3D were found to have greater sensitivity to endosomal cathepsin L/B than sewage-derived isolates that rely on intestinal trypsin/chymotrypsin to process virions extracellularly prior to infection. To further understand how cultural adaptation affects reovirus characteristics in L929 cells and intestines, replicative capabilities of lab- and sewage-derived reoviruses were measured in L929 cells following exposure of virions to intestinal luminal factors and in the intestinal tract following oral inoculation of mice. In vitro biochemical analysis of post-entry replication steps and in vivo results of early innate and adaptive immune profiles did not distinguish viruses based on source. In contrast, sewage-derived reoviruses were found at higher titers than lab strains in ileal and colonic tissues, luminal content, and fecal shedding. Increased persistence in vivo was associated with greater resistance to proteolysis and infectious stability in the presence of intestinal lumen factors, particularly from the colon. Furthermore, reovirus uncoating in vivo depended not only on intestinal trypsin/chymotrypsin, as previously described, but also on EDTA-sensitive metalloproteases that differentially process lab- and sewage-derived reoviruses. Altogether, these findings demonstrate that environmental reoviruses are optimized for fecal-oral transmission by enhanced extracellular stability and resistance to intestinal proteases, whereas lab strains adapted to infect well in vitro at the cost of reduced robustness in the gut environment.IMPORTANCEMost of what we know about enteric virus entry and uncoating comes from long-passaged lab strains studied under simplified conditions with added trypsin or chymotrypsin. Here, we directly compare these canonical reovirus lab strains to minimally passaged, sewage-derived isolates in a murine oral infection model. We find that, once entry is equalized, post-entry replication steps are broadly similar, but naturally circulating strains achieve higher titers in distal gut segments and feces, resist proteolysis by colonic lumen factors, and rely on a broader, regionally distinct set of intestinal proteases, including metalloproteases, for uncoating. These results reveal that the true protease usage of enteric viruses in vivo is more complex than suggested by standard culture systems, with capsid sequences tuned to balance efficient replication, environmental stability, and fecal-oral transmission.",
+    "journal": "Journal of Virology",
+    "doi": "10.1128/jvi.01228-26",
+    "date": "2026-11-04",
+    "authors": "Lin QF, Surgenor K, Footz T, Eaton HE, Shmulevitz M.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42980342",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42980342",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5603,
+    "collected_at": "2026-11-26T09:31:03.499381+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1128/jvi.01228-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0bee8d6f0c6b626c82cf49fcde8825e27e869b5f64dc8d47ae6c5a33906601c1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T10:11:55.025852+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5d3eac72d5543a14ba56ad1a682a9e2df719e96c9f1e09c1ccdd82b3a47318b5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T10:11:55.025852+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "自然循環するレオウイルスは、実験室適応株と比較して、腸管持続性が高く、腸管プロテアーゼ依存性が変化している。",
+    "abstract_ja": "哺乳類オルトレオウイルス（レオウイルス）は、多くの哺乳類に一般的に感染し、表面や水域に生存しており、腸管ウイルス研究における安全なモデルとなる。マウスL929線維芽細胞を用いて、プロトタイプのレオウイルス株、特にT1LおよびT3Dに関する広範な研究が行われてきた。しかし、T1L/T3Dは、感染前に細胞外のビリオンを処理するために腸管トリプシン/キモトリプシンに依存する下水由来の分離株よりも、エンドソーム型カテプシンL/Bに対する感受性が高いことが判明した。培養適応がL929細胞および腸管におけるレオウイルスの特性にどのように影響するかをさらに解明するため、ビリオンを腸管管腔因子に曝露させた後のL929細胞、およびマウスへの経口接種後の腸管における、実験室由来および下水由来レオウイルスの複製能を測定した。侵入後の複製ステップのin vitro生化学的解析、および初期の自然免疫・獲得免疫プロファイルのin vivo結果では、感染源に基づくウイルスの区別は認められなかった。対照的に、下水由来レオウイルスは、回腸および結腸の組織、管腔内容物、および糞便排出において、実験室株よりも高い力価を示した。in vivoでの持続性の向上は、腸管管腔因子（特に結腸由来のもの）存在下におけるタンパク質分解への耐性および感染安定性の向上に関連していた。さらに、in vivoにおけるレオウイルスの脱殻は、既報の腸管トリプシン/キモトリプシンだけでなく、実験室由来と下水由来のレオウイルスを区別して処理するEDTA感受性メタロプロテアーゼにも依存していた。総じて、これらの知見は、環境レオウイルスが細胞外安定性の向上と腸管プロテアーゼへの耐性によって糞口伝播に最適化されている一方で、実験室株は腸管環境における頑健性を犠牲にして、in vitroでの感染能に適応していることを示している。重要性：腸管ウイルスの侵入および脱殻について知られていることの大部分は、トリプシンまたはキモトリプシンを添加した簡略化された条件下で研究された、長期継代の実験室株によるものである。本研究では、これら代表的なレオウイルス実験室株を、マウス経口感染モデルにおける最小限の継代を行った下水由来分離株と直接比較した。その結果、侵入条件が等しくなった後は、侵入後の複製ステップは概ね同様であるが、自然循環株は腸管遠位部および糞便においてより高い力価を示し、結腸管腔因子によるタンパク質分解に耐性を持ち、脱殻にはメタロプロテアーゼを含む、より広範で地域的に異なる腸管プロテアーゼ群に依存していることが明らかとなった。これらの結果は、in vivoにおける腸管ウイルスの真のプロテアーゼ利用が、標準的な培養系で示唆されているよりも複雑であり、効率的な複製、環境安定性、および糞口伝播のバランスをとるようにカプシド配列が調整されていることを明らかにしている。"
+  },
+  {
+    "id": "10.1111/1751-7915.70495",
+    "title": "An Excess‐Sludge‐Derived Enterococcus faecium With Low‐Molecular‐Weight Organic Acid‐Producing Potential: Functional Evaluation and Metabolic Characterisation",
+    "abstract": "Enterococcus faecium WN‐18, isolated from excess sludge, converted glucose into comparable amounts of low‐molecular‐weight organic acids under aerobic and anaerobic conditions. Oxygen availability redirected pyruvate‐derived metabolism, favoring acetate and propionate aerobically and lactate and formate anaerobically, thereby providing a practical means to tailor the acid composition.\n\nABSTRACT\nLow‐molecular‐weight organic acids (LMWOAs) are widely applied as carbon sources and electron donors in environmental biotechnology; however, their external supplementation increases operational costs. In this study, the LMWOA‐producing strain WN‐18 was isolated from excess sludge and identified as Enterococcus faecium. WN‐18 produced lactic acid, acetic acid, propionic acid and formic acid under both aerobic and anaerobic conditions. After 28 h, total net LMWOA accumulation reached 17.36 ± 1.24 and 18.13 ± 0.59 g/L under aerobic and anaerobic conditions, respectively (mean ± SD, n = 3). The corresponding apparent total LMWOA yields were 0.87 ± 0.06 and 0.91 ± 0.03 g/g measured glucose depletion, respectively. Acetic and propionic acid accumulation was higher under aerobic cultivation, whereas lactic acid accumulation was higher under anaerobic cultivation. Genome annotation revealed a complete glycolytic pathway and genes associated with lactate, formate and acetate production. Among the nine Enterococcus genomes examined, glycolysis and the major gene groups related to formate and acetate production were conserved, whereas sugar uptake and putative propionate‐associated components varied among strains. At 10 h, anaerobic cultures showed higher expression of ldhA and pflD and lower expression of pta, pdhB and aceF than in aerobic cultures. These expression patterns corresponded to greater mean lactate and formate accumulation and lower acetate accumulation in anaerobic cultures at 28 h. WN‐18 produced an acetate‐ and propionate‐enriched fermentate under aerobic cultivation and a lactate‐rich fermentate under anaerobic cultivation, a distinction that highlights the potential of this sludge‐derived strain for bioprocesses with different organic acid requirements.\n\nEnterococcus faecium WN-18, isolated from excess sludge, converted glucose into comparable amounts of low-molecular-weight organic acids under aerobic and anaerobic conditions. Oxygen availability redirected pyruvate-derived metabolism, favoring acetate and propionate aerobically and lactate and formate anaerobically, thereby providing a practical means to tailor the acid composition.\n\nABSTRACT\nLow-molecular-weight organic acids (LMWOAs) are widely applied as carbon sources and electron donors in environmental biotechnology; however, their external supplementation increases operational costs. In this study, the LMWOA-producing strain WN-18 was isolated from excess sludge and identified as Enterococcus faecium. WN-18 produced lactic acid, acetic acid, propionic acid and formic acid under both aerobic and anaerobic conditions. After 28 h, total net LMWOA accumulation reached 17.36 ± 1.24 and 18.13 ± 0.59 g/L under aerobic and anaerobic conditions, respectively (mean ± SD, n = 3). The corresponding apparent total LMWOA yields were 0.87 ± 0.06 and 0.91 ± 0.03 g/g measured glucose depletion, respectively. Acetic and propionic acid accumulation was higher under aerobic cultivation, whereas lactic acid accumulation was higher under anaerobic cultivation. Genome annotation revealed a complete glycolytic pathway and genes associated with lactate, formate and acetate production. Among the nine Enterococcus genomes examined, glycolysis and the major gene groups related to formate and acetate production were conserved, whereas sugar uptake and putative propionate-associated components varied among strains. At 10 h, anaerobic cultures showed higher expression of ldhA and pflD and lower expression of pta, pdhB and aceF than in aerobic cultures. These expression patterns corresponded to greater mean lactate and formate accumulation and lower acetate accumulation in anaerobic cultures at 28 h. WN-18 produced an acetate- and propionate-enriched fermentate under aerobic cultivation and a lactate-rich fermentate under anaerobic cultivation, a distinction that highlights the potential of this sludge-derived strain for bioprocesses with different organic acid requirements.",
+    "journal": "Microbial Biotechnology",
+    "doi": "10.1111/1751-7915.70495",
+    "date": "2026-11-25",
+    "authors": "Wenbo Li, \nYang Liu, \nJingshen Zhang, \nQiyan Feng",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1751-7915.70495?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://onlinelibrary.wiley.com/feed/17517915/most-recent",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5747,
+    "collected_at": "2026-11-26T09:41:35.790521+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://onlinelibrary.wiley.com/feed/17517915/most-recent"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1111/1751-7915.70495"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5941df0e39669510b454cf882f7e434b9b37fbe53003dd834217d2e1e5bfb19b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T10:11:55.025852+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a790dc32b1dd561bbea8556bf09c9397b3098c837afafdc298b7edf6a96d69bb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T10:11:55.025852+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "低分子量有機酸産生能を有する過剰汚泥由来Enterococcus faecium：機能評価および代謝特性解析",
+    "abstract_ja": "余剰汚泥から単離されたEnterococcus faecium WN‐18は、好気的および嫌気的条件下において、グルコースを同量の低分子量有機酸へと変換した。酸素の利用可能性がピルビン酸由来の代謝を転換させ、好気的には酢酸およびプロピオン酸を、嫌気的には乳酸およびギ酸を優先的に生成させることで、酸組成を調整するための実用的な手段を提供した。\n\n要旨\n低分子量有機酸（LMWOAs）は、環境バイオテクノロジーにおいて炭素源および電子供与体として広く利用されているが、その外部からの補給は運用コストを増大させる。本研究では、LMWOA産生株WN‐18を余剰汚泥から単離し、Enterococcus faeciumと同定した。WN‐18は、好気的および嫌気的条件の双方において、乳酸、酢酸、プロピオン酸およびギ酸を産生した。28時間後、総正味LMWOA蓄積量は、好気的条件下で17.36 ± 1.24、嫌気的条件下で18.13 ± 0.59 g/Lに達した（平均 ± SD, n = 3）。対応する見かけ上の総LMWOA収量は、それぞれ測定グルコース枯渇量あたり0.87 ± 0.06および0.91 ± 0.03 g/gであった。酢酸およびプロピオン酸の蓄積量は好気的培養下で高く、一方で乳酸の蓄積量は嫌気的培養下で高かった。ゲノムアノテーションにより、完全な解糖系経路および乳酸、ギ酸、酢酸の産生に関連する遺伝子が明らかになった。解析した9つのEnterococcusゲノムにおいて、解糖系およびギ酸・酢酸産生に関連する主要な遺伝子群は保存されていたが、糖取り込みおよび推定プロピオン酸関連成分は株間で異なっていた。10時間後、嫌気的培養物は好気的培養物と比較して、ldhAおよびpflDの発現が高く、pta、pdhBおよびaceFの発現が低かった。これらの発現パターンは、28時間後の嫌気的培養物における平均乳酸・ギ酸蓄積量の増加および酢酸蓄積量の減少に対応していた。WN‐18は、好気的培養下では酢酸およびプロピオン酸に富む発酵液を、嫌気的培養下では乳酸に富む発酵液を産生し、この相違は、異なる有機酸要求性を持つバイオプロセスに対する本汚泥由来株の可能性を浮き彫りにしている。\n\n余剰汚泥から単離されたEnterococcus faecium WN-18は、好気的および嫌気的条件下において、グルコースを同量の低分子量有機酸へと変換した。酸素の利用可能性がピルビン酸由来の代謝を転換させ、好気的には酢酸およびプロピオン酸を、嫌気的には乳酸およびギ酸を優先的に生成させることで、酸組成を調整するための実用的な手段を提供した。\n\n要旨\n低分子量有機酸（LMWOAs）は、環境バイオテクノロジーにおいて炭素源および電子供与体として広く利用されているが、その外部からの補給は運用コストを増大させる。本研究では、LMWOA産生株WN-18を余剰汚泥から単離し、Enterococcus faeciumと同定した。WN-18は、好気的および嫌気的条件の双方において、乳酸、酢酸、プロピオン酸およびギ酸を産生した。28時間後、総正味LMWOA蓄積量は、好気的条件下で17.36 ± 1.24、嫌気的条件下で18.13 ± 0.59 g/Lに達した（平均 ± SD, n = 3）。対応する見かけ上の総LMWOA収量は、それぞれ測定グルコース枯渇量あたり0.87 ± 0.06および0.91 ± 0.03 g/gであった。酢酸およびプロピオン酸の蓄積量は好気的培養下で高く、一方で乳酸の蓄積量は嫌気的培養下で高かった。ゲノムアノテーションにより、完全な解糖系経路および乳酸、ギ酸、酢酸の産生に関連する遺伝子が明らかになった。解析した9つのEnterococcusゲノムにおいて、解糖系およびギ酸・酢酸産生に関連する主要な遺伝子群は保存されていたが、糖取り込みおよび推定プロピオン酸関連成分は株間で異なっていた。10時間後、嫌気的培養物は好気的培養物と比較して、ldhAおよびpflDの発現が高く、pta、pdhBおよびaceFの発現が低かった。これらの発現パターンは、28時間後の嫌気的培養物における平均乳酸・ギ酸蓄積量の増加および酢酸蓄積量の減少に対応していた。WN-18は、好気的培養下では酢酸およびプロピオン酸に富む発酵液を、嫌気的培養下では乳酸に富む発酵液を産生し、この相違は、異なる有機酸要求性を持つバイオプロセスに対する本汚泥由来株の可能性を浮き彫りにしている。"
   }
 ]
