@@ -338218,5 +338218,285 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "天然および合成DNA結合化合物によるバクテリオファージ感染の抑制",
     "abstract_ja": "細菌とファージの軍拡競争には、双方において広範な免疫系および抗免疫系が関与している。古くから知られている抗ファージ防御機構の一つに、ダウノルビシンおよびその類縁体などのDNAインターカレーターがある。ダウノルビシンは、細菌の増殖および真核細胞の分裂を阻害することも示されており、これが化学療法における利用の根拠となっている。その他のDNAインターカレーターやマイナーグルーブ結合染料は、核酸染色に広く用いられているが、ウイルス感染に及ぼす影響については研究されてこなかった。本研究では、ダウノルビシンやヘキスト誘導体を含む既知のインターカレーターおよびDNA結合剤が、大腸菌（Escherichia coli）におけるファージ感染に及ぼす影響を系統的に調査した。多様な複製機構を持つファージパネルを用いて、DNA結合染料に感受性を示す系統群を同定し、ウイルスライフサイクルのどの段階が阻害されるかを明らかにした。我々のデータは、活性抗ウイルス化合物が細胞死を伴わずに感染の初期段階を遮断することを示唆しており、近年提唱されている感染不全機構や致死的な膜透過化説を否定するものである。以上の結果を総合すると、本研究はファージ感染に影響を及ぼす低分子化合物のリストを拡充するとともに、細胞生理学に影響を与えることなくウイルスDNAの侵入および／または複製を阻害するDNA結合剤を明らかにするものである。"
+  },
+  {
+    "id": "10.64898/2026.11.24.768722",
+    "title": "PAannotate: Software for Exploring Pseudomonas aeruginosa Gene-Expression Associations from Transcriptomic Data",
+    "abstract": "With the proliferation of transcriptomic data for Pseudomonas aeruginosa there is a need for software programs able to efficiently analyze both individual transcriptomes as well as large, publicly available compendiums of arrays. PAannotate is an R package and native macOS application capable of analyzing the Whiteley Lab database of 5,821 transcriptomes from 470 BioProjects. In the application, researchers can use recorded metadata such as strain, medium or treatment to select experiments or genes associated with particular expression patterns. Alternatively, selecting one gene of interest, a user can find other, coordinately regulated genes that move together across many environments, mutants, and treatments. PAannotate also allows users to select groups of genes and to use Gene Ontology and KEGG annotations and enrichment analysis to see whether those genes are associated with particular biological functions more often than expected by chance, determine whether a particular perturbation produces a reproducible response across studies, or find public experiments resembling your own experiment. Researchers can build and customize heatmaps and association networks. In one project, we have examined the P. aeruginosa transcriptomic associations with the genes encoding the Pf prophage present in P. aeruginosa strain PAO1. We found a strong negative correlation between PA0724, a Pf4 gene, and ccmG, a bacterial gene involved in energy metabolism. We identified that much of this relationship was reflected by a difference in whether the bacteria were grown with acetate or glycerol as their carbon source. This finding illustrates how PAannotate helps researchers investigate P. aeruginosa gene correlations.",
+    "journal": "",
+    "doi": "10.64898/2026.11.24.768722",
+    "date": "2026-11-25",
+    "authors": "Targ, R. W., Bollyky, P.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.24.768722v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Pseudomonas",
+        "bacteria",
+        "bacterial",
+        "gene",
+        "software",
+        "transcriptomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5707,
+    "collected_at": "2026-11-26T00:30:40.165307+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.64898/2026.11.24.768722"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6ed49d2f783dab4f6cff09a7ef16343915e1cd50044e21892511787b47b76a48",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:28:34.117219+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1f2a1bd974fa83fe3030d190c652abbeacfd29520501cbffdecaaa1741894c52",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:28:34.117219+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "PAannotate: トランスクリプトームデータから緑膿菌の遺伝子発現関連を探索するソフトウェア",
+    "abstract_ja": "Pseudomonas aeruginosaのトランスクリプトームデータが普及するにつれ、個々のトランスクリプトームと、公開されている大規模なアレイ・コンペンディウムの双方を効率的に解析できるソフトウェアプログラムが必要とされている。PAannotateは、470件のBioProjectsから得られた5,821件のトランスクリプトームを含むWhiteley Labデータベースを解析可能なRパッケージおよびmacOSネイティブアプリケーションである。本アプリケーションでは、研究者は菌株、培地、処理条件などの記録済みメタデータを用いて、特定の発現パターンに関連する実験や遺伝子を選択できる。あるいは、関心のある遺伝子を1つ選択することで、多くの環境、変異体、および処理条件にわたって共変動する、協調的に制御された他の遺伝子を特定することも可能である。また、PAannotateでは遺伝子群の選択や、Gene OntologyおよびKEGGアノテーション、エンリッチメント解析の利用が可能であり、これらの遺伝子が偶然に期待されるよりも頻繁に特定の生物学的機能に関連しているか、特定の摂動が研究間で再現性のある応答をもたらすか、あるいは自身の実験に類似した公開実験を特定することができる。研究者はヒートマップやアソシエーションネットワークを構築・カスタマイズできる。あるプロジェクトでは、P. aeruginosa株PAO1に存在するPfプロファージをコードする遺伝子と、P. aeruginosaのトランスクリプトーム上の関連性を検討した。その結果、Pf4遺伝子であるPA0724と、エネルギー代謝に関与する細菌遺伝子であるccmGとの間に強い負の相関があることが判明した。この関係の多くは、細菌の炭素源として酢酸とグリセロールのどちらを用いて培養したかによる違いに反映されていることが明らかになった。この知見は、PAannotateが研究者によるP. aeruginosaの遺伝子相関の調査をいかに支援するかを示すものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "bioRxiv",
+        "query": "details/biorxiv/2026-10-20/2026-11-10",
+        "scope": "candidate"
+      }
+    ],
+    "id": "10.64898/2026.10.08.755845",
+    "doi": "10.64898/2026.10.08.755845",
+    "title": "Disruption of cAMP Signalling and RNA Regulation Confers Cefiderocol Resistance in Acinetobacter baumannii",
+    "abstract": "Cefiderocol is a siderophore-conjugated cephalosporin used to treat severe multidrug-resistant Gram-negative infections. Its recent prioritisation for US national preparedness underscores its clinical importance, yet resistance can emerge despite apparent in vitro susceptibility. Here, we identify two regulatory routes to cefiderocol resistance in carbapenem-resistant Acinetobacter baumannii (CRAB): mutation of the cAMP-producing adenylate cyclase CavA and truncation of the glycine-rich RNA-binding domain of the post-transcriptional regulator Hfq. These variants occurred in contemporary clinical isolates, conferred resistance in a murine CRAB lung-infection model and imposed minimal fitness costs. In Escherichia coli, deletion of the CavA orthologue cyaA increased competitive fitness during sub-inhibitory cefiderocol exposure. Hfq-CLASH and integrated omics revealed Hfq-dependent regulation of Fur-associated iron homeostasis in A. baumannii. Under iron limitation, truncated-Hfq induced a defence-primed state that attenuated siderophore uptake and reduced cefiderocol activity. These findings identify bacterial regulatory state and iron availability as determinants of cefiderocol susceptibility, with implications for resistance surveillance and susceptibility testing.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "2",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.10.08.755845"
+    ],
+    "date": "2026-10-23",
+    "authors": "De Oliveira, D. M. P.; Heaton, R.; Whyte, H.; Buedenbender, L.; Indraratna, A.; Nguyen, N. T. K.; Phan, M.-D.; Alquethamy, S. F.; Hirose, Y.; Permana, B.; Wright, A.; Peleg, A. Y.; Nochomovitz, M.; Harris, P. N. A.; Ramsay, K. A.; Holmes, P.; Blaskovich, M. A. T.; Paterson, D. L.; Boyce, J. D.; Everest-Dass, A.; Schembri, M. A.; Tree, J. J.; Walker, M. J.; Forde, B. M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.08.755845v2",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5598,
+    "collected_at": "2026-11-25T15:35:54.776965+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-25",
+    "translation": {
+      "title": {
+        "hash": "31012de468eac3d80e3ff755ca02174a38bdb61d8abbb638f500a5f86ef45eee",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:28:34.117219+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "21fdf981eb14e8330c93629477e9cf799f44dcd19247befb1e43f14785660663",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:28:34.117219+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "cAMPシグナル伝達およびRNA調節の撹乱がAcinetobacter baumanniiのセフィデロコール耐性をもたらす",
+    "abstract_ja": "セフィデロコールは、重篤な多剤耐性グラム陰性菌感染症の治療に用いられる、シデロフォア結合型セファロスポリンである。近年、米国の国家的な備えにおいて優先的に位置づけられたことは、その臨床的重要性を裏付けているが、in vitroで感受性が認められるにもかかわらず、耐性が出現することがある。本研究では、カルバペネム耐性アシネトバクター・バウマニ（CRAB）におけるセフィデロコール耐性の2つの調節経路を同定した。すなわち、cAMP産生アデニル酸シクラーゼCavAの変異と、転写後調節因子HfqのグリシンリッチRNA結合ドメインの短縮である。これらの変異は同時期の臨床分離株に認められ、マウスCRAB肺感染症モデルにおいて耐性を付与し、適応度の低下は最小限であった。大腸菌（Escherichia coli）では、CavAオルソログcyaAの欠失により、セフィデロコールの亜阻害的曝露条件下で競争適応度が上昇した。Hfq-CLASHおよび統合オミクス解析により、A. baumanniiにおけるFur関連鉄恒常性のHfq依存的な調節が明らかになった。鉄制限下では、短縮型Hfqが防御準備状態を誘導し、シデロフォアの取り込みを減弱させ、セフィデロコール活性を低下させた。これらの知見は、細菌の調節状態と鉄の利用可能性がセフィデロコール感受性の決定要因であることを示しており、耐性サーベイランスおよび感受性試験に示唆を与えるものである。"
+  },
+  {
+    "id": "10.64898/2026.11.23.768523",
+    "title": "Salmonella MgtC promotes polymyxin B resistance and systemic infection by activating LpxO-mediated lipid A hydroxylation",
+    "abstract": "The intracellular pathogen Salmonella Typhimurium modifies the lipid A moiety of lipopolysaccharide through various lipid A-modifying enzymes, thereby acquiring resistance to host cationic antimicrobial peptides during infection. While regulation of these enzymes at the transcription level has been extensively studied, however, regulation at the activity level remains poorly understood. Here, we show that the Salmonella virulence factor MgtC interacts with LpxO, an enzyme that hydroxylates the 3'-myristoyl chain of hexa-acylated lipid A, identified through bacterial two-hybrid screening for potential MgtC interaction partners. MgtC binding to LpxO promotes lipid A hydroxylation in a concentration-dependent manner, and the Leu287 residue in the C-terminal helix of LpxO is required for this interaction. Substitution of Leu287 with Ala reduces MgtC binding without affecting intrinsic hydroxylase activity, consequently impairing MgtC-enhanced lipid A hydroxylation. This substitution decreases resistance to both the antimicrobial peptide polymyxin B and human serum, and attenuates virulence in a mouse infection model. These findings suggest that Salmonella exploits MgtC to promote LpxO hydroxylation activity, thereby enhancing survival inside the host.",
+    "journal": "",
+    "doi": "10.64898/2026.11.23.768523",
+    "date": "2026-11-25",
+    "authors": "Choi, N., Baek, S., Choi, E., Lee, E.-J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.23.768523v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5708,
+    "collected_at": "2026-11-26T00:30:40.165307+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.64898/2026.11.23.768523"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8138be52383ed20e2f7cf6ae36291464da351dc402ddd4aaf39764cb70e9f293",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:28:34.117219+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c28f7033d927fa3a8ac6d5441730abf7bd76740d441b0a3db9f2522b13da8291",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:28:34.117219+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "サルモネラMgtCは、LpxOを介した脂質A水酸化を活性化することで、ポリミキシンB耐性と全身感染を促進する。",
+    "abstract_ja": "細胞内病原体Salmonella Typhimuriumは、さまざまな脂質A修飾酵素を介してリポ多糖の脂質A部位を修飾し、感染時に宿主のカチオン性抗菌ペプチドに対する耐性を獲得する。しかし、これらの酵素の転写レベルでの調節については広範に研究されてきた一方で、活性レベルでの調節については十分に解明されていない。本研究では、Salmonellaの病原性因子MgtCが、MgtCの潜在的な相互作用パートナーを探索する細菌ツーハイブリッドスクリーニングによって同定された、ヘキサアシル化脂質Aの3'-ミリストイル鎖を水酸化する酵素LpxOと相互作用することを示す。MgtCのLpxOへの結合は濃度依存的に脂質Aの水酸化を促進し、LpxOのC末端ヘリックスにあるLeu287残基がこの相互作用に必要である。Leu287をAlaに置換すると、内在性の水酸化酵素活性に影響を与えることなくMgtCの結合が減少し、その結果、MgtCによる脂質A水酸化が阻害される。この置換は、抗菌ペプチドポリミキシンBおよびヒト血清の両方に対する耐性を低下させ、マウス感染モデルにおいて病原性を減弱させる。これらの知見は、SalmonellaがMgtCを利用してLpxOの水酸化活性を促進し、それによって宿主内での生存能を高めていることを示唆している。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "bioRxiv",
+        "query": "details/biorxiv/2026-10-20/2026-11-10",
+        "scope": "candidate"
+      }
+    ],
+    "id": "10.64898/2026.10.20.760537",
+    "doi": "10.64898/2026.10.20.760537",
+    "title": "Averaging in gene perturbation benchmarks hides perturbation-strength variation: Consequences for model evaluation",
+    "abstract": "Perturbation-response benchmarks usually represent each genetic intervention by averaging all cells assigned that perturbation label. We inquire what perturbation-strength information is lost by this averaging, and whether current model predictions preserve enough perturbation-specific information for this perturbation-strength variation to be evaluated. Using X-Atlas/Orion CRISPRi screens, we use depth-corrected guide abundance as a cell-level proxy for perturbation strength and examine how transcriptional responses vary within a nominal perturbation. Higher perturbation strength is associated with greater response reproducibility. The effect is present in two human cell lines, HCT116 and HEK293T, but is larger in HCT116. For model evaluation, HCT116 retrieval tests show that observed responses preserve perturbation identity, whereas the evaluated STATE and Cell2Sentence predictions do not reliably recover it, hence the question of within-perturbation strength information cannot be meaningfully evaluated.",
+    "journal": "bioRxiv",
+    "preprint": true,
+    "version": "1",
+    "published_doi": "",
+    "related_dois": [
+      "10.64898/2026.10.20.760537"
+    ],
+    "date": "2026-10-23",
+    "authors": "Sharma, Y. S.; Subramaniyam, M.; Passariello, P.; Jay, D.; Render, D.; Szegedy, M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.10.20.760537v1",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "benchmark",
+        "gene"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5599,
+    "collected_at": "2026-11-25T15:35:54.776965+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "bioRxiv"
+    ],
+    "first_seen": "2026-11-25",
+    "translation": {
+      "title": {
+        "hash": "ffdb6a7840655c75e7078a15be250accb968d02c89ed09cac68bd9ac7f13b2c7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:28:34.117219+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "416b80718d55ce5d8f479440c71736f064c5792b9a86a5ecbbb8102884c6484b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:28:34.117219+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "遺伝子摂動ベンチマークにおける平均化は摂動強度のばらつきを隠蔽する：モデル評価への影響",
+    "abstract_ja": "摂動応答のベンチマークでは通常、各遺伝子介入を、その摂動ラベルが付与された全細胞の平均値として表現する。本稿では、この平均化によってどのような摂動強度情報が失われるのか、また、現在のモデル予測が、この摂動強度の変動を評価するために十分な摂動固有の情報を保持しているかを検討する。X-Atlas/Orion CRISPRiスクリーニングを用い、深度補正済みガイド存在量を摂動強度の細胞レベルの代理指標として用い、名目上の摂動内で転写応答がどのように変動するかを検証する。摂動強度が高いほど、応答の再現性が高くなる。この効果は2つのヒト細胞株（HCT116およびHEK293T）で認められるが、HCT116においてより顕著である。モデル評価において、HCT116のリトリーバルテストでは、観測された応答が摂動の同一性を保持していることが示された一方、評価したSTATEおよびCell2Sentenceの予測ではそれを確実に再現できず、したがって摂動強度内の情報に関する問いを有意義に評価することはできない。"
   }
 ]
