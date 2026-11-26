@@ -341464,5 +341464,284 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "欠損型HIV DNAゲノムは、リザーバー動態の系統発生的推論に不可欠な祖先的関連性を提供する。",
     "abstract_ja": "要旨 感染過程において、ヒト免疫不全ウイルス（HIV）は、抗レトロウイルス療法に対する必要な感受性を欠く解剖学的サンクチュアリおよびリザーバー部位に持続する。根治的な進展はこれらの部位を標的とすることに大きく依存しているが、ウイルスの持続における各部位の正確な寄与については、現在のシーケンシングおよび配列解析手法では十分に裏付けられていない。代表的な例として、シーケンシングの標的となるHIV DNA集団を構成する広範な複製欠損型ゲノムランドスケープは、ウイルス集団動態の推論を改善するために利用可能な、機能的な祖先系統に関する重要な情報を提供しているにもかかわらず、しばしば除外されている。本研究では、治療中断後のS[imian]IV感染動物モデルの血液およびリンパ節検体に対するシングルセルDNAシーケンシングの適用と、ゲノムカバレッジおよび包含が系統解析の解像度および系統解剖学的推論に及ぼす寄与の評価について述べる。本研究の知見は、不完全なゲノムが、治療中のリザーバー動態に関する系統学的情報の重要な情報源であることを示唆している。"
+  },
+  {
+    "id": "10.1093/bioinformatics/btag860",
+    "title": "NovoTax: sample-specific database construction for prokaryotic mass spectrometry-based proteomics",
+    "abstract": "AbstractSummaryTraditional mass spectrometry-based proteomics typically requires prior knowledge of sample composition to match spectra to peptides. Here, we introduce a pipeline (NovoTax) to identify well matching prokaryotic proteomes directly from bottom-up proteomics data. The approach combines peptide sequencing tools with an optimized implementation of peptide searching against an extensive proteome database. On a benchmark dataset of species isolates, we identified the reported species and strain neighborhood in the majority of cases and showed that in discordant cases NovoTax databases better reflected the protein content of the sample. Interestingly, NovoTax was also able to identify additional species in samples. The algorithm also identified the most abundant organisms in bacterial communities. In summary, NovoTax provides a compact proteome database that enables downstream use of conventional proteomics search engines.Availability and ImplementationThe open-source software is available on GitHub at https://github.com/mateuslab-prot/NovoTax (https://doi.org/10.5281/zenodo.23732583).Supplementary informationSupplementary data are available at Bioinformatics online.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag860",
+    "date": "2026-11-24",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag860/9122356?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "database",
+        "pipeline",
+        "prokaryotic",
+        "proteome",
+        "proteomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "database",
+          "pipeline",
+          "proteome",
+          "proteomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5721,
+    "collected_at": "2026-11-26T09:41:35.790521+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1093/bioinformatics/btag860"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b8bf10764c9cd59c650479d4c342d0229ca15381500a0c9ca26061ed71d3a483",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T10:25:51.426727+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "80638e849749056e20872510ef6e0ef7ecbe3f51338ac98a193193b4017e1ce2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T10:25:51.426727+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "NovoTax: 原核生物質量分析法に基づくプロテオミクスのためのサンプル固有データベース構築",
+    "abstract_ja": "要旨\n従来の質量分析法に基づくプロテオミクスでは、スペクトルをペプチドに照合するために、通常、試料組成に関する事前知識が必要となる。本研究では、ボトムアッププロテオミクスデータから直接、適合性の高い原核生物プロテオームを同定するパイプライン（NovoTax）を提案する。本手法は、ペプチドシーケンシングツールと、広範なプロテオームデータベースに対する最適化されたペプチド検索実装を組み合わせたものである。種分離株のベンチマークデータセットにおいて、大半のケースで報告済みの種および株近傍を同定し、不一致が生じたケースではNovoTaxデータベースの方が試料のタンパク質含有量をより適切に反映していることを示した。興味深いことに、NovoTaxは試料中の追加の種を同定することも可能であった。また、本アルゴリズムは細菌群集において最も豊富に存在する生物を同定した。要約すると、NovoTaxは、従来のプロテオミクス検索エンジンの後続利用を可能にするコンパクトなプロテオームデータベースを提供する。\n利用可能性および実装\n本オープンソースソフトウェアは、GitHub（https://github.com/mateuslab-prot/NovoTax (https://doi.org/10.5281/zenodo.23732583)）で公開されている。\n補足情報\n補足データはBioinformatics onlineで入手可能である。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1950141",
+    "title": "Marburg virus in bats and humans: ecology, immunity, pathogenesis, and diagnostic challenges",
+    "abstract": "Over the past few decades, viral hemorrhagic fevers (VHFs) have caused several outbreaks of international public health concern. Among them, diseases caused by filoviruses, including Marburg virus (MARV) and Ebola virus (EBOV), represent a major challenge for endemic African countries because of their capacity to sustain human-to-human transmission and the limited availability of appropriate treatments and facilities for outbreak containment. MARV is a zoonotic pathogen, and the Egyptian fruit bat, Rousettus aegyptiacus, has been identified as its natural reservoir. One of the main features of bats as viral reservoirs is their ability to sustain infection without developing overt disease. Moreover, a harmonized approach to study the distribution and dynamics of MARV in the bat populations would be required to better assess the risk of future spillover events. In contrast, Marburg virus disease (MVD) in humans is associated with severe hemorrhagic syndrome and case fatality rates of up to 88%. Differences in immune regulation and activation between bat and human hosts are thought to contribute to these contrasting clinical outcomes. Current evidence points to distinctive features of bat antiviral immunity, including an expanded type I interferon repertoire, early and transient antiviral responses, and tightly regulated inflammatory activation, which may contribute to viral control while limiting infection-associated tissue damage. In this scenario, rapid and specific diagnosis of suspected cases is essential for appropriate patient management, outbreak control, and assessment of transmission risk. Currently, validated in vitro diagnostic (IVD) assays for the laboratory confirmation of MARV infection are based on real-time RT PCR, whereas all available antigenic and serological assays remain restricted to research use. Recent advances in molecular diagnostics have enabled the development of multiplex assays for the simultaneous detection of several pathogens, as well as isothermal amplification platforms that can be deployed outside conventional laboratory settings. Nevertheless, serological analysis and genome sequencing remain valuable for the immunological and epidemiological characterization of MARV.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1950141",
+    "date": "2026-11-26",
+    "authors": "Daniele Lapa",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1950141",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5730,
+    "collected_at": "2026-11-26T09:41:35.790521+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.3389/fmicb.2026.1950141"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ade8abe8ce3f64848a4ba610bbcfb304a482bf33ac19593dad7aa076d123c1ed",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T10:25:51.426727+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "40491d44713306a994ff00393f61a7a36b99728985fde1bc4cf650bb63f3301e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T10:25:51.426727+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "コウモリとヒトにおけるマールブルグウイルス：生態、免疫、病態形成、および診断上の課題",
+    "abstract_ja": "過去数十年にわたり、ウイルス性出血熱（VHF）は国際的な公衆衛生上の懸念となるアウトブレイクを数回引き起こしてきた。その中でも、マールブルグウイルス（MARV）やエボラウイルス（EBOV）を含むフィロウイルスによる疾患は、ヒトからヒトへの伝播を維持する能力や、アウトブレイク封じ込めのための適切な治療法および施設の不足により、アフリカの流行国にとって大きな課題となっている。MARVは人獣共通感染症の病原体であり、エジプトフルーツコウモリ（Rousettus aegyptiacus）がその自然リザーバーとして同定されている。コウモリがウイルスリザーバーとなる主な特徴の一つは、顕在的な疾患を発症することなく感染を維持できる能力にある。さらに、将来的なスピルオーバー事象のリスクをより適切に評価するためには、コウモリ個体群におけるMARVの分布と動態を研究するための統一的なアプローチが必要となる。対照的に、ヒトにおけるマールブルグウイルス病（MVD）は、重篤な出血症候群を伴い、致死率は最大88%に達する。コウモリとヒトの宿主間における免疫調節および活性化の相違が、こうした対照的な臨床転帰に寄与していると考えられている。現在のエビデンスは、拡張されたI型インターフェロンレパトア、早期かつ一過性の抗ウイルス応答、および厳密に制御された炎症活性化といった、コウモリの抗ウイルス免疫の特徴的な性質を示唆しており、これらが感染に伴う組織損傷を抑制しつつウイルス制御に寄与している可能性がある。このような状況において、疑い例の迅速かつ特異的な診断は、適切な患者管理、アウトブレイク制御、および伝播リスクの評価に不可欠である。現在、MARV感染の検査室での確定診断に用いられている検証済みの体外診断（IVD）アッセイはリアルタイムRT-PCRに基づいているが、利用可能なすべての抗原検査および血清学的検査は依然として研究用途に限定されている。近年の分子診断技術の進歩により、複数の病原体を同時に検出するマルチプレックスアッセイや、従来の検査室環境外で展開可能な等温増幅プラットフォームの開発が可能となった。それにもかかわらず、血清学的解析およびゲノムシーケンシングは、MARVの免疫学的および疫学的特性解析において引き続き有用である。"
+  },
+  {
+    "id": "10.1111/1751-7915.70483",
+    "title": "Targeting Quorum Sensing With SD8: An Anti‐Virulence Strategy That Attenuates Pseudomonas aeruginosa Pathogenesis and Potentiates Antibiotics",
+    "abstract": "This work demonstrated that SD8 showed potential as a novel anti‐virulence agent against P. aeruginosa. SD8 inhibited multiple virulence‐related phenotypes and downregulated QS‐related gene expression. Notably, combination assays demonstrated that SD8 enhanced the antibacterial activity of several antibiotics and significantly increased the survival rate of the host in the infection models.\n\nABSTRACT\nPseudomonas aeruginosa exhibits complex tolerance and adaptive capabilities, enabling it to persist under antibiotic pressure during infection and thereby complicating treatment. In recent years, strategies targeting virulence rather than bacterial growth have gained increasing attention. Among them, the quorum sensing (QS) system, which integrates multiple pathogenic processes, has been recognized as an important potential target. This study aimed to investigate the anti‐virulence activity of 7‐((2‐methylquinolin‐6‐yl)methyl)‐7H‐pyrrolo[3,2‐f]quinazoline‐1,3‐diamine (SD8) against P. aeruginosa. SD8 showed no detectable antibacterial activity under standard MIC conditions and had little effect on bacterial growth in nutrient‐rich medium, although growth inhibition was observed in M9‐adenosine medium. SD8 inhibited multiple virulence‐related phenotypes of P. aeruginosa, including biofilm formation, pyocyanin production, protease activity, rhamnolipid production and motility. Quantitative real‐time PCR (qPCR) analysis further showed that SD8 reduced the expression of several QS‐related genes. Molecular docking suggested that SD8 may interact with the ligand‐binding pockets of QS receptors. Moreover, combination assays showed that SD8 enhanced the antibacterial activity of polymyxin B and tobramycin. SD8 treatment also significantly improved the survival of infected C. elegans and mice. Overall, SD8 exerts anti‐virulence effects by interfering with QS‐regulated pathways and represents a potential candidate for anti‐virulence therapy.\n\nThis work demonstrated that SD8 showed potential as a novel anti-virulence agent against P. aeruginosa. SD8 inhibited multiple virulence-related phenotypes and downregulated QS-related gene expression. Notably, combination assays demonstrated that SD8 enhanced the antibacterial activity of several antibiotics and significantly increased the survival rate of the host in the infection models.\n\nABSTRACT\nPseudomonas aeruginosa exhibits complex tolerance and adaptive capabilities, enabling it to persist under antibiotic pressure during infection and thereby complicating treatment. In recent years, strategies targeting virulence rather than bacterial growth have gained increasing attention. Among them, the quorum sensing (QS) system, which integrates multiple pathogenic processes, has been recognized as an important potential target. This study aimed to investigate the anti-virulence activity of 7-((2-methylquinolin-6-yl)methyl)-7H-pyrrolo[3,2-f]quinazoline-1,3-diamine (SD8) against P. aeruginosa. SD8 showed no detectable antibacterial activity under standard MIC conditions and had little effect on bacterial growth in nutrient-rich medium, although growth inhibition was observed in M9-adenosine medium. SD8 inhibited multiple virulence-related phenotypes of P. aeruginosa, including biofilm formation, pyocyanin production, protease activity, rhamnolipid production and motility. Quantitative real-time PCR (qPCR) analysis further showed that SD8 reduced the expression of several QS-related genes. Molecular docking suggested that SD8 may interact with the ligand-binding pockets of QS receptors. Moreover, combination assays showed that SD8 enhanced the antibacterial activity of polymyxin B and tobramycin. SD8 treatment also significantly improved the survival of infected C. elegans and mice. Overall, SD8 exerts anti-virulence effects by interfering with QS-regulated pathways and represents a potential candidate for anti-virulence therapy.",
+    "journal": "Microbial Biotechnology",
+    "doi": "10.1111/1751-7915.70483",
+    "date": "2026-11-21",
+    "authors": "Wei Liu, \nDalin Sun, \nLi Liang, \nKelei Zhao, \nLifeng Zhao, \nYang Yuan, \nYiwen Chu, \nTing Huang",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1751-7915.70483?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Pseudomonas",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://onlinelibrary.wiley.com/feed/17517915/most-recent",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5751,
+    "collected_at": "2026-11-26T09:41:35.790521+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://onlinelibrary.wiley.com/feed/17517915/most-recent"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1111/1751-7915.70483"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e94629e457725e94cd26abc641f181b52e97db05c25f1fa71d3cb04def45a00f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T10:25:51.426727+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "afee6a8cb9151c09f17a07b2f58a5b833e2a214fd29de1cbba7bd9e4a8b36a1d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T10:25:51.426727+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "SD8によるクオラムセンシングの標的化：緑膿菌の病原性を減弱させ、抗生物質の効果を高める抗ウイルス戦略",
+    "abstract_ja": "本研究により、SD8がPseudomonas aeruginosaに対する新規抗病原性剤として有望であることが示された。SD8は複数の病原性関連表現型を抑制し、QS関連遺伝子の発現を低下させた。特筆すべき点として、組み合わせアッセイにより、SD8が複数の抗菌薬の抗菌活性を増強し、感染モデルにおける宿主の生存率を有意に向上させることが示された。\n\n要旨\nPseudomonas aeruginosaは複雑な耐性と適応能を示し、感染中の抗菌薬圧力下においても生存し続けることができるため、治療を困難にする。近年、細菌の増殖ではなく病原性を標的とする戦略が注目を集めている。その中でも、複数の病原性プロセスを統合するクオラムセンシング（QS）系が、重要な潜在的標的として認識されている。本研究では、7-((2-メチルキノリン-6-イル)メチル)-7H-ピロロ[3,2-f]キナゾリン-1,3-ジアミン（SD8）のPseudomonas aeruginosaに対する抗病原性活性を検討することを目的とした。SD8は標準的なMIC条件下では検出可能な抗菌活性を示さず、栄養豊富な培地における細菌の増殖にほとんど影響を及ぼさなかったが、M9-アデノシン培地では増殖抑制が認められた。SD8は、バイオフィルム形成、ピオシアニン産生、プロテアーゼ活性、ラムノリピド産生、および運動性を含む、Pseudomonas aeruginosaの複数の病原性関連表現型を抑制した。定量的リアルタイムPCR（qPCR）解析により、SD8が複数のQS関連遺伝子の発現を低下させることがさらに示された。分子ドッキングにより、SD8がQS受容体のリガンド結合ポケットと相互作用する可能性が示唆された。さらに、組み合わせアッセイにより、SD8がポリミキシンBおよびトブラマイシンの抗菌活性を増強することが示された。また、SD8処理は感染したC. elegansおよびマウスの生存率を有意に改善した。総じて、SD8はQS調節経路を阻害することで抗病原性効果を発揮し、抗病原性療法の潜在的な候補となる。\n\n本研究により、SD8がPseudomonas aeruginosaに対する新規抗病原性剤として有望であることが示された。SD8は複数の病原性関連表現型を抑制し、QS関連遺伝子の発現を低下させた。特筆すべき点として、組み合わせアッセイにより、SD8が複数の抗菌薬の抗菌活性を増強し、感染モデルにおける宿主の生存率を有意に向上させることが示された。\n\n要旨\nPseudomonas aeruginosaは複雑な耐性と適応能を示し、感染中の抗菌薬圧力下においても生存し続けることができるため、治療を困難にする。近年、細菌の増殖ではなく病原性を標的とする戦略が注目を集めている。その中でも、複数の病原性プロセスを統合するクオラムセンシング（QS）系が、重要な潜在的標的として認識されている。本研究では、7-((2-メチルキノリン-6-イル)メチル)-7H-ピロロ[3,2-f]キナゾリン-1,3-ジアミン（SD8）のPseudomonas aeruginosaに対する抗病原性活性を検討することを目的とした。SD8は標準的なMIC条件下では検出可能な抗菌活性を示さず、栄養豊富な培地における細菌の増殖にほとんど影響を及ぼさなかったが、M9-アデノシン培地では増殖抑制が認められた。SD8は、バイオフィルム形成、ピオシアニン産生、プロテアーゼ活性、ラムノリピド産生、および運動性を含む、Pseudomonas aeruginosaの複数の病原性関連表現型を抑制した。定量的リアルタイムPCR（qPCR）解析により、SD8が複数のQS関連遺伝子の発現を低下させることがさらに示された。分子ドッキングにより、SD8がQS受容体のリガンド結合ポケットと相互作用する可能性が示唆された。さらに、組み合わせアッセイにより、SD8がポリミキシンBおよびトブラマイシンの抗菌活性を増強することが示された。また、SD8処理は感染したC. elegansおよびマウスの生存率を有意に改善した。総じて、SD8はQS調節経路を阻害することで抗病原性効果を発揮し、抗病原性療法の潜在的な候補となる。"
+  },
+  {
+    "id": "10.1093/molbev/msag288",
+    "title": "Paralogs of the Candida albicans TLO gene family form interconnected functional networks with incomplete redundancy",
+    "abstract": "AbstractGene duplication typically fails to confer a selective advantage to an organism, prompting their removal from a population. In rare instances that duplication does not incur a fitness cost or enhances fitness, gene families can form through repeating the duplication process. While the function of gene duplicates has been studied in detail, little work has explored how repeated duplication impacts paralog redundancy and may restrict the emergence of new paralogs or novel function. Here, we constructed a panel of single deletion mutants for each of the 14 members of the Candida albicans  telomere-associated (TLO) gene family to test the redundancy in molecular and biological function among paralogs from a lineage-specific expansion. Tlo proteins function as interchangeable subunits of the Mediator transcriptional regulatory complex with the potential to impact global gene expression. Redundancy was the most common outcome, being observed for approximately 90% of the phenotypic assays in strains lacking single TLO genes. However, mutants for 12/14 paralogs displayed significant non-redundant functions in phenotypes ranging from carbon utilization to in vivo virulence. Double mutants lacking two TLO genes produced both positive and negative synergistic phenotypes, suggesting that crosstalk or coordinated regulation is common among paralogs. Together, this study demonstrates that recently emergent paralogs can acquire non-redundant functions despite often retaining redundancy with other gene family members to form a highly interconnected functional network.",
+    "journal": "Molecular Biology and Evolution",
+    "doi": "10.1093/molbev/msag288",
+    "date": "2026-11-18",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msag288/9081858?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Candida"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5325/advanceAccess_3191.xml",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5753,
+    "collected_at": "2026-11-26T09:41:35.790521+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://academic.oup.com/rss/site_5325/advanceAccess_3191.xml"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1093/molbev/msag288"
+    ],
+    "translation": {
+      "title": {
+        "hash": "82f2152af114d74f66dd9885b2226b22ccd20c2e86639d901acabee8920e9095",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T10:25:51.426727+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2e6513977fe5c73db438081a27b730b385f9b0e950ed3004bca77584065c41df",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T10:25:51.426727+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Candida albicans TLO遺伝子ファミリーのパラログは、不完全な冗長性を伴う相互接続された機能ネットワークを形成する。",
+    "abstract_ja": "要旨 遺伝子重複は通常、生物に選択的優位性をもたらさないため、個体群から除去されることになる。重複が適応度の低下を招かない、あるいは適応度を高める稀なケースでは、重複プロセスの繰り返しを通じて遺伝子ファミリーが形成されることがある。遺伝子重複の機能については詳細に研究されてきたが、重複の繰り返しがパラログの冗長性にどのような影響を及ぼし、新たなパラログや新規機能の出現をいかに制限し得るかについて検討した研究はほとんどない。本研究では、系統特異的な拡張により得られたパラログ間の分子的・生物学的機能の冗長性を検証するため、Candida albicansのテロメア関連（TLO）遺伝子ファミリーのメンバー14種それぞれについて、単一欠失変異体パネルを構築した。TLOタンパク質は、メディエーター転写調節複合体の相互置換可能なサブユニットとして機能し、ゲノム全体の遺伝子発現に影響を及ぼす可能性がある。冗長性が最も一般的な結果であり、単一のTLO遺伝子を欠く株における表現型アッセイの約90%で観察された。しかし、14種のパラログのうち12種の変異体は、炭素利用から生体内病原性に至るまでの表現型において、有意な非冗長機能を示した。2つのTLO遺伝子を欠く二重変異体は、正および負の相乗的な表現型の両方を示し、パラログ間でクロストークや協調的な調節が一般的であることが示唆された。以上の結果を総合すると、本研究は、最近出現したパラログが、他の遺伝子ファミリーメンバーとの冗長性を保持しつつも非冗長機能を獲得し、高度に相互接続された機能ネットワークを形成し得ることを示している。"
   }
 ]
