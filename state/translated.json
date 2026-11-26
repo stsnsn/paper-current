@@ -337642,5 +337642,284 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "模擬前処理済み都市廃水の処理における、アナモックスの適応性が嫌気性/好気性/好気性/嫌気性プロセスの水理保持時間に及ぼす影響：その性能とメカニズムに基づく",
     "abstract_ja": "水力保持時間（HRT）はバイオリアクターにおける重要な運転パラメータであり、汚染物質の生化学反応時間に顕著な影響を及ぼし、ひいてはその除去量に影響を与える。そこで、新規のアナモックス強化型無酸素/好気/好気/無酸素プロセスの最適HRTを検討し、HRTを8時間から3時間へと短縮した際の適応性を評価した。本プロセスを用いて、化学的酸素要求量（COD）の約70%が除去された模擬前処理済み都市廃水から、炭素（C）、窒素（N）およびリン（P）を除去した。ろ過処理水における平均総リン（TP）は、HRT 8時間の0.032 mg/LからHRT 3時間の0.027 mg/Lへと漸次減少し、その除去率は99.39%から99.48%へと上昇した。これはMn3(PO4)2の生成による化学的P除去に起因する。一方、処理水における平均CODおよびろ過済み総窒素（TN）は、それぞれ5.53および0.68から10.59および5.79 mg/Lへと増加し、その除去率はそれぞれ93.94%および98.90%から88.40%および90.68%へと低下した。HRTが8時間から4時間へと短縮された際、まず除去量がわずかに減少し、続いてTNの除去量が急速に減少したが、CODの除去量は水分解菌のさらなる順応に伴いわずかに増加した。アナモックスは、部分脱窒アナモックスおよび部分硝化アナモックスを通じて、N除去量およびHRTへの適応性を向上させた。難分解性有機物および死滅微生物の水分解により、より多くの炭素源が供給されてCおよびNの除去が改善され、生物起源マンガン酸化物がC除去を促進した。水分解、硝化、脱窒およびアナモックスに関与する同定済みの機能性細菌および遺伝子により、CおよびNの除去経路とメカニズムが明らかになり、HRTに対する高い適応性が説明された。本プロセスはC、NおよびPを効率的に除去し、HRTに対して高い適応性を示した。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.2000648",
+    "title": "A multi-omic microbiome signature for irritable bowel syndrome: discovery and cross-disease evaluation in inflammatory bowel disease",
+    "abstract": "BackgroundIrritable bowel syndrome (IBS) is a heterogeneous disorder of gut–brain interaction associated with alterations in intestinal microbial composition, function, and metabolism. However, inconsistent findings from individual omic analyses have limited the identification of reproducible biomarkers. Multi-omic integration may overcome these limitations by revealing coordinated microbial and metabolic alterations associated with IBS.MethodsPublicly available 16S rRNA taxonomic, metatranscriptomic, and fecal metabolomic profiles from 121 IBS patients and 100 healthy controls were integrated using MintTea to identify disease-associated multi-omic modules. The highest-performing module was subsequently reduced using Least Absolute Shrinkage and Selection Operator (LASSO) regression. The resulting signature was evaluated in an independent inflammatory bowel disease (IBD) cohort to explore cross-disease transferability and potential disease specificity.ResultsFive disease-associated modules were identified. The highest-performing module comprised 28 features spanning all three omic layers and achieved an apparent, in-sample AUROC of 0.886 (95% CI: 0.836–0.934). This module was characterized by fiber-fermenting bacterial taxa, carbohydrate-related metabolites, and diet-associated compounds. A seven-feature signature was subsequently derived using LASSO regression, achieving an apparent AUROC of 0.853 (95% CI: 0.798–0.908). Repeated stratified five-fold cross-validation of the complete MintTea–LASSO workflow yielded a mean AUROC of 0.835 ± 0.011, supporting internal discriminatory performance. The resulting IBS score remained associated with disease status after adjustment for age, body mass index, and dietary pattern. Limited discriminatory ability was observed in the independent IBD cohort (AUROC = 0.60; 95% CI: 0.438–0.763), suggesting limited cross-disease transferability.ConclusionA biologically coherent multi-omic microbiome signature associated with IBS was identified, reflecting coordinated alterations in microbial composition, functional activity, and metabolism. Although promising in-sample discrimination was observed, independent validation is required to establish predictive performance and disease specificity. These findings support multi-omic integration as a valuable approach for identifying biologically interpretable IBS-associated signatures and candidate biomarkers.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.2000648",
+    "date": "2026-11-25",
+    "authors": "Francesco Russo",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.2000648",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "bacteria",
+        "bacterial",
+        "metatranscriptom",
+        "metatranscriptomic",
+        "microbial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "16S rRNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5630,
+    "collected_at": "2026-11-25T15:46:29.923395+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-25",
+    "related_dois": [
+      "10.3389/fmicb.2026.2000648"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5987c84c19dfd2bc3c738186914cd3af66e66c287535a4eb98764280ebbf6658",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:20:52.144193+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5a7c244146e8db9d73e631ebb154e4f7ab544428edcaa9d1c928d1637e2669e2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:20:52.144193+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "過敏性腸症候群におけるマルチオミクス・マイクロバイオームシグネチャー：炎症性腸疾患における発見と疾患横断的評価",
+    "abstract_ja": "背景 過敏性腸症候群（IBS）は、腸内細菌叢の組成、機能、および代謝の変化を伴う、腸脳相互作用の不均一な疾患である。しかし、個々のオミクス解析による結果に一貫性がないため、再現性のあるバイオマーカーの同定が制限されてきた。マルチオミクス統合により、IBSに関連する協調的な微生物学的・代謝的変化を明らかにすることで、これらの限界を克服できる可能性がある。方法 IBS患者121例および健常対照群100例から得られた、公開されている16S rRNA分類学的、メタトランスクリプトーム、および糞便メタボロームプロファイルをMintTeaを用いて統合し、疾患関連のマルチオミクスモジュールを同定した。最も性能の高いモジュールを、その後、最小絶対縮小選択演算子（LASSO）回帰を用いて縮小させた。得られたシグネチャーを独立した炎症性腸疾患（IBD）コホートで評価し、疾患間の転移可能性および潜在的な疾患特異性を検討した。結果 5つの疾患関連モジュールが同定された。最も性能の高いモジュールは、3つのオミクス層すべてにわたる28の特徴量で構成され、サンプル内見かけのAUROCは0.886（95% CI: 0.836–0.934）であった。このモジュールは、食物繊維発酵細菌分類群、炭水化物関連代謝物、および食事関連化合物を特徴としていた。続いて、LASSO回帰を用いて7特徴量のシグネチャーを導出し、見かけのAUROCは0.853（95% CI: 0.798–0.908）であった。MintTea–LASSOワークフロー全体の反復的な層別5分割交差検証により、平均AUROC 0.835 ± 0.011が得られ、内部識別性能が裏付けられた。得られたIBSスコアは、年齢、体格指数、および食事パターンで調整した後でも疾患状態と関連していた。独立したIBDコホートでは識別能が限定的であり（AUROC = 0.60; 95% CI: 0.438–0.763）、疾患間の転移可能性が限られていることが示唆された。結論 IBSに関連する生物学的に整合性のあるマルチオミクスマイクロバイオームシグネチャーが同定され、微生物組成、機能的活性、および代謝の協調的な変化が反映されていた。サンプル内識別において有望な結果が得られたものの、予測性能および疾患特異性を確立するには独立した検証が必要である。これらの知見は、生物学的に解釈可能なIBS関連シグネチャーおよび候補バイオマーカーを同定するための有用なアプローチとして、マルチオミクス統合を支持するものである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1987277",
+    "title": "Diagnostic performance and clinical utility of pathogen-targeted next-generation sequencing in suspected central nervous system infections",
+    "abstract": "BackgroundEvidence on the diagnostic performance and clinical utility of pathogen-targeted next-generation sequencing (t-NGS) in central nervous system infections (CNSIs) remains limited. We evaluated its diagnostic performance relative to culture and the clinical associations of combined testing.MethodsThis prospective, single-centre observational study enrolled adults with suspected CNSI into contemporaneous, non-randomised t-NGS + culture and culture-only cohorts. Paired diagnostic performance was assessed against a composite clinical reference standard in participants undergoing both tests. Antimicrobial-management patterns within 48 h of report availability and 30-day clinical outcomes were compared between cohorts.ResultsThe analysis included 253 participants: 162 in the t-NGS + culture cohort and 91 in the culture-only cohort. Among the 162 participants with paired testing, 97 were adjudicated as having CNSI. Compared with culture, t-NGS had higher sensitivity (80.4% vs. 25.8%, p < 0.001), negative predictive value (71.6% vs. 46.3%, p < 0.001), and accuracy (77.8% vs. 53.7%, p < 0.001), but lower specificity (73.8% vs. 95.4%, p < 0.001). The area under the receiver-operating-characteristic curve was 0.77 vs. 0.61 (p < 0.01). Among confirmed infections, complete or partial pathogen-level concordance with the reference standard was more frequent with t-NGS. Positive antimicrobial-management were more frequent with t-NGS + culture cohort than with culture-alone cohort (51.9% vs. 28.6%; p < 0.01). Multivariable Cox regression analysis indicated that combined testing was associated with earlier temperature normalisation (HR, 1.50; 95% CI, 1.07–2.11) and symptom improvement (HR, 1.81; 95% CI, 1.30–2.50). Intensive care unit admission, 30-day readmission, 30-day mortality, treatment response, and length of hospital stay did not differ significantly between cohorts.Conclusiont-NGS increased diagnostic sensitivity relative to culture, although specificity was lower. Combined testing was associated with shorter reporting times, more frequent report-associated antimicrobial management, and earlier clinical improvement. These findings support t-NGS as an adjunct to culture, with further studies needed to establish its effects on patient outcomes.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1987277",
+    "date": "2026-11-25",
+    "authors": "Jing Yu",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1987277",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5631,
+    "collected_at": "2026-11-25T15:46:29.923395+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-25",
+    "related_dois": [
+      "10.3389/fmicb.2026.1987277"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a5b334a61ee39fe0ab5a40193c9140371f40b37da92c7cdb381057f5a92c1de0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:20:52.144193+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c98b28a295cd160dd5851eeac8143e329c2cffd18b568fede1d23e05a0bd4ffb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:20:52.144193+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "中枢神経系感染症が疑われる症例における病原体標的型次世代シーケンシングの診断能と臨床的有用性",
+    "abstract_ja": "背景 中枢神経系感染症（CNSI）における病原体標的型次世代シーケンシング（t-NGS）の診断能および臨床的有用性に関するエビデンスは依然として限られている。本研究では、培養検査と比較した診断能、および併用検査の臨床的関連性を評価した。方法 本前向き単施設観察研究では、CNSIが疑われる成人患者を、同時実施の非無作為化t-NGS＋培養および培養単独コホートに組み入れた。両検査を受けた被験者を対象に、複合臨床参照基準を用いてペア診断能を評価した。報告可能となってから48時間以内の抗菌薬投与パターンおよび30日後の臨床転帰について、コホート間で比較した。結果 解析対象は253例で、t-NGS＋培養コホートに162例、培養単独コホートに91例が含まれた。ペア検査を受けた162例のうち、97例がCNSIと判定された。培養検査と比較して、t-NGSは感度（80.4% vs. 25.8%, p < 0.001）、陰性的中率（71.6% vs. 46.3%, p < 0.001）、および正診率（77.8% vs. 53.7%, p < 0.001）が高かったが、特異度は低かった（73.8% vs. 95.4%, p < 0.001）。受信者動作特性曲線下面積は、0.77 vs. 0.61（p < 0.01）であった。確定診断された感染症において、参照基準との病原体レベルでの完全または部分的な一致は、t-NGSでより頻繁に認められた。抗菌薬投与の陽性例は、培養単独コホートよりもt-NGS＋培養コホートでより多く認められた（51.9% vs. 28.6%; p < 0.01）。多変数Cox回帰分析により、併用検査は体温の早期正常化（HR, 1.50; 95% CI, 1.07–2.11）および症状の改善（HR, 1.81; 95% CI, 1.30–2.50）と関連していることが示された。集中治療室への入室、30日後の再入院、30日後死亡率、治療反応、および入院期間については、コホート間で有意な差は認められなかった。結論 t-NGSは培養検査と比較して診断感度を向上させたが、特異度は低かった。併用検査は、報告期間の短縮、報告に伴う抗菌薬投与の頻度増加、および臨床的改善の早期化と関連していた。これらの知見は、t-NGSが培養検査の補助手段となり得ることを支持するものであり、患者転帰への影響を確立するためにはさらなる研究が必要である。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1890837",
+    "title": "Changes in microbial diversity, functional metabolic pathways, antibiotic resistance and virulence factor-associated gene abundance during the co-composting of keratin by-products as identified using shotgun metagenomics sequencing",
+    "abstract": "IntroductionIncreasing numbers of dog grooming salons generate large amount of dog hair by-product, most of which discarded without beneficial use. Co-composting offers a sustainable and environmentally friendly solution by converting the organic matter into a valuable product, thereby promoting by-product upgrading and resource recovery.MethodsThis study investigated changes in microbial diversity and their associations with the dynamics of antibiotic resistance genes (ARGs) and virulence factor (VF)-associated genes during the co-composting of dog hair and food by-products through shotgun DNA sequencing and subsequent bioinformatics analyses.Results and discussionDifferences in microbial community composition were observed across the different composting phases, with Proteobacteria, Firmicutes, Actinobacteria, Bacteroidetes, Ascomycota, and Basidiomycota identified as the dominant phyla. Functional profiling revealed that protein and carbohydrate metabolism represented the predominant predicted metabolic pathways throughout the composting process, reflecting the protein and carbohydrate rich nature of the by-products. A total of 1,939 ARG-associated sequence hits were detected, conferring resistance to aminoglycoside, beta-lactam, trimethoprim, vancomycin, tetracycline, streptogramin, chloramphenicol, bleomycin, and florfenicol. These antibiotic resistance gene together with virulence factor- associated genes, were associated with 16 bacterial genera belonging to prevailing drug-resistant bacteria taxa. Co-composting was associated with a reduction in the relative abundance of over 93% for the detected ARGs, except that for tetracycline and florfenicol-resistance genes. Partial least squares path modeling identified associations among temperature, physicochemical parameters, bacterial hosts, and ARG abundance, suggesting that both biotic and abiotic factors may be associated with the observed ARG dynamics. A substantial decrease in the relative abundance of VF-associated genes was also observed throughout composting, and several VF categories were no longer detected in the final compost samples.ConclusionUltimately, this study indicates that controlled co- composting is a promising approach for the upgrading of dog hair by-products, enabling the production of a mature and stable biofertilizer while reducing the relative abundance and detection of genetic determinants associated with antimicrobial resistance and virulence-related functions.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1890837",
+    "date": "2026-11-25",
+    "authors": "Jaunius Urbonavičius",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1890837",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "metagenom",
+        "metagenomics",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5632,
+    "collected_at": "2026-11-25T15:46:29.923395+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-25",
+    "related_dois": [
+      "10.3389/fmicb.2026.1890837"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3a223a963096864958fa6115621947eb5cd083d85a51e5828c0127e524677c6b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:20:52.144193+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "69ee8c5839a220a8a25fa319ff750f0da313a6b1ae76d44a2cd440317175a6fc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:20:52.144193+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ショットガンメタゲノミクスシーケンシングにより同定された、ケラチン副産物の共堆肥化における微生物多様性、機能的代謝経路、抗生物質耐性および病原性因子関連遺伝子量の変化",
+    "abstract_ja": "はじめに犬のグルーミングサロンの増加に伴い、大量の犬毛副産物が発生しており、その大部分は有効利用されずに廃棄されている。共堆肥化は、有機物を価値ある製品へと変換することで持続可能かつ環境に優しい解決策を提供し、これにより副産物の高付加価値化と資源回収を促進する。方法本研究では、ショットガンDNAシーケンシングおよびその後のバイオインフォマティクス解析を用いて、犬毛および食品副産物の共堆肥化過程における微生物多様性の変化と、抗生物質耐性遺伝子（ARG）および病原性因子（VF）関連遺伝子の動態との関連性を調査した。結果および考察堆肥化の各段階において微生物群集組成に差異が認められ、Proteobacteria、Firmicutes、Actinobacteria、Bacteroidetes、Ascomycota、およびBasidiomycotaが主要な門として同定された。機能プロファイリングの結果、堆肥化プロセス全体を通じてタンパク質および炭水化物代謝が主要な予測代謝経路であることが明らかとなり、これは副産物がタンパク質および炭水化物に富んでいる性質を反映している。計1,939件のARG関連配列ヒットが検出され、アミノグリコシド系、β-ラクタム系、トリメトプリム、バンコマイシン、テトラサイクリン系、ストレプトグラミン、クロラムフェニコール、ブレオマイシン、およびフロルフェニコールへの耐性を付与していた。これらの抗生物質耐性遺伝子は、病原性因子関連遺伝子とともに、主要な薬剤耐性細菌分類群に属する16の細菌属に関連していた。共堆肥化により、検出されたARGの相対存在量は93%以上減少したが、テトラサイクリン系およびフロルフェニコール耐性遺伝子については例外であった。部分最小二乗経路モデリングにより、温度、物理化学的パラメータ、細菌宿主、およびARG存在量の間に関連性が認められ、生物的および非生物的要因の両方が観察されたARG動態に関連している可能性が示唆された。また、堆肥化の全過程を通じてVF関連遺伝子の相対存在量の著しい減少が認められ、最終堆肥サンプルではいくつかのVFカテゴリーが検出されなくなった。結論最終的に、本研究は、制御された共堆肥化が犬毛副産物の高付加価値化に向けた有望なアプローチであり、抗微生物薬耐性および病原性関連機能に関連する遺伝的決定因子の相対存在量と検出頻度を低減させつつ、成熟し安定した生物肥料の生産を可能にすることを示している。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.2014400",
+    "title": "Histamine-functionalized polylactide nanoparticles delivering doxorubicin reduce vascular-like network development in the milieu of selected Helicobacter pylori components in AGS gastric cancer cells in vitro",
+    "abstract": "Vasculogenic mimicry (VM) describes the ability of cancer cells to organize into vascular-like structures and may contribute to gastric cancer progression. This study examined whether purified Helicobacter pylori components, recombinant cytotoxin-associated gene A (rCagA) protein and lipopolysaccharide (LPS), or Escherichia coli LPS, affect vascular-like network formation by AGS gastric cancer cells cultured on Matrigel. Furthermore, the effects towards VM process of histamine-functionalized polylactide nanoparticles loaded with doxorubicin (PLA-His-DOX) have been studied compared to free doxorubicin (DOX) at equivalent nominal DOX concentrations (1 μg/mL). VM network topology was quantified by image analysis; selected VM- and angiogenesis-associated markers were assessed by immunofluorescence and enzyme-linked immunosorbent assay (ELISA). The effects on selected transcripts were assessed by quantitative real-time polymerase chain reaction (qPCR). AGS gastric cancer (GC) cells spontaneously developed vascular-like networks however in the presence of H. pylori rCagA the number of branching points was increased in conjunction with, higher vascular endothelial growth factor (VEGF) and VEGF receptor 2 (VEGFR2) immunofluorescence signals. Changes in endoglin and vascular endothelial cadherin (VE-cadherin) varied dependently on treatment variant. Both free DOX and PLA-His-DOX reduced vascular-like network formation during simultaneous exposure to the studied bacterial components. Histamine H2 and H4 receptor antagonists reduced fluorescence of DOX or PLA-His-DOX, although without establishing uptake of intact nanoparticles. Obtained data suggest the potential role of selected H. pylori components in driving the development of vascular-like network by AGS GC cells in vitro and the ability of PLA-His-DOX NPs to inhibit this process. Further studies are necessary to confirm these data using H. pylori – related GC models and more physiologically representative conditions.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.2014400",
+    "date": "2026-11-25",
+    "authors": "Weronika Gonciarz",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.2014400",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5633,
+    "collected_at": "2026-11-25T15:46:29.923395+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-25",
+    "related_dois": [
+      "10.3389/fmicb.2026.2014400"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9f967bd1430250e52e9b45609adbeef7d766adecff63454490db8f32456c7cdc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:20:52.144193+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "77b5876d8aa196ed36801e34075285b15f71708ffca6137b897d2a0c2b6c9926",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:20:52.144193+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ドキソルビシンを送達するヒスタミン機能化ポリラクチドナノ粒子は、in vitroにおいてAGS胃癌細胞内の特定のヘリコバクター・ピロリ成分の存在下で、血管様ネットワークの形成を抑制する。",
+    "abstract_ja": "血管様模倣（VM）とは、がん細胞が血管様構造を形成する能力を指し、胃がんの進展に寄与する可能性がある。本研究では、精製したヘリコバクター・ピロリ（H. pylori）成分、組換えサイトトキシン関連遺伝子A（rCagA）タンパク質およびリポ多糖（LPS）、ならびに大腸菌（Escherichia coli）LPSが、マトリゲル上で培養したAGS胃がん細胞による血管様ネットワーク形成に影響を及ぼすかを検討した。さらに、ドキソルビシンを担持したヒスタミン機能化ポリラクチドナノ粒子（PLA-His-DOX）が、同等の公称DOX濃度（1 μg/mL）において、遊離ドキソルビシン（DOX）と比較してVMプロセスに及ぼす影響を検討した。VMネットワークのトポロジーは画像解析により定量化し、選定したVMおよび血管新生関連マーカーを免疫蛍光法および酵素結合免疫吸着法（ELISA）により評価した。選定した転写産物への影響は、定量リアルタイムポリメラーゼ連鎖反応（qPCR）により評価した。AGS胃がん（GC）細胞は自発的に血管様ネットワークを形成したが、H. pylori rCagA存在下では、血管内皮増殖因子（VEGF）およびVEGF受容体2（VEGFR2）の免疫蛍光シグナルの上昇に伴い、分枝点の数が増加した。エンドグリンおよび血管内皮カドヘリン（VE-cadherin）の変化は、処理条件によって異なっていた。遊離DOXおよびPLA-His-DOXは、検討した細菌成分に同時に曝露させた条件下で、血管様ネットワーク形成を減少させた。ヒスタミンH2およびH4受容体拮抗薬は、DOXまたはPLA-His-DOXの蛍光を減少させたが、完全なナノ粒子の取り込みは認められなかった。得られたデータは、in vitroにおいて選定したH. pylori成分がAGS GC細胞による血管様ネットワーク形成を誘導する潜在的な役割を持つこと、およびPLA-His-DOX NPsがこのプロセスを抑制する能力を有することを示唆している。これらのデータを、H. pylori関連GCモデルおよびより生理学的に代表的な条件下で確認するためには、さらなる研究が必要である。"
   }
 ]
