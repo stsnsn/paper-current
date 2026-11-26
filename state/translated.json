@@ -342375,5 +342375,290 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "Trichoderma ghanense N28による転写・代謝ネットワークのリプログラミングは、Reaumuria soongoricaの実生における栄養成長と耐塩性を向上させる。",
     "abstract_ja": "土壌塩類化は、乾燥および半乾燥地域における植生回復と砂漠生態系の安定性を著しく阻害する世界的な生態学的問題である。植物成長促進菌（PGPF）は、塩類・アルカリ性土壌の改善および植物の耐塩性向上において重要な役割を果たす。Reaumuria soongoricaは、中国北西部の塩類化した砂漠において優占的な構成低木である。しかし、R. soongoricaに関連する根圏PGPFの探索、およびこれらの菌類の機能検証と耐塩性を媒介する調節機構に関する報告はほとんどなされていない。本研究では、R. soongoricaの根圏土壌からTrichoderma ghanense N28株を単離した。塩ストレス環境を模した400 mM NaCl処理下でのポット実験をマルチオミクス手法と組み合わせて実施し、塩ストレス下にあるR. soongorica実生の成長および耐塩性に対するN28の調節効果と分子機構を系統的に解明した。N28の接種は、イオンバランス、光合成能、浸透圧調節、および抗酸化防御を協調的に調節することで塩類誘発性の損傷を効果的に軽減し、実生の成長を促進して酸化ストレスを緩和した。N28は、植物の抗酸化経路、二次代謝、および光合成系の協調的な調節を通じて、R. soongoricaの耐塩性を高め、バイオマス蓄積を促進した。ポット実験で検証された本株は、R. soongoricaの実生増殖および苗圃栽培における有望な接種候補であり、実生段階の砂漠植物実生の耐塩性を向上させるための実現可能な微生物接種スキームを提供するとともに、自然植生回復シナリオ下での後続の接種試験に向けた菌株の確保と技術的支援をもたらすものである。"
+  },
+  {
+    "id": "10.1093/bioinformatics/btag871",
+    "title": "SPAMO: Spatial Multi-Omics Integration via Dual-Graph Encoding and Neighborhood-Constrained Cross-Modal Fusion",
+    "abstract": "AbstractMotivationIn spatial omics, multi-omics data have the potential to delineate tissue architecture more faithfully than any single modality, but unsupervised spatial domain detection remains difficult because different modalities exhibit distinct sparsity patterns and noise characteristics. Existing methods have made progress in combining spatial and multimodal signals, yet how to introduce cross-modal information while preserving reliable modality-specific representations and avoiding non-local spot mixing remains insufficiently explored. To address this challenge, we present SPAMO, a cross-modal fusion framework for unsupervised spatial multi-omics domain detection.ResultsSPAMO learns modality-specific graph representations by combining a spatial-based KNN graph shared across modalities with a modality-specific feature based KNN graph, performs neighborhood-constrained cross-modal attention over co-located and neighboring spots, and uses gated residual fusion to integrate unimodal and cross-modal information. Across Human Lymph Node, Mouse Brain, and simulated benchmarks, SPAMO achieves competitive or improved domain-detection performance, with the clearest gains on real datasets. These results support neighborhood-constrained cross-modal fusion as an effective strategy for retaining modality-specific representations while incorporating complementary multi-omics information.Availability and implementationCode is available on GitHub (https://github.com/ai4nucleome/SPAMO). The data and archived source code are available on Zenodo (https://doi.org/10.5281/zenodo.23411574).Supplementary informationSupplementary data are available online.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag871",
+    "date": "2026-11-26",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag871/9135727?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5764,
+    "collected_at": "2026-11-26T19:48:23.275553+00:00",
+    "collected_date": "2026-11-27",
+    "sources": [
+      "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1093/bioinformatics/btag871"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f7117bfa5f464912342e6847a8b9309e3a129e8bcecad9e58743e7193f2fc7c9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T20:09:51.832875+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "dc3fb7400f5380195c8f976c9a644e2df2f1d2af5d140313cd7a78c70d948fc6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T20:09:51.832875+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "SPAMO: デュアルグラフ符号化と近傍制約付きクロスモーダル融合による空間マルチオミクス統合",
+    "abstract_ja": "要旨動機空間オミクスにおいて、マルチオミクスデータは単一のモダリティよりも忠実に組織構造を記述できる可能性を秘めているが、モダリティごとに疎性パターンやノイズ特性が異なるため、教師なしの空間ドメイン検出は依然として困難である。既存の手法では空間信号とマルチモーダル信号の統合において進展が見られるものの、信頼性の高いモダリティ固有の表現を保持しつつ、非局所的なスポット混合を回避してクロスモーダル情報を導入する方法については、まだ十分に検討されていない。この課題に対処するため、我々は教師なし空間マルチオミクスドメイン検出のためのクロスモーダル融合フレームワークであるSPAMOを提案する。結果SPAMOは、モダリティ間で共有される空間ベースのKNNグラフとモダリティ固有の特徴量ベースのKNNグラフを組み合わせることでモダリティ固有のグラフ表現を学習し、共局在するスポットおよび隣接スポットに対して近傍制約付きクロスモーダルアテンションを行い、ゲート付き残差融合を用いてユニモーダル情報とクロスモーダル情報を統合する。ヒトリンパ節、マウス脳、およびシミュレーションベンチマークにおいて、SPAMOは同等または向上したドメイン検出性能を達成し、特に実データセットにおいて最も顕著な性能向上を示した。これらの結果は、補完的なマルチオミクス情報を取り入れつつモダリティ固有の表現を保持するための有効な戦略として、近傍制約付きクロスモーダル融合を支持するものである。利用可能性と実装コードはGitHub (https://github.com/ai4nucleome/SPAMO) で公開されている。データおよびアーカイブ済みのソースコードはZenodo (https://doi.org/10.5281/zenodo.23411574) で公開されている。補足情報補足データはオンラインで公開されている。"
+  },
+  {
+    "id": "10.1186/s40793-026-00986-5",
+    "title": "Viral diversity and defense-system variation in anammox bacteria",
+    "abstract": "Anaerobic ammonium oxidation (anammox) bacteria are keystone autotrophs in the global nitrogen cycle, yet their macroevolutionary trajectories and viral interactions remain poorly resolved. Here, we assembled a globally distributed anammox genome dataset and integrated phylogenomics, molecular dating, defense-system profiling, and viromics to reconstruct their evolutionary history across diverse ecosystems. Molecular-clock analyses dated the divergence between Candidatus Scalinduaceae and Ca. Brocadiaceae to approximately 2.7 Ga, predating the Great Oxidation Event. These lineages, predominantly associated with marine and terrestrial/freshwater environments, respectively, exhibited distinct genomic characteristics, with Ca. Scalinduaceae showing lower GC content, lower insertion-sequence density and fewer defense systems. Within Ca. Scalinduaceae, genomes recovered from engineered environments further exhibited greater numbers and densities of defense systems than those from natural environments, revealing habitat-associated variation in defense repertoires. To explore these patterns in the context of viral interactions, we identified a diverse anammox-associated virome, including seven putatively novel viral clades with predicted counter-defense and metabolic capabilities. CRISPR-based host–virus linkage analyses further revealed more extensive viral associations in Ca. Brocadiaceae than in Ca. Scalinduaceae. Together, these findings reveal deep evolutionary divergence and distinct defense repertoires among anammox bacteria and suggest that their previously underexplored viral associations may play an important role in ecological adaptation.",
+    "journal": "Environmental Microbiome",
+    "doi": "10.1186/s40793-026-00986-5",
+    "date": "2026-11-26",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s40793-026-00986-5",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "viral",
+        "virome",
+        "virus"
+      ],
+      "context": {
+        "marine": [
+          "freshwater",
+          "marine"
+        ],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenomic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=40793",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5770,
+    "collected_at": "2026-11-26T19:48:23.275553+00:00",
+    "collected_date": "2026-11-27",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=40793"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1186/s40793-026-00986-5"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b4d440cd6616c0ebce9d4fc41e8d1d51ec54d82a639b9608cfbf9bf664d3de1a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T20:09:51.832875+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "811173773e2fc79c40c071bc3b3588de018393f3c9e432efb4c05263ed43c17f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T20:09:51.832875+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "アナモックス細菌におけるウイルス多様性と防御システムの変異",
+    "abstract_ja": "嫌気性アンモニウム酸化（アナモックス）細菌は、地球規模の窒素循環におけるキーストーン自栄養細菌であるが、その大進化の軌跡やウイルスとの相互作用については依然として十分に解明されていない。本研究では、世界的に分布するアナモックスゲノムデータセットを構築し、系統ゲノミクス、分子年代測定、防御システムプロファイリング、およびウイルスゲノミクスを統合することで、多様な生態系における進化史を再構築した。分子時計解析により、Candidatus ScalinduaceaeとCa. Brocadiaceaeの分岐は約2.7 Gaと推定され、大酸化イベントよりも前に起こったことが明らかになった。主にそれぞれ海洋環境および陸域・淡水環境に関連するこれらの系統は、異なるゲノム特性を示し、Ca. ScalinduaceaeはGC含量、挿入配列密度、および防御システムの数がより少なかった。Ca. Scalinduaceae内においても、人工環境から得られたゲノムは、自然環境由来のものよりも防御システムの数と密度が高く、生息環境に関連した防御レパートリーの変動が明らかになった。これらのパターンをウイルス相互作用の観点から検討するため、我々は多様なアナモックス関連ウイルス叢を同定し、その中には、対抗防御能および代謝能を有すると予測される7つの新規候補ウイルスクレードが含まれていた。CRISPRを用いた宿主・ウイルス連鎖解析により、Ca. BrocadiaceaeではCa. Scalinduaceaeよりも広範なウイルス関連が認められた。以上の知見は、アナモックス細菌間における深い進化的分岐と明確な防御レパートリーを明らかにするとともに、これまで十分に調査されてこなかったウイルス関連が生態学的適応において重要な役割を果たしている可能性を示唆している。"
+  },
+  {
+    "id": "10.3389/fmars.2026.2021262",
+    "title": "Sustainable aquafeeds: integrating alternative proteins, feed biotechnology, and gut microbiome modulation for one health aquaculture",
+    "abstract": "The aquaculture industry supplied 94.4 million tonnes of aquatic animals in 2022, which constituted nearly half of global aquatic animal production, yet most feeds still rely on fishmeal and fish oil from forage-fish fisheries that cannot be scaled any further. This review considers alternative proteins, feed biotechnology, and gut microbiome modulation as one connected system rather than three separate research lines. It covers six groups of alternative proteins, eight processing and biotechnology tools (microbiological, biochemical, thermal, and chemical), and nine microbiome modulation strategies, and it compares marine carnivorous species with freshwater omnivorous species. Replacement ceilings depend largely on habitat and feeding guilds, where freshwater omnivores such as tilapia tolerate high plant-protein inclusion, whereas marine carnivores usually keep growth and gut health only up to roughly 20 to 35% fishmeal protein replacement with a single ingredient. Processing that removes anti-nutritional factors or opens cell walls raises these ceilings in some trials but not in others. The gut microbiome is a plausible mediator between ingredient and host health; substrate supply and taxonomic shifts are better documented than microbial metabolites and signaling, and causal evidence is scarce. From a One Health perspective, lower antimicrobial use, reduced nutrient discharge, and preserved fillet omega-3 content have each been supported in part, but never together for the same feed. A central gap is the lack of studies linking life cycle assessment to microbiome-mediated health outcomes. Future work should focus on precision aquafeeds, artificial intelligence (AI)-assisted formulation, and non-lethal biomarkers.",
+    "journal": "Frontiers in Marine Science",
+    "doi": "10.3389/fmars.2026.2021262",
+    "date": "2026-11-26",
+    "authors": "Oyas A. Asimi",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmars.2026.2021262",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial",
+        "microbiological",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [
+          "aquatic",
+          "freshwater",
+          "marine"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/marine-science/rss",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5769,
+    "collected_at": "2026-11-26T19:48:23.275553+00:00",
+    "collected_date": "2026-11-27",
+    "sources": [
+      "https://www.frontiersin.org/journals/marine-science/rss"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.3389/fmars.2026.2021262"
+    ],
+    "translation": {
+      "title": {
+        "hash": "1ceead438973b315b4f00aa4aa9528950e7d300d0e6d1afe6f73e0ecfbfb2687",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T20:09:51.832875+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "586a1f3a8c79d36ad45a106011850109a641267e4518211c878bcbd68dc16fcd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T20:09:51.832875+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "持続可能な水産飼料：代替タンパク質、飼料バイオテクノロジー、および腸内微生物叢調節の統合による「ワンヘルス」水産養殖",
+    "abstract_ja": "水産養殖業は2022年に9,440万トンの水産動物を供給し、これは世界の水産動物生産量のほぼ半分を占めたが、飼料の大部分は依然として、これ以上の規模拡大が不可能な牧草魚漁業由来の魚粉や魚油に依存している。本総説では、代替タンパク質、飼料バイオテクノロジー、および腸内マイクロバイオーム調節を、3つの独立した研究領域ではなく、一つの連関したシステムとして考察する。代替タンパク質の6つのグループ、8つの加工・バイオテクノロジーツール（微生物学的、生化学的、熱的、化学的）、および9つのマイクロバイオーム調節戦略を取り上げ、海洋性肉食種と淡水性雑食種を比較する。代替上限値は主に生息環境や摂食ギルドに依存しており、ティラピアなどの淡水性雑食種は高い植物性タンパク質含有率に耐えうる一方、海洋性肉食種は通常、単一原料による魚粉タンパク質の代替率が概ね20～35%程度までしか成長と腸管の健康を維持できない。抗栄養因子を除去したり細胞壁を開いたりする加工法は、一部の試験ではこれらの上限値を引き上げるが、他の試験では引き上げない。腸内マイクロバイオームは、原料と宿主の健康をつなぐ妥当な媒介因子となり得る。基質供給や分類学的な変動は、微生物代謝物やシグナル伝達よりも十分に立証されているが、因果関係を示す証拠は乏しい。ワンヘルスの観点からは、抗菌剤の使用量削減、栄養塩流出の低減、およびフィレのオメガ3含有量の維持は、それぞれ部分的には支持されているが、同一の飼料においてこれらが同時に支持された例はない。中心的な課題は、ライフサイクルアセスメントをマイクロバイオームを介した健康アウトカムに結びつける研究が不足している点である。今後の研究では、精密水産飼料、人工知能（AI）支援による配合、および非致死性バイオマーカーに焦点を当てるべきである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1964698",
+    "title": "Methicillin-resistant Staphylococcus aureus in retail fish imported into Germany: multidrug resistance and toxigenic potential",
+    "abstract": "IntroductionFish is a popular food that is traded worldwide. However, international fish trade might be a potential risk factor for the cross-border spread of pathogens. Methicillin-resistant Staphylococcus aureus (MRSA) are of high concern regarding human and animal health and listed as high-priority pathogen by the World Health Organization. In this study, we characterized 123 MRSA isolated from fish (mostly pangasius) imported into Germany from Asia.MethodsThe fish was sampled at retail in Germany in 2019–2025 and whole-genome sequencing and antimicrobial susceptibility testing were performed on the isolated MRSA.ResultsMolecular typing revealed 18 sequence types (STs), 23 spa-types and 6 staphylococcal cassette chromosome (SCC)mec-types. The most prevalent MRSA lineage was ST188-t189-SCCmecIVa (41.5%, 51/123) followed by ST188-t2174-SCCmecIVa (10.6%, 13/123) and ST1232-t034-SCCmecV (8.9%, 11/123). Multidrug resistance was widespread with 94.3% (116/123) of the MRSA exhibiting resistances to at least three antimicrobial classes. The most common antimicrobial resistance profile included ciprofloxacin, clindamycin, erythromycin, cefoxitin, gentamicin, kanamycin, penicillin and trimethoprim and was determined for 29.3% (36/123) of the isolates. Furthermore, we found ten different enterotoxin gene profiles among the MRSA isolates. The toxic shock syndrome toxin gene tsst was detected in 6.5% (8/123), the Panton-Valentine leucocidin (PVL) genes lukF-PV and lukS-PV in 10.6% (13/123) and the exfoliative toxin genes eta and etb in 0.8% (1/123) of the isolates.ConclusionOccurrence of multidrug-resistant MRSA equipped with major human virulence factor genes in imported tropical fish is concerning. Strict hygiene measures throughout the entire fish-processing chain should be applied to avoid contamination and strengthen public health.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1964698",
+    "date": "2026-11-26",
+    "authors": "Sven Maurischat",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1964698",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5765,
+    "collected_at": "2026-11-26T19:48:23.275553+00:00",
+    "collected_date": "2026-11-27",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.3389/fmicb.2026.1964698"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ee8664b9657d47a788e481b8433695940e6bfd3eee566960dd57a7bd1ef1cfdf",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T20:09:51.832875+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "efff19f742959794c00cdabaeac53c8ada54e4ba9be3cd4696963180ee7abfcc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T20:09:51.832875+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ドイツに輸入された小売用魚類におけるメチシリン耐性黄色ブドウ球菌：多剤耐性と毒素産生能",
+    "abstract_ja": "はじめに魚類は世界的に取引されている人気の食品である。しかし、国際的な魚類貿易は、病原体の国境を越えた拡散における潜在的なリスク要因となり得る。メチシリン耐性黄色ブドウ球菌（MRSA）は、ヒトおよび動物の健康に関して高い懸念事項となっており、世界保健機関（WHO）によって優先度の高い病原体として指定されている。本研究では、アジアからドイツに輸入された魚類（主にパンガシウス）から分離された123株のMRSAの特性解析を行った。方法2019年から2025年にかけてドイツの小売店で魚類を採取し、分離されたMRSAに対して全ゲノム解析および薬剤感受性試験を実施した。結果分子タイピングの結果、18種類の配列型（ST）、23種類のスパ型、および6種類のブドウ球菌カセット染色体（SCC）mec型が認められた。最も頻度の高いMRSA系統はST188-t189-SCCmecIVa（41.5%, 51/123）であり、次いでST188-t2174-SCCmecIVa（10.6%, 13/123）、ST1232-t034-SCCmecV（8.9%, 11/123）であった。多剤耐性は広く認められ、MRSAの94.3%（116/123）が少なくとも3つの薬剤クラスに対して耐性を示した。最も一般的な薬剤耐性プロファイルには、シプロフロキサシン、クリンダマイシン、エリスロマイシン、セフォキシチン、ゲンタマイシン、カナマイシン、ペニシリン、およびトリメトプリムが含まれ、分離株の29.3%（36/123）で認められた。さらに、MRSA分離株において10種類の異なる腸管毒素遺伝子プロファイルが認められた。毒性ショック症候群毒素遺伝子tsstは6.5%（8/123）で、パントン・バレンタイン・ロイコシジン（PVL）遺伝子lukF-PVおよびlukS-PVは10.6%（13/123）で、剥離毒素遺伝子etaおよびetbは0.8%（1/123）の分離株で検出された。結論輸入された熱帯魚において、主要なヒト病原性因子遺伝子を有する多剤耐性MRSAの出現は懸念される。汚染を回避し公衆衛生を強化するため、魚類加工チェーン全体を通じて厳格な衛生管理措置を講じるべきである。"
   }
 ]
