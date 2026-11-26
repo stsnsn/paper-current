@@ -342307,5 +342307,138 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "長期飢餓、栄養誘起性再興、および海洋細菌分類群の生物地理学的分布",
     "abstract_ja": "自然生態系において、微生物は予測不能な環境変動に直面しており、栄養飢餓は普遍的なストレス要因となっている。マリアナ海溝地域の表層水は慢性的に貧栄養状態にあり、微生物群集は長期的な栄養欠乏と断続的な栄養パルスを繰り返している。長期の飢餓下で分子的な持続性を示し、栄養補充後に相対的な再興を示す細菌分類群を同定するため、我々はマリアナ海溝の表層海水を栄養欠乏条件下で24か月間暗所で培養し、その後、飢餓状態の群集に希釈複合有機培地（1/100濃度の2216E）または単純な藻類由来基質（Synechococcus sp. PCC7002 ライセート）を添加した。実験単位として、基質処理ごとに2本の反復バレル、1本の無菌人工海水対照バレル、およびPCC7002ライセート粉末を添加した1本の無菌人工海水バレルを用いた。群集の応答は、16S rRNA遺伝子（DNA）および16S rRNA（cDNA）のペアアンプリコンシーケンシングによって特性評価した。直接的な細胞計数は行わず、すべての存在量値は絶対的な細胞存在量ではなく、相対的なリード存在量である。24か月後、溶存有機炭素は約10%減少したが、群集構造は著しく再編された。当初稀であった10種のOTU（長期培養後にはそれぞれ1%となり、これは微生物シードバンクの概念と一致する）が、栄養添加によって29種のOTUの再興が誘発され、これらは処理特異的な明確な選好性を持つ3つの応答タイプに分かれた。16S rRNA:16S rRNA遺伝子比の上昇は、再興した個体群の転写活性の亢進を示しており、添加後1日目に最初の検出可能な応答が認められた。39か所のTara Oceans表層観測所との照合により、解析可能な飢餓耐性属の75%、および解析可能な再興属の82%が、太平洋、大西洋、インド洋、および南氷洋にわたる30か所以上の観測所で認められた。これらの結果は、飢餓耐性と栄養応答性が広範な生物地理学的分布に関連する生態学的形質であることを示唆しており、貧栄養海洋における微生物の生活史戦略と大規模な生物地理学的パターンとの間に妥当な関連性があることを支持しているが、我々の相関データでは因果関係を立証することはできない。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.2027955",
+    "title": "Effects of different prebiotics in patients with inflammatory bowel disease: an in vitro fermentation model",
+    "abstract": "BackgroundInflammatory bowel disease (IBD) is a chronic and recurrent disorder where gut microbiota modulation plays a critical therapeutic role. Therefore, the aim of this study was to apply an in vitro fermentation model to compare the effects of different prebiotics on samples from IBD patients, with a particular focus on the differences between the active disease phase and the remission phase.MethodsFecal samples from recruited IBD patients were subjected to an in vitro fermentation model using media supplemented with five different prebiotics: lactulose (LAU), fructooligosaccharides (FOS), isomaltooligosaccharides (IMO), mannan oligosaccharides (MOS), and xylooligosaccharides (XOS). Changes in Lactobacillus and Bifidobacterium abundances, short-chain fatty acids (SCFAs), and gas production were evaluated before and after fermentation.ResultsLactulose promoted gas production in remission-stage IBD patients. Treatment with FOS enhanced Lactobacillus and Bifidobacterium proliferation in remission IBD. Mannan oligosaccharides (MOS) predominantly promoted Lactobacillus in active IBD, while increasing Bifidobacterium and gas production in remission IBD. In addition, isomaltooligosaccharides (IMO) increased acetic acid production by elevating Bifidobacterium abundance, particularly in remission. Furthermore, xylooligosaccharides (XOS) increased Bifidobacterium abundances in both active and remission phase of IBD.ConclusionTreatment with dietary prebiotics (including FOS, IMO, MOS, and XOS) improves the Lactobacillus and Bifidobacterium abundances and SCFAs in patients with remission-stage IBD, with MOS and XOS additionally demonstrating favorable impacts during the active phase. These findings highlight the therapeutic potential of specific prebiotics, particularly XOS, in dietary and clinical management strategies for IBD.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.2027955",
+    "date": "2026-11-26",
+    "authors": "Zhenyu Zhang",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.2027955",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5736,
+    "collected_at": "2026-11-26T09:41:35.790521+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.3389/fmicb.2026.2027955"
+    ],
+    "translation": {
+      "title": {
+        "hash": "51ad9a1bcf212ad585b467b431a297f14548ce35382d713e23b95f456fa0d2b5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T10:34:01.164541+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9e76a4556b3f72c6dbe0b543c9d8db2437df87cda3e82dcba3394b2845e84710",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T10:34:01.164541+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "炎症性腸疾患患者における各種プレバイオティクスの効果：in vitro発酵モデル",
+    "abstract_ja": "背景炎症性腸疾患（IBD）は慢性かつ再発性の疾患であり、腸内細菌叢の調節が治療において極めて重要な役割を果たす。したがって、本研究では、in vitro発酵モデルを用いて、異なるプレバイオティクスがIBD患者の検体に及ぼす影響を比較することを目的とし、特に活動期と寛解期における差異に着目した。方法募集したIBD患者の便検体に対し、5種類の異なるプレバイオティクス（ラクツロース（LAU）、フラクトオリゴ糖（FOS）、イソマルトオリゴ糖（IMO）、マンナンオリゴ糖（MOS）、およびキシオリゴ糖（XOS））を添加した培地を用いたin vitro発酵モデルを実施した。発酵前後におけるラクトバチルス属およびビフィズス菌属の存在量、短鎖脂肪酸（SCFAs）、およびガス産生量の変化を評価した。結果ラクツロースは、寛解期のIBD患者においてガス産生を促進した。FOSによる処置は、寛解期IBDにおけるラクトバチルス属およびビフィズス菌属の増殖を亢進させた。マンナンオリゴ糖（MOS）は、活動期IBDにおいて主にラクトバチルス属を増殖させた一方、寛解期IBDではビフィズス菌属およびガス産生量を増加させた。さらに、イソマルトオリゴ糖（IMO）は、特に寛解期においてビフィズス菌属の存在量を増加させることで、酢酸産生量を増加させた。また、キシオリゴ糖（XOS）は、IBDの活動期および寛解期の両方においてビフィズス菌属の存在量を増加させた。結論食事性プレバイオティクス（FOS、IMO、MOS、およびXOSを含む）による治療は、寛解期IBD患者においてラクトバチルス属およびビフィズス菌属の存在量ならびにSCFAsを改善させ、さらにMOSおよびXOSは活動期においても良好な効果を示した。これらの知見は、IBDの食事療法および臨床管理戦略における特定のプレバイオティクス、特にXOSの治療的可能性を浮き彫りにするものである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1962118",
+    "title": "Trichoderma ghanense N28-driven reprogramming of transcriptional and metabolic networks enhances vegetative growth and salinity tolerance in Reaumuria soongorica seedlings",
+    "abstract": "Soil salinization is a global ecological problem that seriously restricts vegetation restoration and the stability of desert ecosystems in arid and semi-arid regions. Plant growth-promoting fungi (PGPF) play an important role in improving saline–alkali soils and enhancing the salt tolerance of plants. Reaumuria soongorica is a dominant constructive shrub in the salinized deserts of northwest China. However, the exploration of rhizosphere PGPF associated with R. soongorica, together with the functional verification of these fungi and the regulatory mechanisms by which they mediate salt tolerance, has been rarely reported. In this study, the strain Trichoderma ghanense N28 was isolated from the rhizosphere soil of R. soongorica. A pot experiment under 400 mM NaCl treatment simulating salt-stressed habitat conditions was conducted in combination with multi-omics approaches to systematically elucidate the regulatory effects and molecular mechanisms of N28 on the growth and salt tolerance of R. soongorica seedlings under salt stress. Inoculation with N28 effectively alleviated salt-induced damage and promoted seedling growth by coordinately regulating ion balance, photosynthetic performance, osmotic adjustment, and antioxidant defense, thereby mitigating oxidative stress. N28 enhanced the salt tolerance of R. soongorica and promoted biomass accumulation through the coordinated regulation of plant antioxidant pathways, secondary metabolism, and the photosynthetic system. Verified in pot experiments, this strain is a promising candidate inoculant for seedling propagation and nursery cultivation of R. soongorica, providing a feasible microbial inoculation scheme for improving the salt tolerance of desert plant seedlings at the seedling stage, and offering a strain reserve and technical support for subsequent inoculation trials under natural vegetation restoration scenarios.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1962118",
+    "date": "2026-11-26",
+    "authors": "Davaa Munkhtseseg",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1962118",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungi",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5737,
+    "collected_at": "2026-11-26T09:41:35.790521+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.3389/fmicb.2026.1962118"
+    ],
+    "translation": {
+      "title": {
+        "hash": "cc6fd5a4bd06e9cc709990961bd75d1d98d737b0a4258879259bf26a25521f4a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T10:34:01.164541+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "dd2a71e49e8d07e300b16636056593003262269f62be6c187f5bb9ea994049b1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T10:34:01.164541+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Trichoderma ghanense N28による転写・代謝ネットワークのリプログラミングは、Reaumuria soongoricaの実生における栄養成長と耐塩性を向上させる。",
+    "abstract_ja": "土壌塩類化は、乾燥および半乾燥地域における植生回復と砂漠生態系の安定性を著しく阻害する世界的な生態学的問題である。植物成長促進菌（PGPF）は、塩類・アルカリ性土壌の改善および植物の耐塩性向上において重要な役割を果たす。Reaumuria soongoricaは、中国北西部の塩類化した砂漠において優占的な構成低木である。しかし、R. soongoricaに関連する根圏PGPFの探索、およびこれらの菌類の機能検証と耐塩性を媒介する調節機構に関する報告はほとんどなされていない。本研究では、R. soongoricaの根圏土壌からTrichoderma ghanense N28株を単離した。塩ストレス環境を模した400 mM NaCl処理下でのポット実験をマルチオミクス手法と組み合わせて実施し、塩ストレス下にあるR. soongorica実生の成長および耐塩性に対するN28の調節効果と分子機構を系統的に解明した。N28の接種は、イオンバランス、光合成能、浸透圧調節、および抗酸化防御を協調的に調節することで塩類誘発性の損傷を効果的に軽減し、実生の成長を促進して酸化ストレスを緩和した。N28は、植物の抗酸化経路、二次代謝、および光合成系の協調的な調節を通じて、R. soongoricaの耐塩性を高め、バイオマス蓄積を促進した。ポット実験で検証された本株は、R. soongoricaの実生増殖および苗圃栽培における有望な接種候補であり、実生段階の砂漠植物実生の耐塩性を向上させるための実現可能な微生物接種スキームを提供するとともに、自然植生回復シナリオ下での後続の接種試験に向けた菌株の確保と技術的支援をもたらすものである。"
   }
 ]
