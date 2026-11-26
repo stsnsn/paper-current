@@ -465540,5 +465540,2965 @@
     "related_dois": [
       "10.1111/1758-2229.70441"
     ]
+  },
+  {
+    "id": "10.1093/ismejo/wrag295",
+    "title": "Cell death and growth dynamics shape DNA-replication-based estimates of microbial growth",
+    "abstract": "AbstractA widely used approach for estimating bacterial growth rates is the origin-to-terminus ratio, or peak-to-trough ratio (PTR), which estimates DNA replication activity from origin and terminus copy numbers. Although PTR is theoretically related to bacterial growth rate, it is often compared with, or used to reason about, changes in population size, which reflect the balance between cell division and loss. These quantities may therefore diverge when cell death is appreciable. Here, we used stochastic, cell-based modelling and controlled laboratory experiments to examine how cell death affects the relationship between PTR and changes in population size. We show that transient stress-induced mortality and heterogeneous survival can cause PTR to fail to reflect changes in population size but still reflect bacterial growth rate. We experimentally validated these predictions by exposing Escherichia coli to osmotic shock or antibiotics, and measuring change in population size and DNA replication activity. We further show that initial physiological state, lag before replication resumes, and abrupt growth arrest can alter the relationship between PTR and change in population size. In the presence of mortality, lag can make PTR more reflective of changes in population size whereas it decreases its correspondence with bacterial growth rate. Together, these results demonstrate how cell death and changes in replication dynamics can bias the interpretation of PTR-based estimates of population change under controlled laboratory conditions.",
+    "journal": "The ISME Journal",
+    "doi": "10.1093/ismejo/wrag295",
+    "date": "2026-11-25",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/ismej/advance-article/doi/10.1093/ismejo/wrag295/9122847?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "bacteria",
+        "bacterial",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6594/advanceAccess_4179.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5652,
+    "collected_at": "2026-11-26T00:30:40.165307+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://academic.oup.com/rss/site_6594/advanceAccess_4179.xml"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1093/ismejo/wrag295"
+    ]
+  },
+  {
+    "id": "10.1093/ismeco/ycag345",
+    "title": "Environmental selection structures the modular prokaryotic community turnover along a longitudinal North Atlantic transect",
+    "abstract": "AbstractMarine prokaryotic communities can exhibit high turnover within ocean basins, but the ecological level at which this occurs and the drivers affecting it are not yet fully understood. In this study, we analysed 16S rRNA gene metabarcoding data from surface waters along a 6,500 km longitudinal transect across the North Atlantic Ocean, from Florida to the Gulf of Cadiz. Community turnover was primarily influenced by environmental selection acting along a coupled spatial-environmental gradient. In particular, this turnover was evident through community replacement, but particularly through the reorganisation of four dominant ecological modules, defined as recurrent groups of co-occurring taxa, with distinct environmental preferences. Oceanographic connectivity provided a constrained dispersal context, where more connected samples displayed higher module similarity. Overall, these results demonstrate that biogeography along this transect is primarily structured by deterministic processes and emerges through the reorganisation of ecologically coherent modules within a hydrodynamically constrained context.",
+    "journal": "ISME Communications",
+    "doi": "10.1093/ismeco/ycag345",
+    "date": "2026-11-25",
+    "authors": "",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://academic.oup.com/ismecommun/advance-article/doi/10.1093/ismeco/ycag345/9122637?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "prokaryotic"
+      ],
+      "context": {
+        "marine": [
+          "ocean"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6596/advanceAccess_4180.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5653,
+    "collected_at": "2026-11-26T00:30:40.165307+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://academic.oup.com/rss/site_6596/advanceAccess_4180.xml"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1093/ismeco/ycag345"
+    ]
+  },
+  {
+    "id": "10.1093/femsyr/foag065",
+    "title": "Pantothenic acid deficiency induces strain-specific physiological adaptation in the wine yeasts Lachancea spp.",
+    "abstract": "AbstractPantothenic acid (PA; vitamin B5) is the precursor of Coenzyme A (CoA). Although this cofactor plays a critical role in metabolism, wine yeast requirement for PA is poorly understood, particularly in non-Saccharomyces yeasts, including the commercially relevant yeast genus Lachancea. This study aimed to investigate the PA requirement of Lachancea spp. and the impact of a deficiency on their physiology. Screening of 20 strains showed that most strains displayed impaired growth when inoculated in a medium devoid of PA. The data revealed differences in strains’ requirements for PA and intracellular CoA to sustain optimal development. Indeed, the most sensitive strains to PA deficiency were also those consuming the most exogenous PA and containing the highest intracellular CoA concentration. Deficiency in this vitamin also impacted cells morphology with smaller cells and cell aggregation, as well as an altered metabolic profile. This study contributes to the general knowledge on the PA requirement of one of the main winemaking yeast genus, Lachancea, the consequences on their physiology, and the potential impact on wine chemical composition.",
+    "journal": "FEMS Yeast Research",
+    "doi": "10.1093/femsyr/foag065",
+    "date": "2026-11-25",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/femsyr/advance-article/doi/10.1093/femsyr/foag065/9122385?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Saccharomyces",
+        "yeast",
+        "yeasts"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5387/advanceAccess_3248.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5654,
+    "collected_at": "2026-11-26T00:30:40.165307+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://academic.oup.com/rss/site_5387/advanceAccess_3248.xml"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1093/femsyr/foag065"
+    ]
+  },
+  {
+    "id": "10.3389/fmicb.2026.1983375",
+    "title": "Biochemical and structural characterisation of sugar aminotransferases from thermophilic microorganisms",
+    "abstract": "Sugar aminotransferase (SAT) enzymes catalyse the reversible transamination of keto-sugars to produce amino-sugars of significant pharmaceutical importance. These pyridoxal-5-phosphate (PLP)-dependent enzymes belong to aminotransferase family VI (DegT/DnrJ/EryC1) and are divided into three subgroups (VIα, Viβ, and VIγ) based on substrate specificity. In this study, we report the biochemical and structural characterisation of two thermophilic SAT enzymes, namely, SAT4182 and AVTA6, representing members of subgroups VIα and Viβ, respectively. SAT4182 was identified using metagenomic sequencing of water produced from the Troll oil reservoir and belongs to subgroup VIα, whilst AVTA6 was identified from the thermophilic archaeon Archaeoglobus veneficus and belongs to subgroup VIβ. Both enzymes were successfully overexpressed in Escherichia coli and purified to homogeneity. PLP binding and internal aldimine formation were confirmed spectrophotometrically, with SAT4182 maintaining a stable internal aldimine up to 90 °C and AVTA6 up to 80 °C. Amino acid donor screening revealed that SAT4182 accepts L-glutamate, L-histidine, and L-serine, whilst AVTA6 accepts L-glutamate and L-aspartate, demonstrating broad donor specificity across the two enyzmes. Both enzymes are thermophilic, with optimal activity above 50 °C. The biochemical assays specifically demonstrated the first half-reaction of the transamination mechanism. The crystal structures of SAT4182 and AVTA6 were solved to resolutions of 1.43 Å and 1.27 Å, respectively, revealing the conserved aspartate aminotransferase (AAT type I) fold with PLP covalently bound via a Schiff base to the active-site lysine. Structural analysis revealed that both enzymes complete their active sites at the dimer interface through cross-subunit contributions and identified several distinct structural features that may contribute to different substrate specificities. Analysis of structural features contributing to high thermal stability revealed that SAT4182 relies primarily on an extensive salt bridge network, whilst AVTA6 possesses a unique intrachain disulphide bond. These represent only the second and third thermophilic SAT structures from family VI determined to date, expanding our structural and mechanistic understanding of this enzyme family.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1983375",
+    "date": "2026-11-25",
+    "authors": "Jennifer A. Littlechild",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1983375",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "archaeon",
+        "metagenom",
+        "metagenomic",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5655,
+    "collected_at": "2026-11-26T00:30:40.165307+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.3389/fmicb.2026.1983375"
+    ]
+  },
+  {
+    "id": "10.1126/sciadv.aei1834",
+    "title": "Hybrid transverse thermoelectric conversion based on off-diagonal Peltier and Ettingshausen effects in a junction-less single material",
+    "abstract": "",
+    "journal": "Science Advances",
+    "doi": "10.1126/sciadv.aei1834",
+    "date": "2026-11-25",
+    "authors": "Atsushi Takahagi, Yosuke Goto, Masayuki Murata, Hosei Nagano, Ken-ichi Uchida",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/sciadv.aei1834?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5656,
+    "collected_at": "2026-11-26T00:30:40.165307+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1126/sciadv.aei1834"
+    ]
+  },
+  {
+    "id": "10.1126/sciadv.aea9008",
+    "title": "Rapid intensification of summer convective precipitation in New England",
+    "abstract": "",
+    "journal": "Science Advances",
+    "doi": "10.1126/sciadv.aea9008",
+    "date": "2026-11-25",
+    "authors": "Jared M. Kodero and Jung-Eun Lee",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/sciadv.aea9008?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5657,
+    "collected_at": "2026-11-26T00:30:40.165307+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1126/sciadv.aea9008"
+    ]
+  },
+  {
+    "id": "10.1126/sciadv.aec9625",
+    "title": "Selenium isotopes uncover the mechanism of the deep plate tectonic cycle in the MORB mantle",
+    "abstract": "",
+    "journal": "Science Advances",
+    "doi": "10.1126/sciadv.aec9625",
+    "date": "2026-11-25",
+    "authors": "Stephan König, María I. Varas-Reus, Romain Tilhac, Carlos J. Garrido",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/sciadv.aec9625?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5658,
+    "collected_at": "2026-11-26T00:30:40.165307+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1126/sciadv.aec9625"
+    ]
+  },
+  {
+    "id": "10.1126/sciadv.aed1661",
+    "title": "Surface-passivated high-entropy oxide-derived catalysts for stable dry reforming of methane",
+    "abstract": "",
+    "journal": "Science Advances",
+    "doi": "10.1126/sciadv.aed1661",
+    "date": "2026-11-25",
+    "authors": "Qingju Wang, Xinhui Lu, Kevin M. Siniard, Hailing Yu, Guoqiang Shen, Hao Chen, Xin Wang, Caiqi Wang, Jacob Smith, Jue Liu, Yuanpeng Zhang, Alexander S. Ivanov, Michael Richard Koehler, Shuai Yuan, De-en Jiang, Miaofang Chi, Zili Wu, Zhenzhen Yang, Sheng Dai",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/sciadv.aed1661?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5659,
+    "collected_at": "2026-11-26T00:30:40.165307+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1126/sciadv.aed1661"
+    ]
+  },
+  {
+    "id": "10.1126/sciadv.aed9302",
+    "title": "How far are we from a critical salinity in the North Atlantic Subpolar Gyre?",
+    "abstract": "",
+    "journal": "Science Advances",
+    "doi": "10.1126/sciadv.aed9302",
+    "date": "2026-11-25",
+    "authors": "Lucas Almeida and Didier Swingedouw",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/sciadv.aed9302?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5660,
+    "collected_at": "2026-11-26T00:30:40.165307+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1126/sciadv.aed9302"
+    ]
+  },
+  {
+    "id": "10.1126/sciadv.aee6574",
+    "title": "Evolution of trans-regulatory architecture and gene expression dosage compensation after genome duplication",
+    "abstract": "",
+    "journal": "Science Advances",
+    "doi": "10.1126/sciadv.aee6574",
+    "date": "2026-11-25",
+    "authors": "Célian Diblasi, Domniki Manousi, David Hazlerigg, Jonas Paulsen, Fabiana Patalano, Tomasz Podgorniak, Lars Grønvold, Nicola Jane Barson, Simen Rød Sandve, Marie Saitou",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/sciadv.aee6574?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5661,
+    "collected_at": "2026-11-26T00:30:40.165307+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1126/sciadv.aee6574"
+    ]
+  },
+  {
+    "id": "10.1126/sciadv.aef0400",
+    "title": "Ultra-generalized hologram synthesis via domain-adaptive wavefront learning",
+    "abstract": "",
+    "journal": "Science Advances",
+    "doi": "10.1126/sciadv.aef0400",
+    "date": "2026-11-25",
+    "authors": "Runze Zhu, Jiasheng Xiao, Hao Zhang, Hong-Bo Sun",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/sciadv.aef0400?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5662,
+    "collected_at": "2026-11-26T00:30:40.165307+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1126/sciadv.aef0400"
+    ]
+  },
+  {
+    "id": "10.1126/sciadv.aef7691",
+    "title": "Multimodal motion and behavior switching of multistable ciliary walkers",
+    "abstract": "",
+    "journal": "Science Advances",
+    "doi": "10.1126/sciadv.aef7691",
+    "date": "2026-11-25",
+    "authors": "Sumit Mohanty, Paul Baconnier, Harmannus A. H. Schomaker, Alberto Comoretto, Martin van Hecke, Johannes T. B. Overvelde",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/sciadv.aef7691?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5663,
+    "collected_at": "2026-11-26T00:30:40.165307+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1126/sciadv.aef7691"
+    ]
+  },
+  {
+    "id": "10.1126/sciadv.aeg5645",
+    "title": "Umbilical cord structure shapes feto-maternal heat transfer across mammals",
+    "abstract": "",
+    "journal": "Science Advances",
+    "doi": "10.1126/sciadv.aeg5645",
+    "date": "2026-11-25",
+    "authors": "Tianran Wan, Davis Laundon, Shier Nee Saw, Nicholas Cheng, Hwee Kuan Lee, Edward D. Johnstone, Oliver E. Jensen, Rohan M. Lewis, Igor L. Chernyavsky",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/sciadv.aeg5645?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5664,
+    "collected_at": "2026-11-26T00:30:40.165307+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1126/sciadv.aeg5645"
+    ]
+  },
+  {
+    "id": "10.1126/sciadv.aeg8071",
+    "title": "Skeletal muscle proteomics reveals metabolic phenotype–specific adaptations to exercise training in health, obesity, and type 2 diabetes",
+    "abstract": "",
+    "journal": "Science Advances",
+    "doi": "10.1126/sciadv.aeg8071",
+    "date": "2026-11-25",
+    "authors": "Farina L. Schlabs, Jeppe Kjærgaard, Rikke Kruse, Dimitrius Santiago P.S.F. Guimarães, Nigel Kurgan, Frederic Schrøder Wenzel Arendrup, Maria Houborg Petersen, Niels Ørtenblad, Martin Eisemann de Almeida, Anders H. Lund, Kei Sakamoto, Juleen R. Zierath, Anna Krook, Kurt Højlund, Atul S. Deshmukh",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/sciadv.aeg8071?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5665,
+    "collected_at": "2026-11-26T00:30:40.165307+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1126/sciadv.aeg8071"
+    ]
+  },
+  {
+    "id": "10.1126/sciadv.aeg9915",
+    "title": "Continuously aligned biomimetic sites in MXene membranes for rapid lithium extraction",
+    "abstract": "",
+    "journal": "Science Advances",
+    "doi": "10.1126/sciadv.aeg9915",
+    "date": "2026-11-25",
+    "authors": "Zihan Liu, Longfeng Hu, Sijin Li, Shirong Li, Tianhuai Kang, Hongzhi Liu, Gaoxin Dai, Langming Bai, Heng Liang",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/sciadv.aeg9915?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5666,
+    "collected_at": "2026-11-26T00:30:40.165307+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1126/sciadv.aeg9915"
+    ]
+  },
+  {
+    "id": "10.1126/sciadv.aeh0646",
+    "title": "Global iodine emissions remain near constant over the 21st century",
+    "abstract": "",
+    "journal": "Science Advances",
+    "doi": "10.1126/sciadv.aeh0646",
+    "date": "2026-11-25",
+    "authors": "Ryan J. Pound, Martin R. Wadley, Rosie Chance, David P. Stevens, Mat J. Evans, Lucy J. Carpenter",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/sciadv.aeh0646?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5667,
+    "collected_at": "2026-11-26T00:30:40.165307+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1126/sciadv.aeh0646"
+    ]
+  },
+  {
+    "id": "10.1126/sciadv.aeh2185",
+    "title": "Mantle redox states reveal contrasting styles of late Archean lithospheric subduction",
+    "abstract": "",
+    "journal": "Science Advances",
+    "doi": "10.1126/sciadv.aeh2185",
+    "date": "2026-11-25",
+    "authors": "Lei Gao, Wei Wang, Peter A. Cawood, Shuwen Liu, Kunfeng Qiu, Fangyang Hu, Guozheng Sun, Xuetang Jiang, Jincheng Hu, Tengxu Wang",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/sciadv.aeh2185?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5668,
+    "collected_at": "2026-11-26T00:30:40.165307+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1126/sciadv.aeh2185"
+    ]
+  },
+  {
+    "id": "10.1126/sciadv.aeh2224",
+    "title": "Unseen but not unheard: Animal-borne audio recorders reveal missing interactions between seabirds and untracked vessels",
+    "abstract": "",
+    "journal": "Science Advances",
+    "doi": "10.1126/sciadv.aeh2224",
+    "date": "2026-11-25",
+    "authors": "Jonathan D. Rutter, Sarah Bond, Ana P.B. Carneiro, Aline da Silva Cerqueira, Igor Debski, Johannes H. Fischer, Robin Freeman, Dave Goad, Louise Maurice, Jason Moss, Oliver Padget, Olivia Rowley, Kate Simister, Graeme Taylor, Stephen C. Votier, Katrina J. Davis, Tim Guilford",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/sciadv.aeh2224?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5669,
+    "collected_at": "2026-11-26T00:30:40.165307+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1126/sciadv.aeh2224"
+    ]
+  },
+  {
+    "id": "10.1126/sciadv.aeh2981",
+    "title": "Atomic-scale visualization and assignment of contaminant adsorption geometries at mineral surfaces",
+    "abstract": "",
+    "journal": "Science Advances",
+    "doi": "10.1126/sciadv.aeh2981",
+    "date": "2026-11-25",
+    "authors": "Bo Zhao, Ying Zhao, Chunguang Liu, Christos Christodoulatos, Yuxin Long, Meng Ji, Tsengming Chou, Qiantao Shi, Beidou Xi, Xiaoguang Meng",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/sciadv.aeh2981?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5670,
+    "collected_at": "2026-11-26T00:30:40.165307+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1126/sciadv.aeh2981"
+    ]
+  },
+  {
+    "id": "10.1126/sciadv.aeh2994",
+    "title": "Tuning microswimmer motility by liposome encapsulation: A membrane clutch enables controlled swimming and cargo transport",
+    "abstract": "",
+    "journal": "Science Advances",
+    "doi": "10.1126/sciadv.aeh2994",
+    "date": "2026-11-25",
+    "authors": "Koichiro Akiyama, Sota Hamaguchi, Hiromasa Shiraiwa, Shunsuke Shiomi, Tomoyuki Kaneko, Masahito Hayashi, Daiki Matsunaga",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/sciadv.aeh2994?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5671,
+    "collected_at": "2026-11-26T00:30:40.165307+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1126/sciadv.aeh2994"
+    ]
+  },
+  {
+    "id": "10.1126/sciadv.aeh6047",
+    "title": "Bioinspired mucolytic microrods for active mucus penetration and enhanced antibiotic delivery against H. pylori",
+    "abstract": "",
+    "journal": "Science Advances",
+    "doi": "10.1126/sciadv.aeh6047",
+    "date": "2026-11-25",
+    "authors": "Wenhuang Ban, Min Sun, Jingjing Qu, Yuening Zhong, Weixi Wu, Yijun Lin, Yu Liu, Runqin Tan, Xiumei Ni, Song Zhou, Shan Guan, Dan Shao, Yan He, Kaiyun Liu, Chengzhong Yu, Jie Tang",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/sciadv.aeh6047?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5672,
+    "collected_at": "2026-11-26T00:30:40.165307+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1126/sciadv.aeh6047"
+    ]
+  },
+  {
+    "id": "10.1126/sciadv.aeh7301",
+    "title": "Signals of rapid genetic change in reef coral over time and following mass mortality",
+    "abstract": "",
+    "journal": "Science Advances",
+    "doi": "10.1126/sciadv.aeh7301",
+    "date": "2026-11-25",
+    "authors": "Kate M. Quigley and Mikhail Matz",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/sciadv.aeh7301?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5673,
+    "collected_at": "2026-11-26T00:30:40.165307+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1126/sciadv.aeh7301"
+    ]
+  },
+  {
+    "id": "10.1126/sciadv.aeh8971",
+    "title": "A flexible fiber–based artificial chemical postsynapse",
+    "abstract": "",
+    "journal": "Science Advances",
+    "doi": "10.1126/sciadv.aeh8971",
+    "date": "2026-11-25",
+    "authors": "Tran Quang Trung, Montri Meeseepong, Ok-Hyeon Kim, Guangyu Wang, Sandeep Kaushal, Rohan Machhindra Hagawane, Deepak Ganesan, Phuc Nguyen, Hyun Jung Lee, Nae-Eung Lee",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/sciadv.aeh8971?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5674,
+    "collected_at": "2026-11-26T00:30:40.165307+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1126/sciadv.aeh8971"
+    ]
+  },
+  {
+    "id": "10.1126/sciadv.aei1858",
+    "title": "Arctic forcing of European spring productivity and agricultural yields linked to Barents Sea ice loss",
+    "abstract": "",
+    "journal": "Science Advances",
+    "doi": "10.1126/sciadv.aei1858",
+    "date": "2026-11-25",
+    "authors": "Zhi Huang, Jun Wang, Philippe Ciais, Xichen Li, William K. M. Lau, Ning Zeng, Wenping Yuan, Haijin Dai, Hao Zhou, Jinfeng Ding, Meirong Wang, Ran Yan, Duwei Zhong, Anmin Duan, Yimin Liu, Jing M. Chen, Fei Jiang, Weimin Ju",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/sciadv.aei1858?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5675,
+    "collected_at": "2026-11-26T00:30:40.165307+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1126/sciadv.aei1858"
+    ]
+  },
+  {
+    "id": "10.1126/sciadv.aei2154",
+    "title": "A precipitation threshold delineates contrasting controls on global soil pH under nitrogen fertilization",
+    "abstract": "",
+    "journal": "Science Advances",
+    "doi": "10.1126/sciadv.aei2154",
+    "date": "2026-11-25",
+    "authors": "Wenqi Jiao, Tao Hu, Chongchong Qi, Liyuan Chai",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/sciadv.aei2154?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5676,
+    "collected_at": "2026-11-26T00:30:40.165307+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1126/sciadv.aei2154"
+    ]
+  },
+  {
+    "id": "10.1126/sciadv.aei2407",
+    "title": "From genetic risk factor to therapeutic target: The CREB3L4-GDF15 axis drives prostate cancer immune evasion",
+    "abstract": "",
+    "journal": "Science Advances",
+    "doi": "10.1126/sciadv.aei2407",
+    "date": "2026-11-25",
+    "authors": "Tiange Wu, Enyao Huang, Likai Mao, Pengyu Liu, Tianyi Xia, Saisai Chen, Yifei Cheng, Ruixin Zhang, Kaihua Xue, Yurui Chen, Xiangyu Zhang, Xiejunhao Zheng, Yifan Liu, Shenghong Ju, Ming Chen, Wenchao Li, Bin Xu",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/sciadv.aei2407?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5677,
+    "collected_at": "2026-11-26T00:30:40.165307+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1126/sciadv.aei2407"
+    ]
+  },
+  {
+    "id": "10.1126/sciadv.aei3238",
+    "title": "DAS reveals continuous, multicore architecture of the Alpine Fault, New Zealand",
+    "abstract": "",
+    "journal": "Science Advances",
+    "doi": "10.1126/sciadv.aei3238",
+    "date": "2026-11-25",
+    "authors": "Voon Hui Lai, Meghan S. Miller, Yujie Wang, Xin Wang, Brian Kennett, John Townend",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/sciadv.aei3238?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5678,
+    "collected_at": "2026-11-26T00:30:40.165307+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1126/sciadv.aei3238"
+    ]
+  },
+  {
+    "id": "10.1126/sciadv.aei3430",
+    "title": "Spaceflight reshapes Alzheimer’s disease–associated molecular programs in human brain organoids",
+    "abstract": "",
+    "journal": "Science Advances",
+    "doi": "10.1126/sciadv.aei3430",
+    "date": "2026-11-25",
+    "authors": "Natalia C. S. Moreira, Luisa B. V. Coelho, Luiz P. Petroski, Stephanie S. Almeida, Luiza P. M. Gaudio, Livia L. Nascimento, Jeong-Hee Lee, Stevens Rehen, Blake Tsu, Juliana de S. da G. Fischer, Paulo C. Carvalho, Aline M. A. Martins, Roberto H. Herai, Alysson R. Muotri",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/sciadv.aei3430?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5679,
+    "collected_at": "2026-11-26T00:30:40.165307+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1126/sciadv.aei3430"
+    ]
+  },
+  {
+    "id": "10.1126/sciadv.aei6617",
+    "title": "Historical evidence that wildfire frequency modulates debris-flow hazards through sediment-supply limitation",
+    "abstract": "",
+    "journal": "Science Advances",
+    "doi": "10.1126/sciadv.aei6617",
+    "date": "2026-11-25",
+    "authors": "Emily C. Geyman and Michael P. Lamb",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/sciadv.aei6617?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5680,
+    "collected_at": "2026-11-26T00:30:40.165307+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1126/sciadv.aei6617"
+    ]
+  },
+  {
+    "id": "10.1126/sciadv.aej0558",
+    "title": "Uterine-derived anisotropic compressive force specifies the anterior-posterior axis orientation in the mouse embryo",
+    "abstract": "",
+    "journal": "Science Advances",
+    "doi": "10.1126/sciadv.aej0558",
+    "date": "2026-11-25",
+    "authors": "Seiya Mikoshiba, Hiroshi Koyama, Sanae Oka, Takaya Abe, Hiroshi Kiyonari, Masahiko Hibi, Toshihiko Fujimori",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/sciadv.aej0558?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5681,
+    "collected_at": "2026-11-26T00:30:40.165307+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1126/sciadv.aej0558"
+    ]
+  },
+  {
+    "id": "10.1126/sciadv.aej1211",
+    "title": "Ubiquitination of USP5 by a bacterial effector inhibits NLRP3 inflammasome activation",
+    "abstract": "",
+    "journal": "Science Advances",
+    "doi": "10.1126/sciadv.aej1211",
+    "date": "2026-11-25",
+    "authors": "Kelong Ma, Siyao Liu, Fan Jiang, Hongtao Liu, Rundong Shu, Jinli Ge, Zhao-qing Luo, Jiaqi Fu, Jiazhang Qiu",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/sciadv.aej1211?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5682,
+    "collected_at": "2026-11-26T00:30:40.165307+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1126/sciadv.aej1211"
+    ]
+  },
+  {
+    "id": "10.1126/sciadv.aej1558",
+    "title": "A programmable cell-free biosensor device for on-demand detection of pathogens and antibiotics",
+    "abstract": "",
+    "journal": "Science Advances",
+    "doi": "10.1126/sciadv.aej1558",
+    "date": "2026-11-25",
+    "authors": "Ziqi Gao, Ziyi Lu, Yingke Wu, Licheng Han, Yani Xu, Sheng Zhao, Zhijin Tian, Jie Gu, Shiqi Wang, Chenyi Yu, Qi Han, Xinmin Yu, Fang He, Xinyao Yu, Leihao Lu, Jicheng Yu, Yuqi Zhang, Zhen Gu",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/sciadv.aej1558?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5683,
+    "collected_at": "2026-11-26T00:30:40.165307+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1126/sciadv.aej1558"
+    ]
+  },
+  {
+    "id": "10.1126/sciadv.aej2870",
+    "title": "Probabilistic neural code for subjective value and metacognition in human cortex",
+    "abstract": "",
+    "journal": "Science Advances",
+    "doi": "10.1126/sciadv.aej2870",
+    "date": "2026-11-25",
+    "authors": "Ling Huang, Hui-Kuan Chung, Hsin-Hung Li",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/sciadv.aej2870?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5684,
+    "collected_at": "2026-11-26T00:30:40.165307+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1126/sciadv.aej2870"
+    ]
+  },
+  {
+    "id": "10.1126/sciadv.aej7096",
+    "title": "Aclarubicin disrupts RNA polymerase II progression at replication-coupled histone genes",
+    "abstract": "",
+    "journal": "Science Advances",
+    "doi": "10.1126/sciadv.aej7096",
+    "date": "2026-11-25",
+    "authors": "Kevin K. Nguyen, Matthew Wooten, Kami Ahmad, Steven Henikoff",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/sciadv.aej7096?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5685,
+    "collected_at": "2026-11-26T00:30:40.165307+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1126/sciadv.aej7096"
+    ]
+  },
+  {
+    "id": "10.1126/sciadv.aek0894",
+    "title": "GDF15 impacts chronic kidney disease and associated weight loss through distinct mechanisms",
+    "abstract": "",
+    "journal": "Science Advances",
+    "doi": "10.1126/sciadv.aek0894",
+    "date": "2026-11-25",
+    "authors": "Huajun Bai, Amritanshu Rana, Liwen Su, Ting Peng, Chenyu Li, Wenting Zhao, Aidan Bauer, Beishan Chen, Yuxiao Liang, Duanduan Lin, Joseph J. Loureiro, Nancy Finkel, Riley Sawka, Peiran Lu, Wencao Zhao, Dhanunjay Mukhi, Benjamin J. Wilkins, Randy J. Seeley, Danna M. Breen, Katalin Susztak, Liming Pei",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/sciadv.aek0894?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5686,
+    "collected_at": "2026-11-26T00:30:40.165307+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1126/sciadv.aek0894"
+    ]
+  },
+  {
+    "id": "10.1126/sciadv.aek1093",
+    "title": "Hardware-encoded modality separation for multimodal sensing and artificial perception",
+    "abstract": "",
+    "journal": "Science Advances",
+    "doi": "10.1126/sciadv.aek1093",
+    "date": "2026-11-25",
+    "authors": "Wooseok Kim, Bosung Kim, Dae Han Kim, Pei Liu, Doyoung Kim, Hee Kyu Lee, Sang Uk Park, Janghoon Joo, Byeong Woon Lee, Se Gi Lee, Bogeun Kim, Jaejun Lim, Changsoon Choi, Jong-Woong Kim, Geumbee Lee, Jae-Young Yoo, Sejin Kim, Joohoon Kang, Raudel Avila, Jong Uk Kim, Sang Min Won",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/sciadv.aek1093?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5687,
+    "collected_at": "2026-11-26T00:30:40.165307+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1126/sciadv.aek1093"
+    ]
+  },
+  {
+    "id": "10.1126/sciadv.ael3567",
+    "title": "Stress unmasks disconnected endocrine coordination of glucose metabolism in Duchenne muscular dystrophy",
+    "abstract": "",
+    "journal": "Science Advances",
+    "doi": "10.1126/sciadv.ael3567",
+    "date": "2026-11-25",
+    "authors": "Gretel S. Major, Cara A. Timpani, Hannah Lalunio, Jiayi Chen, Lauren Boatner, Nicholas Giourmas, Stephanie Kourakis, Eva van den Berg, Ekaterina Salimova, Joel Eliades, Gang Zheng, Rong Xu, Sukhvir Kaur Bhangu, Thirimadura V. H. Mendis, Joel R. Steele, Ralf B. Schittenhelm, Deirdre L. Merry, Louise Lantier, Christoph E. Hagemeyer, Francesca Cavalieri, Karen Caeyenberghs, Aaron P. Russell, Michael de Veer, Craig A. Goodman, Alan Hayes, Emma Rybalka, Charles P. Najt, Angus Lindsay",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/sciadv.ael3567?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5688,
+    "collected_at": "2026-11-26T00:30:40.165307+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1126/sciadv.ael3567"
+    ]
+  },
+  {
+    "id": "10.1126/sciadv.aec1017",
+    "title": "The circSRSF5-FUS-EIF4A3 regulatory circuitry protects Ewing sarcoma cells from EWS::FLI1 small-molecule inhibition",
+    "abstract": "",
+    "journal": "Science Advances",
+    "doi": "10.1126/sciadv.aec1017",
+    "date": "2026-11-25",
+    "authors": "Veronica Riccioni, Valentina Frezza, Claudia Fiorilli, Gianmarco Fenili, Noemie Robil, Ramona Palombo, Lidia Chellini, Pierre de la Grange, Maria Paola Paronetto",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/sciadv.aec1017?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5689,
+    "collected_at": "2026-11-26T00:30:40.165307+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1126/sciadv.aec1017"
+    ]
+  },
+  {
+    "id": "10.1126/sciadv.aei7060",
+    "title": "A divergent bat orthopneumovirus with zoonotic potential constrained by RSV adaptive immunity and broad-spectrum treatment",
+    "abstract": "",
+    "journal": "Science Advances",
+    "doi": "10.1126/sciadv.aei7060",
+    "date": "2026-11-25",
+    "authors": "Wendy K. Jo, Sibylle Haid, Tabea Binger, Sebastian Brünink, Dickson Dei, Christian Drosten, Arne Kühne, Janine Müller, Samuel Oppong, Valeria Penner, Anita Wadagni, Anges Yadouleton, Thomas Pietschmann, Jan Felix Drexler",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/sciadv.aei7060?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5690,
+    "collected_at": "2026-11-26T00:30:40.165307+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1126/sciadv.aei7060"
+    ]
+  },
+  {
+    "id": "10.1126/sciadv.aeh0147",
+    "title": "Oligodendrocyte ER-phagy restricts excessive myelination by degrading sphingolipid synthases",
+    "abstract": "",
+    "journal": "Science Advances",
+    "doi": "10.1126/sciadv.aeh0147",
+    "date": "2026-11-25",
+    "authors": "Tingxin Zhang, Daniela Barbosa, Aksheev Bhambri, Lu O. Sun",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/sciadv.aeh0147?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5691,
+    "collected_at": "2026-11-26T00:30:40.165307+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1126/sciadv.aeh0147"
+    ]
+  },
+  {
+    "id": "10.1126/sciadv.aeh1374",
+    "title": "Cryo-EM reveals a transmembrane allosteric site and activation mechanism for the SERCA calcium pump",
+    "abstract": "",
+    "journal": "Science Advances",
+    "doi": "10.1126/sciadv.aeh1374",
+    "date": "2026-11-25",
+    "authors": "Vinh H. Nguyen, Carlos Cruz-Cortés, Joseph O. Primeau, Raelynn Brassard, M. Joanne Lemieux, L. Michel Espinoza-Fonseca, Howard S. Young",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/sciadv.aeh1374?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5692,
+    "collected_at": "2026-11-26T00:30:40.165307+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1126/sciadv.aeh1374"
+    ]
+  },
+  {
+    "id": "10.1126/sciadv.aeh9321",
+    "title": "Errors in social network knowledge predict how ties evolve in the future",
+    "abstract": "",
+    "journal": "Science Advances",
+    "doi": "10.1126/sciadv.aeh9321",
+    "date": "2026-11-25",
+    "authors": "Alice Xia, Yi Yang Teoh, Apoorva Bhandari, Oriel FeldmanHall",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/sciadv.aeh9321?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5693,
+    "collected_at": "2026-11-26T00:30:40.165307+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1126/sciadv.aeh9321"
+    ]
+  },
+  {
+    "id": "10.1126/sciadv.aeh7643",
+    "title": "Visual learning through auditory reactivation during wakefulness and sleep",
+    "abstract": "",
+    "journal": "Science Advances",
+    "doi": "10.1126/sciadv.aeh7643",
+    "date": "2026-11-25",
+    "authors": "Musi Xie, Zhuoqun Li, Yuxin Fan, Yifan Li, Xingbei Wan, Sirui Yang, Shiman Huang, Chengsi Zhao, Ning Ma, Fang Fang, Xilin Zhang",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/sciadv.aeh7643?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5694,
+    "collected_at": "2026-11-26T00:30:40.165307+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1126/sciadv.aeh7643"
+    ]
+  },
+  {
+    "id": "10.1126/sciadv.aef3725",
+    "title": "Characterizing ocean flows with the scattering transform",
+    "abstract": "",
+    "journal": "Science Advances",
+    "doi": "10.1126/sciadv.aef3725",
+    "date": "2026-11-25",
+    "authors": "Jack W. Skinner, Albion Lawrence, Jörn Callies",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/sciadv.aef3725?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [
+          "ocean"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5695,
+    "collected_at": "2026-11-26T00:30:40.165307+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1126/sciadv.aef3725"
+    ]
+  },
+  {
+    "id": "10.1126/sciadv.aej3235",
+    "title": "Resolving topological obstructions to vectorial structured field control",
+    "abstract": "",
+    "journal": "Science Advances",
+    "doi": "10.1126/sciadv.aej3235",
+    "date": "2026-11-25",
+    "authors": "An Aloysius Wang, Yuxi Cai, Yifei Ma, Patrick S. Salter, Chao He",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/sciadv.aej3235?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5696,
+    "collected_at": "2026-11-26T00:30:40.165307+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1126/sciadv.aej3235"
+    ]
+  },
+  {
+    "id": "10.1126/sciadv.aem2425",
+    "title": "TREX1 and TREX2 3′ → 5′ DNA exonucleases enhance the fidelity of translesion synthesis by DNA polymerase θ",
+    "abstract": "",
+    "journal": "Science Advances",
+    "doi": "10.1126/sciadv.aem2425",
+    "date": "2026-11-25",
+    "authors": "Jung-Hoon Yoon, Karthi Sellamuthu, Louise Prakash, Satya Prakash",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/sciadv.aem2425?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5697,
+    "collected_at": "2026-11-26T00:30:40.165307+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1126/sciadv.aem2425"
+    ]
+  },
+  {
+    "id": "10.1126/sciadv.aei2845",
+    "title": "Multimodal robotic matter enabled by unified magnetic control primitives",
+    "abstract": "",
+    "journal": "Science Advances",
+    "doi": "10.1126/sciadv.aei2845",
+    "date": "2026-11-25",
+    "authors": "Konstantinos Manos, Yifan Rao, Tuo Zhao, Minjie Chen, Glaucio H. Paulino",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/sciadv.aei2845?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5698,
+    "collected_at": "2026-11-26T00:30:40.165307+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1126/sciadv.aei2845"
+    ]
+  },
+  {
+    "id": "10.1126/sciadv.aen5942",
+    "title": "Misremembered social networks are predictions of the future in disguise",
+    "abstract": "",
+    "journal": "Science Advances",
+    "doi": "10.1126/sciadv.aen5942",
+    "date": "2026-11-25",
+    "authors": "Matthew E. Brashears and Gage Pierce",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.science.org/doi/abs/10.1126/sciadv.aen5942?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5699,
+    "collected_at": "2026-11-26T00:30:40.165307+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1126/sciadv.aen5942"
+    ]
+  },
+  {
+    "id": "10.1371/journal.pgen.1012393",
+    "title": "Deviation from the neutral mutational spectrum in driver genes reveals the distribution of effects of missense oncogenic mutations",
+    "abstract": "by Anastasia V. Stolyarova, Georgii A. Bazykin\n\nAlthough many cancer driver genes have been identified, the full set of variants within these genes that can promote tumorigenesis remains unknown. The contribution of a variant to cancer depends on both its probability of occurrence and the selective advantage it confers. Here, we introduce a metric that quantifies how selection biases the spectrum of observed missense variants in driver genes compared to neutral expectation, and use it to develop a method for estimating the total number of potential driver variants and the distribution of their fitness effects within individual genes. Applying this framework to large cancer cohorts, we estimate that in most oncogenes, nearly all possible missense driver variants have already been observed, whereas in most tumor-suppressor genes, the majority remain undiscovered. These results reveal fundamental differences in how mutation and selection shape nucleotide variation across gene classes and provide a framework for interpreting newly detected variants.",
+    "journal": "PLOS Genetics",
+    "doi": "10.1371/journal.pgen.1012393",
+    "date": "2026-11-25",
+    "authors": "Georgii A. Bazykin",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1012393",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "gene",
+        "method"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "gene",
+          "method"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://journals.plos.org/plosgenetics/feed/atom",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5700,
+    "collected_at": "2026-11-26T00:30:40.165307+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://journals.plos.org/plosgenetics/feed/atom"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1371/journal.pgen.1012393"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.24.768875",
+    "title": "Genome-Wide Association Study Identifies Novel Genetic Variants Linked to Meropenem Resistance in Klebsiella pneumoniae",
+    "abstract": "Carbapenem-resistant Enterobacteriaceae have emerged as an urgent public health threat in recent years. Infections caused by carbapenem-resistant Klebsiella pneumoniae in particular are associated with high rates of mortality, especially in immunocompromised patients. Substantial carbapenem resistance remains unexplained in K. pneumoniae even after accounting for known resistance genes. To uncover unknown mechanisms associated with meropenem resistance, we performed a genome-wide association study (GWAS) in 1,705 K. pneumoniae clinical isolates with previously determined resistance profiles to meropenem . We conducted the GWAS by using an elastic net regression to control for genome-wide linkage disequilibrium and combined it with a conditional linear mixed model to control for the presence of genes known to confer carbapenem resistance. The resulting set of variants predicted to be associated with meropenem resistance mapped to genes broadly related to the plasticity of the genome. We developed a visualization tool integrating GWAS results with phenotypic data and polymorphic site information to aid in hypothesis generation, which allowed us to prioritize novel genomic candidates. Our results demonstrate the effectiveness of the combined approach in detecting novel genomic variants associated with meropenem resistance in K. pneumoniae, while controlling for strong bacterial population structure, to advance our understanding of the genetic basis of carbapenem resistance.",
+    "journal": "",
+    "doi": "10.64898/2026.11.24.768875",
+    "date": "2026-11-25",
+    "authors": "Bardiya, O., Clatworthy, A., Bagnall, J., Wijers, C., Natale, V. d., Shigeta, J., Shoresh, N., Hung, D. T.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.24.768875v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "gene",
+        "genomic",
+        "tool",
+        "visualization"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5701,
+    "collected_at": "2026-11-26T00:30:40.165307+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.64898/2026.11.24.768875"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.23.768606",
+    "title": "Role-Aware Line-Graph Neural Networks for Interpretable Prediction of Pairwise Microbial Interactions",
+    "abstract": "Predicting how microbial species affect each other's growth is a key challenge in microbial ecology. Using one of the largest available pairwise interaction datasets, comprising 20 soil bacteria co-cultured under 39 carbon conditions (15{,}074 directional measurements), we predicted whether one species has a positive or negative effect on the growth of another from monoculture growth, metabolic profiles, and phylogeny. Existing machine learning approaches treat each measurement as an independent sample, although experiments that share a species under the same condition are biologically related. We therefore represented the data as a role-aware line graph: each node is one directional measurement, and two nodes are connected when, under the same carbon condition, they share the same effector or the same affected species. This allows graph neural networks (GNNs) to pass information between related interactions. Our role-aware GAT-SAGE model achieved an F1-score of 81.38% for one-way prediction, outperforming the 73.79% previously reported for Extreme Gradient Boosting (XGBoost). For two-way interaction types (mutualism, competition, and parasitism), GAT-SAGE reached a macro F1-score of 60.34%. This exceeded the 55.71% of a neural network without graph structure but was below the 64.24% of XGBoost. Mutualism remained difficult to predict for all models. Layer-wise relevance propagation showed that one-way effects depend mainly on monoculture growth, whereas two-way interaction types depend more on the carbon environment. Encoding the dependency structure of interaction experiments thus adds information beyond the features of each measurement and provides interpretable insight into microbial interactions.",
+    "journal": "",
+    "doi": "10.64898/2026.11.23.768606",
+    "date": "2026-11-24",
+    "authors": "Gholamzadeh, E., Singla, K., Scherf, N.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.23.768606v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "phylogen",
+          "phylogeny"
+        ],
+        "evolution": [
+          "phylogeny"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5702,
+    "collected_at": "2026-11-26T00:30:40.165307+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.64898/2026.11.23.768606"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.24.768820",
+    "title": "The blue dragon nudibranch (Glaucus atlanticus) shifts to less venomous prey in the Mediterranean, with no evidence of defensive microbial symbionts",
+    "abstract": "Glaucus atlanticus (\"blue dragon\"), is an aeolid nudibranch that acquires chemical defense through sequestration of nematocysts from its primary prey, the highly venomous Physalia physalis (\"Portuguese man-of-war\"). In August 2025 hundreds of G. atlanticus individuals appeared near Alicante (Spain), prompting temporary beach closures due to concerns about potential envenomation. This unusual occurrence, in a region where P. physalis is typically absent, raises questions about the trophic ecology and defensive strategies of this species under novel environmental conditions. Here, we used COI metabarcoding of gut to characterize the diet of G. atlanticus and combined it with 16S rRNA gene sequencing of cerata, gut, mucus, and central dorsal epidermis to assess potential microbial transfer from alternative prey that could contribute to the synthesis of defensive compounds, given that the role of microbes in chemical defense of aeolid nudibranchs was not assessed previously. We detected a trophic shift toward alternative cnidarian prey, including Pelagia noctiluca and Porpita porpita, which are not considered highly hazardous. Microbiome comparisons with P. porpita, as well as comparison of core microbiomes across different body parts of G. atlanticus, revealed no evidence of prey-derived transfer of mutualistic bacteria. Instead, G. atlanticus harbored distinct microbial communities dominated by environmentally widespread taxa, including potential opportunistic pathogens, with no indication of symbionts associated with defensive functions. Altogether, these findings indicate that, despite trophic flexibility, G. atlanticus may have limited capacity to maintain its defensive mechanisms in the absence of its primary prey.",
+    "journal": "",
+    "doi": "10.64898/2026.11.24.768820",
+    "date": "2026-11-24",
+    "authors": "Porcel Sanchis, D., Ortiz-Maiques, A., Alberola Mora, I., Piedecausa Narejos, M. A., Avila, C., Alvarez-Trasobares, I., Prieto, L., Dzunkova, M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.24.768820v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "bacteria",
+        "microbe",
+        "microbes",
+        "microbial",
+        "microbiome",
+        "microbiomes"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "16S rRNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5703,
+    "collected_at": "2026-11-26T00:30:40.165307+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.64898/2026.11.24.768820"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.24.768809",
+    "title": "Bulk RNA-seq data of an Adherent-Invasive Escherichia coli Strain ZVL and Its exuR-Knockout Mutant",
+    "abstract": "Adherent-invasive Escherichia coli (AIEC) is a subtype of pathogenic E. coli associated with Crohn's disease. AIEC strains are characterized by the ability to adhere to and invade epithelial cells, survive and replicate within macrophages. Despite many years of research, the mechanisms of virulence and pathogenicity still remain not fully understood. Previous studies have shown that the virulence-associated phenotype of some isolates can be reversibly eliminated by changing the growth medium, specifically by switching from M9 minimal medium supplemented with propionate to M9 supplemented with glucose. This phenomenon was also observed in ZVL, an AIEC isolate from our laboratory collection. Since certain sugar acids, particularly hexuronates, have been shown to contribute to gut colonization by other bacterial pathogens, their role in AIEC has not been reported in the literature. Therefore, we aimed to investigate whether the hexuronate degradation pathway influences the adhesion and invasion properties of AIEC. To this end, we generated a CRISPR-based deletion mutant lacking exuR, which encodes a transcriptional repressor of the Ashwell pathway, and performed bulk RNA sequencing of wild-type ZVL and the exuR mutant. Both strains were grown in M9 minimal medium supplemented with either glucose or sodium propionate. Caco-2 cell assays were used to assess bacterial adhesion and invasion under both growth conditions. Our results suggest that deletion of exuR affects the invasion phenotype following growth in propionate-supplemented medium.",
+    "journal": "",
+    "doi": "10.64898/2026.11.24.768809",
+    "date": "2026-11-24",
+    "authors": "Mikhailycheva, M., Trusov, N., Galyamina, M., Shirokov, D., Urazaeva, D., Avshalumov, A., Borzenko, N., Semenov, A., Pobeguts, O., Gorbachev, A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.24.768809v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5704,
+    "collected_at": "2026-11-26T00:30:40.165307+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.64898/2026.11.24.768809"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.23.768492",
+    "title": "Live vibratome sectioning of human lung and cerebral organoids for infection studies with respiratory and neurotropic viruses",
+    "abstract": "We present a robust, reproducible protocol for generating live, thin (300 micrometer) vibratome sections from human lung organoids and human cerebral organoids. The method preserves the native three-dimensional tissue architecture, cellular heterogeneity, and viability for at least 7 days in culture, providing a physiologically relevant platform for investigating respiratory and neurotropic virus infection. Following infection, samples can be fixed, cryoprotected, and embedded for downstream cryosectioning. These organoid sections support efficient analyses of viral entry, replication, and host responses. The technique is readily compatible with immunofluorescence, RNA in situ hybridization, spatial transcriptomics, live-cell imaging, and a wide range of advanced molecular and cellular assays. On average, five sections can be obtained from a single organoid, substantially increasing experimental throughput while reducing costs and biological variability. By combining the physiological complexity of three-dimensional organoid systems with the accessibility and scalability of tissue-section-based assays, this platform bridges a critical gap in respiratory and neuronal disease modeling. The protocol provides a versatile and high-resolution framework for studying respiratory and neurotropic viral pathogenesis, host-pathogen interactions, and therapeutic interventions in human lung as well as brain tissue.",
+    "journal": "",
+    "doi": "10.64898/2026.11.23.768492",
+    "date": "2026-11-24",
+    "authors": "Herrmann, S. T., Ip, W. H., Bertzbach, L. D., Müller, T., Schnettler, E., Pfaender, S.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.23.768492v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5705,
+    "collected_at": "2026-11-26T00:30:40.165307+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.64898/2026.11.23.768492"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.23.768644",
+    "title": "Inhibition of Bacteriophage Infection by Natural and Synthetic DNA-binding Compounds",
+    "abstract": "The arms race between bacteria and phages involves a wide range of immune and anti-immune systems on both sides. One of the long-known mechanisms of antiphage defense involves DNA intercalators such as daunorubicin and its analogues. Daunorubicin was also shown to inhibit bacterial growth as well as eukaryotic cell division, underlying its use in chemotherapy. Other DNA intercalators and minor groove binding dyes are widely used for nucleic acids staining, but have not been studied for their effects on viral infection. Here, we systematically investigate the effects of known intercalator and DNA-binding agents, including daunorubicin and Hoechst derivatives, on phage infection in Escherichia coli. Using a diverse panel of phages with various replication mechanisms we identify phylogenetic groups sensitive to DNA-binding dyes and determined which stage of the viral life cycle was inhibited. Our data suggest that the active antiviral compounds block early steps of infection without cells killing, arguing against an abortive infection mechanism and lethal membrane permeabilization suggested recently. Together, our results expand the list of small molecules that affect phage infection and reveal DNA binders that inhibit viral DNA entry and/or replication without affecting cell physiology.",
+    "journal": "",
+    "doi": "10.64898/2026.11.23.768644",
+    "date": "2026-11-25",
+    "authors": "Panteleev, V., Petrova, N. F., Moldon, I., Sidorova, A. I., Isaev, A., Andriianov, A., Moiseenko, A., Solyev, P. N., Kulbachiskiy, A., Gelfenbein, D.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.23.768644v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "bacteria",
+        "bacterial",
+        "bacteriophage",
+        "phage",
+        "phages",
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5706,
+    "collected_at": "2026-11-26T00:30:40.165307+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.64898/2026.11.23.768644"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.24.768722",
+    "title": "PAannotate: Software for Exploring Pseudomonas aeruginosa Gene-Expression Associations from Transcriptomic Data",
+    "abstract": "With the proliferation of transcriptomic data for Pseudomonas aeruginosa there is a need for software programs able to efficiently analyze both individual transcriptomes as well as large, publicly available compendiums of arrays. PAannotate is an R package and native macOS application capable of analyzing the Whiteley Lab database of 5,821 transcriptomes from 470 BioProjects. In the application, researchers can use recorded metadata such as strain, medium or treatment to select experiments or genes associated with particular expression patterns. Alternatively, selecting one gene of interest, a user can find other, coordinately regulated genes that move together across many environments, mutants, and treatments. PAannotate also allows users to select groups of genes and to use Gene Ontology and KEGG annotations and enrichment analysis to see whether those genes are associated with particular biological functions more often than expected by chance, determine whether a particular perturbation produces a reproducible response across studies, or find public experiments resembling your own experiment. Researchers can build and customize heatmaps and association networks. In one project, we have examined the P. aeruginosa transcriptomic associations with the genes encoding the Pf prophage present in P. aeruginosa strain PAO1. We found a strong negative correlation between PA0724, a Pf4 gene, and ccmG, a bacterial gene involved in energy metabolism. We identified that much of this relationship was reflected by a difference in whether the bacteria were grown with acetate or glycerol as their carbon source. This finding illustrates how PAannotate helps researchers investigate P. aeruginosa gene correlations.",
+    "journal": "",
+    "doi": "10.64898/2026.11.24.768722",
+    "date": "2026-11-25",
+    "authors": "Targ, R. W., Bollyky, P.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.24.768722v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Pseudomonas",
+        "bacteria",
+        "bacterial",
+        "gene",
+        "software",
+        "transcriptomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5707,
+    "collected_at": "2026-11-26T00:30:40.165307+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.64898/2026.11.24.768722"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.23.768523",
+    "title": "Salmonella MgtC promotes polymyxin B resistance and systemic infection by activating LpxO-mediated lipid A hydroxylation",
+    "abstract": "The intracellular pathogen Salmonella Typhimurium modifies the lipid A moiety of lipopolysaccharide through various lipid A-modifying enzymes, thereby acquiring resistance to host cationic antimicrobial peptides during infection. While regulation of these enzymes at the transcription level has been extensively studied, however, regulation at the activity level remains poorly understood. Here, we show that the Salmonella virulence factor MgtC interacts with LpxO, an enzyme that hydroxylates the 3'-myristoyl chain of hexa-acylated lipid A, identified through bacterial two-hybrid screening for potential MgtC interaction partners. MgtC binding to LpxO promotes lipid A hydroxylation in a concentration-dependent manner, and the Leu287 residue in the C-terminal helix of LpxO is required for this interaction. Substitution of Leu287 with Ala reduces MgtC binding without affecting intrinsic hydroxylase activity, consequently impairing MgtC-enhanced lipid A hydroxylation. This substitution decreases resistance to both the antimicrobial peptide polymyxin B and human serum, and attenuates virulence in a mouse infection model. These findings suggest that Salmonella exploits MgtC to promote LpxO hydroxylation activity, thereby enhancing survival inside the host.",
+    "journal": "",
+    "doi": "10.64898/2026.11.23.768523",
+    "date": "2026-11-25",
+    "authors": "Choi, N., Baek, S., Choi, E., Lee, E.-J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.23.768523v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5708,
+    "collected_at": "2026-11-26T00:30:40.165307+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.64898/2026.11.23.768523"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.24.768967",
+    "title": "Distinct chaperones coordinate the type III secretion system assembly and effector secretion in Vibrio parahaemolyticus",
+    "abstract": "Many Gram-negative bacterial pathogens rely on the type III secretion system (T3SS) to deliver virulence factors or effectors into host cells. In Vibrio parahaemolyticus, the leading cause of seafood-borne gastroenteritis, one of the two T3SSs, the T3SS2, is essential for intestinal colonization and infection in the human body. While many T3SS2 effectors have been extensively characterized, the chaperones that guide their biogenesis and coordinate assembly of the T3SS machinery remain poorly understood. Here, combining comparative transcriptomic and proteomic approaches with functional analyses, we reveal that four T3SS2 chaperones exert non-overlapping control over distinct clients for pathogenesis. We further show that these chaperones form a hierarchical, multi-layered checkpoint system that ensures the temporal order of secretion, coordinating injectisome assembly, pore formation, and effector deployment. Our findings provide a quantitative framework for understanding the regulation of T3SS2, demonstrating that discrete non-redundant chaperone-mediated assembly is conserved across diverse Gram-negative pathogens.",
+    "journal": "",
+    "doi": "10.64898/2026.11.24.768967",
+    "date": "2026-11-25",
+    "authors": "Orth, K., Jaishankar, J., Tan, M., Servage, K. A., Kinch, L. N.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.24.768967v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Vibrio",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5709,
+    "collected_at": "2026-11-26T00:30:40.165307+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.64898/2026.11.24.768967"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.24.768882",
+    "title": "A microbiota-dependent fitness locus promotes intraspecies competition and cell envelope resilience in gut bacterium Phocaeicola vulgatus",
+    "abstract": "A central question in gut microbial ecology is how dominant bacterial species establish and occupy their niches amid inter- and intraspecies competition. Phocaeicola vulgatus (Pvu) is a Gram-negative anaerobe and prevalent member of the human gut microbiome that can integrate into established gut communities without antibiotic pretreatment, yet mechanisms underlying this competitive success remain poorly understood. Using in vivo transposon insertion sequencing, we identified a three-gene locus that promotes Pvu intraspecies fitness in the presence of a complex microbiota but is dispensable in germ-free hosts. The locus encodes a predicted HU/IHF superfamily histone-like DNA-binding protein (DifH), a hypothetical lipid-binding protein (DifS), and a FadL-like outer-membrane transporter (DifT). In vitro genetic and transcriptomic analyses implicated these genes in cell envelope resilience. Chromatin immunoprecipitation sequencing revealed that DifH binds a specific repetitive DNA motif at its own locus and a limited set of additional loci involved in metabolism, envelope biogenesis, and cellular defense. Together, these findings identify a previously unrecognized fitness locus that promotes cell envelope resilience, enables intraspecies competition, and supports Pvu persistence within complex gut microbial communities. More broadly, these results uncover mechanisms by which this dominant gut commensal secures its niche and suggests avenues to therapeutically modulate gut microbiota composition.",
+    "journal": "",
+    "doi": "10.64898/2026.11.24.768882",
+    "date": "2026-11-25",
+    "authors": "Rassadkina, Y., Jawahar, J., Bradley, A., Neve, R. L., Malkus, P. N., Washington, E. J., Shank, E. A., McCann, J. R., Rawls, J. F.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.24.768882v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "bacterium",
+        "microbial",
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5710,
+    "collected_at": "2026-11-26T00:30:40.165307+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.64898/2026.11.24.768882"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.24.769015",
+    "title": "Lateral interactions between antiparallel filaments drive self-assembly of the FtsZ ring in bacterial cell division",
+    "abstract": "The Z-ring is the organiser of cell division in most archaea and bacteria, arriving early at mid-cell and recruiting downstream proteins. While FtsZ protofilaments and their treadmilling dynamics are well understood, how FtsZ assembles into condensed Z-rings remains unknown. Here we determined the Escherichia coli in-cell electron cryotomography (cryo-ET) structure of FtsZ to 6.9 [A] resolution, showing antiparallel double filaments with the C-terminus facing the membrane. Electron cryomicroscopy (cryo-EM) of purified E. coli FtsZ showed these double filaments self-assemble. Cryo-ET of cells showed ordering of FtsZ doublets into bands, which we revealed is regulated by the disordered N-terminal residues. Structures of purified Bacillus subtilis and Thermotoga maritima FtsZ demonstrated that antiparallel lateral interactions are a conserved feature. We describe how self-assembly of the Z-ring occurs through two types of lateral interactions and propose a new role for FtsZ treadmilling in reorganising antiparallel lateral interactions during cell constriction.",
+    "journal": "",
+    "doi": "10.64898/2026.11.24.769015",
+    "date": "2026-11-25",
+    "authors": "McAndrew, M. B. L., Zhang, Y., Rohland, L., Warren, J. O. H., Carloni, G., Krstic, M., Gregory, L. P., Kureisaite-Ciziene, D., Sogues, A., Roberts, D. M., Holden, S., Saric, A., Wehenkel, A. M., Löwe, J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.24.769015v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Bacillus",
+        "Escherichia",
+        "archaea",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5711,
+    "collected_at": "2026-11-26T00:30:40.165307+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.64898/2026.11.24.769015"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.23.768618",
+    "title": "An RNase bacterial toxin family cleaves the anticodon loop across diverse tRNA isotypes",
+    "abstract": "Characterized bacterial tRNase toxins typically recognize individual tRNAs or restricted tRNA subsets. Here, we identify TloR (tRNA loop-targeting RNase), a tRNase with an unusually broad substrate range but a strong positional preference for exposed tRNA loops. Comparative genomic analyses identified TloR homologs across diverse bacterial lineages, where they are frequently embedded in conflict-associated loci. Structural modeling supports assignment of TloR to the recently described BECR-like superfamily, and mutational analyses identify conserved histidines required for toxicity and RNA cleavage. TloR cleaved tRNA and inhibited protein synthesis in a reconstituted translation system without detectable degradation of ribosomal RNA or plasmid DNA. Small-RNA sequencing showed that toxin-induced fragments arise from tRNAs decoding 19 of the 20 amino acids, with fragment endpoints strongly enriched near the anticodon loop. Purified TloR directly cleaved an unmodified tRNA substrate, predominantly within the anticodon loop. TloR therefore defines a family of BECR-like tRNases that combines broad tRNA recognition with positional preference for exposed tRNA loops. Together, these findings establish broad but positionally constrained tRNA cleavage as a distinct targeting strategy for antibacterial RNases.",
+    "journal": "",
+    "doi": "10.64898/2026.11.23.768618",
+    "date": "2026-11-25",
+    "authors": "Lin, J. E., Long, A. R., Pham, K., Bayer-Santos, E.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.23.768618v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5712,
+    "collected_at": "2026-11-26T00:30:40.165307+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.64898/2026.11.23.768618"
+    ]
   }
 ]
