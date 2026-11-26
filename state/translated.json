@@ -342942,5 +342942,307 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "キシリトール利用を可能にする可動性遺伝因子を有するRT023株、<i>Clostridioides difficile</i> PRB1128のゲノム配列。",
     "abstract_ja": "PCRリボタイプ023（RT023）株が主体を占めるClostridioides difficileの3系統の株は、系統樹において依然として最も研究が進んでいない。我々は、分子遺伝学的知見を得るとともに、現存する限られたRT023ゲノムのリポジトリを拡充するため、RT023 C. difficile株（PRB1128）の配列を決定した。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.2017953",
+    "title": "Ori-Finder-Pombe: a web server for genome-wide annotation of DNA replication origins in Schizosaccharomyces pombe",
+    "abstract": "BackgroundAccurate identification of replication origins is fundamental to understanding the regulatory mechanisms underlying genome duplication. In the fission yeast (Schizosaccharomyces pombe), the autonomously replicating sequences (ARSs) lack a consensus element and are defined largely by AT-rich sequence, a property to amenable computational modeling, yet no dedicated tool has been available for genome-wide ARS annotation.MethodsHere we present Ori-Finder-Pombe, a web server tailored for genome-wide annotation of ARSs in the S. pombe genome based solely on DNA sequences. Its pipeline employs a lightweight, accurate two-step strategy that integrates an ensemble ARS candidate-finding algorithm and a machine learning classifier to systematically scan the whole genome for potential ARSs.ResultsOn the reference genome, Ori-Finder-Pombe recovered 92.76% of benchmark ARSs (359/387) at 91.69% precision. Building on this benchmark performance, we further applied Ori-Finder-Pombe to 88 additional genome assemblies from 47 S. pombe strains, yielding a database of 42,172 predicted ARSs, and found that 201 of the 387 benchmark ARSs are conserved in all 48 strains.DiscussionOri-Finder-Pombe provides a rapid and reliable solution for genome-wide ARS screening in fission yeast and a cross-strain resource for evolutionary analysis. The web server and database are freely available at: https://tubic.tju.edu.cn/Ori-Finder-Pombe/.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.2017953",
+    "date": "2026-11-26",
+    "authors": "Feng Gao",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.2017953",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "DNA",
+        "annotation",
+        "genome",
+        "method",
+        "sequence",
+        "tool",
+        "web server",
+        "yeast"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "annotation",
+          "assemblies",
+          "evolution",
+          "genom",
+          "genome"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5767,
+    "collected_at": "2026-11-26T19:48:23.275553+00:00",
+    "collected_date": "2026-11-27",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.3389/fmicb.2026.2017953"
+    ],
+    "translation": {
+      "title": {
+        "hash": "fff08179641f3308d125203ddc4c30d25b189e90efb65ed1e1a2bfcf412e0b17",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T20:15:42.595389+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3d5b6c984e1c99f071296c5abdc989301eab7e0aed95e199a0c91a7d86106d99",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T20:15:42.595389+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Ori-Finder-Pombe: Schizosaccharomyces pombeにおけるDNA複製起点のゲノムワイドアノテーション用ウェブサーバー",
+    "abstract_ja": "背景複製起点の正確な同定は、ゲノム重複の根底にある調節機構を理解する上で不可欠である。分裂酵母（Schizosaccharomyces pombe）において、自律的に複製される配列（ARS）はコンセンサスエレメントを欠いており、主にATリッチな配列によって定義される。この特性は計算モデリングに適しているが、ゲノムワイドなARSアノテーションのための専用ツールはこれまで提供されていなかった。方法本稿では、DNA配列のみに基づいてS. pombeゲノムにおけるARSのゲノムワイドアノテーションを行うために設計されたウェブサーバー「Ori-Finder-Pombe」を提案する。そのパイプラインは、アンサンブル型ARS候補探索アルゴリズムと機械学習分類器を統合した、軽量かつ高精度な2段階戦略を採用しており、ゲノム全体を系統的にスキャンして潜在的なARSを探索する。結果リファレンスゲノムにおいて、Ori-Finder-Pombeは91.69%の適合率でベンチマークARSの92.76%（359/387）を回収した。このベンチマーク性能に基づき、さらに47株のS. pombe由来の88の追加ゲノムアセンブリにOri-Finder-Pombeを適用したところ、42,172個の予測ARSからなるデータベースが得られ、387個のベンチマークARSのうち201個が全48株で保存されていることが判明した。考察Ori-Finder-Pombeは、分裂酵母におけるゲノムワイドなARSスクリーニングのための迅速かつ信頼性の高いソリューションであり、進化解析のためのクロスストレインリソースを提供する。本ウェブサーバーおよびデータベースは、https://tubic.tju.edu.cn/Ori-Finder-Pombe/ にて無料で利用可能である。"
+  },
+  {
+    "id": "10.1093/ismeco/ycag326",
+    "title": "Sediment redox-associated conditions influence horseshoe crab (Limulus polyphemus) egg microbiomes through environmental filtering",
+    "abstract": "ABSTRACTHorseshoe crabs (Limulus polyphemus) deposit developing eggs into intertidal sediments, creating transient microhabitats where host-associated and sediment-derived microbial communities intersect. Although sediment chemistry is expected to influence early development, the microbial ecology of buried eggs remains poorly resolved. Here, 16S rRNA gene sequencing was used to characterise microbiomes of eggs and adjacent sands from beige, visually oxidised and dark, visually reduced sediments at Zach’s Bay, Long Island, NY. Sand samples harboured the richest and most even communities, whereas eggs contained low-diversity communities which were compositionally filtered relative to surrounding sediments. Eggs deposited in dark, visually reduced sands exhibited slightly higher within-sample diversity and greater heterogeneity than eggs from beige, visually oxidised sands and were enriched in taxa affiliated with anaerobic or redox-linked metabolisms. Differential abundance analyses revealed that egg microbiomes were consistently enriched in putatively fermentative and sulphate-reducing lineages, while beige, visually oxidised sands were enriched in nitrifier-associated taxa and aerobic heterotrophs. Approximately 11% of phylogenetically clustered populations detected in eggs were egg-exclusive, and most were sporadically detected with generally low abundances. Most other populations detected in egg clutches overlapped with the surrounding sediment, indicating that eggs were colonized by microbiomes primarily from environmental pools. These patterns support environmental recruitment followed by filtering under local sediment conditions, rather than a conserved egg-specific core. This work establishes baseline ecological patterns for understanding how microbially mediated processes may influence horseshoe crab egg development across heterogeneous spawning habitats.",
+    "journal": "ISME Communications",
+    "doi": "10.1093/ismeco/ycag326",
+    "date": "2026-11-25",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://academic.oup.com/ismecommun/advance-article/doi/10.1093/ismeco/ycag326/9122904?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "microbial",
+        "microbiome",
+        "microbiomes"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6596/advanceAccess_4180.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5757,
+    "collected_at": "2026-11-26T19:48:23.275553+00:00",
+    "collected_date": "2026-11-27",
+    "sources": [
+      "https://academic.oup.com/rss/site_6596/advanceAccess_4180.xml"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1093/ismeco/ycag326"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e65a53bc297efd6918812a553d7927484755c270757fd1db201cb6ea7c1fc529",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T20:15:42.595389+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e71190f2dfb884adee5d683a35faa2e0bf96836a4b523d261ea24a947ee9802f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T20:15:42.595389+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "堆積物の酸化還元関連条件は、環境濾過を通じてカブトガニ（Limulus polyphemus）の卵微生物叢に影響を及ぼす。",
+    "abstract_ja": "要旨 カブトガニ（Limulus polyphemus）は、発育中の卵を潮間帯の堆積物中に産み付け、宿主関連の微生物群集と堆積物由来の微生物群集が交差する一時的な微小生息環境を形成する。堆積物の化学組成が初期発生に影響を及ぼすと予想されるが、埋没卵の微生物生態については依然として十分に解明されていない。本研究では、ニューヨーク州ロングアイランドのザックス湾において、ベージュ色で視覚的に酸化した堆積物および暗色で視覚的に還元された堆積物から、16S rRNA遺伝子シーケンシングを用いて卵および隣接する砂のマイクロバイオームを特性評価した。砂試料は最も豊富かつ均一な群集を保持していた一方、卵は周囲の堆積物と比較して組成的に濾過された、多様性の低い群集を含んでいた。暗色で視覚的に還元された砂に産み付けられた卵は、ベージュ色の視覚的に酸化した砂の卵よりもサンプル内多様性がわずかに高く、不均一性も大きかったほか、嫌気性または酸化還元連鎖代謝に関連する分類群が豊富であった。存在量の差による解析の結果、卵のマイクロバイオームは発酵性および硫酸還元性と考えられる系統群で一貫して豊富であったのに対し、ベージュ色の視覚的に酸化した砂では硝化菌関連の分類群および好気性従属栄養生物が豊富であった。卵から検出された系統群的にクラスターを形成する集団の約11%は卵に特有のものであり、その大部分は散発的に検出され、概して存在量は低かった。卵塊から検出されたその他のほとんどの集団は周囲の堆積物と重複しており、これは卵が主に環境プール由来のマイクロバイオームによって定着したことを示唆している。これらのパターンは、保存された卵固有のコアではなく、局所的な堆積物条件下での環境リクルートに続く濾過を支持するものである。本研究は、不均一な産卵生息環境において、微生物を介したプロセスがカブトガニの卵の発生にどのように影響し得るかを理解するための基礎的な生態学的パターンを確立するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 4",
+        "query": "(JOURNAL:\"Infection and Immunity\" OR JOURNAL:\"Antimicrobial Agents and Chemotherapy\" OR JOURNAL:\"Journal of Clinical Microbiology\" OR JOURNAL:\"Microbiology Resource Announcements\" OR JOURNAL:\"Nature\" OR JOURNAL:\"Nature Microbiology\" OR JOURNAL:\"Nature Ecology & Evolution\" OR JOURNAL:\"Nature Communications\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/mra.00626-26",
+    "title": "Draft genome announcement of three species of <i>Ambrosiella</i>, obligate symbionts of ambrosia beetles.",
+    "abstract": "We report three draft genome sequences of insect mutualistic Ambrosiella spp. isolated from ambrosia beetles. Genomes were sequenced using Illumina PE150, yielding an average genome size of 27.2 Mbp and BUSCO completeness of 98.80%. These genomes include the first draft genome of A. grosmanniae, symbiont of Xylosandrus germanus (black stem borer).",
+    "journal": "Microbiology Resource Announcements",
+    "doi": "10.1128/mra.00626-26",
+    "date": "2026-10-28",
+    "authors": "Scott K, Moore ME, Carpenter SCD, Bushley KE, Lovett B.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42949274",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42949274",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5612,
+    "collected_at": "2026-11-26T19:37:41.241939+00:00",
+    "collected_date": "2026-11-27",
+    "sources": [
+      "Europe PMC journals 4"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1128/mra.00626-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "817fc2a68d8cc1064c8e24841b71cca9f035eeb0eb855533594a1b2571612a74",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T20:15:42.595389+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c8012753d5ec3fb0d40c6431eaface7af194e079225655d110e9c81b7cfa6768",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T20:15:42.595389+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "アンブロシア甲虫の絶対共生菌である<i>Ambrosiella</i>属3種のゲノムドラフトの発表",
+    "abstract_ja": "アンブロシア甲虫から単離した昆虫相利共生種Ambrosiella属の3つのドラフトゲノム配列を報告する。ゲノムのシーケンシングにはIllumina PE150を用い、平均ゲノムサイズは27.2 Mbp、BUSCO完全性は98.80%であった。これらのゲノムには、Xylosandrus germanus（クロ stem borer）の共生種であるA. grosmanniaeの初のドラフトゲノムが含まれている。"
+  },
+  {
+    "id": "10.1093/nar/gkag1248",
+    "title": "TFRegDB v2.0: an integrated database of human transcription factor effector domains",
+    "abstract": "AbstractTranscription factors (TFs) recognize DNA through well-defined DNA-binding domains, but their regulatory output depends on effector domains that activate or repress transcription. Most effector domains have been mapped one protein at a time in low-throughput reporter assays, and the resulting annotations remain scattered across decades of literature. We present TFRegDB v2.0, a curated database of experimentally supported transcriptional effector domains resolved at the level of individual protein isoforms. By combining language-model-assisted screening of the published literature with manual verification of every record, and merging these annotations with high-throughput domain-mapping screens, we consolidated 5277 experimentally supported domain reports across 1268 human TFs from 64 families, curated from 1072 publications and representing an 8.7-fold expansion over our previous compendium. Every activation and repression domain annotation is delivered together with precomputed AlphaFold structural models, per-residue conservation at amino acid and nucleotide resolution, computational predictions, short linear motifs, biophysical and disorder profiles, post-translational modifications, germline variants, and the exon–intron structure encoding the domain, allowing users to evaluate how alternative isoforms and genetic variation compromise effector-domain integrity. TFRegDB v2.0 is freely accessible through an interactive portal, a public REST API and bulk downloads at https://tfregdb.com, and accepts community-submitted annotations for future releases.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1248",
+    "date": "2026-11-26",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkag1248/9133946?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "database",
+        "protein"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "annotation",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5759,
+    "collected_at": "2026-11-26T19:48:23.275553+00:00",
+    "collected_date": "2026-11-27",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/advanceAccess_3091.xml"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1093/nar/gkag1248"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b64b1a852fb2ac881cb0965dd67387bbeb6e3f71f9e08f49351ec779759ae6a2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T20:15:42.595389+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9625613c66ab5ba5c31f8333005714cd9361b24204a1f905b2f6a5acf23cea5c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T20:15:42.595389+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "TFRegDB v2.0: ヒト転写因子エフェクタードメインの統合データベース",
+    "abstract_ja": "要旨転写因子（TF）は、明確に定義されたDNA結合ドメインを介してDNAを認識するが、その調節出力は、転写を活性化または抑制するエフェクタードメインに依存している。ほとんどのエフェクタードメインは、低スループットのレポーターアッセイを用いてタンパク質ごとにマッピングされており、その結果得られたアノテーションは、数十年にわたる文献の中に散在したままである。本稿では、個々のタンパク質アイソフォームレベルで解析された、実験的に裏付けられた転写エフェクタードメインのキュレート済みデータベースであるTFRegDB v2.0を提案する。公開文献に対する言語モデル支援型スクリーニングと全レコードの手動検証を組み合わせ、これらのアノテーションをハイスループットなドメインマッピングスクリーニングと統合することで、64ファミリー、1,072報の論文からキュレートされた、1,268種類のヒトTFにわたる5,277件の実験的に裏付けられたドメインレポートを集約した。これは、我々の以前のコンペンディウムと比較して8.7倍の拡充となる。すべての活性化および抑制ドメインのアノテーションには、事前計算済みのAlphaFold構造モデル、アミノ酸およびヌクレオチド解像度での残基ごとの保存性、計算予測、短い線状モチーフ、生物物理学的および無秩序プロファイル、翻訳後修飾、生殖細胞系列バリアント、およびドメインをコードするエクソン・イントロン構造が併せて提供されており、ユーザーは代替アイソフォームや遺伝的変異がエフェクタードメインの完全性にどのような影響を及ぼすかを評価できる。TFRegDB v2.0は、インタラクティブポータル、公開REST API、および一括ダウンロードを通じて https://tfregdb.com で無料で利用可能であり、今後のリリースに向けてコミュニティから提出されたアノテーションを受け付けている。"
   }
 ]
