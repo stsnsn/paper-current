@@ -342660,5 +342660,287 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ドイツに輸入された小売用魚類におけるメチシリン耐性黄色ブドウ球菌：多剤耐性と毒素産生能",
     "abstract_ja": "はじめに魚類は世界的に取引されている人気の食品である。しかし、国際的な魚類貿易は、病原体の国境を越えた拡散における潜在的なリスク要因となり得る。メチシリン耐性黄色ブドウ球菌（MRSA）は、ヒトおよび動物の健康に関して高い懸念事項となっており、世界保健機関（WHO）によって優先度の高い病原体として指定されている。本研究では、アジアからドイツに輸入された魚類（主にパンガシウス）から分離された123株のMRSAの特性解析を行った。方法2019年から2025年にかけてドイツの小売店で魚類を採取し、分離されたMRSAに対して全ゲノム解析および薬剤感受性試験を実施した。結果分子タイピングの結果、18種類の配列型（ST）、23種類のスパ型、および6種類のブドウ球菌カセット染色体（SCC）mec型が認められた。最も頻度の高いMRSA系統はST188-t189-SCCmecIVa（41.5%, 51/123）であり、次いでST188-t2174-SCCmecIVa（10.6%, 13/123）、ST1232-t034-SCCmecV（8.9%, 11/123）であった。多剤耐性は広く認められ、MRSAの94.3%（116/123）が少なくとも3つの薬剤クラスに対して耐性を示した。最も一般的な薬剤耐性プロファイルには、シプロフロキサシン、クリンダマイシン、エリスロマイシン、セフォキシチン、ゲンタマイシン、カナマイシン、ペニシリン、およびトリメトプリムが含まれ、分離株の29.3%（36/123）で認められた。さらに、MRSA分離株において10種類の異なる腸管毒素遺伝子プロファイルが認められた。毒性ショック症候群毒素遺伝子tsstは6.5%（8/123）で、パントン・バレンタイン・ロイコシジン（PVL）遺伝子lukF-PVおよびlukS-PVは10.6%（13/123）で、剥離毒素遺伝子etaおよびetbは0.8%（1/123）の分離株で検出された。結論輸入された熱帯魚において、主要なヒト病原性因子遺伝子を有する多剤耐性MRSAの出現は懸念される。汚染を回避し公衆衛生を強化するため、魚類加工チェーン全体を通じて厳格な衛生管理措置を講じるべきである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1979054",
+    "title": "Endogenous calcification-assisted mineral-phase activation enhances Acidithiobacillus ferrooxidans-mediated vanadium bioleaching from vanadium-titanium blast furnace slag",
+    "abstract": "Vanadium-titanium blast furnace slag (V-Ti BFS) is a promising secondary vanadium resource, but its low vanadium content and structurally stable vanadium-bearing phases severely limit direct bioleaching. Here, combined thermal/mineralogical activation pretreatment was coupled with Acidithiobacillus ferrooxidans J0506-mediated bioleaching to enhance vanadium release from V-Ti BFS. Roasting at 1100 °C induced mineral-phase reconstruction, with the emergence of Ca3V2O8 accompanied by weakened V2Ti3O9 and VO2 signals, indicating the participation of intrinsic Ca in V-bearing phase transformation. This combined thermal/mineralogical activation increased vanadium leaching from approximately 20 (mg/kg slag) in the untreated slag to approximately 570 (mg/kg slag), corresponding to a net dissolved V recovery of approximately 30.0% of the total V. During bioleaching, Acidithiobacillus ferrooxidans J0506 rapidly oxidized Fe(II) during the first 3 d, while the system maintained a high oxidation–reduction potential; however, Fe(II) remained below detection thereafter, and continued Fe(III) regeneration over the full leaching period was not demonstrated. The BIO system yielded 570 (mg/kg slag) V, approximately 5.7, 4.8, and 2.85 times the amounts in the HCl, H2SO4, and spent-medium systems, respectively. Unmatched acid/Fe conditions preclude attributing differences solely to viable cells. SEM-EDS analysis showed pronounced surface roughening, corrosion pits, and Fe enrichment after bioleaching, indicating coupled interfacial disruption, and Fe redistribution. Genomic analysis confirmed the presence of the characteristic Acidithiobacillus ferrooxidans gene repertoire associated with Fe oxidation, electron transport, energy conservation, acid adaptation, and metal resistance. Operational parameter screening identified a suitable operating window for V–Ti BFS bioleaching, in which a 10% inoculum, a 0.5% w/v pulp density, and 3 g/L initial Fe(II) promoted vanadium release. These parameters were comparable to previously reported Acidithiobacillus ferrooxidans-based vanadium bioleaching systems, but their effects were evaluated here specifically under the mineralogical constraints of calcified V–Ti BFS. Overall, enhanced vanadium recovery was driven by the synergistic coupling of calcification-induced mineral-phase activation and early microbial Fe(II) oxidation, providing a mechanistic basis for vanadium recovery with reduced reliance on externally added Ca reagents and intensive chemical leaching.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1979054",
+    "date": "2026-11-26",
+    "authors": "Li Zeng",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1979054",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5766,
+    "collected_at": "2026-11-26T19:48:23.275553+00:00",
+    "collected_date": "2026-11-27",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.3389/fmicb.2026.1979054"
+    ],
+    "translation": {
+      "title": {
+        "hash": "282fb7b3f4367e4c3e6bd0aec2afb2e971a2202b61b608b86852b621458088b0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T20:12:46.272335+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1b36c611f77e3e11231ebef6093fa2e66272f4bc10da028612ee42078276bd48",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T20:12:46.272335+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "内因性石灰化による鉱物相活性化は、バナジウム－チタン高炉スラグからのAcidithiobacillus ferrooxidans介在性バナジウム生物浸出を促進する。",
+    "abstract_ja": "バナジウムチタン高炉スラグ（V-Ti BFS）は有望な二次バナジウム資源であるが、バナジウム含有量の低さと構造的に安定なバナジウム含有相により、直接的なバイオリーチングが著しく制限されている。本研究では、V-Ti BFSからのバナジウム放出を促進するため、熱的・鉱物学的活性化の複合前処理を、Acidithiobacillus ferrooxidans J0506を介したバイオリーチングと組み合わせた。1100 °Cでの焙焼により鉱物相の再構成が誘導され、Ca3V2O8が出現するとともに、V2Ti3O9およびVO2シグナルの減弱が認められた。これは、V含有相の変態に固有のCaが関与していることを示している。この熱的・鉱物学的活性化の複合処理により、未処理スラグにおけるバナジウム溶出量は約20（mg/kg slag）から約570（mg/kg slag）へと増加し、これは全Vの約30.0%に相当する正味の溶存V回収量に相当した。バイオリーチング中、Acidithiobacillus ferrooxidans J0506は最初の3日間でFe(II)を急速に酸化し、系は高い酸化還元電位を維持したが、その後Fe(II)は検出限界以下に留まり、リーチング全期間にわたる継続的なFe(III)再生は認められなかった。BIO系では570（mg/kg slag）のVが得られ、これはHCl系、H2SO4系、および使用済媒体系のそれぞれにおける量の約5.7倍、4.8倍、および2.85倍に相当した。比類のない酸/Fe条件により、この差異を単に生存菌に起因するものとすることはできない。SEM-EDS分析では、バイオリーチング後に顕著な表面粗化、腐食ピット、およびFe濃縮が認められ、界面破壊とFeの再分配が連動していることが示された。ゲノム解析により、Fe酸化、電子伝達、エネルギー保存、酸適応、および金属耐性に関連するAcidithiobacillus ferrooxidans特有の遺伝子レパートリーの存在が確認された。運転パラメータのスクリーニングにより、V–Ti BFSバイオリーチングに適した運転ウィンドウが特定され、そこでは10%の接種菌量、0.5% w/vのパルプ密度、および3 g/Lの初期Fe(II)がバナジウム放出を促進した。これらのパラメータは、既報のAcidithiobacillus ferrooxidansベースのバナジウムバイオリーチング系と同等であったが、本研究では特に石灰化したV–Ti BFSという鉱物学的制約条件下でその効果を評価した。総じて、石灰化誘導性の鉱物相活性化と初期の微生物によるFe(II)酸化の相乗的な結合によってバナジウム回収の向上が実現し、外部から添加するCa試薬や集中的な化学リーチングへの依存度を低減させたバナジウム回収の機構的基盤が提示された。"
+  },
+  {
+    "id": "10.1093/ismeco/ycag344",
+    "title": "Modelling and experimentation reveal highly variable degradation and inactivation rates among marine viruses across seasons",
+    "abstract": "AbstractViral decay rates influence the efficiency of viral transmission and consequently affect virus-host dynamics and the spread of disease. However, little is known about the variation in the mode and rate of viral decay for different virus types under varying environmental conditions. Here, we present a simple model of viral decay in which virus particle removal and inactivation (i.e. loss of infectivity without particle removal) are treated as two independent processes. The model was validated based on in-situ decay experiments of virions from four marine algal virus-host systems across three seasons (summer, spring, winter). The experiments were conducted in dialysis bags to avoid production of new viruses. Model parametrisation revealed that loss rates of virus-like particles (VLPs) were not significantly different across virus species but was significantly higher in summer and spring compared to winter. Conversely, loss rates of infectious particles (i.e. infectious viruses that are either inactivated or removed) exhibited an opposite trend, showing no significant variation across seasons but significant differences between viruses from different virus-host systems within a season. We argue that these results are consistent with our model assumptions. Our study highlights the importance of distinguishing between loss rates of VLPs and infectious particles when examining viral decay patterns. Moreover, we provide evidence that the portion of infectivity decay that cannot be explained by VLP decay varies considerably between virus types and seasons. Extrapolating results of decay patterns observed in a limited number of conditions in marine environments should therefore be done with caution.",
+    "journal": "ISME Communications",
+    "doi": "10.1093/ismeco/ycag344",
+    "date": "2026-11-26",
+    "authors": "",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://academic.oup.com/ismecommun/advance-article/doi/10.1093/ismeco/ycag344/9135797?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6596/advanceAccess_4180.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5756,
+    "collected_at": "2026-11-26T19:48:23.275553+00:00",
+    "collected_date": "2026-11-27",
+    "sources": [
+      "https://academic.oup.com/rss/site_6596/advanceAccess_4180.xml"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1093/ismeco/ycag344"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4d826dc34bed6709557e6bc872562760c19652b18c4df24f1b51516057703200",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T20:12:46.272335+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "56f01985fee7406ecce5b9fcdbb642511015373aaf195dd9b7d18fc3d443f2b4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T20:12:46.272335+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "モデリングと実験により、海洋ウイルスの分解および不活化速度が季節によって大きく変動することが明らかになった。",
+    "abstract_ja": "要旨 ウイルスの分解速度はウイルス伝播効率に影響を与え、ひいてはウイルス・宿主動態や疾患の拡大に影響を及ぼす。しかし、異なる環境条件下におけるウイルス種ごとの分解様式および速度の変動については、ほとんど解明されていない。本研究では、ウイルス粒子の除去と不活化（すなわち、粒子除去を伴わない感染性の喪失）を2つの独立したプロセスとして扱う、ウイルス分解の簡便なモデルを提示する。本モデルは、3つの季節（夏季、春季、冬季）にわたる4つの海洋藻類ウイルス・宿主系におけるビリオンのin-situ分解実験に基づいて検証された。新たなウイルスの産生を防ぐため、実験は透析バッグを用いて実施した。モデルのパラメータ化により、ウイルス様粒子（VLP）の喪失速度はウイルス種間で有意な差は認められなかったが、冬季と比較して夏季および春季では有意に高かった。対照的に、感染性粒子（すなわち、不活化または除去された感染性ウイルス）の喪失速度は逆の傾向を示し、季節間で有意な変動は認められなかったが、同一季節内の異なるウイルス・宿主系間では有意な差が認められた。我々は、これらの結果がモデルの仮定と整合的であると論じる。本研究は、ウイルス分解パターンを検討する際に、VLPと感染性粒子の喪失速度を区別することの重要性を強調するものである。さらに、VLPの分解では説明できない感染性の分解分が、ウイルス種や季節によって著しく異なるという証拠を提示する。したがって、海洋環境の限られた条件下で観察された分解パターンの結果を外挿する際には、慎重な対応が求められる。"
+  },
+  {
+    "id": "10.1093/ismehm/aazag025",
+    "title": "Reproducible Community States Resolve the Nasopharyngeal Diversity Paradox",
+    "abstract": "AbstractThe nasopharyngeal microbiome is critical for respiratory health, yet its compositional architecture remains largely uncharacterized, underlying conflicting reports of increased, decreased, or unchanged diversity during infection. Here, we demonstrate that these contradictions arise from a fundamentally overlooked factor: the nasopharynx is organized into six reproducible nasopharyngeal community state types (NPCSTs) with distinct diversity baselines. Infection is associated with NPCST membership, whereas diversity within NPCSTs is largely unrelated to infection. By uniformly reprocessing 7,790 16S rRNA gene sequencing samples from 28 studies, we show that NPCSTs explain 52% of community variance, four-fold more than study effects, and that NPCST adjustment substantially attenuates disease-diversity associations across and within studies. To identify genuine disease markers, we applied NPCST-aware differential abundance testing to SARS-CoV-2 as a case study. Leave-one-study-out (LOSO) cross-validation across 10 cohorts confirmed 13 reproducible taxa with opposing shifts: obligate anaerobes typically studied in other body compartments were enriched, while resident hub genera were depleted with high directional consistency. Co-occurrence network analysis independently validated this pattern, identifying the depleted taxa as structural backbone hubs across all NPCSTs. We then developed the Nasopharyngeal Microbiome Health Index (NMHI), a continuous community-level wellness score achieving AUC of 0.88 and 0.92 in internal and external validations, respectively, with robust performance across all six NPCSTs (AUC: 0.848-0.953). An independent clinical cohort of 147 specimens confirmed that these NPCST and NMHI characteristics are reproducible. Unlike binary classifiers, NMHI quantifies nasopharyngeal health along a spectrum, establishing NPCST-aware analysis as a foundation for precision respiratory microbiome research.",
+    "journal": "ISME Host Microbe",
+    "doi": "10.1093/ismehm/aazag025",
+    "date": "2026-11-26",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/ismehm/advance-article/doi/10.1093/ismehm/aazag025/9135833?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_6795/advanceAccess_4237.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5758,
+    "collected_at": "2026-11-26T19:48:23.275553+00:00",
+    "collected_date": "2026-11-27",
+    "sources": [
+      "https://academic.oup.com/rss/site_6795/advanceAccess_4237.xml"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1093/ismehm/aazag025"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3c229a6707fec34c1e4ff337a9e989691f7d34577b0ea596ada2ab0c3cf70511",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T20:12:46.272335+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "57e5b41653a44cd78fdc009eec6f87d263b92b317a2991e65b64ed0a318492a5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T20:12:46.272335+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "再現可能なコミュニティ状態が鼻咽頭の多様性パラドックスを解決する",
+    "abstract_ja": "要旨：鼻咽頭マイクロバイオームは呼吸器系の健康にとって極めて重要であるが、その構成構造は依然として大部分が未解明であり、感染時に多様性が増加、減少、あるいは不変であるという相反する報告の背景となっている。本研究では、これらの矛盾が根本的に見落とされていた要因、すなわち鼻咽頭がそれぞれ異なる多様性のベースラインを持つ6つの再現性のある鼻咽頭コミュニティ状態タイプ（NPCSTs）に組織化されていることに起因することを実証する。感染はNPCSTへの所属と関連しているが、NPCST内の多様性は感染とはほとんど無関係である。28の研究から得られた7,790件の16S rRNA遺伝子シーケンシングサンプルを統一的に再処理した結果、NPCSTがコミュニティ分散の52%を説明し、これは研究効果の4倍に相当すること、またNPCSTによる調整が研究間および研究内における疾患と多様性の関連性を著しく減弱させることを示した。真の疾患マーカーを同定するため、ケーススタディとしてSARS-CoV-2にNPCSTを考慮した差次的存在量解析を適用した。10のコホートにわたるleave-one-study-out（LOSO）交差検証により、相反するシフトを示す13の再現性のある分類群が確認された。すなわち、通常他の生体コンパートメントで研究される偏性嫌気性菌が濃縮される一方で、常在ハブ属は高い方向性の一貫性をもって減少していた。共起ネットワーク解析によってこのパターンが独立して検証され、減少した分類群がすべてのNPCSTにおける構造的バックボーンハブであることが特定された。次に、鼻咽頭マイクロバイオーム健康指数（NMHI）を開発した。これは連続的なコミュニティレベルのウェルネススコアであり、内部検証および外部検証においてそれぞれ0.88および0.92のAUCを達成し、6つのNPCSTすべてにおいて堅牢な性能を示した（AUC: 0.848-0.953）。147検体からなる独立した臨床コホートにより、これらのNPCSTおよびNMHIの特性が再現性を持つことが確認された。二値分類器とは異なり、NMHIは鼻咽頭の健康状態をスペクトラムに沿って定量化し、NPCSTを考慮した解析を精密な呼吸器マイクロバイオーム研究の基盤として確立するものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 4",
+        "query": "(JOURNAL:\"Infection and Immunity\" OR JOURNAL:\"Antimicrobial Agents and Chemotherapy\" OR JOURNAL:\"Journal of Clinical Microbiology\" OR JOURNAL:\"Microbiology Resource Announcements\" OR JOURNAL:\"Nature\" OR JOURNAL:\"Nature Microbiology\" OR JOURNAL:\"Nature Ecology & Evolution\" OR JOURNAL:\"Nature Communications\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/mra.00907-26",
+    "title": "Genome sequence of <i>Clostridioides difficile</i> PRB1128, a RT023 strain containing a mobile genetic element allowing for xylitol utilization.",
+    "abstract": "Clade 3 strains of Clostridioides difficile, dominated by PCR ribotype 023 (RT023) strains, remain the least well studied in the phylogeny. We sequenced a strain of RT023 C. difficile (PRB1128) to gain molecular genetic insights and add to the limited repository of RT023 genomes in existence.",
+    "journal": "Microbiology Resource Announcements",
+    "doi": "10.1128/mra.00907-26",
+    "date": "2026-10-29",
+    "authors": "Wozniak KJ, Corver J, Kuijper EJ, Smits WK, Britton RA.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42954463",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42954463",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "phylogen",
+          "phylogeny"
+        ],
+        "evolution": [
+          "phylogeny"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 5611,
+    "collected_at": "2026-11-26T19:37:41.241939+00:00",
+    "collected_date": "2026-11-27",
+    "sources": [
+      "Europe PMC journals 4"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1128/mra.00907-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4c0fdd6b6f1a29680389f679f4f098ed441df2f89de340dc677d49ef149266e7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T20:12:46.272335+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c5c5cff0d8d7c1ab2b07d69c1494ec53ba499a02c6f70a848a41891dd34dd9b5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T20:12:46.272335+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "キシリトール利用を可能にする可動性遺伝因子を有するRT023株、<i>Clostridioides difficile</i> PRB1128のゲノム配列。",
+    "abstract_ja": "PCRリボタイプ023（RT023）株が主体を占めるClostridioides difficileの3系統の株は、系統樹において依然として最も研究が進んでいない。我々は、分子遺伝学的知見を得るとともに、現存する限られたRT023ゲノムのリポジトリを拡充するため、RT023 C. difficile株（PRB1128）の配列を決定した。"
   }
 ]
