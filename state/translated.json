@@ -337366,5 +337366,281 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "標的メタボロミクスとハイスループットMiSeqシーケンシングの統合解析により、ブロイラーにおける脂肪沈着に及ぼす発酵綿実粕の影響が明らかになった。",
     "abstract_ja": "はじめに本研究では、ブロイラーにおける発酵綿実粕（FCSM）および非発酵のCandida tropicalis ZD-3調製物の栄養・代謝応答を評価した。方法21日間の試験において、雄のCobb 500ブロイラー180羽を、6%の非発酵対照物質（CON）、6%の乾燥C. tropicalis ZD-3調製物（ZD-3）、または6%のFCSMを含む飼料に無作為に割り当てた。発育成績、見かけの栄養素消化率、脂肪沈着、および脂質関連遺伝子の発現を評価した。標的メタボロミクスにより肝臓および腹部脂肪中の有機物および脂肪酸のプロファイルを解析し、16S rRNA遺伝子シーケンシングにより盲腸微生物叢を特性評価した。結果CONと比較して、両試験飼料ともに乾物および粗タンパク質の消化率を改善し、飼料対増体比を低下させ、腹部脂肪収量を1.66%からZD-3では1.17%へ、FCSMでは0.95%へと有意に減少させた。CONと比較して、FCSMのみが平均日増体量を増加させた。両処理ともに、肝臓における脂肪酸合成酵素（FAS）のmRNA発現を減少させ、リポタンパク質リパーゼ（LPL）の発現を増加させた。肝臓のコハク酸およびパントテン酸濃度は両処理で高く、腹部脂肪中のコハク酸はFCSMで最も高かった。FCSMは肝臓のドコサヘキサエン酸（DHA）および腹部脂肪のアラキドン酸を増加させ、両組織においてエルカ酸を減少させた。両処理ともに盲腸微生物の豊富さを増加させ、FCSMはシャノン多様性指数も増加させた。FCSMはBacteroidesおよびPhascolarctobacteriumの相対存在量を増加させた一方、ZD-3はButyricimonasおよびParabacteroidesの相対存在量を増加させた。BacteroidesおよびMegamonasの相対存在量は、腹部脂肪率とそれぞれ負および正の相関を示した。考察飼料への6%配合において、FCSMおよび乾燥ZD-3調製物は腹部脂肪収量および皮下脂肪厚を減少させた。これらの応答には、組織の有機物および脂肪酸プロファイルの変化、ならびに盲腸微生物組成の顕著な変化が伴っていた。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.2009157",
+    "title": "Molecular surveillance and genotypic characterization of Orientia tsutsugamushi in Trombiculid chiggers and rodent hosts from the Cauvery Delta Zone of Southern India",
+    "abstract": "IntroductionScrub typhus is an emerging cause of acute undifferentiated fever in India, with national outbreak surveillance documenting 3,751 cases and 93 deaths during 2009–2023. In rural Tamil Nadu, approximately one in five patients with clinically identified scrub typhus required hospitalization. However, chigger vectors remain poorly described in the Cauvery Delta. We examined their distribution across habitats, hosts and months in Thiruvarur district and investigated Orientia tsutsugamushi in small mammals and associated chiggers.MethodsFrom September 2023 to December 2024, 282 small mammals were trapped across urban, peri-urban, paddy, mangrove and riverine sites. Hosts were identified morphologically and confirmed using mitochondrial COX1 sequencing. Infesting chiggers were retrieved. Infestation prevalence, mean abundance, mean intensity and an approximate Leptotrombidium deliense index were calculated. Chigger pools and individual host tissues underwent groEL-targeted nested PCR and phylogenetic analysis. Lung, spleen and liver tissues from a PCR-positive host and PCR-negative chigger free hosts were examined using hematoxylin and eosin staining.ResultsChiggers occurred on 134 animals (47.5%), yielding 3,747 larvae (mean abundance 13.3; mean intensity 28.0). Prevalence was higher in riverine (71.1%) and mangrove (63.2%) habitats than in other landscapes (41–43%). Mean intensity was highest in paddy habitats (49.0), followed by riverine habitats (34.4). Seasonal intensity increased during the northeast monsoon and winter, with variation among landscapes. L. deliense and L. rajasthanense comprised 62.9% and 36.5% of larvae, respectively. O. tsutsugamushi groEL sequences from chigger pools and rodent tissue clustered with Karp-related strains. Positive chiggers were collected from Millardia meltada. Histopathological examination of the PCR-positive host showed alveolar hemorrhage, splenic red-pulp congestion and hepatic hydropic change.DiscussionHigher infestation in wetland habitats and increased intensity during monsoon and cooler months identify settings and periods for focused surveillance in the Cauvery Delta. Detection of O. tsutsugamushi DNA in chiggers and rodent tissue supports local pathogen circulation. Histopathological findings suggest tissue injury but do not establish an Orientia-specific cause. These findings support integrated surveillance of small mammals, chiggers and human infections.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.2009157",
+    "date": "2026-11-25",
+    "authors": "Jayalakshmi Krishnan",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.2009157",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [
+          "river"
+        ],
+        "genomics": [
+          "DNA",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5626,
+    "collected_at": "2026-11-25T15:46:29.923395+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-25",
+    "related_dois": [
+      "10.3389/fmicb.2026.2009157"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b8e14ed5fb6645d2c1762e3eeab2862f6d98c70566c335ef44bd693385512de5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:16:40.415485+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "634d6baa0cb5050811009ae26a1692ea0626c3f46ed92b36fdb47eae7ad00d62",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:16:40.415485+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "南インド・コーヴェリデルタ地帯のツツガムシ科ツツガムシおよび齧歯類宿主におけるOrientia tsutsugamushiの分子サーベイランスと遺伝子型特性解析",
+    "abstract_ja": "はじめにツツガムシ病は、インドにおいて急性未分化熱の新たな原因疾患となっており、全国的なアウトブレイクサーベイランスでは2009年から2023年の間に3,751例の症例と93例の死亡が記録されている。タミル・ナードゥ州の農村部では、臨床的にツツガムシ病と診断された患者の約5人に1人が入院を必要とした。しかし、カヴェリ・デルタ地域におけるツツガムシ媒介生物に関する記述は依然として不十分である。本研究では、ティルヴァルール地区における生息地、宿主、および月ごとの分布を調査し、小型哺乳類におけるOrientia tsutsugamushiおよび関連するツツガムシについて検討した。方法2023年9月から2024年12月にかけて、都市部、都市近郊、水田、マングローブ、および河畔域において282頭の小型哺乳類を捕獲した。宿主は形態学的に同定し、ミトコンドリアCOX1シーケンシングを用いて確認した。寄生していたツツガムシを回収した。寄生率、平均個体数、平均強度、およびおおよそのLeptotrombidium deliense指数を算出した。ツツガムシプールおよび個々の宿主組織に対し、groEL標的ネストPCRおよび系統解析を行った。PCR陽性の宿主およびPCR陰性のツツガムシ非保有宿主から得られた肺、脾臓、および肝臓組織を、ヘマトキシリン・エオジン染色を用いて検討した。結果134頭の動物（47.5%）にツツガムシが認められ、3,747匹の幼虫が得られた（平均個体数13.3、平均強度28.0）。寄生率は、他の環境（41–43%）よりも河畔域（71.1%）およびマングローブ域（63.2%）で高かった。平均強度は水田環境（49.0）で最も高く、次いで河畔域（34.4）であった。季節的な強度は北東モンスーン期および冬季に増加し、環境によって変動が認められた。L. delienseとL. rajasthanenseは、それぞれ幼虫の62.9%および36.5%を占めていた。ツツガムシプールおよび齧歯類組織からのO. tsutsugamushiのgroEL配列は、コイ科関連株とクラスターを形成した。Millardia meltadaから陽性のツツガムシを採取した。PCR陽性宿主の組織病理学的検討では、肺胞出血、脾臓の赤髄充血、および肝水腫性変化が認められた。考察湿地環境における寄生率の高さ、およびモンスーン期や低温期における強度の増加は、カヴェリ・デルタにおける重点的なサーベイランスを行うべき環境および時期を特定するものである。ツツガムシおよび齧歯類組織におけるO. tsutsugamushi DNAの検出は、地域的な病原体の循環を裏付けるものである。組織病理学的所見は組織損傷を示唆しているが、Orientia属特有の原因を確定するものではない。これらの知見は、小型哺乳類、ツツガムシ、およびヒト感染症の統合的なサーベイランスを支持するものである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1906295",
+    "title": "Detection of antiviral resistance in HSV-1 and HSV-2: development and validation of a nested polymerase chain reaction-coupled next-generation sequencing assay",
+    "abstract": "BackgroundAntiviral resistance in herpes simplex virus types 1 and 2 (HSV-1 and HSV-2) poses a growing clinical challenge. Conventional methods for detecting resistance-associated mutations lack accuracy and reliability due to sub-optimal gene amplification and incomplete mutation databases.ObjectiveTo develop and validate a polymerase chain reaction (PCR) and curated database for use as part of a next-generation sequencing (NGS) workflow for detecting candidate susceptibility-altering variants in HSV-1 and HSV-2, with full-gene coverage of the thymidine kinase (tk) and DNA polymerase (pol) genes.MethodsA nested PCR assay was developed with primers targeting the full-length tk and pol genes. Amplification conditions were optimized through systematic screening of reaction mixture formula, annealing time, and temperature. Amplified products were sequenced on the Illumina MiSeq platform. Analytical sensitivity, repeatability, and specificity were evaluated using positive controls and clinical samples. Detected variants were identified using an online resistance mutation database (Codex_V5), supplemented with literature-reported mutations. The assay was finally validated on clinical specimens.ResultsThe nested PCR assay achieved a detection limit of 102-103 copies/mL for tk and 103-104 copies/mL for pol, with performance comparable to qPCR. The assay demonstrated high repeatability and no significant cross-reactivity with other viral pathogens. Sequencing of clinical samples identified multiple polymorphisms and fewer candidate susceptibility-altering variants, including T66frameshift and A185frameshift in HSV-1 tk. HSV-2 samples exhibited fewer resistance-associated mutations.ConclusionThe nested PCR-NGS assay enables sensitive, specific, and clinically relevant detection of antiviral candidate susceptibility-altering variants in HSV-1 and HSV-2, providing a robust tool for resistance detection and supports personalized antiviral treatment strategies.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1906295",
+    "date": "2026-11-25",
+    "authors": "Hongyi Zhang",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1906295",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5627,
+    "collected_at": "2026-11-25T15:46:29.923395+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-25",
+    "related_dois": [
+      "10.3389/fmicb.2026.1906295"
+    ],
+    "translation": {
+      "title": {
+        "hash": "482aa29006fa4304f400cc5eb207c676148594ddc3e7b882c9d2b194a70a4b52",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:16:40.415485+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "36c6e0748c5071d65ab73666245183beb09c435723c98c9627fe910232b4aaeb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:16:40.415485+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "HSV-1およびHSV-2における抗ウイルス耐性の検出：ネスト型ポリメラーゼ連鎖反応結合型次世代シーケンシングアッセイの開発と検証",
+    "abstract_ja": "背景単純ヘルペスウイルス1型および2型（HSV-1およびHSV-2）における抗ウイルス薬耐性は、臨床上の課題となりつつある。耐性関連変異を検出する従来の手法は、遺伝子増幅が不十分であることや変異データベースが不完全であることから、精度と信頼性に欠けている。目的HSV-1およびHSV-2における感受性変化候補変異を検出するための次世代シーケンシング（NGS）ワークフローの一環として、チミジンキナーゼ（tk）およびDNAポリメラーゼ（pol）遺伝子の全遺伝子カバレッジを備えたポリメラーゼ連鎖反応（PCR）法およびキュレート済みデータベースを開発し、検証すること。方法全長tkおよびpol遺伝子を標的とするプライマーを用いたネスト型PCRアッセイを開発した。反応混合液の配合、アニーリング時間、および温度の系統的なスクリーニングを通じて、増幅条件を最適化した。増幅産物をIllumina MiSeqプラットフォームでシーケンシングした。陽性コントロールおよび臨床検体を用いて、分析感度、再現性、および特異性を評価した。検出された変異は、文献報告されている変異を補完したオンライン耐性変異データベース（Codex_V5）を用いて同定した。最終的に、臨床検体を用いて本アッセイの検証を行った。結果ネスト型PCRアッセイは、tkで102～103 copies/mL、polで103～104 copies/mLの検出限界を達成し、性能はqPCRと同等であった。本アッセイは高い再現性を示し、他のウイルス病原体との有意な交差反応は認められなかった。臨床検体のシーケンシングにより、複数の多型および、HSV-1 tkにおけるT66フレームシフトおよびA185フレームシフトを含む少数の感受性変化候補変異が同定された。HSV-2検体では、耐性関連変異がより少なく認められた。結論ネスト型PCR-NGSアッセイは、HSV-1およびHSV-2における抗ウイルス薬感受性変化候補変異の高感度かつ特異的で臨床的に意義のある検出を可能にし、耐性検出のための堅牢なツールを提供するとともに、個別化抗ウイルス治療戦略を支援するものである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1993432",
+    "title": "Trehalose biosynthesis mediated by the tps gene is essential for the virulence and granuloma formation of Nocardia seriolae",
+    "abstract": "Nocardia seriolae has recently emerged as a devastating pathogen in global aquaculture, affecting a wide range of marine and freshwater fish species. However, the molecular drivers underlying its pathogenesis remain poorly understood. In this study, we investigated the role of trehalose biosynthesis in N. seriolae by identifying the trehalose-6-phosphate synthase (tps) gene and constructing a targeted knockout mutant (Δtps). The Δtps mutant exhibited a significant reduction in intracellular trehalose accumulation by 63.08%, which directly impaired its in vitro growth and in vivo lethality compared to the wild-type strain ZJ0503. In vivo and in vitro infection models revealed that while the strain ZJ0503 provoked a robust upregulation of pro-inflammatory genes (tnf-α, il-1β, and mip-2α) and induced marked granuloma formation in host immune tissues, infection with the Δtps mutant resulted in a blunted inflammatory response and an absence of granulomatous pathology. Remarkably, the administration of exogenous trehalose successfully significantly rescued virulence-associated phenotypes of the Δtps mutant, including growth rate, pro-inflammatory induction, granulomagenesis, and overall mortality, although the LD50 values did not fully return to wild-type levels. This indicates that although the mutant is defective in endogenous trehalose synthesis, it can efficiently scavenge and metabolize exogenous trehalose to partially regain pathogenicity. Collectively, our findings identify trehalose as a critical factor required for optimal virulence of N. seriolae and warn that dietary trehalose supplementation in aquaculture feeds may inadvertently fuel N. seriolae hypervirulence, highlighting a potential epidemiological risk factor for nocardiosis outbreaks.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1993432",
+    "date": "2026-11-25",
+    "authors": "Yishan Lu",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1993432",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [
+          "freshwater",
+          "marine"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5628,
+    "collected_at": "2026-11-25T15:46:29.923395+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-25",
+    "related_dois": [
+      "10.3389/fmicb.2026.1993432"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2d0bffe6e4b91d702c57cc85c88470b03ded3abcc00100e854e7c8c5f3bbd747",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:16:40.415485+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "88d03553abcee16ec1a34d5d06a69193366234a570bed66c2253e28b30fd9eea",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:16:40.415485+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "tps遺伝子を介したトレハロース生合成は、Nocardia seriolaeの病原性と肉芽腫形成に必須である。",
+    "abstract_ja": "Nocardia seriolaeは近年、世界の水産養殖において壊滅的な病原体として台頭し、広範な海水および淡水魚種に影響を及ぼしている。しかし、その病態形成の根底にある分子メカニズムは依然として十分に解明されていない。本研究では、トレハロース-6-リン酸合成酵素（tps）遺伝子を同定し、標的ノックアウト変異体（Δtps）を作製することで、N. seriolaeにおけるトレハロース生合成の役割を検討した。Δtps変異体は、細胞内トレハロース蓄積量を63.08%有意に減少させ、野生型株ZJ0503と比較してin vitroでの増殖およびin vivoでの致死性を直接的に低下させた。in vivoおよびin vitroの感染モデルにより、ZJ0503株では炎症促進性遺伝子（tnf-α、il-1β、およびmip-2α）の顕著な発現上昇が誘発され、宿主の免疫組織において著しい肉芽腫形成が認められたのに対し、Δtps変異体の感染では炎症反応が減弱し、肉芽腫性病理は認められなかった。特筆すべきことに、外因性トレハロースの投与により、増殖速度、炎症促進誘導、肉芽腫形成、および全体的な死亡率を含むΔtps変異体の病原性関連表現型を有意に回復させることに成功したが、LD50値は野生型レベルに完全には戻らなかった。このことは、本変異体が内因性トレハロース合成に欠損しているものの、外因性トレハロースを効率的にスカベンジおよび代謝することで病原性を部分的に回復できることを示している。総じて、我々の知見は、トレハロースがN. seriolaeの最適な病原性に不可欠な因子であることを明らかにするとともに、水産養殖用飼料へのトレハロースの添加が意図せずN. seriolaeの超病原性を助長する可能性を警告しており、ノカルジア症アウトブレイクの潜在的な疫学的リスク要因を浮き彫りにしている。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1991098",
+    "title": "The adaptability of anammox enhanced anoxic/oxic/oxic/anoxic process to hydraulic retention time in treating simulated pretreated municipal wastewater based on its performance and mechanisms",
+    "abstract": "Hydraulic retention time (HRT) is a significant operational parameter of bioreactors, which significantly affects the biochemical reaction time of the pollutants, thereby affecting their removal. Thus, the optimal HRT of a novel anammox enhanced anoxic/oxic/oxic/anoxic process was explored, and its adaptability to reducing HRT from 8 to 3 h was evaluated. This process was employed to remove carbon (C), nitrogen (N) and phosphorus (P) from simulated pretreated municipal wastewater with approximately 70% chemical oxygen demand (COD) removal. The average total phosphorus (TP) in the filtered effluent gradually decreased from 0.032 mg/L at the HRT of 8 h to 0.027 mg/L at the HRT of 3 h, and its removal rate increased from 99.39% to 99.48%, attributed to the chemical P removal through the formation of Mn3(PO4)2. While the average COD and filtered total nitrogen (TN) in the effluent increased from 5.53 and 0.68 to 10.59 and 5.79 mg/L, and their removal rate decreased from 93.94% and 98.90% to 88.40% and 90.68%, respectively. Their removal first slightly decreased when HRT decreased from 8 to 4 h, followed by a rapid decrease of the TN removal, but the COD removal slightly increased, attributed to the further acclimation of the hydrolytic bacteria. Anammox enhanced the N removal and the adaptability to the HRTs through partial denitrification-anammox and partial nitrification-anammox. The hydrolysis of the refractory organic matters and dead microorganisms provided more carbon source and improved the C and N removal, and biogenic manganese oxides enhanced the C removal. The identified functional bacteria and genes involved in hydrolysis, nitrification, denitrification and anammox revealed the removal pathways and mechanisms of C and N, and explained the strong adaptability to the HRTs. This process efficiently removed C, N and P, and had a strong adaptability to the HRTs.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1991098",
+    "date": "2026-11-25",
+    "authors": "Mingguo Peng",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1991098",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5629,
+    "collected_at": "2026-11-25T15:46:29.923395+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-25",
+    "related_dois": [
+      "10.3389/fmicb.2026.1991098"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f76de9290a985916ab78a11d7fdc1f8eb3f1f15a06d2ccf1ebfaa13b0c818c6c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:16:40.415485+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d90169cdefaa46d7be00f9b5715efc0d7d195b04b77cd7e35bea3f20c5a89b4e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T01:16:40.415485+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "模擬前処理済み都市廃水の処理における、アナモックスの適応性が嫌気性/好気性/好気性/嫌気性プロセスの水理保持時間に及ぼす影響：その性能とメカニズムに基づく",
+    "abstract_ja": "水力保持時間（HRT）はバイオリアクターにおける重要な運転パラメータであり、汚染物質の生化学反応時間に顕著な影響を及ぼし、ひいてはその除去量に影響を与える。そこで、新規のアナモックス強化型無酸素/好気/好気/無酸素プロセスの最適HRTを検討し、HRTを8時間から3時間へと短縮した際の適応性を評価した。本プロセスを用いて、化学的酸素要求量（COD）の約70%が除去された模擬前処理済み都市廃水から、炭素（C）、窒素（N）およびリン（P）を除去した。ろ過処理水における平均総リン（TP）は、HRT 8時間の0.032 mg/LからHRT 3時間の0.027 mg/Lへと漸次減少し、その除去率は99.39%から99.48%へと上昇した。これはMn3(PO4)2の生成による化学的P除去に起因する。一方、処理水における平均CODおよびろ過済み総窒素（TN）は、それぞれ5.53および0.68から10.59および5.79 mg/Lへと増加し、その除去率はそれぞれ93.94%および98.90%から88.40%および90.68%へと低下した。HRTが8時間から4時間へと短縮された際、まず除去量がわずかに減少し、続いてTNの除去量が急速に減少したが、CODの除去量は水分解菌のさらなる順応に伴いわずかに増加した。アナモックスは、部分脱窒アナモックスおよび部分硝化アナモックスを通じて、N除去量およびHRTへの適応性を向上させた。難分解性有機物および死滅微生物の水分解により、より多くの炭素源が供給されてCおよびNの除去が改善され、生物起源マンガン酸化物がC除去を促進した。水分解、硝化、脱窒およびアナモックスに関与する同定済みの機能性細菌および遺伝子により、CおよびNの除去経路とメカニズムが明らかになり、HRTに対する高い適応性が説明された。本プロセスはC、NおよびPを効率的に除去し、HRTに対して高い適応性を示した。"
   }
 ]
