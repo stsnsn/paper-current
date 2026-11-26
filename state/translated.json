@@ -318269,6 +318269,11 @@
         "source": "Europe PMC bioinformatics",
         "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
         "scope": "candidate"
+      },
+      {
+        "source": "https://onlinelibrary.wiley.com/feed/17517915/most-recent",
+        "query": "RSS feed",
+        "scope": "journal"
       }
     ],
     "publication_types": [
@@ -318277,16 +318282,16 @@
       "journal article"
     ],
     "id": "10.1111/1751-7915.70490",
-    "title": "Advances in Genome Engineering of Social Amoebae for Natural Product Discovery.",
+    "title": "Advances in Genome Engineering of Social Amoebae for Natural Product Discovery",
     "abstract": "Natural products are low-molecular-weight molecules derived from living organisms which often exhibit distinct biological activities for potential pharmaceutical, agricultural or cosmetic applications. However, identifying novel natural products is becoming increasingly difficult due to high rates of rediscovery. Nevertheless, given the genetic information available across thousands of microbial genomes, there exists a vast 'dark matter' of biosynthetic pathways whose potential remains to be elucidated. In this mini review, we highlight the potential of Dictyostelids to serve as a valuable source for novel natural products, summarize established genetic engineering methods and present advanced CRISPR/Cas-based approaches. These enable the modification of biosynthetic pathways not only in the common model organism Dictyostelium discoideum but also in various other species. Such technologies will help to identify novel natural products from Dictyotselids and advance the development of amoeba-based production strains for complex molecules.",
     "journal": "Microbial Biotechnology",
     "doi": "10.1111/1751-7915.70490",
-    "date": "2026-11-01",
-    "authors": "Krieger A, Kufs JE.",
+    "date": "2026-11-21",
+    "authors": "Arno Krieger, \nJohann E. Kufs",
     "tags": [
       "微生物ゲノミクス"
     ],
-    "source_url": "https://europepmc.org/article/MED/43065218",
+    "source_url": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1751-7915.70490?af=R",
     "preprint": false,
     "review": true,
     "pmcid": "",
@@ -318316,29 +318321,30 @@
     "collected_at": "2026-11-21T23:14:33.572276+00:00",
     "collected_date": "2026-11-22",
     "sources": [
-      "Europe PMC bioinformatics"
+      "Europe PMC bioinformatics",
+      "https://onlinelibrary.wiley.com/feed/17517915/most-recent"
     ],
     "first_seen": "2026-11-21",
     "related_dois": [
       "10.1111/1751-7915.70490"
     ],
     "translation": {
-      "title": {
-        "hash": "d6b73cdd8d015c08e5b8f765d5d2cda52a80d7a2a26279d03d6943dedc14036e",
-        "model": "plamo-3-translate-2b",
-        "date": "2026-11-22T07:18:01.091894+00:00",
-        "format": "pfml3-ja-v1"
-      },
       "abstract": {
         "hash": "8b6a822c8e2cb1211ee503a43e94282ba5d09398e5672c924010becdf4c6a03c",
         "model": "plamo-3-translate-2b",
         "date": "2026-11-22T07:18:01.091894+00:00",
         "format": "pfml3-ja-v1"
+      },
+      "title": {
+        "hash": "41eb17ffae7846e8f04cf2e568e2d023327855b71c62758fae01c6fc73e8b0f4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T10:20:49.833969+00:00",
+        "format": "pfml3-ja-v1"
       }
     },
+    "abstract_ja": "天然物は生物に由来する低分子化合物であり、医薬品、農業、または化粧品への応用の可能性を秘めた、特有の生物活性を示すことが多い。しかし、再発見の頻度が高いため、新規天然物の同定はますます困難になっている。それにもかかわらず、数千もの微生物ゲノムから得られる遺伝情報を考慮すると、その潜在性がいまだ解明されていない生合成経路という膨大な「ダークマター」が存在する。本ミニレビューでは、新規天然物の貴重な供給源となり得るディクトステリジウム属の可能性を強調し、確立された遺伝子工学的手法を概説するとともに、先進的なCRISPR/Casベースのアプローチを紹介する。これらにより、一般的なモデル生物であるDictyostelium discoideumのみならず、他の様々な種においても生合成経路の改変が可能となる。こうした技術は、ディクトステリジウム属からの新規天然物の同定に寄与し、複雑な分子のアメーバベースの生産株の開発を促進するであろう。",
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
-    "title_ja": "天然物探索に向けた社会性アメーバのゲノム工学の進展",
-    "abstract_ja": "天然物は生物に由来する低分子化合物であり、医薬品、農業、または化粧品への応用の可能性を秘めた、特有の生物活性を示すことが多い。しかし、再発見の頻度が高いため、新規天然物の同定はますます困難になっている。それにもかかわらず、数千もの微生物ゲノムから得られる遺伝情報を考慮すると、その潜在性がいまだ解明されていない生合成経路という膨大な「ダークマター」が存在する。本ミニレビューでは、新規天然物の貴重な供給源となり得るディクトステリジウム属の可能性を強調し、確立された遺伝子工学的手法を概説するとともに、先進的なCRISPR/Casベースのアプローチを紹介する。これらにより、一般的なモデル生物であるDictyostelium discoideumのみならず、他の様々な種においても生合成経路の改変が可能となる。こうした技術は、ディクトステリジウム属からの新規天然物の同定に寄与し、複雑な分子のアメーバベースの生産株の開発を促進するであろう。"
+    "title_ja": "天然物探索に向けた社会性アメーバのゲノム工学の進展"
   },
   {
     "discovery": [
@@ -340962,5 +340968,212 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "VirMake：ショットガンメタゲノムシーケンシングデータからのウイルスの分類学的・機能的特性解析のための、柔軟で使いやすいパイプライン",
     "abstract_ja": "背景\n                     バクテリオファージ（ファージ）は微生物群集の重要な調節因子として認識されており、ウイルスの生態、多様性、および進化を理解することは極めて重要である。しかし、ショットガンメタゲノムシーケンシングによるファージの同定および特性解析は、データ固有の複雑性と規模に起因して、バイオインフォマティクス上の特有の課題を伴う。\n                  \n                     結果\n                     本報では、ショットガンメタゲノムデータのウイルス分類学的および機能的解析のために開発された、包括的かつ柔軟でスケーラブルなパイプライン「VirMake」を紹介する。本パイプラインは、ウイルス配列の同定、分類学的・機能的アノテーションを含むメタゲノムデータのハイスループットなエンドツーエンド処理、アセンブリ、およびアノテーションを可能にし、モジュール式フレームワークを用いることで、メタゲノムデータ解析の異なる段階におけるウイルス解析を統合することができる。VirMakeは、CondaをサポートするLinuxオペレーティングシステムにインストール可能であり、https://github.com/Rounge-lab/VirMake で無償で公開されている。本稿では、さまざまな環境（ヒト腸管および水）から生成され、異なるサンプル調製プロトコル（ウイルス様粒子の濃縮およびバルクDNA抽出）を用いた、サイズの異なる3つのメタゲノムデータセット（最大2.9 Tbp）を用いて、VirMakeの機能を実証する。\n                  \n                     結論\n                     VirMakeはすべてのデータセットの堅牢な処理を可能にし、サンプリング環境や実験室プロトコルに応じて、ウイルスゲノムの豊富さ、分類、および統合状況が異なることを示した。\n                     \nビデオ抄録"
+  },
+  {
+    "id": "10.1093/bioinformatics/btag855",
+    "title": "UniPanSurv: zero- and few-shot pan-cancer survival analysis with multi-omics data",
+    "abstract": "AbstractMotivationIncomplete molecular assays and small labelled cancer cohorts limit survival prediction and transfer.ResultsWe present UniPanSurv, a model that shares a backbone across cancers and scores directed relations among retained, observed molecules. It pools these relations into separate summaries while leaving molecular tokens unchanged. A discrete-time head predicts survival curves. The model uses an Unknown context for zero-shot prediction and lightweight updates for few-shot adaptation. The common-input cancer-macro C-index was 0.752. In matched 10- and 20-shot comparisons with MMOSurv, C-index differences were 0.019 (95% CI, 0.0091 to 0.0296) and 0.018 (95% CI, 0.0088 to 0.0278), respectively. Patient-level bootstrap intervals are conditional on the fitted models. The confidence interval for the C-index difference from the closest common-input comparator includes zero. Database support does not establish causal molecular interactions.Availability and implementationhttps://github.com/zhangYueNefu2023/UniPanSurv; revision archive: https://doi.org/10.5281/zenodo.23879097.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag855",
+    "date": "2026-11-24",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag855/9122358?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5719,
+    "collected_at": "2026-11-26T09:41:35.790521+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1093/bioinformatics/btag855"
+    ],
+    "translation": {
+      "title": {
+        "hash": "97c463b8beb476db4e2e89aa491faa1af40d2d774584767d8767c70c9ce3d274",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T10:20:49.833969+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f245b625c0e609760e4ef53ef0c15d2b08047927c43cddf52f0a4f0270cb72d4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T10:20:49.833969+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "UniPanSurv: マルチオミクスデータを用いたゼロショットおよびフューショットの汎がん生存解析",
+    "abstract_ja": "要旨動機未完結の分子アッセイや小規模な標識がんコホートは、生存予測およびトランスファーを制限する要因となる。結果がん種間でバックボーンを共有し、保持・観測された分子間の方向性のある関係をスコア化するモデル「UniPanSurv」を提案する。本モデルは、分子トークンを変更せずに、これらの関係を個別のサマリーに集約する。離散時間ヘッドが生存曲線を予測する。本モデルは、ゼロショット予測にUnknownコンテキストを、フューショット適応に軽量な更新手法を用いる。共通入力のがん-マクロC指数は0.752であった。MMOSurvとのマッチング済み10ショットおよび20ショット比較において、C指数の差はそれぞれ0.019（95% CI, 0.0091～0.0296）および0.018（95% CI, 0.0088～0.0278）であった。患者レベルのブートストラップ区間は、適合モデルに依存する。最も近い共通入力比較モデルとのC指数の差の信頼区間には0が含まれる。データベースによる裏付けでは、因果的な分子間相互作用は立証されない。利用可能性および実装https://github.com/zhangYueNefu2023/UniPanSurv; 改訂アーカイブ: https://doi.org/10.5281/zenodo.23879097."
+  },
+  {
+    "id": "10.3389/fmicb.2026.1969026",
+    "title": "Genomic characterization of Mycobacterium tuberculosis lineage 2 (East Asian, Beijing) in Ecuador: a preliminary analysis of all publicly available isolates",
+    "abstract": "IntroductionMycobacterium tuberculosis (MTB) Lineage 2 (East Asian, Beijing) strains are globally distributed and frequently associated with multidrug resistance, yet their genomic diversity in Ecuador remains uncharacterized.MethdosWe performed a whole-genome comparative analysis of all the seven available MTB Beijing strains isolated in Ecuador—two newly sequenced in this study and five retrieved from public repositories—contextualized against 53 regional (Peru, Colombia, Brazil) and globally representative reference genomes. Lineage assignment and resistance genotyping used TB-Profiler; core-genome single-nucleotide polymorphisms (cgSNPs) were called with Snippy against H37Rv after masking 612,282 bp of repetitive, mobile, and drug-resistance-associated regions, and a maximum-likelihood phylogeny was inferred from 3,473 variable sites across 59 taxa with IQ-TREE.ResultsSix isolates were assigned to the modern sublineage 2.2.1 and one to the ancestral sublineage 2.2.2. Two isolates returned a mixed Lineage 2/Lineage 4 signal and were excluded as chimeric assemblies. The five remaining genomes did not form a single clade: four modern isolates clustered together with maximal support, whereas the ancestral isolate branched among Asian ancestral lineages, differed from the other Ecuadorian isolates by 511–530 SNPs, and was most closely related to a Turkmen genome (129 SNPs). This topology would suggest at least two independent introductions of the Beijing lineage into Ecuador. Modern isolates lay closer to South American genomes (100–126 SNPs) than to any global reference (≥167 SNPs) but showed no country-specific affinity, and all fell well outside the Peruvian pre-extensively drug-resistant transmission cluster (1–32 SNPs internally). Resistance profiles included three genotypically predicted susceptible isolates, three multidrug-resistant isolates, and one pre-extensively drug-resistant isolate. Two distinct rpoB alleles (p.His445Tyr and p.Asp435Val) mapped to phylogenetically distant positions among the five clonal isolates, consistent with independent acquisition of rifampicin resistance; a third allele (p.Ser450Leu), identified in the excluded mixed-lineage isolates, was attributed to their dominant Lineage 4 component.ConclusionThese findings provide a first insight into phylogenomic characterization of the MTB Beijing lineage in Ecuador and underscore the need for expanded, population-based genomic surveillance of tuberculosis in the Andean region.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1969026",
+    "date": "2026-11-26",
+    "authors": "Miguel Ángel García-Bereguiain",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1969026",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assemblies",
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenetic",
+          "phylogenomic",
+          "phylogeny"
+        ],
+        "evolution": [
+          "phylogeny",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5727,
+    "collected_at": "2026-11-26T09:41:35.790521+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.3389/fmicb.2026.1969026"
+    ],
+    "translation": {
+      "title": {
+        "hash": "bfe6ffe599500ff5f12aa0e73f977a5e46774f3e31082496f77d4bbe02b625d2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T10:20:49.833969+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "4bf9017f6b406ba37e950141827976de0624e9183a67f4312446aac9110555db",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T10:20:49.833969+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "エクアドルにおける結核菌第2系統（東アジア、北京）のゲノム特性解析：公開されている全分離株の予備的解析",
+    "abstract_ja": "はじめにMycobacterium tuberculosis (MTB) 系統2（東アジア、北京）株は世界的に分布し、多剤耐性を伴うことが多いが、エクアドルにおけるゲノム多様性は未だ解明されていない。方法エクアドルで分離された利用可能な全7株のMTB北京株（本研究で新たに配列決定した2株と、公開リポジトリから取得した5株）を対象に、53の地域（ペルー、コロンビア、ブラジル）および世界的に代表的な参照ゲノムを基準として、全ゲノム比較解析を行った。系統分類および耐性ジェノタイピングにはTB-Profilerを用い、反復領域、可動領域、および薬剤耐性関連領域612,282 bpをマスクした後、Snippyを用いてH37Rvに対するコアゲノム一塩基多型（cgSNPs）をコールし、IQ-TREEを用いて59分類群にわたる3,473箇所の可変部位から最大尤度系統樹を推定した。結果6株の分離株が現代サブ系統2.2.1に、1株が祖先サブ系統2.2.2に割り当てられた。2株の分離株は系統2と系統4の混合シグナルを示し、キメラアセンブリとして除外された。残りの5つのゲノムは単一のクレードを形成せず、現代の分離株4株は最大支持度でクラスターを形成した一方、祖先分離株はアジアの祖先系統間で分岐し、他のエクアドル分離株とは511～530 SNPで異なり、トルクメンゲノム（129 SNP）と最も近縁であった。このトポロジーは、北京系統がエクアドルに少なくとも2回、独立して導入されたことを示唆している。現代の分離株は、世界的な参照ゲノム（≥167 SNP）よりも南米のゲノム（100～126 SNP）に近いが、国固有の親和性は認められず、すべてペルーの広範な薬剤耐性獲得前の伝播クラスター（内部で1～32 SNP）から大きく外れていた。耐性プロファイルには、ジェノタイプ的に予測された感受性分離株3株、多剤耐性分離株3株、および広範な薬剤耐性獲得前の分離株1株が含まれていた。2つの異なるrpoBアレル（p.His445Tyrおよびp.Asp435Val）が、5つのクローン分離株の間で系統的に離れた位置にマッピングされており、これはリファンピシン耐性の独立した獲得と一致していた。除外された混合系統分離株で同定された3番目のアレル（p.Ser450Leu）は、それらの支配的な系統4成分に帰属した。結論これらの知見は、エクアドルにおけるMTB北京系統の系統ゲノム特性解析に関する初の知見を提供するものであり、アンデス地域における結核の、より広範な集団ベースのゲノムサーベイランスの必要性を強調するものである。"
+  },
+  {
+    "id": "10.1186/s40168-026-02586-4",
+    "title": "Short-term antibiotic treatment alters human blood neutrophil activation and gene regulation",
+    "abstract": "Background\n                     The gut microbiota provides key signals that shape neutrophil development and function. Although antibiotic-induced disruption of the microbiota has been shown to affect innate immune responses in experimental systems, evidence defining how acute microbiota perturbation influences human neutrophil biology under physiological conditions remains limited.\n                  \n                     Results\n                     Here, we investigated the effects of a short course of broad-spectrum antibiotics on gut microbiota composition and neutrophil phenotype and regulation in healthy adults. Antibiotic exposure resulted in marked microbiota disruption accompanied by reduced short-chain fatty acid production. Neutrophils collected from blood after treatment exhibited increased basal and stimulus-induced cytokine release, and presented a transcriptional profile associated with inflammatory activation and migration. Chromatin accessibility analysis revealed coordinated remodeling after antibiotic exposure, characterized by contraction of promoter accessibility and selective permissiveness at inflammatory regulatory elements. Serum collected after antibiotic treatment was sufficient to increase the secretion of pro-inflammatory cytokines by cells from untreated donors, indicating the involvement of systemic mediators. Notably, supplementation of post-antibiotic serum with short-chain fatty acids partially reversed these effects, supporting a role for microbiota-derived metabolites in restraining inflammatory responses.\n                  \n                     Conclusions\n                     Our results show that short-term antibiotic-induced dysbiosis in humans reshapes blood-derived neutrophil regulatory programs, shifting these cells toward a primed inflammatory state characterized by altered transcriptional and chromatin landscapes.\n                     \nVideo Abstract",
+    "journal": "Microbiome",
+    "doi": "10.1186/s40168-026-02586-4",
+    "date": "2026-11-26",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s40168-026-02586-4",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=40168",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5740,
+    "collected_at": "2026-11-26T09:41:35.790521+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=40168"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1186/s40168-026-02586-4"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b325cd701c137baa5dc49992c3c3d5435310956de204abffc51866fd0df5fd1b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T10:20:49.833969+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a02432fc0f2d650dea1e57018c84aa56368d04f00337f36638d0b7c98073d673",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T10:20:49.833969+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "短期間の抗菌薬治療はヒト血液中の好中球活性化と遺伝子調節を変化させる",
+    "abstract_ja": "背景\n                     腸内細菌叢は、好中球の発達と機能を形作る重要なシグナルを提供している。実験系において、抗生物質誘発性の細菌叢の乱れが自然免疫応答に影響を及ぼすことが示されているが、生理的条件下で急性の細菌叢攪乱がヒトの好中球生物学にどのような影響を与えるかを定義するエビデンスは依然として限られている。\n                  \n                     結果\n                     本研究では、健常成人を対象に、広域抗生物質の短期投与が腸内細菌叢の組成ならびに好中球の表現型および調節に及ぼす影響を検討した。抗生物質曝露により、短鎖脂肪酸の産生低下を伴う顕著な細菌叢の乱れが生じた。処置後に血液から採取した好中球では、基礎的および刺激誘発性のサイトカイン放出の増加が認められ、炎症活性化および遊走に関連する転写プロファイルを示した。クロマチンアクセシビリティ解析により、抗生物質曝露後に協調的なリモデリングが生じ、プロモーターアクセシビリティの低下と炎症調節エレメントにおける選択的許容性が特徴付けられたことが明らかになった。抗生物質処置後に採取した血清は、未処置ドナー由来の細胞による炎症性サイトカインの分泌を増加させるのに十分であり、全身性メディエーターの関与が示された。特筆すべきことに、抗生物質投与後の血清に短鎖脂肪酸を補充すると、これらの影響が部分的に逆転し、炎症応答を抑制する上での細菌叢由来代謝物の役割が支持された。\n                  \n                     結論\n                     本研究の結果は、ヒトにおける短期的な抗生物質誘発性ディスバイオーシスが血液由来の好中球調節プログラムを再構築し、これらの細胞を、転写およびクロマチンランドスケープの変化を特徴とするプライミングされた炎症状態へと移行させることを示している。\n                     \nビデオ抄録"
   }
 ]
