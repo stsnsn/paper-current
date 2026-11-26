@@ -341175,5 +341175,294 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "短期間の抗菌薬治療はヒト血液中の好中球活性化と遺伝子調節を変化させる",
     "abstract_ja": "背景\n                     腸内細菌叢は、好中球の発達と機能を形作る重要なシグナルを提供している。実験系において、抗生物質誘発性の細菌叢の乱れが自然免疫応答に影響を及ぼすことが示されているが、生理的条件下で急性の細菌叢攪乱がヒトの好中球生物学にどのような影響を与えるかを定義するエビデンスは依然として限られている。\n                  \n                     結果\n                     本研究では、健常成人を対象に、広域抗生物質の短期投与が腸内細菌叢の組成ならびに好中球の表現型および調節に及ぼす影響を検討した。抗生物質曝露により、短鎖脂肪酸の産生低下を伴う顕著な細菌叢の乱れが生じた。処置後に血液から採取した好中球では、基礎的および刺激誘発性のサイトカイン放出の増加が認められ、炎症活性化および遊走に関連する転写プロファイルを示した。クロマチンアクセシビリティ解析により、抗生物質曝露後に協調的なリモデリングが生じ、プロモーターアクセシビリティの低下と炎症調節エレメントにおける選択的許容性が特徴付けられたことが明らかになった。抗生物質処置後に採取した血清は、未処置ドナー由来の細胞による炎症性サイトカインの分泌を増加させるのに十分であり、全身性メディエーターの関与が示された。特筆すべきことに、抗生物質投与後の血清に短鎖脂肪酸を補充すると、これらの影響が部分的に逆転し、炎症応答を抑制する上での細菌叢由来代謝物の役割が支持された。\n                  \n                     結論\n                     本研究の結果は、ヒトにおける短期的な抗生物質誘発性ディスバイオーシスが血液由来の好中球調節プログラムを再構築し、これらの細胞を、転写およびクロマチンランドスケープの変化を特徴とするプライミングされた炎症状態へと移行させることを示している。\n                     \nビデオ抄録"
+  },
+  {
+    "id": "10.1093/bioinformatics/btag861",
+    "title": "Hyperiax and Phylogenetic Inference from Shape Data",
+    "abstract": "AbstractSummaryPhylogenetic inference on high-dimensional morphological traits requires algorithms that account for both the nonlinear geometry of the shape data and the phylogenetic tree structure. The Backward Filtering Forward Guiding (BFFG) framework provides smoothing for nonlinear stochastic processes on trees and enables inference of parameters and ancestral states. As practical adoption has been limited by a lack of efficient implementations, we present Hyperiax, an open-source library for tree traversal algorithms and message passing using JAX, designed particularly to support operations needed for BFFG. Hyperiax enables efficient execution of operations on trees with large numbers of nodes and, coupled with the BFFG-specific operations, this allows efficient inference in both discrete-time and stochastic differential equation models. Concretely, we demonstrate that Hyperiax enables parameter inference and ancestral reconstruction for butterfly wing shapes represented by landmarks in two dimensions, and analyses of avian beaks from landmarks in three dimensions. Both cases demonstrate application of BFFG on two substantially larger phylogenetic trees with 850 and 696 nodes with higher resolution shape data (118 two-dimensional landmarks and 79 three-dimensional landmarks, specifically) than previously possible.Availability and ImplementationHyperiax source code and documentation are available at GitHub and GitHub Pages. Analysis scripts, experiment data, and configuration files are available at hyperiax-phylo 10.5281/zenodo.23393988.",
+    "journal": "Bioinformatics",
+    "doi": "10.1093/bioinformatics/btag861",
+    "date": "2026-11-24",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btag861/9122357?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "inference",
+        "phylogenetic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5720,
+    "collected_at": "2026-11-26T09:41:35.790521+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://academic.oup.com/rss/site_5139/advanceAccess_3001.xml"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1093/bioinformatics/btag861"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a8e4749bebc9e2556b4e04b97fb92fffcd95cfb85c0d59a9756e2e45a4aa2e50",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T10:23:00.441240+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a657615246688eb3667349c61218609c498cb8f697527432023a5ce2d0d3d96b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T10:23:00.441240+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Hyperiaxと形状データからの系統推定",
+    "abstract_ja": "要旨：高次元の形態形質に関する系統推定には、形状データの非線形幾何学と系統樹構造の双方を考慮したアルゴリズムが必要である。Backward Filtering Forward Guiding (BFFG) フレームワークは、系統樹上の非線形確率過程の平滑化を提供し、パラメータおよび祖先状態の推定を可能にする。効率的な実装の不足により実用的な導入が制限されてきたため、本稿では、特にBFFGに必要な操作をサポートするために設計された、JAXを用いた系統樹走査アルゴリズムおよびメッセージパッシングのためのオープンソースライブラリ「Hyperiax」を提案する。Hyperiaxは、ノード数の多い系統樹に対する操作の効率的な実行を可能にし、BFFG専用の操作と組み合わせることで、離散時間モデルおよび確率微分方程式モデルの双方において効率的な推定を実現する。具体的には、Hyperiaxを用いて、2次元のランドマークで表現されたチョウの翅の形状に対するパラメータ推定および祖先復元、ならびに3次元のランドマークによる鳥類の嘴の解析が可能であることを示す。いずれの事例においても、従来よりも高解像度な形状データ（具体的には118個の2次元ランドマークと79個の3次元ランドマーク）を用いた、850ノードおよび696ノードという大幅に大規模な2つの系統樹に対してBFFGを適用している。利用可能性と実装：Hyperiaxのソースコードおよびドキュメントは、GitHubおよびGitHub Pagesで公開されている。解析スクリプト、実験データ、および設定ファイルは、hyperiax-phylo 10.5281/zenodo.23393988 で入手可能である。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.2007212",
+    "title": "Genetic basis of Flavobacterium psychrophilum O-polysaccharide serotype specificity",
+    "abstract": "The fish pathogen Flavobacterium psychrophilum exhibits extensive serological diversity associated with genetic variation in O-polysaccharide (O-PS) biosynthesis. To better define the repertoire of O-PS serotypes, the O-PS loci from 683 F. psychrophilum genome sequences were analyzed and compared to identify 29 genetic serotypes distributed among eight O-antigen polymerase (wzy) groups. Among these, 28 genetic serotypes spanning seven wzy groups shared the initiating glycosyltransferase gene responsible for the transfer of 2-acetamido-4-R-2,4-dideoxy-D-quinovose (D-Qui2NAc4NR) to a lipid carrier, together with one of six distinct gene sets for synthesis of the R-group in D-Qui2NAc4NR. In addition, 25 genetic serotypes across six wzy groups carried genes for the synthesis and transfer of 2-acetamido-2-deoxy-L-fucose (L-FucNAc) to D-Qui2NAc4NR. Among 17 genetic serotypes comprising wzy groups 1–3, 11 carried the glycosyltransferase gene responsible for the transfer of L-rhamnose (L-Rha) to L-FucNAc, thereby completing the trisaccharide repeat. The remaining six genetic serotypes in these groups carried an altered copy of this gene resulting from a 3.8-kb insertion that also introduced genes potentially involved in modification of the transferred L-Rha. Whereas wzy groups 1–3 shared the same flippase gene (wzx), each of four additional wzy groups, comprising 11 genetic serotypes, contained distinct flippase and glycosyltransferase genes. None of the serotype-variable genes from these seven wzy groups were present in the O-PS locus of the F. psychrophilum type strain, which constituted the eighth wzy group. Finally, all 29 genetic serotypes were accurately assigned in silico using a composite query sequence comprising concatenated 100-bp consensus fragments derived from serotype-variable genes. These findings establish a genetic framework for molecular serotyping and analysis of O-PS diversity in F. psychrophilum.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.2007212",
+    "date": "2026-11-26",
+    "authors": "Gregory D. Wiens",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.2007212",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5728,
+    "collected_at": "2026-11-26T09:41:35.790521+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.3389/fmicb.2026.2007212"
+    ],
+    "translation": {
+      "title": {
+        "hash": "11d09497441c6f8982a696a35c054c9b9d30db904c988f140bfa6e225a248f5c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T10:23:00.441240+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "614eb337f7403a5c87ac34e59ce312234f4159c531ca39d274f488179ffd6483",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T10:23:00.441240+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Flavobacterium psychrophilumのO-多糖類血清型特異性の遺伝的基盤",
+    "abstract_ja": "魚類病原菌Flavobacterium psychrophilumは、O-多糖類（O-PS）生合成における遺伝的変異に関連して、広範な血清学的多様性を示す。O-PS血清型のレパートリーをより精緻に定義するため、683例のF. psychrophilumゲノム配列から得られたO-PS遺伝子座を解析・比較し、8つのO-抗原ポリメラーゼ（wzy）群に分布する29の遺伝的血清型を同定した。このうち、7つのwzy群にわたる28の遺伝的血清型は、2-アセトアミド-4-R-2,4-ジデオキシ-D-キノボース（D-Qui2NAc4NR）を脂質担体へ転移させる役割を担う開始型グリコシルトランスフェラーゼ遺伝子と、D-Qui2NAc4NRのR-基合成を担う6つの異なる遺伝子セットのうちの1つを共有していた。さらに、6つのwzy群にわたる25の遺伝的血清型は、2-アセトアミド-2-デオキシ-L-フコース（L-FucNAc）をD-Qui2NAc4NRへ合成・転移させる遺伝子を保有していた。wzy群1～3からなる17の遺伝的血清型のうち、11例はL-ラムノース（L-Rha）をL-FucNAcへ転移させる役割を担うグリコシルトランスフェラーゼ遺伝子を保有しており、これにより三糖反復配列が完成していた。これらの群における残りの6つの遺伝的血清型は、3.8 kbの挿入に起因する本遺伝子の改変コピーを保有しており、この挿入により、転移されたL-Rhaの修飾に関与する可能性のある遺伝子も導入されていた。wzy群1～3は同一のフリッパーゼ遺伝子（wzx）を共有していたが、11の遺伝的血清型からなるさらに4つのwzy群は、それぞれ異なるフリッパーゼ遺伝子およびグリコシルトランスフェラーゼ遺伝子を保有していた。これら7つのwzy群由来の血清型可変遺伝子はいずれも、8番目のwzy群を構成するF. psychrophilum型株のO-PS遺伝子座には存在しなかった。最後に、血清型可変遺伝子から得られた100 bpのコンセンサス断片を連結した複合クエリ配列を用いて、全29の遺伝的血清型をin silicoで正確に同定した。これらの知見は、F. psychrophilumにおける分子血清型判定およびO-PS多様性解析のための遺伝的枠組みを確立するものである。"
+  },
+  {
+    "id": "10.1111/1751-7915.70494",
+    "title": "Protection Against Rabies Virus by a Bacterium‐Like Particle–Based Subunit Vaccine Displaying the Glycoprotein",
+    "abstract": "Recombinant RABV G‐PA protein was displayed on Lactococcus lactis‐derived bacterium‐like particles (G‐BLPs). Immunization with G‐BLPs induced robust virus‐neutralizing antibodies and cellular immune responses in mice, providing complete protection against lethal RABV challenge.\n\nABSTRACT\nRabies is a fatal zoonotic disease caused by the rabies virus (RABV) and remains a major global public health concern. Although currently available rabies vaccines provide reliable protection, their widespread application is limited by complicated immunization schedules and relatively high production costs. Therefore, the development of safe, effective and economically accessible next‐generation vaccines is urgently needed. In this study, we developed a novel rabies subunit vaccine based on a bacterium‐like particles (BLPs) delivery platform. Recombinant RABV glycoprotein fused with a peptidoglycan anchor protein (G‐PA) was expressed in insect cells using the baculovirus expression system and successfully displayed on the surface of BLPs, generating the G‐BLPs vaccine candidate. Surface localization of the recombinant G protein was confirmed by transmission electron microscopy and western blot analysis. Immunization in mice demonstrated that both G‐BLPs and adjuvant‐formulated G‐BLPs (Adj‐G‐BLPs) induced high titers of virus‐neutralizing antibodies, reaching 13.25 IU/mL and 27.25 IU/mL, respectively, together with enhanced T‐cell cytokine responses. Transcriptomic profiling further revealed significant enrichment of the IL‐17 signalling pathway and marked upregulation of Ccl2, indicating activation of multiple immune‐related pathways. Both G‐BLPs and Adj‐G‐BLPs provided complete protection against RABV CVS‐24 challenge and significantly reduced viral loads in brain tissues. These findings demonstrate that the BLP‐based platform can effectively display the RABV glycoprotein and induce both humoral and cellular immune responses, offering a promising and potentially scalable strategy for the development of next‐generation rabies vaccines.\n\nRecombinant RABV G-PA protein was displayed on Lactococcus lactis-derived bacterium-like particles (G-BLPs). Immunization with G-BLPs induced robust virus-neutralizing antibodies and cellular immune responses in mice, providing complete protection against lethal RABV challenge.\n\nABSTRACT\nRabies is a fatal zoonotic disease caused by the rabies virus (RABV) and remains a major global public health concern. Although currently available rabies vaccines provide reliable protection, their widespread application is limited by complicated immunization schedules and relatively high production costs. Therefore, the development of safe, effective and economically accessible next-generation vaccines is urgently needed. In this study, we developed a novel rabies subunit vaccine based on a bacterium-like particles (BLPs) delivery platform. Recombinant RABV glycoprotein fused with a peptidoglycan anchor protein (G-PA) was expressed in insect cells using the baculovirus expression system and successfully displayed on the surface of BLPs, generating the G-BLPs vaccine candidate. Surface localization of the recombinant G protein was confirmed by transmission electron microscopy and western blot analysis. Immunization in mice demonstrated that both G-BLPs and adjuvant-formulated G-BLPs (Adj-G-BLPs) induced high titers of virus-neutralizing antibodies, reaching 13.25 IU/mL and 27.25 IU/mL, respectively, together with enhanced T-cell cytokine responses. Transcriptomic profiling further revealed significant enrichment of the IL-17 signalling pathway and marked upregulation of Ccl2, indicating activation of multiple immune-related pathways. Both G-BLPs and Adj-G-BLPs provided complete protection against RABV CVS-24 challenge and significantly reduced viral loads in brain tissues. These findings demonstrate that the BLP-based platform can effectively display the RABV glycoprotein and induce both humoral and cellular immune responses, offering a promising and potentially scalable strategy for the development of next-generation rabies vaccines.",
+    "journal": "Microbial Biotechnology",
+    "doi": "10.1111/1751-7915.70494",
+    "date": "2026-11-21",
+    "authors": "Haiyang Cong, \nJinman Li, \nJiaqi Li, \nYangyi Chen, \nXuan Zu, \nYu Zhang, \nFeihu Yan, \nXianzhu Xia, \nJianzhong Wang, \nNa Feng",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1751-7915.70494?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacterium",
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://onlinelibrary.wiley.com/feed/17517915/most-recent",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5750,
+    "collected_at": "2026-11-26T09:41:35.790521+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://onlinelibrary.wiley.com/feed/17517915/most-recent"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1111/1751-7915.70494"
+    ],
+    "translation": {
+      "title": {
+        "hash": "3582f136f3e21263d272523ee9c9cb7cd66b4197a36ddcf6d725455715c90050",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T10:23:00.441240+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "452f85f200e204866090ac5e0b32e71d18f134f0dfee269ac84283c5f449755b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T10:23:00.441240+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "糖タンパク質を発現する細菌様粒子を用いたサブユニットワクチンによる狂犬病ウイルスに対する防御",
+    "abstract_ja": "組換えRABV G-PAタンパク質をLactococcus lactis由来の細菌様粒子（G-BLPs）上に提示した。G-BLPsによる免疫化は、マウスにおいて強固なウイルス中和抗体および細胞性免疫応答を誘導し、致死的なRABVチャレンジに対する完全な防御能を付与した。\n\n要旨\n狂犬病は狂犬病ウイルス（RABV）によって引き起こされる致死的な人獣共通感染症であり、依然として世界的な公衆衛生上の重大な懸念事項となっている。現在利用可能な狂犬病ワクチンは信頼性の高い防御能を提供するものの、その広範な適用は、複雑な免疫化スケジュールと比較的高い製造コストによって制限されている。したがって、安全で効果的、かつ経済的に利用可能な次世代ワクチンの開発が急務である。本研究では、細菌様粒子（BLPs）デリバリープラットフォームに基づく新規狂犬病サブユニットワクチンを開発した。ペプチドグリカンアンカータンパク質（G-PA）を融合させた組換えRABV糖タンパク質をバキュロウイルス発現系を用いて昆虫細胞内で発現させ、BLPsの表面に提示させることに成功し、G-BLPsワクチン候補を作製した。組換えGタンパク質の表面局在は、透過型電子顕微鏡観察およびウェスタンブロット解析により確認した。マウスへの免疫化により、G-BLPsおよびアジュバント配合G-BLPs（Adj-G-BLPs）の双方が高力価のウイルス中和抗体を誘導し、それぞれ13.25 IU/mLおよび27.25 IU/mLに達し、併せてT細胞サイトカイン応答の増強が認められた。トランスクリプトームプロファイリングにより、IL-17シグナル伝達経路の有意な濃縮とCcl2の顕著な発現上昇がさらに明らかとなり、複数の免疫関連経路の活性化が示された。G-BLPsおよびAdj-G-BLPsはともに、RABV CVS-24チャレンジに対して完全な防御能を提供し、脳組織におけるウイルス量を有意に減少させた。これらの知見は、BLPベースのプラットフォームがRABV糖タンパク質を効果的に提示し、液性および細胞性免疫応答の両方を誘導できることを示しており、次世代狂犬病ワクチンの開発に向けた有望かつ拡張可能な戦略となり得る。\n\n組換えRABV G-PAタンパク質をLactococcus lactis由来の細菌様粒子（G-BLPs）上に提示した。G-BLPsによる免疫化は、マウスにおいて強固なウイルス中和抗体および細胞性免疫応答を誘導し、致死的なRABVチャレンジに対する完全な防御能を付与した。\n\n要旨\n狂犬病は狂犬病ウイルス（RABV）によって引き起こされる致死的な人獣共通感染症であり、依然として世界的な公衆衛生上の重大な懸念事項となっている。現在利用可能な狂犬病ワクチンは信頼性の高い防御能を提供するものの、その広範な適用は、複雑な免疫化スケジュールと比較的高い製造コストによって制限されている。したがって、安全で効果的、かつ経済的に利用可能な次世代ワクチンの開発が急務である。本研究では、細菌様粒子（BLPs）デリバリープラットフォームに基づく新規狂犬病サブユニットワクチンを開発した。ペプチドグリカンアンカータンパク質（G-PA）を融合させた組換えRABV糖タンパク質をバキュロウイルス発現系を用いて昆虫細胞内で発現させ、BLPsの表面に提示させることに成功し、G-BLPsワクチン候補を作製した。組換えGタンパク質の表面局在は、透過型電子顕微鏡観察およびウェスタンブロット解析により確認した。マウスへの免疫化により、G-BLPsおよびアジュバント配合G-BLPs（Adj-G-BLPs）の双方が高力価のウイルス中和抗体を誘導し、それぞれ13.25 IU/mLおよび27.25 IU/mLに達し、併せてT細胞サイトカイン応答の増強が認められた。トランスクリプトームプロファイリングにより、IL-17シグナル伝達経路の有意な濃縮とCcl2の顕著な発現上昇がさらに明らかとなり、複数の免疫関連経路の活性化が示された。G-BLPsおよびAdj-G-BLPsはともに、RABV CVS-24チャレンジに対して完全な防御能を提供し、脳組織におけるウイルス量を有意に減少させた。これらの知見は、BLPベースのプラットフォームがRABV糖タンパク質を効果的に提示し、液性および細胞性免疫応答の両方を誘導できることを示しており、次世代狂犬病ワクチンの開発に向けた有望かつ拡張可能な戦略となり得る。"
+  },
+  {
+    "id": "10.1093/molbev/msag290",
+    "title": "Defective HIV DNA genomes provide ancestral relevance critical for phylogenetic inference of reservoir dynamics",
+    "abstract": "AbstractDuring the course of infection, human immunodeficiency virus (HIV) persists in anatomical sanctuary and reservoir sites that lack necessary sensitivity to antiretroviral therapy. Curative advancements rely heavily on targeting these sites, though the precise contribution of each to viral persistence remains ill-supported through current sequencing and sequence analysis strategies. As a prime example, the vast replication-defective genomic landscape that comprises the HIV DNA population targeted for sequencing is often discarded, despite providing key information regarding competent ancestry that can be used to improve viral population dynamic inferences. Here, we describe the application of single-cell DNA sequencing to blood and lymph node samples from a treatment-interrupted S[imian]IV-infected animal model and evaluation of the contribution of genome coverage and inclusion on phylogenetic resolution and phyloanatomic inference. Findings from this study point to incomplete genomes as a significant source of phylogenetic information on reservoir dynamics during therapy.",
+    "journal": "Molecular Biology and Evolution",
+    "doi": "10.1093/molbev/msag290",
+    "date": "2026-11-20",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msag290/9104441?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "DNA",
+        "genome",
+        "inference",
+        "phylogenetic",
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5325/advanceAccess_3191.xml",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5752,
+    "collected_at": "2026-11-26T09:41:35.790521+00:00",
+    "collected_date": "2026-11-26",
+    "sources": [
+      "https://academic.oup.com/rss/site_5325/advanceAccess_3191.xml"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1093/molbev/msag290"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ed4d9f0bdd2c25eb60fc385b97b3cef414fd755e5fd5ed22c037c2084d626f7a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T10:23:00.441240+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "8c5c538ca091c31de1e946054af25d9a475af561b2d2e7c30dd16b817346f5f9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T10:23:00.441240+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "欠損型HIV DNAゲノムは、リザーバー動態の系統発生的推論に不可欠な祖先的関連性を提供する。",
+    "abstract_ja": "要旨 感染過程において、ヒト免疫不全ウイルス（HIV）は、抗レトロウイルス療法に対する必要な感受性を欠く解剖学的サンクチュアリおよびリザーバー部位に持続する。根治的な進展はこれらの部位を標的とすることに大きく依存しているが、ウイルスの持続における各部位の正確な寄与については、現在のシーケンシングおよび配列解析手法では十分に裏付けられていない。代表的な例として、シーケンシングの標的となるHIV DNA集団を構成する広範な複製欠損型ゲノムランドスケープは、ウイルス集団動態の推論を改善するために利用可能な、機能的な祖先系統に関する重要な情報を提供しているにもかかわらず、しばしば除外されている。本研究では、治療中断後のS[imian]IV感染動物モデルの血液およびリンパ節検体に対するシングルセルDNAシーケンシングの適用と、ゲノムカバレッジおよび包含が系統解析の解像度および系統解剖学的推論に及ぼす寄与の評価について述べる。本研究の知見は、不完全なゲノムが、治療中のリザーバー動態に関する系統学的情報の重要な情報源であることを示唆している。"
   }
 ]
