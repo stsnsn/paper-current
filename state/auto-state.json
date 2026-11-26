@@ -164,7 +164,7 @@
   "backfill_request_status": {
     "id": "collection-recovery-2026-11-10",
     "phase": "in_progress",
-    "additional": 4,
+    "additional": 5,
     "coverage": {
       "Europe PMC watchlist": {
         "ok": true,
@@ -216,7 +216,8 @@
       },
       "Europe PMC journals 4": {
         "ok": false,
-        "retrieved": 95,
+        "retrieved": 165,
+        "accepted": 112,
         "query": "(JOURNAL:\"Infection and Immunity\" OR JOURNAL:\"Antimicrobial Agents and Chemotherapy\" OR JOURNAL:\"Journal of Clinical Microbiology\" OR JOURNAL:\"Microbiology Resource Announcements\" OR JOURNAL:\"Nature\" OR JOURNAL:\"Nature Microbiology\" OR JOURNAL:\"Nature Ecology & Evolution\" OR JOURNAL:\"Nature Communications\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
         "publication_start": "2026-10-20"
       },
@@ -278,7 +279,7 @@
     },
     "collection_exit_code": -9,
     "budget_exhausted": true,
-    "updated_at": "2026-11-26T09:41:23.896044+00:00"
+    "updated_at": "2026-11-26T19:48:06.734719+00:00"
   },
   "last_publication_slot": "2026-11-26T15:12:00+09:00"
 }

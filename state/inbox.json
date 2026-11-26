@@ -53894,64 +53894,6 @@
     "discovery": []
   },
   {
-    "id": "10.1093/bioadv/vbag251",
-    "title": "Derivation of oligonucleotide barcodes that are absent from natural sequences.",
-    "abstract": "DNA barcodes are short synthetic sequences used to uniquely identify target molecules, samples, or objects, and are essential for a wide range of biotechnology applications including high-throughput sequencing, lineage tracing, genetic screens, massively parallel reporter assays, and DNA-based data storage. However, randomly generated barcodes are prone to off-target hybridization and cross-reactivity with endogenous biological sequences, which can compromise experimental specificity and interpretation. Barcodes derived from sequences that are entirely absent from natural genomes, termed DNA primes, offer an ideal solution by eliminating the possibility of unintended interactions with biological material. Here, we present barcodesDB, a comprehensive database of synthetic DNA barcodes systematically identified by scanning 403 199 complete organismal genome assemblies across the tree of life, together with 215 Gbp of raw metagenomic sequencing reads spanning marine, soil, polar and host-associated environments. These barcodes are absent, on either strand, from every assembly and sequencing read examined in the release described, providing maximal specificity and minimizing cross-reactivity for downstream applications. We provide an open-access web application that enables researchers to search for barcodes satisfying user-defined constraints, including GC content and substring requirements, and to query whether candidate sequences occur in nature. This resource supports robust and scalable barcode design for diverse experimental and applied contexts. Our database is publicly available at: https://barcodesdb.com/.",
-    "journal": "Bioinformatics Advances",
-    "doi": "10.1093/bioadv/vbag251",
-    "date": "2026-08-28",
-    "authors": "Patsakis M, Provatas K, Mouratidis I, Georgakopoulos-Soares I.",
-    "tags": [
-      "微生物ゲノミクス",
-      "海洋微生物"
-    ],
-    "source_url": "https://europepmc.org/article/MED/42859679",
-    "preprint": false,
-    "review": false,
-    "abstract_source": "Europe PMC",
-    "topic_filter": {
-      "accepted": true,
-      "reason": "microbial_evidence",
-      "version": "microbial-rules-v3",
-      "matched": [
-        "DNA",
-        "database",
-        "genome",
-        "metagenom",
-        "metagenomic",
-        "sequencing"
-      ],
-      "context": {
-        "marine": [
-          "marine"
-        ],
-        "genomics": [
-          "DNA",
-          "assemblies",
-          "assembly",
-          "genom",
-          "genome",
-          "metagenom",
-          "metagenomic"
-        ],
-        "evolution": []
-      },
-      "tags": [
-        "海洋微生物",
-        "微生物ゲノミクス"
-      ]
-    },
-    "sources": [
-      "Europe PMC journals 2"
-    ],
-    "first_seen": "2026-11-06",
-    "related_dois": [
-      "10.1093/bioadv/vbag251"
-    ],
-    "collection_order": 1178,
-    "discovery": []
-  },
-  {
     "id": "10.1111/1751-7915.70453",
     "title": "Modular Platform for Recombinant Production of Highly Toxic Bacterial Proteins.",
     "abstract": "Bacterial protein toxins constitute a vast, largely untapped reservoir of potent bioactive molecules for antimicrobial discovery and biotechnology. However, their intrinsic toxicity often prevents recombinant expression in microbial hosts, limiting biochemical and functional characterization. Here, we present a modular platform for the recombinant production of highly toxic bacterial proteins based on covalent fusion of polymorphic toxins (PTs) to their cognate immunity proteins (PIMs), enabling transient toxin neutralization during expression. This strategy enabled recombinant production and purification of three previously refractory toxin families, PT7, PT8 and PT9. We further streamlined the workflow by introducing intracellular protease-mediated cleavage of the toxin-immunity fusion, reducing purification from four steps to two and increasing the recovered yield of PT9 from approximately 1-2 mg/L to ~4 mg/L. Extending the approach to PT37 further showed that computational redesign of the immunity protein and fusion architecture can enable production when the native fusion is insufficient. Purified PT7 and PT8 retained nuclease activity following denaturation and refolding, while refolded PT9 was structurally validated by X-ray crystallography, demonstrating recovery of functionally and structurally competent proteins. Together, these findings establish a modular strategy for recombinant production of highly toxic bacterial proteins and facilitate their biochemical and functional characterization.",
@@ -470992,6 +470934,284 @@
     "first_seen": "2026-11-26",
     "related_dois": [
       "10.1111/mec.70664"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 4",
+        "query": "(JOURNAL:\"Infection and Immunity\" OR JOURNAL:\"Antimicrobial Agents and Chemotherapy\" OR JOURNAL:\"Journal of Clinical Microbiology\" OR JOURNAL:\"Microbiology Resource Announcements\" OR JOURNAL:\"Nature\" OR JOURNAL:\"Nature Microbiology\" OR JOURNAL:\"Nature Ecology & Evolution\" OR JOURNAL:\"Nature Communications\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/mra.00907-26",
+    "title": "Genome sequence of <i>Clostridioides difficile</i> PRB1128, a RT023 strain containing a mobile genetic element allowing for xylitol utilization.",
+    "abstract": "Clade 3 strains of Clostridioides difficile, dominated by PCR ribotype 023 (RT023) strains, remain the least well studied in the phylogeny. We sequenced a strain of RT023 C. difficile (PRB1128) to gain molecular genetic insights and add to the limited repository of RT023 genomes in existence.",
+    "journal": "Microbiology Resource Announcements",
+    "doi": "10.1128/mra.00907-26",
+    "date": "2026-10-29",
+    "authors": "Wozniak KJ, Corver J, Kuijper EJ, Smits WK, Britton RA.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42954463",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42954463",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "phylogen",
+          "phylogeny"
+        ],
+        "evolution": [
+          "phylogeny"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 5611,
+    "collected_at": "2026-11-26T19:37:41.241939+00:00",
+    "collected_date": "2026-11-27",
+    "sources": [
+      "Europe PMC journals 4"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1128/mra.00907-26"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 4",
+        "query": "(JOURNAL:\"Infection and Immunity\" OR JOURNAL:\"Antimicrobial Agents and Chemotherapy\" OR JOURNAL:\"Journal of Clinical Microbiology\" OR JOURNAL:\"Microbiology Resource Announcements\" OR JOURNAL:\"Nature\" OR JOURNAL:\"Nature Microbiology\" OR JOURNAL:\"Nature Ecology & Evolution\" OR JOURNAL:\"Nature Communications\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1128/mra.00626-26",
+    "title": "Draft genome announcement of three species of <i>Ambrosiella</i>, obligate symbionts of ambrosia beetles.",
+    "abstract": "We report three draft genome sequences of insect mutualistic Ambrosiella spp. isolated from ambrosia beetles. Genomes were sequenced using Illumina PE150, yielding an average genome size of 27.2 Mbp and BUSCO completeness of 98.80%. These genomes include the first draft genome of A. grosmanniae, symbiont of Xylosandrus germanus (black stem borer).",
+    "journal": "Microbiology Resource Announcements",
+    "doi": "10.1128/mra.00626-26",
+    "date": "2026-10-28",
+    "authors": "Scott K, Moore ME, Carpenter SCD, Bushley KE, Lovett B.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42949274",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42949274",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5612,
+    "collected_at": "2026-11-26T19:37:41.241939+00:00",
+    "collected_date": "2026-11-27",
+    "sources": [
+      "Europe PMC journals 4"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1128/mra.00626-26"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 4",
+        "query": "(JOURNAL:\"Infection and Immunity\" OR JOURNAL:\"Antimicrobial Agents and Chemotherapy\" OR JOURNAL:\"Journal of Clinical Microbiology\" OR JOURNAL:\"Microbiology Resource Announcements\" OR JOURNAL:\"Nature\" OR JOURNAL:\"Nature Microbiology\" OR JOURNAL:\"Nature Ecology & Evolution\" OR JOURNAL:\"Nature Communications\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "letter"
+    ],
+    "id": "10.1038/s41467-026-77956-5",
+    "title": "Reply to: Comment on \"Self-organizing neuromorphic nanowire networks as stochastic dynamical systems\".",
+    "abstract": "",
+    "journal": "Nature Communications",
+    "doi": "10.1038/s41467-026-77956-5",
+    "date": "2026-11-09",
+    "authors": "Milano G, Michieletti F, Pilati D, Ricciardi C, Miranda E.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43003824",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13748571",
+    "pmid": "43003824",
+    "metadata_source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13748571/fullTextXML",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5613,
+    "collected_at": "2026-11-26T19:37:41.241939+00:00",
+    "collected_date": "2026-11-27",
+    "sources": [
+      "Europe PMC journals 4"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1038/s41467-026-77956-5"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 4",
+        "query": "(JOURNAL:\"Infection and Immunity\" OR JOURNAL:\"Antimicrobial Agents and Chemotherapy\" OR JOURNAL:\"Journal of Clinical Microbiology\" OR JOURNAL:\"Microbiology Resource Announcements\" OR JOURNAL:\"Nature\" OR JOURNAL:\"Nature Microbiology\" OR JOURNAL:\"Nature Ecology & Evolution\" OR JOURNAL:\"Nature Communications\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "letter"
+    ],
+    "id": "10.1038/s41467-026-77954-7",
+    "title": "Comment on \"Self-organizing neuromorphic nanowire networks as stochastic dynamical systems\".",
+    "abstract": "",
+    "journal": "Nature Communications",
+    "doi": "10.1038/s41467-026-77954-7",
+    "date": "2026-11-09",
+    "authors": "Sibatov RT, Ksenofontova PO.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43003837",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13748648",
+    "pmid": "43003837",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5614,
+    "collected_at": "2026-11-26T19:37:41.241939+00:00",
+    "collected_date": "2026-11-27",
+    "sources": [
+      "Europe PMC journals 4"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1038/s41467-026-77954-7"
+    ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 4",
+        "query": "(JOURNAL:\"Infection and Immunity\" OR JOURNAL:\"Antimicrobial Agents and Chemotherapy\" OR JOURNAL:\"Journal of Clinical Microbiology\" OR JOURNAL:\"Microbiology Resource Announcements\" OR JOURNAL:\"Nature\" OR JOURNAL:\"Nature Microbiology\" OR JOURNAL:\"Nature Ecology & Evolution\" OR JOURNAL:\"Nature Communications\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "brief-report",
+      "journal article"
+    ],
+    "id": "10.1038/s41467-026-79128-x",
+    "title": "Count the climate losses we prevent.",
+    "abstract": "",
+    "journal": "Nature Communications",
+    "doi": "10.1038/s41467-026-79128-x",
+    "date": "2026-11-05",
+    "authors": "Charpentier A.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43078864",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13796842",
+    "pmid": "43078864",
+    "metadata_source_url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13796842/fullTextXML",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5615,
+    "collected_at": "2026-11-26T19:37:41.241939+00:00",
+    "collected_date": "2026-11-27",
+    "sources": [
+      "Europe PMC journals 4"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1038/s41467-026-79128-x"
     ]
   }
 ]
