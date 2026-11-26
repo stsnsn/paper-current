@@ -343801,5 +343801,290 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "SHFLはCCR4–NOTに作用してCNOT3依存的なmRNA分解を促進する。",
     "abstract_ja": "要旨SHFL（Shiftless）は、−1プログラムドリボソームフレームシフト（−1 PRF）の抑制を含む、複数のウイルス制限様式に関与するインターフェロン刺激性抗ウイルス因子である。しかし、SHFLが宿主の転写後調節経路とどのように相互作用するかについては、未だ十分に解明されていない。本研究では、SHFLがCCR4–NOT関連5′–3′ mRNA分解経路を介してmRNAターンオーバーを促進することを示す。SHFLを3′非翻訳領域に係留させたところ、−1 PRF含有レポーターの存在量が減少し、mRNA分解が誘導された。このことは、SHFL介在性のRNAターンオーバーが−1 PRFのコンテキストとは独立して誘発され得ることを示している。機構的には、SHFLは内因性CNOT3と相互作用し、in vitroにおいて再構成されたCNOT1/2/3 NOTモジュールと直接結合した。機能解析により、効率的なSHFL介在性mRNA分解にはCNOT3が必要であることがさらに示された。対照的に、−1 PRF依存的な翻訳に対するSHFL介在性の抑制はCNOT3ノックアウト細胞においても維持されており、SHFL介在性mRNA分解と−1 PRFによる翻訳抑制との間に機構的な分離があることが支持された。非感染条件下でのトランスクリプトーム解析により、SHFLの過剰発現が炎症性およびインターフェロン応答性遺伝子発現モジュールの選択的な変化に関連していることがさらに示唆された。以上の知見を総合すると、CNOT3依存的なCCR4–NOT mRNA分解機構への関与がSHFLによる転写後機構として同定されるとともに、−1 PRFによる抑制は分離可能なSHFL活性として位置づけられる。"
+  },
+  {
+    "id": "10.1093/nar/gkag1201",
+    "title": "Defining the role of RNase E in the mycobacterial degradosome-like network",
+    "abstract": "AbstractMessenger RNA (mRNA) degradation is a fundamentally important process that is regulated in response to stress in the globally important pathogen Mycobacterium tuberculosis. Several mycobacterial ribonucleases (RNases) are hypothesized to function together to coordinate mRNA degradation, but the interactions among them are mostly undefined. One of the rate-limiting enzymes, RNase E, contains intrinsically disordered regions (IDRs). Here, we have defined the interactions among major mycobacterial mRNA degradation enzymes and identified the functions of the two IDRs of RNase E in the nonpathogenic model Mycolicibacterium smegmatis. We found that the two IDRs differentially impact mRNA degradation rates in vivo but are largely functionally redundant in their impact on steady-state transcript abundance. In vitro, the IDRs are uninvolved in catalysis but play major roles in RNA binding and interactions with other mRNA degradation enzymes, namely PNPase, RNase J, and RhlE1, including stimulation of the ATPase activity of RhlE1. In vivo, these enzymes localize with RNase E, but its IDRs play only a minor role, suggesting substantial redundancy in subcellular localization mechanisms. Collectively, we propose a degradosome-like network model in mycobacteria, held together by dynamic, transient interactions among RNA degradation enzymes and RNA that can be disrupted during physiologically relevant stress to allow for adaptability.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1201",
+    "date": "2026-11-26",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1201/9133945?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5774,
+    "collected_at": "2026-11-26T19:48:23.275553+00:00",
+    "collected_date": "2026-11-27",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/3091.xml"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1093/nar/gkag1201"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0198550359dc5eea8b8d35fb14f8c77ff3adc5683b46288e6708cd14300d3cc7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T20:23:23.767769+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c1d193c9caead3850229d5160b537d4520a11476bbce82975e3221475fd0f612",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T20:23:23.767769+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "マイコバクテリアのデグラドソーム様ネットワークにおけるRNase Eの役割の解明",
+    "abstract_ja": "要旨メッセンジャーRNA（mRNA）分解は、世界的に重要な病原体である結核菌（Mycobacterium tuberculosis）において、ストレスに応答して調節される根本的に重要なプロセスである。複数の結核菌リボヌクレアーゼ（RNase）が協調してmRNA分解を制御していると仮説立てられているが、それらの間の相互作用の大部分は未解明である。律速酵素の一つであるRNase Eは、天然変性領域（IDR）を有する。本研究では、主要な結核菌mRNA分解酵素間の相互作用を定義し、非病原性モデルであるMycolicibacterium smegmatisにおけるRNase Eの2つのIDRの機能を同定した。in vivoにおいて、これら2つのIDRはmRNA分解速度に異なる影響を及ぼすが、定常状態の転写産物量への影響に関しては、機能的にほぼ冗長であることがわかった。in vitroでは、IDRは触媒作用には関与しないが、RNA結合や他のmRNA分解酵素（すなわちPNPase、RNase J、およびRhlE1）との相互作用において主要な役割を果たしており、これにはRhlE1のATPase活性の刺激も含まれる。in vivoでは、これらの酵素はRNase Eと共に局在するが、そのIDRはわずかな役割しか果たしておらず、細胞内局在機構において相当な冗長性があることが示唆される。総じて、我々は、RNA分解酵素とRNAとの間の動的かつ一過性の相互作用によって保持され、生理学的に関連のあるストレス時に切断されることで適応性を可能にする、結核菌におけるデグラドソーム様ネットワークモデルを提案する。"
+  },
+  {
+    "id": "10.1093/nar/gkag1298",
+    "title": "Universal 3D motif dynamics in RNA: the A-minor switch",
+    "abstract": "AbstractA-minor motifs consist of adenosines docking into adjacent RNA minor grooves, are the most prevalent 3D interaction stabilizing RNA structures, and are widely considered as being static. NMR spectroscopy reveals a secondary structure equilibrium of these motifs between engaged and disengaged states, which we term the A-minor switch. A switch in Escherichia coli ribosome helix 44 consists of a sparsely populated, transient single-nucleotide register shift that sequesters adenosines from their 3D structural A-minor contacts. Mutational trapping of the NMR-defined, A-minor-engaged ground and -disengaged excited state, combined with cryo-electron microscopy, visualizes this dynamic switch mechanism. Additionally, A-minor switches were identified using secondary structure ensemble analysis and mutational trapping was found to impair bacterial growth, directly linking RNA dynamics and function. Because A-minor motifs are widespread in structured RNAs, these findings establish A-minor switches as a general regulatory layer between secondary structure dynamics and tertiary contacts, exposing a new therapeutic target class.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1298",
+    "date": "2026-11-26",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1298/9133944?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5775,
+    "collected_at": "2026-11-26T19:48:23.275553+00:00",
+    "collected_date": "2026-11-27",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/3091.xml"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1093/nar/gkag1298"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c6357bbacb4a1cd73e4504de6b89b0b6c6290c5f33f05ae9296ee94b3a61567c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T20:23:23.767769+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "00d3666ac225e1e6ce77e9a3623b728b25acec8799da8cde483429967dae7063",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T20:23:23.767769+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "RNAにおける普遍的な3次元モチーフダイナミクス：Aマイナースイッチ",
+    "abstract_ja": "要旨 A-マイナーモチーフは、隣接するRNAマイナーグルーブにアデノシンがドッキングした構造であり、RNA構造を安定化させる最も普遍的な3次元相互作用であり、また静的な構造であると広く考えられている。NMR分光法により、これらのモチーフにおいて結合状態と非結合状態の間の二次構造平衡が存在することが明らかになっており、我々はこれをA-マイナースイッチと呼ぶ。大腸菌リボソームヘリックス44におけるスイッチは、アデノシンを3次元構造上のA-マイナー接触部位から隔離する、占有率の低い一過性の単一ヌクレオチドレジスタシフトで構成されている。NMRで定義されたA-マイナー結合状態の基底状態と非結合状態の励起状態の変異トラップ法をクライオ電子顕微鏡法と組み合わせることで、この動的なスイッチ機構を可視化した。さらに、二次構造アンサンブル解析を用いてA-マイナースイッチを同定し、変異トラップ法によってそれが細菌の増殖を阻害することを見出したことで、RNAのダイナミクスと機能が直接的に結び付けられた。A-マイナーモチーフは構造化RNAに広く分布しているため、これらの知見は、A-マイナースイッチが二次構造ダイナミクスと三次接触の間の一般的な調節層であることを立証し、新たな治療標的クラスを提示するものである。"
+  },
+  {
+    "id": "10.1093/nar/gkag1222",
+    "title": "Chromosome folding and segregation defects in a class A PBP mutant of Bacillus subtilis",
+    "abstract": "AbstractMost bacterial cells have at least one class A penicillin-binding protein (aPBP) that plays a key role in cell wall (peptidoglycan) synthesis. It is generally assumed that peptidoglycan synthesis activity constitutes the primary, if not the only, function of aPBPs. Loss of PBP1, the major aPBP of Bacillus subtilis, results in a mild morphogenic phenotype in which cells are thinner and longer than normal. The increased length was thought to be responsible for an increase in the number of nucleoids per cell. However, we now show that ponA mutants, which lack PBP1, have a chromosome segregation defect. The defect appears to occur because the reduced cell diameter impacts chromosome architecture. The increased cell length probably arises because the chromosome abnormality occludes cell division sites. The main consequence of the altered chromosome arrangement seems to be a specific defect in chromosome segregation, characterized by increased chromosome dimer formation, as inactivation of the XerCD-dif system in ponA mutants leads to severe chromosome segregation and growth defects. Restoring cell width by combining ponA with an mreB mutation suppresses the chromosome segregation defect. These results demonstrate that cell architecture has an important influence on chromosome organization and dynamics.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1222",
+    "date": "2026-11-26",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1222/9133943?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Bacillus",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5776,
+    "collected_at": "2026-11-26T19:48:23.275553+00:00",
+    "collected_date": "2026-11-27",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/3091.xml"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1093/nar/gkag1222"
+    ],
+    "translation": {
+      "title": {
+        "hash": "db21ea8a6fc1a0180209ebd6a08f82f627fd5eafa0d74aa18f3315c0fee8528f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T20:23:23.767769+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "afe801ac418407c8c5d1f2c9939a47bedaa66e460984e3b1f7efc3ceb7fc4e5f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T20:23:23.767769+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Bacillus subtilisのクラスA PBP変異体における染色体の折り畳みおよび分離異常",
+    "abstract_ja": "要旨 ほとんどの細菌細胞は、細胞壁（ペプチドグリカン）合成において重要な役割を果たすクラスAペニシリン結合タンパク質（aPBP）を少なくとも1種類保有している。一般に、ペプチドグリカン合成活性は、aPBPの唯一ではないにせよ、主要な機能であると考えられてきた。Bacillus subtilisの主要なaPBPであるPBP1を欠損させると、細胞が通常よりも細長くなる軽度の形態形成表現型が認められる。この長さの増加は、細胞あたりのヌクレオイド数の増加によるものと考えられてきた。しかし本研究では、PBP1を欠くponA変異体が染色体分離異常を有することを示した。この異常は、細胞径の減少が染色体構造に影響を及ぼすことで生じると考えられる。細胞長の増加は、おそらく染色体異常が細胞分裂部位を遮蔽するために起こる。染色体配置の変化による主な影響は、染色体分離の特異的な異常であると考えられ、ponA変異体におけるXerCD-dif系の不活性化が重篤な染色体分離および増殖異常を引き起こすことから、染色体二量体形成の増加によって特徴づけられる。ponAにmreB変異を組み合わせて細胞幅を回復させると、染色体分離異常が抑制される。これらの結果は、細胞構造が染色体の組織化および動態に重要な影響を及ぼすことを示している。"
+  },
+  {
+    "id": "10.1093/nar/gkag1283",
+    "title": "The Updateable Human Virome Database and toolkit: a novel framework for human virome analysis",
+    "abstract": "AbstractCurrent computational methods for analyzing viruses in human metagenomes rely on static databases composed largely of fragmented virus genomes, which are mostly derived from gastrointestinal samples. This issue limits the identification of viruses exclusively found outside the gastrointestinal tract and impairs analyses requiring high-quality genomes. To address these issues, we created the Updateable Human Virome Database (UHVDB), an expandable database of 1.15 million high-quality, clustered, and annotated virus genomes integrated from pre-existing human virome databases and diverse human sample metagenome assemblies. We developed an associated toolkit that enables users to (i) update UHVDB by mining, clustering, and annotating virus sequences, (ii) taxonomically profile viruses in metagenomes and metatranscriptomes, (iii) estimate phage replication activity using phage-to-host ratios, and (iv) determine the genomic characteristics of detected viruses. To illustrate the utility of UHVDB and its associated toolkit, we analyzed 1949 oral/airway samples from people with cystic fibrosis and a separate dataset of metatranscriptomes from people with acute respiratory infections. UHVDB is a novel framework for virome analysis that expands the capacity to define virus contributions to health and disease.",
+    "journal": "Nucleic Acids Research",
+    "doi": "10.1093/nar/gkag1283",
+    "date": "2026-11-26",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://academic.oup.com/nar/article/doi/10.1093/nar/gkag1283/9133942?rss=1",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "clustering",
+        "database",
+        "genome",
+        "genomic",
+        "metagenom",
+        "metagenome",
+        "metagenomes",
+        "metatranscriptom",
+        "metatranscriptomes",
+        "phage",
+        "sequence",
+        "tool",
+        "virome",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assemblies",
+          "genom",
+          "genome",
+          "genomic",
+          "metagenom",
+          "metagenome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://academic.oup.com/rss/site_5127/3091.xml",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5777,
+    "collected_at": "2026-11-26T19:48:23.275553+00:00",
+    "collected_date": "2026-11-27",
+    "sources": [
+      "https://academic.oup.com/rss/site_5127/3091.xml"
+    ],
+    "first_seen": "2026-11-26",
+    "related_dois": [
+      "10.1093/nar/gkag1283"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0faf6cfad6af3659aeb1a4fc8b233f476c6480ad0866ff5e3537158bf2dc35a6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T20:23:23.767769+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2bd2a9a932f8c59f93e0f10cd4f41ebc385c8e19367f36d7f31d0ac33fb1b9b7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-26T20:23:23.767769+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "更新可能なヒトウイルスームデータベースおよびツールキット：ヒトウイルスーム解析のための新規フレームワーク",
+    "abstract_ja": "要旨ヒトメタゲノムにおけるウイルス解析の現行の計算手法は、主に消化管検体由来の断片化されたウイルスゲノムで構成される静的なデータベースに依存している。この問題により、消化管外にのみ存在するウイルスの同定が制限され、高品質なゲノムを必要とする解析に支障をきたしている。これらの課題に対処するため、我々は、既存のヒトバイロームデータベースおよび多様なヒト検体メタゲノムアセンブリから統合された、115万件の高品質でクラスタリングおよびアノテーション済みのウイルスゲノムを収録する拡張可能なデータベース「Updateable Human Virome Database (UHVDB)」を構築した。また、ユーザーが(i) ウイルス配列のマイニング、クラスタリング、およびアノテーションによってUHVDBを更新し、(ii) メタゲノムおよびメタトランスクリプトームにおけるウイルスの分類学的プロファイリングを行い、(iii) ファージ対宿主比を用いてファージの複製活性を推定し、(iv) 検出されたウイルスのゲノム特性を特定できる関連ツールキットを開発した。UHVDBおよびその関連ツールキットの有用性を示すため、嚢胞性線維症患者の口腔・気道検体1,949検体と、急性呼吸器感染症患者のメタトランスクリプトームの別個のデータセットを解析した。UHVDBは、健康と疾患に対するウイルスの寄与を定義する能力を拡大する、バイローム解析のための新たなフレームワークである。"
   }
 ]
