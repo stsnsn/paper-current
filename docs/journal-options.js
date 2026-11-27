@@ -1031,14 +1031,21 @@ function optionRandom(seed){let n=2166136261;for(const c of seed)n=Math.imul(n^c
 function optionShuffle(rows,rng){const out=[...rows];for(let i=out.length-1;i>0;i--){const j=Math.floor(rng()*(i+1));[out[i],out[j]]=[out[j],out[i]]}return out}
 function journalDistance(a,b){const shared=a.scope.filter(s=>b.scope.includes(s)).length,union=new Set([...a.scope,...b.scope]).size;let d=union?1-shared/union:1;if(a.if>0&&b.if>0)d+=Math.min(1,Math.abs(Math.log(a.if/b.if)))*0.35;return d}
 function journalOptions(p,papers,mode,seed,catalog=[]){
+  // Resolve each journal once per question, rather than during every sort comparison.
+  const keys=new Map(),key=name=>{if(!keys.has(name))keys.set(name,journalKey(name));return keys.get(name)};
+  const profiles=new Map();
+  for(const [name,profile] of Object.entries(JOURNAL_PROFILES))if(!profiles.has(key(name)))profiles.set(key(name),profile);
+  for(const profile of catalog)if(!profiles.has(key(profile.name)))profiles.set(key(profile.name),profile);
+  const profileFor=name=>profiles.get(key(name))||{scope:[]};
   const correct=p.answer_journal??(p.preprint?null:p.journal),rng=optionRandom(seed+':'+p.id+':'+mode),names=new Map();
-  for(const name of [correct,...catalog.map(j=>j.name),...Object.keys(JOURNAL_PROFILES),...papers.flatMap(a=>[a.answer_journal,...(a.options||[])])])if(name&&journalKey(name)!=='biorxiv'&&!names.has(journalKey(name)))names.set(journalKey(name),name);
-  let pool=optionShuffle([...names.values()].filter(j=>journalKey(j)!==journalKey(correct)),rng);
+  for(const name of [correct,...catalog.map(j=>j.name),...Object.keys(JOURNAL_PROFILES),...papers.flatMap(a=>[a.answer_journal,...(a.options||[])])])if(name&&key(name)!=='biorxiv'&&!names.has(key(name)))names.set(key(name),name);
+  let pool=optionShuffle([...names.values()].filter(j=>key(j)!==key(correct)),rng);
   if(mode==='professional'){
     // For unpublished preprints use topic tags rather than a fabricated answer.
     const topic={scope:(p.tags||[]).includes('海洋微生物')?['microbiology','ecology']:['microbiology','genomics']};
-    const known=correct?journalProfile(correct,catalog):topic,target=known.scope.length?known:topic;
-    pool.sort((a,b)=>journalDistance(target,journalProfile(a,catalog))-journalDistance(target,journalProfile(b,catalog)));
+    const known=correct?profileFor(correct):topic,target=known.scope.length?known:topic;
+    const distances=new Map(pool.map(name=>[name,journalDistance(target,profileFor(name))]));
+    pool.sort((a,b)=>distances.get(a)-distances.get(b));
     // Sample from five near neighbours to avoid making every question identical.
     pool=optionShuffle(pool.slice(0,Math.max(correct?3:4,5)),rng);
   }
