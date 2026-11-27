@@ -629,29 +629,26 @@ window.PAPER_DATA = {
             "preprint": false
           }
         ]
+      },
+      {
+        "at": "2026-11-28T07:32:40.813739+09:00",
+        "papers": [
+          {
+            "id": "10.1186/s40793-026-00990-9",
+            "preprint": false
+          }
+        ]
       }
     ],
     "date": "2026-11-23",
     "publication_mode": "daily",
-    "updated_at": "2026-11-27T22:02:02.331644+09:00",
-    "daily_updated_at": "2026-11-27T22:02:02.331644+09:00",
+    "updated_at": "2026-11-28T07:32:40.813739+09:00",
+    "daily_updated_at": "2026-11-28T07:32:40.813739+09:00",
     "week_ends_at": "2026-11-30T00:00:00+09:00",
     "added_ids": [
-      "10.1111/1462-2920.70473",
-      "10.3389/fmicb.2026.2006054",
-      "10.1101/gr.281873.126",
-      "10.1186/s40793-026-00988-3",
-      "10.3389/fmicb.2026.2006239",
-      "10.3389/fmicb.2026.1939443",
-      "10.3389/fmicb.2026.2016858",
-      "10.3389/fmicb.2026.2019209",
-      "10.1111/1462-2920.70505",
-      "10.3389/fmicb.2026.1918563",
-      "10.3389/fmicb.2026.1970387",
-      "10.3389/fmicb.2026.1984955",
-      "10.1101/gr.281825.125"
+      "10.1186/s40793-026-00990-9"
     ],
-    "added_date": "2026-11-27"
+    "added_date": "2026-11-28"
   },
   "papers": [
     {
@@ -29934,6 +29931,84 @@ window.PAPER_DATA = {
         "Functional & integrative genomics",
         "Microsystems & nanoengineering",
         "Genome Research"
+      ]
+    },
+    {
+      "id": "10.1186/s40793-026-00990-9",
+      "title": "Pathogen-infected wheat straw return is associated with rhizosphere microbiome destabilization and increased Fusarium crown rot severity in wheat",
+      "abstract": "Background\n                     Wheat straw return is widely practiced in China to enhance soil organic carbon, but it has the side effect of exacerbating soil-borne diseases, particularly when the returned straw carries pathogen inoculum. Whether straw return also affects disease through the microbiome, beyond the direct input of inoculum, is less clear. We asked whether rhizosphere microbiome co-occurrence structure, assembly, and the abundance of putatively beneficial taxa differed between treatments with and without pathogen-infected straw return, and whether such differences accompanied cultivar-dependent disease outcomes.\n                  \n                     Results\n                     In a field experiment in a wheat-maize rotation system that combined absolute quantitative microbiome profiling, co-occurrence network analysis, and null model-based assembly inference, the Fusarium crown rot (FCR) disease index was higher under pathogen-infected straw return in both cultivars. The increase was significant in the susceptible ‘Zhoumai 33’ (3.0–11.1) but not in the resistant ‘Zhoumai 18’ (0.9–2.9). Crucially, pathogen-infected straw return did not universally elevate Fusarium abundance but triggered its differential enrichment in the rhizosphere. This localized enrichment was accompanied by a loss of microbiome stability: reduced co-occurrence network complexity and robustness in inter-row and rhizosphere soils (built across both cultivars), a shift in community assembly toward increased stochasticity, ​particularly in fungal communities at the later sampling stage (Feekes 11), and depletion of putatively beneficial taxa (e.g., Flavobacterium, Chaetomium), which are known to include biocontrol strains. Integrated machine learning linked the FCR disease index to shifts in microbial diversity, depletion of these beneficial taxa, enrichment of pathogenic fungi (e.g., Fusarium, Bipolaris), and reduced soil nitrogen and phosphorus availability.\n                  \n                     Conclusion\n                     The results suggest that the disease-promoting effect of pathogen-infected straw return is not explained by inoculum input alone, and that the stability of the rhizosphere microbiome is part of what determines the outcome, particularly in the susceptible cultivar. Our findings advocate for integrated strategies that combine resistant cultivars, microbiome-aware nutrient management, and targeted microbial amendments to sustain soil health in straw return systems.",
+      "journal": "Environmental Microbiome",
+      "doi": "10.1186/s40793-026-00990-9",
+      "date": "2026-11-27",
+      "authors": "",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://link.springer.com/article/10.1186/s40793-026-00990-9",
+      "abstract_source": "rss",
+      "preprint": false,
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "fungal",
+          "fungi",
+          "microbial",
+          "microbiome"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "assembly"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "discovery": [
+        {
+          "source": "https://link.springer.com/search.rss?facet-journal-id=40793",
+          "query": "RSS feed",
+          "scope": "journal"
+        }
+      ],
+      "collection_order": 5877,
+      "collected_at": "2026-11-27T22:08:36.987915+00:00",
+      "collected_date": "2026-11-28",
+      "sources": [
+        "https://link.springer.com/search.rss?facet-journal-id=40793"
+      ],
+      "first_seen": "2026-11-27",
+      "related_dois": [
+        "10.1186/s40793-026-00990-9"
+      ],
+      "translation": {
+        "title": {
+          "hash": "42f109b30465179712c3d620058e79f63bda49de178b01944a2676361473ae29",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-27T22:30:21.871476+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "b256b2f7338d109c859921c1415a8e389c6dbc350a994c67671ffd7efa455ac5",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-27T22:30:21.871476+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "病原菌感染小麦わらの返送は、小麦の根圏微生物叢の不安定化およびフザリウム萎凋病の重症化と関連している。",
+      "abstract_ja": "背景\n                     中国では、土壌有機炭素を増加させるために小麦わらの還元が広く行われているが、特に還元されたわらが病原菌の接種源となる場合、土壌伝染病を悪化させるという副作用がある。接種源の直接的な投入を超えて、わらの還元がマイクロバイオームを介して病害に影響を及ぼすかについては、それほど明確ではない。本研究では、病原菌感染わら還元を施した処理区と施さない処理区の間で、根圏マイクロバイオームの共起構造、アセンブリ、および有益と考えられる分類群の存在量に差異があるか、また、そのような差異が品種依存的な病害結果を伴うかを検証した。\n                  \n                     結果\n                     絶対定量的マイクロバイオームプロファイリング、共起ネットワーク解析、およびヌルモデルに基づくアセンブリ推論を組み合わせた小麦・トウモロコシ輪作体系における圃場実験において、両品種ともに病原菌感染わら還元下でフザリウム萎凋病（FCR）の病害指数が上昇した。この上昇は、感受性品種「Zhoumai 33」では有意であったが（3.0–11.1）、抵抗性品種「Zhoumai 18」では有意ではなかった（0.9–2.9）。重要な点として、病原菌感染わら還元は一律にフザリウムの存在量を増加させたわけではなく、根圏におけるその差異的な濃縮を誘発した。この局所的な濃縮にはマイクロバイオームの安定性の低下が伴っていた。具体的には、共起ネットワークの複雑性の低下、および条間および根圏土壌（両品種で構築）におけるロバスト性の低下、コミュニティアセンブリの確率性の増大へのシフト（特に後期のサンプリング段階における真菌コミュニティにおいて）（Feekes 11）、そして生物的防除株を含むことが知られている有益と考えられる分類群（例：Flavobacterium、Chaetomium）の枯渇が認められた。統合的な機械学習により、FCR病害指数が、微生物多様性の変化、これらの有益分類群の枯渇、病原性真菌（例：Fusarium、Bipolaris）の濃縮、および土壌中の窒素・リン利用能の低下と関連していることが示された。\n                  \n                     結論\n                     本結果は、病原菌感染わら還元による病害促進効果が接種源の投入のみでは説明できず、特に感受性品種においては、根圏マイクロバイオームの安定性が結果を決定づける要因の一部であることを示唆している。我々の知見は、わら還元体系において土壌の健全性を維持するために、抵抗性品種の導入、マイクロバイオームを考慮した養分管理、および標的を絞った微生物資材の施用を組み合わせた統合的な戦略を推奨するものである。",
+      "answer_journal": "Environmental Microbiome",
+      "question_type": "published",
+      "options": [
+        "Annals of neurosciences",
+        "Molecular & cellular proteomics : MCP",
+        "Journal of neuro-oncology",
+        "Environmental Microbiome"
       ]
     }
   ],
