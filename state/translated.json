@@ -344737,5 +344737,285 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "多核異核生物Rhizoctonia solani AG1-IBの染色体スケールのゲノムアセンブリ",
     "abstract_ja": "Rhizoctonia solani AG1-IBは、芝草および農作物の経済的に重要な真菌病原体であるが、利用可能なゲノムアセンブリは依然として断片化されているか、あるいはハプロタイプ固有の変異を不明瞭にする崩壊した配列やコンセンサス配列であり、ゲノム進化や異核分裂の研究を制限している。本研究では、Oxford Nanoporeシーケンシング、Hi-Cスキャフォールディング、およびショートリードポリッシングを用いて作製した、AG1-IB分離株S1W6の染色体スケールかつハプロタイプ認識型のゲノムアセンブリを提示する。PECATを用いたde novoアセンブリにより、BUSCO完全性が96%を超え、核ゲノムN50値が2 Mbを超える2つのハプロタイプ認識型核ゲノムアセンブリが得られた。比較解析の結果、ハプロタイプ間に60万件以上のSNPと8万件のインデルが存在し、アセンブリ間の平均塩基同一性は97.75%に達するなど、顕著なハプロタイプ分岐が認められた。FastANI解析では、S1W6のHap1およびHap2アセンブリ間で、異なる植物宿主や地理的地域から独立して収集されたAG1-IB分離株間で観察されたものと同等の遺伝的分岐が示された。広範な塩基変異にもかかわらず、Gene Ontologyプロファイル、予測エフェクターレパートリー、糖活性酵素、および生合成遺伝子クラスター組成はアセンブリ間で保存されていた。対照的に、ホメオドメイン（HD）交配型遺伝子座は可変であった。Hap2は4つのHD遺伝子（W-HD1、W-HD2、E-HD1、E-HD2）を含んでいたのに対し、Hap1はE-HD1を欠き、分岐したHDアミノ酸配列を共有していた。第15染色体上のSTE3フェロモン受容体遺伝子は、両ハプロタイプ間で高度に保存されていた。本研究は、R. solani AG1-IBに関する初の染色体スケールかつハプロタイプ分解能を持つゲノムリソースを提供し、異核分裂個体が、遺伝的に多様なAG1-IB分離株間で観察されるレベルに近いゲノム変異を保持し得ることを示した。これらの知見は、異核分裂性真菌植物病原体におけるゲノム進化と交配型多様性を理解する上で、ハプロタイプ認識型アセンブリが重要であることを強調するものである。"
+  },
+  {
+    "id": "10.1111/1462-2920.70505",
+    "title": "The Impact of Marasmius oreades Fairy Rings on Soil Physicochemical Properties and the Microbiome",
+    "abstract": "In their paper entitled ‘The impact of Marasmius oreades fairy rings on soil physicochemical properties and the microbiome’, van Zandvoort, Vonk, Tack and Johannesson* showed that the colonization of M. oreades caused a transient change in hydrophobicity, pH, nitroge and carbon. During colonization, M. oreades was dominant, decreasing fungal diversity and evenness and altering the fungal community composition. The bacterial diversity and evenness were not variable, but the bacterial community after colonization was significantly different from before colonization.\n\nABSTRACT\nFungal fairy rings are formed by a circular, underground, mycelial network growing radially outward and dying in the centre. We investigated how the fairy ring‐forming fungus Marasmius oreades interacts with its environment. We collected soil samples at four positions in nine fairy rings from three sites and analysed the physicochemical properties and microbiome. Sampling close to the fungal growth front allowed us to gain a fine‐scale perspective of the changes as M. oreades grew. We observed a consistently higher hydrophobicity and lower pH on the growth front and decreasing levels of total and organic carbon and total nitrogen from ahead to behind the growth front. The fungal richness and evenness were significantly lower on the growth front and the fungal community composition here was distinct, primarily due to the dominance of M. oreades. In contrast, we observed no differences in bacterial richness and evenness between positions. However, the bacterial community composition on and behind the growth front was different from that away and ahead of the growth front, suggesting that M. oreades causes a long‐term change in the bacterial community. Our results point to a significant role of M. oreades in shaping the heterogeneity and diversity of grassland soil ecosystems.\n\nIn their paper entitled ‘The impact of Marasmius oreades fairy rings on soil physicochemical properties and the microbiome’, van Zandvoort, Vonk, Tack and Johannesson* showed that the colonization of M. oreades caused a transient change in hydrophobicity, pH, nitroge and carbon. During colonization, M. oreades was dominant, decreasing fungal diversity and evenness and altering the fungal community composition. The bacterial diversity and evenness were not variable, but the bacterial community after colonization was significantly different from before colonization.\n\nABSTRACT\nFungal fairy rings are formed by a circular, underground, mycelial network growing radially outward and dying in the centre. We investigated how the fairy ring-forming fungus Marasmius oreades interacts with its environment. We collected soil samples at four positions in nine fairy rings from three sites and analysed the physicochemical properties and microbiome. Sampling close to the fungal growth front allowed us to gain a fine-scale perspective of the changes as M. oreades grew. We observed a consistently higher hydrophobicity and lower pH on the growth front and decreasing levels of total and organic carbon and total nitrogen from ahead to behind the growth front. The fungal richness and evenness were significantly lower on the growth front and the fungal community composition here was distinct, primarily due to the dominance of M. oreades. In contrast, we observed no differences in bacterial richness and evenness between positions. However, the bacterial community composition on and behind the growth front was different from that away and ahead of the growth front, suggesting that M. oreades causes a long-term change in the bacterial community. Our results point to a significant role of M. oreades in shaping the heterogeneity and diversity of grassland soil ecosystems.",
+    "journal": "Environmental Microbiology",
+    "doi": "10.1111/1462-2920.70505",
+    "date": "2026-11-26",
+    "authors": "Rosa van Zandvoort, \nPeter Jan Vonk, \nMarion Orsucci, \nAyco J. M. Tack, \nHanna Johannesson",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.70505?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "fungal",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://onlinelibrary.wiley.com/feed/14622920/most-recent",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5831,
+    "collected_at": "2026-11-27T12:24:59.862227+00:00",
+    "collected_date": "2026-11-27",
+    "sources": [
+      "https://onlinelibrary.wiley.com/feed/14622920/most-recent"
+    ],
+    "first_seen": "2026-11-27",
+    "related_dois": [
+      "10.1111/1462-2920.70505"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ec5ba2b35d51454594c24ad1acad8bfa790e3bcccb1af4d990bed3e29641cbae",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-27T12:46:48.369602+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "865f5b285cdbb9936879a46307d3d091af8ab32999bee52cd25462dc753fbab6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-27T12:46:48.369602+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Marasmius oreadesのフェアリーリングが土壌の物理化学的特性および微生物叢に及ぼす影響",
+    "abstract_ja": "van Zandvoort, Vonk, Tack および Johannesson* は、「Marasmius oreades のフェアリーリングが土壌の物理化学的特性およびマイクロバイオームに及ぼす影響」と題した論文において、M. oreades の定着が疎水性、pH、窒素および炭素の一過性の変化を引き起こすことを示した。定着過程において M. oreades が優占し、菌類の多様性と均等性が低下し、菌類群集組成が変化した。細菌の多様性と均等性に変動は見られなかったが、定着後の細菌群集は定着前と有意に異なっていた。\n\n要旨\n菌類のフェアリーリングは、放射状に外側へ成長し、中心部で枯死する円形の地下菌糸ネットワークによって形成される。本研究では、フェアリーリングを形成する菌類である Marasmius oreades が環境とどのように相互作用するかを調査した。3つの地点にある9つのフェアリーリングの4箇所で土壌試料を採取し、物理化学的特性およびマイクロバイオームを分析した。菌類の成長前線付近でサンプリングを行ったことで、M. oreades の成長に伴う変化を詳細なスケールで把握することができた。成長前線では、一貫して高い疎水性と低いpHが観察され、成長前線の前方から後方にかけて全炭素、有機炭素、および全窒素のレベルが低下していた。菌類の豊富さと均等性は成長前線で有意に低く、ここでの菌類群集組成は、主に M. oreades の優占により異なっていた。対照的に、細菌の豊富さと均等性については、地点間で差は認められなかった。しかし、成長前線上および後方の細菌群集組成は、成長前線の外側および前方のそれとは異なり、M. oreades が細菌群集に長期的な変化をもたらすことが示唆された。本研究の結果は、草原土壌生態系の不均一性と多様性を形成する上で、M. oreades が重要な役割を果たしていることを示している。\n\nvan Zandvoort, Vonk, Tack および Johannesson* は、「Marasmius oreades のフェアリーリングが土壌の物理化学的特性およびマイクロバイオームに及ぼす影響」と題した論文において、M. oreades の定着が疎水性、pH、窒素および炭素の一過性の変化を引き起こすことを示した。定着過程において M. oreades が優占し、菌類の多様性と均等性が低下し、菌類群集組成が変化した。細菌の多様性と均等性に変動は見られなかったが、定着後の細菌群集は定着前と有意に異なっていた。\n\n要旨\n菌類のフェアリーリングは、放射状に外側へ成長し、中心部で枯死する円形の地下菌糸ネットワークによって形成される。本研究では、フェアリーリングを形成する菌類である Marasmius oreades が環境とどのように相互作用するかを調査した。3つの地点にある9つのフェアリーリングの4箇所で土壌試料を採取し、物理化学的特性およびマイクロバイオームを分析した。菌類の成長前線付近でサンプリングを行ったことで、M. oreades の成長に伴う変化を詳細なスケールで把握することができた。成長前線では、一貫して高い疎水性と低いpHが観察され、成長前線の前方から後方にかけて全炭素、有機炭素、および全窒素のレベルが低下していた。菌類の豊富さと均等性は成長前線で有意に低く、ここでの菌類群集組成は、主に M. oreades の優占により異なっていた。対照的に、細菌の豊富さと均等性については、地点間で差は認められなかった。しかし、成長前線上および後方の細菌群集組成は、成長前線の外側および前方のそれとは異なり、M. oreades が細菌群集に長期的な変化をもたらすことが示唆された。本研究の結果は、草原土壌生態系の不均一性と多様性を形成する上で、M. oreades が重要な役割を果たしていることを示している。"
+  },
+  {
+    "id": "10.1186/s40793-026-00988-3",
+    "title": "Strategic enrichment of endophytic bacteria and consortium design to enhance plant adaptation to salinity stress",
+    "abstract": "Background\n                     The rice (Oryza sativa) root microbiome plays a critical role in plant adaptation to salinity stress, and its targeted manipulation offers a promising strategy to enhance crop resilience. In this study, a multi-generation enrichment approach under saline conditions was used to restructure the rice root endosphere and enrich for salt stress–resistant bacterial taxa.\n                  \n                     Results\n                     Successive reinoculations led to the consistent enrichment of key plant growth–promoting genera detected by 16S rRNA amplicon sequencing analysis, including Rhizobium, Paenibacillus, Pseudomonas, Pantoea, and Kosakonia, indicating adaptation to the root environment under salt stress while maintaining overall microbial diversity. Based on these enriched communities seen in silico, halotolerant bacterial strains were then isolated, characterized, and phenotypically tested in vitro. Strains exhibiting in vitro plant growth promoting and complementary functional traits were selected and combined into synthetic consortia. An eight-strains consortium (C1) significantly improved plant growth under both non-stressed and saline conditions without disrupting the native microbiome, in addition, a reduced three-strains consortium (C5) retained similar beneficial effects in non-stressed conditions in Hoagland. In contrast, individual strain inoculations were less effective and often impaired plant performance. Importantly, colonization assays, monitored through Oxford Nanopore sequencing as a targeted high-resolution approach, revealed that several strains unable to establish efficiently as single inoculants were able to persist when delivered within a consortium. This indicates that consortium assembly does not simply combine individually beneficial strains but can create a supportive microbial context that promotes colonization, persistence, and plant growth promotion.\n                  \n                     Conclusions\n                     This study demonstrates that salinity-driven microbiome enrichment, combined with rational consortium design, can generate effective multi-strain inoculants that outperform single strains in promoting rice growth and, in some cases, salt stress tolerance, highlighting synergistic interactions and strain compatibility as key determinants of successful root establishment and bioinoculant performance.",
+    "journal": "Environmental Microbiome",
+    "doi": "10.1186/s40793-026-00988-3",
+    "date": "2026-11-27",
+    "authors": "",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://link.springer.com/article/10.1186/s40793-026-00988-3",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "Pseudomonas",
+        "bacteria",
+        "bacterial",
+        "microbial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=40793",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5830,
+    "collected_at": "2026-11-27T12:24:59.862227+00:00",
+    "collected_date": "2026-11-27",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=40793"
+    ],
+    "first_seen": "2026-11-27",
+    "related_dois": [
+      "10.1186/s40793-026-00988-3"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6f6aa67c6ef81200c4dd4c6bdd49f839c20c1644f1b304c986c3d767d82d2b80",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-27T12:46:48.369602+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ee4facabffb10340c41bcfaa5f682c76deca078fab19524e7a240e41b56eae30",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-27T12:46:48.369602+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "塩ストレスに対する植物の適応性を高める内生細菌の戦略的濃縮とコンソーシアム設計",
+    "abstract_ja": "背景\n                     イネ（Oryza sativa）の根マイクロバイオームは、植物の塩類ストレス適応において極めて重要な役割を果たしており、これを標的とした操作は、作物のレジリエンスを高める有望な戦略となる。本研究では、塩類条件下での多世代濃縮アプローチを用いてイネ根内環境を再構築し、塩類ストレス耐性菌群を濃縮した。\n                  \n                     結果\n                     連続的な再接種により、16S rRNAアンプリコンシーケンシング解析で検出された、Rhizobium、Paenibacillus、Pseudomonas、Pantoea、およびKosakoniaを含む主要な植物成長促進属が一貫して濃縮された。これは、全体的な微生物多様性を維持しつつ、塩類ストレス下における根環境への適応を示している。in silicoで得られたこれらの濃縮コミュニティに基づき、次いで耐塩性細菌株を単離・特性解析し、in vitroで表現型試験を行った。in vitroで植物成長促進および相補的な機能的形質を示す株を選定し、合成コンソーシアムへと組み合わせた。8株からなるコンソーシアム（C1）は、在来のマイクロバイオームを乱すことなく、非ストレス条件および塩類条件の双方において植物成長を有意に促進した。さらに、縮小した3株からなるコンソーシアム（C5）も、Hoaglandの非ストレス条件下で同様の有益な効果を維持した。対照的に、個々の株の接種は効果が低く、しばしば植物の生育性能を低下させた。重要な点として、標的型の高解像度アプローチであるOxford Nanoporeシーケンシングを用いてモニタリングした定着アッセイにより、単一の接種菌として効率的に定着できなかった複数の株が、コンソーシアム内で供与された場合には生存し得ることが明らかになった。これは、コンソーシアムの構築が単に個別に有益な株を組み合わせるだけでなく、定着、生存、および植物成長促進を促進する支持的な微生物環境を創出し得ることを示している。\n                  \n                     結論\n                     本研究は、塩類ストレス誘導によるマイクロバイオームの濃縮を合理的なコンソーシアム設計と組み合わせることで、イネの成長促進、および場合によっては塩類ストレス耐性において単一株を上回る効果的な多株接種菌を創出できることを実証した。これにより、相乗的な相互作用と株間の適合性が、根の定着成功およびバイオイノキュラントの性能を決定づける重要な要因であることが浮き彫りとなった。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.2006239",
+    "title": "Flavopiridol restricts human adenovirus replication with functional involvement of CDK9, TP73/p73, and RPS9/RPS13",
+    "abstract": "BackgroundReporter-based antiviral screening requires follow-up experiments to confirm effects on productive infection and investigate relevant host processes. We integrated these approaches into a workflow for evaluating compounds against human adenoviruses (HAdVs), using flavopiridol as a case study.MethodsWe screened 1,056 compounds using an E1-deleted HAdV5-GFP reporter virus and evaluated flavopiridol against wild-type HAdV3, HAdV5, and HAdV7 in A549 cells. Time-of-addition experiments and measurements of viral gene expression, DNA accumulation, and infectious progeny characterized antiviral activity. Transcriptomic and proteomic analyses at 24 h after infection compared drug responses in infected and uninfected cells, followed by genetic testing of candidate host factors.ResultsFlavopiridol inhibited wild-type viral replication, with half-maximal effective concentrations of 30–50 nM in viral DNA assays. It acted predominantly after entry and reduced viral gene expression, DNA accumulation, and infectious progeny production. Treatment decreased RNA polymerase II Ser2 phosphorylation and altered host stress responses and global protein synthesis. Depletion of cyclin-dependent kinase 9 (CDK9) produced similar antiviral effects. TP73 knockdown partially relieved flavopiridol-associated restriction, while overexpression of the ribosomal proteins RPS9/RPS13 partially restored viral output under flavopiridol treatment or TAp73α overexpression. These findings support functional involvement without establishing a direct linear regulatory pathway.ConclusionThe workflow connects compound screening with validation of productive infection and functional investigation of host factors. Flavopiridol illustrates its application, although cytotoxicity limits therapeutic inference. Further evaluation should test additional compounds and examine the proposed host-factor relationships in physiologically relevant models.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.2006239",
+    "date": "2026-11-27",
+    "authors": "Zhe Zhang",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.2006239",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5820,
+    "collected_at": "2026-11-27T12:24:59.862227+00:00",
+    "collected_date": "2026-11-27",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-27",
+    "related_dois": [
+      "10.3389/fmicb.2026.2006239"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2ff53d1bdef92c3b0b09ffecc846b2d73dc70fec6fd2b88b07296a9a3ba3a8ce",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-27T12:46:48.369602+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "29da5193564da5b835621893cd1f7481820f8a4972b32b489c9f8f5c7a78e23c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-27T12:46:48.369602+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "フラボピリドールは、CDK9、TP73/p73、およびRPS9/RPS13の機能的関与を介してヒトアデノウイルスの複製を抑制する。",
+    "abstract_ja": "背景：レポーターベースの抗ウイルススクリーニングでは、実感染への影響を確認し、関連する宿主プロセスを調査するためのフォローアップ実験が必要となる。本研究では、フラボピリドールをケーススタディとして、ヒトアデノウイルス（HAdV）に対する化合物評価ワークフローにこれらのアプローチを統合した。方法：E1欠失型HAdV5-GFPレポーターウイルスを用いて1,056種類の化合物をスクリーニングし、A549細胞において野生型HAdV3、HAdV5、およびHAdV7に対するフラボピリドールの効果を評価した。添加時間実験ならびにウイルス遺伝子発現、DNA蓄積量、および感染性子孫の測定により、抗ウイルス活性を特性評価した。感染24時間後のトランスクリプトームおよびプロテオーム解析により、感染細胞と非感染細胞における薬剤応答を比較し、続いて候補宿主因子の遺伝子検査を行った。結果：フラボピリドールは野生型ウイルスの複製を阻害し、ウイルスDNAアッセイにおける半最大有効濃度は30～50 nMであった。本剤は主に侵入後に作用し、ウイルス遺伝子発現、DNA蓄積量、および感染性子孫の産生を減少させた。処理によりRNAポリメラーゼII Ser2のリン酸化が減少し、宿主のストレス応答および全般的なタンパク質合成が変化した。サイクリン依存性キナーゼ9（CDK9）の枯渇によっても同様の抗ウイルス効果が認められた。TP73のノックダウンはフラボピリドールに伴う制限を部分的に緩和したが、リボソームタンパク質RPS9/RPS13の過剰発現は、フラボピリドール処理またはTAp73α過剰発現下におけるウイルス産生を部分的に回復させた。これらの知見は、直接的な線形調節経路を確立することなく、機能的な関与を支持するものである。結論：本ワークフローは、化合物スクリーニングを実感染の検証および宿主因子の機能的調査へと結びつけるものである。フラボピリドールはその適用例を示すが、細胞毒性が治療上の推論を制限する要因となる。さらなる評価では、追加の化合物を試験し、生理学的に関連のあるモデルにおいて提案された宿主因子間の関係を検討すべきである。"
+  },
+  {
+    "id": "10.1101/gr.281873.126",
+    "title": "Engineering genome instability at repetitive elements reveals distinct roles for balanced rearrangements and ploidy in adaptation of a human fungal pathogen",
+    "abstract": "Genome plasticity is a ubiquitous feature of eukaryotic life, yet how different forms of genome variation contribute to biological adaptation remains poorly understood. Fungal pathogens exploit genome instability for adapting rapidly to stress. In the human fungal pathogen Candida albicans, structural variation frequently arises at repetitive DNA elements and generates balanced chromosomal rearrangements, loss of heterozygosity and aneuploidy. Because these genome alterations often coexist in clinical isolates, their individual contributions to adaptation remain difficult to resolve. Here, we describe Repetitive Element-Directed Cas9 (RED-Cas9), a genome engineering approach that introduces targeted double-strand breaks at two major C. albicans repeat families. By generating multiple classes of structural variation within the same genetic background, RED-Cas9 enables the direct comparison of their biological consequences, avoiding the confounding effects of unrelated genetic variation present in clinical isolates. We show that balanced rearrangements, which rearrange chromosomes without altering gene dosage, produced minimal transcriptional changes and no large-effect phenotypes. In contrast, ploidy variation triggered widespread gene dosage-linked transcriptional reprogramming and distinct phenotypic outcomes, including fluconazole resistance, impaired filamentation, and reduced virulence. These findings establish RED-Cas9 as a platform to dissect the functional consequences of distinct classes of structural variation and demonstrate that balanced chromosomal rearrangements and chromosome copy-number changes make fundamentally different contributions to genome plasticity and adaptation in a human fungal pathogen.",
+    "journal": "Genome Research",
+    "doi": "10.1101/gr.281873.126",
+    "date": "2026-11-24",
+    "authors": "Matt Shaw1",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://genome.cshlp.org/content/early/2026/11/24/gr281873126",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Candida",
+        "fungal"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://genome.cshlp.org/rss/ahead.xml",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5833,
+    "collected_at": "2026-11-27T12:24:59.862227+00:00",
+    "collected_date": "2026-11-27",
+    "sources": [
+      "https://genome.cshlp.org/rss/ahead.xml"
+    ],
+    "first_seen": "2026-11-27",
+    "related_dois": [
+      "10.1101/gr.281873.126"
+    ],
+    "translation": {
+      "title": {
+        "hash": "4d5a0df928ec5d8535def665e05eb6cc9d2bcc19b48a7582fec4183a23bab517",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-27T12:46:48.369602+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "1eeab540cd87318c31fe11a1d10069e6f160cdf451cf63174bbca5be88b15b8d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-27T12:46:48.369602+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "反復配列におけるゲノム不安定性の解析により、ヒト真菌病原体の適応におけるバランスの取れた再編成と倍数性の明確な役割が明らかになった。",
+    "abstract_ja": "ゲノム可塑性は真核生物の普遍的な特徴であるが、ゲノム変異の異なる形態が生物学的適応にどのように寄与しているかについては、依然として十分に解明されていない。真菌病原体は、ストレスに迅速に適応するためにゲノム不安定性を利用する。ヒト真菌病原体であるCandida albicansでは、反復DNAエレメントにおいて構造変異が頻繁に生じ、均衡型染色体再編成、ヘテロ接合性の喪失、および異数性が引き起こされる。これらのゲノム改変は臨床分離株においてしばしば共存するため、適応に対する個々の寄与を明らかにすることは依然として困難である。本研究では、C. albicansの2つの主要な反復ファミリーに標的型二本鎖切断を導入するゲノム工学的手法である反復エレメント指向型Cas9（RED-Cas9）について述べる。同一の遺伝的背景内で複数クラスの構造変異を作製することで、RED-Cas9はそれらの生物学的帰結の直接的な比較を可能にし、臨床分離株に見られる無関係な遺伝的変異による交絡効果を回避する。我々は、遺伝子量を変化させずに染色体を再編成する均衡型再編成が、最小限の転写変化しか引き起こさず、大きな影響を及ぼす表現型も示さないことを明らかにした。対照的に、倍数性変異は、広範な遺伝子量依存的な転写リプログラミングと、フルコナゾール耐性、フィラメント形成障害、および病原性の低下を含む異なる表現型の結果を誘発した。これらの知見は、RED-Cas9を異なるクラスの構造変異の機能的帰結を解析するためのプラットフォームとして確立するものであり、均衡型染色体再編成と染色体コピー数の変化が、ヒト真菌病原体におけるゲノム可塑性と適応に対して根本的に異なる寄与をしていることを実証している。"
   }
 ]
