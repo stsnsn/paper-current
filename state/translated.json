@@ -344217,5 +344217,301 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "「ドキシサイクリン誘導性の最小RNAポリメラーゼIIIプロモーター活性化による低レベル抑制性RNA量およびRNA干渉の制御」に関する編集者注",
     "abstract_ja": "以下に関する編集者注：Lahouari Amar, Mathieu Desclaux, Nicole Faucon-Biguet, Jacques Mallet, Roland Vogel, Control of small inhibitory RNA levels and RNA interference by doxycycline induced activation of a minimal RNA polymerase III promoter, Nucleic Acids Research, Volume 34, Issue 5, 1 March 2006, Page e37, https://doi.org/10.1093/nar/gkl034"
+  },
+  {
+    "id": "10.64898/2026.11.25.769124",
+    "title": "Strain-resolved metagenomics shows gut microbiome signatures in a case-control study of Malawian children with zoonotic schistosomiasis",
+    "abstract": "In 2024, Mangochi District, Malawi, we identified unexpected cases of zoonotic schistosomiasis associated with faecal egg excretion of Schistosoma haematobium, Schistosoma mattheei and hybrids thereof (S. haematobium x S. mattheei). Schistosomiasis is associated with gut microbiome alterations, but these associations remain unexplored in zoonotic schistosomiasis. Whether people with schistosomiasis are colonised with more closely related gut bacterial strains than people without schistosomiasis is also unclear. To better understand these patterns, we conducted a case-control study, using strain-resolved metagenomics to analyse faecal samples from 36 children: 12 with zoonotic schistosomiasis (S. haematobium and S. mattheei), 12 with \"classic\" urogenital schistosomiasis (S. haematobium only) and 12 uninfected controls. Microbial diversity, taxonomic composition, metabolic pathways and antimicrobial resistance gene profiles did not differ significantly between groups. However, Brachyspira, particularly Brachyspira aalborgi - an organism often associated with intestinal spirochaetosis - was more abundant in children with zoonotic schistosomiasis. We found no evidence of closely related B. aalborgi strains shared between participants, suggesting that localised B. aalborgi transmission networks are unlikely to explain the enrichment. In contrast, phylogenetic profiling across 143 other bacterial species revealed greater strain similarity between the gut microbiomes of children with any type of schistosomiasis than between those of controls. Broadly, we demonstrate the scientific value of strain-resolved metagenomics for investigating linked bacterial and schistosome exposures where local water, sanitation and hygiene infrastructure is inadequate. Future inclusion of livestock and environmental samples could be used to better identify where transmission pathways overlap, providing evidence to inform integrated disease surveillance and control.",
+    "journal": "",
+    "doi": "10.64898/2026.11.25.769124",
+    "date": "2026-11-26",
+    "authors": "O'Ferrall, A. M., Lally, D., Makaula, P., Namacha, G., Cunningham, L. J., Archer, J., Lewis, J. M., Bennett, A., Wagstaff, S. C., Kayuni, S. A., Musaya, J., Stothard, J. R., Roberts, A. P.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.25.769124v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "metagenom",
+        "metagenomics",
+        "microbial",
+        "microbiome",
+        "microbiomes"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5813,
+    "collected_at": "2026-11-27T03:01:51.253867+00:00",
+    "collected_date": "2026-11-27",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-27",
+    "related_dois": [
+      "10.64898/2026.11.25.769124"
+    ],
+    "translation": {
+      "title": {
+        "hash": "97c7d747566cd424fc36d7cf8cb47a23c6dc9775ebdc63addb17473af6023367",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-27T03:23:24.056582+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "73e359dc6f1b625a5efabdca30eb534821eab3b3df0ebcbdbd78ae88cb9a0c4f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-27T03:23:24.056582+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "マラウイの人獣共通感染症である住血吸虫症の小児を対象とした症例対照研究における菌株別メタゲノミクス解析による腸内細菌叢シグネチャーの提示",
+    "abstract_ja": "2024年、マラウイのマンゴチ地区において、Schistosoma haematobium、Schistosoma mattheei、およびそれらの交雑種（S. haematobium x S. mattheei）の糞便中卵の排泄に関連した、予期せぬ人獣共通感染症性住血吸虫症の症例を同定した。住血吸虫症は腸内細菌叢の変化と関連しているが、人獣共通感染症性住血吸虫症におけるこれらの関連性は未解明のままである。また、住血吸虫症患者が、非患者よりも近縁な腸内細菌株に定着しているかどうかも明らかではない。これらのパターンをより深く理解するため、我々は菌株分解メタゲノミクスを用いて、小児36名（人獣共通感染症性住血吸虫症（S. haematobiumおよびS. mattheei）患者12名、「古典的」尿生殖器住血吸虫症（S. haematobiumのみ）患者12名、および非感染対照群12名）の糞便検体を解析する症例対照研究を実施した。微生物多様性、分類学的組成、代謝経路、および薬剤耐性遺伝子プロファイルは、群間で有意な差は認められなかった。しかし、Brachyspira、特に腸管スピロヘータ症にしばしば関連するBrachyspira aalborgiは、人獣共通感染症性住血吸虫症の小児においてより豊富に認められた。参加者間で近縁なB. aalborgi株が共有されている証拠は見出されず、局所的なB. aalborgi伝播ネットワークがこの濃縮を説明する可能性は低いことが示唆された。対照的に、他の143種の細菌を対象とした系統解析では、対照群間よりも、いずれかの型の住血吸虫症を有する小児の腸内細菌叢間において、より大きな菌株類似性が認められた。総じて、我々は、地域の水・衛生・衛生管理インフラが不十分な状況において、関連する細菌および住血吸虫への曝露を調査するための菌株分解メタゲノミクスの科学的価値を実証した。今後、家畜および環境検体を組み込むことで、伝播経路がどこで重複しているかをより正確に特定でき、統合的な疾病サーベイランスおよび制御に資する根拠を得ることが可能となる。"
+  },
+  {
+    "id": "10.64898/2026.11.24.769051",
+    "title": "Dynamic interactions of the coronavirus PEDV nucleoprotein with its viral partner nsp3 and RNA",
+    "abstract": "Summary While coronavirus genome replication and transcription occur inside double-membrane vesicles (DMVs) in infected cells, nucleocapsid assembly of genomic RNA takes place at their cytoplasmic (external) face. Neosynthesized viral mRNAs (including genomic RNA) are exported from the DMV through nsp3/nsp4 pores and genomic RNAs are believed to be selected for encapsidation through an essential interaction of the nucleoprotein N with the amino-terminal domain of nsp3. Here, we describe the interaction play between the N of porcine epidemic diarrhea virus (PEDV, an alphacoronavirus) with the N-terminal domain of nsp3 and with RNAs. While N interacts with the N-terminal domain of nsp3 with a dissociation constant (KD) of about 150 nM, it binds to diverse small RNAs, displaying an affinity in the pM range for a short RNA (RNA[8mer]). This RNA and a 60-nt long RNA hairpin were both able to fully displace nsp3 complexed with N. In contrast, nsp3 was not able to dissociate RNA from N-RNA complexes. Using truncated forms of N and of the N-ter domain of nsp3, we showed that the RNA binding site does not fully overlap the nsp3 binding site on N. These results suggest that the interaction play between N, nsp3 and RNA is unidirectional, allowing to propose a mechanistical model for genome encapsidation, model in which N is first recruited by nsp3 at the cytoplasmic face of the DMV to bind to nucleotide stretches of (genomic) RNA exiting from the nsp3/nsp4 channel and concomitantly to dissociate from nsp3.",
+    "journal": "",
+    "doi": "10.64898/2026.11.24.769051",
+    "date": "2026-11-26",
+    "authors": "Fetre, C., Groutsch, J., Aumont-Nicaise, M., Fosse, P., Mauffret, O., Nevers, Q., Delmas, B.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.24.769051v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly",
+          "genom",
+          "genome",
+          "genomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5814,
+    "collected_at": "2026-11-27T03:01:51.253867+00:00",
+    "collected_date": "2026-11-27",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-27",
+    "related_dois": [
+      "10.64898/2026.11.24.769051"
+    ],
+    "translation": {
+      "title": {
+        "hash": "80cd7e156ee625e6bf7a5d486fd193118aa3a863ebd1d0569bec85adc4d5c46e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-27T03:23:24.056582+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "14f5ae37bf03489d361fc1bff569d518f470b7d22d826ab4e1759e77d92c54b9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-27T03:23:24.056582+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "コロナウイルスPEDV核タンパク質とウイルスパートナーnsp3およびRNAとの動的相互作用",
+    "abstract_ja": "要旨 コロナウイルスのゲノム複製および転写は、感染細胞内の二重膜小胞（DMV）内で行われるが、ゲノムRNAのヌクレオカプシド構築は、その細胞質側（外面）で行われる。新生のウイルスmRNA（ゲノムRNAを含む）はnsp3/nsp4孔を介してDMVから排出され、ゲノムRNAは、ヌクレオタンパク質Nとnsp3のアミノ末端ドメインとの必須の相互作用を通じて、エンカプシド化のために選択されると考えられている。本報では、豚流行性下痢ウイルス（PEDV、アルファコロナウイルス）のNと、nsp3のN末端ドメインおよびRNAとの相互作用について述べる。Nはnsp3のN末端ドメインと約150 nMの解離定数（KD）で相互作用する一方で、多様な小分子RNAに結合し、短鎖RNA（RNA[8mer]）に対してpM領域の親和性を示す。このRNAおよび60 nt長のRNAヘアピンは、いずれもNと複合体を形成したnsp3を完全に置換することができた。対照的に、nsp3はN-RNA複合体からRNAを解離させることができなかった。Nおよびnsp3のN末端ドメインの切断型を用いることで、RNA結合部位がN上のnsp3結合部位と完全には重ならないことを示した。これらの結果は、N、nsp3、およびRNA間の相互作用が一方向性であることを示唆しており、ゲノムエンカプシド化の機構モデルを提案することを可能にする。このモデルでは、NがまずDMVの細胞質側においてnsp3によってリクルートされ、nsp3/nsp4チャネルから流出する（ゲノム）RNAのヌクレオチド配列に結合し、同時にnsp3から解離するとされる。"
+  },
+  {
+    "id": "10.64898/2026.11.25.769125",
+    "title": "Calcium Signaling and Glycerol-3-Phosphate Metabolism Coordinate Extracellular Vesicle Biogenesis in Cryptococcus neoformans",
+    "abstract": "Extracellular vesicles (EVs) are increasingly recognized as important mediators of fungal physiology and host-pathogen interactions, but the mechanisms governing their biogenesis remain poorly understood. Here, we combined time-course RNA sequencing with genome-wide genetic screening to define the regulatory network controlling EV production in the human fungal pathogen Cryptococcus neoformans. Transcriptomic analysis identified an EV-associated regulon enriched in genes involved in vesicular trafficking, cell wall remodeling, lipid metabolism, mitochondrial function and ion homeostasis. Our screen further identified diverse regulators of EV production, highlighting endosomal trafficking, mitochondrial metabolism and calcium homeostasis. Cell viability was only weakly associated with EV production, arguing against cell lysis as the primary mechanism of EV release. Genetic and pharmacological analyses established calcium-dependent calcineurin signalling as a major regulator of EV production. We identified the calcineurin target Had1 as a positive regulator of EV production and demonstrate that Had1 functions as a glycerol-3-phosphate phosphatase. Loss of HAD1 caused glycerol-3-phosphate accumulation and extensive remodeling of cellular phospholipids, accompanied by a marked reduction in EV production. Together, these findings identify a calcium-calcineurin-Had1 pathway linking intracellular signalling and lipid homeostasis to fungal EV biogenesis.",
+    "journal": "",
+    "doi": "10.64898/2026.11.25.769125",
+    "date": "2026-11-26",
+    "authors": "Piffer, A. C., Coppee, J.-Y., Commere, P.-H., Maufrais, C., Moyrand, F., Rizzo, J., Saveanu, C., Janbon, G.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.25.769125v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "fungal"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5815,
+    "collected_at": "2026-11-27T03:01:51.253867+00:00",
+    "collected_date": "2026-11-27",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-27",
+    "related_dois": [
+      "10.64898/2026.11.25.769125"
+    ],
+    "translation": {
+      "title": {
+        "hash": "32b55cc9ce2f58edb1db3e712542c525cf99995019e8d3c77d3bde203bc0a4c9",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-27T03:23:24.056582+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6b178a9966294dc0ea2e740447ad0bbc3afdf64445394ea927ef530663e63b89",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-27T03:23:24.056582+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "カルシウムシグナル伝達とグリセロール-3-リン酸代謝は、Cryptococcus neoformansにおける細胞外小胞の生合成を協調的に制御する。",
+    "abstract_ja": "細胞外小胞（EV）は、真菌の生理機能や宿主・病原体間相互作用における重要な媒介因子として認識されつつあるが、その生合成を制御するメカニズムについては依然として十分に解明されていない。本研究では、タイムコースRNAシーケンシングとゲノムワイドな遺伝子スクリーニングを組み合わせ、ヒト真菌病原体Cryptococcus neoformansにおけるEV産生を制御する調節ネットワークを解明した。トランスクリプトーム解析により、小胞輸送、細胞壁リモデリング、脂質代謝、ミトコンドリア機能、およびイオン恒常性に関与する遺伝子が濃縮されたEV関連レギュロンが同定された。さらに、本スクリーニングによりEV産生の多様な調節因子が同定され、エンドソーム輸送、ミトコンドリア代謝、およびカルシウム恒常性が浮き彫りとなった。細胞生存率はEV産生と弱い関連しか認められず、EV放出の主因として細胞溶解が関与していないことが示唆された。遺伝学的および薬理学的解析により、カルシウム依存性カルシニューリンシグナル伝達がEV産生の主要な調節因子であることが明らかになった。我々は、カルシニューリン標的であるHad1をEV産生の正の調節因子として同定し、Had1がグリセロール-3-リン酸ホスファターゼとして機能することを実証した。HAD1の欠損はグリセロール-3-リン酸の蓄積と細胞内リン脂質の広範なリモデリングを引き起こし、それに伴いEV産生が著しく減少した。以上の知見を総合すると、細胞内シグナル伝達と脂質恒常性を真菌のEV生合成に結びつけるカルシウム-カルシニューリン-Had1経路が同定された。"
+  },
+  {
+    "id": "10.64898/2026.11.26.769081",
+    "title": "Global evolutionary and spatiotemporal transmission dynamics of human respiroviruses and orthorubulaviruses",
+    "abstract": "Human parainfluenza viruses (HPIVs) cause recurrent epidemics and are a major cause of hospitalization worldwide. However, the evolutionary and transmission dynamics driving HPIV persistence remain unclear. We analysed 1,161 archived samples representing four HPIV types from seven countries using genomic sequencing and Bayesian phylodynamic inference. We show that Respirovirus (HRV-1 and HRV-3) displayed greater fluctuations in genetic diversity whereas Orthorubulavirus (HOV-2 and HOV-4) showed more gradual changes. Despite comparable evolutionary rates, the four HPIV types exhibited contrasting lineage dynamics. HRV-1 showed prolonged lineage persistence, HRV-3 underwent greater lineage turnover, and HOV-2 and HOV-4 maintained fewer co-circulating lineages. Positive selection was more pronounced in respiroviruses, particularly in the phosphoprotein gene, while positively selected sites overlapped predicted hemagglutinin-neuraminidase B-cell epitopes. Phylogeographic analyses revealed repeated interregional introductions, bidirectional transmission, and regional persistence exceeding a decade for some lineages. These findings identify distinct evolutionary and transmission dynamics underlying HPIV persistence and inform the development of broadly protective vaccines and therapeutics.",
+    "journal": "",
+    "doi": "10.64898/2026.11.26.769081",
+    "date": "2026-11-26",
+    "authors": "Smith, G. J., Cronin, P., Zhang, R., Wang, B., Cheng, D., Zhuang, Y., Wong, F. Y., Ma, J., Chiang, Y. S., Goay, S. S., Ng, G. G., Ooi, Y. S., St. John, A., Wang, D.-Y., Garcia-Salum, T., Heraud, J.-M., Schutten, M., Sloots, T. P., Treurnicht, F. K., Contreras, A. M., Ferres, M., Druce, J. D., Razanajatovo, N. H., Cowling, B. J., Dwyer, D. E., Lin, C., Cohen, C., Smith, D. W., Medina, R. A., Su, Y. C.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.26.769081v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genomic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5816,
+    "collected_at": "2026-11-27T03:01:51.253867+00:00",
+    "collected_date": "2026-11-27",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-27",
+    "related_dois": [
+      "10.64898/2026.11.26.769081"
+    ],
+    "translation": {
+      "title": {
+        "hash": "41a02071d8b61d5012874946bd932ad2a3032cdea611c6f960d7c502e1209c38",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-27T03:23:24.056582+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "35b6b62f4559c6498d88c4699f5603962fa60e14457637dd9288c98ebfdccad3",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-27T03:23:24.056582+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ヒトレスピロウイルスおよびオルソラブラウイルスの世界的な進化と時空間的な伝播動態",
+    "abstract_ja": "ヒトパラインフルエンザウイルス（HPIV）は反復的な流行を引き起こし、世界的に主要な入院原因となっている。しかし、HPIVの持続性を駆動する進化および伝播動態は依然として不明である。本研究では、ゲノムシーケンシングとベイズ系統動態推論を用いて、7カ国の4種類のHPIVを代表する1,161件のアーカイブサンプルを解析した。その結果、レスピロウイルス（HRV-1およびHRV-3）は遺伝的多様性の変動がより大きかった一方、オルソオルセラウイルス（HOV-2およびHOV-4）はより緩やかな変化を示した。進化速度は同程度であったにもかかわらず、これら4種類のHPIVは対照的な系統動態を示した。HRV-1は系統の持続期間が長期にわたり、HRV-3は系統交代がより激しく、HOV-2およびHOV-4は共流行する系統の数が少なかった。正の選択はレスピロウイルス、特にホスホタンパク質遺伝子においてより顕著であり、正の選択を受けた部位は予測されたヘマグルチニン-ノイラミニダーゼB細胞エピトープと重複していた。系統地理学的解析により、地域間の繰り返しの導入、双方向の伝播、および一部の系統における10年を超える地域的な持続性が明らかになった。これらの知見は、HPIVの持続性の根底にある異なる進化および伝播動態を特定するものであり、広範な防御能を有するワクチンや治療薬の開発に資するものである。"
   }
 ]
