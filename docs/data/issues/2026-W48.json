@@ -6,155 +6,6 @@
     "addition_tracking_since": "2026-11-08T16:41:37.586944+09:00",
     "addition_history": [
       {
-        "at": "2026-11-25T07:10:05.887139+09:00",
-        "papers": [
-          {
-            "id": "10.64898/2025.12.20.695663",
-            "preprint": true
-          },
-          {
-            "id": "10.64898/2026.11.23.768597",
-            "preprint": true
-          },
-          {
-            "id": "10.64898/2026.04.08.717340",
-            "preprint": true
-          },
-          {
-            "id": "10.1093/bioadv/vbag333",
-            "preprint": false
-          },
-          {
-            "id": "10.64898/2026.10.21.760723",
-            "preprint": true
-          },
-          {
-            "id": "10.64898/2026.07.13.738248",
-            "preprint": true
-          },
-          {
-            "id": "10.64898/2026.06.22.733418",
-            "preprint": true
-          },
-          {
-            "id": "10.1038/s41564-026-02533-x",
-            "preprint": false
-          },
-          {
-            "id": "10.64898/2026.08.03.742406",
-            "preprint": true
-          },
-          {
-            "id": "10.64898/2026.10.12.758456",
-            "preprint": true
-          },
-          {
-            "id": "10.1038/s41564-026-02546-6",
-            "preprint": false
-          },
-          {
-            "id": "10.64898/2026.05.19.726264",
-            "preprint": true
-          },
-          {
-            "id": "10.1038/s41564-026-02538-6",
-            "preprint": false
-          },
-          {
-            "id": "10.64898/2026.11.22.768399",
-            "preprint": true
-          },
-          {
-            "id": "10.64898/2026.10.16.759407",
-            "preprint": true
-          },
-          {
-            "id": "10.64898/2026.04.29.721692",
-            "preprint": true
-          },
-          {
-            "id": "10.64898/2026.07.14.738515",
-            "preprint": true
-          },
-          {
-            "id": "10.1038/s41564-026-02539-5",
-            "preprint": false
-          },
-          {
-            "id": "10.64898/2026.11.12.766285",
-            "preprint": true
-          },
-          {
-            "id": "10.64898/2026.11.19.767916",
-            "preprint": true
-          },
-          {
-            "id": "10.64898/2026.11.22.768462",
-            "preprint": true
-          },
-          {
-            "id": "10.64898/2026.11.19.767897",
-            "preprint": true
-          },
-          {
-            "id": "10.64898/2026.03.09.710472",
-            "preprint": true
-          },
-          {
-            "id": "10.64898/2026.03.14.711833",
-            "preprint": true
-          },
-          {
-            "id": "10.1101/2025.02.20.639352",
-            "preprint": true
-          },
-          {
-            "id": "10.1101/2025.06.05.658122",
-            "preprint": true
-          },
-          {
-            "id": "10.64898/2026.11.20.768052",
-            "preprint": true
-          },
-          {
-            "id": "10.64898/2026.01.07.697982",
-            "preprint": true
-          },
-          {
-            "id": "10.64898/2026.01.07.698308",
-            "preprint": true
-          },
-          {
-            "id": "10.1101/2025.04.16.648998",
-            "preprint": true
-          },
-          {
-            "id": "10.64898/2026.04.03.716176",
-            "preprint": true
-          },
-          {
-            "id": "10.64898/2026.10.18.759853",
-            "preprint": true
-          },
-          {
-            "id": "10.64898/2026.11.17.767414",
-            "preprint": true
-          },
-          {
-            "id": "10.64898/2026.11.22.768463",
-            "preprint": true
-          },
-          {
-            "id": "10.64898/2026.09.17.752497",
-            "preprint": true
-          },
-          {
-            "id": "10.1038/s41564-026-02551-9",
-            "preprint": false
-          }
-        ]
-      },
-      {
         "at": "2026-11-25T13:52:17.770095+09:00",
         "papers": [
           {
@@ -725,40 +576,54 @@
             "preprint": false
           }
         ]
+      },
+      {
+        "at": "2026-11-27T12:29:10.467991+09:00",
+        "papers": [
+          {
+            "id": "10.64898/2026.11.26.769081",
+            "preprint": true
+          },
+          {
+            "id": "10.64898/2026.11.23.768755",
+            "preprint": true
+          },
+          {
+            "id": "10.64898/2026.11.26.769370",
+            "preprint": true
+          },
+          {
+            "id": "10.64898/2026.11.25.769124",
+            "preprint": true
+          },
+          {
+            "id": "10.64898/2026.11.25.769125",
+            "preprint": true
+          },
+          {
+            "id": "10.64898/2026.11.24.769051",
+            "preprint": true
+          },
+          {
+            "id": "10.64898/2026.11.25.769220",
+            "preprint": true
+          }
+        ]
       }
     ],
     "date": "2026-11-23",
     "publication_mode": "daily",
-    "updated_at": "2026-11-27T05:27:17.170525+09:00",
-    "daily_updated_at": "2026-11-27T05:27:17.170525+09:00",
+    "updated_at": "2026-11-27T12:29:10.467991+09:00",
+    "daily_updated_at": "2026-11-27T12:29:10.467991+09:00",
     "week_ends_at": "2026-11-30T00:00:00+09:00",
     "added_ids": [
-      "10.1093/ismeco/ycag344",
-      "10.3389/fmicb.2026.1987490",
-      "10.1186/s40793-026-00986-5",
-      "10.1093/nar/gkag1283",
-      "10.3389/fmars.2026.2021262",
-      "10.1093/nar/gkag1197",
-      "10.1128/mra.00907-26",
-      "10.1093/bioinformatics/btag871",
-      "10.1093/ismeco/ycag326",
-      "10.1093/nar/gkag1327",
-      "10.1093/ismehm/aazag025",
-      "10.1093/nar/gkag1265",
-      "10.1093/nar/gkag1250",
-      "10.1093/nar/gkag1273",
-      "10.1093/nar/gkag1298",
-      "10.3389/fmicb.2026.1979054",
-      "10.1093/nar/gkag1228",
-      "10.1093/nar/gkag1238",
-      "10.1093/nar/gkag1289",
-      "10.1093/nar/gkag1222",
-      "10.1093/nar/gkag1201",
-      "10.1093/nar/gkag1242",
-      "10.1128/mra.00626-26",
-      "10.1093/nar/gkag1248",
-      "10.3389/fmicb.2026.2017953",
-      "10.3389/fmicb.2026.1964698"
+      "10.64898/2026.11.26.769081",
+      "10.64898/2026.11.23.768755",
+      "10.64898/2026.11.26.769370",
+      "10.64898/2026.11.25.769124",
+      "10.64898/2026.11.25.769125",
+      "10.64898/2026.11.24.769051",
+      "10.64898/2026.11.25.769220"
     ],
     "added_date": "2026-11-27"
   },
@@ -28458,6 +28323,582 @@
         "SLAS technology",
         "Nutrients",
         "Cell death & disease"
+      ]
+    },
+    {
+      "id": "10.64898/2026.11.26.769081",
+      "title": "Global evolutionary and spatiotemporal transmission dynamics of human respiroviruses and orthorubulaviruses",
+      "abstract": "Human parainfluenza viruses (HPIVs) cause recurrent epidemics and are a major cause of hospitalization worldwide. However, the evolutionary and transmission dynamics driving HPIV persistence remain unclear. We analysed 1,161 archived samples representing four HPIV types from seven countries using genomic sequencing and Bayesian phylodynamic inference. We show that Respirovirus (HRV-1 and HRV-3) displayed greater fluctuations in genetic diversity whereas Orthorubulavirus (HOV-2 and HOV-4) showed more gradual changes. Despite comparable evolutionary rates, the four HPIV types exhibited contrasting lineage dynamics. HRV-1 showed prolonged lineage persistence, HRV-3 underwent greater lineage turnover, and HOV-2 and HOV-4 maintained fewer co-circulating lineages. Positive selection was more pronounced in respiroviruses, particularly in the phosphoprotein gene, while positively selected sites overlapped predicted hemagglutinin-neuraminidase B-cell epitopes. Phylogeographic analyses revealed repeated interregional introductions, bidirectional transmission, and regional persistence exceeding a decade for some lineages. These findings identify distinct evolutionary and transmission dynamics underlying HPIV persistence and inform the development of broadly protective vaccines and therapeutics.",
+      "journal": "",
+      "doi": "10.64898/2026.11.26.769081",
+      "date": "2026-11-26",
+      "authors": "Smith, G. J., Cronin, P., Zhang, R., Wang, B., Cheng, D., Zhuang, Y., Wong, F. Y., Ma, J., Chiang, Y. S., Goay, S. S., Ng, G. G., Ooi, Y. S., St. John, A., Wang, D.-Y., Garcia-Salum, T., Heraud, J.-M., Schutten, M., Sloots, T. P., Treurnicht, F. K., Contreras, A. M., Ferres, M., Druce, J. D., Razanajatovo, N. H., Cowling, B. J., Dwyer, D. E., Lin, C., Cohen, C., Smith, D. W., Medina, R. A., Su, Y. C.",
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ],
+      "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.26.769081v1?rss=1",
+      "abstract_source": "rss",
+      "preprint": true,
+      "topic_filter": {
+        "accepted": true,
+        "reason": "microbial_evidence",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "virus",
+          "viruses"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "evolution",
+            "genom",
+            "genomic"
+          ],
+          "evolution": [
+            "evolution",
+            "evolutionary"
+          ]
+        },
+        "tags": [
+          "微生物ゲノミクス",
+          "微生物進化"
+        ]
+      },
+      "discovery": [
+        {
+          "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+          "query": "RSS feed",
+          "scope": "candidate"
+        }
+      ],
+      "collection_order": 5816,
+      "collected_at": "2026-11-27T03:01:51.253867+00:00",
+      "collected_date": "2026-11-27",
+      "sources": [
+        "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+      ],
+      "first_seen": "2026-11-27",
+      "related_dois": [
+        "10.64898/2026.11.26.769081"
+      ],
+      "translation": {
+        "title": {
+          "hash": "41a02071d8b61d5012874946bd932ad2a3032cdea611c6f960d7c502e1209c38",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-27T03:23:24.056582+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "35b6b62f4559c6498d88c4699f5603962fa60e14457637dd9288c98ebfdccad3",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-27T03:23:24.056582+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "ヒトレスピロウイルスおよびオルソラブラウイルスの世界的な進化と時空間的な伝播動態",
+      "abstract_ja": "ヒトパラインフルエンザウイルス（HPIV）は反復的な流行を引き起こし、世界的に主要な入院原因となっている。しかし、HPIVの持続性を駆動する進化および伝播動態は依然として不明である。本研究では、ゲノムシーケンシングとベイズ系統動態推論を用いて、7カ国の4種類のHPIVを代表する1,161件のアーカイブサンプルを解析した。その結果、レスピロウイルス（HRV-1およびHRV-3）は遺伝的多様性の変動がより大きかった一方、オルソオルセラウイルス（HOV-2およびHOV-4）はより緩やかな変化を示した。進化速度は同程度であったにもかかわらず、これら4種類のHPIVは対照的な系統動態を示した。HRV-1は系統の持続期間が長期にわたり、HRV-3は系統交代がより激しく、HOV-2およびHOV-4は共流行する系統の数が少なかった。正の選択はレスピロウイルス、特にホスホタンパク質遺伝子においてより顕著であり、正の選択を受けた部位は予測されたヘマグルチニン-ノイラミニダーゼB細胞エピトープと重複していた。系統地理学的解析により、地域間の繰り返しの導入、双方向の伝播、および一部の系統における10年を超える地域的な持続性が明らかになった。これらの知見は、HPIVの持続性の根底にある異なる進化および伝播動態を特定するものであり、広範な防御能を有するワクチンや治療薬の開発に資するものである。",
+      "answer_journal": null,
+      "question_type": "forecast",
+      "options": [
+        "Molecular genetics and metabolism reports",
+        "Psychiatry research",
+        "Osteoarthritis and cartilage open",
+        "Journal of experimental botany"
+      ]
+    },
+    {
+      "id": "10.64898/2026.11.23.768755",
+      "title": "Publicly Available Genomic Evidence for Nipah and Avian Influenza Viruses in Bangladesh: A Scoping Assessment of Metadata Completeness and Surveillance Representativeness at the Human-Animal Interface",
+      "abstract": "Bangladesh experiences recurrent Nipah virus (NiV) outbreaks and sustained avian influenza virus (AIV) activity. Whether public genomic records contain metadata needed to assess surveillance representativeness across hosts, locations, and time is unclear.We conducted a structured, source-based scoping assessment of publicly documented NiV and AIV genomic records from Bangladesh (2001-2025), drawing on NCBI GenBank/INSDC and cited peer-reviewed and public-health sources. A pilot registry contained 108 entries (55 NiV, 53 AIV). Metadata were retained only when explicitly reported; unverified fields were recorded as not extracted. The registry is not a complete census. Five analytical questions were prespecified; several could not be evaluated because accession-level metadata were unavailable. The 33-accession AIV set containing H5N1 and H3N8 was excluded from H5/H9-specific interpretation. In the pilot registry, 9/108 entries (8.3%) had explicitly reported host species; the separate host-implied category was not added. Twelve entries (11.1%) had a full collection date; 21 (19.4%) had any collection date. Eight entries (7.4%) had an explicit district. The registry lists 22 NiV accession identifiers from a 2026 study, whereas the publication reports 23 newly sequenced N-gene records; this remains unresolved. Eight AIV accessions (PV961349.1-PV961356.1) represent eight segments of one chicken H5N1 isolate, not eight genomes. Twelve MN994-series records are HA-gene sequences from environmental live-bird-market samples.The pilot registry demonstrates substantial metadata limitations. Explicit host information was available for 8.3% of entries and explicit district for 7.4%; these prevent reliable quantitative assessment of host, district-level, and temporal representativeness and do not establish absence of surveillance or viral circulation. Accession-level reconstruction with transparent verification tiers and harmonised identifiers is required before quantitative representativeness indices or district-level priorities can be calculated.",
+      "journal": "",
+      "doi": "10.64898/2026.11.23.768755",
+      "date": "2026-11-26",
+      "authors": "Hossen, M. N., Hossen, M. N., Uddin, M. S., Hossain, M. I., Naher, T.",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.23.768755v1?rss=1",
+      "abstract_source": "rss",
+      "preprint": true,
+      "topic_filter": {
+        "accepted": true,
+        "reason": "microbial_evidence",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "viral",
+          "virus",
+          "viruses"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "genom",
+            "genome",
+            "genomic"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "discovery": [
+        {
+          "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+          "query": "RSS feed",
+          "scope": "candidate"
+        }
+      ],
+      "collection_order": 5818,
+      "collected_at": "2026-11-27T03:01:51.253867+00:00",
+      "collected_date": "2026-11-27",
+      "sources": [
+        "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+      ],
+      "first_seen": "2026-11-27",
+      "related_dois": [
+        "10.64898/2026.11.23.768755"
+      ],
+      "translation": {
+        "title": {
+          "hash": "45e9ff96dd8800a7c6b55b6312bdec05e703c9ae8b811fbad4302f93e2e3ffca",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-27T03:26:10.495573+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "3eec546e209aa3627322f44e720f021bd421d49bcbfe7a4d11096dcfeb4fed9f",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-27T03:26:10.495573+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "バングラデシュにおけるニパおよび鳥インフルエンザウイルスの公開ゲノムエビデンス：人獣共通感染接点におけるメタデータの網羅性とサーベイランス代表性の範囲評価",
+      "abstract_ja": "バングラデシュでは、ニパウイルス（NiV）のアウトブレイクが繰り返し発生しており、鳥インフルエンザウイルス（AIV）の活動も持続している。公開ゲノム記録に、宿主、地域、および時間にわたるサーベイランスの代表性を評価するために必要なメタデータが含まれているかは不明である。我々は、NCBI GenBank/INSDCおよび引用された査読済み文献や公衆衛生関連資料を活用し、バングラデシュで公開されているNiVおよびAIVのゲノム記録（2001-2025年）について、構造化されたソースベースのスコーピング評価を実施した。パイロットレジストリには108件のエントリ（NiV 55件、AIV 53件）が含まれていた。メタデータは明示的に報告されている場合にのみ保持され、未検証のフィールドは抽出されなかった。このレジストリは完全なセンサスではない。5つの分析上の問いが事前に設定されていたが、アクセッションレベルのメタデータが利用できなかったため、そのうちいくつかは評価できなかった。H5N1およびH3N8を含む33アクセッションのAIVセットは、H5/H9固有の解釈から除外された。パイロットレジストリでは、108件中9件（8.3%）のエントリで宿主種が明示的に報告されていたが、別途設けられた宿主推定カテゴリーは追加されなかった。12件（11.1%）のエントリに完全な採取日があり、21件（19.4%）に何らかの採取日があった。8件（7.4%）のエントリに明示的な地区が記載されていた。レジストリには2026年の研究による22件のNiVアクセッション識別子が記載されているが、同論文では新たに配列決定されたN遺伝子記録が23件報告されており、この点は未解決のままである。8件のAIVアクセッション（PV961349.1-PV961356.1）は、8つのゲノムではなく、1つの鶏H5N1分離株の8つのセグメントを表している。12件のMN994シリーズの記録は、環境中の生きた鳥類市場サンプル由来のHA遺伝子配列である。パイロットレジストリは、メタデータの重大な限界を示している。明示的な宿主情報はエントリの8.3%で、明示的な地区情報は7.4%で利用可能であった。これらは、宿主、地区レベル、および時間的な代表性の信頼性の高い定量的評価を妨げるものであり、サーベイランスの欠如やウイルスの循環の有無を立証するものではない。定量的な代表性指標や地区レベルの優先順位を算出する前に、透明性のある検証階層と調和された識別子を用いたアクセッションレベルの再構築が必要である。",
+      "answer_journal": null,
+      "question_type": "forecast",
+      "options": [
+        "Zeitschrift fur Naturforschung. C, Journal of biosciences",
+        "Cell cycle (Georgetown, Tex.)",
+        "PLOS Biology",
+        "Annales de chirurgie plastique et esthetique"
+      ]
+    },
+    {
+      "id": "10.64898/2026.11.26.769370",
+      "title": "A tricomponent mRNA pertussis vaccine elicits superior protective immunity over licensed acellular pertussis vaccine against emerging antibiotic-resistant variants",
+      "abstract": "Pertussis remains a major global health burden and has been resurging rapidly over the past decade. The causes of pertussis re-emergence are multifactorial, including vaccine-induced pathogen evolution, antimicrobial resistance, and crucially suboptimal protective immunity elicited by the widely used acellular pertussis vaccine (aPV). In this study, we developed a tricomponent mRNA pertussis vaccine formulated with lipid nanoparticle (LNP), designated mPervax, which encodes inactive pertussis toxin subunit 1 (PTS1), truncated filamentous hemagglutinin (FHA) and pertactin (PRN). Compared to a commercialized Tetanus-diptheria-pertussis vaccine Boostrix, mPervax induced stronger and broader innate immune activation, superior antigen-specific Th1-type CD4+ T and Tfh cell responses, and robust B. pertussis-specific antibody responses with remarkably increased magnitude and functionality. In addition, mPervax conferred an efficient maternal antibody-mediated protection in offspring mice and reshaped the immune profile established by primary Boostrix immunization towards a Th1-phenotype when used as a heterologous booster. Furthermore, upon bacterial challenge, mPervax outperformed Boostrix not only against the WHO reference strain 18323, but strikingly provided effective protection against emerging antibiotic-resistant clinical isolates that are deficient in PRN and/or FHA. Collectively, these data demonstrate that the mRNA pertussis vaccine is superior to Boostrix in multiple contexts, and therefore holds promise for next-generation pertussis vaccine development.",
+      "journal": "",
+      "doi": "10.64898/2026.11.26.769370",
+      "date": "2026-11-26",
+      "authors": "Zhang, W., Che, J., Wang, G., Wang, J., Qin, S., Dai, H., Ma, J., Meng, J., Shao, X., Guo, K., Di, Z., An, Q., Xiao, P., Zhuang, S., Gao, X., Yang, Y., Ma, X., Yuan, L., Zhang, M., Wang, L., Shao, Z., Lin, A.",
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ],
+      "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.26.769370v1?rss=1",
+      "abstract_source": "rss",
+      "preprint": true,
+      "topic_filter": {
+        "accepted": true,
+        "reason": "microbial_evidence",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "bacteria",
+          "bacterial"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "evolution"
+          ],
+          "evolution": [
+            "evolution"
+          ]
+        },
+        "tags": [
+          "微生物ゲノミクス",
+          "微生物進化"
+        ]
+      },
+      "discovery": [
+        {
+          "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+          "query": "RSS feed",
+          "scope": "candidate"
+        }
+      ],
+      "collection_order": 5817,
+      "collected_at": "2026-11-27T03:01:51.253867+00:00",
+      "collected_date": "2026-11-27",
+      "sources": [
+        "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+      ],
+      "first_seen": "2026-11-27",
+      "related_dois": [
+        "10.64898/2026.11.26.769370"
+      ],
+      "translation": {
+        "title": {
+          "hash": "03822daf90e43dfb98cc134230846f5de12d1fc416fb5185a248186bb1d3efa8",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-27T03:26:10.495573+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "d2abdf3f8b54ea0bb0e01eb309b9efc70a46a76cc88310a3ca505fa93160144d",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-27T03:26:10.495573+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "3成分mRNA百日咳ワクチンは、出現しつつある抗生物質耐性変異株に対し、承認済みの無細胞百日咳ワクチンよりも優れた防御免疫を誘導する。",
+      "abstract_ja": "百日咳は依然として世界的な重大な健康課題であり、過去10年間で急速に再流行している。百日咳の再流行の原因は、ワクチン誘発性の病原体進化、薬剤耐性、そして極めて重要な点として、広く使用されている無細胞百日咳ワクチン（aPV）によって誘導される不十分な防御免疫など、多因子にわたる。本研究では、脂質ナノ粒子（LNP）を配合し、不活性型百日咳毒素サブユニット1（PTS1）、切断型フィラメントヘマグルチニン（FHA）、およびペルタクチン（PRN）をコードする3成分mRNA百日咳ワクチン「mPervax」を開発した。市販の破傷風・ジフテリア・百日咳ワクチンであるBoostrixと比較して、mPervaxはより強力かつ広範な自然免疫活性化、優れた抗原特異的Th1型CD4+ T細胞およびTfh細胞応答、ならびに著しく増強された強度と機能性を有する強固なB. pertussis特異的抗体応答を誘導した。さらに、mPervaxは仔マウスにおいて効率的な母体抗体介在性保護を付与し、異種ブースターとして用いた場合、一次Boostrix免疫によって確立された免疫プロファイルをTh1フェノタイプへとシフトさせた。加えて、細菌チャレンジにおいて、mPervaxはWHO参照株18323に対してBoostrixを上回る性能を示しただけでなく、PRNおよび/またはFHAを欠損する新興の薬剤耐性臨床分離株に対しても顕著に有効な保護効果を示した。総じて、これらのデータは、mRNA百日咳ワクチンが複数の側面においてBoostrixよりも優れていることを示しており、したがって次世代の百日咳ワクチン開発への有望な可能性を有している。",
+      "answer_journal": null,
+      "question_type": "forecast",
+      "options": [
+        "mSphere",
+        "Journal of molecular cell biology",
+        "Biotechnology and bioengineering",
+        "Journal of physiology and biochemistry"
+      ]
+    },
+    {
+      "id": "10.64898/2026.11.25.769124",
+      "title": "Strain-resolved metagenomics shows gut microbiome signatures in a case-control study of Malawian children with zoonotic schistosomiasis",
+      "abstract": "In 2024, Mangochi District, Malawi, we identified unexpected cases of zoonotic schistosomiasis associated with faecal egg excretion of Schistosoma haematobium, Schistosoma mattheei and hybrids thereof (S. haematobium x S. mattheei). Schistosomiasis is associated with gut microbiome alterations, but these associations remain unexplored in zoonotic schistosomiasis. Whether people with schistosomiasis are colonised with more closely related gut bacterial strains than people without schistosomiasis is also unclear. To better understand these patterns, we conducted a case-control study, using strain-resolved metagenomics to analyse faecal samples from 36 children: 12 with zoonotic schistosomiasis (S. haematobium and S. mattheei), 12 with \"classic\" urogenital schistosomiasis (S. haematobium only) and 12 uninfected controls. Microbial diversity, taxonomic composition, metabolic pathways and antimicrobial resistance gene profiles did not differ significantly between groups. However, Brachyspira, particularly Brachyspira aalborgi - an organism often associated with intestinal spirochaetosis - was more abundant in children with zoonotic schistosomiasis. We found no evidence of closely related B. aalborgi strains shared between participants, suggesting that localised B. aalborgi transmission networks are unlikely to explain the enrichment. In contrast, phylogenetic profiling across 143 other bacterial species revealed greater strain similarity between the gut microbiomes of children with any type of schistosomiasis than between those of controls. Broadly, we demonstrate the scientific value of strain-resolved metagenomics for investigating linked bacterial and schistosome exposures where local water, sanitation and hygiene infrastructure is inadequate. Future inclusion of livestock and environmental samples could be used to better identify where transmission pathways overlap, providing evidence to inform integrated disease surveillance and control.",
+      "journal": "",
+      "doi": "10.64898/2026.11.25.769124",
+      "date": "2026-11-26",
+      "authors": "O'Ferrall, A. M., Lally, D., Makaula, P., Namacha, G., Cunningham, L. J., Archer, J., Lewis, J. M., Bennett, A., Wagstaff, S. C., Kayuni, S. A., Musaya, J., Stothard, J. R., Roberts, A. P.",
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ],
+      "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.25.769124v1?rss=1",
+      "abstract_source": "rss",
+      "preprint": true,
+      "topic_filter": {
+        "accepted": true,
+        "reason": "microbial_evidence",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "bacteria",
+          "bacterial",
+          "metagenom",
+          "metagenomics",
+          "microbial",
+          "microbiome",
+          "microbiomes"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "metagenom",
+            "metagenomic",
+            "phylogen",
+            "phylogenetic"
+          ],
+          "evolution": [
+            "phylogenetic"
+          ]
+        },
+        "tags": [
+          "微生物ゲノミクス",
+          "微生物進化"
+        ]
+      },
+      "discovery": [
+        {
+          "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+          "query": "RSS feed",
+          "scope": "candidate"
+        }
+      ],
+      "collection_order": 5813,
+      "collected_at": "2026-11-27T03:01:51.253867+00:00",
+      "collected_date": "2026-11-27",
+      "sources": [
+        "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+      ],
+      "first_seen": "2026-11-27",
+      "related_dois": [
+        "10.64898/2026.11.25.769124"
+      ],
+      "translation": {
+        "title": {
+          "hash": "97c7d747566cd424fc36d7cf8cb47a23c6dc9775ebdc63addb17473af6023367",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-27T03:23:24.056582+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "73e359dc6f1b625a5efabdca30eb534821eab3b3df0ebcbdbd78ae88cb9a0c4f",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-27T03:23:24.056582+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "マラウイの人獣共通感染症である住血吸虫症の小児を対象とした症例対照研究における菌株別メタゲノミクス解析による腸内細菌叢シグネチャーの提示",
+      "abstract_ja": "2024年、マラウイのマンゴチ地区において、Schistosoma haematobium、Schistosoma mattheei、およびそれらの交雑種（S. haematobium x S. mattheei）の糞便中卵の排泄に関連した、予期せぬ人獣共通感染症性住血吸虫症の症例を同定した。住血吸虫症は腸内細菌叢の変化と関連しているが、人獣共通感染症性住血吸虫症におけるこれらの関連性は未解明のままである。また、住血吸虫症患者が、非患者よりも近縁な腸内細菌株に定着しているかどうかも明らかではない。これらのパターンをより深く理解するため、我々は菌株分解メタゲノミクスを用いて、小児36名（人獣共通感染症性住血吸虫症（S. haematobiumおよびS. mattheei）患者12名、「古典的」尿生殖器住血吸虫症（S. haematobiumのみ）患者12名、および非感染対照群12名）の糞便検体を解析する症例対照研究を実施した。微生物多様性、分類学的組成、代謝経路、および薬剤耐性遺伝子プロファイルは、群間で有意な差は認められなかった。しかし、Brachyspira、特に腸管スピロヘータ症にしばしば関連するBrachyspira aalborgiは、人獣共通感染症性住血吸虫症の小児においてより豊富に認められた。参加者間で近縁なB. aalborgi株が共有されている証拠は見出されず、局所的なB. aalborgi伝播ネットワークがこの濃縮を説明する可能性は低いことが示唆された。対照的に、他の143種の細菌を対象とした系統解析では、対照群間よりも、いずれかの型の住血吸虫症を有する小児の腸内細菌叢間において、より大きな菌株類似性が認められた。総じて、我々は、地域の水・衛生・衛生管理インフラが不十分な状況において、関連する細菌および住血吸虫への曝露を調査するための菌株分解メタゲノミクスの科学的価値を実証した。今後、家畜および環境検体を組み込むことで、伝播経路がどこで重複しているかをより正確に特定でき、統合的な疾病サーベイランスおよび制御に資する根拠を得ることが可能となる。",
+      "answer_journal": null,
+      "question_type": "forecast",
+      "options": [
+        "Journal of acquired immune deficiency syndromes (1999)",
+        "Annals of allergy, asthma & immunology : official publication of the American College of Allergy, Asthma, & Immunology",
+        "Imaging neuroscience (Cambridge, Mass.)",
+        "Diseases of aquatic organisms"
+      ]
+    },
+    {
+      "id": "10.64898/2026.11.25.769125",
+      "title": "Calcium Signaling and Glycerol-3-Phosphate Metabolism Coordinate Extracellular Vesicle Biogenesis in Cryptococcus neoformans",
+      "abstract": "Extracellular vesicles (EVs) are increasingly recognized as important mediators of fungal physiology and host-pathogen interactions, but the mechanisms governing their biogenesis remain poorly understood. Here, we combined time-course RNA sequencing with genome-wide genetic screening to define the regulatory network controlling EV production in the human fungal pathogen Cryptococcus neoformans. Transcriptomic analysis identified an EV-associated regulon enriched in genes involved in vesicular trafficking, cell wall remodeling, lipid metabolism, mitochondrial function and ion homeostasis. Our screen further identified diverse regulators of EV production, highlighting endosomal trafficking, mitochondrial metabolism and calcium homeostasis. Cell viability was only weakly associated with EV production, arguing against cell lysis as the primary mechanism of EV release. Genetic and pharmacological analyses established calcium-dependent calcineurin signalling as a major regulator of EV production. We identified the calcineurin target Had1 as a positive regulator of EV production and demonstrate that Had1 functions as a glycerol-3-phosphate phosphatase. Loss of HAD1 caused glycerol-3-phosphate accumulation and extensive remodeling of cellular phospholipids, accompanied by a marked reduction in EV production. Together, these findings identify a calcium-calcineurin-Had1 pathway linking intracellular signalling and lipid homeostasis to fungal EV biogenesis.",
+      "journal": "",
+      "doi": "10.64898/2026.11.25.769125",
+      "date": "2026-11-26",
+      "authors": "Piffer, A. C., Coppee, J.-Y., Commere, P.-H., Maufrais, C., Moyrand, F., Rizzo, J., Saveanu, C., Janbon, G.",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.25.769125v1?rss=1",
+      "abstract_source": "rss",
+      "preprint": true,
+      "topic_filter": {
+        "accepted": true,
+        "reason": "microbial_evidence",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "fungal"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "genom",
+            "genome",
+            "transcript"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "discovery": [
+        {
+          "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+          "query": "RSS feed",
+          "scope": "candidate"
+        }
+      ],
+      "collection_order": 5815,
+      "collected_at": "2026-11-27T03:01:51.253867+00:00",
+      "collected_date": "2026-11-27",
+      "sources": [
+        "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+      ],
+      "first_seen": "2026-11-27",
+      "related_dois": [
+        "10.64898/2026.11.25.769125"
+      ],
+      "translation": {
+        "title": {
+          "hash": "32b55cc9ce2f58edb1db3e712542c525cf99995019e8d3c77d3bde203bc0a4c9",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-27T03:23:24.056582+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "6b178a9966294dc0ea2e740447ad0bbc3afdf64445394ea927ef530663e63b89",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-27T03:23:24.056582+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "カルシウムシグナル伝達とグリセロール-3-リン酸代謝は、Cryptococcus neoformansにおける細胞外小胞の生合成を協調的に制御する。",
+      "abstract_ja": "細胞外小胞（EV）は、真菌の生理機能や宿主・病原体間相互作用における重要な媒介因子として認識されつつあるが、その生合成を制御するメカニズムについては依然として十分に解明されていない。本研究では、タイムコースRNAシーケンシングとゲノムワイドな遺伝子スクリーニングを組み合わせ、ヒト真菌病原体Cryptococcus neoformansにおけるEV産生を制御する調節ネットワークを解明した。トランスクリプトーム解析により、小胞輸送、細胞壁リモデリング、脂質代謝、ミトコンドリア機能、およびイオン恒常性に関与する遺伝子が濃縮されたEV関連レギュロンが同定された。さらに、本スクリーニングによりEV産生の多様な調節因子が同定され、エンドソーム輸送、ミトコンドリア代謝、およびカルシウム恒常性が浮き彫りとなった。細胞生存率はEV産生と弱い関連しか認められず、EV放出の主因として細胞溶解が関与していないことが示唆された。遺伝学的および薬理学的解析により、カルシウム依存性カルシニューリンシグナル伝達がEV産生の主要な調節因子であることが明らかになった。我々は、カルシニューリン標的であるHad1をEV産生の正の調節因子として同定し、Had1がグリセロール-3-リン酸ホスファターゼとして機能することを実証した。HAD1の欠損はグリセロール-3-リン酸の蓄積と細胞内リン脂質の広範なリモデリングを引き起こし、それに伴いEV産生が著しく減少した。以上の知見を総合すると、細胞内シグナル伝達と脂質恒常性を真菌のEV生合成に結びつけるカルシウム-カルシニューリン-Had1経路が同定された。",
+      "answer_journal": null,
+      "question_type": "forecast",
+      "options": [
+        "FEMS Microbiology Reviews",
+        "Transplant immunology",
+        "Open forum infectious diseases",
+        "Chemosphere"
+      ]
+    },
+    {
+      "id": "10.64898/2026.11.24.769051",
+      "title": "Dynamic interactions of the coronavirus PEDV nucleoprotein with its viral partner nsp3 and RNA",
+      "abstract": "Summary While coronavirus genome replication and transcription occur inside double-membrane vesicles (DMVs) in infected cells, nucleocapsid assembly of genomic RNA takes place at their cytoplasmic (external) face. Neosynthesized viral mRNAs (including genomic RNA) are exported from the DMV through nsp3/nsp4 pores and genomic RNAs are believed to be selected for encapsidation through an essential interaction of the nucleoprotein N with the amino-terminal domain of nsp3. Here, we describe the interaction play between the N of porcine epidemic diarrhea virus (PEDV, an alphacoronavirus) with the N-terminal domain of nsp3 and with RNAs. While N interacts with the N-terminal domain of nsp3 with a dissociation constant (KD) of about 150 nM, it binds to diverse small RNAs, displaying an affinity in the pM range for a short RNA (RNA[8mer]). This RNA and a 60-nt long RNA hairpin were both able to fully displace nsp3 complexed with N. In contrast, nsp3 was not able to dissociate RNA from N-RNA complexes. Using truncated forms of N and of the N-ter domain of nsp3, we showed that the RNA binding site does not fully overlap the nsp3 binding site on N. These results suggest that the interaction play between N, nsp3 and RNA is unidirectional, allowing to propose a mechanistical model for genome encapsidation, model in which N is first recruited by nsp3 at the cytoplasmic face of the DMV to bind to nucleotide stretches of (genomic) RNA exiting from the nsp3/nsp4 channel and concomitantly to dissociate from nsp3.",
+      "journal": "",
+      "doi": "10.64898/2026.11.24.769051",
+      "date": "2026-11-26",
+      "authors": "Fetre, C., Groutsch, J., Aumont-Nicaise, M., Fosse, P., Mauffret, O., Nevers, Q., Delmas, B.",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.24.769051v1?rss=1",
+      "abstract_source": "rss",
+      "preprint": true,
+      "topic_filter": {
+        "accepted": true,
+        "reason": "microbial_evidence",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "viral",
+          "virus"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "assembly",
+            "genom",
+            "genome",
+            "genomic",
+            "transcript"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "discovery": [
+        {
+          "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+          "query": "RSS feed",
+          "scope": "candidate"
+        }
+      ],
+      "collection_order": 5814,
+      "collected_at": "2026-11-27T03:01:51.253867+00:00",
+      "collected_date": "2026-11-27",
+      "sources": [
+        "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+      ],
+      "first_seen": "2026-11-27",
+      "related_dois": [
+        "10.64898/2026.11.24.769051"
+      ],
+      "translation": {
+        "title": {
+          "hash": "80cd7e156ee625e6bf7a5d486fd193118aa3a863ebd1d0569bec85adc4d5c46e",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-27T03:23:24.056582+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "14f5ae37bf03489d361fc1bff569d518f470b7d22d826ab4e1759e77d92c54b9",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-27T03:23:24.056582+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "コロナウイルスPEDV核タンパク質とウイルスパートナーnsp3およびRNAとの動的相互作用",
+      "abstract_ja": "要旨 コロナウイルスのゲノム複製および転写は、感染細胞内の二重膜小胞（DMV）内で行われるが、ゲノムRNAのヌクレオカプシド構築は、その細胞質側（外面）で行われる。新生のウイルスmRNA（ゲノムRNAを含む）はnsp3/nsp4孔を介してDMVから排出され、ゲノムRNAは、ヌクレオタンパク質Nとnsp3のアミノ末端ドメインとの必須の相互作用を通じて、エンカプシド化のために選択されると考えられている。本報では、豚流行性下痢ウイルス（PEDV、アルファコロナウイルス）のNと、nsp3のN末端ドメインおよびRNAとの相互作用について述べる。Nはnsp3のN末端ドメインと約150 nMの解離定数（KD）で相互作用する一方で、多様な小分子RNAに結合し、短鎖RNA（RNA[8mer]）に対してpM領域の親和性を示す。このRNAおよび60 nt長のRNAヘアピンは、いずれもNと複合体を形成したnsp3を完全に置換することができた。対照的に、nsp3はN-RNA複合体からRNAを解離させることができなかった。Nおよびnsp3のN末端ドメインの切断型を用いることで、RNA結合部位がN上のnsp3結合部位と完全には重ならないことを示した。これらの結果は、N、nsp3、およびRNA間の相互作用が一方向性であることを示唆しており、ゲノムエンカプシド化の機構モデルを提案することを可能にする。このモデルでは、NがまずDMVの細胞質側においてnsp3によってリクルートされ、nsp3/nsp4チャネルから流出する（ゲノム）RNAのヌクレオチド配列に結合し、同時にnsp3から解離するとされる。",
+      "answer_journal": null,
+      "question_type": "forecast",
+      "options": [
+        "Nature Microbiology",
+        "Food and chemical toxicology : an international journal published for the British Industrial Biological Research Association",
+        "Langmuir : the ACS journal of surfaces and colloids",
+        "European journal of oral sciences"
+      ]
+    },
+    {
+      "id": "10.64898/2026.11.25.769220",
+      "title": "Chromosome-scale genome assembly of multinucleate heterokaryotic Rhizoctonia solani AG1-IB",
+      "abstract": "Rhizoctonia solani AG1-IB is an economically important fungal pathogen of turfgrass and agricultural crops, yet available genome assemblies remain fragmented or represent collapsed or consensus sequences that obscure haplotype-specific variation, limiting investigations of genome evolution and heterokaryosis. Here, we present a chromosome-scale, haplotype-aware genome assembly of AG1-IB isolate S1W6 generated using Oxford Nanopore sequencing, Hi-C scaffolding, and short-read polishing. De novo assembly with PECAT produced two haplotype-aware nuclear genome assemblies, with BUSCO completeness greater than 96% and nuclear genome N50 values exceeding 2 Mb. Comparative analyses revealed substantial haplotype divergence, with over 600,000 SNPs and 80,000 indels between haplotypes with 97.75% average nucleotide identity separating assemblies. FastANI analyses showed comparable genetic divergence between Hap1 and Hap2 assemblies of S1W6 to that observed among independently collected AG1-IB isolates from different plant hosts and geographic regions. Despite extensive nucleotide variation, Gene Ontology profiles, predicted effector repertoires, carbohydrate-active enzymes, and biosynthetic gene cluster composition were conserved between assemblies. In contrast, homeodomain (HD) mating-type loci were variable. Hap2 contained four HD genes (W-HD1, W-HD2, E-HD1, and E-HD2), whereas Hap1 lacked E-HD1, and shared divergent HD amino acid sequences. A STE3 pheromone receptor gene on chromosome 15 was highly conserved in both haplotypes. This study provides the first chromosome-scale, haplotype-resolved genome resource for R. solani AG1-IB and demonstrates that heterokaryotic individuals can harbor genomic variation approaching the levels observed among genetically diverse isolates of AG1-IB. These findings highlight the importance of haplotype-aware assemblies for understanding genome evolution and mating-type diversity in heterokaryotic fungal plant pathogens.",
+      "journal": "",
+      "doi": "10.64898/2026.11.25.769220",
+      "date": "2026-11-26",
+      "authors": "Cooper, J. B., Carbone, M. A., Cubeta, M. A., White, J. B., Shah, R., Carbone, I.",
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ],
+      "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.25.769220v1?rss=1",
+      "abstract_source": "rss",
+      "preprint": true,
+      "topic_filter": {
+        "accepted": true,
+        "reason": "microbial_evidence",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "assembly",
+          "average nucleotide identity",
+          "fungal",
+          "gene",
+          "genome",
+          "sequencing"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "assemblies",
+            "assembly",
+            "evolution",
+            "genom",
+            "genome",
+            "genomic"
+          ],
+          "evolution": [
+            "evolution"
+          ]
+        },
+        "tags": [
+          "微生物ゲノミクス",
+          "微生物進化"
+        ]
+      },
+      "discovery": [
+        {
+          "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+          "query": "RSS feed",
+          "scope": "candidate"
+        }
+      ],
+      "collection_order": 5819,
+      "collected_at": "2026-11-27T03:01:51.253867+00:00",
+      "collected_date": "2026-11-27",
+      "sources": [
+        "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+      ],
+      "first_seen": "2026-11-27",
+      "related_dois": [
+        "10.64898/2026.11.25.769220"
+      ],
+      "translation": {
+        "title": {
+          "hash": "ca63e4f2a6e286cb21da2adcab89e871f70159ddc95dc96b6f3540befe701e3e",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-27T03:26:10.495573+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "e0baa0042f44f2a55cc6064a11d68c51c4bcd2ee1fa47444ae8d3aeeae4911e7",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-27T03:26:10.495573+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "多核異核生物Rhizoctonia solani AG1-IBの染色体スケールのゲノムアセンブリ",
+      "abstract_ja": "Rhizoctonia solani AG1-IBは、芝草および農作物の経済的に重要な真菌病原体であるが、利用可能なゲノムアセンブリは依然として断片化されているか、あるいはハプロタイプ固有の変異を不明瞭にする崩壊した配列やコンセンサス配列であり、ゲノム進化や異核分裂の研究を制限している。本研究では、Oxford Nanoporeシーケンシング、Hi-Cスキャフォールディング、およびショートリードポリッシングを用いて作製した、AG1-IB分離株S1W6の染色体スケールかつハプロタイプ認識型のゲノムアセンブリを提示する。PECATを用いたde novoアセンブリにより、BUSCO完全性が96%を超え、核ゲノムN50値が2 Mbを超える2つのハプロタイプ認識型核ゲノムアセンブリが得られた。比較解析の結果、ハプロタイプ間に60万件以上のSNPと8万件のインデルが存在し、アセンブリ間の平均塩基同一性は97.75%に達するなど、顕著なハプロタイプ分岐が認められた。FastANI解析では、S1W6のHap1およびHap2アセンブリ間で、異なる植物宿主や地理的地域から独立して収集されたAG1-IB分離株間で観察されたものと同等の遺伝的分岐が示された。広範な塩基変異にもかかわらず、Gene Ontologyプロファイル、予測エフェクターレパートリー、糖活性酵素、および生合成遺伝子クラスター組成はアセンブリ間で保存されていた。対照的に、ホメオドメイン（HD）交配型遺伝子座は可変であった。Hap2は4つのHD遺伝子（W-HD1、W-HD2、E-HD1、E-HD2）を含んでいたのに対し、Hap1はE-HD1を欠き、分岐したHDアミノ酸配列を共有していた。第15染色体上のSTE3フェロモン受容体遺伝子は、両ハプロタイプ間で高度に保存されていた。本研究は、R. solani AG1-IBに関する初の染色体スケールかつハプロタイプ分解能を持つゲノムリソースを提供し、異核分裂個体が、遺伝的に多様なAG1-IB分離株間で観察されるレベルに近いゲノム変異を保持し得ることを示した。これらの知見は、異核分裂性真菌植物病原体におけるゲノム進化と交配型多様性を理解する上で、ハプロタイプ認識型アセンブリが重要であることを強調するものである。",
+      "answer_journal": null,
+      "question_type": "forecast",
+      "options": [
+        "Nature Methods",
+        "The Journal of physiology",
+        "Functional & integrative genomics",
+        "Toxicon : official journal of the International Society on Toxinology"
       ]
     }
   ],
