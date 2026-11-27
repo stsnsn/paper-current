@@ -345017,5 +345017,288 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "反復配列におけるゲノム不安定性の解析により、ヒト真菌病原体の適応におけるバランスの取れた再編成と倍数性の明確な役割が明らかになった。",
     "abstract_ja": "ゲノム可塑性は真核生物の普遍的な特徴であるが、ゲノム変異の異なる形態が生物学的適応にどのように寄与しているかについては、依然として十分に解明されていない。真菌病原体は、ストレスに迅速に適応するためにゲノム不安定性を利用する。ヒト真菌病原体であるCandida albicansでは、反復DNAエレメントにおいて構造変異が頻繁に生じ、均衡型染色体再編成、ヘテロ接合性の喪失、および異数性が引き起こされる。これらのゲノム改変は臨床分離株においてしばしば共存するため、適応に対する個々の寄与を明らかにすることは依然として困難である。本研究では、C. albicansの2つの主要な反復ファミリーに標的型二本鎖切断を導入するゲノム工学的手法である反復エレメント指向型Cas9（RED-Cas9）について述べる。同一の遺伝的背景内で複数クラスの構造変異を作製することで、RED-Cas9はそれらの生物学的帰結の直接的な比較を可能にし、臨床分離株に見られる無関係な遺伝的変異による交絡効果を回避する。我々は、遺伝子量を変化させずに染色体を再編成する均衡型再編成が、最小限の転写変化しか引き起こさず、大きな影響を及ぼす表現型も示さないことを明らかにした。対照的に、倍数性変異は、広範な遺伝子量依存的な転写リプログラミングと、フルコナゾール耐性、フィラメント形成障害、および病原性の低下を含む異なる表現型の結果を誘発した。これらの知見は、RED-Cas9を異なるクラスの構造変異の機能的帰結を解析するためのプラットフォームとして確立するものであり、均衡型染色体再編成と染色体コピー数の変化が、ヒト真菌病原体におけるゲノム可塑性と適応に対して根本的に異なる寄与をしていることを実証している。"
+  },
+  {
+    "id": "10.1111/1462-2920.70473",
+    "title": "From Persistence to Prevention: A Holistic Review of Microplastics Sources, Impacts and Mitigation",
+    "abstract": "Microplastics move through soil, water, air, and plants, disrupting ecosystems and altering greenhouse gas dynamics. This review highlights their ecological and human health risks, oxidative stress, endocrine disruption, and toxicity while showcasing advances in detection and remediation, positioning microplastics as emerging climate‐influencing pollutants with direct implications for public health.\n\nABSTRACT\nMicroplastics (MPs) are present in terrestrial, aquatic, and atmospheric systems, causing environmental and several health issues. Their mobility and persistence link the two, allowing them to interface with ecosystems on several scales and are a tremendous target of ongoing research. MPs are formed as a by‐product of the biodegradation of plastics, as well as direct discharge from consumers and industry. Besides physical contamination, they also play roles as climate‐altering factors through the emission of greenhouse gases (CO2, CH4, C2H4) during degradation and increased N2O emission by microbial‐climate interaction, controlling carbon cycling globally, thus affecting carbon sequestration by photosynthetic plants. The discovery of new techniques such as spectroscopy, thermal analysis, and microfluidics has increased surveillance in the various environmental media. On the other hand, protection approaches such as filtration, bio‐remediation, and adsorption by nanomaterials hold great promise. Human exposure to MPs can stem from inhalation, ingestion, and dermal uptake, and effects induced by exposure to MPs range from oxidative stress and inflammation to endocrine disruption and carcinogenic potential. The main aim of this review is to systematically compile all the current knowledge on microplastics origin, detection and removal strategies and their impact on human health and the environment.\n\nMicroplastics move through soil, water, air, and plants, disrupting ecosystems and altering greenhouse gas dynamics. This review highlights their ecological and human health risks, oxidative stress, endocrine disruption, and toxicity while showcasing advances in detection and remediation, positioning microplastics as emerging climate-influencing pollutants with direct implications for public health.\n\nABSTRACT\nMicroplastics (MPs) are present in terrestrial, aquatic, and atmospheric systems, causing environmental and several health issues. Their mobility and persistence link the two, allowing them to interface with ecosystems on several scales and are a tremendous target of ongoing research. MPs are formed as a by-product of the biodegradation of plastics, as well as direct discharge from consumers and industry. Besides physical contamination, they also play roles as climate-altering factors through the emission of greenhouse gases (CO2, CH4, C2H4) during degradation and increased N2O emission by microbial-climate interaction, controlling carbon cycling globally, thus affecting carbon sequestration by photosynthetic plants. The discovery of new techniques such as spectroscopy, thermal analysis, and microfluidics has increased surveillance in the various environmental media. On the other hand, protection approaches such as filtration, bio-remediation, and adsorption by nanomaterials hold great promise. Human exposure to MPs can stem from inhalation, ingestion, and dermal uptake, and effects induced by exposure to MPs range from oxidative stress and inflammation to endocrine disruption and carcinogenic potential. The main aim of this review is to systematically compile all the current knowledge on microplastics origin, detection and removal strategies and their impact on human health and the environment.",
+    "journal": "Environmental Microbiology",
+    "doi": "10.1111/1462-2920.70473",
+    "date": "2026-11-26",
+    "authors": "Humma Niaz Malik, \nPrasun Kumar, \nSoumya Pandit, \nSubhasree Ray",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.70473?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial"
+      ],
+      "context": {
+        "marine": [
+          "aquatic"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://onlinelibrary.wiley.com/feed/14622920/most-recent",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5832,
+    "collected_at": "2026-11-27T12:24:59.862227+00:00",
+    "collected_date": "2026-11-27",
+    "sources": [
+      "https://onlinelibrary.wiley.com/feed/14622920/most-recent"
+    ],
+    "first_seen": "2026-11-27",
+    "related_dois": [
+      "10.1111/1462-2920.70473"
+    ],
+    "translation": {
+      "title": {
+        "hash": "bc50e23806e3705fc14d538ff468f6e6eebbc7d3390068f564250cb89cf01311",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-27T12:51:06.600698+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a510b4efca9520cd7a929253475f67ac5d1a1adbc4e70b19337057700b303155",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-27T12:51:06.600698+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "残留から防止へ：マイクロプラスチックの発生源、影響および軽減策に関する包括的レビュー",
+    "abstract_ja": "マイクロプラスチックは土壌、水、大気、および植物を通じて移動し、生態系を攪乱し、温室効果ガスの動態を変化させる。本総説では、それらが生態系および人体に及ぼすリスク、酸化ストレス、内分泌攪乱、および毒性に焦点を当てるとともに、検出および浄化技術の進展を紹介し、マイクロプラスチックを公衆衛生に直接的な影響を及ぼす、新たに台頭しつつある気候影響汚染物質として位置づける。\n\n要旨\nマイクロプラスチック（MPs）は陸域、水域、および大気系に存在し、環境およびさまざまな健康問題を引き起こしている。その移動性と残留性がこれら二つを結びつけ、多様なスケールで生態系と相互作用することを可能にしており、現在進行中の研究の主要な対象となっている。MPsは、プラスチックの生分解による副産物として、あるいは消費者や産業界からの直接的な排出によって生成される。物理的な汚染に加え、分解過程における温室効果ガス（CO2、CH4、C2H4）の放出や、微生物と気候の相互作用によるN2O放出の増加を通じて気候改変因子としての役割も果たし、地球規模で炭素循環を制御することで、光合成植物による炭素固定に影響を及ぼしている。分光法、熱分析、マイクロ流体工学などの新技術の発見により、さまざまな環境媒体におけるモニタリングが強化されている。一方で、ろ過、バイオレメディエーション、ナノ材料による吸着といった保護手法には大きな期待が寄せられている。ヒトへのMPs曝露は、吸入、摂取、および皮膚吸収に起因し、MPs曝露によって誘発される影響は、酸化ストレスや炎症から内分泌攪乱、発がん性の可能性まで多岐にわたる。本総説の主な目的は、マイクロプラスチックの起源、検出および除去戦略、ならびにそれらが人体および環境に及ぼす影響に関する現在の知見を体系的に整理することである。\n\nマイクロプラスチックは土壌、水、大気、および植物を通じて移動し、生態系を攪乱し、温室効果ガスの動態を変化させる。本総説では、それらが生態系および人体に及ぼすリスク、酸化ストレス、内分泌攪乱、および毒性に焦点を当てるとともに、検出および浄化技術の進展を紹介し、マイクロプラスチックを公衆衛生に直接的な影響を及ぼす、新たに台頭しつつある気候影響汚染物質として位置づける。\n\n要旨\nマイクロプラスチック（MPs）は陸域、水域、および大気系に存在し、環境およびさまざまな健康問題を引き起こしている。その移動性と残留性がこれら二つを結びつけ、多様なスケールで生態系と相互作用することを可能にしており、現在進行中の研究の主要な対象となっている。MPsは、プラスチックの生分解による副産物として、あるいは消費者や産業界からの直接的な排出によって生成される。物理的な汚染に加え、分解過程における温室効果ガス（CO2、CH4、C2H4）の放出や、微生物と気候の相互作用によるN2O放出の増加を通じて気候改変因子としての役割も果たし、地球規模で炭素循環を制御することで、光合成植物による炭素固定に影響を及ぼしている。分光法、熱分析、マイクロ流体工学などの新技術の発見により、さまざまな環境媒体におけるモニタリングが強化されている。一方で、ろ過、バイオレメディエーション、ナノ材料による吸着といった保護手法には大きな期待が寄せられている。ヒトへのMPs曝露は、吸入、摂取、および皮膚吸収に起因し、MPs曝露によって誘発される影響は、酸化ストレスや炎症から内分泌攪乱、発がん性の可能性まで多岐にわたる。本総説の主な目的は、マイクロプラスチックの起源、検出および除去戦略、ならびにそれらが人体および環境に及ぼす影響に関する現在の知見を体系的に整理することである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.2016858",
+    "title": "Antimicrobial resistance in adult urinary bacterial isolates from a diagnostic laboratory network in Jordan, 2019–2025",
+    "abstract": "Antimicrobial resistance threatens effective treatment of urinary tract infections (UTIs). We evaluated seven-year resistance trends, composite Extended-Spectrum Beta-Lactamase (ESBL) positivity, multidrug resistance (MDR), and correlates among adult urinary isolates in Jordan. This retrospective laboratory-based surveillance study included 36,863 bacterial urine isolates from adults aged ≥ 18 years during the complete calendar years 2019–2025. Annual trends were assessed using logistic regression with calendar year as a continuous predictor. Two multivariable logistic regression models evaluated correlates of composite ESBL positivity: the first included age group, sex, and calendar year, while the second was restricted to women and included pregnancy status. Escherichia coli accounted for 23,707 isolates (64.3%) and Klebsiella spp. for 4,949 (13.4%). In E. coli, resistance increased for cefazolin, cefuroxime, aztreonam, ciprofloxacin, and levofloxacin, whereas resistance to gentamicin and imipenem decreased; resistance to nitrofurantoin remained below 5% (3.9% overall) and resistance to trimethoprim-sulfamethoxazole was stable at about 47%. In Klebsiella spp., resistance increased for cefazolin, cefuroxime, ciprofloxacin, levofloxacin, and trimethoprim-sulfamethoxazole; increases for nitrofurantoin and meropenem did not persist when 2019 was excluded. Composite ESBL positivity increased from 46.6% to 54.6% in E. coli (OR 1.065 per year, 95% CI 1.051–1.079) and from 41.7% to 45.7% in Klebsiella spp. (OR 1.034, 95% CI 1.004–1.064). MDR increased in E. coli (OR 1.066 per year) but not significantly in Klebsiella spp. (OR 1.027, p = 0.071). Older age and male sex were independently associated with higher composite ESBL odds (adjusted OR 1.52 for age ≥ 70 years and 1.61 for male sex, both p < 0.0001); pregnancy showed no independent association (adjusted OR 1.04, p = 0.58). The main trends were similar in community branches, when 2019 was excluded, and, for 2023–2025, when limited to one isolate per patient. Over the seven-year study period, resistance increased for several clinically important antibiotics in E. coli and Klebsiella spp., alongside increasing composite ESBL positivity and MDR in E. coli. Older age and male sex marked the patients with the highest odds of composite ESBL positivity. These findings are relevant to current empirical treatment decisions, antimicrobial stewardship activities, and future surveillance. Local resistance data should be updated regularly and used to guide treatment.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.2016858",
+    "date": "2026-11-27",
+    "authors": "Randa I. Farah",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.2016858",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Escherichia",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5821,
+    "collected_at": "2026-11-27T12:24:59.862227+00:00",
+    "collected_date": "2026-11-27",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-27",
+    "related_dois": [
+      "10.3389/fmicb.2026.2016858"
+    ],
+    "translation": {
+      "title": {
+        "hash": "451fd348e0898d03b2fb3db9f03852149f264fc218e348b06cd1d0151bcb36a0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-27T12:51:06.600698+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f98f0aa3d642c89d660cab2ccca4bbcc9d171cbe25ad31f77e7bd6199b6d208a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-27T12:51:06.600698+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ヨルダンの診断検査ネットワークにおける成人尿路細菌分離株の薬剤耐性、2019–2025年",
+    "abstract_ja": "薬剤耐性は、尿路感染症（UTI）の効果的な治療を脅かす要因となっている。本研究では、ヨルダンの成人尿路分離株を対象に、7年間にわたる耐性動向、複合広域β-ラクタマーゼ（ESBL）陽性率、多剤耐性（MDR）、およびそれらの相関関係を評価した。この後方視的検査ベースのサーベイランス研究には、2019年から2025年までの全暦年における18歳以上の成人から得られた36,863株の細菌性尿路分離株が組み入れられた。年次の動向は、暦年を連続予測変数としたロジスティック回帰分析を用いて評価した。複合ESBL陽性率の相関因子を評価するため、2つの多変数ロジスティック回帰モデルを用いた。第1モデルには年齢層、性別、および暦年を含め、第2モデルは女性に限定し、妊娠の有無を含めた。大腸菌（E. coli）は23,707株（64.3%）、クレブシエラ属菌（Klebsiella spp.）は4,949株（13.4%）を占めた。大腸菌では、セファゾリン、セフルオキシム、アズトレオナム、シプロフロキサシン、およびレボフロキサシンに対する耐性が増加した一方、ゲンタマイシンおよびイミペネムに対する耐性は減少した。ニトロフラントインに対する耐性は5%未満（全体では3.9%）にとどまり、トリメトプリム・スルファメトキサゾールに対する耐性は約47%で安定していた。クレブシエラ属菌では、セファゾリン、セフルオキシム、シプロフロキサシン、レボフロキサシン、およびトリメトプリム・スルファメトキサゾールに対する耐性が増加した。ニトロフラントインおよびメロペネムに対する増加は、2019年を除外すると持続しなかった。複合ESBL陽性率は、大腸菌で46.6%から54.6%へ（年あたりのOR 1.065、95% CI 1.051–1.079）、クレブシエラ属菌で41.7%から45.7%へ（OR 1.034、95% CI 1.004–1.064）増加した。MDRは大腸菌で増加したが（年あたりのOR 1.066）、クレブシエラ属菌では有意な増加は認められなかった（OR 1.027, p = 0.071）。高齢および男性であることは、複合ESBL陽性率の上昇と独立して関連していた（年齢70歳以上で調整後OR 1.52、男性で1.61、ともにp < 0.0001）。妊娠による独立した関連は認められなかった（調整後OR 1.04, p = 0.58）。主要な動向は、2019年を除外した場合、および2023–2025年の患者1人あたり1株に限定した場合のいずれにおいても、地域の診療圏で同様であった。7年間の研究期間において、大腸菌およびクレブシエラ属菌では臨床的に重要な複数の抗菌薬に対する耐性が増加し、同時に大腸菌では複合ESBL陽性率およびMDRも増加した。高齢および男性であることは、複合ESBL陽性率が最も高い患者群の特徴であった。これらの知見は、現在の経験的治療方針の決定、抗菌薬適正使用活動、および今後のサーベイランスに関連している。地域の耐性データは定期的に更新し、治療の指針として活用すべきである。"
+  },
+  {
+    "id": "10.1101/gr.281825.125",
+    "title": "Somatic haplotyping for tumor DNA fraction estimation and variant recalibration with LongPhase-S",
+    "abstract": "Accurate detection of somatic variants is crucial for precision oncology, and long-read sequencing offers unprecedented advantages in resolving complex cancer genomes. However, most long-read somatic callers rely on phasing built for a diploid genome, an assumption that tumor contamination, subclonal heterogeneity, and aneuploidy violate. We present LongPhase-S, a novel method that jointly reconstructs somatic haplotypes, infers tumor DNA fraction, and recalibrates somatic variants in a fraction-aware manner for paired tumor-normal long-read sequencing. By anchoring each somatic read to a parental germline lineage, LongPhase-S provides a phase-resolved view in which germline and somatic reads are disentangled across the genome. Building on somatic haplotyping, LongPhase-S estimates tumor DNA fraction with performance matching or exceeding existing unphased methods, providing the basis for fraction-aware variant recalibration. Using eight ONT benchmark datasets comprising six cancer cell lines, including breast, melanoma, and lung cancers, LongPhase-S improves the accuracy of state-of-the-art somatic callers. Specifically, mean F1 scores increase by 4.5% and 7.1% for single-nucleotide variants and indels with ClairS, and by 1.2% and 0.5% with DeepSomatic. In six additional PacBio HiFi dilution-series datasets, the same ONT-trained model and variant recalibration generalized without retraining. Collectively, these results show that somatic haplotyping is a critical yet missing piece in existing somatic callers and enables fraction-aware and phase-resolved variant interpretation in heterogeneous tumors.",
+    "journal": "Genome Research",
+    "doi": "10.1101/gr.281825.125",
+    "date": "2026-11-24",
+    "authors": "Ming-En Ho1",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://genome.cshlp.org/content/early/2026/11/24/gr281825125",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "DNA",
+        "method",
+        "sequencing"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://genome.cshlp.org/rss/ahead.xml",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5834,
+    "collected_at": "2026-11-27T12:24:59.862227+00:00",
+    "collected_date": "2026-11-27",
+    "sources": [
+      "https://genome.cshlp.org/rss/ahead.xml"
+    ],
+    "first_seen": "2026-11-27",
+    "related_dois": [
+      "10.1101/gr.281825.125"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0e4f02c87a8661378e0efaecae99aaa089c6379514719b2417dcedd0f1c3f891",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-27T12:51:06.600698+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "016386d37e6c581b095ce7333fcca18c54a9fb7acf3dea58f460549de867a976",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-27T12:51:06.600698+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "LongPhase-Sを用いた腫瘍DNA分画推定およびバリアント再較正のためのソマティックハプロタイピング",
+    "abstract_ja": "体細胞変異の正確な検出は精密腫瘍学において極めて重要であり、ロングリードシーケンシングは複雑ながんゲノムの解析において前例のない利点をもたらす。しかし、ほとんどのロングリード体細胞コール手法は、二倍体ゲノム向けに構築されたフェーズ解析に依存しており、腫瘍の混入、サブクローナル不均一性、および異数性はこの前提を破綻させる。本研究では、ペアとなった腫瘍・正常のロングリードシーケンシングにおいて、体細胞ハプロタイプの再構築、腫瘍DNA分画の推定、および体細胞変異の再較正を分画認識的に同時に行う新規手法「LongPhase-S」を提案する。各体細胞リードを親の生殖細胞系列系統に紐付けることで、LongPhase-Sはゲノム全体で生殖細胞系列リードと体細胞リードが分離された、フェーズ分解能の高いビューを提供する。体細胞ハプロタイピングに基づき、LongPhase-Sは既存の非フェーズ解析手法と同等またはそれを上回る性能で腫瘍DNA分画を推定し、分画認識的な変異再較正の基盤となる。乳がん、メラノーマ、肺がんを含む6つのがん細胞株からなる8つのONTベンチマークデータセットを用いた結果、LongPhase-Sは最先端の体細胞コール手法の精度を向上させた。具体的には、平均F1スコアは、ClairSでは一塩基変異およびインデルでそれぞれ4.5%および7.1%向上し、DeepSomaticでは1.2%および0.5%向上した。さらに6つのPacBio HiFi希釈シリーズデータセットにおいても、同一のONT学習済みモデルと変異再較正が再学習なしに汎化した。総じて、これらの結果は、体細胞ハプロタイピングが既存の体細胞コール手法において不可欠でありながら欠落していた要素であり、不均一な腫瘍における分画認識的かつフェーズ分解能の高い変異解釈を可能にすることを示している。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1984955",
+    "title": "Phage-based drug delivery systems: innovations, challenges, and future directions in targeted therapy",
+    "abstract": "Bacteriophages, historically recognized as natural bacterial predators, are currently being redefined as programmable and versatile nanocarriers in the era of precision medicine. This review traces the evolution of phages from biological antibacterial agents to modular platforms of drug delivery. We firstly map the global research landscape, representing how the field has evolved from simple infection control to complex bio-nanotechnology applications. Next, we dissect the core multidimensional engineering strategies, including capsid surface display, genomic reprogramming, and chemical conjugation, which endow phages with capabilities for active tumor targeting, microenvironment-responsive release, and diverse cargo loading, ranging from small molecules to CRISPR-Cas systems. Finally, we discuss the emerging role of artificial intelligence (AI) in addressing longstanding challenges in phage design and application. We highlight how deep learning architectures are facilitating the development from labor-intensive empirical screening to data-driven rational design, specifically in predicting phage-host interactions and optimizing non-immunogenic vectors. Finally, we discuss the current translation challenges, including manufacturing standardization (CMC) and regulatory frameworks. Under the guidance of new technologies, we are committed to integrating synthetic biology and AI guided design to guide the path of future phage based nanomedicines for the treatment of multidrug-resistant infections and targeted disease treatment strategies.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1984955",
+    "date": "2026-11-27",
+    "authors": "Weizheng Dong",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1984955",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "bacteriophage",
+        "bacteriophages",
+        "phage",
+        "phages"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genomic"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5822,
+    "collected_at": "2026-11-27T12:24:59.862227+00:00",
+    "collected_date": "2026-11-27",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-27",
+    "related_dois": [
+      "10.3389/fmicb.2026.1984955"
+    ],
+    "translation": {
+      "title": {
+        "hash": "863b14c107c78d033e472f9500aa46c67dc610048159f94800ca132237e633af",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-27T12:51:06.600698+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d72a6049254fd112d0c25d31b5d155933e5e9e84468f71a7db10b89e1486c73b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-27T12:51:06.600698+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ファージを用いた薬物送達システム：標的治療における革新、課題、および今後の展望",
+    "abstract_ja": "従来、天然の細菌捕食者として認識されてきたバクテリオファージは、精密医療の時代において、プログラム可能かつ汎用性の高いナノキャリアとして再定義されつつある。本総説では、ファージが生物学的抗菌剤から薬物送達のモジュール式プラットフォームへと進化してきた過程を辿る。まず、単純な感染制御から複雑なバイオナノテクノロジー応用へと、この分野がいかに発展してきたかを示す世界的な研究動向を概観する。次に、カプシド表面ディスプレイ、ゲノムリプログラミング、化学的共役といった中核となる多次元的エンジニアリング戦略を詳述する。これらの戦略により、ファージは能動的な腫瘍標的化、微小環境応答性の放出、および低分子からCRISPR-Casシステムに至る多様な貨物搭載能力を備えることになる。最後に、ファージの設計と応用における長年の課題に対処する上で、人工知能（AI）が果たす新たな役割について論じる。特に、深層学習アーキテクチャが、労力を要する経験的スクリーニングからデータ駆動型の合理的設計への移行、とりわけファージと宿主の相互作用の予測や非免疫原性ベクターの最適化をいかに促進しているかを強調する。最後に、製造の標準化（CMC）や規制枠組みを含む、現在のトランスレーショナルな課題について論じる。新技術の指針のもと、我々は合成生物学とAI誘導設計を統合し、多剤耐性感染症の治療および標的疾患治療戦略に向けた、次世代のファージベースのナノ医薬品の道を切り拓くことに尽力する。"
   }
 ]
