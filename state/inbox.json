@@ -474420,5 +474420,58 @@
     "related_dois": [
       "10.64898/2026.11.25.769220"
     ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 4",
+        "query": "(JOURNAL:\"Infection and Immunity\" OR JOURNAL:\"Antimicrobial Agents and Chemotherapy\" OR JOURNAL:\"Journal of Clinical Microbiology\" OR JOURNAL:\"Microbiology Resource Announcements\" OR JOURNAL:\"Nature\" OR JOURNAL:\"Nature Microbiology\" OR JOURNAL:\"Nature Ecology & Evolution\" OR JOURNAL:\"Nature Communications\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "letter"
+    ],
+    "id": "10.1038/s41467-026-78540-7",
+    "title": "Reply to: Evidence of widespread sequencing errors in global avian influenza study.",
+    "abstract": "",
+    "journal": "Nature Communications",
+    "doi": "10.1038/s41467-026-78540-7",
+    "date": "2026-11-02",
+    "authors": "Wannigama DL, Amarasiri M, Phattharapornjaroen P, Hurst C, Modchang C, Besa JJV, Miyanaga K, Cui L, Fernandez S, Huang AT, Ounjai P, Werawatte WKCP, Rad S M AH, Vatanaprasan P, Jay DJ, Saethang T, Luk-In S, Kanthawee P, Thuptimdang W, Tacharoenmuang R, Cynthia B, Vitharana SPHS, Ngamwongsatit N, Ishikawa H, Furukawa T, Wang Y, Singer AC, Ragupathi NKD, Chatsuwan T, Sei K, Nanbo A, Leelahavanichkul A, Kanjanabuch T, Hamamoto H, Higgins PG, Sano D, Kicic A, Valdebenito JO, Bonnedahl J, Trowsdale S, Hongsing P, Khatib A, Shibuya K, Abe S.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42971996",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13728227",
+    "pmid": "42971996",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": false,
+      "reason": "metadata_pending",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 5616,
+    "collected_at": "2026-11-27T12:14:12.492407+00:00",
+    "collected_date": "2026-11-27",
+    "sources": [
+      "Europe PMC journals 4"
+    ],
+    "first_seen": "2026-11-27",
+    "related_dois": [
+      "10.1038/s41467-026-78540-7"
+    ]
   }
 ]

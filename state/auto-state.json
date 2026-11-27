@@ -164,7 +164,7 @@
   "backfill_request_status": {
     "id": "collection-recovery-2026-11-10",
     "phase": "in_progress",
-    "additional": 0,
+    "additional": 1,
     "coverage": {
       "Europe PMC watchlist": {
         "ok": true,
@@ -216,19 +216,20 @@
       },
       "Europe PMC journals 4": {
         "ok": false,
-        "retrieved": 185,
+        "retrieved": 205,
         "query": "(JOURNAL:\"Infection and Immunity\" OR JOURNAL:\"Antimicrobial Agents and Chemotherapy\" OR JOURNAL:\"Journal of Clinical Microbiology\" OR JOURNAL:\"Microbiology Resource Announcements\" OR JOURNAL:\"Nature\" OR JOURNAL:\"Nature Microbiology\" OR JOURNAL:\"Nature Ecology & Evolution\" OR JOURNAL:\"Nature Communications\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
         "publication_start": "2026-10-20"
       },
       "Europe PMC journals 5": {
         "ok": false,
-        "retrieved": 80,
+        "retrieved": 110,
         "query": "(JOURNAL:\"Science\" OR JOURNAL:\"Science Advances\" OR JOURNAL:\"Cell\" OR JOURNAL:\"Cell Host & Microbe\" OR JOURNAL:\"Microbiome\" OR JOURNAL:\"Environmental Microbiome\" OR JOURNAL:\"Animal Microbiome\" OR JOURNAL:\"Environmental Microbiology\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
         "publication_start": "2026-10-20"
       },
       "Europe PMC journals 6": {
         "ok": false,
-        "retrieved": 205,
+        "retrieved": 215,
+        "accepted": 83,
         "query": "(JOURNAL:\"Microbial Genomics\" OR JOURNAL:\"Microbiology\" OR JOURNAL:\"Aquatic Microbial Ecology\" OR JOURNAL:\"PNAS\" OR JOURNAL:\"PLOS Biology\" OR JOURNAL:\"PLOS Genetics\" OR JOURNAL:\"Genome Research\" OR JOURNAL:\"Genome Biology\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
         "publication_start": "2026-10-20"
       },
@@ -277,7 +278,7 @@
     },
     "collection_exit_code": -9,
     "budget_exhausted": true,
-    "updated_at": "2026-11-27T03:01:41.328294+00:00"
+    "updated_at": "2026-11-27T12:24:46.122823+00:00"
   },
   "last_publication_slot": "2026-11-27T09:12:00+09:00"
 }
