@@ -475254,5 +475254,64 @@
     "related_dois": [
       "10.1101/gr.281825.125"
     ]
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC bioinformatics",
+        "query": "((TITLE_ABS:sequence* OR TITLE_ABS:sequencing* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:transcriptome* OR TITLE_ABS:transcriptomic* OR TITLE_ABS:proteome* OR TITLE_ABS:proteomic* OR TITLE_ABS:protein* OR TITLE_ABS:nucleotide* OR TITLE_ABS:\"amino acid\" OR TITLE_ABS:DNA* OR TITLE_ABS:RNA* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:bioinformatics* OR TITLE_ABS:\"biological data\" OR TITLE_ABS:gene* OR TITLE_ABS:genetic* OR TITLE_ABS:metabolome* OR TITLE_ABS:metabolomic* OR TITLE_ABS:epigenome* OR TITLE_ABS:epigenomic* OR TITLE_ABS:chromatin* OR TITLE_ABS:\"metabolic pathway\" OR TITLE_ABS:\"molecular interaction\" OR TITLE_ABS:\"biological network\") AND (TITLE_ABS:algorithm* OR TITLE_ABS:software* OR TITLE_ABS:tool* OR TITLE_ABS:method* OR TITLE_ABS:framework* OR TITLE_ABS:workflow* OR TITLE_ABS:pipeline* OR TITLE_ABS:database* OR TITLE_ABS:\"data base\" OR TITLE_ABS:knowledgebase* OR TITLE_ABS:\"knowledge base\" OR TITLE_ABS:\"web server\" OR TITLE_ABS:webserver* OR TITLE_ABS:resource* OR TITLE_ABS:benchmark* OR TITLE_ABS:assembly* OR TITLE_ABS:assembler* OR TITLE_ABS:alignment* OR TITLE_ABS:aligner* OR TITLE_ABS:annotation* OR TITLE_ABS:binning* OR TITLE_ABS:clustering* OR TITLE_ABS:classification* OR TITLE_ABS:\"error correction\" OR TITLE_ABS:\"batch correction\" OR TITLE_ABS:\"quality assessment\" OR TITLE_ABS:\"quality control\" OR TITLE_ABS:\"functional prediction\" OR TITLE_ABS:prediction* OR TITLE_ABS:predictor* OR TITLE_ABS:simulation* OR TITLE_ABS:inference* OR TITLE_ABS:normalization* OR TITLE_ABS:imputation* OR TITLE_ABS:visualization* OR TITLE_ABS:\"dimensionality reduction\")) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1109/tpami.2026.3748100",
+    "title": "Towards Generalized Pedestrian Attribute Recognition Via Hierarchical Prompts and Visual-Semantic Interaction.",
+    "abstract": "Pedestrian attribute recognition (PAR) aims to predict multiple semantic attributes of a person from images. Existing unimodal methods focus on learning robust visual features but fail to exploit linguistic semantics, while recent bimodal approaches rely on static prompt templates and shallow fusion, limiting their ability to model intra-class attribute variability and modality collaboration. To address these limitations, we propose a generalized PAR framework based on Hierarchical Prompt Learning and Visual-Semantic Interaction (HPLVSI). Specifically, we introduce an Image-Conditional Hierarchical-Prompt Initialization Module (IHIM) to generate context-sensitive prompts from visual inputs, and a Hierarchical Prompt Optimization (HPO) strategy to mitigate prompt overfitting and enhance attribute discrimination. To further strengthen cross-modal reasoning, a Prompt Enhancement and Regularization Module (PERM) refines linguistic representations, while a Bimodal Mutual Interaction Module (BMIM) enables effective bidirectional visual-textual collaboration. In addition, to better reflect real-world distribution shifts, we construct a new large-scale dataset, Celeb-PAR, based on long-term person re-identification data, and establish a new cross-domain PAR benchmark. Extensive experiments demonstrate that our method consistently outperforms state-of-the-art approaches (e.g., 88.97% mA on PA100K) under both standard and cross-domain settings, validating its strong generalization capability and real-world applicability.",
+    "journal": "IEEE transactions on pattern analysis and machine intelligence",
+    "doi": "10.1109/tpami.2026.3748100",
+    "date": "2026-10-29",
+    "authors": "Wu J, Huang Y, Gao M, Niu Y, Chen Y, Wu Q.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42955752",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "42955752",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "framework",
+          "gene"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 5617,
+    "collected_at": "2026-11-27T21:57:49.819127+00:00",
+    "collected_date": "2026-11-28",
+    "sources": [
+      "Europe PMC bioinformatics"
+    ],
+    "first_seen": "2026-11-27",
+    "related_dois": [
+      "10.1109/tpami.2026.3748100"
+    ]
   }
 ]
