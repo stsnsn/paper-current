@@ -345300,5 +345300,280 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ファージを用いた薬物送達システム：標的治療における革新、課題、および今後の展望",
     "abstract_ja": "従来、天然の細菌捕食者として認識されてきたバクテリオファージは、精密医療の時代において、プログラム可能かつ汎用性の高いナノキャリアとして再定義されつつある。本総説では、ファージが生物学的抗菌剤から薬物送達のモジュール式プラットフォームへと進化してきた過程を辿る。まず、単純な感染制御から複雑なバイオナノテクノロジー応用へと、この分野がいかに発展してきたかを示す世界的な研究動向を概観する。次に、カプシド表面ディスプレイ、ゲノムリプログラミング、化学的共役といった中核となる多次元的エンジニアリング戦略を詳述する。これらの戦略により、ファージは能動的な腫瘍標的化、微小環境応答性の放出、および低分子からCRISPR-Casシステムに至る多様な貨物搭載能力を備えることになる。最後に、ファージの設計と応用における長年の課題に対処する上で、人工知能（AI）が果たす新たな役割について論じる。特に、深層学習アーキテクチャが、労力を要する経験的スクリーニングからデータ駆動型の合理的設計への移行、とりわけファージと宿主の相互作用の予測や非免疫原性ベクターの最適化をいかに促進しているかを強調する。最後に、製造の標準化（CMC）や規制枠組みを含む、現在のトランスレーショナルな課題について論じる。新技術の指針のもと、我々は合成生物学とAI誘導設計を統合し、多剤耐性感染症の治療および標的疾患治療戦略に向けた、次世代のファージベースのナノ医薬品の道を切り拓くことに尽力する。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1970387",
+    "title": "Gut microbiome compositional dynamics in locally advanced rectal cancer patients undergoing Total Neoadjuvant Therapy: a prospective longitudinal study",
+    "abstract": "BackgroundTotal Neoadjuvant Therapy (TNT) has become the preferred treatment strategy for locally advanced rectal cancer (LARC), improving pathological complete response and disease-free survival. However, sequential radiotherapy (RT) and chemotherapy (CT) may disrupt the gut microbiome, which plays a key role in intestinal integrity, immune regulation, and metabolic homeostasis. The longitudinal gut microbiome changes during TNT remain poorly characterized.MethodsWe conducted a prospective longitudinal cohort study at King Hussein Cancer Center, Amman, Jordan, including 62 patients with histologically confirmed stage II–III LARC treated with TNT between March 2021 and June 2023. Fecal samples were collected at baseline prior to treatment (S1), within 7 days after short-course RT (S2), and within 7 days after consolidation CT (S3). A total of 167 samples underwent 16S rRNA sequencing. Analyses accounted for repeated measures (paired tests, mixed-effects models, and PERMANOVA with within-patient restricted permutations) and for sequencing depth (rarefaction), and included alpha- and beta-diversity, multivariate dispersion, compositional differential abundance analysis with false discovery rate (FDR) control, an operational core-microbiome analysis, and sensitivity analyses for sample attrition.ResultsSequencing depth was lower at S3 than at S1 and S2. In the 46 patients with complete serial sampling, alpha diversity was lower after RT than at baseline (rarefied observed richness, median change −10.8 species, FDR q = 0.003; Shannon diversity, q = 0.016), with no detectable further change after chemotherapy once sequencing depth was accounted for; this S2–S3 finding was, however, sensitive to assumptions about patients lost to follow-up. Community composition differed across timepoints when repeated measures were respected (PERMANOVA restricted within patients: Bray–Curtis R2 = 2.2%, p = 0.001; Jaccard R2 = 2.5%, p < 0.001), but timepoint explained little variance relative to inter-individual differences, and Jaccard dispersion differed between timepoints. Of 55 species with unadjusted p < 0.05, 10 remained significant after Benjamini–Hochberg correction (12 among species detected in ≥10% of samples). Sensitivity analyses (inverse-probability weighting for attrition, covariate adjustment, alternative rarefaction depths, and alternative compositional specifications) did not change the main conclusions. The most consistent changes were lower relative abundance of Fusobacterium nucleatum and several oral-associated anaerobes and higher relative abundance of Limosilactobacillus fermentum at the end of TNT. The number of species detected in more than 50% of samples (an operational “core”) fell mainly between S1 and S2 after adjustment for sample number and depth.ConclusionIn this uncontrolled sequential design, TNT was associated with lower gut microbial diversity after RT and with limited, taxon-specific compositional changes by the end of treatment. The effects of RT and CT cannot be separated from time and cumulative exposure, attrition was substantial and probably informative, and species-level findings from 16S data are putative. These results are hypothesis-generating and provide a basis for studies linking microbiome trajectories to clinical outcomes.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1970387",
+    "date": "2026-11-27",
+    "authors": "Mohammad A. A. Al-Najjar",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1970387",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "microbial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5824,
+    "collected_at": "2026-11-27T12:24:59.862227+00:00",
+    "collected_date": "2026-11-27",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-27",
+    "related_dois": [
+      "10.3389/fmicb.2026.1970387"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c1d8fd03e7088c65654d84daf300bed75b35864d808d2becbfe962754ed6d9a4",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-27T12:55:38.344861+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "744475cc805884371b96b64e9f195abfa38aa1a193f74fee69c2e2d757dea7d5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-27T12:55:38.344861+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "全術前補助療法を受ける局所進行直腸癌患者における腸内細菌叢の組成動態：前向き縦断的研究",
+    "abstract_ja": "背景 全術前補助療法（TNT）は、局所進行直腸癌（LARC）における優先的な治療戦略となっており、病理学的完全奏効および無病生存期間の改善に寄与している。しかし、逐次的な放射線療法（RT）および化学療法（CT）は、腸管の完全性、免疫調節、および代謝恒常性において重要な役割を果たす腸内細菌叢を乱す可能性がある。TNT期間中の腸内細菌叢の経時的変化については、依然として十分に解明されていない。方法 ヨルダン・アンマンのキング・フセインがんセンターにおいて、2021年3月から2023年6月の間にTNT治療を受けた、組織学的に確認されたステージII～IIIのLARC患者62例を対象に、前向き縦断コホート研究を実施した。便検体は、治療前のベースライン（S1）、短期RT後7日以内（S2）、および地固めCT後7日以内（S3）に採取した。計167検体に対して16S rRNAシーケンシングを行った。解析では、反復測定（対応のある検定、混合効果モデル、および患者内制限付き置換法を用いたPERMANOVA）およびシーケンシング深度（稀少化）を考慮し、アルファ多様性およびベータ多様性、多変数分散、偽発見率（FDR）制御を用いた組成的差異存在量解析、操作的コア細菌叢解析、および検体脱落に関する感度解析を含めた。結果 シーケンシング深度は、S1およびS2と比較してS3で低かった。連続サンプリングが完了していた46例において、アルファ多様性はベースライン時よりもRT後に低下しており（観察された豊富度の稀少化、中央値変化量 −10.8種、FDR q = 0.003；シャノン多様性、q = 0.016）、シーケンシング深度を考慮すると、化学療法後にさらなる変化は認められなかった。しかし、このS2～S3における所見は、追跡不能となった患者に関する仮定の影響を受けやすかった。反復測定を考慮した場合、時点間でのコミュニティ組成に差が認められたが（患者内制限付きPERMANOVA：Bray–Curtis R2 = 2.2%, p = 0.001; Jaccard R2 = 2.5%, p < 0.001）、時点間の差は個人間の差異に比べて分散をほとんど説明できず、ジャカード分散は時点間で異なっていた。未調整でp < 0.05であった55種のうち、ベンジャミニ・ホッホバーグ補正後も10種が有意であった（10%以上の検体で検出された種のうち12種）。感度解析（脱落に対する逆確率重み付け、共変量調整、代替的な稀少化深度、および代替的な組成仕様）を行っても、主要な結論に変化はなかった。最も一貫した変化は、TNT終了時におけるFusobacterium nucleatumおよびいくつかの口腔関連嫌気性菌の相対存在量の低下と、Limosilactobacillus fermentumの相対存在量の上昇であった。50%以上の検体で検出された種数（操作的な「コア」）は、検体数および深度で調整した後、主にS1からS2の間で変動した。結論 本非対照逐次デザインにおいて、TNTはRT後の腸内細菌多様性の低下、および治療終了時における限定的な分類群特異的な組成変化と関連していた。RTおよびCTの影響を時間および累積曝露から切り離すことはできず、脱落は相当な量でありおそらく有益な情報を含んでおり、16Sデータによる種レベルの所見は推定的なものである。これらの結果は仮説生成に資するものであり、細菌叢の軌跡を臨床転帰に結びつける研究の基礎となるものである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1918563",
+    "title": "Associations between gut microbiota dynamics and fat body metabolic remodeling in overwintering Vespa velutina auraria queens",
+    "abstract": "Vespa velutina auraria is an important biological resource whose population persistence and mass rearing depend on the queens’ ability to survive winter diapause. However, the mechanisms by which gut microbiota enhance immunity and remodel fat body metabolism during overwintering remain unclear. This study found that under artificial overwintering conditions, diapausing queens consumed energy reserves to maintain basal metabolism, resulting in a decreasing trend in body mass, total protein content, and relative fat body weight. Concurrently, queen wasps exhibited adaptive physiological adjustments to low-temperature stress, accompanied by a significant increase in antioxidant enzyme activities. GST was activated, while AChE activity increased following diapause termination. Gut metagenomic analysis revealed that, compared to the pre-diapause stage, the gut microbial diversity of queen wasps during diapause was reduced, with the community predominantly composed of members the genera Asaia, Kluyvera, and Lactococcus, and exhibiting relatively high gene abundances associated with lipid, carbohydrate, and energy metabolism. Consistently, subsequent metabolomic analysis of fat body samples showed that diapausing queen wasps had a diverse range of differential metabolites, including marked reductions in energy substrates such as glucose, trehalose-6-phosphate, and glycerol. These findings suggest that, under artificial overwintering conditions, the gut microbiota of queen wasps is associated with the remodeling of lipid and energy metabolism in the fat body, potentially via ascorbate–aldarate metabolism, tryptophan metabolism, glycolysis/gluconeogenesis, the pentose phosphate pathway, and cofactor biosynthesis. This remodeling may in turn be linked to antioxidant capacity and immune function, thereby contributing to successful overwintering. This study provides the first characterization of gut microbial dynamics associated with overwintering diapause in vespid queens, offering a microbiome-level perspective that advances our understanding of the physiological mechanisms underlying diapause regulation in social wasps.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1918563",
+    "date": "2026-11-27",
+    "authors": "Kai Qian",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1918563",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metagenom",
+        "metagenomic",
+        "microbial",
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5825,
+    "collected_at": "2026-11-27T12:24:59.862227+00:00",
+    "collected_date": "2026-11-27",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-27",
+    "related_dois": [
+      "10.3389/fmicb.2026.1918563"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d580c272c896316eecb0b73a64ab032d46109c71214c9e873d844299517a0574",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-27T12:55:38.344861+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5e5990f39175b60238ba3134a913efc278f094393dde910c69d629f0e8f6c7de",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-27T12:55:38.344861+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "越冬するVespa velutina auraria女王個体における腸内細菌叢動態と脂肪体代謝リモデリングの関連性",
+    "abstract_ja": "Vespa velutina aurariaは重要な生物資源であり、その個体群の存続と大量飼育は、女王蜂の越冬休眠生存能力に依存している。しかし、越冬中に腸内微生物叢が免疫機能を高め、脂肪体代謝を再構築するメカニズムは依然として不明である。本研究では、人工的な越冬条件下において、休眠中の女王蜂が基礎代謝を維持するためにエネルギー貯蔵量を消費し、その結果、体重、総タンパク質含有量、および相対的な脂肪体重量が減少傾向を示すことが明らかになった。同時に、女王蜂は低温ストレスに対して適応的な生理的調節を示し、それに伴い抗酸化酵素活性が有意に上昇した。休眠解除後にはGSTが活性化し、AChE活性が増加した。腸内メタゲノム解析の結果、休眠前と比較して、休眠中の女王蜂の腸内微生物多様性は低下しており、その群集は主にAsaia属、Kluyvera属、およびLactococcus属の菌種で構成され、脂質、糖質、およびエネルギー代謝に関連する遺伝子の存在量が比較的高いことが示された。同様に、その後の脂肪体サンプルのメタボローム解析により、休眠中の女王蜂には多様な差異代謝物が認められ、グルコース、トレハロース-6-リン酸、グリセロールなどのエネルギー基質の顕著な減少が観察された。これらの知見は、人工的な越冬条件下において、女王蜂の腸内微生物叢が脂肪体における脂質およびエネルギー代謝の再構築に関与しており、それがアスコルビン酸-アルダル酸代謝、トリプトファン代謝、解糖系/糖新生、ペントースリン酸経路、および補因子生合成を介している可能性を示唆している。この再構築は、ひいては抗酸化能や免疫機能に関連し、ひいては越冬の成功に寄与していると考えられる。本研究は、スズメバチ類の女王蜂における越冬休眠に関連する腸内微生物動態を初めて特性評価したものであり、社会性ハチにおける休眠調節の根底にある生理学的メカニズムの理解を深めるマイクロバイオームレベルの視点を提供するものである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.1939443",
+    "title": "Colonization factors of Tibetan antelope (Pantholops hodgsonii) gut microbiota and their association with Blastocystis subtype 31",
+    "abstract": "The gut microbiota plays a crucial role in host health, with colonization factors (CFs) contributing to microbial establishment and ecological functions. However, the CF landscape in the Tibetan antelope (Pantholops hodgsonii), a species adapted to extreme environments, remains underexplored. In this study, we characterized gut microbial communities and identified three CF-based clusters: Cluster 1 was dominated by Bacillota, whereas Clusters 2 and 3 were enriched in Bacteroidota. Although unadjusted analyses revealed differences in CF diversity and community composition between Blastocystis ST31-positive and ST31-negative animals, these differences were no longer statistically significant after accounting for sampling-region effects. Region-adjusted random forest analysis yielded an area under the curve (AUC) of 0.711 (95% CI: 0.585–0.838), indicating modest discriminatory performance. Among the ten most important CFs, CF47 ranked highest in feature importance, whereas CF60 ranked second and showed higher region-adjusted abundance in ST31-positive animals. Functional annotation suggested that these CFs were associated with multidrug efflux and transport, pyrimidine nucleotide metabolism, and putative chromate transport. The virulence-associated gene VFG049159 (clbM) was identified in CF0_0. These findings provide insights into CF variation in the Tibetan antelope gut microbiome and highlight the importance of accounting for geographical variation when investigating associations between parasite status and microbial colonization traits.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1939443",
+    "date": "2026-11-27",
+    "authors": "Ying Li",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.1939443",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial",
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5826,
+    "collected_at": "2026-11-27T12:24:59.862227+00:00",
+    "collected_date": "2026-11-27",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-27",
+    "related_dois": [
+      "10.3389/fmicb.2026.1939443"
+    ],
+    "translation": {
+      "title": {
+        "hash": "298279657b42f2d335d2893e1c534cdf7db6d5ac2c394b7337c31737d3becd1f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-27T12:55:38.344861+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0facc4409d4a31a6d33f36c1eba3f04f344f901e747f41cdd9002dcfff4a53b7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-27T12:55:38.344861+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "チベットアンテロープ（Pantholops hodgsonii）の腸内微生物叢の定着因子とBlastocystis亜型31との関連",
+    "abstract_ja": "腸内細菌叢は宿主の健康において極めて重要な役割を果たしており、定着因子（CF）が微生物の定着や生態学的機能に寄与している。しかし、極限環境に適応した種であるチベットアンテロープ（Pantholops hodgsonii）におけるCFのランドスケープについては、未だ十分に解明されていない。本研究では、腸内微生物群集の特性解析を行い、3つのCFベースのクラスターを同定した。クラスター1はBacillotaが優占していた一方、クラスター2および3ではBacteroidotaが濃縮されていた。未調整解析では、Blastocystis ST31陽性個体とST31陰性個体の間でCFの多様性と群集組成に差異が認められたが、サンプリング地域の影響を考慮すると、これらの差異は統計的に有意ではなくなった。地域調整済みランダムフォレスト解析の結果、曲線下面積（AUC）は0.711（95% CI: 0.585–0.838）となり、判別能は中程度であることが示された。最も重要な10種類のCFのうち、CF47が特徴量重要度で最上位となり、CF60が2位で、ST31陽性個体において地域調整後の存在量が高かった。機能アノテーションにより、これらのCFが多剤排出・輸送、ピリミジンヌクレオチド代謝、および推定されるクロム酸輸送に関連していることが示唆された。病原性関連遺伝子VFG049159（clbM）がCF0_0において同定された。これらの知見は、チベットアンテロープの腸内微生物叢におけるCFの変動に関する洞察を与えるとともに、寄生虫の状態と微生物の定着形質との関連を調べる際に、地理的変異を考慮することの重要性を浮き彫りにしている。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.2019209",
+    "title": "Microbial consortium–enzyme co-fermentation improves protein quality and in vitro ruminal feed value of Jiangxiangxing baijiu distiller’s grains by modulating nitrogen metabolic profiles and lignocellulosic composition",
+    "abstract": "IntroductionJiangxiangxing baijiu distiller’s grains (JFDGS) are produced in large quantities and contain considerable crude protein (CP), but their value as a ruminant protein feed is constrained by protein quality: the essential amino acid profile is unbalanced, a substantial proportion of the nitrogen is bound or heat-damaged, and the lignocellulosic matrix restricts access to the encapsulated protein.MethodsIn this study, JFDGS was co-fermented for 13 days under oxygen-limited conditions with a consortium of Saccharomyces cerevisiae, Aspergillus oryzae and Phanerodontia chrysosporium, together with a multi-enzyme preparation and urea plus ammonium sulfate as nitrogen supplements.ResultsTrue protein (TP), small peptide (SMP), organic nitrogen (ON) and acid-soluble protein (ASP) increased by 39.71%, 80.40%, 32.72% and 64.25%, respectively, and total amino acids increased by 24.53%, with a more balanced profile (lysine-to-methionine ratio, from 0.94:1 to 1.51:1). In contrast, neutral detergent fiber (NDF), acid detergent fiber (ADF) and acid detergent lignin (ADL) decreased by 17.74%, 16.67% and 9.80%, respectively. Within the Cornell Net Carbohydrate and Protein System (CNCPS) framework, PA, PB1 and PB2 accounted for 70.36% of CP, while the unavailable PC fraction decreased by 33.06%. The effective ruminal degradability of dry matter (DM) and CP increased by 16.26% and 27.01%, and the intestinal digestibility of the rumen-undegraded protein improved in parallel. Metabolomics revealed the up-regulation of several amino acid metabolic pathways, with histidine metabolism as the hub linked to tryptophan and to alanine/aspartate/glutamate metabolism.DiscussionBy defining feed protein quality in terms of nitrogen form rather than CP content, this work provides a more complete evaluation of consortium-enzyme co-fermentation within the CNCPS framework and a feasible strategy for using lignocellulosic by-products as ruminant protein feeds.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.2019209",
+    "date": "2026-11-27",
+    "authors": "Wenming Huang",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.2019209",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Aspergillus",
+        "Saccharomyces",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5827,
+    "collected_at": "2026-11-27T12:24:59.862227+00:00",
+    "collected_date": "2026-11-27",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-27",
+    "related_dois": [
+      "10.3389/fmicb.2026.2019209"
+    ],
+    "translation": {
+      "title": {
+        "hash": "fb4b7402cd54d2bffe8536f44b2b7333ffff598eb06dab0dcc252262007f2785",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-27T12:55:38.344861+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f9ca18d018017173b7b849a45a29a422941102c3bb15bea7d8fc70fbc44be9bb",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-27T12:55:38.344861+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "微生物コンソーシアム－酵素共発酵は、窒素代謝プロファイルおよびリグノセルロース組成を調節することにより、江湘興白酒蒸留粕のタンパク質品質とin vitroにおけるルーメン飼料価値を向上させる。",
+    "abstract_ja": "はじめに江湘興白酒蒸留粕（JFDGS）は大量に生産されており、相当量の粗タンパク質（CP）を含有しているが、反芻動物用タンパク質飼料としての価値はタンパク質の品質によって制限されている。すなわち、必須アミノ酸プロファイルの不均衡、窒素の相当割合が結合または熱損傷していること、およびリグノセルロースマトリックスがカプセル化されたタンパク質へのアクセスを制限していることが挙げられる。方法本研究では、JFDGSを、Saccharomyces cerevisiae、Aspergillus oryzae、およびPhanerodontia chrysosporiumのコンソーシアム、ならびに多酵素調製物と窒素補給剤としての尿素および硫酸アンモニウムを用い、酸素制限条件下で13日間共発酵させた。結果真タンパク質（TP）、小ペプチド（SMP）、有機窒素（ON）、および酸可溶性タンパク質（ASP）は、それぞれ39.71%、80.40%、32.72%、64.25%増加し、総アミノ酸は24.53%増加して、よりバランスの取れたプロファイル（リシン対メチオニン比：0.94:1から1.51:1へ）を示した。対照的に、中性界面活性剤繊維（NDF）、酸性界面活性剤繊維（ADF）、および酸性界面活性剤リグニン（ADL）は、それぞれ17.74%、16.67%、9.80%減少した。Cornell Net Carbohydrate and Protein System（CNCPS）の枠組みにおいて、PA、PB1、およびPB2がCPの70.36%を占め、一方で利用不能なPC分画は33.06%減少した。乾物（DM）およびCPの有効ルーメン分解性は16.26%および27.01%増加し、それに伴いルーメン未分解タンパク質の腸管消化性も向上した。メタボロミクス解析により、複数のアミノ酸代謝経路の亢進が明らかとなり、ヒスチジン代謝がトリプトファンおよびアラニン/アスパラギン酸/グルタミン酸代謝と結びついたハブとして機能していることが示された。考察CP含有量ではなく窒素形態に基づいて飼料タンパク質の品質を定義することで、本研究はCNCPSの枠組みにおけるコンソーシアム酵素共発酵のより包括的な評価と、リグノセルロース副産物を反芻動物用タンパク質飼料として利用するための実現可能な戦略を提示するものである。"
   }
 ]
