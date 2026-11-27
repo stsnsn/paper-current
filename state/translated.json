@@ -345575,5 +345575,72 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "微生物コンソーシアム－酵素共発酵は、窒素代謝プロファイルおよびリグノセルロース組成を調節することにより、江湘興白酒蒸留粕のタンパク質品質とin vitroにおけるルーメン飼料価値を向上させる。",
     "abstract_ja": "はじめに江湘興白酒蒸留粕（JFDGS）は大量に生産されており、相当量の粗タンパク質（CP）を含有しているが、反芻動物用タンパク質飼料としての価値はタンパク質の品質によって制限されている。すなわち、必須アミノ酸プロファイルの不均衡、窒素の相当割合が結合または熱損傷していること、およびリグノセルロースマトリックスがカプセル化されたタンパク質へのアクセスを制限していることが挙げられる。方法本研究では、JFDGSを、Saccharomyces cerevisiae、Aspergillus oryzae、およびPhanerodontia chrysosporiumのコンソーシアム、ならびに多酵素調製物と窒素補給剤としての尿素および硫酸アンモニウムを用い、酸素制限条件下で13日間共発酵させた。結果真タンパク質（TP）、小ペプチド（SMP）、有機窒素（ON）、および酸可溶性タンパク質（ASP）は、それぞれ39.71%、80.40%、32.72%、64.25%増加し、総アミノ酸は24.53%増加して、よりバランスの取れたプロファイル（リシン対メチオニン比：0.94:1から1.51:1へ）を示した。対照的に、中性界面活性剤繊維（NDF）、酸性界面活性剤繊維（ADF）、および酸性界面活性剤リグニン（ADL）は、それぞれ17.74%、16.67%、9.80%減少した。Cornell Net Carbohydrate and Protein System（CNCPS）の枠組みにおいて、PA、PB1、およびPB2がCPの70.36%を占め、一方で利用不能なPC分画は33.06%減少した。乾物（DM）およびCPの有効ルーメン分解性は16.26%および27.01%増加し、それに伴いルーメン未分解タンパク質の腸管消化性も向上した。メタボロミクス解析により、複数のアミノ酸代謝経路の亢進が明らかとなり、ヒスチジン代謝がトリプトファンおよびアラニン/アスパラギン酸/グルタミン酸代謝と結びついたハブとして機能していることが示された。考察CP含有量ではなく窒素形態に基づいて飼料タンパク質の品質を定義することで、本研究はCNCPSの枠組みにおけるコンソーシアム酵素共発酵のより包括的な評価と、リグノセルロース副産物を反芻動物用タンパク質飼料として利用するための実現可能な戦略を提示するものである。"
+  },
+  {
+    "id": "10.3389/fmicb.2026.2006054",
+    "title": "Comparative evaluation of host responses to three antibiotic regimens in mice, with gut microbiota characterization of a selected regimen",
+    "abstract": "IntroductionAntibiotic exposure is a major driver of gut microbiota disruption, but outcomes vary with antibiotic composition, dose, and duration.MethodsTwenty-five female C57BL/6 mice received sterile water (Control), ampicillin (Amp), ampicillin–amoxicillin–gentamicin (Amox), or ampicillin–vancomycin–gentamicin (Van) in drinking water for 28 days. Disease Activity Index, histology, serum LPS (ELISA), and colonic Tjp1 and Ptgs2 expression (qRT-PCR) were measured. The Amox regimen was selected post hoc for 16S rRNA amplicon sequencing of feces. A replicate experiment (Control and Amox, n = 3 each) was run in separate cages.ResultsAll treated groups developed gastrointestinal alterations, including increased modified Disease Activity Index and cecal enlargement, while body weight and food intake remained stable. Amox samples showed lower alpha diversity and separated from Control by beta diversity, with dominance of Bacteroides and Parabacteroides. PICRUSt2-predicted pathways differed after correction for multiple testing. The replicate experiment reproduced the direction of the gut and microbial findings, but not the serum LPS difference.DiscussionWith one cage per group, small unbalanced cohorts, and a single terminal sampling point, the findings are descriptive. They provide an initial characterization of microbial restructuring associated with the Amox regimen.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.2006054",
+    "date": "2026-11-27",
+    "authors": "Sooyeon Song",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://www.frontiersin.org/articles/10.3389/fmicb.2026.2006054",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "microbial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.frontiersin.org/journals/microbiology/rss",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5828,
+    "collected_at": "2026-11-27T12:24:59.862227+00:00",
+    "collected_date": "2026-11-27",
+    "sources": [
+      "https://www.frontiersin.org/journals/microbiology/rss"
+    ],
+    "first_seen": "2026-11-27",
+    "related_dois": [
+      "10.3389/fmicb.2026.2006054"
+    ],
+    "translation": {
+      "title": {
+        "hash": "793158e5ba8d326ac6e48bf74a7b5425b6e80b44893e8ed9d7e17dd194486e28",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-27T13:00:05.349995+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7339b026db9bebec89c299303bb6d278add9d37ff2adce8d6d99d868aec3661a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-27T13:00:05.349995+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "マウスにおける3種類の抗生物質投与レジメンに対する宿主応答の比較評価、および選定したレジメンの腸内細菌叢の特性解析",
+    "abstract_ja": "はじめに抗生物質への曝露は腸内細菌叢の乱れの主要な要因であるが、その転帰は抗生物質の組成、用量、および投与期間によって異なる。方法25匹の雌C57BL/6マウスに、飲水を介して無菌水（対照群）、アンピシリン（Amp）、アンピシリン・アモキシシリン・ゲンタマイシン（Amox）、またはアンピシリン・バンコマイシン・ゲンタマイシン（Van）を28日間投与した。疾患活動性指数、組織学的所見、血清LPS（ELISA）、および結腸におけるTjp1およびPtgs2の発現（qRT-PCR）を測定した。糞便の16S rRNAアンプリコンシーケンシングのため、事後的にAmox投与群を選択した。別個のケージを用いて反復実験（対照群およびAmox群、各n = 3）を実施した。結果すべての投与群において、疾患活動性指数の上昇や盲腸の拡大を含む消化管の変化が認められた一方、体重および摂食量は安定していた。Amox投与群の検体ではα多様性が低下し、β多様性において対照群と乖離しており、Bacteroides属およびParabacteroides属が優位であった。多重検定補正後、PICRUSt2で予測されたパスウェイに差異が認められた。反復実験では、腸管および微生物学的所見の方向性は再現されたが、血清LPSの差異は再現されなかった。考察1群につき1ケージという構成、小規模で不均衡なコホート、および単一の末端サンプリング地点により、得られた知見は記述的なものである。これらは、Amox投与に伴う微生物叢の再構成に関する初期的な特性評価となるものである。"
   }
 ]
