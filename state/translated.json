@@ -344513,5 +344513,229 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ヒトレスピロウイルスおよびオルソラブラウイルスの世界的な進化と時空間的な伝播動態",
     "abstract_ja": "ヒトパラインフルエンザウイルス（HPIV）は反復的な流行を引き起こし、世界的に主要な入院原因となっている。しかし、HPIVの持続性を駆動する進化および伝播動態は依然として不明である。本研究では、ゲノムシーケンシングとベイズ系統動態推論を用いて、7カ国の4種類のHPIVを代表する1,161件のアーカイブサンプルを解析した。その結果、レスピロウイルス（HRV-1およびHRV-3）は遺伝的多様性の変動がより大きかった一方、オルソオルセラウイルス（HOV-2およびHOV-4）はより緩やかな変化を示した。進化速度は同程度であったにもかかわらず、これら4種類のHPIVは対照的な系統動態を示した。HRV-1は系統の持続期間が長期にわたり、HRV-3は系統交代がより激しく、HOV-2およびHOV-4は共流行する系統の数が少なかった。正の選択はレスピロウイルス、特にホスホタンパク質遺伝子においてより顕著であり、正の選択を受けた部位は予測されたヘマグルチニン-ノイラミニダーゼB細胞エピトープと重複していた。系統地理学的解析により、地域間の繰り返しの導入、双方向の伝播、および一部の系統における10年を超える地域的な持続性が明らかになった。これらの知見は、HPIVの持続性の根底にある異なる進化および伝播動態を特定するものであり、広範な防御能を有するワクチンや治療薬の開発に資するものである。"
+  },
+  {
+    "id": "10.64898/2026.11.26.769370",
+    "title": "A tricomponent mRNA pertussis vaccine elicits superior protective immunity over licensed acellular pertussis vaccine against emerging antibiotic-resistant variants",
+    "abstract": "Pertussis remains a major global health burden and has been resurging rapidly over the past decade. The causes of pertussis re-emergence are multifactorial, including vaccine-induced pathogen evolution, antimicrobial resistance, and crucially suboptimal protective immunity elicited by the widely used acellular pertussis vaccine (aPV). In this study, we developed a tricomponent mRNA pertussis vaccine formulated with lipid nanoparticle (LNP), designated mPervax, which encodes inactive pertussis toxin subunit 1 (PTS1), truncated filamentous hemagglutinin (FHA) and pertactin (PRN). Compared to a commercialized Tetanus-diptheria-pertussis vaccine Boostrix, mPervax induced stronger and broader innate immune activation, superior antigen-specific Th1-type CD4+ T and Tfh cell responses, and robust B. pertussis-specific antibody responses with remarkably increased magnitude and functionality. In addition, mPervax conferred an efficient maternal antibody-mediated protection in offspring mice and reshaped the immune profile established by primary Boostrix immunization towards a Th1-phenotype when used as a heterologous booster. Furthermore, upon bacterial challenge, mPervax outperformed Boostrix not only against the WHO reference strain 18323, but strikingly provided effective protection against emerging antibiotic-resistant clinical isolates that are deficient in PRN and/or FHA. Collectively, these data demonstrate that the mRNA pertussis vaccine is superior to Boostrix in multiple contexts, and therefore holds promise for next-generation pertussis vaccine development.",
+    "journal": "",
+    "doi": "10.64898/2026.11.26.769370",
+    "date": "2026-11-26",
+    "authors": "Zhang, W., Che, J., Wang, G., Wang, J., Qin, S., Dai, H., Ma, J., Meng, J., Shao, X., Guo, K., Di, Z., An, Q., Xiao, P., Zhuang, S., Gao, X., Yang, Y., Ma, X., Yuan, L., Zhang, M., Wang, L., Shao, Z., Lin, A.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.26.769370v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5817,
+    "collected_at": "2026-11-27T03:01:51.253867+00:00",
+    "collected_date": "2026-11-27",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-27",
+    "related_dois": [
+      "10.64898/2026.11.26.769370"
+    ],
+    "translation": {
+      "title": {
+        "hash": "03822daf90e43dfb98cc134230846f5de12d1fc416fb5185a248186bb1d3efa8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-27T03:26:10.495573+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d2abdf3f8b54ea0bb0e01eb309b9efc70a46a76cc88310a3ca505fa93160144d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-27T03:26:10.495573+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "3成分mRNA百日咳ワクチンは、出現しつつある抗生物質耐性変異株に対し、承認済みの無細胞百日咳ワクチンよりも優れた防御免疫を誘導する。",
+    "abstract_ja": "百日咳は依然として世界的な重大な健康課題であり、過去10年間で急速に再流行している。百日咳の再流行の原因は、ワクチン誘発性の病原体進化、薬剤耐性、そして極めて重要な点として、広く使用されている無細胞百日咳ワクチン（aPV）によって誘導される不十分な防御免疫など、多因子にわたる。本研究では、脂質ナノ粒子（LNP）を配合し、不活性型百日咳毒素サブユニット1（PTS1）、切断型フィラメントヘマグルチニン（FHA）、およびペルタクチン（PRN）をコードする3成分mRNA百日咳ワクチン「mPervax」を開発した。市販の破傷風・ジフテリア・百日咳ワクチンであるBoostrixと比較して、mPervaxはより強力かつ広範な自然免疫活性化、優れた抗原特異的Th1型CD4+ T細胞およびTfh細胞応答、ならびに著しく増強された強度と機能性を有する強固なB. pertussis特異的抗体応答を誘導した。さらに、mPervaxは仔マウスにおいて効率的な母体抗体介在性保護を付与し、異種ブースターとして用いた場合、一次Boostrix免疫によって確立された免疫プロファイルをTh1フェノタイプへとシフトさせた。加えて、細菌チャレンジにおいて、mPervaxはWHO参照株18323に対してBoostrixを上回る性能を示しただけでなく、PRNおよび/またはFHAを欠損する新興の薬剤耐性臨床分離株に対しても顕著に有効な保護効果を示した。総じて、これらのデータは、mRNA百日咳ワクチンが複数の側面においてBoostrixよりも優れていることを示しており、したがって次世代の百日咳ワクチン開発への有望な可能性を有している。"
+  },
+  {
+    "id": "10.64898/2026.11.23.768755",
+    "title": "Publicly Available Genomic Evidence for Nipah and Avian Influenza Viruses in Bangladesh: A Scoping Assessment of Metadata Completeness and Surveillance Representativeness at the Human-Animal Interface",
+    "abstract": "Bangladesh experiences recurrent Nipah virus (NiV) outbreaks and sustained avian influenza virus (AIV) activity. Whether public genomic records contain metadata needed to assess surveillance representativeness across hosts, locations, and time is unclear.We conducted a structured, source-based scoping assessment of publicly documented NiV and AIV genomic records from Bangladesh (2001-2025), drawing on NCBI GenBank/INSDC and cited peer-reviewed and public-health sources. A pilot registry contained 108 entries (55 NiV, 53 AIV). Metadata were retained only when explicitly reported; unverified fields were recorded as not extracted. The registry is not a complete census. Five analytical questions were prespecified; several could not be evaluated because accession-level metadata were unavailable. The 33-accession AIV set containing H5N1 and H3N8 was excluded from H5/H9-specific interpretation. In the pilot registry, 9/108 entries (8.3%) had explicitly reported host species; the separate host-implied category was not added. Twelve entries (11.1%) had a full collection date; 21 (19.4%) had any collection date. Eight entries (7.4%) had an explicit district. The registry lists 22 NiV accession identifiers from a 2026 study, whereas the publication reports 23 newly sequenced N-gene records; this remains unresolved. Eight AIV accessions (PV961349.1-PV961356.1) represent eight segments of one chicken H5N1 isolate, not eight genomes. Twelve MN994-series records are HA-gene sequences from environmental live-bird-market samples.The pilot registry demonstrates substantial metadata limitations. Explicit host information was available for 8.3% of entries and explicit district for 7.4%; these prevent reliable quantitative assessment of host, district-level, and temporal representativeness and do not establish absence of surveillance or viral circulation. Accession-level reconstruction with transparent verification tiers and harmonised identifiers is required before quantitative representativeness indices or district-level priorities can be calculated.",
+    "journal": "",
+    "doi": "10.64898/2026.11.23.768755",
+    "date": "2026-11-26",
+    "authors": "Hossen, M. N., Hossen, M. N., Uddin, M. S., Hossain, M. I., Naher, T.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.23.768755v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5818,
+    "collected_at": "2026-11-27T03:01:51.253867+00:00",
+    "collected_date": "2026-11-27",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-27",
+    "related_dois": [
+      "10.64898/2026.11.23.768755"
+    ],
+    "translation": {
+      "title": {
+        "hash": "45e9ff96dd8800a7c6b55b6312bdec05e703c9ae8b811fbad4302f93e2e3ffca",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-27T03:26:10.495573+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "3eec546e209aa3627322f44e720f021bd421d49bcbfe7a4d11096dcfeb4fed9f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-27T03:26:10.495573+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "バングラデシュにおけるニパおよび鳥インフルエンザウイルスの公開ゲノムエビデンス：人獣共通感染接点におけるメタデータの網羅性とサーベイランス代表性の範囲評価",
+    "abstract_ja": "バングラデシュでは、ニパウイルス（NiV）のアウトブレイクが繰り返し発生しており、鳥インフルエンザウイルス（AIV）の活動も持続している。公開ゲノム記録に、宿主、地域、および時間にわたるサーベイランスの代表性を評価するために必要なメタデータが含まれているかは不明である。我々は、NCBI GenBank/INSDCおよび引用された査読済み文献や公衆衛生関連資料を活用し、バングラデシュで公開されているNiVおよびAIVのゲノム記録（2001-2025年）について、構造化されたソースベースのスコーピング評価を実施した。パイロットレジストリには108件のエントリ（NiV 55件、AIV 53件）が含まれていた。メタデータは明示的に報告されている場合にのみ保持され、未検証のフィールドは抽出されなかった。このレジストリは完全なセンサスではない。5つの分析上の問いが事前に設定されていたが、アクセッションレベルのメタデータが利用できなかったため、そのうちいくつかは評価できなかった。H5N1およびH3N8を含む33アクセッションのAIVセットは、H5/H9固有の解釈から除外された。パイロットレジストリでは、108件中9件（8.3%）のエントリで宿主種が明示的に報告されていたが、別途設けられた宿主推定カテゴリーは追加されなかった。12件（11.1%）のエントリに完全な採取日があり、21件（19.4%）に何らかの採取日があった。8件（7.4%）のエントリに明示的な地区が記載されていた。レジストリには2026年の研究による22件のNiVアクセッション識別子が記載されているが、同論文では新たに配列決定されたN遺伝子記録が23件報告されており、この点は未解決のままである。8件のAIVアクセッション（PV961349.1-PV961356.1）は、8つのゲノムではなく、1つの鶏H5N1分離株の8つのセグメントを表している。12件のMN994シリーズの記録は、環境中の生きた鳥類市場サンプル由来のHA遺伝子配列である。パイロットレジストリは、メタデータの重大な限界を示している。明示的な宿主情報はエントリの8.3%で、明示的な地区情報は7.4%で利用可能であった。これらは、宿主、地区レベル、および時間的な代表性の信頼性の高い定量的評価を妨げるものであり、サーベイランスの欠如やウイルスの循環の有無を立証するものではない。定量的な代表性指標や地区レベルの優先順位を算出する前に、透明性のある検証階層と調和された識別子を用いたアクセッションレベルの再構築が必要である。"
+  },
+  {
+    "id": "10.64898/2026.11.25.769220",
+    "title": "Chromosome-scale genome assembly of multinucleate heterokaryotic Rhizoctonia solani AG1-IB",
+    "abstract": "Rhizoctonia solani AG1-IB is an economically important fungal pathogen of turfgrass and agricultural crops, yet available genome assemblies remain fragmented or represent collapsed or consensus sequences that obscure haplotype-specific variation, limiting investigations of genome evolution and heterokaryosis. Here, we present a chromosome-scale, haplotype-aware genome assembly of AG1-IB isolate S1W6 generated using Oxford Nanopore sequencing, Hi-C scaffolding, and short-read polishing. De novo assembly with PECAT produced two haplotype-aware nuclear genome assemblies, with BUSCO completeness greater than 96% and nuclear genome N50 values exceeding 2 Mb. Comparative analyses revealed substantial haplotype divergence, with over 600,000 SNPs and 80,000 indels between haplotypes with 97.75% average nucleotide identity separating assemblies. FastANI analyses showed comparable genetic divergence between Hap1 and Hap2 assemblies of S1W6 to that observed among independently collected AG1-IB isolates from different plant hosts and geographic regions. Despite extensive nucleotide variation, Gene Ontology profiles, predicted effector repertoires, carbohydrate-active enzymes, and biosynthetic gene cluster composition were conserved between assemblies. In contrast, homeodomain (HD) mating-type loci were variable. Hap2 contained four HD genes (W-HD1, W-HD2, E-HD1, and E-HD2), whereas Hap1 lacked E-HD1, and shared divergent HD amino acid sequences. A STE3 pheromone receptor gene on chromosome 15 was highly conserved in both haplotypes. This study provides the first chromosome-scale, haplotype-resolved genome resource for R. solani AG1-IB and demonstrates that heterokaryotic individuals can harbor genomic variation approaching the levels observed among genetically diverse isolates of AG1-IB. These findings highlight the importance of haplotype-aware assemblies for understanding genome evolution and mating-type diversity in heterokaryotic fungal plant pathogens.",
+    "journal": "",
+    "doi": "10.64898/2026.11.25.769220",
+    "date": "2026-11-26",
+    "authors": "Cooper, J. B., Carbone, M. A., Cubeta, M. A., White, J. B., Shah, R., Carbone, I.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.25.769220v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "assembly",
+        "average nucleotide identity",
+        "fungal",
+        "gene",
+        "genome",
+        "sequencing"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assemblies",
+          "assembly",
+          "evolution",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5819,
+    "collected_at": "2026-11-27T03:01:51.253867+00:00",
+    "collected_date": "2026-11-27",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-27",
+    "related_dois": [
+      "10.64898/2026.11.25.769220"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ca63e4f2a6e286cb21da2adcab89e871f70159ddc95dc96b6f3540befe701e3e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-27T03:26:10.495573+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e0baa0042f44f2a55cc6064a11d68c51c4bcd2ee1fa47444ae8d3aeeae4911e7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-27T03:26:10.495573+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "多核異核生物Rhizoctonia solani AG1-IBの染色体スケールのゲノムアセンブリ",
+    "abstract_ja": "Rhizoctonia solani AG1-IBは、芝草および農作物の経済的に重要な真菌病原体であるが、利用可能なゲノムアセンブリは依然として断片化されているか、あるいはハプロタイプ固有の変異を不明瞭にする崩壊した配列やコンセンサス配列であり、ゲノム進化や異核分裂の研究を制限している。本研究では、Oxford Nanoporeシーケンシング、Hi-Cスキャフォールディング、およびショートリードポリッシングを用いて作製した、AG1-IB分離株S1W6の染色体スケールかつハプロタイプ認識型のゲノムアセンブリを提示する。PECATを用いたde novoアセンブリにより、BUSCO完全性が96%を超え、核ゲノムN50値が2 Mbを超える2つのハプロタイプ認識型核ゲノムアセンブリが得られた。比較解析の結果、ハプロタイプ間に60万件以上のSNPと8万件のインデルが存在し、アセンブリ間の平均塩基同一性は97.75%に達するなど、顕著なハプロタイプ分岐が認められた。FastANI解析では、S1W6のHap1およびHap2アセンブリ間で、異なる植物宿主や地理的地域から独立して収集されたAG1-IB分離株間で観察されたものと同等の遺伝的分岐が示された。広範な塩基変異にもかかわらず、Gene Ontologyプロファイル、予測エフェクターレパートリー、糖活性酵素、および生合成遺伝子クラスター組成はアセンブリ間で保存されていた。対照的に、ホメオドメイン（HD）交配型遺伝子座は可変であった。Hap2は4つのHD遺伝子（W-HD1、W-HD2、E-HD1、E-HD2）を含んでいたのに対し、Hap1はE-HD1を欠き、分岐したHDアミノ酸配列を共有していた。第15染色体上のSTE3フェロモン受容体遺伝子は、両ハプロタイプ間で高度に保存されていた。本研究は、R. solani AG1-IBに関する初の染色体スケールかつハプロタイプ分解能を持つゲノムリソースを提供し、異核分裂個体が、遺伝的に多様なAG1-IB分離株間で観察されるレベルに近いゲノム変異を保持し得ることを示した。これらの知見は、異核分裂性真菌植物病原体におけるゲノム進化と交配型多様性を理解する上で、ハプロタイプ認識型アセンブリが重要であることを強調するものである。"
   }
 ]
