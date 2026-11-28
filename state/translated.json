@@ -346062,5 +346062,327 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "世界的な家畜ウイルスームカタログは、ウイルスとレジストーム構築を結びつけている。",
     "abstract_ja": "家畜糞尿は薬剤耐性（AMR）における主要なワンヘルス環境であるが、レジストーム構築におけるウイルスの寄与については依然として解明されていない。本研究では、4,017件のメタゲノムから再構築した1,330,372個のウイルス運用分類単位のグローバルカタログである家畜糞尿ウイルスデータベース（LMVD）をまとめた。家畜糞尿中のウイルス群集は生物地理学的分布が限定的であり、抗生物質の使用および農場規模がウイルス多様性に対する相対的な予測重要度において最も高い値を示した。ウイルスゲノムには78種類の抗生物質耐性遺伝子（ARG）サブタイプが含まれており、これは家畜糞尿におけるレジストーム多様性の9.1%を占めていたが、ウイルスがコードするARGは稀であった。一方、バクテリオファージは細菌宿主との広範な予測関連性を示し、ほぼすべての抗生物質耐性菌がウイルス（主に温帯ウイルス）と関連していたほか、病原性抗生物質耐性菌においてその濃縮が認められた。これらの知見を総合すると、直接的なARG拡散に対するウイルスの寄与に限界が設けられるとともに、耐性宿主との溶原性相互作用がAMRリスクを形成し得ることが示唆される。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC topics",
+        "query": "(((TITLE_ABS:microbial* OR TITLE_ABS:microbe* OR TITLE_ABS:microorganism* OR TITLE_ABS:bacteria* OR TITLE_ABS:bacterial* OR TITLE_ABS:archaea* OR TITLE_ABS:archaeal* OR TITLE_ABS:prokaryotic* OR TITLE_ABS:prokaryote* OR TITLE_ABS:fungal* OR TITLE_ABS:fungi* OR TITLE_ABS:yeast* OR TITLE_ABS:protist* OR TITLE_ABS:microalgae* OR TITLE_ABS:microalgal* OR TITLE_ABS:virus* OR TITLE_ABS:viral* OR TITLE_ABS:virome* OR TITLE_ABS:microbiome* OR TITLE_ABS:microbiota* OR TITLE_ABS:microbiology* OR TITLE_ABS:microbiological* OR TITLE_ABS:bacterium* OR TITLE_ABS:archaeon* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:metagenom* OR TITLE_ABS:metatranscriptom* OR TITLE_ABS:methanotroph* OR TITLE_ABS:methanogen* OR TITLE_ABS:phage* OR TITLE_ABS:bacteriophage* OR TITLE_ABS:diatom* OR TITLE_ABS:dinoflagellate* OR TITLE_ABS:cyanobacteria* OR TITLE_ABS:SAR11* OR TITLE_ABS:Pelagibacter* OR TITLE_ABS:Roseobacter* OR TITLE_ABS:Prochlorococcus* OR TITLE_ABS:Synechococcus* OR TITLE_ABS:Vibrio* OR TITLE_ABS:Pseudomonas* OR TITLE_ABS:Escherichia* OR TITLE_ABS:Bacillus* OR TITLE_ABS:Streptomyces* OR TITLE_ABS:Saccharomyces* OR TITLE_ABS:Candida* OR TITLE_ABS:Aspergillus* OR TITLE_ABS:Nitrosopumilus* OR TITLE_ABS:Nitrososphaera* OR TITLE_ABS:Trichodesmium* OR TITLE_ABS:Diatom* OR TITLE_ABS:Diatoms*) AND (TITLE_ABS:marine* OR TITLE_ABS:ocean* OR TITLE_ABS:aquatic* OR TITLE_ABS:freshwater* OR TITLE_ABS:seawater* OR TITLE_ABS:estuarine* OR TITLE_ABS:lake* OR TITLE_ABS:river* OR TITLE_ABS:plankton* OR TITLE_ABS:genome* OR TITLE_ABS:genomic* OR TITLE_ABS:metagenome* OR TITLE_ABS:metagenomic* OR TITLE_ABS:pangenome* OR TITLE_ABS:pangenomic* OR TITLE_ABS:phylogenomic* OR TITLE_ABS:assembly* OR TITLE_ABS:assemblies* OR TITLE_ABS:binning* OR TITLE_ABS:annotation* OR TITLE_ABS:phylogenetic* OR TITLE_ABS:phylogeny* OR TITLE_ABS:SAR11* OR TITLE_ABS:pelagibacter* OR TITLE_ABS:roseobacter* OR TITLE_ABS:bacterioplankton* OR TITLE_ABS:phytoplankton* OR TITLE_ABS:genom* OR TITLE_ABS:metagenom* OR TITLE_ABS:DNA* OR TITLE_ABS:evolution* OR TITLE_ABS:phylogen* OR TITLE_ABS:transcript* OR TITLE_ABS:pangenom*))) AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "target"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.3389/fmicb.2026.1943403",
+    "title": "Temporal enrichment of bacterial monoamine oxidase gene aboard the international space station and neuromodulator impacts of dopamine-driven ammonium formed by space isolate <i>Leifsonia virtsii</i> on <i>Caenorhabditis elegans</i>.",
+    "abstract": "Dopamine regulates neurological functions, whereas its deficiency is linked with cognitive impairment and neurodegenerative diseases. The spatiotemporal distribution of dopamine-degrading microbes and the implications of dopamine catabolites on eukaryotes remain unexplored. Here, we demonstrate dopamine metabolism in Leifsonia virtsii F6_8S_P_1AT, an Actinomycetes isolated from the crew quarters aboard the International Space Station (ISS), and reveal dopamine catabolite-driven modulation of cognition and chemotaxis in Caenorhabditis elegans. L. virtsii shared a high 16S rRNA gene sequence similarity (>97.9%) and OrthoANI values (79.44-84.96%) with the Leifsonia species, isolated from terrestrial and aquatic habitats. A key gene encoding monoamine oxidase (MAO) involved in dopamine catabolism was found in 61.5% of validly established Leifsonia species, including L. virtsii, but not in ISS co-isolate L. williamsii F6_8S_P_1BT. Analysis of the ISS metagenome revealed temporal enrichment of MAO-associated signatures across Microbial Tracking studies (MT1 to MT3, 2015-2022), driven predominantly by candidate MAO homologs taxonomically associated with Actinomycetota in MT3, whereas strong F6-8S-P-1A-like MAO signals were restricted to two MT2 libraries. Dopamine input stimulated MAO gene expression in L. virtsii at early growth phase, and was found to complement cell division, biofilm establishment and extracellular NH4 + formation in L. virtsii. MAO expression decreased with increasing time/NH4 + concentration, whereas expression of marker genes representing DNA synthesis and transcription (gyrB), translation (tuf) and biofilm formation (cslA) exhibited concurrent upregulation. Dopamine-driven NH4 + formation further altered cognition and chemotaxis in C. elegans. Our analysis suggests that the dopamine metabolic pathway detected in L. virtsii is not an ISS-specific trait and rather represents a phenotype retrieved from Earth. The present study provides direct evidence of spatiotemporal flexibility and heterogeneous dopamine-metabolizing capacity among Actinomycetes. The findings further demonstrate that a dopamine catabolite can modulate chemosensory interactions in a eukaryotic model and highlight the succession and persistence of MAO-bearing taxa aboard ISS.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1943403",
+    "date": "2026-10-23",
+    "authors": "Mayuri N, Dhanyashree HR, Shastry RP, Venkateswaran K, Miliotis G, Singh NK, Stothard P, Arun AB, Hameed A.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43032692",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13761221",
+    "pmid": "43032692",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "bacteria",
+        "bacterial",
+        "metagenom",
+        "metagenome",
+        "microbe",
+        "microbes",
+        "microbial"
+      ],
+      "context": {
+        "marine": [
+          "aquatic"
+        ],
+        "genomics": [
+          "DNA",
+          "metagenom",
+          "metagenome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 110,
+    "collected_at": "2026-11-28T06:26:54.002390+00:00",
+    "collected_date": "2026-11-28",
+    "sources": [
+      "Europe PMC topics"
+    ],
+    "first_seen": "2026-11-28",
+    "related_dois": [
+      "10.3389/fmicb.2026.1943403"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c80091147f931fb6779d7af9d920c3f898c41c8d8d6bb56af60c9ee9a0129b03",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T07:02:09.904526+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7cdade25a85fc3ebc9118195c617648ac132fadd5588fad1323f17c21d54108b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T07:02:09.904526+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "国際宇宙ステーションにおける細菌モノアミン酸化酵素遺伝子の経時的濃縮と、宇宙分離株<i>Leifsonia virtsii</i>によって形成されたドーパミン駆動性アンモニウムが<i>Caenorhabditis elegans</i>に及ぼす神経調節作用。",
+    "abstract_ja": "ドーパミンは神経機能を調節するが、その欠乏は認知機能障害や神経変性疾患に関連している。ドーパミン分解微生物の時空間的分布、およびドーパミン異化産物が真核生物に及ぼす影響については、未だ解明されていない。本研究では、国際宇宙ステーション（ISS）の乗組員居住区から単離された放線菌の一種であるLeifsonia virtsii F6_8S_P_1ATにおけるドーパミン代謝を実証し、C. elegansにおけるドーパミン異化産物による認知機能および走化性の調節を明らかにした。L. virtsiiは、陸上および水圏の生息地から単離されたLeifsonia属の種と高い16S rRNA遺伝子配列類似性（>97.9%）およびOrthoANI値（79.44-84.96%）を示した。ドーパミン異化に関与するモノアミン酸化酵素（MAO）をコードする主要遺伝子は、L. virtsiiを含む有効に確立されたLeifsonia属の種の61.5%で認められたが、ISS共分離株であるL. williamsii F6_8S_P_1BTでは認められなかった。ISSメタゲノムの解析により、微生物トラッキング研究（MT1～MT3、2015-2022年）を通じてMAO関連シグネチャーの経時的な濃縮が認められ、これは主にMT3において分類学的に放線菌門（Actinomycetota）に関連付けられたMAOホモログ候補によるものであった。一方、強力なF6-8S-P-1A様MAOシグナルは2つのMT2ライブラリに限定されていた。ドーパミンの供給は、L. virtsiiの初期増殖期においてMAO遺伝子発現を刺激し、細胞分裂、バイオフィルム形成、および細胞外NH4+形成を補完することが認められた。MAO発現は時間およびNH4+濃度の増加に伴い減少したが、DNA合成・転写（gyrB）、翻訳（tuf）、およびバイオフィルム形成（cslA）を表すマーカー遺伝子の発現は同時に亢進した。ドーパミン誘導性のNH4+形成は、C. elegansにおける認知機能および走化性をさらに変化させた。本解析は、L. virtsiiで検出されたドーパミン代謝経路がISS特有の形質ではなく、むしろ地球由来の表現型であることを示唆している。本研究は、放線菌における時空間的な柔軟性と不均一なドーパミン代謝能の直接的な証拠を提供する。さらに、これらの知見は、ドーパミン異化産物が真核生物モデルにおいて化学感覚相互作用を調節し得ることを実証し、ISSにおけるMAO保有分類群の連続性と持続性を浮き彫りにしている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1099/ijsem.0.007362",
+    "title": "Characterization of <i>Aurantiacibacter pelagicola</i> sp. nov., isolated from coastal seawater.",
+    "abstract": "An alphaproteobacterial strain, named KMU-128T, was obtained from a coastal seawater sample taken in South Korea and analysed using taxonogenomic methods. Cells were dark yellow-coloured, rod-shaped, Gram-stain-negative, facultatively anaerobic and non-motile. Strain KMU-128T could grow at 1.0-4.0% NaCl concentrations (wt/v), pH 6.0-9.0 and 4-45 °C. Molecular phylogenetic analysis based on 16S rRNA gene sequences demonstrated that strain KMU-128ᵀ clustered within the genus Aurantiacibacter in the class Alphaproteobacteria and was closely associated with Aurantiacibacter arachoides RC4-10-4ᵀ, showing 97.6% sequence identity. The sole respiratory quinone was ubiquinone-10, and the polar lipids comprised phosphatidylethanolamine, phosphatidylglycerol, diphosphatidylglycerol, phosphatidylcholine, an unidentified sphingoglycolipid, an unidentified aminolipid and two unidentified lipids. The predominant fatty acids (>10% of the total) were C17 : 1  ω6c, C17 : 0 and C18 : 1  ω7c. Strain KMU-128ᵀ had a genome size of 3.0 Mb and a DNA G+C content of 62.5%. The average nucleotide identity, average amino acid identity and percentage of conserved proteins values between the genome of strain KMU-128ᵀ and those of other members of the genus Aurantiacibacter were 74.0-76.5%, 71.1-77.5% and 51.2-75.5%, respectively. The digital DNA-DNA hybridization value between strain KMU-128ᵀ and A. arachoides RC4-10-4ᵀ was 19.4%. The taxonogenomic data obtained in the present report demonstrated that strain KMU-128T represents a novel species of the genus Aurantiacibacter, for which the name Aurantiacibacter pelagicola sp. nov. is proposed. The type strain is KMU-128T (=KCCM 90496T=NBRC 117544T).",
+    "journal": "International Journal of Systematic and Evolutionary Microbiology",
+    "doi": "10.1099/ijsem.0.007362",
+    "date": "2026-11-01",
+    "authors": "Yoon J, Oh JH.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43084426",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43084426",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna"
+      ],
+      "context": {
+        "marine": [
+          "seawater"
+        ],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 123,
+    "collected_at": "2026-11-28T06:26:54.002390+00:00",
+    "collected_date": "2026-11-28",
+    "sources": [
+      "Europe PMC genome methods"
+    ],
+    "first_seen": "2026-11-28",
+    "related_dois": [
+      "10.1099/ijsem.0.007362"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a058a49004a6f900b5eca996792a6e1465a32ed588468fbafe35dbf0873130d8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T07:02:09.904526+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "a8a2032f2d8f08c2b3aa24a976860a2186b7512d044b2e4c2beff2b8425e3ee0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T07:02:09.904526+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "沿岸海水から分離された<i>Aurantiacibacter pelagicola</i> sp. nov.の特性解析",
+    "abstract_ja": "韓国で採取された沿岸海域の海水試料から、KMU-128Tと命名されたアルファプロテオバクテリア株を分離し、タクソノゲノミクス手法を用いて解析した。細胞は暗黄色で桿状、グラム染色陰性、通性嫌気性かつ非運動性であった。KMU-128T株は、1.0～4.0% NaCl濃度（wt/v）、pH 6.0～9.0、および4～45°Cの条件下で増殖可能であった。16S rRNA遺伝子配列に基づく分子系統解析の結果、KMU-128T株はアルファプロテオバクテリア綱のAurantiacibacter属にクラスターを形成し、Aurantiacibacter arachoides RC4-10-40と密接に関連しており、97.6%の配列同一性を示した。唯一の呼吸キノンはユビキノン-10であり、極性脂質はホスファチジルエタノールアミン、ホスファチジルグリセロール、ジホスファチジルグリセロール、ホスファチジルコリン、未同定のスフィンゴ糖脂質、未同定のアミノ脂質、および2種類の未同定脂質から構成されていた。主要な脂肪酸（全量の10%超）は、C17:1 ω6c、C17:0、およびC18:1 ω7cであった。KMU-128T株のゲノムサイズは3.0 Mbであり、DNA G+C含量は62.5%であった。KMU-128T株のゲノムとAurantiacibacter属の他種のゲノムとの間における平均ヌクレオチド同一性、平均アミノ酸同一性、および保存タンパク質の割合は、それぞれ74.0～76.5%、71.1～77.5%、および51.2～75.5%であった。KMU-128T株とA. arachoides RC4-10-40との間のデジタルDNA-DNAハイブリダイゼーション値は19.4%であった。本報告で得られたタクソノゲノミクスデータは、KMU-128T株がAurantiacibacter属の新種であることを示しており、Aurantiacibacter pelagicola sp. nov.という名称を提案する。タイプ株はKMU-128T (=KCCM 90496T=NBRC 117544T)である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 4",
+        "query": "(JOURNAL:\"Infection and Immunity\" OR JOURNAL:\"Antimicrobial Agents and Chemotherapy\" OR JOURNAL:\"Journal of Clinical Microbiology\" OR JOURNAL:\"Microbiology Resource Announcements\" OR JOURNAL:\"Nature\" OR JOURNAL:\"Nature Microbiology\" OR JOURNAL:\"Nature Ecology & Evolution\" OR JOURNAL:\"Nature Communications\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "editorial"
+    ],
+    "id": "10.1128/mra.01095-26",
+    "title": "Peer-reviewed bioinformatic resources foster accessibility, transparency, reproducibility, and rigor in the microbial sciences.",
+    "abstract": "The Databases, Software Tools, and Web-based Services special issue of Microbiology Resource Announcements features announcements that foster transparent, open, rigorous, and reproducible practices in the microbial sciences. These resources span the microbial sources and the three types of bioinformatic resources sought in the call for submissions. By publishing in Microbiology Resource Announcements, developers improve the discoverability and utility of their bioinformatic resources. Furthermore, it provides them with an opportunity to be credited for their work developing the resource. It also signals to the community that the resource is intended for broader use. The bioinformatic resources announced in this special issue fit alongside the other types of resources more commonly published in the journal and serve as useful companions to research articles published across ASM's journals portfolio. Looking forward, the journal continues to seek submissions that continue the strong momentum created by the announcements included in this special issue.",
+    "journal": "Microbiology Resource Announcements",
+    "doi": "10.1128/mra.01095-26",
+    "date": "2026-10-22",
+    "authors": "Schloss PD.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42911095",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13757495",
+    "pmid": "42911095",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial",
+        "microbiology"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 182,
+    "collected_at": "2026-11-28T06:26:54.002390+00:00",
+    "collected_date": "2026-11-28",
+    "sources": [
+      "Europe PMC journals 4"
+    ],
+    "first_seen": "2026-11-28",
+    "related_dois": [
+      "10.1128/mra.01095-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "90f34f44e54ec2cf50ab44f118ed1ab6213d4a2d8c0c04796453b0cba24fd1f7",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T07:02:09.904526+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "edda971b2db6f4c563cd2a7e6e890cad0465b45a265a56c66ff4444cf2df0308",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T07:02:09.904526+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "査読付きバイオインフォマティクスリソースは、微生物科学におけるアクセシビリティ、透明性、再現性、および厳密性を促進する。",
+    "abstract_ja": "『Microbiology Resource Announcements』の特集号「データベース、ソフトウェアツール、およびウェブベースサービス」では、微生物科学における透明性、開放性、厳密性、および再現性の高い実践を促進する発表を掲載している。これらのリソースは、微生物由来のソース、および投稿募集で求められている3種類のバイオインフォマティクス・リソースを網羅している。『Microbiology Resource Announcements』に掲載することで、開発者は自身のバイオインフォマティクス・リソースの発見可能性と有用性を高めることができる。さらに、リソース開発における自身の功績が認められる機会も得られる。また、そのリソースがより広範な利用を目的としていることをコミュニティに示すことにもなる。本特集号で発表されるバイオインフォマティクス・リソースは、本誌でより一般的に公開されている他の種類のリソースと調和しており、ASMのジャーナル・ポートフォリオ全体で発表される研究論文を補完する有用な資料となる。今後も、本誌は本特集号に掲載された発表によって創出された力強い機運をさらに発展させる投稿を引き続き募集していく。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 4",
+        "query": "(JOURNAL:\"Infection and Immunity\" OR JOURNAL:\"Antimicrobial Agents and Chemotherapy\" OR JOURNAL:\"Journal of Clinical Microbiology\" OR JOURNAL:\"Microbiology Resource Announcements\" OR JOURNAL:\"Nature\" OR JOURNAL:\"Nature Microbiology\" OR JOURNAL:\"Nature Ecology & Evolution\" OR JOURNAL:\"Nature Communications\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "brief-report",
+      "journal article"
+    ],
+    "id": "10.1128/mra.00857-26",
+    "title": "Draft genome sequence of the mucoralean fungus <i>Syncephalastrum contaminatum</i> strain 142427, isolated from a human sputum specimen.",
+    "abstract": "Syncephalastrum contaminatum is a recently described mucoralean fungus with limited genome representation. We report the 26.77 Mb draft genome of strain 142427, isolated from the sputum of a female patient with a lung infection in China. This clinical-source genome supports comparative studies of Syncephalastraceae.",
+    "journal": "Microbiology Resource Announcements",
+    "doi": "10.1128/mra.00857-26",
+    "date": "2026-10-22",
+    "authors": "Feng Y, Wen H, Guo X, Liu X.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42910939",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13757438",
+    "pmid": "42910939",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 183,
+    "collected_at": "2026-11-28T06:26:54.002390+00:00",
+    "collected_date": "2026-11-28",
+    "sources": [
+      "Europe PMC journals 4"
+    ],
+    "first_seen": "2026-11-28",
+    "related_dois": [
+      "10.1128/mra.00857-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "83289522da5413df1eb7515ff8c1e38f634579a0950f28ef6f7b99cee5d07a67",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T07:02:09.904526+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "53fd88c2b61047a572778dcce023a5040655839c7009481917a72fc64ca3c624",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T07:02:09.904526+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ヒト喀痰検体から分離された粘液層真菌<i>Syncephalastrum contaminatum</i>株142427のドラフトゲノム配列。",
+    "abstract_ja": "Syncephalastrum contaminatumは、ゲノム配列が限定的な、近年記載された粘膜真菌である。本報では、中国の肺感染症女性患者の喀痰から分離された株142427の26.77 Mbドラフトゲノムを報告する。この臨床由来ゲノムは、Syncephalastraceae属の比較研究を裏付けるものである。"
   }
 ]
