@@ -349331,5 +349331,87 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "重症妊娠高血圧腎症における潜在的赤血球・ミトコンドリア転写産物勾配のデコンボリューションとテクニカルサンプル構造：公開胎盤RNA-Seqデータセットのための層別感度フレームワーク",
     "abstract_ja": "背景：バルク胎盤トランスクリプトームプロファイリングは、重症妊娠高血圧腎症（sPE）の分子病態を解明し、多様な母体集団における臨床バイオマーカーを同定するために広く導入されてきた。しかし、ヒト胎盤組織は著しい細胞不均一性と血管灌流の変動性を示す。公開リポジトリにおいて、未測定の技術的処理構造や赤芽球系・栄養膜細胞の組成勾配が臨床表現型と共変する場合、標準的な差異遺伝子発現（DGE）パイプラインは、深刻な偽発見のインフレーションや、祖先系統特異的なバイオマーカーの根拠のない主張を招くリスクがある。\n\n方法：我々は、公開NCBI Gene Expression OmnibusデータセットGSE234729（123列にわたる14,670個のフィルタリング済みDESeq2正規化特徴量）を再評価するため、多層的なトランスクリプトーム監査、分散分割診断、および層化置換フレームワークを開発・適用した。未検証のクロスシリーズ列12列（GSE186257に関連）を除外した厳格なプロベナンス検証を経て、検証済みの胎盤トランスクリプトーム111件（アフリカ、アジア、欧州の母体祖先系統にわたるsPE 43件および正常血圧対照群68件）を解析した。発現値は、ロバストな経験的ベイズ線形モデリング（limma; ~ group + ancestry + fetal sex）を用いてlog2(E+1)スケールでモデル化し、標準的な経験的ベイズ実装、主成分分散分解、赤芽球系およびミトコンドリア遺伝子セットスコアリング、コクランQ不均一性検定を用いた層化固定効果逆分散メタ解析、および1,000回反復の構造保存モンテカルロ置換スキームとベンチマーク評価を行った。\n\n結果：標準的な一次モデリングでは、ベンジャミニ・ホッホバーグ偽発見率（FDR）0.39で5,667個の差異発現特徴量が同定された。対照的に、推定される心血管リスクバイオマーカーIL3RAは、一次関連性がゼロ（-0.07 log2単位; 95% CI: -0.51～0.36; P = 0.74; ゲノムワイド順位 13,299/14,670）であり、層間で代数符号が反転し（非P群で+0.77、P群で-0.54; 不均一性 P = 0.003）、ゲノムワイドな祖先系統間相互作用検定でも不合格となった（FDR {approx} 1.0）。\n\n結論：GSE234729における見かけ上のゲノムワイドな差異発現のほぼ3分の2は、臨床群、母体祖先系統、および潜在的な赤芽球系・ミトコンドリアサンプル構造の間の顕著な共線性によって再現可能である。中核的な抗血管新生性妊娠高血圧腎症経路（FLT1, LEP, ENG, PAPPA2, FSTL3, PHYHIP, PPP1R1C）はこの交絡要因に対して頑健であるが、IL3RAについて以前に強調された関連性は統計的に脆弱であり、モデル化されていない層間不均一性によって人為的に誘導されたものである。我々は、公開胎盤トランスクリプトームから臨床バイオマーカーを同定する前に、赤芽球系混入診断、識別子構造スクリーニング、および構造保存置換検定を必須とする、実用的なバイオインフォマティクス監査プロトコルを確立する。"
+  },
+  {
+    "id": "10.64898/2026.11.27.769811",
+    "title": "Bellinger River Virus 2: The Emergence of a Second Novel Pathogenic Nidovirus in Bellinger River Snapping Turtles (Myuchelys georgesi)",
+    "abstract": "In 2015 a major population decline in the critically endangered Bellinger River snapping turtle (Myuchelys georgesi; New South Wales, Australia) was attributed to the circulation of the serpentovirus Bellinger River virus (BRV). A decade later, we report the identification of a second novel serpentovirus in wild Bellinger River snapping turtles, herein referred to as Bellinger River virus 2 (BRV2), that is also associated with mortalities and further population impacts. Ocular and lacrimal gland lesions were consistent across disease events, although tissue tropism and distribution of internal gross and microscopic lesions varied between BRV and BRV2 infections. We employed a metatranscriptomic approach to identify and characterise BRV2. Phylogenetic analysis revealed that BRV and BRV2 form a distinct Bellinger River virus clade within the subfamily Serpentovirinae (family Tobaniviridae, order Nidovirales). However, given the extent of sequence divergence between the original BRV detected in 2015 and BRV2, which exhibit ~70% nucleotide identity across the full viral genome, we propose that BRV2 did not emerge directly from BRV during the period of outbreak observation and instead arose from a recent cross-species transmission (spillover) event within the Bellinger River ecosystem. The emergence of BRV2 in M. georgesi suggests that Bellinger River viruses remain an ongoing threat to the conservation of the species and emphasises the need for continued effort in the biotic and abiotic surveillance of the river and its wildlife. Such surveillance may also aid in improving our understanding of the origins, transmission, and drivers of serpentovirus emergence within the river ecosystem.",
+    "journal": "",
+    "doi": "10.64898/2026.11.27.769811",
+    "date": "2026-11-27",
+    "authors": "Lim, L., Lang, B. J., Rieken, J., Parrish, K., Hall, J., Rose, K., Holmes, E. C.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.27.769811v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metatranscriptom",
+        "metatranscriptomic",
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [
+          "river"
+        ],
+        "genomics": [
+          "genom",
+          "genome",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5901,
+    "collected_at": "2026-11-28T13:08:24.513490+00:00",
+    "collected_date": "2026-11-28",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-28",
+    "related_dois": [
+      "10.64898/2026.11.27.769811"
+    ],
+    "translation": {
+      "title": {
+        "hash": "439121ae414508e0ffa9d6e746b3f2a9bc415073de82127de6e3ccf56b533475",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T13:49:13.769191+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c2bbada904f95269e1fc8abd4019169b68e3c72f653d09752aea85440c04a8a1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T13:49:13.769191+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ベリンジャー川ウイルス2：ベリンジャー川カミツキガメ（Myuchelys georgesi）における第2の新規病原性ニドウイルスの出現",
+    "abstract_ja": "2015年、絶滅危惧IA類に指定されているベリンジャー川スナッピングタートル（Myuchelys georgesi；オーストラリア、ニューサウスウェールズ州）において大規模な個体数減少が発生し、その原因はサーペントウイルスであるベリンジャー川ウイルス（BRV）の循環に起因するとされた。それから10年後、我々は野生のベリンジャー川スナッピングタートルにおいて、同様に死亡例やさらなる個体数への影響を伴う2種類目の新規サーペントウイルス（以下、ベリンジャー川ウイルス2［BRV2］と呼ぶ）を同定したことを報告する。眼および涙腺の病変は疾患発生例間で一貫していたが、組織指向性ならびに内部の肉眼的・顕微鏡的病変の分布は、BRV感染とBRV2感染の間で異なっていた。我々はメタトランスクリプトーム解析手法を用いてBRV2の同定および特性解析を行った。系統解析の結果、BRVとBRV2はサーペントウイルス亜科（Serpentovirinae）（トバニウイルス科 Tobaniviridae、ニドウイルス目 Nidovirales）内において、独立したベリンジャー川ウイルスクレードを形成することが明らかになった。しかし、2015年に検出されたオリジナルのBRVとBRV2との間で、ウイルスゲノム全体で約70%の塩基同一性を示すほどの配列分岐が認められたことから、我々は、BRV2がアウトブレイクの観察期間中にBRVから直接出現したのではなく、ベリンジャー川の生態系内で最近発生した種間伝播（スピルオーバー）事象によって生じたものであることを提唱する。M. georgesiにおけるBRV2の出現は、ベリンジャー川ウイルスが依然として本種の保全に対する継続的な脅威であることを示唆しており、河川およびその野生生物に対する生物的・非生物的サーベイランスの継続的な取り組みの必要性を強調するものである。このようなサーベイランスは、河川生態系内におけるサーペントウイルスの起源、伝播、および出現要因に関する理解を深める一助となる可能性がある。"
   }
 ]
