@@ -347281,5 +347281,305 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ペルシャ／アラビア湾産の造礁サンゴ Cyphastrea microphthalma のゲノム配列",
     "abstract_ja": "ペルシア・アラビア湾南部産のサンゴ種Cyphastrea microphthalma（刺胞動物門；花虫綱；六放サンゴ綱；硬骨サンゴ綱；メルリヌス科）のゲノムアセンブリを提示する。本アセンブリのサイズは681.2 Mbであり、5,554個のスキャフォールドに及び、コンティグN50は244.4 kbである。metazoa_odb10リファレンスセット（n = 954）を用いたところ、本アセンブリのBUSCO完全性は94.1%（単一 = 85.1%、重複 = 9%、断片化 = 1.6%、欠損 = 4.3%）であった。ゲノムアノテーションにより、24,716個のタンパク質符号化遺伝子（擬似遺伝子10個を含む）が同定され、63.4%という高いリピート含有量が認められた。ミトコンドリアゲノムについてもアセンブリが行われており、その長さは17.9 kbである。"
+  },
+  {
+    "id": "10.64898/2026.11.25.769053",
+    "title": "A Framework for Identifying Determinants of Epigenomic State: Decoding Variable CTCF Occupancy and Contact Frequency",
+    "abstract": "CTCF binding is essential for delineating topologically associated domains, constraining enhancer-promoter interactions, and controlling gene expression. Many CTCF peaks are bound in all cell-types, but the mechanisms regulating cell-type-specific CTCF occupancy are not fully understood. Here, we present a general framework to comprehensively discover factors driving variable epigenomic state and TF occupancy. We apply this framework to CTCF ChIP-seq binding across hundreds of cell/tissues, and we identify five distinct mechanisms regulating CTCF occupancy. In addition to known mechanisms of DNA methylation and cell-type-specific TF co-binding, we find that the largest set of variable-occupancy sites is modulated by CTCF expression levels. Variable peaks have weaker-affinity, and their occupancy is modulated by either higher CTCF levels or flanking TFs. We evaluate the predictive power on CTCF occupancy in held-out samples. Finally, we show that variable CTCF binding predicts differential contact frequency, chromatin loop structure, and upregulation of gene expression.",
+    "journal": "",
+    "doi": "10.64898/2026.11.25.769053",
+    "date": "2026-11-27",
+    "authors": "Yang, Y., Beer, M. A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.25.769053v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "epigenomic",
+        "framework",
+        "gene"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5891,
+    "collected_at": "2026-11-28T06:37:06.960330+00:00",
+    "collected_date": "2026-11-28",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-28",
+    "related_dois": [
+      "10.64898/2026.11.25.769053"
+    ],
+    "translation": {
+      "title": {
+        "hash": "09e4b61358d09523bc916263ae68d00a862e6bd878f8a614eef20ee6b788c156",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T07:14:36.466569+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2e57efd99d10ce097a82742f43b4a7bffb8dd97228a45e5c76ed73ce0674cff5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T07:14:36.466569+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "エピゲノム状態の決定因子同定のためのフレームワーク：可変CTCF占有率と接触頻度の解読",
+    "abstract_ja": "CTCF結合は、トポロジカルに関連付けられたドメインの画定、エンハンサー-プロモーター相互作用の制約、および遺伝子発現の制御に不可欠である。多くのCTCFピークはすべての細胞種で結合しているが、細胞種特異的なCTCF占有を制御するメカニズムは完全には解明されていない。本研究では、可変エピゲノム状態およびTF占有を駆動する因子を網羅的に探索するための汎用的なフレームワークを提示する。このフレームワークを数百種類の細胞/組織におけるCTCF ChIP-seq結合に適用し、CTCF占有を制御する5つの異なるメカニズムを同定した。既知のDNAメチル化および細胞種特異的なTF共結合のメカニズムに加え、可変占有部位の最大のセットがCTCF発現レベルによって調節されていることを見出した。可変ピークは親和性がより低く、その占有はCTCFレベルの上昇または隣接するTFによって調節される。ホールドアウトサンプルにおけるCTCF占有の予測能を評価する。最後に、可変CTCF結合が、接触頻度の差異、クロマチンループ構造、および遺伝子発現の亢進を予測することを示す。"
+  },
+  {
+    "id": "10.64898/2026.11.24.768824",
+    "title": "A Comparative Metagenomic Analysis of the Viral Diversity in Faecal Samples from Malnourished and Non-malnourished Children with Gastroenteritis Admitted at Victoria Mxenge Hospital in Durban, KwaZulu-Natal, South Africa",
+    "abstract": "Viral gastroenteritis and malnutrition remain major health burdens among children under five in South Africa. Malnourished children are particularly vulnerable to prolonged enteric viral infections, yet their gut virome remains poorly characterised in South Africa. This study compared gut virome diversity among malnourished and non-malnourished children with gastroenteritis, and children without gastroenteritis and malnutrition (healthy controls). This retrospective laboratory-based continuation study analysed 69 faecal samples from age-matched children aged 0- 36 months at Victoria Mxenge Hospital across three cohorts: malnourished children with gastroenteritis, non-malnourished children with gastroenteritis, and healthy controls. Viral metagenomic sequencing was performed using Illumina NextSeq 2000, followed by bioinformatic analyses. Virome profiling identified 39 viral families, 71 genera, and 243 species. Of the total sequenced reads, 60.4% were classified comprising 91.0% mapped to bacteria, 6.4% to viruses, and 2.6% to human host and other microorganisms. Eukaryotic viral reads were highest among non-malnourished children with gastroenteritis (37.2%), followed by healthy controls (32.3%) and malnourished children with gastroenteritis (30.5%). Detected enteric viral families included, Sedoreoviridae, Caliciviridae, Picornaviridae, Astroviridae, and Adenoviridae, with Sedoreoviridae being predominant. Multiple co-detections of enteric viruses were observed. Significant cohorts differences occurred in viral diversity (p = 0.0038) and abundance (p = 0.0001), but not in evenness (p = 0.146) and richness (p = 0.0896). This study revealed differences in faecal virome composition across cohorts and provides baseline genomic data for viral surveillance. The findings highlight the importance of vaccination, nutritional and preventive strategies to curb infant mortality associated with gastroenteritis and malnutrition in South Africa.",
+    "journal": "",
+    "doi": "10.64898/2026.11.24.768824",
+    "date": "2026-11-27",
+    "authors": "Eyong, M. M., Mogotsi, M. T., Sondlane, H., Ogunbayo, A. E., Nwokorogu, V. C., Mabaso, N. G., Esona, M. D., Shaik, N., Naidoo, K. L., Sabiu, S., Nyaga, M. M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.24.768824v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "metagenom",
+        "metagenomic",
+        "microorganism",
+        "microorganisms",
+        "viral",
+        "virome",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic",
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5892,
+    "collected_at": "2026-11-28T06:37:06.960330+00:00",
+    "collected_date": "2026-11-28",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-28",
+    "related_dois": [
+      "10.64898/2026.11.24.768824"
+    ],
+    "translation": {
+      "title": {
+        "hash": "c37359d396640d0aef5b3b832f7bae2d2c7e3db93ab9e02d882f93c3739c067d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T07:14:36.466569+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f07edc945d59a95540c2fd9857a347dd8cca3de30cc95f737d786f870402980a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T07:14:36.466569+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "南アフリカ、クワズール・ナタール州ダーバンのビクトリア・ムセンゲ病院に入院した胃腸炎の栄養不良児および非栄養不良児の糞便検体におけるウイルス多様性の比較メタゲノム解析",
+    "abstract_ja": "南アフリカにおいて、ウイルス性胃腸炎および栄養不良は、5歳未満の小児における主要な健康上の負担であり続けている。栄養不良の小児は、長期化する腸管ウイルス感染症に対して特に脆弱であるが、南アフリカにおける小児の腸内ウイルス叢（virome）の特性解析は十分に行われていない。本研究では、胃腸炎を有する栄養不良児および非栄養不良児と、胃腸炎および栄養不良のない小児（健常対照群）との間で、腸内ウイルス叢の多様性を比較した。この後方視的研究室ベースの継続研究では、ビクトリア・ムセンゲ病院において、0～36か月の年齢を一致させた3つのコホート（胃腸炎を有する栄養不良児、胃腸炎を有する非栄養不良児、および健常対照群）から採取した69検体の糞便サンプルを解析した。Illumina NextSeq 2000を用いてウイルスメタゲノムシーケンシングを行い、続いてバイオインフォマティクス解析を実施した。ウイルス叢プロファイリングにより、39のウイルスファミリー、71の属、および243種が同定された。シーケンシングされた全リードのうち、60.4%が分類され、そのうち91.0%が細菌に、6.4%がウイルスに、2.6%がヒト宿主およびその他の微生物にマッピングされた。真核生物ウイルスリードの割合は、胃腸炎を有する非栄養不良児で最も高く（37.2%）、次いで健常対照群（32.3%）、胃腸炎を有する栄養不良児（30.5%）の順であった。検出された腸管ウイルスファミリーには、Sedoreoviridae、Caliciviridae、Picornaviridae、Astroviridae、およびAdenoviridaeが含まれ、Sedoreoviridaeが優位であった。腸管ウイルスの複数共検出が認められた。ウイルス多様性（p = 0.0038）および存在量（p = 0.0001）において有意なコホート間差が認められたが、均一性（p = 0.146）および豊富性（p = 0.0896）においては差が認められなかった。本研究は、コホート間で糞便ウイルス叢の組成に差異があることを明らかにし、ウイルスサーベイランスのためのベースラインゲノムデータを提供するものである。これらの知見は、南アフリカにおける胃腸炎および栄養不良に関連する乳児死亡を抑制するための、ワクチン接種、栄養管理、および予防戦略の重要性を強調するものである。"
+  },
+  {
+    "id": "10.64898/2026.11.25.769167",
+    "title": "Genomic insertion sequence populations of an ancient chemosynthetic symbiont",
+    "abstract": "Genetic isolation as a consequence of host restriction of bacterial symbionts can lead to reductive genome evolution resulting in small, functionally streamlined genomes that are biased toward high AT contents. Frequently, reductive genome evolution leads to the loss of transposable elements, which are one of the major initial drivers of symbiont genome evolution through massive expansion events following initial host restriction. Under specific circumstances, where host-restricted bacteria continue to experience genetic mixing, transposable elements are retained in and, in some cases, introduced to symbiont genomes, even in ancient symbioses. Very little is known about these transposable element populations, regarding density, diversity, and activity as well as their influence on symbiont evolution and physiology. Here, we explored genomic population dynamics of insertion sequence (IS) elements, a type of transposable element, in 647 genomes of the chemosynthetic Gammaproteobacteria symbiont Candidatus Thiosymbion from three distantly related marine invertebrate hosts. We observed host-group specific patterns of genomic properties, likely reflective of symbiont genome evolution driven by varying degrees of genetic isolation due to differences in symbiont localization (ecto- to endosymbiont). We found that Thiosymbion genomes had highly diverse and dynamic IS populations, which varied by both symbiont localization and symbiont lineage with instances of clade-specific gain, loss, and expansion of certain IS families. Combined, our results suggest that variable IS expansion in Thiosymbion likely contributes to high intraspecific variability in genome structure.",
+    "journal": "",
+    "doi": "10.64898/2026.11.25.769167",
+    "date": "2026-11-27",
+    "authors": "Mathieson, O. L., Schröder, N. C. H., Mankowski, A., Kiefer, J. S. T., Leisch, N., Maier, J. L., Erseus, C., Huettel, B., Ott, J., Scharhauser, F., Dubilier, N., Gruber-Vodicka, H. R., Kleiner, M.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.25.769167v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5893,
+    "collected_at": "2026-11-28T06:37:06.960330+00:00",
+    "collected_date": "2026-11-28",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-28",
+    "related_dois": [
+      "10.64898/2026.11.25.769167"
+    ],
+    "translation": {
+      "title": {
+        "hash": "480a345e84f1d6ce9448e43098c9ab4d677e3138bf99fafdd7ef8251b438b0b1",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T07:14:36.466569+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "81083613cb6a48f9b63b87ed43954795a442a475513caf9a8f541a356936a565",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T07:14:36.466569+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "古代化学合成共生体のゲノム挿入配列集団",
+    "abstract_ja": "細菌共生体の宿主制限の結果として生じる遺伝的隔離は、還元的ゲノム進化を引き起こし、その結果、AT含有量が高い傾向にある、小型で機能的に合理化されたゲノムが形成される。多くの場合、還元的ゲノム進化は転移因子の喪失をもたらすが、転移因子は、初期の宿主制限に続く大規模な拡大事象を通じて共生体ゲノム進化を駆動する主要な初期要因の一つである。宿主制限を受けた細菌が遺伝的混合を経験し続ける特定の状況下では、極めて古い共生関係においても、転移因子は共生体ゲノム内に保持され、場合によっては導入される。これらの転移因子集団の密度、多様性、活性、および共生体の進化や生理機能への影響については、ほとんど解明されていない。本研究では、遠縁の3種の海洋無脊椎動物宿主由来の化学合成細菌ガンマプロテオバクテリア共生体Candidatus Thiosymbionの647ゲノムを対象に、転移因子の一種である挿入配列（IS）因子のゲノム集団動態を調査した。我々は、共生体の局在（外共生体から内共生体）の違いによる遺伝的隔離の程度の差異に起因する、共生体ゲノム進化を反映していると考えられる、宿主群特異的なゲノム特性のパターンを観察した。その結果、Thiosymbionのゲノムには極めて多様かつ動的なIS集団が存在し、それが共生体の局在および系統の両方によって異なり、特定のISファミリーにおいてクレード特異的な獲得、喪失、および拡大が見られることが判明した。以上の結果を総合すると、ThiosymbionにおけるISの変動的な拡大が、ゲノム構造の高い種内変動に寄与している可能性が高いことが示唆される。"
+  },
+  {
+    "id": "10.64898/2026.11.25.769148",
+    "title": "A sequence context-unbiased approach to enable precise inference of mutational processes in cancer.",
+    "abstract": "Mutational signatures are recurring patterns of somatic mutations observed in cancer genomes, resulting from the activity of endogenous and exogenous mutagenic processes. Their investigation has significantly advanced our understanding of cancer etiology, informing prevention strategies and supporting clinical stratification. Although analytical approaches facilitate the identification of mutational signatures, their biological interpretation can be challenging, as some signatures may reflect methodological artifacts rather than distinct underlying mutational processes. Conventional mutational signatures inference frameworks generally assume that mutational opportunities are uniformly distributed across the genome and comparable across cancer types. However, mutable DNA motifs are not evenly distributed throughout the genome and their accessibility to DNA repair machinery is influenced by local chromatin states. To address these limitations, we developed SEQUENCE (SEQuence context Ubiased InferENCE of mutational signaturEs), a method that accounts for the heterogeneous nucleotide composition by generating weighted mutation catalogues, in which each mutation is adjusted for the local availability of its respective sequence context. By using SEQUENCE-generated mutation matrices as input for SigProfilerExtractor, a conventional framework for mutational signature extraction, we demonstrate that our approach mitigates biases arising from cell-type specific and locally varying mutational rates across the genome. Furthermore, the latent local information encoded in the weights enables the disentanglement of co-occurring mutational processes targeting the same sequence context and refines the mutational spectra of previously described mutational signatures. Mutational signatures characterised by relatively flat mutational spectra are notoriously difficult to extract. Here, using clinically relevant mutational signatures, we demonstrate that SEQUENCE can improve patient stratification according to their response to adjuvant chemotherapy. Together, these findings highlight sequence context unbiased mutational signature inference as a promising new framework for revisiting current reference signatures, providing deeper insight into their underlying origins and facilitating their translation into cancer prevention and clinical application.",
+    "journal": "",
+    "doi": "10.64898/2026.11.25.769148",
+    "date": "2026-11-27",
+    "authors": "Bierth, F. A.-L., Pizzolato, G., Mueller, C., Valiulis, J., Seiffert, M., Beleggia, F., Pacholewska, A., Schweiger, M. R., Radke, M. R., Swisher, E., Fischer, M., George, J., Thomas, R. K., Haensel-Hertsch, R., Peifer, M., Abedpour, N., Cartolano, M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.25.769148v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene",
+        "inference",
+        "method",
+        "nucleotide",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5894,
+    "collected_at": "2026-11-28T06:37:06.960330+00:00",
+    "collected_date": "2026-11-28",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-28",
+    "related_dois": [
+      "10.64898/2026.11.25.769148"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d6cd58c0bd66d3b824160e9b9af6aeb47090b5ffc70071aae8964732f47f0380",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T07:14:36.466569+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "07c863971297ebf504fadcc0ca83aec4043ade5c4da3d746e4f8c53815219f6b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T07:14:36.466569+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "がんにおける変異プロセスの精密な推論を可能にする、配列コンテキスト非依存型アプローチ。",
+    "abstract_ja": "変異シグネチャーとは、内因性および外因性の変異原性プロセスの活性によって生じ、がんゲノムにおいて観察される体細胞変異の反復的なパターンである。これらの解析は、がんの病因に関する理解を大幅に進展させ、予防戦略への知見を提供し、臨床的層別化を支援してきた。解析的手法は変異シグネチャーの同定を容易にする一方で、一部のシグネチャーは明確な基礎的変異プロセスではなく、方法論的なアーティファクトを反映している可能性があるため、その生物学的解釈は困難な場合がある。従来の変異シグネチャー推論フレームワークでは一般に、変異の機会がゲノム全体に一様に分布し、がん種間で同等であると想定されている。しかし、可変的なDNAモチーフはゲノム全体に均等に分布しているわけではなく、DNA修復機構による利用可能性は局所的なクロマチン状態の影響を受ける。これらの限界に対処するため、我々は、各変異をそれぞれの配列コンテキストの局所的な利用可能性に応じて調整した重み付き変異カタログを生成することで、不均一なヌクレオチド組成を考慮した手法であるSEQUENCE（SEQuence context Ubiased InferENCE of mutational signature）を開発した。SEQUENCEで生成された変異行列を、変異シグネチャー抽出の従来フレームワークであるSigProfilerExtractorの入力として用いることで、本アプローチが、細胞種特異的かつゲノム全体で局所的に変動する変異率に起因するバイアスを軽減することを実証した。さらに、重みに符号化された潜在的な局所情報により、同一の配列コンテキストを標的とする共起する変異プロセスの分離が可能となり、既報の変異シグネチャーの変異スペクトルが精緻化された。比較的平坦な変異スペクトルを特徴とする変異シグネチャーの抽出は極めて困難であることで知られている。本研究では、臨床的に意義のある変異シグネチャーを用い、SEQUENCEが補助化学療法への反応に応じて患者の層別化を改善できることを実証した。これらの知見を総合すると、配列コンテキストにバイアスのない変異シグネチャー推論は、現在のリファレンスシグネチャーを再検討するための有望な新フレームワークであり、その根底にある起源へのより深い洞察を提供し、がん予防および臨床応用への展開を促進するものである。"
   }
 ]
