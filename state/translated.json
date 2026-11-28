@@ -347794,5 +347794,310 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "sequence-to-functionモデルのベンチマーク評価とE2GScoreを用いたエンハンサー遺伝子相互作用のマッピング",
     "abstract_ja": "配列から機能へのモデルは、DNA配列から直接遺伝子発現およびクロマチン特性を予測し、エンハンサー-遺伝子間の調節相互作用を推定するためにますます活用されている。しかし、帰属手法やベンチマークデータセットの違いがモデル間の比較を困難にしており、エンハンサー-遺伝子スコアによって捉えられる生物学的情報については依然として十分に解明されていない。本研究では、配列から機能へのモデルからエンハンサー-遺伝子予測を抽出・ベンチマークするための統一的なフレームワークであるE2GScoreを提案する。スコアリングプロトコルを系統的に変化させることで、遺伝子リードアウトの正規化および細胞種に適合した発現トラックが性能の重要な決定要因であることを明らかにした。一方で、in silico変異導入法は、計算負荷の低い入力勾配法に対して優位性を示さなかった。我々は、7つの配列から機能へのモデルと3つの確立されたエンハンサー-遺伝子予測モデルを、K562細胞およびヒト初代アストロサイトにおけるCRISPR干渉スクリーニングと比較した。AlphaGenome 1および2は他のすべての配列から機能へのモデルを上回り、特に遠位エンハンサーにおいて、実験的知見に基づく予測モデルと同等またはそれ以上の性能を示した。また、多重検定補正後においても、AlphaGenomeの各バージョン間に統計的に有意な差は認められなかった。さらに、モデル間で観察されたK562細胞に対するアストロサイトでの予測性能の見かけ上の低下は、主にベンチマークデータセットの構成、特にエンハンサー-TSS距離および標的遺伝子発現の差異に起因することを示した。次に、オープンウェイトのAlphaGenome 1を用いて、454のヒト生体試料にわたる147億件のエンハンサー-遺伝子帰属スコアからなるゲノムワイドなエンハンサー-遺伝子調節リソースであるE2GMapを構築した。これらのスコアの45%は、ENCODE-rE2GやAlphaGenome 2などの既存のエンハンサー-遺伝子マップには含まれていない。E2GMapはe2gscore.comで利用可能である。E2GScoreとE2GMapを併せて用いることで、配列に基づくエンハンサー-遺伝子予測の厳密な評価のためのフレームワークが確立され、ヒトの細胞種および組織にわたる遺伝子調節を研究するための拡張可能なリソースが提供される。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "article-commentary",
+      "comment",
+      "journal article"
+    ],
+    "id": "10.1128/aem.01581-26",
+    "title": "Advancing NTM research with citizen science.",
+    "abstract": "Nontuberculous mycobacteria (NTM) is a generic term for the >200 species of environmental mycobacteria. NTM are ubiquitous, but there is extensive variation in the distribution of individual species. In a recent article published in Applied and Environmental Microbiology, Wilsey et al. describe how community-based citizen science efforts helped map the distribution of NTM in Hawai'i (R. N. Wilsey, L.-H. Ding, S. N. Dawrs, C. K. Raulerson, et al., Appl Environ Microbiol 92:e00269-26, 2026, https://doi.org/10.1128/aem.00269-26). Mycobacterium chimaera, an opportunistic pathogen and the leading cause of NTM pulmonary disease in Hawai'i, was among the most common species isolated.",
+    "journal": "Applied and Environmental Microbiology",
+    "doi": "10.1128/aem.01581-26",
+    "date": "2026-10-29",
+    "authors": "Alexander DC.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42954467",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13780292",
+    "pmid": "42954467",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbiology"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 395,
+    "collected_at": "2026-11-28T12:58:14.797353+00:00",
+    "collected_date": "2026-11-28",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-28",
+    "related_dois": [
+      "10.1128/aem.01581-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6bd8e8ed3ee499b4ec8ccca0646ed94e7348c581aa3d26a342010ed26f83ff5b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T13:29:41.866312+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "62d776008f004fc28f877ee227244f9d48def87e8f513cd3989756e0176ccb86",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T13:29:41.866312+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "市民科学によるNTM研究の推進。",
+    "abstract_ja": "非結核性抗酸菌（NTM）は、200種を超える環境中抗酸菌の総称である。NTMは遍在しているが、個々の種の分布には大きなばらつきがある。『Applied and Environmental Microbiology』誌に掲載された最近の論文において、Wilseyらは、コミュニティベースの市民科学活動がハワイにおけるNTMの分布図作成にどのように寄与したかを述べている（R. N. Wilsey, L.-H. Ding, S. N. Dawrs, C. K. Raulerson, et al., Appl Environ Microbiol 92:e00269-26, 2026, https://doi.org/10.1128/aem.00269-26）。日和見病原体であり、ハワイにおけるNTM肺疾患の主要な原因であるMycobacterium chimaeraは、分離された種の中で最も頻度の高い種の一つであった。"
+  },
+  {
+    "id": "10.1111/1462-2920.70503",
+    "title": "Comparative Genomics of Pelagicoccaceae Reveals Metabolic Streamlining and Host Adaptation in Saccharina japonica Endophyte Laminariicoccus flavus gen. nov., sp. nov.",
+    "abstract": "A novel kelp endophyte, Laminariicoccus flavus gen. nov., sp. nov., was characterized and pan‐family comparative genomics revealed four distinct evolutionary clades within Pelagicoccaceae. Furthermore, L. flavus relies on targeted genomic streamlining for host adaptation, providing a critical eco‐evolutionary model for understanding macroalgae‐associated microbial colonization.\n\nABSTRACT\nMarine macroalgae offer dynamic microhabitats that drive the adaptive evolution of associated microbiomes. However, the ecophysiological strategies of many uncultivated lineages remain elusive. Here, we isolated a novel bacterial endophyte, strain TC32T, from the surface‐sterilized tissue of the brown alga Saccharina japonica. Polyphasic taxonomy and phylogenomics delineate it as Laminariicoccus flavus gen. nov., sp. nov. within Pelagicoccaceae. Pan‐family comparative genomics revealed four evolutionary clades differing in carbohydrate metabolism, respiratory chains and secondary metabolic potential. Within this framework, L. flavus exemplifies a specialized host‐associated strategy. Rather than maintaining broad metabolic plasticity, the strain displayed a genomic pattern of targeted metabolic streamlining, characterized by the absence of complete canonical gluconeogenesis and beta‐oxidation modules. While possessing genomic potential for glycolysis and galactose degradation, phenotypic assays demonstrated glycogen utilization and selective carbohydrate oxidation. Strain TC32T also grew under the tested microaerobic conditions but not under strictly anaerobic conditions. Consistent with growth under reduced oxygen availability, its genome retains a high‐affinity cbb3‐type cytochrome c oxidase, together with bidirectional proline and polyamine synthesis cascades and distinctive secondary metabolite clusters. Characterizing L. flavus expands the cultivable diversity of Pelagicoccaceae while providing an eco‐evolutionary model for understanding how macroalgae‐associated bacteria colonize complex host niches through metabolic reconfiguration.\n\nA novel kelp endophyte, Laminariicoccus flavus gen. nov., sp. nov., was characterized and pan-family comparative genomics revealed four distinct evolutionary clades within Pelagicoccaceae. Furthermore, L. flavus relies on targeted genomic streamlining for host adaptation, providing a critical eco-evolutionary model for understanding macroalgae-associated microbial colonization.\n\nABSTRACT\nMarine macroalgae offer dynamic microhabitats that drive the adaptive evolution of associated microbiomes. However, the ecophysiological strategies of many uncultivated lineages remain elusive. Here, we isolated a novel bacterial endophyte, strain TC32T, from the surface-sterilized tissue of the brown alga Saccharina japonica. Polyphasic taxonomy and phylogenomics delineate it as Laminariicoccus flavus gen. nov., sp. nov. within Pelagicoccaceae. Pan-family comparative genomics revealed four evolutionary clades differing in carbohydrate metabolism, respiratory chains and secondary metabolic potential. Within this framework, L. flavus exemplifies a specialized host-associated strategy. Rather than maintaining broad metabolic plasticity, the strain displayed a genomic pattern of targeted metabolic streamlining, characterized by the absence of complete canonical gluconeogenesis and beta-oxidation modules. While possessing genomic potential for glycolysis and galactose degradation, phenotypic assays demonstrated glycogen utilization and selective carbohydrate oxidation. Strain TC32T also grew under the tested microaerobic conditions but not under strictly anaerobic conditions. Consistent with growth under reduced oxygen availability, its genome retains a high-affinity cbb3-type cytochrome c oxidase, together with bidirectional proline and polyamine synthesis cascades and distinctive secondary metabolite clusters. Characterizing L. flavus expands the cultivable diversity of Pelagicoccaceae while providing an eco-evolutionary model for understanding how macroalgae-associated bacteria colonize complex host niches through metabolic reconfiguration.",
+    "journal": "Environmental Microbiology",
+    "doi": "10.1111/1462-2920.70503",
+    "date": "2026-11-27",
+    "authors": "Jingyao Wang, \nYuzhu Li, \nTingran Zhang, \nYuqi Ye, \nXinyun Tan, \nFan Li, \nPengjie Zhang, \nXiaoqian Yu, \nLuyang Li, \nZongjun Du, \nMengqi Ye",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.70503?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "microbial",
+        "microbiome",
+        "microbiomes"
+      ],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenomic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://onlinelibrary.wiley.com/feed/14622920/most-recent",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5896,
+    "collected_at": "2026-11-28T13:08:24.513490+00:00",
+    "collected_date": "2026-11-28",
+    "sources": [
+      "https://onlinelibrary.wiley.com/feed/14622920/most-recent"
+    ],
+    "first_seen": "2026-11-28",
+    "related_dois": [
+      "10.1111/1462-2920.70503"
+    ],
+    "translation": {
+      "title": {
+        "hash": "24707d1f8d8ca7faf71e8b399dff67f0096bae03e3c055521a4b9a4b621169df",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T13:29:41.866312+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "b9992158e9c66f4a1aef207e42912865ce774c0367cf73e878a6397d063f533b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T13:29:41.866312+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ペラギコッカ科の比較ゲノミクスにより明らかになったSaccharina japonica内生菌Laminariicoccus flavus gen. nov., sp. nov.における代謝の効率化と宿主適応",
+    "abstract_ja": "新規の海藻内生菌であるLaminariicoccus flavus gen. nov., sp. nov.の特性解析を行い、汎科比較ゲノミクスによりPelagicoccaceae科内に4つの明確な進化系統群が存在することが明らかとなった。さらに、L. flavusは宿主適応のために標的を絞ったゲノム効率化に依存しており、大型藻類に関連する微生物定着を理解するための重要な生態進化モデルを提供する。\n\n要旨\n海洋大型藻類は、関連する微生物叢の適応進化を促進する動的な微小生息環境を提供する。しかし、未培養の多くの系統における生態生理学的戦略は依然として解明されていない。本研究では、褐藻Saccharina japonicaの表面滅菌組織から、新規の細菌内生菌である株TC32Tを単離した。多相分類学および系統ゲノミクスにより、本菌はPelagicoccaceae科内のLaminariicoccus flavus gen. nov., sp. nov.として同定された。汎科比較ゲノミクスにより、炭水化物代謝、呼吸鎖、および二次代謝能において異なる4つの進化系統群が明らかになった。この枠組みにおいて、L. flavusは特化した宿主関連戦略の典型例である。広範な代謝可塑性を維持するのではなく、本株は標的を絞った代謝効率化のゲノムパターンを示し、完全な正準糖新生およびβ酸化モジュールを欠いていることが特徴であった。解糖系およびガラクトース分解のゲノム能を有しながらも、表現型アッセイではグリコーゲン利用と選択的な炭水化物酸化が認められた。また、株TC32Tは試験した微小好気条件下では生育したが、厳密な嫌気条件下では生育しなかった。酸素供給量減少下での生育と一致して、そのゲノムには高親和性のcbb3型シトクロムcオキシダーゼとともに、双方向のプロリンおよびポリアミン合成カスケード、および特徴的な二次代謝物クラスターが保持されている。L. flavusの特性解析は、Pelagicoccaceae科の培養可能な多様性を拡大させるとともに、大型藻類に関連する細菌が代謝再構成を通じていかにして複雑な宿主ニッチに定着するかを理解する上での生態進化モデルを提供する。\n\n新規の海藻内生菌であるLaminariicoccus flavus gen. nov., sp. nov.の特性解析を行い、汎科比較ゲノミクスによりPelagicoccaceae科内に4つの明確な進化系統群が存在することが明らかとなった。さらに、L. flavusは宿主適応のために標的を絞ったゲノム効率化に依存しており、大型藻類に関連する微生物定着を理解するための重要な生態進化モデルを提供する。\n\n要旨\n海洋大型藻類は、関連する微生物叢の適応進化を促進する動的な微小生息環境を提供する。しかし、未培養の多くの系統における生態生理学的戦略は依然として解明されていない。本研究では、褐藻Saccharina japonicaの表面滅菌組織から、新規の細菌内生菌である株TC32Tを単離した。多相分類学および系統ゲノミクスにより、本菌はPelagicoccaceae科内のLaminariicoccus flavus gen. nov., sp. nov.として同定された。汎科比較ゲノミクスにより、炭水化物代謝、呼吸鎖、および二次代謝能において異なる4つの進化系統群が明らかになった。この枠組みにおいて、L. flavusは特化した宿主関連戦略の典型例である。広範な代謝可塑性を維持するのではなく、本株は標的を絞った代謝効率化のゲノムパターンを示し、完全な正準糖新生およびβ酸化モジュールを欠いていることが特徴であった。解糖系およびガラクトース分解のゲノム能を有しながらも、表現型アッセイではグリコーゲン利用と選択的な炭水化物酸化が認められた。また、株TC32Tは試験した微小好気条件下では生育したが、厳密な嫌気条件下では生育しなかった。酸素供給量減少下での生育と一致して、そのゲノムには高親和性のcbb3型シトクロムcオキシダーゼとともに、双方向のプロリンおよびポリアミン合成カスケード、および特徴的な二次代謝物クラスターが保持されている。L. flavusの特性解析は、Pelagicoccaceae科の培養可能な多様性を拡大させるとともに、大型藻類に関連する細菌が代謝再構成を通じていかにして複雑な宿主ニッチに定着するかを理解する上での生態進化モデルを提供する。"
+  },
+  {
+    "id": "10.1111/1758-2229.70474",
+    "title": "Differential Removal of Tartrazine and Ponceau 4R by the Ligninolytic Fungus Trametes villosa: Roles of Biosorption, Laccase Activity and Residual Phytotoxicity",
+    "abstract": "Trametes villosa CMPUJ H122 decolourized 82.6% of Tartrazine and over 96.6% of Ponceau 4R under selected screening conditions; biosorption contributed strongly to Tartrazine removal, while viable biomass enhanced Ponceau 4R removal. However, residual phytotoxicity in treated Ponceau 4R mixtures shows that decolourization does not guarantee environmental safety.\n\nABSTRACT\nFood azo dyes in industrial effluents motivate biological treatment approaches that can operate near ambient temperature and may reduce demand for externally supplied oxidants. This study established a baseline assessment for Tartrazine and Ponceau 4R decolourization by Trametes villosa CMPUJ H122 using Plackett–Burman screening, biomass viability comparisons, laccase assays, spectroscopy and seed germination tests. At initial pH 4.5, selected treatments achieved 82.6% ± 1.1% Tartrazine decolourization (5 mg L−1, 36 h) and 96.6% ± 0.3% Ponceau 4R decolourization (50 mg L−1, 6 h). Glucose and CuSO4 concentrations were 1.0 g L−1 and 0.5 mM for Tartrazine and 0.5 g L−1 and 1.0 mM for Ponceau 4R. In 72 h assays, heat‐inactivated biomass removed more Tartrazine than viable biomass, supporting biosorption. Greater Ponceau 4R removal by viable biomass suggested a possible metabolic contribution. UV/Vis and FT‐IR measurements did not establish degradation pathways. Undiluted treated Ponceau 4R retained phytotoxicity toward Lactuca sativa and Raphanus sativus, potentially associated with residual dye, uncharacterized transformation products or medium components; individual contributions remain unsolved. Germination improved upon dilution, which does not demonstrate treatment‐induced detoxification. These findings identify isolate‐specific treatment responses and analytical priorities for subsequent process development.\n\nTrametes villosa CMPUJ H122 decolourized 82.6% of Tartrazine and over 96.6% of Ponceau 4R under selected screening conditions; biosorption contributed strongly to Tartrazine removal, while viable biomass enhanced Ponceau 4R removal. However, residual phytotoxicity in treated Ponceau 4R mixtures shows that decolourization does not guarantee environmental safety.\n\nABSTRACT\nFood azo dyes in industrial effluents motivate biological treatment approaches that can operate near ambient temperature and may reduce demand for externally supplied oxidants. This study established a baseline assessment for Tartrazine and Ponceau 4R decolourization by Trametes villosa CMPUJ H122 using Plackett–Burman screening, biomass viability comparisons, laccase assays, spectroscopy and seed germination tests. At initial pH 4.5, selected treatments achieved 82.6% ± 1.1% Tartrazine decolourization (5 mg L−1, 36 h) and 96.6% ± 0.3% Ponceau 4R decolourization (50 mg L−1, 6 h). Glucose and CuSO4 concentrations were 1.0 g L−1 and 0.5 mM for Tartrazine and 0.5 g L−1 and 1.0 mM for Ponceau 4R. In 72 h assays, heat-inactivated biomass removed more Tartrazine than viable biomass, supporting biosorption. Greater Ponceau 4R removal by viable biomass suggested a possible metabolic contribution. UV/Vis and FT-IR measurements did not establish degradation pathways. Undiluted treated Ponceau 4R retained phytotoxicity toward Lactuca sativa and Raphanus sativus, potentially associated with residual dye, uncharacterized transformation products or medium components; individual contributions remain unsolved. Germination improved upon dilution, which does not demonstrate treatment-induced detoxification. These findings identify isolate-specific treatment responses and analytical priorities for subsequent process development.",
+    "journal": "Environmental Microbiology Reports",
+    "doi": "10.1111/1758-2229.70474",
+    "date": "2026-11-28",
+    "authors": "Leidy Diana Ardila‐Leal, \nGabriela Garzón‐Jirón, \nSofia Godoy‐Enciso, \nMelanny Pachón‐Urrea, \nMayra Alexandra Garzón‐González, \nMaryam Chaib De Mares, \nAura M. Pedroza‐Rodríguez, \nClaudia M. Rivera‐Hoyos",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1758-2229.70474?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://onlinelibrary.wiley.com/feed/17582229/most-recent",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5905,
+    "collected_at": "2026-11-28T13:08:24.513490+00:00",
+    "collected_date": "2026-11-28",
+    "sources": [
+      "https://onlinelibrary.wiley.com/feed/17582229/most-recent"
+    ],
+    "first_seen": "2026-11-28",
+    "related_dois": [
+      "10.1111/1758-2229.70474"
+    ],
+    "translation": {
+      "title": {
+        "hash": "f721924b0206637a7e812788a8b894f275927e9da2ab2a212320d1196020b7e2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T13:29:41.866312+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5b8f52c75d515742575086a3c8b31daa99e5b9ca7253e6b22b937c7e5401363e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T13:29:41.866312+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "リグニン分解菌Trametes villosaによるタートラジンおよびポンソー4Rの差異的除去：生物吸着、ラッカーゼ活性および残留植物毒性の役割",
+    "abstract_ja": "Trametes villosa CMPUJ H122は、選定したスクリーニング条件下において、タートラジンの82.6%およびポンソー4Rの96.6%超を脱色した。バイオ吸着がタートラジンの除去に強く寄与した一方、生存可能なバイオマスがポンソー4Rの除去を促進した。しかし、処理済みポンソー4R混合物における残留植物毒性は、脱色が環境安全性を保証するものではないことを示している。\n\n要旨\n工業廃水に含まれる食品用アゾ染料は、周囲温度付近で作用し、外部から供給される酸化剤の需要を低減し得る生物学的処理手法の導入を促している。本研究では、プラケット・バーマン・スクリーニング、バイオマス生存能の比較、ラッカーゼアッセイ、分光分析、および種子発芽試験を用いて、Trametes villosa CMPUJ H122によるタートラジンおよびポンソー4Rの脱色に関するベースライン評価を確立した。初期pH 4.5において、選定した処理法により、タートラジンの脱色率は82.6% ± 1.1%（5 mg L−1, 36 h）、ポンソー4Rの脱色率は96.6% ± 0.3%（50 mg L−1, 6 h）を達成した。グルコースおよびCuSO4濃度は、タートラジンで1.0 g L−1および0.5 mM、ポンソー4Rで0.5 g L−1および1.0 mMであった。72 hのアッセイにおいて、熱不活化バイオマスは生存可能バイオマスよりも多くのタートラジンを除去し、バイオ吸着が支持された。生存可能バイオマスによるポンソー4Rの除去量が多かったことは、代謝的な寄与の可能性を示唆していた。UV/VisおよびFT-IR測定では、分解経路は特定されなかった。未希釈の処理済みポンソー4Rは、Lactuca sativaおよびRaphanus sativusに対して植物毒性を保持しており、これは残留染料、未同定の変換生成物、または培地成分に関連している可能性があり、個々の寄与については未解明のままである。発芽は希釈によって改善したが、これは処理による解毒を示すものではない。これらの知見は、分離株固有の処理反応および後続のプロセス開発における分析上の優先事項を明らかにするものである。\n\nTrametes villosa CMPUJ H122は、選定したスクリーニング条件下において、タートラジンの82.6%およびポンソー4Rの96.6%超を脱色した。バイオ吸着がタートラジンの除去に強く寄与した一方、生存可能なバイオマスがポンソー4Rの除去を促進した。しかし、処理済みポンソー4R混合物における残留植物毒性は、脱色が環境安全性を保証するものではないことを示している。\n\n要旨\n工業廃水に含まれる食品用アゾ染料は、周囲温度付近で作用し、外部から供給される酸化剤の需要を低減し得る生物学的処理手法の導入を促している。本研究では、プラケット・バーマン・スクリーニング、バイオマス生存能の比較、ラッカーゼアッセイ、分光分析、および種子発芽試験を用いて、Trametes villosa CMPUJ H122によるタートラジンおよびポンソー4Rの脱色に関するベースライン評価を確立した。初期pH 4.5において、選定した処理法により、タートラジンの脱色率は82.6% ± 1.1%（5 mg L−1, 36 h）、ポンソー4Rの脱色率は96.6% ± 0.3%（50 mg L−1, 6 h）を達成した。グルコースおよびCuSO4濃度は、タートラジンで1.0 g L−1および0.5 mM、ポンソー4Rで0.5 g L−1および1.0 mMであった。72 hのアッセイにおいて、熱不活化バイオマスは生存可能バイオマスよりも多くのタートラジンを除去し、バイオ吸着が支持された。生存可能バイオマスによるポンソー4Rの除去量が多かったことは、代謝的な寄与の可能性を示唆していた。UV/VisおよびFT-IR測定では、分解経路は特定されなかった。未希釈の処理済みポンソー4Rは、Lactuca sativaおよびRaphanus sativusに対して植物毒性を保持しており、これは残留染料、未同定の変換生成物、または培地成分に関連している可能性があり、個々の寄与については未解明のままである。発芽は希釈によって改善したが、これは処理による解毒を示すものではない。これらの知見は、分離株固有の処理反応および後続のプロセス開発における分析上の優先事項を明らかにするものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.3389/fmicb.2026.2003349",
+    "title": "Exploring the neighborhood of thermotolerant free-living amoebae in Costa Rican natural water reservoirs as a preliminary One Health approach in the field.",
+    "abstract": "IntroductionFree-living amoebae (FLA) of the Vahlkampfiidae family are widely distributed in nature, occupying aquatic and terrestrial habitats. The group includes thermophilic amphizoic organisms such as Naegleria fowleri. This study aims to describe natural recreational freshwaters in terms of the presence of thermotolerant vahlkampfiids, sediment microbial communities and climatic/land use features.MethodsWater samples were collected from 24 locations from Costa Rica. DNA was extracted from FLA cultivated at 42 °C and molecular identification using family and N. fowleri species-specific primers for conventional PCR was performed. DNA extractions of sediment samples were also performed for a microbial metabarcoding characterization approach through 16S rRNA V3-V4 region and 18S rRNA V4 region gene amplicons sequencing. A geographic information system was used to locate each sampling site in its respective climatic subregion and to establish a land use coverage buffer around it.Results and discussionResults revealed 20 positive locations for vahlkampfiids; the sites predominantly featured forest cover and were in climatic subregions with significant rainfall patterns. All locations were negative for N. fowleri; however, identification by sequencing detected a predominance of Tetramitus spp., followed by Vahlkampfia sp. and Neovahlkampfia sp. Sediment metabarcoding showed mainly metazoans, microalgae and Proteobacteria in these benthic ecosystems. Even when N. fowleri was not found, our exploration showed that these aquatic environments of close human contact allow the presence of thermotolerant vahlkampfiids and might be surrounded by microbial communities of interest for future research regarding ecological interactions and public health risks.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.2003349",
+    "date": "2026-11-10",
+    "authors": "Alvarado-Ocampo J, Castro-Gutiérrez V, Ruiz Campos M, Chaves Monge F, Silva Mena K, Córdoba-Gamboa L, Abrahams Sandí E, Retana Moreira L.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43080685",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13794448",
+    "pmid": "43080685",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "18s rrna",
+        "microalgae",
+        "microbial"
+      ],
+      "context": {
+        "marine": [
+          "aquatic",
+          "freshwater"
+        ],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 223,
+    "collected_at": "2026-11-28T12:58:14.797353+00:00",
+    "collected_date": "2026-11-28",
+    "sources": [
+      "Europe PMC genome methods"
+    ],
+    "first_seen": "2026-11-28",
+    "related_dois": [
+      "10.3389/fmicb.2026.2003349"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0a2efd3a8cec75037698aad112344104c9896d1d16214b413061fa3a42d04e03",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T13:29:41.866312+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9873587967e1973bd652998689005e5609b5f7ceca404fcf20bbba1897b36f1c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T13:29:41.866312+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "コスタリカの天然貯水池における耐熱性自由生活アメーバの生息域の探索：フィールドにおけるOne Healthアプローチの予備的検討",
+    "abstract_ja": "はじめにVahlkampfiidae科の自由生活性アメーバ（FLA）は自然界に広く分布し、水圏および陸圏の生息域に生息している。本グループには、Naegleria fowleriなどの好熱性両生類様生物が含まれる。本研究は、好熱性Vahlkampfiidaeの存在、堆積物微生物群集、および気候・土地利用特性の観点から、自然のレクリエーション用淡水域を記述することを目的とする。方法コスタリカの24地点から水試料を採取した。42 °Cで培養したFLAからDNAを抽出し、ファミリープライマーおよびN. fowleri種特異的プライマーを用いた従来法によるPCRで分子同定を行った。また、微生物メタバーコーディング特性評価手法として、16S rRNA V3-V4領域および18S rRNA V4領域の遺伝子アンプリコンシーケンシングによる堆積物試料からのDNA抽出も実施した。地理情報システムを用いて、各サンプリング地点をそれぞれの気候亜地域に特定し、その周囲に土地利用被覆バッファーを設定した。結果および考察結果から、Vahlkampfiidaeの陽性地点が20箇所認められた。これらの地点は主に森林被覆に覆われており、顕著な降雨パターンを持つ気候亜地域に位置していた。N. fowleriについてはすべての地点で陰性であったが、シーケンシングによる同定の結果、Tetramitus属が優占し、次いでVahlkampfia属およびNeovahlkampfia属の順であることが検出された。堆積物メタバーコーディングの結果、これらの底生生態系では主に後生動物、微細藻類、およびプロテオバクテリアが認められた。N. fowleriが検出されなかった場合であっても、人間との接触頻度が高いこれらの水圏環境には好熱性Vahlkampfiidaeが存在し得ること、また生態学的相互作用や公衆衛生上のリスクに関する今後の研究において注目すべき微生物群集に囲まれている可能性があることが本調査で示された。"
   }
 ]
