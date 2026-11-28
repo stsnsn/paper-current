@@ -348408,5 +348408,322 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "<i>Ursidibacter ursinigelli</i> sp. nov.：クマの口腔から分離された<i>Pasteurellaceae</i>科の新種。",
     "abstract_ja": "背景。パスツレラ科（Pasteurellaceae）の菌属は、一般に脊椎動物の粘膜表面に定着する。クマ（Ursidae）におけるこれらの細菌の多様性および進化的関係に関する知見は、依然として限られている。目的。全ゲノムシーケンシングおよび比較ゲノム解析を用いて、複数のクマ種から分離されたパスツレラ科菌属を特性評価すること。方法。欧州の11の動物園で飼育されている7種54頭のクマから口腔スワブ検体を採取した。パスツレラ科に類似した特性を持つ細菌分離株を培養し、表現型特性評価を行った後、全ゲノムシーケンシングにより同定を進めた。分離株の分類学的および系統学的関係を評価するため、Type Strain Genome Server (TYGS)、16S rRNA遺伝子配列比較、FastANIおよびFastAAI計算、ならびにデジタルDNA-DNAハイブリダイゼーション（dDDH）を含む比較ゲノム解析および系統解析を実施した。結果。15株のパスツレラ科分離株を同定し、そのうち13株はパスツレラ科内で2つの明確なクレードを形成し、残りの2株はこれらのクレードの外に分類された。クレードI（n=7）はUrsidibacter arcticus Bamse61Tから明確に区別され、Bamse61Tと比較して16S rRNA遺伝子配列類似度95.6-96.1%、FastANI 92.3-93.6%、dDDH (TYGS d4) 51.4-54.9%を示し、新種であることを支持したため、Ursidibacter ursinigelli sp. nov.という名称を提案する。クレードII（n=6）はU. arcticusと近縁であり、Bamse61Tと比較して16S rRNA遺伝子配列類似度97.3-98.7%、rpoB類似度97.9-98.8%、FastANI 95.2-97.9%、dDDH 68.9-84.4%を示した。FastAAIでは、両クレードのすべての分離株においてUrsidibacterとの平均アミノ酸同一性が95%を超え、両クレードをクマに関連するUrsidibacterに分類することが支持された。残りの2株は、これらのクレードの外に分類された。結論。本研究により、U. ursinigelli sp. nov.がパスツレラ科の新種であることが同定された。U. ursinigelliのタイプ株はB02WBT (=CCUG 78479T=DSM 120274T)であり、2023年にデンマークのRee Park Safariで飼育されていた健康なアメリカクロクマの口腔から分離された。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1099/ijsem.0.007363",
+    "title": "<i>Methylobacter lacustris</i> sp. nov. isolated from the water column of a boreal, oxygen-stratified lake in Southern Finland.",
+    "abstract": "An aerobic methanotroph was isolated from the water column of the boreal Lake Lovojärvi (Southern Finland) and designated strain S3L5CT. Cells were Gram-stain-negative and non-motile cocci. Strain S3L5CT could grow at pH 6.0-8.3 and 0.1-20 °C. The genome size was 4.82 Mb with a 43.3 mol% (digital) DNA G+C content. Strain S3L5CT belongs to the family Methylomonadaceae (class Gammaproteobacteria) and displayed 95.2-99.5% 16S rRNA gene sequence similarity to the type strains of the species representing the genus Methylobacter. Whole-genome comparisons (average nucleotide identity, ANI, and digital DNA-DNA hybridization, dDDH) confirmed strain S3L5CT representing a novel species showing 99.5% 16S rRNA gene identity, 92.9% ANI and 50.6% dDDH to the closest type strain, Methylobacter psychrophilus DSM 9914T, with ANI and dDDH below species delineation thresholds (95 and 70%, respectively). The genome of strain S3L5CT encodes both particulate (pmoCAB) and soluble (mmoXYZBCD) methane monooxygenases, along with the complete methane oxidation and carbon assimilation pathways. The cyc2 gene, potentially responsible for mediating extracellular electron transfer from iron or dissolved organic matter (DOM), was detected in strain S3L5CT but not in strain DSM 9914T. Hinting at this, experimental DOM addition enhanced methane consumption and growth of strain S3L5CT but not that of strain DSM 9914T. Based on phenotypic, genetic and phylogenetic data, strain S3L5CT represents a novel species within the genus Methylobacter for which the name Methylobacter lacustris sp. nov. is proposed, with strain S3L5CT (DSM 117952T=LMG 33631T) as the type strain.",
+    "journal": "International Journal of Systematic and Evolutionary Microbiology",
+    "doi": "10.1099/ijsem.0.007363",
+    "date": "2026-11-01",
+    "authors": "Rissanen AJ, Sarkar J, Mangayil R, Svenning MM, Khanongnuch R.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43102501",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43102501",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "average nucleotide identity",
+        "methanotroph"
+      ],
+      "context": {
+        "marine": [
+          "lake"
+        ],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 213,
+    "collected_at": "2026-11-28T12:58:14.797353+00:00",
+    "collected_date": "2026-11-28",
+    "sources": [
+      "Europe PMC genome methods"
+    ],
+    "first_seen": "2026-11-28",
+    "related_dois": [
+      "10.1099/ijsem.0.007363"
+    ],
+    "translation": {
+      "title": {
+        "hash": "8337d7c503a14860938d4645abacbc49c28e9a2e5bf6f9fb4fb016b519433548",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T13:38:27.392894+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "819d0ef5b459d33070058929a6ff6caa080756a75fbcec828cd00544ea6fd774",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T13:38:27.392894+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "<i>Methylobacter lacustris</i> sp. nov. フィンランド南部の北方型酸素成層湖の水柱から分離された。",
+    "abstract_ja": "北方湖ロヴォヤルヴィ（フィンランド南部）の水柱から好気性メタン酸化菌を単離し、株S3L5CTと命名した。細胞はグラム染色陰性で非運動性の球菌であった。株S3L5CTはpH 6.0-8.3および0.1-20 °Cの範囲で増殖可能であった。ゲノムサイズは4.82 Mbで、DNA G+C含量は43.3 mol%（デジタル）であった。株S3L5CTはメチルモナス科（ガンマプロテオバクテリア綱）に属し、Methylobacter属を代表する種のタイプ株と16S rRNA遺伝子配列の類似性が95.2-99.5%であった。全ゲノム比較（平均ヌクレオチド同一性、ANI、およびデジタルDNA-DNAハイブリダイゼーション、dDDH）により、株S3L5CTは新規種であることが確認され、最も近縁なタイプ株であるMethylobacter psychrophilus DSM 9914Tに対して、16S rRNA遺伝子同一性99.5%、ANI 92.9%、dDDH 50.6%を示し、ANIおよびdDDHは種の境界閾値（それぞれ95%および70%）を下回っていた。株S3L5CTのゲノムには、粒子状（pmoCAB）および可溶性（mmoXYZBCD）の両方のメタンモノオキシゲナーゼに加え、完全なメタン酸化経路および炭素同化経路がコードされている。鉄または溶存有機物（DOM）からの細胞外電子伝達を媒介する可能性のあるcyc2遺伝子が、株S3L5CTでは検出されたが、株DSM 9914Tでは検出されなかった。この点を示唆するように、実験的なDOM添加は株S3L5CTのメタン消費および増殖を促進したが、株DSM 9914Tでは促進されなかった。表現型、遺伝的、および系統学的データに基づき、株S3L5CTはMethylobacter属内の新規種であり、株S3L5CT（DSM 117952T=LMG 33631T）をタイプ株として、Methylobacter lacustris sp. nov.という名称を提案する。"
+  },
+  {
+    "id": "10.1007/s00248-026-02933-w",
+    "title": "Cover Crops improve​ fertility,​ Reduce Salinity, and Reshape the Rhizosphere Microbiome and Metabolome in a Semi-Arid Olive Orchard",
+    "abstract": "Cover crops are increasingly used to improve soil health and crop productivity, yet their effects on the ecological processes governing rhizosphere functioning remain poorly understood. We integrated soil chemistry, microbial metabarcoding, and untargeted GC–MS metabolomics to investigate how cover crops influence rhizosphere organization in a semi-arid Mediterranean olive orchard. A two-year field experiment compared olive trees grown with a cover crop mixture (Calendula arvensis and Medicago sativa) with trees under conventional bare-soil management. Cover cropping enhanced olive growth, increasing tree height, canopy diameter, trunk diameter, and leaf chlorophyll content. These improvements were accompanied by a 1.8-fold increase in total N, a four-fold increase in available P, enhanced acid-phosphatase activity, and an approximately five-fold reduction in electrical conductivity. In contrast, the observed increases in SOM and microbial biomass P were not statistically significant. Rhizosphere bacterial communities shifted toward plant-beneficial taxa, while the relative abundance of fungal genera containing important pathogens declined. Metabolomic profiling identified 102 rhizosphere compounds and clearly separated cover-cropped from bare-soil treatments. Exploratory microbial-metabolite networks further indicated contrasting covariance structures between management systems. Bare-soil rhizospheres contained a comparatively greater proportion of negative metabolite-fungus associations, whereas more than 90% of the retained associations under cover cropping were positive and included several candidate bacteria-fungus relationships. Overall, cover cropping improved olive performance and rhizosphere fertility, reduced soil salinity, and altered microbiome and metabolome organization, supporting its value as a multifunctional management strategy for semi-arid olive orchards.",
+    "journal": "Microbial Ecology",
+    "doi": "10.1007/s00248-026-02933-w",
+    "date": "2026-11-27",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://link.springer.com/article/10.1007/s00248-026-02933-w",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "fungal",
+        "microbial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=248",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5904,
+    "collected_at": "2026-11-28T13:08:24.513490+00:00",
+    "collected_date": "2026-11-28",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=248"
+    ],
+    "first_seen": "2026-11-28",
+    "related_dois": [
+      "10.1007/s00248-026-02933-w"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d4661f54a48b860dfa4a21fdbc4cd25c699b7aec0ea19a8f3e698d2d360cd80e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T13:38:27.392894+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9f20490b45bc2cc249343e53e7d700a6e47558a28f51bfee3f2b776b0a306350",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T13:38:27.392894+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "被覆作物は、半乾燥型オリーブ園において肥沃度を向上させ、塩類濃度を低減させ、根圏微生物叢およびメタボロームを再構築する。",
+    "abstract_ja": "被覆作物は、土壌の健全性と作物の生産性を向上させるためにますます利用されているが、根圏の機能を司る生態学的プロセスに及ぼす影響については依然として十分に解明されていない。本研究では、土壌化学、微生物メタバーコーディング、および非標的型GC–MSメタボロミクスを統合し、半乾燥地中海性オリーブ園において、被覆作物が根圏の構造にどのような影響を及ぼすかを調査した。2年間にわたる圃場試験において、被覆作物の混合種（Calendula arvensisおよびMedicago sativa）を栽培したオリーブ樹と、従来の裸地管理下で栽培した樹を比較した。被覆作物の導入はオリーブの生育を促進し、樹高、樹冠径、幹径、および葉のクロロフィル含有量を増加させた。これらの改善に伴い、全窒素が1.8倍、有効リンが4倍に増加し、酸性ホスファターゼ活性が亢進し、電気伝導度は約5分の1に低下した。対照的に、観察されたSOMおよび微生物バイオマスPの増加は統計的に有意ではなかった。根圏の細菌群集は植物に有益な分類群へとシフトした一方、重要な病原体を含む真菌属の相対存在量は減少した。メタボロームプロファイリングにより102種類の根圏化合物が同定され、被覆作物栽培区と裸地管理区を明確に区別することができた。探索的な微生物-代謝物ネットワークからも、管理体系間で対照的な共分散構造があることが示された。裸地の根圏では、負の代謝物-真菌関連が比較的高い割合で認められたのに対し、被覆作物栽培下で保持された関連の90%以上は正であり、いくつかの細菌-真菌関係の候補が含まれていた。総じて、被覆作物の導入はオリーブの生育成績と根圏の肥沃度を向上させ、土壌塩分を低減させ、マイクロバイオームおよびメタボロームの構造を変化させた。このことは、半乾燥オリーブ園における多機能な管理戦略としての有用性を裏付けるものである。"
+  },
+  {
+    "id": "10.1038/s41467-026-79640-0",
+    "title": "EGMOF: efficient generation of metal-organic frameworks using a hybrid diffusion-transformer architecture",
+    "abstract": "The authors present EGMOF, a hybrid diffusion-transformer framework that generates metal-organic frameworks with target properties through intermediate chemical descriptors, using as few as 1,000 training examples.",
+    "journal": "Nature Communications",
+    "doi": "10.1038/s41467-026-79640-0",
+    "date": "2026-11-28",
+    "authors": "Jihan Kim",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.nature.com/articles/s41467-026-79640-0",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "framework",
+          "gene"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.nature.com/ncomms.rss",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5895,
+    "collected_at": "2026-11-28T13:08:24.513490+00:00",
+    "collected_date": "2026-11-28",
+    "sources": [
+      "https://www.nature.com/ncomms.rss"
+    ],
+    "first_seen": "2026-11-28",
+    "related_dois": [
+      "10.1038/s41467-026-79640-0"
+    ],
+    "translation": {
+      "title": {
+        "hash": "84c386523015e75a7f9e160ae8bcf6ec173f7437a3757cd257c25144c971dd53",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T13:38:27.392894+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "7fc11aa8206b7f06df80110409e073e286e464599b0774a360ab0f64c8f4c48a",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T13:38:27.392894+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "EGMOF: 拡散・トランスフォーマーハイブリッドアーキテクチャを用いた金属有機構造体の効率的生成",
+    "abstract_ja": "著者らは、わずか1,000件の学習例を用いて、中間化学記述子により目的の特性を持つ金属有機構造体を生成するハイブリッド拡散・トランスフォーマーフレームワークEGMOFを提案する。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1099/ijsem.0.007361",
+    "title": "<i>Trichlorobacter dihaloeliminans</i> sp. nov., a halogenated alkane-respiring bacterium isolated from freshwater sediment.",
+    "abstract": "A strictly anaerobic organohalide-respiring bacterium, designated IAET, was isolated from freshwater sediment collected from the Xi River in Shenyang, Liaoning Province, China. Cells of strain IAET were Gram-stain-negative, non-motile, non-spore-forming and slightly curved rods. Strain IAET coupled growth to the dihaloelimination of several halogenated alkanes, including 1,2-dichloroethane, 1,1,2-trichloroethane, 1,2-dichloropropane and 1,2-dibromoethane, with acetate as the electron donor and carbon source. By comparison, the closely related Trichlorobacter lovleyi strain SZᵀ reductively dehalogenates tetrachloroethene and trichloroethene via hydrogenolysis. Strain IAEᵀ also reduced Fe(III) and fumarate. Growth occurred at 16-40 °C (optimum, 30-34 °C), pH 5.5-7.5 (optimum, pH 7.2) and NaCl concentrations of 0.1-1.0% (w/v). The major cellular fatty acids were C14 : 0, iso-C15 : 0, summed feature 3 (C16 : 1  ω7c and/or C16 : 1  ω6c) and C16 : 0 3-OH. 16S rRNA gene phylogeny placed strain IAET within the family Geobacteraceae, with T. lovleyi strains as its closest relatives (99.5-99.7% sequence similarity). The average nucleotide identity and digital DNA-DNA hybridization values between strain IAET and T. lovleyi strain SZT were 89.88 and 43.20%, respectively, supporting their separation at the species level. Based on phylogenetic, genomic, physiological and chemotaxonomic evidence, strain IAET represents a novel species of the genus Trichlorobacter, for which the name Trichlorobacter dihaloeliminans sp. nov. is proposed. The type strain is IAET (=JCM 39164T=CGMCC 1.5298T).",
+    "journal": "International Journal of Systematic and Evolutionary Microbiology",
+    "doi": "10.1099/ijsem.0.007361",
+    "date": "2026-11-01",
+    "authors": "Jiang L, Huang S, Fan J, Cui Y, Li X, Wang J, Jin H, Li X, Zhang Y, Yan J.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43084429",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43084429",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "bacterium"
+      ],
+      "context": {
+        "marine": [
+          "freshwater",
+          "river"
+        ],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genomic",
+          "phylogen",
+          "phylogenetic",
+          "phylogeny"
+        ],
+        "evolution": [
+          "phylogeny",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 239,
+    "collected_at": "2026-11-28T12:58:14.797353+00:00",
+    "collected_date": "2026-11-28",
+    "sources": [
+      "Europe PMC genome methods"
+    ],
+    "first_seen": "2026-11-28",
+    "related_dois": [
+      "10.1099/ijsem.0.007361"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b022ba19bef4ef82a45afc8bd15d51f0b048e4847813aeae83b97138cc922091",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T13:38:27.392894+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "38b7de875691c6aa681372c7b81077d306a407d2fd256ec18fdb32fc96ca4942",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T13:38:27.392894+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "<i>Trichlorobacter dihaloeliminans</i> sp. nov.、淡水堆積物から単離されたハロゲン化アルカン呼吸細菌。",
+    "abstract_ja": "中国遼寧省瀋陽市の西河から採取した淡水堆積物から、IAETと命名された厳格嫌気性有機ハロゲン化物呼吸細菌が単離された。IAET株の細胞は、グラム染色陰性、非運動性、非芽胞形成性で、わずかに湾曲した桿菌であった。IAET株は、酢酸を電子供与体および炭素源として、1,2-ジクロロエタン、1,1,2-トリクロロエタン、1,2-ジクロロプロパン、および1,2-ジブロモエタンを含む数種類のハロゲン化アルカンのジハロゲン化に共役的に増殖した。対照的に、近縁種であるTrichlorobacter lovleyiのSZᵀ株は、水素分解によりテトラクロロエチレンおよびトリクロロエチレンを還元的に脱ハロゲン化する。IAET株はまた、Fe(III)およびフマル酸を還元した。増殖は、16-40 °C（至適温度 30-34 °C）、pH 5.5-7.5（至適pH 7.2）、およびNaCl濃度 0.1-1.0%（w/v）の条件下で認められた。主要な細胞脂肪酸は、C14 : 0、iso-C15 : 0、summed feature 3（C16 : 1  ω7c および/または C16 : 1  ω6c）、およびC16 : 0 3-OHであった。16S rRNA遺伝子の系統解析により、IAET株はGeobacteraceae科に属し、T. lovleyi株が最も近縁な種である（配列類似性 99.5-99.7%）ことが判明した。IAET株とT. lovleyiのSZT株との間の平均ヌクレオチド同一性およびデジタルDNA-DNAハイブリダイゼーション値は、それぞれ89.88%および43.20%であり、種レベルでの分離が支持された。系統学的、ゲノム学的、生理学的、および化学分類学的根拠に基づき、IAET株はTrichlorobacter属の新種であり、Trichlorobacter dihaloeliminans sp. nov. という名称が提案される。タイプ株はIAET (=JCM 39164T=CGMCC 1.5298T) である。"
   }
 ]
