@@ -346672,5 +346672,298 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ヒトアデノウイルスD36およびD56の構造解析から得られた知見：アデノウイルスの多様性とセメントタンパク質ネットワーク",
     "abstract_ja": "ヒトアデノウイルス（HAdV）118種のうち83種がD種に属しており、これには呼吸器ウイルス、稀で致死的な新生児感染症に関連する組換え体、および臨床応用用のベクターとして開発されたウイルスが含まれる。カプシドと宿主の相互作用における多様性の構造的基盤、およびカプシド内面を安定化させるセメントタンパク質の複雑なネットワークについては、十分に解明されていない。本報では、HAdV-D36およびHAdV-D56のクライオ電子顕微鏡構造を、それぞれ2.5 Åおよび2.6 Åの分解能で報告する。カプシド表面構造は十分に分解されており、超可変領域の構造比較が可能である。内部セメントタンパク質のほぼ完全な同定により、タンパク質IIIa、VI、VII、およびVIIIにおける新たなカプシド相互作用が明らかになった。このうち最後のタンパク質VIIIは、従来タンパク質Vと考えられていた保存的なヘクソン相互作用ペプチドに帰属される。これら2種類のHAdV-Dカプシドのほぼ完全なマップは、ベクター設計の指針となり、ビリオンの組み立ておよび分解における個々のタンパク質の役割に関する参照情報となり得る。"
+  },
+  {
+    "id": "10.64898/2026.11.26.769407",
+    "title": "Viral-bacterial arms race in the marine sponge Halichondria panicea",
+    "abstract": "Sponges are complex holobionts/metaorganisms and important models for host-microbe interactions, yet their viral communities remain poorly understood. Here, we characterized the diversity of viruses associated with the marine sponge Halichondria panicea from different locations in the North Atlantic and Baltic Sea. Most sponge-associated viruses were also detected in the surrounding seawater, while little evidence was found for a shared sponge-specific core virome across locations. A subset of viruses that were enriched in sponges over seawater was explored further. Its functional potential included diverse auxiliary genes of metabolic functions, particularly nucleotide and cofactor metabolism, as well as bacterial cell surface modification. At the community level, the predicted viral anti-defenses broadly correspond to the predicted microbial defense classes, suggesting an evolutionary arms race between viruses and their microbial hosts within the sponge holobiont. Furthermore, the diverse defense systems identified on the genomes of the dominant bacterial symbiont \"Candidatus Halichondribacter symbioticus\", together with variation in defense gene content and sequence, suggest that viruses contribute to genomic diversification of the major sponge symbiont. Finally, a gene transfer agent was identified on the genome of \"Ca. H. symbioticus\", which represents a mechanism for horizontal gene transfer and DNA exchange within this symbiont population. Overall, our results indicate that viruses are dynamic components of the H. panicea microbiome and contribute to genome diversification of the main sponge symbiont \"Ca. H. symbioticus\".",
+    "journal": "",
+    "doi": "10.64898/2026.11.26.769407",
+    "date": "2026-11-27",
+    "authors": "Shi, W., Ngugi, D. K., Hentschel, U.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.26.769407v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "microbe",
+        "microbial",
+        "microbiome",
+        "viral",
+        "virome",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [
+          "marine",
+          "seawater"
+        ],
+        "genomics": [
+          "DNA",
+          "evolution",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5880,
+    "collected_at": "2026-11-28T06:37:06.960330+00:00",
+    "collected_date": "2026-11-28",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-28",
+    "related_dois": [
+      "10.64898/2026.11.26.769407"
+    ],
+    "translation": {
+      "title": {
+        "hash": "1df4b518966c86143343d7b931991b217cddc665c2e5a5debb61bfb01aa78201",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T07:08:28.744482+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6a828430aa2cb4a11618fb112ade4efea2fc243d58b5ad41c1930082e1f42926",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T07:08:28.744482+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "海産海綿Halichondria paniceaにおけるウイルス・細菌の軍拡競争",
+    "abstract_ja": "海綿動物は複雑なホロビオント／メタオーガニズムであり、宿主－微生物間相互作用の重要なモデルであるが、そのウイルス群集については依然として十分に解明されていない。本研究では、北大西洋およびバルト海の異なる海域に生息する海洋海綿Halichondria paniceaに関連するウイルスの多様性を特性評価した。海綿に関連するウイルスの大部分は周辺海水中でも検出されたが、海域間で共通する海綿特異的なコアウイルス叢の証拠はほとんど認められなかった。海水よりも海綿において濃縮されていたウイルスのサブセットについて、さらに詳細な検討を行った。その機能的ポテンシャルには、代謝機能、特にヌクレオチドおよび補因子代謝に関する多様な補助遺伝子や、細菌細胞表面修飾が含まれていた。群集レベルでは、予測されたウイルスの防御機構が予測された微生物防御クラスと概ね一致しており、海綿ホロビオント内におけるウイルスとその微生物宿主との間の進化的な軍拡競争が示唆された。さらに、優占的な細菌共生体「Candidatus Halichondribacter symbioticus」のゲノムで同定された多様な防御システムは、防御遺伝子の内容および配列の多様性と相まって、ウイルスが主要な海綿共生体のゲノム多様化に寄与していることを示唆している。最後に、「Ca. H. symbioticus」のゲノムにおいて遺伝子転移因子が同定され、これは本共生体集団内における水平遺伝子転移およびDNA交換のメカニズムであることが示された。総じて、我々の結果は、ウイルスがH. paniceaマイクロバイオームの動的な構成要素であり、主要な海綿共生体「Ca. H. symbioticus」のゲノム多様化に寄与していることを示している。"
+  },
+  {
+    "id": "10.64898/2026.11.26.768590",
+    "title": "NUP62 acts as T cell activation-dependent switch to regulate post nuclear import steps of HIV-1 replication in primary CD4 T cells",
+    "abstract": "Resting CD4 T cells resist productive HIV-1 infection. T cell activation licenses replication, increases nuclear pore complex (NPC) density, and alters chromatin organization. Paradoxically, HIV-1 nuclear import is more efficient in resting than in activated CD4 T cells, despite lower NPC abundance. Using activation-neutral gene editing in primary human CD4 T cells, we show that T cell activation reshapes nucleoporin (NUP) contributions to infection. The FG-nucleoporin NUP62 switches from an inhibitor of HIV infection in resting cells to a dependency factor in activated cells. In resting cells, NUP62 depletion modestly increases nuclear import, shifts proviral integration away from transcriptionally active chromatin, and enhances viral transcript abundance and gene expression. In activated cells, NUP62 depletion leaves steps through integration unaffected but strongly reduces nascent viral transcripts and gene expression. T cell activation switches previously unrecognized post-nuclear-import functions of NUP62, uncoupling early and late steps of HIV-1 replication.",
+    "journal": "",
+    "doi": "10.64898/2026.11.26.768590",
+    "date": "2026-11-27",
+    "authors": "Ananth, S., Ambiel, I., Sid Ahmed, S., Penzo, C., Lucic, B., Bodulic, K., La Rocca, L., Kim, Y., Annesha, F. M., Mueller, B., Weinhardt, V., Keppler, O. T., Kraeusslich, H.-G., Lusic, M., Fackler, O. T.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.26.768590v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5881,
+    "collected_at": "2026-11-28T06:37:06.960330+00:00",
+    "collected_date": "2026-11-28",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-28",
+    "related_dois": [
+      "10.64898/2026.11.26.768590"
+    ],
+    "translation": {
+      "title": {
+        "hash": "ddfbe5fa9adae8b4c247d2ecf8b1451638b3d061e59d2b79fcca5e0b78ac9f13",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T07:08:28.744482+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "98f221fbf15332fe7e636eaa6b316d3aefd9d18a69763ac76e47e9acc36a7c2e",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T07:08:28.744482+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "NUP62は、初代CD4 T細胞におけるHIV-1複製の核内移行後段階を調節するT細胞活性化依存性スイッチとして機能する。",
+    "abstract_ja": "静止状態のCD4 T細胞は、増殖能を有するHIV-1感染に抵抗性を示す。T細胞の活性化は、複製を許容し、核膜孔複合体（NPC）密度を増加させ、クロマチン構造を変化させる。逆説的なことに、NPC量は少ないにもかかわらず、HIV-1の核内取り込みは、活性化CD4 T細胞よりも静止状態のT細胞においてより効率的である。ヒト初代CD4 T細胞を用いた活性化中立的な遺伝子編集により、T細胞の活性化が感染に対するヌクレオポリン（NUP）の寄与を再構築することを示す。FG-ヌクレオポリンNUP62は、静止状態の細胞ではHIV感染の阻害因子から、活性化細胞では依存因子へと転じる。静止状態の細胞では、NUP62の枯渇により核内取り込みがわずかに増加し、プロウイルスの組み込みが転写活性の高いクロマチンから移行し、ウイルス転写産物の量と遺伝子発現が増強される。活性化細胞では、NUP62の枯渇により組み込みのステップは影響を受けないが、新生ウイルス転写産物と遺伝子発現が著しく減少する。T細胞の活性化は、これまで認識されていなかったNUP62の核内取り込み後の機能を切り替え、HIV-1複製の初期ステップと後期ステップを切り離す。"
+  },
+  {
+    "id": "10.64898/2026.11.25.769242",
+    "title": "Colibactin-induced DNA damage activates cGAS-STING signaling that is amplified by mitochondrial DNA release",
+    "abstract": "The microbiome-derived genotoxin colibactin induces oncogenic mutations that contribute to the development of colorectal cancer. Colibactin exposure also elicits inflammatory and senescence-associated responses. However, the cellular pathways that link colibactin-induced genotoxic stress to inflammation and senescence are poorly defined. Here, we show that colibactin causes cytoplasmic DNA accumulation and activates pro-inflammatory cGAS-STING signaling in human cells. Genetic or pharmacological inhibition of cGAS reduces colibactin-induced inflammatory gene expression and the accumulation of senescence-associated markers. We further show that these responses occur in two phases: an early response that is independent of mitochondrial DNA (mtDNA) and a stronger late response that is amplified by mtDNA release. Inactivation of either cGAS or the mitochondrial outer membrane permeabilization factor BAK suppresses cytoplasmic mtDNA accumulation and dampens late inflammatory signaling. Together, our data support a model in which colibactin-induced nuclear DNA damage initially activates cGAS-STING, which promotes BAK-dependent mtDNA release and thereby enhances inflammatory signaling. This work reveals a mechanism through which a clinically relevant microbial genotoxin reprograms host cell physiology and may contribute to the development or progression of colorectal cancer.",
+    "journal": "",
+    "doi": "10.64898/2026.11.25.769242",
+    "date": "2026-11-27",
+    "authors": "Xie, S., Tzeng, J., Kim, T. D., Airan, Y., Herzon, S. B., Semlow, D. R.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.25.769242v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5882,
+    "collected_at": "2026-11-28T06:37:06.960330+00:00",
+    "collected_date": "2026-11-28",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-28",
+    "related_dois": [
+      "10.64898/2026.11.25.769242"
+    ],
+    "translation": {
+      "title": {
+        "hash": "a236513df1431d95bcd5047e8d5c56e83d852ccca1c6751abcfec989085aaf69",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T07:08:28.744482+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "611970d09cfdedca3547e7a7eccc6b56dd851e1aa6fee70f85177b2346638961",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T07:08:28.744482+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "コリバクチン誘導性DNA損傷は、ミトコンドリアDNAの放出によって増幅されるcGAS-STINGシグナル伝達を活性化する。",
+    "abstract_ja": "マイクロバイオーム由来のゲノトキシンであるコリバクチンは、大腸がんの発症に寄与する発がん性変異を誘発する。コリバクチンへの曝露は、炎症性および老化関連応答も惹起する。しかし、コリバクチン誘発性の遺伝毒性ストレスを炎症や老化に結び付ける細胞経路は十分に解明されていない。本研究では、コリバクチンがヒト細胞において細胞質DNAの蓄積を引き起こし、炎症性cGAS-STINGシグナル伝達を活性化することを示す。cGASの遺伝的または薬理学的阻害は、コリバクチン誘発性の炎症性遺伝子発現および老化関連マーカーの蓄積を減少させる。さらに、これらの応答は2つの相で生じることを示す。すなわち、ミトコンドリアDNA（mtDNA）とは独立した初期応答と、mtDNAの放出によって増幅されるより強力な後期応答である。cGASまたはミトコンドリア外膜透過化因子BAKのいずれかを不活化すると、細胞質mtDNAの蓄積が抑制され、後期の炎症性シグナル伝達が減弱する。以上のデータは、コリバクチン誘発性の核DNA損傷がまずcGAS-STINGを活性化し、それがBAK依存的なmtDNA放出を促進して炎症性シグナル伝達を増強するというモデルを支持するものである。本研究は、臨床的に意義のある微生物ゲノトキシンが宿主細胞の生理機能をリプログラミングし、大腸がんの発症または進行に寄与し得るメカニズムを明らかにするものである。"
+  },
+  {
+    "id": "10.64898/2026.11.25.769155",
+    "title": "Retron-Eco9 ADP-ribosylates release factors to disrupt translation during phage infection",
+    "abstract": "Retrons are a major form of anti-phage defense in bacteria, but how they provide defense remains incompletely understood. The most common retron effector is a predicted nucleoside 2'-deoxyribosyltransferase (NDT). Here, we demonstrated that the NDT of retron-Eco9 is, in fact, a protein histidine ADP-ribosyltransferase that associates with the bacterial ribosome through an interaction with the stalk proteins bL7/bL12. Through this interaction, the effector ADP-ribosylates translation release factors RF1 and RF2 adjacent to the conserved GGQ motifs that catalyze peptidyl-tRNA ester bond hydrolysis, resulting in increased stop codon readthrough and frameshifting. Using ribosome profiling, cryoEM, and in vitro reconstitution assays, we demonstrate that the modification of RF1 and RF2 severely disrupts translation in cells, leading to collided ribosomes at the 3' ends of transcripts, aberrant termination, and increased ribosome rescue. These disruptions to translation ultimately prevent phage replication and abort an infection. Although many defense systems block translation by degrading tRNA or mRNA, our results now demonstrate how post-translational modification of translation factors can also provide potent defense, while also revealing histidine ADP-ribosyltransferase activity as the biochemical basis of the largest class of retrons.",
+    "journal": "",
+    "doi": "10.64898/2026.11.25.769155",
+    "date": "2026-11-27",
+    "authors": "Beck, C. R., May, M. B., Davis, J. H., Laub, M. T.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.25.769155v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "phage"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5883,
+    "collected_at": "2026-11-28T06:37:06.960330+00:00",
+    "collected_date": "2026-11-28",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-28",
+    "related_dois": [
+      "10.64898/2026.11.25.769155"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0fbadb4a74e6a610f3970455a467737460609490f10f44b202a0a90ba5365d0b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T07:08:28.744482+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "38a648d78121e60bb15a6555865c9fd1d2b8c79ee4a040b0a5caf3cd130e5c1f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T07:08:28.744482+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Retron-Eco9 ADP-リボシル化酵素は、ファージ感染時に翻訳を阻害する放出因子を放出する。",
+    "abstract_ja": "レトロンは細菌における主要な抗ファージ防御機構であるが、どのように防御を担うのかについては未だ十分に解明されていない。最も一般的なレトロンエフェクターは、予測核酸2'-デオキシリボシル転移酵素（NDT）である。本研究では、retron-Eco9のNDTが、実際にはヒスチジンADP-リボシル転移酵素タンパク質であり、ストークタンパク質bL7/bL12との相互作用を介して細菌リボソームに結合することを明らかにした。この相互作用により、エフェクターはペプチジルtRNAエステル結合加水分解を触媒する保存されたGGQモチーフに隣接する翻訳放出因子RF1およびRF2をADP-リボシル化し、その結果、終止コドンの読み通しとフレームシフトが増加する。リボソームプロファイリング、クライオ電子顕微鏡法、およびin vitro再構成アッセイを用いて、RF1およびRF2の修飾が細胞内での翻訳を著しく阻害し、転写産物の3'末端におけるリボソームの衝突、異常終止、およびリボソームレスキューの増加を引き起こすことを実証した。これらの翻訳の阻害は、最終的にファージの複製を妨げ、感染を中断させる。多くの防御システムはtRNAまたはmRNAを分解することで翻訳を阻害するが、本研究の結果は、翻訳因子の翻訳後修飾が強力な防御手段となり得ることを示すとともに、ヒスチジンADP-リボシル転移酵素活性が最大規模のレトロン群の生化学的基盤であることを明らかにした。"
   }
 ]
