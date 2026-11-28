@@ -348725,5 +348725,321 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "<i>Trichlorobacter dihaloeliminans</i> sp. nov.、淡水堆積物から単離されたハロゲン化アルカン呼吸細菌。",
     "abstract_ja": "中国遼寧省瀋陽市の西河から採取した淡水堆積物から、IAETと命名された厳格嫌気性有機ハロゲン化物呼吸細菌が単離された。IAET株の細胞は、グラム染色陰性、非運動性、非芽胞形成性で、わずかに湾曲した桿菌であった。IAET株は、酢酸を電子供与体および炭素源として、1,2-ジクロロエタン、1,1,2-トリクロロエタン、1,2-ジクロロプロパン、および1,2-ジブロモエタンを含む数種類のハロゲン化アルカンのジハロゲン化に共役的に増殖した。対照的に、近縁種であるTrichlorobacter lovleyiのSZᵀ株は、水素分解によりテトラクロロエチレンおよびトリクロロエチレンを還元的に脱ハロゲン化する。IAET株はまた、Fe(III)およびフマル酸を還元した。増殖は、16-40 °C（至適温度 30-34 °C）、pH 5.5-7.5（至適pH 7.2）、およびNaCl濃度 0.1-1.0%（w/v）の条件下で認められた。主要な細胞脂肪酸は、C14 : 0、iso-C15 : 0、summed feature 3（C16 : 1  ω7c および/または C16 : 1  ω6c）、およびC16 : 0 3-OHであった。16S rRNA遺伝子の系統解析により、IAET株はGeobacteraceae科に属し、T. lovleyi株が最も近縁な種である（配列類似性 99.5-99.7%）ことが判明した。IAET株とT. lovleyiのSZT株との間の平均ヌクレオチド同一性およびデジタルDNA-DNAハイブリダイゼーション値は、それぞれ89.88%および43.20%であり、種レベルでの分離が支持された。系統学的、ゲノム学的、生理学的、および化学分類学的根拠に基づき、IAET株はTrichlorobacter属の新種であり、Trichlorobacter dihaloeliminans sp. nov. という名称が提案される。タイプ株はIAET (=JCM 39164T=CGMCC 1.5298T) である。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1099/ijsem.0.007352",
+    "title": "<i>Corynebacterium yanzhangcaii</i> sp. nov. and <i>Corynebacterium lidongmeiae</i> sp. nov., isolated from faeces of white-lipped deer (<i>Cervus albirostris</i>) in the Qinghai-Tibet Plateau.",
+    "abstract": "Four novel bacterial strains, designated H78T, H113, H128T and H127, were isolated from faeces of white-lipped deer (Cervus albirostris) in the Qinghai-Tibet Plateau of China. These four isolates were Gram-stain-positive, catalase-positive, oxidase-negative, facultatively anaerobic, short rod-shaped, non-motile, non-haemolytic bacteria. Results of phylogenomic analyses based on 16S rRNA gene sequences and core genomic genes showed that the isolates were closely related to the members of the genus Corynebacterium. Strain pair H78T and H113 exhibited the highest 16S rRNA gene similarity to Corynebacterium freneyi DSM 44506T (97.2%), while strains H128T and H127 showed the closest similarity to Corynebacterium epidermidicanis DSM 45586T (97.4%). The representative strains (H78T and H128T) exhibited DNA G+C contents of 56.5 and 58.0 mol%, respectively. Digital DNA-DNA hybridization (dDDH) and average nucleotide identity (ANI) values between the representative strains and their closely related species were as follows: 20.7-22.9% (dDDH) and 70.5-72.8% (ANI) for strain H78T versus Corynebacterium ulceribovis IMMIB L-1395T, Corynebacterium amycolatum S160T, Corynebacterium lactis RW2-5T and C. freneyi DSM 44506T; 19.0-21.4% (dDDH) and 72.9-75.1% (ANI) for strain H128T versus C. epidermidicanis DSM 45586T, Corynebacterium hindlerae NML 93-0612T and Corynebacterium kalinowskii 1959T. All these values were below the recommended thresholds of 95-96% (ANI) and 70% (dDDH). Both strains H78T and H128T contain meso-diaminopimelic acid, ribose, arabinose, glucose and galactose in their cell walls; the main fatty acids were C16 : 0 and C18 : 1  ω9c; the major respiratory quinone was MK-8(H2); the predominant polar lipids were diphosphatidylglycerol, phosphatidylglycerol and phosphatidylinositol mannoside. In addition, phosphatidylinositol was detected in strain H78T, but not in strain H128T. Conversely, mycolic acid was identified in strain H128T, but not in strain H78T. Based on the results of the polyphasic taxonomic study, two novel species in the genus Corynebacterium are proposed, namely Corynebacterium yanzhangcaii sp. nov. (type strain H78T=GDMCC 1.4704T=JCM 37416T) and Corynebacterium lidongmeiae sp. nov. (type strain H128T=GDMCC 1.4705T=JCM 37417T).",
+    "journal": "International Journal of Systematic and Evolutionary Microbiology",
+    "doi": "10.1099/ijsem.0.007352",
+    "date": "2026-11-01",
+    "authors": "Hou Q, Ma J, Zhou H, Yang J, Liu J, Pu D, Ning S, Wang Y, Cao L, Pu J, Wang W, Xu J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43097468",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43097468",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genomic",
+          "phylogen",
+          "phylogenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 242,
+    "collected_at": "2026-11-28T12:58:14.797353+00:00",
+    "collected_date": "2026-11-28",
+    "sources": [
+      "Europe PMC genome methods"
+    ],
+    "first_seen": "2026-11-28",
+    "related_dois": [
+      "10.1099/ijsem.0.007352"
+    ],
+    "translation": {
+      "title": {
+        "hash": "9d545f13f4836c315d087a60b56d200fbd976aa65cb34a65508d908c8986fd8b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T13:41:31.371493+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "2b28447fd5d0103125a4e03a5ede67a7e441edf3dc67da44b2b5f2ec8cf17402",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T13:41:31.371493+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "青蔵高原のシロオビジカ（<i>Cervus albirostris</i>）の糞から分離された<i>Corynebacterium yanzhangcaii</i> sp. nov.および<i>Corynebacterium lidongmeiae</i> sp. nov.",
+    "abstract_ja": "中国の青海・チベット高原において、シロクチジカ（Cervus albirostris）の糞便から、H78T、H113、H128TおよびH127と命名された4株の新規細菌株が分離された。これら4株は、グラム染色陽性、カタラーゼ陽性、オキシダーゼ陰性、通性嫌気性、短桿状、非運動性、非溶血性の細菌であった。16S rRNA遺伝子配列およびコアゲノム遺伝子に基づく系統ゲノム解析の結果、これらの分離株はコリネバクテリウム属（Corynebacterium）の菌株と近縁であることが示された。H78T株とH113株のペアは、Corynebacterium freneyi DSM 44506Tに対して最も高い16S rRNA遺伝子類似性（97.2%）を示し、一方でH128T株とH127株はCorynebacterium epidermidicanis DSM 45586Tに対して最も近い類似性（97.4%）を示した。代表株（H78TおよびH128T）のDNA G+C含有量は、それぞれ56.5および58.0 mol%であった。代表株と近縁種との間のデジタルDNA-DNAハイブリダイゼーション（dDDH）および平均ヌクレオチド同一性（ANI）値は、H78T株とCorynebacterium ulceribovis IMMIB L-1395T、Corynebacterium amycolatum S160T、Corynebacterium lactis RW2-5TおよびC. freneyi DSM 44506Tとの間で20.7-22.9%（dDDH）および70.5-72.8%（ANI）、H128T株とC. epidermidicanis DSM 45586T、Corynebacterium hindlerae NML 93-0612TおよびCorynebacterium kalinowskii 1959Tとの間で19.0-21.4%（dDDH）および72.9-75.1%（ANI）であった。これらの値はすべて、推奨閾値である95-96%（ANI）および70%（dDDH）を下回っていた。H78T株およびH128T株はともに、細胞壁にメソジアミノピメリン酸、リボース、アラビノース、グルコースおよびガラクトースを含有していた。主要な脂肪酸はC16 : 0およびC18 : 1  ω9cであり、主要な呼吸キノンはMK-8(H2)であった。主要な極性脂質は、ジホスファチジルグリセロール、ホスファチジルグリセロールおよびホスファチジルイノシトールマンノシドであった。さらに、ホスファチジルイノシトールはH78T株で検出されたが、H128T株では検出されなかった。逆に、ミコリン酸はH128T株で同定されたが、H78T株では同定されなかった。多相分類学的研究の結果に基づき、コリネバクテリウム属の2つの新種、すなわちCorynebacterium yanzhangcaii sp. nov.（タイプ株 H78T=GDMCC 1.4704T=JCM 37416T）およびCorynebacterium lidongmeiae sp. nov.（タイプ株 H128T=GDMCC 1.4705T=JCM 37417T）が提案される。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1099/ijsem.0.007350",
+    "title": "<i>Ligilactobacillus qiyongi</i> sp. nov. and <i>Ligilactobacillus zhujuni</i> sp. nov., isolated from greylag goose (<i>Anser anser</i>), and three <i>Candidatus</i> Ligilactobacillus species recovered from <i>anseriform</i> bird faeces.",
+    "abstract": "Three strains (LYQ60T, LYQ139 and LYQ135T) were isolated from the faeces of greylag goose (Anser anser) in Qinghai, PR China. Three strains were Gram-stain-positive, oxidase-negative, catalase-negative, obligate anaerobic, non-motile and short rod-shaped. Phylogenetic analyses based on 16S rRNA gene and genome sequences demonstrated that strains LYQ60T and LYQ139 were closely related to Ligilactobacillus hohenheimensis DSM 113870T, while LYQ135T was most similar to Ligilactobacillus cholophilus JCM 36074T. In addition, seven metagenome-assembled genomes (MAGs) affiliated to the genus Ligilactobacillus were recovered from the same batch of anseriform bird faecal metagenomes, including greylag goose (A. anser), bar-headed goose (Anser indicus) and ruddy shelduck (Tadorna ferruginea). Combining the core-genome phylogeny and digital DNA-DNA hybridization/average nucleotide identity analysis, MAG331 and MAG487 represent two other isolates of strain LYQ135T, forming a novel species. The remaining five genomes represent three candidate novel species, namely MAG282 and MAG536, MAG394 and MAG359 and MAG362 itself. Strains LYQ60T and LYQ139 grew at 35-42 °C, pH 4.0-8.0 and 0-3.0% (wt/vol) NaCl, and LYQ135T grew at 30-45 °C, pH 4.0-8.0 and 0-3.0% (wt/vol) NaCl. Major fatty acids (>10.0%) for LYQ60T and LYQ139 are C18 : 1  ω9c, C16 : 0 and C18 : 0, while those for LYQ135T are C16 : 0, C18 : 1  ω9c and Summed Feature 7 (C19 : 1  ω7c and/or C19 : 1  ω6c). Strain LYQ60T contained diphosphatidylglycerol (DPG), phosphatidylglycerol (PG) and aminophosphoglycolipid as major polar lipids, and LYQ135T contained only DPG and PG. Major cell-wall amino acids were alanine, lysine, glutamic acid and glycine in LYQ60T, and additionally aspartic acid in LYQ135T. Major sugars of both strains were glucose and galactose. Based on polyphasic characterization, two novel species are proposed: Ligilactobacillus qiyongi sp. nov. (type strain LYQ60T=GDMCC 1.5470T=KCTC 25977T, isolate strain LYQ139) and Ligilactobacillus zhujuni sp. nov. (type strain LYQ135T=GDMCC 1.6146T=KCTC 35102T). The three candidate species are named Candidatus Ligilactobacillus ansericola sp. nov. (MAG282/MAG536), Candidatus Ligilactobacillus himalayensis sp. nov. (MAG394/MAG359) and Candidatus Ligilactobacillus everestensis sp. nov. (MAG362).",
+    "journal": "International Journal of Systematic and Evolutionary Microbiology",
+    "doi": "10.1099/ijsem.0.007350",
+    "date": "2026-11-01",
+    "authors": "Liu Y, Pu J, Zhou H, Wang H, Li Y, Chen J, Yang J, Ren L, Xu J.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43076609",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43076609",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16s rrna",
+        "metagenom",
+        "metagenome",
+        "metagenomes"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome",
+          "metagenom",
+          "metagenome",
+          "phylogen",
+          "phylogenetic",
+          "phylogeny"
+        ],
+        "evolution": [
+          "phylogeny",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 299,
+    "collected_at": "2026-11-28T12:58:14.797353+00:00",
+    "collected_date": "2026-11-28",
+    "sources": [
+      "Europe PMC genome methods"
+    ],
+    "first_seen": "2026-11-28",
+    "related_dois": [
+      "10.1099/ijsem.0.007350"
+    ],
+    "translation": {
+      "title": {
+        "hash": "5fe1dfca70baecaa55d4d3feaf6c3c1751039ed325db45fd46edf6102c4d6c09",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T13:41:31.371493+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "00353b6a6fec8e783db5ec6a8c7c10c778bffb0f828b2f77267de62887b3dacc",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T13:41:31.371493+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ハイイロガン（<i>Anser anser</i>）から分離された<i>Ligilactobacillus qiyongi</i> sp. nov.および<i>Ligilactobacillus zhujuni</i> sp. nov.、ならびに<i>anseriform</i>鳥類の糞便から回収された3種の<i>Candidatus</i> Ligilactobacillus属菌。",
+    "abstract_ja": "中国・青海省のハイイロガン（Anser anser）の糞便から、3株（LYQ60T、LYQ139、LYQ135T）が分離された。これら3株はいずれもグラム染色陽性、オキシダーゼ陰性、カタラーゼ陰性であり、絶対嫌気性で非運動性の短桿菌であった。16S rRNA遺伝子およびゲノム配列に基づく系統解析の結果、LYQ60T株およびLYQ139株はLigilactobacillus hohenheimensis DSM 113870Tと近縁であり、LYQ135T株はLigilactobacillus cholophilus JCM 36074Tと最も近縁であることが示された。さらに、ハイイロガン（A. anser）、バーヘッドガン（Anser indicus）、およびアカガモ（Tadorna ferruginea）を含む同一ロットのカモ目鳥類糞便メタゲノムから、Ligilactobacillus属に属する7つのメタゲノムアセンブルゲノム（MAG）が回収された。コアゲノム系統解析とデジタルDNA-DNAハイブリダイゼーション／平均塩基同一性解析を組み合わせた結果、MAG331およびMAG487はLYQ135T株の別の2つの分離株であり、新種を構成することが判明した。残りの5つのゲノムは、MAG282およびMAG536、MAG394およびMAG359、そしてMAG362自体という3つの新種候補を構成していた。LYQ60T株およびLYQ139株は35-42 °C、pH 4.0-8.0、0-3.0% (wt/vol) NaClで増殖し、LYQ135T株は30-45 °C、pH 4.0-8.0、0-3.0% (wt/vol) NaClで増殖した。LYQ60T株およびLYQ139株の主要脂肪酸（>10.0%）はC18 : 1  ω9c、C16 : 0、C18 : 0であり、LYQ135T株の主要脂肪酸はC16 : 0、C18 : 1  ω9c、およびSummed Feature 7（C19 : 1  ω7cおよび/またはC19 : 1  ω6c）であった。LYQ60T株は主要な極性脂質としてジホスファチジルグリセロール（DPG）、ホスファチジルグリセロール（PG）、およびアミノホスホグリコリピッドを含み、LYQ135T株はDPGとPGのみを含んでいた。主要な細胞壁アミノ酸は、LYQ60T株ではアラニン、リシン、グルタミン酸、グリシンであり、LYQ135T株ではさらにアスパラギン酸が含まれていた。両株の主要糖はグルコースおよびガラクトースであった。多相的特性解析に基づき、2つの新種が提案された：Ligilactobacillus qiyongi sp. nov.（タイプ株 LYQ60T=GDMCC 1.5470T=KCTC 25977T、分離株 LYQ139）およびLigilactobacillus zhujuni sp. nov.（タイプ株 LYQ135T=GDMCC 1.6146T=KCTC 35102T）である。これら3つの候補種は、Candidatus Ligilactobacillus ansericola sp. nov. (MAG282/MAG536)、Candidatus Ligilactobacillus himalayensis sp. nov. (MAG394/MAG359)、およびCandidatus Ligilactobacillus everestensis sp. nov. (MAG362)と命名された。"
+  },
+  {
+    "id": "10.64898/2026.11.25.769217",
+    "title": "Dietary fibre hierarchical structure determines gut microbiota responses to apple (poly)phenols through metabolite-associated microbial guilds",
+    "abstract": "Dietary fibres frequently coexist in the colon with vacuole-derived (poly)phenolic compounds following consumption of whole and minimally processed plant foods or combinations of dietary sources. However, whether (poly)phenols can direct microbial community composition and metabolic outputs during fibre fermentation, and whether such effects depend on fibre composition and physical assembly, remains unknown, possibly explaining inconsistent (poly)phenol clinical outcomes. Here, we investigated how dietary fibre hierarchical structural assembly and vacuole-derived (poly)phenols interact to shape gut microbial community composition and metabolite output. We developed tunable, (poly)phenol-free bacterial analogues of dicotyledonous primary cell walls, enabling comparison with compositionally matched but unstructured polysaccharide mixtures. Using a fully characterised apple (poly)phenol extract at physiologically relevant colonic concentrations and human faecal inocula, we show that (poly)phenols had minimal effects on overall microbial community composition and diversity but significantly altered microbial metabolic outputs. These changes were associated with subtle, context-dependent shifts in taxa assigned to putative saccharolytic and proteolytic guilds based on taxon-metabolite correlations. However, these effects occurred only within specific fermentation contexts characterized by low fermentability (e.g., cellulose and physically-assembled cell walls) or slowly fermentable substrates (xyloglucan), but not rapidly fermentable substrates (e.g., pectin or unstructured polysaccharide blends). Results revealed a hierarchical framework of microbial fermentation in which fibre composition defines metabolic potential, physical assembly governs substrate accessibility and fermentation dynamics, and (poly)phenols unlock utilization of recalcitrant dietary fibres through context-dependent trophic and antimicrobial (duplibiotic) effects on specialized microbial guilds, establishing fibre composition and physical assembly as key determinants of microbiota responses to dietary (poly)phenols.",
+    "journal": "",
+    "doi": "10.64898/2026.11.25.769217",
+    "date": "2026-11-28",
+    "authors": "Lopez-Rodulfo, I. M., Swackhamer, C., Bechtner, J., Fang, F., Hamaker, B. R., Martinez, M. M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.25.769217v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "microbial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5897,
+    "collected_at": "2026-11-28T13:08:24.513490+00:00",
+    "collected_date": "2026-11-28",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-28",
+    "related_dois": [
+      "10.64898/2026.11.25.769217"
+    ],
+    "translation": {
+      "title": {
+        "hash": "77faa9a88357530575e57a28f85e0958bbe7262d267dd6b42e9da1f84cb9f651",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T13:41:31.371493+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "f865d8803c23b8c4152c95e5b5b8ad941910414fe8ca30ad7308d2529dd07108",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T13:41:31.371493+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "食物繊維の階層構造は、代謝物関連微生物ギルドを介して、リンゴ（ポリ）フェノールに対する腸内細菌叢の応答を決定づける。",
+    "abstract_ja": "未加工または最小限の加工を施した植物性食品、あるいは複数の食品源を組み合わせた摂取後、結腸内では食物繊維と液胞由来の（ポリ）フェノール化合物が共存することが多い。しかし、食物繊維の発酵過程において（ポリ）フェノールが微生物群集の組成や代謝産物の産生を制御し得るのか、またそのような効果が食物繊維の組成や物理的構造に依存するのかは依然として不明であり、これが（ポリ）フェノールによる臨床結果の不一致の一因となっている可能性がある。本研究では、食物繊維の階層的な構造形成と液胞由来の（ポリ）フェノールがどのように相互作用し、腸内微生物群集の組成や代謝産物の産生を形作るかを調査した。我々は、双子葉植物の一次細胞壁の、（ポリ）フェノールを含まない調整可能な細菌類似体を開発し、組成を一致させた非構造化多糖類混合物との比較を可能にした。生理学的に意義のある結腸濃度で完全に特性解析されたリンゴ（ポリ）フェノール抽出物とヒト糞便接種菌を用い、（ポリ）フェノールが微生物群集全体の組成と多様性に及ぼす影響は最小限であった一方、微生物の代謝産物の産生を有意に変化させることを示した。これらの変化は、分類群と代謝産物の相関に基づき、推定される糖分解性およびタンパク質分解性ギルドに割り当てられた分類群の、文脈依存的なわずかなシフトに関連していた。しかし、これらの効果は、発酵性が低いもの（例：セルロースや物理的に構造化された細胞壁）や発酵速度の遅い基質（キシログルカン）に特徴的な特定の発酵文脈においてのみ認められ、急速に発酵する基質（例：ペクチンや非構造化多糖類混合物）では認められなかった。その結果から、食物繊維の組成が代謝能を規定し、物理的構造が基質の利用可能性と発酵動態を支配し、（ポリ）フェノールが特殊な微生物ギルドに対する文脈依存的な栄養段階的および抗菌的（デュプリバイオティック）効果を通じて難分解性食物繊維の利用を可能にするという、微生物発酵の階層的枠組みが明らかになった。これにより、食物繊維の組成と物理的構造が、食事由来の（ポリ）フェノールに対する微生物叢の応答を決定づける主要な要因であることが示された。"
+  },
+  {
+    "id": "10.64898/2026.11.26.768673",
+    "title": "Choanoflagellates discriminate among Pseudomonas aeruginosa alkylquinolones during pathogen response",
+    "abstract": "Choanoflagellates are emerging models for studying host-pathogen interactions, and as the closest living relatives of animals, offer a window into the evolution of immune defense against bacteria. However, investigating mechanisms of pathogen recognition and response in choanoflagellates remains challenging in the absence of defined bacterial effectors. By studying the interaction between the pathogen Pseudomonas aeruginosa and the choanoflagellate Monosiga brevicollis, we identify alkylquinolone HNQ (2-nonyl-4-quinolone) as a potent effector that reduces host viability. Structure-activity studies reveal that both the nine-carbon side chain and the unmodified 4-quinolone core contribute to HNQ's potency. HNQ is enriched in outer membrane vesicles, suggesting a route for its delivery in aquatic environments. In addition, HNQ reduces the viability of diverse choanoflagellate species and human cells, indicating that its effector activity may extend across evolutionarily distant hosts. Notably, M. brevicollis distinguishes HNQ, a molecule produced primarily by P. aeruginosa, from closely related hydroxylated compounds and mounts a selective response involving MbABCG1, a novel ABCG transporter that modulates sensitivity to HNQ. Together, these findings identify HNQ as a broadly active P. aeruginosa effector and show that choanoflagellates distinguish among closely related metabolites produced by a pathogen, providing a foundation for understanding the molecular basis of pathogen recognition and response.",
+    "journal": "",
+    "doi": "10.64898/2026.11.26.768673",
+    "date": "2026-11-28",
+    "authors": "Gabriel, J. P., McNairy, C., Dayras, M., Peng, C.-c., Deng, V., Meyer, F.-X., Beemelmanns, C., Woznica, A.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.26.768673v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Pseudomonas",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [
+          "aquatic"
+        ],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5898,
+    "collected_at": "2026-11-28T13:08:24.513490+00:00",
+    "collected_date": "2026-11-28",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-28",
+    "related_dois": [
+      "10.64898/2026.11.26.768673"
+    ],
+    "translation": {
+      "title": {
+        "hash": "d24ee822a446ecfd3c4dc5fdb1cab5f39a07046b6e15b5fe81d33e94f95b1000",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T13:41:31.371493+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "716856b6b5f369b99f3b9d61fd751d58a7d4a2a22a3b66765b7ddeea0cacfd84",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T13:41:31.371493+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "襟鞭毛虫は病原体応答においてPseudomonas aeruginosaのアルキルキノロン系薬剤を識別する",
+    "abstract_ja": "襟鞭毛虫類は、宿主と病原体の相互作用を研究するための新たなモデルであり、動物に最も近い現生近縁種として、細菌に対する免疫防御の進化を解明する手がかりとなる。しかし、明確な細菌エフェクターが存在しないため、襟鞭毛虫類における病原体認識および応答機構の解明は依然として困難である。病原体Pseudomonas aeruginosaと襟鞭毛虫類Monosiga brevicollisとの相互作用を研究することにより、我々はアルキルキノロン類であるHNQ（2-ノニル-4-キノロン）を、宿主の生存能を低下させる強力なエフェクターとして同定した。構造活性解析により、9炭素側鎖と未修飾の4-キノロンコアの双方がHNQの効力に寄与していることが明らかになった。HNQは外膜小胞に豊富に存在しており、水圏環境における輸送経路の存在が示唆される。さらに、HNQは多様な襟鞭毛虫種およびヒト細胞の生存能を低下させることから、そのエフェクター活性が進化的に遠縁な宿主間でも及ぶ可能性が示された。特筆すべきは、M. brevicollisが、主にP. aeruginosaによって産生される分子であるHNQを、近縁な水酸化化合物と区別し、HNQに対する感受性を調節する新規ABCGトランスポーターであるMbABCG1を介した選択的応答を示す点である。これらの知見を総合すると、HNQは広範に活性を持つP. aeruginosaのエフェクターであることが特定され、また襟鞭毛虫類が病原体によって産生される近縁な代謝物を識別することが示された。これは、病原体認識および応答の分子基盤を理解するための基礎となるものである。"
   }
 ]
