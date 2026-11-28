@@ -349041,5 +349041,295 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "襟鞭毛虫は病原体応答においてPseudomonas aeruginosaのアルキルキノロン系薬剤を識別する",
     "abstract_ja": "襟鞭毛虫類は、宿主と病原体の相互作用を研究するための新たなモデルであり、動物に最も近い現生近縁種として、細菌に対する免疫防御の進化を解明する手がかりとなる。しかし、明確な細菌エフェクターが存在しないため、襟鞭毛虫類における病原体認識および応答機構の解明は依然として困難である。病原体Pseudomonas aeruginosaと襟鞭毛虫類Monosiga brevicollisとの相互作用を研究することにより、我々はアルキルキノロン類であるHNQ（2-ノニル-4-キノロン）を、宿主の生存能を低下させる強力なエフェクターとして同定した。構造活性解析により、9炭素側鎖と未修飾の4-キノロンコアの双方がHNQの効力に寄与していることが明らかになった。HNQは外膜小胞に豊富に存在しており、水圏環境における輸送経路の存在が示唆される。さらに、HNQは多様な襟鞭毛虫種およびヒト細胞の生存能を低下させることから、そのエフェクター活性が進化的に遠縁な宿主間でも及ぶ可能性が示された。特筆すべきは、M. brevicollisが、主にP. aeruginosaによって産生される分子であるHNQを、近縁な水酸化化合物と区別し、HNQに対する感受性を調節する新規ABCGトランスポーターであるMbABCG1を介した選択的応答を示す点である。これらの知見を総合すると、HNQは広範に活性を持つP. aeruginosaのエフェクターであることが特定され、また襟鞭毛虫類が病原体によって産生される近縁な代謝物を識別することが示された。これは、病原体認識および応答の分子基盤を理解するための基礎となるものである。"
+  },
+  {
+    "id": "10.64898/2026.11.26.769439",
+    "title": "Defining and Characterizing the Accessory Genome of the Virulent Vibriophage ICP1",
+    "abstract": "Bacteriophages (phages) must evade host defense systems and redirect cellular resources to support viral replication. The virulent phage ICP1 is a persistent predator of Vibrio cholerae in both human hosts and aquatic environments, yet the genetic factors underlying its infection cycle remain incompletely defined. Here, we developed a transposon mutagenesis platform for ICP1 and applied transposon sequencing (Tn-seq) to identify genes required for infection across host strains and environmental conditions. Approximately 32% of ICP1's 237 genes appeared essential, while 68% were dispensable, with a subset showing conditional essentiality. As a proof of principle, mutants disrupted in the anti-PLE (phage-inducible chromosomal-like element) counter-defense gene adi (gp99.1) were conditionally restricted in hosts carrying PLE2 when CRISPR-Cas-mediated targeting of PLE2 was abrogated but were otherwise neutral. We further identified phage genes involved in nucleotide metabolism whose contribution to fitness depended on nutrient availability. Under nutrient-limited conditions, mutants in the aerobic and anaerobic ribonucleotide reductase genes, nrdAB and nrdDG, were strongly depleted, consistent with roles in maintaining nucleotide pools under differing oxygen concentrations. Mutations in gp170, encoding a predicted dNMP kinase, and gp193 (td), encoding a predicted thymidylate synthase, also resulted in fitness defects. Together, these results help establish Tn-seq as a powerful approach for defining ICP1 gene requirements while highlighting the need to validate subtle conditional fitness effects.",
+    "journal": "",
+    "doi": "10.64898/2026.11.26.769439",
+    "date": "2026-11-28",
+    "authors": "Camilli, A., Tan, E. A., Lawrence, H. B., Calderon-Zavala, A., Lazinski, D. W.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.26.769439v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Vibrio",
+        "bacteriophage",
+        "bacteriophages",
+        "phage",
+        "phages",
+        "viral"
+      ],
+      "context": {
+        "marine": [
+          "aquatic"
+        ],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5899,
+    "collected_at": "2026-11-28T13:08:24.513490+00:00",
+    "collected_date": "2026-11-28",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-28",
+    "related_dois": [
+      "10.64898/2026.11.26.769439"
+    ],
+    "translation": {
+      "title": {
+        "hash": "93316547b3cb9eede12864222678b0ea1a865e4627282a4e8aa0549b85cf7ba5",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T13:45:54.180445+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0f4232504a11bb329e1a397e25094fd2655938f839be2cc9abe49ccb59a5fc99",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T13:45:54.180445+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "強毒ビブリオファージICP1のアクセサリーゲノムの定義と特性解析",
+    "abstract_ja": "バクテリオファージ（ファージ）は、宿主の防御システムを回避し、細胞資源を転用してウイルスの複製をサポートしなければならない。強毒ファージICP1は、ヒト宿主と水圏環境の両方においてコレラ菌の持続的な捕食者であるが、その感染サイクルの根底にある遺伝的因子は依然として十分に解明されていない。本研究では、ICP1のトランスポゾン変異導入プラットフォームを開発し、トランスポゾンシーケンシング（Tn-seq）を応用して、宿主株や環境条件を問わず感染に必要な遺伝子を同定した。ICP1の237個の遺伝子のうち約32%が必須であると考えられ、68%は非必須であり、その一部は条件付き必須性を示した。原理実証として、抗PLE（ファージ誘導性染色体様エレメント）対抗防御遺伝子adi（gp99.1）に破壊を導入した変異体は、PLE2のCRISPR-Cas介在性ターゲティングを消失させた場合、PLE2を保持する宿主において条件付きで制限されたが、それ以外は中立であった。さらに、ヌクレオチド代謝に関与し、適応度への寄与が栄養塩の利用可能性に依存するファージ遺伝子を同定した。栄養塩制限条件下では、好気性および嫌気性リボヌクレオチド還元酵素遺伝子であるnrdABおよびnrdDGの変異体が強く枯渇しており、これは異なる酸素濃度下でヌクレオチドプールを維持する役割と一致していた。予測されるdNMPキナーゼをコードするgp170と、予測されるチミジル酸シンターゼをコードするgp193（td）の変異も、適応度の欠陥をもたらした。これらの結果を総合すると、Tn-seqはICP1の遺伝子要求性を定義するための強力な手法であることが示されるとともに、微細な条件付き適応度効果を検証する必要性が浮き彫りになった。"
+  },
+  {
+    "id": "10.64898/2026.11.26.769605",
+    "title": "HIV-1 VPR TARGETS BCOR FOR DEGRADATION TO COUNTER POLYCOMB-DEPENDENT PROVIRAL SILENCING",
+    "abstract": "Chromatin remodeling complexes such as the Polycomb Repressive Complex (PRC) are recruited to the HIV-1 promoter during latency. Using BioID, we previously identified multiple PRC subunits as potential HIV-1 Vpr-interacting partners. Here, we show that HIV-1 Vpr, but not its paralog Vpx encoded by SIVsmm/HIV-2, targets the non-canonical PRC1.1 core component, BCL6 co-repressor (BCOR), for proteasomal degradation. Vpr-dependent depletion of BCOR is observed during infection of T-cells and can be induced by virion-associated Vpr prior to early step leading to viral DNA integration and provirus expression. BCOR degradation is independent from the G2/M-arrest activity induced by Vpr but requires the recruitment of the CRL4DCAF1 E3 ubiquitin ligase by Vpr. Using T-cell models of HIV latency (Jurkat E4 and 2D10), we further show that BCOR is recruited to the LTR of latent proviruses along with the polycomb group RING finger protein 1 (PCGF1) and H2AK119ub prototypical silencing marks are detectable in this context. ShRNA-directed BCOR knockdown reactivates HIV-1 expression in 2D10 cells, and this reactivation is phenocopied upon Vpr expression. Overall, our results identify PRC1.1 as the non-canonical complex involved in PRC-dependent silencing of the HIV-1 LTR and further reveal that Vpr counteracts HIV-1 transcriptional silencing through BCOR degradation likely to achieve optimal viral expression and propagation during infection.",
+    "journal": "",
+    "doi": "10.64898/2026.11.26.769605",
+    "date": "2026-11-28",
+    "authors": "Romero-Medina, M. C., Munoz-Arias, I., Barbosa, J. A. F., Pham, T. N., Cohen, E. A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.26.769605v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5900,
+    "collected_at": "2026-11-28T13:08:24.513490+00:00",
+    "collected_date": "2026-11-28",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-28",
+    "related_dois": [
+      "10.64898/2026.11.26.769605"
+    ],
+    "translation": {
+      "title": {
+        "hash": "7e4be0c95b5f0926eff14e4187d8665cde380e5fdfe388f4843bcff30b599a0c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T13:45:54.180445+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "bfc3311dbc0c98540d1b5798445673a3fac84413b518b30836a4d408b5fa0f44",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T13:45:54.180445+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "HIV-1 VPRはポリコーム依存性プロビリアルサイレンシングに対抗するため、BCORを標的として分解する。",
+    "abstract_ja": "ポリコーム抑制複合体（PRC）などのクロマチンリモデリング複合体は、潜伏期にHIV-1プロモーターへと動員される。我々は以前、BioIDを用いて、複数のPRCサブユニットをHIV-1 Vprの潜在的な相互作用パートナーとして同定した。本研究では、HIV-1 Vprが、SIVsmm/HIV-2によってコードされるパラログVpxとは異なり、非カノニカルなPRC1.1コア構成要素であるBCL6共抑制因子（BCOR）をプロテアソーム分解の標的とすることを示す。T細胞への感染時にVpr依存的なBCORの枯渇が観察され、これはウイルスDNAの組み込みおよびプロウイルス発現に至る初期段階に先立ち、ビリオン関連Vprによって誘導され得る。BCORの分解は、Vprによって誘導されるG2/M停止活性とは独立しているが、VprによるCRL4DCAF1 E3ユビキチンリガーゼの動員を必要とする。HIV潜伏期のT細胞モデル（Jurkat E4および2D10）を用いて、BCORがポリコーム群RINGフィンガータンパク質1（PCGF1）とともに潜伏プロウイルスのLTRへと動員されること、また、この文脈においてH2AK119ubプロトタイプサイレンシングマークが検出可能であることをさらに示す。ShRNA誘導性のBCORノックダウンは2D10細胞においてHIV-1発現を再活性化し、この再活性化はVpr発現時に表現型として再現される。総じて、我々の結果は、PRC1.1をHIV-1 LTRのPRC依存的サイレンシングに関与する非カノニカル複合体として同定し、さらに、VprがBCOR分解を通じてHIV-1の転写サイレンシングに対抗することで、感染時の最適なウイルス発現および増殖を実現している可能性が高いことを明らかにしている。"
+  },
+  {
+    "id": "10.64898/2026.11.26.769492",
+    "title": "Unifying Gene Regulatory Network Inference and Sequence-to-Expression Modeling via Bilinear Sparse Regression for De Novo TF-DNA Interaction Discovery",
+    "abstract": "Inferring transcription factor (TF)-DNA interactions from transcriptomic data is key to deciphering the genomic regulatory code. Existing computational approaches generally focus either on identifying trans-regulatory dynamics via gene regulatory network (GRN) inference or cis-regulatory sequence logic via sequence-to-expression (S2E) modeling. This requires fitting separate models across individual genes or conditions, which obscures shared regulatory structures and fails to explicitly capture cis-trans interactions.Here, we introduce BRIDGE (Bilinear Regulatory Inference from DNA and Gene Expression), a computationally efficient framework that unifies GRN inference and S2E modeling into a single, convex optimization objective. By explicitly modeling gene expression as a function of the interaction between promoter k-mers and TF abundances, BRIDGE guarantees a unique global minimimum while enabling de novo discovery of TF-specific binding motifs (TFBMs). Without the use of prior motif libraries, BRIDGE reconstructs high-fidelity TFBMs matching experimentally validated ones. Hence, we establish a new conceptual framework for linking TF abundance to cis-regulatory sequence, providing a foundation for future approaches to build upon.",
+    "journal": "",
+    "doi": "10.64898/2026.11.26.769492",
+    "date": "2026-11-28",
+    "authors": "Alonso Esteve, J., de Ridder, D., van Dijk, A.-J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.26.769492v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "DNA",
+        "framework",
+        "gene",
+        "inference",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5902,
+    "collected_at": "2026-11-28T13:08:24.513490+00:00",
+    "collected_date": "2026-11-28",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-28",
+    "related_dois": [
+      "10.64898/2026.11.26.769492"
+    ],
+    "translation": {
+      "title": {
+        "hash": "acec3ad7bf9a5b806a134b96ca02ccc3a53712ff51c37f691f065f71f2534809",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T13:45:54.180445+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d889778d9b94769518a1021a1a708f23407afb2ccdce3ea9ba5e8d4c92518a15",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T13:45:54.180445+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "双線形スパース回帰による遺伝子調節ネットワーク推論と配列発現モデリングの統合：de novo TF-DNA相互作用の発見に向けて",
+    "abstract_ja": "トランスクリプトームデータから転写因子（TF）とDNAの相互作用を推論することは、ゲノム調節コードを解明する上で極めて重要である。既存の計算手法は一般に、遺伝子調節ネットワーク（GRN）推論によるトランス調節ダイナミクスの同定、あるいは配列から発現への（S2E）モデリングによるシス調節配列ロジックのいずれかに焦点を当てている。これには、個々の遺伝子や条件ごとに個別のモデルを適合させる必要があり、共通の調節構造が不明瞭になるとともに、シス・トランス相互作用を明示的に捉えることができない。本研究では、GRN推論とS2Eモデリングを単一の凸最適化目的関数に統合した計算効率の高いフレームワークであるBRIDGE（Bilinear Regulatory Inference from DNA and Gene Expression）を提案する。プロモーターk-merとTF存在量の相互作用の関数として遺伝子発現を明示的にモデル化することで、BRIDGEは一意な大域的最小値を保証すると同時に、TF特異的結合モチーフ（TFBMs）のde novo探索を可能にする。事前のモチーフライブラリを用いることなく、BRIDGEは実験的に検証されたものと一致する高忠実度なTFBMsを再構成する。したがって、我々はTF存在量をシス調節配列に結びつける新たな概念的枠組みを確立し、今後のアプローチの基盤を提供する。"
+  },
+  {
+    "id": "10.64898/2026.11.20.768086",
+    "title": "Deconvoluting Latent Erythroid-Mitochondrial Transcriptomic Gradients and Technical Sample Structure in Severe Preeclampsia: A Stratified Sensitivity Framework for Public Placental RNA-Seq Datasets",
+    "abstract": "BackgroundBulk placental transcriptomic profiling has been widely deployed to elucidate the molecular pathogenesis of severe preeclampsia (sPE) and to nominate clinical biomarkers across diverse maternal populations. However, human placental tissue exhibits profound cellular heterogeneity and vascular perfusion variability. When unmeasured technical processing structure or erythroid-trophoblast compositional gradients covary with clinical phenotypes in public repositories, standard differential gene expression (DGE) pipelines risk severe false-discovery inflation and spurious ancestry-specific biomarker claims.\n\nMethodsWe developed and applied a multi-layered transcriptomic audit, variance-partitioning diagnostic, and stratified permutation framework to re-evaluate the public NCBI Gene Expression Omnibus dataset GSE234729 (14,670 filtered, DESeq2-normalized features across 123 columns). Following strict provenance verification that excluded 12 unverified cross-series columns (linked to GSE186257), we analyzed 111 verified placental transcriptomes (43 sPE and 68 normotensive controls across African, Asian, and European maternal ancestries). Expression values were modeled on the log2(E+1) scale using robust empirical Bayes linear modeling (limma; ~ group + ancestry + fetal sex), benchmarked against standard empirical Bayes implementations, principal component variance decompositions, erythroid and mitochondrial gene-set scoring, stratified fixed-effect inverse-variance meta-analysis with Cochrans Q heterogeneity testing, and 1,000-iteration structure-preserving Monte Carlo permutation schemes.\n\nResultsWhile standard primary modeling identified 5,667 differentially expressed features at Benjamini-Hochberg false discovery rate (FDR)  0.39). Conversely, the putative cardiovascular risk biomarker IL3RA showed null primary association (-0.07 log2 units; 95% CI: -0.51 to 0.36; P = 0.74; genome-wide rank 13,299/14,670), reversed algebraic sign across strata (+0.77 in non- P vs. -0.54 in  P; heterogeneity P = 0.003), and failed genome-wide ancestry interaction testing (FDR {approx} 1.0).\n\nConclusionsNearly two-thirds of the apparent genome-wide differential expression in GSE234729 can be recapitulated by severe collinearity between clinical group, maternal ancestry, and a cryptic erythroid- mitochondrial sample structure. While core anti-angiogenic preeclampsia pathways (FLT1, LEP, ENG, PAPPA2, FSTL3, PHYHIP, PPP1R1C) are robust against this confounding, previously highlighted associations for IL3RA are statistically fragile and artifactually driven by unmodeled stratum heterogeneity. We establish an actionable bioinformatic auditing protocol requiring mandatory erythroid-contamination diagnostics, identifier-structure screening, and structure-preserving permutation testing prior to clinical biomarker nomination from public placental transcriptomes.",
+    "journal": "",
+    "doi": "10.64898/2026.11.20.768086",
+    "date": "2026-11-28",
+    "authors": "Zaman, K. A., Rahman, T. M., Hasan, M. S., Qumruzzaman, K., Kulsum, U.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.20.768086v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "framework",
+        "transcriptomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5903,
+    "collected_at": "2026-11-28T13:08:24.513490+00:00",
+    "collected_date": "2026-11-28",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-28",
+    "related_dois": [
+      "10.64898/2026.11.20.768086"
+    ],
+    "translation": {
+      "title": {
+        "hash": "2b5035cd5345a45239c370764c4645dd979efd1174fb1914973cae1263acae5d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T13:45:54.180445+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0718f95c861d86fbf83207d74a092c31335ab2e987c36ebc91b352794e5aef61",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T13:45:54.180445+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "重症妊娠高血圧腎症における潜在的赤血球・ミトコンドリア転写産物勾配のデコンボリューションとテクニカルサンプル構造：公開胎盤RNA-Seqデータセットのための層別感度フレームワーク",
+    "abstract_ja": "背景：バルク胎盤トランスクリプトームプロファイリングは、重症妊娠高血圧腎症（sPE）の分子病態を解明し、多様な母体集団における臨床バイオマーカーを同定するために広く導入されてきた。しかし、ヒト胎盤組織は著しい細胞不均一性と血管灌流の変動性を示す。公開リポジトリにおいて、未測定の技術的処理構造や赤芽球系・栄養膜細胞の組成勾配が臨床表現型と共変する場合、標準的な差異遺伝子発現（DGE）パイプラインは、深刻な偽発見のインフレーションや、祖先系統特異的なバイオマーカーの根拠のない主張を招くリスクがある。\n\n方法：我々は、公開NCBI Gene Expression OmnibusデータセットGSE234729（123列にわたる14,670個のフィルタリング済みDESeq2正規化特徴量）を再評価するため、多層的なトランスクリプトーム監査、分散分割診断、および層化置換フレームワークを開発・適用した。未検証のクロスシリーズ列12列（GSE186257に関連）を除外した厳格なプロベナンス検証を経て、検証済みの胎盤トランスクリプトーム111件（アフリカ、アジア、欧州の母体祖先系統にわたるsPE 43件および正常血圧対照群68件）を解析した。発現値は、ロバストな経験的ベイズ線形モデリング（limma; ~ group + ancestry + fetal sex）を用いてlog2(E+1)スケールでモデル化し、標準的な経験的ベイズ実装、主成分分散分解、赤芽球系およびミトコンドリア遺伝子セットスコアリング、コクランQ不均一性検定を用いた層化固定効果逆分散メタ解析、および1,000回反復の構造保存モンテカルロ置換スキームとベンチマーク評価を行った。\n\n結果：標準的な一次モデリングでは、ベンジャミニ・ホッホバーグ偽発見率（FDR）0.39で5,667個の差異発現特徴量が同定された。対照的に、推定される心血管リスクバイオマーカーIL3RAは、一次関連性がゼロ（-0.07 log2単位; 95% CI: -0.51～0.36; P = 0.74; ゲノムワイド順位 13,299/14,670）であり、層間で代数符号が反転し（非P群で+0.77、P群で-0.54; 不均一性 P = 0.003）、ゲノムワイドな祖先系統間相互作用検定でも不合格となった（FDR {approx} 1.0）。\n\n結論：GSE234729における見かけ上のゲノムワイドな差異発現のほぼ3分の2は、臨床群、母体祖先系統、および潜在的な赤芽球系・ミトコンドリアサンプル構造の間の顕著な共線性によって再現可能である。中核的な抗血管新生性妊娠高血圧腎症経路（FLT1, LEP, ENG, PAPPA2, FSTL3, PHYHIP, PPP1R1C）はこの交絡要因に対して頑健であるが、IL3RAについて以前に強調された関連性は統計的に脆弱であり、モデル化されていない層間不均一性によって人為的に誘導されたものである。我々は、公開胎盤トランスクリプトームから臨床バイオマーカーを同定する前に、赤芽球系混入診断、識別子構造スクリーニング、および構造保存置換検定を必須とする、実用的なバイオインフォマティクス監査プロトコルを確立する。"
   }
 ]
