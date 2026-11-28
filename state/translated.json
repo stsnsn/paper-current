@@ -347581,5 +347581,218 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "がんにおける変異プロセスの精密な推論を可能にする、配列コンテキスト非依存型アプローチ。",
     "abstract_ja": "変異シグネチャーとは、内因性および外因性の変異原性プロセスの活性によって生じ、がんゲノムにおいて観察される体細胞変異の反復的なパターンである。これらの解析は、がんの病因に関する理解を大幅に進展させ、予防戦略への知見を提供し、臨床的層別化を支援してきた。解析的手法は変異シグネチャーの同定を容易にする一方で、一部のシグネチャーは明確な基礎的変異プロセスではなく、方法論的なアーティファクトを反映している可能性があるため、その生物学的解釈は困難な場合がある。従来の変異シグネチャー推論フレームワークでは一般に、変異の機会がゲノム全体に一様に分布し、がん種間で同等であると想定されている。しかし、可変的なDNAモチーフはゲノム全体に均等に分布しているわけではなく、DNA修復機構による利用可能性は局所的なクロマチン状態の影響を受ける。これらの限界に対処するため、我々は、各変異をそれぞれの配列コンテキストの局所的な利用可能性に応じて調整した重み付き変異カタログを生成することで、不均一なヌクレオチド組成を考慮した手法であるSEQUENCE（SEQuence context Ubiased InferENCE of mutational signature）を開発した。SEQUENCEで生成された変異行列を、変異シグネチャー抽出の従来フレームワークであるSigProfilerExtractorの入力として用いることで、本アプローチが、細胞種特異的かつゲノム全体で局所的に変動する変異率に起因するバイアスを軽減することを実証した。さらに、重みに符号化された潜在的な局所情報により、同一の配列コンテキストを標的とする共起する変異プロセスの分離が可能となり、既報の変異シグネチャーの変異スペクトルが精緻化された。比較的平坦な変異スペクトルを特徴とする変異シグネチャーの抽出は極めて困難であることで知られている。本研究では、臨床的に意義のある変異シグネチャーを用い、SEQUENCEが補助化学療法への反応に応じて患者の層別化を改善できることを実証した。これらの知見を総合すると、配列コンテキストにバイアスのない変異シグネチャー推論は、現在のリファレンスシグネチャーを再検討するための有望な新フレームワークであり、その根底にある起源へのより深い洞察を提供し、がん予防および臨床応用への展開を促進するものである。"
+  },
+  {
+    "id": "10.64898/2026.11.24.767187",
+    "title": "Deciphering lung microbial EV pneumotypes in acute respiratory distress syndrome proteome wide",
+    "abstract": "Background. Pneumotypes hold potential predictive value for pathogenesis, outcomes, and interventions. Lung microbiome releases extracellular vesicles (EVs). However, EV-derived pneumotypes in acute respiratory distress syndrome (ARDS) have not been studied yet. Objectives. We aimed to identify pneumotypes in ARDS patients by comprehensively profiling lung microbiome-released EV proteins in bronchioalveolar lavage fluid (BALF). Methods. We extracted EVs from 106 participants (57 cases and 49 healthy controls) enrolled in the ARDSNet and SPIROMICS clinical trials and subjected to nanoparticle liquid chromatography-mass spectrometry (LC-MS) to create microbial metaproteomics. Differentially expressed proteins (DEPs) were identified by Wilcoxon rank-sum test, and spectral clustering of these DEPs was utilized to reveal patterns in microbial EV protein profiles. The association between pneumotypes and the disease was assessed. Pneumotype-associated DEPs were identified using logistic regression, and their functional annotation was performed based on the eggNOG 5 database. The taxonomy of lung microbes was determined at the species-level and ranked by biomass contributions. Results. Ninety DEPs were identified in ARDS lavage samples (53 upregulated and 37 downregulated) compared with healthy controls. There were five pneumotypes, namely, P1, P2, P3, P4, and P5, identified by clustering the differentially expressed microbial EV proteins. Few pneumotype-associated DEPs were shared among these pneumotypes and mainly correlated with ARDS etiology and organ functions. The significant difference in mortality was observed in P3 and P4 subtypes. In contrast, all patients in P1 and P5 subgroups survived. Patients in P2 and P3 groups experienced a significant reduction in both of central nervous system (CNS) failure-free days and the days without organ failure compared with other subgroups. Besides, patients in P3 and P4 exhibited a higher prevalence of baseline shock and hypertension, greater use of vasopressors or inotropes within the previous 24 hours, higher positive end-expiratory pressure during ventilation, and lower body temperature and hematocrit levels. Alpha and beta diversity analyses showed significant shifts in P2 patients. The taxonomy of the top-ranked microbes exhibited different pathogens in P2, P3, and P4. Conclusions. This study, for the first time, identified five EV expression patterns of lung microbiota in the BALF of ARDS patients. These intrinsically featured EV pneumotypes in the lung are associated with mortality, etiology, lung functions, medication administration, and disease severity in ARDS patients.",
+    "journal": "",
+    "doi": "10.64898/2026.11.24.767187",
+    "date": "2026-11-26",
+    "authors": "Li, N., Zhao, R., Bisharat, A., Smith, D., Gilbert, E., Zhang, J., Ji, H.-L.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.24.767187v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbe",
+        "microbes",
+        "microbial",
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5884,
+    "collected_at": "2026-11-28T06:37:06.960330+00:00",
+    "collected_date": "2026-11-28",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-28",
+    "related_dois": [
+      "10.64898/2026.11.24.767187"
+    ],
+    "translation": {
+      "title": {
+        "hash": "13374a1d48e667727b358618364b8faeaaa5bba24e8a3b767cf54ef2cccb839d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T07:18:14.775374+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ded12b4efe453363c17858c3b63cdd2f4ed22b2727aab088f94b4365712fe19c",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T07:18:14.775374+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "急性呼吸窮迫症候群における肺微生物EV肺炎型のプロテオームワイドな解析",
+    "abstract_ja": "背景。ニューモタイプは、病態形成、転帰、および介入において予測価値を有する可能性がある。肺マイクロバイオームは細胞外小胞（EV）を放出する。しかし、急性呼吸窮迫症候群（ARDS）におけるEV由来のニューモタイプについては、これまで研究されてこなかった。目的。本研究では、細気管支肺胞洗浄液（BALF）中に放出される肺マイクロバイオーム由来EVタンパク質を網羅的にプロファイリングすることにより、ARDS患者におけるニューモタイプを同定することを目的とした。方法。ARDSNetおよびSPIROMICS臨床試験に登録された106名の被験者（症例57例、健常対照群49例）からEVを抽出し、ナノ粒子液体クロマトグラフィー質量分析法（LC-MS）を用いて微生物メタプロテオミクス解析を行った。ウィルコクソン順位和検定により発現変動タンパク質（DEP）を同定し、これらのDEPのスペクトルクラスタリングを用いて微生物EVタンパク質プロファイルのパターンを明らかにした。ニューモタイプと疾患との関連を評価した。ニューモタイプ関連DEPをロジスティック回帰分析により同定し、eggNOG 5データベースに基づいて機能アノテーションを行った。肺微生物の分類は種レベルで決定し、バイオマス寄与度に基づいて順位付けした。結果。健常対照群と比較して、ARDS洗浄検体において90種類のDEP（発現亢進53種類、発現低下37種類）が同定された。発現変動した微生物EVタンパク質のクラスタリングにより、P1、P2、P3、P4、P5の5つのニューモタイプが同定された。ニューモタイプ関連DEPのいくつかはこれらのニューモタイプ間で共通しており、主にARDSの病因および臓器機能と相関していた。死亡率に有意な差が認められたのは、P3およびP4サブタイプであった。対照的に、P1およびP5サブグループの患者は全員生存した。P2およびP3グループの患者は、他のサブグループと比較して、中枢神経系（CNS）不全のない日数および臓器不全のない日数の双方において有意な減少を示した。さらに、P3およびP4の患者では、ベースライン時のショックおよび高血圧の有病率が高く、過去24時間以内の昇圧剤または強心薬の使用量が多く、換気中の陽性呼気終末圧が高く、体温およびヘマトクリット値が低い傾向が認められた。アルファ多様性およびベータ多様性解析により、P2患者において有意なシフトが認められた。上位にランクされた微生物の分類では、P2、P3、P4で異なる病原体が認められた。結論。本研究により、ARDS患者のBALFにおける肺マイクロバイオータの5つのEV発現パターンが初めて同定された。肺内に固有のEVニューモタイプは、ARDS患者における死亡率、病因、肺機能、薬剤投与、および疾患重症度と関連している。"
+  },
+  {
+    "id": "10.64898/2026.11.24.768881",
+    "title": "Epstein-Barr Virus Load in Lymphoblastoid Cell Lines and Its Association with Schizophrenia",
+    "abstract": "Background: Blood Epstein-Barr virus (EBV) DNAs are reported to have genetic determinants and correlate with prevalence of autoimmune, neurological, respiratory and cardiovascular condition. However, whether a patient is more susceptible to EBV virus infection is unknown. Lymphoblastoid cell lines (LCLs) are often immortalized by infecting individuals' peripheral lymphocytes by EBV in a dish, providing an ex vivo model to address this question. Here, we examined associations of EBV viral load in LCLs with schizophrenia (SCZ) diagnosis, SCZ and bipolar (BIP) polygenic risk scores, and host genetic variation. Methods: EBV viral load in LCLs from the Molecular Genetics of Schizophrenia (MGS) study was examined using univariable and multivariable linear regression. Separate multivariable models evaluated SCZ diagnosis, bipolar disorder polygenic score (BIP-PGS), and SCZ polygenic score (SCZ-PGS), adjusting for age, sex, and the first five genetic ancestry principal components. An exploratory analysis examined age at schizophrenia onset. A genome-wide association study (GWAS) was conducted in 2,000 participants using the same covariates. Results: SCZ diagnosis was not significantly associated with EBV viral load after covariate adjustment (Beta=-0.004, SE = 0.025, P = 0.868). Neither BIP-PGS (Beta=-0.009, SE = 0.013, P = 0.469) nor SCZ-PGS (Beta=-0.002, SE = 0.013, P = 0.897) was significantly associated with viral load. Univariable analyses also identified no significant association with age at SCZ onset. For GWAS of EBV loads in LCL, no variant reached genome-wide significance (P < 5 x 10e-8). The strongest association was observed at rs7188098 in the GP2 gene on chromosome 16 (P = 3.7 x 10e-7). Conclusions: These analyses did not identify statistically significant associations of LCL EBV viral load with SCZ diagnosis or the psychiatric polygenic scores examined. The GWAS identified suggestive signals of association with EBV load, which require further investigation in larger sample sizes.",
+    "journal": "",
+    "doi": "10.64898/2026.11.24.768881",
+    "date": "2026-11-26",
+    "authors": "Yin, D., Zhang, H., Sanders, A. R., Duan, J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.24.768881v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5886,
+    "collected_at": "2026-11-28T06:37:06.960330+00:00",
+    "collected_date": "2026-11-28",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-28",
+    "related_dois": [
+      "10.64898/2026.11.24.768881"
+    ],
+    "translation": {
+      "title": {
+        "hash": "0665a81fec25fee6501fbc2f4f5c8801f5e7f75e83c8df5f44a5b545d6d4897f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T07:18:14.775374+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "5a0040cd0aab3e10d4a2d4c6c7ef1978965b9ad31a7a570e011e6667b8af00fd",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T07:18:14.775374+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "リンパ芽球様細胞株におけるエプスタイン・バーウイルス量と統合失調症との関連",
+    "abstract_ja": "背景：血中エプスタイン・バーウイルス（EBV）DNAは遺伝的決定因子を有することが報告されており、自己免疫疾患、神経疾患、呼吸器疾患および心血管疾患の有病率と相関している。しかし、患者がEBVウイルス感染に対してより感受性が高いかどうかは不明である。リンパ芽球様細胞株（LCL）は、シャーレ内で個人の末梢リンパ球にEBVを感染させることで不死化されることが多く、この問いを検討するためのex vivoモデルとなる。本研究では、LCLにおけるEBVウイルス量と、統合失調症（SCZ）の診断、SCZおよび双極性障害（BIP）のポリジェニックリスクスコア、ならびに宿主の遺伝的変異との関連を検討した。方法：Molecular Genetics of Schizophrenia（MGS）研究のLCLにおけるEBVウイルス量を、単変数および多変数線形回帰を用いて解析した。別途、年齢、性別、および最初の5つの遺伝的祖先主成分を調整し、SCZ診断、双極性障害ポリジェニックスコア（BIP-PGS）、およびSCZポリジェニックスコア（SCZ-PGS）を評価する多変数モデルを構築した。探索的解析では、統合失調症発症時の年齢を検討した。同一の共変量を用いて、2,000名の参加者を対象にゲノムワイド関連解析（GWAS）を実施した。結果：共変量調整後、SCZ診断とEBVウイルス量との間に有意な関連は認められなかった（Beta=-0.004, SE = 0.025, P = 0.868）。BIP-PGS（Beta=-0.009, SE = 0.013, P = 0.469）およびSCZ-PGS（Beta=-0.002, SE = 0.013, P = 0.897）のいずれも、ウイルス量と有意な関連は認められなかった。単変数解析においても、SCZ発症時の年齢との有意な関連は認められなかった。LCLにおけるEBVウイルス量のGWASでは、ゲノムワイド有意水準に達する変異は認められなかった（P < 5 x 10e-8）。最も強い関連が認められたのは、第16染色体上のGP2遺伝子のrs7188098であった（P = 3.7 x 10e-7）。結論：これらの解析では、LCLのEBVウイルス量と、検討したSCZ診断または精神疾患ポリジェニックスコアとの間に、統計的に有意な関連は認められなかった。GWASではEBVウイルス量との関連を示唆するシグナルが認められたが、これらはより大規模なサンプルサイズでのさらなる調査が必要である。"
+  },
+  {
+    "id": "10.64898/2026.11.24.769033",
+    "title": "Benchmarking sequence-to-function models and mapping enhancer-gene interactions with E2GScore",
+    "abstract": "Sequence-to-function models predict gene expression and chromatin features directly from DNA sequence and are increasingly used to infer enhancer-gene regulatory interactions. However, differences in attribution procedures and benchmarking datasets complicate comparisons between models, while the biological information captured by their enhancer-gene scores remains poorly understood. Here we introduce E2GScore, a unified framework for extracting and benchmarking enhancer-gene predictions from sequence-to-function models. By systematically varying scoring protocols, we identify gene-readout normalization and cell-type-matched expression tracks as important determinants of performance, whereas in silico mutagenesis offers no advantage over less computationally demanding input gradients. We compare seven sequence-to-function models and three established enhancer-gene predictors against CRISPR interference screens in K562 cells and primary human astrocytes. AlphaGenome 1 and 2 outperformed all other sequence-to-function models, and matched or outperformed experimentally informed predictors, particularly for distal enhancers, without a statistically significant difference between AlphaGenome versions after multiple-testing correction. We further show that the apparent reduction in predictive performance in astrocytes relative to K562 cells observed across models results primarily from differences in benchmarking dataset composition, particularly enhancer-TSS distance and target-gene expression. Using the open-weight AlphaGenome 1, we then generated E2GMap, a genome-wide resource of enhancer-gene regulation comprising 14.7 billion enhancer-gene attribution scores across 454 human biosamples, 45% of which are absent from existing enhancer-gene maps such as those from ENCODE-rE2G and AlphaGenome 2. E2GMap is available at e2gscore.com. Together, E2GScore and E2GMap establish a framework for rigorous evaluation of sequence-based enhancer-gene predictions and provide an extensible resource for studying gene regulation across human cell types and tissues.",
+    "journal": "",
+    "doi": "10.64898/2026.11.24.769033",
+    "date": "2026-11-26",
+    "authors": "The-Tjoean, C., Alinejad-Rokny, H., Voineagu, I.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.24.769033v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "benchmark",
+        "framework",
+        "gene",
+        "prediction",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5887,
+    "collected_at": "2026-11-28T06:37:06.960330+00:00",
+    "collected_date": "2026-11-28",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-28",
+    "related_dois": [
+      "10.64898/2026.11.24.769033"
+    ],
+    "translation": {
+      "title": {
+        "hash": "91a2af623dc13ab67ce0b4bf2f7cb832228955aad26145de2caa6f15b2f8f0fa",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T07:18:14.775374+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d34665f2096f08dece05dc8963e33b421e7f7684baacb7497b998367d6cfdd1b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T07:18:14.775374+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "sequence-to-functionモデルのベンチマーク評価とE2GScoreを用いたエンハンサー遺伝子相互作用のマッピング",
+    "abstract_ja": "配列から機能へのモデルは、DNA配列から直接遺伝子発現およびクロマチン特性を予測し、エンハンサー-遺伝子間の調節相互作用を推定するためにますます活用されている。しかし、帰属手法やベンチマークデータセットの違いがモデル間の比較を困難にしており、エンハンサー-遺伝子スコアによって捉えられる生物学的情報については依然として十分に解明されていない。本研究では、配列から機能へのモデルからエンハンサー-遺伝子予測を抽出・ベンチマークするための統一的なフレームワークであるE2GScoreを提案する。スコアリングプロトコルを系統的に変化させることで、遺伝子リードアウトの正規化および細胞種に適合した発現トラックが性能の重要な決定要因であることを明らかにした。一方で、in silico変異導入法は、計算負荷の低い入力勾配法に対して優位性を示さなかった。我々は、7つの配列から機能へのモデルと3つの確立されたエンハンサー-遺伝子予測モデルを、K562細胞およびヒト初代アストロサイトにおけるCRISPR干渉スクリーニングと比較した。AlphaGenome 1および2は他のすべての配列から機能へのモデルを上回り、特に遠位エンハンサーにおいて、実験的知見に基づく予測モデルと同等またはそれ以上の性能を示した。また、多重検定補正後においても、AlphaGenomeの各バージョン間に統計的に有意な差は認められなかった。さらに、モデル間で観察されたK562細胞に対するアストロサイトでの予測性能の見かけ上の低下は、主にベンチマークデータセットの構成、特にエンハンサー-TSS距離および標的遺伝子発現の差異に起因することを示した。次に、オープンウェイトのAlphaGenome 1を用いて、454のヒト生体試料にわたる147億件のエンハンサー-遺伝子帰属スコアからなるゲノムワイドなエンハンサー-遺伝子調節リソースであるE2GMapを構築した。これらのスコアの45%は、ENCODE-rE2GやAlphaGenome 2などの既存のエンハンサー-遺伝子マップには含まれていない。E2GMapはe2gscore.comで利用可能である。E2GScoreとE2GMapを併せて用いることで、配列に基づくエンハンサー-遺伝子予測の厳密な評価のためのフレームワークが確立され、ヒトの細胞種および組織にわたる遺伝子調節を研究するための拡張可能なリソースが提供される。"
   }
 ]
