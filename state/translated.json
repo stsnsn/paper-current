@@ -348099,5 +348099,314 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "コスタリカの天然貯水池における耐熱性自由生活アメーバの生息域の探索：フィールドにおけるOne Healthアプローチの予備的検討",
     "abstract_ja": "はじめにVahlkampfiidae科の自由生活性アメーバ（FLA）は自然界に広く分布し、水圏および陸圏の生息域に生息している。本グループには、Naegleria fowleriなどの好熱性両生類様生物が含まれる。本研究は、好熱性Vahlkampfiidaeの存在、堆積物微生物群集、および気候・土地利用特性の観点から、自然のレクリエーション用淡水域を記述することを目的とする。方法コスタリカの24地点から水試料を採取した。42 °Cで培養したFLAからDNAを抽出し、ファミリープライマーおよびN. fowleri種特異的プライマーを用いた従来法によるPCRで分子同定を行った。また、微生物メタバーコーディング特性評価手法として、16S rRNA V3-V4領域および18S rRNA V4領域の遺伝子アンプリコンシーケンシングによる堆積物試料からのDNA抽出も実施した。地理情報システムを用いて、各サンプリング地点をそれぞれの気候亜地域に特定し、その周囲に土地利用被覆バッファーを設定した。結果および考察結果から、Vahlkampfiidaeの陽性地点が20箇所認められた。これらの地点は主に森林被覆に覆われており、顕著な降雨パターンを持つ気候亜地域に位置していた。N. fowleriについてはすべての地点で陰性であったが、シーケンシングによる同定の結果、Tetramitus属が優占し、次いでVahlkampfia属およびNeovahlkampfia属の順であることが検出された。堆積物メタバーコーディングの結果、これらの底生生態系では主に後生動物、微細藻類、およびプロテオバクテリアが認められた。N. fowleriが検出されなかった場合であっても、人間との接触頻度が高いこれらの水圏環境には好熱性Vahlkampfiidaeが存在し得ること、また生態学的相互作用や公衆衛生上のリスクに関する今後の研究において注目すべき微生物群集に囲まれている可能性があることが本調査で示された。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 3",
+        "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "research-article",
+      "journal article"
+    ],
+    "id": "10.1128/aem.01748-26",
+    "title": "Spatial recovery and persistence of <i>Pseudomonas chlororaphis</i> M71 and <i>Trichoderma atroviride</i> SC1 in grapevine following stem injection.",
+    "abstract": "Establishing biocontrol agents (BCAs) within grapevine tissues could provide a means of protecting internal plant compartments, but little is known about their spatial and temporal fate after vascular delivery or whether the graft union constrains their distribution. We compared the internal recovery of two biologically contrasting BCAs, the bacterium Pseudomonas chlororaphis M71 and the filamentous fungus Trichoderma atroviride SC1, following controlled stem injection into rooted and grafted grapevine plants. A xylem-mobile dye was used as a reference for immediate passive fluid transport, while viable microbial recovery was assessed over time and complemented by quantitative isolation and microscopy. At 48 h, the dye generally showed broader longitudinal distribution than either of the microorganisms. The two microorganisms displayed markedly different patterns. M71 persisted for up to 56 days, but remained predominantly associated with tissues close to the injection site. In contrast, SC1 was recovered from a broader range of tissues, including roots, and remained detectable for up to 56 days. In grafted plants, both microorganisms were recovered on both sides of the graft union, indicating that the graft interface was not an absolute barrier, although recovery depended on microbial identity and inoculation position. Green fluorescent protein-labeled M71 cells and SC1 hyphae were observed within xylem vessels, confirming internal localization and, for SC1, vegetative development after injection. These results show that, and how, both microbial biology and grafted-plant architecture influence the internal fate of injected BCAs in grapevine.IMPORTANCEBeneficial microorganisms established inside grapevine tissues could potentially protect from infections regarding internal tissues, but little is known about how such microorganisms distribute and persist inside grapevine after injection into the plant tissues. This study shows that two biocontrol agents (BCAs) with contrasting biological characteristics follow markedly different spatial and temporal patterns. Pseudomonas chlororaphis M71 persisted mainly near the site of introduction, whereas Trichoderma atroviride SC1 was recovered from a broader range of tissues and developed hyphae within xylem vessels. Importantly, the graft union was not an absolute barrier to microbial recovery. These findings provide a framework for selecting where and when BCAs should be introduced during grapevine propagation and highlight that vascular access, persistence, and broad within-plant establishment are distinct properties that should be considered when developing endophytic biocontrol strategies.",
+    "journal": "Applied and Environmental Microbiology",
+    "doi": "10.1128/aem.01748-26",
+    "date": "2026-10-27",
+    "authors": "Brussi G, Martini A, Ratti C, Puopolo G, Mugnai L, Pertot I.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42937292",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13780332",
+    "pmid": "42937292",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Pseudomonas",
+        "bacterium",
+        "microbial",
+        "microorganism",
+        "microorganisms"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 400,
+    "collected_at": "2026-11-28T12:58:14.797353+00:00",
+    "collected_date": "2026-11-28",
+    "sources": [
+      "Europe PMC journals 3"
+    ],
+    "first_seen": "2026-11-28",
+    "related_dois": [
+      "10.1128/aem.01748-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "47d8839a326d5504a5bb79bbc49c1f710ba4b51085260bd14b10268cc0b81c3b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T13:34:38.161264+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "d1a33cba6a33cd877534775910d32333caa6adb24f212b01d17bfe5a7aa34bf8",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T13:34:38.161264+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "茎注入後のブドウにおける<i>Pseudomonas chlororaphis</i> M71および<i>Trichoderma atroviride</i> SC1の空間的回復と持続性",
+    "abstract_ja": "ブドウ樹の組織内に生物的防除剤（BCA）を確立させることは、植物体内の区画を保護する手段となり得るが、維管束への導入後における空間的・時間的動態や、接ぎ木接合部がその分布を制限するかどうかについては、ほとんど解明されていない。本研究では、生物学的に対照的な2種類のBCA（細菌のPseudomonas chlororaphis M71および糸状菌のTrichoderma atroviride SC1）について、根付きおよび接ぎ木したブドウ樹への制御された茎内注入後の体内回収量を比較した。即時的な受動的流体輸送の指標として木部移動性色素を用い、生存微生物の回収量は経時的に評価するとともに、定量的な分離および顕微鏡観察によって補完した。48時間後、色素は一般に、いずれの微生物よりも広範な縦方向の分布を示した。これら2種類の微生物は、著しく異なるパターンを示した。M71は最大56日間持続したが、主に注入部位に近い組織に局在していた。対照的に、SC1は根を含むより広範な組織から回収され、最大56日間検出可能であった。接ぎ木植物では、両微生物とも接ぎ木接合部の両側で回収されており、接ぎ木界面が絶対的な障壁ではないことが示されたが、回収量は微生物の種および接種位置に依存していた。木部管内で緑色蛍光タンパク質標識したM71細胞およびSC1菌糸が観察され、体内局在、およびSC1については注入後の栄養成長が確認された。これらの結果は、微生物生物学と接ぎ木植物の構造の双方が、ブドウ樹に注入されたBCAの体内動態にどのように影響するかを示している。重要性：ブドウ樹組織内に定着した有益微生物は、内部組織の感染を防ぐ可能性があるが、植物組織への注入後、こうした微生物がブドウ樹体内でどのように分布し持続するかについてはほとんど解明されていない。本研究は、生物学的特性が対照的な2種類の生物的防除剤（BCA）が、著しく異なる空間的・時間的パターンをたどることを示した。Pseudomonas chlororaphis M71は主に導入部位付近に持続したのに対し、Trichoderma atroviride SC1はより広範な組織から回収され、木部管内で菌糸を伸長させた。重要な点として、接ぎ木接合部は微生物回収の絶対的な障壁ではなかった。これらの知見は、ブドウ樹の増殖においてBCAをいつ、どこに導入すべきかを選択するための枠組みを提供するとともに、維管束へのアクセス、持続性、および植物体内における広範な定着が、内生的生物的防除戦略を策定する際に考慮すべき個別の特性であることを浮き彫りにしている。"
+  },
+  {
+    "id": "10.1111/1758-2229.70478",
+    "title": "The Effect of Elevation on Microbial Communities Associated With Sporobolus alterniflorus",
+    "abstract": "Saltmarsh elevation and associated environmental conditions such as tidal inundation were found to structure microbial communities in the root and rhizosphere of the introduced grass species Sporobolus alterniflorus. Ecologically relevant sulphur oxidising bacteria were found to maintain their association with S. alterniflorus roots regardless of elevation, highlighting the utility of environmental gradients in distinguishing host–microbe interactions shaped by local conditions from those that reflect stable, consistent symbiosis.\n\nABSTRACT\nSaltmarshes are highly productive coastal ecosystems that sequester carbon, prevent coastal erosion and host an exceptional range of biodiversity. Elevation differences in saltmarshes drive divergent soil conditions over relatively short distances, exposing saltmarsh species to contrasting physiochemical properties, which can be used to test the effects of contrasting environmental conditions including oxygen concentration, tidal regime and buildup of hydrogen sulphide, on the organisms that live there. Here, we compare microbial communities between individuals of the introduced grass species Sporobolus alterniflorus at high and low elevation in a saltmarsh. Microbial communities were significantly different between high and low elevation individuals, but rhizosphere communities differed more than those of root according to elevation, consistent with stronger host filtering. Focussing on putative sulphur‐oxidising bacteria, some of which are ecologically relevant for S. alterniflorus, we confirmed that members of the genus Candidatus Thiodiazotropha are enriched in S. alterniflorus root tissue, and this association persists regardless of marsh elevation. Moreover, we confirmed members of the genus Arcobacter as consistently associated with S. alterniflorus roots, an association which has been given little attention since its discovery.\n\nSaltmarsh elevation and associated environmental conditions such as tidal inundation were found to structure microbial communities in the root and rhizosphere of the introduced grass species Sporobolus alterniflorus. Ecologically relevant sulphur oxidising bacteria were found to maintain their association with S. alterniflorus roots regardless of elevation, highlighting the utility of environmental gradients in distinguishing host–microbe interactions shaped by local conditions from those that reflect stable, consistent symbiosis.\n\nABSTRACT\nSaltmarshes are highly productive coastal ecosystems that sequester carbon, prevent coastal erosion and host an exceptional range of biodiversity. Elevation differences in saltmarshes drive divergent soil conditions over relatively short distances, exposing saltmarsh species to contrasting physiochemical properties, which can be used to test the effects of contrasting environmental conditions including oxygen concentration, tidal regime and buildup of hydrogen sulphide, on the organisms that live there. Here, we compare microbial communities between individuals of the introduced grass species Sporobolus alterniflorus at high and low elevation in a saltmarsh. Microbial communities were significantly different between high and low elevation individuals, but rhizosphere communities differed more than those of root according to elevation, consistent with stronger host filtering. Focussing on putative sulphur-oxidising bacteria, some of which are ecologically relevant for S. alterniflorus, we confirmed that members of the genus Candidatus Thiodiazotropha are enriched in S. alterniflorus root tissue, and this association persists regardless of marsh elevation. Moreover, we confirmed members of the genus Arcobacter as consistently associated with S. alterniflorus roots, an association which has been given little attention since its discovery.",
+    "journal": "Environmental Microbiology Reports",
+    "doi": "10.1111/1758-2229.70478",
+    "date": "2026-11-28",
+    "authors": "Katie Emelianova, \nJoana Séneca, \nPetra Pjevac, \nArmel Salmon, \nMalika Ainouche, \nJillian M. Petersen",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1758-2229.70478?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "microbe",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://onlinelibrary.wiley.com/feed/17582229/most-recent",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5906,
+    "collected_at": "2026-11-28T13:08:24.513490+00:00",
+    "collected_date": "2026-11-28",
+    "sources": [
+      "https://onlinelibrary.wiley.com/feed/17582229/most-recent"
+    ],
+    "first_seen": "2026-11-28",
+    "related_dois": [
+      "10.1111/1758-2229.70478"
+    ],
+    "translation": {
+      "title": {
+        "hash": "03da7aa5b3eaff868b073d68edbd04e358b78b7c3f2d8af7dbc03f6b2e2bb70f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T13:34:38.161264+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "e968ac0207572761d29d66c8f707bcafc11c68f53c03198c4f3bd7b10552985d",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T13:34:38.161264+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "Sporobolus alterniflorusに関連する微生物群集に及ぼす標高の影響",
+    "abstract_ja": "塩沼の標高および潮汐浸水などの関連する環境条件が、導入されたイネ科植物Sporobolus alterniflorusの根および根圏における微生物群集を構造化していることが明らかになった。生態学的に重要な硫黄酸化細菌は、標高に関わらずS. alterniflorusの根との共生関係を維持しており、このことは、局所的な条件によって形成される宿主－微生物間相互作用と、安定的かつ一貫した共生を反映した相互作用とを区別する上で、環境勾配が有用であることを浮き彫りにしている。\n\n要旨\n塩沼は、炭素を固定し、海岸侵食を防ぎ、極めて広範な生物多様性を擁する生産性の高い沿岸生態系である。塩沼における標高差は、比較的短距離で異なる土壌条件をもたらし、塩沼種を対照的な物理化学的特性にさらす。このことは、酸素濃度、潮汐レジーム、硫化水素の蓄積といった対照的な環境条件が、そこに生息する生物に及ぼす影響を検証するために利用できる。本研究では、塩沼の高標高地と低標高地における導入イネ科植物Sporobolus alterniflorusの個体間で、微生物群集を比較した。微生物群集は高標高個体と低標高個体の間で有意に異なっていたが、根圏の群集は標高に応じて根の群集よりも大きく異なっており、これは宿主による濾過作用がより強いことと一致していた。S. alterniflorusにとって生態学的に重要なものを含む、推定される硫黄酸化細菌に着目した結果、Candidatus Thiodiazotropha属の細菌がS. alterniflorusの根組織に豊富に存在し、この共生関係が塩沼の標高に関わらず持続していることを確認した。さらに、Arcobacter属の細菌もS. alterniflorusの根と一貫して共生していることを確認したが、このような共生関係はその発見以来、ほとんど注目されてこなかった。\n\n塩沼の標高および潮汐浸水などの関連する環境条件が、導入されたイネ科植物Sporobolus alterniflorusの根および根圏における微生物群集を構造化していることが明らかになった。生態学的に重要な硫黄酸化細菌は、標高に関わらずS. alterniflorusの根との共生関係を維持しており、このことは、局所的な条件によって形成される宿主－微生物間相互作用と、安定的かつ一貫した共生を反映した相互作用とを区別する上で、環境勾配が有用であることを浮き彫りにしている。\n\n要旨\n塩沼は、炭素を固定し、海岸侵食を防ぎ、極めて広範な生物多様性を擁する生産性の高い沿岸生態系である。塩沼における標高差は、比較的短距離で異なる土壌条件をもたらし、塩沼種を対照的な物理化学的特性にさらす。このことは、酸素濃度、潮汐レジーム、硫化水素の蓄積といった対照的な環境条件が、そこに生息する生物に及ぼす影響を検証するために利用できる。本研究では、塩沼の高標高地と低標高地における導入イネ科植物Sporobolus alterniflorusの個体間で、微生物群集を比較した。微生物群集は高標高個体と低標高個体の間で有意に異なっていたが、根圏の群集は標高に応じて根の群集よりも大きく異なっており、これは宿主による濾過作用がより強いことと一致していた。S. alterniflorusにとって生態学的に重要なものを含む、推定される硫黄酸化細菌に着目した結果、Candidatus Thiodiazotropha属の細菌がS. alterniflorusの根組織に豊富に存在し、この共生関係が塩沼の標高に関わらず持続していることを確認した。さらに、Arcobacter属の細菌もS. alterniflorusの根と一貫して共生していることを確認したが、このような共生関係はその発見以来、ほとんど注目されてこなかった。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 2",
+        "query": "(JOURNAL:\"microLife\" OR JOURNAL:\"Nucleic Acids Research\" OR JOURNAL:\"NAR Genomics and Bioinformatics\" OR JOURNAL:\"Bioinformatics\" OR JOURNAL:\"Microbes and Environments\" OR JOURNAL:\"Frontiers in Microbiology\" OR JOURNAL:\"Frontiers in Marine Science\" OR JOURNAL:\"mBio\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "review-article",
+      "review",
+      "journal article"
+    ],
+    "id": "10.3389/fmicb.2026.1912100",
+    "title": "EPS-producing <i>Leuconostoc</i> as probiotics: biomedical potential and structure-function perspectives.",
+    "abstract": "With the increasing prevalence of diseases associated with gut dysbiosis, such as gastrointestinal diseases, immunological disorders, metabolic and cardiovascular diseases, and cancer, there is a growing need for effective strategies to restore the gut microbiota and promote overall health. In this context, underexplored lactic acid bacteria, particularly those capable of producing exopolysaccharides (EPSs), are gaining attention due to the diverse and pleiotropic health benefits of their EPSs. This narrative review provides an overview of the health-promoting properties of Leuconostoc species and their associated EPSs, with particular emphasis on the structure-function relationships underlying EPS bioactivity. Furthermore, it examines the mechanisms through which EPS-producing Leuconostoc strains may influence gut and systemic health and discusses their potential as next-generation microbiome-based interventions. Notably, most available evidence is derived from in vitro and other preclinical models, while clinical studies directly validating the efficacy and health benefits of Leuconostoc EPSs in humans remain limited.",
+    "journal": "Frontiers in Microbiology",
+    "doi": "10.3389/fmicb.2026.1912100",
+    "date": "2026-11-10",
+    "authors": "Kopczyńska J, Kostiuchenko O, Kowalczyk M.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43081040",
+    "preprint": false,
+    "review": true,
+    "pmcid": "PMC13794253",
+    "pmid": "43081040",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 342,
+    "collected_at": "2026-11-28T12:58:14.797353+00:00",
+    "collected_date": "2026-11-28",
+    "sources": [
+      "Europe PMC journals 2"
+    ],
+    "first_seen": "2026-11-28",
+    "related_dois": [
+      "10.3389/fmicb.2026.1912100"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6a49cfefdb600263870bc9257d0c8d4ab88db0a874cb9cad66479f90f4cbfa43",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T13:34:38.161264+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "49b11791909c4b4f1d3cc093a945da05870f2732aa563e9e27f0d9f1ee6db1c6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T13:34:38.161264+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "プロバイオティクスとしてのEPS産生<i>Leuconostoc</i>：生物医学的可能性と構造機能の観点から",
+    "abstract_ja": "消化器疾患、免疫疾患、代謝・心血管疾患、がんなど、腸内細菌叢の乱れに関連する疾患の罹患率が高まる中、腸内細菌叢を回復させ、全身の健康を促進するための効果的な戦略へのニーズが高まっている。こうした背景から、十分に研究されていない乳酸菌、特にエキソ多糖類（EPS）を産生可能な菌株は、そのEPSが持つ多様かつ多面的な健康上の利点により注目を集めている。本ナラティブレビューでは、Leuconostoc属菌およびその関連EPSの健康増進特性について概説し、特にEPSの生物活性の基盤となる構造・機能関係に焦点を当てる。さらに、EPS産生能を有するLeuconostoc株が腸管および全身の健康に影響を及ぼすメカニズムを検討し、次世代のマイクロバイオームに基づく介入策としての可能性について論じる。特筆すべき点として、入手可能なエビデンスの大部分はin vitroおよびその他の前臨床モデルから得られたものであり、ヒトにおけるLeuconostoc EPSの有効性と健康上の利点を直接的に検証する臨床研究は依然として限られている。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC genome methods",
+        "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "journal article"
+    ],
+    "id": "10.1099/ijsem.0.007311",
+    "title": "<i>Ursidibacter ursinigelli</i> sp. nov., a novel member of the family <i>Pasteurellaceae</i> isolated from the oral cavity of bears.",
+    "abstract": "Background. Members of the family Pasteurellaceae commonly colonize the mucosal surfaces of vertebrates. Our understanding of the diversity of these bacteria, and their evolutionary relationships, in bears (Ursidae) is still limited.Objective. To characterize Pasteurellaceae species isolated from multiple bear species using whole-genome sequencing and comparative genomic analyses.Methods. Oral swab samples were collected from 54 bears of 7 species housed in 11 European zoos. Bacterial isolates with Pasteurellaceae-like characteristics were cultured, phenotypically characterized and further identified by whole-genome sequencing. Comparative genomic and phylogenetic analyses, including the use of the Type Strain Genome Server (TYGS), 16S rRNA gene sequence comparisons, FastANI and FastAAI calculations and digital DNA-DNA hybridization (dDDH), were performed to assess the taxonomic and phylogenetic relationships of the isolates.Results. We identified 15 Pasteurellaceae isolates, with 13 of them forming 2 distinct clades within the family Pasteurellaceae, whereas the remaining 2 isolates were placed outside these clades. Clade I (n=7) was clearly separated from Ursidibacter arcticus Bamse61T, showing 16S rRNA gene sequence similarity of 95.6-96.1%, FastANI of 92.3-93.6% and dDDH (TYGS d4) of 51.4-54.9% relative to Bamse61T, supporting a novel species for which the name Ursidibacter ursinigelli sp. nov. is proposed. Clade II (n=6) is closely related to U. arcticus, sharing 16S rRNA gene sequence similarity of 97.3-98.7%, rpoB similarity of 97.9-98.8%, FastANI of 95.2-97.9% and dDDH of 68.9-84.4% compared with Bamse61T. FastAAI showed >95% average amino acid identity to Ursidibacter for all isolates in both clades, supporting the assignment of both clades to Ursidibacter associated with bears. The remaining two isolates were assigned outside these clades.Conclusion. This study identifies U. ursinigelli sp. nov. as a novel species in the family Pasteurellaceae. The type strain of U. ursinigelli is B02WBT (=CCUG 78479T=DSM 120274T), isolated in 2023 from the oral cavity of a healthy captive American black bear in Ree Park Safari, Denmark.",
+    "journal": "International Journal of Systematic and Evolutionary Microbiology",
+    "doi": "10.1099/ijsem.0.007311",
+    "date": "2026-11-01",
+    "authors": "Zhou Q, Bertelsen MF, Moustafa AM, Larsen J, Bojesen AM.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://europepmc.org/article/MED/43077222",
+    "preprint": false,
+    "review": false,
+    "pmcid": "",
+    "pmid": "43077222",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "16S rRNA",
+        "16s rrna",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "evolution",
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary",
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "collection_order": 208,
+    "collected_at": "2026-11-28T12:58:14.797353+00:00",
+    "collected_date": "2026-11-28",
+    "sources": [
+      "Europe PMC genome methods"
+    ],
+    "first_seen": "2026-11-28",
+    "related_dois": [
+      "10.1099/ijsem.0.007311"
+    ],
+    "translation": {
+      "title": {
+        "hash": "58a9517f86879c81b4df790584007ef6648a5509ba64aff935281b0962f14191",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T13:34:38.161264+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "c9ae0e50ddb975cab2fad5f212c2bbb6efd469f2e257097d646ddcedff04a16f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T13:34:38.161264+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "<i>Ursidibacter ursinigelli</i> sp. nov.：クマの口腔から分離された<i>Pasteurellaceae</i>科の新種。",
+    "abstract_ja": "背景。パスツレラ科（Pasteurellaceae）の菌属は、一般に脊椎動物の粘膜表面に定着する。クマ（Ursidae）におけるこれらの細菌の多様性および進化的関係に関する知見は、依然として限られている。目的。全ゲノムシーケンシングおよび比較ゲノム解析を用いて、複数のクマ種から分離されたパスツレラ科菌属を特性評価すること。方法。欧州の11の動物園で飼育されている7種54頭のクマから口腔スワブ検体を採取した。パスツレラ科に類似した特性を持つ細菌分離株を培養し、表現型特性評価を行った後、全ゲノムシーケンシングにより同定を進めた。分離株の分類学的および系統学的関係を評価するため、Type Strain Genome Server (TYGS)、16S rRNA遺伝子配列比較、FastANIおよびFastAAI計算、ならびにデジタルDNA-DNAハイブリダイゼーション（dDDH）を含む比較ゲノム解析および系統解析を実施した。結果。15株のパスツレラ科分離株を同定し、そのうち13株はパスツレラ科内で2つの明確なクレードを形成し、残りの2株はこれらのクレードの外に分類された。クレードI（n=7）はUrsidibacter arcticus Bamse61Tから明確に区別され、Bamse61Tと比較して16S rRNA遺伝子配列類似度95.6-96.1%、FastANI 92.3-93.6%、dDDH (TYGS d4) 51.4-54.9%を示し、新種であることを支持したため、Ursidibacter ursinigelli sp. nov.という名称を提案する。クレードII（n=6）はU. arcticusと近縁であり、Bamse61Tと比較して16S rRNA遺伝子配列類似度97.3-98.7%、rpoB類似度97.9-98.8%、FastANI 95.2-97.9%、dDDH 68.9-84.4%を示した。FastAAIでは、両クレードのすべての分離株においてUrsidibacterとの平均アミノ酸同一性が95%を超え、両クレードをクマに関連するUrsidibacterに分類することが支持された。残りの2株は、これらのクレードの外に分類された。結論。本研究により、U. ursinigelli sp. nov.がパスツレラ科の新種であることが同定された。U. ursinigelliのタイプ株はB02WBT (=CCUG 78479T=DSM 120274T)であり、2023年にデンマークのRee Park Safariで飼育されていた健康なアメリカクロクマの口腔から分離された。"
   }
 ]
