@@ -346965,5 +346965,321 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "Retron-Eco9 ADP-リボシル化酵素は、ファージ感染時に翻訳を阻害する放出因子を放出する。",
     "abstract_ja": "レトロンは細菌における主要な抗ファージ防御機構であるが、どのように防御を担うのかについては未だ十分に解明されていない。最も一般的なレトロンエフェクターは、予測核酸2'-デオキシリボシル転移酵素（NDT）である。本研究では、retron-Eco9のNDTが、実際にはヒスチジンADP-リボシル転移酵素タンパク質であり、ストークタンパク質bL7/bL12との相互作用を介して細菌リボソームに結合することを明らかにした。この相互作用により、エフェクターはペプチジルtRNAエステル結合加水分解を触媒する保存されたGGQモチーフに隣接する翻訳放出因子RF1およびRF2をADP-リボシル化し、その結果、終止コドンの読み通しとフレームシフトが増加する。リボソームプロファイリング、クライオ電子顕微鏡法、およびin vitro再構成アッセイを用いて、RF1およびRF2の修飾が細胞内での翻訳を著しく阻害し、転写産物の3'末端におけるリボソームの衝突、異常終止、およびリボソームレスキューの増加を引き起こすことを実証した。これらの翻訳の阻害は、最終的にファージの複製を妨げ、感染を中断させる。多くの防御システムはtRNAまたはmRNAを分解することで翻訳を阻害するが、本研究の結果は、翻訳因子の翻訳後修飾が強力な防御手段となり得ることを示すとともに、ヒスチジンADP-リボシル転移酵素活性が最大規模のレトロン群の生化学的基盤であることを明らかにした。"
+  },
+  {
+    "id": "10.64898/2026.11.26.769559",
+    "title": "Chromosome-level genome assembly of the hydrozoan jellyfish Cladonema pacificum",
+    "abstract": "The hydrozoan jellyfish Cladonema pacificum, which possesses experimentally tractable polyp and medusa stages, is an emerging cnidarian model for studies of regeneration, development, physiology, and behavior. Although experimental techniques have been established for this species, the lack of a chromosome-level reference genome has limited genome-wide and comparative analyses. Here, we present the first chromosome-level genome assembly of C. pacificum generated using HiFi long-read sequencing and Hi-C technology. The representative haploid assembly comprises 15 chromosome-scale scaffolds and 121 additional scaffolds, spanning 504.0 Mb with a scaffold N50 of 32.1 Mb. Gene annotation integrating RNA-seq, PacBio Iso-Seq, and protein homology identified 17,206 protein-coding genes, of which 95.7% received at least one functional annotation. Phylogenomic and macrosynteny analyses further confirmed the placement of C. pacificum within Hydrozoa and revealed extensive chromosome-scale conservation with other hydrozoan genomes. This genomic resource provides a valuable foundation for comparative genomics and future molecular, cellular, and evolutionary studies using C. pacificum as an emerging hydrozoan model.",
+    "journal": "",
+    "doi": "10.64898/2026.11.26.769559",
+    "date": "2026-11-27",
+    "authors": "Ui, J., Yamaguchi, K., Nakatani, H., Kon-Nanjo, K., Kon, T., Ishii, Y., Takeda, N., Deguchi, R., Shigenobu, S., Nakajima, Y.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.26.769559v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "assembly",
+        "genome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "assembly",
+          "evolution",
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenomic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5885,
+    "collected_at": "2026-11-28T06:37:06.960330+00:00",
+    "collected_date": "2026-11-28",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-28",
+    "related_dois": [
+      "10.64898/2026.11.26.769559"
+    ],
+    "translation": {
+      "title": {
+        "hash": "18f0f0628ef25790a813fe3c41806d26a11e0f7e4c004679bf33beabb5c6e1c2",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T07:11:29.562883+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "53ae51d35ff2b350f25b467d682f853b22375aa5a3d281c45183ee7bce118eff",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T07:11:29.562883+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ヒドロ虫類クラゲ Cladonema pacificum の染色体レベルのゲノムアセンブリ",
+    "abstract_ja": "実験的に扱いやすいポリプ期とメデューサ期を有するヒドロ虫類のクラゲCladonema pacificumは、再生、発生、生理学、および行動の研究における新たな刺胞動物モデルである。本種の実験手法は確立されているものの、染色体レベルのリファレンスゲノムが存在しないため、ゲノムワイドな解析や比較解析が制限されてきた。本報では、HiFiロングリードシーケンシングおよびHi-C技術を用いて作製した、C. pacificumの初の染色体レベルゲノムアセンブリを提示する。代表的な半数体アセンブリは、15個の染色体スケールのスキャフォールドと121個の追加スキャフォールドからなり、全長504.0 Mb、スキャフォールドN50は32.1 Mbである。RNA-seq、PacBio Iso-Seq、およびタンパク質相同性を統合した遺伝子アノテーションにより、17,206個のタンパク質符号化遺伝子が同定され、そのうち95.7%に少なくとも1つの機能的アノテーションが付与された。系統ゲノム解析およびマクロシンテニー解析により、C. pacificumがヒドロ虫綱に属することがさらに確認され、他のヒドロ虫類ゲノムとの広範な染色体スケールの保存性が明らかになった。本ゲノムリソースは、C. pacificumを新たなヒドロ虫類モデルとして用いる比較ゲノミクス、および今後の分子・細胞・進化研究にとって貴重な基盤となる。"
+  },
+  {
+    "id": "10.64898/2026.11.25.768430",
+    "title": "Comparative Metagenomic Analysis of Chondrosia and Chondrilla Sponge Microbiomes Reveals Distinct Symbiotic Communities, Functional Potential, and Contrasting Environmental Responses",
+    "abstract": "Marine sponges frequently maintain distinct, host-specific microbial communities despite inhabiting overlapping or identical environments. In this study, we performed comparative shotgun metagenomic sequencing on two sympatric sponge taxa, Chondrilla and Chondrosia, collected from the same shallow-water habitat in the Florida Keys to examine whether differences in microbiome composition and functional potential persist under shared environmental conditions. Morphological examination and phylogenetic analyses of nuclear 18S rRNA sequences confirmed the taxonomic placement of the green specimens within Chondrilla and the black specimens within Chondrosia sp. Community-level profiling revealed taxonomic differences between the two hosts: the Chondrilla microbiome exhibited a strong enrichment of Cyanobacteriota, notably Candidatus Synechococcus spongiarum, whereas the Chondrosia microbiome was characterized by Poribacteria, Chloroflexota, Nitrosopumilales, and other sponge-associated lineages. Functional annotation of metagenome-assembled genomes (MAGs) identified distinct functional potential between the two microbiomes, particularly regarding pathways associated with osmoregulation, oxidative and environmental stress responses, and secondary-metabolite biosynthesis, including diverse biosynthetic gene clusters (BGCs) such as terpenes and RiPPs. Additionally, parallel physiological monitoring during a freshwater exposure experiment demonstrated contrasting environmental responses, with Chondrosia exhibiting long-term survival over ten months under static low-salinity conditions compared to rapid deterioration in Chondrilla. Together, our findings provide genome-resolved evidence that sympatric sponge hosts maintain distinct microbial assemblages and functional profiles, establishing a framework for future investigations linking sponge-microbe interactions, biosynthetic potential, and stress resilience.",
+    "journal": "",
+    "doi": "10.64898/2026.11.25.768430",
+    "date": "2026-11-27",
+    "authors": "Almodovar Montero, S., Ryan, J., Ramirez, K. L., Loving, L. K., Leal, C. V.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.25.768430v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "18S rRNA",
+        "18s rrna",
+        "Synechococcus",
+        "metagenom",
+        "metagenome",
+        "metagenomic",
+        "microbe",
+        "microbial",
+        "microbiome",
+        "microbiomes"
+      ],
+      "context": {
+        "marine": [
+          "freshwater",
+          "marine"
+        ],
+        "genomics": [
+          "annotation",
+          "genom",
+          "genome",
+          "metagenom",
+          "metagenome",
+          "metagenomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5888,
+    "collected_at": "2026-11-28T06:37:06.960330+00:00",
+    "collected_date": "2026-11-28",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-28",
+    "related_dois": [
+      "10.64898/2026.11.25.768430"
+    ],
+    "translation": {
+      "title": {
+        "hash": "bdc96364d671ef851e2d36e9e93cc018c6aa46f04af424d06d9e6fb2486983f0",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T07:11:29.562883+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ac75d0267677cc15f2108d946ed0f7cb823c88d362c6d235fa0cbde4492633e6",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T07:11:29.562883+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "コンドロシアとコンドリラ・スポンジの微生物叢の比較メタゲノム解析から明らかになった、異なる共生群集、機能的ポテンシャル、および対照的な環境応答",
+    "abstract_ja": "海綿動物は、重複または同一の環境に生息しているにもかかわらず、宿主特異的な明確な微生物群集を維持していることが多い。本研究では、フロリダキーズの同一の浅海域から採取した同所的に生息する2つの海綿分類群、Chondrilla属とChondrosia属を対象に比較ショットガンメタゲノムシーケンシングを行い、共通の環境条件下においても微生物叢組成および機能的ポテンシャルの差異が維持されるかを検証した。形態学的検討および核18S rRNA配列の系統解析により、緑色の標本はChondrilla属に、黒色の標本はChondrosia sp.に属するという分類学的位置付けが確認された。群集レベルのプロファイリングにより、2つの宿主間の分類学的差異が明らかになった。すなわち、Chondrilla属の微生物叢ではシアノバクテリウム門、特にCandidatus Synechococcus spongiarumの顕著な濃縮が認められた一方、Chondrosia属の微生物叢はポリバクテリア門、クロロフレクソタ門、ニトロソプミラ目、およびその他の海綿関連系統によって特徴づけられた。メタゲノムアセンブルドゲノム（MAGs）の機能的アノテーションにより、2つの微生物叢間で明確な機能的ポテンシャルが同定された。特に、浸透圧調節、酸化的・環境的ストレス応答、および二次代謝産物生合成に関連する経路において、テルペンやRiPPsなどの多様な生合成遺伝子クラスター（BGCs）が含まれていた。さらに、淡水曝露実験における並行的な生理学的モニタリングにより、対照的な環境応答が示された。静的な低塩分条件下において、Chondrosia属は10ヶ月間にわたる長期生存を示したのに対し、Chondrilla属では急速に状態が悪化した。以上の知見を総合すると、同所的に生息する海綿宿主が個別の微生物群集と機能的プロファイルを維持しているというゲノムレベルでの証拠が得られ、海綿と微生物の相互作用、生合成ポテンシャル、およびストレス耐性を結びつける今後の研究に向けた枠組みが構築された。"
+  },
+  {
+    "id": "10.64898/2026.11.26.769538",
+    "title": "A stratified benchmark reveals distinct short- and long-read performance gradients within difficult genomic regions",
+    "abstract": "Accurate detection of small variants underpins population, functional and clinical genomics, yet short-read sequencing remains unreliable in repetitive and duplicated regions of the human genome, where long reads provide substantially greater sequence context. Although this disparity is well documented, aggregate accuracy metrics delineate where short- and long-read callsets diverge but not the mechanisms that give rise to these differences. Here, we present a region-stratified benchmark of single-nucleotide polymorphism (SNP) and insertion--deletion (INDEL) detection from Illumina short-read and PacBio HiFi long-read sequencing of the Genome in a Bottle reference sample HG002, evaluating multiple variant callers across genomic contexts, sequencing depths and INDEL lengths. Both platforms achieved near-complete accuracy in high-confidence regions, whereas short-read performance deteriorated in low-mappability regions and segmental duplications, a deficit that persisted with increasing sequencing depth. Within these regions, short-read recall declined toward the interiors of long tracts, with increasing sequence identity to the closest paralog and with greater distance from paralogous sequence variants, and these declines coincided with a pronounced excess of ambiguously placed reads. Together, these findings implicate ambiguous read placement as the predominant source of the short-read deficit, demonstrate that its magnitude can be anticipated from the length and paralog similarity of the surrounding sequence, and thereby delineate the genomic contexts in which long-read sequencing is most warranted.",
+    "journal": "",
+    "doi": "10.64898/2026.11.26.769538",
+    "date": "2026-11-27",
+    "authors": "Zhang, X., Liu, Y. H., Wang, Y., Zhou, X. M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.26.769538v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "benchmark",
+        "genome",
+        "genomic",
+        "nucleotide",
+        "sequencing"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5889,
+    "collected_at": "2026-11-28T06:37:06.960330+00:00",
+    "collected_date": "2026-11-28",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-28",
+    "related_dois": [
+      "10.64898/2026.11.26.769538"
+    ],
+    "translation": {
+      "title": {
+        "hash": "e42944383d6c9b8caea463359886c3ca87980b279e311e467c25e1d233feb2bf",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T07:11:29.562883+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6e743d37b725d17d2cd7c41c95021b1067a1bb4b8c070914577ed091cd24ae5b",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T07:11:29.562883+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "層別化ベンチマークにより、困難なゲノム領域内における短読長と長読長の性能勾配の明確な差異が明らかになった。",
+    "abstract_ja": "微小変異の正確な検出は、集団ゲノミクス、機能ゲノミクス、および臨床ゲノミクスの基盤となるが、ヒトゲノムの反復領域や重複領域においては、ロングリードの方がはるかに広範な配列コンテキストを提供できるため、ショートリードシーケンシングの信頼性は依然として低い。この格差は十分に立証されているものの、集計的な精度指標では、ショートリードとロングリードのコールセットがどこで乖離するかは示されるものの、こうした差異が生じるメカニズムまでは解明されていない。本研究では、Genome in a BottleリファレンスサンプルHG002を用いたIlluminaショートリードおよびPacBio HiFiロングリードシーケンシングによる、一塩基多型（SNP）および挿入・欠失（INDEL）検出の領域別ベンチマークを提示し、ゲノムコンテキスト、シーケンシング深度、およびINDEL長にわたる複数のバリアントコーラーを評価する。両プラットフォームともに、高信頼度領域ではほぼ完全な精度を達成したが、低マッピング性領域やセグメント重複領域ではショートリードの性能が低下し、この欠点はシーケンシング深度の増加に伴っても持続した。これらの領域において、ショートリードのリコールは、最も近いパラログとの配列同一性が高まり、パラログ配列変異からの距離が増すにつれて、ロングトラクトの内部に向かって低下し、こうした低下は曖昧な配置のリードの顕著な過剰発生と一致していた。これらの知見を総合すると、曖昧なリード配置がショートリードの性能低下の主因であることが示唆され、その程度は周囲の配列の長さやパラログ類似性から予測可能であることが示され、ひいてはロングリードシーケンシングが最も必要とされるゲノムコンテキストが明確に示された。"
+  },
+  {
+    "id": "10.64898/2026.11.26.769504",
+    "title": "The genome sequence of the reef-building coral Cyphastrea microphthalma from the Persian/Arabian Gulf",
+    "abstract": "We present a genome assembly from the coral species Cyphastrea microphthalma from the southern Persian/Arabian Gulf (Cnidaria; Anthozoa; Hexacorallia; Scleractinia; Merulinidae). The assembly is 681.2 Mb in size, spanning 5,554 scaffolds with a contig N50 of 244.4 kb. The assembly has a BUSCO completeness of 94.1% (single = 85.1%, duplicated = 9%, fragmented = 1.6%, missing = 4.3%) using the metazoa_odb10 reference set (n = 954). Genome annotation identified 24,716 protein-coding genes (including 10 pseudogenes) and a high repeat content of 63.4%. The mitochondrial genome has also been assembled and is 17.9 kb in length.",
+    "journal": "",
+    "doi": "10.64898/2026.11.26.769504",
+    "date": "2026-11-27",
+    "authors": "Alderdice, R., Sharaf, A., Fiesinger, A., Perna, G., Manns, H., Burt, J. A., Voolstra, C. R.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.26.769504v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "assembly",
+        "genome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "assembly",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5890,
+    "collected_at": "2026-11-28T06:37:06.960330+00:00",
+    "collected_date": "2026-11-28",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-28",
+    "related_dois": [
+      "10.64898/2026.11.26.769504"
+    ],
+    "translation": {
+      "title": {
+        "hash": "df4584c286db322776018156a29e7bd061b13f3137fca65925a37d73883d5e81",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T07:11:29.562883+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "0c4ccddac1dd5df54820f000428ad1f337708fee2f611f7a4cd416f45f8b0747",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T07:11:29.562883+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ペルシャ／アラビア湾産の造礁サンゴ Cyphastrea microphthalma のゲノム配列",
+    "abstract_ja": "ペルシア・アラビア湾南部産のサンゴ種Cyphastrea microphthalma（刺胞動物門；花虫綱；六放サンゴ綱；硬骨サンゴ綱；メルリヌス科）のゲノムアセンブリを提示する。本アセンブリのサイズは681.2 Mbであり、5,554個のスキャフォールドに及び、コンティグN50は244.4 kbである。metazoa_odb10リファレンスセット（n = 954）を用いたところ、本アセンブリのBUSCO完全性は94.1%（単一 = 85.1%、重複 = 9%、断片化 = 1.6%、欠損 = 4.3%）であった。ゲノムアノテーションにより、24,716個のタンパク質符号化遺伝子（擬似遺伝子10個を含む）が同定され、63.4%という高いリピート含有量が認められた。ミトコンドリアゲノムについてもアセンブリが行われており、その長さは17.9 kbである。"
   }
 ]
