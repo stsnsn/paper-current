@@ -6,191 +6,6 @@ window.PAPER_DATA = {
     "addition_tracking_since": "2026-11-08T16:41:37.586944+09:00",
     "addition_history": [
       {
-        "at": "2026-11-26T19:35:39.022013+09:00",
-        "papers": [
-          {
-            "id": "10.3389/fmars.2026.2011555",
-            "preprint": false
-          },
-          {
-            "id": "10.1186/s40168-026-02582-8",
-            "preprint": false
-          },
-          {
-            "id": "10.3389/fmicb.2026.1979616",
-            "preprint": false
-          },
-          {
-            "id": "10.1111/1758-2229.70471",
-            "preprint": false
-          },
-          {
-            "id": "10.1128/jvi.01228-26",
-            "preprint": false
-          },
-          {
-            "id": "10.3389/fmicb.2026.1950141",
-            "preprint": false
-          },
-          {
-            "id": "10.1093/bioinformatics/btag862",
-            "preprint": false
-          },
-          {
-            "id": "10.1093/bioinformatics/btag864",
-            "preprint": false
-          },
-          {
-            "id": "10.1093/bioinformatics/btag859",
-            "preprint": false
-          },
-          {
-            "id": "10.1111/1751-7915.70465",
-            "preprint": false
-          },
-          {
-            "id": "10.3389/fmicb.2026.1969026",
-            "preprint": false
-          },
-          {
-            "id": "10.3389/fmicb.2026.1962118",
-            "preprint": false
-          },
-          {
-            "id": "10.1186/s42523-026-00657-3",
-            "preprint": false
-          },
-          {
-            "id": "10.1111/1462-2920.70501",
-            "preprint": false
-          },
-          {
-            "id": "10.1111/mec.70673",
-            "preprint": false
-          },
-          {
-            "id": "10.1111/1462-2920.70476",
-            "preprint": false
-          },
-          {
-            "id": "10.1111/1751-7915.70494",
-            "preprint": false
-          },
-          {
-            "id": "10.1093/molbev/msag288",
-            "preprint": false
-          },
-          {
-            "id": "10.1093/bioinformatics/btag865",
-            "preprint": false
-          },
-          {
-            "id": "10.1093/bioinformatics/btag860",
-            "preprint": false
-          },
-          {
-            "id": "10.1111/1751-7915.70483",
-            "preprint": false
-          },
-          {
-            "id": "10.3389/fmicb.2026.1982871",
-            "preprint": false
-          },
-          {
-            "id": "10.3389/fmicb.2026.1985110",
-            "preprint": false
-          },
-          {
-            "id": "10.1111/1462-2920.70511",
-            "preprint": false
-          },
-          {
-            "id": "10.1128/mra.01076-26",
-            "preprint": false
-          },
-          {
-            "id": "10.1093/bioinformatics/btag872",
-            "preprint": false
-          },
-          {
-            "id": "10.1111/1751-7915.70484",
-            "preprint": false
-          },
-          {
-            "id": "10.1111/mec.70664",
-            "preprint": false
-          },
-          {
-            "id": "10.3389/fmicb.2026.1977219",
-            "preprint": false
-          },
-          {
-            "id": "10.3389/fmicb.2026.2007212",
-            "preprint": false
-          },
-          {
-            "id": "10.1093/bioadv/vbag317",
-            "preprint": false
-          },
-          {
-            "id": "10.1093/molbev/msag290",
-            "preprint": false
-          },
-          {
-            "id": "10.3389/fmicb.2026.2027955",
-            "preprint": false
-          },
-          {
-            "id": "10.1093/bioinformatics/btag861",
-            "preprint": false
-          },
-          {
-            "id": "10.1093/bioinformatics/btag866",
-            "preprint": false
-          },
-          {
-            "id": "10.3389/fmicb.2026.1964478",
-            "preprint": false
-          },
-          {
-            "id": "10.1093/bioadv/vbag327",
-            "preprint": false
-          },
-          {
-            "id": "10.1186/s40168-026-02586-4",
-            "preprint": false
-          },
-          {
-            "id": "10.3389/fmicb.2026.1953988",
-            "preprint": false
-          },
-          {
-            "id": "10.1093/bioinformatics/btag858",
-            "preprint": false
-          },
-          {
-            "id": "10.1111/1751-7915.70495",
-            "preprint": false
-          },
-          {
-            "id": "10.3389/fmicb.2026.2029479",
-            "preprint": false
-          },
-          {
-            "id": "10.3389/fmicb.2026.1996435",
-            "preprint": false
-          },
-          {
-            "id": "10.3389/fmicb.2026.2019924",
-            "preprint": false
-          },
-          {
-            "id": "10.1093/bioinformatics/btag855",
-            "preprint": false
-          }
-        ]
-      },
-      {
         "at": "2026-11-27T05:27:17.170525+09:00",
         "papers": [
           {
@@ -510,41 +325,124 @@ window.PAPER_DATA = {
             "preprint": true
           }
         ]
+      },
+      {
+        "at": "2026-11-28T22:50:51.092303+09:00",
+        "papers": [
+          {
+            "id": "10.1111/1462-2920.70503",
+            "preprint": false
+          },
+          {
+            "id": "10.64898/2026.11.26.769605",
+            "preprint": true
+          },
+          {
+            "id": "10.1099/ijsem.0.007361",
+            "preprint": false
+          },
+          {
+            "id": "10.64898/2026.11.20.768086",
+            "preprint": true
+          },
+          {
+            "id": "10.3389/fmicb.2026.2003349",
+            "preprint": false
+          },
+          {
+            "id": "10.1099/ijsem.0.007311",
+            "preprint": false
+          },
+          {
+            "id": "10.64898/2026.11.26.768673",
+            "preprint": true
+          },
+          {
+            "id": "10.1038/s41467-026-79640-0",
+            "preprint": false
+          },
+          {
+            "id": "10.64898/2026.11.27.769811",
+            "preprint": true
+          },
+          {
+            "id": "10.1128/aem.01581-26",
+            "preprint": false
+          },
+          {
+            "id": "10.64898/2026.11.26.769439",
+            "preprint": true
+          },
+          {
+            "id": "10.64898/2026.11.25.769217",
+            "preprint": true
+          },
+          {
+            "id": "10.1099/ijsem.0.007363",
+            "preprint": false
+          },
+          {
+            "id": "10.1111/1758-2229.70474",
+            "preprint": false
+          },
+          {
+            "id": "10.1099/ijsem.0.007352",
+            "preprint": false
+          },
+          {
+            "id": "10.3389/fmicb.2026.1912100",
+            "preprint": false
+          },
+          {
+            "id": "10.1099/ijsem.0.007350",
+            "preprint": false
+          },
+          {
+            "id": "10.64898/2026.11.26.769492",
+            "preprint": true
+          },
+          {
+            "id": "10.1128/aem.01748-26",
+            "preprint": false
+          },
+          {
+            "id": "10.1007/s00248-026-02933-w",
+            "preprint": false
+          },
+          {
+            "id": "10.1111/1758-2229.70478",
+            "preprint": false
+          }
+        ]
       }
     ],
     "date": "2026-11-23",
     "publication_mode": "daily",
-    "updated_at": "2026-11-28T16:22:05.692427+09:00",
-    "daily_updated_at": "2026-11-28T16:22:05.692427+09:00",
+    "updated_at": "2026-11-28T22:50:51.092303+09:00",
+    "daily_updated_at": "2026-11-28T22:50:51.092303+09:00",
     "week_ends_at": "2026-11-30T00:00:00+09:00",
     "added_ids": [
-      "10.3389/fmicb.2026.1941165",
-      "10.64898/2026.11.25.769242",
-      "10.64898/2026.11.26.769442",
-      "10.64898/2026.11.25.769053",
-      "10.1099/ijsem.0.007367",
-      "10.64898/2026.11.26.769559",
-      "10.3389/fmicb.2026.1943403",
-      "10.64898/2026.11.26.769504",
-      "10.1099/ijsem.0.007362",
-      "10.64898/2026.11.25.769148",
-      "10.1128/mra.00864-26",
-      "10.64898/2026.11.24.768824",
-      "10.64898/2026.11.26.769407",
-      "10.1128/mra.01095-26",
-      "10.64898/2026.11.25.769167",
-      "10.64898/2026.11.26.769538",
-      "10.64898/2026.11.25.768430",
-      "10.1128/mra.00857-26",
-      "10.1128/mra.01048-26",
-      "10.64898/2026.11.24.767187",
-      "10.64898/2026.11.24.769033",
-      "10.64898/2026.11.24.768881",
-      "10.1038/s41467-026-78855-5",
-      "10.1128/mra.00887-26",
-      "10.64898/2026.11.26.768590",
-      "10.64898/2026.11.25.769168",
-      "10.64898/2026.11.25.769155"
+      "10.1111/1462-2920.70503",
+      "10.64898/2026.11.26.769605",
+      "10.1099/ijsem.0.007361",
+      "10.64898/2026.11.20.768086",
+      "10.3389/fmicb.2026.2003349",
+      "10.1099/ijsem.0.007311",
+      "10.64898/2026.11.26.768673",
+      "10.1038/s41467-026-79640-0",
+      "10.64898/2026.11.27.769811",
+      "10.1128/aem.01581-26",
+      "10.64898/2026.11.26.769439",
+      "10.64898/2026.11.25.769217",
+      "10.1099/ijsem.0.007363",
+      "10.1111/1758-2229.70474",
+      "10.1099/ijsem.0.007352",
+      "10.3389/fmicb.2026.1912100",
+      "10.1099/ijsem.0.007350",
+      "10.64898/2026.11.26.769492",
+      "10.1128/aem.01748-26",
+      "10.1007/s00248-026-02933-w",
+      "10.1111/1758-2229.70478"
     ],
     "added_date": "2026-11-28"
   },
@@ -32206,6 +32104,1793 @@ window.PAPER_DATA = {
         "Bio-protocol",
         "International Journal of Systematic and Evolutionary Microbiology"
       ]
+    },
+    {
+      "id": "10.1111/1462-2920.70503",
+      "title": "Comparative Genomics of Pelagicoccaceae Reveals Metabolic Streamlining and Host Adaptation in Saccharina japonica Endophyte Laminariicoccus flavus gen. nov., sp. nov.",
+      "abstract": "A novel kelp endophyte, Laminariicoccus flavus gen. nov., sp. nov., was characterized and pan‐family comparative genomics revealed four distinct evolutionary clades within Pelagicoccaceae. Furthermore, L. flavus relies on targeted genomic streamlining for host adaptation, providing a critical eco‐evolutionary model for understanding macroalgae‐associated microbial colonization.\n\nABSTRACT\nMarine macroalgae offer dynamic microhabitats that drive the adaptive evolution of associated microbiomes. However, the ecophysiological strategies of many uncultivated lineages remain elusive. Here, we isolated a novel bacterial endophyte, strain TC32T, from the surface‐sterilized tissue of the brown alga Saccharina japonica. Polyphasic taxonomy and phylogenomics delineate it as Laminariicoccus flavus gen. nov., sp. nov. within Pelagicoccaceae. Pan‐family comparative genomics revealed four evolutionary clades differing in carbohydrate metabolism, respiratory chains and secondary metabolic potential. Within this framework, L. flavus exemplifies a specialized host‐associated strategy. Rather than maintaining broad metabolic plasticity, the strain displayed a genomic pattern of targeted metabolic streamlining, characterized by the absence of complete canonical gluconeogenesis and beta‐oxidation modules. While possessing genomic potential for glycolysis and galactose degradation, phenotypic assays demonstrated glycogen utilization and selective carbohydrate oxidation. Strain TC32T also grew under the tested microaerobic conditions but not under strictly anaerobic conditions. Consistent with growth under reduced oxygen availability, its genome retains a high‐affinity cbb3‐type cytochrome c oxidase, together with bidirectional proline and polyamine synthesis cascades and distinctive secondary metabolite clusters. Characterizing L. flavus expands the cultivable diversity of Pelagicoccaceae while providing an eco‐evolutionary model for understanding how macroalgae‐associated bacteria colonize complex host niches through metabolic reconfiguration.\n\nA novel kelp endophyte, Laminariicoccus flavus gen. nov., sp. nov., was characterized and pan-family comparative genomics revealed four distinct evolutionary clades within Pelagicoccaceae. Furthermore, L. flavus relies on targeted genomic streamlining for host adaptation, providing a critical eco-evolutionary model for understanding macroalgae-associated microbial colonization.\n\nABSTRACT\nMarine macroalgae offer dynamic microhabitats that drive the adaptive evolution of associated microbiomes. However, the ecophysiological strategies of many uncultivated lineages remain elusive. Here, we isolated a novel bacterial endophyte, strain TC32T, from the surface-sterilized tissue of the brown alga Saccharina japonica. Polyphasic taxonomy and phylogenomics delineate it as Laminariicoccus flavus gen. nov., sp. nov. within Pelagicoccaceae. Pan-family comparative genomics revealed four evolutionary clades differing in carbohydrate metabolism, respiratory chains and secondary metabolic potential. Within this framework, L. flavus exemplifies a specialized host-associated strategy. Rather than maintaining broad metabolic plasticity, the strain displayed a genomic pattern of targeted metabolic streamlining, characterized by the absence of complete canonical gluconeogenesis and beta-oxidation modules. While possessing genomic potential for glycolysis and galactose degradation, phenotypic assays demonstrated glycogen utilization and selective carbohydrate oxidation. Strain TC32T also grew under the tested microaerobic conditions but not under strictly anaerobic conditions. Consistent with growth under reduced oxygen availability, its genome retains a high-affinity cbb3-type cytochrome c oxidase, together with bidirectional proline and polyamine synthesis cascades and distinctive secondary metabolite clusters. Characterizing L. flavus expands the cultivable diversity of Pelagicoccaceae while providing an eco-evolutionary model for understanding how macroalgae-associated bacteria colonize complex host niches through metabolic reconfiguration.",
+      "journal": "Environmental Microbiology",
+      "doi": "10.1111/1462-2920.70503",
+      "date": "2026-11-27",
+      "authors": "Jingyao Wang, \nYuzhu Li, \nTingran Zhang, \nYuqi Ye, \nXinyun Tan, \nFan Li, \nPengjie Zhang, \nXiaoqian Yu, \nLuyang Li, \nZongjun Du, \nMengqi Ye",
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化",
+        "海洋微生物"
+      ],
+      "source_url": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.70503?af=R",
+      "abstract_source": "rss",
+      "preprint": false,
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "bacteria",
+          "bacterial",
+          "microbial",
+          "microbiome",
+          "microbiomes"
+        ],
+        "context": {
+          "marine": [
+            "marine"
+          ],
+          "genomics": [
+            "evolution",
+            "genom",
+            "genome",
+            "genomic",
+            "phylogen",
+            "phylogenomic"
+          ],
+          "evolution": [
+            "evolution",
+            "evolutionary"
+          ]
+        },
+        "tags": [
+          "海洋微生物",
+          "微生物ゲノミクス",
+          "微生物進化"
+        ]
+      },
+      "discovery": [
+        {
+          "source": "https://onlinelibrary.wiley.com/feed/14622920/most-recent",
+          "query": "RSS feed",
+          "scope": "journal"
+        }
+      ],
+      "collection_order": 5896,
+      "collected_at": "2026-11-28T13:08:24.513490+00:00",
+      "collected_date": "2026-11-28",
+      "sources": [
+        "https://onlinelibrary.wiley.com/feed/14622920/most-recent"
+      ],
+      "first_seen": "2026-11-28",
+      "related_dois": [
+        "10.1111/1462-2920.70503"
+      ],
+      "translation": {
+        "title": {
+          "hash": "24707d1f8d8ca7faf71e8b399dff67f0096bae03e3c055521a4b9a4b621169df",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-28T13:29:41.866312+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "b9992158e9c66f4a1aef207e42912865ce774c0367cf73e878a6397d063f533b",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-28T13:29:41.866312+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "ペラギコッカ科の比較ゲノミクスにより明らかになったSaccharina japonica内生菌Laminariicoccus flavus gen. nov., sp. nov.における代謝の効率化と宿主適応",
+      "abstract_ja": "新規の海藻内生菌であるLaminariicoccus flavus gen. nov., sp. nov.の特性解析を行い、汎科比較ゲノミクスによりPelagicoccaceae科内に4つの明確な進化系統群が存在することが明らかとなった。さらに、L. flavusは宿主適応のために標的を絞ったゲノム効率化に依存しており、大型藻類に関連する微生物定着を理解するための重要な生態進化モデルを提供する。\n\n要旨\n海洋大型藻類は、関連する微生物叢の適応進化を促進する動的な微小生息環境を提供する。しかし、未培養の多くの系統における生態生理学的戦略は依然として解明されていない。本研究では、褐藻Saccharina japonicaの表面滅菌組織から、新規の細菌内生菌である株TC32Tを単離した。多相分類学および系統ゲノミクスにより、本菌はPelagicoccaceae科内のLaminariicoccus flavus gen. nov., sp. nov.として同定された。汎科比較ゲノミクスにより、炭水化物代謝、呼吸鎖、および二次代謝能において異なる4つの進化系統群が明らかになった。この枠組みにおいて、L. flavusは特化した宿主関連戦略の典型例である。広範な代謝可塑性を維持するのではなく、本株は標的を絞った代謝効率化のゲノムパターンを示し、完全な正準糖新生およびβ酸化モジュールを欠いていることが特徴であった。解糖系およびガラクトース分解のゲノム能を有しながらも、表現型アッセイではグリコーゲン利用と選択的な炭水化物酸化が認められた。また、株TC32Tは試験した微小好気条件下では生育したが、厳密な嫌気条件下では生育しなかった。酸素供給量減少下での生育と一致して、そのゲノムには高親和性のcbb3型シトクロムcオキシダーゼとともに、双方向のプロリンおよびポリアミン合成カスケード、および特徴的な二次代謝物クラスターが保持されている。L. flavusの特性解析は、Pelagicoccaceae科の培養可能な多様性を拡大させるとともに、大型藻類に関連する細菌が代謝再構成を通じていかにして複雑な宿主ニッチに定着するかを理解する上での生態進化モデルを提供する。\n\n新規の海藻内生菌であるLaminariicoccus flavus gen. nov., sp. nov.の特性解析を行い、汎科比較ゲノミクスによりPelagicoccaceae科内に4つの明確な進化系統群が存在することが明らかとなった。さらに、L. flavusは宿主適応のために標的を絞ったゲノム効率化に依存しており、大型藻類に関連する微生物定着を理解するための重要な生態進化モデルを提供する。\n\n要旨\n海洋大型藻類は、関連する微生物叢の適応進化を促進する動的な微小生息環境を提供する。しかし、未培養の多くの系統における生態生理学的戦略は依然として解明されていない。本研究では、褐藻Saccharina japonicaの表面滅菌組織から、新規の細菌内生菌である株TC32Tを単離した。多相分類学および系統ゲノミクスにより、本菌はPelagicoccaceae科内のLaminariicoccus flavus gen. nov., sp. nov.として同定された。汎科比較ゲノミクスにより、炭水化物代謝、呼吸鎖、および二次代謝能において異なる4つの進化系統群が明らかになった。この枠組みにおいて、L. flavusは特化した宿主関連戦略の典型例である。広範な代謝可塑性を維持するのではなく、本株は標的を絞った代謝効率化のゲノムパターンを示し、完全な正準糖新生およびβ酸化モジュールを欠いていることが特徴であった。解糖系およびガラクトース分解のゲノム能を有しながらも、表現型アッセイではグリコーゲン利用と選択的な炭水化物酸化が認められた。また、株TC32Tは試験した微小好気条件下では生育したが、厳密な嫌気条件下では生育しなかった。酸素供給量減少下での生育と一致して、そのゲノムには高親和性のcbb3型シトクロムcオキシダーゼとともに、双方向のプロリンおよびポリアミン合成カスケード、および特徴的な二次代謝物クラスターが保持されている。L. flavusの特性解析は、Pelagicoccaceae科の培養可能な多様性を拡大させるとともに、大型藻類に関連する細菌が代謝再構成を通じていかにして複雑な宿主ニッチに定着するかを理解する上での生態進化モデルを提供する。",
+      "answer_journal": "Environmental Microbiology",
+      "question_type": "published",
+      "options": [
+        "Clinical and translational medicine",
+        "Medicine and pharmacy reports",
+        "New microbes and new infections",
+        "Environmental Microbiology"
+      ]
+    },
+    {
+      "id": "10.64898/2026.11.26.769605",
+      "title": "HIV-1 VPR TARGETS BCOR FOR DEGRADATION TO COUNTER POLYCOMB-DEPENDENT PROVIRAL SILENCING",
+      "abstract": "Chromatin remodeling complexes such as the Polycomb Repressive Complex (PRC) are recruited to the HIV-1 promoter during latency. Using BioID, we previously identified multiple PRC subunits as potential HIV-1 Vpr-interacting partners. Here, we show that HIV-1 Vpr, but not its paralog Vpx encoded by SIVsmm/HIV-2, targets the non-canonical PRC1.1 core component, BCL6 co-repressor (BCOR), for proteasomal degradation. Vpr-dependent depletion of BCOR is observed during infection of T-cells and can be induced by virion-associated Vpr prior to early step leading to viral DNA integration and provirus expression. BCOR degradation is independent from the G2/M-arrest activity induced by Vpr but requires the recruitment of the CRL4DCAF1 E3 ubiquitin ligase by Vpr. Using T-cell models of HIV latency (Jurkat E4 and 2D10), we further show that BCOR is recruited to the LTR of latent proviruses along with the polycomb group RING finger protein 1 (PCGF1) and H2AK119ub prototypical silencing marks are detectable in this context. ShRNA-directed BCOR knockdown reactivates HIV-1 expression in 2D10 cells, and this reactivation is phenocopied upon Vpr expression. Overall, our results identify PRC1.1 as the non-canonical complex involved in PRC-dependent silencing of the HIV-1 LTR and further reveal that Vpr counteracts HIV-1 transcriptional silencing through BCOR degradation likely to achieve optimal viral expression and propagation during infection.",
+      "journal": "",
+      "doi": "10.64898/2026.11.26.769605",
+      "date": "2026-11-28",
+      "authors": "Romero-Medina, M. C., Munoz-Arias, I., Barbosa, J. A. F., Pham, T. N., Cohen, E. A.",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.26.769605v1?rss=1",
+      "abstract_source": "rss",
+      "preprint": true,
+      "topic_filter": {
+        "accepted": true,
+        "reason": "microbial_evidence",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "viral"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "DNA",
+            "transcript"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "discovery": [
+        {
+          "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+          "query": "RSS feed",
+          "scope": "candidate"
+        }
+      ],
+      "collection_order": 5900,
+      "collected_at": "2026-11-28T13:08:24.513490+00:00",
+      "collected_date": "2026-11-28",
+      "sources": [
+        "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+      ],
+      "first_seen": "2026-11-28",
+      "related_dois": [
+        "10.64898/2026.11.26.769605"
+      ],
+      "translation": {
+        "title": {
+          "hash": "7e4be0c95b5f0926eff14e4187d8665cde380e5fdfe388f4843bcff30b599a0c",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-28T13:45:54.180445+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "bfc3311dbc0c98540d1b5798445673a3fac84413b518b30836a4d408b5fa0f44",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-28T13:45:54.180445+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "HIV-1 VPRはポリコーム依存性プロビリアルサイレンシングに対抗するため、BCORを標的として分解する。",
+      "abstract_ja": "ポリコーム抑制複合体（PRC）などのクロマチンリモデリング複合体は、潜伏期にHIV-1プロモーターへと動員される。我々は以前、BioIDを用いて、複数のPRCサブユニットをHIV-1 Vprの潜在的な相互作用パートナーとして同定した。本研究では、HIV-1 Vprが、SIVsmm/HIV-2によってコードされるパラログVpxとは異なり、非カノニカルなPRC1.1コア構成要素であるBCL6共抑制因子（BCOR）をプロテアソーム分解の標的とすることを示す。T細胞への感染時にVpr依存的なBCORの枯渇が観察され、これはウイルスDNAの組み込みおよびプロウイルス発現に至る初期段階に先立ち、ビリオン関連Vprによって誘導され得る。BCORの分解は、Vprによって誘導されるG2/M停止活性とは独立しているが、VprによるCRL4DCAF1 E3ユビキチンリガーゼの動員を必要とする。HIV潜伏期のT細胞モデル（Jurkat E4および2D10）を用いて、BCORがポリコーム群RINGフィンガータンパク質1（PCGF1）とともに潜伏プロウイルスのLTRへと動員されること、また、この文脈においてH2AK119ubプロトタイプサイレンシングマークが検出可能であることをさらに示す。ShRNA誘導性のBCORノックダウンは2D10細胞においてHIV-1発現を再活性化し、この再活性化はVpr発現時に表現型として再現される。総じて、我々の結果は、PRC1.1をHIV-1 LTRのPRC依存的サイレンシングに関与する非カノニカル複合体として同定し、さらに、VprがBCOR分解を通じてHIV-1の転写サイレンシングに対抗することで、感染時の最適なウイルス発現および増殖を実現している可能性が高いことを明らかにしている。",
+      "answer_journal": null,
+      "question_type": "forecast",
+      "options": [
+        "Medicine and pharmacy reports",
+        "Fish & shellfish immunology",
+        "Cell biochemistry and biophysics",
+        "Oral health & preventive dentistry"
+      ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC genome methods",
+          "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "journal article"
+      ],
+      "id": "10.1099/ijsem.0.007361",
+      "title": "<i>Trichlorobacter dihaloeliminans</i> sp. nov., a halogenated alkane-respiring bacterium isolated from freshwater sediment.",
+      "abstract": "A strictly anaerobic organohalide-respiring bacterium, designated IAET, was isolated from freshwater sediment collected from the Xi River in Shenyang, Liaoning Province, China. Cells of strain IAET were Gram-stain-negative, non-motile, non-spore-forming and slightly curved rods. Strain IAET coupled growth to the dihaloelimination of several halogenated alkanes, including 1,2-dichloroethane, 1,1,2-trichloroethane, 1,2-dichloropropane and 1,2-dibromoethane, with acetate as the electron donor and carbon source. By comparison, the closely related Trichlorobacter lovleyi strain SZᵀ reductively dehalogenates tetrachloroethene and trichloroethene via hydrogenolysis. Strain IAEᵀ also reduced Fe(III) and fumarate. Growth occurred at 16-40 °C (optimum, 30-34 °C), pH 5.5-7.5 (optimum, pH 7.2) and NaCl concentrations of 0.1-1.0% (w/v). The major cellular fatty acids were C14 : 0, iso-C15 : 0, summed feature 3 (C16 : 1  ω7c and/or C16 : 1  ω6c) and C16 : 0 3-OH. 16S rRNA gene phylogeny placed strain IAET within the family Geobacteraceae, with T. lovleyi strains as its closest relatives (99.5-99.7% sequence similarity). The average nucleotide identity and digital DNA-DNA hybridization values between strain IAET and T. lovleyi strain SZT were 89.88 and 43.20%, respectively, supporting their separation at the species level. Based on phylogenetic, genomic, physiological and chemotaxonomic evidence, strain IAET represents a novel species of the genus Trichlorobacter, for which the name Trichlorobacter dihaloeliminans sp. nov. is proposed. The type strain is IAET (=JCM 39164T=CGMCC 1.5298T).",
+      "journal": "International Journal of Systematic and Evolutionary Microbiology",
+      "doi": "10.1099/ijsem.0.007361",
+      "date": "2026-11-01",
+      "authors": "Jiang L, Huang S, Fan J, Cui Y, Li X, Wang J, Jin H, Li X, Zhang Y, Yan J.",
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化",
+        "海洋微生物"
+      ],
+      "source_url": "https://europepmc.org/article/MED/43084429",
+      "preprint": false,
+      "review": false,
+      "pmcid": "",
+      "pmid": "43084429",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "16s rrna",
+          "bacterium"
+        ],
+        "context": {
+          "marine": [
+            "freshwater",
+            "river"
+          ],
+          "genomics": [
+            "DNA",
+            "genom",
+            "genomic",
+            "phylogen",
+            "phylogenetic",
+            "phylogeny"
+          ],
+          "evolution": [
+            "phylogeny",
+            "phylogenetic"
+          ]
+        },
+        "tags": [
+          "海洋微生物",
+          "微生物ゲノミクス",
+          "微生物進化"
+        ]
+      },
+      "collection_order": 239,
+      "collected_at": "2026-11-28T12:58:14.797353+00:00",
+      "collected_date": "2026-11-28",
+      "sources": [
+        "Europe PMC genome methods"
+      ],
+      "first_seen": "2026-11-28",
+      "related_dois": [
+        "10.1099/ijsem.0.007361"
+      ],
+      "translation": {
+        "title": {
+          "hash": "b022ba19bef4ef82a45afc8bd15d51f0b048e4847813aeae83b97138cc922091",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-28T13:38:27.392894+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "38b7de875691c6aa681372c7b81077d306a407d2fd256ec18fdb32fc96ca4942",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-28T13:38:27.392894+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "<i>Trichlorobacter dihaloeliminans</i> sp. nov.、淡水堆積物から単離されたハロゲン化アルカン呼吸細菌。",
+      "abstract_ja": "中国遼寧省瀋陽市の西河から採取した淡水堆積物から、IAETと命名された厳格嫌気性有機ハロゲン化物呼吸細菌が単離された。IAET株の細胞は、グラム染色陰性、非運動性、非芽胞形成性で、わずかに湾曲した桿菌であった。IAET株は、酢酸を電子供与体および炭素源として、1,2-ジクロロエタン、1,1,2-トリクロロエタン、1,2-ジクロロプロパン、および1,2-ジブロモエタンを含む数種類のハロゲン化アルカンのジハロゲン化に共役的に増殖した。対照的に、近縁種であるTrichlorobacter lovleyiのSZᵀ株は、水素分解によりテトラクロロエチレンおよびトリクロロエチレンを還元的に脱ハロゲン化する。IAET株はまた、Fe(III)およびフマル酸を還元した。増殖は、16-40 °C（至適温度 30-34 °C）、pH 5.5-7.5（至適pH 7.2）、およびNaCl濃度 0.1-1.0%（w/v）の条件下で認められた。主要な細胞脂肪酸は、C14 : 0、iso-C15 : 0、summed feature 3（C16 : 1  ω7c および/または C16 : 1  ω6c）、およびC16 : 0 3-OHであった。16S rRNA遺伝子の系統解析により、IAET株はGeobacteraceae科に属し、T. lovleyi株が最も近縁な種である（配列類似性 99.5-99.7%）ことが判明した。IAET株とT. lovleyiのSZT株との間の平均ヌクレオチド同一性およびデジタルDNA-DNAハイブリダイゼーション値は、それぞれ89.88%および43.20%であり、種レベルでの分離が支持された。系統学的、ゲノム学的、生理学的、および化学分類学的根拠に基づき、IAET株はTrichlorobacter属の新種であり、Trichlorobacter dihaloeliminans sp. nov. という名称が提案される。タイプ株はIAET (=JCM 39164T=CGMCC 1.5298T) である。",
+      "answer_journal": "International Journal of Systematic and Evolutionary Microbiology",
+      "question_type": "published",
+      "options": [
+        "International Journal of Systematic and Evolutionary Microbiology",
+        "Clinical genetics",
+        "Peritoneal dialysis international : journal of the International Society for Peritoneal Dialysis",
+        "Injury"
+      ]
+    },
+    {
+      "id": "10.64898/2026.11.20.768086",
+      "title": "Deconvoluting Latent Erythroid-Mitochondrial Transcriptomic Gradients and Technical Sample Structure in Severe Preeclampsia: A Stratified Sensitivity Framework for Public Placental RNA-Seq Datasets",
+      "abstract": "BackgroundBulk placental transcriptomic profiling has been widely deployed to elucidate the molecular pathogenesis of severe preeclampsia (sPE) and to nominate clinical biomarkers across diverse maternal populations. However, human placental tissue exhibits profound cellular heterogeneity and vascular perfusion variability. When unmeasured technical processing structure or erythroid-trophoblast compositional gradients covary with clinical phenotypes in public repositories, standard differential gene expression (DGE) pipelines risk severe false-discovery inflation and spurious ancestry-specific biomarker claims.\n\nMethodsWe developed and applied a multi-layered transcriptomic audit, variance-partitioning diagnostic, and stratified permutation framework to re-evaluate the public NCBI Gene Expression Omnibus dataset GSE234729 (14,670 filtered, DESeq2-normalized features across 123 columns). Following strict provenance verification that excluded 12 unverified cross-series columns (linked to GSE186257), we analyzed 111 verified placental transcriptomes (43 sPE and 68 normotensive controls across African, Asian, and European maternal ancestries). Expression values were modeled on the log2(E+1) scale using robust empirical Bayes linear modeling (limma; ~ group + ancestry + fetal sex), benchmarked against standard empirical Bayes implementations, principal component variance decompositions, erythroid and mitochondrial gene-set scoring, stratified fixed-effect inverse-variance meta-analysis with Cochrans Q heterogeneity testing, and 1,000-iteration structure-preserving Monte Carlo permutation schemes.\n\nResultsWhile standard primary modeling identified 5,667 differentially expressed features at Benjamini-Hochberg false discovery rate (FDR)  0.39). Conversely, the putative cardiovascular risk biomarker IL3RA showed null primary association (-0.07 log2 units; 95% CI: -0.51 to 0.36; P = 0.74; genome-wide rank 13,299/14,670), reversed algebraic sign across strata (+0.77 in non- P vs. -0.54 in  P; heterogeneity P = 0.003), and failed genome-wide ancestry interaction testing (FDR {approx} 1.0).\n\nConclusionsNearly two-thirds of the apparent genome-wide differential expression in GSE234729 can be recapitulated by severe collinearity between clinical group, maternal ancestry, and a cryptic erythroid- mitochondrial sample structure. While core anti-angiogenic preeclampsia pathways (FLT1, LEP, ENG, PAPPA2, FSTL3, PHYHIP, PPP1R1C) are robust against this confounding, previously highlighted associations for IL3RA are statistically fragile and artifactually driven by unmodeled stratum heterogeneity. We establish an actionable bioinformatic auditing protocol requiring mandatory erythroid-contamination diagnostics, identifier-structure screening, and structure-preserving permutation testing prior to clinical biomarker nomination from public placental transcriptomes.",
+      "journal": "",
+      "doi": "10.64898/2026.11.20.768086",
+      "date": "2026-11-28",
+      "authors": "Zaman, K. A., Rahman, T. M., Hasan, M. S., Qumruzzaman, K., Kulsum, U.",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.20.768086v1?rss=1",
+      "abstract_source": "rss",
+      "preprint": true,
+      "topic_filter": {
+        "accepted": true,
+        "reason": "bioinformatics_method_or_resource",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "RNA",
+          "framework",
+          "transcriptomic"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "genom",
+            "genome",
+            "transcript"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "discovery": [
+        {
+          "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+          "query": "RSS feed",
+          "scope": "candidate"
+        }
+      ],
+      "collection_order": 5903,
+      "collected_at": "2026-11-28T13:08:24.513490+00:00",
+      "collected_date": "2026-11-28",
+      "sources": [
+        "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+      ],
+      "first_seen": "2026-11-28",
+      "related_dois": [
+        "10.64898/2026.11.20.768086"
+      ],
+      "translation": {
+        "title": {
+          "hash": "2b5035cd5345a45239c370764c4645dd979efd1174fb1914973cae1263acae5d",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-28T13:45:54.180445+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "0718f95c861d86fbf83207d74a092c31335ab2e987c36ebc91b352794e5aef61",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-28T13:45:54.180445+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "重症妊娠高血圧腎症における潜在的赤血球・ミトコンドリア転写産物勾配のデコンボリューションとテクニカルサンプル構造：公開胎盤RNA-Seqデータセットのための層別感度フレームワーク",
+      "abstract_ja": "背景：バルク胎盤トランスクリプトームプロファイリングは、重症妊娠高血圧腎症（sPE）の分子病態を解明し、多様な母体集団における臨床バイオマーカーを同定するために広く導入されてきた。しかし、ヒト胎盤組織は著しい細胞不均一性と血管灌流の変動性を示す。公開リポジトリにおいて、未測定の技術的処理構造や赤芽球系・栄養膜細胞の組成勾配が臨床表現型と共変する場合、標準的な差異遺伝子発現（DGE）パイプラインは、深刻な偽発見のインフレーションや、祖先系統特異的なバイオマーカーの根拠のない主張を招くリスクがある。\n\n方法：我々は、公開NCBI Gene Expression OmnibusデータセットGSE234729（123列にわたる14,670個のフィルタリング済みDESeq2正規化特徴量）を再評価するため、多層的なトランスクリプトーム監査、分散分割診断、および層化置換フレームワークを開発・適用した。未検証のクロスシリーズ列12列（GSE186257に関連）を除外した厳格なプロベナンス検証を経て、検証済みの胎盤トランスクリプトーム111件（アフリカ、アジア、欧州の母体祖先系統にわたるsPE 43件および正常血圧対照群68件）を解析した。発現値は、ロバストな経験的ベイズ線形モデリング（limma; ~ group + ancestry + fetal sex）を用いてlog2(E+1)スケールでモデル化し、標準的な経験的ベイズ実装、主成分分散分解、赤芽球系およびミトコンドリア遺伝子セットスコアリング、コクランQ不均一性検定を用いた層化固定効果逆分散メタ解析、および1,000回反復の構造保存モンテカルロ置換スキームとベンチマーク評価を行った。\n\n結果：標準的な一次モデリングでは、ベンジャミニ・ホッホバーグ偽発見率（FDR）0.39で5,667個の差異発現特徴量が同定された。対照的に、推定される心血管リスクバイオマーカーIL3RAは、一次関連性がゼロ（-0.07 log2単位; 95% CI: -0.51～0.36; P = 0.74; ゲノムワイド順位 13,299/14,670）であり、層間で代数符号が反転し（非P群で+0.77、P群で-0.54; 不均一性 P = 0.003）、ゲノムワイドな祖先系統間相互作用検定でも不合格となった（FDR {approx} 1.0）。\n\n結論：GSE234729における見かけ上のゲノムワイドな差異発現のほぼ3分の2は、臨床群、母体祖先系統、および潜在的な赤芽球系・ミトコンドリアサンプル構造の間の顕著な共線性によって再現可能である。中核的な抗血管新生性妊娠高血圧腎症経路（FLT1, LEP, ENG, PAPPA2, FSTL3, PHYHIP, PPP1R1C）はこの交絡要因に対して頑健であるが、IL3RAについて以前に強調された関連性は統計的に脆弱であり、モデル化されていない層間不均一性によって人為的に誘導されたものである。我々は、公開胎盤トランスクリプトームから臨床バイオマーカーを同定する前に、赤芽球系混入診断、識別子構造スクリーニング、および構造保存置換検定を必須とする、実用的なバイオインフォマティクス監査プロトコルを確立する。",
+      "answer_journal": null,
+      "question_type": "forecast",
+      "options": [
+        "The New phytologist",
+        "Gene",
+        "International psychogeriatrics",
+        "Journal of cell science"
+      ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC genome methods",
+          "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "research-article",
+        "journal article"
+      ],
+      "id": "10.3389/fmicb.2026.2003349",
+      "title": "Exploring the neighborhood of thermotolerant free-living amoebae in Costa Rican natural water reservoirs as a preliminary One Health approach in the field.",
+      "abstract": "IntroductionFree-living amoebae (FLA) of the Vahlkampfiidae family are widely distributed in nature, occupying aquatic and terrestrial habitats. The group includes thermophilic amphizoic organisms such as Naegleria fowleri. This study aims to describe natural recreational freshwaters in terms of the presence of thermotolerant vahlkampfiids, sediment microbial communities and climatic/land use features.MethodsWater samples were collected from 24 locations from Costa Rica. DNA was extracted from FLA cultivated at 42 °C and molecular identification using family and N. fowleri species-specific primers for conventional PCR was performed. DNA extractions of sediment samples were also performed for a microbial metabarcoding characterization approach through 16S rRNA V3-V4 region and 18S rRNA V4 region gene amplicons sequencing. A geographic information system was used to locate each sampling site in its respective climatic subregion and to establish a land use coverage buffer around it.Results and discussionResults revealed 20 positive locations for vahlkampfiids; the sites predominantly featured forest cover and were in climatic subregions with significant rainfall patterns. All locations were negative for N. fowleri; however, identification by sequencing detected a predominance of Tetramitus spp., followed by Vahlkampfia sp. and Neovahlkampfia sp. Sediment metabarcoding showed mainly metazoans, microalgae and Proteobacteria in these benthic ecosystems. Even when N. fowleri was not found, our exploration showed that these aquatic environments of close human contact allow the presence of thermotolerant vahlkampfiids and might be surrounded by microbial communities of interest for future research regarding ecological interactions and public health risks.",
+      "journal": "Frontiers in Microbiology",
+      "doi": "10.3389/fmicb.2026.2003349",
+      "date": "2026-11-10",
+      "authors": "Alvarado-Ocampo J, Castro-Gutiérrez V, Ruiz Campos M, Chaves Monge F, Silva Mena K, Córdoba-Gamboa L, Abrahams Sandí E, Retana Moreira L.",
+      "tags": [
+        "微生物ゲノミクス",
+        "海洋微生物"
+      ],
+      "source_url": "https://europepmc.org/article/MED/43080685",
+      "preprint": false,
+      "review": false,
+      "pmcid": "PMC13794448",
+      "pmid": "43080685",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "16s rrna",
+          "18s rrna",
+          "microalgae",
+          "microbial"
+        ],
+        "context": {
+          "marine": [
+            "aquatic",
+            "freshwater"
+          ],
+          "genomics": [
+            "DNA"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "海洋微生物",
+          "微生物ゲノミクス"
+        ]
+      },
+      "collection_order": 223,
+      "collected_at": "2026-11-28T12:58:14.797353+00:00",
+      "collected_date": "2026-11-28",
+      "sources": [
+        "Europe PMC genome methods"
+      ],
+      "first_seen": "2026-11-28",
+      "related_dois": [
+        "10.3389/fmicb.2026.2003349"
+      ],
+      "translation": {
+        "title": {
+          "hash": "0a2efd3a8cec75037698aad112344104c9896d1d16214b413061fa3a42d04e03",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-28T13:29:41.866312+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "9873587967e1973bd652998689005e5609b5f7ceca404fcf20bbba1897b36f1c",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-28T13:29:41.866312+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "コスタリカの天然貯水池における耐熱性自由生活アメーバの生息域の探索：フィールドにおけるOne Healthアプローチの予備的検討",
+      "abstract_ja": "はじめにVahlkampfiidae科の自由生活性アメーバ（FLA）は自然界に広く分布し、水圏および陸圏の生息域に生息している。本グループには、Naegleria fowleriなどの好熱性両生類様生物が含まれる。本研究は、好熱性Vahlkampfiidaeの存在、堆積物微生物群集、および気候・土地利用特性の観点から、自然のレクリエーション用淡水域を記述することを目的とする。方法コスタリカの24地点から水試料を採取した。42 °Cで培養したFLAからDNAを抽出し、ファミリープライマーおよびN. fowleri種特異的プライマーを用いた従来法によるPCRで分子同定を行った。また、微生物メタバーコーディング特性評価手法として、16S rRNA V3-V4領域および18S rRNA V4領域の遺伝子アンプリコンシーケンシングによる堆積物試料からのDNA抽出も実施した。地理情報システムを用いて、各サンプリング地点をそれぞれの気候亜地域に特定し、その周囲に土地利用被覆バッファーを設定した。結果および考察結果から、Vahlkampfiidaeの陽性地点が20箇所認められた。これらの地点は主に森林被覆に覆われており、顕著な降雨パターンを持つ気候亜地域に位置していた。N. fowleriについてはすべての地点で陰性であったが、シーケンシングによる同定の結果、Tetramitus属が優占し、次いでVahlkampfia属およびNeovahlkampfia属の順であることが検出された。堆積物メタバーコーディングの結果、これらの底生生態系では主に後生動物、微細藻類、およびプロテオバクテリアが認められた。N. fowleriが検出されなかった場合であっても、人間との接触頻度が高いこれらの水圏環境には好熱性Vahlkampfiidaeが存在し得ること、また生態学的相互作用や公衆衛生上のリスクに関する今後の研究において注目すべき微生物群集に囲まれている可能性があることが本調査で示された。",
+      "answer_journal": "Frontiers in Microbiology",
+      "question_type": "published",
+      "options": [
+        "Food research international (Ottawa, Ont.)",
+        "3 Biotech",
+        "JHEP reports : innovation in hepatology",
+        "Frontiers in Microbiology"
+      ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC genome methods",
+          "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "journal article"
+      ],
+      "id": "10.1099/ijsem.0.007311",
+      "title": "<i>Ursidibacter ursinigelli</i> sp. nov., a novel member of the family <i>Pasteurellaceae</i> isolated from the oral cavity of bears.",
+      "abstract": "Background. Members of the family Pasteurellaceae commonly colonize the mucosal surfaces of vertebrates. Our understanding of the diversity of these bacteria, and their evolutionary relationships, in bears (Ursidae) is still limited.Objective. To characterize Pasteurellaceae species isolated from multiple bear species using whole-genome sequencing and comparative genomic analyses.Methods. Oral swab samples were collected from 54 bears of 7 species housed in 11 European zoos. Bacterial isolates with Pasteurellaceae-like characteristics were cultured, phenotypically characterized and further identified by whole-genome sequencing. Comparative genomic and phylogenetic analyses, including the use of the Type Strain Genome Server (TYGS), 16S rRNA gene sequence comparisons, FastANI and FastAAI calculations and digital DNA-DNA hybridization (dDDH), were performed to assess the taxonomic and phylogenetic relationships of the isolates.Results. We identified 15 Pasteurellaceae isolates, with 13 of them forming 2 distinct clades within the family Pasteurellaceae, whereas the remaining 2 isolates were placed outside these clades. Clade I (n=7) was clearly separated from Ursidibacter arcticus Bamse61T, showing 16S rRNA gene sequence similarity of 95.6-96.1%, FastANI of 92.3-93.6% and dDDH (TYGS d4) of 51.4-54.9% relative to Bamse61T, supporting a novel species for which the name Ursidibacter ursinigelli sp. nov. is proposed. Clade II (n=6) is closely related to U. arcticus, sharing 16S rRNA gene sequence similarity of 97.3-98.7%, rpoB similarity of 97.9-98.8%, FastANI of 95.2-97.9% and dDDH of 68.9-84.4% compared with Bamse61T. FastAAI showed >95% average amino acid identity to Ursidibacter for all isolates in both clades, supporting the assignment of both clades to Ursidibacter associated with bears. The remaining two isolates were assigned outside these clades.Conclusion. This study identifies U. ursinigelli sp. nov. as a novel species in the family Pasteurellaceae. The type strain of U. ursinigelli is B02WBT (=CCUG 78479T=DSM 120274T), isolated in 2023 from the oral cavity of a healthy captive American black bear in Ree Park Safari, Denmark.",
+      "journal": "International Journal of Systematic and Evolutionary Microbiology",
+      "doi": "10.1099/ijsem.0.007311",
+      "date": "2026-11-01",
+      "authors": "Zhou Q, Bertelsen MF, Moustafa AM, Larsen J, Bojesen AM.",
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ],
+      "source_url": "https://europepmc.org/article/MED/43077222",
+      "preprint": false,
+      "review": false,
+      "pmcid": "",
+      "pmid": "43077222",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "16S rRNA",
+          "16s rrna",
+          "bacteria",
+          "bacterial"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "DNA",
+            "evolution",
+            "genom",
+            "genome",
+            "genomic",
+            "phylogen",
+            "phylogenetic"
+          ],
+          "evolution": [
+            "evolution",
+            "evolutionary",
+            "phylogenetic"
+          ]
+        },
+        "tags": [
+          "微生物ゲノミクス",
+          "微生物進化"
+        ]
+      },
+      "collection_order": 208,
+      "collected_at": "2026-11-28T12:58:14.797353+00:00",
+      "collected_date": "2026-11-28",
+      "sources": [
+        "Europe PMC genome methods"
+      ],
+      "first_seen": "2026-11-28",
+      "related_dois": [
+        "10.1099/ijsem.0.007311"
+      ],
+      "translation": {
+        "title": {
+          "hash": "58a9517f86879c81b4df790584007ef6648a5509ba64aff935281b0962f14191",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-28T13:34:38.161264+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "c9ae0e50ddb975cab2fad5f212c2bbb6efd469f2e257097d646ddcedff04a16f",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-28T13:34:38.161264+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "<i>Ursidibacter ursinigelli</i> sp. nov.：クマの口腔から分離された<i>Pasteurellaceae</i>科の新種。",
+      "abstract_ja": "背景。パスツレラ科（Pasteurellaceae）の菌属は、一般に脊椎動物の粘膜表面に定着する。クマ（Ursidae）におけるこれらの細菌の多様性および進化的関係に関する知見は、依然として限られている。目的。全ゲノムシーケンシングおよび比較ゲノム解析を用いて、複数のクマ種から分離されたパスツレラ科菌属を特性評価すること。方法。欧州の11の動物園で飼育されている7種54頭のクマから口腔スワブ検体を採取した。パスツレラ科に類似した特性を持つ細菌分離株を培養し、表現型特性評価を行った後、全ゲノムシーケンシングにより同定を進めた。分離株の分類学的および系統学的関係を評価するため、Type Strain Genome Server (TYGS)、16S rRNA遺伝子配列比較、FastANIおよびFastAAI計算、ならびにデジタルDNA-DNAハイブリダイゼーション（dDDH）を含む比較ゲノム解析および系統解析を実施した。結果。15株のパスツレラ科分離株を同定し、そのうち13株はパスツレラ科内で2つの明確なクレードを形成し、残りの2株はこれらのクレードの外に分類された。クレードI（n=7）はUrsidibacter arcticus Bamse61Tから明確に区別され、Bamse61Tと比較して16S rRNA遺伝子配列類似度95.6-96.1%、FastANI 92.3-93.6%、dDDH (TYGS d4) 51.4-54.9%を示し、新種であることを支持したため、Ursidibacter ursinigelli sp. nov.という名称を提案する。クレードII（n=6）はU. arcticusと近縁であり、Bamse61Tと比較して16S rRNA遺伝子配列類似度97.3-98.7%、rpoB類似度97.9-98.8%、FastANI 95.2-97.9%、dDDH 68.9-84.4%を示した。FastAAIでは、両クレードのすべての分離株においてUrsidibacterとの平均アミノ酸同一性が95%を超え、両クレードをクマに関連するUrsidibacterに分類することが支持された。残りの2株は、これらのクレードの外に分類された。結論。本研究により、U. ursinigelli sp. nov.がパスツレラ科の新種であることが同定された。U. ursinigelliのタイプ株はB02WBT (=CCUG 78479T=DSM 120274T)であり、2023年にデンマークのRee Park Safariで飼育されていた健康なアメリカクロクマの口腔から分離された。",
+      "answer_journal": "International Journal of Systematic and Evolutionary Microbiology",
+      "question_type": "published",
+      "options": [
+        "Organic & biomolecular chemistry",
+        "Journal of biomolecular NMR",
+        "Journal of cardiovascular development and disease",
+        "International Journal of Systematic and Evolutionary Microbiology"
+      ]
+    },
+    {
+      "id": "10.64898/2026.11.26.768673",
+      "title": "Choanoflagellates discriminate among Pseudomonas aeruginosa alkylquinolones during pathogen response",
+      "abstract": "Choanoflagellates are emerging models for studying host-pathogen interactions, and as the closest living relatives of animals, offer a window into the evolution of immune defense against bacteria. However, investigating mechanisms of pathogen recognition and response in choanoflagellates remains challenging in the absence of defined bacterial effectors. By studying the interaction between the pathogen Pseudomonas aeruginosa and the choanoflagellate Monosiga brevicollis, we identify alkylquinolone HNQ (2-nonyl-4-quinolone) as a potent effector that reduces host viability. Structure-activity studies reveal that both the nine-carbon side chain and the unmodified 4-quinolone core contribute to HNQ's potency. HNQ is enriched in outer membrane vesicles, suggesting a route for its delivery in aquatic environments. In addition, HNQ reduces the viability of diverse choanoflagellate species and human cells, indicating that its effector activity may extend across evolutionarily distant hosts. Notably, M. brevicollis distinguishes HNQ, a molecule produced primarily by P. aeruginosa, from closely related hydroxylated compounds and mounts a selective response involving MbABCG1, a novel ABCG transporter that modulates sensitivity to HNQ. Together, these findings identify HNQ as a broadly active P. aeruginosa effector and show that choanoflagellates distinguish among closely related metabolites produced by a pathogen, providing a foundation for understanding the molecular basis of pathogen recognition and response.",
+      "journal": "",
+      "doi": "10.64898/2026.11.26.768673",
+      "date": "2026-11-28",
+      "authors": "Gabriel, J. P., McNairy, C., Dayras, M., Peng, C.-c., Deng, V., Meyer, F.-X., Beemelmanns, C., Woznica, A.",
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化",
+        "海洋微生物"
+      ],
+      "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.26.768673v1?rss=1",
+      "abstract_source": "rss",
+      "preprint": true,
+      "topic_filter": {
+        "accepted": true,
+        "reason": "microbial_evidence",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "Pseudomonas",
+          "bacteria",
+          "bacterial"
+        ],
+        "context": {
+          "marine": [
+            "aquatic"
+          ],
+          "genomics": [
+            "evolution"
+          ],
+          "evolution": [
+            "evolution"
+          ]
+        },
+        "tags": [
+          "海洋微生物",
+          "微生物ゲノミクス",
+          "微生物進化"
+        ]
+      },
+      "discovery": [
+        {
+          "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+          "query": "RSS feed",
+          "scope": "candidate"
+        }
+      ],
+      "collection_order": 5898,
+      "collected_at": "2026-11-28T13:08:24.513490+00:00",
+      "collected_date": "2026-11-28",
+      "sources": [
+        "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+      ],
+      "first_seen": "2026-11-28",
+      "related_dois": [
+        "10.64898/2026.11.26.768673"
+      ],
+      "translation": {
+        "title": {
+          "hash": "d24ee822a446ecfd3c4dc5fdb1cab5f39a07046b6e15b5fe81d33e94f95b1000",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-28T13:41:31.371493+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "716856b6b5f369b99f3b9d61fd751d58a7d4a2a22a3b66765b7ddeea0cacfd84",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-28T13:41:31.371493+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "襟鞭毛虫は病原体応答においてPseudomonas aeruginosaのアルキルキノロン系薬剤を識別する",
+      "abstract_ja": "襟鞭毛虫類は、宿主と病原体の相互作用を研究するための新たなモデルであり、動物に最も近い現生近縁種として、細菌に対する免疫防御の進化を解明する手がかりとなる。しかし、明確な細菌エフェクターが存在しないため、襟鞭毛虫類における病原体認識および応答機構の解明は依然として困難である。病原体Pseudomonas aeruginosaと襟鞭毛虫類Monosiga brevicollisとの相互作用を研究することにより、我々はアルキルキノロン類であるHNQ（2-ノニル-4-キノロン）を、宿主の生存能を低下させる強力なエフェクターとして同定した。構造活性解析により、9炭素側鎖と未修飾の4-キノロンコアの双方がHNQの効力に寄与していることが明らかになった。HNQは外膜小胞に豊富に存在しており、水圏環境における輸送経路の存在が示唆される。さらに、HNQは多様な襟鞭毛虫種およびヒト細胞の生存能を低下させることから、そのエフェクター活性が進化的に遠縁な宿主間でも及ぶ可能性が示された。特筆すべきは、M. brevicollisが、主にP. aeruginosaによって産生される分子であるHNQを、近縁な水酸化化合物と区別し、HNQに対する感受性を調節する新規ABCGトランスポーターであるMbABCG1を介した選択的応答を示す点である。これらの知見を総合すると、HNQは広範に活性を持つP. aeruginosaのエフェクターであることが特定され、また襟鞭毛虫類が病原体によって産生される近縁な代謝物を識別することが示された。これは、病原体認識および応答の分子基盤を理解するための基礎となるものである。",
+      "answer_journal": null,
+      "question_type": "forecast",
+      "options": [
+        "The Journal of bone and joint surgery. American volume",
+        "Marine genomics",
+        "Veterinary immunology and immunopathology",
+        "The journal of pathology. Clinical research"
+      ]
+    },
+    {
+      "id": "10.1038/s41467-026-79640-0",
+      "title": "EGMOF: efficient generation of metal-organic frameworks using a hybrid diffusion-transformer architecture",
+      "abstract": "The authors present EGMOF, a hybrid diffusion-transformer framework that generates metal-organic frameworks with target properties through intermediate chemical descriptors, using as few as 1,000 training examples.",
+      "journal": "Nature Communications",
+      "doi": "10.1038/s41467-026-79640-0",
+      "date": "2026-11-28",
+      "authors": "Jihan Kim",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://www.nature.com/articles/s41467-026-79640-0",
+      "abstract_source": "rss",
+      "preprint": false,
+      "topic_filter": {
+        "accepted": true,
+        "reason": "bioinformatics_method_or_resource",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "framework",
+          "gene"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "framework",
+            "gene"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "discovery": [
+        {
+          "source": "https://www.nature.com/ncomms.rss",
+          "query": "RSS feed",
+          "scope": "candidate"
+        }
+      ],
+      "collection_order": 5895,
+      "collected_at": "2026-11-28T13:08:24.513490+00:00",
+      "collected_date": "2026-11-28",
+      "sources": [
+        "https://www.nature.com/ncomms.rss"
+      ],
+      "first_seen": "2026-11-28",
+      "related_dois": [
+        "10.1038/s41467-026-79640-0"
+      ],
+      "translation": {
+        "title": {
+          "hash": "84c386523015e75a7f9e160ae8bcf6ec173f7437a3757cd257c25144c971dd53",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-28T13:38:27.392894+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "7fc11aa8206b7f06df80110409e073e286e464599b0774a360ab0f64c8f4c48a",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-28T13:38:27.392894+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "EGMOF: 拡散・トランスフォーマーハイブリッドアーキテクチャを用いた金属有機構造体の効率的生成",
+      "abstract_ja": "著者らは、わずか1,000件の学習例を用いて、中間化学記述子により目的の特性を持つ金属有機構造体を生成するハイブリッド拡散・トランスフォーマーフレームワークEGMOFを提案する。",
+      "answer_journal": "Nature Communications",
+      "question_type": "published",
+      "options": [
+        "The Journal of antimicrobial chemotherapy",
+        "EFSA journal. European Food Safety Authority",
+        "Nature Communications",
+        "Genomics, proteomics & bioinformatics"
+      ]
+    },
+    {
+      "id": "10.64898/2026.11.27.769811",
+      "title": "Bellinger River Virus 2: The Emergence of a Second Novel Pathogenic Nidovirus in Bellinger River Snapping Turtles (Myuchelys georgesi)",
+      "abstract": "In 2015 a major population decline in the critically endangered Bellinger River snapping turtle (Myuchelys georgesi; New South Wales, Australia) was attributed to the circulation of the serpentovirus Bellinger River virus (BRV). A decade later, we report the identification of a second novel serpentovirus in wild Bellinger River snapping turtles, herein referred to as Bellinger River virus 2 (BRV2), that is also associated with mortalities and further population impacts. Ocular and lacrimal gland lesions were consistent across disease events, although tissue tropism and distribution of internal gross and microscopic lesions varied between BRV and BRV2 infections. We employed a metatranscriptomic approach to identify and characterise BRV2. Phylogenetic analysis revealed that BRV and BRV2 form a distinct Bellinger River virus clade within the subfamily Serpentovirinae (family Tobaniviridae, order Nidovirales). However, given the extent of sequence divergence between the original BRV detected in 2015 and BRV2, which exhibit ~70% nucleotide identity across the full viral genome, we propose that BRV2 did not emerge directly from BRV during the period of outbreak observation and instead arose from a recent cross-species transmission (spillover) event within the Bellinger River ecosystem. The emergence of BRV2 in M. georgesi suggests that Bellinger River viruses remain an ongoing threat to the conservation of the species and emphasises the need for continued effort in the biotic and abiotic surveillance of the river and its wildlife. Such surveillance may also aid in improving our understanding of the origins, transmission, and drivers of serpentovirus emergence within the river ecosystem.",
+      "journal": "",
+      "doi": "10.64898/2026.11.27.769811",
+      "date": "2026-11-27",
+      "authors": "Lim, L., Lang, B. J., Rieken, J., Parrish, K., Hall, J., Rose, K., Holmes, E. C.",
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化",
+        "海洋微生物"
+      ],
+      "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.27.769811v1?rss=1",
+      "abstract_source": "rss",
+      "preprint": true,
+      "topic_filter": {
+        "accepted": true,
+        "reason": "microbial_evidence",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "metatranscriptom",
+          "metatranscriptomic",
+          "viral",
+          "virus",
+          "viruses"
+        ],
+        "context": {
+          "marine": [
+            "river"
+          ],
+          "genomics": [
+            "genom",
+            "genome",
+            "phylogen",
+            "phylogenetic"
+          ],
+          "evolution": [
+            "phylogenetic"
+          ]
+        },
+        "tags": [
+          "海洋微生物",
+          "微生物ゲノミクス",
+          "微生物進化"
+        ]
+      },
+      "discovery": [
+        {
+          "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+          "query": "RSS feed",
+          "scope": "candidate"
+        }
+      ],
+      "collection_order": 5901,
+      "collected_at": "2026-11-28T13:08:24.513490+00:00",
+      "collected_date": "2026-11-28",
+      "sources": [
+        "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+      ],
+      "first_seen": "2026-11-28",
+      "related_dois": [
+        "10.64898/2026.11.27.769811"
+      ],
+      "translation": {
+        "title": {
+          "hash": "439121ae414508e0ffa9d6e746b3f2a9bc415073de82127de6e3ccf56b533475",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-28T13:49:13.769191+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "c2bbada904f95269e1fc8abd4019169b68e3c72f653d09752aea85440c04a8a1",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-28T13:49:13.769191+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "ベリンジャー川ウイルス2：ベリンジャー川カミツキガメ（Myuchelys georgesi）における第2の新規病原性ニドウイルスの出現",
+      "abstract_ja": "2015年、絶滅危惧IA類に指定されているベリンジャー川スナッピングタートル（Myuchelys georgesi；オーストラリア、ニューサウスウェールズ州）において大規模な個体数減少が発生し、その原因はサーペントウイルスであるベリンジャー川ウイルス（BRV）の循環に起因するとされた。それから10年後、我々は野生のベリンジャー川スナッピングタートルにおいて、同様に死亡例やさらなる個体数への影響を伴う2種類目の新規サーペントウイルス（以下、ベリンジャー川ウイルス2［BRV2］と呼ぶ）を同定したことを報告する。眼および涙腺の病変は疾患発生例間で一貫していたが、組織指向性ならびに内部の肉眼的・顕微鏡的病変の分布は、BRV感染とBRV2感染の間で異なっていた。我々はメタトランスクリプトーム解析手法を用いてBRV2の同定および特性解析を行った。系統解析の結果、BRVとBRV2はサーペントウイルス亜科（Serpentovirinae）（トバニウイルス科 Tobaniviridae、ニドウイルス目 Nidovirales）内において、独立したベリンジャー川ウイルスクレードを形成することが明らかになった。しかし、2015年に検出されたオリジナルのBRVとBRV2との間で、ウイルスゲノム全体で約70%の塩基同一性を示すほどの配列分岐が認められたことから、我々は、BRV2がアウトブレイクの観察期間中にBRVから直接出現したのではなく、ベリンジャー川の生態系内で最近発生した種間伝播（スピルオーバー）事象によって生じたものであることを提唱する。M. georgesiにおけるBRV2の出現は、ベリンジャー川ウイルスが依然として本種の保全に対する継続的な脅威であることを示唆しており、河川およびその野生生物に対する生物的・非生物的サーベイランスの継続的な取り組みの必要性を強調するものである。このようなサーベイランスは、河川生態系内におけるサーペントウイルスの起源、伝播、および出現要因に関する理解を深める一助となる可能性がある。",
+      "answer_journal": null,
+      "question_type": "forecast",
+      "options": [
+        "European journal of internal medicine",
+        "Clinical genetics",
+        "Carbohydrate research",
+        "Journal of veterinary diagnostic investigation : official publication of the American Association of Veterinary Laboratory Diagnosticians, Inc"
+      ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC journals 3",
+          "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "article-commentary",
+        "comment",
+        "journal article"
+      ],
+      "id": "10.1128/aem.01581-26",
+      "title": "Advancing NTM research with citizen science.",
+      "abstract": "Nontuberculous mycobacteria (NTM) is a generic term for the >200 species of environmental mycobacteria. NTM are ubiquitous, but there is extensive variation in the distribution of individual species. In a recent article published in Applied and Environmental Microbiology, Wilsey et al. describe how community-based citizen science efforts helped map the distribution of NTM in Hawai'i (R. N. Wilsey, L.-H. Ding, S. N. Dawrs, C. K. Raulerson, et al., Appl Environ Microbiol 92:e00269-26, 2026, https://doi.org/10.1128/aem.00269-26). Mycobacterium chimaera, an opportunistic pathogen and the leading cause of NTM pulmonary disease in Hawai'i, was among the most common species isolated.",
+      "journal": "Applied and Environmental Microbiology",
+      "doi": "10.1128/aem.01581-26",
+      "date": "2026-10-29",
+      "authors": "Alexander DC.",
+      "tags": [
+        "微生物学"
+      ],
+      "source_url": "https://europepmc.org/article/MED/42954467",
+      "preprint": false,
+      "review": false,
+      "pmcid": "PMC13780292",
+      "pmid": "42954467",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "microbiology"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [],
+          "evolution": []
+        },
+        "tags": [
+          "微生物学"
+        ]
+      },
+      "collection_order": 395,
+      "collected_at": "2026-11-28T12:58:14.797353+00:00",
+      "collected_date": "2026-11-28",
+      "sources": [
+        "Europe PMC journals 3"
+      ],
+      "first_seen": "2026-11-28",
+      "related_dois": [
+        "10.1128/aem.01581-26"
+      ],
+      "translation": {
+        "title": {
+          "hash": "6bd8e8ed3ee499b4ec8ccca0646ed94e7348c581aa3d26a342010ed26f83ff5b",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-28T13:29:41.866312+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "62d776008f004fc28f877ee227244f9d48def87e8f513cd3989756e0176ccb86",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-28T13:29:41.866312+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "市民科学によるNTM研究の推進。",
+      "abstract_ja": "非結核性抗酸菌（NTM）は、200種を超える環境中抗酸菌の総称である。NTMは遍在しているが、個々の種の分布には大きなばらつきがある。『Applied and Environmental Microbiology』誌に掲載された最近の論文において、Wilseyらは、コミュニティベースの市民科学活動がハワイにおけるNTMの分布図作成にどのように寄与したかを述べている（R. N. Wilsey, L.-H. Ding, S. N. Dawrs, C. K. Raulerson, et al., Appl Environ Microbiol 92:e00269-26, 2026, https://doi.org/10.1128/aem.00269-26）。日和見病原体であり、ハワイにおけるNTM肺疾患の主要な原因であるMycobacterium chimaeraは、分離された種の中で最も頻度の高い種の一つであった。",
+      "answer_journal": "Applied and Environmental Microbiology",
+      "question_type": "published",
+      "options": [
+        "Annals of biomedical engineering",
+        "Stem cell reports",
+        "Applied and Environmental Microbiology",
+        "Cell reports. Medicine"
+      ]
+    },
+    {
+      "id": "10.64898/2026.11.26.769439",
+      "title": "Defining and Characterizing the Accessory Genome of the Virulent Vibriophage ICP1",
+      "abstract": "Bacteriophages (phages) must evade host defense systems and redirect cellular resources to support viral replication. The virulent phage ICP1 is a persistent predator of Vibrio cholerae in both human hosts and aquatic environments, yet the genetic factors underlying its infection cycle remain incompletely defined. Here, we developed a transposon mutagenesis platform for ICP1 and applied transposon sequencing (Tn-seq) to identify genes required for infection across host strains and environmental conditions. Approximately 32% of ICP1's 237 genes appeared essential, while 68% were dispensable, with a subset showing conditional essentiality. As a proof of principle, mutants disrupted in the anti-PLE (phage-inducible chromosomal-like element) counter-defense gene adi (gp99.1) were conditionally restricted in hosts carrying PLE2 when CRISPR-Cas-mediated targeting of PLE2 was abrogated but were otherwise neutral. We further identified phage genes involved in nucleotide metabolism whose contribution to fitness depended on nutrient availability. Under nutrient-limited conditions, mutants in the aerobic and anaerobic ribonucleotide reductase genes, nrdAB and nrdDG, were strongly depleted, consistent with roles in maintaining nucleotide pools under differing oxygen concentrations. Mutations in gp170, encoding a predicted dNMP kinase, and gp193 (td), encoding a predicted thymidylate synthase, also resulted in fitness defects. Together, these results help establish Tn-seq as a powerful approach for defining ICP1 gene requirements while highlighting the need to validate subtle conditional fitness effects.",
+      "journal": "",
+      "doi": "10.64898/2026.11.26.769439",
+      "date": "2026-11-28",
+      "authors": "Camilli, A., Tan, E. A., Lawrence, H. B., Calderon-Zavala, A., Lazinski, D. W.",
+      "tags": [
+        "微生物ゲノミクス",
+        "海洋微生物"
+      ],
+      "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.26.769439v1?rss=1",
+      "abstract_source": "rss",
+      "preprint": true,
+      "topic_filter": {
+        "accepted": true,
+        "reason": "microbial_evidence",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "Vibrio",
+          "bacteriophage",
+          "bacteriophages",
+          "phage",
+          "phages",
+          "viral"
+        ],
+        "context": {
+          "marine": [
+            "aquatic"
+          ],
+          "genomics": [
+            "genom",
+            "genome"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "海洋微生物",
+          "微生物ゲノミクス"
+        ]
+      },
+      "discovery": [
+        {
+          "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+          "query": "RSS feed",
+          "scope": "candidate"
+        }
+      ],
+      "collection_order": 5899,
+      "collected_at": "2026-11-28T13:08:24.513490+00:00",
+      "collected_date": "2026-11-28",
+      "sources": [
+        "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+      ],
+      "first_seen": "2026-11-28",
+      "related_dois": [
+        "10.64898/2026.11.26.769439"
+      ],
+      "translation": {
+        "title": {
+          "hash": "93316547b3cb9eede12864222678b0ea1a865e4627282a4e8aa0549b85cf7ba5",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-28T13:45:54.180445+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "0f4232504a11bb329e1a397e25094fd2655938f839be2cc9abe49ccb59a5fc99",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-28T13:45:54.180445+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "強毒ビブリオファージICP1のアクセサリーゲノムの定義と特性解析",
+      "abstract_ja": "バクテリオファージ（ファージ）は、宿主の防御システムを回避し、細胞資源を転用してウイルスの複製をサポートしなければならない。強毒ファージICP1は、ヒト宿主と水圏環境の両方においてコレラ菌の持続的な捕食者であるが、その感染サイクルの根底にある遺伝的因子は依然として十分に解明されていない。本研究では、ICP1のトランスポゾン変異導入プラットフォームを開発し、トランスポゾンシーケンシング（Tn-seq）を応用して、宿主株や環境条件を問わず感染に必要な遺伝子を同定した。ICP1の237個の遺伝子のうち約32%が必須であると考えられ、68%は非必須であり、その一部は条件付き必須性を示した。原理実証として、抗PLE（ファージ誘導性染色体様エレメント）対抗防御遺伝子adi（gp99.1）に破壊を導入した変異体は、PLE2のCRISPR-Cas介在性ターゲティングを消失させた場合、PLE2を保持する宿主において条件付きで制限されたが、それ以外は中立であった。さらに、ヌクレオチド代謝に関与し、適応度への寄与が栄養塩の利用可能性に依存するファージ遺伝子を同定した。栄養塩制限条件下では、好気性および嫌気性リボヌクレオチド還元酵素遺伝子であるnrdABおよびnrdDGの変異体が強く枯渇しており、これは異なる酸素濃度下でヌクレオチドプールを維持する役割と一致していた。予測されるdNMPキナーゼをコードするgp170と、予測されるチミジル酸シンターゼをコードするgp193（td）の変異も、適応度の欠陥をもたらした。これらの結果を総合すると、Tn-seqはICP1の遺伝子要求性を定義するための強力な手法であることが示されるとともに、微細な条件付き適応度効果を検証する必要性が浮き彫りになった。",
+      "answer_journal": null,
+      "question_type": "forecast",
+      "options": [
+        "Journal of biochemical and molecular toxicology",
+        "Astrobiology",
+        "Archiv der Pharmazie",
+        "Neuroscience research"
+      ]
+    },
+    {
+      "id": "10.64898/2026.11.25.769217",
+      "title": "Dietary fibre hierarchical structure determines gut microbiota responses to apple (poly)phenols through metabolite-associated microbial guilds",
+      "abstract": "Dietary fibres frequently coexist in the colon with vacuole-derived (poly)phenolic compounds following consumption of whole and minimally processed plant foods or combinations of dietary sources. However, whether (poly)phenols can direct microbial community composition and metabolic outputs during fibre fermentation, and whether such effects depend on fibre composition and physical assembly, remains unknown, possibly explaining inconsistent (poly)phenol clinical outcomes. Here, we investigated how dietary fibre hierarchical structural assembly and vacuole-derived (poly)phenols interact to shape gut microbial community composition and metabolite output. We developed tunable, (poly)phenol-free bacterial analogues of dicotyledonous primary cell walls, enabling comparison with compositionally matched but unstructured polysaccharide mixtures. Using a fully characterised apple (poly)phenol extract at physiologically relevant colonic concentrations and human faecal inocula, we show that (poly)phenols had minimal effects on overall microbial community composition and diversity but significantly altered microbial metabolic outputs. These changes were associated with subtle, context-dependent shifts in taxa assigned to putative saccharolytic and proteolytic guilds based on taxon-metabolite correlations. However, these effects occurred only within specific fermentation contexts characterized by low fermentability (e.g., cellulose and physically-assembled cell walls) or slowly fermentable substrates (xyloglucan), but not rapidly fermentable substrates (e.g., pectin or unstructured polysaccharide blends). Results revealed a hierarchical framework of microbial fermentation in which fibre composition defines metabolic potential, physical assembly governs substrate accessibility and fermentation dynamics, and (poly)phenols unlock utilization of recalcitrant dietary fibres through context-dependent trophic and antimicrobial (duplibiotic) effects on specialized microbial guilds, establishing fibre composition and physical assembly as key determinants of microbiota responses to dietary (poly)phenols.",
+      "journal": "",
+      "doi": "10.64898/2026.11.25.769217",
+      "date": "2026-11-28",
+      "authors": "Lopez-Rodulfo, I. M., Swackhamer, C., Bechtner, J., Fang, F., Hamaker, B. R., Martinez, M. M.",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.25.769217v1?rss=1",
+      "abstract_source": "rss",
+      "preprint": true,
+      "topic_filter": {
+        "accepted": true,
+        "reason": "microbial_evidence",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "bacteria",
+          "bacterial",
+          "microbial",
+          "microbiota"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "assembly"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "discovery": [
+        {
+          "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+          "query": "RSS feed",
+          "scope": "candidate"
+        }
+      ],
+      "collection_order": 5897,
+      "collected_at": "2026-11-28T13:08:24.513490+00:00",
+      "collected_date": "2026-11-28",
+      "sources": [
+        "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+      ],
+      "first_seen": "2026-11-28",
+      "related_dois": [
+        "10.64898/2026.11.25.769217"
+      ],
+      "translation": {
+        "title": {
+          "hash": "77faa9a88357530575e57a28f85e0958bbe7262d267dd6b42e9da1f84cb9f651",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-28T13:41:31.371493+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "f865d8803c23b8c4152c95e5b5b8ad941910414fe8ca30ad7308d2529dd07108",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-28T13:41:31.371493+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "食物繊維の階層構造は、代謝物関連微生物ギルドを介して、リンゴ（ポリ）フェノールに対する腸内細菌叢の応答を決定づける。",
+      "abstract_ja": "未加工または最小限の加工を施した植物性食品、あるいは複数の食品源を組み合わせた摂取後、結腸内では食物繊維と液胞由来の（ポリ）フェノール化合物が共存することが多い。しかし、食物繊維の発酵過程において（ポリ）フェノールが微生物群集の組成や代謝産物の産生を制御し得るのか、またそのような効果が食物繊維の組成や物理的構造に依存するのかは依然として不明であり、これが（ポリ）フェノールによる臨床結果の不一致の一因となっている可能性がある。本研究では、食物繊維の階層的な構造形成と液胞由来の（ポリ）フェノールがどのように相互作用し、腸内微生物群集の組成や代謝産物の産生を形作るかを調査した。我々は、双子葉植物の一次細胞壁の、（ポリ）フェノールを含まない調整可能な細菌類似体を開発し、組成を一致させた非構造化多糖類混合物との比較を可能にした。生理学的に意義のある結腸濃度で完全に特性解析されたリンゴ（ポリ）フェノール抽出物とヒト糞便接種菌を用い、（ポリ）フェノールが微生物群集全体の組成と多様性に及ぼす影響は最小限であった一方、微生物の代謝産物の産生を有意に変化させることを示した。これらの変化は、分類群と代謝産物の相関に基づき、推定される糖分解性およびタンパク質分解性ギルドに割り当てられた分類群の、文脈依存的なわずかなシフトに関連していた。しかし、これらの効果は、発酵性が低いもの（例：セルロースや物理的に構造化された細胞壁）や発酵速度の遅い基質（キシログルカン）に特徴的な特定の発酵文脈においてのみ認められ、急速に発酵する基質（例：ペクチンや非構造化多糖類混合物）では認められなかった。その結果から、食物繊維の組成が代謝能を規定し、物理的構造が基質の利用可能性と発酵動態を支配し、（ポリ）フェノールが特殊な微生物ギルドに対する文脈依存的な栄養段階的および抗菌的（デュプリバイオティック）効果を通じて難分解性食物繊維の利用を可能にするという、微生物発酵の階層的枠組みが明らかになった。これにより、食物繊維の組成と物理的構造が、食事由来の（ポリ）フェノールに対する微生物叢の応答を決定づける主要な要因であることが示された。",
+      "answer_journal": null,
+      "question_type": "forecast",
+      "options": [
+        "Experimental eye research",
+        "Journal of surgical oncology",
+        "Food chemistry",
+        "Experimental cell research"
+      ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC genome methods",
+          "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "journal article"
+      ],
+      "id": "10.1099/ijsem.0.007363",
+      "title": "<i>Methylobacter lacustris</i> sp. nov. isolated from the water column of a boreal, oxygen-stratified lake in Southern Finland.",
+      "abstract": "An aerobic methanotroph was isolated from the water column of the boreal Lake Lovojärvi (Southern Finland) and designated strain S3L5CT. Cells were Gram-stain-negative and non-motile cocci. Strain S3L5CT could grow at pH 6.0-8.3 and 0.1-20 °C. The genome size was 4.82 Mb with a 43.3 mol% (digital) DNA G+C content. Strain S3L5CT belongs to the family Methylomonadaceae (class Gammaproteobacteria) and displayed 95.2-99.5% 16S rRNA gene sequence similarity to the type strains of the species representing the genus Methylobacter. Whole-genome comparisons (average nucleotide identity, ANI, and digital DNA-DNA hybridization, dDDH) confirmed strain S3L5CT representing a novel species showing 99.5% 16S rRNA gene identity, 92.9% ANI and 50.6% dDDH to the closest type strain, Methylobacter psychrophilus DSM 9914T, with ANI and dDDH below species delineation thresholds (95 and 70%, respectively). The genome of strain S3L5CT encodes both particulate (pmoCAB) and soluble (mmoXYZBCD) methane monooxygenases, along with the complete methane oxidation and carbon assimilation pathways. The cyc2 gene, potentially responsible for mediating extracellular electron transfer from iron or dissolved organic matter (DOM), was detected in strain S3L5CT but not in strain DSM 9914T. Hinting at this, experimental DOM addition enhanced methane consumption and growth of strain S3L5CT but not that of strain DSM 9914T. Based on phenotypic, genetic and phylogenetic data, strain S3L5CT represents a novel species within the genus Methylobacter for which the name Methylobacter lacustris sp. nov. is proposed, with strain S3L5CT (DSM 117952T=LMG 33631T) as the type strain.",
+      "journal": "International Journal of Systematic and Evolutionary Microbiology",
+      "doi": "10.1099/ijsem.0.007363",
+      "date": "2026-11-01",
+      "authors": "Rissanen AJ, Sarkar J, Mangayil R, Svenning MM, Khanongnuch R.",
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化",
+        "海洋微生物"
+      ],
+      "source_url": "https://europepmc.org/article/MED/43102501",
+      "preprint": false,
+      "review": false,
+      "pmcid": "",
+      "pmid": "43102501",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "16S rRNA",
+          "16s rrna",
+          "average nucleotide identity",
+          "methanotroph"
+        ],
+        "context": {
+          "marine": [
+            "lake"
+          ],
+          "genomics": [
+            "DNA",
+            "genom",
+            "genome",
+            "phylogen",
+            "phylogenetic"
+          ],
+          "evolution": [
+            "phylogenetic"
+          ]
+        },
+        "tags": [
+          "海洋微生物",
+          "微生物ゲノミクス",
+          "微生物進化"
+        ]
+      },
+      "collection_order": 213,
+      "collected_at": "2026-11-28T12:58:14.797353+00:00",
+      "collected_date": "2026-11-28",
+      "sources": [
+        "Europe PMC genome methods"
+      ],
+      "first_seen": "2026-11-28",
+      "related_dois": [
+        "10.1099/ijsem.0.007363"
+      ],
+      "translation": {
+        "title": {
+          "hash": "8337d7c503a14860938d4645abacbc49c28e9a2e5bf6f9fb4fb016b519433548",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-28T13:38:27.392894+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "819d0ef5b459d33070058929a6ff6caa080756a75fbcec828cd00544ea6fd774",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-28T13:38:27.392894+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "<i>Methylobacter lacustris</i> sp. nov. フィンランド南部の北方型酸素成層湖の水柱から分離された。",
+      "abstract_ja": "北方湖ロヴォヤルヴィ（フィンランド南部）の水柱から好気性メタン酸化菌を単離し、株S3L5CTと命名した。細胞はグラム染色陰性で非運動性の球菌であった。株S3L5CTはpH 6.0-8.3および0.1-20 °Cの範囲で増殖可能であった。ゲノムサイズは4.82 Mbで、DNA G+C含量は43.3 mol%（デジタル）であった。株S3L5CTはメチルモナス科（ガンマプロテオバクテリア綱）に属し、Methylobacter属を代表する種のタイプ株と16S rRNA遺伝子配列の類似性が95.2-99.5%であった。全ゲノム比較（平均ヌクレオチド同一性、ANI、およびデジタルDNA-DNAハイブリダイゼーション、dDDH）により、株S3L5CTは新規種であることが確認され、最も近縁なタイプ株であるMethylobacter psychrophilus DSM 9914Tに対して、16S rRNA遺伝子同一性99.5%、ANI 92.9%、dDDH 50.6%を示し、ANIおよびdDDHは種の境界閾値（それぞれ95%および70%）を下回っていた。株S3L5CTのゲノムには、粒子状（pmoCAB）および可溶性（mmoXYZBCD）の両方のメタンモノオキシゲナーゼに加え、完全なメタン酸化経路および炭素同化経路がコードされている。鉄または溶存有機物（DOM）からの細胞外電子伝達を媒介する可能性のあるcyc2遺伝子が、株S3L5CTでは検出されたが、株DSM 9914Tでは検出されなかった。この点を示唆するように、実験的なDOM添加は株S3L5CTのメタン消費および増殖を促進したが、株DSM 9914Tでは促進されなかった。表現型、遺伝的、および系統学的データに基づき、株S3L5CTはMethylobacter属内の新規種であり、株S3L5CT（DSM 117952T=LMG 33631T）をタイプ株として、Methylobacter lacustris sp. nov.という名称を提案する。",
+      "answer_journal": "International Journal of Systematic and Evolutionary Microbiology",
+      "question_type": "published",
+      "options": [
+        "Journal of neuroradiology = Journal de neuroradiologie",
+        "Lupus science & medicine",
+        "International Journal of Systematic and Evolutionary Microbiology",
+        "European journal of medical genetics"
+      ]
+    },
+    {
+      "id": "10.1111/1758-2229.70474",
+      "title": "Differential Removal of Tartrazine and Ponceau 4R by the Ligninolytic Fungus Trametes villosa: Roles of Biosorption, Laccase Activity and Residual Phytotoxicity",
+      "abstract": "Trametes villosa CMPUJ H122 decolourized 82.6% of Tartrazine and over 96.6% of Ponceau 4R under selected screening conditions; biosorption contributed strongly to Tartrazine removal, while viable biomass enhanced Ponceau 4R removal. However, residual phytotoxicity in treated Ponceau 4R mixtures shows that decolourization does not guarantee environmental safety.\n\nABSTRACT\nFood azo dyes in industrial effluents motivate biological treatment approaches that can operate near ambient temperature and may reduce demand for externally supplied oxidants. This study established a baseline assessment for Tartrazine and Ponceau 4R decolourization by Trametes villosa CMPUJ H122 using Plackett–Burman screening, biomass viability comparisons, laccase assays, spectroscopy and seed germination tests. At initial pH 4.5, selected treatments achieved 82.6% ± 1.1% Tartrazine decolourization (5 mg L−1, 36 h) and 96.6% ± 0.3% Ponceau 4R decolourization (50 mg L−1, 6 h). Glucose and CuSO4 concentrations were 1.0 g L−1 and 0.5 mM for Tartrazine and 0.5 g L−1 and 1.0 mM for Ponceau 4R. In 72 h assays, heat‐inactivated biomass removed more Tartrazine than viable biomass, supporting biosorption. Greater Ponceau 4R removal by viable biomass suggested a possible metabolic contribution. UV/Vis and FT‐IR measurements did not establish degradation pathways. Undiluted treated Ponceau 4R retained phytotoxicity toward Lactuca sativa and Raphanus sativus, potentially associated with residual dye, uncharacterized transformation products or medium components; individual contributions remain unsolved. Germination improved upon dilution, which does not demonstrate treatment‐induced detoxification. These findings identify isolate‐specific treatment responses and analytical priorities for subsequent process development.\n\nTrametes villosa CMPUJ H122 decolourized 82.6% of Tartrazine and over 96.6% of Ponceau 4R under selected screening conditions; biosorption contributed strongly to Tartrazine removal, while viable biomass enhanced Ponceau 4R removal. However, residual phytotoxicity in treated Ponceau 4R mixtures shows that decolourization does not guarantee environmental safety.\n\nABSTRACT\nFood azo dyes in industrial effluents motivate biological treatment approaches that can operate near ambient temperature and may reduce demand for externally supplied oxidants. This study established a baseline assessment for Tartrazine and Ponceau 4R decolourization by Trametes villosa CMPUJ H122 using Plackett–Burman screening, biomass viability comparisons, laccase assays, spectroscopy and seed germination tests. At initial pH 4.5, selected treatments achieved 82.6% ± 1.1% Tartrazine decolourization (5 mg L−1, 36 h) and 96.6% ± 0.3% Ponceau 4R decolourization (50 mg L−1, 6 h). Glucose and CuSO4 concentrations were 1.0 g L−1 and 0.5 mM for Tartrazine and 0.5 g L−1 and 1.0 mM for Ponceau 4R. In 72 h assays, heat-inactivated biomass removed more Tartrazine than viable biomass, supporting biosorption. Greater Ponceau 4R removal by viable biomass suggested a possible metabolic contribution. UV/Vis and FT-IR measurements did not establish degradation pathways. Undiluted treated Ponceau 4R retained phytotoxicity toward Lactuca sativa and Raphanus sativus, potentially associated with residual dye, uncharacterized transformation products or medium components; individual contributions remain unsolved. Germination improved upon dilution, which does not demonstrate treatment-induced detoxification. These findings identify isolate-specific treatment responses and analytical priorities for subsequent process development.",
+      "journal": "Environmental Microbiology Reports",
+      "doi": "10.1111/1758-2229.70474",
+      "date": "2026-11-28",
+      "authors": "Leidy Diana Ardila‐Leal, \nGabriela Garzón‐Jirón, \nSofia Godoy‐Enciso, \nMelanny Pachón‐Urrea, \nMayra Alexandra Garzón‐González, \nMaryam Chaib De Mares, \nAura M. Pedroza‐Rodríguez, \nClaudia M. Rivera‐Hoyos",
+      "tags": [
+        "微生物学"
+      ],
+      "source_url": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1758-2229.70474?af=R",
+      "abstract_source": "rss",
+      "preprint": false,
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [],
+        "context": {
+          "marine": [],
+          "genomics": [],
+          "evolution": []
+        },
+        "tags": [
+          "微生物学"
+        ]
+      },
+      "discovery": [
+        {
+          "source": "https://onlinelibrary.wiley.com/feed/17582229/most-recent",
+          "query": "RSS feed",
+          "scope": "journal"
+        }
+      ],
+      "collection_order": 5905,
+      "collected_at": "2026-11-28T13:08:24.513490+00:00",
+      "collected_date": "2026-11-28",
+      "sources": [
+        "https://onlinelibrary.wiley.com/feed/17582229/most-recent"
+      ],
+      "first_seen": "2026-11-28",
+      "related_dois": [
+        "10.1111/1758-2229.70474"
+      ],
+      "translation": {
+        "title": {
+          "hash": "f721924b0206637a7e812788a8b894f275927e9da2ab2a212320d1196020b7e2",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-28T13:29:41.866312+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "5b8f52c75d515742575086a3c8b31daa99e5b9ca7253e6b22b937c7e5401363e",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-28T13:29:41.866312+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "リグニン分解菌Trametes villosaによるタートラジンおよびポンソー4Rの差異的除去：生物吸着、ラッカーゼ活性および残留植物毒性の役割",
+      "abstract_ja": "Trametes villosa CMPUJ H122は、選定したスクリーニング条件下において、タートラジンの82.6%およびポンソー4Rの96.6%超を脱色した。バイオ吸着がタートラジンの除去に強く寄与した一方、生存可能なバイオマスがポンソー4Rの除去を促進した。しかし、処理済みポンソー4R混合物における残留植物毒性は、脱色が環境安全性を保証するものではないことを示している。\n\n要旨\n工業廃水に含まれる食品用アゾ染料は、周囲温度付近で作用し、外部から供給される酸化剤の需要を低減し得る生物学的処理手法の導入を促している。本研究では、プラケット・バーマン・スクリーニング、バイオマス生存能の比較、ラッカーゼアッセイ、分光分析、および種子発芽試験を用いて、Trametes villosa CMPUJ H122によるタートラジンおよびポンソー4Rの脱色に関するベースライン評価を確立した。初期pH 4.5において、選定した処理法により、タートラジンの脱色率は82.6% ± 1.1%（5 mg L−1, 36 h）、ポンソー4Rの脱色率は96.6% ± 0.3%（50 mg L−1, 6 h）を達成した。グルコースおよびCuSO4濃度は、タートラジンで1.0 g L−1および0.5 mM、ポンソー4Rで0.5 g L−1および1.0 mMであった。72 hのアッセイにおいて、熱不活化バイオマスは生存可能バイオマスよりも多くのタートラジンを除去し、バイオ吸着が支持された。生存可能バイオマスによるポンソー4Rの除去量が多かったことは、代謝的な寄与の可能性を示唆していた。UV/VisおよびFT-IR測定では、分解経路は特定されなかった。未希釈の処理済みポンソー4Rは、Lactuca sativaおよびRaphanus sativusに対して植物毒性を保持しており、これは残留染料、未同定の変換生成物、または培地成分に関連している可能性があり、個々の寄与については未解明のままである。発芽は希釈によって改善したが、これは処理による解毒を示すものではない。これらの知見は、分離株固有の処理反応および後続のプロセス開発における分析上の優先事項を明らかにするものである。\n\nTrametes villosa CMPUJ H122は、選定したスクリーニング条件下において、タートラジンの82.6%およびポンソー4Rの96.6%超を脱色した。バイオ吸着がタートラジンの除去に強く寄与した一方、生存可能なバイオマスがポンソー4Rの除去を促進した。しかし、処理済みポンソー4R混合物における残留植物毒性は、脱色が環境安全性を保証するものではないことを示している。\n\n要旨\n工業廃水に含まれる食品用アゾ染料は、周囲温度付近で作用し、外部から供給される酸化剤の需要を低減し得る生物学的処理手法の導入を促している。本研究では、プラケット・バーマン・スクリーニング、バイオマス生存能の比較、ラッカーゼアッセイ、分光分析、および種子発芽試験を用いて、Trametes villosa CMPUJ H122によるタートラジンおよびポンソー4Rの脱色に関するベースライン評価を確立した。初期pH 4.5において、選定した処理法により、タートラジンの脱色率は82.6% ± 1.1%（5 mg L−1, 36 h）、ポンソー4Rの脱色率は96.6% ± 0.3%（50 mg L−1, 6 h）を達成した。グルコースおよびCuSO4濃度は、タートラジンで1.0 g L−1および0.5 mM、ポンソー4Rで0.5 g L−1および1.0 mMであった。72 hのアッセイにおいて、熱不活化バイオマスは生存可能バイオマスよりも多くのタートラジンを除去し、バイオ吸着が支持された。生存可能バイオマスによるポンソー4Rの除去量が多かったことは、代謝的な寄与の可能性を示唆していた。UV/VisおよびFT-IR測定では、分解経路は特定されなかった。未希釈の処理済みポンソー4Rは、Lactuca sativaおよびRaphanus sativusに対して植物毒性を保持しており、これは残留染料、未同定の変換生成物、または培地成分に関連している可能性があり、個々の寄与については未解明のままである。発芽は希釈によって改善したが、これは処理による解毒を示すものではない。これらの知見は、分離株固有の処理反応および後続のプロセス開発における分析上の優先事項を明らかにするものである。",
+      "answer_journal": "Environmental Microbiology Reports",
+      "question_type": "published",
+      "options": [
+        "Environmental Microbiology Reports",
+        "JMIR public health and surveillance",
+        "International journal of pharmaceutics",
+        "World journal of microbiology & biotechnology"
+      ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC genome methods",
+          "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "journal article"
+      ],
+      "id": "10.1099/ijsem.0.007352",
+      "title": "<i>Corynebacterium yanzhangcaii</i> sp. nov. and <i>Corynebacterium lidongmeiae</i> sp. nov., isolated from faeces of white-lipped deer (<i>Cervus albirostris</i>) in the Qinghai-Tibet Plateau.",
+      "abstract": "Four novel bacterial strains, designated H78T, H113, H128T and H127, were isolated from faeces of white-lipped deer (Cervus albirostris) in the Qinghai-Tibet Plateau of China. These four isolates were Gram-stain-positive, catalase-positive, oxidase-negative, facultatively anaerobic, short rod-shaped, non-motile, non-haemolytic bacteria. Results of phylogenomic analyses based on 16S rRNA gene sequences and core genomic genes showed that the isolates were closely related to the members of the genus Corynebacterium. Strain pair H78T and H113 exhibited the highest 16S rRNA gene similarity to Corynebacterium freneyi DSM 44506T (97.2%), while strains H128T and H127 showed the closest similarity to Corynebacterium epidermidicanis DSM 45586T (97.4%). The representative strains (H78T and H128T) exhibited DNA G+C contents of 56.5 and 58.0 mol%, respectively. Digital DNA-DNA hybridization (dDDH) and average nucleotide identity (ANI) values between the representative strains and their closely related species were as follows: 20.7-22.9% (dDDH) and 70.5-72.8% (ANI) for strain H78T versus Corynebacterium ulceribovis IMMIB L-1395T, Corynebacterium amycolatum S160T, Corynebacterium lactis RW2-5T and C. freneyi DSM 44506T; 19.0-21.4% (dDDH) and 72.9-75.1% (ANI) for strain H128T versus C. epidermidicanis DSM 45586T, Corynebacterium hindlerae NML 93-0612T and Corynebacterium kalinowskii 1959T. All these values were below the recommended thresholds of 95-96% (ANI) and 70% (dDDH). Both strains H78T and H128T contain meso-diaminopimelic acid, ribose, arabinose, glucose and galactose in their cell walls; the main fatty acids were C16 : 0 and C18 : 1  ω9c; the major respiratory quinone was MK-8(H2); the predominant polar lipids were diphosphatidylglycerol, phosphatidylglycerol and phosphatidylinositol mannoside. In addition, phosphatidylinositol was detected in strain H78T, but not in strain H128T. Conversely, mycolic acid was identified in strain H128T, but not in strain H78T. Based on the results of the polyphasic taxonomic study, two novel species in the genus Corynebacterium are proposed, namely Corynebacterium yanzhangcaii sp. nov. (type strain H78T=GDMCC 1.4704T=JCM 37416T) and Corynebacterium lidongmeiae sp. nov. (type strain H128T=GDMCC 1.4705T=JCM 37417T).",
+      "journal": "International Journal of Systematic and Evolutionary Microbiology",
+      "doi": "10.1099/ijsem.0.007352",
+      "date": "2026-11-01",
+      "authors": "Hou Q, Ma J, Zhou H, Yang J, Liu J, Pu D, Ning S, Wang Y, Cao L, Pu J, Wang W, Xu J.",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://europepmc.org/article/MED/43097468",
+      "preprint": false,
+      "review": false,
+      "pmcid": "",
+      "pmid": "43097468",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "16s rrna",
+          "bacteria",
+          "bacterial"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "DNA",
+            "genom",
+            "genomic",
+            "phylogen",
+            "phylogenomic"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "collection_order": 242,
+      "collected_at": "2026-11-28T12:58:14.797353+00:00",
+      "collected_date": "2026-11-28",
+      "sources": [
+        "Europe PMC genome methods"
+      ],
+      "first_seen": "2026-11-28",
+      "related_dois": [
+        "10.1099/ijsem.0.007352"
+      ],
+      "translation": {
+        "title": {
+          "hash": "9d545f13f4836c315d087a60b56d200fbd976aa65cb34a65508d908c8986fd8b",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-28T13:41:31.371493+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "2b28447fd5d0103125a4e03a5ede67a7e441edf3dc67da44b2b5f2ec8cf17402",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-28T13:41:31.371493+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "青蔵高原のシロオビジカ（<i>Cervus albirostris</i>）の糞から分離された<i>Corynebacterium yanzhangcaii</i> sp. nov.および<i>Corynebacterium lidongmeiae</i> sp. nov.",
+      "abstract_ja": "中国の青海・チベット高原において、シロクチジカ（Cervus albirostris）の糞便から、H78T、H113、H128TおよびH127と命名された4株の新規細菌株が分離された。これら4株は、グラム染色陽性、カタラーゼ陽性、オキシダーゼ陰性、通性嫌気性、短桿状、非運動性、非溶血性の細菌であった。16S rRNA遺伝子配列およびコアゲノム遺伝子に基づく系統ゲノム解析の結果、これらの分離株はコリネバクテリウム属（Corynebacterium）の菌株と近縁であることが示された。H78T株とH113株のペアは、Corynebacterium freneyi DSM 44506Tに対して最も高い16S rRNA遺伝子類似性（97.2%）を示し、一方でH128T株とH127株はCorynebacterium epidermidicanis DSM 45586Tに対して最も近い類似性（97.4%）を示した。代表株（H78TおよびH128T）のDNA G+C含有量は、それぞれ56.5および58.0 mol%であった。代表株と近縁種との間のデジタルDNA-DNAハイブリダイゼーション（dDDH）および平均ヌクレオチド同一性（ANI）値は、H78T株とCorynebacterium ulceribovis IMMIB L-1395T、Corynebacterium amycolatum S160T、Corynebacterium lactis RW2-5TおよびC. freneyi DSM 44506Tとの間で20.7-22.9%（dDDH）および70.5-72.8%（ANI）、H128T株とC. epidermidicanis DSM 45586T、Corynebacterium hindlerae NML 93-0612TおよびCorynebacterium kalinowskii 1959Tとの間で19.0-21.4%（dDDH）および72.9-75.1%（ANI）であった。これらの値はすべて、推奨閾値である95-96%（ANI）および70%（dDDH）を下回っていた。H78T株およびH128T株はともに、細胞壁にメソジアミノピメリン酸、リボース、アラビノース、グルコースおよびガラクトースを含有していた。主要な脂肪酸はC16 : 0およびC18 : 1  ω9cであり、主要な呼吸キノンはMK-8(H2)であった。主要な極性脂質は、ジホスファチジルグリセロール、ホスファチジルグリセロールおよびホスファチジルイノシトールマンノシドであった。さらに、ホスファチジルイノシトールはH78T株で検出されたが、H128T株では検出されなかった。逆に、ミコリン酸はH128T株で同定されたが、H78T株では同定されなかった。多相分類学的研究の結果に基づき、コリネバクテリウム属の2つの新種、すなわちCorynebacterium yanzhangcaii sp. nov.（タイプ株 H78T=GDMCC 1.4704T=JCM 37416T）およびCorynebacterium lidongmeiae sp. nov.（タイプ株 H128T=GDMCC 1.4705T=JCM 37417T）が提案される。",
+      "answer_journal": "International Journal of Systematic and Evolutionary Microbiology",
+      "question_type": "published",
+      "options": [
+        "Diabetes, obesity & metabolism",
+        "International Journal of Systematic and Evolutionary Microbiology",
+        "Journal of the American Chemical Society",
+        "Pharmaceuticals (Basel, Switzerland)"
+      ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC journals 2",
+          "query": "(JOURNAL:\"microLife\" OR JOURNAL:\"Nucleic Acids Research\" OR JOURNAL:\"NAR Genomics and Bioinformatics\" OR JOURNAL:\"Bioinformatics\" OR JOURNAL:\"Microbes and Environments\" OR JOURNAL:\"Frontiers in Microbiology\" OR JOURNAL:\"Frontiers in Marine Science\" OR JOURNAL:\"mBio\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "review-article",
+        "review",
+        "journal article"
+      ],
+      "id": "10.3389/fmicb.2026.1912100",
+      "title": "EPS-producing <i>Leuconostoc</i> as probiotics: biomedical potential and structure-function perspectives.",
+      "abstract": "With the increasing prevalence of diseases associated with gut dysbiosis, such as gastrointestinal diseases, immunological disorders, metabolic and cardiovascular diseases, and cancer, there is a growing need for effective strategies to restore the gut microbiota and promote overall health. In this context, underexplored lactic acid bacteria, particularly those capable of producing exopolysaccharides (EPSs), are gaining attention due to the diverse and pleiotropic health benefits of their EPSs. This narrative review provides an overview of the health-promoting properties of Leuconostoc species and their associated EPSs, with particular emphasis on the structure-function relationships underlying EPS bioactivity. Furthermore, it examines the mechanisms through which EPS-producing Leuconostoc strains may influence gut and systemic health and discusses their potential as next-generation microbiome-based interventions. Notably, most available evidence is derived from in vitro and other preclinical models, while clinical studies directly validating the efficacy and health benefits of Leuconostoc EPSs in humans remain limited.",
+      "journal": "Frontiers in Microbiology",
+      "doi": "10.3389/fmicb.2026.1912100",
+      "date": "2026-11-10",
+      "authors": "Kopczyńska J, Kostiuchenko O, Kowalczyk M.",
+      "tags": [
+        "微生物学"
+      ],
+      "source_url": "https://europepmc.org/article/MED/43081040",
+      "preprint": false,
+      "review": true,
+      "pmcid": "PMC13794253",
+      "pmid": "43081040",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "bacteria",
+          "microbiome",
+          "microbiota"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [],
+          "evolution": []
+        },
+        "tags": [
+          "微生物学"
+        ]
+      },
+      "collection_order": 342,
+      "collected_at": "2026-11-28T12:58:14.797353+00:00",
+      "collected_date": "2026-11-28",
+      "sources": [
+        "Europe PMC journals 2"
+      ],
+      "first_seen": "2026-11-28",
+      "related_dois": [
+        "10.3389/fmicb.2026.1912100"
+      ],
+      "translation": {
+        "title": {
+          "hash": "6a49cfefdb600263870bc9257d0c8d4ab88db0a874cb9cad66479f90f4cbfa43",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-28T13:34:38.161264+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "49b11791909c4b4f1d3cc093a945da05870f2732aa563e9e27f0d9f1ee6db1c6",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-28T13:34:38.161264+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "プロバイオティクスとしてのEPS産生<i>Leuconostoc</i>：生物医学的可能性と構造機能の観点から",
+      "abstract_ja": "消化器疾患、免疫疾患、代謝・心血管疾患、がんなど、腸内細菌叢の乱れに関連する疾患の罹患率が高まる中、腸内細菌叢を回復させ、全身の健康を促進するための効果的な戦略へのニーズが高まっている。こうした背景から、十分に研究されていない乳酸菌、特にエキソ多糖類（EPS）を産生可能な菌株は、そのEPSが持つ多様かつ多面的な健康上の利点により注目を集めている。本ナラティブレビューでは、Leuconostoc属菌およびその関連EPSの健康増進特性について概説し、特にEPSの生物活性の基盤となる構造・機能関係に焦点を当てる。さらに、EPS産生能を有するLeuconostoc株が腸管および全身の健康に影響を及ぼすメカニズムを検討し、次世代のマイクロバイオームに基づく介入策としての可能性について論じる。特筆すべき点として、入手可能なエビデンスの大部分はin vitroおよびその他の前臨床モデルから得られたものであり、ヒトにおけるLeuconostoc EPSの有効性と健康上の利点を直接的に検証する臨床研究は依然として限られている。",
+      "answer_journal": "Frontiers in Microbiology",
+      "question_type": "published",
+      "options": [
+        "Proteomics",
+        "Frontiers in Microbiology",
+        "Prostate cancer",
+        "The Journal of bone and joint surgery. American volume"
+      ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC genome methods",
+          "query": "(TITLE_ABS:\"average nucleotide identity\" OR TITLE_ABS:\"average amino acid identity\" OR TITLE_ABS:\"metagenome assembly\" OR TITLE_ABS:\"metagenomic assembly\" OR TITLE_ABS:\"metagenome binning\" OR TITLE_ABS:\"metagenomic binning\" OR TITLE_ABS:\"metagenome assembled genome\" OR TITLE_ABS:\"metagenome-assembled genome\" OR TITLE_ABS:\"16S rRNA\" OR TITLE_ABS:\"18S rRNA\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "journal article"
+      ],
+      "id": "10.1099/ijsem.0.007350",
+      "title": "<i>Ligilactobacillus qiyongi</i> sp. nov. and <i>Ligilactobacillus zhujuni</i> sp. nov., isolated from greylag goose (<i>Anser anser</i>), and three <i>Candidatus</i> Ligilactobacillus species recovered from <i>anseriform</i> bird faeces.",
+      "abstract": "Three strains (LYQ60T, LYQ139 and LYQ135T) were isolated from the faeces of greylag goose (Anser anser) in Qinghai, PR China. Three strains were Gram-stain-positive, oxidase-negative, catalase-negative, obligate anaerobic, non-motile and short rod-shaped. Phylogenetic analyses based on 16S rRNA gene and genome sequences demonstrated that strains LYQ60T and LYQ139 were closely related to Ligilactobacillus hohenheimensis DSM 113870T, while LYQ135T was most similar to Ligilactobacillus cholophilus JCM 36074T. In addition, seven metagenome-assembled genomes (MAGs) affiliated to the genus Ligilactobacillus were recovered from the same batch of anseriform bird faecal metagenomes, including greylag goose (A. anser), bar-headed goose (Anser indicus) and ruddy shelduck (Tadorna ferruginea). Combining the core-genome phylogeny and digital DNA-DNA hybridization/average nucleotide identity analysis, MAG331 and MAG487 represent two other isolates of strain LYQ135T, forming a novel species. The remaining five genomes represent three candidate novel species, namely MAG282 and MAG536, MAG394 and MAG359 and MAG362 itself. Strains LYQ60T and LYQ139 grew at 35-42 °C, pH 4.0-8.0 and 0-3.0% (wt/vol) NaCl, and LYQ135T grew at 30-45 °C, pH 4.0-8.0 and 0-3.0% (wt/vol) NaCl. Major fatty acids (>10.0%) for LYQ60T and LYQ139 are C18 : 1  ω9c, C16 : 0 and C18 : 0, while those for LYQ135T are C16 : 0, C18 : 1  ω9c and Summed Feature 7 (C19 : 1  ω7c and/or C19 : 1  ω6c). Strain LYQ60T contained diphosphatidylglycerol (DPG), phosphatidylglycerol (PG) and aminophosphoglycolipid as major polar lipids, and LYQ135T contained only DPG and PG. Major cell-wall amino acids were alanine, lysine, glutamic acid and glycine in LYQ60T, and additionally aspartic acid in LYQ135T. Major sugars of both strains were glucose and galactose. Based on polyphasic characterization, two novel species are proposed: Ligilactobacillus qiyongi sp. nov. (type strain LYQ60T=GDMCC 1.5470T=KCTC 25977T, isolate strain LYQ139) and Ligilactobacillus zhujuni sp. nov. (type strain LYQ135T=GDMCC 1.6146T=KCTC 35102T). The three candidate species are named Candidatus Ligilactobacillus ansericola sp. nov. (MAG282/MAG536), Candidatus Ligilactobacillus himalayensis sp. nov. (MAG394/MAG359) and Candidatus Ligilactobacillus everestensis sp. nov. (MAG362).",
+      "journal": "International Journal of Systematic and Evolutionary Microbiology",
+      "doi": "10.1099/ijsem.0.007350",
+      "date": "2026-11-01",
+      "authors": "Liu Y, Pu J, Zhou H, Wang H, Li Y, Chen J, Yang J, Ren L, Xu J.",
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ],
+      "source_url": "https://europepmc.org/article/MED/43076609",
+      "preprint": false,
+      "review": false,
+      "pmcid": "",
+      "pmid": "43076609",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "16s rrna",
+          "metagenom",
+          "metagenome",
+          "metagenomes"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "DNA",
+            "genom",
+            "genome",
+            "metagenom",
+            "metagenome",
+            "phylogen",
+            "phylogenetic",
+            "phylogeny"
+          ],
+          "evolution": [
+            "phylogeny",
+            "phylogenetic"
+          ]
+        },
+        "tags": [
+          "微生物ゲノミクス",
+          "微生物進化"
+        ]
+      },
+      "collection_order": 299,
+      "collected_at": "2026-11-28T12:58:14.797353+00:00",
+      "collected_date": "2026-11-28",
+      "sources": [
+        "Europe PMC genome methods"
+      ],
+      "first_seen": "2026-11-28",
+      "related_dois": [
+        "10.1099/ijsem.0.007350"
+      ],
+      "translation": {
+        "title": {
+          "hash": "5fe1dfca70baecaa55d4d3feaf6c3c1751039ed325db45fd46edf6102c4d6c09",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-28T13:41:31.371493+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "00353b6a6fec8e783db5ec6a8c7c10c778bffb0f828b2f77267de62887b3dacc",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-28T13:41:31.371493+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "ハイイロガン（<i>Anser anser</i>）から分離された<i>Ligilactobacillus qiyongi</i> sp. nov.および<i>Ligilactobacillus zhujuni</i> sp. nov.、ならびに<i>anseriform</i>鳥類の糞便から回収された3種の<i>Candidatus</i> Ligilactobacillus属菌。",
+      "abstract_ja": "中国・青海省のハイイロガン（Anser anser）の糞便から、3株（LYQ60T、LYQ139、LYQ135T）が分離された。これら3株はいずれもグラム染色陽性、オキシダーゼ陰性、カタラーゼ陰性であり、絶対嫌気性で非運動性の短桿菌であった。16S rRNA遺伝子およびゲノム配列に基づく系統解析の結果、LYQ60T株およびLYQ139株はLigilactobacillus hohenheimensis DSM 113870Tと近縁であり、LYQ135T株はLigilactobacillus cholophilus JCM 36074Tと最も近縁であることが示された。さらに、ハイイロガン（A. anser）、バーヘッドガン（Anser indicus）、およびアカガモ（Tadorna ferruginea）を含む同一ロットのカモ目鳥類糞便メタゲノムから、Ligilactobacillus属に属する7つのメタゲノムアセンブルゲノム（MAG）が回収された。コアゲノム系統解析とデジタルDNA-DNAハイブリダイゼーション／平均塩基同一性解析を組み合わせた結果、MAG331およびMAG487はLYQ135T株の別の2つの分離株であり、新種を構成することが判明した。残りの5つのゲノムは、MAG282およびMAG536、MAG394およびMAG359、そしてMAG362自体という3つの新種候補を構成していた。LYQ60T株およびLYQ139株は35-42 °C、pH 4.0-8.0、0-3.0% (wt/vol) NaClで増殖し、LYQ135T株は30-45 °C、pH 4.0-8.0、0-3.0% (wt/vol) NaClで増殖した。LYQ60T株およびLYQ139株の主要脂肪酸（>10.0%）はC18 : 1  ω9c、C16 : 0、C18 : 0であり、LYQ135T株の主要脂肪酸はC16 : 0、C18 : 1  ω9c、およびSummed Feature 7（C19 : 1  ω7cおよび/またはC19 : 1  ω6c）であった。LYQ60T株は主要な極性脂質としてジホスファチジルグリセロール（DPG）、ホスファチジルグリセロール（PG）、およびアミノホスホグリコリピッドを含み、LYQ135T株はDPGとPGのみを含んでいた。主要な細胞壁アミノ酸は、LYQ60T株ではアラニン、リシン、グルタミン酸、グリシンであり、LYQ135T株ではさらにアスパラギン酸が含まれていた。両株の主要糖はグルコースおよびガラクトースであった。多相的特性解析に基づき、2つの新種が提案された：Ligilactobacillus qiyongi sp. nov.（タイプ株 LYQ60T=GDMCC 1.5470T=KCTC 25977T、分離株 LYQ139）およびLigilactobacillus zhujuni sp. nov.（タイプ株 LYQ135T=GDMCC 1.6146T=KCTC 35102T）である。これら3つの候補種は、Candidatus Ligilactobacillus ansericola sp. nov. (MAG282/MAG536)、Candidatus Ligilactobacillus himalayensis sp. nov. (MAG394/MAG359)、およびCandidatus Ligilactobacillus everestensis sp. nov. (MAG362)と命名された。",
+      "answer_journal": "International Journal of Systematic and Evolutionary Microbiology",
+      "question_type": "published",
+      "options": [
+        "The American journal of the medical sciences",
+        "Biomacromolecules",
+        "International Journal of Systematic and Evolutionary Microbiology",
+        "APMIS : acta pathologica, microbiologica, et immunologica Scandinavica"
+      ]
+    },
+    {
+      "id": "10.64898/2026.11.26.769492",
+      "title": "Unifying Gene Regulatory Network Inference and Sequence-to-Expression Modeling via Bilinear Sparse Regression for De Novo TF-DNA Interaction Discovery",
+      "abstract": "Inferring transcription factor (TF)-DNA interactions from transcriptomic data is key to deciphering the genomic regulatory code. Existing computational approaches generally focus either on identifying trans-regulatory dynamics via gene regulatory network (GRN) inference or cis-regulatory sequence logic via sequence-to-expression (S2E) modeling. This requires fitting separate models across individual genes or conditions, which obscures shared regulatory structures and fails to explicitly capture cis-trans interactions.Here, we introduce BRIDGE (Bilinear Regulatory Inference from DNA and Gene Expression), a computationally efficient framework that unifies GRN inference and S2E modeling into a single, convex optimization objective. By explicitly modeling gene expression as a function of the interaction between promoter k-mers and TF abundances, BRIDGE guarantees a unique global minimimum while enabling de novo discovery of TF-specific binding motifs (TFBMs). Without the use of prior motif libraries, BRIDGE reconstructs high-fidelity TFBMs matching experimentally validated ones. Hence, we establish a new conceptual framework for linking TF abundance to cis-regulatory sequence, providing a foundation for future approaches to build upon.",
+      "journal": "",
+      "doi": "10.64898/2026.11.26.769492",
+      "date": "2026-11-28",
+      "authors": "Alonso Esteve, J., de Ridder, D., van Dijk, A.-J.",
+      "tags": [
+        "微生物ゲノミクス"
+      ],
+      "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.26.769492v1?rss=1",
+      "abstract_source": "rss",
+      "preprint": true,
+      "topic_filter": {
+        "accepted": true,
+        "reason": "bioinformatics_method_or_resource",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "DNA",
+          "framework",
+          "gene",
+          "inference",
+          "sequence"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [
+            "DNA",
+            "genom",
+            "genomic",
+            "transcript"
+          ],
+          "evolution": []
+        },
+        "tags": [
+          "微生物ゲノミクス"
+        ]
+      },
+      "discovery": [
+        {
+          "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+          "query": "RSS feed",
+          "scope": "candidate"
+        }
+      ],
+      "collection_order": 5902,
+      "collected_at": "2026-11-28T13:08:24.513490+00:00",
+      "collected_date": "2026-11-28",
+      "sources": [
+        "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+      ],
+      "first_seen": "2026-11-28",
+      "related_dois": [
+        "10.64898/2026.11.26.769492"
+      ],
+      "translation": {
+        "title": {
+          "hash": "acec3ad7bf9a5b806a134b96ca02ccc3a53712ff51c37f691f065f71f2534809",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-28T13:45:54.180445+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "d889778d9b94769518a1021a1a708f23407afb2ccdce3ea9ba5e8d4c92518a15",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-28T13:45:54.180445+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "双線形スパース回帰による遺伝子調節ネットワーク推論と配列発現モデリングの統合：de novo TF-DNA相互作用の発見に向けて",
+      "abstract_ja": "トランスクリプトームデータから転写因子（TF）とDNAの相互作用を推論することは、ゲノム調節コードを解明する上で極めて重要である。既存の計算手法は一般に、遺伝子調節ネットワーク（GRN）推論によるトランス調節ダイナミクスの同定、あるいは配列から発現への（S2E）モデリングによるシス調節配列ロジックのいずれかに焦点を当てている。これには、個々の遺伝子や条件ごとに個別のモデルを適合させる必要があり、共通の調節構造が不明瞭になるとともに、シス・トランス相互作用を明示的に捉えることができない。本研究では、GRN推論とS2Eモデリングを単一の凸最適化目的関数に統合した計算効率の高いフレームワークであるBRIDGE（Bilinear Regulatory Inference from DNA and Gene Expression）を提案する。プロモーターk-merとTF存在量の相互作用の関数として遺伝子発現を明示的にモデル化することで、BRIDGEは一意な大域的最小値を保証すると同時に、TF特異的結合モチーフ（TFBMs）のde novo探索を可能にする。事前のモチーフライブラリを用いることなく、BRIDGEは実験的に検証されたものと一致する高忠実度なTFBMsを再構成する。したがって、我々はTF存在量をシス調節配列に結びつける新たな概念的枠組みを確立し、今後のアプローチの基盤を提供する。",
+      "answer_journal": null,
+      "question_type": "forecast",
+      "options": [
+        "Current HIV/AIDS reports",
+        "Journal of plant physiology",
+        "Trends in plant science",
+        "Journal of thermal biology"
+      ]
+    },
+    {
+      "discovery": [
+        {
+          "source": "Europe PMC journals 3",
+          "query": "(JOURNAL:\"mSystems\" OR JOURNAL:\"Applied and Environmental Microbiology\" OR JOURNAL:\"Microbiology Spectrum\" OR JOURNAL:\"mSphere\" OR JOURNAL:\"Journal of Bacteriology\" OR JOURNAL:\"Journal of Virology\" OR JOURNAL:\"Microbiology and Molecular Biology Reviews\" OR JOURNAL:\"Clinical Microbiology Reviews\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+          "scope": "candidate"
+        }
+      ],
+      "publication_types": [
+        "research-article",
+        "journal article"
+      ],
+      "id": "10.1128/aem.01748-26",
+      "title": "Spatial recovery and persistence of <i>Pseudomonas chlororaphis</i> M71 and <i>Trichoderma atroviride</i> SC1 in grapevine following stem injection.",
+      "abstract": "Establishing biocontrol agents (BCAs) within grapevine tissues could provide a means of protecting internal plant compartments, but little is known about their spatial and temporal fate after vascular delivery or whether the graft union constrains their distribution. We compared the internal recovery of two biologically contrasting BCAs, the bacterium Pseudomonas chlororaphis M71 and the filamentous fungus Trichoderma atroviride SC1, following controlled stem injection into rooted and grafted grapevine plants. A xylem-mobile dye was used as a reference for immediate passive fluid transport, while viable microbial recovery was assessed over time and complemented by quantitative isolation and microscopy. At 48 h, the dye generally showed broader longitudinal distribution than either of the microorganisms. The two microorganisms displayed markedly different patterns. M71 persisted for up to 56 days, but remained predominantly associated with tissues close to the injection site. In contrast, SC1 was recovered from a broader range of tissues, including roots, and remained detectable for up to 56 days. In grafted plants, both microorganisms were recovered on both sides of the graft union, indicating that the graft interface was not an absolute barrier, although recovery depended on microbial identity and inoculation position. Green fluorescent protein-labeled M71 cells and SC1 hyphae were observed within xylem vessels, confirming internal localization and, for SC1, vegetative development after injection. These results show that, and how, both microbial biology and grafted-plant architecture influence the internal fate of injected BCAs in grapevine.IMPORTANCEBeneficial microorganisms established inside grapevine tissues could potentially protect from infections regarding internal tissues, but little is known about how such microorganisms distribute and persist inside grapevine after injection into the plant tissues. This study shows that two biocontrol agents (BCAs) with contrasting biological characteristics follow markedly different spatial and temporal patterns. Pseudomonas chlororaphis M71 persisted mainly near the site of introduction, whereas Trichoderma atroviride SC1 was recovered from a broader range of tissues and developed hyphae within xylem vessels. Importantly, the graft union was not an absolute barrier to microbial recovery. These findings provide a framework for selecting where and when BCAs should be introduced during grapevine propagation and highlight that vascular access, persistence, and broad within-plant establishment are distinct properties that should be considered when developing endophytic biocontrol strategies.",
+      "journal": "Applied and Environmental Microbiology",
+      "doi": "10.1128/aem.01748-26",
+      "date": "2026-10-27",
+      "authors": "Brussi G, Martini A, Ratti C, Puopolo G, Mugnai L, Pertot I.",
+      "tags": [
+        "微生物学"
+      ],
+      "source_url": "https://europepmc.org/article/MED/42937292",
+      "preprint": false,
+      "review": false,
+      "pmcid": "PMC13780332",
+      "pmid": "42937292",
+      "metadata_source_url": "",
+      "abstract_source": "Europe PMC",
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "Pseudomonas",
+          "bacterium",
+          "microbial",
+          "microorganism",
+          "microorganisms"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [],
+          "evolution": []
+        },
+        "tags": [
+          "微生物学"
+        ]
+      },
+      "collection_order": 400,
+      "collected_at": "2026-11-28T12:58:14.797353+00:00",
+      "collected_date": "2026-11-28",
+      "sources": [
+        "Europe PMC journals 3"
+      ],
+      "first_seen": "2026-11-28",
+      "related_dois": [
+        "10.1128/aem.01748-26"
+      ],
+      "translation": {
+        "title": {
+          "hash": "47d8839a326d5504a5bb79bbc49c1f710ba4b51085260bd14b10268cc0b81c3b",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-28T13:34:38.161264+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "d1a33cba6a33cd877534775910d32333caa6adb24f212b01d17bfe5a7aa34bf8",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-28T13:34:38.161264+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "茎注入後のブドウにおける<i>Pseudomonas chlororaphis</i> M71および<i>Trichoderma atroviride</i> SC1の空間的回復と持続性",
+      "abstract_ja": "ブドウ樹の組織内に生物的防除剤（BCA）を確立させることは、植物体内の区画を保護する手段となり得るが、維管束への導入後における空間的・時間的動態や、接ぎ木接合部がその分布を制限するかどうかについては、ほとんど解明されていない。本研究では、生物学的に対照的な2種類のBCA（細菌のPseudomonas chlororaphis M71および糸状菌のTrichoderma atroviride SC1）について、根付きおよび接ぎ木したブドウ樹への制御された茎内注入後の体内回収量を比較した。即時的な受動的流体輸送の指標として木部移動性色素を用い、生存微生物の回収量は経時的に評価するとともに、定量的な分離および顕微鏡観察によって補完した。48時間後、色素は一般に、いずれの微生物よりも広範な縦方向の分布を示した。これら2種類の微生物は、著しく異なるパターンを示した。M71は最大56日間持続したが、主に注入部位に近い組織に局在していた。対照的に、SC1は根を含むより広範な組織から回収され、最大56日間検出可能であった。接ぎ木植物では、両微生物とも接ぎ木接合部の両側で回収されており、接ぎ木界面が絶対的な障壁ではないことが示されたが、回収量は微生物の種および接種位置に依存していた。木部管内で緑色蛍光タンパク質標識したM71細胞およびSC1菌糸が観察され、体内局在、およびSC1については注入後の栄養成長が確認された。これらの結果は、微生物生物学と接ぎ木植物の構造の双方が、ブドウ樹に注入されたBCAの体内動態にどのように影響するかを示している。重要性：ブドウ樹組織内に定着した有益微生物は、内部組織の感染を防ぐ可能性があるが、植物組織への注入後、こうした微生物がブドウ樹体内でどのように分布し持続するかについてはほとんど解明されていない。本研究は、生物学的特性が対照的な2種類の生物的防除剤（BCA）が、著しく異なる空間的・時間的パターンをたどることを示した。Pseudomonas chlororaphis M71は主に導入部位付近に持続したのに対し、Trichoderma atroviride SC1はより広範な組織から回収され、木部管内で菌糸を伸長させた。重要な点として、接ぎ木接合部は微生物回収の絶対的な障壁ではなかった。これらの知見は、ブドウ樹の増殖においてBCAをいつ、どこに導入すべきかを選択するための枠組みを提供するとともに、維管束へのアクセス、持続性、および植物体内における広範な定着が、内生的生物的防除戦略を策定する際に考慮すべき個別の特性であることを浮き彫りにしている。",
+      "answer_journal": "Applied and Environmental Microbiology",
+      "question_type": "published",
+      "options": [
+        "International journal for parasitology. Parasites and wildlife",
+        "Journal of biotechnology",
+        "Applied and Environmental Microbiology",
+        "Journal of breath research"
+      ]
+    },
+    {
+      "id": "10.1007/s00248-026-02933-w",
+      "title": "Cover Crops improve​ fertility,​ Reduce Salinity, and Reshape the Rhizosphere Microbiome and Metabolome in a Semi-Arid Olive Orchard",
+      "abstract": "Cover crops are increasingly used to improve soil health and crop productivity, yet their effects on the ecological processes governing rhizosphere functioning remain poorly understood. We integrated soil chemistry, microbial metabarcoding, and untargeted GC–MS metabolomics to investigate how cover crops influence rhizosphere organization in a semi-arid Mediterranean olive orchard. A two-year field experiment compared olive trees grown with a cover crop mixture (Calendula arvensis and Medicago sativa) with trees under conventional bare-soil management. Cover cropping enhanced olive growth, increasing tree height, canopy diameter, trunk diameter, and leaf chlorophyll content. These improvements were accompanied by a 1.8-fold increase in total N, a four-fold increase in available P, enhanced acid-phosphatase activity, and an approximately five-fold reduction in electrical conductivity. In contrast, the observed increases in SOM and microbial biomass P were not statistically significant. Rhizosphere bacterial communities shifted toward plant-beneficial taxa, while the relative abundance of fungal genera containing important pathogens declined. Metabolomic profiling identified 102 rhizosphere compounds and clearly separated cover-cropped from bare-soil treatments. Exploratory microbial-metabolite networks further indicated contrasting covariance structures between management systems. Bare-soil rhizospheres contained a comparatively greater proportion of negative metabolite-fungus associations, whereas more than 90% of the retained associations under cover cropping were positive and included several candidate bacteria-fungus relationships. Overall, cover cropping improved olive performance and rhizosphere fertility, reduced soil salinity, and altered microbiome and metabolome organization, supporting its value as a multifunctional management strategy for semi-arid olive orchards.",
+      "journal": "Microbial Ecology",
+      "doi": "10.1007/s00248-026-02933-w",
+      "date": "2026-11-27",
+      "authors": "",
+      "tags": [
+        "微生物学"
+      ],
+      "source_url": "https://link.springer.com/article/10.1007/s00248-026-02933-w",
+      "abstract_source": "rss",
+      "preprint": false,
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "bacteria",
+          "bacterial",
+          "fungal",
+          "microbial",
+          "microbiome"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [],
+          "evolution": []
+        },
+        "tags": [
+          "微生物学"
+        ]
+      },
+      "discovery": [
+        {
+          "source": "https://link.springer.com/search.rss?facet-journal-id=248",
+          "query": "RSS feed",
+          "scope": "journal"
+        }
+      ],
+      "collection_order": 5904,
+      "collected_at": "2026-11-28T13:08:24.513490+00:00",
+      "collected_date": "2026-11-28",
+      "sources": [
+        "https://link.springer.com/search.rss?facet-journal-id=248"
+      ],
+      "first_seen": "2026-11-28",
+      "related_dois": [
+        "10.1007/s00248-026-02933-w"
+      ],
+      "translation": {
+        "title": {
+          "hash": "d4661f54a48b860dfa4a21fdbc4cd25c699b7aec0ea19a8f3e698d2d360cd80e",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-28T13:38:27.392894+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "9f20490b45bc2cc249343e53e7d700a6e47558a28f51bfee3f2b776b0a306350",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-28T13:38:27.392894+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "被覆作物は、半乾燥型オリーブ園において肥沃度を向上させ、塩類濃度を低減させ、根圏微生物叢およびメタボロームを再構築する。",
+      "abstract_ja": "被覆作物は、土壌の健全性と作物の生産性を向上させるためにますます利用されているが、根圏の機能を司る生態学的プロセスに及ぼす影響については依然として十分に解明されていない。本研究では、土壌化学、微生物メタバーコーディング、および非標的型GC–MSメタボロミクスを統合し、半乾燥地中海性オリーブ園において、被覆作物が根圏の構造にどのような影響を及ぼすかを調査した。2年間にわたる圃場試験において、被覆作物の混合種（Calendula arvensisおよびMedicago sativa）を栽培したオリーブ樹と、従来の裸地管理下で栽培した樹を比較した。被覆作物の導入はオリーブの生育を促進し、樹高、樹冠径、幹径、および葉のクロロフィル含有量を増加させた。これらの改善に伴い、全窒素が1.8倍、有効リンが4倍に増加し、酸性ホスファターゼ活性が亢進し、電気伝導度は約5分の1に低下した。対照的に、観察されたSOMおよび微生物バイオマスPの増加は統計的に有意ではなかった。根圏の細菌群集は植物に有益な分類群へとシフトした一方、重要な病原体を含む真菌属の相対存在量は減少した。メタボロームプロファイリングにより102種類の根圏化合物が同定され、被覆作物栽培区と裸地管理区を明確に区別することができた。探索的な微生物-代謝物ネットワークからも、管理体系間で対照的な共分散構造があることが示された。裸地の根圏では、負の代謝物-真菌関連が比較的高い割合で認められたのに対し、被覆作物栽培下で保持された関連の90%以上は正であり、いくつかの細菌-真菌関係の候補が含まれていた。総じて、被覆作物の導入はオリーブの生育成績と根圏の肥沃度を向上させ、土壌塩分を低減させ、マイクロバイオームおよびメタボロームの構造を変化させた。このことは、半乾燥オリーブ園における多機能な管理戦略としての有用性を裏付けるものである。",
+      "answer_journal": "Microbial Ecology",
+      "question_type": "published",
+      "options": [
+        "Biologics : targets & therapy",
+        "Microbial Ecology",
+        "Journal of helminthology",
+        "Bioinformatics"
+      ]
+    },
+    {
+      "id": "10.1111/1758-2229.70478",
+      "title": "The Effect of Elevation on Microbial Communities Associated With Sporobolus alterniflorus",
+      "abstract": "Saltmarsh elevation and associated environmental conditions such as tidal inundation were found to structure microbial communities in the root and rhizosphere of the introduced grass species Sporobolus alterniflorus. Ecologically relevant sulphur oxidising bacteria were found to maintain their association with S. alterniflorus roots regardless of elevation, highlighting the utility of environmental gradients in distinguishing host–microbe interactions shaped by local conditions from those that reflect stable, consistent symbiosis.\n\nABSTRACT\nSaltmarshes are highly productive coastal ecosystems that sequester carbon, prevent coastal erosion and host an exceptional range of biodiversity. Elevation differences in saltmarshes drive divergent soil conditions over relatively short distances, exposing saltmarsh species to contrasting physiochemical properties, which can be used to test the effects of contrasting environmental conditions including oxygen concentration, tidal regime and buildup of hydrogen sulphide, on the organisms that live there. Here, we compare microbial communities between individuals of the introduced grass species Sporobolus alterniflorus at high and low elevation in a saltmarsh. Microbial communities were significantly different between high and low elevation individuals, but rhizosphere communities differed more than those of root according to elevation, consistent with stronger host filtering. Focussing on putative sulphur‐oxidising bacteria, some of which are ecologically relevant for S. alterniflorus, we confirmed that members of the genus Candidatus Thiodiazotropha are enriched in S. alterniflorus root tissue, and this association persists regardless of marsh elevation. Moreover, we confirmed members of the genus Arcobacter as consistently associated with S. alterniflorus roots, an association which has been given little attention since its discovery.\n\nSaltmarsh elevation and associated environmental conditions such as tidal inundation were found to structure microbial communities in the root and rhizosphere of the introduced grass species Sporobolus alterniflorus. Ecologically relevant sulphur oxidising bacteria were found to maintain their association with S. alterniflorus roots regardless of elevation, highlighting the utility of environmental gradients in distinguishing host–microbe interactions shaped by local conditions from those that reflect stable, consistent symbiosis.\n\nABSTRACT\nSaltmarshes are highly productive coastal ecosystems that sequester carbon, prevent coastal erosion and host an exceptional range of biodiversity. Elevation differences in saltmarshes drive divergent soil conditions over relatively short distances, exposing saltmarsh species to contrasting physiochemical properties, which can be used to test the effects of contrasting environmental conditions including oxygen concentration, tidal regime and buildup of hydrogen sulphide, on the organisms that live there. Here, we compare microbial communities between individuals of the introduced grass species Sporobolus alterniflorus at high and low elevation in a saltmarsh. Microbial communities were significantly different between high and low elevation individuals, but rhizosphere communities differed more than those of root according to elevation, consistent with stronger host filtering. Focussing on putative sulphur-oxidising bacteria, some of which are ecologically relevant for S. alterniflorus, we confirmed that members of the genus Candidatus Thiodiazotropha are enriched in S. alterniflorus root tissue, and this association persists regardless of marsh elevation. Moreover, we confirmed members of the genus Arcobacter as consistently associated with S. alterniflorus roots, an association which has been given little attention since its discovery.",
+      "journal": "Environmental Microbiology Reports",
+      "doi": "10.1111/1758-2229.70478",
+      "date": "2026-11-28",
+      "authors": "Katie Emelianova, \nJoana Séneca, \nPetra Pjevac, \nArmel Salmon, \nMalika Ainouche, \nJillian M. Petersen",
+      "tags": [
+        "微生物学"
+      ],
+      "source_url": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1758-2229.70478?af=R",
+      "abstract_source": "rss",
+      "preprint": false,
+      "topic_filter": {
+        "accepted": true,
+        "reason": "unfiltered_journal",
+        "version": "microbial-rules-v3",
+        "matched": [
+          "bacteria",
+          "microbe",
+          "microbial"
+        ],
+        "context": {
+          "marine": [],
+          "genomics": [],
+          "evolution": []
+        },
+        "tags": [
+          "微生物学"
+        ]
+      },
+      "discovery": [
+        {
+          "source": "https://onlinelibrary.wiley.com/feed/17582229/most-recent",
+          "query": "RSS feed",
+          "scope": "journal"
+        }
+      ],
+      "collection_order": 5906,
+      "collected_at": "2026-11-28T13:08:24.513490+00:00",
+      "collected_date": "2026-11-28",
+      "sources": [
+        "https://onlinelibrary.wiley.com/feed/17582229/most-recent"
+      ],
+      "first_seen": "2026-11-28",
+      "related_dois": [
+        "10.1111/1758-2229.70478"
+      ],
+      "translation": {
+        "title": {
+          "hash": "03da7aa5b3eaff868b073d68edbd04e358b78b7c3f2d8af7dbc03f6b2e2bb70f",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-28T13:34:38.161264+00:00",
+          "format": "pfml3-ja-v1"
+        },
+        "abstract": {
+          "hash": "e968ac0207572761d29d66c8f707bcafc11c68f53c03198c4f3bd7b10552985d",
+          "model": "plamo-3-translate-2b",
+          "date": "2026-11-28T13:34:38.161264+00:00",
+          "format": "pfml3-ja-v1"
+        }
+      },
+      "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+      "title_ja": "Sporobolus alterniflorusに関連する微生物群集に及ぼす標高の影響",
+      "abstract_ja": "塩沼の標高および潮汐浸水などの関連する環境条件が、導入されたイネ科植物Sporobolus alterniflorusの根および根圏における微生物群集を構造化していることが明らかになった。生態学的に重要な硫黄酸化細菌は、標高に関わらずS. alterniflorusの根との共生関係を維持しており、このことは、局所的な条件によって形成される宿主－微生物間相互作用と、安定的かつ一貫した共生を反映した相互作用とを区別する上で、環境勾配が有用であることを浮き彫りにしている。\n\n要旨\n塩沼は、炭素を固定し、海岸侵食を防ぎ、極めて広範な生物多様性を擁する生産性の高い沿岸生態系である。塩沼における標高差は、比較的短距離で異なる土壌条件をもたらし、塩沼種を対照的な物理化学的特性にさらす。このことは、酸素濃度、潮汐レジーム、硫化水素の蓄積といった対照的な環境条件が、そこに生息する生物に及ぼす影響を検証するために利用できる。本研究では、塩沼の高標高地と低標高地における導入イネ科植物Sporobolus alterniflorusの個体間で、微生物群集を比較した。微生物群集は高標高個体と低標高個体の間で有意に異なっていたが、根圏の群集は標高に応じて根の群集よりも大きく異なっており、これは宿主による濾過作用がより強いことと一致していた。S. alterniflorusにとって生態学的に重要なものを含む、推定される硫黄酸化細菌に着目した結果、Candidatus Thiodiazotropha属の細菌がS. alterniflorusの根組織に豊富に存在し、この共生関係が塩沼の標高に関わらず持続していることを確認した。さらに、Arcobacter属の細菌もS. alterniflorusの根と一貫して共生していることを確認したが、このような共生関係はその発見以来、ほとんど注目されてこなかった。\n\n塩沼の標高および潮汐浸水などの関連する環境条件が、導入されたイネ科植物Sporobolus alterniflorusの根および根圏における微生物群集を構造化していることが明らかになった。生態学的に重要な硫黄酸化細菌は、標高に関わらずS. alterniflorusの根との共生関係を維持しており、このことは、局所的な条件によって形成される宿主－微生物間相互作用と、安定的かつ一貫した共生を反映した相互作用とを区別する上で、環境勾配が有用であることを浮き彫りにしている。\n\n要旨\n塩沼は、炭素を固定し、海岸侵食を防ぎ、極めて広範な生物多様性を擁する生産性の高い沿岸生態系である。塩沼における標高差は、比較的短距離で異なる土壌条件をもたらし、塩沼種を対照的な物理化学的特性にさらす。このことは、酸素濃度、潮汐レジーム、硫化水素の蓄積といった対照的な環境条件が、そこに生息する生物に及ぼす影響を検証するために利用できる。本研究では、塩沼の高標高地と低標高地における導入イネ科植物Sporobolus alterniflorusの個体間で、微生物群集を比較した。微生物群集は高標高個体と低標高個体の間で有意に異なっていたが、根圏の群集は標高に応じて根の群集よりも大きく異なっており、これは宿主による濾過作用がより強いことと一致していた。S. alterniflorusにとって生態学的に重要なものを含む、推定される硫黄酸化細菌に着目した結果、Candidatus Thiodiazotropha属の細菌がS. alterniflorusの根組織に豊富に存在し、この共生関係が塩沼の標高に関わらず持続していることを確認した。さらに、Arcobacter属の細菌もS. alterniflorusの根と一貫して共生していることを確認したが、このような共生関係はその発見以来、ほとんど注目されてこなかった。",
+      "answer_journal": "Environmental Microbiology Reports",
+      "question_type": "published",
+      "options": [
+        "Journal of hepatology",
+        "The plant genome",
+        "Environmental Microbiology Reports",
+        "The journal of pathology. Clinical research"
+      ]
     }
   ],
   "journal_catalog": [
@@ -32777,6 +34462,7 @@ window.PAPER_DATA = {
       "name": "Antibiotics (Basel, Switzerland)",
       "scope": [
         "ecology",
+        "genomics",
         "microbiology"
       ]
     },
@@ -35850,6 +37536,13 @@ window.PAPER_DATA = {
       ]
     },
     {
+      "name": "Human molecular genetics",
+      "scope": [
+        "genomics",
+        "microbiology"
+      ]
+    },
+    {
       "name": "Human mutation",
       "scope": [
         "genomics",
@@ -37298,6 +38991,13 @@ window.PAPER_DATA = {
       ]
     },
     {
+      "name": "Journal of integrative neuroscience",
+      "scope": [
+        "genomics",
+        "microbiology"
+      ]
+    },
+    {
       "name": "Journal of integrative plant biology",
       "scope": [
         "genomics",
@@ -38003,6 +39703,13 @@ window.PAPER_DATA = {
     },
     {
       "name": "Letters in applied microbiology",
+      "scope": [
+        "genomics",
+        "microbiology"
+      ]
+    },
+    {
+      "name": "Life (Basel, Switzerland)",
       "scope": [
         "genomics",
         "microbiology"
