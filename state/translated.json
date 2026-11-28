@@ -346384,5 +346384,293 @@
     "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
     "title_ja": "ヒト喀痰検体から分離された粘液層真菌<i>Syncephalastrum contaminatum</i>株142427のドラフトゲノム配列。",
     "abstract_ja": "Syncephalastrum contaminatumは、ゲノム配列が限定的な、近年記載された粘膜真菌である。本報では、中国の肺感染症女性患者の喀痰から分離された株142427の26.77 Mbドラフトゲノムを報告する。この臨床由来ゲノムは、Syncephalastraceae属の比較研究を裏付けるものである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 4",
+        "query": "(JOURNAL:\"Infection and Immunity\" OR JOURNAL:\"Antimicrobial Agents and Chemotherapy\" OR JOURNAL:\"Journal of Clinical Microbiology\" OR JOURNAL:\"Microbiology Resource Announcements\" OR JOURNAL:\"Nature\" OR JOURNAL:\"Nature Microbiology\" OR JOURNAL:\"Nature Ecology & Evolution\" OR JOURNAL:\"Nature Communications\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "brief-report",
+      "journal article"
+    ],
+    "id": "10.1128/mra.01048-26",
+    "title": "rchime: an R package for detecting chimeras in amplicon sequencing data.",
+    "abstract": "A longstanding challenge in analyzing amplicon sequencing data is the presence of chimeras, which are PCR products that are formed by two or more templates. rchime is an R package that implements the UCHIME algorithm, which efficiently screens amplicon sequence collections for chimeras.",
+    "journal": "Microbiology Resource Announcements",
+    "doi": "10.1128/mra.01048-26",
+    "date": "2026-10-21",
+    "authors": "Westcott SL, Schloss PD.",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42904697",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13757462",
+    "pmid": "42904697",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "collection_order": 184,
+    "collected_at": "2026-11-28T06:26:54.002390+00:00",
+    "collected_date": "2026-11-28",
+    "sources": [
+      "Europe PMC journals 4"
+    ],
+    "first_seen": "2026-11-28",
+    "related_dois": [
+      "10.1128/mra.01048-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "6f1da63bb3f41f646d6f92fe2f8736c9a3fbd04b974ab2825fa5199c62993eec",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T07:05:41.925197+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "9726e030440c9e322223706ce3a6e625a3c2be8a87947f6d9bed56f60d104b65",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T07:05:41.925197+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "rchime: アンプリコンシーケンシングデータにおけるキメラ検出用のRパッケージ。",
+    "abstract_ja": "アンプリコンシーケンシングデータの解析における長年の課題は、2つ以上のテンプレートによって形成されるPCR産物であるキメラの存在である。rchimeは、アンプリコン配列コレクションからキメラを効率的にスクリーニングするUCHIMEアルゴリズムを実装したRパッケージである。"
+  },
+  {
+    "discovery": [
+      {
+        "source": "Europe PMC journals 4",
+        "query": "(JOURNAL:\"Infection and Immunity\" OR JOURNAL:\"Antimicrobial Agents and Chemotherapy\" OR JOURNAL:\"Journal of Clinical Microbiology\" OR JOURNAL:\"Microbiology Resource Announcements\" OR JOURNAL:\"Nature\" OR JOURNAL:\"Nature Microbiology\" OR JOURNAL:\"Nature Ecology & Evolution\" OR JOURNAL:\"Nature Communications\") AND FIRST_PDATE:[2026-10-20 TO 2026-11-10]",
+        "scope": "candidate"
+      }
+    ],
+    "publication_types": [
+      "brief-report",
+      "journal article"
+    ],
+    "id": "10.1128/mra.00864-26",
+    "title": "Draft genome sequence of <i>Serratia fonticola</i> TU-B-200-1 isolated from the upper Taehwa River with potential for carbon fixation.",
+    "abstract": "The complete genome of Serratia fonticola TU-B-200-1, isolated from the upper Taehwa River, Ulsan, Korea, spans 5,832,012 bp with a GC content of 53.6% and encodes 5,201 CDs. Functional annotation revealed genes associated with carbon fixation and metabolism, suggesting a potential ecological role in carbon cycling.",
+    "journal": "Microbiology Resource Announcements",
+    "doi": "10.1128/mra.00864-26",
+    "date": "2026-10-21",
+    "authors": "Jang GI, Cho BC, Kang HY, Park GG, Lee HE.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://europepmc.org/article/MED/42904637",
+    "preprint": false,
+    "review": false,
+    "pmcid": "PMC13757382",
+    "pmid": "42904637",
+    "metadata_source_url": "",
+    "abstract_source": "Europe PMC",
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [
+          "river"
+        ],
+        "genomics": [
+          "annotation",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "collection_order": 185,
+    "collected_at": "2026-11-28T06:26:54.002390+00:00",
+    "collected_date": "2026-11-28",
+    "sources": [
+      "Europe PMC journals 4"
+    ],
+    "first_seen": "2026-11-28",
+    "related_dois": [
+      "10.1128/mra.00864-26"
+    ],
+    "translation": {
+      "title": {
+        "hash": "16d33cfeab819ae0cc9bff033c0c6ea1d8b9ffe01b7bb6a8505c85ea9dccea6f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T07:05:41.925197+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "6313c608b2990fb71fd34a90a543ad62197e8249f7255488affe17cf2978f057",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T07:05:41.925197+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "太和江上流から分離された、炭素固定能を有する可能性のある<i>Serratia fonticola</i> TU-B-200-1のドラフトゲノム配列。",
+    "abstract_ja": "韓国蔚山市の太和江上流から分離されたSerratia fonticola TU-B-200-1の全ゲノムは、全長5,832,012 bp、GC含量53.6%であり、5,201個のCDをコードしている。機能アノテーションにより、炭素固定および代謝に関連する遺伝子が明らかとなり、炭素循環における生態学的役割を担っている可能性が示唆された。"
+  },
+  {
+    "id": "10.64898/2026.11.26.769442",
+    "title": "Advancing Cyanobacterial Toxin Monitoring Capacity: A Large-Scale Multi-Year Comparison of ELISA, LC-MS/MS, and qPCR in Temperate Waters",
+    "abstract": "Cyanobacterial toxins are an increasing environmental and public health concern, driven by rising temperatures and anthropogenic pressures such as eutrophication. Due to the colder climate, Northern Europe is generally believed to be less vulnerable, however, cyanobacterial blooms have increased in recent years in many areas including Arctic lakes and Northern Baltic Sea. Yet, monitoring remains challenging due to toxin diversity, variable bloom dynamics, and the differences in analytical targets among methods. We compared the complementarity, agreement, and practical utility of enzyme-linked immunosorbent assay (ELISA), liquid chromatography tandem mass spectrometry (LC-MS/MS), and quantitative polymerase chain reaction (qPCR) for detecting cyanobacterial toxins and toxin-producing genotypes. This large-scale, multi-season study leveraged a sampling effort encompassing over 816 samples from freshwater, brackish, and marine ecosystems across Sweden over three consecutive summers. Toxins detected included microcystins, nodularin, cylindrospermopsins, anatoxins, and saxitoxins; where the fraction found in the cyanobacteria or as dissolved toxins varied with toxin type. Overall, concentrations measured using the three methods were proportional, but ELISA yielded, on average, approximately three times higher values than LC-MS/MS. ELISA provided high-throughput with lower selectivity compared to LC-MS/MS that ensured congener specific confirmation while qPCR complementarily revealed widespread presence of toxin-gene-carrying cyanobacteria. Across the 173 triple-analyzed samples, the combined use of ELISA, LC-MS/MS, and qPCR improved interpretation of cyanotoxin occurrence, bloom stage and potential risk compared to any single method alone. This multi-season field study represents one of the most extensive evaluations of these methods applied for cyanobacteria and their toxins in temperate waters.",
+    "journal": "",
+    "doi": "10.64898/2026.11.26.769442",
+    "date": "2026-11-27",
+    "authors": "Olofsson, M., Cekol, A., Persson, S., Aguilera, A., Davies, L., Karlson, B., Zuberovic Muratovic, A.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.26.769442v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "cyanobacteria",
+        "cyanobacterial"
+      ],
+      "context": {
+        "marine": [
+          "freshwater",
+          "lake",
+          "marine"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5878,
+    "collected_at": "2026-11-28T06:37:06.960330+00:00",
+    "collected_date": "2026-11-28",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-28",
+    "related_dois": [
+      "10.64898/2026.11.26.769442"
+    ],
+    "translation": {
+      "title": {
+        "hash": "615cdb60be6749d02cc734c5336885f0c6ecf8e1ee39ec0de1f14e34682d6c3f",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T07:05:41.925197+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "28d01cbc31c639318556d07c8e022838885151a33bfff0e7ab3f35ae390ba2ba",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T07:05:41.925197+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "シアノバクテリア毒素モニタリング能力の高度化：温帯域におけるELISA、LC-MS/MS、およびqPCRの大規模・多年比較",
+    "abstract_ja": "シアノバクテリア毒素は、気温の上昇や富栄養化などの人為的圧力により、環境および公衆衛生上の懸念としてますます高まっている。寒冷な気候のため、北欧は一般的に脆弱性が低いと考えられているが、近年、北極海の湖沼やバルト海北部を含む多くの地域でシアノバクテリアの大発生が増加している。しかし、毒素の多様性、大発生動態の変動、および手法間における分析標的の違いにより、モニタリングは依然として困難な課題である。本研究では、シアノバクテリア毒素および毒素産生遺伝子型の検出における、酵素結合免疫吸着法（ELISA）、液体クロマトグラフィータンデム質量分析法（LC-MS/MS）、および定量的ポリメラーゼ連鎖反応（qPCR）の相補性、一致度、および実用的有用性を比較した。この大規模な多シーズン研究では、スウェーデン全土の淡水、汽水、および海洋生態系から得られた816検体以上のサンプルを、3回連続の夏季にわたって採取した。検出された毒素には、マイクロシスチン、ノジュラリン、シリンドロスペルモプシン、アナトキシン、およびサキシトキシンが含まれ、シアノバクテリア内に存在する分画または溶存毒素としての分画は、毒素の種類に応じて異なっていた。全体として、3つの手法で測定された濃度は比例していたが、ELISAは平均してLC-MS/MSの約3倍の高い値を示した。ELISAは、LC-MS/MSと比較して選択性が低くハイスループットであり、同類特異的な確認を可能にした一方、qPCRは相補的に、毒素遺伝子を保持するシアノバクテリアが広く存在することを明らかにした。3つの手法で解析した173検体において、ELISA、LC-MS/MS、およびqPCRを組み合わせて使用することで、単一の手法のみを用いた場合と比較して、シアノトキシンの出現、大発生段階、および潜在的リスクの解釈が向上した。この多シーズンにわたるフィールド研究は、温帯海域のシアノバクテリアおよびその毒素に適用されたこれらの手法に関する、最も広範な評価の一つである。"
+  },
+  {
+    "id": "10.64898/2026.11.25.769168",
+    "title": "Structures of human adenoviruses D36 and D56 provide insights into adenovirus diversity and cement protein networks",
+    "abstract": "83 out of 118 human adenoviruses (HAdVs) belong to species D, which includes respiratory viruses, recombinants associated with rare, fatal neonatal infections, and viruses developed as vectors for clinical applications. The structural basis for variability in capsid-host interactions, and the complex network of cement proteins stabilizing the inner face of the capsids are incompletely understood. We report cryo-EM structures of HAdV-D36 and HAdV-D56 at 2.5 and 2.6 A resolution, respectively. Capsid surface features are well resolved, allowing structural comparisons of hypervariable regions. A near-complete assignment of inner cement proteins reveals novel capsid interactions for proteins IIIa, VI, VII, and VIII, the last of which is assigned to a conserved, hexon-interacting peptide previously thought to be protein V. These near-complete maps of two HAdV-D capsids may inform vector design and provide a reference for the role of individual proteins in virion assembly and disassembly.",
+    "journal": "",
+    "doi": "10.64898/2026.11.25.769168",
+    "date": "2026-11-27",
+    "authors": "Sorin, M. N., Kumar, P., Danskog, K., Hinz, A. S., Rafie, K., Arnberg, N., Carlson, L.-A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.25.769168v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5879,
+    "collected_at": "2026-11-28T06:37:06.960330+00:00",
+    "collected_date": "2026-11-28",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-28",
+    "related_dois": [
+      "10.64898/2026.11.25.769168"
+    ],
+    "translation": {
+      "title": {
+        "hash": "b1a1404d9798f81547e37cf89a6511bb2bbb26e914b270f2eb8d06188057f424",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T07:05:41.925197+00:00",
+        "format": "pfml3-ja-v1"
+      },
+      "abstract": {
+        "hash": "ea1aff3751df214dc03a61bb48039d336847c05a986f59db2249ecfd1887d861",
+        "model": "plamo-3-translate-2b",
+        "date": "2026-11-28T07:05:41.925197+00:00",
+        "format": "pfml3-ja-v1"
+      }
+    },
+    "translation_label": "PLaMo 3 Translate / plamo-3-translate-2b",
+    "title_ja": "ヒトアデノウイルスD36およびD56の構造解析から得られた知見：アデノウイルスの多様性とセメントタンパク質ネットワーク",
+    "abstract_ja": "ヒトアデノウイルス（HAdV）118種のうち83種がD種に属しており、これには呼吸器ウイルス、稀で致死的な新生児感染症に関連する組換え体、および臨床応用用のベクターとして開発されたウイルスが含まれる。カプシドと宿主の相互作用における多様性の構造的基盤、およびカプシド内面を安定化させるセメントタンパク質の複雑なネットワークについては、十分に解明されていない。本報では、HAdV-D36およびHAdV-D56のクライオ電子顕微鏡構造を、それぞれ2.5 Åおよび2.6 Åの分解能で報告する。カプシド表面構造は十分に分解されており、超可変領域の構造比較が可能である。内部セメントタンパク質のほぼ完全な同定により、タンパク質IIIa、VI、VII、およびVIIIにおける新たなカプシド相互作用が明らかになった。このうち最後のタンパク質VIIIは、従来タンパク質Vと考えられていた保存的なヘクソン相互作用ペプチドに帰属される。これら2種類のHAdV-Dカプシドのほぼ完全なマップは、ベクター設計の指針となり、ビリオンの組み立ておよび分解における個々のタンパク質の役割に関する参照情報となり得る。"
   }
 ]
