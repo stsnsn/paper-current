@@ -567,6 +567,7 @@
     "name": "Antibiotics (Basel, Switzerland)",
     "scope": [
       "ecology",
+      "genomics",
       "microbiology"
     ]
   },
@@ -3640,6 +3641,13 @@
     ]
   },
   {
+    "name": "Human molecular genetics",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Human mutation",
     "scope": [
       "genomics",
@@ -5088,6 +5096,13 @@
     ]
   },
   {
+    "name": "Journal of integrative neuroscience",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Journal of integrative plant biology",
     "scope": [
       "genomics",
@@ -5793,6 +5808,13 @@
   },
   {
     "name": "Letters in applied microbiology",
+    "scope": [
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Life (Basel, Switzerland)",
     "scope": [
       "genomics",
       "microbiology"

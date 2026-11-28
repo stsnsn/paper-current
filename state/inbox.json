@@ -481469,5 +481469,673 @@
     "related_dois": [
       "10.1128/aem.01748-26"
     ]
+  },
+  {
+    "id": "10.1038/s41467-026-79640-0",
+    "title": "EGMOF: efficient generation of metal-organic frameworks using a hybrid diffusion-transformer architecture",
+    "abstract": "The authors present EGMOF, a hybrid diffusion-transformer framework that generates metal-organic frameworks with target properties through intermediate chemical descriptors, using as few as 1,000 training examples.",
+    "journal": "Nature Communications",
+    "doi": "10.1038/s41467-026-79640-0",
+    "date": "2026-11-28",
+    "authors": "Jihan Kim",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.nature.com/articles/s41467-026-79640-0",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "framework",
+          "gene"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://www.nature.com/ncomms.rss",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5895,
+    "collected_at": "2026-11-28T13:08:24.513490+00:00",
+    "collected_date": "2026-11-28",
+    "sources": [
+      "https://www.nature.com/ncomms.rss"
+    ],
+    "first_seen": "2026-11-28",
+    "related_dois": [
+      "10.1038/s41467-026-79640-0"
+    ]
+  },
+  {
+    "id": "10.1111/1462-2920.70503",
+    "title": "Comparative Genomics of Pelagicoccaceae Reveals Metabolic Streamlining and Host Adaptation in Saccharina japonica Endophyte Laminariicoccus flavus gen. nov., sp. nov.",
+    "abstract": "A novel kelp endophyte, Laminariicoccus flavus gen. nov., sp. nov., was characterized and pan‐family comparative genomics revealed four distinct evolutionary clades within Pelagicoccaceae. Furthermore, L. flavus relies on targeted genomic streamlining for host adaptation, providing a critical eco‐evolutionary model for understanding macroalgae‐associated microbial colonization.\n\nABSTRACT\nMarine macroalgae offer dynamic microhabitats that drive the adaptive evolution of associated microbiomes. However, the ecophysiological strategies of many uncultivated lineages remain elusive. Here, we isolated a novel bacterial endophyte, strain TC32T, from the surface‐sterilized tissue of the brown alga Saccharina japonica. Polyphasic taxonomy and phylogenomics delineate it as Laminariicoccus flavus gen. nov., sp. nov. within Pelagicoccaceae. Pan‐family comparative genomics revealed four evolutionary clades differing in carbohydrate metabolism, respiratory chains and secondary metabolic potential. Within this framework, L. flavus exemplifies a specialized host‐associated strategy. Rather than maintaining broad metabolic plasticity, the strain displayed a genomic pattern of targeted metabolic streamlining, characterized by the absence of complete canonical gluconeogenesis and beta‐oxidation modules. While possessing genomic potential for glycolysis and galactose degradation, phenotypic assays demonstrated glycogen utilization and selective carbohydrate oxidation. Strain TC32T also grew under the tested microaerobic conditions but not under strictly anaerobic conditions. Consistent with growth under reduced oxygen availability, its genome retains a high‐affinity cbb3‐type cytochrome c oxidase, together with bidirectional proline and polyamine synthesis cascades and distinctive secondary metabolite clusters. Characterizing L. flavus expands the cultivable diversity of Pelagicoccaceae while providing an eco‐evolutionary model for understanding how macroalgae‐associated bacteria colonize complex host niches through metabolic reconfiguration.\n\nA novel kelp endophyte, Laminariicoccus flavus gen. nov., sp. nov., was characterized and pan-family comparative genomics revealed four distinct evolutionary clades within Pelagicoccaceae. Furthermore, L. flavus relies on targeted genomic streamlining for host adaptation, providing a critical eco-evolutionary model for understanding macroalgae-associated microbial colonization.\n\nABSTRACT\nMarine macroalgae offer dynamic microhabitats that drive the adaptive evolution of associated microbiomes. However, the ecophysiological strategies of many uncultivated lineages remain elusive. Here, we isolated a novel bacterial endophyte, strain TC32T, from the surface-sterilized tissue of the brown alga Saccharina japonica. Polyphasic taxonomy and phylogenomics delineate it as Laminariicoccus flavus gen. nov., sp. nov. within Pelagicoccaceae. Pan-family comparative genomics revealed four evolutionary clades differing in carbohydrate metabolism, respiratory chains and secondary metabolic potential. Within this framework, L. flavus exemplifies a specialized host-associated strategy. Rather than maintaining broad metabolic plasticity, the strain displayed a genomic pattern of targeted metabolic streamlining, characterized by the absence of complete canonical gluconeogenesis and beta-oxidation modules. While possessing genomic potential for glycolysis and galactose degradation, phenotypic assays demonstrated glycogen utilization and selective carbohydrate oxidation. Strain TC32T also grew under the tested microaerobic conditions but not under strictly anaerobic conditions. Consistent with growth under reduced oxygen availability, its genome retains a high-affinity cbb3-type cytochrome c oxidase, together with bidirectional proline and polyamine synthesis cascades and distinctive secondary metabolite clusters. Characterizing L. flavus expands the cultivable diversity of Pelagicoccaceae while providing an eco-evolutionary model for understanding how macroalgae-associated bacteria colonize complex host niches through metabolic reconfiguration.",
+    "journal": "Environmental Microbiology",
+    "doi": "10.1111/1462-2920.70503",
+    "date": "2026-11-27",
+    "authors": "Jingyao Wang, \nYuzhu Li, \nTingran Zhang, \nYuqi Ye, \nXinyun Tan, \nFan Li, \nPengjie Zhang, \nXiaoqian Yu, \nLuyang Li, \nZongjun Du, \nMengqi Ye",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1462-2920.70503?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "microbial",
+        "microbiome",
+        "microbiomes"
+      ],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenomic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://onlinelibrary.wiley.com/feed/14622920/most-recent",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5896,
+    "collected_at": "2026-11-28T13:08:24.513490+00:00",
+    "collected_date": "2026-11-28",
+    "sources": [
+      "https://onlinelibrary.wiley.com/feed/14622920/most-recent"
+    ],
+    "first_seen": "2026-11-28",
+    "related_dois": [
+      "10.1111/1462-2920.70503"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.25.769217",
+    "title": "Dietary fibre hierarchical structure determines gut microbiota responses to apple (poly)phenols through metabolite-associated microbial guilds",
+    "abstract": "Dietary fibres frequently coexist in the colon with vacuole-derived (poly)phenolic compounds following consumption of whole and minimally processed plant foods or combinations of dietary sources. However, whether (poly)phenols can direct microbial community composition and metabolic outputs during fibre fermentation, and whether such effects depend on fibre composition and physical assembly, remains unknown, possibly explaining inconsistent (poly)phenol clinical outcomes. Here, we investigated how dietary fibre hierarchical structural assembly and vacuole-derived (poly)phenols interact to shape gut microbial community composition and metabolite output. We developed tunable, (poly)phenol-free bacterial analogues of dicotyledonous primary cell walls, enabling comparison with compositionally matched but unstructured polysaccharide mixtures. Using a fully characterised apple (poly)phenol extract at physiologically relevant colonic concentrations and human faecal inocula, we show that (poly)phenols had minimal effects on overall microbial community composition and diversity but significantly altered microbial metabolic outputs. These changes were associated with subtle, context-dependent shifts in taxa assigned to putative saccharolytic and proteolytic guilds based on taxon-metabolite correlations. However, these effects occurred only within specific fermentation contexts characterized by low fermentability (e.g., cellulose and physically-assembled cell walls) or slowly fermentable substrates (xyloglucan), but not rapidly fermentable substrates (e.g., pectin or unstructured polysaccharide blends). Results revealed a hierarchical framework of microbial fermentation in which fibre composition defines metabolic potential, physical assembly governs substrate accessibility and fermentation dynamics, and (poly)phenols unlock utilization of recalcitrant dietary fibres through context-dependent trophic and antimicrobial (duplibiotic) effects on specialized microbial guilds, establishing fibre composition and physical assembly as key determinants of microbiota responses to dietary (poly)phenols.",
+    "journal": "",
+    "doi": "10.64898/2026.11.25.769217",
+    "date": "2026-11-28",
+    "authors": "Lopez-Rodulfo, I. M., Swackhamer, C., Bechtner, J., Fang, F., Hamaker, B. R., Martinez, M. M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.25.769217v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "microbial",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5897,
+    "collected_at": "2026-11-28T13:08:24.513490+00:00",
+    "collected_date": "2026-11-28",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-28",
+    "related_dois": [
+      "10.64898/2026.11.25.769217"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.26.768673",
+    "title": "Choanoflagellates discriminate among Pseudomonas aeruginosa alkylquinolones during pathogen response",
+    "abstract": "Choanoflagellates are emerging models for studying host-pathogen interactions, and as the closest living relatives of animals, offer a window into the evolution of immune defense against bacteria. However, investigating mechanisms of pathogen recognition and response in choanoflagellates remains challenging in the absence of defined bacterial effectors. By studying the interaction between the pathogen Pseudomonas aeruginosa and the choanoflagellate Monosiga brevicollis, we identify alkylquinolone HNQ (2-nonyl-4-quinolone) as a potent effector that reduces host viability. Structure-activity studies reveal that both the nine-carbon side chain and the unmodified 4-quinolone core contribute to HNQ's potency. HNQ is enriched in outer membrane vesicles, suggesting a route for its delivery in aquatic environments. In addition, HNQ reduces the viability of diverse choanoflagellate species and human cells, indicating that its effector activity may extend across evolutionarily distant hosts. Notably, M. brevicollis distinguishes HNQ, a molecule produced primarily by P. aeruginosa, from closely related hydroxylated compounds and mounts a selective response involving MbABCG1, a novel ABCG transporter that modulates sensitivity to HNQ. Together, these findings identify HNQ as a broadly active P. aeruginosa effector and show that choanoflagellates distinguish among closely related metabolites produced by a pathogen, providing a foundation for understanding the molecular basis of pathogen recognition and response.",
+    "journal": "",
+    "doi": "10.64898/2026.11.26.768673",
+    "date": "2026-11-28",
+    "authors": "Gabriel, J. P., McNairy, C., Dayras, M., Peng, C.-c., Deng, V., Meyer, F.-X., Beemelmanns, C., Woznica, A.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.26.768673v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Pseudomonas",
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [
+          "aquatic"
+        ],
+        "genomics": [
+          "evolution"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5898,
+    "collected_at": "2026-11-28T13:08:24.513490+00:00",
+    "collected_date": "2026-11-28",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-28",
+    "related_dois": [
+      "10.64898/2026.11.26.768673"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.26.769439",
+    "title": "Defining and Characterizing the Accessory Genome of the Virulent Vibriophage ICP1",
+    "abstract": "Bacteriophages (phages) must evade host defense systems and redirect cellular resources to support viral replication. The virulent phage ICP1 is a persistent predator of Vibrio cholerae in both human hosts and aquatic environments, yet the genetic factors underlying its infection cycle remain incompletely defined. Here, we developed a transposon mutagenesis platform for ICP1 and applied transposon sequencing (Tn-seq) to identify genes required for infection across host strains and environmental conditions. Approximately 32% of ICP1's 237 genes appeared essential, while 68% were dispensable, with a subset showing conditional essentiality. As a proof of principle, mutants disrupted in the anti-PLE (phage-inducible chromosomal-like element) counter-defense gene adi (gp99.1) were conditionally restricted in hosts carrying PLE2 when CRISPR-Cas-mediated targeting of PLE2 was abrogated but were otherwise neutral. We further identified phage genes involved in nucleotide metabolism whose contribution to fitness depended on nutrient availability. Under nutrient-limited conditions, mutants in the aerobic and anaerobic ribonucleotide reductase genes, nrdAB and nrdDG, were strongly depleted, consistent with roles in maintaining nucleotide pools under differing oxygen concentrations. Mutations in gp170, encoding a predicted dNMP kinase, and gp193 (td), encoding a predicted thymidylate synthase, also resulted in fitness defects. Together, these results help establish Tn-seq as a powerful approach for defining ICP1 gene requirements while highlighting the need to validate subtle conditional fitness effects.",
+    "journal": "",
+    "doi": "10.64898/2026.11.26.769439",
+    "date": "2026-11-28",
+    "authors": "Camilli, A., Tan, E. A., Lawrence, H. B., Calderon-Zavala, A., Lazinski, D. W.",
+    "tags": [
+      "微生物ゲノミクス",
+      "海洋微生物"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.26.769439v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "Vibrio",
+        "bacteriophage",
+        "bacteriophages",
+        "phage",
+        "phages",
+        "viral"
+      ],
+      "context": {
+        "marine": [
+          "aquatic"
+        ],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5899,
+    "collected_at": "2026-11-28T13:08:24.513490+00:00",
+    "collected_date": "2026-11-28",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-28",
+    "related_dois": [
+      "10.64898/2026.11.26.769439"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.26.769605",
+    "title": "HIV-1 VPR TARGETS BCOR FOR DEGRADATION TO COUNTER POLYCOMB-DEPENDENT PROVIRAL SILENCING",
+    "abstract": "Chromatin remodeling complexes such as the Polycomb Repressive Complex (PRC) are recruited to the HIV-1 promoter during latency. Using BioID, we previously identified multiple PRC subunits as potential HIV-1 Vpr-interacting partners. Here, we show that HIV-1 Vpr, but not its paralog Vpx encoded by SIVsmm/HIV-2, targets the non-canonical PRC1.1 core component, BCL6 co-repressor (BCOR), for proteasomal degradation. Vpr-dependent depletion of BCOR is observed during infection of T-cells and can be induced by virion-associated Vpr prior to early step leading to viral DNA integration and provirus expression. BCOR degradation is independent from the G2/M-arrest activity induced by Vpr but requires the recruitment of the CRL4DCAF1 E3 ubiquitin ligase by Vpr. Using T-cell models of HIV latency (Jurkat E4 and 2D10), we further show that BCOR is recruited to the LTR of latent proviruses along with the polycomb group RING finger protein 1 (PCGF1) and H2AK119ub prototypical silencing marks are detectable in this context. ShRNA-directed BCOR knockdown reactivates HIV-1 expression in 2D10 cells, and this reactivation is phenocopied upon Vpr expression. Overall, our results identify PRC1.1 as the non-canonical complex involved in PRC-dependent silencing of the HIV-1 LTR and further reveal that Vpr counteracts HIV-1 transcriptional silencing through BCOR degradation likely to achieve optimal viral expression and propagation during infection.",
+    "journal": "",
+    "doi": "10.64898/2026.11.26.769605",
+    "date": "2026-11-28",
+    "authors": "Romero-Medina, M. C., Munoz-Arias, I., Barbosa, J. A. F., Pham, T. N., Cohen, E. A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.26.769605v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5900,
+    "collected_at": "2026-11-28T13:08:24.513490+00:00",
+    "collected_date": "2026-11-28",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-28",
+    "related_dois": [
+      "10.64898/2026.11.26.769605"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.27.769811",
+    "title": "Bellinger River Virus 2: The Emergence of a Second Novel Pathogenic Nidovirus in Bellinger River Snapping Turtles (Myuchelys georgesi)",
+    "abstract": "In 2015 a major population decline in the critically endangered Bellinger River snapping turtle (Myuchelys georgesi; New South Wales, Australia) was attributed to the circulation of the serpentovirus Bellinger River virus (BRV). A decade later, we report the identification of a second novel serpentovirus in wild Bellinger River snapping turtles, herein referred to as Bellinger River virus 2 (BRV2), that is also associated with mortalities and further population impacts. Ocular and lacrimal gland lesions were consistent across disease events, although tissue tropism and distribution of internal gross and microscopic lesions varied between BRV and BRV2 infections. We employed a metatranscriptomic approach to identify and characterise BRV2. Phylogenetic analysis revealed that BRV and BRV2 form a distinct Bellinger River virus clade within the subfamily Serpentovirinae (family Tobaniviridae, order Nidovirales). However, given the extent of sequence divergence between the original BRV detected in 2015 and BRV2, which exhibit ~70% nucleotide identity across the full viral genome, we propose that BRV2 did not emerge directly from BRV during the period of outbreak observation and instead arose from a recent cross-species transmission (spillover) event within the Bellinger River ecosystem. The emergence of BRV2 in M. georgesi suggests that Bellinger River viruses remain an ongoing threat to the conservation of the species and emphasises the need for continued effort in the biotic and abiotic surveillance of the river and its wildlife. Such surveillance may also aid in improving our understanding of the origins, transmission, and drivers of serpentovirus emergence within the river ecosystem.",
+    "journal": "",
+    "doi": "10.64898/2026.11.27.769811",
+    "date": "2026-11-27",
+    "authors": "Lim, L., Lang, B. J., Rieken, J., Parrish, K., Hall, J., Rose, K., Holmes, E. C.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.27.769811v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "metatranscriptom",
+        "metatranscriptomic",
+        "viral",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [
+          "river"
+        ],
+        "genomics": [
+          "genom",
+          "genome",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5901,
+    "collected_at": "2026-11-28T13:08:24.513490+00:00",
+    "collected_date": "2026-11-28",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-28",
+    "related_dois": [
+      "10.64898/2026.11.27.769811"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.26.769492",
+    "title": "Unifying Gene Regulatory Network Inference and Sequence-to-Expression Modeling via Bilinear Sparse Regression for De Novo TF-DNA Interaction Discovery",
+    "abstract": "Inferring transcription factor (TF)-DNA interactions from transcriptomic data is key to deciphering the genomic regulatory code. Existing computational approaches generally focus either on identifying trans-regulatory dynamics via gene regulatory network (GRN) inference or cis-regulatory sequence logic via sequence-to-expression (S2E) modeling. This requires fitting separate models across individual genes or conditions, which obscures shared regulatory structures and fails to explicitly capture cis-trans interactions.Here, we introduce BRIDGE (Bilinear Regulatory Inference from DNA and Gene Expression), a computationally efficient framework that unifies GRN inference and S2E modeling into a single, convex optimization objective. By explicitly modeling gene expression as a function of the interaction between promoter k-mers and TF abundances, BRIDGE guarantees a unique global minimimum while enabling de novo discovery of TF-specific binding motifs (TFBMs). Without the use of prior motif libraries, BRIDGE reconstructs high-fidelity TFBMs matching experimentally validated ones. Hence, we establish a new conceptual framework for linking TF abundance to cis-regulatory sequence, providing a foundation for future approaches to build upon.",
+    "journal": "",
+    "doi": "10.64898/2026.11.26.769492",
+    "date": "2026-11-28",
+    "authors": "Alonso Esteve, J., de Ridder, D., van Dijk, A.-J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.26.769492v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "DNA",
+        "framework",
+        "gene",
+        "inference",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genomic",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5902,
+    "collected_at": "2026-11-28T13:08:24.513490+00:00",
+    "collected_date": "2026-11-28",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-28",
+    "related_dois": [
+      "10.64898/2026.11.26.769492"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.20.768086",
+    "title": "Deconvoluting Latent Erythroid-Mitochondrial Transcriptomic Gradients and Technical Sample Structure in Severe Preeclampsia: A Stratified Sensitivity Framework for Public Placental RNA-Seq Datasets",
+    "abstract": "BackgroundBulk placental transcriptomic profiling has been widely deployed to elucidate the molecular pathogenesis of severe preeclampsia (sPE) and to nominate clinical biomarkers across diverse maternal populations. However, human placental tissue exhibits profound cellular heterogeneity and vascular perfusion variability. When unmeasured technical processing structure or erythroid-trophoblast compositional gradients covary with clinical phenotypes in public repositories, standard differential gene expression (DGE) pipelines risk severe false-discovery inflation and spurious ancestry-specific biomarker claims.\n\nMethodsWe developed and applied a multi-layered transcriptomic audit, variance-partitioning diagnostic, and stratified permutation framework to re-evaluate the public NCBI Gene Expression Omnibus dataset GSE234729 (14,670 filtered, DESeq2-normalized features across 123 columns). Following strict provenance verification that excluded 12 unverified cross-series columns (linked to GSE186257), we analyzed 111 verified placental transcriptomes (43 sPE and 68 normotensive controls across African, Asian, and European maternal ancestries). Expression values were modeled on the log2(E+1) scale using robust empirical Bayes linear modeling (limma; ~ group + ancestry + fetal sex), benchmarked against standard empirical Bayes implementations, principal component variance decompositions, erythroid and mitochondrial gene-set scoring, stratified fixed-effect inverse-variance meta-analysis with Cochrans Q heterogeneity testing, and 1,000-iteration structure-preserving Monte Carlo permutation schemes.\n\nResultsWhile standard primary modeling identified 5,667 differentially expressed features at Benjamini-Hochberg false discovery rate (FDR)  0.39). Conversely, the putative cardiovascular risk biomarker IL3RA showed null primary association (-0.07 log2 units; 95% CI: -0.51 to 0.36; P = 0.74; genome-wide rank 13,299/14,670), reversed algebraic sign across strata (+0.77 in non- P vs. -0.54 in  P; heterogeneity P = 0.003), and failed genome-wide ancestry interaction testing (FDR {approx} 1.0).\n\nConclusionsNearly two-thirds of the apparent genome-wide differential expression in GSE234729 can be recapitulated by severe collinearity between clinical group, maternal ancestry, and a cryptic erythroid- mitochondrial sample structure. While core anti-angiogenic preeclampsia pathways (FLT1, LEP, ENG, PAPPA2, FSTL3, PHYHIP, PPP1R1C) are robust against this confounding, previously highlighted associations for IL3RA are statistically fragile and artifactually driven by unmodeled stratum heterogeneity. We establish an actionable bioinformatic auditing protocol requiring mandatory erythroid-contamination diagnostics, identifier-structure screening, and structure-preserving permutation testing prior to clinical biomarker nomination from public placental transcriptomes.",
+    "journal": "",
+    "doi": "10.64898/2026.11.20.768086",
+    "date": "2026-11-28",
+    "authors": "Zaman, K. A., Rahman, T. M., Hasan, M. S., Qumruzzaman, K., Kulsum, U.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.20.768086v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "RNA",
+        "framework",
+        "transcriptomic"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5903,
+    "collected_at": "2026-11-28T13:08:24.513490+00:00",
+    "collected_date": "2026-11-28",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-28",
+    "related_dois": [
+      "10.64898/2026.11.20.768086"
+    ]
+  },
+  {
+    "id": "10.1007/s00248-026-02933-w",
+    "title": "Cover Crops improve​ fertility,​ Reduce Salinity, and Reshape the Rhizosphere Microbiome and Metabolome in a Semi-Arid Olive Orchard",
+    "abstract": "Cover crops are increasingly used to improve soil health and crop productivity, yet their effects on the ecological processes governing rhizosphere functioning remain poorly understood. We integrated soil chemistry, microbial metabarcoding, and untargeted GC–MS metabolomics to investigate how cover crops influence rhizosphere organization in a semi-arid Mediterranean olive orchard. A two-year field experiment compared olive trees grown with a cover crop mixture (Calendula arvensis and Medicago sativa) with trees under conventional bare-soil management. Cover cropping enhanced olive growth, increasing tree height, canopy diameter, trunk diameter, and leaf chlorophyll content. These improvements were accompanied by a 1.8-fold increase in total N, a four-fold increase in available P, enhanced acid-phosphatase activity, and an approximately five-fold reduction in electrical conductivity. In contrast, the observed increases in SOM and microbial biomass P were not statistically significant. Rhizosphere bacterial communities shifted toward plant-beneficial taxa, while the relative abundance of fungal genera containing important pathogens declined. Metabolomic profiling identified 102 rhizosphere compounds and clearly separated cover-cropped from bare-soil treatments. Exploratory microbial-metabolite networks further indicated contrasting covariance structures between management systems. Bare-soil rhizospheres contained a comparatively greater proportion of negative metabolite-fungus associations, whereas more than 90% of the retained associations under cover cropping were positive and included several candidate bacteria-fungus relationships. Overall, cover cropping improved olive performance and rhizosphere fertility, reduced soil salinity, and altered microbiome and metabolome organization, supporting its value as a multifunctional management strategy for semi-arid olive orchards.",
+    "journal": "Microbial Ecology",
+    "doi": "10.1007/s00248-026-02933-w",
+    "date": "2026-11-27",
+    "authors": "",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://link.springer.com/article/10.1007/s00248-026-02933-w",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "fungal",
+        "microbial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://link.springer.com/search.rss?facet-journal-id=248",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5904,
+    "collected_at": "2026-11-28T13:08:24.513490+00:00",
+    "collected_date": "2026-11-28",
+    "sources": [
+      "https://link.springer.com/search.rss?facet-journal-id=248"
+    ],
+    "first_seen": "2026-11-28",
+    "related_dois": [
+      "10.1007/s00248-026-02933-w"
+    ]
+  },
+  {
+    "id": "10.1111/1758-2229.70474",
+    "title": "Differential Removal of Tartrazine and Ponceau 4R by the Ligninolytic Fungus Trametes villosa: Roles of Biosorption, Laccase Activity and Residual Phytotoxicity",
+    "abstract": "Trametes villosa CMPUJ H122 decolourized 82.6% of Tartrazine and over 96.6% of Ponceau 4R under selected screening conditions; biosorption contributed strongly to Tartrazine removal, while viable biomass enhanced Ponceau 4R removal. However, residual phytotoxicity in treated Ponceau 4R mixtures shows that decolourization does not guarantee environmental safety.\n\nABSTRACT\nFood azo dyes in industrial effluents motivate biological treatment approaches that can operate near ambient temperature and may reduce demand for externally supplied oxidants. This study established a baseline assessment for Tartrazine and Ponceau 4R decolourization by Trametes villosa CMPUJ H122 using Plackett–Burman screening, biomass viability comparisons, laccase assays, spectroscopy and seed germination tests. At initial pH 4.5, selected treatments achieved 82.6% ± 1.1% Tartrazine decolourization (5 mg L−1, 36 h) and 96.6% ± 0.3% Ponceau 4R decolourization (50 mg L−1, 6 h). Glucose and CuSO4 concentrations were 1.0 g L−1 and 0.5 mM for Tartrazine and 0.5 g L−1 and 1.0 mM for Ponceau 4R. In 72 h assays, heat‐inactivated biomass removed more Tartrazine than viable biomass, supporting biosorption. Greater Ponceau 4R removal by viable biomass suggested a possible metabolic contribution. UV/Vis and FT‐IR measurements did not establish degradation pathways. Undiluted treated Ponceau 4R retained phytotoxicity toward Lactuca sativa and Raphanus sativus, potentially associated with residual dye, uncharacterized transformation products or medium components; individual contributions remain unsolved. Germination improved upon dilution, which does not demonstrate treatment‐induced detoxification. These findings identify isolate‐specific treatment responses and analytical priorities for subsequent process development.\n\nTrametes villosa CMPUJ H122 decolourized 82.6% of Tartrazine and over 96.6% of Ponceau 4R under selected screening conditions; biosorption contributed strongly to Tartrazine removal, while viable biomass enhanced Ponceau 4R removal. However, residual phytotoxicity in treated Ponceau 4R mixtures shows that decolourization does not guarantee environmental safety.\n\nABSTRACT\nFood azo dyes in industrial effluents motivate biological treatment approaches that can operate near ambient temperature and may reduce demand for externally supplied oxidants. This study established a baseline assessment for Tartrazine and Ponceau 4R decolourization by Trametes villosa CMPUJ H122 using Plackett–Burman screening, biomass viability comparisons, laccase assays, spectroscopy and seed germination tests. At initial pH 4.5, selected treatments achieved 82.6% ± 1.1% Tartrazine decolourization (5 mg L−1, 36 h) and 96.6% ± 0.3% Ponceau 4R decolourization (50 mg L−1, 6 h). Glucose and CuSO4 concentrations were 1.0 g L−1 and 0.5 mM for Tartrazine and 0.5 g L−1 and 1.0 mM for Ponceau 4R. In 72 h assays, heat-inactivated biomass removed more Tartrazine than viable biomass, supporting biosorption. Greater Ponceau 4R removal by viable biomass suggested a possible metabolic contribution. UV/Vis and FT-IR measurements did not establish degradation pathways. Undiluted treated Ponceau 4R retained phytotoxicity toward Lactuca sativa and Raphanus sativus, potentially associated with residual dye, uncharacterized transformation products or medium components; individual contributions remain unsolved. Germination improved upon dilution, which does not demonstrate treatment-induced detoxification. These findings identify isolate-specific treatment responses and analytical priorities for subsequent process development.",
+    "journal": "Environmental Microbiology Reports",
+    "doi": "10.1111/1758-2229.70474",
+    "date": "2026-11-28",
+    "authors": "Leidy Diana Ardila‐Leal, \nGabriela Garzón‐Jirón, \nSofia Godoy‐Enciso, \nMelanny Pachón‐Urrea, \nMayra Alexandra Garzón‐González, \nMaryam Chaib De Mares, \nAura M. Pedroza‐Rodríguez, \nClaudia M. Rivera‐Hoyos",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1758-2229.70474?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://onlinelibrary.wiley.com/feed/17582229/most-recent",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5905,
+    "collected_at": "2026-11-28T13:08:24.513490+00:00",
+    "collected_date": "2026-11-28",
+    "sources": [
+      "https://onlinelibrary.wiley.com/feed/17582229/most-recent"
+    ],
+    "first_seen": "2026-11-28",
+    "related_dois": [
+      "10.1111/1758-2229.70474"
+    ]
+  },
+  {
+    "id": "10.1111/1758-2229.70478",
+    "title": "The Effect of Elevation on Microbial Communities Associated With Sporobolus alterniflorus",
+    "abstract": "Saltmarsh elevation and associated environmental conditions such as tidal inundation were found to structure microbial communities in the root and rhizosphere of the introduced grass species Sporobolus alterniflorus. Ecologically relevant sulphur oxidising bacteria were found to maintain their association with S. alterniflorus roots regardless of elevation, highlighting the utility of environmental gradients in distinguishing host–microbe interactions shaped by local conditions from those that reflect stable, consistent symbiosis.\n\nABSTRACT\nSaltmarshes are highly productive coastal ecosystems that sequester carbon, prevent coastal erosion and host an exceptional range of biodiversity. Elevation differences in saltmarshes drive divergent soil conditions over relatively short distances, exposing saltmarsh species to contrasting physiochemical properties, which can be used to test the effects of contrasting environmental conditions including oxygen concentration, tidal regime and buildup of hydrogen sulphide, on the organisms that live there. Here, we compare microbial communities between individuals of the introduced grass species Sporobolus alterniflorus at high and low elevation in a saltmarsh. Microbial communities were significantly different between high and low elevation individuals, but rhizosphere communities differed more than those of root according to elevation, consistent with stronger host filtering. Focussing on putative sulphur‐oxidising bacteria, some of which are ecologically relevant for S. alterniflorus, we confirmed that members of the genus Candidatus Thiodiazotropha are enriched in S. alterniflorus root tissue, and this association persists regardless of marsh elevation. Moreover, we confirmed members of the genus Arcobacter as consistently associated with S. alterniflorus roots, an association which has been given little attention since its discovery.\n\nSaltmarsh elevation and associated environmental conditions such as tidal inundation were found to structure microbial communities in the root and rhizosphere of the introduced grass species Sporobolus alterniflorus. Ecologically relevant sulphur oxidising bacteria were found to maintain their association with S. alterniflorus roots regardless of elevation, highlighting the utility of environmental gradients in distinguishing host–microbe interactions shaped by local conditions from those that reflect stable, consistent symbiosis.\n\nABSTRACT\nSaltmarshes are highly productive coastal ecosystems that sequester carbon, prevent coastal erosion and host an exceptional range of biodiversity. Elevation differences in saltmarshes drive divergent soil conditions over relatively short distances, exposing saltmarsh species to contrasting physiochemical properties, which can be used to test the effects of contrasting environmental conditions including oxygen concentration, tidal regime and buildup of hydrogen sulphide, on the organisms that live there. Here, we compare microbial communities between individuals of the introduced grass species Sporobolus alterniflorus at high and low elevation in a saltmarsh. Microbial communities were significantly different between high and low elevation individuals, but rhizosphere communities differed more than those of root according to elevation, consistent with stronger host filtering. Focussing on putative sulphur-oxidising bacteria, some of which are ecologically relevant for S. alterniflorus, we confirmed that members of the genus Candidatus Thiodiazotropha are enriched in S. alterniflorus root tissue, and this association persists regardless of marsh elevation. Moreover, we confirmed members of the genus Arcobacter as consistently associated with S. alterniflorus roots, an association which has been given little attention since its discovery.",
+    "journal": "Environmental Microbiology Reports",
+    "doi": "10.1111/1758-2229.70478",
+    "date": "2026-11-28",
+    "authors": "Katie Emelianova, \nJoana Séneca, \nPetra Pjevac, \nArmel Salmon, \nMalika Ainouche, \nJillian M. Petersen",
+    "tags": [
+      "微生物学"
+    ],
+    "source_url": "https://enviromicro-journals.onlinelibrary.wiley.com/doi/10.1111/1758-2229.70478?af=R",
+    "abstract_source": "rss",
+    "preprint": false,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "unfiltered_journal",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "microbe",
+        "microbial"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "微生物学"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://onlinelibrary.wiley.com/feed/17582229/most-recent",
+        "query": "RSS feed",
+        "scope": "journal"
+      }
+    ],
+    "collection_order": 5906,
+    "collected_at": "2026-11-28T13:08:24.513490+00:00",
+    "collected_date": "2026-11-28",
+    "sources": [
+      "https://onlinelibrary.wiley.com/feed/17582229/most-recent"
+    ],
+    "first_seen": "2026-11-28",
+    "related_dois": [
+      "10.1111/1758-2229.70478"
+    ]
   }
 ]
