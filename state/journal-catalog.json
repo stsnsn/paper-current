@@ -3619,6 +3619,13 @@
     ]
   },
   {
+    "name": "Huan jing ke xue= Huanjing kexue",
+    "scope": [
+      "ecology",
+      "microbiology"
+    ]
+  },
+  {
     "name": "Human gene therapy",
     "scope": [
       "genomics",
@@ -5846,6 +5853,14 @@
   },
   {
     "name": "Marine biotechnology (New York, N.Y.)",
+    "scope": [
+      "ecology",
+      "genomics",
+      "microbiology"
+    ]
+  },
+  {
+    "name": "Marine drugs",
     "scope": [
       "ecology",
       "genomics",

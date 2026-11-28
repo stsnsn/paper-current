@@ -478760,5 +478760,976 @@
     "related_dois": [
       "10.1128/mra.00864-26"
     ]
+  },
+  {
+    "id": "10.64898/2026.11.26.769442",
+    "title": "Advancing Cyanobacterial Toxin Monitoring Capacity: A Large-Scale Multi-Year Comparison of ELISA, LC-MS/MS, and qPCR in Temperate Waters",
+    "abstract": "Cyanobacterial toxins are an increasing environmental and public health concern, driven by rising temperatures and anthropogenic pressures such as eutrophication. Due to the colder climate, Northern Europe is generally believed to be less vulnerable, however, cyanobacterial blooms have increased in recent years in many areas including Arctic lakes and Northern Baltic Sea. Yet, monitoring remains challenging due to toxin diversity, variable bloom dynamics, and the differences in analytical targets among methods. We compared the complementarity, agreement, and practical utility of enzyme-linked immunosorbent assay (ELISA), liquid chromatography tandem mass spectrometry (LC-MS/MS), and quantitative polymerase chain reaction (qPCR) for detecting cyanobacterial toxins and toxin-producing genotypes. This large-scale, multi-season study leveraged a sampling effort encompassing over 816 samples from freshwater, brackish, and marine ecosystems across Sweden over three consecutive summers. Toxins detected included microcystins, nodularin, cylindrospermopsins, anatoxins, and saxitoxins; where the fraction found in the cyanobacteria or as dissolved toxins varied with toxin type. Overall, concentrations measured using the three methods were proportional, but ELISA yielded, on average, approximately three times higher values than LC-MS/MS. ELISA provided high-throughput with lower selectivity compared to LC-MS/MS that ensured congener specific confirmation while qPCR complementarily revealed widespread presence of toxin-gene-carrying cyanobacteria. Across the 173 triple-analyzed samples, the combined use of ELISA, LC-MS/MS, and qPCR improved interpretation of cyanotoxin occurrence, bloom stage and potential risk compared to any single method alone. This multi-season field study represents one of the most extensive evaluations of these methods applied for cyanobacteria and their toxins in temperate waters.",
+    "journal": "",
+    "doi": "10.64898/2026.11.26.769442",
+    "date": "2026-11-27",
+    "authors": "Olofsson, M., Cekol, A., Persson, S., Aguilera, A., Davies, L., Karlson, B., Zuberovic Muratovic, A.",
+    "tags": [
+      "海洋微生物"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.26.769442v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "cyanobacteria",
+        "cyanobacterial"
+      ],
+      "context": {
+        "marine": [
+          "freshwater",
+          "lake",
+          "marine"
+        ],
+        "genomics": [],
+        "evolution": []
+      },
+      "tags": [
+        "海洋微生物"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5878,
+    "collected_at": "2026-11-28T06:37:06.960330+00:00",
+    "collected_date": "2026-11-28",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-28",
+    "related_dois": [
+      "10.64898/2026.11.26.769442"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.25.769168",
+    "title": "Structures of human adenoviruses D36 and D56 provide insights into adenovirus diversity and cement protein networks",
+    "abstract": "83 out of 118 human adenoviruses (HAdVs) belong to species D, which includes respiratory viruses, recombinants associated with rare, fatal neonatal infections, and viruses developed as vectors for clinical applications. The structural basis for variability in capsid-host interactions, and the complex network of cement proteins stabilizing the inner face of the capsids are incompletely understood. We report cryo-EM structures of HAdV-D36 and HAdV-D56 at 2.5 and 2.6 A resolution, respectively. Capsid surface features are well resolved, allowing structural comparisons of hypervariable regions. A near-complete assignment of inner cement proteins reveals novel capsid interactions for proteins IIIa, VI, VII, and VIII, the last of which is assigned to a conserved, hexon-interacting peptide previously thought to be protein V. These near-complete maps of two HAdV-D capsids may inform vector design and provide a reference for the role of individual proteins in virion assembly and disassembly.",
+    "journal": "",
+    "doi": "10.64898/2026.11.25.769168",
+    "date": "2026-11-27",
+    "authors": "Sorin, M. N., Kumar, P., Danskog, K., Hinz, A. S., Rafie, K., Arnberg, N., Carlson, L.-A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.25.769168v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "assembly"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5879,
+    "collected_at": "2026-11-28T06:37:06.960330+00:00",
+    "collected_date": "2026-11-28",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-28",
+    "related_dois": [
+      "10.64898/2026.11.25.769168"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.26.769407",
+    "title": "Viral-bacterial arms race in the marine sponge Halichondria panicea",
+    "abstract": "Sponges are complex holobionts/metaorganisms and important models for host-microbe interactions, yet their viral communities remain poorly understood. Here, we characterized the diversity of viruses associated with the marine sponge Halichondria panicea from different locations in the North Atlantic and Baltic Sea. Most sponge-associated viruses were also detected in the surrounding seawater, while little evidence was found for a shared sponge-specific core virome across locations. A subset of viruses that were enriched in sponges over seawater was explored further. Its functional potential included diverse auxiliary genes of metabolic functions, particularly nucleotide and cofactor metabolism, as well as bacterial cell surface modification. At the community level, the predicted viral anti-defenses broadly correspond to the predicted microbial defense classes, suggesting an evolutionary arms race between viruses and their microbial hosts within the sponge holobiont. Furthermore, the diverse defense systems identified on the genomes of the dominant bacterial symbiont \"Candidatus Halichondribacter symbioticus\", together with variation in defense gene content and sequence, suggest that viruses contribute to genomic diversification of the major sponge symbiont. Finally, a gene transfer agent was identified on the genome of \"Ca. H. symbioticus\", which represents a mechanism for horizontal gene transfer and DNA exchange within this symbiont population. Overall, our results indicate that viruses are dynamic components of the H. panicea microbiome and contribute to genome diversification of the main sponge symbiont \"Ca. H. symbioticus\".",
+    "journal": "",
+    "doi": "10.64898/2026.11.26.769407",
+    "date": "2026-11-27",
+    "authors": "Shi, W., Ngugi, D. K., Hentschel, U.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.26.769407v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "microbe",
+        "microbial",
+        "microbiome",
+        "viral",
+        "virome",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [
+          "marine",
+          "seawater"
+        ],
+        "genomics": [
+          "DNA",
+          "evolution",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5880,
+    "collected_at": "2026-11-28T06:37:06.960330+00:00",
+    "collected_date": "2026-11-28",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-28",
+    "related_dois": [
+      "10.64898/2026.11.26.769407"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.26.768590",
+    "title": "NUP62 acts as T cell activation-dependent switch to regulate post nuclear import steps of HIV-1 replication in primary CD4 T cells",
+    "abstract": "Resting CD4 T cells resist productive HIV-1 infection. T cell activation licenses replication, increases nuclear pore complex (NPC) density, and alters chromatin organization. Paradoxically, HIV-1 nuclear import is more efficient in resting than in activated CD4 T cells, despite lower NPC abundance. Using activation-neutral gene editing in primary human CD4 T cells, we show that T cell activation reshapes nucleoporin (NUP) contributions to infection. The FG-nucleoporin NUP62 switches from an inhibitor of HIV infection in resting cells to a dependency factor in activated cells. In resting cells, NUP62 depletion modestly increases nuclear import, shifts proviral integration away from transcriptionally active chromatin, and enhances viral transcript abundance and gene expression. In activated cells, NUP62 depletion leaves steps through integration unaffected but strongly reduces nascent viral transcripts and gene expression. T cell activation switches previously unrecognized post-nuclear-import functions of NUP62, uncoupling early and late steps of HIV-1 replication.",
+    "journal": "",
+    "doi": "10.64898/2026.11.26.768590",
+    "date": "2026-11-27",
+    "authors": "Ananth, S., Ambiel, I., Sid Ahmed, S., Penzo, C., Lucic, B., Bodulic, K., La Rocca, L., Kim, Y., Annesha, F. M., Mueller, B., Weinhardt, V., Keppler, O. T., Kraeusslich, H.-G., Lusic, M., Fackler, O. T.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.26.768590v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5881,
+    "collected_at": "2026-11-28T06:37:06.960330+00:00",
+    "collected_date": "2026-11-28",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-28",
+    "related_dois": [
+      "10.64898/2026.11.26.768590"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.25.769242",
+    "title": "Colibactin-induced DNA damage activates cGAS-STING signaling that is amplified by mitochondrial DNA release",
+    "abstract": "The microbiome-derived genotoxin colibactin induces oncogenic mutations that contribute to the development of colorectal cancer. Colibactin exposure also elicits inflammatory and senescence-associated responses. However, the cellular pathways that link colibactin-induced genotoxic stress to inflammation and senescence are poorly defined. Here, we show that colibactin causes cytoplasmic DNA accumulation and activates pro-inflammatory cGAS-STING signaling in human cells. Genetic or pharmacological inhibition of cGAS reduces colibactin-induced inflammatory gene expression and the accumulation of senescence-associated markers. We further show that these responses occur in two phases: an early response that is independent of mitochondrial DNA (mtDNA) and a stronger late response that is amplified by mtDNA release. Inactivation of either cGAS or the mitochondrial outer membrane permeabilization factor BAK suppresses cytoplasmic mtDNA accumulation and dampens late inflammatory signaling. Together, our data support a model in which colibactin-induced nuclear DNA damage initially activates cGAS-STING, which promotes BAK-dependent mtDNA release and thereby enhances inflammatory signaling. This work reveals a mechanism through which a clinically relevant microbial genotoxin reprograms host cell physiology and may contribute to the development or progression of colorectal cancer.",
+    "journal": "",
+    "doi": "10.64898/2026.11.25.769242",
+    "date": "2026-11-27",
+    "authors": "Xie, S., Tzeng, J., Kim, T. D., Airan, Y., Herzon, S. B., Semlow, D. R.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.25.769242v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbial",
+        "microbiome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5882,
+    "collected_at": "2026-11-28T06:37:06.960330+00:00",
+    "collected_date": "2026-11-28",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-28",
+    "related_dois": [
+      "10.64898/2026.11.25.769242"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.25.769155",
+    "title": "Retron-Eco9 ADP-ribosylates release factors to disrupt translation during phage infection",
+    "abstract": "Retrons are a major form of anti-phage defense in bacteria, but how they provide defense remains incompletely understood. The most common retron effector is a predicted nucleoside 2'-deoxyribosyltransferase (NDT). Here, we demonstrated that the NDT of retron-Eco9 is, in fact, a protein histidine ADP-ribosyltransferase that associates with the bacterial ribosome through an interaction with the stalk proteins bL7/bL12. Through this interaction, the effector ADP-ribosylates translation release factors RF1 and RF2 adjacent to the conserved GGQ motifs that catalyze peptidyl-tRNA ester bond hydrolysis, resulting in increased stop codon readthrough and frameshifting. Using ribosome profiling, cryoEM, and in vitro reconstitution assays, we demonstrate that the modification of RF1 and RF2 severely disrupts translation in cells, leading to collided ribosomes at the 3' ends of transcripts, aberrant termination, and increased ribosome rescue. These disruptions to translation ultimately prevent phage replication and abort an infection. Although many defense systems block translation by degrading tRNA or mRNA, our results now demonstrate how post-translational modification of translation factors can also provide potent defense, while also revealing histidine ADP-ribosyltransferase activity as the biochemical basis of the largest class of retrons.",
+    "journal": "",
+    "doi": "10.64898/2026.11.25.769155",
+    "date": "2026-11-27",
+    "authors": "Beck, C. R., May, M. B., Davis, J. H., Laub, M. T.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.25.769155v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial",
+        "phage"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "transcript"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5883,
+    "collected_at": "2026-11-28T06:37:06.960330+00:00",
+    "collected_date": "2026-11-28",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-28",
+    "related_dois": [
+      "10.64898/2026.11.25.769155"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.24.767187",
+    "title": "Deciphering lung microbial EV pneumotypes in acute respiratory distress syndrome proteome wide",
+    "abstract": "Background. Pneumotypes hold potential predictive value for pathogenesis, outcomes, and interventions. Lung microbiome releases extracellular vesicles (EVs). However, EV-derived pneumotypes in acute respiratory distress syndrome (ARDS) have not been studied yet. Objectives. We aimed to identify pneumotypes in ARDS patients by comprehensively profiling lung microbiome-released EV proteins in bronchioalveolar lavage fluid (BALF). Methods. We extracted EVs from 106 participants (57 cases and 49 healthy controls) enrolled in the ARDSNet and SPIROMICS clinical trials and subjected to nanoparticle liquid chromatography-mass spectrometry (LC-MS) to create microbial metaproteomics. Differentially expressed proteins (DEPs) were identified by Wilcoxon rank-sum test, and spectral clustering of these DEPs was utilized to reveal patterns in microbial EV protein profiles. The association between pneumotypes and the disease was assessed. Pneumotype-associated DEPs were identified using logistic regression, and their functional annotation was performed based on the eggNOG 5 database. The taxonomy of lung microbes was determined at the species-level and ranked by biomass contributions. Results. Ninety DEPs were identified in ARDS lavage samples (53 upregulated and 37 downregulated) compared with healthy controls. There were five pneumotypes, namely, P1, P2, P3, P4, and P5, identified by clustering the differentially expressed microbial EV proteins. Few pneumotype-associated DEPs were shared among these pneumotypes and mainly correlated with ARDS etiology and organ functions. The significant difference in mortality was observed in P3 and P4 subtypes. In contrast, all patients in P1 and P5 subgroups survived. Patients in P2 and P3 groups experienced a significant reduction in both of central nervous system (CNS) failure-free days and the days without organ failure compared with other subgroups. Besides, patients in P3 and P4 exhibited a higher prevalence of baseline shock and hypertension, greater use of vasopressors or inotropes within the previous 24 hours, higher positive end-expiratory pressure during ventilation, and lower body temperature and hematocrit levels. Alpha and beta diversity analyses showed significant shifts in P2 patients. The taxonomy of the top-ranked microbes exhibited different pathogens in P2, P3, and P4. Conclusions. This study, for the first time, identified five EV expression patterns of lung microbiota in the BALF of ARDS patients. These intrinsically featured EV pneumotypes in the lung are associated with mortality, etiology, lung functions, medication administration, and disease severity in ARDS patients.",
+    "journal": "",
+    "doi": "10.64898/2026.11.24.767187",
+    "date": "2026-11-26",
+    "authors": "Li, N., Zhao, R., Bisharat, A., Smith, D., Gilbert, E., Zhang, J., Ji, H.-L.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.24.767187v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "microbe",
+        "microbes",
+        "microbial",
+        "microbiome",
+        "microbiota"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5884,
+    "collected_at": "2026-11-28T06:37:06.960330+00:00",
+    "collected_date": "2026-11-28",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=microbiology"
+    ],
+    "first_seen": "2026-11-28",
+    "related_dois": [
+      "10.64898/2026.11.24.767187"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.26.769559",
+    "title": "Chromosome-level genome assembly of the hydrozoan jellyfish Cladonema pacificum",
+    "abstract": "The hydrozoan jellyfish Cladonema pacificum, which possesses experimentally tractable polyp and medusa stages, is an emerging cnidarian model for studies of regeneration, development, physiology, and behavior. Although experimental techniques have been established for this species, the lack of a chromosome-level reference genome has limited genome-wide and comparative analyses. Here, we present the first chromosome-level genome assembly of C. pacificum generated using HiFi long-read sequencing and Hi-C technology. The representative haploid assembly comprises 15 chromosome-scale scaffolds and 121 additional scaffolds, spanning 504.0 Mb with a scaffold N50 of 32.1 Mb. Gene annotation integrating RNA-seq, PacBio Iso-Seq, and protein homology identified 17,206 protein-coding genes, of which 95.7% received at least one functional annotation. Phylogenomic and macrosynteny analyses further confirmed the placement of C. pacificum within Hydrozoa and revealed extensive chromosome-scale conservation with other hydrozoan genomes. This genomic resource provides a valuable foundation for comparative genomics and future molecular, cellular, and evolutionary studies using C. pacificum as an emerging hydrozoan model.",
+    "journal": "",
+    "doi": "10.64898/2026.11.26.769559",
+    "date": "2026-11-27",
+    "authors": "Ui, J., Yamaguchi, K., Nakatani, H., Kon-Nanjo, K., Kon, T., Ishii, Y., Takeda, N., Deguchi, R., Shigenobu, S., Nakajima, Y.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.26.769559v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "assembly",
+        "genome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "assembly",
+          "evolution",
+          "genom",
+          "genome",
+          "genomic",
+          "phylogen",
+          "phylogenomic"
+        ],
+        "evolution": [
+          "evolution",
+          "evolutionary"
+        ]
+      },
+      "tags": [
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5885,
+    "collected_at": "2026-11-28T06:37:06.960330+00:00",
+    "collected_date": "2026-11-28",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-28",
+    "related_dois": [
+      "10.64898/2026.11.26.769559"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.24.768881",
+    "title": "Epstein-Barr Virus Load in Lymphoblastoid Cell Lines and Its Association with Schizophrenia",
+    "abstract": "Background: Blood Epstein-Barr virus (EBV) DNAs are reported to have genetic determinants and correlate with prevalence of autoimmune, neurological, respiratory and cardiovascular condition. However, whether a patient is more susceptible to EBV virus infection is unknown. Lymphoblastoid cell lines (LCLs) are often immortalized by infecting individuals' peripheral lymphocytes by EBV in a dish, providing an ex vivo model to address this question. Here, we examined associations of EBV viral load in LCLs with schizophrenia (SCZ) diagnosis, SCZ and bipolar (BIP) polygenic risk scores, and host genetic variation. Methods: EBV viral load in LCLs from the Molecular Genetics of Schizophrenia (MGS) study was examined using univariable and multivariable linear regression. Separate multivariable models evaluated SCZ diagnosis, bipolar disorder polygenic score (BIP-PGS), and SCZ polygenic score (SCZ-PGS), adjusting for age, sex, and the first five genetic ancestry principal components. An exploratory analysis examined age at schizophrenia onset. A genome-wide association study (GWAS) was conducted in 2,000 participants using the same covariates. Results: SCZ diagnosis was not significantly associated with EBV viral load after covariate adjustment (Beta=-0.004, SE = 0.025, P = 0.868). Neither BIP-PGS (Beta=-0.009, SE = 0.013, P = 0.469) nor SCZ-PGS (Beta=-0.002, SE = 0.013, P = 0.897) was significantly associated with viral load. Univariable analyses also identified no significant association with age at SCZ onset. For GWAS of EBV loads in LCL, no variant reached genome-wide significance (P < 5 x 10e-8). The strongest association was observed at rs7188098 in the GP2 gene on chromosome 16 (P = 3.7 x 10e-7). Conclusions: These analyses did not identify statistically significant associations of LCL EBV viral load with SCZ diagnosis or the psychiatric polygenic scores examined. The GWAS identified suggestive signals of association with EBV load, which require further investigation in larger sample sizes.",
+    "journal": "",
+    "doi": "10.64898/2026.11.24.768881",
+    "date": "2026-11-26",
+    "authors": "Yin, D., Zhang, H., Sanders, A. R., Duan, J.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.24.768881v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "viral",
+        "virus"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5886,
+    "collected_at": "2026-11-28T06:37:06.960330+00:00",
+    "collected_date": "2026-11-28",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-28",
+    "related_dois": [
+      "10.64898/2026.11.24.768881"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.24.769033",
+    "title": "Benchmarking sequence-to-function models and mapping enhancer-gene interactions with E2GScore",
+    "abstract": "Sequence-to-function models predict gene expression and chromatin features directly from DNA sequence and are increasingly used to infer enhancer-gene regulatory interactions. However, differences in attribution procedures and benchmarking datasets complicate comparisons between models, while the biological information captured by their enhancer-gene scores remains poorly understood. Here we introduce E2GScore, a unified framework for extracting and benchmarking enhancer-gene predictions from sequence-to-function models. By systematically varying scoring protocols, we identify gene-readout normalization and cell-type-matched expression tracks as important determinants of performance, whereas in silico mutagenesis offers no advantage over less computationally demanding input gradients. We compare seven sequence-to-function models and three established enhancer-gene predictors against CRISPR interference screens in K562 cells and primary human astrocytes. AlphaGenome 1 and 2 outperformed all other sequence-to-function models, and matched or outperformed experimentally informed predictors, particularly for distal enhancers, without a statistically significant difference between AlphaGenome versions after multiple-testing correction. We further show that the apparent reduction in predictive performance in astrocytes relative to K562 cells observed across models results primarily from differences in benchmarking dataset composition, particularly enhancer-TSS distance and target-gene expression. Using the open-weight AlphaGenome 1, we then generated E2GMap, a genome-wide resource of enhancer-gene regulation comprising 14.7 billion enhancer-gene attribution scores across 454 human biosamples, 45% of which are absent from existing enhancer-gene maps such as those from ENCODE-rE2G and AlphaGenome 2. E2GMap is available at e2gscore.com. Together, E2GScore and E2GMap establish a framework for rigorous evaluation of sequence-based enhancer-gene predictions and provide an extensible resource for studying gene regulation across human cell types and tissues.",
+    "journal": "",
+    "doi": "10.64898/2026.11.24.769033",
+    "date": "2026-11-26",
+    "authors": "The-Tjoean, C., Alinejad-Rokny, H., Voineagu, I.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.24.769033v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "benchmark",
+        "framework",
+        "gene",
+        "prediction",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5887,
+    "collected_at": "2026-11-28T06:37:06.960330+00:00",
+    "collected_date": "2026-11-28",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-28",
+    "related_dois": [
+      "10.64898/2026.11.24.769033"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.25.768430",
+    "title": "Comparative Metagenomic Analysis of Chondrosia and Chondrilla Sponge Microbiomes Reveals Distinct Symbiotic Communities, Functional Potential, and Contrasting Environmental Responses",
+    "abstract": "Marine sponges frequently maintain distinct, host-specific microbial communities despite inhabiting overlapping or identical environments. In this study, we performed comparative shotgun metagenomic sequencing on two sympatric sponge taxa, Chondrilla and Chondrosia, collected from the same shallow-water habitat in the Florida Keys to examine whether differences in microbiome composition and functional potential persist under shared environmental conditions. Morphological examination and phylogenetic analyses of nuclear 18S rRNA sequences confirmed the taxonomic placement of the green specimens within Chondrilla and the black specimens within Chondrosia sp. Community-level profiling revealed taxonomic differences between the two hosts: the Chondrilla microbiome exhibited a strong enrichment of Cyanobacteriota, notably Candidatus Synechococcus spongiarum, whereas the Chondrosia microbiome was characterized by Poribacteria, Chloroflexota, Nitrosopumilales, and other sponge-associated lineages. Functional annotation of metagenome-assembled genomes (MAGs) identified distinct functional potential between the two microbiomes, particularly regarding pathways associated with osmoregulation, oxidative and environmental stress responses, and secondary-metabolite biosynthesis, including diverse biosynthetic gene clusters (BGCs) such as terpenes and RiPPs. Additionally, parallel physiological monitoring during a freshwater exposure experiment demonstrated contrasting environmental responses, with Chondrosia exhibiting long-term survival over ten months under static low-salinity conditions compared to rapid deterioration in Chondrilla. Together, our findings provide genome-resolved evidence that sympatric sponge hosts maintain distinct microbial assemblages and functional profiles, establishing a framework for future investigations linking sponge-microbe interactions, biosynthetic potential, and stress resilience.",
+    "journal": "",
+    "doi": "10.64898/2026.11.25.768430",
+    "date": "2026-11-27",
+    "authors": "Almodovar Montero, S., Ryan, J., Ramirez, K. L., Loving, L. K., Leal, C. V.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.25.768430v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "18S rRNA",
+        "18s rrna",
+        "Synechococcus",
+        "metagenom",
+        "metagenome",
+        "metagenomic",
+        "microbe",
+        "microbial",
+        "microbiome",
+        "microbiomes"
+      ],
+      "context": {
+        "marine": [
+          "freshwater",
+          "marine"
+        ],
+        "genomics": [
+          "annotation",
+          "genom",
+          "genome",
+          "metagenom",
+          "metagenome",
+          "metagenomic",
+          "phylogen",
+          "phylogenetic"
+        ],
+        "evolution": [
+          "phylogenetic"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5888,
+    "collected_at": "2026-11-28T06:37:06.960330+00:00",
+    "collected_date": "2026-11-28",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-28",
+    "related_dois": [
+      "10.64898/2026.11.25.768430"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.26.769538",
+    "title": "A stratified benchmark reveals distinct short- and long-read performance gradients within difficult genomic regions",
+    "abstract": "Accurate detection of small variants underpins population, functional and clinical genomics, yet short-read sequencing remains unreliable in repetitive and duplicated regions of the human genome, where long reads provide substantially greater sequence context. Although this disparity is well documented, aggregate accuracy metrics delineate where short- and long-read callsets diverge but not the mechanisms that give rise to these differences. Here, we present a region-stratified benchmark of single-nucleotide polymorphism (SNP) and insertion--deletion (INDEL) detection from Illumina short-read and PacBio HiFi long-read sequencing of the Genome in a Bottle reference sample HG002, evaluating multiple variant callers across genomic contexts, sequencing depths and INDEL lengths. Both platforms achieved near-complete accuracy in high-confidence regions, whereas short-read performance deteriorated in low-mappability regions and segmental duplications, a deficit that persisted with increasing sequencing depth. Within these regions, short-read recall declined toward the interiors of long tracts, with increasing sequence identity to the closest paralog and with greater distance from paralogous sequence variants, and these declines coincided with a pronounced excess of ambiguously placed reads. Together, these findings implicate ambiguous read placement as the predominant source of the short-read deficit, demonstrate that its magnitude can be anticipated from the length and paralog similarity of the surrounding sequence, and thereby delineate the genomic contexts in which long-read sequencing is most warranted.",
+    "journal": "",
+    "doi": "10.64898/2026.11.26.769538",
+    "date": "2026-11-27",
+    "authors": "Zhang, X., Liu, Y. H., Wang, Y., Zhou, X. M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.26.769538v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "benchmark",
+        "genome",
+        "genomic",
+        "nucleotide",
+        "sequencing"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5889,
+    "collected_at": "2026-11-28T06:37:06.960330+00:00",
+    "collected_date": "2026-11-28",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-28",
+    "related_dois": [
+      "10.64898/2026.11.26.769538"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.26.769504",
+    "title": "The genome sequence of the reef-building coral Cyphastrea microphthalma from the Persian/Arabian Gulf",
+    "abstract": "We present a genome assembly from the coral species Cyphastrea microphthalma from the southern Persian/Arabian Gulf (Cnidaria; Anthozoa; Hexacorallia; Scleractinia; Merulinidae). The assembly is 681.2 Mb in size, spanning 5,554 scaffolds with a contig N50 of 244.4 kb. The assembly has a BUSCO completeness of 94.1% (single = 85.1%, duplicated = 9%, fragmented = 1.6%, missing = 4.3%) using the metazoa_odb10 reference set (n = 954). Genome annotation identified 24,716 protein-coding genes (including 10 pseudogenes) and a high repeat content of 63.4%. The mitochondrial genome has also been assembled and is 17.9 kb in length.",
+    "journal": "",
+    "doi": "10.64898/2026.11.26.769504",
+    "date": "2026-11-27",
+    "authors": "Alderdice, R., Sharaf, A., Fiesinger, A., Perna, G., Manns, H., Burt, J. A., Voolstra, C. R.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.26.769504v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "assembly",
+        "genome"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "annotation",
+          "assembly",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5890,
+    "collected_at": "2026-11-28T06:37:06.960330+00:00",
+    "collected_date": "2026-11-28",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-28",
+    "related_dois": [
+      "10.64898/2026.11.26.769504"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.25.769053",
+    "title": "A Framework for Identifying Determinants of Epigenomic State: Decoding Variable CTCF Occupancy and Contact Frequency",
+    "abstract": "CTCF binding is essential for delineating topologically associated domains, constraining enhancer-promoter interactions, and controlling gene expression. Many CTCF peaks are bound in all cell-types, but the mechanisms regulating cell-type-specific CTCF occupancy are not fully understood. Here, we present a general framework to comprehensively discover factors driving variable epigenomic state and TF occupancy. We apply this framework to CTCF ChIP-seq binding across hundreds of cell/tissues, and we identify five distinct mechanisms regulating CTCF occupancy. In addition to known mechanisms of DNA methylation and cell-type-specific TF co-binding, we find that the largest set of variable-occupancy sites is modulated by CTCF expression levels. Variable peaks have weaker-affinity, and their occupancy is modulated by either higher CTCF levels or flanking TFs. We evaluate the predictive power on CTCF occupancy in held-out samples. Finally, we show that variable CTCF binding predicts differential contact frequency, chromatin loop structure, and upregulation of gene expression.",
+    "journal": "",
+    "doi": "10.64898/2026.11.25.769053",
+    "date": "2026-11-27",
+    "authors": "Yang, Y., Beer, M. A.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.25.769053v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "epigenomic",
+        "framework",
+        "gene"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5891,
+    "collected_at": "2026-11-28T06:37:06.960330+00:00",
+    "collected_date": "2026-11-28",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-28",
+    "related_dois": [
+      "10.64898/2026.11.25.769053"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.24.768824",
+    "title": "A Comparative Metagenomic Analysis of the Viral Diversity in Faecal Samples from Malnourished and Non-malnourished Children with Gastroenteritis Admitted at Victoria Mxenge Hospital in Durban, KwaZulu-Natal, South Africa",
+    "abstract": "Viral gastroenteritis and malnutrition remain major health burdens among children under five in South Africa. Malnourished children are particularly vulnerable to prolonged enteric viral infections, yet their gut virome remains poorly characterised in South Africa. This study compared gut virome diversity among malnourished and non-malnourished children with gastroenteritis, and children without gastroenteritis and malnutrition (healthy controls). This retrospective laboratory-based continuation study analysed 69 faecal samples from age-matched children aged 0- 36 months at Victoria Mxenge Hospital across three cohorts: malnourished children with gastroenteritis, non-malnourished children with gastroenteritis, and healthy controls. Viral metagenomic sequencing was performed using Illumina NextSeq 2000, followed by bioinformatic analyses. Virome profiling identified 39 viral families, 71 genera, and 243 species. Of the total sequenced reads, 60.4% were classified comprising 91.0% mapped to bacteria, 6.4% to viruses, and 2.6% to human host and other microorganisms. Eukaryotic viral reads were highest among non-malnourished children with gastroenteritis (37.2%), followed by healthy controls (32.3%) and malnourished children with gastroenteritis (30.5%). Detected enteric viral families included, Sedoreoviridae, Caliciviridae, Picornaviridae, Astroviridae, and Adenoviridae, with Sedoreoviridae being predominant. Multiple co-detections of enteric viruses were observed. Significant cohorts differences occurred in viral diversity (p = 0.0038) and abundance (p = 0.0001), but not in evenness (p = 0.146) and richness (p = 0.0896). This study revealed differences in faecal virome composition across cohorts and provides baseline genomic data for viral surveillance. The findings highlight the importance of vaccination, nutritional and preventive strategies to curb infant mortality associated with gastroenteritis and malnutrition in South Africa.",
+    "journal": "",
+    "doi": "10.64898/2026.11.24.768824",
+    "date": "2026-11-27",
+    "authors": "Eyong, M. M., Mogotsi, M. T., Sondlane, H., Ogunbayo, A. E., Nwokorogu, V. C., Mabaso, N. G., Esona, M. D., Shaik, N., Naidoo, K. L., Sabiu, S., Nyaga, M. M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.24.768824v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "metagenom",
+        "metagenomic",
+        "microorganism",
+        "microorganisms",
+        "viral",
+        "virome",
+        "virus",
+        "viruses"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "genom",
+          "genomic",
+          "metagenom",
+          "metagenomic"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5892,
+    "collected_at": "2026-11-28T06:37:06.960330+00:00",
+    "collected_date": "2026-11-28",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-28",
+    "related_dois": [
+      "10.64898/2026.11.24.768824"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.25.769167",
+    "title": "Genomic insertion sequence populations of an ancient chemosynthetic symbiont",
+    "abstract": "Genetic isolation as a consequence of host restriction of bacterial symbionts can lead to reductive genome evolution resulting in small, functionally streamlined genomes that are biased toward high AT contents. Frequently, reductive genome evolution leads to the loss of transposable elements, which are one of the major initial drivers of symbiont genome evolution through massive expansion events following initial host restriction. Under specific circumstances, where host-restricted bacteria continue to experience genetic mixing, transposable elements are retained in and, in some cases, introduced to symbiont genomes, even in ancient symbioses. Very little is known about these transposable element populations, regarding density, diversity, and activity as well as their influence on symbiont evolution and physiology. Here, we explored genomic population dynamics of insertion sequence (IS) elements, a type of transposable element, in 647 genomes of the chemosynthetic Gammaproteobacteria symbiont Candidatus Thiosymbion from three distantly related marine invertebrate hosts. We observed host-group specific patterns of genomic properties, likely reflective of symbiont genome evolution driven by varying degrees of genetic isolation due to differences in symbiont localization (ecto- to endosymbiont). We found that Thiosymbion genomes had highly diverse and dynamic IS populations, which varied by both symbiont localization and symbiont lineage with instances of clade-specific gain, loss, and expansion of certain IS families. Combined, our results suggest that variable IS expansion in Thiosymbion likely contributes to high intraspecific variability in genome structure.",
+    "journal": "",
+    "doi": "10.64898/2026.11.25.769167",
+    "date": "2026-11-27",
+    "authors": "Mathieson, O. L., Schröder, N. C. H., Mankowski, A., Kiefer, J. S. T., Leisch, N., Maier, J. L., Erseus, C., Huettel, B., Ott, J., Scharhauser, F., Dubilier, N., Gruber-Vodicka, H. R., Kleiner, M.",
+    "tags": [
+      "微生物ゲノミクス",
+      "微生物進化",
+      "海洋微生物"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.25.769167v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "microbial_evidence",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "bacteria",
+        "bacterial"
+      ],
+      "context": {
+        "marine": [
+          "marine"
+        ],
+        "genomics": [
+          "evolution",
+          "genom",
+          "genome",
+          "genomic"
+        ],
+        "evolution": [
+          "evolution"
+        ]
+      },
+      "tags": [
+        "海洋微生物",
+        "微生物ゲノミクス",
+        "微生物進化"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5893,
+    "collected_at": "2026-11-28T06:37:06.960330+00:00",
+    "collected_date": "2026-11-28",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-28",
+    "related_dois": [
+      "10.64898/2026.11.25.769167"
+    ]
+  },
+  {
+    "id": "10.64898/2026.11.25.769148",
+    "title": "A sequence context-unbiased approach to enable precise inference of mutational processes in cancer.",
+    "abstract": "Mutational signatures are recurring patterns of somatic mutations observed in cancer genomes, resulting from the activity of endogenous and exogenous mutagenic processes. Their investigation has significantly advanced our understanding of cancer etiology, informing prevention strategies and supporting clinical stratification. Although analytical approaches facilitate the identification of mutational signatures, their biological interpretation can be challenging, as some signatures may reflect methodological artifacts rather than distinct underlying mutational processes. Conventional mutational signatures inference frameworks generally assume that mutational opportunities are uniformly distributed across the genome and comparable across cancer types. However, mutable DNA motifs are not evenly distributed throughout the genome and their accessibility to DNA repair machinery is influenced by local chromatin states. To address these limitations, we developed SEQUENCE (SEQuence context Ubiased InferENCE of mutational signaturEs), a method that accounts for the heterogeneous nucleotide composition by generating weighted mutation catalogues, in which each mutation is adjusted for the local availability of its respective sequence context. By using SEQUENCE-generated mutation matrices as input for SigProfilerExtractor, a conventional framework for mutational signature extraction, we demonstrate that our approach mitigates biases arising from cell-type specific and locally varying mutational rates across the genome. Furthermore, the latent local information encoded in the weights enables the disentanglement of co-occurring mutational processes targeting the same sequence context and refines the mutational spectra of previously described mutational signatures. Mutational signatures characterised by relatively flat mutational spectra are notoriously difficult to extract. Here, using clinically relevant mutational signatures, we demonstrate that SEQUENCE can improve patient stratification according to their response to adjuvant chemotherapy. Together, these findings highlight sequence context unbiased mutational signature inference as a promising new framework for revisiting current reference signatures, providing deeper insight into their underlying origins and facilitating their translation into cancer prevention and clinical application.",
+    "journal": "",
+    "doi": "10.64898/2026.11.25.769148",
+    "date": "2026-11-27",
+    "authors": "Bierth, F. A.-L., Pizzolato, G., Mueller, C., Valiulis, J., Seiffert, M., Beleggia, F., Pacholewska, A., Schweiger, M. R., Radke, M. R., Swisher, E., Fischer, M., George, J., Thomas, R. K., Haensel-Hertsch, R., Peifer, M., Abedpour, N., Cartolano, M.",
+    "tags": [
+      "微生物ゲノミクス"
+    ],
+    "source_url": "https://www.biorxiv.org/content/10.64898/2026.11.25.769148v1?rss=1",
+    "abstract_source": "rss",
+    "preprint": true,
+    "topic_filter": {
+      "accepted": true,
+      "reason": "bioinformatics_method_or_resource",
+      "version": "microbial-rules-v3",
+      "matched": [
+        "framework",
+        "gene",
+        "inference",
+        "method",
+        "nucleotide",
+        "sequence"
+      ],
+      "context": {
+        "marine": [],
+        "genomics": [
+          "DNA",
+          "genom",
+          "genome"
+        ],
+        "evolution": []
+      },
+      "tags": [
+        "微生物ゲノミクス"
+      ]
+    },
+    "discovery": [
+      {
+        "source": "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics",
+        "query": "RSS feed",
+        "scope": "candidate"
+      }
+    ],
+    "collection_order": 5894,
+    "collected_at": "2026-11-28T06:37:06.960330+00:00",
+    "collected_date": "2026-11-28",
+    "sources": [
+      "https://connect.biorxiv.org/biorxiv_xml.php?subject=genomics"
+    ],
+    "first_seen": "2026-11-28",
+    "related_dois": [
+      "10.64898/2026.11.25.769148"
+    ]
   }
 ]
