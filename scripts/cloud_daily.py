@@ -1,6 +1,7 @@
 from common import has_paper_identifier
 """Bounded GitHub Actions pipeline. License metadata does not restrict processing."""
 import argparse
+import gzip
 from contextlib import contextmanager
 import datetime as dt
 import hashlib
@@ -27,6 +28,8 @@ from normalize_rss_data import repair_record
 FILES=('inbox.json','translated.json','translation-retries.json','auto-state.json','journal-catalog.json','cloud-status.json')
 LOG=logging.getLogger('cloud-daily')
 OPTIONAL_STATE={'backfill-progress.json':{}}
+STATE_PART_BYTES=32*1024*1024
+STATE_FILE_LIMIT=100*1024*1024
 
 def git(path,*args):
     return subprocess.check_output(['git','-C',str(path),*args],text=True).strip()
@@ -59,10 +62,22 @@ def restore_state(work,state_dir):
         if name in manifest['sha256']:
             path=source/name
             if not path.exists() or hashlib.sha256(path.read_bytes()).hexdigest()!=manifest['sha256'][name]:raise RuntimeError('State hash mismatch: '+name)
+    parts=manifest.get('backfill_parts',[])
+    chunks=[]
+    for index,name in enumerate(parts):
+        if name!=f'backfill-progress.json.gz.part{index:04d}':
+            raise RuntimeError('Invalid backfill checkpoint part name')
+        chunk=(source/name).read_bytes()
+        if hashlib.sha256(chunk).hexdigest()!=manifest['sha256'].get(name):
+            raise RuntimeError('State hash mismatch: '+name)
+        chunks.append(chunk)
+    backfill=gzip.decompress(b''.join(chunks)) if parts else None
     work.mkdir(parents=True,exist_ok=True)
     for name in FILES:shutil.copyfile(source/name,work/name)
     for name,default in OPTIONAL_STATE.items():
-        if name in manifest['sha256']:shutil.copyfile(source/name,work/name)
+        if name=='backfill-progress.json' and backfill is not None:
+            write(work/name,json.loads(backfill))
+        elif name in manifest['sha256']:shutil.copyfile(source/name,work/name)
         else:write(work/name,default)
 
 def save_state(work,state_dir,now=None):
@@ -71,11 +86,30 @@ def save_state(work,state_dir,now=None):
     for name in FILES:
         if not (work/name).exists():write(work/name,{} if name not in ('inbox.json','translated.json','journal-catalog.json') else [])
         shutil.copyfile(work/name,dest/name)
-    for name,default in OPTIONAL_STATE.items():
-        if not (work/name).exists():write(work/name,default)
-        shutil.copyfile(work/name,dest/name)
+    progress=load(work/'backfill-progress.json',{})
+    progress.pop('decisions',None)  # Filter diagnostics are already available in run artifacts.
+    completed=load(work/'auto-state.json',{}).get('completed_backfill_requests',[])
+    if progress.get('request_id') in completed:
+        progress={}
+    (dest/'backfill-progress.json').unlink(missing_ok=True)
+    for path in dest.glob('backfill-progress.json.gz.part*'):
+        path.unlink()
+    parts=[]
+    if progress:
+        encoded=json.dumps(progress,ensure_ascii=False,separators=(',',':')).encode()
+        compressed=gzip.compress(encoded,compresslevel=6,mtime=0)
+        for offset in range(0,len(compressed),STATE_PART_BYTES):
+            name=f'backfill-progress.json.gz.part{len(parts):04d}'
+            (dest/name).write_bytes(compressed[offset:offset+STATE_PART_BYTES])
+            parts.append(name)
+    hashes={}
+    for name in (*FILES,*parts):
+        path=dest/name
+        if path.stat().st_size>=STATE_FILE_LIMIT:
+            raise RuntimeError(f'Automation checkpoint is too large to push: {name} ({path.stat().st_size} bytes)')
+        hashes[name]=hashlib.sha256(path.read_bytes()).hexdigest()
     write(dest/'manifest.json',{'schema_version':1,'saved_at':now.isoformat(),
-          'sha256':{name:hashlib.sha256((dest/name).read_bytes()).hexdigest() for name in (*FILES,*OPTIONAL_STATE)}})
+          'sha256':hashes,'backfill_parts':parts})
     git(state_dir,'config','user.name','github-actions[bot]')
     git(state_dir,'config','user.email','41898282+github-actions[bot]@users.noreply.github.com')
     git(state_dir,'add','state')

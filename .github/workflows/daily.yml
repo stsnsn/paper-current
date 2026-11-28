@@ -25,11 +25,8 @@ jobs:
     timeout-minutes: 180
     permissions:
       contents: write
-      pages: write
-      id-token: write
-    environment:
-      name: github-pages
-      url: ${{ steps.deploy.outputs.page_url }}
+    outputs:
+      publication_sha: ${{ steps.publication.outputs.sha }}
     steps:
       - uses: actions/checkout@v4
         with:
@@ -68,6 +65,7 @@ jobs:
         if: steps.prepare.outputs.publication_due == 'true'
         run: python scripts/cloud_daily.py publish
       - name: Commit and push publication data
+        id: publication
         if: steps.prepare.outputs.publication_due == 'true'
         run: |
           git config user.name 'github-actions[bot]'
@@ -80,6 +78,7 @@ jobs:
             git push origin HEAD:refs/heads/main
           fi
           python scripts/cloud_daily.py confirm
+          git rev-parse HEAD | sed 's/^/sha=/' >> "$GITHUB_OUTPUT"
       - name: Checkpoint queue even after a failed stage
         if: always() && steps.restore.outcome == 'success'
         run: python scripts/cloud_daily.py save
@@ -90,6 +89,29 @@ jobs:
           import json,os
           from pathlib import Path
           p=Path('work/cloud/cloud-status.json')
+          report=Path('work/cloud/inbox.json.report.json')
+          if report.exists():
+            data=json.loads(report.read_text())
+            state_path=Path('work/cloud/auto-state.json')
+            state=json.loads(state_path.read_text()) if state_path.exists() else {}
+            coverage=data.get('coverage',{})
+            errors={item.get('source') for item in data.get('errors',[])}
+            completed=[source for source,row in coverage.items() if row.get('ok')]
+            failed=sorted(errors-{*completed})
+            unfinished=[source for source in data.get('planned_sources',[])
+                        if source not in completed and source not in errors]
+            label=('Incomplete when collection timed out' if state.get('collection_exit_code')=='timeout'
+                   else 'Completion unconfirmed')
+            with open(os.environ['GITHUB_STEP_SUMMARY'],'a') as summary:
+              summary.write('## Collection coverage\n\n')
+              for heading,sources in [('Completed',completed),('Source errors',failed),(label,unfinished)]:
+                summary.write(f'**{heading} ({len(sources)})**\n\n')
+                for source in sources:
+                  summary.write(f'- {source}\n')
+                summary.write('\n')
+          else:
+            with open(os.environ['GITHUB_STEP_SUMMARY'],'a') as summary:
+              summary.write('## Collection coverage\n\nNo collection report was produced in this run.\n\n')
           if p.exists():
             with open(os.environ['GITHUB_STEP_SUMMARY'],'a') as f:
               f.write('## Paper Current\n\n```json\n'+json.dumps(json.loads(p.read_text()),ensure_ascii=False,indent=2)+'\n```\n')
@@ -107,13 +129,28 @@ jobs:
             work/backfill/
           if-no-files-found: ignore
           retention-days: 7
-      # GITHUB_TOKEN pushes do not trigger pages.yml; deploy this exact workspace.
+  deploy:
+    name: Deploy published data to GitHub Pages
+    needs: update
+    if: needs.update.outputs.publication_sha != ''
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ needs.update.outputs.publication_sha }}
       - uses: actions/configure-pages@v5
-        if: steps.prepare.outputs.publication_due == 'true'
       - uses: actions/upload-pages-artifact@v3
-        if: steps.prepare.outputs.publication_due == 'true'
         with:
           path: docs
+          name: github-pages-${{ github.run_attempt }}
       - id: deploy
-        if: steps.prepare.outputs.publication_due == 'true'
         uses: ./.github/actions/deploy-pages-with-retry
+        with:
+          artifact_name: github-pages-${{ github.run_attempt }}

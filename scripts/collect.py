@@ -55,7 +55,7 @@ def checkpoint():
     output=list(records.values()) if args.progress_file else [annotate(normalize_rss_record(row),cfg) for row in dedupe_records(list(records.values()))]
     write(args.out,output)
     # Only finished sources advance their cursor, including on a later timeout.
-    write(str(args.out)+'.report.json',{'coverage':coverage,'errors':errors,'complete':False})
+    write(str(args.out)+'.report.json',{'planned_sources':planned_sources,'coverage':coverage,'errors':errors,'complete':False})
     write(str(args.out)+'.filter.json',list(filter_decisions.values()))
     if args.progress_file:
         progress.update(records=output,decisions=list(filter_decisions.values()),coverage=coverage,complete=False)
@@ -82,6 +82,26 @@ def remember_decision(row,source):
     attempt={'source':source,'discovery':row.get('discovery',[]),'decision':row.get('topic_filter') or relevant(row.get('title',''),row.get('abstract',''),row.get('journal',''),row.get('preprint',False))}
     filter_decisions[key]={'attempts':prior.get('attempts',[])+[attempt],'id':key,'doi':doi(row.get('doi') or key),'metadata_status':'ready' if row.get('abstract') and doi(row.get('doi') or key) else 'pending','discovery':row.get('discovery',[]),'title':row.get('title',''),'journal':row.get('journal',''),'sources':sorted(set(prior.get('sources',[])+[source])),'decision':row.get('topic_filter') or relevant(row.get('title',''),row.get('abstract',''),row.get('journal',''),row.get('preprint',False))}
 if args.progress_file:urls=[u for u in urls if not coverage.get(u,{}).get('ok')]
+today=args.until or collection_now.date().isoformat()
+queries=[]
+if cfg.get('europepmc_watchlist') and not args.journals:queries.append(('Europe PMC watchlist',watchlist_query(cfg)))
+if not args.journals_only and not args.journals:
+    queries.append(('Europe PMC topics','('+scoped_query(cfg)+')'))
+    queries.append(('Europe PMC genome methods',field_query(SPECIFIC)))
+    queries.append(('Europe PMC bioinformatics',bioinformatics_query()))
+if cfg.get('europepmc_journal_queries',True):
+    names=[name for name in cfg.get('source_journals',{}) if name in selected_names]
+    for offset in range(0,len(names),8):
+        group=names[offset:offset+8]
+        queries.append(('Europe PMC journals '+str(offset//8+1),'('+' OR '.join('JOURNAL:"'+name+'"' for name in group)+')'))
+if args.watchlist_backfill_since:queries=[('Europe PMC SAR11 backfill',watchlist_query({'europepmc_watchlist':['SAR11','Pelagibacter']}))]
+if 'europepmc' not in routes or args.skip_europepmc or not cfg.get('europepmc_enabled',True):queries=[]
+collect_biorxiv = 'biorxiv' in routes and not args.journals and cfg.get('biorxiv_enabled',True) and not args.journals_only and not args.watchlist_backfill_since
+collect_arxiv = 'arxiv' in routes and cfg.get('arxiv_enabled',False) and not (args.journals_only or args.journals or args.source_group or args.watchlist_backfill_since)
+planned_sources=[*urls,*(source for source,_ in queries)]
+if collect_biorxiv:planned_sources.append('bioRxiv')
+if collect_arxiv:planned_sources.append('arXiv')
+write(str(args.out)+'.report.json',{'planned_sources':planned_sources,'coverage':coverage,'errors':errors,'complete':False})
 with ThreadPoolExecutor(max_workers=8) as pool:
     for url,entries,error in pool.map(fetch_feed,urls):
         journal=cfg.get('feed_journals',{}).get(url,'bioRxiv')
@@ -102,20 +122,6 @@ with ThreadPoolExecutor(max_workers=8) as pool:
         checkpoint()
         print('RSS:',journal,count,'accepted /',len(entries),'entries',flush=True)
 checkpoint()
-today=args.until or collection_now.date().isoformat()
-queries=[]
-if cfg.get('europepmc_watchlist') and not args.journals:queries.append(('Europe PMC watchlist',watchlist_query(cfg)))
-if not args.journals_only and not args.journals:
-    queries.append(('Europe PMC topics','('+scoped_query(cfg)+')'))
-    queries.append(('Europe PMC genome methods',field_query(SPECIFIC)))
-    queries.append(('Europe PMC bioinformatics',bioinformatics_query()))
-if cfg.get('europepmc_journal_queries',True):
-    names=[name for name in cfg.get('source_journals',{}) if name in selected_names]
-    for offset in range(0,len(names),8):
-        group=names[offset:offset+8]
-        queries.append(('Europe PMC journals '+str(offset//8+1),'('+' OR '.join('JOURNAL:"'+name+'"' for name in group)+')'))
-if args.watchlist_backfill_since:queries=[('Europe PMC SAR11 backfill',watchlist_query({'europepmc_watchlist':['SAR11','Pelagibacter']}))]
-if 'europepmc' not in routes or args.skip_europepmc or not cfg.get('europepmc_enabled',True):queries=[]
 ep='https://www.ebi.ac.uk/europepmc/webservices/rest/search'
 for source,base_query in queries:
     published_since=args.since or args.watchlist_backfill_since or publication_start(collection_now,cfg)
@@ -171,7 +177,7 @@ for source,base_query in queries:
             source_progress.pop(source,None)  # Expired cursor: retry only this query, DOI candidates remain safe.
     checkpoint()
 # bioRxiv is collected explicitly, including new versions and published links.
-if 'biorxiv' in routes and not args.journals and cfg.get('biorxiv_enabled',True) and not args.journals_only and not args.watchlist_backfill_since:
+if collect_biorxiv:
     try:
         start=args.since or max(start_for('bioRxiv'),publication_start(collection_now,cfg))
         biorxiv_query=f'details/biorxiv/{start}/{today}'
@@ -220,7 +226,7 @@ if 'biorxiv' in routes and not args.journals and cfg.get('biorxiv_enabled',True)
             except Exception as exc:errors.append({'source':'bioRxiv publication link','error':str(exc)})
     except Exception as exc:errors.append({'source':'bioRxiv','error':str(exc)});coverage['bioRxiv']={'ok':False}
 # arXiv API uses bounded date queries and resumable Atom pagination.
-if 'arxiv' in routes and cfg.get('arxiv_enabled',False) and not (args.journals_only or args.journals or args.source_group or args.watchlist_backfill_since):
+if collect_arxiv:
     try:
         query=arxiv_query(args.since or max(start_for('arXiv'),publication_start(collection_now,cfg)),today)
         previous=source_progress.get('arXiv',{})
@@ -253,7 +259,7 @@ output_records=[annotate(normalize_rss_record(row),cfg) for row in dedupe_record
 write(str(args.out)+'.filter.json',list(filter_decisions.values()))
 catalog_path=Path(args.out).parent/'journal-catalog.json'
 write(catalog_path,update_catalog(load(catalog_path,[]),output_records,cfg.get('feed_journals',{})))
-report={'date':today,'window':{'since':args.since,'until':args.until,'routes':sorted(routes)},'filter_version':cfg.get('filtering',{}).get('version'),'excluded_journals':cfg.get('excluded_journals',[]),'frontiers_allowed_journals':cfg.get('frontiers_allowed_journals',[]),'counts':counts,'errors':errors,'stored':len(output_records),'complete':not errors,'coverage':coverage,'filter_counts':filter_counts,'metadata_enrichment':enrichment,'reference_total':len(reference),'reference_missing_metadata':[d for d in reference if not records.get(doi(d),{}).get('abstract')]}
+report={'planned_sources':planned_sources,'date':today,'window':{'since':args.since,'until':args.until,'routes':sorted(routes)},'filter_version':cfg.get('filtering',{}).get('version'),'excluded_journals':cfg.get('excluded_journals',[]),'frontiers_allowed_journals':cfg.get('frontiers_allowed_journals',[]),'counts':counts,'errors':errors,'stored':len(output_records),'complete':not errors,'coverage':coverage,'filter_counts':filter_counts,'metadata_enrichment':enrichment,'reference_total':len(reference),'reference_missing_metadata':[d for d in reference if not records.get(doi(d),{}).get('abstract')]}
 write(args.out,output_records);write(str(args.out)+'.report.json',report)
 if args.progress_file:
     progress.update(records=output_records,decisions=list(filter_decisions.values()),coverage=coverage,complete=not errors)

@@ -1,5 +1,9 @@
 name: Deploy Pages with retry
 description: Retry failed Pages deployments three times, waiting 30 seconds between attempts.
+inputs:
+  artifact_name:
+    description: Pages artifact to deploy
+    default: github-pages
 outputs:
   page_url:
     description: URL of the deployed Pages site
@@ -11,6 +15,8 @@ runs:
       id: attempt_1
       continue-on-error: true
       uses: actions/deploy-pages@v4
+      with:
+        artifact_name: ${{ inputs.artifact_name }}
     - name: Wait 30 seconds before retry 1
       if: ${{ steps.attempt_1.outcome == 'failure' }}
       shell: bash
@@ -20,6 +26,8 @@ runs:
       if: ${{ steps.attempt_1.outcome == 'failure' }}
       continue-on-error: true
       uses: actions/deploy-pages@v4
+      with:
+        artifact_name: ${{ inputs.artifact_name }}
     - name: Wait 30 seconds before retry 2
       if: ${{ steps.attempt_2.outcome == 'failure' }}
       shell: bash
@@ -29,6 +37,8 @@ runs:
       if: ${{ steps.attempt_2.outcome == 'failure' }}
       continue-on-error: true
       uses: actions/deploy-pages@v4
+      with:
+        artifact_name: ${{ inputs.artifact_name }}
     - name: Wait 30 seconds before retry 3
       if: ${{ steps.attempt_3.outcome == 'failure' }}
       shell: bash
@@ -37,3 +47,5 @@ runs:
       id: attempt_4
       if: ${{ steps.attempt_3.outcome == 'failure' }}
       uses: actions/deploy-pages@v4
+      with:
+        artifact_name: ${{ inputs.artifact_name }}
